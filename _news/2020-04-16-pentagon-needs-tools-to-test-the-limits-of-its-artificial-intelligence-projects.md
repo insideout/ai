@@ -5,8 +5,8 @@ excerpt: "The Joint Artificial Intelligence Center seeks cutting-edge evaluation
 publishedDateTime: 2020-04-16T21:43:00Z
 webUrl: "https://www.nextgov.com/emerging-tech/2020/04/pentagon-needs-tools-test-limits-its-artificial-intelligence-projects/164687/"
 type: article
-quality: 35
-heat: 35
+quality: 33
+heat: 33
 published: false
 
 provider:
@@ -15,7 +15,6 @@ provider:
 
 topics:
   - AI
-  - Machine Learning
 
 images:
   - url: "https://cdn.nextgov.com/media/img/upload/2020/04/16/NGai20200416/open-graph.jpg"
@@ -23,6 +22,6 @@ images:
     height: 400
     title: "Pentagon Needs Tools to Test the Limits of Its Artificial Intelligence Projects"
 
-secured: "i9dCcciM+6Qch1s7D9kHFIutSLS6M9hl+7f3ATIky6+3wugd+4d5KlheDfE9x+ozJEZv9mlhBrX+0V7ylv5cAkwBbIm77d7ZGJW+6IRKcMxzXxi5bx232aJlRIdf6cfmwFqE9dWCBWPqITMfkEjStR+Klj8TyLh416yKkSdRLszW4/Q2mUMhNR/pbpi68j8ZOvYaro+H0foL1QikFPARAE9ygG13b5jj9AU659u0OmqcgM/0KRsd5wBeQsUxHE4MNVaF7kLza5QSF8yp+//5UoD+j1515KMsdqoTvPp5nKlRCRKE7/BvidxV8XV6w44bb5RivPzWa79i/LBUNIe9nqFBgI3MYMld5izrUTOTGiKvqg6OLGua9KZwQWdgvRvx31IIOAPYi+NevUlFNIHYZanryNdisZQnyKANGNqaG8wnbQt8xM6CXppRs/alwFFqE7gRgBsD+GEewXfjylOUEYfCtdZ0WQ/gWYwScA1AaZY=;33B2O6lsk6wVYuKUvnAclQ=="
+secured: "xpZLKR45VqCm/bbPgV+TdtZkoelcl4AqWyNOiv853B3iEHKkHlukR6G0bAf3+c6+okgTqkYQTJ3uAAiKATb7GVlIeSNp7YiRJxaYJEHx9x6Ce/3z+kGNJY1+kuImn933HbPICg97oXzhwlDfwEMiJAcSkmYzLk2ihuE5eDkvegFWHu/zVUxsUojyryaA/H8Pwteq7T2ButEPbX83YxNCWKeaUcX9+knXWMtGSKGJq35EKyojtbvHutURfW+lLGTLqagq0ubTXzCNElcIfVpVGBty+QmUizLPscrogggHzeVp05KXW+lPHQTvPBMIeJKn;gHnbPMYacbpCNxsAXxArSw=="
 ---
 

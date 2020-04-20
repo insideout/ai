@@ -33,17 +33,6 @@ related:
       name: Ars Technica
       domain: arstechnica.com
     quality: 63
-  - title: "Tesla Settles Trade Secret Fight With Self-Driving Startup"
-    excerpt: "Law360 (April 15, 2020, 6:36 PM EDT) -- Tesla Inc. has reached a settlement with self-driving tech competitor Zoox Inc. and three former Tesla employees, asking a California federal court Monday to end its suit accusing the workers of stealing company trade secrets and taking them to Zoox. Monday’s joint filing included no details ..."
-    publishedDateTime: 2020-04-16T00:57:00Z
-    webUrl: "https://www.law360.com/articles/1264045/tesla-settles-trade-secret-fight-with-self-driving-startup"
-    ampWebUrl: "https://www.law360.com/amp/articles/1264045"
-    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1264045"
-    type: article
-    provider:
-      name: Law360
-      domain: law360.com
-    quality: 39
 
 secured: "o2S/8ni/x8Bg3UlasGLmemuGpMrkkNBK3bSrreKtV5QZPBYFaDnxMkvwNKmA5qoIRYEMDs85t0H444Ed8SNhltdyOtY6DFAv0GLLal7wtbhMS9ji8XsWM560Fctaru35hZz5gaM3nYeFdwgJy2bCK4WMlzB+ryKnX7w3F7cJlUDbVYb9taf50S8R8AmtXev5crGfk/Lf+p4EfJcXgHC6arZDYyEO0Z98YOLK1RakCSPOj/tM9vuGBLK9hQghdqNcJTCPTSjhAE9He+yeCGNA4ObhXcquzpKDa/Lu+jFtnfolXtAoU4B86hszFGmI1O5ox4Y/LGBl7lyDPzxJ88xY48BLS2SjsMsMb5uzuz86vrpB9J6Yt4/GqAGkWzbVlhW9GCDluZzizJOnwNPjWI5JhL1p6ouHI0gcY6Q0B5e0GRm9l4RLnNgZmk9rBVI+l2WHGxJazq3t2D9ddvFw4aHsxO6cs9+t2jnKYFFmE2TMZxg=;J6aUCoXs0hs/rD3vKoKxNw=="
 ---

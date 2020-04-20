@@ -2,6 +2,259 @@
   "page": 33,
   "value": [
     {
+      "path": "_news/2020-03-23-what-machine-learning-trends-you-should-watch-in-2020.md",
+      "title": "What Machine Learning Trends You Should Watch In 2020",
+      "excerpt": "What are the most important machine learning trends as we head into 2020? This question was originally answered on Quora by Anima Anandkumar.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/quora/2020/03/23/what-machine-learning-trends-you-should-watch-in-2020/",
+      "ampWebUrl": "https://www.forbes.com/sites/quora/2020/03/23/what-machine-learning-trends-you-should-watch-in-2020/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/quora/2020/03/23/what-machine-learning-trends-you-should-watch-in-2020/amp/",
+      "publishedDateTime": "2020-03-23T11:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1137284435%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "What Machine Learning Trends You Should Watch In 2020",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-23-why-the-coronavirus-could-mean-more-bogus-cures-fake-government-crackdowns-and-misinformation-on-facebook.md",
+      "title": "Why the coronavirus could mean more bogus cures, fake government crackdowns and misinformation on Facebook",
+      "excerpt": "Facebook, YouTube and Twitter’s content moderators were sent home due to the coronavirus, forcing the companies to rely more on algorithms to police content in the interim.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.washingtonpost.com/technology/2020/03/23/facebook-moderators-coronavirus/",
+      "ampWebUrl": "https://www.washingtonpost.com/technology/2020/03/23/facebook-moderators-coronavirus/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2020/03/23/facebook-moderators-coronavirus/?outputType=amp",
+      "publishedDateTime": "2020-03-23T10:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/TF1lbo3BNhg90uK3iZeOKvdnLJI=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AKL52PAY3BH6VDJKTGMCSD4VFI.jpg",
+          "width": 1440,
+          "height": 910,
+          "title": "Why the coronavirus could mean more bogus cures, fake government crackdowns and misinformation on Facebook",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-23-rpt-softbank-nears-deal-to-invest-in-didis-self-driving-unit-the-information.md",
+      "title": "RPT-SoftBank nears deal to invest in Didi's self-driving unit - The Information",
+      "excerpt": "SoftBank Group Corp is close to finalizing a deal to lead a $300 million investment in the autonomous driving unit of Didi Chuxing, news website The Information reported on Monday, citing people with knowledge of the situation.",
+      "heat": 70,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/softbank-group-didi-idUSL4N2BG4PA",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL4N2BG4PA",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL4N2BG4PA",
+      "publishedDateTime": "2020-03-23T10:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png",
+          "width": 1200,
+          "height": 630,
+          "title": "RPT-SoftBank nears deal to invest in Didi's self-driving unit - The Information",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-23-unity-game-simulation-lets-studios-use-ai-bots-to-playtest-games-in-google-cloud.md",
+      "title": "Unity Game Simulation Lets Studios Use AI Bots To Playtest Games In Google Cloud",
+      "excerpt": "Unity’s newest tool allows game developers to run cloud-based playtests at unprecedented speed and scale with machine learning. T0day, as part of the Google for Games Developer Summit, Unity Technologies announced Unity Game Simulation.",
+      "heat": 82,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/jessedamiani/2020/03/23/unity-game-simulation-lets-studios-use-ai-bots-to-playtest-games-in-google-cloud/",
+      "ampWebUrl": "https://www.forbes.com/sites/jessedamiani/2020/03/23/unity-game-simulation-lets-studios-use-ai-bots-to-playtest-games-in-google-cloud/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jessedamiani/2020/03/23/unity-game-simulation-lets-studios-use-ai-bots-to-playtest-games-in-google-cloud/amp/",
+      "publishedDateTime": "2020-03-23T10:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e78dcbcc7b02d000666f0b4%2F0x0.jpg",
+          "width": 1200,
+          "height": 605,
+          "title": "Unity Game Simulation Lets Studios Use AI Bots To Playtest Games In Google Cloud",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-23-investigating-performance-issues-with-amazon-codeguru-profiler.md",
+      "title": "Investigating performance issues with Amazon CodeGuru Profiler",
+      "excerpt": "Amazon CodeGuru (Preview) analyzes your application’s performance characteristics and provides automatic recommendations on how to improve it. Amazon CodeGuru Profiler provides interactive visualizations to show you where your application spends its time. These flame graphs are a powerful tool to help",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/investigating-performance-issues-with-amazon-codeguru-profiler/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-23T09:58:15-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/03/18/investigating-performance-codeguru-9.gif",
+          "width": 800,
+          "height": 478,
+          "title": "Investigating performance issues with Amazon CodeGuru Profiler",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-23-microsofts-cloud-and-ai-services-tapped-in-coronavirus-fight.md",
+      "title": "Microsoft's Cloud and AI Services Tapped in Coronavirus Fight",
+      "excerpt": "Microsoft recently described the ways in which its artificial intelligence (AI) and machine learning offerings, as well as its Azure cloud, are being used by researchers and other public health ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://rcpmag.com/articles/2020/03/23/microsoft-cloud-ai-coronavirus-research.aspx",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-23T09:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Redmond Channel Partner",
+        "domain": "rcpmag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://rcpmag.com/-/media/ECG/redmondmag/Images/IntroImages2017/1017red_F2Ransomware.jpg",
+          "width": 647,
+          "height": 450,
+          "title": "Microsoft's Cloud and AI Services Tapped in Coronavirus Fight",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-23-ubers-enhanced-poet-creates-and-solves-ai-agent-training-challenges.md",
       "title": "Uber’s Enhanced POET creates and solves AI agent training challenges",
       "excerpt": "They say it produces AI agents capable of solving a range of environmental challenges, many of which can’t be solved through other means, taking a step toward AI systems that could bootstrap themselves to powerful cognitive machines. Picture enterprise AI that learns an objective without instruction beyond a vague task list, or cars that ...",
@@ -793,243 +1046,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-22-coronavirus-how-artificial-intelligence-data-science-and-technology-is-used-to-fight-the-pandemic.md",
-      "title": "Coronavirus: How Artificial Intelligence, Data Science And Technology Is Used To Fight The Pandemic",
-      "excerpt": "Robots sterilize, deliver food and supplies and perform other tasks Robots aren ... In a global pandemic such as COVID-19, technology, artificial intelligence, and data science have become critical to helping societies effectively deal with the outbreak. LinkedIn has ranked Bernard as one of the world’s top 5 business influencers.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.linkedin.com/pulse/coronavirus-how-artificial-intelligence-data-science-technology-marr",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-22T07:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4D12AQGI7E6XkSufXw/article-cover_image-shrink_720_1280/0?e=1591228800&v=beta&t=M2PNyzPyDk7Ohtl4DuJMLb1ZKN0YX1kOGbOM_uTWK2Q",
-          "width": 1080,
-          "height": 720,
-          "title": "Coronavirus: How Artificial Intelligence, Data Science And Technology Is Used To Fight The Pandemic",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-22-novel-artificial-intelligence-to-predict-tumour-response-to-drugs-study.md",
-      "title": "Novel Artificial Intelligence to predict tumour response to drugs: Study",
-      "excerpt": "Researchers have used artificial intelligence (AI) to predict the sensitivity of tumours to three systemic ... urges them to stay put whichever city they are To determine if patients with NSCLC are responding to systemic therapy, radiologists currently quantify changes in tumour size, and the appearance of new tumor lesions, Dercle noted.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.financialexpress.com/health-3/novel-artificial-intelligence-to-predict-tumour-response-to-drugs-study/1906051/",
-      "ampWebUrl": "https://www.financialexpress.com/health-3/novel-artificial-intelligence-to-predict-tumour-response-to-drugs-study/1906051/lite/",
-      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/health-3/novel-artificial-intelligence-to-predict-tumour-response-to-drugs-study/1906051/lite/",
-      "publishedDateTime": "2020-03-22T07:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Express",
-        "domain": "financialexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-22-this-ai-powered-website-builder-uses-a-few-simple-keywords-to-build-your-entire-site.md",
-      "title": "This AI-Powered Website Builder Uses a Few Simple Keywords to Build Your Entire Site",
-      "excerpt": "But do you know how to build one? The good news is that you don't need to shell out thousands on a web developer, all you need is Leia AI Website Builder. Leia makes it easy to build custom websites from scratch by using artificial intelligence. All you need is a voice description and a few keywords to create a beautiful, mobile-responsive ...",
-      "heat": 80,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.entrepreneur.com/article/347916",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/347916",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/347916",
-      "publishedDateTime": "2020-03-22T05:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/20200320061120-LeiaWebsiteBuilder.jpeg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": "This AI-Powered Website Builder Uses a Few Simple Keywords to Build Your Entire Site",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-22-artificial-intelligence-system-aimed-at-preventing-drownings.md",
-      "title": "Artificial intelligence system aimed at preventing drownings",
-      "excerpt": "The device resembles a stingray, except it doesn’t patrol the water in search of prey -- rather than threaten humans, it aims to save them",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wpxi.com/news/pennsylvania/artificial/RSZP6PEMV7XNLKA4RNIQSDO3IM/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-21T17:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WPXI",
-        "domain": "wpxi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.wpxi.com/pb/resources/images/share_logos/WPXI_1200x630.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Artificial intelligence system aimed at preventing drownings",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-21-10-artificial-intelligenceai-apps-that-are-being-used-in-android.md",
-      "title": "10 Artificial Intelligence(AI) Apps That are being Used in Android",
-      "excerpt": "Artificial Intelligence is one of the science and technology ... A psychologist said that Wysa uses a rational evidence-based therapy approach with meditation components. It’s one of the best ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/@palajay/10-artificial-intelligence-ai-apps-that-are-being-used-in-android-6ab16b1c5dbf",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-21T00:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/1200/1*9oD1-QIp3FQSOiG8-KSPig.png",
-          "width": 1200,
-          "height": 490,
-          "title": "10 Artificial Intelligence(AI) Apps That are being Used in Android",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-21-artificial-intelligence-system-aimed-at-preventing-drownings.md",
-      "title": "Artificial intelligence system aimed at preventing drownings",
-      "excerpt": "The device resembles a stingray, except it doesn’t patrol the water in search of prey -- rather than threaten humans, it aims to save them.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.fresnobee.com/news/article241279376.html",
-      "ampWebUrl": "https://amp.fresnobee.com/news/article241279376.html",
-      "cdnAmpWebUrl": "https://amp-fresnobee-com.cdn.ampproject.org/c/s/amp.fresnobee.com/news/article241279376.html",
-      "publishedDateTime": "2020-03-21T00:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Fresno Bee",
-        "domain": "fresnobee.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5596404782001/9774f891-9d20-41f1-bd88-9e65e1074b3d/aa6356b5-b0c9-418b-a6aa-f925cec85dd8/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": "Artificial intelligence system aimed at preventing drownings",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

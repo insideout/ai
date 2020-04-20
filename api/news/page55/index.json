@@ -2,6 +2,252 @@
   "page": 55,
   "value": [
     {
+      "path": "_news/2020-03-04-prosthetic-offers-real-time-mind-control-of-robotic-hand.md",
+      "title": "Prosthetic offers real-time mind control of robotic hand",
+      "excerpt": "Researchers have tapped faint, latent signals from arm nerves and amplified them to create a prosthetic that enables real-time, intuitive, finger-level control of a robotic hand. To achieve this ... Michigan) One of the biggest hurdles in mind-controlled prosthetics is tapping into a strong and stable nerve signal to feed the bionic limb.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.futurity.org/prosthetic-mind-control-robotics-2297932-2/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-04T13:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Futurity News",
+        "domain": "futurity.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.futurity.org/wp/wp-content/uploads/2020/03/prosthetics-2_1600.jpg",
+          "width": 1600,
+          "height": 915,
+          "title": "Prosthetic offers real-time mind control of robotic hand",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-04-logo-recognition-and-the-top-5-logo-recognition-tools.md",
+      "title": "Logo Recognition and The Top 5 Logo Recognition Tools",
+      "excerpt": "2. Amazon Rekognition: As the name suggests, this is an image recognition service by Amazon, with which you can detect scenes, objects and, faces in images, including logos. You can search and ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/@uptownlogos/logo-recognition-and-the-top-5-logo-recognition-tools-42b3868165c0",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-04T11:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/959/1*zkJ_tgbPTmS2fLSl0BSq6w.png",
+          "width": 959,
+          "height": 509,
+          "title": "Logo Recognition and The Top 5 Logo Recognition Tools",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-04-scientists-develop-ultra-precise-mind-controlled-prosthetic-limb.md",
+      "title": "Scientists Develop Ultra-Precise Mind-Controlled Prosthetic Limb",
+      "excerpt": "(CN) – The next generation of mind-controlled prosthetics are within reach and will give amputees the ability to better operate bionic limbs. All it will take is a learning algorithm and some muscle power. The new technology detailed in a paper published ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.courthousenews.com/scientists-develop-ultra-precise-mind-controlled-prosthetic-limb/",
+      "ampWebUrl": "https://www.courthousenews.com/scientists-develop-ultra-precise-mind-controlled-prosthetic-limb/amp/",
+      "cdnAmpWebUrl": "https://www-courthousenews-com.cdn.ampproject.org/c/s/www.courthousenews.com/scientists-develop-ultra-precise-mind-controlled-prosthetic-limb/amp/",
+      "publishedDateTime": "2020-03-04T11:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Courthouse News Service",
+        "domain": "courthousenews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i1.wp.com/www.courthousenews.com/wp-content/uploads/2020/03/Prosthetic1.jpg?fit=1000%2C666&ssl=1",
+          "width": 1000,
+          "height": 666,
+          "title": "Scientists Develop Ultra-Precise Mind-Controlled Prosthetic Limb",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-04-facebook-details-ai-system-that-helped-it-catch-900m-fake-accounts-last-year.md",
+      "title": "Facebook details AI system that helped it catch 900M fake accounts last year",
+      "excerpt": "The company has an entire unit dedicated to machine learning, the Facebook AI Research group, that is working on a variety projects including an initiative to speed up MRI scans and an effort to ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://siliconangle.com/2020/03/04/facebook-details-ai-system-helped-catch-900m-fake-accounts-last-year/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-04T10:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/03/33839797160_76e3f043d0_c-768x512.jpg",
+          "width": 768,
+          "height": 512,
+          "title": "Facebook details AI system that helped it catch 900M fake accounts last year",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-04-waymos-self-driving-jaguars-arrive-with-new-homegrown-tech.md",
+      "title": "Waymo's Self-Driving Jaguars Arrive With New, Homegrown Tech",
+      "excerpt": "If you’re in Mountain View and you spot a self-driving car, the smart money says it’s one of Waymo’s modified Chrysler Pacifica minivans. If you see an electric car, it’s most likely a Tesla.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wired.com/story/waymos-self-driving-jaguars-arrive-new-homegrown-tech/",
+      "ampWebUrl": "https://www.wired.com/story/waymos-self-driving-jaguars-arrive-new-homegrown-tech/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/waymos-self-driving-jaguars-arrive-new-homegrown-tech/amp",
+      "publishedDateTime": "2020-03-04T10:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5e5d5b04ffd9380009895da9/master/pass/Transpo-nextgen_5.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": "Waymo's Self-Driving Jaguars Arrive With New, Homegrown Tech",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-04-the-path-to-the-cloud.md",
+      "title": "The path to the cloud",
+      "excerpt": "Let’s start by looking at Azure Machine Learning (AML), not Azure’s classic drag-and-drop Machine Learning Studio, but our more recent API-based service that makes it easier to develop ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/data-science-at-microsoft/the-path-to-the-cloud-1bb4dc3296ed",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-04T08:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/1200/1*2aTBR2y_tVgMIV9vVH8TAA.jpeg",
+          "width": 1200,
+          "height": 459,
+          "title": "The path to the cloud",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-04-cognitive-systems-spending-market-to-register-a-stellar-growth-rate-of-cagr-of-146-during-2016-2026.md",
       "title": "Cognitive Systems Spending Market to Register a Stellar Growth Rate of CAGR of 14.6% During 2016 – 2026",
       "excerpt": "VALLEY COTTAGE, N.Y. - \"The US$ 5.49 Bn global cognitive systems spending marketwill witness a massive hike in the revenues, reaching a whopping US$ 21.46 Bn by the end of 2026. Over the 10-year assessment period 2016-2026,",
@@ -718,245 +964,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-03-five-the-self-driving-startup-raises-41m-and-pivots-into-b2b-away-from-building-its-own-fleet.md",
-      "title": "Five, the self-driving startup, raises $41M and pivots into B2B, away from building its own fleet",
-      "excerpt": "That hard truth is leading to some shifts in the self-driving startup landscape. In the latest move, England’s Five (formerly known as FiveAI), one of the more ambitious companies in the space ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/03/03/five-the-self-driving-startup-raises-41m-and-pivots-into-b2b-away-from-building-its-own-fleet/",
-      "ampWebUrl": "https://techcrunch.com/2020/03/03/five-the-self-driving-startup-raises-41m-and-pivots-into-b2b-away-from-building-its-own-fleet/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/03/03/five-the-self-driving-startup-raises-41m-and-pivots-into-b2b-away-from-building-its-own-fleet/amp/",
-      "publishedDateTime": "2020-03-02T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2018/08/DSC04717.jpg?w=1024",
-          "width": 1024,
-          "height": 737,
-          "title": "Five, the self-driving startup, raises $41M and pivots into B2B, away from building its own fleet",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-02-novel-use-of-robotics-for-neuroendovascular-procedures.md",
-      "title": "Novel use of robotics for neuroendovascular procedures",
-      "excerpt": "Surgeons at the Sidney Kimmel Medical College at Thomas Jefferson University are pioneering the use of robotics in neuroendovascular procedures, which are performed via the blood vessels of the ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medicalxpress.com/news/2020-03-robotics-neuroendovascular-procedures.html",
-      "ampWebUrl": "https://medicalxpress.com/news/2020-03-robotics-neuroendovascular-procedures.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-03-robotics-neuroendovascular-procedures.amp",
-      "publishedDateTime": "2020-03-02T13:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-02-video-how-oneapi-is-revolutionizing-programming.md",
-      "title": "Video: How oneAPI Is Revolutionizing Programming",
-      "excerpt": "In this video, academics and industry experts weigh in on the potential of oneAPI, the new, unified software programming model for CPU, GPU, AI, and FPGA accelerators that delivers high compute performance for emerging specialized workloads across diverse ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://insidehpc.com/2020/03/video-how-oneapi-is-revolutionizing-programming/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-02T09:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "insideHPC",
-        "domain": "insidehpc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://insidehpc.com/wp-content/uploads/2020/02/wong.jpg",
-          "width": 1064,
-          "height": 980,
-          "title": "Video: How oneAPI Is Revolutionizing Programming",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-02-how-to-prepare-for-microsoft-azure-certification-ai-100-designing-and-implementing-an-azure-ai-solution.md",
-      "title": "How to prepare for Microsoft Azure certification AI-100: Designing and Implementing an Azure AI Solution?",
-      "excerpt": "Candidates design and implement AI apps and agents that use Microsoft Azure Cognitive Services and Azure Bot Service. Candidates can recommend solutions that use open source technologies.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/@caiomsouza/how-to-prepare-for-microsoft-azure-certification-ai-100-designing-and-implementing-an-azure-ai-af60b92b8068",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-02T08:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/1024/1*9ry80VYyy-_OEsrsqdR5Kw.png",
-          "width": 1024,
-          "height": 531,
-          "title": "How to prepare for Microsoft Azure certification AI-100: Designing and Implementing an Azure AI Solution?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-02-are-chinas-self-driving-cars-overtaking-us-peers.md",
-      "title": "Are China's self-driving cars overtaking US peers?",
-      "excerpt": "Is this proof that Baidu's self-driving car is better than Google's? Both companies say no. \"Waymo's position from the start -- and a growing industry consensus -- is that disengagements are not ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://asia.nikkei.com/Business/Automobiles/Are-China-s-self-driving-cars-overtaking-US-peers",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-02T07:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NIKKEI",
-        "domain": "nikkei.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fs3-ap-northeast-1.amazonaws.com%2Fpsh-ex-ftnikkei-3937bb4%2Fimages%2F4%2F8%2F9%2F0%2F25280984-6-eng-GB%2FCropped-1583135322apollo.png?source=nar-cms&width=1024&height=512&fit=cover&gravity=faces",
-          "width": 1024,
-          "height": 512,
-          "title": "Are China's self-driving cars overtaking US peers?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-02-key-takeaways-from-the-gartner-magic-quadrant-for-ai-developer-services.md",
-      "title": "Key Takeaways From The Gartner Magic Quadrant For AI Developer Services",
-      "excerpt": "Amazon’s investment in developer kits such as DeepLens, DeepRacer, DeepComposer is working in its favor. Google is one of the first to offer AI and AutoML services to developers and businesses.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/janakirammsv/2020/03/02/key-takeaways-from-the-gartner-magic-quadrant-for-ai-developer-services/",
-      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2020/03/02/key-takeaways-from-the-gartner-magic-quadrant-for-ai-developer-services/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2020/03/02/key-takeaways-from-the-gartner-magic-quadrant-for-ai-developer-services/amp/",
-      "publishedDateTime": "2020-03-02T04:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e5ca4d2765d4500072d9aef%2F0x0.jpg",
-          "width": 1000,
-          "height": 854,
-          "title": "Key Takeaways From The Gartner Magic Quadrant For AI Developer Services",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

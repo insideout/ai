@@ -6,7 +6,7 @@ publishedDateTime: 2020-04-16T16:53:00Z
 webUrl: "https://arstechnica.com/cars/2020/04/self-driving-startup-zoox-settles-claim-that-it-stole-secrets-from-tesla/"
 type: article
 quality: 63
-heat: 83
+heat: 73
 published: true
 
 provider:
@@ -22,17 +22,6 @@ topics:
   - AI
 
 related:
-  - title: "Tesla Settles Trade Secret Fight With Self-Driving Startup"
-    excerpt: "Law360 (April 15, 2020, 6:36 PM EDT) -- Tesla Inc. has reached a settlement with self-driving tech competitor Zoox Inc. and three former Tesla employees, asking a California federal court Monday to end its suit accusing the workers of stealing company trade secrets and taking them to Zoox. Monday’s joint filing included no details ..."
-    publishedDateTime: 2020-04-16T00:57:00Z
-    webUrl: "https://www.law360.com/articles/1264045/tesla-settles-trade-secret-fight-with-self-driving-startup"
-    ampWebUrl: "https://www.law360.com/amp/articles/1264045"
-    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1264045"
-    type: article
-    provider:
-      name: Law360
-      domain: law360.com
-    quality: 39
   - title: "U.S. self-driving startup settles trade secrets lawsuit with Tesla"
     excerpt: "U.S. self-driving car startup Zoox said on Tuesday it had settled a lawsuit with Tesla after admitting that some new hires from the electric car maker were in possession of certain Tesla documents when they joined Zoox. Tesla lawyers filed a lawsuit in March last year against four former employees and Zoox, alleging the employees stole ..."
     publishedDateTime: 2020-04-16T09:46:00Z

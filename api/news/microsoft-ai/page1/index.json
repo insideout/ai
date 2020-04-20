@@ -2,6 +2,51 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-04-20-the-nba-and-microsoft-plan-to-release-a-new-ai-driven-dtc-streaming-platform.md",
+      "title": "The NBA and Microsoft plan to release a new AI-driven DTC streaming platform",
+      "excerpt": "The NBA and Microsoft announced a new multiyear partnership aimed at transforming the digital fan experience through a direct-to-consumer platform.",
+      "heat": 81,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businessinsider.com/nba-microsoft-team-up-for-ai-driven-personalized-streaming-platform-2020-4",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-20T07:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.insider.com/5e6bd9bd84159f6e8f786846?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": "The NBA and Microsoft plan to release a new AI-driven DTC streaming platform",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-20-microsoft-to-launch-azure-based-streaming-service-for-nba-league.md",
       "title": "Microsoft to launch Azure-based streaming service for NBA League",
       "excerpt": "As the Official Technology Partner for the NBA, Microsoft will allow NBA Digital to leverage the power of its Azure platform to give birth to a new, direct-to-consumer platform, which claims to make use of Artificial Intelligence (AI) and Machine Learning (ML). Thanks to the AI and ML, Microsoft hopes to deliver personalized game broadcasts and ...",
@@ -1180,43 +1225,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-03-azure-cognitive-services-get-all-new-natural-text-to-speech-voices.md",
-      "title": "Azure Cognitive Services Get All New, Natural Text-to-Speech Voices",
-      "excerpt": "Microsoft’s Azure Cognitive Services has received three new voice styles for application in various text-to-speech environments. The AI API and SDK suite now has specific voices for customer service, newscasting, and digital assistants, with each promised to sound natural, reliable, and expressive. The Cognitive Services capabilities build on ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://winbuzzer.com/2020/04/03/azure-cognitive-services-get-all-new-natural-text-to-speech-voices-xcxwbn/",
-      "ampWebUrl": "https://winbuzzer.com/2020/04/03/azure-cognitive-services-get-all-new-natural-text-to-speech-voices-xcxwbn/amp/",
-      "cdnAmpWebUrl": "https://winbuzzer-com.cdn.ampproject.org/c/s/winbuzzer.com/2020/04/03/azure-cognitive-services-get-all-new-natural-text-to-speech-voices-xcxwbn/amp/",
-      "publishedDateTime": "2020-04-03T03:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "winbuzzer.com",
-        "domain": "winbuzzer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://winbuzzer.com/wp-content/uploads/2016/06/Artificial-Intelligence.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": "Azure Cognitive Services Get All New, Natural Text-to-Speech Voices",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

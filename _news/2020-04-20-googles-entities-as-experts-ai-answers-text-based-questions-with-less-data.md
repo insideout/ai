@@ -28,6 +28,6 @@ images:
     height: 600
     title: "Google’s Entities as Experts AI answers text-based questions with less data"
 
-secured: "l9jnPhEcwkvGWFfUtVEuWGU3zaHA/T9+pU2jEynPvHg8yTgmvsNyGWnHJilRN6ppFtLmOPofwbAvQlDxj5Nx4+grYROUre8W6u9zKezjO0nbMXd1bZYiSTDTX8LNX9ksAybnFXar2kxXPH/whxugIW1JDWfk3s/9+W9UXm0f9Euzdfy2k/WQLw9UutyO8b5zG+GrX/07847OOBHn6e47cQtAl+3+0ele3Z96oYFh+1S8mhtePXTpp8aG/9e2RZmFXrkEoOecBTI75wvO12xW3faS0NpazhNm2hjUedrmRU1SJqjupSKqvaQUd4hdEXG8;hBY2Lgv5+C68yjnZteZeVw=="
+secured: "k1UcwXe1Qiznbe7RR4w33/+YzmF9ZAKEWGQf6ICC/3r7D+p5Dz3y2MZ+jAV9k5yMZ+ntepNVSUNM5GL5DVS/WENFNpG4zuc/lnWds/VgKqaL+4XFTvIYn3C4NA0eBRQi3yZay4DX7iRxxNwkiKnjNQ4P6c19a7fNU8fB9WtNei9l8kQBuGlmwd8aD4fsT6VAyjU0Mj59/JD9bIkUnWXhKw0v1ozNS3KcJ6UpJxVEOYgZMIAKICJg/1vyBodvQSpGguHaAk77sJnZZgpaX1E7oOrzYmW4tst0onXcqA2KGwF/HUcatd+psTAbkEbyXh7Cg3f+Q2ZTcSlBFLXHi+TntkO32TUAqqjt6p0taGb0KPLhK+WZGTHr/WSHCC34U5HIMTJpbzg8T6rtjxyuTJQhmUCazrbIYdpadWghLoYGChM+25N0X4STHPrW8zvkcurw2eBhiYAe9wXr9LfPVJMrjDmVnJJEtm0VkgBFd2T9w0o=;sg9qjSptdnjlLfoHdgWZiQ=="
 ---
 

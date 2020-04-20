@@ -1,25 +1,25 @@
 ---
 category: news
 title: "Samsung Demonstrates World’s First MCPTX Video Call on AWS"
-excerpt: "Samsung Electronics Co., Ltd. today announced a demonstration of the world’s first video call on Amazon Web Services (AWS) cloud platform using Mission Critical Push-to Talk, Data and Video (MCPTX, also known as Mission Critical Communications),"
-publishedDateTime: 2020-04-06T16:01:00Z
-webUrl: "https://apnews.com/Business Wire/eee63d07f5a740c5b4a6f9ed86c251f3"
+excerpt: "AWS offers over 175 fully featured services for compute, storage, databases, networking, analytics, robotics, machine learning and artificial intelligence (AI), Internet of Things (IoT), mobile, security, hybrid, virtual and augmented reality (VR and AR), media, and application development, deployment, and management from 69 Availability Zones ..."
+publishedDateTime: 2020-04-06T14:03:00Z
+webUrl: "https://www.businesswire.com/news/home/20200406005496/en/Samsung-Demonstrates-World’s-MCPTX-Video-Call-AWS"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://mms.businesswire.com/media/20200406005496/en/783465/23/Samsung_logo.jpg"
+    width: 1200
+    height: 627
     title: "Samsung Demonstrates World’s First MCPTX Video Call on AWS"
 
-secured: "I+qZyPAxOpGbBZE/4KFq/xGQUl1yaMtGEC7jV0r9zfCT42CGE6b20c9QrRvd42lB4RYJpz64pUnCCYKruK7gExMTV3uFLN2S7BvKtnqmxGkkn0dRv2vDAVRR58xxqs3FrjPiaAcn1u55r/+MCJCrpTAub6rmL1n0+n2pe8ryh/vM3RKmeAIWwSFE8Fpn+Iqlnar6O73Wp6ycQtW4Z81Bj3Vqf2tHROU0brk5iZADQ728vpc+c4irTuz56eUHWsHaiEMuSIzS8EncsLz6GrCpfxmiyLQrf7kZnBbC9lYY2e4BezxRelq2FosQKtCq71lA;Fa1/WRX4kq0Adb5c48joPA=="
+secured: "b8Bw7Gw+AsW9H31TH8p/BnWT7HlFyMhB2Jpz7Y1gJCEAD+NL6MP8rJ+qB1l57F4qWO6xoEQKgr8opaztIzw3Mo2FR9UHMSQVEEZMlUDUKOAi1xWU3r5L7rTT+scUhG3wQUtPhdypovDBwiBUTY8cGHPVUFO6clM1TxvhbjfR0p8o0QxzeMxYlK88z9rJgNUYrXv08gE1rMijnO96Oe9ttW+hJdNHEV8/zsK6HpryM0+uDvWZ69trvkYbo4DLCXLVvpRzlbdsW0k760qCkAsDAkczux4/5ztVUQYOHLvGgyQ/yXSSkLBnQwYHTsDdkxus;xWKVv5Wvk6K25v7rSg50wQ=="
 ---
 

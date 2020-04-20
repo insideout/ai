@@ -1,25 +1,25 @@
 ---
 category: news
 title: "LucidHealth™ and Riverain™ Technologies Are Committed to the Delivery of Advanced Radiology Through Artificial Intelligence"
-excerpt: "“LucidHealth is committed to advancing the quality of community radiology patient care by combining leading radiologist expertise with cutting edge Artificial Intelligence. Riverain’s ClearRead in ... designs advanced AI imaging software used by leading international healthcare organizations. Riverain ClearRead solutions significantly ..."
-publishedDateTime: 2020-04-14T17:24:00Z
-webUrl: "https://www.businesswire.com/news/home/20200414005825/en/LucidHealth™-Riverain™-Technologies-Committed-Delivery-Advanced-Radiology"
+excerpt: "LucidHealth, a physician-owned and led radiology company, announced today that it is using FDA-approved ClearRead™ CT by Riverain Technologies, an artificial intelligence (AI) imaging software solution for the early detection of lung disease."
+publishedDateTime: 2020-04-14T17:58:00Z
+webUrl: "https://apnews.com/Business Wire/95b1f040075840809ed653e18925e54b"
 type: article
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://mms.businesswire.com/media/20200414005825/en/785010/23/Riverain_Technologies_Logo.jpg"
-    width: 1200
-    height: 627
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     title: "LucidHealth™ and Riverain™ Technologies Are Committed to the Delivery of Advanced Radiology Through Artificial Intelligence"
 
-secured: "ewq/eHJt48+pyN77k4n8+06MgngwIQoysmF2/Q/oqp3h8WgkP4DRLiNk4bRSc9n4KsalqxF5kwdIOD7ikKvcv4BlM66HszLPU/0LzEefReIigGH+UoJ8NeaJaX+kAl7M3Ir+b6qlJpf8FSyrwifl+KVNeV0B8GINuEU7pQp5WAcBxMVHMh9WDKpL2+l7sVl42EsUChx8PUaIxg13X3DbW+x7b7FPEkoB73Cn2IOPu0r2mi49G2Y4q63756HI5WL6H5ckQJZPSGNwmb1aCh7iooUULlDxvksWKnOYIiyKJF0u3LHxKKGG7fUoDSkLwOLp;jh4iBmly0wWL78HYpa+FKA=="
+secured: "YAW10OFZa9ubcxK2lQ6Ssbfbe1tTZH5IseMQwUfrZcJ69X+LJ62IQIYCjYEdGld5gRns8ld27lro7lb1d10/qdFvypM4+x3wQutWSr83CBSuXxA+QWQwE+dN62a1k9BtSJ3bPYRutK6m4EZF7dv/a+7vTjWdRgp7vW6FQVu6Ivyk5UFZWlD3ySXePMB9K5l3z/250DXf7W0zC+BreJ1kmAEg5nx50ebS4TKzU1F27+jgqinj48BnRSEzid3yOV5tsYzjjqpjdwqm46ssJXuLq0FKIVlHmH5lxjPDzBNPJZgtjqWsJit+Edf0+3jTVJz8;V4DZqzQnJ4rMEwNs7j/R7Q=="
 ---
 
