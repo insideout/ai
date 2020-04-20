@@ -2,27 +2,27 @@
 category: news
 title: "New Web-Based AutoML Tool from SensiML Makes AI for IoT Easier than Ever"
 excerpt: "PORTLAND, Ore., April 16, 2020 /PRNewswire/ -- SensiML™ Corporation, a leading developer of AI tools for building intelligent IoT endpoints, has released a new web-based AutoML tool with a ..."
-publishedDateTime: 2020-04-16T13:07:00Z
-webUrl: "https://www.prnewswire.com/news-releases/new-web-based-automl-tool-from-sensiml-makes-ai-for-iot-easier-than-ever-301041756.html"
+publishedDateTime: 2020-04-16T13:23:00Z
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/new-web-based-automl-tool-from-sensiml-makes-ai-for-iot-easier-than-ever/article_35c486af-26f5-5532-8c78-a677135b8da5.html"
 type: article
 quality: 53
 heat: 53
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/891804/SensiML_Logo.jpg?p=facebook"
-    width: 2059
-    height: 1079
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/c/22/c2216860-0a3c-5af2-ba20-9a5b036c0854/5e986247ecbff.image.jpg?resize=400%2C208"
+    width: 400
+    height: 208
     title: "New Web-Based AutoML Tool from SensiML Makes AI for IoT Easier than Ever"
 
-secured: "jNqegPJVYB0ZJejgAoHcU21+u9iWbVSOZNw1Ug1HZBjVSF9e9q/XIGqiRsOynQV6iACizb7x7N8McYexAVaNwN8z//akfu7hrtdFpNQtLzWyevu4PboMhwLN2JRID3hza4pC09Oi44I9IN9GiyKqmDL0ypU6lFrRCDFvA7HYA5th87zTkv1fS9mSuu+wUc4XH2f1qUZPJQjD3A5vYJZfMxcvbzPR9xZ+6z4sWqlIjDV76ed/GZo51EFgD1Wta27wel30W9ICx500OyDAcqWIq3OhNySqUhU+nncFAzZzwHIBrjF/0RhZlv5ompLhu03G;pzXF64DH5ZFR0PZe1YRmdg=="
+secured: "0gkO/qgd5LXEC0JpBt2wywRt+1Fqexu6QoosaB2lP+JpXcW2eno6yHfmENrrKP2KEgkwKbPUN7T4FMCK1amFKfp7N/VLMAHJxf3jzA6r9DfRqH9ygGS35CA/S28NRyGD8S9qEufLLm7q6b+USb9l2p4Awwg/0ChzwK4pRXmP7ELwjK0k2gyDN4DLRgcZx1rgGpWpiF9dB9UIoLzd6m+HsV/MPprKSGS/qNwE+MSe2dTRa/yMSPMJogmn+P60ibmuO1MSU89m84omYNCS5/4i6Zn4mH8j4Xj8HeFgJPbkaGyoF/pPbJTed4XlvbeciKyB;zKlu9KcwkMuSG/14Sp+jPQ=="
 ---
 
