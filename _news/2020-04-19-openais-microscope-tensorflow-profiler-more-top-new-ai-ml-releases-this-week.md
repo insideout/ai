@@ -5,8 +5,8 @@ excerpt: "OpenAI, especially, has come up with an interesting tool to promote th
 publishedDateTime: 2020-04-19T02:34:00Z
 webUrl: "https://analyticsindiamag.com/open-ai-tensorflow/"
 type: article
-quality: 65
-heat: 65
+quality: 67
+heat: 67
 published: false
 
 provider:
@@ -17,6 +17,7 @@ topics:
   - Google AI
   - AI
   - TensorFlow
+  - Natural Language Processing
 
 images:
   - url: "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2020/04/open-ai-microscope.jpg"

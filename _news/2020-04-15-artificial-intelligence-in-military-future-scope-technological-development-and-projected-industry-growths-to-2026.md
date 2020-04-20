@@ -40,19 +40,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Computer Vision Market Research 2020, Business Opportunity, Global Trend, Future Growth, Key Findings and Forecast to 2023"
-    excerpt: "Global Computer Vision Market (2020-2023) Industry Research Report describes an in-depth analysis of the Computer"
-    publishedDateTime: 2020-04-15T10:31:00Z
-    webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-research-2020-business-opportunity-global-trend-future-growth-key-findings-and-forecast-to-2023-2020-04-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 43
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
   - title: "Global Artificial Intelligence In Accounting Market Analysis to Reach by USD 7,085 Million By 2025"
     excerpt: "Zion Market Research has recently added latest report, titled “Global Artificial Intelligence In Accounting Market Analysis to Reach by USD 7,085 Million By 2025“, which examines the overview of the various factors enabling growth and trends in the global industry. The global Artificial Intelligence in Accounting Market report portrays an ..."
     publishedDateTime: 2020-04-16T05:39:00Z

@@ -2,24 +2,26 @@
 category: news
 title: "Scientific machine learning paves way for rapid rocket engine design"
 excerpt: "One group of researchers at The University of Texas at Austin is developing new \"scientific machine learning\" methods to address this challenge. Scientific machine learning is a relatively new field that blends scientific computing with machine learning. Through a combination of physics modeling and data-driven learning, it becomes possible to ..."
-publishedDateTime: 2020-04-16T23:35:00Z
-webUrl: "https://www.sciencedaily.com/releases/2020/04/200416135837.htm"
+publishedDateTime: 2020-04-16T17:01:00Z
+webUrl: "https://www.eurekalert.org/pub_releases/2020-04/uota-sml041620.php"
 type: article
-quality: 49
-heat: 49
+quality: 39
+heat: 39
 published: false
 
 provider:
-  name: Science Daily
-  domain: sciencedaily.com
-  images:
-    - url: "https://insideout.app/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
   - Machine Learning
   - AI
+
+images:
+  - url: "https://www.eurekalert.org/multimedia/pub/web/229424_web.jpg"
+    width: 1440
+    height: 1028
+    title: "Scientific machine learning paves way for rapid rocket engine design"
 
 related:
   - title: "Computer Vision Research Engineer, Deep Learning (London, UK)"
@@ -36,6 +38,6 @@ related:
         width: 520
         height: 520
 
-secured: "0dqG4hZ2Es/QE5SPlFeIY7bq4faitM9D+Bpf1nIyK+xQPHqy+7yie865PH8XAtEf9OW2kgx5IQQmG9eKrKrwoJeWiyouiV6hv3aWh1lqaWWBxLGyzB8b0G6nGXmvRkOq7cMx5MwOJkl8lXWsvDX6TY2/rcOxXHljMUDJ0vxHoCVeIcCLJc8Lomxeo3ZBFJKmTEsvBq+oBKgEgYmiZYrp33Rrsc7VrJFVbg1E9VTIElziq8jZmmNoXVcfY/K8eH27f3PWtQxatnVixhCo8Mxiv1bMsEolXCHhHzoXBbVZ+a05XWgqmLX3jmLB+j+DJEwX;yLtEaZKgwXvd9UEYGmIW3g=="
+secured: "fsswHBXneddEcSvzwYQDZ2dmqE01bePaoOF6f1IN3k4pQwA4oWN/3qNVT1DvdmxyASKpajvUyj1QNuz4JpKy/enxRghQDzvqnBaJgHP+jj+lfXg/0KGZR17UDST333EXd2PmCmr/LgtiUm1CheMm0yfVuIdq6pv//PdE1Wk9D5d9D7l+qSWsX7WLXKXQ8vzNUWCFWf0S36qdAJT6bPtKfVzAEq8L8/RXAo8e00osQ4smD9Y8ateREfTeCOdaVESK/gyB6hLZkrNUz2ke20CoI8KSsuTHK2VCnYKnJ8CttheTc38acmywy4sSz5q19xiwO5XhmeXoPKX12p+DI0uPXhhk5DlStA8A0Ht5MU668YOsCinHlB309ZAM4E4IvnAtCbS/ozL9vlesm6uKwwGtc3xN53STu37PWztx/EDvIOf18fXYnRdDmY7ZM9W+JsKajiDioNmKrNNUkfQJBoPDWf+Klu7v4sglYaCEvreaSgY=;1yPwnWaxAmBE/DkXkuMuUg=="
 ---
 

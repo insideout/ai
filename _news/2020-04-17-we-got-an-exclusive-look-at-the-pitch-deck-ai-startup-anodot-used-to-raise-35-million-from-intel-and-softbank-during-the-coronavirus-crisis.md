@@ -6,7 +6,7 @@ publishedDateTime: 2020-04-17T11:05:00Z
 webUrl: "https://www.businessinsider.com/anodot-israeli-ai-startup-raises-funds-despite-coronavirus-pandemic-2020-4"
 type: article
 quality: 32
-heat: -1
+heat: 32
 published: false
 
 provider:
@@ -25,21 +25,6 @@ images:
     width: 1200
     height: 600
     title: "We got an exclusive look at the pitch deck AI startup Anodot used to raise $35 million from Intel and SoftBank during the coronavirus crisis"
-
-related:
-  - title: "We got an exclusive look at the pitch deck AI security startup Onfido used to raise $100 million in funding despite coronavirus"
-    excerpt: "The firm counts fintech unicorn Revolut and car-sharing service Zipcar among its biggest clients."
-    publishedDateTime: 2020-04-15T10:06:00Z
-    webUrl: "https://www.businessinsider.com/ai-security-startup-onfido-pitch-deck-raise-100-million-2020-4"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 41
-    images:
-      - url: "https://i.insider.com/5e95c3addcd88c626b4e2553?width=1200&format=jpeg"
-        width: 1200
-        height: 600
 
 secured: "5h0lqRocxwaJvNYbYbFKHzbl+k9mGBIzhM9YnXEGv5gJ8BctE2/F0nNXBmV0iwIBy2TkJVmiobhBdsdZLh11ad+vVZRk9At7PvNV654/N6fPT6Iqx4dylK151o9HofROFHu/KAdMtDbuANkpciKYrOVSUpIHQLKJXOFtEkk7nHuzcEUaCNtiKSiFU21bHdMzPbTKWw0RzSMriT/wpY7U7XmaEFob9qyVC07bXpicokXu2COMFGaxHb+G1ndEmxmN4CD+F1B95fQZr1uw1HBYnuQsUqpZPrmaw/Kth7BZUe+WdANKBQIGO+m2MOZnraYrCyoriombJvuAhHDyLDtU2gqj5BUJ6SevkXxiUZ/lOLO4KMEtfPqXLf32ZdZNuCsrQ771p3xi4nfYJTKBJbbPESKl+6C/AH7mMqGE7RAxgfNTeJObKzUhVBr6FzAV+AXf4XIYGIOw7L4YfOPrhE00Ri5eYWK0hsmlrCofLlib8MU=;HRIQlagtuB3ZdopwqJWnyw=="
 ---

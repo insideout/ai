@@ -6,7 +6,7 @@ publishedDateTime: 2020-04-15T21:04:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-aviation-market-2020-development-analysis-and-future-estimations-2026-2020-04-15"
 type: article
 quality: 54
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -36,19 +36,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 45
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Computer Vision Market Research 2020, Business Opportunity, Global Trend, Future Growth, Key Findings and Forecast to 2023"
-    excerpt: "Global Computer Vision Market (2020-2023) Industry Research Report describes an in-depth analysis of the Computer"
-    publishedDateTime: 2020-04-15T10:31:00Z
-    webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-research-2020-business-opportunity-global-trend-future-growth-key-findings-and-forecast-to-2023-2020-04-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 43
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
