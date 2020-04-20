@@ -2,6 +2,125 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-04-08-artificial-intelligence-ai-in-healthcare-market-2020-global-analysis-opportunities-and-forecast-to-2025.md",
+      "title": "Artificial Intelligence (AI) in Healthcare Market 2020 Global Analysis, Opportunities And Forecast To 2025",
+      "excerpt": "The report provides a holistic summary of basic, secondary and advanced information pertaining to the Artificial Intelligence (AI) in Healthcare Market Research Report 2020. Market status, market value,",
+      "heat": 111,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-2020-global-analysis-opportunities-and-forecast-to-2025-2020-04-08",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-08T02:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial Intelligence (AI) in Healthcare Market 2020 Global Analysis, Opportunities And Forecast To 2025",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2020-04-08-insights-on-the-worldwide-automated-machine-learning-market-2020-to-2030-growing-healthcare-industry-presents-opportunities-researchandmarketscom.md",
+      "title": "Insights on the Worldwide Automated Machine Learning Market (2020 to 2030) - Growing Healthcare Industry Presents Opportunities - ResearchAndMarkets.com",
+      "excerpt": "The global automated machine learning (AutoML) market generated the revenue of $269.6 million in 2019, and is expected to reach $14,511.9 million by 2030, advancing at a CAGR of 43.7% during the forecast period (2020-2030). The cloud category under the deployment type segment is expected to record the fastest growth during the forecast period.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businesswire.com/news/home/20200408005248/en/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-08T01:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20200408005248/en/371054/23/ResearchAndMarkets_800px.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": "Insights on the Worldwide Automated Machine Learning Market (2020 to 2030) - Growing Healthcare Industry Presents Opportunities - ResearchAndMarkets.com",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-08-with-the-great-power-of-ai-comes-great-ethical-responsibility.md",
+      "title": "With the great power of AI comes great ethical responsibility",
+      "excerpt": "Representative, fair, transparent and accountable AI systems are more accurate, easier to debug and more likely to comply for existing and future governance. There are three stages that businesses can follow to build ethics into their AI systems. A business must compose its strategy for an ethical working culture that pervades the work ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://diginomica.com/great-power-ai-comes-great-ethical-responsibility",
+      "ampWebUrl": "https://diginomica.com/great-power-ai-comes-great-ethical-responsibility?amp",
+      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/great-power-ai-comes-great-ethical-responsibility?amp",
+      "publishedDateTime": "2020-04-08T01:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Diginomica",
+        "domain": "diginomica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://diginomica.com/sites/default/files/images/2020-04/ethics.png",
+          "width": 1404,
+          "height": 930,
+          "title": "With the great power of AI comes great ethical responsibility",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-08-telstra-uses-ai-as-first-hurdle-for-prospective-hires-to-clear.md",
       "title": "Telstra uses AI as first hurdle for prospective hires to clear",
       "excerpt": "Telstra has said it has been using artificial intelligence (AI) to filter through the 19,000 applications it received for its extra 1,000 temporary call centre positions in Australia that was announced by the telco last month. Group executive of transformation and people Alex Badenoch said the telco had been able to move from screening to ...",
@@ -545,43 +664,6 @@
       ]
     },
     {
-      "path": "_news/2020-04-07-blackrock-and-microsoft-form-strategic-partnership-to-host-aladdin-on-azure-as-blackrock-readies-aladdin-for-next-chapter-of-innovation.md",
-      "title": "BlackRock and Microsoft Form Strategic Partnership to Host Aladdin on Azure as BlackRock Readies Aladdin for Next Chapter of Innovation",
-      "excerpt": "By adopting Microsoft Azure, BlackRock will both accelerate innovation on Aladdin through greater computing ... of sustainability-related risk on investment portfolios and company performance. Big data, machine learning and AI can all play a critical role in improving access to and the impact and quality of sustainability data.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businesswire.com/news/home/20200407005781/en/BlackRock-Microsoft-Form-Strategic-Partnership-Host-Aladdin",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-07T13:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20200407005781/en/783707/23/ALA_eng_black_rgb.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": "BlackRock and Microsoft Form Strategic Partnership to Host Aladdin on Azure as BlackRock Readies Aladdin for Next Chapter of Innovation",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-04-07-uc-san-diego-health-uses-ai-to-augment-covid-19-lung-imaging-analysis.md",
       "title": "UC San Diego Health uses AI to augment COVID-19 lung imaging analysis",
       "excerpt": "To quickly detect pneumonia -- and therefore better distinguish between COVID-19 patients likely to need more supportive care in the hospital and those who could be followed closely at home -- UC San Diego Health radiologists and other physicians are now using artificial intelligence ... by Amazon Web Services (AWS). The new AI capability ...",
@@ -659,6 +741,51 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-07-blackrock-and-microsoft-form-strategic-partnership-to-host-aladdin-on-azure-as-blackrock-readies-aladdin-for-next-chapter-of-innovation.md",
+      "title": "BlackRock and Microsoft Form Strategic Partnership to Host Aladdin on Azure as BlackRock Readies Aladdin for Next Chapter of Innovation",
+      "excerpt": "BlackRock and Microsoft Corp. have formed a strategic partnership to host BlackRock’s Aladdin infrastructure on the Microsoft Azure cloud platform,",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/blackrock-and-microsoft-form-strategic-partnership-to-host-aladdin-on-azure-as-blackrock-readies-aladdin-for-next-chapter-of-innovation-2020-04-07",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-07T13:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "BlackRock and Microsoft Form Strategic Partnership to Host Aladdin on Azure as BlackRock Readies Aladdin for Next Chapter of Innovation",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
         "AI"
       ]
     },
@@ -914,131 +1041,6 @@
         "Natural Language Processing",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-04-07-the-quest-for-a-better-blockchain-former-microsoft-ai-chief-invests-in-seattle-startup-asensys.md",
-      "title": "The quest for a better blockchain: Former Microsoft AI chief invests in Seattle startup Asensys",
-      "excerpt": "Harry Shum, former head of Microsoft’s AI and Research Group, in his Redmond office in 2017. (GeekWire File Photo / Todd Bishop) Asensys, a Seattle startup promising to build a more scalable and efficient blockchain infrastructure, has landed noted computer scientist and former Microsoft artificial intelligence chief Harry Shum as one of the ...",
-      "heat": 75,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.geekwire.com/2020/quest-better-blockchain-former-microsoft-ai-chief-invests-seattle-startup-asensys/",
-      "ampWebUrl": "https://www.geekwire.com/2020/quest-better-blockchain-former-microsoft-ai-chief-invests-seattle-startup-asensys/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/quest-better-blockchain-former-microsoft-ai-chief-invests-seattle-startup-asensys/amp/",
-      "publishedDateTime": "2020-04-07T10:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2017/09/harryshum-1-1-630x418.png",
-          "width": 630,
-          "height": 418,
-          "title": "The quest for a better blockchain: Former Microsoft AI chief invests in Seattle startup Asensys",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-07-facebook-apologizes-after-ai-blocks-posts-about-diy-coronavirus-masks.md",
-      "title": "Facebook apologizes after AI blocks posts about DIY coronavirus masks",
-      "excerpt": "Facebook’s AI moderators claimed another innocent victim this week when an algorithm blocked content on DIY coronavirus masks. The system threatened to ban mask makers in Pennsylvania, Illinois, and California, The New York Times reports. These groups were set up to fill a gap in protective gear that has forced hospital staff to don ski ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/04/07/facebook-apologizes-after-ai-blocks-posts-about-diy-coronavirus-masks/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/04/07/facebook-apologizes-after-ai-blocks-posts-about-diy-coronavirus-masks/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/04/07/facebook-apologizes-after-ai-blocks-posts-about-diy-coronavirus-masks/amp/",
-      "publishedDateTime": "2020-04-07T10:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/04/Untitled-design54-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "Facebook apologizes after AI blocks posts about DIY coronavirus masks",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-07-ibm-is-getting-ready-to-fight-for-a-place-in-the-cloud-universe.md",
-      "title": "IBM Is Getting Ready To Fight For A Place In The Cloud Universe",
-      "excerpt": "It all started when International Business Machines Corporation (NYSE: IBM) joined forces with the open-source software giant Red Hat. The deal was closed in July 2019,",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.benzinga.com/markets/20/04/15757392/ibm-is-getting-ready-to-fight-for-a-place-in-the-cloud-universe",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-07T10:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/images/story/2012/carson-masterson-0mxw-dvulok-unsplash_1.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": "IBM Is Getting Ready To Fight For A Place In The Cloud Universe",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

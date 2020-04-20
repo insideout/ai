@@ -28,6 +28,6 @@ images:
     height: 600
     title: "Allergy Insights with Watson uses AI to predict allergy symptom risk"
 
-secured: "YHlf0C//lvPS+ZnzvOGHw3HLwIDpFvRap5vDG+SyCrqSXZw9HK/5OCzcS6iYPMbMOcdaSJt0gE3J7Q6rST833/sV3Os5Rx5H1OfFkeRu7sFA61W1zlfvoltN2NULfNvPVg1up7fDYLHCigZenI1BuDZFxMYHKBDlHZMnN+q+JcGFiJUROhYX+1cpKt9SHUSw9e8oj0GhyIMQ5xSqmfoe+oSa8OoQlcbHhyv9bbldZtfwsZbG1tlxRJxbFP7/KkC+88ITO8Zg/K5A+URkHkHF2gYz6seRQbHYHqCvgyLKnMOtriF6dPuYdj4MmRZ3Jkh8;XE9zFHnVGWpE5JphbAsvVw=="
+secured: "AS+1v4LTA63EyEpL8lQL7m4Jp59HPYVtGU524umaJzoqFUnpJ58oldrwq8eVKEbIKiuse//h6/ZEHZ5uA5oEdNNPjwYx3D9dPrPyURYtOo3bZ29xmCc4o+x4gIkC1l8yMgpchP+ojIRun50u1G1xOCQbMp5tt4/Oc2sxufQPcD96K9hvmgUl1/Os/z7FKXYc8eyCWgz7L0QT3/A3/MqjTiMPR/Phq+JMLrMxkSdcyWzJSAT1QWF8IzYdfNUVsLA8f2FCRQa68vMwBe3emRF/StkZdBtMfj9+LSLxpOOPNtCLqCFj1+31Vjo3XRsHggNnu4CxDQ2FD4mFAqbEtX7yC8JI47xfvHZ6Ee/vZ13xIAoo2JlvIxM2imKDrszXENT6iKGlqLrtkEf6bIwps+ndcYNfZlJZpsTOha8x9Qxa4Rv4w6j6qS0a1ziHtKuqDBMH2mNXwp7jJwu3aS8Boy/aA8tUA1zpQ4Gxq62M98r69NA=;juGf0o4kwDQhBclvRJtNnw=="
 ---
 

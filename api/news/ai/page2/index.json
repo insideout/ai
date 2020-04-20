@@ -2,6 +2,132 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-04-18-for-this-high-yield-stock-5g-and-artificial-intelligence-outweigh-coronavirus.md",
+      "title": "For This High-Yield Stock, 5G and Artificial Intelligence Outweigh Coronavirus",
+      "excerpt": "Leading nodes are the smallest, densest, most advanced chips, with higher power and better battery efficiency. More powerful chips are needed in all the big megatrends today, from 5G communications to artificial intelligence applications in the data center. For instance, Taiwan Semiconductor gets almost half of its revenue from smartphone chips.",
+      "heat": 83,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fool.com/investing/2020/04/18/for-this-high-yield-stock-5g-and-artificial-intell.aspx?source=eptcnnlnk0000002",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/04/18/for-this-high-yield-stock-5g-and-artificial-intell.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/04/18/for-this-high-yield-stock-5g-and-artificial-intell.aspx",
+      "publishedDateTime": "2020-04-18T15:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F568547%2Fgettyimages-474499852.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 800,
+          "title": "For This High-Yield Stock, 5G and Artificial Intelligence Outweigh Coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-18-nvidias-rtx-voice-app-uses-ai-to-improve-noise-canceling-on-rtx-powered-systems.md",
+      "title": "Nvidia's 'RTX Voice' app uses AI to improve noise canceling on RTX-powered systems",
+      "excerpt": "Of course, the average work-from-home employee probably doesn't have an RTX GPU, which is a strict requirement here. RTX Voice relies on the AI capabilities built into the cards to function, meaning gamers are much more likely to benefit from it. Even so, Nvidia is currently supporting a nice mix of apps with RTX Voice, including gaming-centric ...",
+      "heat": 83,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techspot.com/news/84881-nvidia-rtx-voice-app-uses-ai-improve-noise.html",
+      "ampWebUrl": "https://www.techspot.com/amp/news/84881-nvidia-rtx-voice-app-uses-ai-improve-noise.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/84881-nvidia-rtx-voice-app-uses-ai-improve-noise.html",
+      "publishedDateTime": "2020-04-18T14:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.techspot.com/images2/news/bigimage/2020/04/2020-04-18-image-8.jpg",
+          "width": 1680,
+          "height": 1120,
+          "title": "Nvidia's 'RTX Voice' app uses AI to improve noise canceling on RTX-powered systems",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-18-direxion-daily-robotics-artificial-intelligence-automation-index-bull-3x-shares-nysearcaubot-trading-64-higher.md",
+      "title": "Direxion Daily Robotics Artificial Intelligence & Automation Index Bull 3X Shares (NYSEARCA:UBOT) Trading 6.4% Higher",
+      "excerpt": "Direxion Daily Robotics Artificial Intelligence & Automation Index Bull 3X Shares (NYSEARCA:UBOT) shares traded up 6.4% on Friday . The stock traded as high as $6.27 and last traded at $6.16, 251,800 shares changed hands during trading. An increase of 79% from the average session volume of 140,834 shares. The stock had previously closed at $5.79.",
+      "heat": 81,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://theenterpriseleader.com/2020/04/18/direxion-daily-robotics-artificial-intelligence-automation-index-bull-3x-shares-nysearcaubot-trading-6-4-higher.html",
+      "ampWebUrl": "https://theenterpriseleader.com/2020/04/18/direxion-daily-robotics-artificial-intelligence-automation-index-bull-3x-shares-nysearcaubot-trading-6-4-higher.html/amp",
+      "cdnAmpWebUrl": "https://theenterpriseleader-com.cdn.ampproject.org/c/s/theenterpriseleader.com/2020/04/18/direxion-daily-robotics-artificial-intelligence-automation-index-bull-3x-shares-nysearcaubot-trading-6-4-higher.html/amp",
+      "publishedDateTime": "2020-04-18T02:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theenterpriseleader.com",
+        "domain": "theenterpriseleader.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.marketbeat.com/logos/generic-stocks.jpg",
+          "width": 450,
+          "height": 323,
+          "title": "Direxion Daily Robotics Artificial Intelligence & Automation Index Bull 3X Shares (NYSEARCA:UBOT) Trading 6.4% Higher",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-18-ai-weekly-when-to-ship-or-shelve-a-coronavirus-solution.md",
       "title": "AI Weekly: When to ship or shelve a coronavirus solution",
       "excerpt": "Those debates certainly carry over to the kind of AI being deployed right now, and the important question of when a company should ship or shelve a coronavirus solution. A lot of AI is being deployed in the pandemic to save lives and someday soon help us resume daily lives, much of which you’ve been able to read about here. But they aren’t ...",
@@ -1179,133 +1305,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-17-artificial-intelligence-market-size-share-ai-industry-trends-and-forecast.md",
-      "title": "Artificial Intelligence Market Size, Share | AI Industry Trends and Forecast",
-      "excerpt": "According to the latest report by IMARC Group, titled \"Artificial Intelligence Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2020-2025,\" the global artificial intelligence market size experienced healthy growth during 2014-2019.",
-      "heat": 101,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-size-share-ai-industry-trends-and-forecast-2020-04-17",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-17T01:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Artificial Intelligence Market Size, Share | AI Industry Trends and Forecast",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-17-chinese-students-set-up-a-facebook-for-stray-cats-on-campus.md",
-      "title": "Chinese students set up a ‘Facebook’ for stray cats on campus",
-      "excerpt": "The “Facebook for cats” is just one of the many versatile ways people utilize ... Sign up now and get a 10% discount (original price US$400) off the China AI Report 2020 by SCMP Research. Learn about the AI ambitions of Alibaba, Baidu & JD.com through our in-depth case studies, and explore new applications of AI across industries.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.scmp.com/tech/article/3080394/chinese-students-set-facebook-stray-cats-campus",
-      "ampWebUrl": "https://amp.scmp.com/tech/article/3080394/chinese-students-set-facebook-stray-cats-campus",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/article/3080394/chinese-students-set-facebook-stray-cats-campus",
-      "publishedDateTime": "2020-04-16T23:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/2020/04/17/befunky-collage_4.jpg?itok=rmjhyk_b",
-          "width": 1200,
-          "height": 630,
-          "title": "Chinese students set up a ‘Facebook’ for stray cats on campus",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-17-microsoft-becomes-nbas-official-technology-partner-games-to-be-broadcasted-on-azure.md",
-      "title": "Microsoft Becomes NBA's 'Official Technology Partner,' Games To Be Broadcasted On Azure",
-      "excerpt": "The National Basketball Association has signed a multi-year contract with Microsoft Corporation (NASDAQ: MSFT) to make the latter its \"official technology partner,\"",
-      "heat": 76,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.benzinga.com/news/20/04/15825420/microsoft-becomes-nbas-official-technology-partner-games-to-be-broadcasted-on-azure",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/15825420",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15825420",
-      "publishedDateTime": "2020-04-16T20:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.benzinga.com/files/images/story/2012/bball.jpeg",
-          "width": 1967,
-          "height": 1283,
-          "title": "Microsoft Becomes NBA's 'Official Technology Partner,' Games To Be Broadcasted On Azure",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

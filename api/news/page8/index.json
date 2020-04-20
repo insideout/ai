@@ -2,6 +2,132 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-04-13-artificial-intelligence-ai-market-value-growing-at-a-us-160-bn-by-2026.md",
+      "title": "Artificial Intelligence (AI) Market Value Growing at a US$ 160 Bn by 2026",
+      "excerpt": "According to the Acumen Research and Consulting, the global Artificial Intelligence (AI) market is expected to reach at US$ 160 Bn by 2026, along with the projected CAGR of 49% from 2020-2026. The published report global Artificial Intelligence (AI) market provides a holistic overview of the current market covering the current trends.",
+      "heat": 111,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-value-growing-at-a-us-160-bn-by-2026-2020-04-13",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-13T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial Intelligence (AI) Market Value Growing at a US$ 160 Bn by 2026",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-13-natural-language-processing-nlp-market-2019-2027-segments-and-supply-demand-forecast.md",
+      "title": "Natural Language Processing (NLP) Market 2019-2027 / Segments and Supply Demand Forecast",
+      "excerpt": "The report covers the forecast and analysis of the natural language processing (NLP) market on a global and regional",
+      "heat": 70,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-2019-2027-segments-and-supply-demand-forecast-2020-04-13",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-13T04:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Natural Language Processing (NLP) Market 2019-2027 / Segments and Supply Demand Forecast",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-13-couple-claim-sex-robot-with-soft-scottish-accent-saved-their-marriage.md",
+      "title": "Couple claim sex robot with 'soft Scottish accent' saved their marriage",
+      "excerpt": "A couple claim that a £6,600 Scottish sex robot - who shares their bed every night - has saved their marriage. Shelly, 45, and Darris Maxie, 48, from Texas, USA, splashed out on a computerised, Artificial Intelligence sex doll, called Camila, to save their marriage after the third person in their previous poly relationship left them.",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.dailyrecord.co.uk/news/uk-world-news/couple-claim-sex-robot-soft-21857349",
+      "ampWebUrl": "https://www.dailyrecord.co.uk/news/uk-world-news/couple-claim-sex-robot-soft-21857349.amp",
+      "cdnAmpWebUrl": "https://www-dailyrecord-co-uk.cdn.ampproject.org/c/s/www.dailyrecord.co.uk/news/uk-world-news/couple-claim-sex-robot-soft-21857349.amp",
+      "publishedDateTime": "2020-04-13T02:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "dailyrecord",
+        "domain": "dailyrecord.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i2-prod.dailyrecord.co.uk/incoming/article21857352.ece/ALTERNATES/s615/1_Screen-Shot-2020-04-13-at-093812.png",
+          "width": 615,
+          "height": 409,
+          "title": "Couple claim sex robot with 'soft Scottish accent' saved their marriage",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-13-tesla-is-adding-remarkable-detail-in-its-full-self-driving-visualizations.md",
       "title": "Tesla is adding remarkable detail in its Full Self-Driving Visualizations",
       "excerpt": "Tesla’s mass-market cars, the Model 3 and Model Y, have already been released. The Solar Roof is finally seeing a ramp. And the release of a feature-complete version of the company’s Full Self-Driving suite seems to be drawing closer. For Tesla’s Full Self-Driving suite to be feature-complete, the electric car maker would need to master ...",
@@ -261,21 +387,21 @@
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.chicagotribune.com/coronavirus/sns-nyt-coronavirus-workplace-robots-automation-20200411-bwhb2bsm5zb6npb7rap6qwdz7i-story.html",
-      "ampWebUrl": "https://www.chicagotribune.com/coronavirus/sns-nyt-coronavirus-workplace-robots-automation-20200411-bwhb2bsm5zb6npb7rap6qwdz7i-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/coronavirus/sns-nyt-coronavirus-workplace-robots-automation-20200411-bwhb2bsm5zb6npb7rap6qwdz7i-story.html?outputType=amp",
-      "publishedDateTime": "2020-04-11T06:39:00-07:00",
+      "webUrl": "https://www.baltimoresun.com/coronavirus/sns-nyt-coronavirus-workplace-robots-automation-20200411-bwhb2bsm5zb6npb7rap6qwdz7i-story.html",
+      "ampWebUrl": "https://www.baltimoresun.com/coronavirus/sns-nyt-coronavirus-workplace-robots-automation-20200411-bwhb2bsm5zb6npb7rap6qwdz7i-story.html",
+      "cdnAmpWebUrl": "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/coronavirus/sns-nyt-coronavirus-workplace-robots-automation-20200411-bwhb2bsm5zb6npb7rap6qwdz7i-story.html",
+      "publishedDateTime": "2020-04-11T10:14:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Chicago Tribune",
-        "domain": "chicagotribune.com",
+        "name": "The Baltimore Sun",
+        "domain": "baltimoresun.com",
         "images": null,
         "publishers": null,
         "authors": null
       },
       "images": [
         {
-          "url": "https://www.chicagotribune.com/resizer/hUzD0bA3oLj-KvR_sy-QUQYAYrM=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/OTPACKPGK5E6DPAX4G2NPH5WIU.jpg",
+          "url": "https://www.baltimoresun.com/resizer/hUzD0bA3oLj-KvR_sy-QUQYAYrM=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/OTPACKPGK5E6DPAX4G2NPH5WIU.jpg",
           "width": 1200,
           "height": 900,
           "title": "Robots welcome to take over, as pandemic accelerates automation",
@@ -294,14 +420,14 @@
     {
       "path": "_news/2020-04-11-amazon-announces-general-availability-of-aws-deepcomposer.md",
       "title": "Amazon Announces General Availability of AWS Deepcomposer",
-      "excerpt": "At re:Invent last year, Amazon launched AWS Deepcomposer as a preview, and it is generally available now with a few new features. These features include: Julien Simon, artificial intelligence & machine learning evangelist for EMEA, states in a blog post on ...",
+      "excerpt": "Recently, Amazon announced the general availability of Deepcomposer, a service in AWS, which provides developers with a creative way to learn Machine Learning (ML). Deepcomposer is a machine ...",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.infoq.com/news/2020/04/amazon-aws-deepcomposer-ga/",
+      "webUrl": "https://www.infoq.com/news/2020/04/amazon-aws-deepcomposer-ga/?useSponsorshipSuggestions=true&itm_source=presentations_about_architecture-design&itm_medium=link&itm_campaign=architecture-design",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-11T04:30:00-07:00",
+      "publishedDateTime": "2020-04-11T04:09:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "InfoQ",
@@ -921,124 +1047,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-10-man-creates-hilarious-ai-version-of-himself-to-take-his-spot-during-zoom-calls.md",
-      "title": "Man creates hilarious AI version of himself to take his spot during Zoom calls",
-      "excerpt": "Well, sort of. Reed created an \"AI Digital Twin\" or a Zoombot if you will, and taught it speech recognition and text-to-speech conversation. Now, the fake version of himself is able to stand-in on Zoom calls and even respond to programed questions like \"How are you?\" and \"Did you get that?\" The only problem is it's very clear the Zoombot is a bot.",
-      "heat": 83,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://mashable.com/video/zoombot-artificial-intelligence-zoom-call-video/",
-      "ampWebUrl": "https://mashable.com/video/zoombot-artificial-intelligence-zoom-call-video.amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/video/zoombot-artificial-intelligence-zoom-call-video.amp",
-      "publishedDateTime": "2020-04-10T08:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/2020%252F04%252F10%252Ff7%252F66e6a79128e74588a39814c057108215.2f239.jpg%252F1200x630.jpg?signature=65tWZn413juYIGJ9fZycU-YQfR8=",
-          "width": 1200,
-          "height": 630,
-          "title": "Man creates hilarious AI version of himself to take his spot during Zoom calls",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-10-facebook-proposes-3d-navigation-task-for-training-autonomous-robots.md",
-      "title": "Facebook proposes 3D navigation task for training autonomous robots",
-      "excerpt": "“Crucially, VLN-CE … provides the [research] community with a testbed where these sort ... In 2018, the company open-sourced AI that can navigate New York City streets with 360-degree images. More recently, a Facebook team published a paper describing a system that learns how to get around an office by watching videos.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/10/facebook-proposes-3d-navigation-task-for-training-autonomous-robots/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/10/facebook-proposes-3d-navigation-task-for-training-autonomous-robots/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/10/facebook-proposes-3d-navigation-task-for-training-autonomous-robots/amp/",
-      "publishedDateTime": "2020-04-10T08:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/05/facebook-ai.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Facebook proposes 3D navigation task for training autonomous robots",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-10-heres-how-microsoft-teams-plans-to-use-ai-to-suppress-background-noise.md",
-      "title": "Here’s how Microsoft Teams plans to use AI to suppress background noise",
-      "excerpt": "And then, we see if we use a certain training set, how well does that do on the test set? So ideally yes, I would love to have a training set,” said Aichner. Other issues discussed in the VentureBeat report include building and improving a neural network. The report also looks at how data is moved between Azure and the cloud and the Edge.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.onmsft.com/news/heres-how-microsoft-teams-plans-to-use-ai-to-suppress-background-noise",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-10T07:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "On MSFT",
-        "domain": "onmsft.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i1.wp.com/www.onmsft.com/wp-content/uploads/2020/04/Teams-Noise-Supression.png?fit=1024%2C578&ssl=1",
-          "width": 1024,
-          "height": 578,
-          "title": "Here’s how Microsoft Teams plans to use AI to suppress background noise",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

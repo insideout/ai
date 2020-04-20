@@ -2,6 +2,133 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-04-19-privitar-announces-availability-of-its-data-privacy-platform-in-aws-marketplace.md",
+      "title": "Privitar announces availability of its Data Privacy Platform in AWS Marketplace",
+      "excerpt": "AWS Security, Data and Analytics Competency In addition ... constantly and efficiently monitor cameras in real-time or review the high volumes of archived video. Video analytics powered by Artificial Intelligence Increasingly, event venues are overcoming this challenge and maximising this video data by investing in intelligent video surveillance.",
+      "heat": 70,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.sourcesecurity.com/news/privitar-availability-data-privacy-platform-aws-marketplace-co-1537871022-ga-co-1580719254-ga-npr.1587126989.html",
+      "ampWebUrl": "https://www.sourcesecurity.com/amp/news/privitar-availability-data-privacy-platform-aws-marketplace-co-1537871022-ga-co-1580719254-ga-npr.1587126989.html",
+      "cdnAmpWebUrl": "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/privitar-availability-data-privacy-platform-aws-marketplace-co-1537871022-ga-co-1580719254-ga-npr.1587126989.html",
+      "publishedDateTime": "2020-04-19T15:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SourceSecurity",
+        "domain": "sourcesecurity.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://security-img.scdn6.secure.raxcdn.com/news/612/vandalism-surveillance-920x533_1578636475.jpg",
+          "width": 612,
+          "height": 355,
+          "title": "Privitar announces availability of its Data Privacy Platform in AWS Marketplace",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-19-nvidias-mellanox-acquistion-finally-gets-okd-by-chinese-regulators.md",
+      "title": "NVIDIA's Mellanox Acquistion Finally Gets OK'd by Chinese Regulators",
+      "excerpt": "Given the potential for its technology over the next decade to power data centers, edge network computing, AI, and more, the GPU design leader remains one of my core portfolio holdings.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fool.com/investing/2020/04/19/nvidia-mellanox-finally-okd-by-chinese-regulators.aspx?source=iedfolrf0000001",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/04/19/nvidia-mellanox-finally-okd-by-chinese-regulators.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/04/19/nvidia-mellanox-finally-okd-by-chinese-regulators.aspx",
+      "publishedDateTime": "2020-04-19T13:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F568360%2Fcloud-computing-getty-6217.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 800,
+          "title": "NVIDIA's Mellanox Acquistion Finally Gets OK'd by Chinese Regulators",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-19-this-doctor-from-kashmir-uses-machine-learning-to-crunch-coronavirus-data.md",
+      "title": "This Doctor From Kashmir Uses Machine Learning To Crunch Coronavirus Data",
+      "excerpt": "A young surgeon raised in Kashmir is now part of a team using big data and machine learning to help detect useful patterns in the tsunami of public health data generated world-wide by the COVID-19 crisis and do what he can for those back home.",
+      "heat": 88,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/andrewwight/2020/04/19/this-doctor-from-kashmir-uses-machine-learning-to-crunch-coronavirus-data/",
+      "ampWebUrl": "https://www.forbes.com/sites/andrewwight/2020/04/19/this-doctor-from-kashmir-uses-machine-learning-to-crunch-coronavirus-data/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/andrewwight/2020/04/19/this-doctor-from-kashmir-uses-machine-learning-to-crunch-coronavirus-data/amp/",
+      "publishedDateTime": "2020-04-19T07:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e8f979915a3500006b64361%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1346%26cropY1%3D44%26cropY2%3D801",
+          "width": 1200,
+          "height": 675,
+          "title": "This Doctor From Kashmir Uses Machine Learning To Crunch Coronavirus Data",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-19-energy-industry-turning-to-robotics-to-inspect-infrastructure.md",
       "title": "Energy industry turning to robotics to inspect infrastructure",
       "excerpt": "Gecko Robotics is providing the energy industry with artificial intelligence-enabled robots to inspect infrastructure and supply massive amounts of data to help predict failures before they occur.",
@@ -950,132 +1077,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-04-17-maker-villages-start-up-launch-ai-drone-to-combat-covid-19.md",
-      "title": "Maker Village’s start-up launch AI-drone to combat Covid-19",
-      "excerpt": "A start-up at Maker Village Kochi has developed a AI-enabled drone to monitor body temperature, supply essential commodities and spray disinfectants. The Garud has been designed and engineered by AI Aerial Dynamics at the Maker Village, which is India’s largest electronic hardware incubator and ESDM facility. The indigenously-made drone is ...",
-      "heat": 77,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.thehindubusinessline.com/news/maker-villages-start-up-launch-ai-drone-to-combat-covid-19/article31368638.ece",
-      "ampWebUrl": "https://www.thehindubusinessline.com/news/maker-villages-start-up-launch-ai-drone-to-combat-covid-19/article31368638.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/news/maker-villages-start-up-launch-ai-drone-to-combat-covid-19/article31368638.ece/amp/",
-      "publishedDateTime": "2020-04-17T07:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Line",
-        "domain": "thehindubusinessline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.thehindubusinessline.com/static/theme/default/base/img/og-image.jpg",
-          "width": 300,
-          "height": 300,
-          "title": "Maker Village’s start-up launch AI-drone to combat Covid-19",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-17-has-elon-musk-set-up-regulatory-boogeyman-as-scapegoat-for-ongoing-delay-in-promise-of-self-driving-teslas.md",
-      "title": "Has Elon Musk Set Up Regulatory Boogeyman As Scapegoat For Ongoing Delay In Promise Of Self-Driving Teslas?",
-      "excerpt": "A tweet by Elon Musk this recent Easter weekend has sprung forth an erstwhile Easter egg hunt by the media and industry about the self-driving car status of Tesla. Let’s first consider the self-driving car ambitions of Tesla and then get to Musk’s latest tweet.",
-      "heat": 81,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/04/17/has-elon-musk-set-up-a-regulatory-boogeyman-as-scapegoat-for-delay-in-his-self-driving-tesla-promise/",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/04/17/has-elon-musk-set-up-a-regulatory-boogeyman-as-scapegoat-for-delay-in-his-self-driving-tesla-promise/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/04/17/has-elon-musk-set-up-a-regulatory-boogeyman-as-scapegoat-for-delay-in-his-self-driving-tesla-promise/amp/",
-      "publishedDateTime": "2020-04-17T07:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F35029753%2F0x0.jpg%3FcropX1%3D219%26cropX2%3D3774%26cropY1%3D0%26cropY2%3D2666",
-          "width": 1200,
-          "height": 900,
-          "title": "Has Elon Musk Set Up Regulatory Boogeyman As Scapegoat For Ongoing Delay In Promise Of Self-Driving Teslas?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-17-how-facebook-works-for-trump.md",
-      "title": "How Facebook Works for Trump",
-      "excerpt": "In the artificial-intelligence field, this system is the opposite of self-driving cars or robots or virtual assistants: a deeply boring, basically invisible application of machine learning that is dramatically reshaping our lives not someday, but right now. Facebook wired a machine into electoral decision making. Political campaigns have ceased ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.theatlantic.com/technology/archive/2020/04/how-facebooks-ad-technology-helps-trump-win/606403/",
-      "ampWebUrl": "https://amp.theatlantic.com/amp/article/606403/",
-      "cdnAmpWebUrl": "https://amp-theatlantic-com.cdn.ampproject.org/c/s/amp.theatlantic.com/amp/article/606403/",
-      "publishedDateTime": "2020-04-17T06:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Atlantic",
-        "domain": "theatlantic.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/theatlantic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.theatlantic.com/thumbor/tUyia50nMKcThmFLEx4TGD5fU-o=/0x85:2000x1210/570x321/media/img/mt/2020/04/WebArt_IanBogost_FacebookTrump_1/original.jpg",
-          "width": 570,
-          "height": 321,
-          "title": "How Facebook Works for Trump",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,45 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-04-03-gumstix-ai-series-for-nvidia-jetson-nano-features-tensorflow-pre-integration.md",
+      "title": "Gumstix AI Series for NVIDIA Jetson Nano Features TensorFlow Pre-Integration",
+      "excerpt": "The devices, which are powered by the NVIDIA Jetson Nano running a Quad-core ARM A57, feature built in TensorFlow support to make edge AI prototyping more accessible for software engineers. According to the company, the AI devices streamline the software-hardware integration and provide users the following benefits: - Easy to customize modular ...",
+      "heat": 70,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.embedded-computing.com/news/gumstix-ai-series-for-nvidia-jetson-nano-features-tensorflow-pre-integration",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-03T13:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Embedded Computing Design",
+        "domain": "embedded-computing.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "http://share.opsy.st/5e879c92ccff4-Screen+Shot+2020-04-03+at+1.28.54+PM.png",
+          "width": 367,
+          "height": 496,
+          "title": "Gumstix AI Series for NVIDIA Jetson Nano Features TensorFlow Pre-Integration",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "TensorFlow",
+        "Google AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2020-04-03-tech-leaders-highlight-military-ai-and-5g-investments-they-call-essential-to-us-economy-and-national-security.md",
       "title": "Tech leaders highlight military AI and 5G investments they call essential to U.S economy and national security",
       "excerpt": "Other recommendations in the report include: On matters of privacy and ethics, the Commission singles out Clearview AI, a company that scraped billions of images from the web to create a facial recognition system, as an example of invasive AI-powered tech that should be avoided. Tech companies that track the location of individuals ...",
@@ -1207,43 +1246,6 @@
           "width": 1200,
           "height": 600,
           "title": "Intel debuts Pohoiki Springs, a powerful neuromorphic research system for AI workloads",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-18-specialized-processors-accelerate-endpoint-ai-workloads.md",
-      "title": "Specialized processors accelerate endpoint AI workloads",
-      "excerpt": "(Image: Texas Instruments Inc.) Nvidia’s well-known Jetson Nano is a small but powerful graphics processing unit (GPU) module for AI applications in endpoint devices. Built on the same Maxwell architecture as larger members of the Jetson family (AGX Xavier and TX2), the GPU on the Nano module has 128 cores and is capable of 0.5 TFLOPS ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.embedded.com/specialized-processors-accelerate-endpoint-ai-workloads/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-18T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Embedded",
-        "domain": "embedded.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.embedded.com/wp-content/uploads/2020/03/img20200318091424Top-10-processors-for-AI-acceler_0.jpg?resize=1024,576",
-          "width": 1024,
-          "height": 576,
-          "title": "Specialized processors accelerate endpoint AI workloads",
           "attribution": null
         }
       ],

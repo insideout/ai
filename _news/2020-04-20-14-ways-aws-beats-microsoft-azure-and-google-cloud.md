@@ -5,9 +5,9 @@ excerpt: "If your shop is obsessed with mixing AI into your stack, Amazon has al
 publishedDateTime: 2020-04-20T10:02:00Z
 webUrl: "https://www.infoworld.com/article/3321176/14-ways-aws-beats-microsoft-azure-and-google-cloud.html"
 type: article
-quality: 69
-heat: 69
-published: false
+quality: 101
+heat: 101
+published: true
 
 provider:
   name: InfoWorld
@@ -20,6 +20,7 @@ provider:
 topics:
   - AWS AI
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://images.techhive.com/images/article/2016/12/thumbs-up-multicultural-100701134-large.3x2.jpg"
@@ -27,6 +28,6 @@ images:
     height: 467
     title: "14 ways AWS beats Microsoft Azure and Google Cloud"
 
-secured: "jULgkHZH2WW4sWtj9tT18W4yutDxSpgUa3hCNaRssIBcyhYHyGexuicgPiGGAAJdZG7Ca4dCp2Rj2wwwi07NtVL9QG8QkAcNZKAD0N7i5QgE/fPnrYyb/bMmuev3oiAClJTsj0/6MB0hn9lArXIx5nn31aeMSLhomkJmXDPgnOIVYZsLwDzok0Y2o5l8uIjnoL+Cl4CrwFrw4rsANH8OTwKjenShBFUGqzUByjKbI/ZiTItsOyHgvtgzko7YSA4XOP1dA9o3hkzPuAxtnupyfOK0cH098Vy6N+Tt6rGjNff84VcgMagUlw2YaM6Ot1T7;QXgZUk52YwT3l2vRiMhUdg=="
+secured: "Bx+h+AzXfxFED7jLPr188/MpOe+FYm6p49xF/NddVOAW/sTmv2fV1jbgG520RM6gFNYByVHgVEVq8dMdPLgN7LTrC5TWkunSl4rMmwceIhHbULJMUpCta5ODYAyJCk0KiT8Y9tKuLuXkDwo4ukm6WNO+L7ATB9RQo919rYSHXz1MCBkg8ybKQFA8RgP/ij9Rz6A50Uc9nZmG5vjX1q9+0juy5KvqhAhWzFShhW6JGNBDxWcikis1WIO7+YHpMGhfK2bscn+6xvrUkrKai+jpyCBY7rlFTPXIps8VsL5EmZ1a9UXl3DvJnasmS7vtO6S0tFj6OD057lIMnoBTIJYH7urORgfNXtxob5VKucXgmMIpIG3+4eJnMRwF1Zzzhzo0CuAGa1tydm2oXiVWGcp23LtZmNlt5XqDGojSBX3hA9wsX3A335VirazvS6LVkLVhUw0pEAVx6BEy67zQJkhDcALms9/JJmUAxdhnnLgzHjU=;f6T3aCfnn72SUzUWrc362g=="
 ---
 

@@ -2,6 +2,51 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-04-20-microsoft-pairs-machine-learning-models-to-fight-software-bugs.md",
+      "title": "Microsoft pairs machine learning models to fight software bugs",
+      "excerpt": "Microsoft has been collecting 13 million work items and bugs since 2001, and used that data to create a machine learning model to fight software bugs. According to the company, the model distinguishes between security and non-security bugs 99% of the time and identify the high-priority bugs 97% of the time. “At Microsoft, 47,000 developers ...",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://sdtimes.com/msft/microsoft-pairs-machine-learning-models-to-fight-software-bugs/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-20T13:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SD Times",
+        "domain": "sdtimes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://sdtimes.com/wp-content/uploads/2018/10/artificial-neural-network-3501528_960_720.png",
+          "width": 960,
+          "height": 540,
+          "title": "Microsoft pairs machine learning models to fight software bugs",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-20-openai-launches-mircoscope-with-lucid-library-to-help-unravel-neural-networks.md",
       "title": "OpenAI launches Mircoscope with Lucid Library to help unravel neural networks",
       "excerpt": "Microscope does the same thing with neural networks. It studies the neurons in these networks and their interconnectivity ... OpenAI is a research laboratory based in San Francisco, California. It mainly works in the artificial general intelligence (AGI)area to build systems for the benefit of humankind. It was co-founded by Elon Musk in ...",
@@ -390,43 +435,6 @@
           "width": 1024,
           "height": 668,
           "title": "New MIT machine learning model shows relaxing quarantine rules will spike COVID-19 cases",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-16-new-web-based-automl-tool-from-sensiml-makes-ai-for-iot-easier-than-ever.md",
-      "title": "New Web-Based AutoML Tool from SensiML Makes AI for IoT Easier than Ever",
-      "excerpt": "PORTLAND, Ore., April 16, 2020 /PRNewswire/ -- SensiML™ Corporation, a leading developer of AI tools for building intelligent IoT endpoints, has released a new web-based AutoML tool with a ...",
-      "heat": 73,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.benzinga.com/pressreleases/20/04/n15819256/new-web-based-automl-tool-from-sensiml-makes-ai-for-iot-easier-than-ever",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/15819256",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15819256",
-      "publishedDateTime": "2020-04-16T06:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/891804/SensiML_Logo.jpg",
-          "width": 400,
-          "height": 208,
-          "title": "New Web-Based AutoML Tool from SensiML Makes AI for IoT Easier than Ever",
           "attribution": null
         }
       ],
@@ -1238,7 +1246,7 @@
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.archdaily.com/937051/when-machines-design-artificial-intelligence-and-the-future-of-aesthetics/",
+      "webUrl": "https://www.archdaily.com/937051/when-machines-design-artificial-intelligence-and-the-future-of-aesthetics",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-04-08T04:39:00-07:00",

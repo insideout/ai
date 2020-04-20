@@ -2,6 +2,110 @@
   "page": 33,
   "value": [
     {
+      "path": "_news/2020-03-18-ibm-talks-up-deeper-language-smarts-for-watson.md",
+      "title": "IBM talks up deeper language smarts for Watson",
+      "excerpt": "“Language is a tool for expressing thought and opinion, as much as it is a tool for information,” said Rob Thomas, general manager, IBM Data and AI. “This is why we’re harvesting technology from Project Debater and integrating it into Watson – to enable businesses to capture, analyse, and understand more from human language and start ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cio.com/article/3532454/ibm-talks-up-deeper-language-smarts-for-watson.html",
+      "ampWebUrl": "https://www.cio.com/article/3532454/ibm-talks-up-deeper-language-smarts-for-watson.amp.html",
+      "cdnAmpWebUrl": "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/3532454/ibm-talks-up-deeper-language-smarts-for-watson.amp.html",
+      "publishedDateTime": "2020-03-18T03:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CIO",
+        "domain": "cio.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2018/09/11_everyone-has-a-voice_point-of-view_speaking_communication_megaphone-100771142-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "IBM talks up deeper language smarts for Watson",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-03-18-cerence-powers-voice-for-all-new-uconnect-5-global-infotainment-platform-at-fca.md",
+      "title": "Cerence Powers Voice for All-New Uconnect 5 Global Infotainment Platform at FCA",
+      "excerpt": "Brings its most innovative voice recognition capabilities to FCA model lineup, delivering more engaging and intuitive in-car experiences Brings its most innovative voice recognition capabilities to FCA model lineup, delivering more engaging and intuitive ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.autoblog.com/press-releases/cerence-powers-voice-for-all-new-uconnect-5-global-infotainment-platform--at-fca_22558/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-18T03:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Autoblog",
+        "domain": "autoblog.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-18-oneconnect-joins-idcs-financial-insights-fintech-fast-101-list-of-leading-fintech-companies-in-asia.md",
+      "title": "OneConnect Joins IDC’s Financial Insights’ FinTech Fast 101 List of Leading FinTech Companies in Asia",
+      "excerpt": "IDC’s FinTech Fast 101 was based upon extensive ... Lastly, OneConnect’s rapid respond to customers’ demands during the ongoing COVID-19 epidemic using AI, big data and blockchain, sets it apart from the competition. OneConnect has specifically offered five smart solutions, which enable financial institutions to experience a smooth ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businesswire.com/news/home/20200318005262/en/OneConnect-Joins-IDC’s-Financial-Insights’-FinTech-Fast",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-18T03:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20200318005262/en/780435/23/IDC.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": "OneConnect Joins IDC’s Financial Insights’ FinTech Fast 101 List of Leading FinTech Companies in Asia",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-18-canon-medicals-3t-mr-system-receives-fda-clearance-for-artificial-intelligence-based-image-reconstruction-technology.md",
       "title": "Canon Medical’s 3T MR System Receives FDA Clearance for Artificial Intelligence-Based Image Reconstruction Technology",
       "excerpt": "AiCE was trained using vast amounts of high-quality image data, and features a deep learning neural network that can reduce noise and boost signal to quickly deliver sharp, clear and distinct images, further opening doors for advancements in MR imaging. Capabilities include: “AiCE utilizes a next generation approach to MR image reconstruction ...",
@@ -1038,133 +1142,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-google-translates-real-time-transcription-feature-is-out-now-for-android.md",
-      "title": "Google Translate’s real time transcription feature is out now for Android",
-      "excerpt": "Google Translate’s new transcription feature, first demoed back in January, is out now for Android users as part of an update to the artificial intelligence-powered mobile app. The feature will allow you to record spoken words in one language and transform them into translated text on your phone,",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.theverge.com/2020/3/17/21182640/google-translate-transcription-android-feature-real-time-ai",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/3/17/21182640/google-translate-transcription-android-feature-real-time-ai",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/3/17/21182640/google-translate-transcription-android-feature-real-time-ai",
-      "publishedDateTime": "2020-03-17T10:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/ReCZry-1zkKGcNVoPaOLuDzeU_s=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66513218/acastro_180427_1777_0001.0.jpg",
-          "width": 1400,
-          "height": 933,
-          "title": "Google Translate’s real time transcription feature is out now for Android",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-intel-is-teaching-a-computer-chip-to-smell.md",
-      "title": "Intel is teaching a computer chip to smell",
-      "excerpt": "Loihi, Intel's first neuromorphic computing chip, was unveiled in 2017 and pitched by the company as the next generation of AI, capable of applying the principles of computation found in biological brains to computer architectures. Loihi is capable of self-learning thanks to a new type of neural network dubbed \"spiking neural network\".",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/intel-is-teaching-a-computer-chip-to-smell/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/intel-is-teaching-a-computer-chip-to-smell/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/intel-is-teaching-a-computer-chip-to-smell/",
-      "publishedDateTime": "2020-03-17T10:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/03/17/6f4e1212-d9d2-4e4c-801d-0817de866124/loihi-889x600.jpg",
-          "width": 1138,
-          "height": 768,
-          "title": "Intel is teaching a computer chip to smell",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-how-the-nz-government-will-regulate-ai.md",
-      "title": "How the NZ government will regulate AI",
-      "excerpt": "The community workshops held by the project team have recommended that the innovative approaches and tools should concentrate on the areas of national conversations about AI ethics and values, assessment and options for a centre of excellence.” In another Government AI development, Statistics New Zealand has released a draft algorithm charter ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.computerworld.com/article/3532505/how-the-nz-government-will-regulate-ai.html",
-      "ampWebUrl": "https://www.computerworld.com/article/3532505/how-the-nz-government-will-regulate-ai.amp.html",
-      "cdnAmpWebUrl": "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3532505/how-the-nz-government-will-regulate-ai.amp.html",
-      "publishedDateTime": "2020-03-17T10:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computerworld",
-        "domain": "computerworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2018/08/brain_mind_neural_network_connections_artificial_intelligence_machine_learning_by_metamorworks_gettyimages-957654482_1200x800-100767998-large.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "How the NZ government will regulate AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }
