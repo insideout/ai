@@ -5,8 +5,8 @@ excerpt: "According to the Gartner Hype Cycle, several critical components of wh
 publishedDateTime: 2020-04-20T12:35:00Z
 webUrl: "https://www.tvtechnology.com/news/artificial-intelligence-is-leaving-its-mark-on-pro-video"
 type: article
-quality: 37
-heat: 37
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -15,6 +15,8 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
+  - Natural Language Processing
 
 images:
   - url: "https://cdn.mos.cms.futurecdn.net/jrqymKEf2S6dAHHMr8aCaP-1200-80.jpg"
@@ -22,6 +24,6 @@ images:
     height: 800
     title: "Artificial Intelligence Is Leaving Its Mark on Pro Video"
 
-secured: "l19oEkue89vKov3wq9xXVJ3DMXdEy2XskBPeiXRrkpFgwBxlFY3WfyX3X0PWn4VpM0wNWEVEkjHbs2/pj7A8sRy60eKnsvDbGv8hWhqstnd0ltyDRSJz4uG6NKzT6MoGm+0e8apMTz9rM3SvQxhvH4YZJMx/slsW/ZQC81yGGVB5gbrIf04fgaBzOmChw99k9CwAZR+mvicqj2oIMo3caqq8B5mf5lXt2ndlOsEoSQA2uxpJIO5k3DazFuVUlnNxm3Hkb9VzPE2l4LWuh1fGQ98HHWFNRpaOOlvKogLXoBDt4S2xHbelwjRBVu0byYxV;3lFK7/UOTrJkmNspr+WrYA=="
+secured: "OP/SmmILkpgEzUCf6SAwCBxbMufZBOAW5WzSgMG43lgN0zAdB9LWs8NxuSaM9dj5JtQSNOI0t4SP9W4by7PNxMYXH8yrYSIWKKLyYS5ag94SB2Bdfa/XlC2yIIQSnHoStRGNF9BIhz38Xr5G4RUYL44KG2jtmDafpkvD4EkuGrul+XJ4azPIuLO7SWn9n8q0XrJNv3BkLeuzcrQtJP0g0iwPmNXnYNVxp//gUbHoUazrGQScB0fI0Ev4VMpEuL6Np+JBv3A2ertW7NyXjWkWd7ArO//d1d1t4Vv5RBrs2emni1he+NHnTQhLL50DABrZJWcC77teW/vHmbv5dLbgeUsoKR9IknNeaVSM2FLflomf8/bQfBjjwogoxy5S6PyN77MHarFt/CViGI4o72gm3UsonEcf4ST5OBtdg/GaW9XGbfa8O2nSXE9XNCfOVW2RiTiQDyCHO0ZtMibuYH0vWCrsfbYEenILkkGwHHefhxQ=;FeZfvxTygdBdBp0Zqr1wpw=="
 ---
 

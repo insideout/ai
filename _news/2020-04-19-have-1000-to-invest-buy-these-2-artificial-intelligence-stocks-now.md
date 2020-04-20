@@ -2,8 +2,8 @@
 category: news
 title: "Have $1,000 to Invest? Buy These 2 Artificial Intelligence Stocks Now"
 excerpt: "Artificial intelligence (AI) -- the capability of a machine to mimic intelligent human behavior -- is a huge growth trend. The tech is being used to smarten up countless things large and small -- from cities and homes to cars and computers to factory equipment and healthcare diagnostic tools. One research firm, IDC, estimates that spending on ..."
-publishedDateTime: 2020-04-19T19:08:00Z
-webUrl: "https://www.fool.com/investing/2020/04/19/have-1000-to-invest-buy-these-2-artificial-intelli.aspx"
+publishedDateTime: 2020-04-19T23:01:00Z
+webUrl: "https://www.fool.com/investing/2020/04/19/have-1000-to-invest-buy-these-2-artificial-intelli.aspx?source=eptcnnlnk0000002"
 ampWebUrl: "https://www.fool.com/amp/investing/2020/04/19/have-1000-to-invest-buy-these-2-artificial-intelli.aspx"
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/04/19/have-1000-to-invest-buy-these-2-artificial-intelli.aspx"
 type: article
@@ -29,6 +29,6 @@ images:
     height: 800
     title: "Have $1,000 to Invest? Buy These 2 Artificial Intelligence Stocks Now"
 
-secured: "yTmjuNcvjx7KXki/5/zmXbAkfgMxASgsNIRUL/n2KZveqoXPgkFxewAdhMn5NENbZCaQ92DNGAq2oJZNpZwBPduHkyUW0mVBopR9eafPDn2+ZMHZ7J5/S+jJ6V+k7G5W9ScMnr/xGnwYxYr45lZ7Q/teubpbfIfhBffe+jO00UifIaIXFQsPZ33lDgaV5Oo/fJKUotjfUOye6HzjzkRv6utJRQqHth5ZK6ubxshjLnWTTZ2mpeKItOCswdn9nYaQEZaSsUbCe/rSLWZFL2PxUqMFngmNRV0FwZdIt3GnC5Xstv4+P4b5iRGtMO10vidae4T25MJr0Lb+0dV5bmcbmjZY97ctKuOCp9/O3L1ZIG96+ktEFFgxiYYjuJ1XG4oF4zjJ69JkWz0wT+trjSUrxUjn++dMcmIu1wBtW+MQJah4NyG+K38qQMuJJgsRds9apo00dMzk2rvyOvqZa85EqfzxWpdzKzdkGYwMjac9Ey0=;xhkVhAgQ49lFW9JVo7Qs+w=="
+secured: "gkn5ykBo7Mefeo6ivXzwe0ZBPQSZEcLrj9gTcqxEtCprFLrhs11rl/TalzWpGmLNbIXcL3PWAMDek1BZGY6TXAXRCZY1Rms9Po3x//2B0cz7keHVwRGL+Ffa41LWG8kUMm1Xjco3dQ04+oCp3eRQSXmD7VJoki0fJkt0S0mu5B6I/P04IK8i4if057ndTr4R9jgM0/rmM1hd6yHGoqx2UtSWXnMiNt9V4yfd6IGeUZyageUEneEaDNjqutpMB2AzF+i2ftDZoB5KS7Lxn/8m1lusY9MXp9zafUn2J/Ec+/k3wnif0FelorCALwsArZ/t;lDMferoCDB4ddGqKHx6tqQ=="
 ---
 

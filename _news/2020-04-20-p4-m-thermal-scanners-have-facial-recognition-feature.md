@@ -23,6 +23,6 @@ images:
     height: 533
     title: "P4-M thermal scanners have facial recognition feature"
 
-secured: "qqZl+5nHum2As1cbK7PBIw9uyhp+bYB/inJcuEvGp/E/lr68hHbasTAZM1smBnN9CnXPWaGNcd+2fNv4jOxcNvU2XpJrnEIUH9QqLLnN+M9GbwghA54gigyEMWH/VA1V/JPph0m2pi12CG/2qSTpmn032W4QAP/0w+oH+aAnqKadcCru48u1GzjrP+W41iLQlzNSV53PbCJNoEZbDUZfpRo7Aps5Olw4/poPFrw1NwAwGVJDr2a3T8JnbC5BoOQagQl1atCF/VL1IQPNIVR74pJck5bDS3Lx2IB+pNExULtimUGzeo+3pXn9SEdXf5+V;DF7UT09zFxyTxu6SnCnZjg=="
+secured: "pKaqHm8fe5ecYEOxT6fjk+XWGSjNroopT+cO/m6gU/lXZWjhCnxMEvP76rPpAR154FbknJGGza+zWk1RQAPwJdz8Y+cwSL8Pz/x2YTGyFJgmzaC+L/We+qPI4jBp+d0Uw8xc1NkFksdSI/wZaYv0wmZuZ+mVEh07unqtHY9Ss5WyFJtF3XECSEkcsjDDT8/GE64OUe7hAN9EQnYIstsK58fCgRt914K2tLBBpuwIccU1En3oG/nm+is2GotI/h1aEhJxyjswJhoy79ckOSC7kuHqORkNcoKhYehQEOWhbY2ZGkhyQNDoudodI44FTlWJR11aNBTS9DNFi967oJatDDeR+7FN5XqWkQFXYbrbGQHYkvLe/xah/RhsyPmORqVevOCd97OO5H4R4Ex5R2sSTHIYZA1JWc2VrNWGst1UDos5vPQPhqSJBzN2SuZr0FGpO7oIEJTvQiMPbeOUQcq1hVa/uV4x127fGNWWn68Jq90=;MUH8akB+z+sahg9W/4eU6Q=="
 ---
 

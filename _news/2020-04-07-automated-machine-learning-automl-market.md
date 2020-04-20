@@ -14,6 +14,12 @@ topics:
   - Machine Learning
   - AI
 
-secured: "r4vIwSQfpdV1VGk0m2S54IVwUZrPMKPsj0Jvq2NKP5rMh3NZv4SjJ22d06oqmEMdpjXYMcdCfJm7FydJKxOqy8U0jbqO8eQa/ytReCOsnYZQxMtfwsNWwGfqEco1dFGXk3wwhql/fLA37fgmWdxzbgOEGSENXak/uJOcnxSmmkYkU/0NYwtknLjcbxMI5dlJpwb4by/i9Vli1uWBxdHlVFwgA/oInnV3dBY1lTOrR5m0yQWznYEcGwoUJUB/E6o++Pd8VSH1BkgimCL3qzwCiOiV/eqaB+4G3OXZPW01ASgcU+XbxelW6doDOWbU/cxh;9WnJTI3X2L1Mk0gM1+Ap8Q=="
+images:
+  - url: "https://images.finanzen.net/images/logos/finanzennet_600x315.jpg"
+    width: 600
+    height: 315
+    title: "Automated Machine Learning (AutoML) Market"
+
+secured: "oICVwXBQjR4f77/bnABXZBcCNJ88Fc+VwBdQHyG1xqcJdz2sKC2HrsMIJMzGIKW1bZEHkG1Yb8GgIFCr9VJzq53RmLPQ/7iWNvkSSB/R7mcnKi3kS0iKfIpcy9VxEnMZSpTSOd1pwANcfBl7BY9n5/Hv7JVUSNkBh8HiPm+9xZL+4taO83tZaGcz9EHgCC2ei9hLw5WrsHaozFguO7nHZA1W1ab2fCYilUoWSd0/wOVyowJyoAa81BoSs3jVmR2uAISySNztuCri3kJfDxk10Cz6VgvXM9FgIGi72yJ/+sT/FcVZedA9CQ+QpOZEoNJA;yFMYb889yurY7QIk+gqwdw=="
 ---
 

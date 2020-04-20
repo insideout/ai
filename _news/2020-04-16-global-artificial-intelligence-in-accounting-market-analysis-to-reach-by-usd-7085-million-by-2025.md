@@ -19,32 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence in Aviation Market 2020 Development Analysis and Future Estimations 2026"
-    excerpt: "The Market Research Intellect has recently added an extensive report to its repository titled Artificial Intelligence in"
-    publishedDateTime: 2020-04-15T21:04:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-aviation-market-2020-development-analysis-and-future-estimations-2026-2020-04-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Artificial Intelligence In Military Future Scope, Technological Development, and Projected Industry Growths to 2026"
-    excerpt: "The Market Research Intellect has recently added an extensive report to its repository titled Artificial Intelligence In"
-    publishedDateTime: 2020-04-15T21:05:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-military-future-scope-technological-development-and-projected-industry-growths-to-2026-2020-04-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 45
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
   - title: "Global Computer Vision in Healthcare Market Analysis to Reach by USD 1,171.6 Million by 2025"
     excerpt: "Zion Market Research has recently added latest report, titled “Global Computer Vision in Healthcare Market Analysis to Reach by USD 1,171.6 Million by 2025“, which examines the overview of the various factors enabling growth and trends in the global industry. The global Computer Vision in Healthcare Market report portrays an in-depth ..."
     publishedDateTime: 2020-04-16T05:22:00Z

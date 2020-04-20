@@ -23,6 +23,6 @@ images:
     height: 420
     title: "ID recognition + face verification technologies: the alliance for digital freedom or servitude?"
 
-secured: "GCvRet4Y4bn3umN/gsXMxFgcoelGt2NJUPf/79vD+jd9O9rnFuYnTACJS2nbmokXKQuL6tSsBqLk0/Q5tyGPgkZxT/t9UzvbwThLMwZd+WgR2h5BFkgYJoe5/cFh2RoXjbTnEoKcAD29GjJ2BEXNC8TYjorYckDvH5XkLvNMDoN1mh18ypqcOPCAC9f0HLuqcMRzeDjAGNtxRT48GIqAr84OpXrbYK9+Ns1Yt2Y/EayGJfdxH/LLifFwdVOMv9e8h1NNzbEVI3/Yku5B/VheUp1/8t73DQvlQnG2b8HcKYPyaC5OZFnLMdw17nQyQWtw;1LDnjj7iJA3BjZfNkrOK5w=="
+secured: "xiX9FvRooccc5fcbHY2vsMgggTeYuUg13kxVcKq9jWxbcgFK5o3eAHz7wFY1CoiLY+x3Yk4/mpnIYPNRukAZjg9DzVNdxZ8AB/vBq/LqwQ/jU4Yl9Ikj9X89q0Ud6ZlVcJADMFxzZwGKw/zYPlCMo9vsnUSf3ZazMb4lElzG2EDwgbsWKITOH4Pk890akTvs2cX9BH+kf363PKhuWLf5VuuaBQ8GJFx/gQfIwEHtVn/gpxjKs43F15aDMOHEIBRHy41RjjU1wsIy4zgboWhSEBOnj8lpUlyJRAUBjje3F23dJp31Efp69uhfT+2ALOXSFutOTgZoju+sgVMgUfkAY8e2iS4ZzCdmRaxik1H4kvziNzCD3tpy+zNSDT8sCRGpZFaFymbKlowUVjG1kqYuX++WxygXZx/1kgR3krIAezEIdfixBRapLyzMCdjYYzdw5EpWM2YpPlk93M/odtVOFugTxqWpqfDh8pyTVA3IhKw=;8c+0w8M1xkvJU0POAb/lWA=="
 ---
 

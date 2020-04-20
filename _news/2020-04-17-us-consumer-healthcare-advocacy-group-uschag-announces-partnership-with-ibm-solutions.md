@@ -1,12 +1,12 @@
 ---
 category: news
 title: "U.S. Consumer Healthcare Advocacy Group (USCHAG) Announces Partnership with IBM Solutions"
-excerpt: "U.S. Consumer Healthcare Advocacy Group (USCHAG) is pleased to announce a formal partnership with IBM Solutions. While the details of the relationship are confidential,"
-publishedDateTime: 2020-04-17T12:33:00Z
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/u-s-consumer-healthcare-advocacy-group-uschag-announces-partnership-with-ibm-solutions/article_bd7661a1-ef09-596d-a592-242638e0c699.html"
+excerpt: "utilization of artificial intelligence (AI) and IBM's Watson capabilities to effect positive and empowering change for consumers when working with the American healthcare system. In development ..."
+publishedDateTime: 2020-04-17T13:03:00Z
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/u-s-consumer-healthcare-advocacy-group-uschag-announces-partnership-with-ibm-solutions/article_bd7661a1-ef09-596d-a592-242638e0c699.html"
 type: article
-quality: 0
-heat: 0
+quality: 15
+heat: 15
 published: false
 
 provider:
@@ -17,6 +17,12 @@ topics:
   - IBM AI
   - AI
 
-secured: "opFYdo/iE8GlwMh8MfIhQK2av2fb3S5yVl5uqeM46AqLI2NzDizpEIfoinXSUC6YSOwtoGlv0XNXBvHRGiyW7GJ210Ogl+HDb66KpxaW7ChGNlPhhijwueJuwXJnG8roL7eUGvxl0tOhfST684uc6URMxIErkPqFLYMDBLTGESSAYwd2rP2nDeTT9Kh45Zku5q1hD6Z53DevDw908Lhc+ofPyglHUyhGX8WnAqoaZPmYf2XVhJeu3R8vjOro1gNUewXPIsrmkYzFWdwTNzhiaVQXxOLdKOZB6QrMMC1DXZKeh/PCsJhPlXieym2atISiWrZgfcAy0k3wKVHXbb/84AL15US0Z2QioePnZw5q57w56o/zKCZFvjqn2elVXGp8zQ4Gi32nosS2aXSI7w0zEXsSK48BVLYzydbFjjbhM8eoJ8uIvW6OXuMUi1klgSqC3dgIJGsB+OnfEQb1qOEjrg2fCIKm8W10jndV05cr/NI=;t6Hy3Psu3RuSA7++IlAv9Q=="
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/a/a7/aa72f18e-94ce-57c4-bfae-e17bf137f5eb/5e99a8d765877.image.jpg?resize=300%2C400"
+    width: 300
+    height: 400
+    title: "U.S. Consumer Healthcare Advocacy Group (USCHAG) Announces Partnership with IBM Solutions"
+
+secured: "VV8cCdVPPKzO0UnSbPNOUid36XthNMc8nVvJY2XX9qgqMOhLvQkwwt02YgCWXL5B9vbGuldGUKsFpDS7dbEJkLVjH+hPbSucYJWCuVQr25L4F5+u4D47D4m0wxCX7tGLVf5hANbzALYq91205wFfjQWjo5OZPtAcTtqTLE2DHbyejrqvehvqyB//fgJU44JG+dsCwbYz+AkY6CPgSKE28LQDFVH3xD8UwYA4rC6mgd62jMbX1dTgB5+oUtktTYTuMDMJk/DEpUNIwgGBU/N6cpEjPpua8mB9n2MYRHURG9zPIf+nVClEwFc5mZzlmyCH;LyLjMgZFG0S+VlYRncHXGA=="
 ---
 
