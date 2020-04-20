@@ -1,12 +1,12 @@
 ---
 category: news
 title: "U.S. Consumer Healthcare Advocacy Group (USCHAG) Announces Partnership with IBM Solutions"
-excerpt: "utilization of artificial intelligence (AI) and IBM's Watson capabilities to effect positive and empowering change for consumers when working with the American healthcare system. In development ..."
-publishedDateTime: 2020-04-17T13:03:00Z
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/u-s-consumer-healthcare-advocacy-group-uschag-announces-partnership-with-ibm-solutions/article_bd7661a1-ef09-596d-a592-242638e0c699.html"
+excerpt: "U.S. Consumer Healthcare Advocacy Group (USCHAG) is pleased to announce a formal partnership with IBM Solutions. While the details of the relationship are confidential,"
+publishedDateTime: 2020-04-17T12:33:00Z
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/u-s-consumer-healthcare-advocacy-group-uschag-announces-partnership-with-ibm-solutions/article_bd7661a1-ef09-596d-a592-242638e0c699.html"
 type: article
-quality: 15
-heat: 15
+quality: 0
+heat: 0
 published: false
 
 provider:
@@ -17,12 +17,6 @@ topics:
   - IBM AI
   - AI
 
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/a/a7/aa72f18e-94ce-57c4-bfae-e17bf137f5eb/5e99a8d765877.image.jpg?resize=300%2C400"
-    width: 300
-    height: 400
-    title: "U.S. Consumer Healthcare Advocacy Group (USCHAG) Announces Partnership with IBM Solutions"
-
-secured: "Y+fPoSUNlMBtdnPdtcmZYJ0EDRoJU53dTZ/EIlwZe1lmSW88Lv3LkCpXWzDkyCsVJx79wiDGFm3P11VDFoHKQKlOSoQihuXAjd1Vt5NzTpLqCiL2oUDYZuXS6/5n9GrAAMwUV3SFCScmCbnjpwcdiqafRH3st2AKg20L0fnvi2LLCQnIziIfeYuIgMaUfpD8/TOS7/vPXZeHFIPay1OpcMn6mcyYAkgcG0qwd/MTwquH3d63zf83sfWzRPudnfRL3U+YV9Ya7leCz3GRzWt1tSiz5mQY8/Lzan78f9/vDbmjai54Kq4c+efjCGYSqKoradi4UqzbwiDWB8a5dSop0+M1blgwDWZR63YNfvk9IcXW3KmLrhuZ0jiMBRTRvT85qzdo2jppalzCv9+4sp1RqH3OE5ijU2nrUVfBfnrbQ2/tOtq1VMfyLf/xfMGA0T57TrlrM6PeAxEDvNffqq2BadN9MBavLZoFV7HR4xKnfkg=;IGJnBMU+eBCxnqQocXEanw=="
+secured: "L1TEB2kg3X7gedmga9oYUCuqQtA7mILT9oY92iIiIqjkWf8LnF5rljvTPJsX5nYJM6gnGUr2QPj7tQQTOrjJhnDNs3AoNYiitxbBNa6KpmGyE30nqnhI5gyK9BiISlFqg9AMRPWusN+MapwJtgO9hJI47f0O2C1o0r6GIDhHhWQ99I3bZbmBfCmhWLuEjfVFd0EIoIB7H5qOly5wZM69O8eTcDO4/RVhCdOkR5aJ3xrBDoxQXelS5oei0VnCZCP44CtUYcNZ/iZGGkj6yFWGWuzu3hER6hDTgbbAxJQN3CxULKZYkHY/6H14FiVuQz5d4CBtNwn0lO1tvayBipAQFkmqli8gpWR9P1QyB8G+xjU4TTjYpifdf9s4WwPmwP15I2SAAbZhwG6/V8K+gpk76XWMRa0MxUBjII+WoGqJQTz4dJobKFrrYxrAjfDhk3MZbV7zXdiTG1vZQqq5EXXjxVFBUvjrrOJMnm/S0YEqfJE=;ICUxDMICpwA+l39UJ0BQVw=="
 ---
 

@@ -2,6 +2,140 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-04-17-facebook-to-warn-users-who-liked-or-shared-coronavirus-hoaxes.md",
+      "title": "Facebook to warn users who 'liked' or ‘shared’ coronavirus hoaxes",
+      "excerpt": "Facebook says those warning labels have stopped 95 per cent of users from clicking ... Sign up now and get a 10% discount (original price US$400) off the China AI Report 2020 by SCMP Research. Learn about the AI ambitions of Alibaba, Baidu & JD.com through our in-depth case studies, and explore new applications of AI across industries.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.scmp.com/tech/big-tech/article/3080340/facebook-warn-users-who-liked-or-shared-coronavirus-hoaxes",
+      "ampWebUrl": "https://amp.scmp.com/tech/big-tech/article/3080340/facebook-warn-users-who-liked-or-shared-coronavirus-hoaxes",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3080340/facebook-warn-users-who-liked-or-shared-coronavirus-hoaxes",
+      "publishedDateTime": "2020-04-16T20:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/04/17/fdd4e9b2-8056-11ea-8736-98edddd9b5ca_image_hires_110115.JPG?itok=Bpt6gBog&v=1587092481",
+          "width": 1200,
+          "height": 630,
+          "title": "Facebook to warn users who 'liked' or ‘shared’ coronavirus hoaxes",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-17-huawei-chip-unit-said-to-be-switching-orders-from-tsmc-to-smic-as-us-restrictions-loom.md",
+      "title": "Huawei chip unit said to be switching orders from TSMC to SMIC as US restrictions loom",
+      "excerpt": "Chip production that could be shifted to SMIC likely only accounts for 1 to 3 percentage ... Sign up now and get a 10% discount (original price US$400) off the China AI Report 2020 by SCMP Research. Learn about the AI ambitions of Alibaba, Baidu & JD.com through our in-depth case studies, and explore new applications of AI across industries.",
+      "heat": 96,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.scmp.com/tech/big-tech/article/3080328/huawei-chip-unit-said-be-switching-orders-tsmc-smic-us-restrictions",
+      "ampWebUrl": "https://amp.scmp.com/tech/big-tech/article/3080328/huawei-chip-unit-said-be-switching-orders-tsmc-smic-us-restrictions",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3080328/huawei-chip-unit-said-be-switching-orders-tsmc-smic-us-restrictions",
+      "publishedDateTime": "2020-04-16T19:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/04/17/b74cf968-8050-11ea-8736-98edddd9b5ca_image_hires_101546.JPG?itok=qUNLtKVQ&v=1587089754",
+          "width": 1200,
+          "height": 630,
+          "title": "Huawei chip unit said to be switching orders from TSMC to SMIC as US restrictions loom",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-16-toyota-backed-ponyai-to-offer-autonomous-delivery-service-in-california.md",
+      "title": "Toyota-backed Pony.ai to offer autonomous delivery service in California",
+      "excerpt": "Toyota-backed self driving company Pony.ai said on Friday it would provide an autonomous delivery service to residents of Irvine, California, as demand for online orders surges because of the coronavirus lockdown.",
+      "heat": 86,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-pony-ai-idUSKBN21Y3GK",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN21Y3GK",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN21Y3GK",
+      "publishedDateTime": "2020-04-16T16:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200416&t=2&i=1515404415&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG3F2IJ",
+          "width": 821,
+          "height": 545,
+          "title": "Toyota-backed Pony.ai to offer autonomous delivery service in California",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-16-ponyai-partners-with-yamibuy-on-autonomous-deliveries.md",
       "title": "Pony.ai partners with Yamibuy on autonomous deliveries",
       "excerpt": "Self-driving startup Pony.ai today announced that it’s collaborating with Yamibuy ... as well as reduce the risk of infection in the course of deliveries. Former Baidu chief architect James Peng cofounded Pony.ai in 2016 with Tiancheng Lou, who worked at Google X’s autonomous car project before it was spun off into Waymo.",
@@ -918,6 +1052,43 @@
       ]
     },
     {
+      "path": "_news/2020-04-16-new-web-based-automl-tool-from-sensiml-makes-ai-for-iot-easier-than-ever.md",
+      "title": "New Web-Based AutoML Tool from SensiML Makes AI for IoT Easier than Ever",
+      "excerpt": "PORTLAND, Ore., April 16, 2020 /PRNewswire/ -- SensiML™ Corporation, a leading developer of AI tools for building intelligent IoT endpoints, has released a new web-based AutoML tool with a ...",
+      "heat": 73,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/04/n15819256/new-web-based-automl-tool-from-sensiml-makes-ai-for-iot-easier-than-ever",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/15819256",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15819256",
+      "publishedDateTime": "2020-04-16T06:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/891804/SensiML_Logo.jpg",
+          "width": 400,
+          "height": 208,
+          "title": "New Web-Based AutoML Tool from SensiML Makes AI for IoT Easier than Ever",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-16-project-florence-how-ai-powered-online-learning-is-training-nurses-to-fight-covid-19.md",
       "title": "Project Florence: How AI-powered online learning is training nurses to fight COVID-19",
       "excerpt": "SEE: Coronavirus: Critical IT policies and tools every business needs (TechRepublic Premium) The online learning tool starts with an AI-driven assessment that changes based on the knowledge level of the user. Once Project Florence has determined what a nurse or other health care practitioner needs to learn it recommends a two-day curriculum ...",
@@ -1136,168 +1307,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-16-roboads-develops-new-robots-to-aid-healthcare-security-staff.md",
-      "title": "RoboAds develops new robots to aid healthcare, security staff",
-      "excerpt": "UAE based Robotics startup, RoboAds Inc, has developed a new generation of telepresence robots to ... The robot utilises the latest advancements in AI, machine learning, digital signage and video analytics. It can analyse the number of visitors, age, gender and emotions. RoboAds team, the company said, is dedicated towards developing advanced ...",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zawya.com/mena/en/business/story/RoboAds_develops_new_robots_to_aid_healthcare_security_staff-SNG_172484541/",
-      "ampWebUrl": "https://www.zawya.com/mena/en/story/amp/SNG_172484541/",
-      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/SNG_172484541/",
-      "publishedDateTime": "2020-04-16T05:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.zawya.com/resources/img/zawya-logo-en-social.png",
-          "width": 1200,
-          "height": 878,
-          "title": "RoboAds develops new robots to aid healthcare, security staff",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-16-automotive-artificial-intelligence-market-gain-impetus-due-to-the-growing-demand-over-2027.md",
-      "title": "Automotive Artificial Intelligence Market Gain Impetus due to the Growing Demand over 2027",
-      "excerpt": "New York, April 16, 2020: The global Automotive Artificial Intelligence market is segregated on the basis of Component",
-      "heat": 92,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-gain-impetus-due-to-the-growing-demand-over-2027-2020-04-16",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-16T05:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Automotive Artificial Intelligence Market Gain Impetus due to the Growing Demand over 2027",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-16-leveraging-ai-to-improve-workflow-12-tips-for-agencies.md",
-      "title": "Leveraging AI To Improve Workflow: 12 Tips For Agencies",
-      "excerpt": "For an agency, artificial intelligence can remove a lot of the drudgery involved in the industry. However, implementing AI can be a challenge, especially when there are no set methods of doing so.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2020/04/16/leveraging-ai-to-improve-workflow-12-tips-for-agencies/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2020/04/16/leveraging-ai-to-improve-workflow-12-tips-for-agencies/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2020/04/16/leveraging-ai-to-improve-workflow-12-tips-for-agencies/amp/",
-      "publishedDateTime": "2020-04-16T04:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbesagencycouncil%2Ffiles%2F2020%2F04%2FLeveraging_AI_To_Improve_Workflow-_12_Tips_For_Agencies-1200x1015.png",
-          "width": 1200,
-          "height": 1015,
-          "title": "Leveraging AI To Improve Workflow: 12 Tips For Agencies",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-16-how-machine-learning-can-keep-sas-retail-shelves-stocked-during-covid-19.md",
-      "title": "How machine learning can keep SA’s retail shelves stocked during COVID-19",
-      "excerpt": "“Implementing technology with machine learning capabilities will provide retailers with the ability to run insightful analytics and augment this data with trends from other markets already dealing with this crisis. This gives them the ability to predict behaviours and stabilise supply chains,” he says. He adds this information can inform ...",
-      "heat": 83,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.itweb.co.za/content/kLgB17e89BPv59N4",
-      "ampWebUrl": "https://amp.itweb.co.za/content/kLgB17e89BPv59N4",
-      "cdnAmpWebUrl": "https://amp-itweb-co-za.cdn.ampproject.org/c/s/amp.itweb.co.za/content/kLgB17e89BPv59N4",
-      "publishedDateTime": "2020-04-16T04:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ITWeb",
-        "domain": "itweb.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.itweb.co.za/static/pictures/2020/04/Morne-Laubscher-400X.jpg",
-          "width": 400,
-          "height": 303,
-          "title": "How machine learning can keep SA’s retail shelves stocked during COVID-19",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

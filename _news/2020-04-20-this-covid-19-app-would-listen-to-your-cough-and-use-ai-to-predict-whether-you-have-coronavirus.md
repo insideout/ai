@@ -28,6 +28,6 @@ images:
     height: 600
     title: "This COVID-19 app would listen to your cough and use AI to predict whether you have coronavirus"
 
-secured: "RYtDH8xgHp+5QY/ArQ5b5Fz0HFts8pHz/hLynfa4t+Y9ba0BYrX08MYrR13mgVH1XRNUQu93eG8KEWx8oZNR3U6Hx7USUD4G7dt7jzw0Zr18RQ1cd9WWqdJv+sjB0B7uTxPh6Pvgao4esR1Zu+/YnBVTp43sVbJru0ytD7hWScLxrtfGee4w/i7n1hzVhRfRCvFncioxMr4VY9Ft4zP0eNhdZU6aqRUchLieFY1rgF0yNMAhxm/xL+HZxeWhgGBFnHMz/2LjYSc0P5T8uEidAcOr8aywwR13pQNnwqYXXlk1BIjzl58/NgUk0TjMzn/W;EAIAPAClmE10D9r7X/ahAw=="
+secured: "ialm9jnnfN50D4Mb+IejHY2rgGJXPTsYwiAhrYn/0rakz+J6XBK8Dstip1HVU9/E5NcEIsEugow+L1/z4zPP3FHShGQIFdQDFe7TFosFph+oCBLwW9pbzQ8Y+d9+O0zdSak3ONT4gtbdmeaqCqGqzdjJWytyBFJwMxkgNjH8PoEa14Kpb0bKA6nBYU9jFSJ6NEDgsv+Mq9L/+UwZulq4jz93xhbaoTuFEU7qWTzgTln0fJu2m6RsqMrG4vwdVFizsNdblRAcV2fCEGEigewMEftTamMi2svtwUUe8SQwTNI1XuS0L9VXfLwVhu/weNCOGJYqSkD/sFpgNU3KVnGERdDW8ot/aDSBDYOqx0e4k5Zi+hreVGBxWDBUGap7mOc/xE40Oa8Ow9sLIAKj+N6j+NxW8o8q4d6J8hcbVfm1dJ6Z/QMXwj1QuOCVTx43qp5nQYp7VbXyhQJZ6bC7VUyy8X78Gz4sUPsCuFTkxIXH35I=;x0fCHm2xckSkOVnRCxZbdw=="
 ---
 

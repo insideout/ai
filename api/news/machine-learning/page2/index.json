@@ -2,6 +2,51 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-04-08-machine-learning-market-value-booming-us-768-bn-by-2026.md",
+      "title": "Machine Learning Market Value Booming US$ 76.8 Bn by 2026",
+      "excerpt": "According to the Acumen Research and Consulting, the global Machine Learning market is expected to reach at US$ 76.8 Bn by 2026, along with the projected CAGR of 40.1% from 2020-2026. The published report global Machine Learning market provides a holistic overview of the current market covering the current trends.",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-market-value-booming-us-768-bn-by-2026-2020-04-08",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-08T04:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Machine Learning Market Value Booming US$ 76.8 Bn by 2026",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-08-insights-on-the-worldwide-automated-machine-learning-market-2020-to-2030-growing-healthcare-industry-presents-opportunities-researchandmarketscom.md",
       "title": "Insights on the Worldwide Automated Machine Learning Market (2020 to 2030) - Growing Healthcare Industry Presents Opportunities - ResearchAndMarkets.com",
       "excerpt": "The global automated machine learning (AutoML) market generated the revenue of $269.6 million in 2019, and is expected to reach $14,511.9 million by 2030, advancing at a CAGR of 43.7% during the forecast period (2020-2030). The cloud category under the deployment type segment is expected to record the fastest growth during the forecast period.",
@@ -177,31 +222,23 @@
     {
       "path": "_news/2020-04-07-automated-machine-learning-automl-market.md",
       "title": "Automated Machine Learning (AutoML) Market",
-      "excerpt": "NEW YORK, April 6, 2020 /PRNewswire/ -- Automated Machine Learning (AutoML) Market Research Report: By Offering (Platform, Service), Deployment Type (On-Premises, Cloud), Enterprise Size (Large ...",
+      "excerpt": "By Offering (Platform, Service), Deployment Type (On-Premises, Cloud), Enterprise Size (Large Enterprise, Small & Medium Enterprise), Application (Fraud Detection, Sales & Marketing Management, Medical Testing,",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.finanzen.net/nachricht/aktien/automated-machine-learning-automl-market-8716980",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-06T18:45:00-07:00",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/04/n15753140/automated-machine-learning-automl-market",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/15753140",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15753140",
+      "publishedDateTime": "2020-04-06T18:40:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Finanzen",
-        "domain": "finanzen.net",
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://images.finanzen.net/images/logos/finanzennet_600x315.jpg",
-          "width": 600,
-          "height": 315,
-          "title": "Automated Machine Learning (AutoML) Market",
-          "attribution": null
-        }
-      ],
+      "images": null,
       "locale": "en-us",
       "categories": [
         "news"
@@ -1223,43 +1260,6 @@
           "width": 1200,
           "height": 630,
           "title": "Machine Learning as a Service (MLaaS) Market to Garner Overwhelming Hike In Revenues by 2027",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-31-accelerating-deep-learning-insights-with-new-gpu-based-solutions.md",
-      "title": "Accelerating Deep Learning Insights with New GPU-Based Solutions",
-      "excerpt": "Deep learning, an advanced AI technique, is growing in popularity as organizations strive to operate faster and smarter than ever. Deep learning applications utilize neural networks to analyze a variety of data types, including machine signals, audio ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nextplatform.com/microsite-landing/hpe-solutions/accelerating-deep-learning-insights-new-gpu-based-solutions-2/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-30T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Platform",
-        "domain": "nextplatform.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2018/06/TNP_default-1024x1024.jpg",
-          "width": 1024,
-          "height": 1024,
-          "title": "Accelerating Deep Learning Insights with New GPU-Based Solutions",
           "attribution": null
         }
       ],

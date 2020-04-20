@@ -1,25 +1,29 @@
 ---
 category: news
 title: "The global artificial intelligence in healthcare market is set to register growth, projecting a CAGR of 38.05% during the forecast period, 2020-2028"
-excerpt: "KEY FINDINGS The global artificial intelligence in healthcare market is set to register growth, projecting a CAGR of 38.05% during the"
+excerpt: "NEW YORK, April 15, 2020 /PRNewswire/ --KEY FINDINGS The global artificial intelligence in healthcare market is set to register growth, projecting a CAGR of 38.05% during the forecast period, 2020-2028."
 publishedDateTime: 2020-04-15T13:10:00Z
-webUrl: "https://www.prnewswire.com/news-releases/the-global-artificial-intelligence-in-healthcare-market-is-set-to-register-growth-projecting-a-cagr-of-38-05-during-the-forecast-period-2020-2028--301040941.html"
+webUrl: "https://www.marketwatch.com/press-release/the-global-artificial-intelligence-in-healthcare-market-is-set-to-register-growth-projecting-a-cagr-of-3805-during-the-forecast-period-2020-2028-2020-04-15"
 type: article
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
     title: "The global artificial intelligence in healthcare market is set to register growth, projecting a CAGR of 38.05% during the forecast period, 2020-2028"
 
-secured: "duu0g0X7yVeYoyUexuYxQQQ6JdDTQAzMnhJ7o8XztTBgRsFC5kSwVVGLG3BmVAhK6ZC5aK8RIoVO1tv/pr8ne/DHswRi5BWOTanD10xNELMjin8ZUuIHlm9wLnK/aroMT1gUG1FfHR5rXa+GZ58AFp2McMbWoEifZ2isucGy+QdKm6oex3pETBNABX9AS9qeMw36l3kec3rPx5mj3ToN7aUXrClGxkqzDwVYtqGBNWsyFpuDEWRwiY2Mlbi8izkfLBcvlhBIWZuQ3IE1YEQ00Cv3OK+hKkzGLJ3AjSB1y4zLpCFEzJlroSYZz4vJBGSV;5iwhdgvTQbTE9dwfT9OoYQ=="
+secured: "IE7FqeT/fCxC/T9zPnoRjjx13Q2I8v/v+Jx1nCo4CYMEDt4dHyGZmY5xMT7AaHICOvcrXgb8coZNjwbztmIhi0GVkaZOzKQZCRO7KcCgk4p74cSs44q2tjbh6QFLhcndVgnQoCEWcMP0p+BigqfwpnD+E/mH7E5py5cFxSOvy/EhzwTUY0FfPuLqDaqvCcW7kSwKDFNHWAMJ+SNO082rM+/RHn0Hl4AYyeyZZODbp+1whM8AayxVLG2tqG0byvpcW+CZlSZcueg4buLQL48v4JCkO4webaJLNkYG8OcGIjT/OaS+6vUUqKO6Ik3/ZqI2;vRdE2JiBIv96Agv1S/ircQ=="
 ---
 

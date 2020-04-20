@@ -2,6 +2,168 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-04-16-roboads-develops-new-robots-to-aid-healthcare-security-staff.md",
+      "title": "RoboAds develops new robots to aid healthcare, security staff",
+      "excerpt": "UAE based Robotics startup, RoboAds Inc, has developed a new generation of telepresence robots to ... The robot utilises the latest advancements in AI, machine learning, digital signage and video analytics. It can analyse the number of visitors, age, gender and emotions. RoboAds team, the company said, is dedicated towards developing advanced ...",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zawya.com/mena/en/business/story/RoboAds_develops_new_robots_to_aid_healthcare_security_staff-SNG_172484541/",
+      "ampWebUrl": "https://www.zawya.com/mena/en/story/amp/SNG_172484541/",
+      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/SNG_172484541/",
+      "publishedDateTime": "2020-04-16T05:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.zawya.com/resources/img/zawya-logo-en-social.png",
+          "width": 1200,
+          "height": 878,
+          "title": "RoboAds develops new robots to aid healthcare, security staff",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-16-automotive-artificial-intelligence-market-gain-impetus-due-to-the-growing-demand-over-2027.md",
+      "title": "Automotive Artificial Intelligence Market Gain Impetus due to the Growing Demand over 2027",
+      "excerpt": "New York, April 16, 2020: The global Automotive Artificial Intelligence market is segregated on the basis of Component",
+      "heat": 92,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-gain-impetus-due-to-the-growing-demand-over-2027-2020-04-16",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-16T05:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Automotive Artificial Intelligence Market Gain Impetus due to the Growing Demand over 2027",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-16-leveraging-ai-to-improve-workflow-12-tips-for-agencies.md",
+      "title": "Leveraging AI To Improve Workflow: 12 Tips For Agencies",
+      "excerpt": "For an agency, artificial intelligence can remove a lot of the drudgery involved in the industry. However, implementing AI can be a challenge, especially when there are no set methods of doing so.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2020/04/16/leveraging-ai-to-improve-workflow-12-tips-for-agencies/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2020/04/16/leveraging-ai-to-improve-workflow-12-tips-for-agencies/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2020/04/16/leveraging-ai-to-improve-workflow-12-tips-for-agencies/amp/",
+      "publishedDateTime": "2020-04-16T04:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbesagencycouncil%2Ffiles%2F2020%2F04%2FLeveraging_AI_To_Improve_Workflow-_12_Tips_For_Agencies-1200x1015.png",
+          "width": 1200,
+          "height": 1015,
+          "title": "Leveraging AI To Improve Workflow: 12 Tips For Agencies",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-16-how-machine-learning-can-keep-sas-retail-shelves-stocked-during-covid-19.md",
+      "title": "How machine learning can keep SA’s retail shelves stocked during COVID-19",
+      "excerpt": "“Implementing technology with machine learning capabilities will provide retailers with the ability to run insightful analytics and augment this data with trends from other markets already dealing with this crisis. This gives them the ability to predict behaviours and stabilise supply chains,” he says. He adds this information can inform ...",
+      "heat": 83,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.itweb.co.za/content/kLgB17e89BPv59N4",
+      "ampWebUrl": "https://amp.itweb.co.za/content/kLgB17e89BPv59N4",
+      "cdnAmpWebUrl": "https://amp-itweb-co-za.cdn.ampproject.org/c/s/amp.itweb.co.za/content/kLgB17e89BPv59N4",
+      "publishedDateTime": "2020-04-16T04:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ITWeb",
+        "domain": "itweb.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.itweb.co.za/static/pictures/2020/04/Morne-Laubscher-400X.jpg",
+          "width": 400,
+          "height": 303,
+          "title": "How machine learning can keep SA’s retail shelves stocked during COVID-19",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-16-collective-mobilization-can-help-start-ups-fight-covid-19-outbreak.md",
       "title": "Collective Mobilization Can Help Start-Ups Fight COVID-19 Outbreak",
       "excerpt": "On the flip side, Hong Kong-based AI healthcare startup Insilico Medicine recently opened its drug compound database to pharmaceutical companies worldwide to help speed up the identification of a COVID-19 cure. This type of open collaboration between startups and big industry is imperative to saving lives. Going forward, startups and industry ...",
@@ -1155,177 +1317,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-04-15-self-driving-startup-zoox-settles-with-tesla-over-trade-secret-theft.md",
-      "title": "Self-driving startup Zoox settles with Tesla over trade secret theft",
-      "excerpt": "It acknowledged that new hires took Tesla documents. Tesla has prevailed in a key lawsuit over trade secret theft. Self-driving car startup Zoox has settled with Tesla and acknowledged that some of its new logistics recruits “were in possession of Tesla documents” that covered shipping and warehouse processes. Zoox agreed to both pay an ...",
-      "heat": 159,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.engadget.com/zoox-settles-with-tesla-over-trade-secrets-135003450.html",
-      "ampWebUrl": "https://www.engadget.com/amp/zoox-settles-with-tesla-over-trade-secrets-135003450.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/zoox-settles-with-tesla-over-trade-secrets-135003450.html",
-      "publishedDateTime": "2020-04-15T06:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-04%2F8466feb0-7f13-11ea-bfef-587f798de2ed&client=amp-blogside-v2&signature=63a511e40e2fa13f86595a02e9e8f9bc58651366",
-          "width": 600,
-          "height": 350,
-          "title": "Self-driving startup Zoox settles with Tesla over trade secret theft",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-15-5-of-the-smartest-stocks-to-buy-with-10000.md",
-      "title": "5 of the Smartest Stocks to Buy With $10,000",
-      "excerpt": "Through the use of artificial intelligence and copious amounts of data ... But make no mistake about it, cloud-service segment Amazon Web Services (AWS) is where this company's real growth lies. Cloud margins are many times higher than retail margins, which is a good thing considering that AWS is growing more than twice as fast as Amazon's ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.fool.com/investing/2020/04/15/5-of-the-smartest-stocks-to-buy-with-10000.aspx",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/04/15/5-of-the-smartest-stocks-to-buy-with-10000.aspx",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/04/15/5-of-the-smartest-stocks-to-buy-with-10000.aspx",
-      "publishedDateTime": "2020-04-15T06:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F567686%2Ffolded-money-cash-invest-retire-social-security-treasury-getty.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 800,
-          "title": "5 of the Smartest Stocks to Buy With $10,000",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-15-cimon-2-makes-its-successful-debut-on-the-iss.md",
-      "title": "CIMON-2 makes its successful debut on the ISS",
-      "excerpt": "Watson AI technology from IBM Cloud provides voice-controlled artificial intelligence. Scientists from the Ludwig-Maximilian University Hospital in Munich (LMU) helped develop and oversee the human aspects of the assistance system. Biotesc at the University of Lucerne ensures that CIMON works perfectly in ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://gisuser.com/2020/04/cimon-2-makes-its-successful-debut-on-the-iss/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-15T06:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "gisuser.com",
-        "domain": "gisuser.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "http://www.gisuser.com/images/subscribe-to-newsletter.jpg",
-          "width": 711,
-          "height": 310,
-          "title": "CIMON-2 makes its successful debut on the ISS",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-15-mits-ai-powered-device-lets-doctors-monitor-coronavirus-patients-remotely.md",
-      "title": "MIT’s AI-powered device lets doctors monitor coronavirus patients remotely",
-      "excerpt": "A new device that uses AI to monitor coronavirus symptoms is helping doctors treat patients beyond the reach of infection. The box-like device emits wireless signals that bounce off human bodies before returning to the system. Algorithms then analyze changes in the signals to infer the person’s breathing rate, sleep patterns, and movements.",
-      "heat": 85,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/04/15/mits-ai-powered-device-lets-doctors-monitor-coronavirus-patients-remotely/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/04/15/mits-ai-powered-device-lets-doctors-monitor-coronavirus-patients-remotely/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/04/15/mits-ai-powered-device-lets-doctors-monitor-coronavirus-patients-remotely/amp/",
-      "publishedDateTime": "2020-04-15T06:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/04/BABY-BREATH-MONITOR.jpg",
-          "width": 600,
-          "height": 349,
-          "title": "MIT’s AI-powered device lets doctors monitor coronavirus patients remotely",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

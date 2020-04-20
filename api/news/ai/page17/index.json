@@ -2,6 +2,178 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2020-04-01-self-driving-car-engineer-anthony-levandowski-files-motion-to-force-uber-into-arbitration.md",
+      "title": "Self-driving car engineer Anthony Levandowski files motion to force Uber into arbitration",
+      "excerpt": "Anthony Levandowski, the star self-driving car engineer who was at the center of a trade secrets lawsuit, has filed a motion to compel Uber into arbitration in the hopes that his former employee will have to shoulder the cost of at least part of the $179 million judgment against him. The motion to compel arbitration filed this week is part of ...",
+      "heat": 75,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/04/01/self-driving-car-engineer-anthony-levandowski-files-motion-to-force-uber-into-arbitration/",
+      "ampWebUrl": "https://techcrunch.com/2020/04/01/self-driving-car-engineer-anthony-levandowski-files-motion-to-force-uber-into-arbitration/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/01/self-driving-car-engineer-anthony-levandowski-files-motion-to-force-uber-into-arbitration/amp/",
+      "publishedDateTime": "2020-04-01T12:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/04/GettyImages-1176871826.jpeg?w=1024",
+          "width": 1024,
+          "height": 718,
+          "title": "Self-driving car engineer Anthony Levandowski files motion to force Uber into arbitration",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-01-predictive-oncology-reports-2019-full-year-financial-results.md",
+      "title": "Predictive Oncology Reports 2019 Full-year Financial Results",
+      "excerpt": "Predictive Oncology Inc. (NASDAQ: POAI) (“Predictive Oncology” or “the Company”), a knowledge-driven company focused on applying artificial intelligence (“AI”) to personalized medicine and drug discovery,",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://apnews.com/Globe Newswire/447e5e17eb9b55a2c78f4e0aaea5fa81",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-01T11:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": "Predictive Oncology Reports 2019 Full-year Financial Results",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-01-deepminds-new-ai-can-beat-humans-at-57-atari-games.md",
+      "title": "DeepMind’s new AI can beat humans at 57 Atari games",
+      "excerpt": "Google subsidiary DeepMind has unveiled an AI called Agent57 that can beat the average human at 57 classic Atari games. The system achieved this feat using deep reinforcement learning, a machine learning technique that helps an AI improve its decisions by trying out different approaches and learning from its mistakes. DeepMind used the same ...",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/04/01/deepminds-new-agent57-ai-can-beat-humans-at-57-atari-games/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/04/01/deepminds-new-agent57-ai-can-beat-humans-at-57-atari-games/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/04/01/deepminds-new-agent57-ai-can-beat-humans-at-57-atari-games/amp/",
+      "publishedDateTime": "2020-04-01T10:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/04/Untitled-design46-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "DeepMind’s new AI can beat humans at 57 Atari games",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-01-deepminds-ai-learned-how-to-play-every-atari-game.md",
+      "title": "DeepMind's AI learned how to play every Atari game",
+      "excerpt": "Google-owned artificial intelligence firm DeepMind developed an AI system that can play all 57 video games and beat human averages, according to a research paper published this week. The AI, called Agent57,",
+      "heat": 124,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnet.com/news/deepminds-ai-learned-how-to-play-every-atari-game/",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/deepminds-ai-learned-how-to-play-every-atari-game/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/deepminds-ai-learned-how-to-play-every-atari-game/",
+      "publishedDateTime": "2020-04-01T10:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cnet2.cbsistatic.com/img/4GAXIulyS7cubuKb6mk5aqZ-qbI=/756x567/2017/07/27/3de74c24-095d-4c7e-9d5d-fb69ee27aaff/atari-flashback-8-gold-82.jpg",
+          "width": 756,
+          "height": 567,
+          "title": "DeepMind's AI learned how to play every Atari game",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-01-study-nations-leading-speech-recognition-systems-twice-as-likely-to-misinterpret-black-speech.md",
       "title": "Study: Nation’s Leading Speech Recognition Systems Twice as Likely to Misinterpret Black Speech",
       "excerpt": "The technology behind automated speech recognition systems at some of the nation’s top tech firms are twice as likely to misinterpret words spoken by African-Americans compared to those spoken by whites, according to a new study out of Stanford University. Stanford University researchers found that speech recognition systems used by the top ...",
@@ -1092,185 +1264,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-01-energy-saving-ai-is-coming-for-your-office-thermostat.md",
-      "title": "Energy-Saving AI Is Coming for Your Office Thermostat",
-      "excerpt": "If the workers got too hot or too cold, they could tap an app to say so. The AI would adapt, creating microclimates to reflect their feedback. But in time, Spanos expected, the workers wouldn't bother. His goal is to make the system forgettable. Lights will turn on as workers come and go; screens will flicker to life as they settle at their desks.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wired.com/story/energy-saving-ai-controls-lights-office-thermostat/",
-      "ampWebUrl": "https://www.wired.com/story/energy-saving-ai-controls-lights-office-thermostat/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/energy-saving-ai-controls-lights-office-thermostat/amp",
-      "publishedDateTime": "2020-04-01T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.vanityfair.com/photos/576c493744d93e6e4482bb21/master/pass/placeholder_the_scene.jpg",
-          "width": 800,
-          "height": 450,
-          "title": "Energy-Saving AI Is Coming for Your Office Thermostat",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-01-enterprise-artificial-intelligence-along-with-telehealth-and-teleconferences-can-help-in-fighting-covid-19.md",
-      "title": "Enterprise Artificial Intelligence Along With Telehealth And Teleconferences Can Help In Fighting COVID-19",
-      "excerpt": "In the fight against COVID-19, enterprise artificial intelligence (AI) is not getting the same attention as teleconferencing and telehealth technologies. A massive shift to working from home to avoid spreading the virus means virtual collaboration companies like Zoom Video Communications are in the headlines. The same dynamic is playing out in ...",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.entrepreneur.com/article/348557",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/348557",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/348557",
-      "publishedDateTime": "2020-04-01T02:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/20190416142211-shutterstock-1168340332.jpeg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": "Enterprise Artificial Intelligence Along With Telehealth And Teleconferences Can Help In Fighting COVID-19",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-04-01-how-deepmotion-uses-ai-to-create-believable-characters.md",
-      "title": "How DeepMotion uses AI to create believable characters",
-      "excerpt": "As an engineer, He wanted to find an efficient way to create more lifelike animations, and he was convinced that advanced physics simulation and AI could solve that problem. So in 2014, He struck out on his own to start DeepMotion. The goal of the San Mateo, California-based company is to provide developers with powerful software development ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/01/how-deepmotion-uses-ai-to-create-believable-characters/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/01/how-deepmotion-uses-ai-to-create-believable-characters/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/01/how-deepmotion-uses-ai-to-create-believable-characters/amp/",
-      "publishedDateTime": "2020-04-01T01:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/03/DeepMotion_VB_SS-e1585696653316.png?fit=1200%2C687&strip=all",
-          "width": 1200,
-          "height": 687,
-          "title": "How DeepMotion uses AI to create believable characters",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-01-microsoft-president-calls-washington-states-new-facial-recognition-law-a-significant-breakthrough.md",
-      "title": "Microsoft president calls Washington state’s new facial recognition law ‘a significant breakthrough’",
-      "excerpt": "Microsoft President Brad Smith took a break from responding to the COVID-19 outbreak Tuesday to praise Washington state’s landmark facial recognition regulations. Washington Gov. Jay Inslee signed a bill Tuesday that establishes rules specifically governing facial recognition software. Smith called the law an “early and important model ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.geekwire.com/2020/microsoft-president-calls-washington-states-new-facial-recognition-law-significant-breakthrough/",
-      "ampWebUrl": "https://www.geekwire.com/2020/microsoft-president-calls-washington-states-new-facial-recognition-law-significant-breakthrough/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/microsoft-president-calls-washington-states-new-facial-recognition-law-significant-breakthrough/amp/",
-      "publishedDateTime": "2020-03-31T23:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2019/09/20190920_Brad_Smith_1301-630x450.jpg",
-          "width": 630,
-          "height": 450,
-          "title": "Microsoft president calls Washington state’s new facial recognition law ‘a significant breakthrough’",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }
