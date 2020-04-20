@@ -36,6 +36,19 @@ related:
       - url: "https://1ld3bn3pj7u818mrpr3kmfig-wpengine.netdna-ssl.com/wp-content/uploads/2020/04/041320a.jpg"
         width: 659
         height: 624
+  - title: "Cancer startup Anixa teams up with machine learning firm to seek out COVID-19 hopefuls"
+    excerpt: "However, through this collaboration, we anticipate identifying multiple drug candidates in as little as six months’ time. To do this, we will utilize advanced computational methods, machine learning and molecular modeling techniques to perform in silico screening of over 1.2 billion compounds to evaluate if any could disrupt one of two key en ..."
+    publishedDateTime: 2020-04-20T12:00:00Z
+    webUrl: "https://www.fiercebiotech.com/biotech/cancer-startup-anixa-teams-up-machine-learning-firm-to-seek-out-covid-19-hopefuls"
+    type: article
+    provider:
+      name: FierceBiotech
+      domain: fiercebiotech.com
+    quality: 31
+    images:
+      - url: "https://qtxasset.com/fiercebiotech/1587382152/covid800.jpg/covid800.jpg?Hh4jqyKb6sKkDFuYIn80nxOO4Ve93TET"
+        width: 800
+        height: 533
 
 secured: "Hb1IjUMP/hUsJuUw4lcTKk/PPG0e5WkvISgObuq485KiWM7g5Xr1qYfNIGB6iEPUOvNMbdyATzpFHJ+sWoJ6J+oV0rEsImsM7I18inJw7Bv0WRQw+EYhO5Oj33sjh/ueo+H34z5WtmZkkJIpSVLrrsO3zI8W/TByezWLnuBHqEhZmjBu8/LcEWeRTQVPjOsVZlYTB3J5oR3v593sYEIsKEHq93rbX1Ws+9pa0XTwMzf05NtNMxA13N8OFHiE+PghNlAMCEQOBSttnti9f4bDdH/7BA4NudduN1BDd7lfeJq7l+DlJeyJ/zUcqCbDMYmqabvh6aVeFsn3ZQ4Sc8bVF1xMoKw97KVKS81otHzJrO9jpm7PqVndlNRZCtGrDsfmkA+zps2DwbrB6c0T3hSqQ9gVMduXCujtRtVPAIsu3WInnr4W3cJeSNvZHLIXibykGzlz6t7lmvR89tA98i2IDQPCaoJhw8T34litEv8ncI4=;Ckt+lxfkJG+TPktdUn72iA=="
 ---

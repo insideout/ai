@@ -2,6 +2,50 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-04-14-ai-is-helping-us-combat-the-economic-problem-of-human-trafficking.md",
+      "title": "AI Is Helping Us Combat The Economic Problem Of Human Trafficking",
+      "excerpt": "When we think of human trafficking, we often think about the despondent faces of women and children who live in slums all over the world.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/04/14/ai-is-helping-us-combat-the-economic-problem-of-human-trafficking/",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/04/14/ai-is-helping-us-combat-the-economic-problem-of-human-trafficking/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/04/14/ai-is-helping-us-combat-the-economic-problem-of-human-trafficking/amp/",
+      "publishedDateTime": "2020-04-14T14:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e96238250a4fd0006f0684c%2F0x0.jpg",
+          "width": 640,
+          "height": 333,
+          "title": "AI Is Helping Us Combat The Economic Problem Of Human Trafficking",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-14-googles-automl-zero-lets-the-machines-create-algorithms-to-avoid-human-bias.md",
       "title": "Google’s AutoML Zero lets the machines create algorithms to avoid human bias",
       "excerpt": "It looks like Google‘s working on some major upgrades to its autonomous machine learning development language ‘AutoML.’ According to a pre-print research paper authored by several of the big ...",
@@ -529,15 +573,23 @@
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.computerworld.com/resources/201265/computer-vision-ai-safeguard-atms",
+      "webUrl": "https://www.infoworld.com/resources/201265/computer-vision-ai-safeguard-atms",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-14T06:24:00-07:00",
+      "publishedDateTime": "2020-04-14T06:47:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Computerworld",
-        "domain": "computerworld.com",
-        "images": null,
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -979,51 +1031,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-13-huawei-said-to-be-eyeing-the-server-gpu-market-first-chips-to-arrive-later-this-year.md",
-      "title": "Huawei said to be eyeing the server GPU market, first chips to arrive later this year",
-      "excerpt": "And, best of all, it comes with PCIe 4.0, HCCS, and RoCE interface support. It would make sense for Huawei to move into GPUs for high-performance computing for scenarios that require general-purpose capabilities as opposed to AI chips which are mostly tailored for training neural networks in deep learning applications. We also know the Chinese ...",
-      "heat": 112,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techspot.com/news/84806-huawei-eyeing-server-gpu-market-first-chips-arrive.html",
-      "ampWebUrl": "https://www.techspot.com/amp/news/84806-huawei-eyeing-server-gpu-market-first-chips-arrive.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/84806-huawei-eyeing-server-gpu-market-first-chips-arrive.html",
-      "publishedDateTime": "2020-04-13T14:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/ts3_thumbs/2020/04/2020-04-13-ts3_thumbs-36c.jpg",
-          "width": 800,
-          "height": 560,
-          "title": "Huawei said to be eyeing the server GPU market, first chips to arrive later this year",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

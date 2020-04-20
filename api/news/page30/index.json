@@ -2,6 +2,235 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2020-03-25-how-autism-researchers-are-applying-machine-learning-techniques.md",
+      "title": "How autism researchers are applying machine-learning techniques",
+      "excerpt": "From identifying a new antibiotic to generating the first-ever image of a black hole, machine learning is changing how scientists approach questions in many fields. Autism researchers are being equally creative, using machine-learning methods to improve ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.spectrumnews.org/news/how-autism-researchers-are-applying-machine-learning-techniques/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-25T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Spectrum",
+        "domain": "spectrumnews.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s3.amazonaws.com/spectrumnews-web-assets/wp-content/uploads/2020/03/23142010/20200325-MachineLearnV2-8441.jpg",
+          "width": 844,
+          "height": 570,
+          "title": "How autism researchers are applying machine-learning techniques",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-25-affinitys-ai-powered-relationship-intelligence-platform-is-transforming-crm.md",
+      "title": "Affinity’s AI-powered relationship intelligence platform is transforming CRM",
+      "excerpt": "Affinity is an AI-powered relationship intelligence platform with patented technology that structures ... Data science and artificial intelligence had advanced to a tipping point in terms of changing the CRM paradigm and that’s what inspired us to start the company.” Affinity’s founders recognized a need for streamlining how companies ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.clickz.com/affinitys-ai-powered-relationship-intelligence-platform-is-transforming-crm/260926/",
+      "ampWebUrl": "https://www.clickz.com/affinitys-ai-powered-relationship-intelligence-platform-is-transforming-crm/260926/amp/",
+      "cdnAmpWebUrl": "https://www-clickz-com.cdn.ampproject.org/c/s/www.clickz.com/affinitys-ai-powered-relationship-intelligence-platform-is-transforming-crm/260926/amp/",
+      "publishedDateTime": "2020-03-25T03:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ClickZ",
+        "domain": "clickz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://1ld3bn3pj7u818mrpr3kmfig-wpengine.netdna-ssl.com/wp-content/uploads/2020/03/031820c.jpg",
+          "width": 768,
+          "height": 489,
+          "title": "Affinity’s AI-powered relationship intelligence platform is transforming CRM",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-25-is-machine-learning-the-quantum-physics-of-computer-science.md",
+      "title": "Is Machine Learning The Quantum Physics Of Computer Science",
+      "excerpt": "Quantum Physics was a new way of thinking about physics. It seems there are parallels in the world of computer science.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/rahulrazdan/2020/03/25/is-machine-learning-the-quantum-physics-of-computer-science-/",
+      "ampWebUrl": "https://www.forbes.com/sites/rahulrazdan/2020/03/25/is-machine-learning-the-quantum-physics-of-computer-science-/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rahulrazdan/2020/03/25/is-machine-learning-the-quantum-physics-of-computer-science-/amp/",
+      "publishedDateTime": "2020-03-25T03:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e7b33c59f46de0006e48c79%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Is Machine Learning The Quantum Physics Of Computer Science",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-25-research-report-on-global-neural-network-software-industry-2020-2025.md",
+      "title": "Research Report on Global Neural Network Software Industry 2020-2025",
+      "excerpt": "Market Overview. The Neural Network Software Market was valued at USD 8.30 billion in 2019 and is expected to reach USD 50.66 bil",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/research-report-on-global-neural-network-software-industry-2020-2025-2020-03-25",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-25T03:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Research Report on Global Neural Network Software Industry 2020-2025",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-25-covid-19-means-not-worrying-about-enterprise-ai-taking-jobs-for-now.md",
+      "title": "COVID-19 Means Not Worrying About Enterprise AI Taking Jobs — for Now",
+      "excerpt": "Talk about artificial intelligence has been about robots taking over jobs — until the last few weeks ... We need to understand and invest in the prerequisites that form the foundation of valuable AI. Once done we will start listening to and understanding risk models better – preparing rather than locking away and hoping for the best.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://morningconsult.com/opinions/covid-19-means-not-worrying-about-enterprise-ai-taking-jobs-for-now/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-25T03:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morning Consult",
+        "domain": "morningconsult.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://morningconsult.com/wp-content/uploads/2017/10/MorningConsult-fb-twitter-meta.png",
+          "width": 1200,
+          "height": 600,
+          "title": "COVID-19 Means Not Worrying About Enterprise AI Taking Jobs — for Now",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-25-varian-to-equip-new-ethos-personalized-adaptive-therapy-center-in-phoenix.md",
+      "title": "Varian to Equip New Ethos Personalized Adaptive Therapy Center in Phoenix",
+      "excerpt": "today announced it was selected to equip the new Ethos Personalized Adaptive Therapy Center in Phoenix, Arizona, and help launch a new era in cancer treatment for patients in the region.  Ethos™ therapy provides the ability to personalize the patient's radiation treatments based on their anatomy and the tumor's shape and position on a daily basis at the time of treatment.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/03/n15557132/varian-to-equip-new-ethos-personalized-adaptive-therapy-center-in-phoenix",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/15557132",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15557132",
+      "publishedDateTime": "2020-03-25T01:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-25-self-driving-dream-eludes-yet-again-as-starsky-robotics-shuts-down.md",
       "title": "Self-Driving Dream Eludes Yet Again As Starsky Robotics Shuts Down",
       "excerpt": "Similarly, though, it didn’t turn out as planned. Although he still lauds his team for their efforts, he lamented that the self-driving space was overwhelmed with the unmet promise of AI to focus on a practical solution. Added to this is the recession in trucking for the past 18 months. The hardest part of building AI is how it deals with ...",
@@ -790,249 +1019,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-24-researchers-use-ai-to-find-link-between-nature-and-happiness.md",
-      "title": "Researchers use AI to find link between nature and happiness",
-      "excerpt": "A cross-disciplinary group of researchers used AI as part of an analysis of photos posted online that recognizes an association between happiness, life satisfaction, and nature. Researchers from universities in Australia and Singapore say the analysis demonstrates the biophilia hypothesis that humans are naturally attracted to nature and people ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/03/24/researchers-use-ai-to-find-link-between-nature-and-happiness/",
-      "ampWebUrl": "https://venturebeat.com/2020/03/24/researchers-use-ai-to-find-link-between-nature-and-happiness/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/24/researchers-use-ai-to-find-link-between-nature-and-happiness/amp/",
-      "publishedDateTime": "2020-03-24T10:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/03/emma-simpson-mNGaaLeWEp0-unsplash.jpg?fit=1800%2C900&strip=all",
-          "width": 1800,
-          "height": 900,
-          "title": "Researchers use AI to find link between nature and happiness",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-24-avra-medical-robotics-otc-avmr-ceo-barry-cohen-acquires-1000000-shares-of-company-stock.md",
-      "title": "AVRA Medical Robotics (OTC: AVMR) CEO Barry Cohen Acquires 1,000,000 Shares of Company Stock",
-      "excerpt": "ORLANDO, Fla., March 24, 2020 (GLOBE NEWSWIRE) -- AVRA Medical Robotics, Inc. (the \"Company\") (OTCQB:AVMR), an artificial intelligence company building a fully autonomous...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.benzinga.com/pressreleases/20/03/g15653266/avra-medical-robotics-otc-avmr-ceo-barry-cohen-acquires-1-000-000-shares-of-company-stock",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/15653266",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15653266",
-      "publishedDateTime": "2020-03-24T09:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-24-how-personalization-and-machine-learning-can-improve-cancer-outreach-roi.md",
-      "title": "How personalization and machine learning can improve cancer outreach ROI",
-      "excerpt": "By using causal forests, a state-of-the-art development in machine learning, the researchers discovered that the effectiveness of outreach programs varies widely over time and across patients. For example, outreach programs in general are more effective for patients who are female, minority, in better health status, have a more frequent visit ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.eurekalert.org/pub_releases/2020-03/ama-hpa032420.php",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-24T09:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.eurekalert.org/images/EurekAlert_StackedLogo_RGB.jpg",
-          "width": 900,
-          "height": 300,
-          "title": "How personalization and machine learning can improve cancer outreach ROI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-24-satellite-images-and-artificial-intelligence-used-in-search-for-vietnam-war-era-unexploded-bombs.md",
-      "title": "Satellite images and artificial intelligence used in search for Vietnam War-era unexploded bombs",
-      "excerpt": "Researchers at Ohio State University have harnessed satellite images and sophisticated artificial intelligence technology to search for unexploded bombs from the Vietnam War.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.foxnews.com/tech/satellite-images-artificial-intelligence-search-unexploded-bombs",
-      "ampWebUrl": "https://www.foxnews.com/tech/satellite-images-artificial-intelligence-search-unexploded-bombs.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/satellite-images-artificial-intelligence-search-unexploded-bombs.amp",
-      "publishedDateTime": "2020-03-24T09:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/03/640/320/CambodiaBombingGetty1970.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": "Satellite images and artificial intelligence used in search for Vietnam War-era unexploded bombs",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-24-personal-voice-assistants-struggle-with-black-voices-new-study-shows.md",
-      "title": "Personal voice assistants struggle with black voices, new study shows",
-      "excerpt": "Microsoft had the smallest disparity; Apple had the biggest.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.theverge.com/2020/3/24/21192333/speech-recognition-amazon-microsoft-google-ibm-apple-siri-alexa-cortana-voice-assistant",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/3/24/21192333/speech-recognition-amazon-microsoft-google-ibm-apple-siri-alexa-cortana-voice-assistant",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/3/24/21192333/speech-recognition-amazon-microsoft-google-ibm-apple-siri-alexa-cortana-voice-assistant",
-      "publishedDateTime": "2020-03-24T08:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/kmesD6t87OypOMz5HA-_6k6_41Q=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66547041/dseifert_191123_3810_0011.0.jpg",
-          "width": 1400,
-          "height": 933,
-          "title": "Personal voice assistants struggle with black voices, new study shows",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-24-fritz-brings-on-device-ai-to-android-and-ios.md",
-      "title": "Fritz brings on-device AI to Android and iOS",
-      "excerpt": "Fritz AI, a startup providing an AI and machine learning development platform for Android and iOS, today announced that it has raised $5 million. CEO Dan Abdinoor says that the capital will accelerate Fritz’s expansion as it launches its product out of early access, which he asserts addresses the challenges of mobile AI for businesses with ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/03/24/fritz-on-device-ai-development-platform-for-android-and-ios/",
-      "ampWebUrl": "https://venturebeat.com/2020/03/24/fritz-on-device-ai-development-platform-for-android-and-ios/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/24/fritz-on-device-ai-development-platform-for-android-and-ios/amp/",
-      "publishedDateTime": "2020-03-24T08:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/03/1_VGALiW-R7uLVK2drc_Gcw-e1585064544156.png?fit=1134%2C567&strip=all",
-          "width": 1134,
-          "height": 567,
-          "title": "Fritz brings on-device AI to Android and iOS",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

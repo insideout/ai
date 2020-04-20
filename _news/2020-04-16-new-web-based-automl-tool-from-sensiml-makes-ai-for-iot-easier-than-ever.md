@@ -2,29 +2,27 @@
 category: news
 title: "New Web-Based AutoML Tool from SensiML Makes AI for IoT Easier than Ever"
 excerpt: "PORTLAND, Ore., April 16, 2020 /PRNewswire/ -- SensiML™ Corporation, a leading developer of AI tools for building intelligent IoT endpoints, has released a new web-based AutoML tool with a ..."
-publishedDateTime: 2020-04-16T13:22:00Z
-webUrl: "https://www.benzinga.com/pressreleases/20/04/n15819256/new-web-based-automl-tool-from-sensiml-makes-ai-for-iot-easier-than-ever"
-ampWebUrl: "https://amp.benzinga.com/amp/content/15819256"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15819256"
+publishedDateTime: 2020-04-16T13:23:00Z
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/new-web-based-automl-tool-from-sensiml-makes-ai-for-iot-easier-than-ever/article_35c486af-26f5-5532-8c78-a677135b8da5.html"
 type: article
-quality: 73
-heat: 73
-published: true
+quality: 53
+heat: 53
+published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/891804/SensiML_Logo.jpg"
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/c/22/c2216860-0a3c-5af2-ba20-9a5b036c0854/5e986247ecbff.image.jpg?resize=400%2C208"
     width: 400
     height: 208
     title: "New Web-Based AutoML Tool from SensiML Makes AI for IoT Easier than Ever"
 
-secured: "Be81mHgrQe+h+LwIGENk/QQu1EyPu3IpGs003YpRt7fNlfwA6B4bM/ygjPoncnGrRJabFKATPhVgCIixUgkxxREQuycU+Ze5rXLo+H0g8ecekLrG2pURM30MQMCf84godlEzm100lVJrB+ZZ9I32L4Ul2OSkhIuwYpy+6jdCZZWzOjWRen/9ecFG05WQG7zzPjZqjhEJsOK9vhVWA3f50acxEvKuVnDkcdjj7YDnYUCcnt4tQD0gB12A6k5K35Zjd6KDYVxYbDDovUOpCp7sS+pabpYc2cXU4J3zmSk/bjsu3TjHkYSJva/fM/ZMhLsp;q07hpX11b2rxGRerT83txg=="
+secured: "CmCICb6cm6yLOoJgO+qIuBG+EGuqGTrgk6N2fgPS2XUEiH/tW6Z3DFa8715ecPwHMHmR4u0fHh1RhzJewtDT/3z9EGaH9r/2r4r2oHtRQW0ThX38TyD5HXM2rsXFnc/mzaj3sCX73Ao3Bmc/FsukkGLuuP9hajONFZSJ9CmleupYPpLhRcEu2CJndZsKyrFinvcX/bqRvNXBKTXUQZzRWKzogAHa5IZtuGC7NOxhWi3UrOALQEtXA6LKYj6djs3mxBSwYvSzKF13o/CncqUbQr3F5lLGdJdXLkoexVInFLROS/9hcCv/e6c3uiK2NZvr;gRNtCMCYfal/Hl95zblv2w=="
 ---
 

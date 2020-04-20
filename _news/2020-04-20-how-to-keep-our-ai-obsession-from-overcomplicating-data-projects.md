@@ -28,6 +28,6 @@ images:
     height: 640
     title: "How To Keep Our AI Obsession From Overcomplicating Data Projects"
 
-secured: "ZoU4rYPzl255DQHPy80qbCYPyEjKXyueQQD4vye6V/ynbMLQxh3OcNJP3kIqjnWGt/2eWpBZf6gU6H4ukYJc27hHWIxdYp/dYoUP3BSqfqc7jvD7cWGW94wB1ao+tW/4ZHVUIJy6nMDjSXYVRUfSwf73xatDllC9+550/gOVopJXRfkrpgnQGXhEfbES8JCqES51YjfJWf6wnsUD+Pd5ZgBQXjnZeS17w2DajCQeTuZpQXGVim898isYPoJ6mJPbdtFasgMBJfUBcDKWPXg64pleq3/isKZVlme35v/BPlx5fK9yaiHJdLHqfM2WC9cu;vvoOJGcM89PsQ2RE0k0m1w=="
+secured: "YmH5Ys1J85ztM/LJorOYCBd8m4Yk6E3oyQ2znS/nS6gXCihs7hrgO96h+VWuQuqLU1I2XwvMADQN4xqBm9rBlqz/udJZG/CrW16iYuTI/QdqpNemzr+kW+pD716JsBuIVE0tM8rYf//RI9m61rav7awQZQ1dYs+QY+AkABD/cXAKb9I0vXYdblSnWhcPvPhHqGfe1u2u1QAUe+wg+Noxx5eXPrkQrO9t0sewlL2NaQoWAT46r0FGfxDHXVa6sTOb4NhRnG+xRN4lQEj422/LX2MCIBkfH07Cb0491TZUXz0ma5G/nTtXEuq1THbHBgjtlMdLvG8q0/mMkL784ZT1l5o3dxtDcn8udGyrKU6xv1vYlxMUDeYqjjVCY/cb/TXpxzZWPKOL0kIa4mhsKNOv+eJf1jO2eGdRmBrIVp0SDjNEEbiNdGfa+QTafXLSqxvGCp+aSt3dhok+XWvsxNWzXBfylBCHbfIv5jFzu9WNXwo=;SDwNYV0U3RpcawzyICmW/A=="
 ---
 

@@ -2,6 +2,140 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-04-16-aws-iq-waives-fees-until-june-30-2020-to-help-you-stand-up-and-scale-remote-work-initiatives.md",
+      "title": "AWS IQ waives fees until June 30, 2020, to help you stand up and scale remote work initiatives",
+      "excerpt": "The recent post Working from Home? Here’s How AWS Can Help shared several ways AWS is helping you set up and scale remote work and work-from-home initiatives. Getting these solutions set up is sometimes best—and achieved more quickly—with expert help. You can get the help you need with AWS IQ, which",
+      "heat": 92,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/aws-iq-waives-fees-until-june-30-2020-to-help-you-stand-up-and-scale-remote-work-initiatives/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-16T11:40:25-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/04/15/no-fee-aws-iq-2.gif",
+          "width": 1000,
+          "height": 380,
+          "title": "AWS IQ waives fees until June 30, 2020, to help you stand up and scale remote work initiatives",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-16-covid-19-how-artificial-intelligence-can-help-companies-plan-for-the-future.md",
+      "title": "COVID-19: How artificial intelligence can help companies plan for the future",
+      "excerpt": "Karen Roby speaks with Dataminr's Jen Jones about the role of artificial intelligence in the coronavirus crisis and why information is key to managing emerging risks. TechRepublic's Karen Roby talks with Jen Jones, CMO of Dataminr, a company that uses artificial intelligence (AI) to detect risks, about the role AI is playing in the effort to ...",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/article/covid-19-how-artificial-intelligence-can-help-companies-plan-for-the-future/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/covid-19-how-artificial-intelligence-can-help-companies-plan-for-the-future/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/covid-19-how-artificial-intelligence-can-help-companies-plan-for-the-future/",
+      "publishedDateTime": "2020-04-16T11:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/04/16/abc977fe-63e7-448f-b067-9fc0dd4897b1/thumbnail/1200x675/003d7891c928e2b077754d0cc0564bf4/20200413-dataminr-karen.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "COVID-19: How artificial intelligence can help companies plan for the future",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-16-spanish-newscaster-speaking-style-now-available-in-amazon-polly.md",
+      "title": "Spanish Newscaster speaking style now available in Amazon Polly",
+      "excerpt": "Amazon Polly is launching its first non-English Newscaster speaking style voice, Lupe. This female US Spanish voice is the third Newscaster speaking style voice in Amazon Polly, following the launches of US English voices Matthew and Joanna. All Newscaster voices are made possible by the Neural Text-to-Speech",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/spanish-newscaster-speaking-style-now-available-in-amazon-polly/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-16T11:08:39-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/11/24/polly-social.jpg",
+          "width": 1024,
+          "height": 512,
+          "title": "Spanish Newscaster speaking style now available in Amazon Polly",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-16-ai-spots-critical-microsoft-security-bugs-97-of-the-time.md",
       "title": "AI spots critical Microsoft security bugs 97% of the time",
       "excerpt": "Microsoft isn’t the only tech giant using AI to weed out software bugs. Amazon’s CodeGuru service, which was partly trained on code reviews and apps developed internally at Amazon, spots issues including resource leaks and wasted CPU cycles. As for Facebook, it developed a tool called SapFix that generates fixes for bugs before sending them ...",
@@ -443,43 +577,6 @@
       ]
     },
     {
-      "path": "_news/2020-04-16-new-web-based-automl-tool-from-sensiml-makes-ai-for-iot-easier-than-ever.md",
-      "title": "New Web-Based AutoML Tool from SensiML Makes AI for IoT Easier than Ever",
-      "excerpt": "PORTLAND, Ore., April 16, 2020 /PRNewswire/ -- SensiML™ Corporation, a leading developer of AI tools for building intelligent IoT endpoints, has released a new web-based AutoML tool with a ...",
-      "heat": 73,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.benzinga.com/pressreleases/20/04/n15819256/new-web-based-automl-tool-from-sensiml-makes-ai-for-iot-easier-than-ever",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/15819256",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15819256",
-      "publishedDateTime": "2020-04-16T06:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/891804/SensiML_Logo.jpg",
-          "width": 400,
-          "height": 208,
-          "title": "New Web-Based AutoML Tool from SensiML Makes AI for IoT Easier than Ever",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-04-16-project-florence-how-ai-powered-online-learning-is-training-nurses-to-fight-covid-19.md",
       "title": "Project Florence: How AI-powered online learning is training nurses to fight COVID-19",
       "excerpt": "SEE: Coronavirus: Critical IT policies and tools every business needs (TechRepublic Premium) The online learning tool starts with an AI-driven assessment that changes based on the knowledge level of the user. Once Project Florence has determined what a nurse or other health care practitioner needs to learn it recommends a two-day curriculum ...",
@@ -512,50 +609,6 @@
           "width": 1200,
           "height": 675,
           "title": "Project Florence: How AI-powered online learning is training nurses to fight COVID-19",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-16-coursera-taps-ai-to-match-on-campus-courses-with-online-curricula.md",
-      "title": "Coursera taps AI to match on-campus courses with online curricula",
-      "excerpt": "Online learning startup Coursera today debuted CourseMatch, an AI tool that matches classes in schools’ on-campus course catalogs to relevant offerings in Coursera’s catalog. It’s a part of the startup’s Coronavirus Response Initiative that launched in early March, and Coursera says it’s intended to enable universities to facilitate ...",
-      "heat": 77,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/16/coursera-taps-ai-to-match-on-campus-courses-with-online-curricula/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-16T06:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/coursera-social-logo.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 625,
-          "title": "Coursera taps AI to match on-campus courses with online curricula",
           "attribution": null
         }
       ],
@@ -1255,50 +1308,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-16-healthcare-organizations-use-nvidias-clara-federated-learning-to-improve-mammogram-analysis-ai.md",
-      "title": "Healthcare organizations use Nvidia’s Clara federated learning to improve mammogram analysis AI",
-      "excerpt": "A group of healthcare organizations in the United States and Brazil have used federated learning to improve AI mammography classification models for recognizing tumors. An Nvidia spokesperson declined to share specific performance details, but said a combined effort led to better classification model performance than models made by any of the ...",
-      "heat": 75,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/15/healthcare-organizations-use-nvidias-clara-federated-learning-to-improve-mammogram-analysis-ai/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/15/healthcare-organizations-use-nvidias-clara-federated-learning-to-improve-mammogram-analysis-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/15/healthcare-organizations-use-nvidias-clara-federated-learning-to-improve-mammogram-analysis-ai/amp/",
-      "publishedDateTime": "2020-04-15T17:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/nci-vol-2573-300.jpg?fit=1800%2C900&strip=all",
-          "width": 1800,
-          "height": 900,
-          "title": "Healthcare organizations use Nvidia’s Clara federated learning to improve mammogram analysis AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

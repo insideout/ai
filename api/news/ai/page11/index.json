@@ -2,6 +2,168 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-04-07-glassbox-raises-40-million-to-track-customer-journeys-with-ai.md",
+      "title": "Glassbox raises $40 million to track customer journeys with AI",
+      "excerpt": "“Our aim is to improve functionality and keep up with trends and patterns, enabling enterprises to deliver the best possible customer experience which we achieve through our proprietary technology, harnessing AI to great effect.” Glassbox’s investments in AI and machine learning manifest in its customer behavior and churn ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/07/glassbox-raises-40-million-to-track-customer-journeys-with-ai/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/07/glassbox-raises-40-million-to-track-customer-journeys-with-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/07/glassbox-raises-40-million-to-track-customer-journeys-with-ai/amp/",
+      "publishedDateTime": "2020-04-07T04:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/TDO_glassbox_1-e1585871003462.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Glassbox raises $40 million to track customer journeys with AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-07-new-centre-to-address-ai-and-digital-ethics.md",
+      "title": "New centre to address AI and digital ethics",
+      "excerpt": "A new centre for artificial intelligence (AI) and digital ethics has been launched by the University Melbourne to address ethical, policy and legal challenges posed by new technologies. Combining expertise from Melbourne Law School, Melbourne School of ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.miragenews.com/new-centre-to-address-ai-and-digital-ethics/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-07T04:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Armed robbery in Revesby",
+        "domain": "miragenews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://about.unimelb.edu.au/__data/assets/image/0017/144107/CCTV.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": "New centre to address AI and digital ethics",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-07-ai-adoption-is-on-the-rise.md",
+      "title": "AI Adoption Is On The Rise",
+      "excerpt": "Company resources, processes and bottom lines will be constantly scrutinized and re-prioritized more than ever. That's why 2020 is a key window for AI adoption and acceleration to take place across the world.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/04/07/ai-adoption-is-on-the-rise/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/04/07/ai-adoption-is-on-the-rise/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/04/07/ai-adoption-is-on-the-rise/amp/",
+      "publishedDateTime": "2020-04-07T04:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F04%2Fa-2.jpg",
+          "width": 640,
+          "height": 640,
+          "title": "AI Adoption Is On The Rise",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-07-a-florida-lab-is-using-self-driving-vans-to-ferry-coronavirus-tests.md",
+      "title": "A Florida lab is using self-driving vans to ferry coronavirus tests",
+      "excerpt": "The Mayo Clinic in Florida is using four driverless shuttles to ferry ... and free up healthcare workers’ time. “Using artificial intelligence enables us to protect staff from exposure to ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businessinsider.com.au/mayo-clinic-autonomous-vans-coronavirus-tests-2020-4",
+      "ampWebUrl": "https://www.businessinsider.com.au/mayo-clinic-autonomous-vans-coronavirus-tests-2020-4/amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com-au.cdn.ampproject.org/c/s/www.businessinsider.com.au/mayo-clinic-autonomous-vans-coronavirus-tests-2020-4/amp",
+      "publishedDateTime": "2020-04-07T04:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider Australia",
+        "domain": "businessinsider.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.insider.com/5e8c410715ea4b198f62af02",
+          "width": 800,
+          "height": 600,
+          "title": "A Florida lab is using self-driving vans to ferry coronavirus tests",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-07-self-driving-vans-are-delivering-food-and-disinfecting-streets-in-china.md",
       "title": "Self-driving vans are delivering food and disinfecting streets in China",
       "excerpt": "Mashable is a global, multi-platform media and entertainment company. Powered by its own proprietary technology, Mashable is the go-to source for tech, digital culture and entertainment content for its dedicated and influential audience around the globe. ©2020 Mashable, Inc. All Rights Reserved. Mashable, MashBash and Mashable House are among ...",
@@ -1096,176 +1258,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-06-mit-researchers-use-ai-to-turn-the-coronavirus-into-a-haunting-melody.md",
-      "title": "MIT researchers use AI to turn the coronavirus into a haunting melody",
-      "excerpt": "An AI system that turns the coronavirus‘ structure into music could help scientists spot details about COVID-19 that a microscope would miss. The AI-generated tune is an audible representation of the coronavirus’ “spike” proteins, which spread the infection by poking out of the virus and binding to human cells. These spikes make the ...",
-      "heat": 97,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/04/06/mit-researchers-use-ai-to-turn-the-coronavirus-into-a-haunting-melody/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/04/06/mit-researchers-use-ai-to-turn-the-coronavirus-into-a-haunting-melody/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/04/06/mit-researchers-use-ai-to-turn-the-coronavirus-into-a-haunting-melody/amp/",
-      "publishedDateTime": "2020-04-06T10:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/04/Untitled-design52-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "MIT researchers use AI to turn the coronavirus into a haunting melody",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-06-ibms-ai-classifies-seizures-with-984-accuracy-using-eeg-data.md",
-      "title": "IBM’s AI classifies seizures with 98.4% accuracy using EEG data",
-      "excerpt": "In a paper published on the preprint server Arxiv.org this week, IBM researchers describe SeizureNet, a machine learning framework that learns the features of seizures to classify various types. They say that it achieves state-of-the-art classification accuracy on a popular data set, and that it helps to improve the classification accuracy of ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/06/ibm-ai-eeg-data-classify-seizures-98-4-accuracy/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/06/ibm-ai-eeg-data-classify-seizures-98-4-accuracy/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/06/ibm-ai-eeg-data-classify-seizures-98-4-accuracy/amp/",
-      "publishedDateTime": "2020-04-06T09:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/02/shutterstock_400845934-e1572448996720.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "IBM’s AI classifies seizures with 98.4% accuracy using EEG data",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-06-cvg-becomes-first-us-airport-to-have-autonomous-robots-cleaning.md",
-      "title": "CVG becomes first U.S. airport to have autonomous robots cleaning",
-      "excerpt": "Cincinnati/Northern Kentucky International Airport is the first U.S. airport to use a certain type of robot to clean its floors, a practice that started earlier this year but has become even more useful given the COVID19 crisis.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.bizjournals.com/cincinnati/news/2020/04/06/cvg-becomes-first-u-s-airport-to-have-autonomous.html",
-      "ampWebUrl": "https://www.bizjournals.com/cincinnati/news/2020/04/06/cvg-becomes-first-u-s-airport-to-have-autonomous.amp.html",
-      "cdnAmpWebUrl": "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/cincinnati/news/2020/04/06/cvg-becomes-first-u-s-airport-to-have-autonomous.amp.html",
-      "publishedDateTime": "2020-04-06T09:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Business Journals",
-        "domain": "bizjournals.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.bizj.us/view/img/11642104/neocvg2*600xx3281-2187-0-0.png",
-          "width": 600,
-          "height": 399,
-          "title": "CVG becomes first U.S. airport to have autonomous robots cleaning",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-06-ibm-shares-ai-tools-to-better-understand-and-treat-covid-19.md",
-      "title": "IBM shares AI tools to better understand and treat COVID-19",
-      "excerpt": "It’s hoping to help researchers and frontline medical professionals. IBM wants to help researchers better understand and treat COVID-19. To do so, it’s putting its AI to work. It has released a series of new tools to aggregate data, help researchers explore potential therapies, advance the study of newly sequenced SARS-CoV-2 genomes and ...",
-      "heat": 97,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.engadget.com/ibm-coronavirus-ai-research-tools-162123059.html",
-      "ampWebUrl": "https://www.engadget.com/amp/ibm-coronavirus-ai-research-tools-162123059.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/ibm-coronavirus-ai-research-tools-162123059.html",
-      "publishedDateTime": "2020-04-06T09:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-04%2Fd6b014b0-781d-11ea-9feb-f34a059ca99c&client=amp-blogside-v2&signature=6996e8f7d2fdda8e7a63ace2c66b184f2ff39680",
-          "width": 600,
-          "height": 350,
-          "title": "IBM shares AI tools to better understand and treat COVID-19",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

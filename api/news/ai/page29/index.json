@@ -2,6 +2,252 @@
   "page": 29,
   "value": [
     {
+      "path": "_news/2020-03-20-whats-next-after-artificial-intelligence-enter-the-world-of-explainable-artificial-intelligence.md",
+      "title": "What’s Next After Artificial Intelligence? Enter The World Of Explainable Artificial Intelligence",
+      "excerpt": "The beauty of artificial intelligence, however, lies in the way that organizations use it to prepare themselves. Breaking down to the nuances, it means understanding the customer behaviors and personalizing experiences so that they get exactly what they expect from a product or brand. Be it the world of business or healthcare, artificial ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.hostreview.com/blog/200320-whats-next-after-artificial-intelligence-enter-the-world-of-explainable-artificial-intelligence",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-20T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Host Review",
+        "domain": "hostreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.hostreview.com/themes/hostreview/images/hr-social-logo-400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "What’s Next After Artificial Intelligence? Enter The World Of Explainable Artificial Intelligence",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-20-how-to-ride-the-third-wave-of-ai.md",
+      "title": "How to ride the third wave of AI",
+      "excerpt": "Object recognition is the same. Vehicles are now pretty good at recognising other vehicles and pedestrians as part of their advanced driving assistance. However, how effective it is depends on ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.itproportal.com/features/how-to-ride-the-third-wave-of-ai/",
+      "ampWebUrl": "https://www.itproportal.com/amp/features/how-to-ride-the-third-wave-of-ai/",
+      "cdnAmpWebUrl": "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/how-to-ride-the-third-wave-of-ai/",
+      "publishedDateTime": "2020-03-20T02:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro Portal",
+        "domain": "itproportal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/ruuTz8N3nacxJhaZVw8HwN-1200-80.jpg",
+          "width": 800,
+          "height": 450,
+          "title": "How to ride the third wave of AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-20-understanding-the-limits-of-convolutional-neural-networks-one-of-ais-greatest-achievements.md",
+      "title": "Understanding the limits of convolutional neural networks — one of AI’s greatest achievements",
+      "excerpt": "After a prolonged winter, artificial intelligence is experiencing a scorching summer mainly thanks to advances in deep learning and artificial neural networks. To be more precise, the renewed interest in deep learning is largely due to the success of convolutional neural networks (CNNs), a neural network structure that is especially good at ...",
+      "heat": 93,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/03/20/understanding-the-limits-of-convolutional-neural-networks-one-of-ais-greatest-achievements-syndication/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/03/20/understanding-the-limits-of-convolutional-neural-networks-one-of-ais-greatest-achievements-syndication/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/03/20/understanding-the-limits-of-convolutional-neural-networks-one-of-ais-greatest-achievements-syndication/amp/",
+      "publishedDateTime": "2020-03-20T01:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/03/Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-...-2-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "Understanding the limits of convolutional neural networks — one of AI’s greatest achievements",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-20-how-embedded-vision-and-ai-can-reduce-manufacturers-costs.md",
+      "title": "How embedded vision and AI can reduce manufacturers’ costs",
+      "excerpt": "Embedding the camera and processing onto a single device allows manufacturers to sneak embedded vision into places where computer vision technology would never fit. Image processing is more accessible and can deliver savings to total system costs. Within embedded vision systems, pre-processing and advanced processing correction tasks quickly ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.controleng.com/articles/how-embedded-vision-and-ai-can-reduce-manufacturers-costs/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-20T00:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Control Engineering",
+        "domain": "controleng.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cfemedia1.wpengine.com/wp-content/uploads/2019/07/ctlx_icon_MachineVision_Slider_01-3.jpg",
+          "width": 485,
+          "height": 260,
+          "title": "How embedded vision and AI can reduce manufacturers’ costs",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-20-huaweis-new-mid-range-phones-could-have-same-gpu-as-galaxy-s20-update.md",
+      "title": "Huawei’s new mid-range phones could have same GPU as Galaxy S20 (Update)",
+      "excerpt": "Still, it suggests that the Kirin 820 will offer even better on-device machine learning capabilities. Even if we don’t see a major AI boost, the GPU upgrade suggests that Huawei’s new mid-range phones might be ideal for gaming on a budget. Now, about building out its mobile services and AppGallery.",
+      "heat": 88,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.androidauthority.com/huawei-kirin-820-1094618/",
+      "ampWebUrl": "https://www.androidauthority.com/huawei-kirin-820-1094618/amp/",
+      "cdnAmpWebUrl": "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/huawei-kirin-820-1094618/amp/",
+      "publishedDateTime": "2020-03-19T23:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android Authority",
+        "domain": "androidauthority.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn57.androidauthority.net/wp-content/uploads/2019/09/Kirin-990-with-Huawei-logo-920x470.jpg",
+          "width": 920,
+          "height": 470,
+          "title": "Huawei’s new mid-range phones could have same GPU as Galaxy S20 (Update)",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-20-former-uber-self-driving-head-levandowski-agrees-to-plea-deal-over-google-secrets.md",
+      "title": "Former Uber self-driving head Levandowski agrees to plea deal over Google secrets",
+      "excerpt": "Engineer Anthony Levandowski, known for advancing self-driving car technology in the last decade, agreed to plead guilty on Thursday to taking sensitive documents from his former employer Google before joining rival Uber Technologies Inc.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-uber-autonomous-levandowski-idUSKBN21646I",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN21646I",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN21646I",
+      "publishedDateTime": "2020-03-19T23:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200320&t=2&i=1505635590&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG2I2EP",
+          "width": 830,
+          "height": 545,
+          "title": "Former Uber self-driving head Levandowski agrees to plea deal over Google secrets",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-20-former-google-self-driving-engineer-pleads-guilty-to-trade-secrets-theft.md",
       "title": "Former Google Self-Driving Engineer Pleads Guilty to Trade Secrets Theft",
       "excerpt": "A former engineer in Google's self-driving division who became the focus of a criminal investigation that rocked Silicon Valley has pleaded guilty to a count of trade secrets theft, NBC News reports. Anthony Levandowski admitted he downloaded thousands of proprietary files from an internal Google server in 2015 and transferred them to his ...",
@@ -963,242 +1209,6 @@
           "width": 1179,
           "height": 651,
           "title": "PlayStation 5 vs. Xbox Series X: Which Is Better?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-19-iot-and-machine-learning-technology.md",
-      "title": "IoT and Machine Learning Technology",
-      "excerpt": "And if the MCA Connect team were to wager on the next massive breakthrough in computing, they would be putting favorable odds on the development of artificial intelligence and machine learning technologies. Machine Learning Drives the Future of Artificial Intelligence Modern machines harness Artificial Intelligence (AI) to perform functions ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.tmcnet.com/topics/articles/2020/03/19/444843-iot-machine-learning-technology.htm",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-19T06:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.tmcnet.com/tmc/misc/articles/image/2020-mar/9766423712-earth-hands-1222866_960_720.jpg",
-          "width": 960,
-          "height": 679,
-          "title": "IoT and Machine Learning Technology",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-19-ai-a-guide-for-thinking-humans.md",
-      "title": "AI: A Guide For Thinking Humans",
-      "excerpt": "Tonya Hall sits down with Dr. Melanie Mitchell, Davis professor at the Santa Fe Institute, to discuss Mitchell's book about whether smart machines can actually think or understand, and what might make AI more reliable and trustworthy.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/video/ai-a-guide-for-thinking-humans/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-19T06:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2020/03/19/06ed6b48-07ac-4738-b4d3-5931007c86ec/thumbnail/770x578/e3427969c2d82fce8f41dc73226f23ff/thumb.jpg",
-          "width": 770,
-          "height": 578,
-          "title": "AI: A Guide For Thinking Humans",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-19-artificial-intelligence-can-improve-colonoscopies.md",
-      "title": "Artificial intelligence can improve colonoscopies",
-      "excerpt": "There are more than 1 million colon cancer survivors in the U.S., according to the American Cancer Society. That number is rising because doctors are finding and removing more precancerous polyps during colonoscopies.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wfmz.com/health/artificial-intelligence-can-improve-colonoscopies/article_7732fc5c-5ca5-11ea-83be-2bb7cb94b861.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-19T06:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/1/2f/12fac9b4-6063-5a8f-bf96-974744138e5c/5e736ce857ed7.image.jpg?resize=1120%2C630",
-          "width": 1120,
-          "height": 630,
-          "title": "Artificial intelligence can improve colonoscopies",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-19-synergy-emergence-in-deep-reinforcement-motor-learning-image.md",
-      "title": "Synergy Emergence in Deep Reinforcement Motor Learning (image)",
-      "excerpt": "Human motor learning encompasses motor synergy. The central nervous system produces movement through the combination of synergies that specify movement across a set of muscles, simplifying the control of movement. The question is, can this synergy development process be observed in deep learning for robotics? Disclaimer: AAAS and EurekAlert!",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.eurekalert.org/multimedia/pub/227320.php",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-19T06:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://eurekalert.org/multimedia_ml/pub/web/10686_web.jpg",
-          "width": 645,
-          "height": 315,
-          "title": "Synergy Emergence in Deep Reinforcement Motor Learning (image)",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-19-synergy-emergence-in-deep-reinforcement-motor-learning.md",
-      "title": "Synergy emergence in deep reinforcement motor learning",
-      "excerpt": "Now, researchers at Tohoku University have observed a similar concept in robotic agents using deep reinforcement learning (DRL) algorithms. DRL allows robotic agents to learn the best action possible in their virtual environment. It allows complex robotic tasks to be solved whilst minimalising manual operations and achieving peak performance.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.eurekalert.org/pub_releases/2020-03/tu-sei031920.php",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-19T06:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://eurekalert.org/multimedia_ml/pub/web/10686_web.jpg",
-          "width": 645,
-          "height": 315,
-          "title": "Synergy emergence in deep reinforcement motor learning",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-19-microsoft-can-filter-out-the-sound-of-you-eating-potato-chips-on-a-conference-call.md",
-      "title": "Microsoft can filter out the sound of you eating potato chips on a conference call",
-      "excerpt": "The software giant's trained artificial intelligence software to identify background noise that isn't your voice. Snackers, rejoice. Just in time for us all to be working from home because of the pandemic coronavirus,",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnet.com/news/microsoft-can-filter-out-the-sound-of-you-eating-potato-chips-on-a-conference-call/",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/microsoft-can-filter-out-the-sound-of-you-eating-potato-chips-on-a-conference-call/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/microsoft-can-filter-out-the-sound-of-you-eating-potato-chips-on-a-conference-call/",
-      "publishedDateTime": "2020-03-19T06:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cnet2.cbsistatic.com/img/JZSQgmXsYYeJrmdTuLhBplTeIGs=/756x567/2017/03/13/a8a77ece-0a9f-437e-8a76-60905540b98d/chips.jpg",
-          "width": 756,
-          "height": 567,
-          "title": "Microsoft can filter out the sound of you eating potato chips on a conference call",
           "attribution": null
         }
       ],

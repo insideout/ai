@@ -2,6 +2,203 @@
   "page": 41,
   "value": [
     {
+      "path": "_news/2020-03-17-venture-capitalist-tim-draper-bitcoin-decentralization-and-artificial-intelligence-could-transform-global-industries.md",
+      "title": "Venture Capitalist Tim Draper: Bitcoin, decentralization and artificial intelligence could transform global industries",
+      "excerpt": "WELCOME We use cookies to enhance your experience like remembering your Time Zone. We have updated our privacy policy please check our Terms&Conditions Accept and Continue Industries that could be transformed using decentralization,",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fxstreet.com/cryptocurrencies/news/venture-capitalist-tim-draper-bitcoin-decentralization-and-artificial-intelligence-could-transform-global-industries-202003170949",
+      "ampWebUrl": "https://www.fxstreet.com/amp/cryptocurrencies/news/venture-capitalist-tim-draper-bitcoin-decentralization-and-artificial-intelligence-could-transform-global-industries-202003170949",
+      "cdnAmpWebUrl": "https://www-fxstreet-com.cdn.ampproject.org/c/s/www.fxstreet.com/amp/cryptocurrencies/news/venture-capitalist-tim-draper-bitcoin-decentralization-and-artificial-intelligence-could-transform-global-industries-202003170949",
+      "publishedDateTime": "2020-03-17T02:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "FXStreet",
+        "domain": "fxstreet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-17-natural-language-processing-market-growth-opportunity-size-share-and-forecast-2019-2025.md",
+      "title": "Natural Language Processing Market Growth, Opportunity, Size, Share and Forecast 2019-2025",
+      "excerpt": "Natural Language Processing (NLP) market is growing tremendously owing to growing applications in artificial intelligence and machine learning technology. NLP technology supports computer to ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.openpr.com/news/1970701/natural-language-processing-market-growth-opportunity-size",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-17T02:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-17-facebook-ais-demucs-teaches-ai-to-hear-in-a-more-human-like-way.md",
+      "title": "Facebook AI’s Demucs teaches AI to hear in a more human-like way",
+      "excerpt": "Demucs is a new research project by Facebook AI. It is designed to separate musical tracks into different instruments or vocals, similar to how a human can detect the specific instruments, and solve the problems of existing approaches. In the long run, Demucs could be applied to other AI tasks as well. Music source separation can be a tricky ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://jaxenter.com/facebook-ai-demucs-169778.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-17T02:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "jaxenter.com",
+        "domain": "jaxenter.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://jaxenter.com/wp-content/uploads/2020/03/demucs.jpg",
+          "width": 600,
+          "height": 400,
+          "title": "Facebook AI’s Demucs teaches AI to hear in a more human-like way",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-17-ai-predictions-2020-artificial-intelligence-grows-up.md",
+      "title": "AI predictions 2020: Artificial Intelligence grows up",
+      "excerpt": "As AI grows to be a pervasive technology, there is currently little trust of the morals and ethics of many companies that use it. As a data scientist, that is disheartening – but I believe there are ways that AI innovators can respond to the pressure they’ll begin to come under from governments and their customers.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.itproportal.com/features/ai-predictions-2020-artificial-intelligence-grows-up/",
+      "ampWebUrl": "https://www.itproportal.com/amp/features/ai-predictions-2020-artificial-intelligence-grows-up/",
+      "cdnAmpWebUrl": "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/ai-predictions-2020-artificial-intelligence-grows-up/",
+      "publishedDateTime": "2020-03-17T02:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro Portal",
+        "domain": "itproportal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/7wpkwZ96dcE55zQ5nmxUST-1200-80.jpg",
+          "width": 800,
+          "height": 500,
+          "title": "AI predictions 2020: Artificial Intelligence grows up",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-17-artificial-intelligence-ai-market.md",
+      "title": "Artificial Intelligence (AI) Market",
+      "excerpt": "In This report studies of MarketStudyReport LLC the Artificial Intelligence (AI) in Fintech market status and outlook of Global and major regions, from angles of players, countries, product types ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.openpr.com/news/1970600/whats-driving-an-artificial-intelligence-ai-in-fintech-market",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-17T02:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-17-qa-toyota-ai-ventures-seeks-disruptive-start-ups.md",
+      "title": "Q&A: Toyota AI Ventures seeks disruptive start-ups",
+      "excerpt": "Toyota AI Ventures, a subsidiary of Toyota Research Institute (TRI), is a Silicon Valley-based venture capital company which invests in early-stage start-ups developing technology in areas including AI, cloud, data, mobility and more. Mobile World Live spoke to Jim Adler, founding MD (pictured, right), about some of the key trends the company ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.mobileworldlive.com/featured-content/top-three/qa-toyota-ai-ventures-seeks-disruptive-start-ups/",
+      "ampWebUrl": "https://www.mobileworldlive.com/featured-content/top-three/qa-toyota-ai-ventures-seeks-disruptive-start-ups/amp/",
+      "cdnAmpWebUrl": "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/featured-content/top-three/qa-toyota-ai-ventures-seeks-disruptive-start-ups/amp/",
+      "publishedDateTime": "2020-03-17T02:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mobile World Live",
+        "domain": "mobileworldlive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i1.wp.com/www.mobileworldlive.com/wp-content/uploads/2017/08/MWL_Toyota_Connected_Car.jpg?fit=500%2C281&ssl=1",
+          "width": 500,
+          "height": 281,
+          "title": "Q&A: Toyota AI Ventures seeks disruptive start-ups",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-17-whats-driving-the-gpu-market-growth-amd-amazon-web-services-dassault-systmes-google-ibm-intel-corporation-microsoft.md",
       "title": "What's Driving the GPU Market Growth? AMD, Amazon Web Services, Dassault Systmes, Google, IBM, Intel Corporation, Microsoft",
       "excerpt": "Ever increasing demand for advanced graphics processing across several sectors is majorly driving the GPU market trends GPUs play a key role in running graphics intensive applications such as gaming image processing 3D visualization VFX animations and many more among",
@@ -750,236 +947,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-society-50-japans-lofty-plans-face-hurdles.md",
-      "title": "Society 5.0: Japan’s lofty plans face hurdles",
-      "excerpt": "Carbon emissions are cut by driverless vehicles choosing the shortest route home. Robots take care of the elderly, using body sensors to flag up if additional human help is needed. Artificial intelligence (AI) will sift your online history and health records to build you the perfect itinerary for a city break, for example, tailored just so to ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.raconteur.net/business-innovation/society-5-0-infrastructure",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-16T18:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Raconteur",
-        "domain": "raconteur.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.raconteur.net/wp-content/uploads/2020/03/EdImage_p3.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Society 5.0: Japan’s lofty plans face hurdles",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-ibm-commercialises-ai-communication.md",
-      "title": "IBM commercialises AI communication",
-      "excerpt": "IBM is commercialising a new technology that makes it easier for computers to understand human communication. AI has struggled to understand the kinds of nuances that appear in everyday communication among people. Now Big Blue is adding new tools to its AI system, Watson, which can address that problem and better understand human language.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.fudzilla.com/news/ai/50483-ibm-commercialises-ai-communication",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-16T18:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fudzilla",
-        "domain": "fudzilla.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.fudzilla.com/media/k2/items/cache/31c2c7604349f9615a8f77c09e482964_L.jpg",
-          "width": 620,
-          "height": 465,
-          "title": "IBM commercialises AI communication",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-now-ai-will-understand-language-of-business.md",
-      "title": "Now AI will understand language of business",
-      "excerpt": "The new technologies represent the first commercialisation of key Natural Language Processing (NLP) capabilities to come from IBM Research’s Project Debater, the only AI system capable of debating humans on complex topics. For example, a new advanced sentiment analysis feature is defined to identify and analyse idioms and colloquialisms ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://gadget.co.za/now-ai-will-understand-language-of-business/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-16T18:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "gadget.co.za",
-        "domain": "gadget.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://gadget.co.za/wp-content/uploads/2019/06/artificial-intelligence-computer-science-electrical-engineering-science-technology-53cda3-1024-1000x600.jpg",
-          "width": 1000,
-          "height": 600,
-          "title": "Now AI will understand language of business",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-tesla-trails-waymo-cruise-and-others-in-self-driving-strategy-study-claims.md",
-      "title": "Tesla trails Waymo, Cruise and others in self-driving strategy, study claims",
-      "excerpt": "Tesla's position on Navigant Research's AV development leaderboard is just about at the bottom. Waymo continues to lead the pack in terms of both vision and execution, according to Navigant's leaderboard.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnet.com/roadshow/news/self-driving-study-navigant-research-tesla-waymo-cruise/",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/self-driving-study-navigant-research-tesla-waymo-cruise/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/self-driving-study-navigant-research-tesla-waymo-cruise/",
-      "publishedDateTime": "2020-03-16T17:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cnet2.cbsistatic.com/img/JYW41s6QFq3vS977cDHZTxVbuKc=/2019/08/20/1ad7f55f-6c1a-4d83-b8e5-b2d40024b32c/waymo-florida-ogi.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": "Tesla trails Waymo, Cruise and others in self-driving strategy, study claims",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-varian-to-equip-new-ethos-personalized-adaptive-therapy-center-in-phoenix.md",
-      "title": "Varian to Equip New Ethos Personalized Adaptive Therapy Center in Phoenix",
-      "excerpt": "PALO ALTO, Calif., March 16, 2020 /PRNewswire/ -- Varian (NYSE: VAR) today announced it was selected to equip the new Ethos Personalized Adaptive Therapy Center in Phoenix, Arizona, and help",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/varian-to-equip-new-ethos-personalized-adaptive-therapy-center-in/article_db430520-912a-5b81-8dd6-2c00c7b1f532.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-16T17:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": "Varian to Equip New Ethos Personalized Adaptive Therapy Center in Phoenix",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-aws-australia-returns-to-profit-after-posting-half-a-billion-revenue.md",
-      "title": "AWS Australia returns to profit after posting half a billion revenue",
-      "excerpt": "These included around cloud migration and modernisation, demand for contact centre technology and data analytics management and artificial intelligence. Last year, Migliorini spoke to ARN about AWS’ loss for 2018, saying the company had lowered its ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.arnnet.com.au/article/671884/aws-australia-returns-profit-after-posting-half-billion-revenue/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-16T17:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ARN",
-        "domain": "arnnet.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/dimg/adam_beavis.jpg",
-          "width": 800,
-          "height": 500,
-          "title": "AWS Australia returns to profit after posting half a billion revenue",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

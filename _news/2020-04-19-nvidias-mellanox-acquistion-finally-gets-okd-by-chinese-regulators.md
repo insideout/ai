@@ -2,8 +2,8 @@
 category: news
 title: "NVIDIA's Mellanox Acquistion Finally Gets OK'd by Chinese Regulators"
 excerpt: "Given the potential for its technology over the next decade to power data centers, edge network computing, AI, and more, the GPU design leader remains one of my core portfolio holdings."
-publishedDateTime: 2020-04-19T16:48:00Z
-webUrl: "https://www.fool.com/investing/2020/04/19/nvidia-mellanox-finally-okd-by-chinese-regulators.aspx"
+publishedDateTime: 2020-04-19T20:46:00Z
+webUrl: "https://www.fool.com/investing/2020/04/19/nvidia-mellanox-finally-okd-by-chinese-regulators.aspx?source=iedfolrf0000001"
 ampWebUrl: "https://www.fool.com/amp/investing/2020/04/19/nvidia-mellanox-finally-okd-by-chinese-regulators.aspx"
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/04/19/nvidia-mellanox-finally-okd-by-chinese-regulators.aspx"
 type: article
@@ -29,6 +29,6 @@ images:
     height: 800
     title: "NVIDIA's Mellanox Acquistion Finally Gets OK'd by Chinese Regulators"
 
-secured: "s+niOtnD6EnXK3GO2FiyeNYxdJV95d728fsEeE09e927vXQwmnY5nbf81lc+asLXASBp21C/XkLnnDaKZ1iFmIwuRUxlI+kUEBqU0GzewM1jdr5+/7fEOkEnPC3hHyo9aDXIbr3sq08T4f1wgYoNzmg0QxbSyX8JGZb9C/sW4vOhYDx4VbMeSpbzxWkQGVSygenXrn5JoDjFFBnoQQuuueLtMKQEFOO+PMFBPFaYxTWc9VsjNY4vA6pxUpiZ1h5kIa6+6szvTMi8LoewnSpmztxW8IkEVT/Lc3H/62QhPiBJ46pzDh2UFR6vVhjIn7U0Q/bDNdiqSjTV0ehunqW+6eEOUqFnUI8k2R/X3Pa/F88RX+Q3Y2e65PvbxTKKFVgyuHySDgOjnSPl3fekaoorfdtqADGZxcl3Jo/OxazraHukl5TTDfYuIPqjufi5NjqnUjfAIOEh7DicMYMJC6A/tWO7pQB4bDpRqdARyRU1YE0=;XthyqtmVOCme0baTr8i7ig=="
+secured: "snCA59+dB1s2J3cX3PJLtl55TcrhT1RS4l/e+SW4/MfAiwTERQxT7Pa8h02VlbNvj7jNmR2xZFd9HWTUXFafSLVQ90V1iL7C0noY5pjQ0ba5X9MGy6N8cPjY3wCDBdQnJ6ZzpPoqOVRIRL+Kt82r3AAIdZ/buTwXWvFrDDhRdNa3XskC+4jiNRJkqGFas+zPihNlcf8Kijap67/KFEgR2Tidd7cQjwQA3krbkzvubItm+8+sM9Rbbm8C2EV2dje4j60mbALSok4nYkKS5SL8PZPtX8GJQRmkj9r5fZ0EJd4jO0A1QmujfRULZ5asBJvT;VWk9TvE4oByBZx01t8w3MQ=="
 ---
 

@@ -7,8 +7,8 @@ webUrl: "https://thehill.com/blogs/congress-blog/technology/493619-health-care-o
 ampWebUrl: "https://thehill.com/blogs/congress-blog/technology/493619-health-care-of-tomorrow-today-how-artificial-intelligence-is?amp"
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/blogs/congress-blog/technology/493619-health-care-of-tomorrow-today-how-artificial-intelligence-is?amp"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: -1
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://thehill.com/sites/default/files/coronavirus_031820getty_states-supply-fight.jpg"
@@ -25,6 +26,23 @@ images:
     height: 551
     title: "Health care of tomorrow, today: How artificial intelligence is fighting the current, and future, COVID-19 pandemic"
 
-secured: "h83vNbmD74OimNIYliCZ4Q7095sm6tXsZthy1Sae199yF4PzUiBdbLAsjZAAdrRmaiCq2XVNaPNToFbl+NabSlPGLUAGP3DyQcp4Yv2n+h/R+Mun/Of1mTYVxwrEqiAT7CltDvhZbJS+5yLzL2ac5xSLCKuUePNzEDh93fZPGuYNnrv49YSLlJckGYxL5MUTVer/0DTC7HEMERP3TLbITryWWWsDLRz1RNd1PlpAU0lJIufylIO5jyajfz2L878J/r1rEDUt1izgo9GeuBaBRzTA5m98jN+f/7VG0hpFHgTnq5QN4c58Re4tS3dzP9Hw;XtZvPei5B+PPwbfaypGNeg=="
+related:
+  - title: "How utilities are using AI to adapt to electricity demands"
+    excerpt: "Some utilities are employing AI and machine learning to address the windfalls and fluctuations in energy usage resulting from COVID-19. Precise load forecasting could ensure that operations aren’t interrupted in the coming months, thereby preventing blackouts and brownouts. And they might also bolster the efficiency of utilities’ internal ..."
+    publishedDateTime: 2020-04-20T13:34:00Z
+    webUrl: "https://venturebeat.com/2020/04/20/utilities-energy-usage-covid-19-ai-machine-learning/"
+    ampWebUrl: "https://venturebeat.com/2020/04/20/utilities-energy-usage-covid-19-ai-machine-learning/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/20/utilities-energy-usage-covid-19-ai-machine-learning/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/04/6cd663ee-b571-428e-8665-0dadb7cbc371-e1587321011520.png?fit=1202%2C598&strip=all"
+        width: 1202
+        height: 598
+
+secured: "ktXGsb2oJbc1zS3Ocllq+GnsANTyiepEyPg8ulrtN11yU5g0/dp/ENSlGipDv+H7UrvKiIFi5T2t+orfLZAxxT9JBCpthqyVOETdnknKSkJxlB6OL3awtuDKA5m3h6FfAqqgyMxStjYtPaG8k4XSzhvcVJLulJLVRMQMcA4h5BASBt1XDEl9u9qmTOjL8T2Dyp3+ZJPEdoMNDNqG/3FxtNmtY35PISobxwGG6RnGDeoHSUAgJaPnubtWZDfc2S/erJpaFNrmUOl6arxiGes1TBgC2+Q/qcfD6KhcqTboy0USA7oGUTCfUxBqo7bcP80B7Xw6NOu6eqJDefHLfsXqib4GJrXc4f/JMMjxPqtSOTUUm7j/ppK4hrKT35xd5KEPwjJiMlUdV07jo0nul4SfHyQXavHhnpdPtyupqmvY2xXSiYPrLBFD7OKznVPx0H+CtpOab3PFAwg7Mv56ECa319yl2geAC0p8v3xwv3xeik4=;+xeLa35SZ0wucui5hCDtjQ=="
 ---
 

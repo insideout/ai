@@ -2,6 +2,43 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-04-20-facebook-partners-up-with-researchers-to-fight-covid-19-using-ai.md",
+      "title": "Facebook Partners Up With Researchers To Fight COVID -19 Using AI",
+      "excerpt": "To that end, Facebook AI has partnered up with academic researchers and other experts on a slew of ... Facebook has also partnered up with the Mila research institute in Montreal to share predictive, causal, and decision algorithms to effectively analyze clinical data. Facebook says it’s important for public health experts to understand ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://in.mashable.com/tech/13299/facebook-partners-up-with-researchers-to-fight-covid-19-using-ai",
+      "ampWebUrl": "https://in.mashable.com/tech/13299/facebook-partners-up-with-researchers-to-fight-covid-19-using-ai?amp=1",
+      "cdnAmpWebUrl": "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/13299/facebook-partners-up-with-researchers-to-fight-covid-19-using-ai?amp=1",
+      "publishedDateTime": "2020-04-20T06:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://sm.mashable.com/t/mashable_in/news/t/the-corona/the-coronavirus-is-proving-to-be-big-business-for-facebook-n_n947.620.jpg",
+          "width": 620,
+          "height": 397,
+          "title": "Facebook Partners Up With Researchers To Fight COVID -19 Using AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-18-ai-weekly-when-to-ship-or-shelve-a-coronavirus-solution.md",
       "title": "AI Weekly: When to ship or shelve a coronavirus solution",
       "excerpt": "Those debates certainly carry over to the kind of AI being deployed right now, and the important question of when a company should ship or shelve a coronavirus solution. A lot of AI is being deployed in the pandemic to save lives and someday soon help us resume daily lives, much of which you’ve been able to read about here. But they aren’t ...",
@@ -411,43 +448,6 @@
       ]
     },
     {
-      "path": "_news/2020-04-07-9-ai-stocks-were-leaning-on-more-and-more.md",
-      "title": "9 AI Stocks We’re Leaning on More and More",
-      "excerpt": "During this crisis, Facebook also plays a vital role ... Natural Language Processing capabilities from IBM Research, and state-of-art enterprise AI search capabilities with Watson Discovery ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://investorplace.com/2020/04/9-ai-stocks-were-leaning-on-more-and-more/",
-      "ampWebUrl": "https://investorplace.com/2020/04/9-ai-stocks-were-leaning-on-more-and-more/amp/",
-      "cdnAmpWebUrl": "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/04/9-ai-stocks-were-leaning-on-more-and-more/amp/",
-      "publishedDateTime": "2020-04-07T08:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InvestorPlace",
-        "domain": "investorplace.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://investorplace.com/wp-content/uploads/2019/07/ai1600b.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": "9 AI Stocks We’re Leaning on More and More",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-04-03-automation-may-take-jobsbut-ai-will-create-them.md",
       "title": "Automation May Take Jobs—but AI Will Create Them",
       "excerpt": "Kevin Scott is the CTO and executive vice president of AI and research at Microsoft. He's the author of the book Reprogramming the American Dream: From Rural America to Silicon Valley—Making AI Serve Us All. Musk’s words are very much on my mind as the car I drive (it’s not autonomous, not yet) crests a hill in the rural southern Piedmont ...",
@@ -660,6 +660,43 @@
           "width": 1200,
           "height": 630,
           "title": "AI in Fashion Market Next Big Thing | Major Giants- Microsoft, IBM, Google, AWS, SAP",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-30-facebooks-universal-music-translator.md",
+      "title": "Facebook’s Universal Music Translator",
+      "excerpt": "Star Trek has its universal language translator and now researchers from Facebook Artificial Intelligence Research (FAIR) has developed a universal music translator. Much of it is based on Google ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://hackaday.com/2018/06/02/facebooks-universal-music-translator/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-29T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2018/05/universal_music_translation_fe1.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Facebook’s Universal Music Translator",
           "attribution": null
         }
       ],
@@ -1241,43 +1278,6 @@
         "AI in Robotics",
         "Facebook AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-03-13-biometrics-market-research-briefs-digital-id-revenues-to-leap-past-30b-by-2024.md",
-      "title": "Biometrics market research briefs: digital ID revenues to leap past $30B by 2024",
-      "excerpt": "The recent investment in Valencell biometric sensors for wearables and Facebook’s acquisition of Sanzaru Games are among recent ... These challenges now are being overcome by leveraging advances in AI and connectivity.” The research notes the increasing prevalence of CCTV systems for video surveillance for behavior or anomaly analysis ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.biometricupdate.com/202003/biometrics-market-research-briefs-digital-id-revenues-to-leap-past-30b-by-2024",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-13T12:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Biometric Companies",
-        "domain": "biometricupdate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/05/11111722/Digital-identity-v2.jpg",
-          "width": 1000,
-          "height": 667,
-          "title": "Biometrics market research briefs: digital ID revenues to leap past $30B by 2024",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],

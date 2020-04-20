@@ -24,6 +24,6 @@ images:
     height: 525
     title: "Starsky Robotics Failure Offers a Sobering Look at the State of AI"
 
-secured: "5Z3Su38456ErnW0ruG6tOB7OsSdcj48Y3N3E/umzGZK5apZKya/1U3a+UTuHMJg1hhxIqwlkou87Q4HplLxE+e7lhHIwpLC63LpbRWSojIQsvjELGTxpz5M83OWrdSOzprSyDyn1q7gJtXoPmm2SIz2ZpxPS/A4yD3srlGAZpvHm/BliCIy5MR3muUeqcCKlVSykyScoScSkvXs+3YX2YoJLjUjELFsrvsfoiwArr6I5U5C4xRe03Uqf3Ho5SrGB2wYBix6mighXKKOBneS6wNaV1yP2rktfxQebUqHQ/bnNQ6sZG6+6uTQEzGOCnQMI;M8+4kY9b1C0w58lYtQlkNA=="
+secured: "Cqd2/b+2/aTvrAi2gqydI5l5NOkF+22sUN8v9ikIsIRUjTN3JP7+LXlF7rTK4IUCUO4Ela80RImuwih/N6/Gg0tYLHxNxllusw9KL/mBdiHULyfSm2oBs/YYnBrqdzGxIL8ETm86UIXFQHxmx8RAATpittu83/fH5/yBAosfsv+iB1AXytsDTuTdDY0moYUSwQ1LB2/wJMQ8XwJ4SE9jHCdJeU6fF2oO0d0RG/jhTeQmss4ylc8PIHUJJuMLb/S2VnpqlVUEfYdhS9njfmt9+Nvf+d9Cgjp7r64XEA26z7FVuUirj3ZKI/98m28XOcZL+3YL/sHKZwqtJVutgfb1imZbmi+peA2VrziRrrSes7mjM9YxKy6ftnQ5ROG62UmX++6HGKFXgiMp27f4PEYZyiN+nG0Pn5mSIfxRk49dFT8xlh0QVlJojk2Njkj94TuraLD8/OtD5LLfqiOKipbF9aPEXccfpDy9grfdT/+h4XA=;7jhDShz8Nbz2K5rQdsibdQ=="
 ---
 
