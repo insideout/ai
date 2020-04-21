@@ -39,6 +39,15 @@ related:
       - url: "https://www.chicagotribune.com/resizer/7eyWH0Et4d7LOhbprOPBMbMruks=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/XDYI4M46DBCRRC7DFNT3MRVA5E.jpg"
         width: 1200
         height: 800
+  - title: "Vietnam engineers develop state-of-the-art face recognition technology"
+    excerpt: "HANOI — Smartphone users will soon be able to use facial recognition to unlock their devices – without removing their face masks. Brand new, state-of-the-art technology has been developed by engineers in Viet Nam that will allow phone cameras to identify users even if the faces are partially covered. As the COVID-19 pandemic spreads across ..."
+    publishedDateTime: 2020-04-21T03:37:00Z
+    webUrl: "https://technology.inquirer.net/98555/vietnam-engineers-develop-state-of-the-art-face-recognition-technology"
+    type: article
+    provider:
+      name: Philippine Daily Inquirer
+      domain: inquirer.net
+    quality: 19
 
 secured: "JkiOHuMVSDCBUWQH0xqEVK1d5cLHaW6EYeSW/59kkiWHbeYuQfab6aOuvPxIsWqpomICt//K+1Qlr/9KpFLxlpPRprCM4s/3iMqmwaVre4k95WWftvKJRPWUc+kf+pGZwQ5H28rt1wLcx5mWDFxjx84RLaJAnVja1MzT7NIIyjQpEvp62SwVCMwBQrAA/+FSDqaHMXQZnf3INB7Fs78qfva3kWeU0FAKkej9ZeMuVp4J8GXNGXOsVdBtfedRGbF3fjUW2fUJ4Oop70ZU4+e64i4aXZZ3DlZX/rdqeMjsosu8icybyq6KpdC3JFuifM/WYjJWFgMWqiT0xHBNUf1QF5nnUhg2LMFYJDDVF1shcdaVM07Ox4Xh7eO0PePD0owsohDzGHcnlkQXkmJEN/dDhuPbNhNtvDr7tQPQw4MJLhDP4mVxH3bXPTUQpfTlmOEQ6y+i+TGKSV4G96TpkzmA4Zi+IHmLmB/6t/xUaKH2Z/w=;GMvuBTOjZMDJp9FdcF+pow=="
 ---

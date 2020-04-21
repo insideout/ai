@@ -50,21 +50,6 @@ related:
       - url: "https://gamespot1.cbsistatic.com/uploads/screen_large/1574/15746725/3644283-e32020canceled_howsonymicrosoftnintendoresponded_031620_site.jpg"
         width: 640
         height: 360
-  - title: "Microsoft adds five new Indian languages to its Microsoft Translator service"
-    excerpt: "The Microsoft Translator service is part of Microsoft’s Azure Cognitive Services API, a collection of machine learning and Artificial Intelligence algorithms. Organizations can use these APIs provided on Azure to create custom software products for their businesses. The Microsoft Translator service enables text translation API into an ..."
-    publishedDateTime: 2020-04-16T10:58:00Z
-    webUrl: "https://www.thehindubusinessline.com/info-tech/microsoft-adds-five-new-indian-languages-to-its-microsoft-translator-service/article31355525.ece"
-    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/microsoft-adds-five-new-indian-languages-to-its-microsoft-translator-service/article31355525.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/microsoft-adds-five-new-indian-languages-to-its-microsoft-translator-service/article31355525.ece/amp/"
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 56
-    images:
-      - url: "https://www.thehindubusinessline.com/info-tech/wr5xdp/article31355588.ece/ALTERNATES/LANDSCAPE_615/microsoft-translatorjpg"
-        width: 615
-        height: 384
 
 secured: "76tQ3xZAcg9HG8z6duKyPfOvPQfQhtn20+slGttfBNoHcbcwZegWLdSRk3LCxySGrfKq9WhkyO203b5iHSy6atZatwNRpSgYaam2uEd1PpWH03AH4KdjM/t3m99SgrRD1xtq3KVydqKdD4AuuBh4SviElvc9ZSiG8Dy4nn8wAPkrb4lFay4kfsKzoItXmXawCLctHOcE4d0ZIZFVDOKjkyWVJFQynn3oOQGV3GV9SfuhIhho5JgA7LokWh/SaZqyRw40S3dr82LiCF93X6gt6Bdbn7R2tlalBmcVxZFNVPjqCTrCRfuyEC6x1rdo8r/1TlUcoP1/VgmeY9SCEOSYPpPcS38XcQiuQCSm3ttM+0ZJLnNe3CC6gouw8broms8EtULtVoz098gKupZWIR07GSgkmbgKLIPtpTBFrSbnnMQgjg9X9ZcGxqcwnqonrfC1Rx9/RAlQp+IHatxEI3lkFg4LiQNo+G/1+aHkGD7H2Z0=;8jBJrRe3JDt9h64MP2AiLQ=="
 ---

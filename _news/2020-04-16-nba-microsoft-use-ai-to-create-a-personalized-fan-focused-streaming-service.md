@@ -8,7 +8,7 @@ ampWebUrl: "https://www.digitaltrends.com/home-theater/nba-microsoft-new-streami
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/home-theater/nba-microsoft-new-streaming-service/?amp"
 type: article
 quality: 65
-heat: 95
+heat: 85
 published: true
 
 provider:
@@ -39,21 +39,6 @@ related:
       - url: "https://gamespot1.cbsistatic.com/uploads/screen_large/1574/15746725/3644283-e32020canceled_howsonymicrosoftnintendoresponded_031620_site.jpg"
         width: 640
         height: 360
-  - title: "Microsoft adds five new Indian languages to its Microsoft Translator service"
-    excerpt: "The Microsoft Translator service is part of Microsoft’s Azure Cognitive Services API, a collection of machine learning and Artificial Intelligence algorithms. Organizations can use these APIs provided on Azure to create custom software products for their businesses. The Microsoft Translator service enables text translation API into an ..."
-    publishedDateTime: 2020-04-16T10:58:00Z
-    webUrl: "https://www.thehindubusinessline.com/info-tech/microsoft-adds-five-new-indian-languages-to-its-microsoft-translator-service/article31355525.ece"
-    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/microsoft-adds-five-new-indian-languages-to-its-microsoft-translator-service/article31355525.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/microsoft-adds-five-new-indian-languages-to-its-microsoft-translator-service/article31355525.ece/amp/"
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 56
-    images:
-      - url: "https://www.thehindubusinessline.com/info-tech/wr5xdp/article31355588.ece/ALTERNATES/LANDSCAPE_615/microsoft-translatorjpg"
-        width: 615
-        height: 384
   - title: "NBA taps Microsoft’s Azure cloud to enhance fans’ online experiences"
     excerpt: "It will also provide access to historical statistics in real time throughout the broadcasts. We’re partnering with the @NBA to bring fans closer to the game and players they love with new personalized experiences powered by Azure and its AI capabilities. https://t.co/wILH9cfsiI The current NBA season is suspended at this time, in line with ..."
     publishedDateTime: 2020-04-17T02:55:00Z

@@ -50,21 +50,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 67
-  - title: "10 developer skills on the rise — and five on the decline"
-    excerpt: "As companies dive deeper into digital transformations and pivot to data-driven cultures, tech disciplines such as AI, machine learning, internet of things (IoT) and IT automation are driving organizations’ technology strategies and boosting demand for skills with tools, such as Docker, Ansible and Azure, that will help companies innovate and ..."
-    publishedDateTime: 2020-04-16T10:23:00Z
-    webUrl: "https://www.itworld.com/article/3538234/10-developer-skills-on-the-rise-and-five-on-the-decline.html"
-    ampWebUrl: "https://www.itworld.com/article/3538234/10-developer-skills-on-the-rise-and-five-on-the-decline.amp.html"
-    cdnAmpWebUrl: "https://www-itworld-com.cdn.ampproject.org/c/s/www.itworld.com/article/3538234/10-developer-skills-on-the-rise-and-five-on-the-decline.amp.html"
-    type: article
-    provider:
-      name: ITworld
-      domain: itworld.com
-    quality: 44
-    images:
-      - url: "https://images.idgesg.net/images/article/2020/03/cso_user_laptop_binary_code_coding_programming_development_by_metamorworks_gettyimages-1092965422_2400x1600-100835431-large.jpg"
-        width: 1200
-        height: 800
 
 secured: "oxqpZxZVHwztKORlrIAKNz6DIMtz2t5m/eu1+W6KXHb13Dk2OoPq7IRCeZquRFUtWN8eWOAOqADK4Y8nqyQegnXHCBBpw9Ns0pbmlPvRpv8YwOAwNCOZIcTzepaxpvd7hLoaKGti5ib0UA2/8tHWoN35Yv4UjiFdDctt+8iPzZr8QyR9hDmXBM4QIROvgvoHhCKXCBHwGQ3s0R5w8r+p2B1bUK2DDHDnaQF9nQkLqrDa8+WBoPEolcgu6SvzOXQjR7x/+puhDtTuKt1/8sUf+uIzMQQPJA8olua8wQls3sNvcuHCGmK3gXQPpaGZvRlxG+u1fmk17vzapgwuF9CXZmZAILsQmucTV8F4vaL29/Wv+eATq4fHzG3uh6JWpVJ5ny74r2/t4eKV1g060Qvsb1w2WsDKHJ9lY5ZcpOBMpqJ3WbQC7clwXGou0mhduma8g+S/NeCTWZBRc4cXqvKKvKrYSpG1PEhdWngFdueCYWQ=;rBZesP5j4ZNOZqiNemEDtg=="
 ---
