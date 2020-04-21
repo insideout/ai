@@ -5,8 +5,8 @@ excerpt: "Pierre Haren, Causality Link co-founder and CEO, spoke to Business Ins
 publishedDateTime: 2020-04-20T21:15:00Z
 webUrl: "https://www.businessinsider.com/fintech-ceo-describes-closing-series-a-during-coronavirus-crisis-2020-4"
 type: article
-quality: 35
-heat: 35
+quality: 37
+heat: 37
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 
 topics:
   - AI
+  - AI in Finance
 
 images:
   - url: "https://i.insider.com/5df3b9ccfd9db223f65b4a77?width=1200&format=jpeg"

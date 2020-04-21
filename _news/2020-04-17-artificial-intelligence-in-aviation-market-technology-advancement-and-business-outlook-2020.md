@@ -51,15 +51,6 @@ related:
       - url: "https://demo.idg.com.au/cmo/cmo50/2019/cmo50_promo2019_5.jpg"
         width: 600
         height: 246
-  - title: "Global Computer Vision in Healthcare Market 2017-2026| NVIDIA Corporation, Microsoft, Intel Corporation, Xilinx Inc., IBM"
-    excerpt: "The report involves insightful data on the main sectors of the Global Computer Vision in Healthcare Market. The report has segmented market, by its types and applications. Each segment has analyzed completely on the basis of its production, consumption as well as revenue. Further, it is classified on the basis of geographical areas which ..."
-    publishedDateTime: 2020-04-16T08:44:00Z
-    webUrl: "https://galusaustralis.com/2020/04/599851/global-computer-vision-in-healthcare-market-2017-2026-nvidia-corporation-microsoft-intel-corporation-xilinx-inc-ibm/"
-    type: article
-    provider:
-      name: galusaustralis.com
-      domain: galusaustralis.com
-    quality: 0
 
 secured: "EwPcCAix+fIDoSy7I4LrXMK8e5C5Lpkk377JhKb5VON6gFf3U3/jrFe0SKIXH93dUj22RHST/ZGjgS8l2NkAdTYxw3B15+o11dPKiXqQR+jCDj7Z0enocUMoaCNdzF+kMh+pU/Edrm925qkZAtzJHpBHaI9UTeO45nRXfIHmXBgWjmLB16yDAJoJoVRjV8fCywp+OFJPsJnCRpQq+XNOgKXaNAuY2tZR73zEvdlqzSp1aP5Dl78jR7tMetgcgFKkHOWH7Lajtz3ZLr+i34cA/CKwvnTStF1IfQALEGBJxO/ZzOedP9U/R8sEWV6tcXmx;kiH/WgYjavwn8qQv6tkcng=="
 ---

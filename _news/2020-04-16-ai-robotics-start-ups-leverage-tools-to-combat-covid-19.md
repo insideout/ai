@@ -8,7 +8,7 @@ ampWebUrl: "https://www.thehindubusinessline.com/news/science/ai-robotics-start-
 cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/news/science/ai-robotics-start-ups-leverage-tools-to-combat-covid-19/article31358732.ece/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -41,21 +41,6 @@ related:
       - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/04/16/8e995d82-7fa0-11ea-8736-98edddd9b5ca_image_hires_234558.JPG?itok=IReL6XYI&v=1587051966"
         width: 1200
         height: 630
-  - title: "Chinese startup Rokid pitches COVID-19 detection glasses in U.S."
-    excerpt: "Thermal imaging wearables used in China to detect COVID-19 symptoms could soon be deployed in the U.S. Hangzhou based AI startup Rokid is in talks with several companies to sell its T1 glasses in America, according to Rokid’s U.S. Director Liang Guan. Rokid is among a wave of Chinese companies creating technology to address the coronavirus ..."
-    publishedDateTime: 2020-04-16T07:17:00Z
-    webUrl: "https://techcrunch.com/2020/04/16/chinese-startup-rokid-pitches-covid-19-detection-glasses-in-u-s/"
-    ampWebUrl: "https://techcrunch.com/2020/04/16/chinese-startup-rokid-pitches-covid-19-detection-glasses-in-u-s/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/16/chinese-startup-rokid-pitches-covid-19-detection-glasses-in-u-s/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 72
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/04/China-COVID-19-Stats-April-15-2020-I.png"
-        width: 516
-        height: 465
 
 secured: "xzRuDgQWQeg1CW+iA9gMHdZgxNo4goCuPy7Q7adaKXIyJzMx+hHM5DSGTYceCacNs0J09meH9zrdQkydejnPEwZBF0MsOlElOzyIAhf34eL3YVtZwSOX2Ag2Q0AeC9yJZcTVq3c2B87mjZmUyXcI7FL7YDYZtipKGJ9MLi7d9FRMujfUTdzy9hA4p17aTCmrLm2K5zeT5Uh1LngqZ28tUd0OtXGUBo+jyxcQzL7div0e2OU6ccV5mlMD9oBApE92Zg0glB6g08ZKwkkzmBRyy3qEt064Ito4g+XnmYxK0srJqS/yr9A4h7ZTDaSkSluty/F8jhAqi3DMw253kcwylJiPBIwX+83CSqgxSsAUV6gVxsP45a6+a3O9T21VVMGgwggABFf3VGKp4FannXE0tL0F4JnUVvZqPCQhqXFqyLr7o3rLM0+ewtnZmQDW9WQBI6yw6DMg1Uv1rTqD3lbVyVFkOVfpuSAELjO77i+cmYw=;LXfnXnbo2LO4+S5aEJPEEA=="
 ---

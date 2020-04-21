@@ -5,8 +5,8 @@ excerpt: "The GitHub site associated with this paper can be found HERE. Stanza: 
 publishedDateTime: 2020-04-17T03:19:00Z
 webUrl: "https://insidebigdata.com/2020/04/16/best-of-arxiv-org-for-ai-machine-learning-and-deep-learning-march-2020/"
 type: article
-quality: 37
-heat: 37
+quality: 69
+heat: 69
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Machine Learning
 
 images:
   - url: "https://insidebigdata.com/wp-content/uploads/2013/12/arxiv.jpg"

@@ -23,6 +23,6 @@ images:
     height: 633
     title: "Google’s Cloud Healthcare API is ready for prime time"
 
-secured: "u6/J6Dbpexw3OY2Dda537z8F3wtHQ2m+Yyu/SLc6Uyc+N7xvhp63myy9XMGT/HOzpHOkDTNsjDJ1jlqjkypgSJQ0gDgwAJi1HD4PPjhrWBsWXWDtkbiCF+Rjlg5f3adgsXp3u6JJZWpfH4GQ8bt+mV4qJ0BXs+j7PkWWC8k0TjVPagnRlwDelNwrEgHRGcQFqvUzD8C+eGpeV6kPxch1QShq1rK4Ee6EuQ73ZieLQZ2GZ4o/gcQd/4BSEM7wYRwiDWpFUtObgqlFvf44XWtw44xtl2ZLBc9mBlDiS/vaQqBuHjfs+NnP8IWbqhECVOqb;lSMKbLw0WG9MSMW8eBmOmg=="
+secured: "+uxQfSsqpIZEYiuoPfFY8d12XCJSPVrXof2IVpC7ACyGN1wqQZnTuYhbAh0mAR+zhmGGxtUTSAbBgtuohf3Nj/N2PHmsdpdhA+3j/do5hUVElInw3pcLHEZgBXpJPE+eehABlHPJS0wU0AfFgoEB1/S1WjmnmaV+kcVgZ15Hy+bDBd3FbH386hkpOUssJ41/gMEZ/4dMNWW2egJEFS5++ZB2f9bKpgsrwlt/b+OqV0eXU+4ZgxSDU7dl+Hh6NoGG+BrOprjHsOqd2QhSAiFgqmvHEiFcoKtnU9CmNBkjHKHNtoSfBJYftfY9hMpqW1lp508D/dU4zB43tCQkiGpEJR7Sz4T5E28bLdFhGeGC0Akqggn9U5A+C7uQbz1rTS4wz6Bqr3gwoYvut5upFvOLEZvcWB6ZqTO1N6xGouMyIXb+oFpFO2S7vS7zkiAcbQCucBPnBk6DOhif/8AwG+O3As9NygacTQ1JwDMNBvpSgSk=;PHV7TpAhEWNiiPtdYd3dmA=="
 ---
 

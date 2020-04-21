@@ -52,15 +52,6 @@ related:
       - url: "https://www.boulderweekly.com/wp-content/uploads/2020/04/Face_Recognition_3252983.png"
         width: 1280
         height: 1066
-  - title: "Global Computer Vision in Healthcare Market 2017-2026| NVIDIA Corporation, Microsoft, Intel Corporation, Xilinx Inc., IBM"
-    excerpt: "The report involves insightful data on the main sectors of the Global Computer Vision in Healthcare Market. The report has segmented market, by its types and applications. Each segment has analyzed completely on the basis of its production, consumption as well as revenue. Further, it is classified on the basis of geographical areas which ..."
-    publishedDateTime: 2020-04-16T08:44:00Z
-    webUrl: "https://galusaustralis.com/2020/04/599851/global-computer-vision-in-healthcare-market-2017-2026-nvidia-corporation-microsoft-intel-corporation-xilinx-inc-ibm/"
-    type: article
-    provider:
-      name: galusaustralis.com
-      domain: galusaustralis.com
-    quality: 0
 
 secured: "KulC93f9fYkqBtEU2GB/juAcx0UAYGBr71hYYqh4qpokgn0f8hyfaYoAOGH6wDrurEY4bNVIbqPrupbDi7xvFcMF2jWqNlDn/KHLFkdn/4J8bB8o5nLlEIzF8hF/p3me9cNBW5RdPGpJTaYW1oBfuK2Tm1sCWcYXi9bv/E9hG94bq6JBSbzqW+USZdHGE1j2bt0lAnFpfQ4lfqobYAHpzMvuj4TYBlN2xH3Nlm8pmFRgtFbr7NFJKk3//bYFqY6e2k9fyrly/FO1ESDygAP7GMKHWBMHjIlUjMklodULabxYYz+WSb+cIUrdFAdr17Or;cAgolHbwedldYaSFSnBDrw=="
 ---

@@ -8,7 +8,7 @@ ampWebUrl: "https://in.mashable.com/tech/13299/facebook-partners-up-with-researc
 cdnAmpWebUrl: "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/13299/facebook-partners-up-with-researchers-to-fight-covid-19-using-ai?amp=1"
 type: article
 quality: 89
-heat: 89
+heat: 90
 published: true
 
 provider:
@@ -25,6 +25,6 @@ images:
     height: 397
     title: "Facebook Partners Up With Researchers To Fight COVID -19 Using AI"
 
-secured: "C6R/HB5wRdRTBBX25MAp74PGUyfCoYEqP6tKvhYOQnT8lRFnNOSh2iKraj8KYE/PMGhgMqi1Fwh7kxXXQo3erCuO1NSUUAmASHUkhklkWPdgtXl/FbxGubkQ+6RcjQAOTIbrp6HGtOBJGXC6yLHzFRV/zrNFushDMQeqpXPHUR9gEfdB4YOtOKjVfSBqByLn9x1wg21gQXVmQHMsZD7eDdccAC1mx0FXWrhySBPHFPcYmgJYJuIyDa2gcKHLb00M5HXsmvJvCuuIsJl6dbCyhJpeughYAGJh7suZ2EoVdMtddZIbJk+89vlWpTj+VdFyfjqRALwRhuuvjzlFvbYJhygCoVcBLTvzinqAJYjj1Cn9FzSGcdxzOkhm1ygnmf8Cu/KYIITkJWNktrmFwm6+1rdwW0q/0HTAjfrX7AsVRgEBglwA9B8ck10teNDNVB2YmdoXCYic17MiPHYsuA7zL8knsZEqf7MNd3Ku2vQ0RO4=;2uuMsx7a8/DxRxAQrlm1WA=="
+secured: "yiRMUF2F729vijTrIjU6elEk+4y1gvxNhVLuxE0mpXfeyyjGnTpvvZpq2GbH35QGN7UOqX3bYFZUEbgshwkV2uEQ2kjjfmNh9jek53jYwo93No97ISFW5z1Y+57OJCafX4xvwxUKQqO8sGxOVMmDVZR354XClSXoL0vP5gHabytYppElZ3ER9kf2bYb8FBCZOenRdiL+fn+mqDSN+hhZJFDylbZrnSeAfBC8ghanMoCW1d6DchKVpEM8Xq66NmLutBSu0DBmGfc63AQX/fOmUZDaHYLUyTr0jumU5v9XIcvV94qpcWRl8js/KCjZcIGfa/0IDBhZE39Sj0swfPhbtgtSZ8L/KAHAGXT5RIdDK28ah5yC4eXnhkHCE7N3jj2U02+MOeGj9YWNzrkDNKW3EaydlqQd3GDaotTIYEj8KGOYostuB1rNrG+wCwtZ3k365T6yPsbM2IefP4wMrEyeWtqXmrlXhcTUpmPpR+uIAEM=;FnXdgjhVUk3GPjWborlR4A=="
 ---
 

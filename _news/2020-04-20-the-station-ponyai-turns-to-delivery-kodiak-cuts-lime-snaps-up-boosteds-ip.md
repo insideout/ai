@@ -8,7 +8,7 @@ ampWebUrl: "https://techcrunch.com/2020/04/20/the-station-pony-ai-turns-to-deliv
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/20/the-station-pony-ai-turns-to-delivery-kodiak-cuts-lime-snaps-up-boosteds-ip/amp/"
 type: article
 quality: 83
-heat: 83
+heat: 84
 published: true
 
 provider:
@@ -28,6 +28,6 @@ images:
     height: 383
     title: "The Station: Pony.ai turns to delivery, Kodiak cuts, Lime snaps up Boosted’s IP"
 
-secured: "bYt6gtjOwChcoWEuNcYy6jF1MPC4JLwyoKT52RtiY5l2J3Yiv83QVvHlx7LKI576UIcY2cKA4roPAJvOw6I63MJdvJNnr9kSWTYv2+hY/op1QyXUVtmiLCRjgPFK7d+8R4LlseeccjZ0x5Nx/b0CpiZMGOXl3rgmTUkrApF/R89sjvM+GNkmYUDQ1LuWrEpM7zIxA4g5G3+TdBEPNx5RN8ICmMMTq1b5kjOX3qhfr2wk2JUsPiaRJdHG0583Z6wmD8+sexT1H5RuQtEAhg1B8kQOmc+qfLiNpUNekawMYhUYJKiNdffZ4vmsKKPp0nSkCHAbFcxTNtRPnZoxwoIvO+9EnAQqZS8wKZBF6nofwPk8Rs1bcLmUvKPcFh3pJjkzXWXWYV8kk9Ixby7s+plDfQf1lmwUkvTqixFVqErO8D19jNmDhTSd3TNO1q9kbMdYUFBX2VG5z+/JRv9CdoLQjqWYZbZatdubt4SiZDY4z4k=;28TVaDy8JsIFSZc0/s2A3w=="
+secured: "fjg+wT/3GV/zYZbdj0Ls0+7bZoRzaEOjHlZ83dEJKm5YfpKWSgoXjLo5kogmaXqwHYFHyUR7Bxy2oiuQo+AdfGV8cDuf+VqH97k6oQT1upLptmRTufaw4UcCf//b4Wrwd8+i3cyUQy8f7UM1wu+Q2Quv9WUzXveo0VtJU42hWeI9cOZ5YayVqssTEvrHUZ6fd5Syp0v/CKBSCLoe9WeEkmIaIdbgvfNSfPhMbZy6ffWXKNa5JgSTULaM0m4yE3tNxsSf3U0+M9bEFEX2g9+VIts0e0R+Id/ojRd1zYRKLg9WpC1qr1Y35t+TwbHdfzUH/BY5blFApr2wZFQTxBA4Kx3ObaUUf5R+psxVzLA24Ojod8vNU/zj6JxLbflmb84RrAqRZy99yS8npMmeg99Zwd2lBP7gD83cO3ejVezSqRAfHfR1eg2tJgW8VFngQlJM77r/XDDegJfTc37zPQsltWzoeMt+uH3eiCj7EjM9RgY=;592q5GNsXoLM9+qD1Znj6g=="
 ---
 

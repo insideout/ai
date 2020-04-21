@@ -45,21 +45,6 @@ related:
       - url: "https://www.thehindubusinessline.com/opinion/columns/from-the-viewsroom/qtcfto/article30934970.ece/ALTERNATES/LANDSCAPE_615/BL28THINKFTV"
         width: 615
         height: 384
-  - title: "Chinese startup Rokid pitches COVID-19 detection glasses in U.S."
-    excerpt: "Thermal imaging wearables used in China to detect COVID-19 symptoms could soon be deployed in the U.S. Hangzhou based AI startup Rokid is in talks with several companies to sell its T1 glasses in America, according to Rokid’s U.S. Director Liang Guan. Rokid is among a wave of Chinese companies creating technology to address the coronavirus ..."
-    publishedDateTime: 2020-04-16T07:17:00Z
-    webUrl: "https://techcrunch.com/2020/04/16/chinese-startup-rokid-pitches-covid-19-detection-glasses-in-u-s/"
-    ampWebUrl: "https://techcrunch.com/2020/04/16/chinese-startup-rokid-pitches-covid-19-detection-glasses-in-u-s/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/16/chinese-startup-rokid-pitches-covid-19-detection-glasses-in-u-s/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 72
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/04/China-COVID-19-Stats-April-15-2020-I.png"
-        width: 516
-        height: 465
 
 secured: "4TpWeltK/wB0ks8bT5L3yX4dEVVu70/nuTrmF/dpUiXuKMMKRiYR5KggCu3U8iUz16K9T039SUEzPN0HAKTIC9w6swBU1wtwljQaB4aeVS2VbIUySv004ODdRFKlRm5twvRtLi3X2g0esoxGTRnr9qPcwy07XutskIOmCb4BPofqQU5B7gqzdJm8Y3jHkDFHBK2Hl9mJtb06aCBPRKYyhnRLY4x7a13yS4eLbsIqOz6Y1ktNfIC7gDHc+AavS1e8CBf+NfEyaHxlP03rZ3NZ/KzWr54zKRqiqsTLkfhs3N2D5nP3ibTXxOBg6K/K6HmkmHimeaBlrrtr+X2qBym8GnBtQPukIgZ0pRBr2YyTACbPineBjLequkJln57w550SFWkIyDlcixlmdTff3xQnVuzeHwnPnFE98rmfB6tWQrqM7i5SYvJOO/bZ1bKC7N0IkNJsq+QwiWlS/HB1DF1fqUfBcQHPlRJH8GLcIFhbR38=;sM8ODO7+XZd9uP1ZpPJlVA=="
 ---

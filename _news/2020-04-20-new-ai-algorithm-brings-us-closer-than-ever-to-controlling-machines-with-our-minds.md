@@ -8,7 +8,7 @@ ampWebUrl: "https://thenextweb.com/neural/2020/04/20/new-ai-algorithm-brings-us-
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/04/20/new-ai-algorithm-brings-us-closer-than-ever-to-controlling-machines-with-our-minds/amp/"
 type: article
 quality: 83
-heat: 83
+heat: 84
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     height: 417
     title: "New AI algorithm brings us closer than ever to controlling machines with our minds"
 
-secured: "OceUtU9w9uPYcZMoW5dt06/mrmqPn46zascyk64Qwysv/4q40u1hn4bYYyTcMtrgCBIMpaI+bEFTal+YOYo9GEqUJuTWB25/mu8+ZBZPJWUr1kvNLMJUlX9Pvk4dczaXE4Yoedm0KlARUS8xffUzmdqXfFkonTac0MuYVJZ2DdPSoyinXwR6NeYRheKIX/DJhTUIQ1aA966SzM3WwBDK745iZ49LKugI1b32s6aSdT6d2B25BxtmH8edV34Qo/99t/OpuR5M5vjCVp+gZdp8czwtep2uxnhUVoaNUXUlhHJ9x+FckSdwveZywdavtfBS;2omo0N2ZD5vTBVKO2l9cFw=="
+secured: "6to7dUK+4nXxOnF8S7WiH+NW9mqngq+dLDz8dbihVR9VKrowDZWsTB7bw0vc02txvWmsN5bi9sNoKlvPkTWjuqkonsfBb9hGwDH+t2XaCuAAB+fxF6iaJuydh4cl4zEr57MMW2h9x6cQJSDstPFDgErZH1MNZibeoqrnS6AWCCdirFj8LEjayM5RT8dZSdca6GEBqtAeLh8qVRRIG8GVPEo83eqX3tfYwbHj46UKldh0GS693JGaS6WSxuKgIvxwkZ4V4gl28nutUSNCbCuNgRXCbLX81g4PC4Lwrpg1+baG8vG2alsJ8OztlD9Bb5kan153uVNSJJq/JtbwuVzvbhqASnCEjc2MwU9WQuqHZ87CXNbXBBMJXrPaR3CKrFlkAIcv7DZ2Njz1xFfD3/jU4foJGkKeSbrFiNpNaKAPK7pBjZKy68Rka5ffLU1L4IF8Z7jLPQebihJkKeM15RU7o4W6qTykLE2EyAmkxGIqjHs=;0wrmwT3W4AcwbBt1QRSoUA=="
 ---
 
