@@ -1,7 +1,7 @@
 ---
 category: news
 title: "9 AI Stocks We’re Leaning on More and More"
-excerpt: "... on the IBM public cloud brings together Watson Assistant, Natural Language Processing capabilities from IBM Research, and state-of-art enterprise AI search capabilities with Watson Discovery ..."
+excerpt: "IBM Watson Assistant for Citizens on the IBM public cloud brings together Watson Assistant, Natural Language Processing capabilities from IBM Research, and state-of-art enterprise AI search capabilities with Watson Discovery, to understand and respond to common questions about COVID-19. It’s always great when big corporations give back to the ..."
 publishedDateTime: 2020-04-07T15:12:00Z
 webUrl: "https://investorplace.com/2020/04/9-ai-stocks-were-leaning-on-more-and-more/"
 ampWebUrl: "https://investorplace.com/2020/04/9-ai-stocks-were-leaning-on-more-and-more/amp/"
@@ -22,6 +22,6 @@ images:
     height: 900
     title: "9 AI Stocks We’re Leaning on More and More"
 
-secured: "JFVJseh6R0Pqhc5pn/PoBstwfEMQc2dKmXBlFL4aH72NVVDLpPmy2mDD1ppRGB89JewdTC2MhYIN/9AWKUIsio/Wi9Syomc1UYihKfeXJgRyzESOtwxzdfv8uMQKSuWErQWHx2wMy7C+a56gh88wRiX9XkuWxAHuGqpWcyQloe0uhrPkeLZwKBwbEJHFWOnH3JFDJ3xbIMkexcyCkoX3JK63IK1nCNuYbkPiPHoX2o/3K4zLJ2T/bmfhQTDPZTK4ywo1t0PgVUScS30LDzIoqz18Soa+R5bBFo/kIHJdVm9avtVVodINZjp1wQ81SP1m;GDRa049ajFDmfJHLxPzuUw=="
+secured: "WpizJcqBAsuXIxRvDlloYIsR+mMxy3IYzOe4xYB1EJQxW4iTRA+1Aapuv581vI1wFeXVzUIUr6+tUu1jv24HLhxzAZ2WbcJRmZSv4Py64lAmGOL/8AVJnRGZ228uKMNr8w7BgT7+HnugytDnrqN/0sDoyS5K7hNulqXOyZBKl4mOdZILtysn5oQxhSs5wjusYHZO/XOSDEp4qwOm3Mzx5kUyGpMZLLhPd3ccAAkgnrQisip4Bi8rmUK3ZVIumjkCWo1D9+v8exOGLWj1PC8SZ7vnENssp/0+DXu3ElgETBjiSM5A2fD3MaI1Y5fKGVkb;CWsFgWzykIC+slk2b6mbSw=="
 ---
 

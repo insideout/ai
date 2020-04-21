@@ -39,17 +39,6 @@ related:
       - url: "https://static.digit.in/default/223b47fd8c7f598a1e46c43038d9d58c33f10470.jpeg"
         width: 1280
         height: 720
-  - title: "Microsoft adds 5 Indian languages to Microsoft Translator"
-    excerpt: "Microsoft India has announced that its Microsoft Translator will now offer real time translation in five additional languages including Gujarati, Marathi, Kannada, Malayalam and Punjabi."
-    publishedDateTime: 2020-04-16T17:58:00Z
-    webUrl: "https://www.hindustantimes.com/tech/microsoft-adds-5-indian-languages-to-microsoft-translator/story-yzTyLkYzC1HHdnua3FwpcL.html"
-    ampWebUrl: "https://m.hindustantimes.com/tech/microsoft-adds-5-indian-languages-to-microsoft-translator/story-yzTyLkYzC1HHdnua3FwpcL_amp.html"
-    cdnAmpWebUrl: "https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/tech/microsoft-adds-5-indian-languages-to-microsoft-translator/story-yzTyLkYzC1HHdnua3FwpcL_amp.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 41
   - title: "Bible translators use skills and AI to bring urgent health messages to marginalised language groups"
     excerpt: "The pioneering work is being led by Steve Moitozo, Daniel Whitenack and Rob Hess of SIL International, a partner organisation of Wycliffe Bible Translators, with a helping hand from AI. \"Much of the world's digital media is available in only a couple of dozen languages, and translation platforms like Google Translate only support around 100 ..."
     publishedDateTime: 2020-04-17T08:40:00Z
@@ -63,15 +52,6 @@ related:
       - url: "https://ctd-thechristianpost.netdna-ssl.com/en/full/79005/coronavirus.jpg"
         width: 1200
         height: 720
-  - title: "Microsoft adds 5 new Indian languages to its Translator service"
-    excerpt: "This takes the total number of Indian languages supported to 10, including Bengali, Hindi, Tamil, Telugu and Urdu. With this, the service will now allow over 90 per cent of Indians to access information and work in their native/preferred languages,"
-    publishedDateTime: 2020-04-16T17:26:00Z
-    webUrl: "https://news.webindia123.com/news/articles/Science/20200416/3541908.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 4
 
 secured: "q9n4035y2M07+8rL19ITQNhdnUM5kb+VBcl9YdPM2dNJvyNaUW9CxGouB17NILw7f3hWdqPI7EXFw9YPJTExx7BMpE2Ay3eYPdlGKeZ2ddz1H/todkyiegwwHGaqE1oi7elV4rdscbliw04s/Ywd5eJmxTtkZypHjA2BP+bJDNKhrLPGATIZjorml/6DCXkYPjqOMBzOKps1YPzZlmtOVmQIRtfOtsQOjqKCJ44eceEQSogtEtn6Un3jFvYO9ZH+nKxxRJWz+/v99gSl0s7JouNSKu1oTDlBRHpPEqDM8DUSg7IBkKeYCz09I0I6bkI7jKLqJIV9qYgwH4zRqwg/37mTP+9gNm7X+oSh4l7rN1LHecT4ZxXmrROYfwSq7cUhtBKdhF8BlS8t8tFkdnYNyiKWzTLU41I+j+fwqjASAHcKaHEwCQaiC56MisnwHlISNegrOu9Ds3jT1z2BE2BcGU8/HeiQ0bjFGT2N2qOvy4s=;bPiRExbFB6CYVH2yQfes0Q=="
 ---

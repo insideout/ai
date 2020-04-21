@@ -26,17 +26,6 @@ images:
     title: "Microsoft adds five Indian languages to Microsoft Translator"
 
 related:
-  - title: "Microsoft adds 5 Indian languages to Microsoft Translator"
-    excerpt: "Microsoft India has announced that its Microsoft Translator will now offer real time translation in five additional languages including Gujarati, Marathi, Kannada, Malayalam and Punjabi."
-    publishedDateTime: 2020-04-16T17:58:00Z
-    webUrl: "https://www.hindustantimes.com/tech/microsoft-adds-5-indian-languages-to-microsoft-translator/story-yzTyLkYzC1HHdnua3FwpcL.html"
-    ampWebUrl: "https://m.hindustantimes.com/tech/microsoft-adds-5-indian-languages-to-microsoft-translator/story-yzTyLkYzC1HHdnua3FwpcL_amp.html"
-    cdnAmpWebUrl: "https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/tech/microsoft-adds-5-indian-languages-to-microsoft-translator/story-yzTyLkYzC1HHdnua3FwpcL_amp.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 41
   - title: "Bible translators use skills and AI to bring urgent health messages to marginalised language groups"
     excerpt: "The pioneering work is being led by Steve Moitozo, Daniel Whitenack and Rob Hess of SIL International, a partner organisation of Wycliffe Bible Translators, with a helping hand from AI. \"Much of the world's digital media is available in only a couple of dozen languages, and translation platforms like Google Translate only support around 100 ..."
     publishedDateTime: 2020-04-17T08:40:00Z
@@ -63,15 +52,6 @@ related:
       - url: "https://indiaeducationdiary.in/wp-content/uploads/2020/04/MT-PR-Indic-Text-01-1-696x464.jpg"
         width: 696
         height: 464
-  - title: "Microsoft adds 5 new Indian languages to its Translator service"
-    excerpt: "This takes the total number of Indian languages supported to 10, including Bengali, Hindi, Tamil, Telugu and Urdu. With this, the service will now allow over 90 per cent of Indians to access information and work in their native/preferred languages,"
-    publishedDateTime: 2020-04-16T17:26:00Z
-    webUrl: "https://news.webindia123.com/news/articles/Science/20200416/3541908.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 4
 
 secured: "Ip74lcC4ar8MHusmLo/X6AdD7yQJi42SCepbwBz+XajDc+3l9cnKGv7ru9WkYfsNcjQ1JC/8tLuYnN3YAni/hUm8cXvBRfTqLIQcg1esjauszP1PfKL/hxvYIlE6AJNsBuFS0WIMKtpssIRL0mfwVKXLFG//SSacEpZXWnn0dgVeKDNsFfFkV52maGLudpG8Qf4PFz4HhiPmz9UdX+xBMJjUnHmxyLUVbIBe8BnUCP208MuyaTYZ4S9WXYqiilFZ9NS4itmrhJd8D91CJ/DkkYWSpa1CIpVUwY06fhPUBIaIW0URWpC5WZgwIHnN2HTpnfpTlwHNXMcFxIXUoPe7Uug3mW+MVXbBcn75xFnjSx45rUsrIrpn3tqzpdKfQ7v8C+HVEea0JssI2RvjC8D3ostwvPWIf4VBbxsNyUcadWJlaSHh7WBQVJWCyyw+bY5Lk5HVJOzJUgvxKXBhHozmwf3iHa89MSrxpFAxdTgE4dc=;xCg1hGKZwm827asGrWvV+A=="
 ---

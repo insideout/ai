@@ -5,8 +5,8 @@ excerpt: "UST Global, a leading digital transformation solutions company, announ
 publishedDateTime: 2020-04-21T05:56:00Z
 webUrl: "https://www.prnewswire.com/in/news-releases/ust-global-named-winner-at-the-microsoft-ai-awards-2-0-for-the-best-innovation-in-artificial-intelligence-831358695.html"
 type: article
-quality: 37
-heat: 37
+quality: 35
+heat: 35
 published: false
 
 provider:
@@ -15,7 +15,6 @@ provider:
 
 topics:
   - AI
-  - AI in Healthcare
 
 images:
   - url: "https://mma.prnewswire.com/media/540539/UST_Global_Logo.jpg?p=facebook"
@@ -23,6 +22,6 @@ images:
     height: 757
     title: "UST Global Named Winner at the Microsoft AI Awards 2.0 for the Best Innovation in Artificial Intelligence"
 
-secured: "p5/1lSEz9IrHIZYEVcuIZjZa7aVThEe5taM75qtNiBCDebpEoxP1ftwQNPuLxqAfHCwWQ8HI3kTa6AkKBNbgLiKUsobXexbaXHyL/is35eb5d4l04DSX91MIru6q20fOCugUbYJ8hsCpnnICHWj2frCg7jBumzqDYTcEVm52UzztjMlGCi+7JMeAXwHxuUZBKQkX21ALsnmna+kemlt167ZcjBBAl/k9BSEFzEkWwcv8pS2rDupTjYqfazBTrEsRrCNCrBRiVVrPEDw+cuzwUvz6XIE3vLBmqOgUJGWqahc6f9OaIQ1Zi9xGuAN6UcpE40qhfggmAClcq8MHo+1q8JIemUldpY8Ij3CjMApF5h7j2zgo7Bf2GyNjKveNnHi1/qYbbsLGWoLaun41iiEEfwsMEXGy0mNHvyk26UuocC9ZJrfCJKc2WI4AEtsESlln24E48xestwBxdHmzEGzoXKLOkBX3gFR+idAMMjwMaNQ=;3Zj9+fjGhKiTt3R+4T2iKA=="
+secured: "gHemQG8VNoObAoYUDXxJoLs4le1d8pWTrbz+JmjiqHqpxYHszN0ldGshIj6VLozlBGhWUU727VXzB7oB+b0AEFk2UX5CiRxanSIqpKNwKtAzlhAPqeIlJLxZd7k4Kal46McYgHxffnNzkPRWQwomy8fct/FZGT3L/K3rXg/Gsn3yvc3HuXG2Kl4naipk663UqB+sCW74beBfjenfjB8a2FjsFExHon2xUXLcTYqfprrq4ZenUKMVLcPgRiK7ubd0lhH4Ra+ZYy2RIBAGuN4Q1OiHsr3PE/Atw7piOwJDQ/3PyLuN+r8lBXjqOZoA4X/q;pN16JpGp2/C7mGeXpDKAQw=="
 ---
 

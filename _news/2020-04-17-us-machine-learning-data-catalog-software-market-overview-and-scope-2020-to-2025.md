@@ -39,19 +39,6 @@ related:
       - url: "https://www.analyticsinsight.net/wp-content/uploads/2019/05/AI-in-Aviation-1024x615.png"
         width: 1024
         height: 615
-  - title: "Police use of facial recognition technology gets spotlight"
-    excerpt: "For all intents and purposes, facial recognition technology for law enforcement agencies is in its beta stage. Now that doesn’t mean police departments haven’t begun to (problematically) implement it in some form — with mixed results, along with legitimate concerns about racial bias and privacy. But as law enforcement agencies across the ..."
-    publishedDateTime: 2020-04-16T16:08:00Z
-    webUrl: "https://www.boulderweekly.com/news/police-use-of-facial-recognition-technology-gets-spotlight/"
-    type: article
-    provider:
-      name: Boulder Weekly
-      domain: boulderweekly.com
-    quality: 39
-    images:
-      - url: "https://www.boulderweekly.com/wp-content/uploads/2020/04/Face_Recognition_3252983.png"
-        width: 1280
-        height: 1066
 
 secured: "KulC93f9fYkqBtEU2GB/juAcx0UAYGBr71hYYqh4qpokgn0f8hyfaYoAOGH6wDrurEY4bNVIbqPrupbDi7xvFcMF2jWqNlDn/KHLFkdn/4J8bB8o5nLlEIzF8hF/p3me9cNBW5RdPGpJTaYW1oBfuK2Tm1sCWcYXi9bv/E9hG94bq6JBSbzqW+USZdHGE1j2bt0lAnFpfQ4lfqobYAHpzMvuj4TYBlN2xH3Nlm8pmFRgtFbr7NFJKk3//bYFqY6e2k9fyrly/FO1ESDygAP7GMKHWBMHjIlUjMklodULabxYYz+WSb+cIUrdFAdr17Or;cAgolHbwedldYaSFSnBDrw=="
 ---

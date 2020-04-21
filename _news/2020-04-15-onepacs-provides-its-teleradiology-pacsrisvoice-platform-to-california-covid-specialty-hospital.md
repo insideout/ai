@@ -1,25 +1,19 @@
 ---
 category: news
 title: "OnePacs Provides Its Teleradiology PACS/RIS/Voice Platform to California COVID Specialty Hospital"
-excerpt: "In response to the COVID-19 pandemic, OnePacs is providing its PACS/RIS-reporting platform, with voice recognition, to the California"
+excerpt: "PALO ALTO, Calif., April 15, 2020 /PRNewswire/ -- In response to the COVID-19 pandemic, OnePacs is providing its PACS/RIS-reporting platform, with voice recognition, to the California State Department"
 publishedDateTime: 2020-04-15T07:00:00Z
-webUrl: "https://www.prnewswire.com/news-releases/onepacs-provides-its-teleradiology-pacsrisvoice-platform-to-california-covid-specialty-hospital-301040761.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/onepacs-provides-its-teleradiology-pacs-ris-voice-platform-to-california-covid-specialty-hospital/article_8d979ba3-96bf-5f3d-b470-36603f52a9e5.html"
 type: article
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Natural Language Processing
   - AI
 
-images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
-    title: "OnePacs Provides Its Teleradiology PACS/RIS/Voice Platform to California COVID Specialty Hospital"
-
-secured: "k+Dh3F43U+3b/ualLRlGvhDzPMZEu8XZcboHhnDxCgyVjgPvSFPIIQInlIkdfOBZ9vVFh8g7svAlzBbOZ0MCOQ8WlgUts+yQoRz6o3wa981IIKsb8G0DkeTxP3OnfXdippFHJyJx4169o3n47RTRJFthCE0HNe/Dv03TGNough3tuJI/sC0/ZghQV46dEqgHjR4VRJ8GFnhZRbIYlxxpdIWPJ4jHy+VPsTbfQCxug/IjC9BHB06BP08XS6Qqb1cWpzFNKHFwUjdy8f9+oA+sZg3n5eruuajQshqPI4RmuzkumQrWVBGpSMUU0gTdltYe;AS2F6Fc/D4Jjwnf7vpTj6w=="
+secured: "YyDrKI7gm1GF9VJIVbotJRgCSjXMaxIHPWvO6XIThr2d3XkGkHFtb6nZOUMP/roldslXxTQZejTjN43Su20W71ekyOBGyfJ4UvKvulMegXdC4BQdEy4hxUk6Py7BrmpWi4kUeH1E3xpxNEbwAz4arf1y53FCArjiRUvcuQbUpZFmk9ivwEV+oxcTOJsnjW7OJX1JOr12CXbn3mKtl2FqW3Gx5mzE3z/fvgAvRtdMhF2Fsp/kzX3Cv8oJCTSzPNia///zpuvL8cscjopaEpSwxK4giZ1D8gwxzwr3YMvX3lp5LzXANvKaa1lbza8mIhAQ;E0mNTVe3Ick6UVUcUwfF2w=="
 ---
 

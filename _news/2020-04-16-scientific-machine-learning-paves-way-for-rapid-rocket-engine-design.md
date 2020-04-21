@@ -3,11 +3,8 @@ category: news
 title: "Scientific machine learning paves way for rapid rocket engine design"
 excerpt: "One group of researchers at The University of Texas at Austin is developing new \"scientific machine learning\" methods to address this challenge. Scientific machine learning is a relatively new field that blends scientific computing with machine learning. Through a combination of physics modeling and data-driven learning, it becomes possible to ..."
 publishedDateTime: 2020-04-16T17:01:00Z
-webUrl: "https://www.eurekalert.org/pub_releases/2020-04/uota-sml041620.php"
+webUrl: "https://www.eurekalert.org/pub_releases/2020-04/uota-sml041620.php?fbclid=IwAR2fjmzw7wFgJkRNTzGldN8p7vFK_ItiIbDKcmwz9YVCM_mk6AlGGXDdHvI"
 type: article
-quality: 39
-heat: 39
-published: false
 
 provider:
   name: EurekAlert!
@@ -23,21 +20,6 @@ images:
     height: 1028
     title: "Scientific machine learning paves way for rapid rocket engine design"
 
-related:
-  - title: "Computer Vision Research Engineer, Deep Learning (London, UK)"
-    excerpt: "The goal of the Data Science team is to develop novel methods for providing static and dynamic information about parking worldwide. We use Computer Vision and Machine Learning Deep Learning to find parking and predict availability for parking locations in thousands of cities. We are looking for a computer vision and deep learning expert to ..."
-    publishedDateTime: 2020-04-17T06:32:00Z
-    webUrl: "https://www.parking-net.com/parking-jobs/parkopedia/computer-vision-research-engineer-deep-learning-london-uk-1"
-    type: article
-    provider:
-      name: Parking Network
-      domain: parking-net.com
-    quality: 39
-    images:
-      - url: "https://www.parking-net.com/Dinamico/Themes/ParkingResponsive/Content/images/PNVC.png"
-        width: 520
-        height: 520
-
-secured: "Uy41WxoX6c24UHKqWJ615kd5LTGGtt0VUPbjNAWWSnE1AMtgkUx63sYRXkPFsVjkcTbhYOX6o3FUIx8kv4WrqH+emVxh4R0Y4mOCV7zMxThsZTKVh9dlfjitjEq/YqQVD5gu3FKsyFCWkZsYQv07tcsC/qiZ1KyyVG9CC6W6IjC9E2qR2sa5kh9DNyMBt5YyGWuhWiMCAUcBQAUvoazYEYjLF0rFbO1aeCsHzDQYS+yaBznP5QOmeSPOXvupMRT2ou3yg9mzqkqIb63rbKbehvBwWiq7+zGXlcQLX7KFYarTbxbJaGkwKrqYztf9CEtsBv5h4VE0I/yCf+jwY7WPGAm6C1ng69BmpEf/EdS51K8rEFARRi/MPXBCsn5MZD+dr2rwxNLaG1+p1l8AbYoCZckc9xR1+pfYEfYLWDliuK7SoVBkGhYXwaYJ7M5WoIbYLzfW4isxRYCV7PtbjEoY3r0YWoQnA2NKtw5uuJKeL9E=;pUJHaDIF5ffY15STLPiUmw=="
+secured: "A3burHrRHdkqaCrn78MfxaA4S5yNoFGoU+vAjuP0kpM6isk6vXIa3PvNVOsnqqs0x1ymdDJPRUPflv4tNvW5NhsCSlBl/vhgfbbXW7D7UFS7C84WBjKF60NaIl4tb7gewaG2LTCv7kGmXeB0JnnlDUKHBOidCDrFzgK5gmxDb0Qz+tz/ObOnana1EYbJxxdF5RWqkOhpXW6SwLji3TOTr7qoKZ3cNLUg+V6Bkzlc8C2D3HFra6X9m4GDHArd31O9yHZnA/wHXkdqeKzQ/om+a+P17Y1d1sqqYy79oD5hAHqOhjYnms/xJtvZSWenFWwuWDdL99I88kq/IpaS4TWlxx2Hc/sgZeUZSavSSHxeXXdyVuaT5PnrbpT3JgvKMvkNS/3jJLo0xSlFtoqNtfq8bHSkDSzlODOEgtQB53D/kdJhVBKOiIxFFh9lQuUUy8EhBP/IM/pcIJTDIAgMuAWzkHE3BVfPD2tJtv0JCoMGx6I=;9Okvtgd1hjKPhC8D27cTRg=="
 ---
 

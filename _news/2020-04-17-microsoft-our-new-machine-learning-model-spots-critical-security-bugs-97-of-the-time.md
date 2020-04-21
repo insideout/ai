@@ -8,8 +8,8 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsoft-our-new-ma
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-our-new-machine-learning-model-spots-critical-security-bugs-97-of-the-time/"
 type: article
 quality: 81
-heat: -1
-published: false
+heat: 81
+published: true
 
 provider:
   name: TechRepublic
@@ -28,23 +28,6 @@ images:
     width: 1200
     height: 675
     title: "Microsoft: Our new machine learning model spots critical security bugs 97% of the time"
-
-related:
-  - title: "AI spots critical Microsoft security bugs 97% of the time"
-    excerpt: "Microsoft isn’t the only tech giant using AI to weed out software bugs. Amazon’s CodeGuru service, which was partly trained on code reviews and apps developed internally at Amazon, spots issues including resource leaks and wasted CPU cycles. As for Facebook, it developed a tool called SapFix that generates fixes for bugs before sending them ..."
-    publishedDateTime: 2020-04-16T17:47:00Z
-    webUrl: "https://venturebeat.com/2020/04/16/ai-spots-critical-microsoft-security-bugs-97-of-the-time/"
-    ampWebUrl: "https://venturebeat.com/2020/04/16/ai-spots-critical-microsoft-security-bugs-97-of-the-time/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/16/ai-spots-critical-microsoft-security-bugs-97-of-the-time/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/11/microsoft-1-e1580261336710.jpg?fit=1200%2C573&strip=all"
-        width: 1200
-        height: 573
 
 secured: "xkPy6B/XT4UApI1ChSnnpsvyCDNOQ7Rd7Id5GCByD3YaprI0j6aIGqcnyacL7ufDmtkP4GSaM5mifUHTfAKJAdvz4ALxHCV2FUCwweSA39C0SrebqKxQWEhZ2wdFuKYIFYpkdidkBpbOZN5Ojpn5FLpGDL9W9wsVAj9liMUoZ/idZNwYk8nZiEEi/4KFo9El0kee3JNot3143GY30zem8ID5jjJLvnvmk8J7bPWy8JU5jAHpBlt9HV357urPAok9vIt9sW4DH4A20Mrfqg79JCGD7W9M1T4H1o5pawOhAIYDekWJ+HDttZogWYu2nymskFuUaWZKvunBgAM/pArmMUATsnu2ceG9udYRmJQxz2oPo00vd8AM84Scxj1PVC8jLtDiNXRTnPI51rekeWMtwjYUlfKthNTRzJ7pqHYQJ0oJJ8WCKzjpGUycsbXsMn+geqOw9ILTE03ocnj60lxslDKwWNzmW/4CDDpXnSkei2M=;398anZsrTGr/0tSqPaNjDQ=="
 ---

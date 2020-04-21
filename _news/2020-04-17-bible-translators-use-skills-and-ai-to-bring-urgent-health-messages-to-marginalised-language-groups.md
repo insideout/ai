@@ -39,17 +39,6 @@ related:
       - url: "https://static.digit.in/default/223b47fd8c7f598a1e46c43038d9d58c33f10470.jpeg"
         width: 1280
         height: 720
-  - title: "Microsoft adds 5 Indian languages to Microsoft Translator"
-    excerpt: "Microsoft India has announced that its Microsoft Translator will now offer real time translation in five additional languages including Gujarati, Marathi, Kannada, Malayalam and Punjabi."
-    publishedDateTime: 2020-04-16T17:58:00Z
-    webUrl: "https://www.hindustantimes.com/tech/microsoft-adds-5-indian-languages-to-microsoft-translator/story-yzTyLkYzC1HHdnua3FwpcL.html"
-    ampWebUrl: "https://m.hindustantimes.com/tech/microsoft-adds-5-indian-languages-to-microsoft-translator/story-yzTyLkYzC1HHdnua3FwpcL_amp.html"
-    cdnAmpWebUrl: "https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/tech/microsoft-adds-5-indian-languages-to-microsoft-translator/story-yzTyLkYzC1HHdnua3FwpcL_amp.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 41
   - title: "Microsoft adds five Indian languages to Microsoft Translator to help break communication barriers"
     excerpt: "Language translation is a core part of Microsoft products and services. Users can avail the benefits of AI and Deep Neural Networks-enhanced, real-time translation in all these languages while using Bing and the Microsoft Translator website, as well as the Microsoft Translator App for Android, IOS and Windows. The Microsoft Translator app can ..."
     publishedDateTime: 2020-04-20T05:27:00Z
@@ -63,15 +52,6 @@ related:
       - url: "https://indiaeducationdiary.in/wp-content/uploads/2020/04/MT-PR-Indic-Text-01-1-696x464.jpg"
         width: 696
         height: 464
-  - title: "Microsoft adds 5 new Indian languages to its Translator service"
-    excerpt: "This takes the total number of Indian languages supported to 10, including Bengali, Hindi, Tamil, Telugu and Urdu. With this, the service will now allow over 90 per cent of Indians to access information and work in their native/preferred languages,"
-    publishedDateTime: 2020-04-16T17:26:00Z
-    webUrl: "https://news.webindia123.com/news/articles/Science/20200416/3541908.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 4
 
 secured: "37ENWjjmCPioEi6cMR0MRSXFHgktQRPoybu/D220bRUm1Efd1TcjkFX/JkKIqc3T6jvOcwis+4oukX5/Ozw/4IFHbtkOTnug+PyBoKnok450AkL1pHNvGK/vRO8hLuiJ7leVlnyfh0cWa3j4g5n9ei303nUZcuZT9pDqO3QEaICF7PeRZw8cbOpOJ7fFUzf3UVxvjgz+5QiEsya+30mPuFTjQGxqbvwYqKvcQO5Vk1OOHElVxh5i+9NbNC4NFdrhfgJzqDU5niehx/PecfpDvNjSo1n4ZMk85AXNtA+MTuIlCaHr7E3IoUYGFl+37WQwQApy8+tGsva/W7BMkgif6xt3W9kBdQqDZhYxiNMl80Nf6EmpkOhKfCLQgREQ/7HWYTKflJ8minWdB24fMuz3nUYgCuE17pHOxsyzgFMKhCHNizQAUrPmwRQdAJwgLJ6KQC2QkGgLlzaU8gqSqvCMnry8HqkdJsIPbeioGy8ncGM=;eTsC1FtTooOQRxgWyjbj3Q=="
 ---

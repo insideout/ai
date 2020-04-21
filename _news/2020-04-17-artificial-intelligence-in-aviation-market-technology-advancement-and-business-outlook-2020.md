@@ -25,19 +25,6 @@ images:
     title: "Artificial Intelligence In Aviation Market Technology Advancement and Business Outlook 2020"
 
 related:
-  - title: "Police use of facial recognition technology gets spotlight"
-    excerpt: "For all intents and purposes, facial recognition technology for law enforcement agencies is in its beta stage. Now that doesn’t mean police departments haven’t begun to (problematically) implement it in some form — with mixed results, along with legitimate concerns about racial bias and privacy. But as law enforcement agencies across the ..."
-    publishedDateTime: 2020-04-16T16:08:00Z
-    webUrl: "https://www.boulderweekly.com/news/police-use-of-facial-recognition-technology-gets-spotlight/"
-    type: article
-    provider:
-      name: Boulder Weekly
-      domain: boulderweekly.com
-    quality: 39
-    images:
-      - url: "https://www.boulderweekly.com/wp-content/uploads/2020/04/Face_Recognition_3252983.png"
-        width: 1280
-        height: 1066
   - title: "U.S Machine Learning Data Catalog Software Market Overview and Scope 2020 to 2025"
     excerpt: "\"The Machine Learning Data Catalog Software Market report provides a detailed analysis of the dynamic of the market with extensive focus on secondary research. The report sheds light on the current situation of the market size, share, demand, development patterns, and forecast in the coming years. \"The Machine Learning Data Catalog Software ..."
     publishedDateTime: 2020-04-17T04:48:00Z

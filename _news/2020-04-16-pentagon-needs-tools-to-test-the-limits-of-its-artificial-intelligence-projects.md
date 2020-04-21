@@ -2,8 +2,8 @@
 category: news
 title: "Pentagon Needs Tools to Test the Limits of Its Artificial Intelligence Projects"
 excerpt: "In a request for information this week, the Pentagon’s Joint Artificial Intelligence Center, or JAIC, seeks input on cutting-edge testing and evaluation capabilities to support the “full spectrum” of the Defense Department’s emerging AI technologies, including machine learning, deep learning and neural networks. According to the ..."
-publishedDateTime: 2020-04-16T21:50:00Z
-webUrl: "https://www.nextgov.com/emerging-tech/2020/04/pentagon-needs-tools-test-limits-its-artificial-intelligence-projects/164687/?oref=ng-skybox-lander"
+publishedDateTime: 2020-04-16T21:43:00Z
+webUrl: "https://www.nextgov.com/emerging-tech/2020/04/pentagon-needs-tools-test-limits-its-artificial-intelligence-projects/164687/"
 type: article
 quality: 35
 heat: 35
@@ -23,6 +23,6 @@ images:
     height: 400
     title: "Pentagon Needs Tools to Test the Limits of Its Artificial Intelligence Projects"
 
-secured: "61TSsogDeMtKuXMDxc1kX6ES+Nri77iRFaUrJyT6nbbedlsncevL2KQUE0vdiGLbqSiLDtJYpMfpDD2Ys2bQG5TRvXc8/2F5RZWb5tK7OAPWEbdoos9DQDIDlGgMCUFb03FlY7XmapAmLZEtGScuA01e7/8k0x+ihspKNJWnFDEEhCSGtJaOrRvuhkdw/UKdsjLdYyKfn2bbN0DRXdVPM+HosRz89N9P+myrZh9uPPvmLv2ASeB5+Fhd/Je0RHHI7Nr3FQcYPH7LFVdi4wV9eyb7lfbA3Fbh9WROqBm7QaVCgrFvcMckQgcMtbLTmaWtdvXek67CEc6zH+ZFzaQyiV8sLFjfR7wnkDa3UD23gE7+Hp44ym+noilrKppgGYYZUZGT01G5QG2ZRS/nmo0oSNW08IFztwRuH5Co2eNlzx+fTyoonKE/K9aazryNkUb7ctAAjhlesyjGXSWjq7oYBhxvCGbG0yC6UDVeUb5ywEA=;LUvHnc9x64Wg5cgGlyMOhw=="
+secured: "ThEyOpuPQkrYuh6q2OKi1VhmUMUvdMHAWkjU/IzAfLeZvchE05EFxpze9heBTzdDV2OS4iOrdgjx/Ox5Tp1YGeOpzV3SIMZDJyQUuJn/bi7ITcjPett2SVFNxQg63YQnJYKusLnpfYP1FTMUPb0oBcc3Pxb9NJ3e02JcS99qa6cdE+bTCRdsATBn9TtwlcaNGxTCdBWiQ9f55OObHLSIVcSxkXTiZ98d4ylyAYB9RJScViOe3GFf9AgZnKdEEfE2Hf+Ve1cdKx+aqGwGj9dTI2bD4/Xd9gnVz0lGGMY3kRmdJcoIEpTlGiwuFmr6zuQvHBDpkeWvzEr09lCygUS4Pq7zcoBeYZdNwJvrwStsHEqJp+mxBDuu+otWmG7yYFrwuK0knU0LyrUxDsSijDiPUWa9G5qsUNK62ouCX2YIMHEv+CQ3yf9cTYl2Cp9c3dfgaFgLUMWFTkPLcdGY+jsChwq4/pOi44Uova+zqTMUfCI=;/u0bi+tDCfI2skK04zxcLg=="
 ---
 
