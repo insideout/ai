@@ -1,0 +1,43 @@
+---
+category: news
+title: "IBM Joins Forces With Fenergo to Tackle Financial Crime"
+excerpt: "Ireland-based fintech Fenergo announced on Tuesday it has joined forces with IBM (NYSE: IBM)  to fight financial crime. The duo signed an original equipment manufacturing (OEM) agreement that will all"
+publishedDateTime: 2020-04-21T13:14:00Z
+webUrl: "https://www.crowdfundinsider.com/2020/04/160438-ibm-joins-forces-with-fenergo-to-fight-financial-crime/"
+ampWebUrl: "https://www.crowdfundinsider.com/2020/04/160438-ibm-joins-forces-with-fenergo-to-fight-financial-crime/amp/"
+cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/04/160438-ibm-joins-forces-with-fenergo-to-fight-financial-crime/amp/"
+type: article
+quality: 44
+heat: 44
+published: false
+
+provider:
+  name: Crowdfund Insider
+  domain: crowdfundinsider.com
+
+topics:
+  - IBM AI
+  - AI
+
+images:
+  - url: "https://www.crowdfundinsider.com/wp-content/uploads/2018/11/Prison-Criminal-Crook-Crime-Jail-300x208.jpg"
+    width: 300
+    height: 208
+    title: "IBM Joins Forces With Fenergo to Tackle Financial Crime"
+
+related:
+  - title: "IBM & Fenergo Join Forces to Fight Financial Crime"
+    excerpt: "DUBLIN and ARMONK, New York, April 21, 2020 /PRNewswire/ -- Fenergo, the leading provider of digital transformation, customer journey and client lifecycle management"
+    publishedDateTime: 2020-04-21T10:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/04/n15845536/ibm-fenergo-join-forces-to-fight-financial-crime"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/15845536"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15845536"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 24
+
+secured: "Yq3Q8fYrja6rE6b2VewHssSE5D1KXgBZ3ijm/0KAMnHHNTQukXEGFzuySyTQHWssRpHQ7bcWE7RaYXLButOj9u85MKq7vzjB/g9B68N1M6sawpfz7qFUVS7AWvScBhFYKvsxJ995+He6n6ze0/whvv2877EEHtsBxLiMENaOF4oIAj+BfCbir1Mo5oC+NJaP0ByRTsem1/EiYNbG8qPf1qoFWM26UwGnsNXGgCeXsPtqu1Tf13vHtW+i5znpGQ8ECA5VgmNpTrQYrsCAZ6Yvdzzvyn2/bBGzWX6qHH0Dob4rMRKwGACOLIBdAKGquZyG;MolwLG5GWZWgxZaIPXy8uA=="
+---
+

@@ -6,8 +6,8 @@ publishedDateTime: 2020-04-21T11:40:00Z
 webUrl: "https://www.wsj.com/articles/ai-company-forgerock-raises-93-5-million-in-funding-11587463200"
 type: article
 quality: 67
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Wall Street Journal
@@ -26,6 +26,21 @@ images:
     height: 640
     title: "AI Company ForgeRock Raises $93.5 Million in Funding"
 
-secured: "pdOzjfwv+TyzAoS7ZLXGyzUy+zw90Ya0iwu8j/4+rf0FuzVwmkovP+5tmMfApGZPDEaG+2n2GdLulwSN24YdOvJuTo+KwVSKWPYYsuKeNJHiDeaF6KCjYRlbtAnvUq6ownPOG5HveI0BSggpgeFTlhWvkR6zXO0lq55J8bhb8V6E7UmmKHvuGCGajy3p77zWRT1dvbYB+3wXbbZ5Jb9oryWJtEkrBhHVSVxL0ht69I/vV8HxShYOI58NYL7E5ojNtg6iArXqBqiQT6SHpRN62quGQcMbznb8/S6TwsP7dMkiibdHVdBo9q8e24PH6k13;vl18g/7/ubKlzSvX8s1ByQ=="
+related:
+  - title: "ForgeRock Raises $93.5 Million To Further Leverage Cloud, AI"
+    excerpt: "The Series E funding will help ForgeRock implement a self-learning AI model that frees up customer personnel to scrutinize the highest-risk application access requests, CEO Fran Rosch tells CRN. By Michael Novinson April 21, 2020, 08:00 AM EDT ForgeRock has raised $93.5 million to ensure that the identity security player is fully in the cloud ..."
+    publishedDateTime: 2020-04-21T12:29:00Z
+    webUrl: "https://www.crn.com/news/security/forgerock-raises-93-5-million-to-further-leverage-cloud-ai"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 37
+    images:
+      - url: "https://www.crn.com/resources/025c-0f386857b06d-8c15efbb1de7-1000/cloud_money_400.jpg"
+        width: 398
+        height: 398
+
+secured: "XrHzg/na6bYQe2hLZT+j6AlpJhr5sJpycCRjEy27rDAgqGoYh+YBcevQpsZXBn76YkHFOeHQLIylgmuHnna1KWPkxPgWl3AH76pdHtU+QyAXXJ/2sI2M0ItpJ2eQ9bgQGcisvVNgACjbHelk+QTSIu3C0F3D1/MrymInZ89GpEA5q/S3QkhYHv6U5qYSIvauiX3EadJ7YuS9cQL8SSYtTMOfR47lAqXWwmGhM9cz30j4OM0bg+ty/3Q77rgFViNBnqT92da6esrHZTgrOxljkQGTAlevSwBZnDcasxAkrv+fnb4Qckf5Hr5DDTfIBEp/90s761eA0AYn4XrBhaAUDRngehunKU9LhsY/LnBOHQ+9Nv79gP1WxvYkj2FPSGWWA1Y9qurHaiEIy0kf3KQ87V4fdfIWLIcHKd/NJzSmHL24xOAsrZB+14mygJdbZzlR/BSK6ygRZhmffV5skkBJAJdU//JnwaY28CPZttru1dQ=;WGjFRrv+qwz47NFcTZcCcg=="
 ---
 

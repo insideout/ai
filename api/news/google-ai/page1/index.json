@@ -2,6 +2,98 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-04-21-googles-dynamicembedding-framework-extends-tensorflow-to-colossal-scale-applications.md",
+      "title": "Google’s DynamicEmbedding framework extends TensorFlow to ‘colossal-scale’ applications",
+      "excerpt": "In a preliminary whitepaper published this week on Arxiv.org, Google researchers describe DynamicEmbedding, which extends Google’s TensorFlow machine learning framework to “colossal-scale” applications with arbitrary numbers of features (e.g., search queries). According to Google, AI models developed on it have achieved significant ...",
+      "heat": 100,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/21/googles-dynamicembedding-framework-extends-tensorflow-to-colossal-scale-applications/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/21/googles-dynamicembedding-framework-extends-tensorflow-to-colossal-scale-applications/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/21/googles-dynamicembedding-framework-extends-tensorflow-to-colossal-scale-applications/amp/",
+      "publishedDateTime": "2020-04-21T07:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/10/google-ai-logo.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Google’s DynamicEmbedding framework extends TensorFlow to ‘colossal-scale’ applications",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "TensorFlow",
+        "Google AI",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-04-21-specification-gaming-the-flip-side-of-ai-ingenuity.md",
+      "title": "Specification gaming: the flip side of AI ingenuity",
+      "excerpt": "Specification gaming is a behaviour that satisfies the literal specification of an objective without achieving the intended outcome. We have all had experiences with specification gaming, even if not by this name. Readers may have heard the myth of King Midas and the golden touch, in which the king asks",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://deepmind.com/blog/article/Specification-gaming-the-flip-side-of-AI-ingenuity",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-20T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "DeepMind",
+        "domain": "deepmind.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/deepmind.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://lh3.googleusercontent.com/KAS2k_9qAacqcCa7dCLfruoLoBsQgh_XBQQN7NU9rhmHLlVRExiNUvLv_sTAgM2mYqD1KZ-V7oyR5HcBRBRLVRgqek3ORqJ2gVQVTO8",
+          "width": 512,
+          "height": 288,
+          "title": "Specification gaming: the flip side of AI ingenuity",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-17-google-unveils-tensorflow-tool-for-making-mobile-ready-models.md",
       "title": "Google unveils TensorFlow tool for making mobile-ready models",
       "excerpt": "Google has announced TensorFlow Lite Model Maker, a tool for converting an existing TensorFlow model to the TensorFlow Lite format used to serve predictions on lightweight hardware such as mobile devices. TensorFlow models can be quite large, and serving predictions remotely from beefy hardware capable of handling them isn’t always possible.",
@@ -1187,97 +1279,6 @@
         "AI in Robotics",
         "Natural Language Processing",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-03-31-agent57-outperforming-the-human-atari-benchmark.md",
-      "title": "Agent57: Outperforming the human Atari benchmark",
-      "excerpt": "Agent57: Outperforming the Human Atari Benchmark",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://deepmind.com/blog/article/Agent57-Outperforming-the-human-Atari-benchmark",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-30T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "DeepMind",
-        "domain": "deepmind.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/deepmind.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://lh3.googleusercontent.com/nSh9GUWMWjWy1gGLXd8YWf-kqyK1VVI4-mvVihDnUkTPZYF619kUyrXfG0hH9JEZN4y0F9D5zThcQc6t_SE8SDoyaR_6N3M5GwigYLw",
-          "width": 512,
-          "height": 225,
-          "title": "Agent57: Outperforming the human Atari benchmark",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-30-deploy-your-deep-learning-models-on-iot-devices-using-tensorflow-lite.md",
-      "title": "Deploy your deep learning models on IoT devices using TensorFlow lite",
-      "excerpt": "Let’s see what this lite framework is all about. According to official documentation, TensorFlow Lite helps in deploying our models on mobiles and IoT devices i.e. it converts your TensorFlow ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/datadriveninvestor/deploy-your-deep-learning-models-on-iot-devices-using-tensorflow-lite-99d3ccdfc853?source=---------2------------------",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-30T08:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/565/0*ig0fBXW0W8OfKILY.jpg",
-          "width": 565,
-          "height": 427,
-          "title": "Deploy your deep learning models on IoT devices using TensorFlow lite",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "TensorFlow",
-        "Google AI",
-        "AI"
       ]
     }
   ],

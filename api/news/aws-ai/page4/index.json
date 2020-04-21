@@ -2,6 +2,43 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-03-04-how-automation-and-artificial-intelligence-are-transforming-the-sell-side.md",
+      "title": "How automation and artificial intelligence are transforming the sell side",
+      "excerpt": "Though Twitter, Amazon AWS, and Hadoop all came out before ... is interpretability and ‘explainability’. Using artificial intelligence, sell-side firms can analyze large amounts of data ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.bloomberg.com/professional/blog/how-automation-and-artificial-intelligence-are-transforming-the-sell-side/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-04T00:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-03-google-cloud-hits-major-league-baseball-home-run-aws-is-out.md",
       "title": "Google Cloud Hits Major League Baseball Home Run, AWS Is Out",
       "excerpt": "has chosen AWS as its official provider for machine learning, artificial intelligence, and deep learning workloads. In extending its long-standing relationship, MLB will use AWS machine learning services to continue development of Statcast -- the tracking ...",
@@ -1266,51 +1303,6 @@
           "width": 1260,
           "height": 630,
           "title": "Amazon Personalize can now use 10X more item attributes to improve relevance of recommendations",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-06-capturing-and-validating-alphanumeric-identifiers-in-amazon-lex.md",
-      "title": "Capturing and validating alphanumeric identifiers in Amazon Lex",
-      "excerpt": "Enterprises often rely on unique identifiers to look up information on accounts or events. For example, airlines use confirmation codes to locate itineraries, and insurance companies use policy IDs to retrieve policy details. In customer support, these identifiers are the first level of information necessary",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/capturing-and-validating-alphanumeric-identifiers-in-amazon-lex/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-06T15:40:42-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/02/04/alphanumeric-lex-1.gif",
-          "width": 800,
-          "height": 605,
-          "title": "Capturing and validating alphanumeric identifiers in Amazon Lex",
           "attribution": null
         }
       ],

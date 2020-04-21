@@ -8,7 +8,7 @@ ampWebUrl: "https://www.engadget.com/amp/clearview-ai-source-code-security-lapse
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/clearview-ai-source-code-security-lapse-092558647.html"
 type: article
 quality: 104
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -45,6 +45,19 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/COWsgOH7Xb7xKBnZ-42tDcbufkc=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66666576/jbareham_170417_1617_0001.0.jpg"
         width: 1400
         height: 933
+  - title: "Clearview AI source code, facial recognition apps, data exposed"
+    excerpt: "In a familiar refrain, a cloud data bucket was left open, but this time the stakes were high – a misconfigured server exposed the source code, copies of its facial recognition apps as well as private data at controversial startup Clearview AI, which gained unwanted notoriety earlier this year for obtaining billions of photos by scraping the ..."
+    publishedDateTime: 2020-04-21T13:52:00Z
+    webUrl: "https://www.scmagazine.com/home/security-news/database-security/clearview-ai-source-code-facial-recognition-apps-data-exposed/"
+    type: article
+    provider:
+      name: SC Media
+      domain: scmagazine.com
+    quality: 54
+    images:
+      - url: "https://www.scmagazine.com/wp-content/uploads/sites/2/2018/07/facialrecognition_1326427.jpg"
+        width: 700
+        height: 379
 
 secured: "fe38JqY+QTz/+4ix8A6pIIi9MiWAXEaVKr3iV9pVZ1PrVPczEHlW2KVPxKZdZYm71ZGNgsgazVBEJdsZ0tNGmD5nE2cgy6smAdIkbtl9s12JXI13zIcWw/XQr8CvXLcAaVRQS5UOCBHgojPMYvxSiVCjP8ymM8RIgcW3tjHjehL7pnp9fE4q0zznvYg+frZllw08OXONvZ6+Q21k4HeMn0eokOK/sF6hmsXx6hOWawt9NQwF9tw00jLYysAmU/JIH8Gi87SLznNA0IJCtX6rWoQcXuYUbh/6T2EifYnO+8sQjGH3XT4Yd2lN9gNnz2fsrV3nguE8LicUNU/0IAWKMTDoyRV+ZX0oF8ZvNLHGqS8HTXWfyPANTfK7PKdeJGvF0KyZSFAeqK6zxeOCJdz2WwXN+txCrCAcRDmaEWcX3ECHC9u/KqPyu7HbPrg+e+oOwlRe0ynvXMKmTK0fGapR+Ao9jc2oFqQmuRU/oE8oP3c=;WTsy6+hCiP5pSaQcJ3IPOg=="
 ---

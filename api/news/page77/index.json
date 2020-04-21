@@ -2,6 +2,949 @@
   "page": 77,
   "value": [
     {
+      "path": "_news/2020-02-12-deep-learning-market-by-type-analysis-is-anticipated-to-reach-us564272-mn-by-2026.md",
+      "title": "Deep Learning Market By Type Analysis is Anticipated to Reach US$56,427.2 Mn by 2026",
+      "excerpt": "The global Deep Learning Market will increase by a CAGR of approximately 51.1% during the forecast era and is expected to achieve a market value above US$ 56,427.2 Mn in 2026. This Acumen research report examines the 2015-2026 Global Deep Learning Market.",
+      "heat": 92,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-by-type-analysis-is-anticipated-to-reach-us564272-mn-by-2026-2020-02-12",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-12T00:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Deep Learning Market By Type Analysis is Anticipated to Reach US$56,427.2 Mn by 2026",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-02-12-update-1-us-lawmakers-hear-arguments-for-new-safeguards-for-self-driving-cars.md",
+      "title": "UPDATE 1-U.S. lawmakers hear arguments for new safeguards for self-driving cars",
+      "excerpt": "WASHINGTON, Feb 11- A U.S. House panel on Tuesday heard from advocates of imposing stricter safeguards for self-driving cars as part of any effort to speed the adoption of the vehicles on U.S. roads.",
+      "heat": 80,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2020/02/11/reuters-america-update-1-u-s-lawmakers-hear-arguments-for-new-safeguards-for-self-driving-cars.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/02/11/reuters-america-update-1-u-s-lawmakers-hear-arguments-for-new-safeguards-for-self-driving-cars.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/02/11/reuters-america-update-1-u-s-lawmakers-hear-arguments-for-new-safeguards-for-self-driving-cars.html",
+      "publishedDateTime": "2020-02-11T20:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc_logo.gif?v=1524171804",
+          "width": 1200,
+          "height": 630,
+          "title": "UPDATE 1-U.S. lawmakers hear arguments for new safeguards for self-driving cars",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2020-02-12-met-police-rolls-out-live-facial-recognition-in-london.md",
+      "title": "Met Police rolls out live facial recognition in London",
+      "excerpt": "This is the Met Police’s first live deployment of facial recognition technology in London, following 10 trials around the city since 2016 and months of public debate about the use of the controversial biometric software on the public. The rollout comes in the wake of similar deployments in countries including China, Brazil, India and Wales.",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.ft.com/content/db8bfc3c-4cf4-11ea-95a0-43d18ec715f5",
+      "ampWebUrl": "https://amp.ft.com/content/db8bfc3c-4cf4-11ea-95a0-43d18ec715f5",
+      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/db8bfc3c-4cf4-11ea-95a0-43d18ec715f5",
+      "publishedDateTime": "2020-02-11T20:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Times",
+        "domain": "ft.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2F104630ce-4cea-11ea-95a0-43d18ec715f5?source=google-amp&fit=scale-down&width=500",
+          "width": 500,
+          "height": 281,
+          "title": "Met Police rolls out live facial recognition in London",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2020-02-12-andrew-yang-an-ai-first-candidate-drops-out-of-presidential-race.md",
+      "title": "Andrew Yang, an AI-first candidate, drops out of presidential race",
+      "excerpt": "(Reuters) — Andrew Yang, an entrepreneur whose unlikely White House bid evolved into a serious campaign thanks to grassroots enthusiasm, pulled out of the Democratic presidential race on Tuesday after New Hampshire delivered him a second straight poor showing. Yang, 45, who ran for president despite having no political background, surprised ...",
+      "heat": 97,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/02/11/andrew-yang-an-ai-first-candidate-drops-out-of-presidential-race/",
+      "ampWebUrl": "https://venturebeat.com/2020/02/11/andrew-yang-an-ai-first-candidate-drops-out-of-presidential-race/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/11/andrew-yang-an-ai-first-candidate-drops-out-of-presidential-race/amp/",
+      "publishedDateTime": "2020-02-11T19:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/02/andrew-yang-1.jpg?fit=5048%2C2524&strip=all",
+          "width": 5048,
+          "height": 2524,
+          "title": "Andrew Yang, an AI-first candidate, drops out of presidential race",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-12-fintech-startup-tribal-credit-secures-us55-million-in-funding-round.md",
+      "title": "Fintech Startup Tribal Credit Secures US$5.5 Million In Funding Round",
+      "excerpt": "The founding team consists of serial entrepreneurs, data scientists, and fintech execs who have had experiences in banking, risk and compliance, regulations, and scaling in emerging markets. Shady points out that the startup’s main advantage in the market is its proprietary AI algorithm, which they originally conceived based off their researc ...",
+      "heat": 94,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.entrepreneur.com/article/346215",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/346215",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/346215",
+      "publishedDateTime": "2020-02-11T19:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/20200211171501-Tribal-DarkCardMock-Simple.png?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": "Fintech Startup Tribal Credit Secures US$5.5 Million In Funding Round",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2020-02-11-samsung-unveils-galaxy-s20-5g-lineup-with-new-camera-tech-ai-security-and-more-starting-at-1000.md",
+      "title": "Samsung unveils Galaxy S20 5G lineup with new camera tech, AI, security, and more starting at $1,000",
+      "excerpt": "The hybrid zoom's AI uses multi-image processing to reduce resolution loss at higher magnification ... the Galaxy S20 is protected by Knox—the industry-leading mobile security platform that protects the device from the chip level through to the software level,” says Samsung. The company also says that the S20 has a new “secure processor ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techspot.com/news/83976-samsung-unveils-galaxy-s20-5g-lineup-new-camera.html",
+      "ampWebUrl": "https://www.techspot.com/amp/news/83976-samsung-unveils-galaxy-s20-5g-lineup-new-camera.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/83976-samsung-unveils-galaxy-s20-5g-lineup-new-camera.html",
+      "publishedDateTime": "2020-02-11T15:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/ts3_thumbs/2020/02/2020-02-11-ts3_thumbs-833.jpg",
+          "width": 800,
+          "height": 560,
+          "title": "Samsung unveils Galaxy S20 5G lineup with new camera tech, AI, security, and more starting at $1,000",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2020-02-11-us-lawmakers-hear-arguments-for-new-safeguards-for-self-driving-cars.md",
+      "title": "U.S. lawmakers hear arguments for new safeguards for self-driving cars",
+      "excerpt": "A U.S. House panel on Tuesday heard from advocates of imposing stricter safeguards for self-driving cars as part of any effort to speed the adoption of the vehicles on U.S. roads. By David Shepardson WASHINGTON,",
+      "heat": 124,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nasdaq.com/articles/u.s.-lawmakers-hear-arguments-for-new-safeguards-for-self-driving-cars-2020-02-11",
+      "ampWebUrl": "https://www.nasdaq.com/articles/u.s.-lawmakers-hear-arguments-for-new-safeguards-for-self-driving-cars-2020-02-11?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/u.s.-lawmakers-hear-arguments-for-new-safeguards-for-self-driving-cars-2020-02-11?amp",
+      "publishedDateTime": "2020-02-11T15:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.nasdaq.com/sites/acquia.prod/files/2020-02-04T184957Z_2137662451_RC2UTE9VVL5F_RTRMADP_2_USA-TRUMP-SPEECH.JPG",
+          "width": 640,
+          "height": 419,
+          "title": "U.S. lawmakers hear arguments for new safeguards for self-driving cars",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2020-02-11-nba-using-artificial-intelligence-for-highlight-clips-this-all-star-game.md",
+      "title": "NBA using artificial intelligence for highlight clips this All-Star game",
+      "excerpt": "The NBA says they are using machine learning to create more highlights than ever before this All-Star weekend.",
+      "heat": 186,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2020/02/11/nba-using-artificial-intelligence-for-highlight-clips-this-all-star-game.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/02/11/nba-using-artificial-intelligence-for-highlight-clips-this-all-star-game.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/02/11/nba-using-artificial-intelligence-for-highlight-clips-this-all-star-game.html",
+      "publishedDateTime": "2020-02-11T14:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106384981-1581436693869gettyimages-1196398279.jpeg?v=1581436778",
+          "width": 5231,
+          "height": 3487,
+          "title": "NBA using artificial intelligence for highlight clips this All-Star game",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-11-meet-ella-new-zealand-police-unveil-first-artificial-intelligence-officer.md",
+      "title": "Meet Ella: New Zealand Police unveil first artificial intelligence officer",
+      "excerpt": "The police have unveiled their first AI officer, with hopes she'll soon be smiling and blinking out of screens in stations all around New Zealand. Ella, the Māori artificial intelligence cop at the centre of the police's new digital services, was revealed at the police national headquarters in Wellington this morning. Ella, which stands for ...",
+      "heat": 135,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=12307902",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-11T13:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New Zealand Herald",
+        "domain": "nzherald.co.nz",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.nzherald.co.nz/resizer/E5V-a96jpTiF5t4mMHUgW5umkyU=/1200x0/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/UYPVACGFG5ANNLPOYQ6G2IUFKM.jpg",
+          "width": 1200,
+          "height": 752,
+          "title": "Meet Ella: New Zealand Police unveil first artificial intelligence officer",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-11-we-still-cant-agree-how-to-regulate-self-driving-cars.md",
+      "title": "We still can’t agree how to regulate self-driving cars",
+      "excerpt": "A quick recap in case you forgot: the Republican-controlled House of Representatives unanimously passed the SELF DRIVE Act in 2017, which would speed the adoption of self-driving cars and bar ...",
+      "heat": 114,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.theverge.com/2020/2/11/21133389/house-energy-commerce-self-driving-car-hearing-bill-2020",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/2/11/21133389/house-energy-commerce-self-driving-car-hearing-bill-2020",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/2/11/21133389/house-energy-commerce-self-driving-car-hearing-bill-2020",
+      "publishedDateTime": "2020-02-11T13:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/10T-kTZJK2tlblwYeUppcBLmegw=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66295443/vpavic_191202_3827_0024.0.jpg",
+          "width": 1400,
+          "height": 933,
+          "title": "We still can’t agree how to regulate self-driving cars",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2020-02-11-the-ai-revolution-is-here-a-podcast-and-interview-with-nate-yohannes.md",
+      "title": "The AI Revolution Is Here - A Podcast And Interview With Nate Yohannes",
+      "excerpt": "Nate’s perspective on AI being built for everybody on the planet is birthed from one of the most unique foundations possible. He’s the offspring of a revolutionary who stepped on a landmine in 1978 fighting for democracy on the Horn of Africa,",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbesinsights/2020/02/11/the-ai-revolution-is-herea-podcast-and-interview-with-nate-yohannes/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesinsights/2020/02/11/the-ai-revolution-is-herea-podcast-and-interview-with-nate-yohannes/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesinsights/2020/02/11/the-ai-revolution-is-herea-podcast-and-interview-with-nate-yohannes/amp/",
+      "publishedDateTime": "2020-02-11T10:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e3d6e478b6cf300071e2656%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "The AI Revolution Is Here - A Podcast And Interview With Nate Yohannes",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2020-02-11-vb-special-issue-ai-and-security.md",
+      "title": "VB Special Issue: AI and Security",
+      "excerpt": "Both AI and cybersecurity are nearly omnipresent in our daily lives, and the intersection of the two is of increasing importance as our world becomes more connected, more “intelligent,” and more reliant on online or automated systems. AI technology can impact existing problems in cybersecurity, national security, physical safety ...",
+      "heat": 77,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/vb-special-issue-ai-and-security/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-11T10:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/02/ai-and-security-header-2x1-1.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "VB Special Issue: AI and Security",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-11-ai-and-automation-together-forever.md",
+      "title": "AI And Automation: Together Forever?",
+      "excerpt": "AI and automation are particularly intertwined in robotics, supplying workforce-enhancing solutions that not only complete repetitive tasks but also support and improve decision-making processes.",
+      "heat": 97,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/businessreporter/2020/02/11/ai-and-automation-together-forever/",
+      "ampWebUrl": "https://www.forbes.com/sites/businessreporter/2020/02/11/ai-and-automation-together-forever/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/businessreporter/2020/02/11/ai-and-automation-together-forever/amp/",
+      "publishedDateTime": "2020-02-11T10:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e42e21e3f2df80006e3c68f%2F0x0.jpg",
+          "width": 1200,
+          "height": 801,
+          "title": "AI And Automation: Together Forever?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-11-the-engineers-behind-googles-bookbot-have-launched-a-delivery-robot-startup.md",
+      "title": "The engineers behind Google’s Bookbot have launched a delivery robot startup",
+      "excerpt": "The secretive startup called Cartken was formed in fall 2019 after Google ... However, a Korean trade delegation to Silicon Valley in October was told the company had “developed a delivery robot that combines unmanned autonomous vehicles and artificial intelligence.” Cartken’s website says that it will offer “low-cost delivery through ...",
+      "heat": 86,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/02/11/the-engineers-behind-googles-bookbot-have-launched-a-delivery-robot-startup/",
+      "ampWebUrl": "https://techcrunch.com/2020/02/11/the-engineers-behind-googles-bookbot-have-launched-a-delivery-robot-startup/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/11/the-engineers-behind-googles-bookbot-have-launched-a-delivery-robot-startup/amp/",
+      "publishedDateTime": "2020-02-11T10:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/02/bookbot-cartken.jpg?w=1024",
+          "width": 1024,
+          "height": 544,
+          "title": "The engineers behind Google’s Bookbot have launched a delivery robot startup",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-02-11-is-ai-cybersecuritys-salvation-or-its-greatest-threat.md",
+      "title": "Is AI cybersecurity’s salvation or its greatest threat?",
+      "excerpt": "If you’re uncertain whether AI is the best or worst thing to ever happen to cybersecurity, you’re in the same boat as experts watching the dawn of this new era with a mix of excitement and terror. AI’s potential to automate security on a broader scale offers a welcome advantage in the short term. Yet unleashing a technology designed to ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/02/11/is-ai-cybersecuritys-salvation-or-its-greatest-threat/",
+      "ampWebUrl": "https://venturebeat.com/2020/02/11/is-ai-cybersecuritys-salvation-or-its-greatest-threat/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/11/is-ai-cybersecuritys-salvation-or-its-greatest-threat/amp/",
+      "publishedDateTime": "2020-02-11T09:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/02/1-Cybersecurity-threat-illustration-1.jpg?fit=2160%2C1078&strip=all",
+          "width": 2160,
+          "height": 1078,
+          "title": "Is AI cybersecurity’s salvation or its greatest threat?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-11-deepfakes-and-deep-media-a-new-security-battleground.md",
+      "title": "Deepfakes and deep media: A new security battleground",
+      "excerpt": "“Deepfakes [produced by] generative [systems] learn a data set of actual images in videos, to which you add new images and then generate a new video with the new images,” Ishai Rosenberg, head of the deep learning group at cybersecurity company Deep Instinct, told VentureBeat via email. “The result is that the output video has subtle ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/02/11/deepfake-media-and-detection-methods/",
+      "ampWebUrl": "https://venturebeat.com/2020/02/11/deepfake-media-and-detection-methods/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/11/deepfake-media-and-detection-methods/amp/",
+      "publishedDateTime": "2020-02-11T09:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/02/3-Deepfake-illustration-e1580975661512.jpg?fit=1202%2C600&strip=all",
+          "width": 1202,
+          "height": 600,
+          "title": "Deepfakes and deep media: A new security battleground",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-02-11-army-looks-to-block-data-poisoning-in-facial-recognition-ai.md",
+      "title": "Army looks to block data ‘poisoning’ in facial recognition, AI",
+      "excerpt": "The Army has many data problems. But when it comes to the data that underlies facial recognition, one sticks out: Enemies want to poison the well. Adversaries are becoming more sophisticated at providing “poisoned,” or subtly altered, data that will mistrain artificial intelligence and machine learning algorithms. To try and safeguard ...",
+      "heat": 204,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fedscoop.com/army-looks-block-data-poisoning-facial-recognition/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-11T09:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "FedScoop",
+        "domain": "fedscoop.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.fedscoop.com/wp-content/uploads/2020/02/GettyImages-1167845607.jpg",
+          "width": 2309,
+          "height": 1299,
+          "title": "Army looks to block data ‘poisoning’ in facial recognition, AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2020-02-11-to-protect-people-we-need-a-different-type-of-machine-learning.md",
+      "title": "To protect people, we need a different type of machine learning",
+      "excerpt": "But these measures haven’t solved the biggest security problem — an organization’s own people. Traditional machine learning methods that are used to detect threats at the machine layer aren’t equipped to account for the complexities of human relationships and behaviors across businesses over time. There is no concept of “state ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/02/11/to-protect-people-we-need-a-different-type-of-machine-learning/",
+      "ampWebUrl": "https://venturebeat.com/2020/02/11/to-protect-people-we-need-a-different-type-of-machine-learning/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/11/to-protect-people-we-need-a-different-type-of-machine-learning/amp/",
+      "publishedDateTime": "2020-02-11T09:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/02/7-ML-learning.jpg?fit=2160%2C1078&strip=all",
+          "width": 2160,
+          "height": 1078,
+          "title": "To protect people, we need a different type of machine learning",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-02-11-aptivs-self-driving-vehicles-top-100000-rides-in-las-vegas.md",
+      "title": "Aptiv’s Self-Driving Vehicles Top 100,000 Rides In Las Vegas",
+      "excerpt": "Waymo got a lot of media coverage for the December 2018 commercial launch of its automated ride-hailing service. But Waymo wasn’t the first company to open such a service to the general public and start charging for rides.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/samabuelsamid/2020/02/11/aptiv-self-driving-vehicles-top-100000-rides-in-las-vegas/",
+      "ampWebUrl": "https://www.forbes.com/sites/samabuelsamid/2020/02/11/aptiv-self-driving-vehicles-top-100000-rides-in-las-vegas/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/samabuelsamid/2020/02/11/aptiv-self-driving-vehicles-top-100000-rides-in-las-vegas/amp/",
+      "publishedDateTime": "2020-02-11T09:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e41bec0a854780006b0f2a8%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Aptiv’s Self-Driving Vehicles Top 100,000 Rides In Las Vegas",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2020-02-11-mcafee-cto-how-ai-is-changing-both-cybersecurity-and-cyberattacks.md",
+      "title": "McAfee CTO: How AI is changing both cybersecurity and cyberattacks",
+      "excerpt": "McAfee, one of the big players in the industry, is adding AI capabilities to its own suite of tools that protect users from increasingly automated attacks. A whole wave of startups — like Israel ...",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/02/11/mcafee-cto-how-ai-is-changing-both-cybersecurity-and-cyberattacks/",
+      "ampWebUrl": "https://venturebeat.com/2020/02/11/mcafee-cto-how-ai-is-changing-both-cybersecurity-and-cyberattacks/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/11/mcafee-cto-how-ai-is-changing-both-cybersecurity-and-cyberattacks/amp/",
+      "publishedDateTime": "2020-02-11T09:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/01/11-McAfee-interview.jpg?fit=2160%2C1078&strip=all",
+          "width": 2160,
+          "height": 1078,
+          "title": "McAfee CTO: How AI is changing both cybersecurity and cyberattacks",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-11-microsofts-ai-automatically-comments-on-video-clips.md",
+      "title": "Microsoft’s AI automatically comments on video clips",
+      "excerpt": "Generating live video captions with AI could bolster engagement on social media, or serve as a benchmark for the task of translating video to text. Preliminary work to this end has employed encoder-decoder models to generate comments, but they haven’t modeled the interaction between videos and comments explicitly, so they’ve tended to ...",
+      "heat": 187,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/02/11/microsofts-ai-automatically-comments-on-video-clips/",
+      "ampWebUrl": "https://venturebeat.com/2020/02/11/microsofts-ai-automatically-comments-on-video-clips/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/11/microsofts-ai-automatically-comments-on-video-clips/amp/",
+      "publishedDateTime": "2020-02-11T08:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/02/64fd83ec-3df8-42dd-9bdd-c5cc97989216-e1581438914191.png?fit=1192%2C598&strip=all",
+          "width": 1192,
+          "height": 598,
+          "title": "Microsoft’s AI automatically comments on video clips",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-11-artificial-intelligence-for-machine-tool-maintenance.md",
+      "title": "Artificial intelligence for machine tool maintenance",
+      "excerpt": "If there is a need for action, the system informs the user automatically.\" The new system combines a camera with light source attached to the nut of the drive and an artificial intelligence (AI) that evaluates the image data. As the nut moves on the spindle, it takes individual pictures of each spindle section, enabling the analysis of the ...",
+      "heat": 94,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.eurekalert.org/pub_releases/2020-02/kift-aif021120.php",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-11T07:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://eurekalert.org/multimedia/pub/web/223953_web.jpg",
+          "width": 720,
+          "height": 652,
+          "title": "Artificial intelligence for machine tool maintenance",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-02-11-softbank-owned-arms-latest-chip-designs-feature-improved-ai-performance-on-edge-iot-devices.md",
       "title": "SoftBank-owned Arm's latest chip designs feature improved AI performance on edge IoT devices",
       "excerpt": "Chip designer Arm unveiled two new chip designs that can provide better artificial intelligence functionality on edge IoT devices.",
@@ -133,928 +1076,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-11-seattle-university-launches-public-course-to-bring-the-ethics-of-artificial-intelligence-to-the-masses.md",
-      "title": "Seattle University launches public course to bring the ethics of artificial intelligence to the masses",
-      "excerpt": "The future of artificial intelligence (AI) is here: self-driving cars, grocery-delivering drones and voice assistants like Alexa that control more and more of our lives, from the locks on our front doors to the temperatures of our homes. But as AI permeates into everyday life, what about the ethics and morality of the systems? For example ...",
-      "heat": 100,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.seattletimes.com/business/technology/seattle-university-launches-public-course-to-bring-the-ethics-of-artificial-intelligence-to-the-masses/",
-      "ampWebUrl": "https://www.seattletimes.com/business/technology/seattle-university-launches-public-course-to-bring-the-ethics-of-artificial-intelligence-to-the-masses/?amp=1",
-      "cdnAmpWebUrl": "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/seattle-university-launches-public-course-to-bring-the-ethics-of-artificial-intelligence-to-the-masses/?amp=1",
-      "publishedDateTime": "2020-02-11T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seattle Times",
-        "domain": "seattletimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://static.seattletimes.com/wp-content/uploads/2020/01/01062020_AImetalHead_tzr_tzr_215511-780x501.jpg",
-          "width": 780,
-          "height": 501,
-          "title": "Seattle University launches public course to bring the ethics of artificial intelligence to the masses",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-02-11-machine-learning-artificial-intelligence-market-may-set-new-growth-amazon-google-facebook.md",
-      "title": "Machine Learning Artificial intelligence Market May Set New Growth| Amazon, Google, Facebook",
-      "excerpt": "Some are the key & emerging players that are part of coverage and have being profiled are AIBrain, Amazon, Anki, CloudMinds, Deepmind, Google, Facebook, IBM, Iris AI, Apple, Luminoso & Qualcomm. Know how you are perceived in comparison to your competitors like AIBrain, Amazon, Anki, CloudMinds, Deepmind, Google, Facebook, IBM, Iris AI ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-artificial-intelligence-market-may-set-new-growth-amazon-google-facebook-2020-02-11",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-11T04:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Machine Learning Artificial intelligence Market May Set New Growth| Amazon, Google, Facebook",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI",
-        "Machine Learning",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-11-computer-vision-and-robotics-expand-industrial-capabilities.md",
-      "title": "COMPUTER VISION AND ROBOTICS EXPAND INDUSTRIAL CAPABILITIES",
-      "excerpt": "One way to increase robotic abilities in a safe and efficient manner is to use an innovative new technology: computer vision. Computer vision technology enables a robot to use a camera or scanner to transform multidimensional inputs into data it can process, “perceiving” its surroundings and mimicking sight. Computer vision coupled with ...",
-      "heat": 81,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.roboticstomorrow.com/article/2020/02/computer-vision-and-robotics-expand-industrial-capabilities/14749",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-11T04:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Robotics Tomorrow",
-        "domain": "roboticstomorrow.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.roboticstomorrow.com/images/articles/14749.jpg",
-          "width": 680,
-          "height": 295,
-          "title": "COMPUTER VISION AND ROBOTICS EXPAND INDUSTRIAL CAPABILITIES",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-02-11-the-white-house-wants-to-spend-hundreds-of-millions-more-on-ai-research.md",
-      "title": "The White House wants to spend hundreds of millions more on AI research",
-      "excerpt": "The news: The White House is pumping hundreds of millions more dollars into artificial intelligence research. In budget plans announced on Monday, the administration bumped funding for AI research at the Defense Advanced Research Projects Agency (DARPA) from $50 million to $249 million and at the National Science Foundation from $500 million ...",
-      "heat": 157,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.technologyreview.com/f/615174/the-white-house-will-spend-hundreds-of-millions-more-on-ai-research/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-11T04:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.technologyreview.com/i/images/david-everett-strickler-igcbfrmd11i-unsplash.jpg?sw=1200&cx=0&cy=0&cw=3000&ch=1688",
-          "width": 1200,
-          "height": 675,
-          "title": "The White House wants to spend hundreds of millions more on AI research",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-11-facebook-acquires-third-ai-startup-in-uk-for-40m.md",
-      "title": "Facebook Acquires Third AI Startup In UK For $40M",
-      "excerpt": "Facebook acquires a new AI startup in Deeptide Ltd. The deal went almost unnoticed save for the blog post of Deeptide's founder back in December There was no disclosed acquisition cost but sources speculates it to be $40 million Facebook's \"acquire and conquer\" strategy has landed it another startup to boost its AI game.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.ibtimes.com/facebook-acquires-third-ai-startup-uk-40m-2919901",
-      "ampWebUrl": "https://www.ibtimes.com/facebook-acquires-third-ai-startup-uk-40m-2919901?amp=1",
-      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/facebook-acquires-third-ai-startup-uk-40m-2919901?amp=1",
-      "publishedDateTime": "2020-02-11T03:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/01/28/facebook-reports-it-is-closer-to-setting-up.jpg",
-          "width": 1024,
-          "height": 682,
-          "title": "Facebook Acquires Third AI Startup In UK For $40M",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-11-amds-new-arcturus-gpu-could-be-super-efficient-but-probably-wont-trouble-nvidia.md",
-      "title": "AMD’s new Arcturus GPU could be super-efficient – but probably won’t trouble Nvidia",
-      "excerpt": "... reckons it can win the high-end GPU battle – and dethrone Nvidia These are all the best graphics cards of 2020 Remember this is a GPU aimed at data center and heavyweight compute usage – the likes of AI applications – but seemingly we’re looking at something of a beast of a card with a 1,090MHz base clock and 1,333MHz boost, with ...",
-      "heat": 83,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techradar.com/in/news/amds-new-arcturus-gpu-could-be-super-efficient-but-probably-wont-trouble-nvidia",
-      "ampWebUrl": "https://www.techradar.com/in/amp/news/amds-new-arcturus-gpu-could-be-super-efficient-but-probably-wont-trouble-nvidia",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/amds-new-arcturus-gpu-could-be-super-efficient-but-probably-wont-trouble-nvidia",
-      "publishedDateTime": "2020-02-11T03:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/WbcyGEkXqJLgzVDDVsHBc7-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "AMD’s new Arcturus GPU could be super-efficient – but probably won’t trouble Nvidia",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-02-11-microsoft-sees-room-for-growth-opportunities-for-all-cloud-providers-in-uae.md",
-      "title": "Microsoft sees room for growth opportunities for all cloud providers in UAE",
-      "excerpt": "Migrate is moving applications to Azure, he said, while innovate is all about advanced workloads such as blockchain, AI, IoT and cloud-born workloads. There is a big skills gap in the industry due to the emerging technologies such as AI, blockchain, big data but Ozyucel believes that holding a two-day workshop will bridge the skills gap.",
-      "heat": 97,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techradar.com/news/microsoft-sees-room-for-growth-opportunities-for-all-cloud-providers-in-uae",
-      "ampWebUrl": "https://www.techradar.com/amp/news/microsoft-sees-room-for-growth-opportunities-for-all-cloud-providers-in-uae",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/microsoft-sees-room-for-growth-opportunities-for-all-cloud-providers-in-uae",
-      "publishedDateTime": "2020-02-11T03:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/rmPaHMzsrrTyXPeTskDQRN-1200-80.jpg",
-          "width": 1058,
-          "height": 596,
-          "title": "Microsoft sees room for growth opportunities for all cloud providers in UAE",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-11-aptivs-self-driving-cars-have-given-100000-paid-rides-on-the-lyft-app.md",
-      "title": "Aptiv’s self-driving cars have given 100,000 paid rides on the Lyft app",
-      "excerpt": "What started out as a temporary pilot project to test a robotaxi service in Las Vegas has turned into a multi-year partnership between self-driving software company Aptiv and Lyft and a new milestone that suggests the operation is ramping up. The companies announced Tuesday that they’ve given 100,000 paid rides in Aptiv’s self-driving ...",
-      "heat": 259,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/02/11/aptivs-self-driving-cars-have-given-100000-paid-rides-on-the-lyft-app/",
-      "ampWebUrl": "https://techcrunch.com/2020/02/11/aptivs-self-driving-cars-have-given-100000-paid-rides-on-the-lyft-app/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/11/aptivs-self-driving-cars-have-given-100000-paid-rides-on-the-lyft-app/amp/",
-      "publishedDateTime": "2020-02-11T03:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/02/aptiv-self-driving-car-technical-center.jpg?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": "Aptiv’s self-driving cars have given 100,000 paid rides on the Lyft app",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-02-11-mps-claim-ai-doesnt-need-a-new-regulator.md",
-      "title": "MPs claim AI 'doesn't need' a new regulator",
-      "excerpt": "There was more optimism for the work of the Office for AI, the Alan Turing Institute, the Centre for Data Ethics and Innovation (CDEI), and the Information Commissioner's Office (ICO) which he said were all \"commendable\". But on transparency and data bias, he called for practical guidance and enforceable regulation. \"We conclude that the UK ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/354744/mps-claim-ai-doesnt-need-a-new-regulator",
-      "ampWebUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/354744/mps-claim-ai-doesnt-need-a-new-regulator?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/354744/mps-claim-ai-doesnt-need-a-new-regulator?amp",
-      "publishedDateTime": "2020-02-11T02:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/v1581416015/itpro/2020/AiPublicSector.jpg",
-          "width": 1000,
-          "height": 528,
-          "title": "MPs claim AI 'doesn't need' a new regulator",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-02-11-market-updates-for-2020-ml-ai-industry-will-poised-for-strong-global-growth.md",
-      "title": "Market Updates for 2020 ML AI Industry will Poised for strong Global Growth",
-      "excerpt": "The Global ML AI Market report provides information by Top Players, Geography, End users, Applications, Competitor analysis, Sales, Revenue, Price, Gross Margin, Market Share, Import-Export, Trends, and Forecast.",
-      "heat": 77,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/market-updates-for-2020-ml-ai-industry-will-poised-for-strong-global-growth-2020-02-11",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-11T02:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Market Updates for 2020 ML AI Industry will Poised for strong Global Growth",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-11-3-big-trends-about-the-future-of-work-every-leader-should-know-about.md",
-      "title": "3 Big Trends About the Future of Work Every Leader Should Know About",
-      "excerpt": "For 2020, she has identified three issues that \"require immediate and intentional action\" if organizations want to thrive in the future of work. 1. Overlooked talent in people with disabilities and older workers. \"The United States has a jobs surplus of more than one million open positions, and there are record-high labor shortages across 12 of ...",
-      "heat": 122,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.inc.com/marcel-schwantes/3-big-trends-about-future-of-work-every-leader-should-know-about.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-11T02:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Inc",
-        "domain": "inc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.incimages.com/uploaded_files/image/970x450/getty_867341882_412451.jpg",
-          "width": 970,
-          "height": 450,
-          "title": "3 Big Trends About the Future of Work Every Leader Should Know About",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-11-arm-targets-iot-with-new-machine-learning-ip-processors.md",
-      "title": "Arm targets IoT with new Machine Learning IP, processors",
-      "excerpt": "The company added new machine learning (ML) IP, a new Cortex processor and neural processing unit (NPU) to its AI platform. In a statement, Arm said the combination of its latest IP with a related set of tools would provide hardware and software developers with more options for innovation when delivering on-device ML, while lowering overall ...",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.mobileworldlive.com/featured-content/devices-home-banner/arm-targets-iot-with-new-machine-learning-ip-processors/",
-      "ampWebUrl": "https://www.mobileworldlive.com/featured-content/devices-home-banner/arm-targets-iot-with-new-machine-learning-ip-processors/amp/",
-      "cdnAmpWebUrl": "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/featured-content/devices-home-banner/arm-targets-iot-with-new-machine-learning-ip-processors/amp/",
-      "publishedDateTime": "2020-02-11T02:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mobile World Live",
-        "domain": "mobileworldlive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i0.wp.com/www.mobileworldlive.com/wp-content/uploads/2020/01/London-IoT.png?fit=650%2C400&ssl=1",
-          "width": 650,
-          "height": 400,
-          "title": "Arm targets IoT with new Machine Learning IP, processors",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-02-11-how-will-your-career-be-impacted-by-artificial-intelligence.md",
-      "title": "How Will Your Career Be Impacted By Artificial Intelligence?",
-      "excerpt": "Nobody can predict the future with absolute precision. But when it comes to the impact of artificial intelligence (AI) on people’s careers, the recent past provides some intriguing clues. Rhonda Scharf’s book Alexa Is Stealing Your Job: The Impact of Artificial Intelligence on Your Future offers some insights and predictions that are well worth our consideration.",
-      "heat": 91,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/rodgerdeanduncan/2020/02/11/how-will-your-career-be-impacted-by-artificial-intelligence/",
-      "ampWebUrl": "https://www.forbes.com/sites/rodgerdeanduncan/2020/02/11/how-will-your-career-be-impacted-by-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rodgerdeanduncan/2020/02/11/how-will-your-career-be-impacted-by-artificial-intelligence/amp/",
-      "publishedDateTime": "2020-02-11T00:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/711x511/https://specials-images.forbesimg.com/imageserve/5e17b6d42ffdbd000701d5f4/960x0.jpg?fit=scale",
-          "width": 711,
-          "height": 511,
-          "title": "How Will Your Career Be Impacted By Artificial Intelligence?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-02-11-global-artificial-intelligence-ai-in-healthcare-market-hits-record-value-of-usd-178-billion-by-2025.md",
-      "title": "Global Artificial Intelligence (AI) in Healthcare Market Hits Record Value of USD 17.8 Billion By 2025",
-      "excerpt": "The \"Global Artificial Intelligence (AI) in Healthcare Market Is Anticipated To Reach Around USD 17.8 Billion By 2025\" Research Report provides the newest industry data and industry future trends, allowing you to identify the products and end users driving Revenue growth and profitability.",
-      "heat": 175,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-healthcare-market-hits-record-value-of-usd-178-billion-by-2025-2020-02-11",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-10T22:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Global Artificial Intelligence (AI) in Healthcare Market Hits Record Value of USD 17.8 Billion By 2025",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-11-googles-machine-learning-is-making-you-more-effective-in-2020.md",
-      "title": "Google’s Machine Learning Is Making You More Effective In 2020",
-      "excerpt": "to email as well as increasing ways to help me complete or enhance a document, spreadsheet, or presentation with the Explore function.",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/tjmccue/2020/02/10/googles-machine-learning-is-making-you-more-effective-in-2020/",
-      "ampWebUrl": "https://www.forbes.com/sites/tjmccue/2020/02/10/googles-machine-learning-is-making-you-more-effective-in-2020/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tjmccue/2020/02/10/googles-machine-learning-is-making-you-more-effective-in-2020/amp/",
-      "publishedDateTime": "2020-02-10T20:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F881497148%2F0x0.jpg%3FcropX1%3D148%26cropX2%3D3119%26cropY1%3D1497%26cropY2%3D3169",
-          "width": 1200,
-          "height": 676,
-          "title": "Google’s Machine Learning Is Making You More Effective In 2020",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-02-11-the-aclu-slammed-a-facial-recognition-company-that-scrapes-photos-from-instagram-and-facebook.md",
-      "title": "The ACLU Slammed A Facial Recognition Company That Scrapes Photos From Instagram And Facebook",
-      "excerpt": "By Caroline Haskins and Ryan Mac and Logan McDonald Posted on February 10, 2020, at 11:20 a.m. ET Clearview AI's website previously touted that its technology had been verified using \"the ACLU's facial recognition accuracy methodology.\" The ACLU pushed back on that claim and asked Clearview to remove it last month. Clearview AI, the facial ...",
-      "heat": 230,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.buzzfeednews.com/article/carolinehaskins1/clearview-ai-facial-recognition-accurate-aclu-absurd",
-      "ampWebUrl": "https://www.buzzfeednews.com/amphtml/carolinehaskins1/clearview-ai-facial-recognition-accurate-aclu-absurd",
-      "cdnAmpWebUrl": "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/carolinehaskins1/clearview-ai-facial-recognition-accurate-aclu-absurd",
-      "publishedDateTime": "2020-02-10T18:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BuzzFeed News",
-        "domain": "buzzfeednews.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/buzzfeednews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-02/10/16/asset/da869febf445/sub-buzz-274-1581350749-7.jpg?output-quality=auto&output-format=auto&downsize=640:*",
-          "width": 640,
-          "height": 440,
-          "title": "The ACLU Slammed A Facial Recognition Company That Scrapes Photos From Instagram And Facebook",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-11-depression-treatment-using-ai-brain-scans.md",
-      "title": "Depression treatment using AI, brain scans",
-      "excerpt": "Artificial intelligence (AI) may be a useful and even essential tool in selecting the best ... patterns of brain activity were actually linked to the kind of brain activity impairment that improves with antidepressant therapy. This data came from the EMBARC trial for patients with major depression. The trial lasted 16 weeks at four different ...",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.news-medical.net/news/20200210/Depression-treatment-using-AI-brain-scans.aspx",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20200210/Depression-treatment-using-AI-brain-scans.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200210/Depression-treatment-using-AI-brain-scans.aspx",
-      "publishedDateTime": "2020-02-10T17:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.news-medical.net/image.axd?picture=2020%2f2%2f223421_web_00c4750629854c469bd98996c081a559-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": "Depression treatment using AI, brain scans",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-02-11-why-we-need-to-focus-on-the-positives-of-ai.md",
-      "title": "Why We Need To Focus On The Positives Of AI",
-      "excerpt": "Many people tend to think of AI as purely an automation technology, but that just skims the surface of what these tools and techniques can do for us.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/danielnewman/2020/02/06/why-we-need-to-focus-on-the-positives-of-ai/",
-      "ampWebUrl": "https://www.forbes.com/sites/danielnewman/2020/02/06/why-we-need-to-focus-on-the-positives-of-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danielnewman/2020/02/06/why-we-need-to-focus-on-the-positives-of-ai/amp/",
-      "publishedDateTime": "2020-02-10T16:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e3c807a8b6cf300071e1c86%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6000%26cropY1%3D0%26cropY2%3D3375",
-          "width": 1200,
-          "height": 675,
-          "title": "Why We Need To Focus On The Positives Of AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-02-11-three-ways-ai-and-ml-are-making-a-difference-in-healthcare-behind-the-scenes.md",
-      "title": "Three Ways AI And ML Are Making A Difference In Healthcare Behind The Scenes",
-      "excerpt": "AI and ML are revolutionizing many healthcare processes that, although not medical in nature, directly affect provider efficiency and productivity — as well as the patient experience.",
-      "heat": 131,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2020/02/10/three-ways-ai-and-ml-are-making-a-difference-in-healthcare-behind-the-scenes/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2020/02/10/three-ways-ai-and-ml-are-making-a-difference-in-healthcare-behind-the-scenes/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2020/02/10/three-ways-ai-and-ml-are-making-a-difference-in-healthcare-behind-the-scenes/amp/",
-      "publishedDateTime": "2020-02-10T16:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/dam/imageserve/1199231029/960x0.jpg?fit=scale",
-          "width": 711,
-          "height": 474,
-          "title": "Three Ways AI And ML Are Making A Difference In Healthcare Behind The Scenes",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-02-10-facebook-acquires-computer-vision-startup-scape-technologies.md",
-      "title": "Facebook Acquires Computer Vision Startup Scape Technologies",
-      "excerpt": "Facebook quietly acquired London-based computer vision startup Scape Technologies, according to several regulatory filings with the U.K.’s Companies House. Scape said on its about page that it is building a cloud-based Vision Engine that allows camera devices to understand their environment, using computer vision. The company added ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.adweek.com/digital/facebook-acquires-computer-vision-startup-scape-technologies/",
-      "ampWebUrl": "https://www.adweek.com/digital/facebook-acquires-computer-vision-startup-scape-technologies/amp/",
-      "cdnAmpWebUrl": "https://www-adweek-com.cdn.ampproject.org/c/s/www.adweek.com/digital/facebook-acquires-computer-vision-startup-scape-technologies/amp/",
-      "publishedDateTime": "2020-02-10T14:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Adweek",
-        "domain": "adweek.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.adweek.com/wp-content/uploads/2020/02/uber-ooh-content-2020-640x360.jpg",
-          "width": 640,
-          "height": 360,
-          "title": "Facebook Acquires Computer Vision Startup Scape Technologies",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-02-10-white-houses-proposed-budget-would-increase-investments-in-ai-and-quantum-computing.md",
-      "title": "White House’s proposed budget would increase investments in AI and quantum computing",
-      "excerpt": "The White House’s proposed budget for fiscal year 2021 includes sizable increases in federal funding for AI and quantum computing projects. All told, the overall increase in federal R&D funding is 6% compared to fiscal year 2020, reaching $142.2 billion. Although much of the funding is aimed at R&D and infrastructure investments like $25 ...",
-      "heat": 90,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/02/10/white-houses-proposed-budget-would-increase-investments-ai-and-quantum-computing/",
-      "ampWebUrl": "https://venturebeat.com/2020/02/10/white-houses-proposed-budget-would-increase-investments-ai-and-quantum-computing/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/10/white-houses-proposed-budget-would-increase-investments-ai-and-quantum-computing/amp/",
-      "publishedDateTime": "2020-02-10T14:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2015/10/white-house.png?fit=1438%2C756&strip=all",
-          "width": 1438,
-          "height": 756,
-          "title": "White House’s proposed budget would increase investments in AI and quantum computing",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-10-adobe-launches-experience-platform-out-of-azure-in-australia.md",
-      "title": "Adobe launches Experience Platform out of Azure in Australia",
-      "excerpt": "According to Adobe, the Microsoft Azure local data centre will enable Australia and New Zealand businesses to ... See also: Adobe's Experience Cloud now incorporates AI and machine learning (TechRepublic) Adobe has touted the new data centre as \"simplifying data governance\", by not only bringing data together from siloed applications ...",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/adobe-launches-experience-platform-out-of-azure-in-australia/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/adobe-launches-experience-platform-out-of-azure-in-australia/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/adobe-launches-experience-platform-out-of-azure-in-australia/",
-      "publishedDateTime": "2020-02-10T14:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

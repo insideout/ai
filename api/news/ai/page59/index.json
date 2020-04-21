@@ -2,6 +2,961 @@
   "page": 59,
   "value": [
     {
+      "path": "_news/2020-02-19-this-phone-uses-ai-to-block-you-taking-naked-selfies.md",
+      "title": "This phone uses AI to block you taking naked selfies",
+      "excerpt": "Ever sent a nude photo to a partner before? If so, you're not the only one. Just under 50% of American adults have sent nude photos (or videos), said one 2014 study, while a survey by Cosmo found that 89% of millennial women had taken naked photos.",
+      "heat": 107,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnet.com/news/this-phone-uses-ai-to-block-you-taking-naked-selfies/",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/this-phone-uses-ai-to-block-you-taking-naked-selfies/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/this-phone-uses-ai-to-block-you-taking-naked-selfies/",
+      "publishedDateTime": "2020-02-18T19:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cnet1.cbsistatic.com/img/QiliQ1lVT-fjyYxebjYV2stM8r8=/756x567/2020/02/19/8ff3f60d-9d84-46e2-a6b1-ef42e5874c1c/screen-shot-2020-02-19-at-2-22-28-pm.png",
+          "width": 756,
+          "height": 567,
+          "title": "This phone uses AI to block you taking naked selfies",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-19-nasa-missed-these-11-dangerous-asteroids-but-an-ai-caught-them.md",
+      "title": "NASA missed these 11 dangerous asteroids, but an AI caught them",
+      "excerpt": "To see just how many possibly dangerous asteroids we’ve been missing, researchers from the Netherlands built an AI network to analyze the data and see what it could find. AMAZON'S TOP DEALS: These Amazon deals are up to 50% off, today only! As the researchers explain in a new paper published in Astronomy & Astrophysics, the computer brain was ...",
+      "heat": 167,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://bgr.com/2020/02/18/ai-asteroids-detection-threatening-earth/",
+      "ampWebUrl": "https://bgr.com/2020/02/18/ai-asteroids-detection-threatening-earth/amp/",
+      "cdnAmpWebUrl": "https://bgr-com.cdn.ampproject.org/c/s/bgr.com/2020/02/18/ai-asteroids-detection-threatening-earth/amp/",
+      "publishedDateTime": "2020-02-18T17:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BGR",
+        "domain": "bgr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://boygeniusreport.files.wordpress.com/2016/12/asteroid.png",
+          "width": 1560,
+          "height": 1205,
+          "title": "NASA missed these 11 dangerous asteroids, but an AI caught them",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-19-apples-priorities-are-shifting-as-iphone-sales-continue-to-sink.md",
+      "title": "Apple's priorities are shifting as iPhone sales continue to sink",
+      "excerpt": "The company poached a new executive from Google to lead its artificial intelligence efforts ... most notably Waymo, the Alphabet company that spun out of Google's self-driving car project.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2019/02/19/apple-shifts-priorities-to-grow-services-ai.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2019/02/19/apple-shifts-priorities-to-grow-services-ai.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2019/02/19/apple-shifts-priorities-to-grow-services-ai.html",
+      "publishedDateTime": "2020-02-18T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/102732800-GettyImages-146178359.jpg?v=1545326522",
+          "width": 3000,
+          "height": 2111,
+          "title": "Apple's priorities are shifting as iPhone sales continue to sink",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2020-02-18-document-understanding-ai-google-cloud-explained.md",
+      "title": "Document Understanding AI — Google Cloud Explained",
+      "excerpt": "Hey, folks How are you doing. Today I am going to discuss Document Understanding AI using Google cloud in simple steps. I know I know you say there is a lot of complexity!!!. Don’t worry folks ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/datadriveninvestor/document-understanding-ai-google-cloud-explained-193ae84cda75",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-18T14:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/688/1*JQnPt8Ct4mzzzyEFVKW7zg.png",
+          "width": 688,
+          "height": 273,
+          "title": "Document Understanding AI — Google Cloud Explained",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-02-18-y-combinator-startup-humanly-helps-companies-screen-job-candidates-at-scale-with-the-help-of-ai.md",
+      "title": "Y Combinator startup Humanly helps companies screen job candidates at scale, with the help of AI",
+      "excerpt": "Startup Spotlight profiles emerging tech companies in the Pacific Northwest. Do you run a standout startup? Apply for Startup Spotlight. The Humanly team at Y Combinator, from left, CTO Bryan Leptich, CEO Prem Kumar and COO Andrew Gardner. (Humanly Photo) Automation may be a means to replacing humans in specific types of jobs. But for Humanly ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.geekwire.com/2020/humanly/",
+      "ampWebUrl": "https://www.geekwire.com/2020/humanly/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/humanly/amp/",
+      "publishedDateTime": "2020-02-18T14:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/02/humanly-630x619.jpg",
+          "width": 630,
+          "height": 619,
+          "title": "Y Combinator startup Humanly helps companies screen job candidates at scale, with the help of AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-18-google-updates-its-collection-feature-to-add-ai-capabilities.md",
+      "title": "Google Updates Its Collection Feature To Add AI Capabilities",
+      "excerpt": "Google has started the year with a range of updates to its most popular services. This time, it’s the recent AI upgrade to Google’s Collections feature.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/ilkerkoksal/2020/02/18/google-updates-its-collection-feature-to-add-ai-capabilities/",
+      "ampWebUrl": "https://www.forbes.com/sites/ilkerkoksal/2020/02/18/google-updates-its-collection-feature-to-add-ai-capabilities/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ilkerkoksal/2020/02/18/google-updates-its-collection-feature-to-add-ai-capabilities/amp/",
+      "publishedDateTime": "2020-02-18T14:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1198299608%2F0x0.jpg%3FcropX1%3D393%26cropX2%3D4662%26cropY1%3D0%26cropY2%3D2401",
+          "width": 1200,
+          "height": 675,
+          "title": "Google Updates Its Collection Feature To Add AI Capabilities",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-18-the-greatest-gift-machine-learning-ever-gave-us-is-this-archive-of-mark-zuckerberg-haircuts.md",
+      "title": "The greatest gift machine learning ever gave us is this archive of Mark Zuckerberg haircuts",
+      "excerpt": "Even the most commonplace of objects, sufficiently decontextualized, has the power to take on new meaning. We see this, perhaps most famously, with Marcel Duchamp's \"Fountain.\" The so-called readymade sculpture was in fact simply a signed urinal. However, in part by separating it from the whole, Duchamp challenged his audience to see the ...",
+      "heat": 94,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://mashable.com/article/mark-zuckerberg-machine-learning-haircuts/",
+      "ampWebUrl": "https://mashable.com/article/mark-zuckerberg-machine-learning-haircuts.amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/mark-zuckerberg-machine-learning-haircuts.amp",
+      "publishedDateTime": "2020-02-18T12:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mondrian.mashable.com/2020%252F02%252F18%252F93%252F671446455065416791c366d047a0f8eb.c1d5a.jpg%252F1200x630.jpg?signature=AIlDxMdA7Eso7mMc3YYiavO5Md4=",
+          "width": 1200,
+          "height": 630,
+          "title": "The greatest gift machine learning ever gave us is this archive of Mark Zuckerberg haircuts",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-02-18-how-ai-therapists-and-machine-learning-could-be-the-answer-to-affordable-mental-health-care.md",
+      "title": "How AI ‘therapists’ and machine learning could be the answer to affordable mental health care",
+      "excerpt": "People reveal more personal and intimate details to human-like apps and bots that can ‘sense’ emotions and concerns.",
+      "heat": 149,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/story/how-ai-therapists-could-shrink-the-cost-of-mental-health-2020-02-18",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/guid/9588DA02-525D-11EA-B5C7-52AF3B60D99D",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/guid/9588DA02-525D-11EA-B5C7-52AF3B60D99D",
+      "publishedDateTime": "2020-02-18T12:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s.marketwatch.com/public/resources/images/MW-HZ996_0220_b_ZH_20200210144803.jpg",
+          "width": 890,
+          "height": 501,
+          "title": "How AI ‘therapists’ and machine learning could be the answer to affordable mental health care",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "AI Ethics",
+        "Machine Learning",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2020-02-18-cloud-computing-robotics-bonds-etf-industry-leaders-talk-2020s-top-themes.md",
+      "title": "Cloud computing, robotics, bonds: ETF industry leaders talk 2020's top themes",
+      "excerpt": "Inflows into exchange-traded funds are picking up steam in 2020, driven by investor interest in cloud computing, robotics and a host of other themes, industry leaders say.",
+      "heat": 101,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2020/02/18/cloud-computing-robotics-bonds-etf-leaders-talk-2020-themes.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/02/18/cloud-computing-robotics-bonds-etf-leaders-talk-2020-themes.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/02/18/cloud-computing-robotics-bonds-etf-leaders-talk-2020-themes.html",
+      "publishedDateTime": "2020-02-18T12:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/104933877-RTX46XGD-nvidia.jpg?v=1574694026",
+          "width": 2000,
+          "height": 1333,
+          "title": "Cloud computing, robotics, bonds: ETF industry leaders talk 2020's top themes",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-02-18-tubemogul-execs-launch-arize-ai-for-ai-troublehsooting.md",
+      "title": "TubeMogul execs launch Arize AI for AI troublehsooting",
+      "excerpt": "A new startup called Arize AI is building what it calls a real-time analytics platform for artificial intelligence and machine learning. The company is led by CEO Jason Lopatecki, who has also served as chief strategy officer and chief innovation officer at TubeMogul, the video ad company acquired by Adobe. TubeMogul’s co-founder and former ...",
+      "heat": 97,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/02/18/tubemogul-execs-launch-arize-ai-for-ai-troublehsooting/",
+      "ampWebUrl": "https://techcrunch.com/2020/02/18/tubemogul-execs-launch-arize-ai-for-ai-troublehsooting/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/18/tubemogul-execs-launch-arize-ai-for-ai-troublehsooting/amp/",
+      "publishedDateTime": "2020-02-18T12:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/02/DSC_0597.jpg?w=1000",
+          "width": 1000,
+          "height": 665,
+          "title": "TubeMogul execs launch Arize AI for AI troublehsooting",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-18-winners-of-aws-machine-learning-research-awards-announced.md",
+      "title": "Winners of AWS Machine Learning Research Awards announced",
+      "excerpt": "The AWS Machine Learning Research Awards (MLRA) provides unrestricted cash funds and AWS Promotional Credits to academics to advance the frontiers of machine learning (ML) and its applications. MLRA is pleased to announce winners for its 2019 Q2/Q3 call-for-proposal cycles: \n \n Mohit Bansal, University",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/winners-of-aws-machine-learning-research-awards-announced/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-18T11:37:43-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0.png",
+          "width": 1260,
+          "height": 630,
+          "title": "Winners of AWS Machine Learning Research Awards announced",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-18-ai-at-the-edge-creating-coordinated-autonomy.md",
+      "title": "AI At The Edge: Creating Coordinated Autonomy",
+      "excerpt": "Today organizations have to deal with so many emergent behaviors that the notion of central control as the only coping mechanism seems to be receding as a dominant management model. Freedom must be doled out further from the centrist idea by creating goals,",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/02/18/ai-at-the-edge-creating-coordinated-autonomy/",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/02/18/ai-at-the-edge-creating-coordinated-autonomy/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/02/18/ai-at-the-edge-creating-coordinated-autonomy/amp/",
+      "publishedDateTime": "2020-02-18T11:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e4c3a71d035a50007749e3b%2F0x0.jpg",
+          "width": 800,
+          "height": 512,
+          "title": "AI At The Edge: Creating Coordinated Autonomy",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-18-the-internet-of-wild-things-technology-and-the-battle-against-biodiversity-loss-and-climate-change.md",
+      "title": "The Internet of Wild Things: Technology and the battle against biodiversity loss and climate change",
+      "excerpt": "Subsequent developments have moved the analysis of the audio captured by these canopy-mounted 'Guardian' devices to the cloud, where Google's TensorFlow machine-learning framework is used to identify sounds of illegal activity and adjust audio inputs to minimise the number of false positives. The AI system uses 'binary classifiers' to ...",
+      "heat": 75,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/the-internet-of-wild-things-technology-and-the-battle-against-biodiversity-loss-and-climate-change/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/the-internet-of-wild-things-technology-and-the-battle-against-biodiversity-loss-and-climate-change/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-internet-of-wild-things-technology-and-the-battle-against-biodiversity-loss-and-climate-change/",
+      "publishedDateTime": "2020-02-18T11:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/01/28/30cb4fae-507c-4d26-b536-81823c32cbda/instant-detect-2-system.jpg",
+          "width": 770,
+          "height": 474,
+          "title": "The Internet of Wild Things: Technology and the battle against biodiversity loss and climate change",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-18-google-experiments-with-ai-to-design-its-in-house-computer-chips.md",
+      "title": "Google experiments with AI to design its in-house computer chips",
+      "excerpt": "The Google Translate application is an escape of a sophisticated program, now at seventy different languages, that can run on a phone even in airplane mode, he noted, when there's no connection back to the data center. The family of Google silicon for AI has already broadened, he indicated. The \"Edge TPU,\" for example, is a designation that ...",
+      "heat": 106,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/google-experiments-with-ai-to-design-its-in-house-computer-chips/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-experiments-with-ai-to-design-its-in-house-computer-chips/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-experiments-with-ai-to-design-its-in-house-computer-chips/",
+      "publishedDateTime": "2020-02-18T09:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/2020/02/18/488b0d78-cb71-4f26-a228-dabf1c603a54/google-ai-for-chip-design-feb-2020.png",
+          "width": 2388,
+          "height": 1339,
+          "title": "Google experiments with AI to design its in-house computer chips",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2020-02-18-google-brain-and-deepmind-researchers-attack-reinforcement-learning-efficiency.md",
+      "title": "Google Brain and DeepMind researchers attack reinforcement learning efficiency",
+      "excerpt": "Unfortunately, it’s data-intensive, which motivated research teams — one from Google Brain (one of Google’s AI research divisions) and the other from Alphabet’s DeepMind — to prototype more efficient means of executing it. In a pair of preprint papers, the researchers propose Adaptive Behavior Policy Sharing (ABPS), an algorithm that ...",
+      "heat": 120,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/02/18/google-brain-deepmind-reinforcement-learning-efficiency/",
+      "ampWebUrl": "https://venturebeat.com/2020/02/18/google-brain-deepmind-reinforcement-learning-efficiency/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/18/google-brain-deepmind-reinforcement-learning-efficiency/amp/",
+      "publishedDateTime": "2020-02-18T09:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/12/dims-e1575998404106.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Google Brain and DeepMind researchers attack reinforcement learning efficiency",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-18-how-ai-is-impacting-the-workplace.md",
+      "title": "How AI is impacting the workplace",
+      "excerpt": "The reason for this may be very straightforward: as impressive as it is (think self-driving cars or Google's DeepMind beating human Go champions) the technology just isn't capable of doing what humans can do. At least not yet. The Brookings Institute's January 2019 report, Automation and Artificial Intelligence: How Machines are Affecting ...",
+      "heat": 149,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/article/how-ai-is-impacting-the-workplace/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/how-ai-is-impacting-the-workplace/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-ai-is-impacting-the-workplace/",
+      "publishedDateTime": "2020-02-18T08:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr2.cbsistatic.com/hub/i/r/2018/07/25/e8eedcaf-12c3-4a1e-bf5e-15e6fd477219/resize/1200x/64b60cf8e2906fc42ff960eec0c87377/robots-working-5.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": "How AI is impacting the workplace",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-18-artificial-intelligence-ai-and-the-law-helping-lawyers-while-avoiding-biased-algorithms.md",
+      "title": "Artificial Intelligence (AI) And The Law: Helping Lawyers While Avoiding Biased Algorithms",
+      "excerpt": "Law is an avenue in which to test the integration between AI and people. Automation won’t be replacing the lawyer any time soon, but as AI evolves it will be able to increasingly assist the people in the industry,",
+      "heat": 102,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/davidteich/2020/02/18/artificial-intelligence-ai-and-the-law-helping-lawyers-while-avoiding-biased-algorithms/",
+      "ampWebUrl": "https://www.forbes.com/sites/davidteich/2020/02/18/artificial-intelligence-ai-and-the-law-helping-lawyers-while-avoiding-biased-algorithms/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2020/02/18/artificial-intelligence-ai-and-the-law-helping-lawyers-while-avoiding-biased-algorithms/amp/",
+      "publishedDateTime": "2020-02-18T08:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e4c0c7b99d449000735353c%2F0x0.jpg",
+          "width": 876,
+          "height": 548,
+          "title": "Artificial Intelligence (AI) And The Law: Helping Lawyers While Avoiding Biased Algorithms",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-18-ai-delivers-a-battery-boost-to-electric-vehicles-slashing-testing-times-98.md",
+      "title": "AI delivers a battery boost to electric vehicles, slashing testing times 98%",
+      "excerpt": "On Tuesday, battery testing for EVs surged forward, thanks to the work of a Stanford-led research team––which used AI to cut testing times by nearly 15fold. Led by Stanford professors Stefano Ermon and William Chueh, the research team, from Stanford, MIT, and the Toyota Research Institute, wanted to come up with the best way to charge an EV ...",
+      "heat": 134,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/article/ai-delivers-a-battery-boost-to-electric-vehicles-slashing-testing-times-98/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ai-delivers-a-battery-boost-to-electric-vehicles-slashing-testing-times-98/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-delivers-a-battery-boost-to-electric-vehicles-slashing-testing-times-98/",
+      "publishedDateTime": "2020-02-18T08:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr2.cbsistatic.com/hub/i/r/2018/07/03/3a08ce38-c418-4ba6-af19-f251dbb8ff9c/resize/1200x/ad6c8926eb2468f73ce7ba686767bbc2/electric-vehicle.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "AI delivers a battery boost to electric vehicles, slashing testing times 98%",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-18-ai-vs-humans-microsofts-eric-horvitz-sees-the-future-as-ai-human-partnership.md",
+      "title": "AI vs. humans? Microsoft’s Eric Horvitz sees the future as AI-human partnership",
+      "excerpt": "machine card games to the “Terminator” movie series. But according to Eric Horvitz, the director of Microsoft Research Labs, the hottest trends in AI have more to do with creating synergies between the humans and the machines. Mastering human-AI collaboration is something “we don’t hear enough about in the open press,” Horvitz said ...",
+      "heat": 95,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.geekwire.com/2020/ai-vs-humans-microsofts-eric-horvitz-sees-future-ai-human-partnership/",
+      "ampWebUrl": "https://www.geekwire.com/2020/ai-vs-humans-microsofts-eric-horvitz-sees-future-ai-human-partnership/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/ai-vs-humans-microsofts-eric-horvitz-sees-future-ai-human-partnership/amp/",
+      "publishedDateTime": "2020-02-18T08:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/02/200217-horvitz3-630x579.jpg",
+          "width": 630,
+          "height": 579,
+          "title": "AI vs. humans? Microsoft’s Eric Horvitz sees the future as AI-human partnership",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2020-02-18-webinar-leveraging-ai-to-maximize-collaborative-robot-efficiency-march-17.md",
+      "title": "Webinar: Leveraging AI to maximize collaborative robot efficiency – March 17",
+      "excerpt": "Recent advancements in Artificial Intelligence (AI) have enabled collaborative robots to precisely execute tasks in dynamically changing workspaces, enabling operations to run more smoothly, efficiently and productively. This webinar will define AI and demonstrate how AI-powered cobots can increase production, decrease cost, and shorten cycle ...",
+      "heat": 81,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.therobotreport.com/leveraging-ai-maximize-collaborative-robot-efficiency/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-18T07:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2020/02/AI_webinar_image780.png",
+          "width": 780,
+          "height": 390,
+          "title": "Webinar: Leveraging AI to maximize collaborative robot efficiency – March 17",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-02-18-esg-dell-emc-ready-solutions-for-ai-deep-learning-with-intel.md",
+      "title": "ESG: Dell EMC Ready Solutions for AI: Deep Learning with Intel",
+      "excerpt": "Organizations looking to leverage the power of AI face significant challenges, but what are the drivers behind these challenges? Document retention policy Hiring Kit: .Net developer Top cloud providers in 2020: AWS, Microsoft Azure, and Google Cloud ...",
+      "heat": 116,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/resource-library/whitepapers/esg-dell-emc-ready-solutions-for-ai-deep-learning-with-intel/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/resource-library/whitepapers/esg-dell-emc-ready-solutions-for-ai-deep-learning-with-intel/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/resource-library/whitepapers/esg-dell-emc-ready-solutions-for-ai-deep-learning-with-intel/",
+      "publishedDateTime": "2020-02-18T06:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-02-18-global-machine-learning-chip-market-to-garner-3785-billion-by-2025-at-408-cagr.md",
+      "title": "Global Machine Learning Chip Market to Garner $37.85 Billion by 2025, at 40.8% CAGR",
+      "excerpt": "Portland, Feb. 18, 2020 (GLOBE NEWSWIRE) -- According to the report published by Allied Market Research, the global machine learning chip market accounted for $3.46 billion in 2018 and is projected to reach $37.",
+      "heat": 73,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/global-machine-learning-chip-market-to-garner-3785-billion-by-2025-at-408-cagr-2020-02-18",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-18T06:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Global Machine Learning Chip Market to Garner $37.85 Billion by 2025, at 40.8% CAGR",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-02-18-google-revealed-to-have-acquired-the-most-ai-startups-since-2009.md",
       "title": "Google revealed to have acquired the most AI startups since 2009",
       "excerpt": "Coming in behind Google was Apple with 18 AI companies acquired for a total disclosed amount of $886 million, followed by Facebook with 12 for the disclosed cost of just over $1 billion. Apple’s acquisitions included Siri in 2010 and Realface in 2017, while Facebook bought Face.com in 2012 and Masquerade Technologies in 2016. Along with data ...",
@@ -343,963 +1298,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-18-can-ai-and-rpa-transform-legacy-systems.md",
-      "title": "Can AI And RPA Transform Legacy Systems?",
-      "excerpt": "AI and RPA are often mentioned in the same sentence as ML and IoT; they are touted as magical solutions that will transform the way we live and work. For companies with massive legacy tech platforms,",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/02/18/can-ai-and-rpa-transform-legacy-systems/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/02/18/can-ai-and-rpa-transform-legacy-systems/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/02/18/can-ai-and-rpa-transform-legacy-systems/amp/",
-      "publishedDateTime": "2020-02-18T04:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/711x399/https://specials-images.forbesimg.com/dam/imageserve/1187105635/960x0.jpg?fit=scale",
-          "width": 711,
-          "height": 399,
-          "title": "Can AI And RPA Transform Legacy Systems?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-02-18-google-funds-6-ai-driven-research-projects-in-india.md",
-      "title": "Google funds 6 AI-driven research projects in India",
-      "excerpt": "Google Research India will provide each team with funding and computational resources in addition to supporting the efforts with expertise in computer vision, natural language processing, and other deep learning techniques, the company said in a statement. \"We are increasingly seeing people apply AI to address big challenges. Therefore ...",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://english.mathrubhumi.com/technology/tech-news/google-funds-6-ai-driven-research-projects-in-india-1.4539361",
-      "ampWebUrl": "https://english.mathrubhumi.com/technology/tech-news/google-funds-6-ai-driven-research-projects-in-india-1.4539361",
-      "cdnAmpWebUrl": "https://english-mathrubhumi-com.cdn.ampproject.org/c/s/english.mathrubhumi.com/technology/tech-news/google-funds-6-ai-driven-research-projects-in-india-1.4539361",
-      "publishedDateTime": "2020-02-18T04:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mathrubhumi",
-        "domain": "mathrubhumi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://english.mathrubhumi.com/polopoly_fs/1.4372375.1576661380!/image/image.PNG_gen/derivatives/landscape_1080_600/image.PNG",
-          "width": 1080,
-          "height": 608,
-          "title": "Google funds 6 AI-driven research projects in India",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-02-18-python-preeminent-in-oreilly-learning-platform-usage-analysis.md",
-      "title": "Python \"preeminent\" in O'Reilly learning platform usage analysis",
-      "excerpt": "Other growing categories on the upswing include data engineering, data science, and AI + ML, generally, and Kafka ... Among the major public cloud providers, AWS, Azure and Google Cloud Platform (GCP) come in first, second and third in platform content usage, respectively, and all three are growing. But the growth in their numbers ranks ...",
-      "heat": 76,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/python-preeminent-in-oreilly-platform-usage-analysis/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/python-preeminent-in-oreilly-platform-usage-analysis/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/python-preeminent-in-oreilly-platform-usage-analysis/",
-      "publishedDateTime": "2020-02-18T04:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/02/17/bb4d6400-c96d-4815-be4d-fc68df3cc102/oreilly-2019-programming-language-usage.png",
-          "width": 1037,
-          "height": 710,
-          "title": "Python \"preeminent\" in O'Reilly learning platform usage analysis",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-02-18-weve-just-seen-the-first-use-of-deepfakes-in-an-indian-election-campaign.md",
-      "title": "We've Just Seen the First Use of Deepfakes in an Indian Election Campaign",
-      "excerpt": "Political Deepfakes: Genie out of the bottle Ever since deepfakes blew up in 2017, the technology has been used extensively to create fake porn videos using existing celebrity video footage and AI algorithms ... assuming the translation is easily available in the right written language?” he asks. “But if it’s used deceptively, that ...",
-      "heat": 98,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.vice.com/en_in/article/jgedjb/the-first-use-of-deepfakes-in-indian-election-by-bjp",
-      "ampWebUrl": "https://www.vice.com/amp/en_in/article/jgedjb/the-first-use-of-deepfakes-in-indian-election-by-bjp",
-      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_in/article/jgedjb/the-first-use-of-deepfakes-in-indian-election-by-bjp",
-      "publishedDateTime": "2020-02-18T04:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VICE",
-        "domain": "vice.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/vice.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://video-images.vice.com/test-uploads/articles/5e4bcd6e78a517009d5aec59/lede/1582027600116-Fake-Editing.png?crop=1xw%3A1xh%3Bcenter%2Ccenter&resize=2000%3A*",
-          "width": 2000,
-          "height": 1125,
-          "title": "We've Just Seen the First Use of Deepfakes in an Indian Election Campaign",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-02-18-join-the-innovators-in-enterprise-ai-at-transform-2020.md",
-      "title": "Join the innovators in enterprise AI at Transform 2020",
-      "excerpt": "The AI event of the year for business leaders, Transform 2020 doubles down on results-driven content that helps executives at the senior director level and above maintain their competitive edge. Expect two days of the most transformative trends in conversational AI, computer vision, IoT and AI at the edge, and automation, plus a special ...",
-      "heat": 131,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/02/18/join-the-innovators-in-enterprise-ai-at-transform-2020/",
-      "ampWebUrl": "https://venturebeat.com/2020/02/18/join-the-innovators-in-enterprise-ai-at-transform-2020/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/18/join-the-innovators-in-enterprise-ai-at-transform-2020/amp/",
-      "publishedDateTime": "2020-02-18T04:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/02/4TPO2827.jpg?fit=6655%2C3329&strip=all",
-          "width": 6655,
-          "height": 3329,
-          "title": "Join the innovators in enterprise AI at Transform 2020",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-02-18-mankato-robotics-teams-qualify-for-worldwide-competition.md",
-      "title": "Mankato robotics teams qualify for worldwide competition",
-      "excerpt": "which stands for artificial intelligence. Their team of eight students won the state championships in their division and will be competing at the world championships in April. Each student has a unique role to play. Anderson drives the robot using a game controller similar to an Xbox — picking up, moving and stacking green, purple and orange ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.mankatofreepress.com/news/local_news/mankato-robotics-teams-qualify-for-worldwide-competition/article_0afbdb7a-4e05-11ea-93f4-5fdc9dd5010a.html",
-      "ampWebUrl": "https://www.mankatofreepress.com/news/local_news/mankato-robotics-teams-qualify-for-worldwide-competition/article_0afbdb7a-4e05-11ea-93f4-5fdc9dd5010a.amp.html",
-      "cdnAmpWebUrl": "https://www-mankatofreepress-com.cdn.ampproject.org/c/s/www.mankatofreepress.com/news/local_news/mankato-robotics-teams-qualify-for-worldwide-competition/article_0afbdb7a-4e05-11ea-93f4-5fdc9dd5010a.amp.html",
-      "publishedDateTime": "2020-02-18T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mankato Free Press",
-        "domain": "mankatofreepress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/mankatofreepress.com/content/tncms/assets/v3/editorial/9/1a/91a10458-4dff-11ea-b845-c78e0123f55b/5e44a54858b67.image.jpg?resize=1024%2C682",
-          "width": 1024,
-          "height": 682,
-          "title": "Mankato robotics teams qualify for worldwide competition",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-02-18-african-crowdsolving-startup-zindi-scales-10000-data-scientists.md",
-      "title": "African crowdsolving startup Zindi scales 10,000 data scientists",
-      "excerpt": "Cape Town based startup Zindi has registered 10,000 data-scientists on its platform that uses AI and machine learning to crowdsolve complex problems in Africa. Founded in 2018, the early-stage venture allows companies, NGOs or government institutions to host online competitions around data-oriented challenges. Zindi opens the contests to the ...",
-      "heat": 72,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/02/17/african-crowdsolving-startup-zindi-scales-10000-data-scientists/",
-      "ampWebUrl": "https://techcrunch.com/2020/02/17/african-crowdsolving-startup-zindi-scales-10000-data-scientists/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/17/african-crowdsolving-startup-zindi-scales-10000-data-scientists/amp/",
-      "publishedDateTime": "2020-02-17T23:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/08/Zindi-Team-in-Cape-Town-1.jpg?w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": "African crowdsolving startup Zindi scales 10,000 data scientists",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-18-vote-for-the-pacific-northwests-best-innovation-at-the-geekwire-awards.md",
-      "title": "Vote for the Pacific Northwest’s best innovation at the GeekWire Awards",
-      "excerpt": "(GeekWire Photo / Kevin Lisota) The Pacific Northwest’s status as an innovation hub is well-documented: It is at the center of the cloud computing revolution, a hotspot for artificial intelligence, and it will play a role in the future of driverless cars, mobile technology, video games and much more. But the innovation in the region goes well ...",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.geekwire.com/2020/vote-pacific-northwests-best-innovation-geekwire-awards/",
-      "ampWebUrl": "https://www.geekwire.com/2020/vote-pacific-northwests-best-innovation-geekwire-awards/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/vote-pacific-northwests-best-innovation-geekwire-awards/amp/",
-      "publishedDateTime": "2020-02-17T18:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2019/08/textiosnyder-630x420.jpg",
-          "width": 630,
-          "height": 420,
-          "title": "Vote for the Pacific Northwest’s best innovation at the GeekWire Awards",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-02-18-eu-wants-big-tech-to-deploy-ai-tech-on-its-own-terms.md",
-      "title": "EU wants Big Tech to deploy AI tech on its own terms",
-      "excerpt": "The general perception is that Europe is far behind the US and China in terms of AI development. However, according to the McKinsey Global Institute, the EU's gap in digital tech can be overcome by funding startup development, digital transformation of non-tech companies, and encouraging investors to bring in more capital. As for talent ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techspot.com/news/84049-eu-wants-big-tech-deploy-ai-tech-own.html",
-      "ampWebUrl": "https://www.techspot.com/amp/news/84049-eu-wants-big-tech-deploy-ai-tech-own.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/84049-eu-wants-big-tech-deploy-ai-tech-own.html",
-      "publishedDateTime": "2020-02-17T17:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/ts3_thumbs/2019/09/2019-09-11-ts3_thumbs-cdd.jpg",
-          "width": 800,
-          "height": 560,
-          "title": "EU wants Big Tech to deploy AI tech on its own terms",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-18-why-your-new-work-colleague-could-be-a-robot.md",
-      "title": "Why your new work colleague could be a robot",
-      "excerpt": "A whirring and whizzing noise greets you as you enter the offices of Automata, a start-up robotics company based in London ... Yet now, developments in artificial intelligence, alongside improved vision technology and better devices for gripping, are ...",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.bbc.com/news/business-51442445",
-      "ampWebUrl": "https://www.bbc.com/news/amp/business-51442445",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/business-51442445",
-      "publishedDateTime": "2020-02-17T16:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/2066/production/_110849280_robots.boxes.g.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": "Why your new work colleague could be a robot",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-02-17-deltec-bank-bahamas-explains-role-of-fintech-in-the-banking-and-finance-sector.md",
-      "title": "Deltec Bank, Bahamas Explains Role of FinTech in the Banking and Finance Sector",
-      "excerpt": "The term fintech is a portmanteau of ‘financial technology’ and denotes an industry that has exploded in popularity over the past five years. When examining Google Trends, we see that prior to 2015,",
-      "heat": 90,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/deltec-bank-bahamas-explains-role-of-fintech-in-the-banking-and-finance-sector-2020-02-17",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-17T15:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Deltec Bank, Bahamas Explains Role of FinTech in the Banking and Finance Sector",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2020-02-17-arm-ups-its-iot-intelligence-game-with-new-chips.md",
-      "title": "Arm Ups Its IoT Intelligence Game With New Chips",
-      "excerpt": "Patrick Moorhead gives his take on Arm unveiling last week's key parts of their portfolio moving forward—a selection of offerings and IP geared specifically towards machine learning and AI.",
-      "heat": 101,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2020/02/17/arm-ups-its-iot-intelligence-game-with-new-chips/",
-      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2020/02/17/arm-ups-its-iot-intelligence-game-with-new-chips/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2020/02/17/arm-ups-its-iot-intelligence-game-with-new-chips/amp/",
-      "publishedDateTime": "2020-02-17T14:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e4b097ba854780006b19d78%2F0x0.jpg",
-          "width": 975,
-          "height": 658,
-          "title": "Arm Ups Its IoT Intelligence Game With New Chips",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-17-new-artificial-evolution-research-could-finally-prove-darwin-was-right.md",
-      "title": "New artificial evolution research could finally prove Darwin was right",
-      "excerpt": "A successful artificial evolution paradigm could result in a Darwin Machine-based neural network capable of better emulating the natural selection process and, possibly, the human brain’s own ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/02/17/new-artificial-evolution-research-could-finally-prove-darwin-was-right/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/02/17/new-artificial-evolution-research-could-finally-prove-darwin-was-right/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/02/17/new-artificial-evolution-research-could-finally-prove-darwin-was-right/amp/",
-      "publishedDateTime": "2020-02-17T13:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/02/bacteria-796x437.jpg",
-          "width": 796,
-          "height": 437,
-          "title": "New artificial evolution research could finally prove Darwin was right",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-02-17-what-does-artificial-intelligence-really-mean.md",
-      "title": "What Does “Artificial Intelligence” Really Mean?",
-      "excerpt": "Years ago, Marvin Minsky coined the phrase “suitcase words” to refer to terms that have a multitude of different meanings packed into them. He gave as examples words like consciousness, morality and creativity.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/robtoews/2020/02/17/what-does-artificial-intelligence-really-mean/",
-      "ampWebUrl": "https://www.forbes.com/sites/robtoews/2020/02/17/what-does-artificial-intelligence-really-mean/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2020/02/17/what-does-artificial-intelligence-really-mean/amp/",
-      "publishedDateTime": "2020-02-17T13:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F255005%2F0x0.jpg",
-          "width": 1200,
-          "height": 799,
-          "title": "What Does “Artificial Intelligence” Really Mean?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-02-17-why-ai-systems-should-be-recognized-as-inventors.md",
-      "title": "Why AI systems should be recognized as inventors",
-      "excerpt": "This could also play a major role in the AI arms race, as countries that adapt their patent systems most quickly will get a head start over their slower rivals. It’s important to note that the Artificial Inventor Project doesn’t want AI systems to own the patents for their creations. Such an interpretation of the case confuses ownership of ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/02/17/why-ai-systems-should-be-recognized-as-inventors/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/02/17/why-ai-systems-should-be-recognized-as-inventors/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/02/17/why-ai-systems-should-be-recognized-as-inventors/amp/",
-      "publishedDateTime": "2020-02-17T13:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/02/Untitled-design-15-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "Why AI systems should be recognized as inventors",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-17-israel-risks-falling-behind-in-ai-despite-growth.md",
-      "title": "Israel risks falling behind in AI despite growth",
-      "excerpt": "Habana Labs. Mobileye. Hailo. Wix. There are more than 1,150 AI-focused startups in Israel, and that number is growing. Even so, some people within the government are concerned that the nation risks falling behind because it lacks a unified AI policy. AI policy refers to national strategies like the U.S.’s American AI Initiative and Canada ...",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/02/17/israel-risks-falling-behind-in-ai-despite-growth/",
-      "ampWebUrl": "https://venturebeat.com/2020/02/17/israel-risks-falling-behind-in-ai-despite-growth/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/17/israel-risks-falling-behind-in-ai-despite-growth/amp/",
-      "publishedDateTime": "2020-02-17T11:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/05/mobileye-e1572905863843.jpeg?fit=1200%2C601&strip=all",
-          "width": 1200,
-          "height": 601,
-          "title": "Israel risks falling behind in AI despite growth",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-17-surgeries-will-become-easier-with-use-of-robotics-ai-says-birrd-director.md",
-      "title": "Surgeries will become easier with use of robotics, AI, says BIRRD director",
-      "excerpt": "From merely using nimble fingers to perform complex surgeries, the TTD’s Balaji Institute of Surgery, Research and Rehabilitation for the Disabled (BIRRD) is all set to take a giant leap by taking the assistance of robotics and artificial intelligence for precision and patient comfort. In his maiden interaction with the media here on Friday ...",
-      "heat": 107,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.thehindu.com/news/national/andhra-pradesh/surgeries-will-become-easier-with-use-of-robotics-ai-says-birrd-director/article30846594.ece",
-      "ampWebUrl": "https://www.thehindu.com/news/national/andhra-pradesh/surgeries-will-become-easier-with-use-of-robotics-ai-says-birrd-director/article30846594.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/andhra-pradesh/surgeries-will-become-easier-with-use-of-robotics-ai-says-birrd-director/article30846594.ece/amp/",
-      "publishedDateTime": "2020-02-17T11:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hindu",
-        "domain": "thehindu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://th.thgim.com/static/theme/default/base/img/og-image.jpg",
-          "width": 300,
-          "height": 300,
-          "title": "Surgeries will become easier with use of robotics, AI, says BIRRD director",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-02-17-artificial-intelligence-program-aims-to-help-doctors-more-accurately-diagnose-breast-cancer.md",
-      "title": "Artificial intelligence program aims to help doctors more accurately diagnose breast cancer",
-      "excerpt": "A team at Google has developed an artificial intelligence program aimed at helping doctors accurately detect cancer in mammograms. Thousands of women receive a false negative on their breast cancer tests each year, while one in 10 receive a false positive. Shravya Shetty, who heads the Google team developing the system, told CBS News' Jamie ...",
-      "heat": 72,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cbsnews.com/news/breast-cancer-doctors-hope-mammography-tests-will-be-improved-with-new-artificial-intelligence-program/",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/breast-cancer-doctors-hope-mammography-tests-will-be-improved-with-new-artificial-intelligence-program/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/breast-cancer-doctors-hope-mammography-tests-will-be-improved-with-new-artificial-intelligence-program/",
-      "publishedDateTime": "2020-02-17T09:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/02/17/7f1f6f68-5dcd-4cc7-b016-c748f144caa7/thumbnail/1200x630/10012554338717da46302f046002a20b/0217-ctm-morobreastcancer-yuccas-2028843-640x360.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": "Artificial intelligence program aims to help doctors more accurately diagnose breast cancer",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-17-how-salesforce-makes-decisions-on-ethics-and-social-issues.md",
-      "title": "How Salesforce Makes Decisions on Ethics and Social Issues",
-      "excerpt": "Paula Goldman joined Salesforce.com Inc. early last year as chief ethical and humane use officer, a new role tasked with developing a framework for making decisions on complicated political issues.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wsj.com/articles/how-salesforce-makes-decisions-on-ethics-and-social-issues-11581955201",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/how-salesforce-makes-decisions-on-ethics-and-social-issues-11581955201",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/how-salesforce-makes-decisions-on-ethics-and-social-issues-11581955201",
-      "publishedDateTime": "2020-02-17T09:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-154936/social",
-          "width": 1280,
-          "height": 640,
-          "title": "How Salesforce Makes Decisions on Ethics and Social Issues",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-02-17-space-robotics-market-emerging-trends-and-strong-application-scope-by-2025.md",
-      "title": "Space Robotics Market Emerging Trends and Strong Application Scope by 2025",
-      "excerpt": "HTF Market Intelligence released a new research report of 150 pages on title 'Global Space Robotics Market Insights by Application, Product Type, Competitive Landscape & Regional Forecast 2025' with detailed analysis,",
-      "heat": 272,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/space-robotics-market-emerging-trends-and-strong-application-scope-by-2025-2020-02-17",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-17T08:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Space Robotics Market Emerging Trends and Strong Application Scope by 2025",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-02-17-machine-learning-is-no-place-to-move-fast-and-break-things.md",
-      "title": "Machine Learning Is No Place To “Move Fast And Break Things”",
-      "excerpt": "Machine learning systems can be massively useful, but also fail critically in unforeseen ways. We need systems engineering in synergy with experimentation and innovation.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/alexanderlavin/2020/02/17/machine-learning-is-no-place-to-move-fast-and-break-things/",
-      "ampWebUrl": "https://www.forbes.com/sites/alexanderlavin/2020/02/17/machine-learning-is-no-place-to-move-fast-and-break-things/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alexanderlavin/2020/02/17/machine-learning-is-no-place-to-move-fast-and-break-things/amp/",
-      "publishedDateTime": "2020-02-17T08:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e48aadba854780006b17705%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Machine Learning Is No Place To “Move Fast And Break Things”",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-02-17-bridging-the-gender-gap-in-ai.md",
-      "title": "Bridging The Gender Gap In AI",
-      "excerpt": "The first step to bridge the gender gap in AI is awareness. By understanding the nature and significance of the gender bias, we can take meaningfully steps to bridge the divide.",
-      "heat": 109,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/falonfatemi/2020/02/17/bridging-the-gender-gap-in-ai/",
-      "ampWebUrl": "https://www.forbes.com/sites/falonfatemi/2020/02/17/bridging-the-gender-gap-in-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/falonfatemi/2020/02/17/bridging-the-gender-gap-in-ai/amp/",
-      "publishedDateTime": "2020-02-17T07:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e4a973bf133f40006290dbd%2F0x0.jpg",
-          "width": 1200,
-          "height": 801,
-          "title": "Bridging The Gender Gap In AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

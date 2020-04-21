@@ -2,6 +2,51 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-04-21-aws-and-facebook-launch-an-open-source-model-server-for-pytorch.md",
+      "title": "AWS and Facebook launch an open-source model server for PyTorch",
+      "excerpt": "For AWS, that’s mostly SageMaker, the company’s machine learning platform, but as Bratin Saha, AWS VP and GM for Machine Learning Services, told me, the work on PyTorch was mostly motivated by requests from the community. And while there are obviously other model servers like TensorFlow Serving and the Multi Model Server available today ...",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/04/21/aws-and-facebook-launch-an-open-source-model-server-for-pytorch/",
+      "ampWebUrl": "https://techcrunch.com/2020/04/21/aws-and-facebook-launch-an-open-source-model-server-for-pytorch/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/21/aws-and-facebook-launch-an-open-source-model-server-for-pytorch/amp/",
+      "publishedDateTime": "2020-04-21T09:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/04/GettyImages-175397431.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": "AWS and Facebook launch an open-source model server for PyTorch",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-20-14-ways-aws-beats-microsoft-azure-and-google-cloud.md",
       "title": "14 ways AWS beats Microsoft Azure and Google Cloud",
       "excerpt": "If your shop is obsessed with mixing AI into your stack, Amazon has almost too many options to consider. There are too many to list. They begin with basic tools like SageMaker for training models to respond to your data. These tools have attracted plenty of developers and that may be why the sales literature brags that “85% of TensorFlow ...",
@@ -538,14 +583,14 @@
     {
       "path": "_news/2020-04-11-amazon-announces-general-availability-of-aws-deepcomposer.md",
       "title": "Amazon Announces General Availability of AWS Deepcomposer",
-      "excerpt": "At the end of 2019, InfoQ ran a survey of our readers to find out what tools, techniques, and languages they were using. This is a summary of the results. Daniel Bryant sat down with Dave Sudia ...",
+      "excerpt": "At re:Invent last year, Amazon launched AWS Deepcomposer as a preview, and it is generally available now with a few new features. These features include: Julien Simon, artificial intelligence & machine learning evangelist for EMEA, states in a blog post on the GA of Deepcomposer: Until now, developers interested in growing skills in GANs haven ...",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.infoq.com/news/2020/04/amazon-aws-deepcomposer-ga/?useSponsorshipSuggestions=true&itm_source=presentations_about_Devops&itm_medium=link&itm_campaign=Devops",
+      "webUrl": "https://www.infoq.com/news/2020/04/amazon-aws-deepcomposer-ga/",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-10T17:00:00-07:00",
+      "publishedDateTime": "2020-04-11T04:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "InfoQ",
@@ -1198,7 +1243,7 @@
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.ft.com/content/03355c3c-52d1-42da-8218-90524d458d93",
+      "webUrl": "https://www.ft.com/content/03355c3c-52d1-42da-8218-90524d458d93?src=rss",
       "ampWebUrl": "https://amp.ft.com/content/03355c3c-52d1-42da-8218-90524d458d93",
       "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/03355c3c-52d1-42da-8218-90524d458d93",
       "publishedDateTime": "2020-04-03T03:34:00-07:00",
@@ -1216,43 +1261,6 @@
           "width": 500,
           "height": 281,
           "title": "Short sellers circle virus sinners; Amazon’s looming shareholder battle; Businesses fight for prisoner releases",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-03-ai-researchers-scold-amazon-for-selling-flawed-face-recognition-tech-to-the-police.md",
-      "title": "AI researchers scold Amazon for selling flawed face-recognition tech to the police",
-      "excerpt": "Amazon has come under fire before for Rekognition, the facial recognition technology that the company has allowed police to use and which has led to concerns the company is essentially supporting ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://bgr.com/2019/04/03/amazon-facial-recognition-open-letter/",
-      "ampWebUrl": "https://bgr.com/2019/04/03/amazon-facial-recognition-open-letter/amp/",
-      "cdnAmpWebUrl": "https://bgr-com.cdn.ampproject.org/c/s/bgr.com/2019/04/03/amazon-facial-recognition-open-letter/amp/",
-      "publishedDateTime": "2020-04-02T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BGR",
-        "domain": "bgr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://boygeniusreport.files.wordpress.com/2019/04/face-recognition.jpg?quality=98&#038;strip=all",
-          "width": 1600,
-          "height": 1050,
-          "title": "AI researchers scold Amazon for selling flawed face-recognition tech to the police",
           "attribution": null
         }
       ],

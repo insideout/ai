@@ -2,6 +2,43 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-03-15-middlesex-health-using-artificial-intelligence-making-patients-more-comfortable.md",
+      "title": "Middlesex Health using artificial intelligence – making patients more comfortable",
+      "excerpt": "Middletown, Conn. (WTNH) Middlesex Health is the first healthcare system in the northeast to use artificial intelligence-powered software to Improve PET scans for patients. Typically a PET, or positron emission tomography scan, would take 24 minutes or longer. The tests are frequently done on Cancer patients to see if treatments are working or ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wtnh.com/ct-style/healthmatters/middlesex-health-using-artificial-intelligence-making-patients-more-comfortable/",
+      "ampWebUrl": "https://www.wtnh.com/ct-style/healthmatters/middlesex-health-using-artificial-intelligence-making-patients-more-comfortable/amp/",
+      "cdnAmpWebUrl": "https://www-wtnh-com.cdn.ampproject.org/c/s/www.wtnh.com/ct-style/healthmatters/middlesex-health-using-artificial-intelligence-making-patients-more-comfortable/amp/",
+      "publishedDateTime": "2020-03-15T12:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WTNH",
+        "domain": "wtnh.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.wtnh.com/wp-content/uploads/sites/100/2020/03/Annotation-2020-03-15-152535.png?w=620&h=352&crop=1&resize=1280,720",
+          "width": 1280,
+          "height": 720,
+          "title": "Middlesex Health using artificial intelligence – making patients more comfortable",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-15-innovative-artificial-intelligence-startups-aim-to-cure-loss-of-vision.md",
       "title": "Innovative artificial intelligence startups aim to cure loss of vision",
       "excerpt": "The current protocol to treating this condition would be approaching an eye doctor and undergoing the eye-drop therapy, which blurs the vision in the functional eye to force the brain to rely on the faulty eye as well. It is also worth noting that unsuccessful treatment of this condition in childhood will result in the continued loss of vision ...",
@@ -1188,43 +1225,6 @@
         "AI",
         "AI in Healthcare",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-11-depression-treatment-using-ai-brain-scans.md",
-      "title": "Depression treatment using AI, brain scans",
-      "excerpt": "Artificial intelligence (AI) may be a useful and even essential tool in selecting the best ... patterns of brain activity were actually linked to the kind of brain activity impairment that improves with antidepressant therapy. This data came from the EMBARC trial for patients with major depression. The trial lasted 16 weeks at four different ...",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.news-medical.net/news/20200210/Depression-treatment-using-AI-brain-scans.aspx",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20200210/Depression-treatment-using-AI-brain-scans.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200210/Depression-treatment-using-AI-brain-scans.aspx",
-      "publishedDateTime": "2020-02-10T17:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.news-medical.net/image.axd?picture=2020%2f2%2f223421_web_00c4750629854c469bd98996c081a559-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": "Depression treatment using AI, brain scans",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

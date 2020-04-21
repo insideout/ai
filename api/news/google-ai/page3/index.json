@@ -2,6 +2,90 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-03-09-google-launches-tensorflow-for-quantum-computers.md",
+      "title": "Google launches TensorFlow for quantum computers",
+      "excerpt": "Google today launched TensorFlow Quantum (TFQ), an open-source library for prototyping quantum machine learning models. Quantum computers aren’t quite mainstream yet, but when they arrive they’ll need algorithms. TFQ fills that Gap by making it possible for developers to create hybrid AI algorithms that use both classical computing ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/03/09/google-launches-tensorflow-for-quantum-computers/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-09T14:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2017%2F11%2Ftensorflow.jpg&signature=01462be7a75153cb5cbca816cd2e6673",
+          "width": 1280,
+          "height": 640,
+          "title": "Google launches TensorFlow for quantum computers",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "TensorFlow"
+      ]
+    },
+    {
+      "path": "_news/2020-03-09-googles-new-tensorflow-quantum-tool-lets-developers-build-quantum-ai-models.md",
+      "title": "Google’s new TensorFlow Quantum tool lets developers build quantum AI models",
+      "excerpt": "Google LLC today open-sourced TensorFlow Quantum, an extension to TensorFlow that enables developers to build artificial intelligence models for quantum computers. Quantum computing is still in an early stage, but the technology is maturing rapidly. IBM Corp. is doubling the processing power of its quantum chips every year, while Honeywell ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://siliconangle.com/2020/03/09/googles-new-tensorflow-quantum-tool-lets-developers-build-quantum-ai-models/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-09T14:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/03/quantum.png",
+          "width": 718,
+          "height": 400,
+          "title": "Google’s new TensorFlow Quantum tool lets developers build quantum AI models",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "TensorFlow"
+      ]
+    },
+    {
       "path": "_news/2020-03-09-google-launches-tensorflow-quantum-a-machine-learning-framework-for-training-quantum-models.md",
       "title": "Google launches TensorFlow Quantum, a machine learning framework for training quantum models",
       "excerpt": "Google today announced the launch of TensorFlow Quantum, bringing together machine learning and quantum computing initiatives at the company. The framework can construct quantum datasets, prototype hybrid quantum and classic machine learning models, support quantum circuit simulators, and train discriminative and generative quantum models.",
@@ -1210,97 +1294,6 @@
           "width": 685,
           "height": 385,
           "title": "Demis Hassabis interview: the brains behind DeepMind on the future of artificial intelligence",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-14-deepminds-alphastar-ai-crushes-pro-starcraft-players.md",
-      "title": "DeepMind’s AlphaStar AI Crushes Pro ‘StarCraft’ Players",
-      "excerpt": "There’s no stopping Google’s DeepMind AI. Earlier this year the artificial intelligence platform recently shut out two professional StarCraft players in a 5-0 defeat. And now a report on The ...",
-      "heat": 94,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.geek.com/tech/deepminds-alphastar-ai-crushes-pro-starcraft-players-1771485/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-13T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Geek.com",
-        "domain": "geek.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/geek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.geek.com/wp-content/uploads/2019/01/alphastar-9.jpg",
-          "width": 690,
-          "height": 388,
-          "title": "DeepMind’s AlphaStar AI Crushes Pro ‘StarCraft’ Players",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-02-13-googles-autoflip-uses-ai-to-crop-videos-for-you.md",
-      "title": "Google’s AutoFlip uses AI to crop videos for you",
-      "excerpt": "By contrast, AutoFlip is completely automatic thanks to AI object detection and tracking technologies that intelligently understand video content. The system detects changes in the composition that signify scene changes in order to isolate scenes for processing. And within each shot, it uses video analysis to identify salient content before ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/02/13/googles-autoflip-automatically-crops-videos-using-ai/",
-      "ampWebUrl": "https://venturebeat.com/2020/02/13/googles-autoflip-automatically-crops-videos-using-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/13/googles-autoflip-automatically-crops-videos-using-ai/amp/",
-      "publishedDateTime": "2020-02-13T12:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/10/google-ai-logo.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Google’s AutoFlip uses AI to crop videos for you",
           "attribution": null
         }
       ],

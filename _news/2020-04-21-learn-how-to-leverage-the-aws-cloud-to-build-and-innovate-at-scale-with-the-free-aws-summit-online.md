@@ -3,9 +3,9 @@ category: news
 title: "Learn how to leverage the AWS cloud, to build and innovate at scale with the free AWS Summit Online"
 excerpt: "Gain access to short tutorials, whitepapers, reference architectures, and customer case studies to expand your knowledge of AWS. The AWS DeepRacer League Summit Race Compete for prizes and meet fellow machine learning enthusiasts, online. Racers will have the opportunity to join the DeepRacer online workshop and have a 1-to-1 chat with our ..."
 publishedDateTime: 2020-04-21T11:26:00Z
-webUrl: "https://yourstory.com/2020/04/aws-cloud-innovate-summit-online"
-ampWebUrl: "https://yourstory.com/2020/04/aws-cloud-innovate-summit-online/amp"
-cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/04/aws-cloud-innovate-summit-online/amp"
+webUrl: "https://yourstory.com/2020/04/leverage-aws-cloud-innovate-aws-summit"
+ampWebUrl: "https://yourstory.com/2020/04/leverage-aws-cloud-innovate-aws-summit/amp"
+cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/04/leverage-aws-cloud-innovate-aws-summit/amp"
 type: article
 quality: 45
 heat: 45
@@ -25,6 +25,6 @@ images:
     height: 395
     title: "Learn how to leverage the AWS cloud, to build and innovate at scale with the free AWS Summit Online"
 
-secured: "Dz9HF6x9ktV+wcQHKoxLZpo+yl8oLK/+Y//IWK2yh6WEiYZumzpTX5ofiU38f/K6Wz1t6GOIitC9Izl22YokSoH4J8VGP/dQoSNwz4+Dbr9KMKTU6kBfrLT56Y7TaI21u1uUBD0ln9wr02GLk2NeiBthxhdjekjSjnxGgjylh50PUWyviNijwi3r68MzZcyvCORoYkYQOQApz3+svqu6tTO9mY5beLbNdrSRYaCbg9YrqkXsE4XngCy3lDJqN2+jzL0ab7uFitUY2rKfqal8nIJjPNpnyJQCm7K/5KO2rhqQdtjE7WlanB8wlfXCNwxS;wy41Srpa/Bs3PDCHygImoA=="
+secured: "jeLFLjVTD4FWXMnQPmPfa+lnLHytYg+PdApQtOrrk0Q1iKroLw6EiqUeXjNH/49EnFxmLqTJtSwUxaJ8TdOPv5mhyHteTch9BwVVkqHzE2ON09+DRfbdYwxVw5xzBdQSQWhPxUcP0/81FBxdN6VeseYAn//Fu5LNVOcUkZxbSS/YdYJ5aEm3/dbOZvCaRKX5nSqrOEKYhooriGhPIJyxMmtmFuLjAJl8CNIDBYZ9eaQFoVn68Ptr8lO+Fmryua9hj+f4/xt0G9kw7QlvU1IjZq063XoNrLucQ9oV49BMClsjuyBW5/U5bVkDv4XCAYkSsxmXwIo9V8bu1wM/Y1FoJaCCBmnWeUi8GQtu8UfDydV/Hu5s4d7y3ZD+ZUBDf07kXOWz3+oNA/4GfCTuOx5AGm/EWx8iQX4ireaNVtN7j32pMfK3rKpMqj41Zb+uIkoDvCHMjjfIaqnvh4LkOLzV5zxVes/uAC8Sxz5JweEv0eU=;tbwSqHfQbNPMDZ2U6K288A=="
 ---
 

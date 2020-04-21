@@ -2,6 +2,53 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-04-21-googles-dynamicembedding-framework-extends-tensorflow-to-colossal-scale-applications.md",
+      "title": "Google’s DynamicEmbedding framework extends TensorFlow to ‘colossal-scale’ applications",
+      "excerpt": "In a preliminary whitepaper published this week on Arxiv.org, Google researchers describe DynamicEmbedding, which extends Google’s TensorFlow machine learning framework to “colossal-scale” applications with arbitrary numbers of features (e.g., search queries). According to Google, AI models developed on it have achieved significant ...",
+      "heat": 100,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/21/googles-dynamicembedding-framework-extends-tensorflow-to-colossal-scale-applications/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/21/googles-dynamicembedding-framework-extends-tensorflow-to-colossal-scale-applications/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/21/googles-dynamicembedding-framework-extends-tensorflow-to-colossal-scale-applications/amp/",
+      "publishedDateTime": "2020-04-21T07:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/10/google-ai-logo.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Google’s DynamicEmbedding framework extends TensorFlow to ‘colossal-scale’ applications",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "TensorFlow",
+        "Google AI",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2020-04-16-customer-service-management-improved-through-artificial-intelligence.md",
       "title": "Customer Service Management Improved Through Artificial Intelligence",
       "excerpt": "Machine learning is still fairly technical, especially machine learning (ML), and the early audience had to be able to handle the detail. Now natural language processing (NLP) and generation (NLG), are starting to mesh with machine learning to provide an interface than can help the non-technical audience. The ML side has its own complexity.",
@@ -738,6 +785,43 @@
       ]
     },
     {
+      "path": "_news/2020-04-07-cambridge-quantum-computing-performs-the-worlds-first-quantum-natural-language-processing-experiment.md",
+      "title": "Cambridge Quantum Computing Performs the World's First Quantum Natural Language Processing Experiment",
+      "excerpt": "This is the first time that natural language processing has been executed on a quantum computer. Furthermore, by achieving the results without relying on quantum RAM, CQC scientists have created a ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.prnewswire.co.uk/news-releases/cambridge-quantum-computing-performs-the-world-s-first-quantum-natural-language-processing-experiment-855433841.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-07T05:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.prnewswire.co.uk/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg",
+          "width": 600,
+          "height": 315,
+          "title": "Cambridge Quantum Computing Performs the World's First Quantum Natural Language Processing Experiment",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-05-ai-translates-human-brain-signals-to-text.md",
       "title": "AI Translates Human Brain Signals to Text",
       "excerpt": "Now scientists are one step closer towards a computer interface driven by human thoughts. Neuroscientists at the University of California, San Francisco (UCSF) published a study last week in Nature Neuroscience that shows how their brain-computer interface (BCI) is able to translate human brain activity into text with relatively high accuracy and at natural-speech rates using artificial intelligence (AI) machine learning.",
@@ -1151,89 +1235,6 @@
       "topics": [
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-04-01-algorithmic-justice-league-protests-bias-voice-ai-and-media-coverage.md",
-      "title": "Algorithmic Justice League protests bias voice AI and media coverage",
-      "excerpt": "“We cannot let the promise of AI overshadow real and present harms,” Benjamin said in the piece ... In statements following the release of the study, Google and IBM Watson pledged commitments to progress.",
-      "heat": 91,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/03/31/algorithmic-justice-league-protests-bias-voice-ai-and-media-coverage/",
-      "ampWebUrl": "https://venturebeat.com/2020/03/31/algorithmic-justice-league-protests-bias-voice-ai-and-media-coverage/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/31/algorithmic-justice-league-protests-bias-voice-ai-and-media-coverage/amp/",
-      "publishedDateTime": "2020-03-31T20:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/03/voicing-erasure.jpg?fit=1280%2C661&strip=all",
-          "width": 1280,
-          "height": 661,
-          "title": "Algorithmic Justice League protests bias voice AI and media coverage",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-03-31-natural-language-processing-in-banking-will-bring-in-efficiency-says-deltec-bank-bahamas.md",
-      "title": "Natural Language Processing in Banking Will bring in Efficiency, says Deltec Bank-Bahamas",
-      "excerpt": "According to Deltec Bank, Bahamas – “Natural Language Processing (NLP) is expected to help banking institutions efficiently understand the meanings behind the text.” By processing ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.benzinga.com/pressreleases/20/03/ab15710277/natural-language-processing-in-banking-will-bring-in-efficiency-says-deltec-bank-bahamas",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/15710277",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15710277",
-      "publishedDateTime": "2020-03-31T09:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.abnewswire.com/uploads/342ddf70fa9990ee05d70d63d72e49da.png",
-          "width": 594,
-          "height": 480,
-          "title": "Natural Language Processing in Banking Will bring in Efficiency, says Deltec Bank-Bahamas",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

@@ -3,7 +3,7 @@ category: news
 title: "When Machines Design: Artificial Intelligence and the Future of Aesthetics"
 excerpt: "In a tech report on artificial intelligence, Building Design + Construction explored how Arup had applied a neural network to a light rail design and reduced the number of utility clashes by over 90%, saving nearly 800 hours of engineering. In the same vein, the areas of site and social research that utilize artificial intelligence have been ..."
 publishedDateTime: 2020-04-08T11:39:00Z
-webUrl: "https://www.archdaily.com/937051/when-machines-design-artificial-intelligence-and-the-future-of-aesthetics"
+webUrl: "https://www.archdaily.com/937051/when-machines-design-artificial-intelligence-and-the-future-of-aesthetics/"
 type: article
 
 provider:
@@ -20,6 +20,6 @@ images:
     height: 1333
     title: "When Machines Design: Artificial Intelligence and the Future of Aesthetics"
 
-secured: "caK1z9QRYs0plQQV4GvI6UpnOK/b+oQHPsml62gMubZdXZU/4i/Lhicut0ck1cwS+AapzLTgOl2vdYuPswRKu5UPzTg6LJEs1FB+Os/LABVV2G9X0dD1UlXma8ImaJNUzBlaJ7kOLkfDb3tbtBt57GVlWciZxlbG7HHdV2LL8JTkNuDxbG8236pEp4GBdHJ0Inp4KM9eAXPIMSOH3Ur8R/Z3nxXePja20UMpDfWF/+OdHXfJSe8ECBZBBrsT5I4kj4a2BdbIq/RPLGXeJunrh6be10GLvewYkdiRF05y3TrK5vPBoAKmpLfp47Ak5MROK8Tvl2gUtGVCuwIWobKuq8yHCzOiZDTm7ymA4TER+mJ+eDC0flpiyjT/7r8P+3+uYLnAJ7OfTrRZJUhGXap/v8idS1BUnTdYlTQcv5GhdzocXH8u9rGh6HO0ByZ30aIgVRy3jrc+n0eNQbwT4SXiW8jRu71q26pg4o7p7wT3Ayk=;6KNDxVrpn9p0I/gcvgpjvA=="
+secured: "1gOZX/AFinreeZNpiRdQh6OUo3NtoL3xbj2GdJAvQlOfyR/kGitRg8k9DiOrEUCztK3ejmnClmPT7B+oY7rMXqk8i13iBK/2oEidPhJQ4mNtb33/ANwNixRRRL6MSd7tSGmwzkmGo71cZFa3ix3xqV7t7n8nJmLEFChERglBzu1pDfdLfRHcigefMrjVjZAwLctUPmAn3ZVOVgeMahUUf+z3OZPTBaiD7jj4BdczZrvB5bdSD0W2Lq0iqZGCNz53HTDPh4y9JD6pmoM9rfVucl1cayelNSe2V/MINdbR4kGA3ZjN6E5HsptKZSmLRTW1Kx4e3fHphUp9oDaQQxCV2qRVf16eOgbc2pCiBmSIF8GoMolYz8fM2xo8FR5yagefz0lnfpg0SMtfZBbSL7Y7K2zt11/Dg7OjOBuNChBHH7R4TZA3XhEekfzx4HBk53fDkYQdFv66t0IGbZYhK3tYdemuT4S/nhzK65I32DckjqY=;FO99Zv6jvbSOdvkioY1LAw=="
 ---
 

@@ -2,6 +2,51 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-04-21-low-trust-versus-high-trust-beliefs-will-impact-the-growth-of-ai-including-for-self-driving-cars.md",
+      "title": "Low-Trust Versus High-Trust Beliefs Will Impact The Growth Of AI, Including For Self-Driving Cars",
+      "excerpt": "To make things parsimonious, there are two overarching categories conventionally used when discussing trust levels, namely a citizenry of little or no trust, known as a low-trust nation or locale, versus being characterized as a high-trust nation or locale,",
+      "heat": 86,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/04/21/low-trust-versus-high-trust-beliefs-will-impact-the-growth-of-ai-including-for-self-driving-cars/",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/04/21/low-trust-versus-high-trust-beliefs-will-impact-the-growth-of-ai-including-for-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/04/21/low-trust-versus-high-trust-beliefs-will-impact-the-growth-of-ai-including-for-self-driving-cars/amp/",
+      "publishedDateTime": "2020-04-21T09:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F182201783%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5600%26cropY1%3D419%26cropY2%3D3567",
+          "width": 1200,
+          "height": 675,
+          "title": "Low-Trust Versus High-Trust Beliefs Will Impact The Growth Of AI, Including For Self-Driving Cars",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-20-chinese-internet-giant-baidu-offers-free-trial-robotaxi-rides-through-search-and-map-apps-in-changsha.md",
       "title": "Chinese internet giant Baidu offers free trial robotaxi rides through search and map apps in Changsha",
       "excerpt": "Baidu’s Apollo robotaxi program has set up a complete mechanism for safety evaluation and technical support,” the Nasdaq-listed company said in the statement on Monday. “This time [we are ready to] launch the service at a large-scale to the public.” We tried out a futuristic, self-driving robotaxi in China The company’s move to expand ...",
@@ -297,6 +342,51 @@
           "width": 570,
           "height": 321,
           "title": "How Facebook Works for Trump",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-17-chinas-ponyai-rolls-out-us-self-driving-delivery-service-for-groceries-amid-coronavirus-lockdown.md",
+      "title": "China’s Pony.ai rolls out US self-driving delivery service for groceries amid coronavirus lockdown",
+      "excerpt": "Chinese autonomous vehicle start-up Pony.ai has launched a self-driving delivery service in Irvine, California, to help fulfil increasing online grocery orders during the coronavirus lockdown. The service, launched in partnership with Los Angeles-based e-commerce platform Yamibuy, enables residents in the area to receive their purchases of ...",
+      "heat": 75,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.scmp.com/tech/start-ups/article/3080371/chinas-ponyai-rolls-out-us-self-driving-delivery-service-groceries",
+      "ampWebUrl": "https://amp.scmp.com/tech/start-ups/article/3080371/chinas-ponyai-rolls-out-us-self-driving-delivery-service-groceries",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/start-ups/article/3080371/chinas-ponyai-rolls-out-us-self-driving-delivery-service-groceries",
+      "publishedDateTime": "2020-04-16T22:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/04/17/fb5b3e40-805e-11ea-8736-98edddd9b5ca_image_hires_131136.jpg?itok=PuWGeKE8&v=1587100306",
+          "width": 1200,
+          "height": 630,
+          "title": "China’s Pony.ai rolls out US self-driving delivery service for groceries amid coronavirus lockdown",
           "attribution": null
         }
       ],
@@ -1197,99 +1287,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-09-nuro-earns-permit-to-test-self-driving-delivery-vehicles-in-california.md",
-      "title": "Nuro Earns Permit to Test Self-Driving Delivery Vehicles in California",
-      "excerpt": "Autonomous delivery vehicle maker Nuro this week received California's first permit to test a driverless, passengerless car on public roads. Eager to get started, the company hopes to get its recently unveiled R2 vehicle on the move through Silicon Valley ...",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.pcmag.com/news/nuro-earns-permit-to-test-self-driving-delivery-vehicles-in-california",
-      "ampWebUrl": "https://www.pcmag.com/news/nuro-earns-permit-to-test-self-driving-delivery-vehicles-in-california?amp=true",
-      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/nuro-earns-permit-to-test-self-driving-delivery-vehicles-in-california?amp=true",
-      "publishedDateTime": "2020-04-09T06:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/005AXdYr3UnodeAytQQ7yfm-1.fit_lim.size_1200x630.v_1586432859.jpg",
-          "width": 1120,
-          "height": 630,
-          "title": "Nuro Earns Permit to Test Self-Driving Delivery Vehicles in California",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-09-ai-and-the-coronavirus-fight-how-artificial-intelligence-is-taking-on-covid-19.md",
-      "title": "AI and the coronavirus fight: How artificial intelligence is taking on COVID-19",
-      "excerpt": "As the COVID-19 coronavirus outbreak continues to spread across the globe, companies and researchers are looking to use artificial intelligence as a way of addressing the ... turning COVID-Net from a technical implementation to a system that can be used by healthcare workers. It's also now developing a neural network for risk-stratifying ...",
-      "heat": 164,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/ai-and-the-coronavirus-fight-how-artificial-intelligence-is-taking-on-covid-19/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-and-the-coronavirus-fight-how-artificial-intelligence-is-taking-on-covid-19/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-and-the-coronavirus-fight-how-artificial-intelligence-is-taking-on-covid-19/",
-      "publishedDateTime": "2020-04-09T04:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2020/03/13/7e404fac-4532-4237-8f10-91e709d6b15b/thumbnail/1200x675/80e3fc902fe3c9d6aba28b44aa664ac0/20200313-tiernan-karen-corona.png",
-          "width": 1200,
-          "height": 675,
-          "title": "AI and the coronavirus fight: How artificial intelligence is taking on COVID-19",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Machine Learning",
-        "AI in Autos",
-        "Google AI"
       ]
     }
   ],

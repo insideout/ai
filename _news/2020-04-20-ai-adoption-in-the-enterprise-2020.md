@@ -23,15 +23,6 @@ images:
     title: "AI Adoption in the Enterprise 2020"
 
 related:
-  - title: "A Framework for Enterprise Artificial Intelligence Adoption"
-    excerpt: "Tetra Tech’s five-step process enables organizations to adopt artificial intelligence (AI) enterprise-wide, gaining stakeholder buy-in along the way. In large part, organizations apply AI to specific business needs but struggle to adopt AI at the enterprise level. This may lead to redundant AI solutions and lack of standardization in ..."
-    publishedDateTime: 2020-04-16T20:15:00Z
-    webUrl: "https://www.csrwire.com/press_releases/44714-A-Framework-for-Enterprise-Artificial-Intelligence-Adoption?tracking_source=rss"
-    type: article
-    provider:
-      name: CSR Wire
-      domain: csrwire.com
-    quality: 17
   - title: "Large scale active-learning-guided exploration for in vitro protein production optimization"
     excerpt: "Cell-free lysates are a major platform for in vitro protein production but batch-to-batch variation makes production difficult to predict. Here the authors develop an active learning approach to optimising buffer conditions to bring homemade lysates up to commercial production potential."
     publishedDateTime: 2020-04-20T09:28:00Z

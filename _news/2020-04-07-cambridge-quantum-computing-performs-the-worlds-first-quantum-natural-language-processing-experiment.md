@@ -1,28 +1,25 @@
 ---
 category: news
 title: "Cambridge Quantum Computing Performs the World's First Quantum Natural Language Processing Experiment"
-excerpt: "Cambridge Quantum Computing (\"CQC\") announces that they have used the \"natively quantum\" structure of natural language to open up an"
-publishedDateTime: 2020-04-07T11:59:00Z
-webUrl: "https://www.prnewswire.com/news-releases/cambridge-quantum-computing-performs-the-worlds-first-quantum-natural-language-processing-experiment-301036640.html"
+excerpt: "This is the first time that natural language processing has been executed on a quantum computer. Furthermore, by achieving the results without relying on quantum RAM, CQC scientists have created a ..."
+publishedDateTime: 2020-04-07T12:03:00Z
+webUrl: "https://www.prnewswire.co.uk/news-releases/cambridge-quantum-computing-performs-the-world-s-first-quantum-natural-language-processing-experiment-855433841.html"
 type: article
-quality: 24
-heat: 24
-published: false
 
 provider:
   name: PR Newswire
-  domain: prnewswire.com
+  domain: prnewswire.co.uk
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+  - url: "https://www.prnewswire.co.uk/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
     width: 600
     height: 315
     title: "Cambridge Quantum Computing Performs the World's First Quantum Natural Language Processing Experiment"
 
-secured: "cKbdDAq4RySIcBVHCZ5lN6M5AD0LNLWhkJGF6Emx/yeImac8YtO635CQb4vTpqLL4D2vrtEZDudcY7rCeby/xRUlFqUFPdsri75v1G39jwwuQjcqkv5ja6eOuYY0jtG2Hwd6ZpdKcM/DFRyV930nendb5y+R2YvqcQNMxts1dpi03jWoMFCiamg9WJu5C2ibW3Rw3gpmQTqPEVmgK9UMocxJPwIi1ASNeLdcxpBmEo/GPdjmTCVawQewhVmeNMmSWQqSQLTWZR7HIwU8R1dHw/ElPJIIYZoI3ks2wmncqx6ktZ6dNnPtYITGuRxrr++A;uvUoOh9kIrWJZviFnA1IHw=="
+secured: "kVvS+b/tLXa9rtt6aZeGjSP4bXOHH/GKcNL4HttMUYB4vc5sgh9K6ffhag+hEnQWnZ3rc/aJ8qPk/XEMwreBaOGL1PgW+VxXUnNlfNLeDlFhX5xeVIEXyByFHYhITyIU1FYqfO+JHgzGj2dNU6f1+seVOZtfXu56J6Dt4AasYK0kfv1HTE4ItlhD3T1QAGASlwyLNiTr17+Zm9+ZAOKHNzlAP5GA6GRznQ0GyCUmnlWEERhlP7c7Q+EReE/3nnS7V0PAKnLvnoNLrVii0fq3HIls2VA6fCsV0GvrodQnrF+fF+nMQEhhQrZcKFstBqYX;jdZhvN3RYoIcNlCpLmq3qw=="
 ---
 

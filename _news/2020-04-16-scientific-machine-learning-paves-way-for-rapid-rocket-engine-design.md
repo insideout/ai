@@ -2,24 +2,40 @@
 category: news
 title: "Scientific machine learning paves way for rapid rocket engine design"
 excerpt: "One group of researchers at The University of Texas at Austin is developing new \"scientific machine learning\" methods to address this challenge. Scientific machine learning is a relatively new field that blends scientific computing with machine learning. Through a combination of physics modeling and data-driven learning, it becomes possible to ..."
-publishedDateTime: 2020-04-16T17:01:00Z
-webUrl: "https://www.eurekalert.org/pub_releases/2020-04/uota-sml041620.php?fbclid=IwAR2fjmzw7wFgJkRNTzGldN8p7vFK_ItiIbDKcmwz9YVCM_mk6AlGGXDdHvI"
+publishedDateTime: 2020-04-16T23:35:00Z
+webUrl: "https://www.sciencedaily.com/releases/2020/04/200416135837.htm"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "https://insideout.app/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Machine Learning
   - AI
 
-images:
-  - url: "https://www.eurekalert.org/multimedia/pub/web/229424_web.jpg"
-    width: 1440
-    height: 1028
-    title: "Scientific machine learning paves way for rapid rocket engine design"
+related:
+  - title: "Computer Vision Research Engineer, Deep Learning (London, UK)"
+    excerpt: "The goal of the Data Science team is to develop novel methods for providing static and dynamic information about parking worldwide. We use Computer Vision and Machine Learning Deep Learning to find parking and predict availability for parking locations in thousands of cities. We are looking for a computer vision and deep learning expert to ..."
+    publishedDateTime: 2020-04-17T06:32:00Z
+    webUrl: "https://www.parking-net.com/parking-jobs/parkopedia/computer-vision-research-engineer-deep-learning-london-uk-1"
+    type: article
+    provider:
+      name: Parking Network
+      domain: parking-net.com
+    quality: 39
+    images:
+      - url: "https://www.parking-net.com/Dinamico/Themes/ParkingResponsive/Content/images/PNVC.png"
+        width: 520
+        height: 520
 
-secured: "A3burHrRHdkqaCrn78MfxaA4S5yNoFGoU+vAjuP0kpM6isk6vXIa3PvNVOsnqqs0x1ymdDJPRUPflv4tNvW5NhsCSlBl/vhgfbbXW7D7UFS7C84WBjKF60NaIl4tb7gewaG2LTCv7kGmXeB0JnnlDUKHBOidCDrFzgK5gmxDb0Qz+tz/ObOnana1EYbJxxdF5RWqkOhpXW6SwLji3TOTr7qoKZ3cNLUg+V6Bkzlc8C2D3HFra6X9m4GDHArd31O9yHZnA/wHXkdqeKzQ/om+a+P17Y1d1sqqYy79oD5hAHqOhjYnms/xJtvZSWenFWwuWDdL99I88kq/IpaS4TWlxx2Hc/sgZeUZSavSSHxeXXdyVuaT5PnrbpT3JgvKMvkNS/3jJLo0xSlFtoqNtfq8bHSkDSzlODOEgtQB53D/kdJhVBKOiIxFFh9lQuUUy8EhBP/IM/pcIJTDIAgMuAWzkHE3BVfPD2tJtv0JCoMGx6I=;9Okvtgd1hjKPhC8D27cTRg=="
+secured: "+/aEi9Q70SER6SToCj7CZHIRaADXAS9C5rj+v41de42l7Il4Ri/HgaiA8dmNwIqj/fUFfm0sXkDLHV7VHjjfJPOb1ehvc3X+1b3KsAYb4XUBfhD+OmVL4Jb++j2KwO7eEkVGZakkjKcYjhEbijKI9ffImwxiz8GwIhhRgh1teN7SnGO6NqyWClsPZTjdqZ3PS94vUj7if00a8s29saiNHSzYAvVe+V9oly2bAJITTPhjEuHTyTDfrHD0Kof4tbRqJdRHWdwwYUmn8CFoExBwZtBYC4WQtWT7yIyhJPeQvGIxHOx2XXQdE8xU41h12EF8;LZWfONVHA+rK6c4Fu8w07g=="
 ---
 
