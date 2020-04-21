@@ -5,8 +5,8 @@ excerpt: "Vangelis Andrikopoulos, Research Analyst at Outlier Ventures explains 
 publishedDateTime: 2020-04-16T18:21:00Z
 webUrl: "https://internetofbusiness.com/ai/"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://internetofbusiness.com/wp-content/uploads/2018/05/IoB-ogimage.jpg"
