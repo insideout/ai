@@ -2,6 +2,95 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-04-21-shanghais-free-trade-zone-will-accelerate-digital-infrastructure-push-with-5g-iot-and-ai-tech.md",
+      "title": "Shanghai’s free-trade zone will accelerate digital infrastructure push with 5G, IoT and AI tech",
+      "excerpt": "China’s top economic planner, the National Development and Reform Commission (NDRC), said on Monday that “new infrastructure” included foundational information technologies such as 5G, IoT, the industrial internet, cloud computing and blockchain, AI and big data applications, as well as supportive facilities for scientific and technology ...",
+      "heat": 75,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.scmp.com/tech/policy/article/3080852/shanghais-free-trade-zone-will-accelerate-digital-infrastructure-push",
+      "ampWebUrl": "https://amp.scmp.com/tech/policy/article/3080852/shanghais-free-trade-zone-will-accelerate-digital-infrastructure-push",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/policy/article/3080852/shanghais-free-trade-zone-will-accelerate-digital-infrastructure-push",
+      "publishedDateTime": "2020-04-21T00:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/04/21/dd3d36d2-839e-11ea-8863-2139a14b0dea_image_hires_151022.JPG?itok=r99QrLgh&v=1587453031",
+          "width": 1200,
+          "height": 630,
+          "title": "Shanghai’s free-trade zone will accelerate digital infrastructure push with 5G, IoT and AI tech",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-21-artificial-intelligence-in-healthcare-market-size-industry-report-covid-19-impact-analysis-and-scope.md",
+      "title": "Artificial Intelligence in Healthcare Market Size | Industry Report, COVID-19 Impact Analysis and Scope",
+      "excerpt": "According to the latest report by IMARC Group, titled \"Artificial Intelligence in Healthcare Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2020-2025,\" the global artificial intelligence in healthcare market size experienced healthy growth during 2014-2019.",
+      "heat": 78,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-size-industry-report-covid-19-impact-analysis-and-scope-2020-04-21",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-20T23:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial Intelligence in Healthcare Market Size | Industry Report, COVID-19 Impact Analysis and Scope",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-20-new-ai-algorithm-brings-us-closer-than-ever-to-controlling-machines-with-our-minds.md",
       "title": "New AI algorithm brings us closer than ever to controlling machines with our minds",
       "excerpt": "After that, the sky’s the limit. We may one day use chips and AI to make secure mental connections with cloud computers. This would make machine such as ATMs, that merely exist to authenticate a transaction, obsolete. And who knows what kind of alien aesthetics we’ll end up with as a result of a less hands-on approach to reality once ...",
@@ -992,89 +1081,6 @@
         "AI in Robotics",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-04-20-14-ways-aws-beats-microsoft-azure-and-google-cloud.md",
-      "title": "14 ways AWS beats Microsoft Azure and Google Cloud",
-      "excerpt": "If your shop is obsessed with mixing AI into your stack, Amazon has almost too many options to consider. There are too many to list. They begin with basic tools like SageMaker for training models to respond to your data. These tools have attracted plenty of developers and that may be why the sales literature brags that “85% of TensorFlow ...",
-      "heat": 101,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.infoworld.com/article/3321176/14-ways-aws-beats-microsoft-azure-and-google-cloud.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-20T03:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.techhive.com/images/article/2016/12/thumbs-up-multicultural-100701134-large.3x2.jpg",
-          "width": 700,
-          "height": 467,
-          "title": "14 ways AWS beats Microsoft Azure and Google Cloud",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-20-microsoft-to-launch-azure-based-streaming-service-for-nba-league.md",
-      "title": "Microsoft to launch Azure-based streaming service for NBA League",
-      "excerpt": "As the Official Technology Partner for the NBA, Microsoft will allow NBA Digital to leverage the power of its Azure platform to give birth to a new, direct-to-consumer platform, which claims to make use of Artificial Intelligence (AI) and Machine Learning (ML). Thanks to the AI and ML, Microsoft hopes to deliver personalized game broadcasts and ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://news.thewindowsclub.com/microsoft-nba-league-99193/",
-      "ampWebUrl": "https://news.thewindowsclub.com/microsoft-nba-league-99193/amp/",
-      "cdnAmpWebUrl": "https://news-thewindowsclub-com.cdn.ampproject.org/c/s/news.thewindowsclub.com/microsoft-nba-league-99193/amp/",
-      "publishedDateTime": "2020-04-20T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TWCN Tech News",
-        "domain": "thewindowsclub.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://news.thewindowsclub.com/wp-content/uploads/2020/04/Microsoft-NBA.jpg",
-          "width": 600,
-          "height": 338,
-          "title": "Microsoft to launch Azure-based streaming service for NBA League",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

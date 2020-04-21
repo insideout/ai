@@ -2,6 +2,183 @@
   "page": 45,
   "value": [
     {
+      "path": "_news/2020-03-09-how-aws-nudged-out-ibm-google-microsoft-from-the-cloud-ai-space.md",
+      "title": "How AWS Nudged Out IBM, Google & Microsoft From The Cloud AI Space",
+      "excerpt": "The firm was praised for its wide range of services, including SageMaker AutoPilot, announced late last year, which automatically generates machine-learning models. However, some shortcomings in SageMaker were also addressed in the report. Amazon’s success in the cloud AI space was entirely predictable, where it has been dominating 33.8% of ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://analyticsindiamag.com/how-aws-nudged-out-ibm-google-microsoft-from-the-cloud-ai-space/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-09T04:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://analyticsindiamag.com/wp-content/uploads/2020/03/How-AWS-Nudged-Out-IBM-Google-Microsoft-From-The-Cloud-AI-Space-1024x683.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": "How AWS Nudged Out IBM, Google & Microsoft From The Cloud AI Space",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-09-artificial-intelligence-the-forbidden-fruit-of-the-21st-century.md",
+      "title": "Artificial Intelligence: The Forbidden Fruit of the 21st Century",
+      "excerpt": "Long before the invention of self-driving cars and robotics, Jews conceived the idea of man-made life. Artificial intelligence (AI) is becoming so advanced now that it is conceivable that machines could not only replace humans for most jobs, but actually develop intelligence higher than that of humans. Machines will be capable of designing ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.algemeiner.com/2020/03/09/artificial-intelligence-the-forbidden-fruit-of-the-21st-century/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-09T04:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Algemeiner",
+        "domain": "algemeiner.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.algemeiner.com/wp-content/uploads/2017/10/torah-scroll-e1504233787694-2.jpg",
+          "width": 720,
+          "height": 360,
+          "title": "Artificial Intelligence: The Forbidden Fruit of the 21st Century",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-09-web-developers-dont-need-a-math-degree-to-get-started-with-machine-learning.md",
+      "title": "Web developers don’t need a math degree to get started with machine learning",
+      "excerpt": "Google AI researchers conducted a study among 645 users of TensorFlow.js, a framework for machine learning with JavaScript. The goal was to find out what motivates software developers to get started with machine learning, what they expect from ML ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://jaxenter.com/web-developers-machine-learning-tensorflow-js-169458.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-09T04:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "jaxenter.com",
+        "domain": "jaxenter.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://jaxenter.com/wp-content/uploads/2020/03/tensorflowjs-survey.jpg",
+          "width": 600,
+          "height": 400,
+          "title": "Web developers don’t need a math degree to get started with machine learning",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-09-at-aws-cloud-day-2020-in-ahmedabad-aws-architects-discussed-how-their-cloud-solutions-could-help-startups-scale.md",
+      "title": "At AWS Cloud Day 2020 in Ahmedabad, AWS architects discussed how their Cloud solutions could help startups scale",
+      "excerpt": "The next session by Abhishek Mahanty, Senior Solutions Architect, AWS, covered the Artificial Intelligence (AI) and Machine Learning (ML) services provided by AWS. \"AI and ML are super popular now because it's the centrepiece for digital transformation,\" he said. Abhishek spoke about how the mission of AWS is to put ML in the hands of every ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://yourstory.com/2020/03/aws-cloud-day-ahmedabad-cloud-solutions-startups",
+      "ampWebUrl": "https://yourstory.com/2020/03/aws-cloud-day-ahmedabad-cloud-solutions-startups/amp",
+      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/03/aws-cloud-day-ahmedabad-cloud-solutions-startups/amp",
+      "publishedDateTime": "2020-03-09T03:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Your Story",
+        "domain": "yourstory.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.yourstory.com/cs/2/2d86ed30b28211e8b2e7114aea10c711/AWSCloudDayAhmedabadImage-1583750134111.png?fm=png&auto=format",
+          "width": 800,
+          "height": 400,
+          "title": "At AWS Cloud Day 2020 in Ahmedabad, AWS architects discussed how their Cloud solutions could help startups scale",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-09-artificial-intelligence-ai-in-alzheimers-applications.md",
+      "title": "Artificial Intelligence (AI) in Alzheimer's Applications",
+      "excerpt": "Reportlinker.com announces the release of the report \"Artificial Intelligence (AI) in Alzheimer's Applications\" - https://www.reportlinker.com/p05873500/?utm_source=GNW - Description of AI tools applications in the diagnosis,",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/03/g15505440/artificial-intelligence-ai-in-alzheimers-applications",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/15505440",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15505440",
+      "publishedDateTime": "2020-03-09T03:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-09-anterior-retrosplenial-cortex-is-required-for-long-term-object-recognition-memory.md",
       "title": "Anterior retrosplenial cortex is required for long-term object recognition memory",
       "excerpt": "The retrosplenial cortex (RSC) is implicated on navigation and contextual memory. Lesions studies showed that the RSC shares functional similarities with the hippocampus (HP). Here we evaluated the role of the anterior RSC (aRSC) in the “what” and “where” components of recognition memory and contrasted it with that of the dorsal HP (dHP).",
@@ -972,191 +1149,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-06-alitas-got-nothing-on-this-mind-controlled-robotic-arm-that-links-to-your-nerves.md",
-      "title": "Alita's got nothing on this mind-controlled robotic arm that links to your nerves",
-      "excerpt": "Alita may be able to take on robots twice her size because she's a cybernetic powerhouse ... These nerve fibers could then be manipulated to give the patient more precise control than any prosthetic ever has. Video of Ultra-precise, mind-controlled prosthetic hand for amputees via RPNI neural interface This was achieved by a muscle graft ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.syfy.com/syfywire/mind-controlled-cyborg-arm-like-alita",
-      "ampWebUrl": "https://www.syfy.com/syfywire/mind-controlled-cyborg-arm-like-alita?amp",
-      "cdnAmpWebUrl": "https://www-syfy-com.cdn.ampproject.org/c/s/www.syfy.com/syfywire/mind-controlled-cyborg-arm-like-alita?amp",
-      "publishedDateTime": "2020-03-05T16:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Syfy",
-        "domain": "syfy.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.syfy.com/sites/syfy/files/styles/1200x680/public/2020/03/alita_arms.jpg",
-          "width": 1200,
-          "height": 680,
-          "title": "Alita's got nothing on this mind-controlled robotic arm that links to your nerves",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-06-the-epam-cloud-pipeline-released-in-the-microsoft-azure-marketplace.md",
-      "title": "The EPAM Cloud Pipeline Released in the Microsoft Azure Marketplace",
-      "excerpt": "NEWTOWN, Pa., March 5, 2020 /PRNewswire/ -- EPAM Systems, Inc. (NYSE: EPAM), a leading global provider of digital platform engineering and software development solutions, today announced that the EPAM",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/the-epam-cloud-pipeline-released-in-the-microsoft-azure-marketplace/article_05440427-ea7e-53ab-8258-88b878ba0d09.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-05T16:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/5/9b/59bc3e30-ef53-5706-8b02-8582cf49a64d/5e61c7743dfee.image.jpg?resize=400%2C277",
-          "width": 400,
-          "height": 277,
-          "title": "The EPAM Cloud Pipeline Released in the Microsoft Azure Marketplace",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-06-computer-model-mimics-neural-processes-in-object-recognition.md",
-      "title": "Computer model mimics neural processes in object recognition",
-      "excerpt": "\"We chose street-scene recognition as an example because it has a restricted set of object categories, and it has practical social applications,\" said Serre. The IEEE paper describes how the team \"showed\" the model randomly selected images so that it could ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.vision-systems.com/factory/consumer-packaged-goods/article/16749835/computer-model-mimics-neural-processes-in-object-recognition",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-05T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Vision Systems Design",
-        "domain": "vision-systems.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-05-amd-unveils-cdna-gpu-architecture-a-dedicated-gpu-architecture-for-data-centers.md",
-      "title": "AMD Unveils CDNA GPU Architecture: A Dedicated GPU Architecture for Data Centers",
-      "excerpt": "Driven in large part by rapid progress in neural networking, deep learning, and all things AI, GPUs have become a critical part of some data center workloads ... The answer, as AMD is revealing today, is their new dedicated GPU architecture for data center compute: CDNA. The Compute counterpart to the gaming-focused RDNA, CDNA is AMD’s ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.anandtech.com/show/15593/amd-unveils-cdna-gpu-architecture-a-dedicated-gpu-architecture-for-data-centers",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-05T13:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AnandTech",
-        "domain": "anandtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.anandtech.com/doci/15593/CDNA_Master_678x452.jpg",
-          "width": 678,
-          "height": 381,
-          "title": "AMD Unveils CDNA GPU Architecture: A Dedicated GPU Architecture for Data Centers",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-05-microsoft-azure-cisco-team-up-to-simplify-iot-deployments.md",
-      "title": "Microsoft Azure, Cisco team up to simplify IoT deployments",
-      "excerpt": "Once that data is in the hub, teams can use services like Azure Stream Analytics or Azure Machine Learning to build IoT applications. Microsoft said in its blog post that this should \"kickstart ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/microsoft-azure-cisco-team-up-to-simplify-iot-deployments/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-azure-cisco-team-up-to-simplify-iot-deployments/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-azure-cisco-team-up-to-simplify-iot-deployments/",
-      "publishedDateTime": "2020-03-05T11:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/02/14/b263e8aa-1b65-4c1b-885e-3ad5770ebf6c/thumbnail/1200x675/495b3b7e0a7e4d872cf6b4d8845edc71/netflixistock-992007460.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Microsoft Azure, Cisco team up to simplify IoT deployments",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

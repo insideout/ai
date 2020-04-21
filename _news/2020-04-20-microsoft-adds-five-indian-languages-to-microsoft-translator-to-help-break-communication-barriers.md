@@ -24,21 +24,54 @@ images:
     title: "Microsoft adds five Indian languages to Microsoft Translator to help break communication barriers"
 
 related:
-  - title: "Microsoft Translator now offers real-time translation in five additional Indian languages"
-    excerpt: "these new languages are available via the Microsoft Translator text translation API. “We’re committed to empower every Indian and every business in India by bringing the power of AI into their daily life. Microsoft celebrates the diversity of languages in India and wants to make the vast internet even more accessible. We have supported ..."
-    publishedDateTime: 2020-04-16T15:00:00Z
-    webUrl: "https://mspoweruser.com/microsoft-translator-translation-languages/"
-    ampWebUrl: "https://mspoweruser.com/microsoft-translator-translation-languages/amp/"
-    cdnAmpWebUrl: "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/microsoft-translator-translation-languages/amp/"
+  - title: "Microsoft adds five Indian languages to Microsoft Translator"
+    excerpt: "According to Microsoft, “Language translation is a core part of Microsoft products and services. Users can avail the benefits of AI and Deep Neural Networks-enhanced, real-time translation in all these languages while using Bing and the Microsoft Translator website, as well as the Microsoft Translator App for Android, IOS and Windows."
+    publishedDateTime: 2020-04-18T04:12:00Z
+    webUrl: "https://www.digit.in/news/apps/microsoft-adds-five-indian-languages-to-microsoft-translator-53626.html"
+    ampWebUrl: "https://www.digit.in/article/amp/apps/53626/microsoft-adds-five-indian-languages-to-microsoft-translator"
+    cdnAmpWebUrl: "https://www-digit-in.cdn.ampproject.org/c/s/www.digit.in/article/amp/apps/53626/microsoft-adds-five-indian-languages-to-microsoft-translator"
     type: article
     provider:
-      name: MSPoweruser
-      domain: mspoweruser.com
-    quality: 35
+      name: Digit
+      domain: digit.in
+    quality: 44
     images:
-      - url: "https://mspoweruser.com/wp-content/uploads/2020/04/Microsoft-Translator-India.jpg"
-        width: 874
-        height: 583
+      - url: "https://static.digit.in/default/223b47fd8c7f598a1e46c43038d9d58c33f10470.jpeg"
+        width: 1280
+        height: 720
+  - title: "Microsoft adds 5 Indian languages to Microsoft Translator"
+    excerpt: "Microsoft India has announced that its Microsoft Translator will now offer real time translation in five additional languages including Gujarati, Marathi, Kannada, Malayalam and Punjabi."
+    publishedDateTime: 2020-04-16T17:58:00Z
+    webUrl: "https://www.hindustantimes.com/tech/microsoft-adds-5-indian-languages-to-microsoft-translator/story-yzTyLkYzC1HHdnua3FwpcL.html"
+    ampWebUrl: "https://m.hindustantimes.com/tech/microsoft-adds-5-indian-languages-to-microsoft-translator/story-yzTyLkYzC1HHdnua3FwpcL_amp.html"
+    cdnAmpWebUrl: "https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/tech/microsoft-adds-5-indian-languages-to-microsoft-translator/story-yzTyLkYzC1HHdnua3FwpcL_amp.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 41
+  - title: "Bible translators use skills and AI to bring urgent health messages to marginalised language groups"
+    excerpt: "The pioneering work is being led by Steve Moitozo, Daniel Whitenack and Rob Hess of SIL International, a partner organisation of Wycliffe Bible Translators, with a helping hand from AI. \"Much of the world's digital media is available in only a couple of dozen languages, and translation platforms like Google Translate only support around 100 ..."
+    publishedDateTime: 2020-04-17T08:40:00Z
+    webUrl: "https://www.christiantoday.com/article/bible.translators.use.skills.and.ai.to.bring.urgent.health.messages.to.marginalised.language.groups/134708.htm"
+    type: article
+    provider:
+      name: Christian Today
+      domain: christiantoday.com
+    quality: 25
+    images:
+      - url: "https://ctd-thechristianpost.netdna-ssl.com/en/full/79005/coronavirus.jpg"
+        width: 1200
+        height: 720
+  - title: "Microsoft adds 5 new Indian languages to its Translator service"
+    excerpt: "This takes the total number of Indian languages supported to 10, including Bengali, Hindi, Tamil, Telugu and Urdu. With this, the service will now allow over 90 per cent of Indians to access information and work in their native/preferred languages,"
+    publishedDateTime: 2020-04-16T17:26:00Z
+    webUrl: "https://news.webindia123.com/news/articles/Science/20200416/3541908.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 4
 
 secured: "q9n4035y2M07+8rL19ITQNhdnUM5kb+VBcl9YdPM2dNJvyNaUW9CxGouB17NILw7f3hWdqPI7EXFw9YPJTExx7BMpE2Ay3eYPdlGKeZ2ddz1H/todkyiegwwHGaqE1oi7elV4rdscbliw04s/Ywd5eJmxTtkZypHjA2BP+bJDNKhrLPGATIZjorml/6DCXkYPjqOMBzOKps1YPzZlmtOVmQIRtfOtsQOjqKCJ44eceEQSogtEtn6Un3jFvYO9ZH+nKxxRJWz+/v99gSl0s7JouNSKu1oTDlBRHpPEqDM8DUSg7IBkKeYCz09I0I6bkI7jKLqJIV9qYgwH4zRqwg/37mTP+9gNm7X+oSh4l7rN1LHecT4ZxXmrROYfwSq7cUhtBKdhF8BlS8t8tFkdnYNyiKWzTLU41I+j+fwqjASAHcKaHEwCQaiC56MisnwHlISNegrOu9Ds3jT1z2BE2BcGU8/HeiQ0bjFGT2N2qOvy4s=;bPiRExbFB6CYVH2yQfes0Q=="
 ---

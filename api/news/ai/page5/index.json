@@ -2,6 +2,229 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-04-15-pileus-helps-businesses-cut-their-cloud-spend.md",
+      "title": "Pileus helps businesses cut their cloud spend",
+      "excerpt": "Using machine learning, the company’s platform continuously learns about how a user typically uses a given cloud and then provides forecasts and daily personalized recommendations to help them stay within a budget. Pileus currently supports AWS, with support for Google Cloud and Microsoft Azure coming soon. With all of the information it ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/04/15/pileus-helps-businesses-cut-their-cloud-spend/",
+      "ampWebUrl": "https://techcrunch.com/2020/04/15/pileus-helps-businesses-cut-their-cloud-spend/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/15/pileus-helps-businesses-cut-their-cloud-spend/amp/",
+      "publishedDateTime": "2020-04-15T11:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/04/register_mockup_image.27280a96.png",
+          "width": 622,
+          "height": 364,
+          "title": "Pileus helps businesses cut their cloud spend",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-15-10-ways-ai-can-improve-digital-transformations-success-rate.md",
+      "title": "10 Ways AI Can Improve Digital Transformation's Success Rate",
+      "excerpt": "It's important to get beyond digital transformation as purely a technical, abstract construct and see it as a must-have strategy to retain customers and attract new ones.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/louiscolumbus/2020/04/15/10-ways-ai-can-improve-digital-transformations-success-rate/",
+      "ampWebUrl": "https://www.forbes.com/sites/louiscolumbus/2020/04/15/10-ways-ai-can-improve-digital-transformations-success-rate/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/04/15/10-ways-ai-can-improve-digital-transformations-success-rate/amp/",
+      "publishedDateTime": "2020-04-15T10:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e974143892edc0006728986%2F0x0.jpg",
+          "width": 1200,
+          "height": 623,
+          "title": "10 Ways AI Can Improve Digital Transformation's Success Rate",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-15-covid-19-crisis-illustrates-need-for-solid-aiml-strategy.md",
+      "title": "Covid-19 Crisis Illustrates Need for Solid AI/ML Strategy",
+      "excerpt": "AAs recently as 6 months ago, AI spending was projected to exceed $50B worldwide by 2021. A few months later the Coronavirus crisis struck across the world and may have created a whole new reason for organizing and employing AI/ML.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbesinsights/2020/04/15/covid-19-crisis-illustrates-need-for-solid-aiml-strategy/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesinsights/2020/04/15/covid-19-crisis-illustrates-need-for-solid-aiml-strategy/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesinsights/2020/04/15/covid-19-crisis-illustrates-need-for-solid-aiml-strategy/amp/",
+      "publishedDateTime": "2020-04-15T10:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbesinsights%2Ffiles%2F2020%2F04%2FAdobeStock_210908431-640.jpg",
+          "width": 640,
+          "height": 316,
+          "title": "Covid-19 Crisis Illustrates Need for Solid AI/ML Strategy",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-15-the-robot-that-can-train-your-dog-better-than-you-can.md",
+      "title": "The robot that can train your dog better than you can",
+      "excerpt": "The coronavirus pandemic has changed many routines, including those of pet guardians and their dogs and cats. Right now, that change is probably positive: Humans and animals are spending more time together as families shelter in place.",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnet.com/news/the-smart-robot-that-can-train-your-dog-better-than-you-can/",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/the-smart-robot-that-can-train-your-dog-better-than-you-can/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/the-smart-robot-that-can-train-your-dog-better-than-you-can/",
+      "publishedDateTime": "2020-04-15T10:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cnet2.cbsistatic.com/img/nRzGs39XDCKbcF5JE2yjhBDEasA=/2020/04/14/c094f7e6-674d-42e0-85a9-a670420da402/introducing-companionpro-mp4-00-00-29-26-still001.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": "The robot that can train your dog better than you can",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-15-using-ai-yes-health-cuts-costs-improves-adherence-for-weight-loss-and-diabetes-treatment.md",
+      "title": "Using AI, Yes Health cuts costs, improves adherence for weight loss and diabetes treatment",
+      "excerpt": "“Yes Health is proven to tackle difficult and costly chronic conditions through an AI-augmented and all-mobile solution, aligning it with our firm’s thesis in healthcare.”",
+      "heat": 77,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/04/15/using-ai-yes-health-cuts-costs-improves-adherence-for-weight-loss-and-diabetes-treatment/",
+      "ampWebUrl": "https://techcrunch.com/2020/04/15/using-ai-yes-health-cuts-costs-improves-adherence-for-weight-loss-and-diabetes-treatment/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/15/using-ai-yes-health-cuts-costs-improves-adherence-for-weight-loss-and-diabetes-treatment/amp/",
+      "publishedDateTime": "2020-04-15T10:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/04/GettyImages-1077583696.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": "Using AI, Yes Health cuts costs, improves adherence for weight loss and diabetes treatment",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-15-walking-robot-uses-neural-net-to-change-gaits.md",
       "title": "Walking robot uses neural net to change gaits",
       "excerpt": "Insects rapidly transition between different walking gaits, in response to external stimuli. Scientists have now created a small robot that can do the same thing, utilizing an integrated artificial neural network – the technology might ultimately find use in better-performing prostheses. Known as the NeuroPod, the 3D-printed six-legged robot ...",
@@ -1085,217 +1308,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-14-googles-automl-zero-lets-the-machines-create-algorithms-to-avoid-human-bias.md",
-      "title": "Google’s AutoML Zero lets the machines create algorithms to avoid human bias",
-      "excerpt": "It looks like Google‘s working on some major upgrades to its autonomous machine learning development language ‘AutoML.’ According to a pre-print research paper authored by several of the big ...",
-      "heat": 86,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/04/14/googles-automl-zero-lets-the-machines-create-algorithms-to-avoid-human-bias/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/04/14/googles-automl-zero-lets-the-machines-create-algorithms-to-avoid-human-bias/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/04/14/googles-automl-zero-lets-the-machines-create-algorithms-to-avoid-human-bias/amp/",
-      "publishedDateTime": "2020-04-14T13:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2017/07/robots-796x433.jpg",
-          "width": 796,
-          "height": 433,
-          "title": "Google’s AutoML Zero lets the machines create algorithms to avoid human bias",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-14-openai-launches-microscope-to-visualize-the-neurons-in-popular-machine-learning-models.md",
-      "title": "OpenAI launches Microscope to visualize the neurons in popular machine learning models",
-      "excerpt": "In addition to Microscope’s neuron visualizations, several works in recent years have attempted to visualize the activity of machine learning models. Introduced last fall, Facebook’s Captum uses visualizations to explain decisions made by machine learning models, while in March 2019 OpenAI and Google released the activation atlases ...",
-      "heat": 106,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/14/openai-launches-microscope-to-visualize-the-neurons-in-popular-machine-learning-models/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/14/openai-launches-microscope-to-visualize-the-neurons-in-popular-machine-learning-models/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/14/openai-launches-microscope-to-visualize-the-neurons-in-popular-machine-learning-models/amp/",
-      "publishedDateTime": "2020-04-14T12:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/alexnet.png?fit=1234%2C659&strip=all",
-          "width": 1234,
-          "height": 659,
-          "title": "OpenAI launches Microscope to visualize the neurons in popular machine learning models",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-14-googles-tensorflow-lite-model-maker-adapts-state-of-the-art-models-for-on-device-ai.md",
-      "title": "Google’s TensorFlow Lite Model Maker adapts state-of-the-art models for on-device AI",
-      "excerpt": "Google today announced TensorFlow Lite Model Maker, a tool that adapts state-of-the-art machine learning models to custom data sets using a technique known as transfer learning. It wraps machine learning concepts with an API that enables developers to train models in Google’s TensorFlow AI framework with only a few lines of code, and to ...",
-      "heat": 124,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/14/googles-tensorflow-lite-model-maker-adapts-state-of-the-art-models-for-on-device-ai/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/14/googles-tensorflow-lite-model-maker-adapts-state-of-the-art-models-for-on-device-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/14/googles-tensorflow-lite-model-maker-adapts-state-of-the-art-models-for-on-device-ai/amp/",
-      "publishedDateTime": "2020-04-14T11:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/06/tensorflow.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Google’s TensorFlow Lite Model Maker adapts state-of-the-art models for on-device AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "TensorFlow",
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-14-coronavirus-brightens-outlook-for-robotics-etfs.md",
-      "title": "Coronavirus Brightens Outlook for Robotics ETFs",
-      "excerpt": "Coronavirus cases have leaped to more than 1.86 million worldwide, with governments and business operators increasingly looking for ways to maintain operations along with curbing its spread. In such a scenario,",
-      "heat": 86,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nasdaq.com/articles/coronavirus-brightens-outlook-for-robotics-etfs-2020-04-14",
-      "ampWebUrl": "https://www.nasdaq.com/articles/coronavirus-brightens-outlook-for-robotics-etfs-2020-04-14?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/coronavirus-brightens-outlook-for-robotics-etfs-2020-04-14?amp",
-      "publishedDateTime": "2020-04-14T10:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-04-14-researchers-challenge-ai-to-give-advice-as-well-as-humans-on-reddit-can.md",
-      "title": "Researchers challenge AI to give advice as well as humans on Reddit can",
-      "excerpt": "Researchers in Seattle have introduced what they call a new AI grand challenge called TuringAdvice, which is centered on creating language models that generate helpful advice for humans using real world language. The TuringAdvice challenge is based on the dynamic RedditAdvice data set. Created for the challenge, RedditAdvice is a crowdsourced ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/14/researchers-challenge-ai-to-give-advice-as-well-as-humans-on-reddit-can/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/14/researchers-challenge-ai-to-give-advice-as-well-as-humans-on-reddit-can/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/14/researchers-challenge-ai-to-give-advice-as-well-as-humans-on-reddit-can/amp/",
-      "publishedDateTime": "2020-04-14T10:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/GettyImages-1157884675.jpg?fit=1800%2C900&strip=all",
-          "width": 1800,
-          "height": 900,
-          "title": "Researchers challenge AI to give advice as well as humans on Reddit can",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

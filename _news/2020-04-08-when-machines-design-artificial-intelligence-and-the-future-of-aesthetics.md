@@ -20,6 +20,6 @@ images:
     height: 1333
     title: "When Machines Design: Artificial Intelligence and the Future of Aesthetics"
 
-secured: "EFmmAMhH9b+8jhlh2MI+5SmTRWXAyjg+Wea4kzcyrIXGBh6/KOM2rfzxqtJ5rqqX5VaxSVHSMaxHWKGSCnwz74p7W3b/rL/rPIbQgA2QLVAxwckWmVl/PH4E9BMMUZXOs8/BrAoY/Z+3Qf+QdSJH+6Q/p2jYC0oXdaRpHs+6u3xOgx9Ky2ZhKCw2nC3qwhvo1cFThOfF6yyzDHX1lEah/4K/SZtZWV9r1m/jV+KOfewruuxhZVQ1ceZj6BhDBxvyfFs9ui1b1w4Q0PWYjy0W6Tc2ZuxZ2REFqNfewFcCR+nADGKQAqea1YW1tZTswzNH;sc+KX1BT0wfXNY6PY48tMw=="
+secured: "M/60tRZ1bEyyrqieKw0EwiCMLKkR8MaWECwY/ljlf+xUP2Rr/QUYMjXnszLPS+jrdPoUe/xsLkr4U87/K9D4FZVjQCeKqSMDWOMQrIyAsqKzlzi4IXexponw8KhnTcgEdCP5k/rxkN+Su4g0SlVh00eYtJxPUFub9loixhJgl5K0QfTuOA4I5WbFv2SSWTVVsZ3gGiaYp/fHSqUIqaua41oXsF5/UJ8han/vVyfZem/9ePUwGXKktv6GB58vZQ+8tpWp2qf+yfvU7NpwyAlinSoxedagTj9M3CmDZx1sW+9q7jTaZ/D4YSAvMEtF8Kff0ZtSYjVbsUY4de1D6Li6ygAwE+9+UZqcDyBF7jR3zPmOcmGqold58ac8hKSqroqpbNzyLdc1d1RNfwHDIwrlNJNwqLIDQ8orfTc5Tia+0SZrnwq9Ju+xupfyq015LxhJEksBR49LJ4NEZyCKMRTnLj5M2R3v1St1a4HY0VoUEJg=;ZUVW2HBjgFKG9HpUCrjX4A=="
 ---
 

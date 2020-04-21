@@ -2,6 +2,187 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-04-17-tensorflow-lite-gets-machine-learning-model-maker.md",
+      "title": "TensorFlow Lite gets machine learning model maker",
+      "excerpt": "Google has announced the TensorFlow Lite Model Maker. TensorFlow Lite is an open-source deep learning framework for on-device inference. The new tool is designed to adapt machine learning models to datasets with transfer learning. “It wraps the complex machine learning concepts with an intuitive API, so that everyone can get started without ...",
+      "heat": 103,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://sdtimes.com/ai/tensorflow-lite-gets-machine-learning-model-maker/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-17T11:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SD Times",
+        "domain": "sdtimes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://sdtimes.com/wp-content/uploads/2020/04/Screen-Shot-2020-04-13-at-4.22.27-PM.png",
+          "width": 781,
+          "height": 299,
+          "title": "TensorFlow Lite gets machine learning model maker",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "TensorFlow",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-17-smarter-faq-bots-with-amazon-kendra.md",
+      "title": "Smarter FAQ bots with Amazon Kendra",
+      "excerpt": "We often have questions when making a choice about a product or service. When was the last time you found yourself at the IT help desk at work? You probably had questions like “What time does the IT Help Desk open?” or “Can I get a temporary machine while you repair my laptop?”  Quick and accurate responses",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/smarter-faq-bots-with-amazon-kendra/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-17T11:13:43-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/04/15/smarter-faq-1.gif",
+          "width": 800,
+          "height": 576,
+          "title": "Smarter FAQ bots with Amazon Kendra",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-17-ai-becomes-an-ally-in-the-fight-against-covid-19.md",
+      "title": "AI Becomes An Ally In The Fight Against COVID-19",
+      "excerpt": "How human ingenuity coupled with artificial intelligence is helping healthcare providers across the world respond to the pandemic.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/servicenow/2020/04/17/ai-becomes-an-ally-in-the-fight-against-covid-19/",
+      "ampWebUrl": "https://www.forbes.com/sites/servicenow/2020/04/17/ai-becomes-an-ally-in-the-fight-against-covid-19/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/servicenow/2020/04/17/ai-becomes-an-ally-in-the-fight-against-covid-19/amp/",
+      "publishedDateTime": "2020-04-17T10:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e99ea5b2e46c30007c4f740%2F0x0.jpg%3FcropX1%3D395%26cropX2%3D3985%26cropY1%3D107%26cropY2%3D2126",
+          "width": 1200,
+          "height": 675,
+          "title": "AI Becomes An Ally In The Fight Against COVID-19",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-17-translating-your-website-or-application-automatically-with-amazon-translate-in-your-cicd-pipeline.md",
+      "title": "Translating your website or application automatically with Amazon Translate in your CI/CD pipeline",
+      "excerpt": "AWS allows you to deploy websites and applications globally in minutes. This means that both large enterprises and individual developers can reach users, and thus potential customers, all over the world. However, to provide the best experience, you should not only serve content close to your customers,",
+      "heat": 75,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/translating-your-website-or-application-automatically-with-amazon-translate-in-your-ci-cd-pipeline/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-17T09:37:35-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/01/16/translating-your-website-1.gif",
+          "width": 813,
+          "height": 435,
+          "title": "Translating your website or application automatically with Amazon Translate in your CI/CD pipeline",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-17-ai-could-save-the-world-if-it-doesnt-ruin-the-environment-first.md",
       "title": "AI Could Save the World, If It Doesn’t Ruin the Environment First",
       "excerpt": "Cerebras is one of a handful of companies that are creating specialized hardware for AI algorithms. Last year, it came out of stealth with the release of the CS-1, a huge processor with 1.2 trillion transistors, 18 gigabytes of on-chip memory, and 400,000 processing cores. Effectively, this allows the CS-1, the largest computer chip ever made ...",
@@ -905,176 +1086,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-16-autonomous-driving-startup-ponyai-takes-on-last-mile-delivery.md",
-      "title": "Autonomous-Driving Startup Pony.ai Takes On Last-Mile Delivery",
-      "excerpt": "With autonomous-vehicle companies parked by Covid-19, Pony.ai has teamed up with Los Angeles-based e-commerce site Yamibuy to deliver packages and groceries in the city of Irvine. Yamibuy specializes in Asian foods and home goods.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.bloomberg.com/news/articles/2020-04-16/autonomous-driving-startup-pony-ai-takes-on-last-mile-delivery",
-      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-04-16/autonomous-driving-startup-pony-ai-takes-on-last-mile-delivery",
-      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-04-16/autonomous-driving-startup-pony-ai-takes-on-last-mile-delivery",
-      "publishedDateTime": "2020-04-16T16:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/imXSCN6Ae09g/v1/360x-1.jpg",
-          "width": 360,
-          "height": 224,
-          "title": "Autonomous-Driving Startup Pony.ai Takes On Last-Mile Delivery",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-16-nba-microsoft-use-ai-to-create-a-personalized-fan-focused-streaming-service.md",
-      "title": "NBA, Microsoft use A.I. to create a personalized, fan-focused streaming service",
-      "excerpt": "According to a press release, the multiyear collaboration will create a “new, innovative, direct-to-consumer platform” on Microsoft Azure, the company’s framework of cloud services. The streaming service will use machine learning and artificial intelligence to provide personalized game broadcasts and other content. For now, the NBA and ...",
-      "heat": 85,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.digitaltrends.com/home-theater/nba-microsoft-new-streaming-service/",
-      "ampWebUrl": "https://www.digitaltrends.com/home-theater/nba-microsoft-new-streaming-service/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/home-theater/nba-microsoft-new-streaming-service/?amp",
-      "publishedDateTime": "2020-04-16T15:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-16-mits-ai-predicts-catastrophe-if-social-distancing-restrictions-relax-too-soon.md",
-      "title": "MIT’s AI predicts catastrophe if social distancing restrictions relax too soon",
-      "excerpt": "MIT recently trained a machine learning model to accurately predict the spread of COVID-19. According to the AI, we should be seeing a plateau where the amount of new cases begins to level off in the US and Italy in the next week. This good news, however, comes with a dire warning: relaxing quarantine measures too soon will be catastrophic.",
-      "heat": 83,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/04/16/mits-ai-predicts-catastrophe-if-social-distancing-restrictions-relax-too-soon/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/04/16/mits-ai-predicts-catastrophe-if-social-distancing-restrictions-relax-too-soon/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/04/16/mits-ai-predicts-catastrophe-if-social-distancing-restrictions-relax-too-soon/amp/",
-      "publishedDateTime": "2020-04-16T13:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/04/Coronavirus-model-796x418.jpg",
-          "width": 796,
-          "height": 418,
-          "title": "MIT’s AI predicts catastrophe if social distancing restrictions relax too soon",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-16-venturebeats-flagship-ai-event-transform-goes-fully-digital-and-extends-to-3-days.md",
-      "title": "VentureBeat’s flagship AI event, Transform, goes fully digital and extends to 3 days",
-      "excerpt": "Transform will also host its popular Women-in-AI breakfast, sponsored by Intel and Capital One. Transform will include a focus on diversity and inclusion topics, reflecting how ethics has become an important part of smart AI practice, and host its 2nd annual AI Innovation Awards. VentureBeat’s virtual event will allow AI innovators and ...",
-      "heat": 82,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/16/venturebeats-flagship-ai-event-transform-goes-fully-digital-and-extends-to-3-days/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/16/venturebeats-flagship-ai-event-transform-goes-fully-digital-and-extends-to-3-days/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/16/venturebeats-flagship-ai-event-transform-goes-fully-digital-and-extends-to-3-days/amp/",
-      "publishedDateTime": "2020-04-16T13:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/VB-Transform-2020.png?fit=1800%2C1200&strip=all",
-          "width": 1800,
-          "height": 1200,
-          "title": "VentureBeat’s flagship AI event, Transform, goes fully digital and extends to 3 days",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

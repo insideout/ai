@@ -2,6 +2,224 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2020-03-26-tusimple-partners-with-supplier-zf-to-mass-produce-self-driving-truck-tech.md",
+      "title": "TuSimple partners with supplier ZF to mass produce self-driving truck tech",
+      "excerpt": "Self-driving truck startup TuSimple is partnering with automotive supplier ZF to develop and produce autonomous vehicle technology, such as sensors, on a commercial scale. The partnership, slated to begin in April, will cover China, Europe and North America. The two companies will co-develop sensors needed in autonomous vehicle technology such ...",
+      "heat": 72,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/03/26/tusimple-partners-with-supplier-zf-to-mass-produce-self-driving-truck-tech/",
+      "ampWebUrl": "https://techcrunch.com/2020/03/26/tusimple-partners-with-supplier-zf-to-mass-produce-self-driving-truck-tech/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/03/26/tusimple-partners-with-supplier-zf-to-mass-produce-self-driving-truck-tech/amp/",
+      "publishedDateTime": "2020-03-26T16:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/03/TuSimple-Self-Drving-Truck-5.jpg?w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": "TuSimple partners with supplier ZF to mass produce self-driving truck tech",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-26-uc-berkeley-covid-19-first-target-of-new-ai-research-consortium.md",
+      "title": "UC Berkeley: COVID-19 First Target Of New AI Research Consortium",
+      "excerpt": "A core value in its activities is a commitment to open-source dissemination of the results for the public good.\"",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://patch.com/california/berkeley/uc-berkeley-covid-19-first-target-new-ai-research-consortium",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-26T15:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Patch",
+        "domain": "patch.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.patchcdn.com/assets/layout/logo-patch-800x600.png",
+          "width": 800,
+          "height": 600,
+          "title": "UC Berkeley: COVID-19 First Target Of New AI Research Consortium",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-26-will-this-crisis-help-set-autonomous-ai-on-the-right-course.md",
+      "title": "Will this crisis help set autonomous AI on the right course?",
+      "excerpt": "There are still a lot of questions that we need to answer. But the good news is that we have started to do so. And we seem to be heading in the right direction. Bastiane Huang is a product manager at OSARO, an AI/robotics startup based in San Francisco backed by Peter Thiel and Jerry Yang’s AME Cloud. She previously worked for Amazon Alexa.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/03/26/will-this-crisis-help-set-autonomous-ai-on-the-right-course/",
+      "ampWebUrl": "https://venturebeat.com/2020/03/26/will-this-crisis-help-set-autonomous-ai-on-the-right-course/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/26/will-this-crisis-help-set-autonomous-ai-on-the-right-course/amp/",
+      "publishedDateTime": "2020-03-26T15:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/03/coronavirus_robots.jpg?fit=1024%2C683&strip=all",
+          "width": 1024,
+          "height": 683,
+          "title": "Will this crisis help set autonomous AI on the right course?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-03-26-healthcare-artificial-intelligence-market-is-booming-worldwide-ibm-microsoft-micron-technology.md",
+      "title": "Healthcare Artificial Intelligence Market is Booming Worldwide | IBM, Microsoft, Micron Technology",
+      "excerpt": "Advance Market Analytics released the research report of Global Healthcare Artificial Intelligence Market, offers a detailed overview of the factors influencing the global business scope. Healthcare Artificial Intelligence Market research report shows the latest market insights with upcoming trends and breakdown of the products and services.",
+      "heat": 70,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-is-booming-worldwide-ibm-microsoft-micron-technology-2020-03-26",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-26T13:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Healthcare Artificial Intelligence Market is Booming Worldwide | IBM, Microsoft, Micron Technology",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2020-03-26-c3ai-microsoft-help-launch-the-c3ai-digital-transformation-institute.md",
+      "title": "C3.ai, Microsoft help launch the C3.ai Digital Transformation Institute",
+      "excerpt": "Additionally, C3.ai and Microsoft will contribute an $310 million in-kind, including use of the C3 AI Suite and Microsoft Azure computing, storage, and technical resources to support the consortium. C3.ai DTI will be jointly managed and hosted by the University of California at Berkeley and the University of Illinois at Urbana-Champaign.",
+      "heat": 136,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/c3-ai-microsoft-help-launch-the-c3-ai-digital-transformation-institute/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/c3-ai-microsoft-help-launch-the-c3-ai-digital-transformation-institute/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/c3-ai-microsoft-help-launch-the-c3-ai-digital-transformation-institute/",
+      "publishedDateTime": "2020-03-26T13:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/03/26/7a4cdb90-55e4-47df-bcef-2270e436b848/thumbnail/1200x675/a8d26ed3f62e8f9e33bc56df07bd93c5/online-learning-gets-its-moment-due-to-c-5e7a254b72c9c14f48d15807-1-mar-26-2020-18-29-53-poster.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "C3.ai, Microsoft help launch the C3.ai Digital Transformation Institute",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2020-03-26-needed-humans-to-break-artificial-intelligence-out-of-its-silo.md",
       "title": "Needed: Humans To Break Artificial Intelligence Out Of Its Silo",
       "excerpt": "AI will fill many roles, but perhaps its greatest potential is in its ability to reach across or break through organizational silos. At this point, however, with most implementations in pilot stages,",
@@ -1039,192 +1257,6 @@
         "Google AI",
         "AI",
         "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2020-03-26-global-image-recognition-market-by-opponents-sort-product-nec-corporation-google-inc-and-attrasoft-inc.md",
-      "title": "Global Image Recognition Market By Opponents, Sort, Product| NEC Corporation, Google Inc and Attrasoft Inc",
-      "excerpt": "Global Image Recognition Market (Revenue and Volume), Type, Application, End-User, and Regional Analysis, Import-Export Analysis, Industry Analysis, Premium Insights, Intellectual Property Analysis, Market Attractiveness,",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/global-image-recognition-market-by-opponents-sort-product-nec-corporation-google-inc-and-attrasoft-inc-2020-03-26",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-26T02:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Global Image Recognition Market By Opponents, Sort, Product| NEC Corporation, Google Inc and Attrasoft Inc",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-26-image-recognition-market-size-worth-1094-billion-by-2027-cagr-188-grand-view-research-inc.md",
-      "title": "Image Recognition Market Size Worth $109.4 Billion by 2027 | CAGR: 18.8%: Grand View Research, Inc.",
-      "excerpt": "The global image recognition market size is expected to reach USD 109.4 billion by 2027, according to a new report by Grand",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.benzinga.com/pressreleases/20/03/n15669680/image-recognition-market-size-worth-109-4-billion-by-2027-cagr-18-8-grand-view-research-inc",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/15669680",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15669680",
-      "publishedDateTime": "2020-03-26T01:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-26-coronavirus-pandemic-deep-tech-startups-pitch-in-with-chatbots-machine-learning.md",
-      "title": "Coronavirus pandemic | Deep tech startups pitch in with chatbots, machine learning",
-      "excerpt": "From powering the MyGov Covid19 chatbot to helping airlines deal with waves of cancellation request, AI startups step up their game",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.moneycontrol.com/news/business/startup/coronavirus-pandemic-deep-tech-startups-pitch-in-with-chatbots-machine-learning-5075071.html",
-      "ampWebUrl": "https://www.moneycontrol.com/news/business/startup/coronavirus-pandemic-deep-tech-startups-pitch-in-with-chatbots-machine-learning-5075071.html/amp",
-      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/startup/coronavirus-pandemic-deep-tech-startups-pitch-in-with-chatbots-machine-learning-5075071.html/amp",
-      "publishedDateTime": "2020-03-26T00:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "moneycontrol.com",
-        "domain": "moneycontrol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://static-news.moneycontrol.com/static-mcnews/2018/03/Amazon-1-378x213.jpg",
-          "width": 378,
-          "height": 213,
-          "title": "Coronavirus pandemic | Deep tech startups pitch in with chatbots, machine learning",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-26-coronavirus-india-update-robots-artificial-intelligence-will-be-taking-care-of-patients-in-isolation-wards.md",
-      "title": "Coronavirus India Update: Robots, Artificial Intelligence will be taking care of patients in Isolation Wards",
-      "excerpt": "Amidst the lockdown and disrupted economy look at some clever way in which Artificial Intelligence i.e Robots are becoming a part of the fight to slow down Coronavirus and help healthcare workers.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.ciol.com/coronavirus-india-update-robots-artificial-intelligence-will-taking-care-patients-isolation-wards/",
-      "ampWebUrl": "https://www.ciol.com/coronavirus-india-update-robots-artificial-intelligence-will-taking-care-patients-isolation-wards/amp/",
-      "cdnAmpWebUrl": "https://www-ciol-com.cdn.ampproject.org/c/s/www.ciol.com/coronavirus-india-update-robots-artificial-intelligence-will-taking-care-patients-isolation-wards/amp/",
-      "publishedDateTime": "2020-03-25T23:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CIOL",
-        "domain": "ciol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-03-26-megvii-makes-deep-learning-ai-framework-open-source-as-china-moves-to-reduce-reliance-on-us-platforms.md",
-      "title": "Megvii makes deep learning AI framework open-source as China moves to reduce reliance on US platforms",
-      "excerpt": "Chinese artificial intelligence (AI) start-up Megvii Technology announced on Wednesday that it would make its deep learning framework open-source, as China steps up the development of home-grown AI and makes the technologies more accessible. Initially developed in 2014, MegEngine is part of Megvii’s proprietary AI platform, Brain++ ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.scmp.com/tech/start-ups/article/3077023/megvii-makes-deep-learning-ai-framework-open-source-china-moves",
-      "ampWebUrl": "https://amp.scmp.com/tech/start-ups/article/3077023/megvii-makes-deep-learning-ai-framework-open-source-china-moves",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/start-ups/article/3077023/megvii-makes-deep-learning-ai-framework-open-source-china-moves",
-      "publishedDateTime": "2020-03-25T18:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/03/26/7d1776f4-6e7d-11ea-b0ed-5e14cf8eb9e1_image_hires_090437.jpg?itok=gFifpPde&v=1585184684",
-          "width": 1200,
-          "height": 630,
-          "title": "Megvii makes deep learning AI framework open-source as China moves to reduce reliance on US platforms",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

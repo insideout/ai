@@ -2,6 +2,52 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-04-20-facebook-three-fintech-firms-in-talks-to-launch-mobile-payments-service-in-indonesia.md",
+      "title": "Facebook, three fintech firms in talks to launch mobile payments service in Indonesia",
+      "excerpt": "Facebook is working with three Indonesian digital fintech firms to apply for regulatory approval to launch mobile payments ... Sign up now and get a 10% discount (original price US$400) off the China AI Report 2020 by SCMP Research. Learn about the AI ambitions of Alibaba, Baidu & JD.com through our in-depth case studies, and explore new ...",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.scmp.com/tech/big-tech/article/3080729/facebook-three-fintech-firms-talks-launch-mobile-payments-service",
+      "ampWebUrl": "https://amp.scmp.com/tech/big-tech/article/3080729/facebook-three-fintech-firms-talks-launch-mobile-payments-service",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3080729/facebook-three-fintech-firms-talks-launch-mobile-payments-service",
+      "publishedDateTime": "2020-04-20T02:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/04/20/72823e74-82e4-11ea-8863-2139a14b0dea_image_hires_181245.JPG?itok=-bpnCTHB&v=1587377576",
+          "width": 1200,
+          "height": 630,
+          "title": "Facebook, three fintech firms in talks to launch mobile payments service in Indonesia",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-11-enabling-financial-inclusion-in-asia.md",
       "title": "Enabling Financial Inclusion in Asia",
       "excerpt": "Fortunately, AI-enabled alternative credit scoring is upending this, creating opportunities for online lenders and fostering financial inclusion across the region ... borrowers who may otherwise be credit-worthy. Self-learning credit scoring models can continuously improve themselves via machine learning (ML) as new data feeds into the system.",
@@ -1113,35 +1159,6 @@
       "provider": {
         "name": "GlobeNewswire",
         "domain": "globenewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-18-here-to-help-formations-comes-out-of-stealth-to-help-full-time-self-employed-maximize-their-financial-gains.md",
-      "title": "Here to Help: Formations Comes Out of Stealth to Help Full-Time Self-Employed Maximize Their Financial Gains",
-      "excerpt": "The Kirkland-Based Fintech Startup Embraces the Latest Cloud-Accounting Technology, Big Data and Machine Learning to Detect Patterns and Find Opportunities for Smarter Financial Decisions That Can Add Up to $20,",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.benzinga.com/pressreleases/20/03/b15578143/here-to-help-formations-comes-out-of-stealth-to-help-full-time-self-employed-maximize-their-financ",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/15578143",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15578143",
-      "publishedDateTime": "2020-03-18T04:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null

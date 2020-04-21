@@ -39,6 +39,52 @@
       ]
     },
     {
+      "path": "_news/2020-04-20-facebook-three-fintech-firms-in-talks-to-launch-mobile-payments-service-in-indonesia.md",
+      "title": "Facebook, three fintech firms in talks to launch mobile payments service in Indonesia",
+      "excerpt": "Facebook is working with three Indonesian digital fintech firms to apply for regulatory approval to launch mobile payments ... Sign up now and get a 10% discount (original price US$400) off the China AI Report 2020 by SCMP Research. Learn about the AI ambitions of Alibaba, Baidu & JD.com through our in-depth case studies, and explore new ...",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.scmp.com/tech/big-tech/article/3080729/facebook-three-fintech-firms-talks-launch-mobile-payments-service",
+      "ampWebUrl": "https://amp.scmp.com/tech/big-tech/article/3080729/facebook-three-fintech-firms-talks-launch-mobile-payments-service",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3080729/facebook-three-fintech-firms-talks-launch-mobile-payments-service",
+      "publishedDateTime": "2020-04-20T02:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/04/20/72823e74-82e4-11ea-8863-2139a14b0dea_image_hires_181245.JPG?itok=-bpnCTHB&v=1587377576",
+          "width": 1200,
+          "height": 630,
+          "title": "Facebook, three fintech firms in talks to launch mobile payments service in Indonesia",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-18-ai-weekly-when-to-ship-or-shelve-a-coronavirus-solution.md",
       "title": "AI Weekly: When to ship or shelve a coronavirus solution",
       "excerpt": "Those debates certainly carry over to the kind of AI being deployed right now, and the important question of when a company should ship or shelve a coronavirus solution. A lot of AI is being deployed in the pandemic to save lives and someday soon help us resume daily lives, much of which you’ve been able to read about here. But they aren’t ...",
@@ -1246,38 +1292,6 @@
         "Natural Language Processing",
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-16-artificial-intelligence-ai-market-analysis-trends-growth-industry-size-and-forecast-2025.md",
-      "title": "Artificial Intelligence (AI) Market Analysis, Trends, Growth, Industry Size and Forecast 2025",
-      "excerpt": "BMW, Tesla, and Toyota are also taking interest in robotics and machine learning to develop driverless cars. Get Sample Copy of Artificial Intelligence (AI) Market at: https://www.omrglobal.com/request-sample/artificial-intelligence-market Some of the key players contributing significantly in the growth of AI market include AIBrain, Amazon ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.openpr.com/news/1968035/artificial-intelligence-ai-market-analysis-trends-growth",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-16T00:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics",
-        "Facebook AI",
-        "AI in Healthcare"
       ]
     }
   ],
