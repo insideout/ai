@@ -2,6 +2,179 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2020-04-02-robots-are-learning-workplace-etiquette-at-mit.md",
+      "title": "Robots are learning workplace etiquette at MIT",
+      "excerpt": "While humans learn workplace etiquette on the job, it's of course, a much different value proposition for robots. The machines cannot develop these skills by simply asking questions and understanding commands like the AI in Siri or Alexa, according to researchers at MIT's Computer Science and Artificial Intelligence Laboratory (CSAIL).",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/article/robots-are-learning-workplace-etiquette-at-mit/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/robots-are-learning-workplace-etiquette-at-mit/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/robots-are-learning-workplace-etiquette-at-mit/",
+      "publishedDateTime": "2020-04-02T06:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/04/02/8bdf463f-c2ea-4817-a2d1-569423f2a4f0/resize/1200x/69d9245c4ab3efbf45d8121d63f5ffd9/human-robot-team-performed-a-meal-preparation-task-in-a-simulated-kitchen-environment.png",
+          "width": 1200,
+          "height": 914,
+          "title": "Robots are learning workplace etiquette at MIT",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-02-this-ai-startup-rents-out-robots-that-can-do-human-jobs-amid-the-coronavirus-pandemic.md",
+      "title": "This AI startup rents out robots that can do human jobs amid the coronavirus pandemic",
+      "excerpt": "Mashable is a global, multi-platform media and entertainment company. Powered by its own proprietary technology, Mashable is the go-to source for tech, digital culture and entertainment content for its dedicated and influential audience around the globe. ©2020 Mashable, Inc. All Rights Reserved. Mashable, MashBash and Mashable House are among ...",
+      "heat": 97,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://mashable.com/video/vicarious-rent-robot-warehouse-coronavirus/",
+      "ampWebUrl": "https://mashable.com/video/vicarious-rent-robot-warehouse-coronavirus.amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/video/vicarious-rent-robot-warehouse-coronavirus.amp",
+      "publishedDateTime": "2020-04-02T06:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mondrian.mashable.com/2020%252F04%252F02%252F3c%252Ff7b8f42a453041b9aa48e8a0173d8bba.dc6de.jpg%252F1200x630.jpg?signature=V6tKc6zRaNLeJbzAlP-3zZ1zzMU=",
+          "width": 1200,
+          "height": 630,
+          "title": "This AI startup rents out robots that can do human jobs amid the coronavirus pandemic",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-02-google-were-opening-code-search-for-go-angular-dart-flutter-tensorflow-and-more.md",
+      "title": "Google: We're opening Code Search for Go, Angular, Dart, Flutter, TensorFlow and more",
+      "excerpt": "Code Search or 'CS' for open-source Google projects for now supports Angular, Bazel, Dart, ExoPlayer, Firebase SDK, Flutter, Go, gVisor, Kythe, Nomulus, Outline, and Tensorflow – which represent a small portion of Google's open-source projects, but ones that open-source communities may benefit from search being available on their respective ...",
+      "heat": 109,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/google-were-opening-code-search-for-go-angular-dart-flutter-tensorflow-and-more/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-were-opening-code-search-for-go-angular-dart-flutter-tensorflow-and-more/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-were-opening-code-search-for-go-angular-dart-flutter-tensorflow-and-more/",
+      "publishedDateTime": "2020-04-02T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/2020/04/02/923a42ea-62f9-40aa-8fe4-82a59a5454d8/cs-opensource.png",
+          "width": 2082,
+          "height": 1292,
+          "title": "Google: We're opening Code Search for Go, Angular, Dart, Flutter, TensorFlow and more",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "TensorFlow"
+      ]
+    },
+    {
+      "path": "_news/2020-04-02-why-robots-will-save-your-career-not-destroy-it.md",
+      "title": "Why Robots Will Save Your Career, Not Destroy It",
+      "excerpt": "AI, despite the challenges it poses for job seekers and the hiring process, is not a problem to be solved — it's a ray of hope.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/04/02/why-robots-will-save-your-career-not-destroy-it/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/04/02/why-robots-will-save-your-career-not-destroy-it/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/04/02/why-robots-will-save-your-career-not-destroy-it/amp/",
+      "publishedDateTime": "2020-04-02T06:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F04%2Fa-61.jpg",
+          "width": 640,
+          "height": 640,
+          "title": "Why Robots Will Save Your Career, Not Destroy It",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-02-phantom-ai-raises-22-million-to-develop-adas-products.md",
       "title": "Phantom AI raises $22 million to develop ADAS products",
       "excerpt": "Phantom AI, a startup developing advanced driver-assistance systems (ADAS) for cars and trucks, today announced that it has raised $22 million. CEO Hyunggi Cho says it will enable the company to expand availability of its modular, software-based platform, which lets OEMs and Tier 1 automakers select components they wish to integrate and ...",
@@ -854,170 +1027,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-01-30-under-30-asia-2020-the-startups-leveraging-ai-and-machine-learning-to-transform-businesses.md",
-      "title": "30 Under 30 Asia 2020: The Startups Leveraging AI And Machine Learning To Transform Businesses",
-      "excerpt": "Hyunsoo Kim, cofounder of Superb AI, has been selected as the featured honoree for the Enterprise Technology category of this year’s Forbes 30 Under 30 Asia list, leading a pack of several fellow honorees who founded startups based on AI.",
-      "heat": 94,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/johnkang/2020/04/01/30-under-30-asia-2020-the-startups-leveraging-ai-and-machine-learning-to-transform-businesses/",
-      "ampWebUrl": "https://www.forbes.com/sites/johnkang/2020/04/01/30-under-30-asia-2020-the-startups-leveraging-ai-and-machine-learning-to-transform-businesses/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkang/2020/04/01/30-under-30-asia-2020-the-startups-leveraging-ai-and-machine-learning-to-transform-businesses/amp/",
-      "publishedDateTime": "2020-04-01T14:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e709bc5e1e61700080f01bc%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "30 Under 30 Asia 2020: The Startups Leveraging AI And Machine Learning To Transform Businesses",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2020-04-01-levandowski-says-uber-must-pay-his-179-million-judgment-to-google.md",
-      "title": "Levandowski says Uber must pay his $179 million judgment to Google",
-      "excerpt": "Alphabet's huge legal battle with Uber over self-driving technology ended two years ago. But the engineer at the center of that fight, Anthony Levandowski, is still facing legal and financial ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://arstechnica.com/cars/2020/04/levandowski-says-uber-must-pay-his-179-million-judgment-to-google/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-01T14:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-01-icon-group-partners-with-varian-to-advance-cancer-care-in-the-southern-hemisphere.md",
-      "title": "Icon Group Partners with Varian to Advance Cancer Care in the Southern Hemisphere",
-      "excerpt": "This artificial intelligence (AI)-driven holistic adaptive therapy solution is designed to deliver an entire adapted treatment in a typical 15-minute timeslot. Icon Cancer Centre is part of Icon ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.asiaone.com/business/icon-group-partners-varian-advance-cancer-care-southern-hemisphere",
-      "ampWebUrl": "https://www.asiaone.com/business/icon-group-partners-varian-advance-cancer-care-southern-hemisphere?amp",
-      "cdnAmpWebUrl": "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/icon-group-partners-varian-advance-cancer-care-southern-hemisphere?amp",
-      "publishedDateTime": "2020-04-01T14:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Asia One",
-        "domain": "asiaone.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Apr2020/pr-newswire_500_4_23.jpg?itok=ksaCxlcx",
-          "width": 763,
-          "height": 509,
-          "title": "Icon Group Partners with Varian to Advance Cancer Care in the Southern Hemisphere",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-01-ai-supported-sales-reps-how-to-make-it-work.md",
-      "title": "AI-Supported Sales Reps: How To Make It Work",
-      "excerpt": "AI can help salespeople do more of what they do best, but most efforts to enable reps with AI fail. Here's why, and how to make it work for your organization.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/arunshastri/2020/04/01/ai-supported-sales-reps-how-to-make-it-work/",
-      "ampWebUrl": "https://www.forbes.com/sites/arunshastri/2020/04/01/ai-supported-sales-reps-how-to-make-it-work/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/arunshastri/2020/04/01/ai-supported-sales-reps-how-to-make-it-work/amp/",
-      "publishedDateTime": "2020-04-01T13:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1132912559%2F0x0.jpg",
-          "width": 1200,
-          "height": 720,
-          "title": "AI-Supported Sales Reps: How To Make It Work",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

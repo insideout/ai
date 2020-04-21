@@ -2,6 +2,147 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2020-04-03-gumstix-ai-series-for-nvidia-jetson-nano-features-tensorflow-pre-integration.md",
+      "title": "Gumstix AI Series for NVIDIA Jetson Nano Features TensorFlow Pre-Integration",
+      "excerpt": "The devices, which are powered by the NVIDIA Jetson Nano running a Quad-core ARM A57, feature built in TensorFlow support to make edge AI prototyping more accessible for software engineers. According to the company, the AI devices streamline the software ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.embedded-computing.com/machine-learning/gumstix-ai-series-for-nvidia-jetson-nano-features-tensorflow-pre-integration",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-02T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Embedded Computing Design",
+        "domain": "embedded-computing.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "http://share.opsy.st/5e879c92ccff4-Screen+Shot+2020-04-03+at+1.28.54+PM.png",
+          "width": 367,
+          "height": 496,
+          "title": "Gumstix AI Series for NVIDIA Jetson Nano Features TensorFlow Pre-Integration",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "TensorFlow",
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-03-sentiveillance-60-facial-identification-and-object-recognition-technology.md",
+      "title": "SentiVeillance 6.0 Facial Identification and Object Recognition Technology",
+      "excerpt": "Neurotechnology released the SentiVeillance 6.0 software development kit (SDK), which provides improved facial recognition using ... provides real-time moving object detection; tracking ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.officer.com/investigations/forensics/facial-recognition/product/12322276/neurotechnology-sentiveillance-60-facial-identification-and-object-recognition-technology",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-02T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Officer",
+        "domain": "officer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-03-top-artificial-intelligence-funding-and-investments-in-march-2020.md",
+      "title": "Top Artificial Intelligence Funding and Investments in March 2020",
+      "excerpt": "What Artificial Intelligence has in its baggage is known to everyone and ... Therefore, we have brought you some of the most recent and significant AI funding and investments of 2020. Waymo, Alphabet’s self-driving car unit, just raised billions of ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.analyticsinsight.net/top-artificial-intelligence-funding-and-investments-in-march-2020/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-02T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics Insight",
+        "domain": "analyticsinsight.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.analyticsinsight.net/wp-content/uploads/2020/04/software_robots-top-526940848.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": "Top Artificial Intelligence Funding and Investments in March 2020",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-03-your-face-is-going-places-you-may-not-like.md",
+      "title": "Your Face Is Going Places You May Not Like",
+      "excerpt": "In a study by the ACLU, Amazon’s Rekognition software accidentally matched 28 members of congress with mugshots in its database. The training set isn’t the only problem for recognition.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://hackaday.com/2019/01/02/your-face-is-going-places-you-may-not-like/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-02T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2019/01/Facial.jpg",
+          "width": 3000,
+          "height": 1815,
+          "title": "Your Face Is Going Places You May Not Like",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-02-using-ai-responsibly-to-fight-the-coronavirus-pandemic.md",
       "title": "Using AI responsibly to fight the coronavirus pandemic",
       "excerpt": "Mark Minevich is president of Going Global Ventures, an advisor at Boston Consulting Group, a digital fellow at IPsoft and a leading global AI expert and digital cognitive strategist and venture capitalist. Irakli Beridze is head of the Centre for AI and Robotics at the United Nations Interregional Crime and Justice Research Institute (UNICRI).",
@@ -902,179 +1043,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-02-robots-are-learning-workplace-etiquette-at-mit.md",
-      "title": "Robots are learning workplace etiquette at MIT",
-      "excerpt": "While humans learn workplace etiquette on the job, it's of course, a much different value proposition for robots. The machines cannot develop these skills by simply asking questions and understanding commands like the AI in Siri or Alexa, according to researchers at MIT's Computer Science and Artificial Intelligence Laboratory (CSAIL).",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/robots-are-learning-workplace-etiquette-at-mit/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/robots-are-learning-workplace-etiquette-at-mit/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/robots-are-learning-workplace-etiquette-at-mit/",
-      "publishedDateTime": "2020-04-02T06:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/04/02/8bdf463f-c2ea-4817-a2d1-569423f2a4f0/resize/1200x/69d9245c4ab3efbf45d8121d63f5ffd9/human-robot-team-performed-a-meal-preparation-task-in-a-simulated-kitchen-environment.png",
-          "width": 1200,
-          "height": 914,
-          "title": "Robots are learning workplace etiquette at MIT",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-02-this-ai-startup-rents-out-robots-that-can-do-human-jobs-amid-the-coronavirus-pandemic.md",
-      "title": "This AI startup rents out robots that can do human jobs amid the coronavirus pandemic",
-      "excerpt": "Mashable is a global, multi-platform media and entertainment company. Powered by its own proprietary technology, Mashable is the go-to source for tech, digital culture and entertainment content for its dedicated and influential audience around the globe. ©2020 Mashable, Inc. All Rights Reserved. Mashable, MashBash and Mashable House are among ...",
-      "heat": 97,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://mashable.com/video/vicarious-rent-robot-warehouse-coronavirus/",
-      "ampWebUrl": "https://mashable.com/video/vicarious-rent-robot-warehouse-coronavirus.amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/video/vicarious-rent-robot-warehouse-coronavirus.amp",
-      "publishedDateTime": "2020-04-02T06:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/2020%252F04%252F02%252F3c%252Ff7b8f42a453041b9aa48e8a0173d8bba.dc6de.jpg%252F1200x630.jpg?signature=V6tKc6zRaNLeJbzAlP-3zZ1zzMU=",
-          "width": 1200,
-          "height": 630,
-          "title": "This AI startup rents out robots that can do human jobs amid the coronavirus pandemic",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-02-google-were-opening-code-search-for-go-angular-dart-flutter-tensorflow-and-more.md",
-      "title": "Google: We're opening Code Search for Go, Angular, Dart, Flutter, TensorFlow and more",
-      "excerpt": "Code Search or 'CS' for open-source Google projects for now supports Angular, Bazel, Dart, ExoPlayer, Firebase SDK, Flutter, Go, gVisor, Kythe, Nomulus, Outline, and Tensorflow – which represent a small portion of Google's open-source projects, but ones that open-source communities may benefit from search being available on their respective ...",
-      "heat": 109,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/google-were-opening-code-search-for-go-angular-dart-flutter-tensorflow-and-more/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-were-opening-code-search-for-go-angular-dart-flutter-tensorflow-and-more/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-were-opening-code-search-for-go-angular-dart-flutter-tensorflow-and-more/",
-      "publishedDateTime": "2020-04-02T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/2020/04/02/923a42ea-62f9-40aa-8fe4-82a59a5454d8/cs-opensource.png",
-          "width": 2082,
-          "height": 1292,
-          "title": "Google: We're opening Code Search for Go, Angular, Dart, Flutter, TensorFlow and more",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2020-04-02-why-robots-will-save-your-career-not-destroy-it.md",
-      "title": "Why Robots Will Save Your Career, Not Destroy It",
-      "excerpt": "AI, despite the challenges it poses for job seekers and the hiring process, is not a problem to be solved — it's a ray of hope.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/04/02/why-robots-will-save-your-career-not-destroy-it/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/04/02/why-robots-will-save-your-career-not-destroy-it/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/04/02/why-robots-will-save-your-career-not-destroy-it/amp/",
-      "publishedDateTime": "2020-04-02T06:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F04%2Fa-61.jpg",
-          "width": 640,
-          "height": 640,
-          "title": "Why Robots Will Save Your Career, Not Destroy It",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

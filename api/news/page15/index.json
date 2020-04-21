@@ -2,6 +2,178 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2020-04-07-global-self-driving-car-market-industry-analysis-product-capacity-growth-demand-and-future-forecast-period-till-2026.md",
+      "title": "Global Self-Driving Car Market Industry Analysis, Product Capacity, Growth Demand and Future Forecast Period Till 2026",
+      "excerpt": "Key players of the global Self-Driving Car market are included as given below: The major players in the market include Tesla Motors, Audi, Ford, Toyota, Google, Volvo, Nissan, Baidu, Apple ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/global-self-driving-car-market-industry-analysis-product-capacity-growth-demand-and-future-forecast-period-till-2026-2020-04-07?mod=mw_quote_news",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-07T08:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Global Self-Driving Car Market Industry Analysis, Product Capacity, Growth Demand and Future Forecast Period Till 2026",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-07-9-ai-stocks-were-leaning-on-more-and-more.md",
+      "title": "9 AI Stocks We’re Leaning on More and More",
+      "excerpt": "IBM Watson Assistant for Citizens on the IBM public cloud brings together Watson Assistant, Natural Language Processing capabilities from IBM Research, and state-of-art enterprise AI search capabilities with Watson Discovery, to understand and respond to common questions about COVID-19. It’s always great when big corporations give back to the ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://investorplace.com/2020/04/9-ai-stocks-were-leaning-on-more-and-more/",
+      "ampWebUrl": "https://investorplace.com/2020/04/9-ai-stocks-were-leaning-on-more-and-more/amp/",
+      "cdnAmpWebUrl": "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/04/9-ai-stocks-were-leaning-on-more-and-more/amp/",
+      "publishedDateTime": "2020-04-07T08:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InvestorPlace",
+        "domain": "investorplace.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://investorplace.com/wp-content/uploads/2019/07/ai1600b.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": "9 AI Stocks We’re Leaning on More and More",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-07-5-practical-reasons-to-embrace-artificial-intelligence.md",
+      "title": "5 practical reasons to embrace artificial intelligence",
+      "excerpt": "AI is about more than just robots. There are several reasons that people should accept artificial intelligence, including health care fighting the current coronavirus pandemic and empowering people with disabilities. Artificial intelligence is about more than robots. Whether someone considers themself a tech expert, or a newbie when it comes to ...",
+      "heat": 91,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/article/5-practical-reasons-to-embrace-artificial-intelligence/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/5-practical-reasons-to-embrace-artificial-intelligence/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/5-practical-reasons-to-embrace-artificial-intelligence/",
+      "publishedDateTime": "2020-04-07T08:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr3.cbsistatic.com/hub/i/r/2020/04/07/b9096b1a-0696-4267-a3f0-1ee3c61fe529/resize/1200x/ef5bf98b81cf782d65908c237d3d27b5/drone-garden.jpg",
+          "width": 1200,
+          "height": 798,
+          "title": "5 practical reasons to embrace artificial intelligence",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2020-04-07-mixmode-raises-4-million-to-help-companies-fight-ai-driven-cyberattacks.md",
+      "title": "MixMode raises $4 million to help companies fight AI-driven cyberattacks",
+      "excerpt": "The Santa Barbara-based startup is trying to leapfrog ahead of current security AI strategies by developing technology that doesn’t require any human intervention or rule-making. As bad actors turn to AI to launch new forms of attacks, the company believes such “unsupervised” AI is essential to maintaining defenses. “Large enterprises ...",
+      "heat": 96,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/07/mixmode-raises-4-million-to-help-companies-fight-ai-driven-cyberattacks/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/07/mixmode-raises-4-million-to-help-companies-fight-ai-driven-cyberattacks/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/07/mixmode-raises-4-million-to-help-companies-fight-ai-driven-cyberattacks/amp/",
+      "publishedDateTime": "2020-04-07T08:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/Screen-Shot-2020-04-06-at-10.01.02-AM-e1586253515890.png?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "MixMode raises $4 million to help companies fight AI-driven cyberattacks",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-07-autonomous-shuttles-ferry-covid-19-tests-around-florida.md",
       "title": "Autonomous Shuttles Ferry COVID-19 Tests Around Florida",
       "excerpt": "The Jacksonville Transportation Authority (JTA), Beep and NAVYA are ferrying COVID-19 tests around in self-driving vans. Four fully autonomous vehicles have ... traffic and staff,\" according to the non-profit medical center. \"Using artificial intelligence enables us to protect staff from exposure to this contagious virus by using cutting ...",
@@ -886,162 +1058,6 @@
       "topics": [
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-04-07-4-chinese-backed-electric-car-start-ups-planning-a-run-at-tesla.md",
-      "title": "4 Chinese-backed electric-car start-ups planning a run at Tesla",
-      "excerpt": "The investment makes the Chinese giant one of Tesla's largest shareholders, and is part of Tencent's pursuit of self-driving cars and ... Chinese internet provider Baidu recently made a reportedly ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnbc.com/2017/04/07/4-chinese-backed-electric-car-start-ups-planning-a-run-at-tesla.html",
-      "ampWebUrl": "https://www.cnbc.com/amp/2017/04/07/4-chinese-backed-electric-car-start-ups-planning-a-run-at-tesla.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2017/04/07/4-chinese-backed-electric-car-start-ups-planning-a-run-at-tesla.html",
-      "publishedDateTime": "2020-04-06T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/104383570-GettyImages-630926570.jpg?v=1529474712",
-          "width": 2000,
-          "height": 1333,
-          "title": "4 Chinese-backed electric-car start-ups planning a run at Tesla",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-07-ai-applications-top-10-real-world-artificial-intelligence-applications.md",
-      "title": "AI Applications: Top 10 Real World Artificial Intelligence Applications",
-      "excerpt": "This makes Waymo cars more effective and safer. Another famous example of an autonomous vehicle is Tesla’s self-driving car. Artificial Intelligence implements computer vision, image detection and deep learning to build cars that can automatically detect ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.edureka.co/blog/artificial-intelligence-applications/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-06T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Edureka",
-        "domain": "edureka.co",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "http://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/10/Artificial-IntelligenceAI-applications.png",
-          "width": 1630,
-          "height": 952,
-          "title": "AI Applications: Top 10 Real World Artificial Intelligence Applications",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-07-artificial-intelligence-driving-autonomous-vehicle-development.md",
-      "title": "Artificial intelligence driving autonomous vehicle development",
-      "excerpt": "Autonomous driving is one of the key application areas of artificial intelligence (AI). Autonomous vehicles (AV ... which eventually became Waymo in 2016. Waymo has been extensively leveraging AI to make fully autonomous driving a reality.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://ihsmarkit.com/research-analysis/artificial-intelligence-driving-autonomous-vehicle-development.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-06T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IHS Markit",
-        "domain": "ihsmarkit.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.ihsmarkit.com/www/blog/ra-autonomous-car-getty692834496-featured.jpg",
-          "width": 636,
-          "height": 370,
-          "title": "Artificial intelligence driving autonomous vehicle development",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-07-artificial-intelligence-enables-rapid-covid-19-lung-imaging-analysis-at-uc-san-diego-health.md",
-      "title": "Artificial Intelligence Enables Rapid COVID-19 Lung Imaging Analysis at UC San Diego Health",
-      "excerpt": "The details are published in the Journal of Thoracic Imaging. Now, enabled by donated service credits provided by the AWS Diagnostic Development Initiative and the efforts of UC San Diego Health’s Clinical Research IT team, Hsiao’s AI method has been ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://health.ucsd.edu/news/releases/Pages/2020-04-07-artificial-intelligence-enables-rapid-covid-19-lung-imaging-analysis.aspx",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-06T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Scripps News",
-        "domain": "ucsd.edu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://health.ucsd.edu/news/releases/PublishingImages/covid_xray_hsiao.jpg",
-          "width": 600,
-          "height": 268,
-          "title": "Artificial Intelligence Enables Rapid COVID-19 Lung Imaging Analysis at UC San Diego Health",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

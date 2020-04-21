@@ -2,6 +2,95 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-04-17-ai-could-save-the-world-if-it-doesnt-ruin-the-environment-first.md",
+      "title": "AI Could Save the World, If It Doesn’t Ruin the Environment First",
+      "excerpt": "Cerebras is one of a handful of companies that are creating specialized hardware for AI algorithms. Last year, it came out of stealth with the release of the CS-1, a huge processor with 1.2 trillion transistors, 18 gigabytes of on-chip memory, and 400,000 processing cores. Effectively, this allows the CS-1, the largest computer chip ever made ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://uk.pcmag.com/artificial-intelligence-2/125690/ai-could-save-the-world-if-it-doesnt-ruin-the-environment-first",
+      "ampWebUrl": "https://uk.pcmag.com/artificial-intelligence-2/125690/ai-could-save-the-world-if-it-doesnt-ruin-the-environment-first?amp=1",
+      "cdnAmpWebUrl": "https://uk-pcmag-com.cdn.ampproject.org/c/s/uk.pcmag.com/artificial-intelligence-2/125690/ai-could-save-the-world-if-it-doesnt-ruin-the-environment-first?amp=1",
+      "publishedDateTime": "2020-04-17T09:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://sm.pcmag.com/t/pcmag_uk/news/a/ai-could-s/ai-could-save-the-world-if-it-doesnt-ruin-the-environment-fi_khzt.620.jpg",
+          "width": 620,
+          "height": 349,
+          "title": "AI Could Save the World, If It Doesn’t Ruin the Environment First",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-17-language-may-help-ai-navigate-new-environments.md",
+      "title": "Language may help AI navigate new environments",
+      "excerpt": "In a new study published this week on the preprint server Arxiv.org, scientists at the University of Toronto and the Vector Institute, an independent nonprofit dedicated to advancing AI, propose BabyAI++, a platform to study whether descriptive texts help AI to generalize across dynamic environments. Both it and several baseline models will ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/17/language-may-help-ai-navigate-new-environments/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/17/language-may-help-ai-navigate-new-environments/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/17/language-may-help-ai-navigate-new-environments/amp/",
+      "publishedDateTime": "2020-04-17T08:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/10/GettyImages-1073802514-e1582219406331.jpg?fit=1200%2C608&strip=all",
+          "width": 1200,
+          "height": 608,
+          "title": "Language may help AI navigate new environments",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-17-microsoft-to-be-ai-partner-for-nba.md",
       "title": "Microsoft To Be AI Partner For NBA",
       "excerpt": "Microsoft will become the official technology partner for the National Basketball Association or NBA under a new multi-year partnership between the two parties. As part of their collaboration, Microsoft will become the Official Artificial Intelligence Partner and an Official Cloud and Laptop Partner for the NBA,",
@@ -987,95 +1076,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-16-mits-ai-predicts-catastrophe-if-social-distancing-restrictions-relax-too-soon.md",
-      "title": "MIT’s AI predicts catastrophe if social distancing restrictions relax too soon",
-      "excerpt": "MIT recently trained a machine learning model to accurately predict the spread of COVID-19. According to the AI, we should be seeing a plateau where the amount of new cases begins to level off in the US and Italy in the next week. This good news, however, comes with a dire warning: relaxing quarantine measures too soon will be catastrophic.",
-      "heat": 83,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/04/16/mits-ai-predicts-catastrophe-if-social-distancing-restrictions-relax-too-soon/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/04/16/mits-ai-predicts-catastrophe-if-social-distancing-restrictions-relax-too-soon/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/04/16/mits-ai-predicts-catastrophe-if-social-distancing-restrictions-relax-too-soon/amp/",
-      "publishedDateTime": "2020-04-16T13:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/04/Coronavirus-model-796x418.jpg",
-          "width": 796,
-          "height": 418,
-          "title": "MIT’s AI predicts catastrophe if social distancing restrictions relax too soon",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-16-venturebeats-flagship-ai-event-transform-goes-fully-digital-and-extends-to-3-days.md",
-      "title": "VentureBeat’s flagship AI event, Transform, goes fully digital and extends to 3 days",
-      "excerpt": "Transform will also host its popular Women-in-AI breakfast, sponsored by Intel and Capital One. Transform will include a focus on diversity and inclusion topics, reflecting how ethics has become an important part of smart AI practice, and host its 2nd annual AI Innovation Awards. VentureBeat’s virtual event will allow AI innovators and ...",
-      "heat": 82,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/16/venturebeats-flagship-ai-event-transform-goes-fully-digital-and-extends-to-3-days/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/16/venturebeats-flagship-ai-event-transform-goes-fully-digital-and-extends-to-3-days/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/16/venturebeats-flagship-ai-event-transform-goes-fully-digital-and-extends-to-3-days/amp/",
-      "publishedDateTime": "2020-04-16T13:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/VB-Transform-2020.png?fit=1800%2C1200&strip=all",
-          "width": 1800,
-          "height": 1200,
-          "title": "VentureBeat’s flagship AI event, Transform, goes fully digital and extends to 3 days",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

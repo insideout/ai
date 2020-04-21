@@ -2,6 +2,176 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-04-07-uc-san-diego-health-uses-ai-to-augment-covid-19-lung-imaging-analysis.md",
+      "title": "UC San Diego Health uses AI to augment COVID-19 lung imaging analysis",
+      "excerpt": "To quickly detect pneumonia -- and therefore better distinguish between COVID-19 patients likely to need more supportive care in the hospital and those who could be followed closely at home -- UC San Diego Health radiologists and other physicians are now using artificial intelligence ... by Amazon Web Services (AWS). The new AI capability ...",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.news-medical.net/news/20200407/UC-San-Diego-Health-uses-AI-to-augment-COVID-19-lung-imaging-analysis.aspx",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20200407/UC-San-Diego-Health-uses-AI-to-augment-COVID-19-lung-imaging-analysis.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200407/UC-San-Diego-Health-uses-AI-to-augment-COVID-19-lung-imaging-analysis.aspx",
+      "publishedDateTime": "2020-04-07T13:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.news-medical.net/image.axd?picture=2019%2f5%2ffuturistic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": "UC San Diego Health uses AI to augment COVID-19 lung imaging analysis",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-07-apple-acquires-ai-start-up-voysis.md",
+      "title": "Apple Acquires AI Start-Up Voysis",
+      "excerpt": "He served on active duty with the US Army and has a Bachelor's degree in accounting. Follow @dannyvena Apple (NASDAQ:AAPL) has acquired Voysis, an artificial intelligence (AI) start-up focused on helping systems provide better responses to voice commands. Bloomberg reported the acquisition on Friday. The most obvious application would be to ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fool.com/investing/2020/04/07/apple-acquires-ai-start-up-voysis.aspx",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/04/07/apple-acquires-ai-start-up-voysis.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/04/07/apple-acquires-ai-start-up-voysis.aspx",
+      "publishedDateTime": "2020-04-07T13:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F567147%2Fgirl-using-a-smart-phone-voice-recognition.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 800,
+          "title": "Apple Acquires AI Start-Up Voysis",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-07-blackrock-and-microsoft-form-strategic-partnership-to-host-aladdin-on-azure-as-blackrock-readies-aladdin-for-next-chapter-of-innovation.md",
+      "title": "BlackRock and Microsoft Form Strategic Partnership to Host Aladdin on Azure as BlackRock Readies Aladdin for Next Chapter of Innovation",
+      "excerpt": "BlackRock and Microsoft Corp. have formed a strategic partnership to host BlackRock’s Aladdin infrastructure on the Microsoft Azure cloud platform,",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/blackrock-and-microsoft-form-strategic-partnership-to-host-aladdin-on-azure-as-blackrock-readies-aladdin-for-next-chapter-of-innovation-2020-04-07",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-07T13:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "BlackRock and Microsoft Form Strategic Partnership to Host Aladdin on Azure as BlackRock Readies Aladdin for Next Chapter of Innovation",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-07-googles-ai-learns-how-to-navigate-environments-from-limited-data.md",
+      "title": "Google’s AI learns how to navigate environments from limited data",
+      "excerpt": "Carnegie Mellon, Google, and Stanford researchers write in a paper that they’ve developed a framework for using weak supervision — a form of AI training where the model learns from large amounts of limited, imprecise, or noisy data — that enables robots to efficiently explore a challenging environment. By learning to reach only areas of ...",
+      "heat": 97,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/07/googles-ai-learns-how-to-navigate-environments-from-limited-data/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/07/googles-ai-learns-how-to-navigate-environments-from-limited-data/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/07/googles-ai-learns-how-to-navigate-environments-from-limited-data/amp/",
+      "publishedDateTime": "2020-04-07T12:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/11/robot-on-computer.jpg?fit=1198%2C599&strip=all",
+          "width": 1198,
+          "height": 599,
+          "title": "Google’s AI learns how to navigate environments from limited data",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-07-the-dirty-truth-about-seo-in-2020.md",
       "title": "The Dirty Truth About SEO In 2020",
       "excerpt": "The truth is, no one really gets SEO. What Google does is highly secretive, based on complex algorithms and machine learning. You’ll probably hear a lot of mumbo jumbo from some SEO consultants. Once upon a time,",
@@ -1111,168 +1281,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-07-glassbox-raises-40-million-to-track-customer-journeys-with-ai.md",
-      "title": "Glassbox raises $40 million to track customer journeys with AI",
-      "excerpt": "“Our aim is to improve functionality and keep up with trends and patterns, enabling enterprises to deliver the best possible customer experience which we achieve through our proprietary technology, harnessing AI to great effect.” Glassbox’s investments in AI and machine learning manifest in its customer behavior and churn ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/07/glassbox-raises-40-million-to-track-customer-journeys-with-ai/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/07/glassbox-raises-40-million-to-track-customer-journeys-with-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/07/glassbox-raises-40-million-to-track-customer-journeys-with-ai/amp/",
-      "publishedDateTime": "2020-04-07T04:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/TDO_glassbox_1-e1585871003462.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Glassbox raises $40 million to track customer journeys with AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-07-new-centre-to-address-ai-and-digital-ethics.md",
-      "title": "New centre to address AI and digital ethics",
-      "excerpt": "A new centre for artificial intelligence (AI) and digital ethics has been launched by the University Melbourne to address ethical, policy and legal challenges posed by new technologies. Combining expertise from Melbourne Law School, Melbourne School of ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.miragenews.com/new-centre-to-address-ai-and-digital-ethics/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-07T04:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Armed robbery in Revesby",
-        "domain": "miragenews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://about.unimelb.edu.au/__data/assets/image/0017/144107/CCTV.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": "New centre to address AI and digital ethics",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-07-ai-adoption-is-on-the-rise.md",
-      "title": "AI Adoption Is On The Rise",
-      "excerpt": "Company resources, processes and bottom lines will be constantly scrutinized and re-prioritized more than ever. That's why 2020 is a key window for AI adoption and acceleration to take place across the world.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/04/07/ai-adoption-is-on-the-rise/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/04/07/ai-adoption-is-on-the-rise/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/04/07/ai-adoption-is-on-the-rise/amp/",
-      "publishedDateTime": "2020-04-07T04:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F04%2Fa-2.jpg",
-          "width": 640,
-          "height": 640,
-          "title": "AI Adoption Is On The Rise",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-07-a-florida-lab-is-using-self-driving-vans-to-ferry-coronavirus-tests.md",
-      "title": "A Florida lab is using self-driving vans to ferry coronavirus tests",
-      "excerpt": "The Mayo Clinic in Florida is using four driverless shuttles to ferry ... and free up healthcare workers’ time. “Using artificial intelligence enables us to protect staff from exposure to ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businessinsider.com.au/mayo-clinic-autonomous-vans-coronavirus-tests-2020-4",
-      "ampWebUrl": "https://www.businessinsider.com.au/mayo-clinic-autonomous-vans-coronavirus-tests-2020-4/amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com-au.cdn.ampproject.org/c/s/www.businessinsider.com.au/mayo-clinic-autonomous-vans-coronavirus-tests-2020-4/amp",
-      "publishedDateTime": "2020-04-07T04:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider Australia",
-        "domain": "businessinsider.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.insider.com/5e8c410715ea4b198f62af02",
-          "width": 800,
-          "height": 600,
-          "title": "A Florida lab is using self-driving vans to ferry coronavirus tests",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

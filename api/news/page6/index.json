@@ -2,6 +2,87 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-04-16-leveraging-ai-to-improve-workflow-12-tips-for-agencies.md",
+      "title": "Leveraging AI To Improve Workflow: 12 Tips For Agencies",
+      "excerpt": "For an agency, artificial intelligence can remove a lot of the drudgery involved in the industry. However, implementing AI can be a challenge, especially when there are no set methods of doing so.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2020/04/16/leveraging-ai-to-improve-workflow-12-tips-for-agencies/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2020/04/16/leveraging-ai-to-improve-workflow-12-tips-for-agencies/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2020/04/16/leveraging-ai-to-improve-workflow-12-tips-for-agencies/amp/",
+      "publishedDateTime": "2020-04-16T04:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbesagencycouncil%2Ffiles%2F2020%2F04%2FLeveraging_AI_To_Improve_Workflow-_12_Tips_For_Agencies-1200x1015.png",
+          "width": 1200,
+          "height": 1015,
+          "title": "Leveraging AI To Improve Workflow: 12 Tips For Agencies",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-16-how-machine-learning-can-keep-sas-retail-shelves-stocked-during-covid-19.md",
+      "title": "How machine learning can keep SA’s retail shelves stocked during COVID-19",
+      "excerpt": "“Implementing technology with machine learning capabilities will provide retailers with the ability to run insightful analytics and augment this data with trends from other markets already dealing with this crisis. This gives them the ability to predict behaviours and stabilise supply chains,” he says. He adds this information can inform ...",
+      "heat": 83,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.itweb.co.za/content/kLgB17e89BPv59N4",
+      "ampWebUrl": "https://amp.itweb.co.za/content/kLgB17e89BPv59N4",
+      "cdnAmpWebUrl": "https://amp-itweb-co-za.cdn.ampproject.org/c/s/amp.itweb.co.za/content/kLgB17e89BPv59N4",
+      "publishedDateTime": "2020-04-16T04:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ITWeb",
+        "domain": "itweb.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.itweb.co.za/static/pictures/2020/04/Morne-Laubscher-400X.jpg",
+          "width": 400,
+          "height": 303,
+          "title": "How machine learning can keep SA’s retail shelves stocked during COVID-19",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-16-collective-mobilization-can-help-start-ups-fight-covid-19-outbreak.md",
       "title": "Collective Mobilization Can Help Start-Ups Fight COVID-19 Outbreak",
       "excerpt": "On the flip side, Hong Kong-based AI healthcare startup Insilico Medicine recently opened its drug compound database to pharmaceutical companies worldwide to help speed up the identification of a COVID-19 cure. This type of open collaboration between startups and big industry is imperative to saving lives. Going forward, startups and industry ...",
@@ -1011,96 +1092,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-15-vulcan-capital-invests-in-mobile-sports-game-maker-nifty-games-and-computer-vision-startup-aireverie.md",
-      "title": "Vulcan Capital invests in mobile sports game maker Nifty Games and computer vision startup AI.Reverie",
-      "excerpt": "Nifty Games, a San Francisco-based startup that develops mobile sports games, announced a $12 million investment round. Founded in 2018 by gaming veterans, the company is developing “clash-style” mobile games for sports fans, similar to Clash Royale. It has licensing partnerships with the NFL and NBA, a key differentiator. “Sports games ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.geekwire.com/2020/vulcan-capital-invests-mobile-sports-game-maker-nifty-games/",
-      "ampWebUrl": "https://www.geekwire.com/2020/vulcan-capital-invests-mobile-sports-game-maker-nifty-games/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/vulcan-capital-invests-mobile-sports-game-maker-nifty-games/amp/",
-      "publishedDateTime": "2020-04-15T09:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/04/aireverie_cities-630x354.png",
-          "width": 630,
-          "height": 354,
-          "title": "Vulcan Capital invests in mobile sports game maker Nifty Games and computer vision startup AI.Reverie",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-04-15-uber-claims-its-ai-enables-driverless-cars-to-predict-traffic-movement-with-high-accuracy.md",
-      "title": "Uber claims its AI enables driverless cars to predict traffic movement with high accuracy",
-      "excerpt": "It’s well-understood that without the ability to predict the decisions other drivers on the road might make, vehicles can’t be fully autonomous. In a tragic case in point, an Uber self-driving prototype hit and killed a pedestrian in Tempe, Arizona two years ago, partly because the vehicle failed to detect and avoid the victim. ATG’s ...",
-      "heat": 95,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/15/uber-claims-its-ai-enables-driverless-cars-to-predict-traffic-movement-with-high-accuracy/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/15/uber-claims-its-ai-enables-driverless-cars-to-predict-traffic-movement-with-high-accuracy/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/15/uber-claims-its-ai-enables-driverless-cars-to-predict-traffic-movement-with-high-accuracy/amp/",
-      "publishedDateTime": "2020-04-15T08:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/06/b75020d1-894d-4cae-89e8-ac3ec2c3c419-e1572304180828.png?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Uber claims its AI enables driverless cars to predict traffic movement with high accuracy",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

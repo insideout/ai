@@ -2,6 +2,88 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-04-20-vietnamese-smartphone-makers-devices-will-offer-mask-facial-recognition.md",
+      "title": "Vietnamese Smartphone Maker’s Devices Will Offer Mask Facial Recognition",
+      "excerpt": "Vingroup’s device unit VinSmart will add facial recognition capabilities to its smartphones that can identify users wearing masks, the company said in an emailed statement.",
+      "heat": 78,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.bloomberg.com/news/articles/2020-04-20/vinsmart-to-offer-mask-facial-recognition-on-its-smartphones",
+      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-04-20/vinsmart-to-offer-mask-facial-recognition-on-its-smartphones",
+      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-04-20/vinsmart-to-offer-mask-facial-recognition-on-its-smartphones",
+      "publishedDateTime": "2020-04-19T20:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-19-have-1000-to-invest-buy-these-2-artificial-intelligence-stocks-now.md",
+      "title": "Have $1,000 to Invest? Buy These 2 Artificial Intelligence Stocks Now",
+      "excerpt": "Artificial intelligence (AI) -- the capability of a machine to mimic intelligent human behavior -- is a huge growth trend. The tech is being used to smarten up countless things large and small -- from cities and homes to cars and computers to factory equipment and healthcare diagnostic tools. One research firm, IDC, estimates that spending on ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fool.com/investing/2020/04/19/have-1000-to-invest-buy-these-2-artificial-intelli.aspx",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/04/19/have-1000-to-invest-buy-these-2-artificial-intelli.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/04/19/have-1000-to-invest-buy-these-2-artificial-intelli.aspx",
+      "publishedDateTime": "2020-04-19T16:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F568387%2Fbest-ai-stocks-best-artificial-intelligence-stocks-2020-amzn-syock-amazon-stock-nvda-stock-nvidia-stock-goog-stock-google-stock-alphabet-stock-evbg-stock-everbright-stock.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 800,
+          "title": "Have $1,000 to Invest? Buy These 2 Artificial Intelligence Stocks Now",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-19-privitar-announces-availability-of-its-data-privacy-platform-in-aws-marketplace.md",
       "title": "Privitar announces availability of its Data Privacy Platform in AWS Marketplace",
       "excerpt": "AWS Security, Data and Analytics Competency In addition ... constantly and efficiently monitor cameras in real-time or review the high volumes of archived video. Video analytics powered by Artificial Intelligence Increasingly, event venues are overcoming this challenge and maximising this video data by investing in intelligent video surveillance.",
@@ -996,95 +1078,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-17-ai-could-save-the-world-if-it-doesnt-ruin-the-environment-first.md",
-      "title": "AI Could Save the World, If It Doesn’t Ruin the Environment First",
-      "excerpt": "Cerebras is one of a handful of companies that are creating specialized hardware for AI algorithms. Last year, it came out of stealth with the release of the CS-1, a huge processor with 1.2 trillion transistors, 18 gigabytes of on-chip memory, and 400,000 processing cores. Effectively, this allows the CS-1, the largest computer chip ever made ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://uk.pcmag.com/artificial-intelligence-2/125690/ai-could-save-the-world-if-it-doesnt-ruin-the-environment-first",
-      "ampWebUrl": "https://uk.pcmag.com/artificial-intelligence-2/125690/ai-could-save-the-world-if-it-doesnt-ruin-the-environment-first?amp=1",
-      "cdnAmpWebUrl": "https://uk-pcmag-com.cdn.ampproject.org/c/s/uk.pcmag.com/artificial-intelligence-2/125690/ai-could-save-the-world-if-it-doesnt-ruin-the-environment-first?amp=1",
-      "publishedDateTime": "2020-04-17T09:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://sm.pcmag.com/t/pcmag_uk/news/a/ai-could-s/ai-could-save-the-world-if-it-doesnt-ruin-the-environment-fi_khzt.620.jpg",
-          "width": 620,
-          "height": 349,
-          "title": "AI Could Save the World, If It Doesn’t Ruin the Environment First",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-17-language-may-help-ai-navigate-new-environments.md",
-      "title": "Language may help AI navigate new environments",
-      "excerpt": "In a new study published this week on the preprint server Arxiv.org, scientists at the University of Toronto and the Vector Institute, an independent nonprofit dedicated to advancing AI, propose BabyAI++, a platform to study whether descriptive texts help AI to generalize across dynamic environments. Both it and several baseline models will ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/17/language-may-help-ai-navigate-new-environments/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/17/language-may-help-ai-navigate-new-environments/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/17/language-may-help-ai-navigate-new-environments/amp/",
-      "publishedDateTime": "2020-04-17T08:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/10/GettyImages-1073802514-e1582219406331.jpg?fit=1200%2C608&strip=all",
-          "width": 1200,
-          "height": 608,
-          "title": "Language may help AI navigate new environments",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

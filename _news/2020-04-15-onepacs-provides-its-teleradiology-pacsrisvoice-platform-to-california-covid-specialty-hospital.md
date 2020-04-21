@@ -1,19 +1,25 @@
 ---
 category: news
 title: "OnePacs Provides Its Teleradiology PACS/RIS/Voice Platform to California COVID Specialty Hospital"
-excerpt: "PALO ALTO, Calif., April 15, 2020 /PRNewswire/ -- In response to the COVID-19 pandemic, OnePacs is providing its PACS/RIS-reporting platform, with voice recognition, to the California State Department"
+excerpt: "In response to the COVID-19 pandemic, OnePacs is providing its PACS/RIS-reporting platform, with voice recognition, to the California"
 publishedDateTime: 2020-04-15T07:00:00Z
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/onepacs-provides-its-teleradiology-pacs-ris-voice-platform-to-california-covid-specialty-hospital/article_8d979ba3-96bf-5f3d-b470-36603f52a9e5.html"
+webUrl: "https://www.prnewswire.com/news-releases/onepacs-provides-its-teleradiology-pacsrisvoice-platform-to-california-covid-specialty-hospital-301040761.html"
 type: article
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "YyDrKI7gm1GF9VJIVbotJRgCSjXMaxIHPWvO6XIThr2d3XkGkHFtb6nZOUMP/roldslXxTQZejTjN43Su20W71ekyOBGyfJ4UvKvulMegXdC4BQdEy4hxUk6Py7BrmpWi4kUeH1E3xpxNEbwAz4arf1y53FCArjiRUvcuQbUpZFmk9ivwEV+oxcTOJsnjW7OJX1JOr12CXbn3mKtl2FqW3Gx5mzE3z/fvgAvRtdMhF2Fsp/kzX3Cv8oJCTSzPNia///zpuvL8cscjopaEpSwxK4giZ1D8gwxzwr3YMvX3lp5LzXANvKaa1lbza8mIhAQ;E0mNTVe3Ick6UVUcUwfF2w=="
+images:
+  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+    width: 600
+    height: 315
+    title: "OnePacs Provides Its Teleradiology PACS/RIS/Voice Platform to California COVID Specialty Hospital"
+
+secured: "sc5H84vdOvj+w07/hMC1ZR8y3uhC4d8wnWQ/2MlxAykt8ehWz+dN+L+mb6ireIRCLggCkQ/DsVnQ7Qg6MGOj33k9jdm+erWS3I69pE/nO6vRhjMU7bqKkaSBITW/BbWbIifroJR00XkV6D8Wmh08jkJElk17jr4UeZFRh/pPrISk540AWZdO02HasiPZFjZbducMJnkt+KxurlpeTJj645/bVY/EuDHrCPTWnqkPQedJ3UELBtsgwsSXP6g7mR1OAqsJ0ExQ1Vet7x5qYfnlMW5rzKcvggN43aYNlCs0c+dcZmq8vzJUUB7/4BX/z7vs;WNRguPgCQc8eW8PvJ/aIyA=="
 ---
 

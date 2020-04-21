@@ -28,6 +28,6 @@ images:
     height: 673
     title: "Nvidia launches Project MONAI AI framework for health care research in alpha"
 
-secured: "rFmu79GqiWz2hA/D4tInQ8SLVZQ4CxqNMYCdriMvrQ8h5sTXTZcasvnOUiqbL8ioAsbJRbJnJK7nAOXwj72/mJvacqGFoRk7V6R3gnDl6LaOA95fZo9xlzBuxl3QG3Rh8bB7jI3/+vskXX+8fOTiB+5gLXqHad19cd+vZUmqTzrYR1F+v7T9GT+LAJvR5D2//77iMJopFk7+qK7uXAV7mYkH4dzqu5615AnXc5GQLbOE3seuPaxCQLRBpUsLJoqGl7P2+2vk7ObUHkA5u7a5JkVsX8qjyB6rrqkDwKt1fg5na1/bQKn/uo6HlqFGNunu;iIIYQSHojl6j4/IyeiYWcw=="
+secured: "u21aReMJmeneGZBkH5Ocs60ymmNys+djwIgikU6kfJQmy+8k/hTKbw3WbikgT39RdBlQpGcleB26RrnP3r7yiG7yNLOmS6DppJDnN0/Id2ffQkgKE1QeXaBZd5AlDnr1NdLN9kyspEdZbD/tECO1bZe9TGBcmfu6+4g4kJtQYGCf0GgTmhrHhwFmdWuG3xsCIitsIq6rVEIhvm7m5VvCzUaBipIS/G2bjrVstoO9cpeH4Yd8P3yb15SlchW2IKyQt2isEStImOeedbTxOa+9EAR/CPNa6Awurf8DxPWL3eQi3ldtAHeugr+k7/KCsikl3duGW4wlvUuWVJlgiVorhVxMEyxxEnoj4UTs/HTR0rrxnnlGRt3im64PYKIubG7MY/NmndEvm4yxjwFNJNF2xGlHdehBOgciwFrlp/nnfzdpihnk8CSOhABlqVvHjR/320zXaeWUeOTIWJpJkrqNs+FqOudqY5v5O00RQ89+G9A=;w2aFB1/pLEU1WsQ0COR+Zg=="
 ---
 

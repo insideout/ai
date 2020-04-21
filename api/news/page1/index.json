@@ -2,6 +2,94 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-04-21-facebooks-ai-detects-fake-accounts-with-fewer-than-20-friend-requests.md",
+      "title": "Facebook’s AI detects fake accounts with fewer than 20 friend requests",
+      "excerpt": "We plan to accomplish this by mixing feature-based and behavior-based models,” wrote Facebook. Facebook is broadly moving toward an AI training technique called self-supervised learning, in which unlabeled data is used in conjunction with small amounts of labeled data to produce an improvement in learning accuracy. Facebook’s deep entity ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/21/facebooks-ai-detects-fake-accounts-with-fewer-than-20-friend-requests/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/21/facebooks-ai-detects-fake-accounts-with-fewer-than-20-friend-requests/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/21/facebooks-ai-detects-fake-accounts-with-fewer-than-20-friend-requests/amp/",
+      "publishedDateTime": "2020-04-21T11:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/05/facebook-ai.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Facebook’s AI detects fake accounts with fewer than 20 friend requests",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-21-watch-fake-elon-musk-zoom-bombs-meeting-using-real-time-deepfake-ai.md",
+      "title": "Watch: Fake Elon Musk Zoom-bombs meeting using real-time Deepfake AI",
+      "excerpt": "The technology’s called Avatarify. It was developed by Aliev using open-source AI code called “The First Order Motion Model For Image Animation,” which was developed by researchers at the University of Trento in Italy. Avatarify superimposes another person’s face on your own in real-time. Most Deepfakes require you to pre-record ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/04/21/watch-fake-elon-musk-zoom-bombs-meeting-using-real-time-deepfake-ai/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/04/21/watch-fake-elon-musk-zoom-bombs-meeting-using-real-time-deepfake-ai/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/04/21/watch-fake-elon-musk-zoom-bombs-meeting-using-real-time-deepfake-ai/amp/",
+      "publishedDateTime": "2020-04-21T11:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/04/fakeelon-796x448.jpg",
+          "width": 796,
+          "height": 448,
+          "title": "Watch: Fake Elon Musk Zoom-bombs meeting using real-time Deepfake AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-21-nvidia-launches-project-monai-ai-framework-for-health-care-research-in-alpha.md",
       "title": "Nvidia launches Project MONAI AI framework for health care research in alpha",
       "excerpt": "MONAI stands for Medical Open Network for AI. The framework is optimized for the demands of health care researchers and made for running with deep learning frameworks like PyTorch and Ignite. A main goal of the MONAI framework is to help researchers can reproduce their experiments in order t to build upon each other’s work. One example in the ...",
@@ -1017,96 +1105,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-20-allergy-insights-with-watson-uses-ai-to-predict-allergy-symptom-risk.md",
-      "title": "Allergy Insights with Watson uses AI to predict allergy symptom risk",
-      "excerpt": "IBM today announced a new tool that taps AI to predict when allergy symptoms are likely to flare up. It’s called Allergy Insights with Watson, and it’s available in The Weather Channel app for iOS and Android ahead of a launch on the web. In addition to a 15-day forecast that predicts allergy symptom risk (e.g., high, moderate, low ...",
-      "heat": 104,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/20/allergy-insights-with-watson-uses-ai-to-predict-allergy-symptom-risk/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/20/allergy-insights-with-watson-uses-ai-to-predict-allergy-symptom-risk/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/20/allergy-insights-with-watson-uses-ai-to-predict-allergy-symptom-risk/amp/",
-      "publishedDateTime": "2020-04-20T12:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/11/ibm-keyboard-logo.png?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Allergy Insights with Watson uses AI to predict allergy symptom risk",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-20-contactless-delivery-using-self-driving-cars-coming-to-irvine-ca-amid-coronavirus.md",
-      "title": "Contactless delivery using self-driving cars coming to Irvine, CA amid coronavirus",
-      "excerpt": "For the most up-to-date news and information about the coronavirus pandemic, visit the WHO website . A Toyota-backed self-driving car startup will soon jump into the and contactless delivery game. Pony.",
-      "heat": 78,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnet.com/roadshow/news/autonomous-grocery-delivery-toyota-pony-ai-irvine-california-coronavirus/",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/autonomous-grocery-delivery-toyota-pony-ai-irvine-california-coronavirus/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/autonomous-grocery-delivery-toyota-pony-ai-irvine-california-coronavirus/",
-      "publishedDateTime": "2020-04-20T11:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cnet1.cbsistatic.com/img/GKSW9ZW-FYkRooxXACcCq9i2OZw=/2020/04/17/549366cd-a19a-4cd5-b5da-3e913fe04605/ogi-pony.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": "Contactless delivery using self-driving cars coming to Irvine, CA amid coronavirus",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

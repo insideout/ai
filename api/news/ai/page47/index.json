@@ -2,6 +2,170 @@
   "page": 47,
   "value": [
     {
+      "path": "_news/2020-03-07-application-of-computer-vision-in-precision-agriculture-farming.md",
+      "title": "Application of Computer Vision in Precision Agriculture & Farming",
+      "excerpt": "But now AI in agriculture is boosting this sector using the power computer vision technology, to train the machines for better productivity in agro and farming. Actually, high-labor cost and ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/vsinghbisen/application-of-computer-vision-in-precision-agriculture-farming-79b0600d5a5d",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-07T01:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/1200/1*ocyh2KDUta4JcMB-FHMFbg.jpeg",
+          "width": 1200,
+          "height": 813,
+          "title": "Application of Computer Vision in Precision Agriculture & Farming",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-07-tensorflow-to-expand-ai-capabilities-into-mobile-iot-javascript.md",
+      "title": "TensorFlow to expand AI capabilities into mobile, IoT, JavaScript",
+      "excerpt": "It has been three years since the open-source machine learning platform TensorFlow was launched, and now the team is announcing new and ambitious plans for the AI library. The TensorFlow Developer ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://sdtimes.com/ai/tensorflow-to-expand-ai-capabilities-into-mobile-iot-javascript/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-06T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SD Times",
+        "domain": "sdtimes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://sdtimes.com/wp-content/uploads/2019/03/hero_720.png",
+          "width": 720,
+          "height": 405,
+          "title": "TensorFlow to expand AI capabilities into mobile, IoT, JavaScript",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-06-its-like-you-have-a-hand-again-a-major-breakthrough-in-robotic-limb-technology.md",
+      "title": "'It's like you have a hand again' — A major breakthrough in robotic limb technology",
+      "excerpt": "They're claiming it as a major advance in mind-controlled prosthetics ... \"It's just been really hard to do because the physics is not in your favour.\" While the robotic technology in prosthetic hands has come a long way in recent years, the way ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cbc.ca/radio/quirks/mar-7-new-technology-gives-amputees-a-hand-a-big-dam-proposal-your-dog-s-heat-sensitive-nose-and-more-1.5486967/it-s-like-you-have-a-hand-again-a-major-breakthrough-in-robotic-limb-technology-1.5486974",
+      "ampWebUrl": "https://www.cbc.ca/amp/1.5486974",
+      "cdnAmpWebUrl": "https://www-cbc-ca.cdn.ampproject.org/c/s/www.cbc.ca/amp/1.5486974",
+      "publishedDateTime": "2020-03-06T13:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBC.ca",
+        "domain": "www.cbc.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.cbc.ca/1.5488452.1583513963!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/mind-control-prosthesis-university-of-michigan.jpg",
+          "width": 620,
+          "height": 349,
+          "title": "'It's like you have a hand again' — A major breakthrough in robotic limb technology",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-06-nuclear-confusion-and-the-mind-controlled-prosthetic-hand-10-top-stories-of-the-week.md",
+      "title": "Nuclear confusion and the mind-controlled prosthetic hand: 10 top stories of the week",
+      "excerpt": "One intriguing suggestion from developer Cyclopic is using it as a cargo robot. The machine would use its wheels to drive around a factory or warehouse floor before transforming into drone mode for a quick flight, up to a high shelf or over an obstacle.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.imeche.org/news/news-article/nuclear-confusion-and-the-mind-controlled-prosthetic-hand-10-top-stories-of-the-week",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-06T07:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Institution of Mechanical Engineers",
+        "domain": "imeche.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.imeche.org/IME/ui/img/header/logo/imeche-logo.png",
+          "width": 400,
+          "height": 300,
+          "title": "Nuclear confusion and the mind-controlled prosthetic hand: 10 top stories of the week",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-06-nvidia-buys-object-data-storage-startup-swiftstack-to-build-out-its-ai-stack.md",
       "title": "Nvidia buys object data storage startup SwiftStack to build out its AI stack",
       "excerpt": "The company started offering its SwiftStack Data Platform for artificial intelligence, high-performance computing and accelerated computing in 2019, including the SwiftStack 1space that enables ...",
@@ -975,162 +1139,6 @@
           "width": 1200,
           "height": 459,
           "title": "The path to the cloud",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-04-cognitive-systems-spending-market-to-register-a-stellar-growth-rate-of-cagr-of-146-during-2016-2026.md",
-      "title": "Cognitive Systems Spending Market to Register a Stellar Growth Rate of CAGR of 14.6% During 2016 – 2026",
-      "excerpt": "VALLEY COTTAGE, N.Y. - \"The US$ 5.49 Bn global cognitive systems spending marketwill witness a massive hike in the revenues, reaching a whopping US$ 21.46 Bn by the end of 2026. Over the 10-year assessment period 2016-2026,",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/cognitive-systems-spending-market-to-register-a-stellar-growth-rate-of-cagr-of-146-during-2016-2026-2020-03-04",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-04T05:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Cognitive Systems Spending Market to Register a Stellar Growth Rate of CAGR of 14.6% During 2016 – 2026",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-04-robot-uses-artificial-intelligence-and-imaging-to-draw-blood.md",
-      "title": "Robot uses artificial intelligence and imaging to draw blood",
-      "excerpt": "Rutgers engineers have created a tabletop device that combines a robot, artificial intelligence and near-infrared and ultrasound imaging to draw blood or insert catheters to deliver fluids and drugs. Their most recent research results, published in the journal Nature Machine Intelligence, suggest that autonomous systems like the image-guided ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.eurekalert.org/pub_releases/2020-03/ru-rua030320.php",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-04T03:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.eurekalert.org/multimedia/pub/web/226001_web.jpg",
-          "width": 1440,
-          "height": 1022,
-          "title": "Robot uses artificial intelligence and imaging to draw blood",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-04-how-automation-and-artificial-intelligence-are-transforming-the-sell-side.md",
-      "title": "How automation and artificial intelligence are transforming the sell side",
-      "excerpt": "Though Twitter, Amazon AWS, and Hadoop all came out before ... is interpretability and ‘explainability’. Using artificial intelligence, sell-side firms can analyze large amounts of data ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.bloomberg.com/professional/blog/how-automation-and-artificial-intelligence-are-transforming-the-sell-side/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-04T00:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-04-cisco-microsoft-team-to-control-growing-iot-networks.md",
-      "title": "Cisco, Microsoft team to control growing IoT networks",
-      "excerpt": "Services like Microsoft Azure Stream Analytics, Microsoft Azure Machine Learning, and Microsoft Azure Notification Hub services can be used to build IoT applications for the enterprise ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.networkworld.com/article/3530373/cisco-microsoft-team-to-control-growing-iot-networks.html",
-      "ampWebUrl": "https://www.networkworld.com/article/3530373/cisco-microsoft-team-to-control-growing-iot-networks.amp.html",
-      "cdnAmpWebUrl": "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3530373/cisco-microsoft-team-to-control-growing-iot-networks.amp.html",
-      "publishedDateTime": "2020-03-03T16:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Network World",
-        "domain": "networkworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2020/01/new-microsoft-edge-logo-100827148-large.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "Cisco, Microsoft team to control growing IoT networks",
           "attribution": null
         }
       ],

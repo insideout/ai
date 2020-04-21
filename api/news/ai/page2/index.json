@@ -2,6 +2,87 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-04-20-cognex-introduces-worlds-first-industrial-smart-camera-powered-by-deep-learning.md",
+      "title": "Cognex Introduces World's First Industrial Smart Camera Powered by Deep Learning",
+      "excerpt": "PRWeb/ -- Cognex Corporation, the leader in industrial machine vision, introduces the In-Sight® D900 embedded vision system. A first-of-its-kind solution, the In-Sight D900 features Cognex's ViDiTM deep learning software inside an In-Sight industrial-grade smart camera.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/cognex-introduces-world-s-first-industrial-smart-camera-powered-by-deep-learning-1029108615",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/cognex-introduces-world-s-first-industrial-smart-camera-powered-by-deep-learning-1029108615",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/cognex-introduces-world-s-first-industrial-smart-camera-powered-by-deep-learning-1029108615",
+      "publishedDateTime": "2020-04-20T10:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-20-this-covid-19-app-would-listen-to-your-cough-and-use-ai-to-predict-whether-you-have-coronavirus.md",
+      "title": "This COVID-19 app would listen to your cough and use AI to predict whether you have coronavirus",
+      "excerpt": "A slew of AI labs are currently aiming to fight coronavirus with apps that analyze audio from people speaking, breathing, or coughing.",
+      "heat": 75,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businessinsider.com/app-would-listen-cough-predict-coronavirus-2020-4",
+      "ampWebUrl": "https://www.businessinsider.com/app-would-listen-cough-predict-coronavirus-2020-4?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/app-would-listen-cough-predict-coronavirus-2020-4?amp",
+      "publishedDateTime": "2020-04-20T10:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.insider.com/5e9dc9c192e8ba71ef0c6fc8?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": "This COVID-19 app would listen to your cough and use AI to predict whether you have coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-20-the-station-ponyai-turns-to-delivery-kodiak-cuts-lime-snaps-up-boosteds-ip.md",
       "title": "The Station: Pony.ai turns to delivery, Kodiak cuts, Lime snaps up Boosted’s IP",
       "excerpt": "Pony .ai is the latest autonomous vehicle startup to turn its efforts to delivery — at least temporarily. The company announced this week it will partner with e-commerce platform Yamibuy to ...",
@@ -1188,89 +1269,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-18-direxion-daily-robotics-artificial-intelligence-automation-index-bull-3x-shares-nysearcaubot-trading-64-higher.md",
-      "title": "Direxion Daily Robotics Artificial Intelligence & Automation Index Bull 3X Shares (NYSEARCA:UBOT) Trading 6.4% Higher",
-      "excerpt": "Direxion Daily Robotics Artificial Intelligence & Automation Index Bull 3X Shares (NYSEARCA:UBOT) shares traded up 6.4% on Friday . The stock traded as high as $6.27 and last traded at $6.16, 251,800 shares changed hands during trading. An increase of 79% from the average session volume of 140,834 shares. The stock had previously closed at $5.79.",
-      "heat": 81,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://theenterpriseleader.com/2020/04/18/direxion-daily-robotics-artificial-intelligence-automation-index-bull-3x-shares-nysearcaubot-trading-6-4-higher.html",
-      "ampWebUrl": "https://theenterpriseleader.com/2020/04/18/direxion-daily-robotics-artificial-intelligence-automation-index-bull-3x-shares-nysearcaubot-trading-6-4-higher.html/amp",
-      "cdnAmpWebUrl": "https://theenterpriseleader-com.cdn.ampproject.org/c/s/theenterpriseleader.com/2020/04/18/direxion-daily-robotics-artificial-intelligence-automation-index-bull-3x-shares-nysearcaubot-trading-6-4-higher.html/amp",
-      "publishedDateTime": "2020-04-18T02:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theenterpriseleader.com",
-        "domain": "theenterpriseleader.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.marketbeat.com/logos/generic-stocks.jpg",
-          "width": 450,
-          "height": 323,
-          "title": "Direxion Daily Robotics Artificial Intelligence & Automation Index Bull 3X Shares (NYSEARCA:UBOT) Trading 6.4% Higher",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-18-ai-weekly-when-to-ship-or-shelve-a-coronavirus-solution.md",
-      "title": "AI Weekly: When to ship or shelve a coronavirus solution",
-      "excerpt": "Those debates certainly carry over to the kind of AI being deployed right now, and the important question of when a company should ship or shelve a coronavirus solution. A lot of AI is being deployed in the pandemic to save lives and someday soon help us resume daily lives, much of which you’ve been able to read about here. But they aren’t ...",
-      "heat": 91,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/17/ai-weekly-when-to-ship-or-shelve-a-coronavirus-solution/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/17/ai-weekly-when-to-ship-or-shelve-a-coronavirus-solution/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/17/ai-weekly-when-to-ship-or-shelve-a-coronavirus-solution/amp/",
-      "publishedDateTime": "2020-04-17T17:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/GettyImages-1214233667.jpg?fit=1800%2C900&strip=all",
-          "width": 1800,
-          "height": 900,
-          "title": "AI Weekly: When to ship or shelve a coronavirus solution",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics",
-        "Facebook AI"
       ]
     }
   ],
