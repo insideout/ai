@@ -2,6 +2,170 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2020-04-03-computer-vision-and-coronavirus-pandemic.md",
+      "title": "Computer Vision and CoronaVirus Pandemic",
+      "excerpt": "This technology is called “computer vision” and it is applied in many spheres of life, for example, in medicine. Computer vision is used for: Segmentation of MRI images. The layout of MRI ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/taqadam/computer-vision-and-coronavirus-pandemic-e5fb6e83f9f7",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-03T16:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/1197/0*uLVocH9TkD-9xChT.png",
+          "width": 1197,
+          "height": 1199,
+          "title": "Computer Vision and CoronaVirus Pandemic",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-03-apple-acquires-ai-startup-to-better-understand-natural-language.md",
+      "title": "Apple Acquires AI Startup to Better Understand Natural Language",
+      "excerpt": "Voysis provided this AI to other companies to incorporate it into their own apps and voice assistants. Read more about the startup here: Synthesizing Realistic Human Speech Just Got a Lot Easier An Apple spokesman said the company “buys smaller technology companies from time to time, and we generally do not discuss our purpose or plans.”",
+      "heat": 97,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.bloomberg.com/news/articles/2020-04-03/apple-acquires-ai-startup-to-better-understand-natural-language",
+      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-04-03/apple-acquires-ai-startup-to-better-understand-natural-language",
+      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-04-03/apple-acquires-ai-startup-to-better-understand-natural-language",
+      "publishedDateTime": "2020-04-03T14:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-03-gumstix-ai-series-for-nvidia-jetson-nano-features-tensorflow-pre-integration.md",
+      "title": "Gumstix AI Series for NVIDIA Jetson Nano Features TensorFlow Pre-Integration",
+      "excerpt": "The devices, which are powered by the NVIDIA Jetson Nano running a Quad-core ARM A57, feature built in TensorFlow support to make edge AI prototyping more accessible for software engineers. According to the company, the AI devices streamline the software-hardware integration and provide users the following benefits: - Easy to customize modular ...",
+      "heat": 70,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.embedded-computing.com/news/gumstix-ai-series-for-nvidia-jetson-nano-features-tensorflow-pre-integration",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-03T13:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Embedded Computing Design",
+        "domain": "embedded-computing.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "http://share.opsy.st/5e879c92ccff4-Screen+Shot+2020-04-03+at+1.28.54+PM.png",
+          "width": 367,
+          "height": 496,
+          "title": "Gumstix AI Series for NVIDIA Jetson Nano Features TensorFlow Pre-Integration",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "TensorFlow",
+        "Google AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2020-04-03-googles-ai-teaches-robots-how-to-move-by-watching-dogs.md",
+      "title": "Google’s AI teaches robots how to move by watching dogs",
+      "excerpt": "Google researchers developed an AI system that learns from the motions of animals to give robots greater agility, reveals a preprint paper and blog post published this week. The coauthors believe their approach could bolster the development of robots that can complete tasks in the real world, for instance transporting materials between ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/03/googles-ai-learns-motions-from-dogs-applies-to-real-world-robot/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/03/googles-ai-learns-motions-from-dogs-applies-to-real-world-robot/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/03/googles-ai-learns-motions-from-dogs-applies-to-real-world-robot/amp/",
+      "publishedDateTime": "2020-04-03T13:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/10/google-ai-logo.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Google’s AI teaches robots how to move by watching dogs",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-03-ai-weekly-coronavirus-chatbots-use-inconsistent-data-sources-and-privacy-practices.md",
       "title": "AI Weekly: Coronavirus chatbots use inconsistent data sources and privacy practices",
       "excerpt": "It’s been widely reported that U.S. hospital systems — particularly in hotspots like New York City, Detroit, Chicago, and New Orleans — are overwhelmed by the influx of patients affected by COVID-19. There’s a nationwide ventilator shortage. Convention centers and public parks have been repurposed as ward overflows. And waiting times at ...",
@@ -640,6 +804,35 @@
       ]
     },
     {
+      "path": "_news/2020-04-03-infragistics-adds-predictive-analytics-machine-learning-and-more-to-reveal-embedded-business-intelligence-tool.md",
+      "title": "Infragistics Adds Predictive Analytics, Machine Learning and More to Reveal Embedded Business Intelligence Tool",
+      "excerpt": "Reveal's new machine learning feature identifies and visually displays predictions from user data to enable more educated business-decision making. Reveal reads data from Microsoft Azure and ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.globenewswire.com/news-release/2020/04/03/2011600/0/en/Infragistics-Adds-Predictive-Analytics-Machine-Learning-and-More-to-Reveal-Embedded-Business-Intelligence-Tool.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-03T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GlobeNewswire",
+        "domain": "globenewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-03-experimental-covid-19-test-attempts-to-use-your-voice-to-check-for-symptoms.md",
       "title": "Experimental COVID-19 test attempts to use your voice to check for symptoms",
       "excerpt": "That’s why a research team at Carnegie Mellon University developed a cheaper, more accessible way to potentially detect signs of the virus: voice detection (h/t: Futurism). The team has been working on this solution for a while, and now it has released an early version of a web app called the COVID Voice Detector. The app uses an in-house ...",
@@ -1067,200 +1260,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-03-short-sellers-circle-virus-sinners-amazons-looming-shareholder-battle-businesses-fight-for-prisoner-releases.md",
-      "title": "Short sellers circle virus sinners; Amazon’s looming shareholder battle; Businesses fight for prisoner releases",
-      "excerpt": "For the second year in a row, Amazon shareholders will vote on the company’s facial identification technology, known as Rekognition, after the SEC rejected Amazon’s request to block the proposal.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.ft.com/content/03355c3c-52d1-42da-8218-90524d458d93",
-      "ampWebUrl": "https://amp.ft.com/content/03355c3c-52d1-42da-8218-90524d458d93",
-      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/03355c3c-52d1-42da-8218-90524d458d93",
-      "publishedDateTime": "2020-04-03T03:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Times",
-        "domain": "ft.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F9710438e-340f-49b5-a662-c23e1639cae0.jpg?source=google-amp&fit=scale-down&width=500",
-          "width": 500,
-          "height": 281,
-          "title": "Short sellers circle virus sinners; Amazon’s looming shareholder battle; Businesses fight for prisoner releases",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-03-machine-learning-as-a-service-market-emerging-trends-global-industry-forecast-to-2025.md",
-      "title": "Machine Learning as a Service Market Emerging Trends & Global Industry Forecast to 2025",
-      "excerpt": "New York, April 03, 2020: The Machine Learning as a Service Market is expected to exceed more than US$ 7500 Million by",
-      "heat": 73,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-emerging-trends-global-industry-forecast-to-2025-2020-04-03",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-03T00:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Machine Learning as a Service Market Emerging Trends & Global Industry Forecast to 2025",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-04-03-this-ai-startup-rents-out-robots-that-can-do-human-jobs-amid-the-coronavirus-pandemic.md",
-      "title": "This AI Startup Rents Out Robots That Can Do Human Jobs Amid The Coronavirus Pandemic",
-      "excerpt": "Vicarious, an AI software company, is training a growing fleet of industrial robots to carry out manufacturing jobs that only could only be performed by human beings until now. Their fleet is imbued with a \"layer general intelligence\" that allows them to ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://in.mashable.com/tech/12852/this-ai-startup-rents-out-robots-that-can-do-human-jobs-amid-the-coronavirus-pandemic",
-      "ampWebUrl": "https://in.mashable.com/tech/12852/this-ai-startup-rents-out-robots-that-can-do-human-jobs-amid-the-coronavirus-pandemic?amp=1",
-      "cdnAmpWebUrl": "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/12852/this-ai-startup-rents-out-robots-that-can-do-human-jobs-amid-the-coronavirus-pandemic?amp=1",
-      "publishedDateTime": "2020-04-03T00:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://sm.mashable.com/t/mashable_in/feature/t/this-ai-st/this-ai-startup-rents-out-robots-that-can-do-human-jobs-amid_wgfw.620.jpg",
-          "width": 620,
-          "height": 348,
-          "title": "This AI Startup Rents Out Robots That Can Do Human Jobs Amid The Coronavirus Pandemic",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-03-deep-learning-market-to-witness-a-pronounce-growth-during-2020-to-2025.md",
-      "title": "Deep Learning Market to Witness a Pronounce Growth during 2020 to 2025",
-      "excerpt": "Apr 03, 2020 (Heraldkeepers) -- New York, April 03, 2020: The Deep Learning Market is expected to exceed more than US$ 18 Billion by 2024 at a CAGR of 42% in the given forecast period. Deep ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-to-witness-a-pronounce-growth-during-2020-to-2025-2020-04-03?mod=mw_quote_news",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-02T23:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Deep Learning Market to Witness a Pronounce Growth during 2020 to 2025",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-03-radiology-imaging-news.md",
-      "title": "Radiology & Imaging news",
-      "excerpt": "Object recognition and facial recognition may seem like similar abilities, but new research finds that these behaviors are on the opposite ends of the spectrum when it comes to physical signatures ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medicalxpress.com/radiology-imaging-news/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-02T23:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

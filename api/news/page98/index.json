@@ -2,6 +2,220 @@
   "page": 98,
   "value": [
     {
+      "path": "_news/2020-01-22-air-new-zealand-using-computer-vision-ai.md",
+      "title": "Air New Zealand using computer vision AI",
+      "excerpt": "Air New Zealand is trialling the latest in computer vision artificial intelligence (AI) in its search for innovative ways to continually improve aircraft turn times and better on-time performance. The new technology, made available through a partnership with leading technology start-up Assaia and alongside Auckland Airport, uses computer vision ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.scoop.co.nz/stories/BU2001/S00141/air-new-zealand-using-computer-vision-ai.htm",
+      "ampWebUrl": "https://m.scoop.co.nz/stories/BU2001/S00141/air-new-zealand-using-computer-vision-ai.htm",
+      "cdnAmpWebUrl": "https://m-scoop-co-nz.cdn.ampproject.org/c/s/m.scoop.co.nz/stories/BU2001/S00141/air-new-zealand-using-computer-vision-ai.htm",
+      "publishedDateTime": "2020-01-22T12:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Scoop",
+        "domain": "scoop.co.nz",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://m.scoop.co.nz/stories/images/1512/smcnz.png",
+          "width": 268,
+          "height": 250,
+          "title": "Air New Zealand using computer vision AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2020-01-22-disruption-20-how-iot-and-ai-are-breaking-up-the-business-world.md",
+      "title": "Disruption 2.0: How IoT And AI Are Breaking Up The Business World",
+      "excerpt": "Once again, businesses are under attack. We are in the midst of \"Disruption 2.0,\" and this time, the attack comes from within. Previously, in the age of Disruption 1.0, startups were spearheading the battle against established businesses.",
+      "heat": 97,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/hodfleishman/2020/01/22/disruption-20-how-iot-and-ai-are-breaking-up-the-business-world/",
+      "ampWebUrl": "https://www.forbes.com/sites/hodfleishman/2020/01/22/disruption-20-how-iot-and-ai-are-breaking-up-the-business-world/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/hodfleishman/2020/01/22/disruption-20-how-iot-and-ai-are-breaking-up-the-business-world/amp/",
+      "publishedDateTime": "2020-01-22T11:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1192770754%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3500%26cropY1%3D177%26cropY2%3D2147",
+          "width": 1200,
+          "height": 676,
+          "title": "Disruption 2.0: How IoT And AI Are Breaking Up The Business World",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-01-22-github-now-uses-ai-to-recommend-open-issues-in-project-repositories.md",
+      "title": "GitHub now uses AI to recommend open issues in project repositories",
+      "excerpt": "The initial version, which launched in May 2019, surfaced recommendations based on labels applied to issues by project maintainers. But an updated release shipped last month incorporates an AI algorithm that Github says surfaces issues in about 70% of repositories recommended to users. Github says it’s the first deep-learning-enabled product ...",
+      "heat": 187,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/01/22/github-now-uses-ai-to-recommend-open-issues-in-project-repositories/",
+      "ampWebUrl": "https://venturebeat.com/2020/01/22/github-now-uses-ai-to-recommend-open-issues-in-project-repositories/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/22/github-now-uses-ai-to-recommend-open-issues-in-project-repositories/amp/",
+      "publishedDateTime": "2020-01-22T11:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/01/github-1-e1579720491957.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "GitHub now uses AI to recommend open issues in project repositories",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-01-22-researchers-use-ai-to-deblur-human-faces-in-photos.md",
+      "title": "Researchers use AI to deblur human faces in photos",
+      "excerpt": "In search of a solution, scientists at the Inception Institue of Artificial Intelligence in the United Arab Emirates, the Beijing Institute of Technology, and Stony Brook University developed an AI system that removes blur from images in post-production. They note in a paper that it’s human-aware, meaning it’s able to deblur human faces ...",
+      "heat": 197,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/01/22/researchers-use-ai-to-deblur-human-faces-in-photos/",
+      "ampWebUrl": "https://venturebeat.com/2020/01/22/researchers-use-ai-to-deblur-human-faces-in-photos/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/22/researchers-use-ai-to-deblur-human-faces-in-photos/amp/",
+      "publishedDateTime": "2020-01-22T09:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/01/7ec55bc5-ac3d-48a4-8a26-82fe8db7356a-e1579715708955.png?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Researchers use AI to deblur human faces in photos",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-01-22-clearview-ais-facial-recognition-app-is-a-nightmare-for-stalking-victims.md",
+      "title": "Clearview AI’s facial-recognition app is a nightmare for stalking victims",
+      "excerpt": "The latest example of Silicon Valley’s hubris is the facial-recognition app Clearview AI. The small startup’s app is so powerful that someone could walk up to you on the street, snap your photo, and quickly find out your name, address, and phone number ...",
+      "heat": 88,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.digitaltrends.com/news/clearview-ai-facial-recognition-domestic-violence-stalking/",
+      "ampWebUrl": "https://www.digitaltrends.com/news/clearview-ai-facial-recognition-domestic-violence-stalking/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/clearview-ai-facial-recognition-domestic-violence-stalking/?amp",
+      "publishedDateTime": "2020-01-22T09:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://icdn3.digitaltrends.com/image/digitaltrends/facial-recognition-composite-feature-1200x630-c-ar1.91.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": "Clearview AI’s facial-recognition app is a nightmare for stalking victims",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2020-01-22-how-ai-supports-and-accelerates-healthcare.md",
       "title": "How AI Supports And Accelerates Healthcare",
       "excerpt": "AI is currently most adept at helping to improve and accelerate workflows for researchers and healthcare professionals.",
@@ -841,223 +1055,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-01-22-gtci-ai-offers-significant-opportunities-for-emerging-markets-but-skills-are-scarce.md",
-      "title": "GTCI: AI offers significant opportunities for emerging markets, but skills are scarce",
-      "excerpt": "Will the proliferation of AI and machine learning reinforce the worldwide digital divide? It’s one of the questions the Global Talent Competitiveness Index (GTCI) and Global Cities Talent Competitiveness Index (GCTCI) seek to answer by benchmarking the ability of countries and cities to compete for talent. An answer has historically proven ...",
-      "heat": 80,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/01/22/gtci-ai-offers-significant-opportunities-for-emerging-markets-but-skills-are-scarce/",
-      "ampWebUrl": "https://venturebeat.com/2020/01/22/gtci-ai-offers-significant-opportunities-for-emerging-markets-but-skills-are-scarce/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/22/gtci-ai-offers-significant-opportunities-for-emerging-markets-but-skills-are-scarce/amp/",
-      "publishedDateTime": "2020-01-22T03:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/11/robot-on-computer.jpg?fit=1198%2C599&strip=all",
-          "width": 1198,
-          "height": 599,
-          "title": "GTCI: AI offers significant opportunities for emerging markets, but skills are scarce",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-22-ai-in-the-court-are-robot-judges-next.md",
-      "title": "AI in the court: Are robot judges next?",
-      "excerpt": "Los Angeles is now working on a Jury Chat Bot project that will leverage true AI, Snorri Ogata, CIO of the LA Superior Court, told ZDNet. It's being built on top of the Microsoft Cognitive Services platform, leveraging features like natural language understanding, QnA maker (to build \"FAQ on steroids,\" as Ogata put it) and translation services.",
-      "heat": 106,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/ai-in-the-court-are-robot-judges-next/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-in-the-court-are-robot-judges-next/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-in-the-court-are-robot-judges-next/",
-      "publishedDateTime": "2020-01-22T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/01/20/4ae4c042-fca1-4511-9ed4-a9ca543376fd/thumbnail/1200x675/75aab1fe59aac1c4c387f2acdc3a60c4/20200120-steph-karen-judges.png",
-          "width": 1200,
-          "height": 675,
-          "title": "AI in the court: Are robot judges next?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-01-22-how-machine-learning-is-helping-credit-karma-reintroduce-itself-to-users.md",
-      "title": "How machine learning is helping Credit Karma reintroduce itself to users",
-      "excerpt": "But it's only recently that the company is turning to machine learning to make sense of hundreds of billions of data points and deliver personalized insights and recommendations to individual members at scale. When it launched in 2008 at the height of the financial crisis, Credit Karma's primary service leveraged credit report data to help ...",
-      "heat": 73,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/how-machine-learning-is-helping-credit-karma-reintroduce-its-brand-to-users/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/how-machine-learning-is-helping-credit-karma-reintroduce-its-brand-to-users/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-machine-learning-is-helping-credit-karma-reintroduce-its-brand-to-users/",
-      "publishedDateTime": "2020-01-22T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2018/07/26/04dbf63a-2aa4-480b-ad61-5d857987ba31/thumbnail/1200x675/8929444376cb1c585bcdc20bc3026ca3/creditkarmathumbnail.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "How machine learning is helping Credit Karma reintroduce itself to users",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2020-01-22-top-players-in-ai-technology-market-2020-23-ibm-amazon-google-intel-and-facebook.md",
-      "title": "Top Players in AI Technology Market (2020-23) IBM, Amazon, Google, Intel and Facebook",
-      "excerpt": "The Global AI Technology Market Research Report Forecast 2020-2023 is a valuable source of insightful data for business strategists. It provides the AI Technology overview with growth analysis and historical & futuristic cost,",
-      "heat": 92,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/top-players-in-ai-technology-market-2020-23-ibm-amazon-google-intel-and-facebook-2020-01-22",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-22T01:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Top Players in AI Technology Market (2020-23) IBM, Amazon, Google, Intel and Facebook",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-22-robot-burns-poems-created-by-artificial-intelligence.md",
-      "title": "‘Robot Burns’ poems created by artificial intelligence",
-      "excerpt": "But now a student at the University of Glasgow has used a “Robot Burns” artificial intelligence (AI) poem generator programme to create almost “instant works” by Robert Burns, in honour of a fellow student, Chris, who took his own life on Burns Day, on 25 January 2016. Perry Gibson, who is studying for a PhD in computing science ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.scotsman.com/news/politics/robot-burns-poems-created-by-artificial-intelligence-1-5078792",
-      "ampWebUrl": "https://www.scotsman.com/news/politics/robot-burns-poems-created-by-artificial-intelligence-1-5078792/amp",
-      "cdnAmpWebUrl": "https://www-scotsman-com.cdn.ampproject.org/c/s/www.scotsman.com/news/politics/robot-burns-poems-created-by-artificial-intelligence-1-5078792/amp",
-      "publishedDateTime": "2020-01-21T22:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Scotsman",
-        "domain": "scotsman.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images-e.jpimedia.uk/imagefetch/w_620,f_auto,ar_3:2,q_auto:low,c_fill/if_h_lte_200,c_mfit,h_201/https://www.scotsman.com/webimage/1.5078791.1579641847!/image/image.jpg",
-          "width": 620,
-          "height": 413,
-          "title": "‘Robot Burns’ poems created by artificial intelligence",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

@@ -2,10 +2,55 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-04-20-new-ai-algorithm-brings-us-closer-than-ever-to-controlling-machines-with-our-minds.md",
+      "title": "New AI algorithm brings us closer than ever to controlling machines with our minds",
+      "excerpt": "After that, the sky’s the limit. We may one day use chips and AI to make secure mental connections with cloud computers. This would make machine such as ATMs, that merely exist to authenticate a transaction, obsolete. And who knows what kind of alien aesthetics we’ll end up with as a result of a less hands-on approach to reality once ...",
+      "heat": 83,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/04/20/new-ai-algorithm-brings-us-closer-than-ever-to-controlling-machines-with-our-minds/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/04/20/new-ai-algorithm-brings-us-closer-than-ever-to-controlling-machines-with-our-minds/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/04/20/new-ai-algorithm-brings-us-closer-than-ever-to-controlling-machines-with-our-minds/amp/",
+      "publishedDateTime": "2020-04-20T16:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/03/braincomputer-796x417.jpg",
+          "width": 796,
+          "height": 417,
+          "title": "New AI algorithm brings us closer than ever to controlling machines with our minds",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-20-system-on-a-chip-takes-iot-processing-to-the-edge.md",
       "title": "System on a chip takes IoT processing to the edge",
       "excerpt": "A system on a chip (SOC) combines hardware and software, including components like a graphical processing unit (GPU), a central processing unit (CPU ... the way a human brain does and then further \"smartened\" with artificial intelligence (AI) that is made for use in the consumer, automotive, and industrial markets, it adds even more edge ...",
-      "heat": 89,
+      "heat": 91,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.techrepublic.com/article/system-on-a-chip-takes-iot-processing-to-the-edge/",
@@ -43,7 +88,8 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -1268,51 +1314,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-06-nvidia-is-contributing-its-ai-smarts-to-help-fight-covid-19.md",
-      "title": "NVIDIA is contributing its AI smarts to help fight COVID-19",
-      "excerpt": "NVIDIA will add to this by providing expertise in AI, biology and large-scale computing optimizations. NVIDIA is also providing access to its own SaturnV supercomputer, but the primary focus is on its AI experience. The company likened the Consortium’s efforts to the Moon race. Ideally, this will speed up work for scientists who need ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.engadget.com/nvidia-joins-covid-19-consortium-170757511.html",
-      "ampWebUrl": "https://www.engadget.com/amp/nvidia-joins-covid-19-consortium-170757511.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/nvidia-joins-covid-19-consortium-170757511.html",
-      "publishedDateTime": "2020-04-06T11:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C400&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fresize%3D2000%252C2000%252Cshrink%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-uploaded-images%252F2020-04%252F0bdb02a0-77e5-11ea-9dbf-fe1d33f05e47%26client%3Da1acac3e1b3290917d92%26signature%3D339e80f4c01cbfcea068f19c8d953914536d6951&client=amp-blogside-v2&signature=e166ceba169fb26e58c6346bd2eb7c38916320d1",
-          "width": 600,
-          "height": 400,
-          "title": "NVIDIA is contributing its AI smarts to help fight COVID-19",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

@@ -2,6 +2,198 @@
   "page": 43,
   "value": [
     {
+      "path": "_news/2020-03-10-microsoft-and-cisco-team-up-to-integrate-cloud-and-iot-platforms.md",
+      "title": "Microsoft and Cisco team up to integrate cloud and IoT platforms",
+      "excerpt": "Microsoft has announced a partnership with Cisco to integrate its Azure cloud ... It is focusing on offering customers a fully integrated solution that gives access to powerful design tools, advance analytics, global connectivity and cognitive services for analysing IoT data. In November 2019, Cisco made an unspecified investment on Titan ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.iottechnews.com/news/2020/mar/10/microsoft-and-cisco-team-integrate-cloud-and-iot-platforms/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-10T10:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "iottechnews.com",
+        "domain": "iottechnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.iottechnews.com/media/img/news/iStock-1184908397.jpg.600x600_q96.png",
+          "width": 600,
+          "height": 440,
+          "title": "Microsoft and Cisco team up to integrate cloud and IoT platforms",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-10-neural-networks-are-now-being-used-to-track-exotic-particles-at-cern.md",
+      "title": "Neural networks are now being used to track exotic particles at CERN",
+      "excerpt": "Research within the domain of physics has profited from the rise of artificial neural networks and deep learning. In the past, we've seen them being applied to study dark matter and massive galaxies. Continuing this pattern, we now have artificial neural networks being used in the study of exotic particles. At the Compact Muon Solenoid (CMS ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.neowin.net/news/neural-networks-are-now-being-used-to-track-exotic-particles-at-cern",
+      "ampWebUrl": "https://www.neowin.net/amp/neural-networks-are-now-being-used-to-track-exotic-particles-at-cern/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/neural-networks-are-now-being-used-to-track-exotic-particles-at-cern/",
+      "publishedDateTime": "2020-03-10T09:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2017/05/1494180366_lhc_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": "Neural networks are now being used to track exotic particles at CERN",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-10-genomic-computation-platform-launches-on-microsoft-azure.md",
+      "title": "Genomic computation platform launches on Microsoft Azure",
+      "excerpt": "The application is available on Amazon and Google Cloud, and it will now be made available for purchase on the Microsoft Azure platform, an online marketplace created by Microsoft for buying and selling of software services. EPAM Cloud Pipeline will be open-source, and will utilize machine learning capabilities, allowing scientists to build and ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.outsourcing-pharma.com/Article/2020/03/10/EPAM-launches-its-service-on-Microsoft-Azure",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-10T09:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Outsourcing-pharma",
+        "domain": "outsourcing-pharma.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn-a.william-reed.com/var/wrbm_gb_food_pharma/storage/images/publications/pharmaceutical-science/outsourcing-pharma.com/headlines/clinical-development/epam-launches-its-service-on-microsoft-azure/10792245-1-eng-GB/EPAM-launches-its-service-on-Microsoft-Azure.jpg",
+          "width": 748,
+          "height": 467,
+          "title": "Genomic computation platform launches on Microsoft Azure",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-10-superwiseai-secures-45m-in-seed-funding-to-accelerate-the-adoption-of-its-ai-assurance-platform.md",
+      "title": "Superwise.ai Secures $4.5M in Seed Funding to Accelerate the Adoption of Its AI Assurance Platform",
+      "excerpt": "Google AI Platform, Azure Machine Learning, Kubeflow, H20.ai and custom-built platforms. According to Gartner’s report, Help the Board Deal With Automated Decisions at Digital Speed (G00433877), “In digital businesses, many operational decisions are ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businesswire.com/news/home/20200310005701/en/Superwise.ai-Secures-4.5M-Seed-Funding-Accelerate-Adoption",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-10T09:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-10-insurance-ai-startup-synthesized-raises-28m-from-iq-capital-and-mundi-ventures.md",
+      "title": "Insurance AI startup Synthesized raises $2.8M from IQ Capital and Mundi Ventures",
+      "excerpt": "Like many industries, it would like to automate much of this, but it’s just not that simple. Synthesized is a U.K. startup that tries to reduce friction on preparing all the data that’s needed, to enable insurers to share data safely, complying with regulations. The more that happens, the more innovation can happen, such as insuring for a ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/03/10/insurance-ai-startup-synthesized-raises-2-8m-from-iq-capital-and-mundi-ventures/",
+      "ampWebUrl": "https://techcrunch.com/2020/03/10/insurance-ai-startup-synthesized-raises-2-8m-from-iq-capital-and-mundi-ventures/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/03/10/insurance-ai-startup-synthesized-raises-2-8m-from-iq-capital-and-mundi-ventures/amp/",
+      "publishedDateTime": "2020-03-10T09:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/03/Denis-Nicolai.jpg?w=1024",
+          "width": 1024,
+          "height": 642,
+          "title": "Insurance AI startup Synthesized raises $2.8M from IQ Capital and Mundi Ventures",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-10-twilio-rival-messagebird-launches-inbox-an-ai-powered-contact-center.md",
       "title": "Twilio rival MessageBird launches Inbox, an AI-powered contact center",
       "excerpt": "It also leans on AI and automation to anticipate what a customer might be looking for, detect sentiment and intent, translate between languages, and more. Inbox will be available for free to companies with up to five customer service agents and 500 customer contact threads — above that, it will offer customized pricing depending on the number ...",
@@ -924,191 +1116,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-10-ai-recruitment-start-up-recognised-at-microsofts-ai-awards-20.md",
-      "title": "AI recruitment start-up recognised at Microsoft’s AI Awards 2.0",
-      "excerpt": "Talview helps its clients with digital hiring process by leveraging the capabilities of Microsoft Azure to automate talent screening, video interviews, and securely proctor cognitive assessments for hiring decisions ... need to be a goal for employers in Singapore in 2018. The services sector is attracting top talent as China's economy shifts ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://hrmasia.com/talview-named-best-ai-application-for-societal-impact-at-microsofts-ai-awards-2-0/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-10T00:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "hrmasia.com",
-        "domain": "hrmasia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://hrmasia.com/wp-content/uploads/2019/12/81473998_m.jpg",
-          "width": 2508,
-          "height": 1672,
-          "title": "AI recruitment start-up recognised at Microsoft’s AI Awards 2.0",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-10-aci-worldwide-launches-advanced-machine-learning-capability-to-dramatically-reduce-payment-fraud-for-banks-and-merchants-and-their-customers.md",
-      "title": "ACI Worldwide Launches Advanced Machine Learning Capability to Dramatically Reduce Payment Fraud for Banks and Merchants and Their Customers",
-      "excerpt": "“Traditional machine learning models in many cases are not sufficient to stop fraudsters in their ... “We are the first vendor globally to roll out the new Incremental Learning technology across the merchants, payments and financial services sectors,” commented Fabian Gloerfeld, head of Payments Intelligence, ACI Worldwide.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businesswire.com/news/home/20200309005518/en/ACI-Worldwide-Launches-Advanced-Machine-Learning-Capability",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-09T23:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20200309005518/en/408535/23/ACI_logo.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": "ACI Worldwide Launches Advanced Machine Learning Capability to Dramatically Reduce Payment Fraud for Banks and Merchants and Their Customers",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-10-ai-education-and-ethics-who-should-profit-from-learning.md",
-      "title": "AI, education and ethics: who should profit from learning?",
-      "excerpt": "“AI will be introduced into classrooms, introduced into education ... “It is challenging to implement this,” Mr Minevich adds. “It comes down to privacy and ethics.” According to Mr Riese of Up Learn, constant data collection would represent an improvement on the current means of assessing students, by drawing on hundreds of hours ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.ft.com/content/8d79405c-02ba-11e9-bf0f-53b8511afd73",
-      "ampWebUrl": "https://amp.ft.com/content/8d79405c-02ba-11e9-bf0f-53b8511afd73",
-      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/8d79405c-02ba-11e9-bf0f-53b8511afd73",
-      "publishedDateTime": "2020-03-09T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Times",
-        "domain": "ft.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2Fb20e8b5e-5ef6-11ea-ac5e-df00963c20e6?source=google-amp&fit=scale-down&width=500",
-          "width": 500,
-          "height": 281,
-          "title": "AI, education and ethics: who should profit from learning?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-10-canadian-correctional-facility-to-test-threat-detection-platform.md",
-      "title": "Canadian Correctional Facility to Test Threat Detection Platform",
-      "excerpt": "\"The contract from Innovative Solution Canada was awarded to Patriot One for its PATSCAN Platform, with specific interest around the Video Object Recognition Software (VRS) solution for the detection of visible make-shift knives, cellphones, as well as ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.streetwisereports.com/article/2020/03/09/canadian-correctional-facility-to-test-threat-detection-platform.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-09T17:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "streetwisereports.com",
-        "domain": "streetwisereports.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.streetwisereports.com/images/AS_Prison3-9-20-900.jpg",
-          "width": 900,
-          "height": 514,
-          "title": "Canadian Correctional Facility to Test Threat Detection Platform",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-10-ai-recruitment-startup-talview-wins-the-best-ai-application-for-societal-impact-recognition-at-microsofts-ai-awards-20.md",
-      "title": "AI Recruitment Startup Talview Wins The \"Best AI Application for Societal Impact\" Recognition at Microsoft's AI Awards 2.0",
-      "excerpt": "MUMBAI, India, March 9, 2020 /PRNewswire/ -- AI Recruitment startup, Talview, has received the prestigious \"Best AI Application for Societal Impact\" award in the partner category in the Microsoft ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.prnewswire.com/in/news-releases/ai-recruitment-startup-talview-wins-the-best-ai-application-for-societal-impact-recognition-at-microsoft-s-ai-awards-2-0-895565156.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-09T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1121668/Talview___Microsoft_AI_Awards.jpg?p=facebook",
-          "width": 1198,
-          "height": 628,
-          "title": "AI Recruitment Startup Talview Wins The \"Best AI Application for Societal Impact\" Recognition at Microsoft's AI Awards 2.0",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

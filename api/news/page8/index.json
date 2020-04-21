@@ -2,6 +2,132 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-04-13-israeli-military-grade-biometric-facial-recognition-works-with-face-masks.md",
+      "title": "Israeli military-grade biometric facial recognition works with face masks",
+      "excerpt": "Advanced biometric facial recognition technology developed for Israeli law enforcement and intelligence agencies to capture escaping criminals is now used to identify healthcare professionals that need to wear medical face masks for protection, writes The Jerusalem Post. The technology was built by Corsight, a subsidiary of Cortica, a company ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.biometricupdate.com/202004/israeli-military-grade-biometric-facial-recognition-works-with-face-masks",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-13T10:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Biometric Companies",
+        "domain": "biometricupdate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/04/13160552/facial-recognition-database.jpg",
+          "width": 640,
+          "height": 260,
+          "title": "Israeli military-grade biometric facial recognition works with face masks",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-13-growth-of-global-artificial-intelligence-ai-in-retail-market-report-till-2024.md",
+      "title": "Growth of Global Artificial Intelligence (AI) in Retail Market Report Till 2024",
+      "excerpt": "Market Study Report LLC adds new research on Artificial Intelligence (AI) in Retail market, which is a detailed analysis of",
+      "heat": 80,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/growth-of-global-artificial-intelligence-ai-in-retail-market-report-till-2024-2020-04-13",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-13T08:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Growth of Global Artificial Intelligence (AI) in Retail Market Report Till 2024",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-13-facebooks-ai-teaches-robots-to-navigate-environments-using-less-data.md",
+      "title": "Facebook’s AI teaches robots to navigate environments using less data",
+      "excerpt": "In a recent paper published on the preprint server Arxiv.org, researchers at Carnegie Mellon, Facebook, and the University of Illinois Urbana-Champaign propose Active Neural Simultaneous Localization and Mapping (SLAM), a hierarchical approach for teaching AI agents to explore environments. They say that it leverages the strength of both ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/13/facebooks-ai-teaches-robots-to-navigate-environments-using-less-data/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/13/facebooks-ai-teaches-robots-to-navigate-environments-using-less-data/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/13/facebooks-ai-teaches-robots-to-navigate-environments-using-less-data/amp/",
+      "publishedDateTime": "2020-04-13T08:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/05/facebook-ai.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Facebook’s AI teaches robots to navigate environments using less data",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-13-artificial-intelligence-ai-market-value-growing-at-a-us-160-bn-by-2026.md",
       "title": "Artificial Intelligence (AI) Market Value Growing at a US$ 160 Bn by 2026",
       "excerpt": "According to the Acumen Research and Consulting, the global Artificial Intelligence (AI) market is expected to reach at US$ 160 Bn by 2026, along with the projected CAGR of 49% from 2020-2026. The published report global Artificial Intelligence (AI) market provides a holistic overview of the current market covering the current trends.",
@@ -420,14 +546,14 @@
     {
       "path": "_news/2020-04-11-amazon-announces-general-availability-of-aws-deepcomposer.md",
       "title": "Amazon Announces General Availability of AWS Deepcomposer",
-      "excerpt": "Recently, Amazon announced the general availability of Deepcomposer, a service in AWS, which provides developers with a creative way to learn Machine Learning (ML). Deepcomposer is a machine ...",
+      "excerpt": "At re:Invent last year, Amazon launched AWS Deepcomposer as a preview, and it is generally available now with a few new features. These features include: Julien Simon, artificial intelligence & machine learning evangelist for EMEA, states in a blog post on the GA of Deepcomposer: Until now, developers interested in growing skills in GANs haven ...",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.infoq.com/news/2020/04/amazon-aws-deepcomposer-ga/?useSponsorshipSuggestions=true&itm_source=presentations_about_architecture-design&itm_medium=link&itm_campaign=architecture-design",
+      "webUrl": "https://www.infoq.com/news/2020/04/amazon-aws-deepcomposer-ga/",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-11T04:09:00-07:00",
+      "publishedDateTime": "2020-04-11T04:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "InfoQ",
@@ -930,124 +1056,6 @@
       "topics": [
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-04-10-using-ai-to-analyze-coronavirus-data.md",
-      "title": "Using AI to analyze coronavirus data",
-      "excerpt": "These are two, 26- petaflop machines that are bridged by the Microsoft Azure C loud. On top of that, we put the C3.ai platform and these universities, they’re in the process right now of allocating an initial, I think, $6 million in research awards to, you know, apply AI to mitigate COVID-19 pandemic. These are genome- specific medical protocols.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://federalnewsnetwork.com/artificial-intelligence/2020/04/using-ai-to-analyze-coronavirus-data/",
-      "ampWebUrl": "https://federalnewsnetwork.com/artificial-intelligence/2020/04/using-ai-to-analyze-coronavirus-data/amp/",
-      "cdnAmpWebUrl": "https://federalnewsnetwork-com.cdn.ampproject.org/c/s/federalnewsnetwork.com/artificial-intelligence/2020/04/using-ai-to-analyze-coronavirus-data/amp/",
-      "publishedDateTime": "2020-04-10T09:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "federalnewsnetwork.com",
-        "domain": "federalnewsnetwork.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://federalnewsnetwork.com/wp-content/uploads/2020/04/Virus_Outbreak_Spain_55530-1024x682.jpg",
-          "width": 1024,
-          "height": 682,
-          "title": "Using AI to analyze coronavirus data",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-10-researchers-propose-falcon-a-privacy-preserving-communication-protocol-for-ai-training-and-inference.md",
-      "title": "Researchers propose Falcon, a privacy-preserving communication protocol for AI training and inference",
-      "excerpt": "In an academic paper published this week on the preprint server Arxiv.org, a team of Princeton, Microsoft, the nonprofit Algorand Foundation, and Technion researchers propose Falcon, an end-to-end framework for secure computation of AI models on distributed systems. They claim that it’s the first secure C++ framework to support high-capacity ...",
-      "heat": 72,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/10/researchers-propose-falcon-a-privacy-preserving-communication-protocol-for-ai-training-and-inference/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/10/researchers-propose-falcon-a-privacy-preserving-communication-protocol-for-ai-training-and-inference/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/10/researchers-propose-falcon-a-privacy-preserving-communication-protocol-for-ai-training-and-inference/amp/",
-      "publishedDateTime": "2020-04-10T08:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/11/ai-brain.jpg?fit=1200%2C595&strip=all",
-          "width": 1200,
-          "height": 595,
-          "title": "Researchers propose Falcon, a privacy-preserving communication protocol for AI training and inference",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-10-new-doe-program-drives-demand-for-machine-learning-programmers.md",
-      "title": "New DoE Program Drives Demand For Machine Learning Programmers",
-      "excerpt": "Machine learning is leading to numerous changes in the energy industry. The Department of Energy recently announced that it is taking steps to accelerate the integration of machine learning technology in energy research and development. The head of the Department of Energy announced that they will be investing $30 million in artificial ...",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.smartdatacollective.com/new-doe-program-drives-demand-for-machine-learning-programmers/",
-      "ampWebUrl": "https://www.smartdatacollective.com/new-doe-program-drives-demand-for-machine-learning-programmers/amp/",
-      "cdnAmpWebUrl": "https://www-smartdatacollective-com.cdn.ampproject.org/c/s/www.smartdatacollective.com/new-doe-program-drives-demand-for-machine-learning-programmers/amp/",
-      "publishedDateTime": "2020-04-10T08:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SmartData Collective",
-        "domain": "smartdatacollective.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.smartdatacollective.com/wp-content/uploads/2020/04/machine-learning-in-energy-sector.jpg",
-          "width": 1000,
-          "height": 676,
-          "title": "New DoE Program Drives Demand For Machine Learning Programmers",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

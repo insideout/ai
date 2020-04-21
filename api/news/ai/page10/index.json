@@ -2,6 +2,132 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-04-08-researchers-teach-robots-to-move-more-like-animals.md",
+      "title": "Researchers teach robots to move more like animals",
+      "excerpt": "Some of the things they’re able to do are very impressive. A group of researchers at the Berkeley Artificial Intelligence Research (BAIR) laboratory at Berkeley are trying to teach robots to move like animals. The scientists say that they have presented a framework for learning robotic locomotion skills by imitating animals. Using a reference ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.slashgear.com/researchers-teach-robots-to-move-more-like-animals-08615942/",
+      "ampWebUrl": "https://www.slashgear.com/researchers-teach-robots-to-move-more-like-animals-08615942/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/researchers-teach-robots-to-move-more-like-animals-08615942/amp/",
+      "publishedDateTime": "2020-04-08T06:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://scdn.slashgear.com/wp-content/uploads/2020/04/robot-motion.jpg",
+          "width": 1280,
+          "height": 608,
+          "title": "Researchers teach robots to move more like animals",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-08-coreldraw-graphics-suite-2020-review-faster-with-more-ai-and-added-collaboration.md",
+      "title": "CorelDRAW Graphics Suite 2020 review: Faster, with more AI and added collaboration",
+      "excerpt": "Since moving to annual updates, CorelDRAW has been getting one or two strong features in each release. In the 2020 release, which costs £299 a year or £599 as a one-time purchase, that includes using machine learning to improve several features. This isn't an attempt to deliver automatic designs, but to make designers more productive. Expert ...",
+      "heat": 81,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/product/coreldraw-graphics-suite-2020/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/product/coreldraw-graphics-suite-2020/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/product/coreldraw-graphics-suite-2020/",
+      "publishedDateTime": "2020-04-08T04:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/04/08/a05bd86c-08f6-40c9-93cc-b4cfbf01484d/coreldraw-gs-2020-powertrace.jpg",
+          "width": 770,
+          "height": 500,
+          "title": "CorelDRAW Graphics Suite 2020 review: Faster, with more AI and added collaboration",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-08-when-machines-design-artificial-intelligence-and-the-future-of-aesthetics.md",
+      "title": "When Machines Design: Artificial Intelligence and the Future of Aesthetics",
+      "excerpt": "In a tech report on artificial intelligence, Building Design + Construction explored how Arup had applied a neural network to a light rail design and reduced the number of utility clashes by over 90%, saving nearly 800 hours of engineering. In the same vein, the areas of site and social research that utilize artificial intelligence have been ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.archdaily.com/937051/when-machines-design-artificial-intelligence-and-the-future-of-aesthetics",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-08T04:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ArchDaily",
+        "domain": "archdaily.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.adsttc.com/media/images/5e8b/bf98/b357/6565/bb00/027c/large_jpg/Es_Devlin.jpg?1586216846",
+          "width": 2000,
+          "height": 1333,
+          "title": "When Machines Design: Artificial Intelligence and the Future of Aesthetics",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-08-how-ai-and-data-science-are-helping-to-understand-and-tackle-covid-19.md",
       "title": "How AI And Data Science Are Helping To Understand And Tackle COVID-19",
       "excerpt": "The AI company Black Swan Data has turned its skills to help clinicians, researchers and the medical community in their work on analysing COVID-19.",
@@ -234,7 +360,7 @@
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.businesswire.com/news/home/20200408005248/en/",
+      "webUrl": "https://www.businesswire.com/news/home/20200408005248/en/Insights-Worldwide-Automated-Machine-Learning-Market-2020",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-04-08T01:36:00-07:00",
@@ -845,6 +971,43 @@
       ]
     },
     {
+      "path": "_news/2020-04-07-blackrock-and-microsoft-form-strategic-partnership-to-host-aladdin-on-azure-as-blackrock-readies-aladdin-for-next-chapter-of-innovation.md",
+      "title": "BlackRock and Microsoft Form Strategic Partnership to Host Aladdin on Azure as BlackRock Readies Aladdin for Next Chapter of Innovation",
+      "excerpt": "By adopting Microsoft Azure, BlackRock will both accelerate innovation on Aladdin through greater computing ... of sustainability-related risk on investment portfolios and company performance. Big data, machine learning and AI can all play a critical role in improving access to and the impact and quality of sustainability data.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businesswire.com/news/home/20200407005781/en/BlackRock-Microsoft-Form-Strategic-Partnership-Host-Aladdin",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-07T13:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20200407005781/en/783707/23/ALA_eng_black_rgb.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": "BlackRock and Microsoft Form Strategic Partnership to Host Aladdin on Azure as BlackRock Readies Aladdin for Next Chapter of Innovation",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-07-uc-san-diego-health-uses-ai-to-augment-covid-19-lung-imaging-analysis.md",
       "title": "UC San Diego Health uses AI to augment COVID-19 lung imaging analysis",
       "excerpt": "To quickly detect pneumonia -- and therefore better distinguish between COVID-19 patients likely to need more supportive care in the hospital and those who could be followed closely at home -- UC San Diego Health radiologists and other physicians are now using artificial intelligence ... by Amazon Web Services (AWS). The new AI capability ...",
@@ -922,51 +1085,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-07-blackrock-and-microsoft-form-strategic-partnership-to-host-aladdin-on-azure-as-blackrock-readies-aladdin-for-next-chapter-of-innovation.md",
-      "title": "BlackRock and Microsoft Form Strategic Partnership to Host Aladdin on Azure as BlackRock Readies Aladdin for Next Chapter of Innovation",
-      "excerpt": "BlackRock and Microsoft Corp. have formed a strategic partnership to host BlackRock’s Aladdin infrastructure on the Microsoft Azure cloud platform,",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/blackrock-and-microsoft-form-strategic-partnership-to-host-aladdin-on-azure-as-blackrock-readies-aladdin-for-next-chapter-of-innovation-2020-04-07",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-07T13:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "BlackRock and Microsoft Form Strategic Partnership to Host Aladdin on Azure as BlackRock Readies Aladdin for Next Chapter of Innovation",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     },
@@ -1130,141 +1248,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-07-optimizing-japanese-text-to-speech-with-amazon-polly.md",
-      "title": "Optimizing Japanese text-to-speech with Amazon Polly",
-      "excerpt": "Amazon Polly is a cloud service that offers text-to-speech (TTS), a system that converts text input into a waveform, in a range of 61 voices in 29 languages by using advanced deep learning technologies. The Amazon Polly service supports companies in developing digital products that use speech synthesis",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/optimizing-japanese-text-to-speech-with-amazon-polly/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-07T10:59:57-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/11/24/polly-social.jpg",
-          "width": 1024,
-          "height": 512,
-          "title": "Optimizing Japanese text-to-speech with Amazon Polly",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-07-microsofts-cto-explains-how-ai-can-help-health-care-in-the-us-right-now.md",
-      "title": "Microsoft’s CTO explains how AI can help health care in the US right now",
-      "excerpt": "Scott’s book tackles how artificial intelligence and machine learning can help rural America in a more grounding way, from employment to education to public health. In one chapter of his book, Scott focuses on how AI can assist with health care and diagnostic issues — a prominent concern in the US today,",
-      "heat": 90,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.theverge.com/2020/4/7/21210331/vergecast-interview-microsoft-cto-kevin-scott-ai-rural-america-health-care",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/4/7/21210331/vergecast-interview-microsoft-cto-kevin-scott-ai-rural-america-health-care",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/4/7/21210331/vergecast-interview-microsoft-cto-kevin-scott-ai-rural-america-health-care",
-      "publishedDateTime": "2020-04-07T10:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/TrMdv5CKOKd-anE8ovz4hZ2WC84=/0x0:1314x739/1400x933/filters:focal(558x160:768x370):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66617290/y648_1.0.jpg",
-          "width": 1314,
-          "height": 739,
-          "title": "Microsoft’s CTO explains how AI can help health care in the US right now",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-04-07-the-quest-for-a-better-blockchain-former-microsoft-ai-chief-invests-in-seattle-startup-asensys.md",
-      "title": "The quest for a better blockchain: Former Microsoft AI chief invests in Seattle startup Asensys",
-      "excerpt": "Harry Shum, former head of Microsoft’s AI and Research Group, in his Redmond office in 2017. (GeekWire File Photo / Todd Bishop) Asensys, a Seattle startup promising to build a more scalable and efficient blockchain infrastructure, has landed noted computer scientist and former Microsoft artificial intelligence chief Harry Shum as one of the ...",
-      "heat": 75,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.geekwire.com/2020/quest-better-blockchain-former-microsoft-ai-chief-invests-seattle-startup-asensys/",
-      "ampWebUrl": "https://www.geekwire.com/2020/quest-better-blockchain-former-microsoft-ai-chief-invests-seattle-startup-asensys/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/quest-better-blockchain-former-microsoft-ai-chief-invests-seattle-startup-asensys/amp/",
-      "publishedDateTime": "2020-04-07T10:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2017/09/harryshum-1-1-630x418.png",
-          "width": 630,
-          "height": 418,
-          "title": "The quest for a better blockchain: Former Microsoft AI chief invests in Seattle startup Asensys",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

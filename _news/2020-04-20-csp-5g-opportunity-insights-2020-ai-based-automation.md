@@ -22,6 +22,6 @@ images:
     height: 419
     title: "CSP 5G Opportunity Insights 2020: AI-based Automation"
 
-secured: "x0QUxOREMiF/9s9VmCxah4Z0Cf1GEwmstWBPinlve2UvSpi/mboIEyKJTegs75bGMkFxaItuyCYxQDhY3dfmR4dkq41PDi7Z4MelTd5hr2a7hOpEk6Eg59+ZwvSiqNQhzwEL1F7iy2x7Va5oItmIUGT7JI9prv81C4LdRUK1t//RMHtbw2mtH4fnuv98w+4ph1aCK1Z2cDUb6/M16svn+y6oZNl2bexjr/KOs8iCpf1dghaUzEzA9op82wk+53G653SMuoNv8tMylJKm6fk2JOdGl+pKUOmnrzckdncj/lr3EP/nA/z1rRV94HCOT7D/;cGiHyIbpn6gBb5iAzvlNHg=="
+secured: "I/qlLia+GuIv0Zh7w49W8KUX1s9s+kbbd7S4Ci5Z193nrMS94wSANsuaChbDsroGiE4HhgK7m/rbbl+g1OGITA6D6X6SRKjurNp/EXP6EF3HsxZRFBwEt/BKUa1A4SlP8TZXE1fPUIL4Mi2PwNg7aYC1LUoPEcLUtJhh7PCDVSwEU3S2Uj7Vm4mlBToSaSv799G5Sjn7sAqWioUz3JnpYjR93BHRoSVgwKxiWrlvZ2NBA5ko6LpP49+ra6zn28fGJSzWuRtMN6VmAwmj+oVySj+wW2VzDBFhBwyXJSDlP/uT51ZxZlimWpm7FRJvf/Kc9wbsGijyQeK7KfC/on6iQ39qkF8t0qFnxyA3flrAzC/tA/mpcuDUyXjval91OrkKd6t1KlfclqwUBrTjzKMRFb4LXbgbqO5x6uYMALpDD2nbk/mHOoqMrErPZbbAMhb4q5BAgD4t+YbETdXteHBIT46v/81LBFOJ5K17XLemCGo=;WU+wuKMci+c8Eij9802KsA=="
 ---
 

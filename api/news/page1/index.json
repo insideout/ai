@@ -2,10 +2,100 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-04-20-new-ai-algorithm-brings-us-closer-than-ever-to-controlling-machines-with-our-minds.md",
+      "title": "New AI algorithm brings us closer than ever to controlling machines with our minds",
+      "excerpt": "After that, the sky’s the limit. We may one day use chips and AI to make secure mental connections with cloud computers. This would make machine such as ATMs, that merely exist to authenticate a transaction, obsolete. And who knows what kind of alien aesthetics we’ll end up with as a result of a less hands-on approach to reality once ...",
+      "heat": 83,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/04/20/new-ai-algorithm-brings-us-closer-than-ever-to-controlling-machines-with-our-minds/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/04/20/new-ai-algorithm-brings-us-closer-than-ever-to-controlling-machines-with-our-minds/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/04/20/new-ai-algorithm-brings-us-closer-than-ever-to-controlling-machines-with-our-minds/amp/",
+      "publishedDateTime": "2020-04-20T16:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/03/braincomputer-796x417.jpg",
+          "width": 796,
+          "height": 417,
+          "title": "New AI algorithm brings us closer than ever to controlling machines with our minds",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-20-chinese-internet-giant-baidu-offers-free-trial-robotaxi-rides-through-search-and-map-apps-in-changsha.md",
+      "title": "Chinese internet giant Baidu offers free trial robotaxi rides through search and map apps in Changsha",
+      "excerpt": "Baidu’s Apollo robotaxi program has set up a complete mechanism for safety evaluation and technical support,” the Nasdaq-listed company said in the statement on Monday. “This time [we are ready to] launch the service at a large-scale to the public.” We tried out a futuristic, self-driving robotaxi in China The company’s move to expand ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.scmp.com/tech/apps-social/article/3080712/chinese-internet-giant-baidu-offers-free-trial-robotaxi-rides",
+      "ampWebUrl": "https://amp.scmp.com/tech/apps-social/article/3080712/chinese-internet-giant-baidu-offers-free-trial-robotaxi-rides",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/apps-social/article/3080712/chinese-internet-giant-baidu-offers-free-trial-robotaxi-rides",
+      "publishedDateTime": "2020-04-20T15:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/04/20/774b19fe-82e3-11ea-8863-2139a14b0dea_image_hires_165514.JPG?itok=p5GpxoUY&v=1587372921",
+          "width": 1200,
+          "height": 630,
+          "title": "Chinese internet giant Baidu offers free trial robotaxi rides through search and map apps in Changsha",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-20-system-on-a-chip-takes-iot-processing-to-the-edge.md",
       "title": "System on a chip takes IoT processing to the edge",
       "excerpt": "A system on a chip (SOC) combines hardware and software, including components like a graphical processing unit (GPU), a central processing unit (CPU ... the way a human brain does and then further \"smartened\" with artificial intelligence (AI) that is made for use in the consumer, automotive, and industrial markets, it adds even more edge ...",
-      "heat": 89,
+      "heat": 91,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.techrepublic.com/article/system-on-a-chip-takes-iot-processing-to-the-edge/",
@@ -43,7 +133,8 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -131,7 +222,7 @@
       "path": "_news/2020-04-20-allergy-insights-with-watson-uses-ai-to-predict-allergy-symptom-risk.md",
       "title": "Allergy Insights with Watson uses AI to predict allergy symptom risk",
       "excerpt": "IBM today announced a new tool that taps AI to predict when allergy symptoms are likely to flare up. It’s called Allergy Insights with Watson, and it’s available in The Weather Channel app for iOS and Android ahead of a launch on the web. In addition to a 15-day forecast that predicts allergy symptom risk (e.g., high, moderate, low ...",
-      "heat": 87,
+      "heat": 104,
       "tags": null,
       "type": "article",
       "webUrl": "https://venturebeat.com/2020/04/20/allergy-insights-with-watson-uses-ai-to-predict-allergy-symptom-risk/",
@@ -168,7 +259,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "IBM AI"
       ]
     },
     {
@@ -975,88 +1067,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-20-hisense-f50-5g-debuts-with-unisoc-chip-for-2199-yuan-310-in-china.md",
-      "title": "HiSense F50 5G debuts with Unisoc chip for 2,199 Yuan (~$310) in China",
-      "excerpt": "Coupled with AI algorithm, the quad cameras of the HiSense F50 supports night mode photography, HDR, AI beauty and more. The HiSense F50 is backed by a massive 5,010mAh battery that supports 18W fast charging. The Unisoc T7510 chipset supports SA/NSA dual-mode 5G connectivity. The SoC supports N41, N78 and N79 mainstream 5G frequency bands.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.gizmochina.com/2020/04/20/hisense-f50-5g-debuts-with-2199-yuan-310-in-china/",
-      "ampWebUrl": "https://www.gizmochina.com/2020/04/20/hisense-f50-5g-debuts-with-2199-yuan-310-in-china/?amp",
-      "cdnAmpWebUrl": "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2020/04/20/hisense-f50-5g-debuts-with-2199-yuan-310-in-china/?amp",
-      "publishedDateTime": "2020-04-19T22:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2020/04/HiSense-F50-5G.png",
-          "width": 600,
-          "height": 298,
-          "title": "HiSense F50 5G debuts with Unisoc chip for 2,199 Yuan (~$310) in China",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-20-vietnamese-smartphone-makers-devices-will-offer-mask-facial-recognition.md",
-      "title": "Vietnamese Smartphone Maker’s Devices Will Offer Mask Facial Recognition",
-      "excerpt": "Vingroup’s device unit VinSmart will add facial recognition capabilities to its smartphones that can identify users wearing masks, the company said in an emailed statement.",
-      "heat": 78,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.bloomberg.com/news/articles/2020-04-20/vinsmart-to-offer-mask-facial-recognition-on-its-smartphones",
-      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-04-20/vinsmart-to-offer-mask-facial-recognition-on-its-smartphones",
-      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-04-20/vinsmart-to-offer-mask-facial-recognition-on-its-smartphones",
-      "publishedDateTime": "2020-04-19T20:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

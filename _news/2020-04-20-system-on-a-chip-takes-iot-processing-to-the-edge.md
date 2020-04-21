@@ -7,8 +7,8 @@ webUrl: "https://www.techrepublic.com/article/system-on-a-chip-takes-iot-process
 ampWebUrl: "https://www.techrepublic.com/google-amp/article/system-on-a-chip-takes-iot-processing-to-the-edge/"
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/system-on-a-chip-takes-iot-processing-to-the-edge/"
 type: article
-quality: 89
-heat: 89
+quality: 91
+heat: 91
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Machine Learning
 
 images:
   - url: "https://tr3.cbsistatic.com/hub/i/r/2020/04/20/437b3bb6-e65d-4d94-9edc-7ee2da524058/resize/1200x/276df09e3c2848680ab542597b4baf2b/istock-958956392.jpg"
@@ -29,6 +30,6 @@ images:
     height: 800
     title: "System on a chip takes IoT processing to the edge"
 
-secured: "BNIP/t7iyyKOtjxPB3NlGKX/OMVeYPhDrxZWCKt8p1OkcyVs9THa2r8RV38XTZkAw4+6GUDie+hqY/jmXcjNr2NWLtBi9cs7nzqkMUx8MtaR4/z8y5Ewf9vkaTVs54SGxOwjxYIUIxBlVexbze1jla/Nhv+4Gb9nP8y7w14TVFV/xqOS1nvOxFgUgvyCpZ6cOKrn6TIC3Pv6x0TgCq2RH+TErzHTf8kSn+3H55molsLVM9Fjx9/umKNzvZ7covFAktfTN5I/kYLtDYZvjLejL9qc8U1gZuOe18kPnkd83+3lxEWDoGTwPBVQW8zftFa0;fTWPNarMp1H9CLKPOhmmPQ=="
+secured: "MvNZ2CtC+cprN9ASnzqvZ3J5+2zIn7Xox5PBjSbfSiP/H49xROqyIeVQ/sdI369/5BoUN+V6yPaaHB7QxrFjOFvGpTkaYwPhDmduZDFVu8vbJpOwyx4vzl9/C6VyQC5ynIijffZ3uhnp0mURtBggUxh7pnnp5MvpAr0E1hRqeUTQgGoOsFCFX+ZBYW00Pom+K4zC479lFy1k5s5cxeDkV6Gr8hm/0NzSrSM1otiF2rgMxo75wHzdx5RlTpsMjRT+Y2m7JkuJ3YZ95MTvU9R3DzoQddirpU+e2DliYAdnh1sB+o38eIaaBuhx5sMhGTxRpXC3zRpBuMxtgTI6b2pfOuIuw2DFKjycVSoL90+1Gz3aCn5eNAJhcup+5yfinzIF/pj1Vl6uWPPZrvECg0mizvmykWPNIDeOnSPjVCzyLC9IbApxn0l6AuXiCK+XsAYMhKRZ7twc5r2dxNJiLUPS4pHCHlQdOUqwBh4kMnEVHFw=;w2PQEQ5d3EKMTnqDTvVTWg=="
 ---
 
