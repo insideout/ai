@@ -129,6 +129,43 @@
       ]
     },
     {
+      "path": "_news/2020-04-17-clearview-ai-exposes-source-code-to-controversial-facial-recognition-app-and-company-credentials.md",
+      "title": "Clearview AI exposes source code to controversial facial recognition app and company credentials",
+      "excerpt": "A researcher found that a misconfiguration allowed anyone to register as a new user and access the database containing Clearview's code regardless of whether they had entered password.",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-8231025/Clearview-AI-exposes-source-code-controversial-facial-recognition-app-company-credentials.html",
+      "ampWebUrl": "https://www.dailymail.co.uk/sciencetech/article-8231025/amp/Clearview-AI-exposes-source-code-controversial-facial-recognition-app-company-credentials.html",
+      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-8231025/amp/Clearview-AI-exposes-source-code-controversial-facial-recognition-app-company-credentials.html",
+      "publishedDateTime": "2020-04-17T12:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mail Online",
+        "domain": "dailymail.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.dailymail.co.uk/1s/2020/04/17/19/25231518-0-image-a-2_1587149037389.jpg",
+          "width": 636,
+          "height": 382,
+          "title": "Clearview AI exposes source code to controversial facial recognition app and company credentials",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-17-server-screw-up-exposes-clearviews-facial-recognition-ai-software.md",
       "title": "Server screw-up exposes Clearview’s facial recognition AI software",
       "excerpt": "Clearview AI is widely seen as a privacy nightmare by the public and even privacy-challenged tech giants like Google. Now, the company has shown that it can’t even take care of its own data, according to a report from TechCrunch. It managed to expose its source code to anyone with an internet connection due to a server misconfiguration ...",
@@ -301,21 +338,74 @@
       ]
     },
     {
-      "path": "_news/2020-04-14-computer-vision-ai-safeguard-atms.md",
-      "title": "Computer Vision & AI Safeguard ATMs",
-      "excerpt": "respect the privacy of bank customers, and reduce the load on operators. ATMSense is an aftermarket intelligent vision system that can be deployed on existing ATMs.",
+      "path": "_news/2020-04-15-afp-used-clearview-ai-facial-recognition-software-to-counter-child-exploitation.md",
+      "title": "AFP used Clearview AI facial recognition software to counter child exploitation",
+      "excerpt": "Seven officers have conducted searches on the Clearview AI facial recognition platform.",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.computerworld.com/resources/201265/computer-vision-ai-safeguard-atms",
+      "webUrl": "https://www.zdnet.com/video/afp-used-clearview-ai-facial-recognition-software-to-counter-child-exploitation/",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-14T06:24:00-07:00",
+      "publishedDateTime": "2020-04-14T20:45:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Computerworld",
-        "domain": "computerworld.com",
-        "images": null,
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2020/04/16/43dce3ec-8083-443a-b027-321bdeafee8c/thumbnail/770x578/a5f5db7891dc99aa2234de7b704b2e30/afp-used-clearview-ai-facial-recognition-5e97a875b3157671f8b01e1d-1-apr-16-2020-6-30-34-poster.jpg",
+          "width": 770,
+          "height": 578,
+          "title": "AFP used Clearview AI facial recognition software to counter child exploitation",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-14-computer-vision-ai-safeguard-atms.md",
+      "title": "Computer Vision & AI Safeguard ATMs",
+      "excerpt": "Italy’s Banca Monte dei Paschi di Siena turned to advanced technology that could reliably detect installation of skimming devices, respect the privacy of bank customers, and reduce the load on operators. ATMSense is an aftermarket intelligent vision system that can be deployed on existing ATMs.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.infoworld.com/resources/201265/computer-vision-ai-safeguard-atms",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-14T06:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1135,80 +1225,6 @@
         "AI Ethics",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-04-01-microsoft-president-calls-washington-states-new-facial-recognition-law-a-significant-breakthrough.md",
-      "title": "Microsoft president calls Washington state’s new facial recognition law ‘a significant breakthrough’",
-      "excerpt": "Microsoft President Brad Smith took a break from responding to the COVID-19 outbreak Tuesday to praise Washington state’s landmark facial recognition regulations. Washington Gov. Jay Inslee signed a bill Tuesday that establishes rules specifically governing facial recognition software. Smith called the law an “early and important model ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.geekwire.com/2020/microsoft-president-calls-washington-states-new-facial-recognition-law-significant-breakthrough/",
-      "ampWebUrl": "https://www.geekwire.com/2020/microsoft-president-calls-washington-states-new-facial-recognition-law-significant-breakthrough/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/microsoft-president-calls-washington-states-new-facial-recognition-law-significant-breakthrough/amp/",
-      "publishedDateTime": "2020-03-31T23:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2019/09/20190920_Brad_Smith_1301-630x450.jpg",
-          "width": 630,
-          "height": 450,
-          "title": "Microsoft president calls Washington state’s new facial recognition law ‘a significant breakthrough’",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-01-sample-based-identification-eases-object-recognition-tasks.md",
-      "title": "Sample-based Identification Eases Object Recognition Tasks",
-      "excerpt": "Both the parameters of the feature extractors and the classifiers must also be optimized for the object recognition task. Since these parameters may not be intuitive, expert knowledge is required. This involves extensive evaluation of specific object types ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.vision-systems.com/boards-software/article/16736036/samplebased-identification-eases-object-recognition-tasks",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-31T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Vision Systems Design",
-        "domain": "vision-systems.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

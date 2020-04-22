@@ -1,25 +1,25 @@
 ---
 category: news
 title: "OnePacs Provides Its Teleradiology PACS/RIS/Voice Platform to California COVID Specialty Hospital"
-excerpt: "In response to the COVID-19 pandemic, OnePacs is providing its PACS/RIS-reporting platform, with voice recognition, to the California"
+excerpt: "PALO ALTO, Calif., April 15, 2020 /PRNewswire/ -- In response to the COVID-19 pandemic, OnePacs is providing its PACS/RIS-reporting platform, with voice recognition, to the California State Department"
 publishedDateTime: 2020-04-15T07:00:00Z
-webUrl: "https://www.prnewswire.com/news-releases/onepacs-provides-its-teleradiology-pacsrisvoice-platform-to-california-covid-specialty-hospital-301040761.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/onepacs-provides-its-teleradiology-pacs-ris-voice-platform-to-california-covid-specialty-hospital/article_8d979ba3-96bf-5f3d-b470-36603f52a9e5.html"
 type: article
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+    width: 1280
+    height: 720
     title: "OnePacs Provides Its Teleradiology PACS/RIS/Voice Platform to California COVID Specialty Hospital"
 
-secured: "sc5H84vdOvj+w07/hMC1ZR8y3uhC4d8wnWQ/2MlxAykt8ehWz+dN+L+mb6ireIRCLggCkQ/DsVnQ7Qg6MGOj33k9jdm+erWS3I69pE/nO6vRhjMU7bqKkaSBITW/BbWbIifroJR00XkV6D8Wmh08jkJElk17jr4UeZFRh/pPrISk540AWZdO02HasiPZFjZbducMJnkt+KxurlpeTJj645/bVY/EuDHrCPTWnqkPQedJ3UELBtsgwsSXP6g7mR1OAqsJ0ExQ1Vet7x5qYfnlMW5rzKcvggN43aYNlCs0c+dcZmq8vzJUUB7/4BX/z7vs;WNRguPgCQc8eW8PvJ/aIyA=="
+secured: "gYncCN7wdV8hNeouWq9f5vaLWulE0lxt9van/vFgB8TP/vstwT6wN2/Q430VHyLUieYmGfDBpuBI5oVWpYKizmVNM6YOYkcaEv/gxKkKpJ4gmJRRDmHvydzqr1nNZfhoEIfj4w6MySS46AbSaT5YyNDvbz1m2S3AVkFrUPr/JRICdgXMSHC/gx+zkiRkBL2PlafeiI6bDM9EZy9zm9zIoJS5imL3+yEIA4nHUOI7EQQGcI1HknEagmyhtAc+OkvpJ/fDuExySdESuNAssKnDE2DE7QO4BUVwuh1Xvv7mebCfgkwtURW4sjrfA2IeRHCL;b0Sehy8ixLpoq5798aTLAQ=="
 ---
 

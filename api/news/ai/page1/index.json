@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-04-22-dissident-artist-ai-weiwei-says-virus-has-only-strengthened-chinas-police-state.md",
+      "title": "Dissident artist Ai Weiwei says virus has only strengthened China's 'police state'",
+      "excerpt": "The artist has been critical of China's handling of the outbreak and believes the \"arrogance and success\" of the government's authoritarian tactics will lead it into another crisis.",
+      "heat": 81,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://edition.cnn.com/style/article/ai-weiwei-coronavirus-pandemic/index.html",
+      "ampWebUrl": "https://www.cnn.com/style/amp/ai-weiwei-coronavirus-pandemic/index.html",
+      "cdnAmpWebUrl": "https://www-cnn-com.cdn.ampproject.org/c/s/www.cnn.com/style/amp/ai-weiwei-coronavirus-pandemic/index.html",
+      "publishedDateTime": "2020-04-21T19:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "http://cdn.cnn.com/cnnnext/dam/assets/200421223427-ai-weiwei-file-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": "Dissident artist Ai Weiwei says virus has only strengthened China's 'police state'",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-21-alibaba-microsoft-cloud-computing-layout-5g-ai-vs-wimi-hologram-cloud-ai-vision-algorithm.md",
       "title": "Alibaba, Microsoft Cloud Computing Layout 5g + AI V.S. WIMI Hologram Cloud AI Vision Algorithm",
       "excerpt": "Recently, aridamo hospital announced the establishment of XG laboratory. The laboratory is committed to promoting",
@@ -97,7 +141,7 @@
       "path": "_news/2020-04-21-facebooks-ai-detects-fake-accounts-with-fewer-than-20-friend-requests.md",
       "title": "Facebook’s AI detects fake accounts with fewer than 20 friend requests",
       "excerpt": "We plan to accomplish this by mixing feature-based and behavior-based models,” wrote Facebook. Facebook is broadly moving toward an AI training technique called self-supervised learning, in which unlabeled data is used in conjunction with small amounts of labeled data to produce an improvement in learning accuracy. Facebook’s deep entity ...",
-      "heat": 87,
+      "heat": 88,
       "tags": null,
       "type": "article",
       "webUrl": "https://venturebeat.com/2020/04/21/facebooks-ai-detects-fake-accounts-with-fewer-than-20-friend-requests/",
@@ -185,7 +229,7 @@
       "path": "_news/2020-04-21-nvidia-launches-project-monai-ai-framework-for-health-care-research-in-alpha.md",
       "title": "Nvidia launches Project MONAI AI framework for health care research in alpha",
       "excerpt": "MONAI stands for Medical Open Network for AI. The framework is optimized for the demands of health care researchers and made for running with deep learning frameworks like PyTorch and Ignite. A main goal of the MONAI framework is to help researchers can reproduce their experiments in order t to build upon each other’s work. One example in the ...",
-      "heat": 84,
+      "heat": 94,
       "tags": null,
       "type": "article",
       "webUrl": "https://venturebeat.com/2020/04/21/nvidia-launches-project-monai-ai-framework-for-health-care-research-in-alpha/",
@@ -1287,50 +1331,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-20-clearview-ai-source-code-revealed-exposing-majority-security-lapse.md",
-      "title": "Clearview AI source code revealed, exposing majority security lapse",
-      "excerpt": "Hussein also found the source code had been configured to allow anyone to register as a new user and log in to the platform. Hoan Ton-That, CEO and co-founder of Clearview AI, responded to the cybersecurity lapse, saying that it “did not expose any personally identifiable information, search history, or biometric identifiers.” He added that ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.itpro.co.uk/security/cyber-security/355374/clearview-ai-source-code-revealed-exposing-majority-security-lapse",
-      "ampWebUrl": "https://www.itpro.co.uk/security/cyber-security/355374/clearview-ai-source-code-revealed-exposing-majority-security-lapse?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/security/cyber-security/355374/clearview-ai-source-code-revealed-exposing-majority-security-lapse?amp",
-      "publishedDateTime": "2020-04-20T10:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk//image/upload/v1587403508/shutterstock_1658378527.jpg",
-          "width": 5000,
-          "height": 3051,
-          "title": "Clearview AI source code revealed, exposing majority security lapse",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

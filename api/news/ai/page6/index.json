@@ -2,6 +2,133 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-04-15-covid-19-crisis-illustrates-need-for-solid-aiml-strategy.md",
+      "title": "Covid-19 Crisis Illustrates Need for Solid AI/ML Strategy",
+      "excerpt": "AAs recently as 6 months ago, AI spending was projected to exceed $50B worldwide by 2021. A few months later the Coronavirus crisis struck across the world and may have created a whole new reason for organizing and employing AI/ML.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbesinsights/2020/04/15/covid-19-crisis-illustrates-need-for-solid-aiml-strategy/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesinsights/2020/04/15/covid-19-crisis-illustrates-need-for-solid-aiml-strategy/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesinsights/2020/04/15/covid-19-crisis-illustrates-need-for-solid-aiml-strategy/amp/",
+      "publishedDateTime": "2020-04-15T10:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbesinsights%2Ffiles%2F2020%2F04%2FAdobeStock_210908431-640.jpg",
+          "width": 640,
+          "height": 316,
+          "title": "Covid-19 Crisis Illustrates Need for Solid AI/ML Strategy",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-15-apple-facial-recognition-to-secure-more-products.md",
+      "title": "Apple facial recognition to secure more products",
+      "excerpt": "Biometrics could get another big mainstream boost as Apple facial recognition is being considered for future versions of iMac and MacBook computers. That describes at least some of the thought bouncing around in recent weeks after news broke that Apple has filed a U.S. patent application related to deploying facial recognition to a broader part ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.secureidnews.com/news-item/apple-facial-recognition-to-secure-more-products/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-15T10:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "secureidnews.com",
+        "domain": "secureidnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.secureidnews.com/wp-content/uploads/2020/04/apple-facial-recognition.png",
+          "width": 610,
+          "height": 292,
+          "title": "Apple facial recognition to secure more products",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-15-the-robot-that-can-train-your-dog-better-than-you-can.md",
+      "title": "The robot that can train your dog better than you can",
+      "excerpt": "The coronavirus pandemic has changed many routines, including those of pet guardians and their dogs and cats. Right now, that change is probably positive: Humans and animals are spending more time together as families shelter in place.",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnet.com/news/the-smart-robot-that-can-train-your-dog-better-than-you-can/",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/the-smart-robot-that-can-train-your-dog-better-than-you-can/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/the-smart-robot-that-can-train-your-dog-better-than-you-can/",
+      "publishedDateTime": "2020-04-15T10:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cnet2.cbsistatic.com/img/nRzGs39XDCKbcF5JE2yjhBDEasA=/2020/04/14/c094f7e6-674d-42e0-85a9-a670420da402/introducing-companionpro-mp4-00-00-29-26-still001.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": "The robot that can train your dog better than you can",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-15-using-ai-yes-health-cuts-costs-improves-adherence-for-weight-loss-and-diabetes-treatment.md",
       "title": "Using AI, Yes Health cuts costs, improves adherence for weight loss and diabetes treatment",
       "excerpt": "“Yes Health is proven to tackle difficult and costly chronic conditions through an AI-augmented and all-mobile solution, aligning it with our firm’s thesis in healthcare.”",
@@ -919,27 +1046,27 @@
     {
       "path": "_news/2020-04-15-onepacs-provides-its-teleradiology-pacsrisvoice-platform-to-california-covid-specialty-hospital.md",
       "title": "OnePacs Provides Its Teleradiology PACS/RIS/Voice Platform to California COVID Specialty Hospital",
-      "excerpt": "In response to the COVID-19 pandemic, OnePacs is providing its PACS/RIS-reporting platform, with voice recognition, to the California",
+      "excerpt": "PALO ALTO, Calif., April 15, 2020 /PRNewswire/ -- In response to the COVID-19 pandemic, OnePacs is providing its PACS/RIS-reporting platform, with voice recognition, to the California State Department",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.prnewswire.com/news-releases/onepacs-provides-its-teleradiology-pacsrisvoice-platform-to-california-covid-specialty-hospital-301040761.html",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/onepacs-provides-its-teleradiology-pacs-ris-voice-platform-to-california-covid-specialty-hospital/article_8d979ba3-96bf-5f3d-b470-36603f52a9e5.html",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-04-15T00:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
         "images": null,
         "publishers": null,
         "authors": null
       },
       "images": [
         {
-          "url": "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg",
-          "width": 600,
-          "height": 315,
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
+          "width": 1280,
+          "height": 720,
           "title": "OnePacs Provides Its Teleradiology PACS/RIS/Voice Platform to California COVID Specialty Hospital",
           "attribution": null
         }
@@ -1036,6 +1163,51 @@
       ]
     },
     {
+      "path": "_news/2020-04-15-afp-used-clearview-ai-facial-recognition-software-to-counter-child-exploitation.md",
+      "title": "AFP used Clearview AI facial recognition software to counter child exploitation",
+      "excerpt": "Seven officers have conducted searches on the Clearview AI facial recognition platform.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/video/afp-used-clearview-ai-facial-recognition-software-to-counter-child-exploitation/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-14T20:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2020/04/16/43dce3ec-8083-443a-b027-321bdeafee8c/thumbnail/770x578/a5f5db7891dc99aa2234de7b704b2e30/afp-used-clearview-ai-facial-recognition-5e97a875b3157671f8b01e1d-1-apr-16-2020-6-30-34-poster.jpg",
+          "width": 770,
+          "height": 578,
+          "title": "AFP used Clearview AI facial recognition software to counter child exploitation",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-14-brief-hansoh-pharma-atomwise-expand-strategic-partnership-for-ai-accelerated-drug-discovery.md",
       "title": "BRIEF-Hansoh Pharma, Atomwise Expand Strategic Partnership For Ai-Accelerated Drug Discovery",
       "excerpt": "Hansoh Pharmaceutical Group Co Ltd : * HANSOH PHARMA - CO, ATOMWISE ANNOUNCED EXPANSION OF THEIR STRATEGIC PARTNERSHIP FOR AI-ACCELERATED DRUG DISCOVERY Source text for Eikon: Further company coverage: Our Standards:The Thomson Reuters Trust Principles.",
@@ -1121,172 +1293,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-14-googles-automl-zero-lets-the-machines-create-algorithms-to-avoid-human-bias.md",
-      "title": "Google’s AutoML Zero lets the machines create algorithms to avoid human bias",
-      "excerpt": "It looks like Google‘s working on some major upgrades to its autonomous machine learning development language ‘AutoML.’ According to a pre-print research paper authored by several of the big ...",
-      "heat": 86,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/04/14/googles-automl-zero-lets-the-machines-create-algorithms-to-avoid-human-bias/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/04/14/googles-automl-zero-lets-the-machines-create-algorithms-to-avoid-human-bias/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/04/14/googles-automl-zero-lets-the-machines-create-algorithms-to-avoid-human-bias/amp/",
-      "publishedDateTime": "2020-04-14T13:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2017/07/robots-796x433.jpg",
-          "width": 796,
-          "height": 433,
-          "title": "Google’s AutoML Zero lets the machines create algorithms to avoid human bias",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-14-openai-launches-microscope-to-visualize-the-neurons-in-popular-machine-learning-models.md",
-      "title": "OpenAI launches Microscope to visualize the neurons in popular machine learning models",
-      "excerpt": "In addition to Microscope’s neuron visualizations, several works in recent years have attempted to visualize the activity of machine learning models. Introduced last fall, Facebook’s Captum uses visualizations to explain decisions made by machine learning models, while in March 2019 OpenAI and Google released the activation atlases ...",
-      "heat": 106,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/14/openai-launches-microscope-to-visualize-the-neurons-in-popular-machine-learning-models/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/14/openai-launches-microscope-to-visualize-the-neurons-in-popular-machine-learning-models/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/14/openai-launches-microscope-to-visualize-the-neurons-in-popular-machine-learning-models/amp/",
-      "publishedDateTime": "2020-04-14T12:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/alexnet.png?fit=1234%2C659&strip=all",
-          "width": 1234,
-          "height": 659,
-          "title": "OpenAI launches Microscope to visualize the neurons in popular machine learning models",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-14-googles-tensorflow-lite-model-maker-adapts-state-of-the-art-models-for-on-device-ai.md",
-      "title": "Google’s TensorFlow Lite Model Maker adapts state-of-the-art models for on-device AI",
-      "excerpt": "Google today announced TensorFlow Lite Model Maker, a tool that adapts state-of-the-art machine learning models to custom data sets using a technique known as transfer learning. It wraps machine learning concepts with an API that enables developers to train models in Google’s TensorFlow AI framework with only a few lines of code, and to ...",
-      "heat": 124,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/14/googles-tensorflow-lite-model-maker-adapts-state-of-the-art-models-for-on-device-ai/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/14/googles-tensorflow-lite-model-maker-adapts-state-of-the-art-models-for-on-device-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/14/googles-tensorflow-lite-model-maker-adapts-state-of-the-art-models-for-on-device-ai/amp/",
-      "publishedDateTime": "2020-04-14T11:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/06/tensorflow.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Google’s TensorFlow Lite Model Maker adapts state-of-the-art models for on-device AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "TensorFlow",
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-14-coronavirus-brightens-outlook-for-robotics-etfs.md",
-      "title": "Coronavirus Brightens Outlook for Robotics ETFs",
-      "excerpt": "Coronavirus cases have leaped to more than 1.86 million worldwide, with governments and business operators increasingly looking for ways to maintain operations along with curbing its spread. In such a scenario,",
-      "heat": 86,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nasdaq.com/articles/coronavirus-brightens-outlook-for-robotics-etfs-2020-04-14",
-      "ampWebUrl": "https://www.nasdaq.com/articles/coronavirus-brightens-outlook-for-robotics-etfs-2020-04-14?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/coronavirus-brightens-outlook-for-robotics-etfs-2020-04-14?amp",
-      "publishedDateTime": "2020-04-14T10:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

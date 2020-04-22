@@ -2,6 +2,177 @@
   "page": 31,
   "value": [
     {
+      "path": "_news/2020-03-26-insights-on-the-worldwide-cognitive-computing-market-to-2025-featuring-google-microsoft-ibm-sas-among-others-researchandmarketscom.md",
+      "title": "Insights on the Worldwide Cognitive Computing Market to 2025 - Featuring Google, Microsoft, IBM & SAS Among Others - ResearchAndMarkets.com",
+      "excerpt": "The key players in the cognitive computing market are Microsoft, IBM, SAS, Google, AWS, TCS, Cisco, and Virtusa. These companies are continuously innovating their products and services to overcome ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/insights-on-the-worldwide-cognitive-computing-market-to-2025---featuring-google-microsoft-ibm-sas-among-others---researchandmarketscom-2020-03-26?mod=mw_quote_news",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-26T07:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Insights on the Worldwide Cognitive Computing Market to 2025 - Featuring Google, Microsoft, IBM & SAS Among Others - ResearchAndMarkets.com",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-26-tesla-model-y-is-equipped-with-a-radar-heater-to-weather-proof-autopilotself-driving.md",
+      "title": "Tesla Model Y is equipped with a radar heater to weather-proof Autopilot/Self-Driving",
+      "excerpt": "Tesla Model Y wiring schematics reveal that the electric SUV is equipped with a radar heater to weather-proof Autopilot and its future self-driving capability. One of the most common arguments against self-driving is that a computer won’t be able to handle different weather conditions as well as humans, like heavy snow. Not only is driving ...",
+      "heat": 82,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://electrek.co/2020/03/26/tesla-model-y-radar-heater-weather-proof-autopilot-self-driving/",
+      "ampWebUrl": "https://electrek.co/2020/03/26/tesla-model-y-radar-heater-weather-proof-autopilot-self-driving/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/03/26/tesla-model-y-radar-heater-weather-proof-autopilot-self-driving/amp/",
+      "publishedDateTime": "2020-03-26T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://electrek.co/wp-content/uploads/sites/3/2020/03/IMG_0440-1-e1579703019623.jpg?quality=82&strip=all&w=1000",
+          "width": 1000,
+          "height": 483,
+          "title": "Tesla Model Y is equipped with a radar heater to weather-proof Autopilot/Self-Driving",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-26-what-an-all-digital-ai-research-conference-looks-like.md",
+      "title": "What an all-digital AI research conference looks like",
+      "excerpt": "Organizers of the International Conference on Learning Representations (ICLR) shared details about what will be one of the largest-ever all-digital AI research conferences. The weeklong, online-only affair will feature more than 650 machine learning works. ICLR will include live chat, live Zoom video calls for Q&As and research author meetings ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/03/26/what-an-all-digital-ai-research-conference-looks-like/",
+      "ampWebUrl": "https://venturebeat.com/2020/03/26/what-an-all-digital-ai-research-conference-looks-like/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/26/what-an-all-digital-ai-research-conference-looks-like/amp/",
+      "publishedDateTime": "2020-03-26T06:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/11/ai-brain.jpg?fit=1200%2C595&strip=all",
+          "width": 1200,
+          "height": 595,
+          "title": "What an all-digital AI research conference looks like",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-26-3-healthcare-stocks-to-buy-for-ai-and-big-data.md",
+      "title": "3 Healthcare Stocks to Buy for AI and Big Data",
+      "excerpt": "However one of the major problems in the healthcare sector is how to collect and efficiently use data. The health care sector looks to be a logical application for artificial intelligence (AI) and big data. However, there are legitimate privacy concerns about the use of this data. One concern is how healthcare data can be used in predictive ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://investorplace.com/2020/03/healthcare-stocks-using-ai-big-data/",
+      "ampWebUrl": "https://investorplace.com/2020/03/healthcare-stocks-using-ai-big-data/amp/",
+      "cdnAmpWebUrl": "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/03/healthcare-stocks-using-ai-big-data/amp/",
+      "publishedDateTime": "2020-03-26T06:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InvestorPlace",
+        "domain": "investorplace.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://investorplace.com/wp-content/uploads/2019/07/healthcare1600a.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": "3 Healthcare Stocks to Buy for AI and Big Data",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-26-how-a-freshly-funded-robotics-startup-wants-to-help-hospitals-dealing-with-coronavirus.md",
       "title": "How a freshly funded robotics startup wants to help hospitals dealing with coronavirus",
       "excerpt": "The Austin startup makes robot assistants that help hospital staff with routine tasks. Moxi is the name of their current robot. It uses artificial intelligence to help hospital staff take care of things like delivering clean linens, gauze and syringes and setting up rooms for patients. DNX Ventures led the round, which also included existing ...",
@@ -844,162 +1015,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-25-sleeping-in-self-driving-cars-its-no-pipe-dream.md",
-      "title": "Sleeping in Self-Driving Cars? It’s No Pipe Dream",
-      "excerpt": "When you absolutely, positively have to get there overnight, autonomous sleeper cars may be your best bet in the future, says Dan Neil",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wsj.com/articles/sleeping-in-self-driving-cars-its-no-pipe-dream-11585165420",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/sleeping-in-self-driving-cars-its-no-pipe-dream-11585165420",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/sleeping-in-self-driving-cars-its-no-pipe-dream-11585165420",
-      "publishedDateTime": "2020-03-25T12:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-168010/social",
-          "width": 1280,
-          "height": 640,
-          "title": "Sleeping in Self-Driving Cars? It’s No Pipe Dream",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-25-artificial-intelligence-model-can-detect-covid-19-on-chest-ct.md",
-      "title": "Artificial intelligence model can detect COVID-19 on chest CT",
-      "excerpt": "(HealthDay)—Artificial intelligence allows coronavirus ... a deep learning model COVID-19 detection neural network was developed. To test the robustness of the model, CAP and other nonpneumonia ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medicalxpress.com/news/2020-03-artificial-intelligence-covid-chest-ct.html",
-      "ampWebUrl": "https://medicalxpress.com/news/2020-03-artificial-intelligence-covid-chest-ct.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-03-artificial-intelligence-covid-chest-ct.amp",
-      "publishedDateTime": "2020-03-25T12:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-25-ibm-launches-an-interactive-dashboard-to-track-coronavirus-on-phone-and-the-web.md",
-      "title": "IBM launches an interactive dashboard to track coronavirus on phone and the web",
-      "excerpt": "IBM’s dashboard runs on the IBM public cloud and uses IBM Watson to access and analyze data from the World Health Organization and multiple national, state and local governments. The dashboard has the following features: An AI-enhanced interactive “Incidents Map” of COVID-19 data and stats, including confirmed cases and more by U.S. state ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://mspoweruser.com/ibm-dashboard-track-coronavirus-phone-and-online/",
-      "ampWebUrl": "https://mspoweruser.com/ibm-dashboard-track-coronavirus-phone-and-online/amp/",
-      "cdnAmpWebUrl": "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/ibm-dashboard-track-coronavirus-phone-and-online/amp/",
-      "publishedDateTime": "2020-03-25T12:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MSPoweruser",
-        "domain": "mspoweruser.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mspoweruser.com/wp-content/uploads/2020/03/IBM-Cognos-Analytics-Dashboard_County-Level-1000.png",
-          "width": 1000,
-          "height": 625,
-          "title": "IBM launches an interactive dashboard to track coronavirus on phone and the web",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-25-ai-is-searching-for-unexploded-vietnam-war-bombs-in-cambodia.md",
-      "title": "AI is searching for unexploded Vietnam War bombs in Cambodia",
-      "excerpt": "The system uses object recognition algorithms that detect the unique features of bomb craters, including their shapes, colors, textures, and sizes. These algorithms then scan satellite images for ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/03/25/ai-is-searching-for-unexploded-vietnam-war-bombs-in-cambodia/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/03/25/ai-is-searching-for-unexploded-vietnam-war-bombs-in-cambodia/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/03/25/ai-is-searching-for-unexploded-vietnam-war-bombs-in-cambodia/amp/",
-      "publishedDateTime": "2020-03-25T11:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/03/Untitled-design38-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "AI is searching for unexploded Vietnam War bombs in Cambodia",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

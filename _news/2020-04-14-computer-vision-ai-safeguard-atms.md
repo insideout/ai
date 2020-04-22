@@ -1,19 +1,23 @@
 ---
 category: news
 title: "Computer Vision & AI Safeguard ATMs"
-excerpt: "respect the privacy of bank customers, and reduce the load on operators. ATMSense is an aftermarket intelligent vision system that can be deployed on existing ATMs."
-publishedDateTime: 2020-04-14T13:24:00Z
-webUrl: "https://www.computerworld.com/resources/201265/computer-vision-ai-safeguard-atms"
+excerpt: "Italy’s Banca Monte dei Paschi di Siena turned to advanced technology that could reliably detect installation of skimming devices, respect the privacy of bank customers, and reduce the load on operators. ATMSense is an aftermarket intelligent vision system that can be deployed on existing ATMs."
+publishedDateTime: 2020-04-14T13:47:00Z
+webUrl: "https://www.infoworld.com/resources/201265/computer-vision-ai-safeguard-atms"
 type: article
 
 provider:
-  name: Computerworld
-  domain: computerworld.com
+  name: InfoWorld
+  domain: infoworld.com
+  images:
+    - url: "https://insideout.app/ai/assets/images/organizations/infoworld.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Computer Vision
   - AI
 
-secured: "fpBE53dumAlrUBv9Mc1yIq9zZmn4JvYUQHYk2w+a8+gVj6bAABNeJekZdXVJG8UwTjMcdXA7xD893DRuPfnUhmcf2SXPALaG+sDf3Q3nxv5dgXmOZn7dFW0zBiXE1EJGA4sDtlsduz5CeQepLpQCD8XqmB7I5zvK8IS7Wcm3wwJ1F5OScRPxSJRrzJxC9StTic+U8cJXMb99vhhXHCvi6Wsa1EOBrwz19Px+nJ4fW8dRSrCCBvCIVVhTZycB0PueF4GOY1V+zXLdA/7OwKISlmIzop8y85cGSDwvCWTxQ+t3RNPeuJrODzNa0LpKsr90TyQ13Bw3oGnetkQRGOZEhLh2I/O4AUGW150nHJoSQQy3o2eBRLk71PYFUwQlnv3AlfXtZAz3tI+JM6LyJmDx0NPgsdLqR/PfrrkPPn9o3bXv/+vJ/RmxkRxs+HrMXyravNL+lByu1J7EFRXW4skxlvdV1K4Yp7MVajJpEx8ynM0=;mI8rN/YelC0OjR5fJQVPLg=="
+secured: "iAmEitMVdyDDkwNitk5VKwDOMFmDP9eGDHyGiIDTO7IUFjFCAeV3XAxc5EZpRVtC24U6p96BUb83iGJeqICv+QKigxQmX6HC4tjOUFLWTcGwLGwR2ATnZONHPU6LTcGpsv1C5FR3ooP7Dq7FeCi3+xasF9voVjZvUeFfj3sZzWJdfre8O0h2m1uh2OTmVNn1TZriv9WLpHkehf4yCnXosfIfwELpHMLLv3fDdRLehXNJaqj2+JGs9ANY6RmEb7ZcZcaiUBpUGKyVc3iiy8yW5X2qL30lJJMsAci7GNTL+TaDWpVXMd7StTL2LtoGXL+6KissdjmlpIpJtG9BNQagZUQainhbFk+locDVH1ES+n6fHkFTnNinv1/T3TSEJ6yJoS/RvSeymRq/93kIxSpP6SzzD7QMt3nsxzXqUUUr18ABkWcydWizghm4/MW+XvQ9nN1w1J+dp7C9B8jhzuFS91Eprq8xH+W6h4X13QAeALk=;r5HMIuAZVhU+WtYX1gvFIw=="
 ---
 

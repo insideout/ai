@@ -2,6 +2,176 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2020-04-01-google-deepminds-agent57-ai-bests-humans-at-beating-atari-games.md",
+      "title": "Google DeepMind’s Agent57 AI Bests Humans at Beating Atari Games",
+      "excerpt": "DeepMind’s Agent57 AI because the first tool to beat humans at all Atari games in the Arcade Learning Environment (ALE) data set. Google parent company Alphabet this week revealed its Agent57 artificial intelligence (AI) has become the first machine learning tool to beat humans across all Atari games in the Arcade Learning Environment data set.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://winbuzzer.com/2020/04/01/google-deepminds-agent57-ai-bests-humans-at-beating-atari-games-xcxwbn/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-01T09:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "winbuzzer.com",
+        "domain": "winbuzzer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://winbuzzer.com/wp-content/uploads/2020/04/Agent57-ALE-DeepMind.jpg",
+          "width": 1440,
+          "height": 634,
+          "title": "Google DeepMind’s Agent57 AI Bests Humans at Beating Atari Games",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-01-is-this-ai-powered-mirror-gym-the-future-of-home-exercise.md",
+      "title": "Is this AI-powered 'mirror gym' the future of home exercise?",
+      "excerpt": "Designer Yves Behar and entrepreneur Trent Ward just unveiled a new design for a mirror fitness system, Forme, which uses machine learning to optimize workouts at home.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnn.com/style/article/yves-behar-home-gym-forme-wellness/index.html",
+      "ampWebUrl": "https://www.cnn.com/style/amp/yves-behar-home-gym-forme-wellness/index.html",
+      "cdnAmpWebUrl": "https://www-cnn-com.cdn.ampproject.org/c/s/www.cnn.com/style/amp/yves-behar-home-gym-forme-wellness/index.html",
+      "publishedDateTime": "2020-04-01T08:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "http://cdn.cnn.com/cnnnext/dam/assets/200401103641-05-yves-behar-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": "Is this AI-powered 'mirror gym' the future of home exercise?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-01-terrifying-things-happen-when-an-ai-generates-fake-faces-synced-to-music.md",
+      "title": "Terrifying Things Happen When an AI Generates Fake Faces Synced to Music",
+      "excerpt": "We’re still trying to figure out the best applications for neural networks, machine learning, and all the recent advancements in artificial intelligence. Amongst all the practical research being conducted, there’s also lots of frivolous experimentation being done with results that walk the line between fascinating and terrifying. Automated ...",
+      "heat": 86,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://gizmodo.com/terrifying-things-happen-when-an-ai-generates-fake-face-1842592456",
+      "ampWebUrl": "https://gizmodo.com/terrifying-things-happen-when-an-ai-generates-fake-face-1842592456/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/terrifying-things-happen-when-an-ai-generates-fake-face-1842592456/amp",
+      "publishedDateTime": "2020-04-01T07:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,q_80,w_800/lmmxqkwklbkuqyzfjsbv.jpg",
+          "width": 800,
+          "height": 450,
+          "title": "Terrifying Things Happen When an AI Generates Fake Faces Synced to Music",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-01-latin-america-self-driving-car-market-overview-and-scope-industry-outlook-size-forecast-2018-2023.md",
+      "title": "Latin America Self-driving Car Market Overview and scope, Industry Outlook, Size & Forecast 2018-2023",
+      "excerpt": "A self-driving car, also known as the driverless car or an autonomous car or robotic car uses a combination of cameras, radars sensor, GPS system and artificial intelligence (AI) to travel between ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/latin-america-self-driving-car-market-overview-and-scope-industry-outlook-size-forecast-2018-2023-2020-04-01?mod=mw_quote_news",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-01T07:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Latin America Self-driving Car Market Overview and scope, Industry Outlook, Size & Forecast 2018-2023",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-01-nokia-stirs-telco-space-with-5g-backed-automated-operations.md",
       "title": "Nokia Stirs Telco Space With 5G-Backed Automated Operations",
       "excerpt": "Nokia Corporation NOK recently unveiled an out-and-out AI-backed service offering that helps communication service providers (CSPs) to support future network evolution, and optimize enterprise and cloud services on a global scale.",
@@ -901,180 +1071,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-01-acm-prize-in-computing-awarded-to-alphago-developer.md",
-      "title": "ACM Prize in Computing awarded to AlphaGo developer",
-      "excerpt": "Silver is a Professor at University College London and a Principal Research Scientist at DeepMind, a Google-owned artificial intelligence company based in the United Kingdom. Silver is recognized ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.eurekalert.org/pub_releases/2020-04/afcm-api033120.php",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-31T21:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.eurekalert.org/multimedia/pub/web/228188_web.jpg",
-          "width": 720,
-          "height": 813,
-          "title": "ACM Prize in Computing awarded to AlphaGo developer",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-01-algorithmic-justice-league-protests-bias-voice-ai-and-media-coverage.md",
-      "title": "Algorithmic Justice League protests bias voice AI and media coverage",
-      "excerpt": "“We cannot let the promise of AI overshadow real and present harms,” Benjamin said in the piece ... In statements following the release of the study, Google and IBM Watson pledged commitments to progress.",
-      "heat": 91,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/03/31/algorithmic-justice-league-protests-bias-voice-ai-and-media-coverage/",
-      "ampWebUrl": "https://venturebeat.com/2020/03/31/algorithmic-justice-league-protests-bias-voice-ai-and-media-coverage/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/31/algorithmic-justice-league-protests-bias-voice-ai-and-media-coverage/amp/",
-      "publishedDateTime": "2020-03-31T20:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/03/voicing-erasure.jpg?fit=1280%2C661&strip=all",
-          "width": 1280,
-          "height": 661,
-          "title": "Algorithmic Justice League protests bias voice AI and media coverage",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-04-01-nvidia-a-clear-winner-in-otherwise-brutal-quarter-for-chip-makers.md",
-      "title": "Nvidia a clear winner in otherwise brutal quarter for chip makers",
-      "excerpt": "Last week, Needham upgraded the stock to buy, forecasting higher demand for chips used in medical applications, as well as in artificial intelligence applications. Why China’s AI champions must find alternatives to US hardware – and quick Nvidia is up about 14 per cent thus far this year, putting it in the top 10 gainers on the S&P 500.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.scmp.com/tech/gear/article/3077869/nvidia-clear-winner-otherwise-brutal-quarter-chip-makers",
-      "ampWebUrl": "https://amp.scmp.com/tech/gear/article/3077869/nvidia-clear-winner-otherwise-brutal-quarter-chip-makers",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/gear/article/3077869/nvidia-clear-winner-otherwise-brutal-quarter-chip-makers",
-      "publishedDateTime": "2020-03-31T19:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/04/01/df04e758-73bd-11ea-ab8f-988daf8efd6f_image_hires_101133.JPG?itok=fw4QshuF&v=1585707099",
-          "width": 1200,
-          "height": 630,
-          "title": "Nvidia a clear winner in otherwise brutal quarter for chip makers",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-01-huawei-open-sources-tensorflow-competitor-mindspore.md",
-      "title": "Huawei open-sources TensorFlow competitor MindSpore",
-      "excerpt": "Huawei has announced that its framework for AI app development MindSpore is now open source and available on GiHub and Gitee. The lightweight suite is similar to Google's TensorFlow and Facebook's PyTorch as it lowers the barrier to entry for developers looking to add AI to their apps. \"MindSpore natively adapts to all scenarios across the ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techradar.com/in/news/huawei-open-sources-tensorflow-competitor-mindspore",
-      "ampWebUrl": "https://www.techradar.com/in/amp/news/huawei-open-sources-tensorflow-competitor-mindspore",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/huawei-open-sources-tensorflow-competitor-mindspore",
-      "publishedDateTime": "2020-03-31T17:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/RYqiU3byPDDFvXMxvn9kNm-1200-80.jpg",
-          "width": 970,
-          "height": 547,
-          "title": "Huawei open-sources TensorFlow competitor MindSpore",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "TensorFlow",
-        "Google AI",
         "AI"
       ]
     }

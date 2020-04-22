@@ -2,6 +2,139 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-04-17-how-to-incorporate-ai-and-ml-on-a-budget-14-tips-for-businesses.md",
+      "title": "How To Incorporate AI And ML On A Budget: 14 Tips For Businesses",
+      "excerpt": "Follow these tips to add artificial intelligence or machine learning tech to your business without breaking the bank.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/04/17/how-to-incorporate-ai-and-ml-on-a-budget-14-tips-for-businesses/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/04/17/how-to-incorporate-ai-and-ml-on-a-budget-14-tips-for-businesses/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/04/17/how-to-incorporate-ai-and-ml-on-a-budget-14-tips-for-businesses/amp/",
+      "publishedDateTime": "2020-04-17T05:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fdam%2Fimageserve%2F1216542637%2F0x0.jpg%3Ffit%3Dscale",
+          "width": 1200,
+          "height": 800,
+          "title": "How To Incorporate AI And ML On A Budget: 14 Tips For Businesses",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-17-ai-uncovers-a-potential-treatment-for-covid-19-patients.md",
+      "title": "AI Uncovers a Potential Treatment for Covid-19 Patients",
+      "excerpt": "Despite the many unknowns, he says, the pandemic demands taking any promising leads seriously. Machine Learning: Living in the Age of AI “Machine Learning: Living in the Age of AI,” examines the extraordinary ways in which people are interacting with AI today. Hobbyists and teenagers are now developing tech powered by machine learning and ...",
+      "heat": 77,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wired.com/story/ai-uncovers-potential-treatment-covid-19-patients/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-17T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5e97a9ed845a6c00080f0f21/191:100/w_1280,c_limit/business-feature-ai_drug_covid-1134490146-1177505480-v2.jpg",
+          "width": 1280,
+          "height": 670,
+          "title": "AI Uncovers a Potential Treatment for Covid-19 Patients",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-17-does-this-7000-year-old-poop-belong-to-a-human-or-dog-machine-learning-has-the-answer.md",
+      "title": "Does This 7,000-Year-Old Poop Belong to a Human or Dog? Machine Learning Has the Answer",
+      "excerpt": "As outlined in the new paper, coproID uses machine learning software to compare ancient host DNA with DNA in modern feces, enabling it to distinguish between the two hosts in most cases. “CoproID is the first line of identification in coprolite analysis to confirm that what we’re looking for is actually human, or a dog if we’re interested ...",
+      "heat": 101,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.vice.com/en_us/article/jge7j4/does-this-7000-year-old-poop-belong-to-a-human-or-dog-machine-learning-has-the-answer",
+      "ampWebUrl": "https://www.vice.com/amp/en_us/article/jge7j4/does-this-7000-year-old-poop-belong-to-a-human-or-dog-machine-learning-has-the-answer",
+      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_us/article/jge7j4/does-this-7000-year-old-poop-belong-to-a-human-or-dog-machine-learning-has-the-answer",
+      "publishedDateTime": "2020-04-17T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VICE",
+        "domain": "vice.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/vice.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://video-images.vice.com/test-uploads/articles/5e98c20ac7e9d80099d6d452/lede/1587070293609-229163_web.jpeg?crop=1xw:0.8446298227320125xh;center,center",
+          "width": 1440,
+          "height": 810,
+          "title": "Does This 7,000-Year-Old Poop Belong to a Human or Dog? Machine Learning Has the Answer",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-17-server-screw-up-exposes-clearviews-facial-recognition-ai-software.md",
       "title": "Server screw-up exposes Clearview’s facial recognition AI software",
       "excerpt": "Clearview AI is widely seen as a privacy nightmare by the public and even privacy-challenged tech giants like Google. Now, the company has shown that it can’t even take care of its own data, according to a report from TechCrunch. It managed to expose its source code to anyone with an internet connection due to a server misconfiguration ...",
@@ -1183,140 +1316,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-16-chinese-av-startups-didi-and-autox-set-to-launch-robotaxi-pilot-programs-in-may.md",
-      "title": "Chinese AV startups Didi and AutoX set to launch robotaxi pilot programs in May",
-      "excerpt": "Two of China’s leading self-driving car firms Didi Chuxing and AutoX are reportedly set to launch their ... The race to be among the first to launch commercial autonomous ride-hailing cabs have been raging in China with Pony.ai and Baidu at the forefront. AutoX and Didi are aiming to become among the first to get the nod to commercialize ...",
-      "heat": 70,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.gizmochina.com/2020/04/16/chinese-av-startups-didi-and-autox-set-to-launch-robotaxi-pilot-programs-in-may/",
-      "ampWebUrl": "https://www.gizmochina.com/2020/04/16/chinese-av-startups-didi-and-autox-set-to-launch-robotaxi-pilot-programs-in-may/?amp",
-      "cdnAmpWebUrl": "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2020/04/16/chinese-av-startups-didi-and-autox-set-to-launch-robotaxi-pilot-programs-in-may/?amp",
-      "publishedDateTime": "2020-04-16T07:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2020/04/auto-x.jpg",
-          "width": 1620,
-          "height": 1080,
-          "title": "Chinese AV startups Didi and AutoX set to launch robotaxi pilot programs in May",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-16-new-mit-machine-learning-model-shows-relaxing-quarantine-rules-will-spike-covid-19-cases.md",
-      "title": "New MIT machine learning model shows relaxing quarantine rules will spike COVID-19 cases",
-      "excerpt": "MIT has developed a new model of the spread of COVID-19 infection, based on publicly available data, combined with established epidemiological equations about outbreaks, and neural network-based inference. The model, described in a new report, proves accurate when trained on data spanning late January to early March in terms of anticipating the ...",
-      "heat": 80,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/04/16/new-mit-machine-learning-model-shows-relaxing-quarantine-rules-will-spike-covid-19-cases/",
-      "ampWebUrl": "https://techcrunch.com/2020/04/16/new-mit-machine-learning-model-shows-relaxing-quarantine-rules-will-spike-covid-19-cases/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/16/new-mit-machine-learning-model-shows-relaxing-quarantine-rules-will-spike-covid-19-cases/amp/",
-      "publishedDateTime": "2020-04-16T07:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/04/GettyImages-1210095941.jpg?w=1024",
-          "width": 1024,
-          "height": 668,
-          "title": "New MIT machine learning model shows relaxing quarantine rules will spike COVID-19 cases",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-16-project-florence-how-ai-powered-online-learning-is-training-nurses-to-fight-covid-19.md",
-      "title": "Project Florence: How AI-powered online learning is training nurses to fight COVID-19",
-      "excerpt": "SEE: Coronavirus: Critical IT policies and tools every business needs (TechRepublic Premium) The online learning tool starts with an AI-driven assessment that changes based on the knowledge level of the user. Once Project Florence has determined what a nurse or other health care practitioner needs to learn it recommends a two-day curriculum ...",
-      "heat": 80,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/project-florence-how-ai-powered-online-learning-is-training-nurses-to-fight-covid-19/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/project-florence-how-ai-powered-online-learning-is-training-nurses-to-fight-covid-19/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/project-florence-how-ai-powered-online-learning-is-training-nurses-to-fight-covid-19/",
-      "publishedDateTime": "2020-04-16T06:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/03/19/d5bc89b3-5b78-4960-afc0-225ccc07578a/thumbnail/1200x675/ceb60bdc175321320b105411a3ee9cf3/20200318-veronica-karen.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Project Florence: How AI-powered online learning is training nurses to fight COVID-19",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

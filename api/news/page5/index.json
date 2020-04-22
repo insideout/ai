@@ -2,6 +2,139 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-04-16-toyota-backed-ponyai-to-offer-autonomous-delivery-service-in-california.md",
+      "title": "Toyota-backed Pony.ai to offer autonomous delivery service in California",
+      "excerpt": "Toyota-backed self driving company Pony.ai said on Friday it would provide an autonomous delivery service to residents of Irvine, California, as demand for online orders surges because of the coronavirus lockdown.",
+      "heat": 86,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-pony-ai-idUSKBN21Y3GK",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN21Y3GK",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN21Y3GK",
+      "publishedDateTime": "2020-04-16T16:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200416&t=2&i=1515404415&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG3F2IJ",
+          "width": 821,
+          "height": 545,
+          "title": "Toyota-backed Pony.ai to offer autonomous delivery service in California",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-16-ponyai-partners-with-yamibuy-on-autonomous-deliveries.md",
+      "title": "Pony.ai partners with Yamibuy on autonomous deliveries",
+      "excerpt": "Self-driving startup Pony.ai today announced that it’s collaborating with Yamibuy ... as well as reduce the risk of infection in the course of deliveries. Former Baidu chief architect James Peng cofounded Pony.ai in 2016 with Tiancheng Lou, who worked at Google X’s autonomous car project before it was spun off into Waymo.",
+      "heat": 119,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/16/pony-ai-partners-with-yamibuy-to-autonomously-deliver-goods-to-irvine-customers/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/16/pony-ai-partners-with-yamibuy-to-autonomously-deliver-goods-to-irvine-customers/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/16/pony-ai-partners-with-yamibuy-to-autonomously-deliver-goods-to-irvine-customers/amp/",
+      "publishedDateTime": "2020-04-16T16:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/Photo2-e1587077842271.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Pony.ai partners with Yamibuy on autonomous deliveries",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-16-autonomous-driving-startup-ponyai-takes-on-last-mile-delivery.md",
+      "title": "Autonomous-Driving Startup Pony.ai Takes On Last-Mile Delivery",
+      "excerpt": "With autonomous-vehicle companies parked by Covid-19, Pony.ai has teamed up with Los Angeles-based e-commerce site Yamibuy to deliver packages and groceries in the city of Irvine. Yamibuy specializes in Asian foods and home goods.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.bloomberg.com/news/articles/2020-04-16/autonomous-driving-startup-pony-ai-takes-on-last-mile-delivery",
+      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-04-16/autonomous-driving-startup-pony-ai-takes-on-last-mile-delivery",
+      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-04-16/autonomous-driving-startup-pony-ai-takes-on-last-mile-delivery",
+      "publishedDateTime": "2020-04-16T16:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/imXSCN6Ae09g/v1/360x-1.jpg",
+          "width": 360,
+          "height": 224,
+          "title": "Autonomous-Driving Startup Pony.ai Takes On Last-Mile Delivery",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-16-nba-microsoft-use-ai-to-create-a-personalized-fan-focused-streaming-service.md",
       "title": "NBA, Microsoft use A.I. to create a personalized, fan-focused streaming service",
       "excerpt": "According to a press release, the multiyear collaboration will create a “new, innovative, direct-to-consumer platform” on Microsoft Azure, the company’s framework of cloud services. The streaming service will use machine learning and artificial intelligence to provide personalized game broadcasts and other content. For now, the NBA and ...",
@@ -942,140 +1075,6 @@
           "width": 1024,
           "height": 768,
           "title": "Conversational AI startup Yellow Messenger raises $20M Series B from Lightspeed",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-16-kebotix-raises-115-million-to-automate-lab-experiments-with-ai-and-robotics.md",
-      "title": "Kebotix raises $11.5 million to automate lab experiments with AI and robotics",
-      "excerpt": "Kebotix, a startup developing AI tools to expedite the discovery of chemicals ... Perhaps unsurprisingly, in a recent survey of 100 pharmaceutical executives, Pharma IQ found that 94% believe intelligent automation technologies like robots and AI will make an impact on lab practices within two years. “In a short period, Kebotix has managed ...",
-      "heat": 116,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/16/kebotix-raises-11-5-million-to-automate-lab-experiments-with-ai-and-robotics/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/16/kebotix-raises-11-5-million-to-automate-lab-experiments-with-ai-and-robotics/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/16/kebotix-raises-11-5-million-to-automate-lab-experiments-with-ai-and-robotics/amp/",
-      "publishedDateTime": "2020-04-16T06:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/7e0fd2ea-d4bb-4524-8980-e9a4a4bc93d3-e1586978829363.png?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Kebotix raises $11.5 million to automate lab experiments with AI and robotics",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-16-facebook-clones-itself-to-test-security-measures-by-letting-bots-roam-free.md",
-      "title": "Facebook clones itself to test security measures by letting bots roam free",
-      "excerpt": "[Read: How Facebook’s new AI system has deactivated billions of fake accounts] Facebook revealed the “web-enabled simulation” (WES) in a research paper published on Wednesday. The authors describe a virtual social network populated by bots, which “simulate real-user interactions and social behavior on the real platform infrastructure ...",
-      "heat": 92,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/04/16/facebook-clones-itself-to-test-security-measures-by-letting-bots-roam-free/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/04/16/facebook-clones-itself-to-test-security-measures-by-letting-bots-roam-free/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/04/16/facebook-clones-itself-to-test-security-measures-by-letting-bots-roam-free/amp/",
-      "publishedDateTime": "2020-04-16T06:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/04/Untitled-design-2-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "Facebook clones itself to test security measures by letting bots roam free",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-16-intel-and-udacity-announce-edge-ai-nanodegree-program-for-developers.md",
-      "title": "Intel and Udacity announce edge AI nanodegree program for developers",
-      "excerpt": "Graduates of the program will be able to accelerate computer vision and deep learning solutions within the Intel OpenVINO toolkit. Intel and Udacity announced that their Intel Edge AI for IoT Developer Nanodegree program is open for enrollment. The collaboration, announced on Thursday, aims to train developers in deep learning and computer ...",
-      "heat": 107,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/intel-and-udacity-announce-edge-ai-nanodegree-program-for-developers/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/intel-and-udacity-announce-edge-ai-nanodegree-program-for-developers/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/intel-and-udacity-announce-edge-ai-nanodegree-program-for-developers/",
-      "publishedDateTime": "2020-04-16T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr3.cbsistatic.com/hub/i/r/2018/11/16/0385ba0d-bb3e-4032-bc04-923383e3a7a8/thumbnail/1200x675/7bf52ee09733fde53fdfa55bd994c88b/20181116steve2teena.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Intel and Udacity announce edge AI nanodegree program for developers",
           "attribution": null
         }
       ],

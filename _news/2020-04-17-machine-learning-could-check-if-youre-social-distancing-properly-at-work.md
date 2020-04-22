@@ -8,7 +8,7 @@ ampWebUrl: "https://www.technologyreview.com/2020/04/17/1000092/ai-machine-learn
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2020/04/17/1000092/ai-machine-learning-watches-social-distancing-at-work/amp/"
 type: article
 quality: 58
-heat: 68
+heat: 58
 published: false
 
 provider:
@@ -24,21 +24,6 @@ images:
     width: 1024
     height: 576
     title: "Machine learning could check if you’re social distancing properly at work"
-
-related:
-  - title: "How Computer Vision Came In Handy For Social Distancing"
-    excerpt: "Now, as the world embraces radical measures to flatten the curve, lockdowns and social distancing have been given more emphasis. Computer vision is also helping answer questions such as: Are people maintaining safe social distances? What surfaces are people touching that may need cleaning? How many people are wearing masks? Computer vision ..."
-    publishedDateTime: 2020-04-17T10:33:00Z
-    webUrl: "https://analyticsindiamag.com/covid-19-computer-vision/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2020/04/covid-social-distancing.png"
-        width: 641
-        height: 482
 
 secured: "S5wU4OGfy5weNZ6aZSSy7nNUN6+FKjvwTQrvqi7h7dz1NLRdYZobCyp4xFGjEcdFf1jFOW0CfPfR9Y8b0KCBzxj6lrqC/NVmDkBF66MLXCAs6B96SPLCZ7C8W0xERNEiVnri/zcnMng/7nEL48vQ5bytcj0pqiPPXzjCjkf5pgT6CMTlJcSsIPBk37R/wyAVmcuoXKgmFgUo/BNsimM7VHWOO0X39EauihuplW9MdI0H7+bOt3YxUd6Qorc5b5yTEoGNOpNTgcfH1Xl4jmZkL66pVnAvXHiLFtCWn7+3rXMfkJ2i6/02DUnkvSeUFmcu2ztnVea+U1Dqd9Kxh9sWrl7GkUtF70jQKfV6cKHQRm9/5xAfAPSAWUUM7bvdc4/kUkxQt2XSPNN4KguxpnEm6NF7rPb0AGQQxriwuC4F1SrX/PwAyiUC09ss46eau1ib77r2IJNb4vxuCqusMI0sPpwVJcq4w7DdAiIrVWcasS4=;wikSMcT4sDuZHXlWraEOBw=="
 ---

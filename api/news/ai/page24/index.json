@@ -2,6 +2,186 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2020-03-28-microsoft-pulls-out-of-facial-recognition-startup-anyvision.md",
+      "title": "Microsoft pulls out of facial recognition startup AnyVision",
+      "excerpt": "Microsoft has pulled its minority investment out of a facial recognition startup that made headlines last year for allegedly surveilling Palestinians, while Microsoft also said it would halt any minority investments in companies selling facial-recognition technology,",
+      "heat": 129,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnet.com/news/microsoft-pulls-out-of-facial-recognition-startup-anyvision/",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/microsoft-pulls-out-of-facial-recognition-startup-anyvision/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/microsoft-pulls-out-of-facial-recognition-startup-anyvision/",
+      "publishedDateTime": "2020-03-28T10:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cnet4.cbsistatic.com/img/JsUigaPqhHEO0XUYO41ZqO-Z-vo=/756x567/2020/01/18/2bde6ea9-4f91-4473-a8fb-1418d9ac5c7d/facial-recognition-james-martin-promo-1.jpg",
+          "width": 756,
+          "height": 567,
+          "title": "Microsoft pulls out of facial recognition startup AnyVision",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-28-microsoft-pulls-its-smaller-investments-in-facial-recognition-tech.md",
+      "title": "Microsoft pulls its smaller investments in facial recognition tech",
+      "excerpt": "It's selling a stake in the surveillance firm AnyVision. Microsoft has been vocal about setting limits on facial recognition, and it's now backing that up with its financial support -- or lack thereof. The company is ending minority investments in facial recognition startups and is pulling its stake in AnyVision, an Israeli startup whose ...",
+      "heat": 139,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.engadget.com/2020-03-28-microsoft-pulls-investments-in-facial-recognition-tech.html",
+      "ampWebUrl": "https://www.engadget.com/amp/2020-03-28-microsoft-pulls-investments-in-facial-recognition-tech.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020-03-28-microsoft-pulls-investments-in-facial-recognition-tech.html",
+      "publishedDateTime": "2020-03-28T09:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D5000%252C3284%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1051%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2020-01%252F487fc450-42b8-11ea-bff7-2fdd18a0f0cb%26client%3Da1acac3e1b3290917d92%26signature%3Dfaec14d4515e53e19f6fca5b960ecd8f737f9e93&client=amp-blogside-v2&signature=511c234b5a541eb708d524aac9b9cc6c057f6a21",
+          "width": 600,
+          "height": 350,
+          "title": "Microsoft pulls its smaller investments in facial recognition tech",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-28-ai-artificial-intelligence-companies-that-are-combating-the-covid-19-pandemic.md",
+      "title": "AI (Artificial Intelligence) Companies That Are Combating The COVID-19 Pandemic",
+      "excerpt": "AI (Artificial Intelligence) has a long history ... Keep in mind that–in China–about 29% of COVID-19 deaths were healthcare workers. Another promising innovation to help patients is from Vital. The founders are Aaron Patzer, who is the creator of Mint.com, and Justin Schrager, an ER doc. Their company uses AI and NLP (Natural Language ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/tomtaulli/2020/03/28/ai-artificial-intelligence-companies-that-are-combating-the-covid-19-pandemic/",
+      "ampWebUrl": "https://www.forbes.com/sites/tomtaulli/2020/03/28/ai-artificial-intelligence-companies-that-are-combating-the-covid-19-pandemic/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2020/03/28/ai-artificial-intelligence-companies-that-are-combating-the-covid-19-pandemic/amp/",
+      "publishedDateTime": "2020-03-28T09:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1215339620%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "AI (Artificial Intelligence) Companies That Are Combating The COVID-19 Pandemic",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-28-ai-to-become-main-way-banks-interact-with-customers-within-three-years-accenture.md",
+      "title": "AI to become main way banks interact with customers within three years: Accenture",
+      "excerpt": "Artificial intelligence (AI) will become the primary way banks interact with their customers within the next three years, according to three quarters of bankers surveyed by consultancy Accenture ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2017/03/28/ai-to-become-main-way-banks-interact-with-customers.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2017/03/28/ai-to-become-main-way-banks-interact-with-customers.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2017/03/28/ai-to-become-main-way-banks-interact-with-customers.html",
+      "publishedDateTime": "2020-03-28T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/103456053-516780641.jpg?v=1529470912",
+          "width": 2000,
+          "height": 1294,
+          "title": "AI to become main way banks interact with customers within three years: Accenture",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-28-in-artificial-intelligence-enterprises-still-not-minding-their-data.md",
       "title": "In artificial intelligence, enterprises still not minding their data",
       "excerpt": "Data is the raw material that fuels artificial intelligence and machine learning initiatives, but it actually can't be that raw. It needs to be as accurate, timely and well-vetted as possible -- or else AI will deliver erroneous or biased results. At this stage, most enterprises haven't quite locked down the viability of the data employed ...",
@@ -1121,171 +1301,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-27-cobourg-company-working-on-robotics-for-front-line-coronavirus-response.md",
-      "title": "Cobourg company working on robotics for front-line coronavirus response",
-      "excerpt": "The company’s robotics solutions for front-line medical professional would include a self-driving indoor delivery robot and artificial intelligence sterilization robots for indoor and ... “If there is an order coming in, we can kick-start the process, set up a temporary assembly and testing facility in Cobourg and have the device deployed ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.flamboroughreview.com/news-story/9915875-cobourg-company-working-on-robotics-for-front-line-coronavirus-response/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-27T07:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "flamboroughreview.com",
-        "domain": "flamboroughreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://dynamicmedia.zuza.com/zz/m/original_/2/e/2e61fc69-2202-4b4f-83df-25d12551250f/CB_Z_RoboticsCOVID___Super_Portrait.jpg",
-          "width": 563,
-          "height": 417,
-          "title": "Cobourg company working on robotics for front-line coronavirus response",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-27-deep-learning-to-power-ai-growth-in-apac.md",
-      "title": "Deep learning to power AI growth in APAC",
-      "excerpt": "Spending on artificial intelligence in Asia Pacific is set to soar over the next five years as the demand for deep learning ramps up. By 2024, the APAC region is estimated to account for about 30 ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.arnnet.com.au/article/672264/deep-learning-power-ai-growth-apac/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-27T07:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ARN",
-        "domain": "arnnet.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/dimg/deeplearning.jpg",
-          "width": 800,
-          "height": 500,
-          "title": "Deep learning to power AI growth in APAC",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-27-return-on-artificial-intelligence-the-challenge-and-the-opportunity.md",
-      "title": "Return On Artificial Intelligence: The Challenge And The Opportunity",
-      "excerpt": "Companies need more returns on their artificial intelligence initiatives. There are several ways to achieve it.",
-      "heat": 91,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/tomdavenport/2020/03/27/return-on-artificial-intelligence-the-challenge-and-the-opportunity/",
-      "ampWebUrl": "https://www.forbes.com/sites/tomdavenport/2020/03/27/return-on-artificial-intelligence-the-challenge-and-the-opportunity/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomdavenport/2020/03/27/return-on-artificial-intelligence-the-challenge-and-the-opportunity/amp/",
-      "publishedDateTime": "2020-03-27T07:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e7e04e4adc0d70006ccbd3a%2F0x0.jpg",
-          "width": 980,
-          "height": 980,
-          "title": "Return On Artificial Intelligence: The Challenge And The Opportunity",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-03-27-how-isps-are-using-ai-to-address-the-coronavirus-driven-surge-in-traffic.md",
-      "title": "How ISPs are using AI to address the coronavirus-driven surge in traffic",
-      "excerpt": "This month, under the strain millions of people self-quarantined by COVID-19 have placed on broadband infrastructure, Netflix, Facebook, Disney, Microsoft ... and Telstra — are employing AI and machine learning to service networks strained by the traffic surges. Others aren’t — when reached for comment, Comcast, CenturyLink, and Fiber ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/03/27/how-isps-are-using-ai-to-address-the-coronavirus-driven-surge-in-traffic/",
-      "ampWebUrl": "https://venturebeat.com/2020/03/27/how-isps-are-using-ai-to-address-the-coronavirus-driven-surge-in-traffic/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/27/how-isps-are-using-ai-to-address-the-coronavirus-driven-surge-in-traffic/amp/",
-      "publishedDateTime": "2020-03-27T06:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2017/08/untitled-design2-e1585324670149.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "How ISPs are using AI to address the coronavirus-driven surge in traffic",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

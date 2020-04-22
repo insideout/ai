@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/04/21/facebooks-ai-detects-fake-account
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/21/facebooks-ai-detects-fake-accounts-with-fewer-than-20-friend-requests/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:
@@ -28,6 +28,6 @@ images:
     height: 600
     title: "Facebook’s AI detects fake accounts with fewer than 20 friend requests"
 
-secured: "noOg+HAafGC5kUlUVlGWNpNm7+1yqxAthMPhZojk76lXZER8znDLol1ZyRW0qOS8svIhEwTKUmhT9PsSy56eDyG61pQfBuvEtY7+ihgZ0XD5Ib5KOPHIgi3eBkkA4W1y3lJwbjkvn+8yZg/zYCEHFHhBomHBPd8SupiMBQnoPb5GKZfMMddARsyMlHoPczcGUU2F6E5mORdh2r/+F36NAn6gzJguz4OzECYKlrcWzl2RQp/5y5rH/24jsaWiPUgN6ptOTs5G6gwI1JXIeWTZq2GsuD5CWvF9J2SxMmzHw5L0oR708xlAdAQ9I9hcuO+YmjXGDN1EDD4A9snNDZIPZdwMeD5g1wfcjeht+AUSXPbKlgOVjfo7Av5rHFYFILN1pFypo8Lv9QjA7WMmRIRBAjADYhzLzBBvtdwSxPTN/7Hn4eUs4HUXg2MduYdu1J1A59n10b7Em5CkXnHSxfVNm4w6BtYfLsZx2FmL7p+O2PI=;byY+cJs0O1Boi403Tl5tPg=="
+secured: "M+7OUbY4brTYrk9J7VFgJkAPzv7bDg7/GM+cPAqllPiv/s7fOknHBbIc1jGCTK4UUo1MgGJIysA8XbZFomhC6GRIpRn36cjNkAAUIUNjs4KxYKgkFfwHpXHgLk18igw8E13BLIs0dKVf+miCuNQNvh2eZB8dTpfpPoNvXSPtg81pPj9NQiSzr5Ba2yQJ8fJy+HBMwry78L7QVFv7yJViOQNkGX1xqt9OH108hFL+6bmO/PVVuL5a66LGFTKHMGPKii8XukMW+PGwB3sUg2bxn+iGz9s3uE582tUHitd258IYsIdTQJ/fAL0vUcx+RPNDz4lA+m1SLyYQxJ60zmtVascpAocLju7A/U2whcFgxzJUGDhZB5Pga8IjISRtdaCJ0vpzCNya5lsLznoRSUmT5IUhS7NFP+zReUX7/ZYzozEAkEDsW2LuhxTov9YA1u8m+Zwq6W57lfgELwXmg5NEP+ZXMU1UrvyeXes0bO9nEIo=;v75DVXtdpuSL9RFJgNaTJA=="
 ---
 
