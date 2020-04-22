@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/cognitiveworld/2020/04/22/intel--accent
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/04/22/intel--accenture-use-ai-to-save-the-coral-reef/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,19 @@ images:
     height: 628
     title: "Intel & Accenture Use AI To Save The Coral Reef"
 
-secured: "FRQjscyIqnHPpfueqZL38nIPag2cPJ5CfmxEhX1wwLqFjFobS+xWMdA5H7zEtmr0YiluEECEUHIrxXSUM1D/if+Qe/d1iHJVtZktzjTNz2Wx6eFVFEBmN57viVTkM+4MIEIiSlJ7O0V2GlmasM3D0DrLYMPnGF7Q4f204nTTnjZdVxBja53SIJq8GNGdfBqbBpH+uq8xbhRQoNun4KiE/mVcAIajm8k59WQe/92dODAVK/44JJCARHWNU7wRyhNNT4u2ChaCqpXwpTr9HNhELMNxI41SenbH53fwLmBhYXiiJ8ZxRY+kPzR3H3QjGV6I;CuRqFs9DRGYcerUzHsOy6w=="
+related:
+  - title: "Using artificial intelligence to save coral reefs"
+    excerpt: "Today, on Earth Day 2020, Accenture, Intel and the Sulubaaï Environmental Foundation announced Project: CORaiL, an artificial intelligence (AI)-powered solution to monitor, characterize and analyze coral reef resiliency. Project: CORaiL was deployed in May 2019 to the reef surrounding Pangatalan Island in the Philippines and has collected ..."
+    publishedDateTime: 2020-04-22T13:01:00Z
+    webUrl: "https://phys.org/news/2020-04-artificial-intelligence-coral-reefs.html"
+    ampWebUrl: "https://phys.org/news/2020-04-artificial-intelligence-coral-reefs.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-04-artificial-intelligence-coral-reefs.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 37
+
+secured: "olOH/RekiD/bR+ZwHc+35RNvRml6UpMIBdg1BVXIHaVBmq4J1hnhEH9mNnHS9RUk7tqrmyXjpCAjVTkOzQUY7zYWNDQyCyJe240B3xEBas8YVH2Rb0DjclxYljSvfZJI5UNTos1FbVpRSntvm4+8pND3NgK552JNiDYQUCxT8Rp1riY27ob1dGALBjdf+JO5VhAIOxhXIqqRV8OnI3e22l2qyjco74F/pSYx7J/9m+Zedi2rFJdfulXACTn+ARwNlXvHWNnJd+W2GTse9I3S4pEmKwDAQmEVIhcmlwoaai9eiOkcXYBw4w15/MVCvZkZIfI/gF3eXuDbYTI16vT/edpiNFhaAVrodVadcSkukClo1JTuRP91Q2MxPVD2YTr6MVq97rVYvVU8ifHUylxqhWAvJxmrRIWe9CugrGQ5KDf44Y80yHgIxziAicvC+7q7TV5gXYn8qPkRsPVBXF3ZdF8eSjIclLTACUnvLQurBDU=;JvOeNdNfDXil1OQ7cEAang=="
 ---
 

@@ -28,6 +28,19 @@ images:
     title: "Global AI in Fintech Market 2020 Outlook, Key Players, Segmentation, Industry Size and Share, Comprehensive Analysis to 2025"
 
 related:
+  - title: "Global Self-Driving Car Market Research Report 2020"
+    excerpt: "This report focuses on Self-Driving Car volume and value at global level, regional level and company level. From a global perspective, this report represents overall Self-Driving Car market size by analyzing historical data and future prospect. Regionally, this report focuses on several key regions: North America, Europe, China and Japan."
+    publishedDateTime: 2020-04-21T07:44:00Z
+    webUrl: "https://market.biz/report/global-self-driving-car-market-qy/515219/"
+    type: article
+    provider:
+      name: market.biz
+      domain: market.biz
+    quality: 24
+    images:
+      - url: "https://marketbiz-ikwnsbmbizhvmufcjx.netdna-ssl.com/wp-content/uploads/2017/11/nestle-logo.jpg"
+        width: 400
+        height: 225
   - title: "Artificial Intelligence in Retail Market to Offer Increased Growth Prospects for Manufacturers Upto 2025"
     excerpt: "Latest market study on \"Artificial Intelligence in Retail Market to 2025 by Retail Format (E-Commerce and, Brick & Mortar), Technology (Chat-Bot, Recommendation Engine and Audio - Visual Analytics, and Others), Application (Sales & Marketing, Supply Chain ..."
     publishedDateTime: 2020-04-21T15:55:00Z

@@ -38,6 +38,15 @@ related:
       - url: "https://www.news-medical.net/image.axd?picture=2019%2f5%2ffuturistic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
         width: 620
         height: 480
+  - title: "Artificial Intelligence to make dentists' work easier"
+    excerpt: "The model is based on training and using deep neural networks. The researchers trained the model by using a dataset consisting ... The model developed by the researchers at the Finnish Center for Artificial Intelligence FCAI, Tampere University Hospital, Planmeca and the Alan Turing Institute, is based on a fully convolutional architecture ..."
+    publishedDateTime: 2020-04-22T10:26:00Z
+    webUrl: "https://news.webindia123.com/news/articles/Science/20200422/3545358.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 19
 
 secured: "doVPxPzlCFoWopn91rsYr3ajUxeZW+uD6jdqaWSg9FUDdDLCOKCqo6F06Thpo7TIQaICQpKpXlAVt8fvTQZWNeNztdqeY/pyOx3PbahPH9QWTFGDVvh5gIDYvwQZPkzPCDmq0UC2Hb3FzytBgH81PSp098qyDgckobqnFDbvwrCHUBAYLAnti8fqhBU1k6XaNsrMG3zOslED6qBr+yZhw8aqM+kDOL/VXdaF/SeXf6Ixqw+/3IdbrouYj+Vvn2mFHrK45bYMvjqPpKkWAYH6KB15f3U11zMzk1/hPm75KfvCJ4usMEfPitdXmfkN4HiK;1NLF+Wwz1CNPHuAooqTsPw=="
 ---

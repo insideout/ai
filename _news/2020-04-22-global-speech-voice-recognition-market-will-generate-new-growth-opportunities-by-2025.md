@@ -31,19 +31,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Voice Recognition Market Size, Growth, Share, Opportunities, Trends, Regional Overview, Leading Company Analysis, And Key Country Forecast to 2026"
-    excerpt: "Global \"Voice Recognition Market\" 2020 Industry Research Report is a professional and in-depth study on the current"
-    publishedDateTime: 2020-04-22T08:47:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-size-growth-share-opportunities-trends-regional-overview-leading-company-analysis-and-key-country-forecast-to-2026-2020-04-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 16
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
 
 secured: "3kswW7DtqRzuN7I4sdBitYhx57T9oI2L38VH29lpTJfIV3+GVZPOo4q8wYJwGQeEuf+crRpCESr+2wcp1yA3gjUxTPs+/ZCBGZ7c8FsLwrizvSmKO5V9ZqC4JLv5RhSF29kkc8Z8Sa4mt6uTeUkU325NOAWtO6YNSQwLgZAqMxqLNRx6cO/y629P+OVz4nvF8Qf+XDr3XkHKrrrDuvPtFstpOtGkjsE18rIEm+znEEOiakiILx4S79Iin76ZKQ8DufqoOB3NU8+78nOrOtfREANrvLm9YqxdGX+yxBtXchzkUUlmDTTy5p2Rf6DacSus;QQaL1KMNqxoUkDdtLc4aUg=="
 ---

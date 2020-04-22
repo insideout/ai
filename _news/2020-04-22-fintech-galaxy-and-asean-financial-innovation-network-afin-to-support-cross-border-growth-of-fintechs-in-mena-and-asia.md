@@ -25,6 +25,6 @@ images:
     height: 878
     title: "Fintech Galaxy and ASEAN Financial Innovation Network (AFIN) to support cross-border growth of FinTechs in MENA and Asia"
 
-secured: "lvpLTd4FpJPSz67cb0osAJDJX9D5MOvulKmlU9jn27h1bWOtB5EyZs3P+q1RjveBTZ/jX0oOaxtlSmoUR+EaSB8Z+FQl4itlzALVFzJMnv3YaFW4BmZlT3Uw5c1lHdQjNiyQxLx+XepE1A16rWRI7cFBSYS6DYV4OPIstmZ5kC+YD2QOavd/GJu427Xxgxb3Nb5MzfwS3WJGjBgXvlTA5laeUNDQGiVH5fUFuLyEER7EWN8dZxplD89ONSbV6DFB0GZKkaC4K0d/pvUei3KCqx5YBfKddcXlMVw0r/FZkftu3HiCUeboKmVbzfAwLpo8;q/s9eVzBU1DO4f7kxITHig=="
+secured: "fGhD73Ks37voGwhATpG4PdbmaJ98AhgA1Vg+BJ5+Lm3qFl73bEgDumErVugI0YNuo/ypvaCHbbZYBecCUKgPfht6DldXj74lBJXrHhBWkkO0viF3/oRX/ELaPYu0i+NQoyO5vA9L+P7q20ldcGSRPmdUb4R8OJ7Esobdp1fNgU+FWV3JG3pMkKmFNPZJDE+aeeUkCk0gdh6oCpSW+xGhlnsEar8PfMBRMo+9d8sWwUbQhD7vsJK7Uyt4dBODhkKiOR4LM1NlHybVRCNOZdhoph6NalPn4eN/yRIVoXhBj7Pa1oa6mFR60XJFdR0g7MPO;fg55rv/AbaERMP3FeBz9QA=="
 ---
 

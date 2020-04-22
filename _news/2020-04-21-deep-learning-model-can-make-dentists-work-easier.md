@@ -8,8 +8,8 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20200421/Deep-learning-model-c
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200421/Deep-learning-model-can-make-dentists-work-easier.aspx"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: News Medical
@@ -39,6 +39,15 @@ related:
       - url: "https://eurekalert.org/multimedia/pub/web/229704_web.jpg"
         width: 1440
         height: 935
+  - title: "Artificial Intelligence to make dentists' work easier"
+    excerpt: "The model is based on training and using deep neural networks. The researchers trained the model by using a dataset consisting ... The model developed by the researchers at the Finnish Center for Artificial Intelligence FCAI, Tampere University Hospital, Planmeca and the Alan Turing Institute, is based on a fully convolutional architecture ..."
+    publishedDateTime: 2020-04-22T10:26:00Z
+    webUrl: "https://news.webindia123.com/news/articles/Science/20200422/3545358.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 19
 
 secured: "URJx6UT8N6GQKrmS6eGpA55QQyY8uagmJJlR5kdl4+v8OqSKuwYNok/06yaveDXycVbxl6b7hL6Vwu/8dGWb+irNvoxUCkRRkogwP9UPrwZcG8LWHC/4mx0Y3CCGYNxpPacSDLa4Go5kLT+sswt+czGDUNLXX/meQ2GoG1otEdXcGWuqb/aimy/1plNUwLjhQMlQ2nwMqQcpJf5vIH8pDRKX8olhD+OysvgT86UJYsqPmMcjsOjdtrZeeJvBSikRUInRDl5HE71EhVhkvkOOqnNW0tBSMj2TGWNJ9nRwsbYSSfl9rPbVO/jxu52n8Byp;3t+MytgYZuFy+uBYrPeH+Q=="
 ---

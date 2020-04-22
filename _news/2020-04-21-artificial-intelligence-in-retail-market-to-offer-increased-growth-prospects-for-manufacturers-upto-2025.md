@@ -30,6 +30,19 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Global Self-Driving Car Market Research Report 2020"
+    excerpt: "This report focuses on Self-Driving Car volume and value at global level, regional level and company level. From a global perspective, this report represents overall Self-Driving Car market size by analyzing historical data and future prospect. Regionally, this report focuses on several key regions: North America, Europe, China and Japan."
+    publishedDateTime: 2020-04-21T07:44:00Z
+    webUrl: "https://market.biz/report/global-self-driving-car-market-qy/515219/"
+    type: article
+    provider:
+      name: market.biz
+      domain: market.biz
+    quality: 24
+    images:
+      - url: "https://marketbiz-ikwnsbmbizhvmufcjx.netdna-ssl.com/wp-content/uploads/2017/11/nestle-logo.jpg"
+        width: 400
+        height: 225
 
 secured: "h1rFsjtMzj17BDvgqlBRtJ4D9V+kDuQqHZnazj6AZAdpzALRXYjvn8XwzZwuVky/qtv7NxfLyIzlYk9MPPcEdTB8rqsvz1qjyJPiOl4X3w2Hh8c8/WJYs8yqqPAI/vBsJNnPr2UJ5XY14rhY+ENbctNQNLWh8SRnfHR7J7cfzRhS0sueQ9j+XKM39lKUn5ydbxiSiRifWM3to9Vp3LNEj8fyWXjN7OIpFJ4PzkmXqmXGW4+uxK5QjyeN+cBad/8RVE29bGYTmwssztrJzMaY/Znho5ZfKC2xut6GWfIxYTKXQcbY2o/qxHFrYJVDn+9/iaJw1E+8z/sBY4qgw03ws8elZWuwvv8LTpp2VMPQ5w+wHQ8zeXbSJaesEWiDaY79B+iQbL8agmX2P27lZkzUIEiVyHrqT08SKOekaihyZ0CEcLz5Wi4N/L0SO12V8Ws/g9Eo6MDBvWJjWbjcSv8dH+UkYhbsCGKF2bNHjenSWUk=;cugBM64Yutvu0LisZ2Q8uw=="
 ---
