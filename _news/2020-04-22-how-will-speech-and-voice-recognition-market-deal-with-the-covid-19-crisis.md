@@ -1,0 +1,47 @@
+---
+category: news
+title: "How Will Speech and Voice Recognition Market Deal with the COVID-19 Crisis?"
+excerpt: "The global speech and voice recognition market is expected to rise with an impressive CAGR and generate the highest"
+publishedDateTime: 2020-04-22T07:29:00Z
+webUrl: "https://www.marketwatch.com/press-release/how-will-speech-and-voice-recognition-market-deal-with-the-covid-19-crisis-2020-04-22"
+type: article
+quality: 52
+heat: -1
+published: false
+
+provider:
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Computer Vision
+  - AI
+
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    title: "How Will Speech and Voice Recognition Market Deal with the COVID-19 Crisis?"
+
+related:
+  - title: "How Will Artificial Intelligence Market Deal with the COVID-19 Crisis?"
+    excerpt: "The global artificial intelligence market is expected to rise with an impressive CAGR and generate the highest revenue"
+    publishedDateTime: 2020-04-21T13:03:00Z
+    webUrl: "https://www.marketwatch.com/press-release/how-will-artificial-intelligence-market-deal-with-the-covid-19-crisis-2020-04-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+
+secured: "PKi9YkEOznlRBsfZ6VBWfy6Af+ThUdFh84dKa116acd3yb+lSvwRophUpVAzSg7F21/nP9TBIJFBQncIIkMx6V16SxjKcknlnnDt53iBQhI8/e+rTB/ICRKky8BqhY9sEASyyNCOl6QcHydqP8XQFyq4njXIrBayFq4+hZtjdBIkHxVr1HdDieTBY12UepcFLgkwKm+qoPcFquEBQpAAKudLmh0Rlb57x0rcC9t0PsQiI3gwk1WCt0NSTND7y7wiP7jKdBbTnNWS3J4J4Uhs4dne8/Isy4jVi892XMT0qho0T52SmSnafPf1jj45Bx5z;653s7oRgczzOZs3WX6NKmQ=="
+---
+

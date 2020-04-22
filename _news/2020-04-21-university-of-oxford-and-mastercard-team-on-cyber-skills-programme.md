@@ -24,6 +24,17 @@ images:
     title: "University of Oxford and Mastercard team on cyber skills programme"
 
 related:
+  - title: "Mastercard To Launch Online Course On Digital Ethics, Privacy And AI"
+    excerpt: "Called the Oxford Cyber Future Program, the six-week class will cover artificial intelligence, cybersecurity, threat analytics, data privacy and digital ethics, a press release states. The class partners with a number of experts related to each of those fields and aims to “reframe” the world for business leaders, teaching them to navigate ..."
+    publishedDateTime: 2020-04-22T03:33:00Z
+    webUrl: "https://www.pymnts.com/news/security-and-risk/2020/oxford-mastercard-to-launch-online-course-on-digital-ethics-privacy-ai/"
+    ampWebUrl: "https://www.pymnts.com/news/security-and-risk/2020/oxford-mastercard-to-launch-online-course-on-digital-ethics-privacy-ai/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/security-and-risk/2020/oxford-mastercard-to-launch-online-course-on-digital-ethics-privacy-ai/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 54
   - title: "Oxford, Mastercard To Launch Online Course On Digital Ethics, Privacy, AI"
     excerpt: "Called the Oxford Cyber Future Program, the six-week class will cover artificial intelligence, cybersecurity, threat analytics, data privacy and digital ethics, a press release states. The class partners with a number of experts related to each of those fields and aims to “reframe” the world for business leaders, teaching them to navigate ..."
     publishedDateTime: 2020-04-21T11:46:00Z

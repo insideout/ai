@@ -23,6 +23,6 @@ images:
     height: 700
     title: "AI-Powered NLP Can Explore New Environments Through Language"
 
-secured: "52V+ozI8VpVuAIflMoRcPr72V6qZYN9v3rE9pbgk2MK6ivEiClnyiL/RhUh86IY/EJQzirjFF1/eCwOtZiL2xaFPiqdD4ENcVCx3P8SlJaFnErYjSgtN/d80WMJ2L6qTjQRsUcO+9cVfSR6VRBNP7P/QFpcgFWhGVPCSBP035+rxIffWpj2qvFqnAYA51O9AYEjEsrZKP+UHGl8e51nZwY7py3C6QyzMYt5WcOiGaFUB+czTWWv3VvQ9mLt7DVQpjlzXMSRPuSYtGk8q+2vFEeWijKwtKGVechGIczUhnksDeN706mHdEj+yHoo75sXu;kih0r9H2UwgK/9twsMCRow=="
+secured: "EdAgY5e5y9+/h0QbmUsNP39UADoD4tskFTQ9aF2AVR+glEBb9rvpY/RfXcUB+iq27X9DhvEl/ZnV+YhQEXdwV5kiUmKIisfQXASjvEZwHFx7n1+7ssNCJAdq+tZn3aodBjIs/s97r5FLs25pTZjsfYxcuBCBx/6E1GItQJK/QqF7TYLeFclB+Ln9ARgHjdWqjpQTShTbYMNVv58lkEJy53h2+umST0vd9zvjdwOpCMkSQ3qVONwwF3bjLYetFlCbu9llGU7NR+Fo35wqPdnOdFfR6lJyemgpcHWhbPtCHwMTgyqy6a9gVFhpqbuY0yqSq/GuVuLljIUt8XRxoVgGWRKvWMIgNz/aRMx81flVzrlI1EclMdutShhlubD5lATYZA/7fUl0d2hn6W62Mj/E5ma22t/9k1mcsE7EIh1DZFL4aGdtYVDXm46n8JlEVQKeh57qz8GS6Y9jC7Mbam3h3j9BQwAbLU46pQbDq7/eZig=;ia7hCp73i1IJneAHhqBY/g=="
 ---
 

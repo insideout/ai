@@ -33,12 +33,12 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 87
+    quality: 89
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2020/04/CORaiL_5small-e1587450236227.jpg?fit=1200%2C600&strip=all"
         width: 1200
         height: 600
 
-secured: "NKVm0VxEMEhbMRArWnYJu21y7PZRMnruFj1joOgSRpkH1XOOL35dynHFJIFn9YJCdgffhdDxJCEgBnMsLVrlM9vl1UceAhK9AIoC5DRPidcFbEwLcZZ4VgBgt6qh+f+nbV1Olstppq/oj546YVn764r8oQsT262t9fIJMCn0bjP5beDtB6FR7l+lU7YF7oCjeh0NR9VNZaoajrPRlhos4fDwbeg7O7qeebmYzZQ5kKkpxBXwNPbn0EZNBj0J1pIU9EtNmbzlP6aQX2JZMQ9HVokmyJ1uStifxJK4t+M/uQGNvknSB+uzXG1IT+JntuuI;hzF2hU4zSb4hAZqiqaD9Dw=="
+secured: "zDKULhQDafIsH8+rqivigzirY5S4HmWaj6t+aVXpufefpY8LlMzXv3+a7yWwGVnKygF0c7Qg0Ja44mkxREMpnponx2AJorkbqhhzjpoxp90jvp4+NrjRIZa7ERXYRvVBb4CfDR2ohMXN46Wqe2E+8NY9eU6FK/VPoBApNqgHTI6IGgZh9Kh0FyjvgBAfw5IW4HXhI3yjQhRd677tZiVhxAlog+w0S7467bkVBAFvbeFJzs3e6+rsyIMxebMPyv+O3py8lEHTUHhK/eiG+gAYr270SE7tM4cLgEI/89J0/vuCH7rMQ8WYOOUJavQXjDeqDkwcEQ1raTJ2CIj8WCNDcTFzsBo8UcX/GavytGriV9eGFi+nk7Nm+5h4gWmwrWFVmJkB4OkZhn3suEFsbHgcrTJwVwAeeS1jBshZv1PzAZegcwZQW+6zQKeMbK2tAyVfgONrzk1ThUteB8ToYZShVCiIlWo/BzySkkV2ya+Ei84=;GO+X7H+bmMESj1CQALR1uQ=="
 ---
 

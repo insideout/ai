@@ -8,7 +8,7 @@ ampWebUrl: "https://www.pymnts.com/news/security-and-risk/2020/oxford-mastercard
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/security-and-risk/2020/oxford-mastercard-to-launch-online-course-on-digital-ethics-privacy-ai/amp/"
 type: article
 quality: 53
-heat: 63
+heat: -1
 published: false
 
 provider:
@@ -20,6 +20,17 @@ topics:
   - AI
 
 related:
+  - title: "Mastercard To Launch Online Course On Digital Ethics, Privacy And AI"
+    excerpt: "Called the Oxford Cyber Future Program, the six-week class will cover artificial intelligence, cybersecurity, threat analytics, data privacy and digital ethics, a press release states. The class partners with a number of experts related to each of those fields and aims to “reframe” the world for business leaders, teaching them to navigate ..."
+    publishedDateTime: 2020-04-22T03:33:00Z
+    webUrl: "https://www.pymnts.com/news/security-and-risk/2020/oxford-mastercard-to-launch-online-course-on-digital-ethics-privacy-ai/"
+    ampWebUrl: "https://www.pymnts.com/news/security-and-risk/2020/oxford-mastercard-to-launch-online-course-on-digital-ethics-privacy-ai/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/security-and-risk/2020/oxford-mastercard-to-launch-online-course-on-digital-ethics-privacy-ai/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 54
   - title: "University of Oxford and Mastercard team on cyber skills programme"
     excerpt: "The six-week all-digital programme will cover critical topics in artificial intelligence, cybersecurity, threat analytics, data privacy and digital ethics. Drawing together many of the world’s foremost thought leaders from academia and industry, including University of Oxford’s David Shrier (Programme Director), Pinar Ozcan (Professor of ..."
     publishedDateTime: 2020-04-21T12:16:00Z

@@ -7,8 +7,8 @@ webUrl: "https://venturebeat.com/2020/04/21/intels-project-corail-monitors-coral
 ampWebUrl: "https://venturebeat.com/2020/04/21/intels-project-corail-monitors-coral-reef-health-with-ai/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/21/intels-project-corail-monitors-coral-reef-health-with-ai/amp/"
 type: article
-quality: 87
-heat: 97
+quality: 89
+heat: 99
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 
 topics:
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/04/CORaiL_5small-e1587450236227.jpg?fit=1200%2C600&strip=all"
@@ -43,6 +44,6 @@ related:
         width: 1200
         height: 627
 
-secured: "q/JT/cfO4mGfKwlFwtHm7vgrJrWVl17S8mVeyZdgM0ngIl10WKn92CsRjOrly7+DQ3H+wqC6EtDmqoED7cTyp+gSaRr6VqHnTitiW4yQ2uiyNNfcXM4FVMMt1l0Afi3EFtMhP/Fj9leokM06YDu3afFVkVV0IBA9/W0++v4ZOwTxwKRdS3Cmb0kBHF2wlSLYy1gJvgDuEOQIb7LflwH6BURvxb+O6BGZGC7RIY9tiH0yIjPh9VeCkhRd/hwuvuI/Cl6aS+XiGjC3L9angmO4TW1zZGG1TGKNeq/XF9kkrhiXDAbQta7kfZ1yTK0E8zJ4;rqORRJAbAkGAGKgG+LCJUQ=="
+secured: "1ihWTQ3P6p3zev8n9nimhhomEx1X5vQJHxP8vGqku/8T6bNu5sd/FO8Y2ocF9Pwra54dwejJP4g0O8P8xokUvcEKKaAOWCZnZzI08V369Jaw1F+rsu2gT1IhLEKS1uUZwVknwHUv4sh36CRV2qrlvPq3Q3VeDjjH6IEPnnQy9PSHrdlPtM0wQ1sMWwQxucZXcDe1P0KJb1hiBEbiwx5yp/ph4S2ocTNw3+L5eqb2gNFHDyhUMyD3yEPrVSZwH3F1IOrJfULt/xVIN7s1Pp2BQarddarkFCFea8N+OyE6OtjtGaeQsLRYpTWUqMyMdg7gDIpdsD5lbxuMh3ZB3wkwgmQkQyG+whTz/zkWfY0Z0pY3C2xcy+yAe/nyQAdDjjXOuZ4nctn3aACSMl8rE+jHI38zqh3Q3Hj4/IDK0LMpzp8LOySLONRZNow9QO6a+bQKde3in3E3mgPzL9Yp1bgyizg0UXLaaJRmDv9zFPngtZ4=;iIhRxzx9KdkAQA84OzysGg=="
 ---
 
