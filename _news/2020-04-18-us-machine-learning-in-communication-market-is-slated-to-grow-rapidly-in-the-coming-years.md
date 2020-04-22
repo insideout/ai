@@ -23,17 +23,6 @@ images:
     height: 246
     title: "U.S Machine Learning in Communication Market is slated to grow rapidly in the coming years"
 
-related:
-  - title: "U.S Far-Field Speech and Voice Recognition Market is slated to grow rapidly in the coming years"
-    excerpt: "\"The Far-Field Speech and Voice Recognition Market 2020 Research Report investigates the industry thoroughly and offers a complete study on Far-Field Speech and Voice Recognition volume, market Share, market Trends, Global Far-Field Speech and Voice Recognition Growth aspects, wide range of applications, Utilization ratio, Supply and demand ..."
-    publishedDateTime: 2020-04-17T05:01:00Z
-    webUrl: "https://www.arnnet.com.au/mediareleases/80377/us-far-field-speech-and-voice-recognition-market/"
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 0
-
 secured: "jPqRAGTqHZDSZ8FpYVZY6p0bJnqvJuKdYrMvHoMob+OJWiY+AMYP68t2ACRLAoUM59OVVVycmyFTZLiIxRCnG8ccSCHkKdlj55j4m8cFdMw1kiLuWnrO/ksiAsb3hRpnbp4XmWcei5aPEv/SjIEuKE18U5djPPSuo32ViYc2OGoUM4i+iqEDjRX6224O0DBZyXdjaGuNSGrEzWzm6MB3cP3xu+9p+NdaxkDIy3oK2ZCJhx+7z7vZDV46PZlkpGKc3uUvWubvK0zfHQ1WPPHjCunzk/xdmW8sxwwzmZo4CAlstybESDiHqTQ1Ab5pa6GM;y1QfTRpEP9mV6KWeYS5OSQ=="
 ---
 

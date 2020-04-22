@@ -20,6 +20,6 @@ images:
     height: 270
     title: "Salesforce’s Teresa Smetzer: AI Could Help Agencies Leverage Data, Expedite Gov’t Service Delivery"
 
-secured: "9PRXdAenj1afed0Id/iHn2a8RKc6F6AXWMuOQXTsCFGqlvs+MVMawWGxSv8lrhf+TEE9hQwZ+OMR+ZPldHgknbMIQTsqp8+WIksBdKLpeIrDbV96X4uP69sCk0RpfBOcEEzWJ9lyluJkpweOwY6TeOAbyjPXfk4/Qy4PFDEAGLsmpXG9ECRF5HzuFEiiBFSrWEgdwn++LqieKM8NuZMk4VQBAE/UPf+KZ+CR1aEu2GtH74JxUAn2GpSHkbJySxb6qRcS46cwmnV7fZShD9i20yvVHd69m77Why1amHr+5xismTTPFkSTULj+Kq/hMhId;xtAw9SS6BRkXImCWC9fnhQ=="
+secured: "H8BlpqneN2X9LHwtzshCVLrGQWIqMZovUmzu2JKxGnrLk2i7I3zQO0ctP3sms/QmYClxTbX+ArFI/NGJtuGwhYtb+Xl7ciCZggPQtUb6JP3X+L6/rITXcFW10XkdPB9Oogb6wxp4b6E84km52zdPMmqhnKZoTtKXuUQkzTXVayvGwf2gJ0sU0IHHJBFU8KuusOvIz9aXFf+66C5xromzIa8aLZXgCyopHaTIJL2ASiTYNcHDy1IJu+NYRZ4Z3Ol3agpAqUBiUMk9OPOFHrK9h54LNnBrNp6RGLBWEjZA1g/SbVemoXAz0VXSy9GxbkUlh8eoWJk+4mQc7VxDIc8l/cJakWxEnDFB2QsM9VEI+OQoRYk/W1Ku2y2e5M2Pt5oWhzZiceLWRUgvVTBPOHyWFuLaUz7gbkt/RhkU85ZIyaulMfOkD2OLZ478L1FkjEyB07PsR1weektIDt8vC3HpmRxqwOQfM+xEZmLx5FtPwgA=;PS1WP4BD7sHvUGDfKuyQZA=="
 ---
 

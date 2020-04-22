@@ -26,19 +26,6 @@ images:
     title: "Microsoft adds five Indian languages to Microsoft Translator"
 
 related:
-  - title: "Bible translators use skills and AI to bring urgent health messages to marginalised language groups"
-    excerpt: "The pioneering work is being led by Steve Moitozo, Daniel Whitenack and Rob Hess of SIL International, a partner organisation of Wycliffe Bible Translators, with a helping hand from AI. \"Much of the world's digital media is available in only a couple of dozen languages, and translation platforms like Google Translate only support around 100 ..."
-    publishedDateTime: 2020-04-17T08:40:00Z
-    webUrl: "https://www.christiantoday.com/article/bible.translators.use.skills.and.ai.to.bring.urgent.health.messages.to.marginalised.language.groups/134708.htm"
-    type: article
-    provider:
-      name: Christian Today
-      domain: christiantoday.com
-    quality: 25
-    images:
-      - url: "https://ctd-thechristianpost.netdna-ssl.com/en/full/79005/coronavirus.jpg"
-        width: 1200
-        height: 720
   - title: "Microsoft adds five Indian languages to Microsoft Translator to help break communication barriers"
     excerpt: "Language translation is a core part of Microsoft products and services. Users can avail the benefits of AI and Deep Neural Networks-enhanced, real-time translation in all these languages while using Bing and the Microsoft Translator website, as well as the Microsoft Translator App for Android, IOS and Windows. The Microsoft Translator app can ..."
     publishedDateTime: 2020-04-20T05:27:00Z

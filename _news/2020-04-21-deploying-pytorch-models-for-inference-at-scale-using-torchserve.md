@@ -43,6 +43,15 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2020/04/GettyImages-175397431.jpg?w=1024"
         width: 1024
         height: 682
+  - title: "TorchServe, an Open Source Model Server for PyTorch Launched by Facebook and AWS"
+    excerpt: "It can be used by AI practitioners to scale cloud training resources according to their needs. The TorchServe framework, complete with TorchElastic, will support all machine learning environments, “including Amazon SageMaker, container services, and Amazon Elastic Compute Cloud (EC2).”"
+    publishedDateTime: 2020-04-21T19:43:00Z
+    webUrl: "https://www.techjuice.pk/torchserve-an-open-source-model-server-for-pytorch-launched-by-facebook-and-aws/"
+    type: article
+    provider:
+      name: techjuice.pk
+      domain: techjuice.pk
+    quality: 14
 
 secured: "7EfK6cEB9EiGqUFSphnEWcyUmScQZjcWT1irmiwzpOVAwRtJ8LW8sNEQoWylh7PDlweW32ypNG92jPYB0fOuqxdTslSx3ZCvo2ss1BYPkJ5/+WiO3OTwhHqnup5zwo+vw22wx1in60/tddHvRuhNXIiwy2NoXYT7VKidm6KfMNv4wT8Qax72M76bTgvUrsYkqkqCL7zSZpdFcIQbaB+5GVpi0LST48zewY1pvgMRwU5Hshn4hnMtNJGgu6AlcIZZPnVrrlcLyS7Nv3T/s1u1JWylmEckl2Ec7RyX78agPcvu1oSJjPYg0hwANwuhdvmJl1X9Llz+pckhxVTw2jj5jA==;iVWYB5GkNSFiBQBKPZOkvQ=="
 ---

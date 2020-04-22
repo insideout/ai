@@ -8,7 +8,7 @@ ampWebUrl: "https://techcrunch.com/2020/04/21/aws-and-facebook-launch-an-open-so
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/21/aws-and-facebook-launch-an-open-source-model-server-for-pytorch/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -43,7 +43,16 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/04/20/deploying-pytorch-torchserve-1-2.gif"
         width: 1000
         height: 359
+  - title: "TorchServe, an Open Source Model Server for PyTorch Launched by Facebook and AWS"
+    excerpt: "It can be used by AI practitioners to scale cloud training resources according to their needs. The TorchServe framework, complete with TorchElastic, will support all machine learning environments, “including Amazon SageMaker, container services, and Amazon Elastic Compute Cloud (EC2).”"
+    publishedDateTime: 2020-04-21T19:43:00Z
+    webUrl: "https://www.techjuice.pk/torchserve-an-open-source-model-server-for-pytorch-launched-by-facebook-and-aws/"
+    type: article
+    provider:
+      name: techjuice.pk
+      domain: techjuice.pk
+    quality: 14
 
-secured: "EzehObwag9leWaZXi1IG7ght0hy5KlXZn0/ujVPumI2KzW+0QeWVRvIQCvNSYTUs9p9rg/PYZLVOqVJCO4CAZ315+FScnKCkNsrNqoe3/po5AkmtBJfkh5dsElsaHRVQ72EXv+lxfE1h/tbezkpjS3YgCQyJRFCDIragYgis1cwHsYCiNlR1E+ErN448/il7N7GiaYXet0VQDicYndMZ0a8Ps0X8aDPTUr2Ec2LRleugLeZfAUxDqU7sZ98VGxdpAMfRYEZw3TB9l+hPeQ3LRyE4Qu9bf0anwGro0vKuVDp1uF+XtmZU5+CfwJ6QwBqD;KcgRtOChnq+y+MYLtDfsMA=="
+secured: "ZkECi1YG7gRm1PD+1apso34+JYvWUXsowgMkiU8lkEHk5nXW6YdvvpSYaj8QCwsaMNGsI4mw1h8tyrA7LMPY/uhtTUB5gmDVLDtXLycIkEh8G6wFL3ZgwCZW6W65auuqgoJWuy1rxANQ34GOeMo1zdCBqRHOL7rdUdHjtILhsMG5UKPdmghwxj44f/ljfYUyiBN2hizgADEHBDM35KSKiOMc1wi5R5hz8X0E+5iFxbeST6P2sFpOpJkbmrDFzL4m8rRForiAf3damBT8gW6+5e1ECCg3YwKVvnb03qdE0DfuZtzsRj/S4jcjGhGQnumHHGsuahKFo+Kmv0sxvbs8YofCmySWGU540Up1xymiRNPSGqQi8hsuAABQjvysNcj81huQRGf68iPr8LL742cMX3M/H8JKcCT8K6cHDT7uybN6dxVt69vgN14LtImAuUlF5Mc1zKPAmqvRkpAdYTgyAUWaXMWvxaFrmOoaq4DtY5M=;TAl8fA7LRDNngzJmBPQp2Q=="
 ---
 
