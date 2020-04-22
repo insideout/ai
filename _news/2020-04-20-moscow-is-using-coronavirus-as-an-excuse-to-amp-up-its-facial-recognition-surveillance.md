@@ -75,21 +75,6 @@ related:
       - url: "https://video-images.vice.com/test-uploads/articles/5e9896d602fbe3009eff8090/lede/1587058510180-russiaclean.jpeg?crop=1xw:1xh;center,center"
         width: 1920
         height: 1080
-  - title: "Coronavirus News: The dos and don'ts of homemade face masks"
-    excerpt: "Either way, face coverings, Dr. Kesh says are an important tool in preventing a reemergence of the rapid spread of the virus. \"This recommendation that's coming down from the governor is a recognition that we don't have the full picture yet,\" Dr. Kesh said. Therefore, wearing something is better than nothing."
-    publishedDateTime: 2020-04-17T15:16:00Z
-    webUrl: "https://abc7ny.com/face-mask-homemade-coronavirus-new-york-ny/6110562/"
-    ampWebUrl: "https://abc7ny.com/amp/face-mask-homemade-coronavirus-new-york-ny/6110562/"
-    cdnAmpWebUrl: "https://abc7ny-com.cdn.ampproject.org/c/s/abc7ny.com/amp/face-mask-homemade-coronavirus-new-york-ny/6110562/"
-    type: article
-    provider:
-      name: abc7NY
-      domain: abc7ny.com
-    quality: 44
-    images:
-      - url: "https://cdn.abcotvs.com/dip/images/6110634_041720-wabc-coronavirus-correct-way-to-wear-masks-img.jpg"
-        width: 1280
-        height: 720
 
 secured: "yQcNg6RIaI95blB1cvPjCxgnJxb7jCea9UcWYSao5H5rLUziVRqtQlNxI6mx9wUVkqsaxYnh45ACt+Y9M+uTxyPKbZmIlb2wbGDp6hHMBLSx+tBVL6C9O/VEY7dbFNQSqTOo01LGgMSjmIroYQMU8OkBPBiyHLFiPl6X/BylkZERddYHormKtAFlS66WVpEJbbykAlCK67oQYNl8+07cOoeVioK+0/N1rxP+aDyUCwBLluvAMx/HtdyJaGLyX/nkAmBHauAZwMtFMhkOoi1CjhjKXk3E+TXvE2/IbmHMmURnjHCSV8wfCVNR8jSR6S4kc8v6oRZpFPQ635hNIz79WazSMJ4lMHWv40Ex7Ul7BjdS6SPNEFT7BfSSGlT/9FX/L38nh5g5cBeryU+HI0QBqdQ5CXs/zndSnlTPjSIuwTPmLKjEMwYyPnN+TxZomBJ6NLEngcWw/0fQrNiOHcxA+GnnNV4GDcZBabfC0Ajjbs8=;2JC9iqxoph4WpYC7iafeqA=="
 ---

@@ -536,6 +536,51 @@
       ]
     },
     {
+      "path": "_news/2020-04-13-us-lawmakers-call-for-investigation-into-use-and-abuse-of-face-recognition-tech.md",
+      "title": "U.S. Lawmakers Call for Investigation Into Use and Abuse of Face Recognition Tech",
+      "excerpt": "It’s unclear, for example, which agencies have acquired Amazon’s facial recognition technology, known as Rekognition; the company’s client page only identifies one local law enforcement ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://gizmodo.com/u-s-lawmakers-call-for-investigation-into-use-and-pote-1828009886",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-13T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/n8isk5lk63i8u1mwix90.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "U.S. Lawmakers Call for Investigation Into Use and Abuse of Face Recognition Tech",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-13-artificial-intelligence-ai-in-retail-market-share-current-and-future-industry-trends-2019-2024.md",
       "title": "Artificial Intelligence (AI) in Retail Market Share Current and Future Industry Trends, 2019-2024",
       "excerpt": "Global Artificial Intelligence (AI) in Retail Market Report added at Market Study Report LLC offers industry size, share,",
@@ -1216,43 +1261,6 @@
           "width": 2000,
           "height": 1333,
           "title": "US blocks Amazon efforts to stop shareholder votes on facial recognition",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-04-introduction-to-machine-learning-and-artificial-intelligence.md",
-      "title": "Introduction to Machine Learning and Artificial Intelligence",
-      "excerpt": "Artificial Intelligence (AI) dramatically improves the way we live ... OpenStack Summit and Google Cloud Summit. His certifications include AWS Solution Architect – Associate, Google Certified Instructor (Global), Google Cloud Architect Professional ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://e27.co/event/introduction-to-machine-learning-and-artificial-intelligence/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-03T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "E27.co",
-        "domain": "e27.co",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://e27.co/img/events/14691/K%20OH%20Seminars%202020%20AI%20Banner.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": "Introduction to Machine Learning and Artificial Intelligence",
           "attribution": null
         }
       ],

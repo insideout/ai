@@ -8,7 +8,7 @@ ampWebUrl: "https://www.itpro.co.uk/security/cyber-security/355374/clearview-ai-
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/security/cyber-security/355374/clearview-ai-source-code-revealed-exposing-majority-security-lapse?amp"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:
@@ -28,6 +28,6 @@ images:
     height: 3051
     title: "Clearview AI source code revealed, exposing majority security lapse"
 
-secured: "Sv8rZjGKD7TcGploqSyCrigugKXlYHLdnememyQ/mGbs/xruWnrDFbf/E8eiRauwHRSoJF38mH+hhhgI3WXbQjnX80BuLDffAI8fCAaVxbO5bePjlMDGiit9Z/l2DqAMiVniaO76xXSEE3nn/ReXQVyKgmN4Zb30qGdMfG55FzZs5tVZsdgo9Dz0xw6dEC91BOqg3gHYhnD4mcx6AukxJjt9V7Wcmpg4itRSASsDL3niqWpgZ82Ufp77KzhQllkuZvck41yttI1Vb0pNY7EhC1lTCWcc1TIQHjoQ+8LvR2kV/BsSFPfhRMXICNUhDN5o;YoBwGYBKCbYEKupDlMUvLA=="
+secured: "zCzXApx1NZkZYxjGP0LNzUHgqlPjBH1F3+CegSOBN0Ju8qjanqL8pKg8ub+zjSmrbqKpFBmMNzfcGZpspoJKdYOETa9dbwVLviP0NUFWaYo99V+zJAJyuC/b9yebMMo7uaZfTW79rpyKElh8HB8SleCu3qPlt6CoLmk2OCae6KpKgcmNHm4eotUz/s3qRZQfRs0H8bVGYOdfh4G3YTjoMXMfynAXD07u7phQ+PiiGGzJWonciYv0UkqMhxxpSZoZjqOvrkHy9CsZCAP1JVQwc/WA0Jxem0R67LHSaBEOwV5ZVcaNhtOSHTu1PcIZyr9T;HMLxgqkZfcHjnoCVWjxkDg=="
 ---
 

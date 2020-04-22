@@ -2,6 +2,43 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-03-11-researchers-unveil-ultra-precise-mind-controlled-prosthetic-its-like-you-have-a-hand-again.md",
+      "title": "Researchers Unveil Ultra-Precise, Mind-Controlled Prosthetic: ‘It’s like you have a hand again’",
+      "excerpt": "In a major advance in mind-controlled prosthetics for amputees, University of Michigan researchers have tapped faint, latent signals from arm nerves and amplified them to enable real-time, intuitive, finger-level control of a robotic hand. To achieve this, the researchers developed a way to tame temperamental nerve endings, separate thick nerve ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.goodnewsnetwork.org/u-of-m-researchers-unveil-ultra-precise-mind-controlled-prosthetic/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-11T05:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GoodNewsNetwork",
+        "domain": "goodnewsnetwork.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.goodnewsnetwork.org/wp-content/uploads/2020/03/Prosthetic-Arm-User-Evan-Dougherty-Michigan-Engineering.jpg",
+          "width": 1400,
+          "height": 874,
+          "title": "Researchers Unveil Ultra-Precise, Mind-Controlled Prosthetic: ‘It’s like you have a hand again’",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-11-how-ibm-turns-flashy-ai-projects-like-a-robot-that-can-debate-humans-into-commercial-products-for-enterprises.md",
       "title": "How IBM turns flashy AI projects like a robot that can debate humans into commercial products for enterprises",
       "excerpt": "The tech giant is introducing applications based on \"Project Debater\" that can autonomously cluster similar documents and understand idioms.",
@@ -1136,43 +1173,6 @@
           "width": 756,
           "height": 567,
           "title": "Robot suitcase uses AI to help visually impaired travelers",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-02-24-ai-android-teaching-assistant-gives-students-hands-on-robotics-experience.md",
-      "title": "AI Android Teaching Assistant Gives Students Hands-on Robotics Experience",
-      "excerpt": "... presence of robots and artificial intelligence in our world,\" said Barry in an article about the project. \"One of the points that I'm bringing out in this class is that robots reflect their programming: If they're programmed with a life-affirming, ethical framework, they are more likely to act ethically and help humans to do the same.\"",
-      "heat": 78,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://campustechnology.com/articles/2020/02/24/ai-android-teaching-assistant-gives-students-hands-on-robotics-experience.aspx?admgarea=news",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-24T13:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Campus Technology",
-        "domain": "campustechnology.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://campustechnology.com/-/media/EDU/CampusTechnology/2020-images/20200224MariaBotfigure1.jpg",
-          "width": 300,
-          "height": 243,
-          "title": "AI Android Teaching Assistant Gives Students Hands-on Robotics Experience",
           "attribution": null
         }
       ],

@@ -39,6 +39,15 @@ related:
       - url: "https://www.zawya.com/resources/img/zawya-logo-en-social.png"
         width: 1200
         height: 878
+  - title: "Nvidia provides online workshops about robotics and AI"
+    excerpt: "GTC Digital is Nvidia’s training, research and insights resource and enables direct access to the company’s experts at the GPU Technology Conference. Through these online services, Nvidia says it hopes to give members the latest news about advances in robotics, embedded computing, internet of things, AI at the edge and more. GTC Digital ..."
+    publishedDateTime: 2020-04-22T08:40:00Z
+    webUrl: "https://roboticsandautomationnews.com/2020/04/22/nvidia-provides-online-workshops-about-robotics-and-ai/31872/"
+    type: article
+    provider:
+      name: Robotics & Automation News
+      domain: roboticsandautomationnews.com
+    quality: 51
 
 secured: "/DPOgQ/w9LhfSvsqbXpzWe/YSCelv/zOkqWmbcHxTmKsNx0D5bUQSYVs0Wbi1zdFzvtKlDWyUXW2a/brMezOXv0AXCrXWtIUMoXvUcthm9bTT7ixk8UzIXHt00nE2fTVn4+qxfFIkTRVZp1dKP7RKBEgFVV1dIagaQgnX1PT4KPwIuYm18aUgXRZVBLW/vmnCZf6dYOqXm0oKQHlpOnfSxf16Ky+9KUsPeMFhZM5mfYvScOY4NRPYzBVYSBvlkWELDL6s6v9ccvpxSCgvU87acoQpqkeaOX79r6a6XDBkCoXqq0+volY/O/Y37VC7G6jsl6uob50Z6aIFYZkOAAQvQ1kuA2ZsiI3RZ7ib+Tm7G4PmPO98GMq6HiYM5KHXm/VjjNKN+IuUR+03vFSWQJFNg0afg7S+mVyPcI4ikpjIDXrSE8TrjSWVaMK2B1lI6+nDMs3O/BJGO3oneSojOaUeC6HBVZvRip/+4kIGHOzYv8=;fs/SVsUNZ/LZz7WsnchfmA=="
 ---

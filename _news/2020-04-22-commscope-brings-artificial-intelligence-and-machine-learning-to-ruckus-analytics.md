@@ -8,7 +8,7 @@ ampWebUrl: "https://www.zawya.com/mena/en/story/amp/ZAWYA20200422073526/"
 cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20200422073526/"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -26,6 +26,15 @@ images:
     title: "Commscope brings artificial intelligence and machine learning to Ruckus Analytics"
 
 related:
+  - title: "Nvidia provides online workshops about robotics and AI"
+    excerpt: "GTC Digital is Nvidia’s training, research and insights resource and enables direct access to the company’s experts at the GPU Technology Conference. Through these online services, Nvidia says it hopes to give members the latest news about advances in robotics, embedded computing, internet of things, AI at the edge and more. GTC Digital ..."
+    publishedDateTime: 2020-04-22T08:40:00Z
+    webUrl: "https://roboticsandautomationnews.com/2020/04/22/nvidia-provides-online-workshops-about-robotics-and-ai/31872/"
+    type: article
+    provider:
+      name: Robotics & Automation News
+      domain: roboticsandautomationnews.com
+    quality: 51
   - title: "CommScope Brings Artificial Intelligence and Machine Learning to RUCKUS Analytics"
     excerpt: "Built on a patented machine learning (ML) and artificial intelligence (AI) foundation, the new service accelerates troubleshooting, provides comprehensive network visibility, automatically identifies service-affecting issues, and—unique to the networking industry—classifies them according to severity, enabling managed service provider and ..."
     publishedDateTime: 2020-04-21T15:14:00Z

@@ -29,6 +29,6 @@ images:
     height: 800
     title: "Microsoft Develops AI-Powered Device That Can Automatically Check For Fever And Face Masks"
 
-secured: "a9xvMPG5QlOcFX1JsEdCduCO8NcfZzPrJyVhOBHnnhR5suaWtr2X67ROhG/mhr7YHF2Gzta1XSa07gLSbyXuLWi8DHLMqq/+sW7MkjUF+G10xHZgGUHF6MfDMvSlaNSRPLhQTlPe7CMei29yiNheRWd4IEr/za8umglAB81+BuaekKcxszS4Uvw7P3d9woP3K7+6ooFS+8HfjWCwbIz/5QEpJ3rnOk+5m4l5/hMEOIvGFyOR0fPmWq2zGslR4TULNk0Oj3+xFX3wgtxhksaed/Z6ip5AhKAYq+PSjU4ToFKpU0TSdnLc4gYpB+LRzbeh;lmwxT135MB6qM/m6zZMsgw=="
+secured: "BXw9HUdQazL+I8pzHuYQDipyt6BoeDHR7OHrpmQEV22dxlNqm9OR2rYNPARH2leToRBWRzuIIsW5L3uJ16lNiGPXbss22grK7tH4x3ar+4MxREkgHwbNEhnprpAOvZ6qwL9e/nbb7jc/Zc+O4B8s3CxSuqqTkE8aqeHCMJsXnzbiwENvlchfqVaba80igYcBwY76Xd/nlNE/GHHESX4+wWSpPgCmCBI0R2kfwRup1JpBn95cDnSM2/po3AE3BfXkfAHT/ZfzoFuNvA2phGRpk/8QtXoFEuZ/5GUYK8xBsTv3ttosNOY6YAnHE2uy0MQzHns7KUYL2l79jTjEUgw8kb/3pM11E0GlzmqqPlKNOWXtkGZlueNCNL4B6IHNTUsMInG0QDOmBn8sBJk911bDAv9UEXQI6G1MmYhruU7HaRBBdEQmvTp5bqi/0o7dmftpvbk/Nyt+oAG8qdrwpILfau1gKT76Wpy4cqMT7AqxFRM=;+aUTvFk2qjoYoU19lQNYig=="
 ---
 

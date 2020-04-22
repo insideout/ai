@@ -23,6 +23,6 @@ images:
     height: 506
     title: "Computer vision startup Orbo.ai acquires photo-editing platform Gemia"
 
-secured: "Iyo7RWWm1omp7TEia1iDtQCqkOwvzNCe0bx3fPSpuHs3f19X9FmGbGohWLEVeNd+ThJLEuG5uPj0qFagMDmGLY+E77tFAmdyNsWWQrh8OX8muh92SgEDYCKOb3pgFUAuY6LWzPrnOJ4BH4DE22g2DwS0Efzdp2DFhSOem91GecYHO161nE1xyU+C+777SNIdRlMHfAdZUKmGYuW3HSnbqzBEd84MDfmhL3OW8H8/0EeqN+o8WfwX82Mt86q7Sj99QekG6IJ8dZYyuXyvNUBHufXsqH8cXWcHMgxXsEM8Ei8FtoO5NzjXwMT5Bzisji5F;jRlJ1tyZj3GE53Zqa+TRdQ=="
+secured: "dahBe2EsNh08i/ugWMrYVwjwJhkmVBV6E/FAK42IEzv9Vf1iTVlUQc2W1DeTfDqRghpiWxbpWkwCe4BODOoE8qmow6pZFl9xLCub+T/uLCdjDas3JJ3Ldl60iR/ZicFoPZYxF0WJ+6fhqgBrHrSiSR8Re//LCx82zu6I9N3nOqGIHBH/38Bi+eI8jLyq+MlVtO253Ll/5DwcXWJdc3mdjvCZfBCMnxzj9OTU7gl4+ARE+bwTphR1JOwZZHCsKOPudC8ZyDLfO8+O+cjtTg3ELSFeUFbAwHpC0zGumZrlOU949FUNc3KtGshfcEZjZYAYT3zpyE/+eVeq+RifKiDpZBNcPR/VabNi/oh4j1phXHhjnIyykgzrgM4LLATb/oErCDiQvSL9GAPxDYji1Qep1PASG/7kxrEjSOfwr0bX+tZczpqoVTCWwyiixQbC/5p/kFzitSsJVsl1nYkt3sIa1lvR795z9dtG+OJorTboEkA=;ZV8FDanjY38r1dzHNhzzQQ=="
 ---
 

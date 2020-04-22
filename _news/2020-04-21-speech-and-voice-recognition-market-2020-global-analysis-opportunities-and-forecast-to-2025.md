@@ -28,6 +28,19 @@ images:
     title: "Speech and Voice Recognition Market 2020 Global Analysis, Opportunities And Forecast To 2025"
 
 related:
+  - title: "Voice Recognition Market Size, Growth, Share, Opportunities, Trends, Regional Overview, Leading Company Analysis, And Key Country Forecast to 2026"
+    excerpt: "Global \"Voice Recognition Market\" 2020 Industry Research Report is a professional and in-depth study on the current"
+    publishedDateTime: 2020-04-22T08:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-size-growth-share-opportunities-trends-regional-overview-leading-company-analysis-and-key-country-forecast-to-2026-2020-04-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 16
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
   - title: "Global Speech & Voice Recognition Market Will Generate New Growth Opportunities By 2025"
     excerpt: "“Global Speech & Voice Recognition Market Growth Prospect and Future Scenario by Key Players 2025” Research Report provides the newest industry data and industry future trends, allowing you to identify the products and end users driving Revenue growth and profitability. The global Speech & Voice Recognition Market report is a systematic ..."
     publishedDateTime: 2020-04-22T05:27:00Z
