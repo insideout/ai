@@ -17,17 +17,6 @@ topics:
   - AWS AI
   - AI
 
-related:
-  - title: "Amazon introduces long form speaking styles for Alexa skills"
-    excerpt: "Amazon has introduced a new speaking style for Alexa and has also added some speaking styles for other Artificial Intelligence voices, the company said today. According to The Verge, the long-form speaking style is available for US developers who want a reading voice that sounds more natural when reading long pieces of content,"
-    publishedDateTime: 2020-04-17T11:31:00Z
-    webUrl: "https://news.webindia123.com/news/articles/India/20200417/3542330.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 4
-
 secured: "K9mTabEoBRikotz9bdF7S0erOSL6m+CdCoBIhA/xg34UYQUVKxZ9f1rw3NeeETuv0JjNW0CLzDCYjtHxKPmd2srMncBzcx30/dW5d4tAdZmQsLbZllNMQ3ykMCgrxdJBwi2p3F966eus83qI3k1b7Sw22KLRPGXlj4LaHnrnkThDer7JTUrbumkUtCKZBlhMkcm6Icu+X/qV81sfkTe6YVMd60SM1fxx+bQiRq0J173CuKp6+VlE2ZvWmpMZhQhMI+LqzyQaD9XMVKvLJWB8P+QJE/tJwkbcKgFBujVSOE6Zch2Py2eTh6qqZJZb9f+A;fqoMnD29YpgDEzxau5i8bQ=="
 ---
 

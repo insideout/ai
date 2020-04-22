@@ -3,7 +3,7 @@ category: news
 title: "Short sellers circle virus sinners; Amazon’s looming shareholder battle; Businesses fight for prisoner releases"
 excerpt: "For the second year in a row, Amazon shareholders will vote on the company’s facial identification technology, known as Rekognition, after the SEC rejected Amazon’s request to block the proposal."
 publishedDateTime: 2020-04-03T10:34:00Z
-webUrl: "https://www.ft.com/content/03355c3c-52d1-42da-8218-90524d458d93?src=rss"
+webUrl: "https://www.ft.com/content/03355c3c-52d1-42da-8218-90524d458d93"
 ampWebUrl: "https://amp.ft.com/content/03355c3c-52d1-42da-8218-90524d458d93"
 cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/03355c3c-52d1-42da-8218-90524d458d93"
 type: article
@@ -22,6 +22,6 @@ images:
     height: 281
     title: "Short sellers circle virus sinners; Amazon’s looming shareholder battle; Businesses fight for prisoner releases"
 
-secured: "uYmTBHsJOGcqLAAuQB6mbIvWteSPHWSg37NjoZCZrDExKcEseicOToT9p0GiBzdElzyOQ3iqJD2SnuWkqkL4HH7YHnMxzf29oi1onYX9zJpo2w1YMFXJqPGy7AUhjDjS5kfkCaCaTuKnav5ZKX+HtSB9zWCoRzmG8D56kxbcXeQp8eZ/9di8xnz8hSEyKIEO+vmkLEZK9L68KUHVbaKWG/wmX0A9HH+rMkMaGzpNcayI/vWua36rJTO0khRBoczbqBsHVWytzyRXrpd58XvTXYkkINdIMRT7Sk6cKhhD5ftLRqhB4xxoPBAQnA4O0+rq;Ul47QOr+GAEkCyrwXiDWBw=="
+secured: "ZpkttsKj0imZuTJbjJfWIxUoDpag0nyDwEmP0gOTGYPW2cV+j3BSI4oJZsJ9B/LQJO1uRR94LP4fFpXtcN6jLP6Se/yBvlEVTL1TSQXPWOM//zkbV56K4DLWFf/3bGwZLnlUNm9zuL6ZP3I1pCDtklo/V14m+kWNDEP9haa7sh+Bh5p3VVFu2xth74pWmuIi1GiKuRKzx9xpnCxVjiS07zA1Id/LdcA9vAKy4p9afXL0CsgNm/XVJIKRHlhIOA3y/IUVdlSco5rSLa1/2BS41iP2sA9KZ9R/1MZd4fcWyVI7iSi4AO9f/cLOeGRk7sra;itXquuDG/Vp1gq3TK95X6g=="
 ---
 

@@ -919,6 +919,43 @@
       ]
     },
     {
+      "path": "_news/2020-03-31-catholic-church-tech-firms-join-call-for-transparency-in-ai.md",
+      "title": "Catholic church, tech firms join call for transparency in AI",
+      "excerpt": "The Catholic Church joined with technology companies last month to release the \"Rome Call for AI Ethics\" in what it hopes will lend meaning if not governance frameworks for the use of artificial intelligence.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.upi.com/Top_News/Voices/2020/03/31/Catholic-church-tech-firms-join-call-for-transparency-in-AI/2661585655627/",
+      "ampWebUrl": "https://www.upi.com/amp/Top_News/Voices/2020/03/31/Catholic-church-tech-firms-join-call-for-transparency-in-AI/2661585655627/",
+      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/Voices/2020/03/31/Catholic-church-tech-firms-join-call-for-transparency-in-AI/2661585655627/",
+      "publishedDateTime": "2020-03-31T05:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UPI.com",
+        "domain": "upi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdnph.upi.com/sv/ph/og/upi/2661585655627/2020/1/1acca51c47c52ff10817f3b95463593d/v1.5/Catholic-church-tech-firms-join-call-for-transparency-in-AI.jpg",
+          "width": 800,
+          "height": 533,
+          "title": "Catholic church, tech firms join call for transparency in AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-30-microsoft-teams-up-with-leading-universities-to-tackle-coronavirus-pandemic-using-ai.md",
       "title": "Microsoft teams up with leading universities to tackle coronavirus pandemic using AI",
       "excerpt": "Specifically, those with successful proposals will get unlimited use of the C3 AI Suite, access to the Microsoft Azure cloud platform, and access to the Blue Waters supercomputer at the National Center for Super Computing Applications at the University of Illinois Urbana-Champaign (UIUC). To fund the institute, C3.ai will provide $57,250,000 ...",
@@ -1263,43 +1300,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-03-18-three-experts-appointed-to-axons-ai-ethics-board.md",
-      "title": "Three Experts Appointed to Axon’s AI Ethics Board",
-      "excerpt": "Axon, a provider of smart devices for reduced-force policing and security applications, has appointed three individuals to its AI Ethics Board. Axon offers products like tasers, body cameras, and drones, as well as policing software; and the company seeks to leverage Artificial Intelligence in its offerings. At a time of intensifying scrutiny ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://findbiometrics.com/biometrics-news-three-experts-appointed-to-axons-ai-ethics-board-903184/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-18T13:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SecuriMetrics HIIDE",
-        "domain": "findbiometrics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://findbiometrics.com/wp-content/uploads/iStock-910132252-1-e1525292879902.jpg",
-          "width": 851,
-          "height": 638,
-          "title": "Three Experts Appointed to Axon’s AI Ethics Board",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],
