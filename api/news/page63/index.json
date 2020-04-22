@@ -2,6 +2,80 @@
   "page": 63,
   "value": [
     {
+      "path": "_news/2020-02-26-top-intel-ai-exec-naveen-rao-departs-after-nervana-pivot.md",
+      "title": "Top Intel AI Exec Naveen Rao Departs After Nervana Pivot",
+      "excerpt": "\"By moving to a single hardware architecture and software stack for data center AI acceleration, our engineering teams can join forces and focus on delivering more innovation, faster to our customers.\" Intel had been developing the Nervana chips since it acquired the namesake company, Nervana Systems, for a reported $408 million in 2016.",
+      "heat": 119,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.crn.com/news/components-peripherals/top-intel-ai-exec-naveen-rao-departs-after-nervana-pivot",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-26T14:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CRN",
+        "domain": "crn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2020-02-26-classifying-images-using-tensorflow-and-faced-challenges-a-case-study.md",
+      "title": "Classifying images using TensorFlow and faced challenges — a case study",
+      "excerpt": "We decided to use Deep Learning with TensorFlow by setting up a Convolutional Neural Network (CNN) to classify these images. It was necessary to have a large data set with training data for each page. Instead of taking many different pictures (which would have been very time consuming), we decided to make a video of each page and then take ...",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/@simon.huber/classifying-images-using-tensorflow-and-faced-challenges-a-case-study-f283c039d720",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-26T14:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/freeze/max/400/1*DB25tGjRiWmvzRODq9TEOg.gif",
+          "width": 400,
+          "height": 224,
+          "title": "Classifying images using TensorFlow and faced challenges — a case study",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2020-02-26-repair-robot-swims-through-oil-pipelines-and-welds-cracks-without-exploding.md",
       "title": "Repair robot swims through oil pipelines and welds cracks — without exploding",
       "excerpt": "Before this project even really got going, we knew that the technology worked and that this is something we could do. Everything else — the robotics, the artificial intelligence — all followed on from there.” The robot consists of five or six joined segments, each of which carries out tasks like navigation, control, communications ...",
@@ -1007,72 +1081,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-26-ice-has-access-to-maryland-drivers-license-records-state-lawmakers-want-to-limit-it.md",
-      "title": "ICE has access to Maryland driver’s license records. State lawmakers want to limit it.",
-      "excerpt": "Armed with new evidence that federal immigration officials accessed a state database of licensed Maryland drivers dozens of times in the last two years, state lawmakers are proposing legislation to limit their access ... Baltimore County and in the Washington region. “We have seen certain cases where they didn’t have any sort of criminal ...",
-      "heat": 114,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.baltimoresun.com/politics/bs-md-pol-ice-mva-bill-20200227-rsgqqajmwne4hollsz4svgpa6m-story.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-26T06:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Baltimore Sun",
-        "domain": "baltimoresun.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-26-healthcare-trails-other-sectors-in-developing-ai-code-of-ethics.md",
-      "title": "Healthcare Trails Other Sectors In Developing AI Code of Ethics",
-      "excerpt": "We use cookies to personalise content and ads, to provide social media features and to analyse our traffic. We also share information about your use of our site with our social media, advertising and analytics partners.",
-      "heat": 81,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.prnewswire.com/news-releases/healthcare-trails-other-sectors-in-developing-ai-code-of-ethics-301010852.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-26T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1094729/Healthcare_survey_Infographic.jpg?p=facebook",
-          "width": 2700,
-          "height": 1414,
-          "title": "Healthcare Trails Other Sectors In Developing AI Code of Ethics",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics",
-        "AI in Healthcare"
       ]
     }
   ],

@@ -2,6 +2,96 @@
   "page": 37,
   "value": [
     {
+      "path": "_news/2020-03-17-google-translate-launches-transcribe-for-android-in-8-languages.md",
+      "title": "Google Translate launches Transcribe for Android in 8 languages",
+      "excerpt": "Transcribe will begin by rolling out support for eight languages in the coming days: English, French, German, Hindi, Portuguese, Russian, Spanish and Thai. With Transcribe, Translate is now capable of translating classroom or conference lectures with no time limits, whereas before speech-to-text AI in Translate lasted no longer than a word ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/03/17/google-translate-launches-transcribe-for-android-in-8-languages/",
+      "ampWebUrl": "https://venturebeat.com/2020/03/17/google-translate-launches-transcribe-for-android-in-8-languages/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/17/google-translate-launches-transcribe-for-android-in-8-languages/amp/",
+      "publishedDateTime": "2020-03-17T10:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/09/google-logo-offices-london.jpg?fit=2000%2C1000&strip=all",
+          "width": 2000,
+          "height": 1000,
+          "title": "Google Translate launches Transcribe for Android in 8 languages",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-17-google-translates-real-time-transcription-feature-is-out-now-for-android.md",
+      "title": "Google Translate’s real time transcription feature is out now for Android",
+      "excerpt": "Google Translate’s new transcription feature, first demoed back in January, is out now for Android users as part of an update to the artificial intelligence-powered mobile app. The feature will allow you to record spoken words in one language and transform them into translated text on your phone,",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.theverge.com/2020/3/17/21182640/google-translate-transcription-android-feature-real-time-ai",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/3/17/21182640/google-translate-transcription-android-feature-real-time-ai",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/3/17/21182640/google-translate-transcription-android-feature-real-time-ai",
+      "publishedDateTime": "2020-03-17T10:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/ReCZry-1zkKGcNVoPaOLuDzeU_s=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66513218/acastro_180427_1777_0001.0.jpg",
+          "width": 1400,
+          "height": 933,
+          "title": "Google Translate’s real time transcription feature is out now for Android",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-17-intel-is-teaching-a-computer-chip-to-smell.md",
       "title": "Intel is teaching a computer chip to smell",
       "excerpt": "Loihi, Intel's first neuromorphic computing chip, was unveiled in 2017 and pitched by the company as the next generation of AI, capable of applying the principles of computation found in biological brains to computer architectures. Loihi is capable of self-learning thanks to a new type of neural network dubbed \"spiking neural network\".",
@@ -1034,72 +1124,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-natural-language-processing-market-growth-opportunity-size-share-and-forecast-2019-2025.md",
-      "title": "Natural Language Processing Market Growth, Opportunity, Size, Share and Forecast 2019-2025",
-      "excerpt": "Natural Language Processing (NLP) market is growing tremendously owing to growing applications in artificial intelligence and machine learning technology. NLP technology supports computer to ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.openpr.com/news/1970701/natural-language-processing-market-growth-opportunity-size",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-17T02:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-facebook-ais-demucs-teaches-ai-to-hear-in-a-more-human-like-way.md",
-      "title": "Facebook AI’s Demucs teaches AI to hear in a more human-like way",
-      "excerpt": "Demucs is a new research project by Facebook AI. It is designed to separate musical tracks into different instruments or vocals, similar to how a human can detect the specific instruments, and solve the problems of existing approaches. In the long run, Demucs could be applied to other AI tasks as well. Music source separation can be a tricky ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://jaxenter.com/facebook-ai-demucs-169778.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-17T02:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "jaxenter.com",
-        "domain": "jaxenter.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://jaxenter.com/wp-content/uploads/2020/03/demucs.jpg",
-          "width": 600,
-          "height": 400,
-          "title": "Facebook AI’s Demucs teaches AI to hear in a more human-like way",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

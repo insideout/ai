@@ -28,6 +28,6 @@ images:
     height: 600
     title: "Bodhala raises $10 million to optimize companies’ legal spend with AI"
 
-secured: "+BZ5YJ80N8LOUENxauk67P+T57SF2FJKRxYXTafs4Lg3vhBm7Vivu2/ckoV/J56QzgNTVZzDUbKaxPLXwbAnO1azE4ixNv+SmKKHGWU/o7OzBKQBmbVuygX+JcUPY4cgZOxZSn/L8mXBwcjOXhzqdZ6SMSYeEIaO7XKBsU3YeMpwK5J9SVOUCBw1fHF69dPlpfuLuomJMQ/Q232eKrHh0xngnyAxtdu2uoOQxenwK48iul4XEyb57K7rxWSEYu+WOBQ8MJixFp0YBNJPcSnmaYSSKK3+Rzvm/6TYx08QsdugsJkp9TMF8mkwcBMOo5Uh;zEBkJC9AIo+xs2JMIRlhjA=="
+secured: "Jpx7b97qz7jonszcrQt7wgkDHU8W6zZ6HDfFkDDt0gHEg8Vh7DrI98bBCY5Yd1gMLTWkj/ZWhPOirWXcmTk3oqtMlLKPTcB/CSi/BjxACJYWu7krWLzZRjnxZdUc3BO/1KtN/NG7sYuZypbZZvC1hzUASIw7RxAb2tVmoxJO2HWLVmD6zsHWfsMmpNlGPHFB+Z2P/ZBzoBq/F3PAUpQuVVunrzupBVjPDAmaA/CnSeT+0VY9Bch7Y95dyCIqDWEhletIvKX14Jq5/bU/aOzJ46joW7a+U1Y9c9AWlfMxpgHGgmzV0bP/H38ncVWge+f/yReRAS+7c1Sxot+HPJ/St6e5AadHXCZtQ6FykJ7Wf6r8/DMJP/EPEFqe7+OwKC1NZTDNs2zfpVYMysysdBBHsMboH6c5+wU7NLZLJPL5TkKF5uG4ss5Zd77mrjGN+LpXrI/qrUTTiW2PhNFqavdDbRER+NOstu8eXcSM7T/eQoc=;GzOFtSeNXXnmI1XIw3v42w=="
 ---
 

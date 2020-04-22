@@ -8,7 +8,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2020/4/22/21231168/cruise-gm-a
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/4/22/21231168/cruise-gm-av-ev-renewable-energy-solar-taxis"
 type: article
 quality: 66
-heat: 66
+heat: -1
 published: false
 
 provider:
@@ -29,6 +29,23 @@ images:
     height: 933
     title: "Cruise commits to using ‘100 percent renewable energy’ to power its self-driving taxis"
 
-secured: "cafgPCwtKf5748sTRHC22PXLTjegJnl0nPZZL10rIU8BPWWYk683djuCgW8BMvCyltqojhUXompFtR9f3O45+nmx2F1nyXWXt3U7CYzgwTbvu/5Yx+TDlIEbpgHcDcv+TMreaSchManQ0/BynxBR/OdawvLMzvhADGnekZ43edyXHQQVQkBFL2Q6ACeqKsQ9X5T9qaByIR/qOHBqQy9Q/THAh+uXY7CayikaS9EDMAL3wCdbpmiHnq0wLOZKOkcoUgKNJ5IiO2hGAAKuJD1TVTWbvk6UcUoavSRx0DzqwwI0XbyuQsO1MFI+n9MpYe9o;jdVyCflzcLxygSOKHLuprw=="
+related:
+  - title: "Cruise Commits To Delivering The Holy Grail: Self-Driving EVs Powered Entirely By Renewable Energy"
+    excerpt: "Now power these self-driving EVs with locally produced renewable energy, and you’ve created a blameless transportation system. That’s essentially what self-driving start-up Cruise has done. But achieving carbon neutrality is just the first step—the next is becoming carbon negative."
+    publishedDateTime: 2020-04-22T19:36:00Z
+    webUrl: "https://www.forbes.com/sites/lianeyvkoff/2020/04/22/cruise-commits-to-delivering-the-holy-grail-self-driving-evs-powered-entirely-by-renewable-energy/"
+    ampWebUrl: "https://www.forbes.com/sites/lianeyvkoff/2020/04/22/cruise-commits-to-delivering-the-holy-grail-self-driving-evs-powered-entirely-by-renewable-energy/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lianeyvkoff/2020/04/22/cruise-commits-to-delivering-the-holy-grail-self-driving-evs-powered-entirely-by-renewable-energy/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 75
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ea09585dea8300007de92b9%2F0x0.jpg"
+        width: 1200
+        height: 959
+
+secured: "Xpdqoe3KmAblBzGHk+E0M/81Uv+2kH6AP39v0yeeJBo7TrmyD51OY0wvEcWS7p7BJwGp4WJ8n2TEMURMu5rPxAviT7p41TbH5obtuMG584zHxotzzdV7gMH+MtMzp7Qgkwy6Ok5nPNXUmXduLpGEkvbYqQ6XXx9Q2ILWX90MZSG70o4RNSpTQLFyXMmIYX1DSk6WrVt7IbVBhYPvSimNgXm2pIuCSRCKsAl8UFFypBUXeJhXCjixiKY4fLxTwrq+2yYs+rjgTva7gliTv1kffG/wglQ56R2BDAMIXLaRI5CbuhQenTGT3ZVqDv1aR9D847ONRQYw9n999Y7XV0dO11K0Nr2d4HFY1QNAXWT32DvlzwCNr+NNM8v/bFGmdVDbhLXkV7xYFPOyLzcAyDedvAkPnOOdNS0ubPHzbBFfd1CjyQfO3dsG+cHaytq95NRgh/8IH82LytOucn+Tm1/3i1mgrnJT4ahSevGfz1NHqBk=;0lxOblJI5zXPAWVJgop2Xw=="
 ---
 

@@ -2,6 +2,35 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-03-10-automated-material-handling-equipment-market-insights-potential-business-strategies-mergers-and-acquisitions-revenue-analysis.md",
+      "title": "Automated Material Handling Equipment Market Insights, Potential Business Strategies, Mergers and Acquisitions, Revenue Analysis",
+      "excerpt": "New York March 10 2020 The scope of the report includes a detailed study of Automated Material Handling Equipment Market with the reasons given for variations in the growth of the industry in certain regions The Automated Material Handling Equipment",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.openpr.com/news/1960887/automated-material-handling-equipment-market-insights",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-10T08:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-10-how-autonomous-freight-trains-powered-by-artificial-intelligence-could-come-to-a-railroad-near-you.md",
       "title": "How autonomous freight trains powered by artificial intelligence could come to a railroad near you",
       "excerpt": "Officials from BNSF and Union Pacific, the two largest freight railroads in the Pacific Northwest, declined to comment about their interest in driverless trains. Michael Rush, senior vice president for safety and operations at the Association of American Railroads, said the industry is embracing technology like artificial intelligence but that ...",
@@ -1161,51 +1190,6 @@
       "topics": [
         "AI",
         "AI in Robotics",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-02-26-us-agency-suspends-self-driving-shuttle-easymile-in-10-us-states.md",
-      "title": "U.S. agency suspends self-driving shuttle EasyMile in 10 U.S. states",
-      "excerpt": "U.S. auto safety regulators said on Tuesday they had ordered a suspension of passenger operations for 16 autonomous shuttles operated by French-based EasyMile after a passenger was injured in an unexplained braking incident.",
-      "heat": 234,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.reuters.com/article/us-autos-selfdriving-idUSKBN20J2N6",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN20J2N6",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN20J2N6",
-      "publishedDateTime": "2020-02-25T16:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200225&t=2&i=1495203233&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG1O1NE",
-          "width": 817,
-          "height": 545,
-          "title": "U.S. agency suspends self-driving shuttle EasyMile in 10 U.S. states",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
         "AI in Autos"
       ]
     }

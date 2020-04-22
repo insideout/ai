@@ -25,6 +25,21 @@ images:
     height: 878
     title: "Fintech Galaxy and ASEAN Financial Innovation Network (AFIN) to support cross-border growth of FinTechs in MENA and Asia"
 
-secured: "fGhD73Ks37voGwhATpG4PdbmaJ98AhgA1Vg+BJ5+Lm3qFl73bEgDumErVugI0YNuo/ypvaCHbbZYBecCUKgPfht6DldXj74lBJXrHhBWkkO0viF3/oRX/ELaPYu0i+NQoyO5vA9L+P7q20ldcGSRPmdUb4R8OJ7Esobdp1fNgU+FWV3JG3pMkKmFNPZJDE+aeeUkCk0gdh6oCpSW+xGhlnsEar8PfMBRMo+9d8sWwUbQhD7vsJK7Uyt4dBODhkKiOR4LM1NlHybVRCNOZdhoph6NalPn4eN/yRIVoXhBj7Pa1oa6mFR60XJFdR0g7MPO;fg55rv/AbaERMP3FeBz9QA=="
+related:
+  - title: "Capco and Stevens Institute of Technology form partnership to advance digital transformation in financial services"
+    excerpt: "Capco will leverage Stevens’ expertise and research on quantum technologies, machine learning, artificial intelligence ... will enhance digital transformation across the financial services industry and help our clients leverage innovative technology to solve their global business issues. We’re excited by the opportunities this creates ..."
+    publishedDateTime: 2020-04-22T17:56:00Z
+    webUrl: "https://njbiz.com/capco-stevens-institute-technology-form-partnership-advance-digital-transformation-financial-services/"
+    type: article
+    provider:
+      name: NJBIZ
+      domain: njbiz.com
+    quality: 2
+    images:
+      - url: "https://njbiz.com/files/2019/01/njbiz-social-logo.png"
+        width: 600
+        height: 315
+
+secured: "kG2KpKqI+NFx1JNUjLODVkfhaslhcIl2B0io8Lv86fXrbWO/WxoSx2YFEjNnKionoKpKpBZZgMmyMR0X0TUBIMvWDDVFxP9D++XBLyW5AIlCgS7IGfcLSi+JBE4e6XiSKrn7oezeCSTmfSIpCvzwGaCzVWfMMmKXxFfLs+HJj5ExlSh+4KcWXET40ZZczgJQB2tVKlvtcamvKGsWZdo9gY2G+MIX/d7V416nKEHgvbzrRmNy7Pi1nku/0xPerOfn3UzPihlFyxnV2/9o4UtOxFIBj74BPuFwoCg/rRSTF7FYuLTcXRPUlBnHfxsK5IrkrbVctDjZ2aHy4l6uLufgGbsufVVF6DcoH7dciVYhCg8V1ifkAnQc8hdcAkTVDTZ7lphLXdrvQFESt7MZZtwDJgQu90OkoQy4j2L2p/uFRuF8QkGU0aiODfpaGJPKOMkapId0/RqjC1Y6LkmQc2fXQmGJNp+/+wkclqOGPamMQfM=;VciRrrmRx/7NlDN1DYdnCA=="
 ---
 

@@ -25,6 +25,6 @@ images:
     height: 720
     title: "Facebook to label national origin of some political posts"
 
-secured: "TR4WrWHb4AEAMmcv1GZkuHap9b53AdnSDXVrfbOjSnRCyS1kMIo+TAmP7mwnA9Vzsyk+WLhguQRld43fxJDsxU+85fJCfk16nExojvzMjSFe35hgT1m3yIs3EcDbsPNwP0PfHrhEgU0DzecKss681uSYn90iMhWFuV2zitVW1vfya+imiTQgdEo/UfU/yh2bjKT4RK27PZP1DTxdbex2lSdUSkSjbUkRoYDmD5Gqwr+nJe9oRhbqlN4VghtSg+Z1RivVqFf3lk9E9/37rR+YZmhmK0DjLL3/nGDqk+pFUeigrF7fX/TbCb3liWbqckYy;KAyVVjMBfN++bQlPKV6iQg=="
+secured: "xOik2ECMwnGKrvuTQMdxcS7PqhERA5mGi+VZzoDpeXNha7mrDbvmKbHdUBiPl18bHyfPPLz7jRPvES5FuMPe8bDL7AKvO5ZB7PejlMg+I+rXwsrdLVFYJcvuIiTKtAZgiC3ewmKyfLaHC8jlrES1/bGJ/lIeYsM1PLq8X0d6hNgvL2cpwFJfJ6fdKDNkdj5R1s4k/J9P5H16ZZClBSHqrOYJr+oQqoCutbK/5+LEOyUNmVn+OI4xw2bui7bT2/pm2Ppe01JwssCs+Z0u1Zpta59e0LFI3ub8PRVhcJ+YMx7xcd/N/7KMNOdggfzoc4irrjAqTG+R7lAFTfcbciiJeKQEGzOZ0NWcQACGRfjPUq4I3ls3A5tUjVqNNTX+5BcRoFNt2XVvmQbRWem/68K/NCVMbZIrfnE8NIYLdGWj2eXMkThjUmC8r/EbZBFkpDKvwF8ev89mJ8pb5+bxFB7ljqomuT3scHY5tx+wOVaa8fY=;QMNmINo6/9lG+QV68On2kA=="
 ---
 

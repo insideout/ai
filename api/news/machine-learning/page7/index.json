@@ -2,6 +2,51 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-02-25-openais-jeff-clune-on-deep-learnings-achilles-heel-and-a-faster-path-to-agi.md",
+      "title": "OpenAI’s Jeff Clune on deep learning’s Achilles’ heel and a faster path to AGI",
+      "excerpt": "ANML scales catastrophic forgetting reduction to a deep learning model with 6 million parameters. It also expands upon OML, a model that was introduced by Martha White and Khurram Javed at NeurIPS 2019 and is capable of completing up to 200 tasks without catastrophic forgetting. But Clune said ANML differs from OML because his team realized ...",
+      "heat": 210,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/02/25/openais-jeff-clune-on-deep-learnings-achilles-heel-and-a-faster-path-to-agi/",
+      "ampWebUrl": "https://venturebeat.com/2020/02/25/openais-jeff-clune-on-deep-learnings-achilles-heel-and-a-faster-path-to-agi/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/25/openais-jeff-clune-on-deep-learnings-achilles-heel-and-a-faster-path-to-agi/amp/",
+      "publishedDateTime": "2020-02-25T06:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/02/openai-jeff-clune.jpg?fit=1800%2C900&strip=all",
+          "width": 1800,
+          "height": 900,
+          "title": "OpenAI’s Jeff Clune on deep learning’s Achilles’ heel and a faster path to AGI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-02-24-all-things-gcp-machine-learning-decision-pyramid.md",
       "title": "All things GCP: Machine Learning Decision pyramid",
       "excerpt": "Many users want Machine Learning in their products and cloud providers like GCP, AWS Azure, etc knows about this. Because of this demand, as per the user's needs and expertise they can provide machine learning tools out of the box and users can work on complex Machine Learning tasks by a few lines of code or no code at all! Understanding of ...",
@@ -1248,52 +1293,6 @@
       ],
       "topics": [
         "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-02-18-python-preeminent-in-oreilly-learning-platform-usage-analysis.md",
-      "title": "Python \"preeminent\" in O'Reilly learning platform usage analysis",
-      "excerpt": "Other growing categories on the upswing include data engineering, data science, and AI + ML, generally, and Kafka ... Among the major public cloud providers, AWS, Azure and Google Cloud Platform (GCP) come in first, second and third in platform content usage, respectively, and all three are growing. But the growth in their numbers ranks ...",
-      "heat": 76,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/python-preeminent-in-oreilly-platform-usage-analysis/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/python-preeminent-in-oreilly-platform-usage-analysis/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/python-preeminent-in-oreilly-platform-usage-analysis/",
-      "publishedDateTime": "2020-02-18T04:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/02/17/bb4d6400-c96d-4815-be4d-fc68df3cc102/oreilly-2019-programming-language-usage.png",
-          "width": 1037,
-          "height": 710,
-          "title": "Python \"preeminent\" in O'Reilly learning platform usage analysis",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI",
         "Machine Learning"
       ]
     }

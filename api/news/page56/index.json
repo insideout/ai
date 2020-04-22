@@ -2,6 +2,73 @@
   "page": 56,
   "value": [
     {
+      "path": "_news/2020-03-10-looking-at-how-ai-can-improve-computer-vision.md",
+      "title": "Looking at How AI Can Improve Computer Vision",
+      "excerpt": "And doing so in a manner that provides noticeable improvements in productivity, efficiency and capability. The ability to blend artificial intelligence into the computer vision process could be a prime example. I recently had the opportunity to connect with Johann Beukes, vice-president of data science and analytics at Levatas to hear his insights.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.industryweek.com/technology-and-iiot/article/21125741/looking-at-how-ai-can-improve-computer-vision",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-10T02:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IndustryWeek",
+        "domain": "industryweek.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-10-top-7-baselines-for-image-recognition.md",
+      "title": "Top 7 Baselines For Image Recognition",
+      "excerpt": "SVHN is obtained from house numbers in Google Street View images. SVHN was introduced to develop machine learning and object recognition algorithms with a minimal requirement on data preprocessing and formatting. In this paper, a simple procedure called AutoAugment is defined to automatically search for improved data augmentation policies.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://analyticsindiamag.com/image-classification-models-benchmark-state-of-the-art/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-10T00:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://analyticsindiamag.com/wp-content/uploads/2020/03/imrec.png",
+          "width": 667,
+          "height": 500,
+          "title": "Top 7 Baselines For Image Recognition",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-10-ai-recruitment-start-up-recognised-at-microsofts-ai-awards-20.md",
       "title": "AI recruitment start-up recognised at Microsoft’s AI Awards 2.0",
       "excerpt": "Talview helps its clients with digital hiring process by leveraging the capabilities of Microsoft Azure to automate talent screening, video interviews, and securely proctor cognitive assessments for hiring decisions ... need to be a goal for employers in Singapore in 2018. The services sector is attracting top talent as China's economy shifts ...",
@@ -886,80 +953,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-09-artificial-intelligence-the-forbidden-fruit-of-the-21st-century.md",
-      "title": "Artificial Intelligence: The Forbidden Fruit of the 21st Century",
-      "excerpt": "Long before the invention of self-driving cars and robotics, Jews conceived the idea of man-made life. Artificial intelligence (AI) is becoming so advanced now that it is conceivable that machines could not only replace humans for most jobs, but actually develop intelligence higher than that of humans. Machines will be capable of designing ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.algemeiner.com/2020/03/09/artificial-intelligence-the-forbidden-fruit-of-the-21st-century/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-09T04:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Algemeiner",
-        "domain": "algemeiner.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.algemeiner.com/wp-content/uploads/2017/10/torah-scroll-e1504233787694-2.jpg",
-          "width": 720,
-          "height": 360,
-          "title": "Artificial Intelligence: The Forbidden Fruit of the 21st Century",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-09-web-developers-dont-need-a-math-degree-to-get-started-with-machine-learning.md",
-      "title": "Web developers don’t need a math degree to get started with machine learning",
-      "excerpt": "Google AI researchers conducted a study among 645 users of TensorFlow.js, a framework for machine learning with JavaScript. The goal was to find out what motivates software developers to get started with machine learning, what they expect from ML ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://jaxenter.com/web-developers-machine-learning-tensorflow-js-169458.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-09T04:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "jaxenter.com",
-        "domain": "jaxenter.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://jaxenter.com/wp-content/uploads/2020/03/tensorflowjs-survey.jpg",
-          "width": 600,
-          "height": 400,
-          "title": "Web developers don’t need a math degree to get started with machine learning",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

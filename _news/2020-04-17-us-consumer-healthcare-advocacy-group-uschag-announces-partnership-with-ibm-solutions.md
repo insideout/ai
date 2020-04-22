@@ -1,21 +1,19 @@
 ---
 category: news
 title: "U.S. Consumer Healthcare Advocacy Group (USCHAG) Announces Partnership with IBM Solutions"
-excerpt: "utilization of artificial intelligence (AI) and IBM's Watson capabilities to effect positive and empowering change for consumers when working with the American healthcare system. In development ..."
-publishedDateTime: 2020-04-17T16:35:00Z
-webUrl: "https://www.benzinga.com/pressreleases/20/04/n15831873/u-s-consumer-healthcare-advocacy-group-uschag-announces-partnership-with-ibm-solutions"
-ampWebUrl: "https://amp.benzinga.com/amp/content/15831873"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15831873"
+excerpt: "U.S. Consumer Healthcare Advocacy Group (USCHAG) is pleased to announce a formal partnership with IBM Solutions. While the details of the relationship are confidential,"
+publishedDateTime: 2020-04-17T12:33:00Z
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/u-s-consumer-healthcare-advocacy-group-uschag-announces-partnership-with-ibm-solutions/article_bd7661a1-ef09-596d-a592-242638e0c699.html"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - IBM AI
   - AI
 
-secured: "S2w0Uvux/BnOJpxJXUu3nPVBsaeUvkF+Pat6W/rZNeaaW1TPdnSqD6GVN816ytwwSUnOeP5g5IQ0JQq5ZKbuQcV778XKbQwcOKNygzTXj8SkFiU1lN1lG5sQ44T6jMfMX0XTMDIUKXt8u0x4HnDgjJidVGmhqIXnoIK87KqHvaqzdo32wYFeCXtQjFFq9TwkWePWnd3S1vROqyd8ijtcSYvSPgoiNIv4v47/ykgHEs7Zv2MQBbRgSl4tByV+DxXfUZjaVdCxZUVb5wv/sUB2VISL9pLdGjd3Esmsn+yRaSL9PBDsR+CyXIgLLGcNWhzA;YkFYVp8uRXLyFzPpga5xnw=="
+secured: "aDB0Xr2AjCOCaXDI0NYfCDKVw6GW6+Ec2o132G4Oo19Ng1KBYQQis0Ux4HXmcvgNq2+DaQJ1mS8h5yy2cAB0o93pLcY9cDpZ5QhmRiqfjlTtDyYSEOMELBk0garRYb1X197DxnESDOfyZrrJ0OFHh2czOneoDRUn4RFKNLv335UQIZXiOysWoNjxt8DgtcX95QJqL2c6VFo9WlqhBReOgrnZrGNmOn25SzPbpvKIdA1NXMOSpFlXjpdKbTrCxIsXahjcI8fX6y5CUUzu3QkQKMpXEN9jJnYxVD7pHvlh2MLON6K+fwpmx4XwgtuRkHviBp/MY71Vg8zci1eZyHYSYcYwRoKPqi4ZSKfkPlldCVil0ZHzskKpnYMmv+YR4iKXPeqxzz+eIB91pBzmhjWWqSBorxvND4zCIujMLFN+NwZWXGuG8bGeSygjThxr4P1lwAzAQayKK7L7CTbOpprGb0e2pGO5ygSv03J6U+XfgRU=;T45TW1qReaZTrwXqBNMsdA=="
 ---
 

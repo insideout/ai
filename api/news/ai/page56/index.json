@@ -2,6 +2,94 @@
   "page": 56,
   "value": [
     {
+      "path": "_news/2020-02-24-the-future-of-customer-service-isnt-as-simple-as-ai-or-human.md",
+      "title": "The Future Of Customer Service Isn't As Simple As AI Or Human",
+      "excerpt": "Business leaders who wish to bring AI-human collaboration to life in their customer service organizations need only ask themselves a few key questions to get started.",
+      "heat": 97,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/24/the-future-of-customer-service-isnt-as-simple-as-ai-or-human/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/24/the-future-of-customer-service-isnt-as-simple-as-ai-or-human/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/02/24/the-future-of-customer-service-isnt-as-simple-as-ai-or-human/amp/",
+      "publishedDateTime": "2020-02-24T09:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/711x493/https://specials-images.forbesimg.com/dam/imageserve/545163603/960x0.jpg?fit=scale",
+          "width": 711,
+          "height": 493,
+          "title": "The Future Of Customer Service Isn't As Simple As AI Or Human",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-24-how-to-enhance-the-customer-experience-using-ai-and-voice-biometrics.md",
+      "title": "How To Enhance The Customer Experience Using AI And Voice Biometrics",
+      "excerpt": "Due to pressures regarding data privacy, companies are often forced to set up stringent security processes that compromise the customer experience.",
+      "heat": 137,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/02/24/how-to-enhance-the-customer-experience-using-ai-and-voice-biometrics/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/02/24/how-to-enhance-the-customer-experience-using-ai-and-voice-biometrics/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2020/02/24/how-to-enhance-the-customer-experience-using-ai-and-voice-biometrics/amp/",
+      "publishedDateTime": "2020-02-24T08:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/dam/imageserve/970156432/960x0.jpg?fit=scale",
+          "width": 711,
+          "height": 474,
+          "title": "How To Enhance The Customer Experience Using AI And Voice Biometrics",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-02-24-google-ai-chief-dean-sees-evolution-in-mlperf-benchmark-for-machine-learning.md",
       "title": "Google AI chief Dean sees evolution in MLPerf benchmark for machine learning",
       "excerpt": "If computer systems are to evolve to handle ever larger machine learning models, a standard way to compare the effectiveness of those systems is essential, according to Google head of AI, Jeff Dean. But that system of measurement itself must evolve over time, he said. \"I think the MLPerf benchmark suite is actually going to be very effective ...",
@@ -1181,96 +1269,6 @@
         "AI",
         "AWS AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-22-machine-learning-chips-market-overview-technology-details-2020.md",
-      "title": "Machine Learning Chips Market Overview, Technology Details 2020",
-      "excerpt": "Latest Trends Report On Global Machine Learning Chips Market 2020 with Upcoming Industry Trends, Size, Share, Top Companies Profiles, Growth Report and Forecast By 2026. Machine Learning Chips Market is a valuable source of insightful data for business strategists.",
-      "heat": 144,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-chips-market-overview-technology-details-2020-2020-02-22",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-21T23:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Machine Learning Chips Market Overview, Technology Details 2020",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-02-21-take-advantage-of-tensorflow-object-detection-api-part-1.md",
-      "title": "Take Advantage of “Tensorflow Object Detection API”- Part 1!!!",
-      "excerpt": "Description-The following is the step by step Tutorial for taking advantage of the Tensorflow Object Detection API-Part 1 (setting up models repository environment) series. Note: I have followed these steps on Ubuntu 16.04 and Ubuntu 18.04 systems. but before proceeding for actual process our system must have some required libraries as follows ...",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/@Sahilchachere/take-advantage-of-tensorflow-object-detection-api-99041cd9bb27",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-21T15:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/1200/1*fMK7Y6XKoeHlJ5o9wGrMVQ.png",
-          "width": 1200,
-          "height": 675,
-          "title": "Take Advantage of “Tensorflow Object Detection API”- Part 1!!!",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],
