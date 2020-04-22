@@ -6,7 +6,7 @@ publishedDateTime: 2020-04-22T17:56:00Z
 webUrl: "https://njbiz.com/capco-stevens-institute-technology-form-partnership-advance-digital-transformation-financial-services/"
 type: article
 quality: 2
-heat: -1
+heat: 2
 published: false
 
 provider:
@@ -24,21 +24,28 @@ images:
     title: "Capco and Stevens Institute of Technology form partnership to advance digital transformation in financial services"
 
 related:
-  - title: "Fintech Galaxy and ASEAN Financial Innovation Network (AFIN) to support cross-border growth of FinTechs in MENA and Asia"
-    excerpt: "The company advises startups on fund raising, operational growth and business development. The platform also brings to the MENA market a network of global fintech experts in areas like blockchain, AI, payments, robotics and data science. With a wealth of content and a virtual gallery of the best success case studies in the financial technology ..."
-    publishedDateTime: 2020-04-22T09:50:00Z
-    webUrl: "https://www.zawya.com/mena/en/press-releases/story/Fintech_Galaxy_and_ASEAN_Financial_Innovation_Network_AFIN_to_support_crossborder_growth_of_FinTechs_in_MENA_and_Asia-ZAWYA20200422093714/"
-    ampWebUrl: "https://www.zawya.com/mena/en/story/amp/ZAWYA20200422093714/"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20200422093714/"
+  - title: "Artificial Intelligence: Technological Advancements to Take Place in the Design and Construction Industry by 2026"
+    excerpt: "It is no longer unusual, before completing a project on a construction site, to fly a drone, to visualize a project or to select the best setting on the basis of artificial intelligence (AIs) forecasts. Construction is one of the most difficult artificial intelligence and robotic industries to achieve success in. Some advanced technology will ..."
+    publishedDateTime: 2020-04-22T09:49:00Z
+    webUrl: "https://www.openpr.com/news/2020223/artificial-intelligence-technological-advancements-to-take"
     type: article
     provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 19
+      name: openpr.com
+      domain: openpr.com
+    quality: 0
+  - title: "Capco and Stevens Institute of Technology Announce Exclusive Partnership to Advance Digital Transformation in Financial Services"
+    excerpt: "Under the partnership, Capco will help develop a certificate program in financial analytics ... Stevens’ expertise and research on quantum technologies, machine learning, artificial intelligence, high-performance computing and security, blockchain ..."
+    publishedDateTime: 2020-04-22T13:47:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200422005450/en/Capco-Stevens-Institute-Technology-Announce-Exclusive-Partnership"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
     images:
-      - url: "https://www.zawya.com/resources/img/zawya-logo-en-social.png"
+      - url: "https://mms.businesswire.com/media/20200422005450/en/786481/23/Capco_New_Logo.jpg"
         width: 1200
-        height: 878
+        height: 627
 
 secured: "b//0hYWVQS5F+kDkw0zKdF6IZ/ubZuUZr7jRAKWJuq4Ji0On3JmZQT12cxmMzG/BQUHF81VRwKfO2iw7ZJ+UVcHW29FT4WvnSX7R98e7a6xYKBhekaLF3B2+4QpFdyebUtvWsxknS46F0VOrz8rQhU6nB+G9iN4AN6VsBhgUY7WGu1S0y8vBvHSrRJFbVZ4Z20WTg/g7XUYdWd+9KzTNE50emzsr/vh7wo7cJpcODu8TJF1JF+qFG7gycCBcNhMxvBjD7X/g+v+ppjqxPyYLWGhNt3sitjGZ1dFDML91m7pmRU2j9abWWiUkDwbGVwdm;y+FTjzhGMrZf6wj7+kCa6Q=="
 ---

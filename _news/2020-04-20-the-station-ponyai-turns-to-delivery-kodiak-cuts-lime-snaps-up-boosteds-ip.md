@@ -28,6 +28,6 @@ images:
     height: 383
     title: "The Station: Pony.ai turns to delivery, Kodiak cuts, Lime snaps up Boosted’s IP"
 
-secured: "kdzYl7SDC/vAN6UVtg0dP503yObWpluTT4xP74xM+5b1xc+snb95F70qvLglpT4S7huZFXJ0HeVjWQVd2u/RmweGoyMEKcH/j+20o2N5t5PFD+RL8lza6oKTM92v+/Y4pMc++C70hpPtcV4EH9fv+DR9voTBTAAQeGduXX7QB2qBFJJew2XQJYvUaVZTL9aN+WOKGq8Tw7psIIm4Ojd1NL144vsk3fE5wKa7fNyCj0+pXRv/6ei8WO65NIrMDhD71FvygoBJfyQLFBJWbOJc9piB29O47/xX8PBVryiSaUqMDBxFFd9QxB84uTf4vxvSFGrwlArI2JaFIweivzcI/H7++XWDEZx9bONhT/i+EDUMoAHPvI/P7ZY4XgzjQMso+RaY9rQ5sWKHtMCv7IVqHYH12QsUt9+YNmXw1l9mj7/xOklzOU6Jb9HjuhXlKOVwHlVfRwsshZYiyGpdZM1tlcUcwDnpL7sGqz3s2wiyLYc=;exTxegQtJ5g3z9j886xYgQ=="
+secured: "8gBgRTT6tQ3cjFU4OwDBO5BDCKU4VPWx7y/N0mPlpSUkqUfqorHBfqucUlJE4PGnamIifrn388r7YPXN+3jc7UjtJDYMJ12bgB80+/K82CZNdKhs9z5z7hnWGKmU+inahfSmppjXbJdW4mb4FLVEbf6FT6jSZHNcTXD2LOhcDKz15sz4fdpD4jKcWfMONnVr376lcRk3I90u5wrO/Hi+UZywwU2Tgluxk5F0oN4/iMmuD9Zg4Mo5bz/XciHpE7+vFWYIg6mMAouA5lbd/B9L7tUQsnG12yfjxsPrWNXqVPlgJLTxD3i4vpzD/lt1btnbf+vAp0T/c1SOo7O08R/3VcxX5BKjnixxLMVzVlmZZYBAVBlnDzkQi3b/oo7wSVVRDoAq0KqNaesfEpgThOzafV65fQdIsPV6fN0h2YiyB1sAFhPJ/9vml44mvexdamL1iMZQsW5Xq770r99BAUXV8wJFAu/nz8SPF9kUNLzQ4h8=;w2BRtqZvQ7SoNUVlQ6+0Jw=="
 ---
 
