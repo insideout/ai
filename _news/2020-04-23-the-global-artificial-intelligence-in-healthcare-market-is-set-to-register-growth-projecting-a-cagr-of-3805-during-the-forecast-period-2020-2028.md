@@ -1,25 +1,25 @@
 ---
 category: news
 title: "The global artificial intelligence in healthcare market is set to register growth, projecting a CAGR of 38.05% during the forecast period, 2020-2028"
-excerpt: "The global artificial intelligence in healthcare market is set to register growth, projecting a CAGR of 38.05% during the forecast period, 2020-2028"
+excerpt: "KEY FINDINGS The global artificial intelligence in healthcare market is set to register growth, projecting a CAGR of 38.05% during the fore"
 publishedDateTime: 2020-04-23T03:20:00Z
-webUrl: "https://www.finanzen.net/nachricht/aktien/the-global-artificial-intelligence-in-healthcare-market-is-set-to-register-growth-projecting-a-cagr-of-38-05-during-the-forecast-period-2020-2028-8775658"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/the-global-artificial-intelligence-in-healthcare-market-is-set-to-register-growth-projecting-a-cagr/article_3942f12a-5311-5556-be9e-5177bd648227.html"
 type: article
 quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Finanzen
-  domain: finanzen.net
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI
 
 images:
-  - url: "https://images.finanzen.net/images/logos/finanzennet_600x315.jpg"
-    width: 600
-    height: 315
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+    width: 1280
+    height: 720
     title: "The global artificial intelligence in healthcare market is set to register growth, projecting a CAGR of 38.05% during the forecast period, 2020-2028"
 
 related:
@@ -37,6 +37,6 @@ related:
         width: 1200
         height: 630
 
-secured: "NWEqOs5KvzfycKH6LvO2m9X6dmppAX2gC1TbhhZ3fw8cLMfvX+3B4p2M9ZCkm8gaxY8XR/LNOZ4xyEQ3/NGXcXCerltMUlF3DcKewEGq04E2tJVMSYLI0WK0L8v3sOZrw5pRHLRt/geEgxBNS377dabfVIzKzgr+ZKXnYujsXzi5FHGW0Du1NnY9uV3MkzWjdXf04Mf8ox2MQHBMKaWAV+hcJUK+tqUwivm+d2DSe00Ta5Yhe8FBHFyU3BcEb4tyQZfxjYBKVu9MP9Yfsgal1ClwUIw/Ex7TnWoaTDyTEdVIqb/hfgy2TG7EimpKY2H+;guOroOzrDMB5wXZgkAzymA=="
+secured: "Qu3HD8amW/u1jjs6kqAFi63UXnAI9COoaX7ZhAZJ79nYXuOAFC/QWGE2Ndp6ewKo7wT/nMeS3lht/TC2DXrtChPd4VXCUgNA8hbYHU2NWVWyP0RjhoZ67LPTGSQ0AaWz4PTFTOaMQ3uO840f4zY0BFtJ+7l/WWXFp7jraXC97ZPr05dRsD17BpfudKB6crcd7d3BiZWc8k0ycrCJNQnhtgQEQAIKIsYFaLITelt0ijWgW/waMj3Ad4phgMOee4VL5DST3nethVEreO3M9oDtrFcvdUrcDZPBHSZaQWrT+l/r8RqNv59bPd/RlWINEFdF;4FlteX4duXtchPri9UTheA=="
 ---
 

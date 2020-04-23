@@ -47,6 +47,15 @@ related:
       - url: "https://mms.businesswire.com/media/20200421005599/en/786372/23/top-level-dashboard.jpg"
         width: 1200
         height: 627
+  - title: "CommScope Brings Artificial Intelligence and Machine Learning to RUCKUS Analytics"
+    excerpt: "CommScope today announced RUCKUS Analytics, a new cloud service that delivers network intelligence and simplifies service assurance, enabling organisations with complex networks to proactively improve their users’ experience. Built on a patented machine learning (ML) and artificial intelligence (AI) foundation, the new service accelerates ..."
+    publishedDateTime: 2020-04-23T11:01:00Z
+    webUrl: "https://www.totaltele.com/505633/CommScope-Brings-Artificial-Intelligence-and-Machine-Learning-to-RUCKUS-Analytics"
+    type: article
+    provider:
+      name: Total Telecom
+      domain: totaltele.com
+    quality: 12
 
 secured: "WYkZZ4Mw/fQWEsnL3yAhm+z0nuYWdhv4uDOn+k6Kq12lIQ9kon+41ZpEfYyG5NI42KGi+E40QC9ZQHtleHXEnSigSBmUTv2XQtrt9EZzO4HPFIk0XDTCVDEVocrfp0ElIVJmgdj9U67PYX8OdRVxe3+jNmqGSg8XTaWyBmsmncCEKfpwQoFJeaFGffkXKI2ZGxbUMb6374NRtTr5z8rQC43hA7x+k1lPPQLJj8NYDW2USSDv3GY0iubWbxFw/XETp6F1KN30jJLvsjowO9KYHD8xF0jRv4mLW0COm5TmiegbPnny/63hrrG3/owUEH5/gaaZ/drfoV7EHd9HbRwDsnH7KYk47sPVJ23Fv4FhksrkfceTc2kS7czFmDa2/er4IH5JRsfrTFvi38ALRSsCkbyUw4x3M8GCxkYI9HASpsfrytfKFM8U2+8y7tsaq9jvPszlqicXhjOKhs+XoWvddvFI7RKCFa7zA33dvRbFfoE=;mZnEJNKRzjDxTiPovsAnZw=="
 ---

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.zawya.com/mena/en/story/amp/ZAWYA20200422073526/"
 cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20200422073526/"
 type: article
 quality: 69
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -48,6 +48,15 @@ related:
       - url: "https://mms.businesswire.com/media/20200421005599/en/786372/23/top-level-dashboard.jpg"
         width: 1200
         height: 627
+  - title: "CommScope Brings Artificial Intelligence and Machine Learning to RUCKUS Analytics"
+    excerpt: "CommScope today announced RUCKUS Analytics, a new cloud service that delivers network intelligence and simplifies service assurance, enabling organisations with complex networks to proactively improve their users’ experience. Built on a patented machine learning (ML) and artificial intelligence (AI) foundation, the new service accelerates ..."
+    publishedDateTime: 2020-04-23T11:01:00Z
+    webUrl: "https://www.totaltele.com/505633/CommScope-Brings-Artificial-Intelligence-and-Machine-Learning-to-RUCKUS-Analytics"
+    type: article
+    provider:
+      name: Total Telecom
+      domain: totaltele.com
+    quality: 12
 
 secured: "wEVj5rdB/qpRSQAJiEqoJETzjAtXL1ybNQIjOnBbC5S268VvPghfdLluPPFDvTpBS9hzeqdoJepw2WSGkNSSvTOSVWEhJZKyg+b9dsd9nQ3vUiDczNiWCtjHtVPi92/TI8uZHgq5WhZsQukmL6bkEQmxHCWcmH8mzyKoak6cPgxRPOpSe+D62TJp3Lq/xwtQyki2MaK8C2FiG66velh5xEyakQfYJqpX3Dl5IqaKPRg9FPrzFGJdivNau5uUiO+vLbaYMn7MhWMKHH/Zec7wzXwLoMOM3JsYNBcfTB33BtkFLprAXZfQakREL0O7oGfc;t2wYU4ZjQMnYBp9H4vRQRQ=="
 ---

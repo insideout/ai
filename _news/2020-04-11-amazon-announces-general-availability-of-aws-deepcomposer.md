@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Amazon Announces General Availability of AWS Deepcomposer"
-excerpt: "At the end of 2019, InfoQ ran a survey of our readers to find out what tools, techniques, and languages they were using. This is a summary of the results. Daniel Bryant sat down with Dave Sudia ..."
-publishedDateTime: 2020-04-11T00:00:00Z
-webUrl: "https://www.infoq.com/news/2020/04/amazon-aws-deepcomposer-ga/?useSponsorshipSuggestions=true&itm_source=presentations_about_Devops&itm_medium=link&itm_campaign=Devops"
+excerpt: "At re:Invent last year, Amazon launched AWS Deepcomposer as a preview, and it is generally available now with a few new features. These features include: Julien Simon, artificial intelligence & machine learning evangelist for EMEA, states in a blog post on ..."
+publishedDateTime: 2020-04-11T11:30:00Z
+webUrl: "https://www.infoq.com/news/2020/04/amazon-aws-deepcomposer-ga/"
 type: article
 
 provider:
@@ -20,6 +20,6 @@ images:
     height: 835
     title: "Amazon Announces General Availability of AWS Deepcomposer"
 
-secured: "Lp/kR/NImdBCC6n6Z0+VxJJraWHcggnOK8Wmy0f5pU0tWEbYatgZRTOr7Gen33ivgnV0WCKYB1tI9XEt/4jqLJTuMjrYdiCSsnm3MhoOcBIiDWxiUJp2bFTrw/zNSIZlVd8K7s4R8I1diSfvRk4kur31m8KwnFkmxbQvIxQrI5/R/3RAozgFqd9bvfR9bK3Gq+7M9guvbudGusYmFmJUBBawBTkf4t4PeE0pvgYLWr6lQhCRfXgyINW+pQcZoRSsjZ2PP/rsQ19EMeDYpXnvHsJBqfRmLIfh1yHxY1TRzXc0AATgxelvYx8dAX5ROymK;IQQCZgu8d9kTwdM4ctQShA=="
+secured: "u3Wg9RINPBAn8Veqa3YYPyR/nVFMuLv2Zthit9GPce4rXdJR+HIGBFYOl2sXTp/4yElkSYPMhwhfOjP4BlXVai0tgoIXScMvmqfFQY9KDQCVtYzAb/p/gsQVL+TED8L7gd5ORTipo3JmI2hzrxQFS7kjhzu1pW5825tjgJm8RsgMJB1CqL1jhxiczfYt/kzCFLElp4CnDpjgOV/0Zar8t+++i+YyudTroEpHQdeI0Ljn+k3kBttxn75PSoOsvOBmTydlUstPgqOCdK9na/8Bs6Sk+HZCMqY5X9elxWHcJl3YgW08mSbg2VJjQ3MLUB+E;ksK51Upm5rA36bnci2XKjw=="
 ---
 

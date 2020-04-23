@@ -48,6 +48,15 @@ related:
       name: Robotics & Automation News
       domain: roboticsandautomationnews.com
     quality: 51
+  - title: "CommScope Brings Artificial Intelligence and Machine Learning to RUCKUS Analytics"
+    excerpt: "CommScope today announced RUCKUS Analytics, a new cloud service that delivers network intelligence and simplifies service assurance, enabling organisations with complex networks to proactively improve their users’ experience. Built on a patented machine learning (ML) and artificial intelligence (AI) foundation, the new service accelerates ..."
+    publishedDateTime: 2020-04-23T11:01:00Z
+    webUrl: "https://www.totaltele.com/505633/CommScope-Brings-Artificial-Intelligence-and-Machine-Learning-to-RUCKUS-Analytics"
+    type: article
+    provider:
+      name: Total Telecom
+      domain: totaltele.com
+    quality: 12
 
 secured: "/DPOgQ/w9LhfSvsqbXpzWe/YSCelv/zOkqWmbcHxTmKsNx0D5bUQSYVs0Wbi1zdFzvtKlDWyUXW2a/brMezOXv0AXCrXWtIUMoXvUcthm9bTT7ixk8UzIXHt00nE2fTVn4+qxfFIkTRVZp1dKP7RKBEgFVV1dIagaQgnX1PT4KPwIuYm18aUgXRZVBLW/vmnCZf6dYOqXm0oKQHlpOnfSxf16Ky+9KUsPeMFhZM5mfYvScOY4NRPYzBVYSBvlkWELDL6s6v9ccvpxSCgvU87acoQpqkeaOX79r6a6XDBkCoXqq0+volY/O/Y37VC7G6jsl6uob50Z6aIFYZkOAAQvQ1kuA2ZsiI3RZ7ib+Tm7G4PmPO98GMq6HiYM5KHXm/VjjNKN+IuUR+03vFSWQJFNg0afg7S+mVyPcI4ikpjIDXrSE8TrjSWVaMK2B1lI6+nDMs3O/BJGO3oneSojOaUeC6HBVZvRip/+4kIGHOzYv8=;fs/SVsUNZ/LZz7WsnchfmA=="
 ---
