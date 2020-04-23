@@ -1,9 +1,9 @@
 ---
 category: news
 title: "U.S. Consumer Healthcare Advocacy Group (USCHAG) Announces Partnership with IBM Solutions"
-excerpt: "U.S. Consumer Healthcare Advocacy Group (USCHAG) is pleased to announce a formal partnership with IBM Solutions. While the details of the relationship are confidential,"
-publishedDateTime: 2020-04-17T12:33:00Z
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/u-s-consumer-healthcare-advocacy-group-uschag-announces-partnership-with-ibm-solutions/article_bd7661a1-ef09-596d-a592-242638e0c699.html"
+excerpt: "utilization of artificial intelligence (AI) and IBM's Watson capabilities to effect positive and empowering change for consumers when working with the American healthcare system. In development ..."
+publishedDateTime: 2020-04-17T13:03:00Z
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/u-s-consumer-healthcare-advocacy-group-uschag-announces-partnership-with-ibm-solutions/article_bd7661a1-ef09-596d-a592-242638e0c699.html"
 type: article
 
 provider:
@@ -20,6 +20,6 @@ images:
     height: 400
     title: "U.S. Consumer Healthcare Advocacy Group (USCHAG) Announces Partnership with IBM Solutions"
 
-secured: "SxQtAEKrkTHX71oFcr1yIo83Wdh/0KQAprU7nuom2MHabZwYvZVcwnWewDkUob2FABc6VK7h0qVcQd9OAPHu+2oDopxg4fkysIcwk38wDNCcBMWMgwESvuiSfs7t83wrtgxE7CKpX7/pxyfuxqmAZ0FFELxrlWWT6XhF4CiFd9ZIjz4su8QPgitnbpq2bX0MessATNiFJc8xvInSG9eRzrEN0GHVfm2mWZU5gldcoll47FjnQoz/Wm6SBegrsD59qJO6e7Tud6N0yi1hwygxYL75r4WGegN8kD0o6+NrsaboWTmVKLwR1Nnnuv9jbg89;jQ0VCoQtOl/oocl6xuDlaQ=="
+secured: "6jc9yE3i7lM+YBdLcLYSq7miujce+C1sy0Y7WpYY58G2JkdCh7j9rRmwRaDiXVm5NrtVlpAM61PALR9oEW77QV71M7rLANyAriW8na/No1DEeMYCkyjA3Rsh2p72rWPzx8ObRXiLhwXVHNfHKu3hoIapvUNvtrwTxbn5z5qBTBcAhXcEtYGVtRKponPMC1OLB8kc0EJY9CXdiGwguG23FBR2+GjVUIRIzL3Ncme0ipxPQ5rt6A9Nmm/7TyG2kBisfJI0fkxJTVprNp+eilMZ0R8xStff7Xldk7PA/k7VZFqVse/PtTsijvFuUPvrX8fI;2Jl0oNujTTdVzTm93XLFQA=="
 ---
 

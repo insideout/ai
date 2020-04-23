@@ -6,7 +6,7 @@ publishedDateTime: 2020-04-22T10:09:00Z
 webUrl: "https://www.marketwatch.com/press-release/ai-market-in-call-center-applications-growth-trends-and-forecast-2020-2025-2020-04-22"
 type: article
 quality: 63
-heat: 73
+heat: 83
 published: true
 
 provider:
@@ -36,6 +36,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 37
+  - title: "Europe Speech Recognition Software Market will take the highest jump during 2020-2025"
+    excerpt: "\"The global Speech Recognition Software market report offers information relating to the leading regions, competitive landscape, growth trends, and other crucial information about the growth status of the market. Additionally, the Speech Recognition Software market report also gives an in-depth evaluation of prevailing growth strategies ..."
+    publishedDateTime: 2020-04-23T05:34:00Z
+    webUrl: "https://www.arnnet.com.au/mediareleases/87429/europe-speech-recognition-software-market-will/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 12
 
 secured: "BlMKPTH4iIY78DWEBWExSwIVNGs7pwVI0Qb4g15i8ZfB1rTePLpHpRJSjCi4SNzrK7h8Xqc3R5lC40/zhNTCueHAmYPjOrNiBhX4IB/hzuveZgQoLwxvxqng4Vsaj5QhsFdvOrUXJP+tkeTWgfOYpSI0QHHnJZYufvYt1DT/oeD/hKfDSk7inJKB2VUsDQatJH0NimcSMTKGED5XEgRdtYoJLGnJpGPjpbOwSxHTpMXIjWmFoesqhimR+I3064PyRONG63BXqB63V08xrPW3A0PDdIuX8j76d3adJVuL102M7blOtQjfNwV+ZJmBF3T0;ZYagoDSj2ukchnwsO3usCQ=="
 ---

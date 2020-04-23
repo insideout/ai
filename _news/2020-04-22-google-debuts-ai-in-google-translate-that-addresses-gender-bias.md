@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/04/22/google-debuts-ai-in-google-transl
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/22/google-debuts-ai-in-google-translate-that-addresses-gender-bias/amp/"
 type: article
 quality: 91
-heat: 91
+heat: 101
 published: true
 
 provider:
@@ -29,6 +29,23 @@ images:
     width: 1200
     height: 600
     title: "Google debuts AI in Google Translate that addresses gender bias"
+
+related:
+  - title: "Google introduces improved AI to address gender bias in translate"
+    excerpt: "In 2018, the search giant addressed that problem by providing a translation in both genders for sentences in a gender-neutral language like Turkish. Yesterday, Google’s AI team released a new model that’s more scalable — meaning it can be applied to translate phrases in other languages. This new rollout brings support for gender-specific ..."
+    publishedDateTime: 2020-04-23T07:13:00Z
+    webUrl: "https://thenextweb.com/neural/2020/04/23/google-introduces-improved-ai-to-address-gender-bias-in-translate/"
+    ampWebUrl: "https://thenextweb.com/neural/2020/04/23/google-introduces-improved-ai-to-address-gender-bias-in-translate/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/04/23/google-introduces-improved-ai-to-address-gender-bias-in-translate/amp/"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 89
+    images:
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/04/before-after.png"
+        width: 640
+        height: 310
 
 secured: "SUP2m1BJDxtXuIz40htKC7iHx3ZSvv4kCASunr1NDZRTFn1KKQp0O9WQ2NMBqY3/V1T/Bnsp/Z+Xu3YNES0/E2rD63MZs86XOtdAoWUAbgCrmlOGexEjKD3+9ckLyujycph9erAYJHIYTNChtWyZfCOu+qH+l8+FjoMonSolYigvzHXXxGhMcGSn2cQLLwvN9QnZeo56tLCVENOrAtdfbD/wudRbvz6EYV7UdH/jZ6Xb4nt1Wo2Aj4GSYC5DeRZIbJFTruDc9ajzbrhXdE5cRu2eJ3dZ6IT/nsJ+e808eKMiPfMHmZ2I7C8lRNiZUoi/I7ftCct66qHoT8RRNSjJltXxjF9dAA79ciT8GkIu8L/X+D4Sr0eNb8HeqfKqIsAwneOzK3cipIenC8YVEhpOfRY0YTdfj7uKm3oe6ZiwYHnLdelXVYK32TktwJrjK+O7/NOYCCucTQGwAHCqC7N8VgzBP63HNx4LZGaFsSu/L2k=;DL4arS03YvmgEyblUeFGjg=="
 ---
