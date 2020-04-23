@@ -2,6 +2,97 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-04-17-this-artificial-intelligence-extracts-emotions-and-shows-what-people-are-feeling.md",
+      "title": "This Artificial Intelligence Extracts Emotions And Shows What People Are Feeling",
+      "excerpt": "Systems and Sociometrica analyze the sentiment of 63,000 social media posts each day to determine the emotional state of the internet in response to COVID-19.",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/jenniferhicks/2020/04/17/this-artificial-intelligence-extracts-emotions-and-shows-what-people-are-feeling/",
+      "ampWebUrl": "https://www.forbes.com/sites/jenniferhicks/2020/04/17/this-artificial-intelligence-extracts-emotions-and-shows-what-people-are-feeling/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jenniferhicks/2020/04/17/this-artificial-intelligence-extracts-emotions-and-shows-what-people-are-feeling/amp/",
+      "publishedDateTime": "2020-04-17T15:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e99d3447be2870006ce16f8%2F0x0.jpg",
+          "width": 1200,
+          "height": 1203,
+          "title": "This Artificial Intelligence Extracts Emotions And Shows What People Are Feeling",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-17-train-a-deep-learning-image-classification-model-in-azure-with-mlnet-model-builder.md",
+      "title": "Train a deep learning image classification model in Azure with ML.NET Model Builder",
+      "excerpt": "LandUseUWP: Universal Windows Platform (UWP) application that consumes the model to classify satellite map images of locations provided by the user. Eurosat: A novel dataset and deep learning benchmark for land use and land cover classification. Patrick Helber, Benjamin Bischke, Andreas Dengel, Damian Borth. IEEE Journal of Selected Topics in ...",
+      "heat": 80,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://docs.microsoft.com/en-us/samples/dotnet/machinelearning-samples/mlnet-image-classification-azure-model-builder/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-17T14:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png",
+          "width": 400,
+          "height": 400,
+          "title": "Train a deep learning image classification model in Azure with ML.NET Model Builder",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-17-moscow-is-using-coronavirus-as-an-excuse-to-amp-up-its-facial-recognition-surveillance.md",
       "title": "Moscow Is Using Coronavirus as an Excuse to Amp Up Its Facial Recognition Surveillance",
       "excerpt": "MOSCOW –– There’s about 178,000 surveillance cameras set up all around the Russian capital, pretty much wherever you look, and some of them are already connected to facial recognition software that’s helped police arrest more than 300 people. But now the authorities are trying to bring the entire fleet of cameras into the facial ...",
@@ -849,7 +940,8 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
+        "AI",
+        "Facebook AI"
       ]
     },
     {
@@ -944,14 +1036,14 @@
     {
       "path": "_news/2020-04-17-us-consumer-healthcare-advocacy-group-uschag-announces-partnership-with-ibm-solutions.md",
       "title": "U.S. Consumer Healthcare Advocacy Group (USCHAG) Announces Partnership with IBM Solutions",
-      "excerpt": "While the details of the relationship are confidential, the partnership includes elements of data acquisition, utilization of artificial intelligence (AI) and IBM's Watson capabilities to effect positive and empowering change for consumers when working with the American healthcare system. In development for over a decade and Founded in 2018 ...",
+      "excerpt": "utilization of artificial intelligence (AI) and IBM's Watson capabilities to effect positive and empowering change for consumers when working with the American healthcare system. In development ...",
       "heat": null,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/u-s-consumer-healthcare-advocacy-group-uschag-announces-partnership-with-ibm-solutions/article_bd7661a1-ef09-596d-a592-242638e0c699.html",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-17T06:09:00-07:00",
+      "publishedDateTime": "2020-04-17T06:03:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "WFMZ-TV",
@@ -975,95 +1067,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-17-heres-how-you-get-everyone-to-buy-into-a-great-company-culture.md",
-      "title": "Here's How You Get Everyone To Buy Into A Great Company Culture",
-      "excerpt": "As a company begins to scale past 150 people, it becomes harder to create unity and keep people on the same page. Creating a healthy company culture helps attract and retain highly motivated and engaged employees.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2020/04/17/heres-how-you-get-everyone-to-buy-into-a-great-company-culture/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2020/04/17/heres-how-you-get-everyone-to-buy-into-a-great-company-culture/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbeshumanresourcescouncil/2020/04/17/heres-how-you-get-everyone-to-buy-into-a-great-company-culture/amp/",
-      "publishedDateTime": "2020-04-17T05:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbeshumanresourcescouncil%2Ffiles%2F2020%2F04%2Fa-5-2.jpg",
-          "width": 640,
-          "height": 640,
-          "title": "Here's How You Get Everyone To Buy Into A Great Company Culture",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-17-how-to-incorporate-ai-and-ml-on-a-budget-14-tips-for-businesses.md",
-      "title": "How To Incorporate AI And ML On A Budget: 14 Tips For Businesses",
-      "excerpt": "Follow these tips to add artificial intelligence or machine learning tech to your business without breaking the bank.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/04/17/how-to-incorporate-ai-and-ml-on-a-budget-14-tips-for-businesses/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/04/17/how-to-incorporate-ai-and-ml-on-a-budget-14-tips-for-businesses/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/04/17/how-to-incorporate-ai-and-ml-on-a-budget-14-tips-for-businesses/amp/",
-      "publishedDateTime": "2020-04-17T05:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fdam%2Fimageserve%2F1216542637%2F0x0.jpg%3Ffit%3Dscale",
-          "width": 1200,
-          "height": 800,
-          "title": "How To Incorporate AI And ML On A Budget: 14 Tips For Businesses",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

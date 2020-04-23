@@ -2,6 +2,124 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-04-15-cimon-2-makes-its-successful-debut-on-the-iss.md",
+      "title": "CIMON-2 makes its successful debut on the ISS",
+      "excerpt": "Watson AI technology from IBM Cloud provides voice-controlled artificial intelligence. Scientists from the Ludwig-Maximilian University Hospital in Munich (LMU) helped develop and oversee the human aspects of the assistance system. Biotesc at the University of Lucerne ensures that CIMON works perfectly in ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://gisuser.com/2020/04/cimon-2-makes-its-successful-debut-on-the-iss/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-15T06:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "gisuser.com",
+        "domain": "gisuser.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "http://www.gisuser.com/images/subscribe-to-newsletter.jpg",
+          "width": 711,
+          "height": 310,
+          "title": "CIMON-2 makes its successful debut on the ISS",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-15-mits-ai-powered-device-lets-doctors-monitor-coronavirus-patients-remotely.md",
+      "title": "MIT’s AI-powered device lets doctors monitor coronavirus patients remotely",
+      "excerpt": "A new device that uses AI to monitor coronavirus symptoms is helping doctors treat patients beyond the reach of infection. The box-like device emits wireless signals that bounce off human bodies before returning to the system. Algorithms then analyze changes in the signals to infer the person’s breathing rate, sleep patterns, and movements.",
+      "heat": 85,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/04/15/mits-ai-powered-device-lets-doctors-monitor-coronavirus-patients-remotely/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/04/15/mits-ai-powered-device-lets-doctors-monitor-coronavirus-patients-remotely/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/04/15/mits-ai-powered-device-lets-doctors-monitor-coronavirus-patients-remotely/amp/",
+      "publishedDateTime": "2020-04-15T06:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/04/BABY-BREATH-MONITOR.jpg",
+          "width": 600,
+          "height": 349,
+          "title": "MIT’s AI-powered device lets doctors monitor coronavirus patients remotely",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-15-the-global-artificial-intelligence-in-healthcare-market-is-set-to-register-growth-projecting-a-cagr-of-3805-during-the-forecast-period-2020-2028.md",
+      "title": "The global artificial intelligence in healthcare market is set to register growth, projecting a CAGR of 38.05% during the forecast period, 2020-2028",
+      "excerpt": "KEY FINDINGS The global artificial intelligence in healthcare market is set to register growth, projecting a CAGR of 38.05% during the",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.prnewswire.com/news-releases/the-global-artificial-intelligence-in-healthcare-market-is-set-to-register-growth-projecting-a-cagr-of-38-05-during-the-forecast-period-2020-2028--301045674.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-15T06:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg",
+          "width": 600,
+          "height": 315,
+          "title": "The global artificial intelligence in healthcare market is set to register growth, projecting a CAGR of 38.05% during the forecast period, 2020-2028",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-15-awake-security-raises-36-million-for-ai-that-identifies-network-threats.md",
       "title": "Awake Security raises $36 million for AI that identifies network threats",
       "excerpt": "“Stolen insider credentials are far more effective than malware for the attacker. These threats cannot be discovered through the use of signatures, or even some of the early approaches to AI-based security that rely on unsupervised machine learning.” One of the major arguments against platforms that use purely unsupervised machine learning ...",
@@ -604,6 +722,35 @@
       ]
     },
     {
+      "path": "_news/2020-04-15-behringer-deepmind-12d-desktop-12-voice-polyphonic-analog-synth-module.md",
+      "title": "Behringer DeepMind 12D Desktop 12-Voice Polyphonic Analog Synth Module",
+      "excerpt": "I will ship with tracking to the listed regions. To negotiate shipping rates to other locations, please send me a message. Taxes are charged in the following regions either by the seller, per their tax policy, or by Reverb as a Marketplace Facilitator:",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://reverb.com/item/33329886-behringer-deepmind-12d-desktop-12-voice-polyphonic-analog-synth-module",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-14T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reverb.com",
+        "domain": "reverb.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-14-brief-hansoh-pharma-atomwise-expand-strategic-partnership-for-ai-accelerated-drug-discovery.md",
       "title": "BRIEF-Hansoh Pharma, Atomwise Expand Strategic Partnership For Ai-Accelerated Drug Discovery",
       "excerpt": "Hansoh Pharmaceutical Group Co Ltd : * HANSOH PHARMA - CO, ATOMWISE ANNOUNCED EXPANSION OF THEIR STRATEGIC PARTNERSHIP FOR AI-ACCELERATED DRUG DISCOVERY Source text for Eikon: Further company coverage: Our Standards:The Thomson Reuters Trust Principles.",
@@ -900,161 +1047,6 @@
       "topics": [
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-14-lucidhealth-and-riverain-technologies-are-committed-to-the-delivery-of-advanced-radiology-through-artificial-intelligence.md",
-      "title": "LucidHealth™ and Riverain™ Technologies Are Committed to the Delivery of Advanced Radiology Through Artificial Intelligence",
-      "excerpt": "“LucidHealth is committed to advancing the quality of community radiology patient care by combining leading radiologist expertise with cutting edge Artificial Intelligence. Riverain’s ClearRead in ... designs advanced AI imaging software used by leading international healthcare organizations. Riverain ClearRead solutions significantly ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businesswire.com/news/home/20200414005825/en/LucidHealth™-Riverain™-Technologies-Committed-Delivery-Advanced-Radiology",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-14T10:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20200414005825/en/785010/23/Riverain_Technologies_Logo.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": "LucidHealth™ and Riverain™ Technologies Are Committed to the Delivery of Advanced Radiology Through Artificial Intelligence",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-14-a-clinical-team-used-mit-csails-ai-to-remotely-monitor-a-covid-19-patient.md",
-      "title": "A clinical team used MIT CSAIL’s AI to remotely monitor a COVID-19 patient",
-      "excerpt": "In light of U.S. Food and Drug Administration’s guidance published in March to expand the use of remote monitoring devices that facilitate patient management, both hospitals and health systems are increasingly piloting AI-enabled at-home solutions. In Kentucky, Baptist Health is using an AI platform developed by Current Health to track about ...",
-      "heat": 85,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/14/a-clinical-team-used-mit-csails-ai-to-remotely-monitor-a-covid-19-patient/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/14/a-clinical-team-used-mit-csails-ai-to-remotely-monitor-a-covid-19-patient/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/14/a-clinical-team-used-mit-csails-ai-to-remotely-monitor-a-covid-19-patient/amp/",
-      "publishedDateTime": "2020-04-14T10:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/02/shutterstock_400845934-e1572448996720.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "A clinical team used MIT CSAIL’s AI to remotely monitor a COVID-19 patient",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-14-microsoft-msft-invests-in-ai-for-health-to-fight-covid-19.md",
-      "title": "Microsoft (MSFT) Invests in AI for Health to Fight COVID-19",
-      "excerpt": "Microsoft MSFT recently announced that it is dedicating $20 million to its AI for Health initiative in an effort to combat the coronavirus pandemic. Launched on Jan 29, the AI for Health initiative was started to empower medical workers and researchers with AI as well as data science capabilities to improve healthcare services around the world.",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nasdaq.com/articles/microsoft-msft-invests-in-ai-for-health-to-fight-covid-19-2020-04-14",
-      "ampWebUrl": "https://www.nasdaq.com/articles/microsoft-msft-invests-in-ai-for-health-to-fight-covid-19-2020-04-14?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/microsoft-msft-invests-in-ai-for-health-to-fight-covid-19-2020-04-14?amp",
-      "publishedDateTime": "2020-04-14T09:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-14-amazon-ai-techniques-improve-speech-recognition-and-dialog-state-tracking.md",
-      "title": "Amazon AI techniques improve speech recognition and dialog state tracking",
-      "excerpt": "In a pair of preprint papers published this week on Arxiv.org, Amazon researchers describe two novel systems — one that facilitates automatic speech recognition and another responsible for dialog state tracking — that they say achieve state-of-the-art performance compared with several baseline models. Assuming the claims have merit ...",
-      "heat": 103,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/14/amazon-ai-techniques-improve-speech-recognition-and-dialog-state-tracking/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/14/amazon-ai-techniques-improve-speech-recognition-and-dialog-state-tracking/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/14/amazon-ai-techniques-improve-speech-recognition-and-dialog-state-tracking/amp/",
-      "publishedDateTime": "2020-04-14T09:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/09/amazon-echo-dot-2019-e1571958500413.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Amazon AI techniques improve speech recognition and dialog state tracking",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

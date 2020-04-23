@@ -2,6 +2,178 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2020-04-08-hong-kong-developer-chinachems-hotels-unit-brings-in-robots-to-beat-coronavirus-slump.md",
+      "title": "Hong Kong developer Chinachem’s hotels unit brings in robots to beat coronavirus slump",
+      "excerpt": "The company, which is wholly owned by property developer Chinachem Group, will have three artificial intelligence robots called Genie delivering meals and drinks to guests ... Last week, InterContinental Hong Kong hotel, also in Tsim Sha Tsui, opted to start a lengthy renovations process earlier than scheduled and let go of about 500 staff ...",
+      "heat": 81,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.scmp.com/business/article/3078765/hong-kong-developer-chinachems-hotels-unit-brings-robots-beat-coronavirus",
+      "ampWebUrl": "https://amp.scmp.com/business/article/3078765/hong-kong-developer-chinachems-hotels-unit-brings-robots-beat-coronavirus",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/business/article/3078765/hong-kong-developer-chinachems-hotels-unit-brings-robots-beat-coronavirus",
+      "publishedDateTime": "2020-04-07T18:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/04/07/c95fc976-77c9-11ea-9479-e3cad17ef2b4_image_hires_172711.jpg?itok=yRHzUuTY&v=1586251637",
+          "width": 1200,
+          "height": 630,
+          "title": "Hong Kong developer Chinachem’s hotels unit brings in robots to beat coronavirus slump",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-08-bring-your-own-model-for-amazon-sagemaker-labeling-workflows-with-active-learning.md",
+      "title": "Bring your own model for Amazon SageMaker labeling workflows with active learning",
+      "excerpt": "With Amazon SageMaker Ground Truth, you can easily and inexpensively build accurately labeled machine learning (ML) datasets. To decrease labeling costs, SageMaker Ground Truth uses active learning to differentiate between data objects (like images or documents) that are difficult and easy to label.",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/bring-your-own-model-for-amazon-sagemaker-labeling-workflows-with-active-learning/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-07T17:10:17-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0.png",
+          "width": 1260,
+          "height": 630,
+          "title": "Bring your own model for Amazon SageMaker labeling workflows with active learning",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-08-aws-to-azure-services-comparison.md",
+      "title": "AWS to Azure services comparison",
+      "excerpt": "This article helps you understand how Microsoft Azure services compare to Amazon Web Services (AWS). Whether you are planning ... including single virtual machine or multiple virtual machine solutions. SageMaker Machine Learning A cloud service to train ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://docs.microsoft.com/en-us/azure/architecture/aws-professional/services",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-07T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png",
+          "width": 400,
+          "height": 400,
+          "title": "AWS to Azure services comparison",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-08-deep-learning-shows-promising-growth-amid-challenges.md",
+      "title": "Deep Learning Shows Promising Growth Amid Challenges",
+      "excerpt": "Deep learning, a subset of machine learning and artificial intelligence (AI), has been there since a while, but became an overnight “sensation” when in 2016, Google’s AI program, a robot ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cxotoday.com/news-analysis/deep-learning-shows-promising-growth-amid-challenges/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-07T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CXO Today",
+        "domain": "cxotoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.cxotoday.com/wp-content/uploads/2020/04/deep-learning5.jpg",
+          "width": 600,
+          "height": 450,
+          "title": "Deep Learning Shows Promising Growth Amid Challenges",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-08-security-measure-or-big-brother-civil-rights-groups-ask-amazon-to-stop-selling-its-facial-recognition-system-to-law-enforcement.md",
       "title": "Security measure or Big Brother? Civil rights groups ask Amazon to stop selling its facial recognition system to law enforcement",
       "excerpt": "The technology, called Rekognition, was released in 2016 through Amazon’s cloud computing division. For a low price, it helps users identify people, objects, scenes and activities in videos or ...",
@@ -886,178 +1058,6 @@
       "topics": [
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-04-07-sourceday-raises-125-million-for-ai-that-predicts-on-time-delivery-risk.md",
-      "title": "SourceDay raises $12.5 million for AI that predicts on-time delivery risk",
-      "excerpt": "SourceDay applies AI and machine learning to drive risk awareness of on-time deliveries and predict risk when it comes to material availability and other factors. Baird Capital led this latest funding round in SourceDay, with participation from existing investors Silverton Partners, ATX Ventures and Draper Associates. It brings the startup’s ...",
-      "heat": 96,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/07/sourceday-raises-12-5-million-for-ai-that-predicts-on-time-delivery-risk/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/07/sourceday-raises-12-5-million-for-ai-that-predicts-on-time-delivery-risk/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/07/sourceday-raises-12-5-million-for-ai-that-predicts-on-time-delivery-risk/amp/",
-      "publishedDateTime": "2020-04-07T08:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/SourceDay-Featured-Image-Navy-e1586206669976.png?fit=1198%2C601&strip=all",
-          "width": 1198,
-          "height": 601,
-          "title": "SourceDay raises $12.5 million for AI that predicts on-time delivery risk",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-07-global-self-driving-car-market-industry-analysis-product-capacity-growth-demand-and-future-forecast-period-till-2026.md",
-      "title": "Global Self-Driving Car Market Industry Analysis, Product Capacity, Growth Demand and Future Forecast Period Till 2026",
-      "excerpt": "Key players of the global Self-Driving Car market are included as given below: The major players in the market include Tesla Motors, Audi, Ford, Toyota, Google, Volvo, Nissan, Baidu, Apple ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/global-self-driving-car-market-industry-analysis-product-capacity-growth-demand-and-future-forecast-period-till-2026-2020-04-07?mod=mw_quote_news",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-07T08:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Global Self-Driving Car Market Industry Analysis, Product Capacity, Growth Demand and Future Forecast Period Till 2026",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-07-9-ai-stocks-were-leaning-on-more-and-more.md",
-      "title": "9 AI Stocks We’re Leaning on More and More",
-      "excerpt": "IBM Watson Assistant for Citizens on the IBM public cloud brings together Watson Assistant, Natural Language Processing capabilities from IBM Research, and state-of-art enterprise AI search capabilities with Watson Discovery, to understand and respond to common questions about COVID-19. It’s always great when big corporations give back to the ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://investorplace.com/2020/04/9-ai-stocks-were-leaning-on-more-and-more/",
-      "ampWebUrl": "https://investorplace.com/2020/04/9-ai-stocks-were-leaning-on-more-and-more/amp/",
-      "cdnAmpWebUrl": "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/04/9-ai-stocks-were-leaning-on-more-and-more/amp/",
-      "publishedDateTime": "2020-04-07T08:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InvestorPlace",
-        "domain": "investorplace.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://investorplace.com/wp-content/uploads/2019/07/ai1600b.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": "9 AI Stocks We’re Leaning on More and More",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-07-5-practical-reasons-to-embrace-artificial-intelligence.md",
-      "title": "5 practical reasons to embrace artificial intelligence",
-      "excerpt": "AI is about more than just robots. There are several reasons that people should accept artificial intelligence, including health care fighting the current coronavirus pandemic and empowering people with disabilities. Artificial intelligence is about more than robots. Whether someone considers themself a tech expert, or a newbie when it comes to ...",
-      "heat": 91,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/5-practical-reasons-to-embrace-artificial-intelligence/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/5-practical-reasons-to-embrace-artificial-intelligence/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/5-practical-reasons-to-embrace-artificial-intelligence/",
-      "publishedDateTime": "2020-04-07T08:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr3.cbsistatic.com/hub/i/r/2020/04/07/b9096b1a-0696-4267-a3f0-1ee3c61fe529/resize/1200x/ef5bf98b81cf782d65908c237d3d27b5/drone-garden.jpg",
-          "width": 1200,
-          "height": 798,
-          "title": "5 practical reasons to embrace artificial intelligence",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics",
-        "AI in Healthcare"
       ]
     }
   ],

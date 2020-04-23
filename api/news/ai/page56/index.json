@@ -2,6 +2,185 @@
   "page": 56,
   "value": [
     {
+      "path": "_news/2020-02-24-uk-police-are-using-ai-to-predict-who-could-become-violent-criminals.md",
+      "title": "UK police are using AI to predict who could become violent criminals",
+      "excerpt": "[Read: Predictive policing AI is a bigger scam than psychic detectives ... which was commissioned by the UK government’s Centre for Data Ethics. The report revealed major legal and ethical ...",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/02/24/uk-police-are-using-ai-to-predict-who-could-become-violent-criminals/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/02/24/uk-police-are-using-ai-to-predict-who-could-become-violent-criminals/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/02/24/uk-police-are-using-ai-to-predict-who-could-become-violent-criminals/amp/",
+      "publishedDateTime": "2020-02-24T13:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/02/Untitled-design-30-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "UK police are using AI to predict who could become violent criminals",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2020-02-24-this-robot-wants-to-help-stressed-out-teens.md",
+      "title": "This Robot Wants to Help Stressed-Out Teens",
+      "excerpt": "For instance, teens quickly told us that elaborate, AI humanoids were NOT the type of robot they wanted to interact ... We’ve also noticed that by inviting the teen to talk to the robot, teens in the environment seem to instinctively start talking to one another about their stress and experiences. I am gently calling this an \"invitation ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://in.pcmag.com/robotics-automation/135185/this-robot-wants-to-help-stressed-out-teens",
+      "ampWebUrl": "https://in.pcmag.com/robotics-automation/135185/this-robot-wants-to-help-stressed-out-teens?amp=1",
+      "cdnAmpWebUrl": "https://in-pcmag-com.cdn.ampproject.org/c/s/in.pcmag.com/robotics-automation/135185/this-robot-wants-to-help-stressed-out-teens?amp=1",
+      "publishedDateTime": "2020-02-24T13:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://sm.pcmag.com/t/pcmag_in/news/t/this-robot/this-robot-wants-to-help-stressed-out-teens_tpjf.620.jpg",
+          "width": 620,
+          "height": 348,
+          "title": "This Robot Wants to Help Stressed-Out Teens",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-02-24-softbank-leads-265-million-investments-in-two-us-based-start-ups.md",
+      "title": "SoftBank leads $265 million investments in two U.S.-based start-ups",
+      "excerpt": "SoftBank on Monday led a new funding round of $165 million in California-based Karius and invested $100 million in New York-headquartered AI company Behavox, as the technology giant builds a portfolio under its second Vision Fund.",
+      "heat": 122,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-karius-funding-idUSKCN20I155",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKCN20I155",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN20I155",
+      "publishedDateTime": "2020-02-24T12:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200224&t=2&i=1494517480&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG1N0Y9",
+          "width": 785,
+          "height": 545,
+          "title": "SoftBank leads $265 million investments in two U.S.-based start-ups",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-24-insightful-new-report-is-an-eye-opening-look-at-how-us-government-is-embracing-ai.md",
+      "title": "Insightful New Report Is An Eye-Opening Look At How U.S. Government Is Embracing AI",
+      "excerpt": "One of the most frequently asked questions that I get at industry conferences is how far along the federal government has progressed in embracing AI. Why does this question come up? Some ask because they fervently believe that the government could do a much better job of providing agency services and likely perform its myriad of tasks more effectively by adopting the latest in AI technologies.",
+      "heat": 83,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/02/24/insightful-new-report-reveals-an-eye-opening-look-at-how-our-government-is-embracing-ai/",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/02/24/insightful-new-report-reveals-an-eye-opening-look-at-how-our-government-is-embracing-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/02/24/insightful-new-report-reveals-an-eye-opening-look-at-how-our-government-is-embracing-ai/amp/",
+      "publishedDateTime": "2020-02-24T12:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e52be65d378190007f416ef%2F0x0.jpg%3FcropX1%3D234%26cropX2%3D5634%26cropY1%3D0%26cropY2%3D3600",
+          "width": 1200,
+          "height": 800,
+          "title": "Insightful New Report Is An Eye-Opening Look At How U.S. Government Is Embracing AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2020-02-24-fintech-the-personal-stories-of-the-money-hackers-who-have-changed-finance.md",
       "title": "Fintech — The Personal Stories Of The Money Hackers Who Have Changed Finance",
       "excerpt": "Dan Simon has written a book about the people who created the technology firms that have been changing finance, such as Venmo and Braintree, Credit Karma, Lending Club, Kabbage, Yodlee, Clarity Money and Betterment.",
@@ -1082,175 +1261,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-02-23-this-ai-researcher-thinks-we-have-it-all-wrong.md",
-      "title": "This AI Researcher Thinks We Have It All Wrong",
-      "excerpt": "Are we too focused on data? Is what we call AI just statistics on large data sets? Is what we are doing with machine learning right now really AI?",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/02/23/this-ai-researcher-thinks-we-have-it-all-wrong/",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/02/23/this-ai-researcher-thinks-we-have-it-all-wrong/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/02/23/this-ai-researcher-thinks-we-have-it-all-wrong/amp/",
-      "publishedDateTime": "2020-02-23T07:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e5298f97a00980007340207%2F0x0.jpg",
-          "width": 700,
-          "height": 701,
-          "title": "This AI Researcher Thinks We Have It All Wrong",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-23-mohamed-bin-zayed-international-robotics-challenge-kicks-off.md",
-      "title": "Mohamed bin Zayed International Robotics Challenge kicks-off",
-      "excerpt": "Khalifa University of Science and Technology, some 32 teams are competing to establish their artificial intelligence skills in the capture of drones ABU DHABI- The US$5 million biennial international robotics competition, the Mohamed bin Zayed International Robotics Challenge 2020, MBZIRC, opened today in the nation's capital, Abu Dhabi.",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zawya.com/mena/en/life/story/Mohamed_bin_Zayed_International_Robotics_Challenge_kicksoff-WAM20200223131026553/",
-      "ampWebUrl": "https://www.zawya.com/mena/en/story/amp/WAM20200223131026553/",
-      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/WAM20200223131026553/",
-      "publishedDateTime": "2020-02-23T05:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.zawya.com/resources/img/zawya-logo-en-social.png",
-          "width": 1200,
-          "height": 878,
-          "title": "Mohamed bin Zayed International Robotics Challenge kicks-off",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-02-23-this-technique-uses-ai-to-fool-other-ais.md",
-      "title": "This Technique Uses AI to Fool Other AIs",
-      "excerpt": "Research shows how AI programs that parse and analyze text can be confused and deceived by carefully crafted phrases. A sentence that seems straightforward to you or me may have a strange ability to deceive an AI algorithm. Jin and colleagues devised an algorithm called TextFooler capable of deceiving an AI system without changing the meaning ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wired.com/story/technique-uses-ai-fool-other-ais/",
-      "ampWebUrl": "https://www.wired.com/story/technique-uses-ai-fool-other-ais/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/technique-uses-ai-fool-other-ais/amp",
-      "publishedDateTime": "2020-02-23T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5e509f9235982c0009f6eb56/master/pass/5e509f7e6b2364000910b4d9_business-deceptive_ai_text-1140942135_autoxauto_00001.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": "This Technique Uses AI to Fool Other AIs",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-22-the-case-against-ai-ux-and-coding-bootcamps.md",
-      "title": "The Case Against AI, UX, And Coding Bootcamps",
-      "excerpt": "By the year 2028, the technology industry will predictably experience a 21% rise in demand for software engineering talent, compared to a 5% growth rate for all other occupations. Traditional universities,",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/aswinpranam/2020/02/22/the-case-against-ai-ux-and-coding-bootcamps/",
-      "ampWebUrl": "https://www.forbes.com/sites/aswinpranam/2020/02/22/the-case-against-ai-ux-and-coding-bootcamps/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aswinpranam/2020/02/22/the-case-against-ai-ux-and-coding-bootcamps/amp/",
-      "publishedDateTime": "2020-02-22T14:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/711x525/https://specials-images.forbesimg.com/imageserve/1005771222/960x0.jpg?fit=scale",
-          "width": 711,
-          "height": 525,
-          "title": "The Case Against AI, UX, And Coding Bootcamps",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,95 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-04-21-how-to-improve-the-financial-services-industry-with-artificial-intelligence-and-blockchain.md",
+      "title": "How To Improve The Financial Services Industry With Artificial Intelligence And Blockchain",
+      "excerpt": "Blockchain and artificial intelligence (AI) solve different tasks, but they can work together to improve many processes in the financial services industry, from customer service to loan application reviews and payment processing.",
+      "heat": 92,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/04/21/how-to-improve-the-financial-services-industry-with-artificial-intelligence-and-blockchain/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/04/21/how-to-improve-the-financial-services-industry-with-artificial-intelligence-and-blockchain/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/04/21/how-to-improve-the-financial-services-industry-with-artificial-intelligence-and-blockchain/amp/",
+      "publishedDateTime": "2020-04-21T04:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F04%2Fa-24-2.jpg",
+          "width": 640,
+          "height": 640,
+          "title": "How To Improve The Financial Services Industry With Artificial Intelligence And Blockchain",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-21-artificial-intelligence-how-machine-learning-jobs-are-giving-refugees-a-future-in-tech.md",
+      "title": "Artificial intelligence: How machine-learning jobs are giving refugees a future in tech",
+      "excerpt": "Humans in the Loop is a social enterprise founded in 2017. It helps refugees from conflict zones like Syria, Iraq, and Afghanistan settle in the country by acquiring digital skills that they can use for working on artificial-intelligence and machine-learning-related projects. SEE: How to implement AI and machine learning (ZDNet special report ...",
+      "heat": 81,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/artificial-intelligence-how-machine-learning-jobs-are-giving-refugees-a-future-in-tech/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/artificial-intelligence-how-machine-learning-jobs-are-giving-refugees-a-future-in-tech/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/artificial-intelligence-how-machine-learning-jobs-are-giving-refugees-a-future-in-tech/",
+      "publishedDateTime": "2020-04-21T03:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2020/03/27/5b741f04-5703-4a2a-b76b-d785d75d14d2/thumbnail/1200x675/e45cf779a0407789e919a9781db17a1f/istock-1130569495.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Artificial intelligence: How machine-learning jobs are giving refugees a future in tech",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-21-checking-ai-bias-is-a-job-for-the-humans.md",
       "title": "Checking AI bias is a job for the humans",
       "excerpt": "One of the primary problems with artificial intelligence (AI) is the “artificial” part. The other is the “intelligence.” While we like to pretend that we’re setting robotic intelligences free from our human biases and other shortcomings, in reality we often transfer our failings into the AI, one dataset at a time. Hannah Davis ...",
@@ -983,94 +1072,6 @@
           "width": 1202,
           "height": 598,
           "title": "How utilities are using AI to adapt to electricity demands",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-20-brief-unlearnai-closes-12-mln-series-a-to-advance-the-use-of-digital-twins-in-clinical-trials.md",
-      "title": "BRIEF-Unlearn.Ai Closes $12 Mln Series A To Advance The Use Of Digital Twins In Clinical Trials",
-      "excerpt": "UNLEARN.AI CLOSES $12M SERIES A TO ADVANCE THE USE OF DIGITAL TWINS IN CLINICAL TRIALS * UNLEARN.AI - CLOSED A $12 MILLION SERIES A FINANCING. FINANCING ROU",
-      "heat": 75,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.reuters.com/article/brief-unlearnai-closes-12-mln-series-a-t-idUSASA00L44",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSASA00L44",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSASA00L44",
-      "publishedDateTime": "2020-04-20T05:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png",
-          "width": 1200,
-          "height": 630,
-          "title": "BRIEF-Unlearn.Ai Closes $12 Mln Series A To Advance The Use Of Digital Twins In Clinical Trials",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-20-microsoft-our-ai-can-spot-security-flaws-from-just-the-titles-of-developers-bug-reports.md",
-      "title": "Microsoft: Our AI can spot security flaws from just the titles of developers' bug reports",
-      "excerpt": "Microsoft has revealed how it's applying machine learning to the challenge of correctly identifying which bug reports are actually security-related. Its goal is to correctly identify security bugs at scale using a machine-learning model to analyze just the label of bug reports. According to Microsoft, its 47,000 developers generate about ...",
-      "heat": 78,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/microsoft-our-ai-can-spot-security-flaws-from-just-the-titles-of-developers-bug-reports/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-our-ai-can-spot-security-flaws-from-just-the-titles-of-developers-bug-reports/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-our-ai-can-spot-security-flaws-from-just-the-titles-of-developers-bug-reports/",
-      "publishedDateTime": "2020-04-20T04:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2020/03/11/dcabbbb7-b82d-4967-afd8-66b2b64ff7f8/thumbnail/1200x675/d583d73263f0adcedfde77d6f345a798/ransomware-these-sophisticated-attacks-a-5e666032710b2800019be724-1-mar-11-2020-13-21-31-poster.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Microsoft: Our AI can spot security flaws from just the titles of developers' bug reports",
           "attribution": null
         }
       ],

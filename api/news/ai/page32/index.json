@@ -2,6 +2,168 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2020-03-22-5-ai-policy-questions-our-presidential-candidates-must-address.md",
+      "title": "5 AI policy questions our presidential candidates must address",
+      "excerpt": "Our 2020 presidential candidates will be questioned about their stance on artificial intelligence (AI) policy, especially with regard to the job displacement AI could cause in manufacturing, transportation, and other industries. An over-regulation of AI could hand technical superiority to countries like China and Russia, leading to a ripple ...",
+      "heat": 92,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/03/22/5-ai-policy-questions-our-presidential-candidates-must-address/",
+      "ampWebUrl": "https://venturebeat.com/2020/03/22/5-ai-policy-questions-our-presidential-candidates-must-address/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/22/5-ai-policy-questions-our-presidential-candidates-must-address/amp/",
+      "publishedDateTime": "2020-03-22T12:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/03/AI_winter.jpg?fit=1731%2C868&strip=all",
+          "width": 1731,
+          "height": 868,
+          "title": "5 AI policy questions our presidential candidates must address",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-22-coronavirus-how-artificial-intelligence-data-science-and-technology-is-used-to-fight-the-pandemic.md",
+      "title": "Coronavirus: How Artificial Intelligence, Data Science And Technology Is Used To Fight The Pandemic",
+      "excerpt": "Robots sterilize, deliver food and supplies and perform other tasks Robots aren ... In a global pandemic such as COVID-19, technology, artificial intelligence, and data science have become critical to helping societies effectively deal with the outbreak. LinkedIn has ranked Bernard as one of the world’s top 5 business influencers.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.linkedin.com/pulse/coronavirus-how-artificial-intelligence-data-science-technology-marr",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-22T07:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4D12AQGI7E6XkSufXw/article-cover_image-shrink_720_1280/0?e=1591228800&v=beta&t=M2PNyzPyDk7Ohtl4DuJMLb1ZKN0YX1kOGbOM_uTWK2Q",
+          "width": 1080,
+          "height": 720,
+          "title": "Coronavirus: How Artificial Intelligence, Data Science And Technology Is Used To Fight The Pandemic",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-22-novel-artificial-intelligence-to-predict-tumour-response-to-drugs-study.md",
+      "title": "Novel Artificial Intelligence to predict tumour response to drugs: Study",
+      "excerpt": "Researchers have used artificial intelligence (AI) to predict the sensitivity of tumours to three systemic ... urges them to stay put whichever city they are To determine if patients with NSCLC are responding to systemic therapy, radiologists currently quantify changes in tumour size, and the appearance of new tumor lesions, Dercle noted.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.financialexpress.com/health-3/novel-artificial-intelligence-to-predict-tumour-response-to-drugs-study/1906051/",
+      "ampWebUrl": "https://www.financialexpress.com/health-3/novel-artificial-intelligence-to-predict-tumour-response-to-drugs-study/1906051/lite/",
+      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/health-3/novel-artificial-intelligence-to-predict-tumour-response-to-drugs-study/1906051/lite/",
+      "publishedDateTime": "2020-03-22T07:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Express",
+        "domain": "financialexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-22-this-ai-powered-website-builder-uses-a-few-simple-keywords-to-build-your-entire-site.md",
+      "title": "This AI-Powered Website Builder Uses a Few Simple Keywords to Build Your Entire Site",
+      "excerpt": "But do you know how to build one? The good news is that you don't need to shell out thousands on a web developer, all you need is Leia AI Website Builder. Leia makes it easy to build custom websites from scratch by using artificial intelligence. All you need is a voice description and a few keywords to create a beautiful, mobile-responsive ...",
+      "heat": 80,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.entrepreneur.com/article/347916",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/347916",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/347916",
+      "publishedDateTime": "2020-03-22T05:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/20200320061120-LeiaWebsiteBuilder.jpeg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": "This AI-Powered Website Builder Uses a Few Simple Keywords to Build Your Entire Site",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-22-artificial-intelligence-system-aimed-at-preventing-drownings.md",
       "title": "Artificial intelligence system aimed at preventing drownings",
       "excerpt": "The device resembles a stingray, except it doesn’t patrol the water in search of prey -- rather than threaten humans, it aims to save them",
@@ -1049,170 +1211,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-20-how-to-ride-the-third-wave-of-ai.md",
-      "title": "How to ride the third wave of AI",
-      "excerpt": "Object recognition is the same. Vehicles are now pretty good at recognising other vehicles and pedestrians as part of their advanced driving assistance. However, how effective it is depends on ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.itproportal.com/features/how-to-ride-the-third-wave-of-ai/",
-      "ampWebUrl": "https://www.itproportal.com/amp/features/how-to-ride-the-third-wave-of-ai/",
-      "cdnAmpWebUrl": "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/how-to-ride-the-third-wave-of-ai/",
-      "publishedDateTime": "2020-03-20T02:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro Portal",
-        "domain": "itproportal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/ruuTz8N3nacxJhaZVw8HwN-1200-80.jpg",
-          "width": 800,
-          "height": 450,
-          "title": "How to ride the third wave of AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-20-understanding-the-limits-of-convolutional-neural-networks-one-of-ais-greatest-achievements.md",
-      "title": "Understanding the limits of convolutional neural networks — one of AI’s greatest achievements",
-      "excerpt": "After a prolonged winter, artificial intelligence is experiencing a scorching summer mainly thanks to advances in deep learning and artificial neural networks. To be more precise, the renewed interest in deep learning is largely due to the success of convolutional neural networks (CNNs), a neural network structure that is especially good at ...",
-      "heat": 93,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/03/20/understanding-the-limits-of-convolutional-neural-networks-one-of-ais-greatest-achievements-syndication/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/03/20/understanding-the-limits-of-convolutional-neural-networks-one-of-ais-greatest-achievements-syndication/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/03/20/understanding-the-limits-of-convolutional-neural-networks-one-of-ais-greatest-achievements-syndication/amp/",
-      "publishedDateTime": "2020-03-20T01:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/03/Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-...-2-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "Understanding the limits of convolutional neural networks — one of AI’s greatest achievements",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-20-how-embedded-vision-and-ai-can-reduce-manufacturers-costs.md",
-      "title": "How embedded vision and AI can reduce manufacturers’ costs",
-      "excerpt": "Embedding the camera and processing onto a single device allows manufacturers to sneak embedded vision into places where computer vision technology would never fit. Image processing is more accessible and can deliver savings to total system costs. Within embedded vision systems, pre-processing and advanced processing correction tasks quickly ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.controleng.com/articles/how-embedded-vision-and-ai-can-reduce-manufacturers-costs/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-20T00:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Control Engineering",
-        "domain": "controleng.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cfemedia1.wpengine.com/wp-content/uploads/2019/07/ctlx_icon_MachineVision_Slider_01-3.jpg",
-          "width": 485,
-          "height": 260,
-          "title": "How embedded vision and AI can reduce manufacturers’ costs",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-20-huaweis-new-mid-range-phones-could-have-same-gpu-as-galaxy-s20-update.md",
-      "title": "Huawei’s new mid-range phones could have same GPU as Galaxy S20 (Update)",
-      "excerpt": "Still, it suggests that the Kirin 820 will offer even better on-device machine learning capabilities. Even if we don’t see a major AI boost, the GPU upgrade suggests that Huawei’s new mid-range phones might be ideal for gaming on a budget. Now, about building out its mobile services and AppGallery.",
-      "heat": 88,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.androidauthority.com/huawei-kirin-820-1094618/",
-      "ampWebUrl": "https://www.androidauthority.com/huawei-kirin-820-1094618/amp/",
-      "cdnAmpWebUrl": "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/huawei-kirin-820-1094618/amp/",
-      "publishedDateTime": "2020-03-19T23:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Authority",
-        "domain": "androidauthority.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn57.androidauthority.net/wp-content/uploads/2019/09/Kirin-990-with-Huawei-logo-920x470.jpg",
-          "width": 920,
-          "height": 470,
-          "title": "Huawei’s new mid-range phones could have same GPU as Galaxy S20 (Update)",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

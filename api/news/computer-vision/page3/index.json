@@ -2,6 +2,52 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-03-23-ai-in-computer-vision-market-project-to-include-more-research-development-to-attain-high-valuation.md",
+      "title": "AI in Computer Vision Market Project to Include More Research & Development to Attain High Valuation",
+      "excerpt": "AI in Computer Vision Market Research Report- Forecast till 2023 Market Highlights A boom in the increasing demand",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-project-to-include-more-research-development-to-attain-high-valuation-2020-03-23",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-23T09:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "AI in Computer Vision Market Project to Include More Research & Development to Attain High Valuation",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2020-03-20-google-taps-computer-vision-to-improve-robot-manipulation-performance.md",
       "title": "Google taps computer vision to improve robot manipulation performance",
       "excerpt": "Affordance-based manipulation is a way to reframe a manipulation task as a computer vision task. Rather than referencing pixels to object labels, it associates pixels to the value of actions. Since the structure of computer vision models and affordance models are relatively similar, techniques from transfer learning can be applied to computer ...",
@@ -1087,51 +1133,6 @@
           "width": 1200,
           "height": 630,
           "title": "The ACLU is suing government agencies over 'dystopian' facial recognition programs",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-13-glisten-uses-computer-vision-to-break-down-product-photos-to-their-most-important-parts.md",
-      "title": "Glisten uses computer vision to break down product photos to their most important parts",
-      "excerpt": "Glisten is a new startup enabling just that by using computer vision to understand and list the most important aspects of the products in any photo. Now, you may think this already exists.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/03/13/glisten-uses-computer-vision-to-break-down-fashion-photos-to-their-styles-and-parts/",
-      "ampWebUrl": "https://techcrunch.com/2020/03/13/glisten-uses-computer-vision-to-break-down-fashion-photos-to-their-styles-and-parts/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/03/13/glisten-uses-computer-vision-to-break-down-fashion-photos-to-their-styles-and-parts/amp/",
-      "publishedDateTime": "2020-03-13T14:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/03/glisten-header.jpg?w=1024",
-          "width": 1024,
-          "height": 608,
-          "title": "Glisten uses computer vision to break down product photos to their most important parts",
           "attribution": null
         }
       ],

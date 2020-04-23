@@ -2,6 +2,184 @@
   "page": 37,
   "value": [
     {
+      "path": "_news/2020-03-23-mit-csails-vista-autonomous-vehicles-simulator-transfers-skills-learned-to-the-real-world.md",
+      "title": "MIT CSAIL’s VISTA autonomous vehicles simulator transfers skills learned to the real world",
+      "excerpt": "In a recent study, researchers hailing from MIT’s Computer Science and Artificial Intelligence Laboratory and the Toyota Research Institute ... uses a real-world data set to synthesize viewpoints from trajectories a car could take. While driverless car companies including Waymo, Uber, Cruise, Aurora, and others use simulation environments ...",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/03/23/mit-csails-vista-autonomous-vehicles-simulator-transfers-skills-learned-to-the-real-world/",
+      "ampWebUrl": "https://venturebeat.com/2020/03/23/mit-csails-vista-autonomous-vehicles-simulator-transfers-skills-learned-to-the-real-world/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/23/mit-csails-vista-autonomous-vehicles-simulator-transfers-skills-learned-to-the-real-world/amp/",
+      "publishedDateTime": "2020-03-23T16:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/03/0fbe7281-0cb5-4d7c-9fc5-70e5ca1b45a0-e1585003152630.png?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "MIT CSAIL’s VISTA autonomous vehicles simulator transfers skills learned to the real world",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-23-monitoring-is-critical-to-successful-ai.md",
+      "title": "Monitoring is critical to successful AI",
+      "excerpt": "Amit Paka is co-founder and chief product officer at Fiddler Labs, an explainable AI startup that enables enterprises to deploy and scale risk- and bias-free AI applications. Krishna Gade is co-founder and CEO at Fiddler Labs, an explainable AI startup that enables enterprises to deploy and scale risk- and bias-free AI applications. As the ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/03/23/monitoring-is-critical-to-successful-ai/",
+      "ampWebUrl": "https://techcrunch.com/2020/03/23/monitoring-is-critical-to-successful-ai/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/03/23/monitoring-is-critical-to-successful-ai/amp/",
+      "publishedDateTime": "2020-03-23T15:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/03/adeolu-eletu-unRkg2jH1j0-unsplash.jpg?w=640",
+          "width": 640,
+          "height": 424,
+          "title": "Monitoring is critical to successful AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-23-softbank-nears-deal-to-invest-in-didis-self-driving-unit-the-information.md",
+      "title": "SoftBank nears deal to invest in Didi's self-driving unit: The Information",
+      "excerpt": "SoftBank said it plans to raise as much as $41 billion to buy back shares and reduce debt, in an unprecedented move to restore investor confidence as a financial market rout pummels its shares and its portfolio companies.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-softbank-group-didi/softbank-nears-deal-to-invest-in-didis-self-driving-unit-the-information-idUSKBN21A2TG",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN21A2TG",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN21A2TG",
+      "publishedDateTime": "2020-03-23T14:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200323&t=2&i=1507150339&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG2M1ON",
+          "width": 785,
+          "height": 545,
+          "title": "SoftBank nears deal to invest in Didi's self-driving unit: The Information",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-23-apple-musics-ai-generated-upbeat-playlist-helps-you-cope-with-reality.md",
+      "title": "Apple Music's AI-generated upbeat playlist helps you cope with reality",
+      "excerpt": "The playlist is rolling out this week. Apple is trying something new to keep people's spirits up during the coronavirus pandemic. In Apple Music, it's introducing a new algorithmic playlist called the Get Up! Mix that the company says is full of \"happy-making, smile-finding, sing-alonging music.\" With the help of human editors, it will update ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.engadget.com/2020-03-23-apple-music-get-up-mix.html",
+      "ampWebUrl": "https://www.engadget.com/amp/2020/03/23/apple-music-get-up-mix/",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/03/23/apple-music-get-up-mix/",
+      "publishedDateTime": "2020-03-23T13:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fresize%3D2000%252C2000%252Cshrink%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-uploaded-images%252F2020-03%252F07a201d0-6d3a-11ea-bf47-e4e4f9df29c0%26client%3Da1acac3e1b3290917d92%26signature%3D7a66d47a4dc4e944e3620250179345469011b0fd&client=amp-blogside-v2&signature=fcc19d346f99286c069caa46ba5faf0cf0a34dac",
+          "width": 600,
+          "height": 350,
+          "title": "Apple Music's AI-generated upbeat playlist helps you cope with reality",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-23-there-is-a-racial-divide-in-speech-recognition-systems-researchers-say.md",
       "title": "There Is a Racial Divide in Speech-Recognition Systems, Researchers Say",
       "excerpt": "Technology from Amazon, Apple, Google, IBM and Microsoft misidentified 35 percent of words from people who were black. Whites fared much better. SAN FRANCISCO — With an iPhone, you can dictate a text message.",
@@ -907,178 +1085,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-23-darktraces-co-ceo-on-trusting-ai-to-fight-cyberattacks-on-our-behalf.md",
-      "title": "Darktrace’s co-CEO on trusting AI to fight cyberattacks on our behalf",
-      "excerpt": "Senior Writer, Growth Quarters — Yessi leads the writing efforts at TNW’s Growth Quarters. Yessi leads the writing efforts at TNW’s Growth Quarters. Then, in September of that same year, the ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/growth-quarters/2020/03/23/darktraces-co-ceo-on-trusting-ai-to-fight-cyberattacks-on-our-behalf/",
-      "ampWebUrl": "https://thenextweb.com/growth-quarters/2020/03/23/darktraces-co-ceo-on-trusting-ai-to-fight-cyberattacks-on-our-behalf/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/growth-quarters/2020/03/23/darktraces-co-ceo-on-trusting-ai-to-fight-cyberattacks-on-our-behalf/amp/",
-      "publishedDateTime": "2020-03-23T03:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/03/darktrace-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "Darktrace’s co-CEO on trusting AI to fight cyberattacks on our behalf",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-23-how-azure-machine-learning-service-powers-suggested-replies-in-outlook.md",
-      "title": "How Azure Machine Learning service powers suggested replies in Outlook ",
-      "excerpt": "Microsoft 365 applications are so commonplace that it’s easy to overlook some of the amazing capabilities that are enabled with breakthrough technologies, including artificial intelligence (AI). Microsoft Outlook is an email client that helps you work efficiently with email, calendar, contacts, tasks,",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://azure.microsoft.com/blog/how-azure-machine-learning-service-powers-suggested-replies-in-outlook/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-23T02:00:07-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/fc79bf49-2bc6-41e8-951f-4e43e946ab06.jpg",
-          "width": 999,
-          "height": 619,
-          "title": "How Azure Machine Learning service powers suggested replies in Outlook ",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-23-a-massive-opportunity-exists-to-build-picks-and-shovels-for-machine-learning.md",
-      "title": "A Massive Opportunity Exists To Build “Picks And Shovels” For Machine Learning",
-      "excerpt": "The reward for building the next generation of developer tools for machine learning will be many billions of dollars of enterprise value.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/robtoews/2020/03/22/a-massive-opportunity-exists-to-build-picks-and-shovels-for-machine-learning/",
-      "ampWebUrl": "https://www.forbes.com/sites/robtoews/2020/03/22/a-massive-opportunity-exists-to-build-picks-and-shovels-for-machine-learning/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2020/03/22/a-massive-opportunity-exists-to-build-picks-and-shovels-for-machine-learning/amp/",
-      "publishedDateTime": "2020-03-22T20:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F959488846%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4344%26cropY1%3D575%26cropY2%3D3017",
-          "width": 1200,
-          "height": 675,
-          "title": "A Massive Opportunity Exists To Build “Picks And Shovels” For Machine Learning",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-23-aws-announces-support-for-pytorch-with-amazon-elastic-inference.md",
-      "title": "AWS Announces Support for PyTorch with Amazon Elastic Inference",
-      "excerpt": "With Amazon’s announcement, PyTorch can now work with Amazon’s SageMaker and EC2 cloud services. PyTorch is the third major deep learning framework to be supported by Amazon Elastic Inference, following in the footsteps of TensorFlow and Apache MXNet.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.datanami.com/2020/03/23/aws-announces-support-for-pytorch-with-amazon-elastic-inference/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-22T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "datanami.com",
-        "domain": "datanami.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2020/03/shutterstock_1489195400.jpg",
-          "width": 1000,
-          "height": 667,
-          "title": "AWS Announces Support for PyTorch with Amazon Elastic Inference",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

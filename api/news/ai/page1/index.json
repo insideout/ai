@@ -2,6 +2,51 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-04-23-lg-cns-trials-facial-payment-service-using-digital-currency.md",
+      "title": "LG CNS trials facial payment service using digital currency",
+      "excerpt": "It will also continue to test AI, cloud, and blockchain technologies to foster new services that promote agile work going forward, it said. In February, the company deployed a facial recognition gate service at its headquarters in Seoul. The gate solution has already been deployed to 26 different gates so far across LG CNS's headquarters ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/lg-cns-trials-facial-payment-service-using-digital-currency/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/lg-cns-trials-facial-payment-service-using-digital-currency/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/lg-cns-trials-facial-payment-service-using-digital-currency/",
+      "publishedDateTime": "2020-04-22T20:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2014/05/16/26cd255d-1d18-11e4-8c7f-00505685119a/thumbnail/1200x675/f46abd08d51d74b6af6201661736d2d0/samsung-chip-plant-giheung.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "LG CNS trials facial payment service using digital currency",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-23-global-robotics-market-impact-of-covid-19-and-volume-industrial-and-service-robotics-key-players-analysis-forecast-to-2025.md",
       "title": "Global Robotics Market (Impact of COVID-19) and Volume (Industrial and Service Robotics), Key Players Analysis - Forecast to 2025",
       "excerpt": "The Global Robotics Market was valued at around US$ 34 Billion in 2019 and the market is expected to register a double digit CAGR over the forecast period of 2020 - 2025. The market for robotics is anticipated to grow exponentially during the forecast period driven by advantages such as cost reduction,",
@@ -1026,6 +1071,50 @@
       ]
     },
     {
+      "path": "_news/2020-04-22-ai-in-medical-imaging-market-a-game-changer-in-healthcare-sector.md",
+      "title": "AI in Medical Imaging Market - A Game Changer in Healthcare Sector",
+      "excerpt": "AI in Medical Imaging Market: Introduction According to a new market report pertaining to the global AI in medical imaging",
+      "heat": 77,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/ai-in-medical-imaging-market---a-game-changer-in-healthcare-sector-2020-04-22",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-22T02:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "AI in Medical Imaging Market - A Game Changer in Healthcare Sector",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-22-how-will-service-robotics-market-deal-with-the-covid-19-crisis.md",
       "title": "How Will Service Robotics Market Deal with the COVID-19 Crisis?",
       "excerpt": "The global service robotics market is expected to rise with an impressive CAGR and generate the highest revenue by",
@@ -1237,80 +1326,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-22-intels-project-corail-monitors-coral-reef-health-with-ai.md",
-      "title": "Intel’s Project Corail monitors coral reef health with AI",
-      "excerpt": "To commemorate Earth Day, Intel — in partnership with Accenture and Sulubaaï Environmental Foundation, a Philippine-based nonprofit dedicated to protecting Palawan’s natural resources — detailed Project Corail, an AI-powered platform that monitors and analyzes the resiliency of coral reefs. Since its launch in May 2019, it’s collected ...",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/21/intels-project-corail-monitors-coral-reef-health-with-ai/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/21/intels-project-corail-monitors-coral-reef-health-with-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/21/intels-project-corail-monitors-coral-reef-health-with-ai/amp/",
-      "publishedDateTime": "2020-04-21T21:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/CORaiL_5small-e1587450236227.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Intel’s Project Corail monitors coral reef health with AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-22-mastercard-to-launch-online-course-on-digital-ethics-privacy-and-ai.md",
-      "title": "Mastercard To Launch Online Course On Digital Ethics, Privacy And AI",
-      "excerpt": "Called the Oxford Cyber Future Program, the six-week class will cover artificial intelligence, cybersecurity, threat analytics, data privacy and digital ethics, a press release states. The class partners with a number of experts related to each of those fields and aims to “reframe” the world for business leaders, teaching them to navigate ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.pymnts.com/news/security-and-risk/2020/oxford-mastercard-to-launch-online-course-on-digital-ethics-privacy-ai/",
-      "ampWebUrl": "https://www.pymnts.com/news/security-and-risk/2020/oxford-mastercard-to-launch-online-course-on-digital-ethics-privacy-ai/amp/",
-      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/security-and-risk/2020/oxford-mastercard-to-launch-online-course-on-digital-ethics-privacy-ai/amp/",
-      "publishedDateTime": "2020-04-21T20:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pymnts.com",
-        "domain": "pymnts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

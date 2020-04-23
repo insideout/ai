@@ -2,6 +2,176 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2020-03-24-how-personalization-and-machine-learning-can-improve-cancer-outreach-roi.md",
+      "title": "How personalization and machine learning can improve cancer outreach ROI",
+      "excerpt": "By using causal forests, a state-of-the-art development in machine learning, the researchers discovered that the effectiveness of outreach programs varies widely over time and across patients. For example, outreach programs in general are more effective for patients who are female, minority, in better health status, have a more frequent visit ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.eurekalert.org/pub_releases/2020-03/ama-hpa032420.php",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-24T09:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.eurekalert.org/images/EurekAlert_StackedLogo_RGB.jpg",
+          "width": 900,
+          "height": 300,
+          "title": "How personalization and machine learning can improve cancer outreach ROI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-24-satellite-images-and-artificial-intelligence-used-in-search-for-vietnam-war-era-unexploded-bombs.md",
+      "title": "Satellite images and artificial intelligence used in search for Vietnam War-era unexploded bombs",
+      "excerpt": "Researchers at Ohio State University have harnessed satellite images and sophisticated artificial intelligence technology to search for unexploded bombs from the Vietnam War.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.foxnews.com/tech/satellite-images-artificial-intelligence-search-unexploded-bombs",
+      "ampWebUrl": "https://www.foxnews.com/tech/satellite-images-artificial-intelligence-search-unexploded-bombs.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/satellite-images-artificial-intelligence-search-unexploded-bombs.amp",
+      "publishedDateTime": "2020-03-24T09:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/03/640/320/CambodiaBombingGetty1970.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": "Satellite images and artificial intelligence used in search for Vietnam War-era unexploded bombs",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-24-personal-voice-assistants-struggle-with-black-voices-new-study-shows.md",
+      "title": "Personal voice assistants struggle with black voices, new study shows",
+      "excerpt": "Microsoft had the smallest disparity; Apple had the biggest.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.theverge.com/2020/3/24/21192333/speech-recognition-amazon-microsoft-google-ibm-apple-siri-alexa-cortana-voice-assistant",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/3/24/21192333/speech-recognition-amazon-microsoft-google-ibm-apple-siri-alexa-cortana-voice-assistant",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/3/24/21192333/speech-recognition-amazon-microsoft-google-ibm-apple-siri-alexa-cortana-voice-assistant",
+      "publishedDateTime": "2020-03-24T08:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/kmesD6t87OypOMz5HA-_6k6_41Q=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66547041/dseifert_191123_3810_0011.0.jpg",
+          "width": 1400,
+          "height": 933,
+          "title": "Personal voice assistants struggle with black voices, new study shows",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-24-fritz-brings-on-device-ai-to-android-and-ios.md",
+      "title": "Fritz brings on-device AI to Android and iOS",
+      "excerpt": "Fritz AI, a startup providing an AI and machine learning development platform for Android and iOS, today announced that it has raised $5 million. CEO Dan Abdinoor says that the capital will accelerate Fritz’s expansion as it launches its product out of early access, which he asserts addresses the challenges of mobile AI for businesses with ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/03/24/fritz-on-device-ai-development-platform-for-android-and-ios/",
+      "ampWebUrl": "https://venturebeat.com/2020/03/24/fritz-on-device-ai-development-platform-for-android-and-ios/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/24/fritz-on-device-ai-development-platform-for-android-and-ios/amp/",
+      "publishedDateTime": "2020-03-24T08:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/03/1_VGALiW-R7uLVK2drc_Gcw-e1585064544156.png?fit=1134%2C567&strip=all",
+          "width": 1134,
+          "height": 567,
+          "title": "Fritz brings on-device AI to Android and iOS",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-24-making-accurate-energy-consumption-predictions-with-amazon-forecast.md",
       "title": "Making accurate energy consumption predictions with Amazon Forecast",
       "excerpt": "Amazon Forecast is a fully managed service that uses machine learning (ML) to generate highly accurate forecasts, without requiring any prior ML experience. Forecast is applicable in a wide variety of use cases, including energy demand forecasting, estimating product demand, workforce planning, and computing",
@@ -1050,185 +1220,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-23-monitoring-is-critical-to-successful-ai.md",
-      "title": "Monitoring is critical to successful AI",
-      "excerpt": "Amit Paka is co-founder and chief product officer at Fiddler Labs, an explainable AI startup that enables enterprises to deploy and scale risk- and bias-free AI applications. Krishna Gade is co-founder and CEO at Fiddler Labs, an explainable AI startup that enables enterprises to deploy and scale risk- and bias-free AI applications. As the ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/03/23/monitoring-is-critical-to-successful-ai/",
-      "ampWebUrl": "https://techcrunch.com/2020/03/23/monitoring-is-critical-to-successful-ai/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/03/23/monitoring-is-critical-to-successful-ai/amp/",
-      "publishedDateTime": "2020-03-23T15:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/03/adeolu-eletu-unRkg2jH1j0-unsplash.jpg?w=640",
-          "width": 640,
-          "height": 424,
-          "title": "Monitoring is critical to successful AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-23-softbank-nears-deal-to-invest-in-didis-self-driving-unit-the-information.md",
-      "title": "SoftBank nears deal to invest in Didi's self-driving unit: The Information",
-      "excerpt": "SoftBank said it plans to raise as much as $41 billion to buy back shares and reduce debt, in an unprecedented move to restore investor confidence as a financial market rout pummels its shares and its portfolio companies.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.reuters.com/article/us-softbank-group-didi/softbank-nears-deal-to-invest-in-didis-self-driving-unit-the-information-idUSKBN21A2TG",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN21A2TG",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN21A2TG",
-      "publishedDateTime": "2020-03-23T14:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200323&t=2&i=1507150339&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG2M1ON",
-          "width": 785,
-          "height": 545,
-          "title": "SoftBank nears deal to invest in Didi's self-driving unit: The Information",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-23-apple-musics-ai-generated-upbeat-playlist-helps-you-cope-with-reality.md",
-      "title": "Apple Music's AI-generated upbeat playlist helps you cope with reality",
-      "excerpt": "The playlist is rolling out this week. Apple is trying something new to keep people's spirits up during the coronavirus pandemic. In Apple Music, it's introducing a new algorithmic playlist called the Get Up! Mix that the company says is full of \"happy-making, smile-finding, sing-alonging music.\" With the help of human editors, it will update ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.engadget.com/2020-03-23-apple-music-get-up-mix.html",
-      "ampWebUrl": "https://www.engadget.com/amp/2020/03/23/apple-music-get-up-mix/",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/03/23/apple-music-get-up-mix/",
-      "publishedDateTime": "2020-03-23T13:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fresize%3D2000%252C2000%252Cshrink%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-uploaded-images%252F2020-03%252F07a201d0-6d3a-11ea-bf47-e4e4f9df29c0%26client%3Da1acac3e1b3290917d92%26signature%3D7a66d47a4dc4e944e3620250179345469011b0fd&client=amp-blogside-v2&signature=fcc19d346f99286c069caa46ba5faf0cf0a34dac",
-          "width": 600,
-          "height": 350,
-          "title": "Apple Music's AI-generated upbeat playlist helps you cope with reality",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-23-there-is-a-racial-divide-in-speech-recognition-systems-researchers-say.md",
-      "title": "There Is a Racial Divide in Speech-Recognition Systems, Researchers Say",
-      "excerpt": "Technology from Amazon, Apple, Google, IBM and Microsoft misidentified 35 percent of words from people who were black. Whites fared much better. SAN FRANCISCO — With an iPhone, you can dictate a text message.",
-      "heat": 86,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nytimes.com/2020/03/23/technology/speech-recognition-bias-apple-amazon-google.html",
-      "ampWebUrl": "https://www.nytimes.com/2020/03/23/technology/speech-recognition-bias-apple-amazon-google.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/03/23/technology/speech-recognition-bias-apple-amazon-google.amp.html",
-      "publishedDateTime": "2020-03-23T12:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/03/19/business/00speechbias1/merlin_161494506_df529ece-4549-4890-866d-bc00b148d3eb-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": "There Is a Racial Divide in Speech-Recognition Systems, Researchers Say",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

@@ -2,6 +2,51 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-03-13-glisten-uses-computer-vision-to-break-down-product-photos-to-their-most-important-parts.md",
+      "title": "Glisten uses computer vision to break down product photos to their most important parts",
+      "excerpt": "Glisten is a new startup enabling just that by using computer vision to understand and list the most important aspects of the products in any photo. Now, you may think this already exists.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/03/13/glisten-uses-computer-vision-to-break-down-fashion-photos-to-their-styles-and-parts/",
+      "ampWebUrl": "https://techcrunch.com/2020/03/13/glisten-uses-computer-vision-to-break-down-fashion-photos-to-their-styles-and-parts/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/03/13/glisten-uses-computer-vision-to-break-down-fashion-photos-to-their-styles-and-parts/amp/",
+      "publishedDateTime": "2020-03-13T14:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/03/glisten-header.jpg?w=1024",
+          "width": 1024,
+          "height": 608,
+          "title": "Glisten uses computer vision to break down product photos to their most important parts",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-13-aclu-sues-us-government-over-its-use-of-facial-recognition-at-airports.md",
       "title": "ACLU sues US government over its use of facial recognition at airports",
       "excerpt": "The American Civil Liberties Union is suing the US government over its failure to reveal details about the use of facial recognition at airports. On Thursday, the ACLU and the New York Civil Liberties Union filed a lawsuit asking a federal court to order a range of federal agencies to hand over their records about the tech’s usage at airports.",
@@ -1115,43 +1160,6 @@
         "authors": null
       },
       "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-05-neural-hardware-for-image-recognition-in-nanoseconds.md",
-      "title": "Neural hardware for image recognition in nanoseconds",
-      "excerpt": "This makes object recognition many orders of magnitude faster.\" The chip was developed and manufactured at the TU Vienna. It is based on photodetectors made of tungsten diselenide - an ultra-thin ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.eurekalert.org/pub_releases/2020-03/vuot-nhf030520.php",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-05T08:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.eurekalert.org/multimedia/pub/web/226224_web.jpg",
-          "width": 1440,
-          "height": 1177,
-          "title": "Neural hardware for image recognition in nanoseconds",
-          "attribution": null
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"

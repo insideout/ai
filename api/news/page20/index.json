@@ -2,6 +2,170 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2020-04-04-artificial-or-human-intelligence-companies-faking-ai.md",
+      "title": "Artificial Or Human Intelligence? Companies Faking AI",
+      "excerpt": "Some companies are choosing to approach these AI challenges not by scaling back their AI ambitions, but rather by using humans to do the task that they are otherwise trying to get their AI systems to",
+      "heat": 93,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/04/04/artificial-or-human-intelligence-companies-faking-ai/",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/04/04/artificial-or-human-intelligence-companies-faking-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/04/04/artificial-or-human-intelligence-companies-faking-ai/amp/",
+      "publishedDateTime": "2020-04-04T13:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1126179832%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6480%26cropY1%3D292%26cropY2%3D3936",
+          "width": 1200,
+          "height": 675,
+          "title": "Artificial Or Human Intelligence? Companies Faking AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI Ethics",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-04-04-ai-runs-smack-up-against-a-big-data-problem-in-covid-19-diagnosis.md",
+      "title": "AI runs smack up against a big data problem in COVID-19 diagnosis",
+      "excerpt": "The painful lack of data is evident in one particular use case for AI, the development of diagnostic tests for COVID-19 based on X-rays or on \"computed tomography\" scans of the lungs. While definitive tests for the disease are genetic tests, called \"RT-PCR,\" those tests have been in notoriously short supply in many parts of the world ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/ai-runs-smack-up-against-a-big-data-problem-in-covid-19-diagnosis/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-runs-smack-up-against-a-big-data-problem-in-covid-19-diagnosis/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-runs-smack-up-against-a-big-data-problem-in-covid-19-diagnosis/",
+      "publishedDateTime": "2020-04-04T10:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/04/04/a10b8efd-942e-47c4-b084-7af8ea2c6e20/qure-ai-covid-19-lung-xray-april-2020.png",
+          "width": 941,
+          "height": 682,
+          "title": "AI runs smack up against a big data problem in COVID-19 diagnosis",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-04-3-high-yield-tech-stocks-to-buy-in-april.md",
+      "title": "3 High-Yield Tech Stocks to Buy in April",
+      "excerpt": "As more people work from home, stream media, and use cloud-based services, data centers must expand their ... IBM's new CEO Arvind Krishna, who previously led the higher-growth Cloud and Cognitive Software unit, could also expand Big Blue's public cloud business to challenge Amazon and Microsoft. Those changes could offset the slower growth ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nasdaq.com/articles/3-high-yield-tech-stocks-to-buy-in-april-2020-04-04",
+      "ampWebUrl": "https://www.nasdaq.com/articles/3-high-yield-tech-stocks-to-buy-in-april-2020-04-04?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-high-yield-tech-stocks-to-buy-in-april-2020-04-04?amp",
+      "publishedDateTime": "2020-04-04T10:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-04-apple-snatches-ai-startup-to-smarten-siri.md",
+      "title": "Apple Snatches AI Startup to Smarten Siri",
+      "excerpt": "Apple has acquired another artificial intelligence startup, according to Bloomberg. Voysis, a Dublin-based startup, will join Apple and aim to improve Siri's ability to understand a person's natural language. It focused on shopping-related voice commands ...",
+      "heat": 107,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.pcmag.com/news/apple-snatches-ai-startup-to-smarten-siri",
+      "ampWebUrl": "https://www.pcmag.com/news/apple-snatches-ai-startup-to-smarten-siri?amp=true",
+      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/apple-snatches-ai-startup-to-smarten-siri?amp=true",
+      "publishedDateTime": "2020-04-04T10:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/05I7zWUEgab2mvbAzO1x3cC-2.fit_lim.size_1200x630.v_1586015093.png",
+          "width": 1120,
+          "height": 630,
+          "title": "Apple Snatches AI Startup to Smarten Siri",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-04-velodyne-lidar-accused-of-using-pandemic-as-excuse-for-big-job-cuts.md",
       "title": "Velodyne Lidar accused of using pandemic as excuse for big job cuts",
       "excerpt": "Businesses everywhere are shedding jobs because of #COVID-19. One San Jose company, Velodyne Lidar, is being accused in a federal lawsuit of using the #pandememic as an excuse to cut 140 jobs on a day's notice as cover to move them overseas.",
@@ -856,169 +1020,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-03-the-venerable-upstream-parable-helps-in-these-trying-times-and-applies-to-the-future-of-ai-self-driving-cars.md",
-      "title": "The Venerable Upstream Parable Helps In These Trying Times, And Applies To The Future Of AI Self-Driving Cars",
-      "excerpt": "Some of you might be familiar with a parable that many refer to as the Upstream Parable or alternatively the River Story. Attributed to various originating sources, some believe it was initially brought up in the 1930s by Saul Alinksy,",
-      "heat": 70,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/04/03/the-venerable-upstream-parable-helps-in-these-trying-times-and-applies-to-the-future-of-ai-self-driving-cars/",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/04/03/the-venerable-upstream-parable-helps-in-these-trying-times-and-applies-to-the-future-of-ai-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/04/03/the-venerable-upstream-parable-helps-in-these-trying-times-and-applies-to-the-future-of-ai-self-driving-cars/amp/",
-      "publishedDateTime": "2020-04-03T09:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F502060284%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D7360%26cropY1%3D385%26cropY2%3D4523",
-          "width": 1200,
-          "height": 675,
-          "title": "The Venerable Upstream Parable Helps In These Trying Times, And Applies To The Future Of AI Self-Driving Cars",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-03-98point6-raises-43-million-to-expand-its-ai-powered-telehealth-service.md",
-      "title": "98point6 raises $43 million to expand its AI-powered telehealth service",
-      "excerpt": "98point6, a telemedical startup whose platform pairs clinicians with AI to provide text-based care, today announced that it secured $40 million in financing. CEO Robbie Cape, a former Microsoft executive and the founder of the family organization company Cozi, said the capital would be used to hire three times more physicians by the end of April.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/03/98point6-raises-43-million-to-expand-its-ai-powered-telehealth-service/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/03/98point6-raises-43-million-to-expand-its-ai-powered-telehealth-service/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/03/98point6-raises-43-million-to-expand-its-ai-powered-telehealth-service/amp/",
-      "publishedDateTime": "2020-04-03T09:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/10/254d1bd4-41d8-4081-8bc9-2f7cb51956b3-e1585848851613.png?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "98point6 raises $43 million to expand its AI-powered telehealth service",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-03-infragistics-adds-predictive-analytics-machine-learning-and-more-to-reveal-embedded-business-intelligence-tool.md",
-      "title": "Infragistics Adds Predictive Analytics, Machine Learning and More to Reveal Embedded Business Intelligence Tool",
-      "excerpt": "Reveal's new machine learning feature identifies and visually displays predictions from user data to enable more educated business-decision making. Reveal reads data from Microsoft Azure and ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.globenewswire.com/news-release/2020/04/03/2011600/0/en/Infragistics-Adds-Predictive-Analytics-Machine-Learning-and-More-to-Reveal-Embedded-Business-Intelligence-Tool.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-03T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GlobeNewswire",
-        "domain": "globenewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-03-experimental-covid-19-test-attempts-to-use-your-voice-to-check-for-symptoms.md",
-      "title": "Experimental COVID-19 test attempts to use your voice to check for symptoms",
-      "excerpt": "That’s why a research team at Carnegie Mellon University developed a cheaper, more accessible way to potentially detect signs of the virus: voice detection (h/t: Futurism). The team has been working on this solution for a while, and now it has released an early version of a web app called the COVID Voice Detector. The app uses an in-house ...",
-      "heat": 72,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.androidauthority.com/experimental-coronavirus-test-voice-recognition-1102427/",
-      "ampWebUrl": "https://www.androidauthority.com/experimental-coronavirus-test-voice-recognition-1102427/amp/",
-      "cdnAmpWebUrl": "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/experimental-coronavirus-test-voice-recognition-1102427/amp/",
-      "publishedDateTime": "2020-04-03T08:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Authority",
-        "domain": "androidauthority.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn57.androidauthority.net/wp-content/uploads/2019/10/Pixel-4-XL-back-in-hand-2-920x470.jpg",
-          "width": 920,
-          "height": 470,
-          "title": "Experimental COVID-19 test attempts to use your voice to check for symptoms",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

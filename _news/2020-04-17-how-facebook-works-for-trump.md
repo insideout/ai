@@ -22,6 +22,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - Facebook AI
 
 images:
   - url: "https://cdn.theatlantic.com/thumbor/tUyia50nMKcThmFLEx4TGD5fU-o=/0x85:2000x1210/570x321/media/img/mt/2020/04/WebArt_IanBogost_FacebookTrump_1/original.jpg"

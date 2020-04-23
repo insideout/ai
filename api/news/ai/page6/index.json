@@ -2,6 +2,95 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-04-16-ai-spots-critical-microsoft-security-bugs-97-of-the-time.md",
+      "title": "AI spots critical Microsoft security bugs 97% of the time",
+      "excerpt": "Microsoft isn’t the only tech giant using AI to weed out software bugs. Amazon’s CodeGuru service, which was partly trained on code reviews and apps developed internally at Amazon, spots issues including resource leaks and wasted CPU cycles. As for Facebook, it developed a tool called SapFix that generates fixes for bugs before sending them ...",
+      "heat": 97,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/16/ai-spots-critical-microsoft-security-bugs-97-of-the-time/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/16/ai-spots-critical-microsoft-security-bugs-97-of-the-time/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/16/ai-spots-critical-microsoft-security-bugs-97-of-the-time/amp/",
+      "publishedDateTime": "2020-04-16T10:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/11/microsoft-1-e1580261336710.jpg?fit=1200%2C573&strip=all",
+          "width": 1200,
+          "height": 573,
+          "title": "AI spots critical Microsoft security bugs 97% of the time",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-16-ibm-introduces-ground-breaking-ai-astronaut-assistant.md",
+      "title": "IBM introduces ground-breaking AI astronaut assistant",
+      "excerpt": "The latest version of the artificial intelligence-powered astronaut assistant, CIMON-2, powered by IBM Watson technologies, was both successfully launched (December 5, 2019) and deployed (February 2020), signifying CIMON-2's completion of the next step in its research on the effects of stress and isolation during long-term missions.",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/article/ibm-introduces-ground-breaking-ai-astronaut-assistant/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ibm-introduces-ground-breaking-ai-astronaut-assistant/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ibm-introduces-ground-breaking-ai-astronaut-assistant/",
+      "publishedDateTime": "2020-04-16T10:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr4.cbsistatic.com/hub/i/r/2019/11/21/74f82f4c-9bf0-45d0-b25b-dc531bda7522/thumbnail/1200x675/d6c68e9704c02b8e85ffd06c329c02c0/20191031-veronica-karen.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "IBM introduces ground-breaking AI astronaut assistant",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-16-former-fbi-agent-of-25-years-explains-how-to-speed-read-body-languagenow-that-were-wearing-face-masks.md",
       "title": "Former FBI agent of 25 years explains how to 'speed-read' body language—now that we're wearing face masks",
       "excerpt": "Our facial expressions reflect our current emotional conditions. But now that many of us are required to wear face masks (to prevent the spread of coronavirus), detecting each other's thoughts and feelings can be tricky.",
@@ -819,6 +908,43 @@
       ]
     },
     {
+      "path": "_news/2020-04-16-roboads-inc-uae-robotics-startup-develops-new-generation-of-service-robots-to-aid-medical-and-security-staff-on-coronavirus-frontline.md",
+      "title": "RoboAds Inc., UAE Robotics Startup, Develops New Generation of Service Robots to Aid Medical and Security Staff on Coronavirus Frontline",
+      "excerpt": "UAE based Robotics startup, RoboAds Inc., has developed a new generation of telepresence robots to aid healthcare and security staff on",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.prnewswire.com/ae/news-releases/roboads-inc-uae-robotics-startup-develops-new-generation-of-service-robots-to-aid-medical-and-security-staff-on-coronavirus-frontline-301041045.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-16T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1155067/RoboAds_Inc_Service.jpg?p=facebook",
+          "width": 1920,
+          "height": 1005,
+          "title": "RoboAds Inc., UAE Robotics Startup, Develops New Generation of Service Robots to Aid Medical and Security Staff on Coronavirus Frontline",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-16-global-artificial-intelligence-ai-in-healthcare-market-growth-size-share-trends-status-and-forecast-2020-2027.md",
       "title": "Global Artificial Intelligence (AI) in Healthcare Market Growth, Size, Share, Trends, Status and Forecast 2020-2027",
       "excerpt": "A new research report titled “Global Artificial Intelligence (AI) in Healthcare market” successfully exhibits the complete scenario of the global and an individual analysis of the various regional segments.",
@@ -1166,139 +1292,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-16-three-platforms-where-ai-bias-lives.md",
-      "title": "Three Platforms Where AI Bias Lives",
-      "excerpt": "Google made the decision to prevent its “Smart Compose”—a feature that predicts what users intend to write in emails and auto-completes sentences—from suggesting gender-based pronouns such as “him”, her”,",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/falonfatemi/2020/04/15/three-platforms-where-ai-bias-lives/",
-      "ampWebUrl": "https://www.forbes.com/sites/falonfatemi/2020/04/15/three-platforms-where-ai-bias-lives/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/falonfatemi/2020/04/15/three-platforms-where-ai-bias-lives/amp/",
-      "publishedDateTime": "2020-04-15T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1158763612%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5616%26cropY1%3D585%26cropY2%3D3744",
-          "width": 1200,
-          "height": 675,
-          "title": "Three Platforms Where AI Bias Lives",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-15-medopad-rebrands-to-huma-makes-acquisitions-to-bolster-its-ai-health-monitoring-portfolio.md",
-      "title": "Medopad rebrands to Huma, makes acquisitions to bolster its AI health monitoring portfolio",
-      "excerpt": "Digital health company Medopad today announced that it’s rebranding to Huma and acquiring two companies — BioBeats and Tarilian Laser Technologies (TLT) — to add support for new biomarkers to its AI-powered patient monitoring platform. When contacted for comment, a Huma spokesperson declined to disclose the purchase price for the two ...",
-      "heat": 77,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/15/medopad-rebrands-to-huma-makes-acquisitions-to-bolster-its-ai-health-monitoring-portfolio/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/15/medopad-rebrands-to-huma-makes-acquisitions-to-bolster-its-ai-health-monitoring-portfolio/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/15/medopad-rebrands-to-huma-makes-acquisitions-to-bolster-its-ai-health-monitoring-portfolio/amp/",
-      "publishedDateTime": "2020-04-15T16:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/6508d40a-448c-44b3-bd7d-3ec135ba2e54-e1585776810679.png?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Medopad rebrands to Huma, makes acquisitions to bolster its AI health monitoring portfolio",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-15-us-self-driving-car-startup-zoox-agrees-to-settle-lawsuit-with-tesla.md",
-      "title": "U.S. self-driving car startup Zoox agrees to settle lawsuit with Tesla",
-      "excerpt": "Zoox Inc said on Tuesday it had settled a lawsuit with Tesla Inc after admitting that some new hires from the carmaker were in possession of certain Tesla documents when they joined the U.S. self-driving car startup.",
-      "heat": 119,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.reuters.com/article/us-tesla-lawsuit-zoox-idUSKCN21X034",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKCN21X034",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN21X034",
-      "publishedDateTime": "2020-04-15T15:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200415&t=2&i=1515214860&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG3E01H",
-          "width": 766,
-          "height": 545,
-          "title": "U.S. self-driving car startup Zoox agrees to settle lawsuit with Tesla",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

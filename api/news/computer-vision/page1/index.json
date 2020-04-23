@@ -2,6 +2,51 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-04-23-lg-cns-trials-facial-payment-service-using-digital-currency.md",
+      "title": "LG CNS trials facial payment service using digital currency",
+      "excerpt": "It will also continue to test AI, cloud, and blockchain technologies to foster new services that promote agile work going forward, it said. In February, the company deployed a facial recognition gate service at its headquarters in Seoul. The gate solution has already been deployed to 26 different gates so far across LG CNS's headquarters ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/lg-cns-trials-facial-payment-service-using-digital-currency/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/lg-cns-trials-facial-payment-service-using-digital-currency/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/lg-cns-trials-facial-payment-service-using-digital-currency/",
+      "publishedDateTime": "2020-04-22T20:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2014/05/16/26cd255d-1d18-11e4-8c7f-00505685119a/thumbnail/1200x675/f46abd08d51d74b6af6201661736d2d0/samsung-chip-plant-giheung.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "LG CNS trials facial payment service using digital currency",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-20-vietnamese-smartphone-makers-devices-will-offer-mask-facial-recognition.md",
       "title": "Vietnamese Smartphone Maker’s Devices Will Offer Mask Facial Recognition",
       "excerpt": "Vingroup’s device unit VinSmart will add facial recognition capabilities to its smartphones that can identify users wearing masks, the company said in an emailed statement.",
@@ -1164,51 +1209,6 @@
         "authors": null
       },
       "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-02-washington-state-passes-microsoft-approved-facial-recognition-laws.md",
-      "title": "Washington state passes Microsoft-approved facial recognition laws",
-      "excerpt": "Washington state has adopted sweeping facial recognition laws seen as a national model, much to the pleasure of Microsoft president Bill Smith. “This legislation represents a significant breakthrough — the first time a state or nation has passed a new law devoted exclusively to putting guardrails in place for the use of facial recognition ...",
-      "heat": 109,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/04/02/washington-state-passes-microsoft-approved-facial-recognition-laws/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/04/02/washington-state-passes-microsoft-approved-facial-recognition-laws/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/04/02/washington-state-passes-microsoft-approved-facial-recognition-laws/amp/",
-      "publishedDateTime": "2020-04-02T07:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/04/Untitled-design47-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "Washington state passes Microsoft-approved facial recognition laws",
-          "attribution": null
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"

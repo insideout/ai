@@ -2,6 +2,87 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-04-20-this-app-uses-ai-to-screen-for-covid-19-in-rural-areas-future-blink.md",
+      "title": "This app uses AI to screen for COVID-19 in rural areas — Future Blink",
+      "excerpt": "Mashable is a global, multi-platform media and entertainment company. Powered by its own proprietary technology, Mashable is the go-to source for tech, digital culture and entertainment content for its dedicated and influential audience around the globe. ©2020 Mashable, Inc. All Rights Reserved. Mashable, MashBash and Mashable House are among ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://mashable.com/video/ai-app-screens-for-covid19/",
+      "ampWebUrl": "https://mashable.com/video/ai-app-screens-for-covid19.amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/video/ai-app-screens-for-covid19.amp",
+      "publishedDateTime": "2020-04-20T12:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mondrian.mashable.com/2020%252F04%252F20%252Fb3%252Fdafac5d3f3764c8a96f87cd2a4afc970.5f8ea.png%252F1200x630.png?signature=qoiUcCOJbh6-a14QFdtgUst3UJM=",
+          "width": 1200,
+          "height": 630,
+          "title": "This app uses AI to screen for COVID-19 in rural areas — Future Blink",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-20-allergy-insights-with-watson-uses-ai-to-predict-allergy-symptom-risk.md",
+      "title": "Allergy Insights with Watson uses AI to predict allergy symptom risk",
+      "excerpt": "IBM today announced a new tool that taps AI to predict when allergy symptoms are likely to flare up. It’s called Allergy Insights with Watson, and it’s available in The Weather Channel app for iOS and Android ahead of a launch on the web. In addition to a 15-day forecast that predicts allergy symptom risk (e.g., high, moderate, low ...",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/20/allergy-insights-with-watson-uses-ai-to-predict-allergy-symptom-risk/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/20/allergy-insights-with-watson-uses-ai-to-predict-allergy-symptom-risk/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/20/allergy-insights-with-watson-uses-ai-to-predict-allergy-symptom-risk/amp/",
+      "publishedDateTime": "2020-04-20T12:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/11/ibm-keyboard-logo.png?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Allergy Insights with Watson uses AI to predict allergy symptom risk",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-20-contactless-delivery-using-self-driving-cars-coming-to-irvine-ca-amid-coronavirus.md",
       "title": "Contactless delivery using self-driving cars coming to Irvine, CA amid coronavirus",
       "excerpt": "For the most up-to-date news and information about the coronavirus pandemic, visit the WHO website . A Toyota-backed self-driving car startup will soon jump into the and contactless delivery game. Pony.",
@@ -1176,88 +1257,6 @@
           "width": 1200,
           "height": 675,
           "title": "This Doctor From Kashmir Uses Machine Learning To Crunch Coronavirus Data",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-19-energy-industry-turning-to-robotics-to-inspect-infrastructure.md",
-      "title": "Energy industry turning to robotics to inspect infrastructure",
-      "excerpt": "Gecko Robotics is providing the energy industry with artificial intelligence-enabled robots to inspect infrastructure and supply massive amounts of data to help predict failures before they occur.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.mrt.com/business/oil/article/Energy-industry-turning-to-robotics-to-inspect-15210735.php",
-      "ampWebUrl": "https://www.mrt.com/business/oil/amp/Energy-industry-turning-to-robotics-to-inspect-15210735.php",
-      "cdnAmpWebUrl": "https://www-mrt-com.cdn.ampproject.org/c/s/www.mrt.com/business/oil/amp/Energy-industry-turning-to-robotics-to-inspect-15210735.php",
-      "publishedDateTime": "2020-04-18T20:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Midland Reporter-Telegram",
-        "domain": "mrt.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png",
-          "width": 375,
-          "height": 211,
-          "title": "Energy industry turning to robotics to inspect infrastructure",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-19-does-this-7000-year-old-poop-belong-to-a-human-or-dog-machine-learning-has-the-answer.md",
-      "title": "Does This 7,000-Year-Old Poop Belong to a Human or Dog? Machine Learning Has the Answer",
-      "excerpt": "As outlined in the new paper, coproID uses machine learning software to compare ancient host DNA with DNA in modern feces, enabling it to distinguish between the two hosts in most cases. “CoproID is the first line of identification in coprolite analysis to confirm that what we’re looking for is actually human, or a dog if we’re interested ...",
-      "heat": 91,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.vice.com/en_au/article/jge7j4/does-this-7000-year-old-poop-belong-to-a-human-or-dog-machine-learning-has-the-answer",
-      "ampWebUrl": "https://www.vice.com/amp/en_au/article/jge7j4/does-this-7000-year-old-poop-belong-to-a-human-or-dog-machine-learning-has-the-answer",
-      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_au/article/jge7j4/does-this-7000-year-old-poop-belong-to-a-human-or-dog-machine-learning-has-the-answer",
-      "publishedDateTime": "2020-04-18T19:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VICE",
-        "domain": "vice.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/vice.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://video-images.vice.com/test-uploads/articles/5e98c20ac7e9d80099d6d452/lede/1587070293609-229163_web.jpeg?crop=1xw:0.8446298227320125xh;center,center",
-          "width": 1440,
-          "height": 810,
-          "title": "Does This 7,000-Year-Old Poop Belong to a Human or Dog? Machine Learning Has the Answer",
           "attribution": null
         }
       ],
