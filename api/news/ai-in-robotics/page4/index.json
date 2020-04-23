@@ -2,6 +2,43 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-03-12-global-trust-asset-management-llc-acquires-shares-of-7600-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt.md",
+      "title": "Global Trust Asset Management LLC Acquires Shares of 7,600 First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT)",
+      "excerpt": "Global Trust Asset Management LLC acquired a new stake in First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT) during the 4th quarter, according to its most recent filing with the SEC. The institutional investor acquired 7,600 shares of the company’s stock, valued at approximately $261,000. Global Trust Asset Management ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://theenterpriseleader.com/2020/03/11/global-trust-asset-management-llc-acquires-shares-of-7600-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt.html",
+      "ampWebUrl": "https://theenterpriseleader.com/2020/03/11/global-trust-asset-management-llc-acquires-shares-of-7600-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt.html/amp",
+      "cdnAmpWebUrl": "https://theenterpriseleader-com.cdn.ampproject.org/c/s/theenterpriseleader.com/2020/03/11/global-trust-asset-management-llc-acquires-shares-of-7600-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt.html/amp",
+      "publishedDateTime": "2020-03-11T17:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theenterpriseleader.com",
+        "domain": "theenterpriseleader.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.marketbeat.com/logos/generic-stocks.jpg",
+          "width": 450,
+          "height": 323,
+          "title": "Global Trust Asset Management LLC Acquires Shares of 7,600 First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT)",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-11-abb-partners-with-covariant-for-integrated-ai-robotic-solutions.md",
       "title": "ABB partners with Covariant for integrated AI robotic solutions",
       "excerpt": "ABB and Silicon Valley AI start-up, Covariant, have partnered up to bring AI-enabled robotics solutions to market, starting with a fully autonomous warehouse order fulfillment solution. According to ABB, the partnership brings together the two companies with a vision for robotics enabled by AI, where intelligent robots work alongside humans in ...",
@@ -1120,51 +1157,6 @@
           "width": 1200,
           "height": 630,
           "title": "BRIEF-ABB Announces Partnership with AI Start-Up",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-02-24-we-should-learn-how-to-collaborate-with-robots-before-it-will-be-too-late.md",
-      "title": "We should learn how to collaborate with robots before it will be too late!",
-      "excerpt": "Much has been said about how automation processes can render a large number of jobs obsolete. After all, the opportunities for technologies involving robotics and artificial intelligence have grown exponentially, and workers around the world have been anxious about how this new era of automation can affect their careers. The concerns of ...",
-      "heat": 77,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/tech-cult-heartbeat/you-must-learn-how-to-collaborate-with-robots-before-its-too-late-fed039aec0eb",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-24T15:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/1200/0*p91_g07JY33ibncb.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "We should learn how to collaborate with robots before it will be too late!",
           "attribution": null
         }
       ],

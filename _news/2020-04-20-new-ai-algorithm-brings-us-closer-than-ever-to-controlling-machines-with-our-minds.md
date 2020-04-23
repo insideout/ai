@@ -8,7 +8,7 @@ ampWebUrl: "https://thenextweb.com/neural/2020/04/20/new-ai-algorithm-brings-us-
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/04/20/new-ai-algorithm-brings-us-closer-than-ever-to-controlling-machines-with-our-minds/amp/"
 type: article
 quality: 83
-heat: 84
+heat: 83
 published: true
 
 provider:

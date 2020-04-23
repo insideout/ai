@@ -211,7 +211,7 @@
       "path": "_news/2020-04-20-the-station-ponyai-turns-to-delivery-kodiak-cuts-lime-snaps-up-boosteds-ip.md",
       "title": "The Station: Pony.ai turns to delivery, Kodiak cuts, Lime snaps up Boosted’s IP",
       "excerpt": "Pony .ai is the latest autonomous vehicle startup to turn its efforts to delivery — at least temporarily. The company announced this week it will partner with e-commerce platform Yamibuy to ...",
-      "heat": 84,
+      "heat": 83,
       "tags": null,
       "type": "article",
       "webUrl": "https://techcrunch.com/2020/04/20/the-station-pony-ai-turns-to-delivery-kodiak-cuts-lime-snaps-up-boosteds-ip/",
@@ -432,7 +432,7 @@
       "path": "_news/2020-04-20-facebook-partners-up-with-researchers-to-fight-covid-19-using-ai.md",
       "title": "Facebook Partners Up With Researchers To Fight COVID -19 Using AI",
       "excerpt": "To that end, Facebook AI has partnered up with academic researchers and other experts on a slew of ... Facebook has also partnered up with the Mila research institute in Montreal to share predictive, causal, and decision algorithms to effectively analyze clinical data. Facebook says it’s important for public health experts to understand ...",
-      "heat": 90,
+      "heat": 89,
       "tags": null,
       "type": "article",
       "webUrl": "https://in.mashable.com/tech/13299/facebook-partners-up-with-researchers-to-fight-covid-19-using-ai",
@@ -1017,50 +1017,6 @@
       ]
     },
     {
-      "path": "_news/2020-04-19-have-1000-to-invest-buy-these-2-artificial-intelligence-stocks-now.md",
-      "title": "Have $1,000 to Invest? Buy These 2 Artificial Intelligence Stocks Now",
-      "excerpt": "Artificial intelligence (AI) -- the capability of a machine to mimic intelligent human behavior -- is a huge growth trend. The tech is being used to smarten up countless things large and small -- from cities and homes to cars and computers to factory equipment and healthcare diagnostic tools. One research firm, IDC, estimates that spending on ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.fool.com/investing/2020/04/19/have-1000-to-invest-buy-these-2-artificial-intelli.aspx?source=eptcnnlnk0000002",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/04/19/have-1000-to-invest-buy-these-2-artificial-intelli.aspx",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/04/19/have-1000-to-invest-buy-these-2-artificial-intelli.aspx",
-      "publishedDateTime": "2020-04-19T16:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F568387%2Fbest-ai-stocks-best-artificial-intelligence-stocks-2020-amzn-syock-amazon-stock-nvda-stock-nvidia-stock-goog-stock-google-stock-alphabet-stock-evbg-stock-everbright-stock.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 800,
-          "title": "Have $1,000 to Invest? Buy These 2 Artificial Intelligence Stocks Now",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-04-19-privitar-announces-availability-of-its-data-privacy-platform-in-aws-marketplace.md",
       "title": "Privitar announces availability of its Data Privacy Platform in AWS Marketplace",
       "excerpt": "AWS Security, Data and Analytics Competency In addition ... constantly and efficiently monitor cameras in real-time or review the high volumes of archived video. Video analytics powered by Artificial Intelligence Increasingly, event venues are overcoming this challenge and maximising this video data by investing in intelligent video surveillance.",
@@ -1266,6 +1222,51 @@
       ],
       "topics": [
         "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-19-uber-says-engineer-is-on-his-own-for-us180-million-legal-award-to-google.md",
+      "title": "Uber says engineer is on his own for US$180 million legal award to Google",
+      "excerpt": "engineering documents and software related to self-driving cars. Sign up now and get a 10% discount (original price US$400) off the China AI Report 2020 by SCMP Research. Learn about the AI ambitions of Alibaba, Baidu & JD.com through our in-depth case studies, and explore new applications of AI across industries. The report also includes ...",
+      "heat": 73,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.scmp.com/tech/big-tech/article/3080573/uber-says-engineer-his-own-us180-million-legal-award-google",
+      "ampWebUrl": "https://amp.scmp.com/tech/big-tech/article/3080573/uber-says-engineer-his-own-us180-million-legal-award-google",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3080573/uber-says-engineer-his-own-us180-million-legal-award-google",
+      "publishedDateTime": "2020-04-18T17:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/04/19/7f0db3be-81ca-11ea-8736-98edddd9b5ca_image_hires_080326.JPG?itok=xt1FJcBB&v=1587254613",
+          "width": 1200,
+          "height": 630,
+          "title": "Uber says engineer is on his own for US$180 million legal award to Google",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     }

@@ -25,6 +25,6 @@ images:
     height: 683
     title: "Asia’s Hotels Warming Up to Automation Thanks to Growing Social Distancing Norms"
 
-secured: "ji+CMCUyLxnMg037D1BBF1KHyrHZoB1xOL0pK6wqsZXGeZ5Z/J1/SbNEvEL6bpfEYV9tybnjYONP/AIb6yZl7IdOOZng5sijRc2/UQWuEBiWlCs4ZQqqpn690Gnfdgnyx4rLZUEfVcMwVh+xUFoLCzrXq9GULz1o1myEL6PAQJEalfgveWQhi1pvRAxOBIzHt//H6BT9FdnbATiUCqSdf2/U3p5uKN3Y2lZPfegsaxOJTYH7mJNxQcKzg6snPAtDBxZerPrOlfnl0L8wA6c+RDTO5fYJhXhHWsAY6zuyQ1I3VkaXlVfpPoyv1nhX6oIO;pNNMw/9AzeiJzpohgoWUpA=="
+secured: "tMX6Fio4G35ArNLX0A0qsnvWtL2f8sP7VCBKRrNdS/+1m7cpG9vw/vBNBJyc4IDpgm61wvFh806XluW+pnJ7paJBK+bLDTKe4CqZuvynblF4CKM1M34vLjxhMQf3eoYHMsH++jX6BZCmRcLEmOX6mLlUEl7oNRmyeI+/W2p4MTHhxhIGl3FMYSSZhq9OdGI9yI5Lb1NshFYI5ECPsRiGYG4DiBexNYd+DRestyMhJEehbYCsUWQlYujTdtqGbvNBxci4qyxeYafZGBKixs31CX4gGGBnCmKtFQV6f//uzjXEJUA8Im82tfYeHWNxgbBg/mEX6n+e8YFf8zaFEIW6o6DsBXwCeLnjvMhRKfAS2hljJZNjD8LRpOU02UcXd//EEsSqI+tzeoCILucmjoNMDrUYVhfHBSVjk7X0fzQJ0MFv/djfLiNbmBnRYb8S9/jfsUG7AXe5W+Ed84nruHuUEDnQhIOhPrqBObDDfJhwiU8=;fTSaPLMS1DFwCUMkeDBfUg=="
 ---
 

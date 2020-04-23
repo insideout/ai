@@ -2,6 +2,52 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-04-22-amazon-launches-aws-appflow-a-new-service-for-managing-saas-data-flows.md",
+      "title": "Amazon launches AWS AppFlow, a new service for managing SaaS data flows",
+      "excerpt": "Also: Top cloud providers in 2020: AWS, Microsoft Azure, and Google Cloud, hybrid, SaaS players Separately, AWS announced that EC2 Inf1 instances are now available to run on SageMaker, its fully-managed machine learning service. First announced at re:Invent 2019, Inf1 are machine learning inference instances powered by Inferentia, the company ...",
+      "heat": 91,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/amazon-launches-aws-appflow-a-new-service-for-managing-saas-data-flows/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/amazon-launches-aws-appflow-a-new-service-for-managing-saas-data-flows/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amazon-launches-aws-appflow-a-new-service-for-managing-saas-data-flows/",
+      "publishedDateTime": "2020-04-22T13:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/04/09/ab9e0888-b6d3-49aa-b2a8-f1a05c32a4e8/thumbnail/1200x675/9b782c2f5cb1d3486646cc8285213ee2/zoom-logo.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Amazon launches AWS AppFlow, a new service for managing SaaS data flows",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2020-04-20-facebook-three-fintech-firms-in-talks-to-launch-mobile-payments-service-in-indonesia.md",
       "title": "Facebook, three fintech firms in talks to launch mobile payments service in Indonesia",
       "excerpt": "Facebook is working with three Indonesian digital fintech firms to apply for regulatory approval to launch mobile payments ... Sign up now and get a 10% discount (original price US$400) off the China AI Report 2020 by SCMP Research. Learn about the AI ambitions of Alibaba, Baidu & JD.com through our in-depth case studies, and explore new ...",
@@ -1135,35 +1181,6 @@
           "attribution": null
         }
       ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-18-enzo-villani-former-nasdaq-strategist-and-fintech-ma-executive-raising-100-million-for-new-hedge-fund-focused-on-blockchain-and-digital-currencies.md",
-      "title": "Enzo Villani, Former Nasdaq Strategist and Fintech M&A Executive Raising $100 Million for New Hedge Fund Focused on Blockchain and Digital Currencies",
-      "excerpt": "Alpha Sigma Capital combines executives from Wall Street, digital currency and private equity to fund blockchain companies that demonstrate promise.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.globenewswire.com/news-release/2020/03/18/2002586/0/en/Enzo-Villani-Former-Nasdaq-Strategist-and-Fintech-M-A-Executive-Raising-100-Million-for-New-Hedge-Fund-Focused-on-Blockchain-and-Digital-Currencies.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-18T05:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GlobeNewswire",
-        "domain": "globenewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
       "locale": "en-us",
       "categories": [
         "news"

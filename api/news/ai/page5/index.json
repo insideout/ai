@@ -2,50 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2020-04-17-ai-gets-into-the-fight-with-covid-19.md",
-      "title": "AI Gets Into The Fight With COVID-19",
-      "excerpt": "Recent surveys, studies, forecasts and other quantitative assessments of of AI highlight the role AI plays in fighting the Coronavirus, the business impact of AI, and what the American public feels about it.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/gilpress/2020/04/17/ai-gets-into-the-fight-with-covid-19/",
-      "ampWebUrl": "https://www.forbes.com/sites/gilpress/2020/04/17/ai-gets-into-the-fight-with-covid-19/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2020/04/17/ai-gets-into-the-fight-with-covid-19/amp/",
-      "publishedDateTime": "2020-04-17T06:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1213736109%2F0x0.jpg",
-          "width": 1199,
-          "height": 778,
-          "title": "AI Gets Into The Fight With COVID-19",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-04-17-teslas-acquisition-of-deepscale-starts-to-pay-off-with-new-ip-in-machine-learning.md",
       "title": "Tesla’s acquisition of DeepScale starts to pay off with new IP in machine learning",
       "excerpt": "Tesla’s acquisition of machine-learning startup DeepScale is starting to pay off, with the team hired through the acquisition starting to deliver new IP for the automaker. Late last year, it was revealed that Tesla acquired DeepScale, a Bay Area-based startup that focuses on “Deep Neural Network (DNN)” for self-driving vehicles ...",
@@ -93,14 +49,14 @@
     {
       "path": "_news/2020-04-17-us-consumer-healthcare-advocacy-group-uschag-announces-partnership-with-ibm-solutions.md",
       "title": "U.S. Consumer Healthcare Advocacy Group (USCHAG) Announces Partnership with IBM Solutions",
-      "excerpt": "U.S. Consumer Healthcare Advocacy Group (USCHAG) is pleased to announce a formal partnership with IBM Solutions. While the details of the relationship are confidential,",
+      "excerpt": "While the details of the relationship are confidential, the partnership includes elements of data acquisition, utilization of artificial intelligence (AI) and IBM's Watson capabilities to effect positive and empowering change for consumers when working with the American healthcare system. In development for over a decade and Founded in 2018 ...",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/u-s-consumer-healthcare-advocacy-group-uschag-announces-partnership-with-ibm-solutions/article_bd7661a1-ef09-596d-a592-242638e0c699.html",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/u-s-consumer-healthcare-advocacy-group-uschag-announces-partnership-with-ibm-solutions/article_bd7661a1-ef09-596d-a592-242638e0c699.html",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-17T05:33:00-07:00",
+      "publishedDateTime": "2020-04-17T06:09:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "WFMZ-TV",
@@ -109,7 +65,15 @@
         "publishers": null,
         "authors": null
       },
-      "images": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/a/a7/aa72f18e-94ce-57c4-bfae-e17bf137f5eb/5e99a8d765877.image.jpg?resize=300%2C400",
+          "width": 300,
+          "height": 400,
+          "title": "U.S. Consumer Healthcare Advocacy Group (USCHAG) Announces Partnership with IBM Solutions",
+          "attribution": null
+        }
+      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -478,6 +442,51 @@
       ]
     },
     {
+      "path": "_news/2020-04-17-covid-19-how-artificial-intelligence-can-help-companies-plan-for-the-future.md",
+      "title": "COVID-19: How artificial intelligence can help companies plan for the future",
+      "excerpt": "Karen Roby speaks with Dataminr's Jen Jones about the role of artificial intelligence in the coronavirus crisis and why information is ... 1:39 Cross-Training Tool Kit IT Data Center Green Energy Policy Internet and Email Usage policy Hiring Kit: Robotics Engineer",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/videos/covid-19-how-artificial-intelligence-can-help-companies-plan-for-the-future/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-16T23:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/04/16/abc977fe-63e7-448f-b067-9fc0dd4897b1/thumbnail/770x578/50436816b34395c42e50fa63a9b22279/20200413-dataminr-karen.jpg",
+          "width": 770,
+          "height": 578,
+          "title": "COVID-19: How artificial intelligence can help companies plan for the future",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-17-chinas-ponyai-rolls-out-us-self-driving-delivery-service-for-groceries-amid-coronavirus-lockdown.md",
       "title": "China’s Pony.ai rolls out US self-driving delivery service for groceries amid coronavirus lockdown",
       "excerpt": "Chinese autonomous vehicle start-up Pony.ai has launched a self-driving delivery service in Irvine, California, to help fulfil increasing online grocery orders during the coronavirus lockdown. The service, launched in partnership with Los Angeles-based e-commerce platform Yamibuy, enables residents in the area to receive their purchases of ...",
@@ -817,10 +826,10 @@
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.nextgov.com/emerging-tech/2020/04/pentagon-needs-tools-test-limits-its-artificial-intelligence-projects/164687/?oref=ng-skybox-lander",
+      "webUrl": "https://www.nextgov.com/emerging-tech/2020/04/pentagon-needs-tools-test-limits-its-artificial-intelligence-projects/164687/",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-16T14:50:00-07:00",
+      "publishedDateTime": "2020-04-16T14:43:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Nextgov",

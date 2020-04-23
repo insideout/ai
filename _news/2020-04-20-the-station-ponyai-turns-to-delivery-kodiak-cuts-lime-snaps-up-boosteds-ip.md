@@ -8,7 +8,7 @@ ampWebUrl: "https://techcrunch.com/2020/04/20/the-station-pony-ai-turns-to-deliv
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/20/the-station-pony-ai-turns-to-delivery-kodiak-cuts-lime-snaps-up-boosteds-ip/amp/"
 type: article
 quality: 83
-heat: 84
+heat: 83
 published: true
 
 provider:

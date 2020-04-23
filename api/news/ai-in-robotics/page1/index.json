@@ -251,6 +251,51 @@
       ]
     },
     {
+      "path": "_news/2020-04-17-covid-19-how-artificial-intelligence-can-help-companies-plan-for-the-future.md",
+      "title": "COVID-19: How artificial intelligence can help companies plan for the future",
+      "excerpt": "Karen Roby speaks with Dataminr's Jen Jones about the role of artificial intelligence in the coronavirus crisis and why information is ... 1:39 Cross-Training Tool Kit IT Data Center Green Energy Policy Internet and Email Usage policy Hiring Kit: Robotics Engineer",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/videos/covid-19-how-artificial-intelligence-can-help-companies-plan-for-the-future/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-16T23:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/04/16/abc977fe-63e7-448f-b067-9fc0dd4897b1/thumbnail/770x578/50436816b34395c42e50fa63a9b22279/20200413-dataminr-karen.jpg",
+          "width": 770,
+          "height": 578,
+          "title": "COVID-19: How artificial intelligence can help companies plan for the future",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-16-ai-robotics-start-ups-leverage-tools-to-combat-covid-19.md",
       "title": "AI, robotics start-ups leverage tools to combat Covid-19",
       "excerpt": "As India battles to contain the spread of coronavirus, artificial intelligence and technology start-ups in the country are leveraging their tools and solutions to help those in the frontline combat the crisis. Invento Robotics, a Bengaluru-based start-up, has been re-purposing its robots — to screening and diagnostics robots — to help ...",
@@ -1208,52 +1253,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-07-5-practical-reasons-to-embrace-artificial-intelligence.md",
-      "title": "5 practical reasons to embrace artificial intelligence",
-      "excerpt": "AI is about more than just robots. There are several reasons that people should accept artificial intelligence, including health care fighting the current coronavirus pandemic and empowering people with disabilities. Artificial intelligence is about more than robots. Whether someone considers themself a tech expert, or a newbie when it comes to ...",
-      "heat": 91,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/5-practical-reasons-to-embrace-artificial-intelligence/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/5-practical-reasons-to-embrace-artificial-intelligence/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/5-practical-reasons-to-embrace-artificial-intelligence/",
-      "publishedDateTime": "2020-04-07T08:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr3.cbsistatic.com/hub/i/r/2020/04/07/b9096b1a-0696-4267-a3f0-1ee3c61fe529/resize/1200x/ef5bf98b81cf782d65908c237d3d27b5/drone-garden.jpg",
-          "width": 1200,
-          "height": 798,
-          "title": "5 practical reasons to embrace artificial intelligence",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics",
-        "AI in Healthcare"
       ]
     }
   ],

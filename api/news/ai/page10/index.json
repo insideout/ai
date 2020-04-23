@@ -2,30 +2,30 @@
   "page": 10,
   "value": [
     {
-      "path": "_news/2020-04-11-wimi-hologram-cloud-nasdaqwimi-focuses-on-ai-vision-cloud-service-competing-with-google-and-microsoft.md",
-      "title": "WIMI Hologram Cloud (NASDAQ:WIMI) Focuses on AI Vision Cloud Service Competing with Google and Microsoft",
-      "excerpt": "As a global technology giant, Google and Microsoft have been working in the field of artificial intelligence for a long time. Whether it is academic achievements",
+      "path": "_news/2020-04-11-amazon-announces-general-availability-of-aws-deepcomposer.md",
+      "title": "Amazon Announces General Availability of AWS Deepcomposer",
+      "excerpt": "At the end of 2019, InfoQ ran a survey of our readers to find out what tools, techniques, and languages they were using. This is a summary of the results. Daniel Bryant sat down with Dave Sudia ...",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.benzinga.com/pressreleases/20/04/ab15784675/wimi-hologram-cloud-nasdaq-wimi-focuses-on-ai-vision-cloud-service-competing-with-google-and-micr",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/15784675",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15784675",
-      "publishedDateTime": "2020-04-10T18:07:00-07:00",
+      "webUrl": "https://www.infoq.com/news/2020/04/amazon-aws-deepcomposer-ga/?useSponsorshipSuggestions=true&itm_source=presentations_about_Devops&itm_medium=link&itm_campaign=Devops",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-10T17:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
+        "name": "InfoQ",
+        "domain": "infoq.com",
         "images": null,
         "publishers": null,
         "authors": null
       },
       "images": [
         {
-          "url": "https://i.ibb.co/9nGhxnZ/1.png",
-          "width": 554,
-          "height": 307,
-          "title": "WIMI Hologram Cloud (NASDAQ:WIMI) Focuses on AI Vision Cloud Service Competing with Google and Microsoft",
+          "url": "https://d2908q01vomqb2.cloudfront.net/da4b9237bacccdf19c0760cab7aec4a8359010b0/2020/03/27/julsimon-deepcomposerga-1-1024x835.png",
+          "width": 1024,
+          "height": 835,
+          "title": "Amazon Announces General Availability of AWS Deepcomposer",
           "attribution": null
         }
       ],
@@ -34,7 +34,7 @@
         "news"
       ],
       "topics": [
-        "Microsoft AI",
+        "AWS AI",
         "AI"
       ]
     },

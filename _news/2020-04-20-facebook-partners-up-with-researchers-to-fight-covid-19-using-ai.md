@@ -8,7 +8,7 @@ ampWebUrl: "https://in.mashable.com/tech/13299/facebook-partners-up-with-researc
 cdnAmpWebUrl: "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/13299/facebook-partners-up-with-researchers-to-fight-covid-19-using-ai?amp=1"
 type: article
 quality: 89
-heat: 90
+heat: 89
 published: true
 
 provider:

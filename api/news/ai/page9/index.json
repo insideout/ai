@@ -1091,43 +1091,6 @@
       ]
     },
     {
-      "path": "_news/2020-04-11-amazon-announces-general-availability-of-aws-deepcomposer.md",
-      "title": "Amazon Announces General Availability of AWS Deepcomposer",
-      "excerpt": "At re:Invent last year, Amazon launched AWS Deepcomposer as a preview, and it is generally available now with a few new features. These features include: Julien Simon, artificial intelligence & machine learning evangelist for EMEA, states in a blog post on the GA of Deepcomposer: Until now, developers interested in growing skills in GANs haven ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.infoq.com/news/2020/04/amazon-aws-deepcomposer-ga/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-11T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/da4b9237bacccdf19c0760cab7aec4a8359010b0/2020/03/27/julsimon-deepcomposerga-1-1024x835.png",
-          "width": 1024,
-          "height": 835,
-          "title": "Amazon Announces General Availability of AWS Deepcomposer",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-04-11-enabling-financial-inclusion-in-asia.md",
       "title": "Enabling Financial Inclusion in Asia",
       "excerpt": "Fortunately, AI-enabled alternative credit scoring is upending this, creating opportunities for online lenders and fostering financial inclusion across the region ... borrowers who may otherwise be credit-worthy. Self-learning credit scoring models can continuously improve themselves via machine learning (ML) as new data feeds into the system.",
@@ -1257,6 +1220,43 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-11-wimi-hologram-cloud-nasdaqwimi-focuses-on-ai-vision-cloud-service-competing-with-google-and-microsoft.md",
+      "title": "WIMI Hologram Cloud (NASDAQ:WIMI) Focuses on AI Vision Cloud Service Competing with Google and Microsoft",
+      "excerpt": "As a global technology giant, Google and Microsoft have been working in the field of artificial intelligence for a long time. Whether it is academic achievements",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/04/ab15784675/wimi-hologram-cloud-nasdaq-wimi-focuses-on-ai-vision-cloud-service-competing-with-google-and-micr",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/15784675",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15784675",
+      "publishedDateTime": "2020-04-10T18:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.ibb.co/9nGhxnZ/1.png",
+          "width": 554,
+          "height": 307,
+          "title": "WIMI Hologram Cloud (NASDAQ:WIMI) Focuses on AI Vision Cloud Service Competing with Google and Microsoft",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
         "AI"
       ]
     }
