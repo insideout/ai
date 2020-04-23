@@ -7,8 +7,8 @@ webUrl: "https://www.techrepublic.com/article/artificial-intelligence-can-take-b
 ampWebUrl: "https://www.techrepublic.com/google-amp/article/artificial-intelligence-can-take-banks-to-the-next-level/"
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/artificial-intelligence-can-take-banks-to-the-next-level/"
 type: article
-quality: 87
-heat: 87
+quality: 89
+heat: 89
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 
 topics:
   - AI
+  - IBM AI
 
 images:
   - url: "https://tr3.cbsistatic.com/hub/i/r/2020/04/23/e7141a30-003c-4e34-ad1d-6cc7c76daf90/resize/1200x/331adc6fa5179da2d9e9d3f835c07f81/woman-clerk-in-a-bank-flat-vector-vector-id483987118-1.jpg"
@@ -28,6 +29,6 @@ images:
     height: 675
     title: "Artificial intelligence can take banks to the next level"
 
-secured: "83kJV8mZbMe20YJKHUbFQJPnzlIikQcPGTa3GKGJ1OVIDbk7QUePVB+uFpfBXjkWzwHGiY3tKmX2Xn02osS8vJJ2TgnNcIYwuZJrQWwX00iz2Cac5tQlI7VgtEPhsEeKkBe/kfFF4a+ff3KcZmk3uEvuYE7Wl9+msK2WHrwHSo0v6I+5SLytTV3Absvzp4BburQNAXwkuT71R6CII2AT3oX94JaYX3CmOMyMVr2/0AvMDbxiELVhrIm5SuYL/TlCJ+8r0RFI6MXEPSqZUB9xYV0AgQ8b+HyGggFY9R1mzuVHCgHg0esDmEcLN2Le+rrY;fYfgDNq6+dacjXdAujy9AQ=="
+secured: "cYU9qjenEoHOtTtHOssMtfqV28KnEUGDBebRiH1GxVfeZ6r2/a1qkHk/bYkRlNjag2xUc3gU8iREei01RI120yG7NGAJ4Jc2H0bcIk+p0ql5dg7CBVKARr6ytQzJAJLwjDzZ6lOpAGuw3LgUkv2gVFHYUxDSh6grJawboR60zm61iW/C1uyc4KhDMudEGfxFCFkhLSFlMUxvSVhOcRCoCD5l9FJxzHIx2Z/wMmKk+gN9FNVVSxfKRqJgzm5P7fEv+8cq44wYviZKMUFUrdF6+nhff73sokyROH8MfxWBMiF6wBMoz6n2Kqz66LCea0i8hF2UwDadRA+3oUgKxUoOy3wh2JyUM55MYNr7stI479eXOOE1ZIwiEwe21PrUY8st1afXla9BxDq5YAOeM+O3v5tejudIZLMOE2Mr2cK0ho7w1OzQRdTbDTRvPMCfW8Coasanh9YGgeqBCrCVakYxLi/7y6dLD8sUAWfSrZytWcY=;Nx1TkionjvIvDxxl3Gdx2A=="
 ---
 

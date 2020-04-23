@@ -17,6 +17,12 @@ topics:
   - AI in Healthcare
   - AI
 
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+    width: 1280
+    height: 720
+    title: "Global Robotics Market (Impact of COVID-19) and Volume (Industrial and Service Robotics), Key Players Analysis - Forecast to 2025"
+
 related:
   - title: "Global Edge Computing Market to Grow at a CAGR of 24.48% over the Forecast Period of 2020-2025"
     excerpt: "According to a new report by EMR titled, ' Global Edge Computing Market Report and Forecast 2020-2025 ', the global edge computing market size was around USD 3.1 billion in 2019. The industry is further expected to grow at a CAGR of 24."
@@ -32,6 +38,6 @@ related:
         width: 1200
         height: 630
 
-secured: "h0Ga96gNFn5CF3gcntq/IQ8ePieALu5CKYOa5fpjBEAYdDIxNGVCxLxwrBZcepbHRDNpX+1bBjblMWTe3b4pwhEdMp1d1gQ/uLtnumDWx5MldsNqXndB0ET4wY3Lrd8zyewGU/YSft7Io+6/Q/VGEQfYbRNOJKFWHL/2Sci/ZGZVlNP9PIW9YB5AcsV9LO7zQd+zjSA0sehz33INERYPoad0PJV33Ve85Bb7m/ECUFL3AsiUOQ2337ZJx5FjwZaPrii3z9pfdW4GW8qDqH523MFk6cjBMYqnVGuy22y2fHAdQ5XQZgiobLul+zb/1kXO;0ZhHEKb/uEqePnlQ5vvvkQ=="
+secured: "rc/P5XWOm2yjiZAwoxGR5TDqtwWspbT+mmNw1Pcu6pd2ijiyPcqBxWvl6Ld1omlNPCqKKpfOsYxoCMXRe4K7aECOuKt/FAS7VVxlQiS+YzJHXDdjkzSOBU1uyyrw9FB5/kHMM5aabcY2nJ19RHRww/gwAfLSqhavHsIdTSsscmWpDD44rr/+JldrXdIqku721DNB/vJCIUTs1Hk97Mh9uAbI6NEpSAi0DW6GdoiScKBKflQWjtNVnYy1rq+fnd7mEkhbqp+TPJHa522JLF8CgrGzkOgqqAtQmwGCAlThWmoXcvL1OCl9ETxm5EkGwx87;eJC8Sc7NlWqDLjzKKZVR4A=="
 ---
 

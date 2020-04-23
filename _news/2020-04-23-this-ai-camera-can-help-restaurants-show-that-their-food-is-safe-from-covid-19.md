@@ -28,6 +28,6 @@ images:
     height: 673
     title: "This AI Camera Can Help Restaurants Show That Their Food Is Safe From Covid-19"
 
-secured: "KtqaNDuGbwHo+wSqT8goYNuuBYWBNNDC5C7Keih349OP+BVtT0BwIrk421LyOnTUR/YGyJKyySpfEp39w0prd4tBF5ittwwF3SsCWfwVNYnMOoKB7xDjreo2FDuVoWD8aKtPiOVCGrUpmPUxrSoD0D9rWQmCZgqPoT4dI1kBYP7gA7KfkRZCGLTkW/XoF8bN370tRw5wsoRm1Zj7vxes48bKx91d99KUwamj3SDIz8takDAQnhd2t+hBUY25X7TmNhGTqTlSFvj/vzfUZSjM6nCz+mdHf/zEYcnJAWzP/gLPjrMEOTypPVZzM4Btf398;isRtXg+RVBuxBQreEbtNjg=="
+secured: "hnbUahIi8aiC6yqo/ETHYaAgcrYws8ROo+yNkHRnmH3fsvn/V4/vR1xCATU9pJWl8y+T+cTvEwl0N57ZAQ/JpnCrCsOeJkaeN6HebS/nFNJjSp8fqvyzRjTPEnaPe6kocFYFJtltO7HJ2mcBi/qC5Vv7kx0aMWgsLjLc/lX8ABEV5XGQZUS1G5cnRijkjcX9yke6BAtCL/LaMvX+53M6zlVo5ZqgWRur1L9ZRBFDBmJd7RjgC1zehqAINhayxZUWruh1wzzaArrx20ij1sChrWfT6jLTQsebAjhH38GlchYRdH+RRcO683MeSEG5Li/iuX4U2DSRhe8Y02iR++d1NgkR4yaYIP/OaInm2FHJmbLMgaFotTzWcvagnkRCu+LfA8qsXmx23dSx0unfVZQD+MX9beM12r/W+it4Xh7be99xGvQx6VpCU5MsRTCC9PeXJNnf7TRmYD+aIAc0m0jZWfrjwftapfQEpkHmYD9oS0s=;oJXbAeHgssZn0Zpgru6JOA=="
 ---
 

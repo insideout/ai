@@ -37,6 +37,10 @@ related:
       name: WFMZ-TV
       domain: wfmz.com
     quality: 0
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+        width: 1280
+        height: 720
 
 secured: "oqZuh5/UASKSLWPAGy/fQb7kmsuFdKaYMqOxGmPEDHa/0/FGNDimrID12CiOJVBHMb2BqZL6jLy7fzcZXeljDDG5GLMOnvkJSRyqGWCrZbcBI+OSiVDzyESLD22q11kvzHr3duuhoCzyqvHERaLeqkshCTZ5WK1eBkVwwbh80824ztaYkbdjEBRWuCBakQGuG7ops4JeNOzBsq7NMViHnWOL2QaUHd5V7iT1IEEoYmCpJmsjWK2kbMKe/EpP0d17JRQa6XMd+s9w1hQwA+SlyJgCuMx7fZ5gfi2Qw4PxiMYYj/CbpInE/W3abU2m/Wc0;6fI/G8DNNEfOmyAacywxfA=="
 ---

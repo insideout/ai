@@ -5,8 +5,8 @@ excerpt: "Artificial Intelligence has been an integral part of our world for man
 publishedDateTime: 2020-04-23T15:25:00Z
 webUrl: "https://news.microsoft.com/europe/features/alice-envisions-the-future-digigirlz-ai-class/"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -20,6 +20,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/93/2020/04/Banner-5e9a2c5292f38-1024x407.png"
@@ -27,6 +28,6 @@ images:
     height: 407
     title: "Alice envisions the future, DigiGirlz AI Class"
 
-secured: "QDNA3HarNNbBuvv2oioRrB+i07TlTMzYxWJ/oiO1/1amcGKVLucbA8ETs298/kgM1IHvmh4sjYab4ZIwFI7PM6+woLzp+2NlqXf0SUH8A0/OKdwGNRyO+0LmvI8jUrNo6kk8Nm2eHkkstOwhhV2cQc7N87ZpgF8lbOqz6perDjHE1heWlQtTLH97yE5Gkt9Cif6i+D4fPGn6KTEWgLSb/rA43+y7Ooer5xv68LQ/4yDcGf1o7dzclwFp8TRQ+b013dr/EEnhHLpYZBYeemiUpu9EdTlZiwKYwYC20N0z5cC02YkAETBglx1xd+cN54cZ;Q29FY66XqfIiGdK8ThTxPg=="
+secured: "iAhBjjDx20pyVZS0+Az2TJe8NCxLmJlnaRjgU9ff66ol1lkQbektzR3CIY4FVh03YG+Cva/VkSLgxH3ERsLcaLQyYUL5UWM+Ip5btED1vUhACy/wu5rq1T2T+T9I0ks5L1W2Sftirinhsml0NjpMas1w6n+OQFU1FrHZSyvLa7C69sdYL8unOiYvMd00BVyzw51v1jewNlmuZKF8bNHwCbXwS8rxeFFzPR3SvlswYqSAfxWQOhEAMtdNSyKq8NRpmziQmDt5yk66B5Gyh0U+hvn6NcIcG/fvbnO8itdL60UUVbCaoFIkCC6X6h2m1GQJXAxTiSG9li3u79EBO+ICNYxGuf4NEJ2CJyAb5XoikIPzqzBKijxIPK+d+ddZUGzEJahIV8fwVgr5bZWnfhnp+APm5BUVwD08mWrWfN55HXKxxTll2/YYH31oj3jsBaKCZC0tAXfkNkbBEMPmb0Yofud6XFV9pqXvfcjTHcfqTkE=;X7xfTceLRhVqmEyk7KaO0g=="
 ---
 

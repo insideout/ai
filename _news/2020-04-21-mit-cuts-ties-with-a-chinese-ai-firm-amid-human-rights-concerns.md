@@ -7,8 +7,8 @@ webUrl: "https://www.wired.com/story/mit-cuts-ties-chinese-ai-firm-human-rights/
 ampWebUrl: "https://www.wired.com/story/mit-cuts-ties-chinese-ai-firm-human-rights/amp"
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/mit-cuts-ties-chinese-ai-firm-human-rights/amp"
 type: article
-quality: 87
-heat: 87
+quality: 89
+heat: 89
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://media.wired.com/photos/5e9a05aab1d67d0009c2cdf3/master/pass/Biz-mit-1216059983.jpg"

@@ -24,6 +24,6 @@ images:
     height: 576
     title: "Doctors are using AI to triage covid-19 patients. The tools may be here to stay"
 
-secured: "D5mu5jf3FQKbTrYhfz+fZJuXxpD/Jmhxdpezlrm372lawk2SoZTR+gGNxMexxNbl7FenZpYM4EHHEsDuozXxolgMl5o0Qh2w/ilEl3ohjL6n2ZUZ4nDmAMXAXDsyg5i7/84BhxEGtk/Sf1cj4oQNeB/wxB133kqDQVENMCk4C9ua4gxN9YR3myilJD9QUJu+MhzxZLzVc8Dbu4xHZGem9hYZ9dIhS8TXRbIHJX4X3qOPh1K39ar2TVQghk/Uv3HijYiDYleS/lcCoOhMl8Co+4q3OpFYaIxYZ1HPgzCzuT3uS+a3Xa1RRzBGEFlzaj6N;Xxwcptz/a2syHjVN1sh8vQ=="
+secured: "ljMZc/x+97bjH8KeN96ZVt98TlCJ8TNDr3v3/hnCyN9er4yxM1SAM2jIy2GlR97V/Cecu3S9DtDb0+DwS9vccAzO95YbDO0Rl9rygkfb6dFcw/7f9QC9MrzErRcWz5x5bQ4SAtpOQIKMHv2zUwiz3AMOWijqQin8TI+IG4DqcAt6FNzJLbs7t2h2DJa6Zw0tadMn6ZhdbscyLprStB9bxLkE0ykGrZV/x1hJfhdxY2hsU+6FqnL7FcvLMpWc6t59xnnVZIQ0T0z6YWGiM+KPFWHCdgvaWx1NtL/QXcTpst1Cws+kEF2PKXp3LZdrSJF1J8mtGvcEy4n6uOEUQciAIJ/ZsHis94riAhEPXOteY6/1r5Aaqiiybi2BQXYhA/Zmk20ZCDkABRAzGbULVk3dqjeqBLBfzqs9AaLYz20nC+WVyTuKdzNnJ52nyz87WBjKqkBwwxY30qDkl/NOj+Zp1+AVOoDWYGAEq4S55S3aqnk=;WYTgxGebGLBw3QcpwCRDhA=="
 ---
 
