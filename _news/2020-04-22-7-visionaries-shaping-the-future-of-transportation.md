@@ -1,23 +1,27 @@
 ---
 category: news
 title: "7 Visionaries Shaping The Future Of Transportation"
-excerpt: "This is the age of wild rides that are transforming the personal transportation sector into something worth more than ever. We not only"
+excerpt: "This is the age of wild rides that are transforming the personal transportation sector into something worth more than ever. We not only"
 publishedDateTime: 2020-04-22T12:00:00Z
-webUrl: "https://www.benzinga.com/pressreleases/20/04/n15855119/7-visionaries-shaping-the-future-of-transportation"
-ampWebUrl: "https://amp.benzinga.com/amp/content/15855119"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15855119"
+webUrl: "https://www.prnewswire.com/news-releases/7-visionaries-shaping-the-future-of-transportation-301044939.html"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+    width: 600
+    height: 315
+    title: "7 Visionaries Shaping The Future Of Transportation"
 
 related:
   - title: "Optimizing hardware infrastructure with data and AI: Granulate scores $12 million Series A funding"
@@ -36,6 +40,6 @@ related:
         width: 595
         height: 418
 
-secured: "8gb2anXq4piAWmkp4LR9b0JkzQ+Mta6cPJYGfH3cm/NolPiFPRkNoW/tWzMYY1YNnOtc6TBADx9KJv/0/gsq61DT8gzKwedggDle5ub3cYgV/VOhq71FLDp83+8jhmmiJJddciLRwmWbLUQlZx5XrrnwdkhtbhJ/4P8LNWLa+5Q//pAQIRMBO0zSA17TeWEs3DL6KYgo/CpHhcM7UTg32fnR0NZg+k/GovvL7/K4Df81DRToVlHjz+jmguHLgT0scxEh56xIJ+O2qew7qgZ2CsVUjaytTnl3TO8JQ1cGZgYJKaUigIYzeM+q+p2lAPKI;mY0jHYnCVE3yomTXg+Jw4w=="
+secured: "l/huAy2FOVwNrdLfZ7v4xKZHrtXpYfT0nuHrWx/DufqL3qkHUE4F6aaLXgFdwqmkxKsXj60yiVef3ZKEW/7f+SDJJhJNFKFpCbcUW7/u6a5q/nUwXVLJ3aNgP0qeAwNlZLvYBbBT28MGOG9sUNXdTcHcCCwgHVyxUUJ7X/tgNZAneDa9zDvNlo+QKbq0lgl7PFwuzBv5uRkKutfEL5jvxtFBdXDFx6G9hDYTwrTFlqnJ+sTc6jTh5TLR0s11ruNPSOPJRvaBYbc9GxMG3iay2VLqnFtKkasG6vjhh9lJBIgQK4iE85qYQWA3TLQ/pril;6PxQuGCMw0pbtmXR8rTOYA=="
 ---
 

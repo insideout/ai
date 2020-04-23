@@ -3,19 +3,25 @@ category: news
 title: "Europe Speech Recognition Software Market will take the highest jump during 2020-2025"
 excerpt: "\"The global Speech Recognition Software market report offers information relating to the leading regions, competitive landscape, growth trends, and other crucial information about the growth status of the market. Additionally, the Speech Recognition Software market report also gives an in-depth evaluation of prevailing growth strategies ..."
 publishedDateTime: 2020-04-23T05:34:00Z
-webUrl: "https://www.arnnet.com.au/mediareleases/87429/europe-speech-recognition-software-market-will/"
+webUrl: "https://www.cmo.com.au/mediareleases/87429/europe-speech-recognition-software-market-will/"
 type: article
-quality: 12
+quality: 32
 heat: -1
 published: false
 
 provider:
-  name: ARN
-  domain: arnnet.com.au
+  name: cmo.com.au
+  domain: cmo.com.au
 
 topics:
   - Natural Language Processing
   - AI
+
+images:
+  - url: "https://demo.idg.com.au/cmo/cmo50/2019/cmo50_promo2019_5.jpg"
+    width: 600
+    height: 246
+    title: "Europe Speech Recognition Software Market will take the highest jump during 2020-2025"
 
 related:
   - title: "AI Market in Call Center Applications-Growth, Trends, and Forecast (2020-2025)"
@@ -41,6 +47,6 @@ related:
       domain: marketwatch.com
     quality: 37
 
-secured: "YgTjG75Op/33C5JXRm+M3iBlvBmbJNObIEOuUaTkxRKbryFqNsRWKBnJGWCCNJebucO0qcgqiAtf+OPQeFmynyBJZdVQ8QtdNCKe41cesMz1D490KGB6V1gGra8aWpSX49itJqxIrDA0L716a5RFFiWGgzUz0is6T/zr5mlkoc/z2OPz/6qCGibAVxYhCj5DSFFljiA6XUo79qY4OKVVW2ausSD/ZJE9pdopfoW5JGz5pUzng5Q/Go/WXBlJ1OB48NM9gxwLNo8DvumwlYNp5ySvdBc/aUDdqBkLu/Bb0kg5p2grr8QSkQwA19M4HXBY;qJf075NJv+ogCIkNlUDPlQ=="
+secured: "WYSoImUz9sEm6NoXz0Hp1s0n4BpsMOmSdvAmi9G3rirjgvkZTZoulXXMh2ngzX2ixshrKURrN5adBLg3FtmG+kVc1WzchQ6Qk32nuTSIC6sk/1tYqvPLQs/67DumlTE2ERNNGvyUjDqyWMSjwGeUgM9zEMLpxI26cHuQzAw3uEa3Wk4IyX8QIyC5+AhjpOMsVdiiiRIHYjQ+UihhX4MGkuKzEmewPlJ5pjpF0SYOx0BK+9CbwoSJFn7qIOgilT6vctUDqK1Wf0h+uAETrbPNp+KcFPZYxWvwuMl0BGiprxqUhpKgJIeNjO/ynhGjCQBh;ZiZ2orWq/t4NWg0kOC351Q=="
 ---
 

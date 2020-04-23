@@ -2,8 +2,8 @@
 category: news
 title: "Pentagon Needs Tools to Test the Limits of Its Artificial Intelligence Projects"
 excerpt: "In a request for information this week, the Pentagon’s Joint Artificial Intelligence Center, or JAIC, seeks input on cutting-edge testing and evaluation capabilities to support the “full spectrum” of the Defense Department’s emerging AI technologies, including machine learning, deep learning and neural networks. According to the ..."
-publishedDateTime: 2020-04-16T21:50:00Z
-webUrl: "https://www.nextgov.com/emerging-tech/2020/04/pentagon-needs-tools-test-limits-its-artificial-intelligence-projects/164687/?oref=ng-skybox-lander"
+publishedDateTime: 2020-04-16T21:43:00Z
+webUrl: "https://www.nextgov.com/emerging-tech/2020/04/pentagon-needs-tools-test-limits-its-artificial-intelligence-projects/164687/"
 type: article
 
 provider:
@@ -20,6 +20,6 @@ images:
     height: 400
     title: "Pentagon Needs Tools to Test the Limits of Its Artificial Intelligence Projects"
 
-secured: "QeuVyI2Ay+xaIOHk0W6przTbxPlEmepAgzqyBPOw1gJXDYALqe8H3xAqJWVZRCzxOY1BJPD0b8h251ybBEePWmyS0Msrw/ixeqTzcfN5H2zRmVUm0XyHH+wniu/U89AMYrrdg/l3Mi2g7u6CvBus7ETeID7CbhHl0N8MUb8F88vxuDA201TggWlbYwmJsnUhfcUpY8OZ9RmFLT5fiE4xKIK/n7fTPuMCwJN2VD02uR0B/WWnisiL5z00pj8DZb8A6t9i4Dc6FImNGXSLX0PZKD6N8ykoRUIKXBhRQ92mDhR2L3wx24PEGojMHjyDCgpU;psuuVS+GCID/eDmXU69wjw=="
+secured: "fQaVJpv2Q3wep8bNZey9YcuzRvSbRBQD/GlflNYFm/FgUMCX5wN9imj2zzCqCTbu6eXuexCZ1e+wOQkQbLZ2hFutVDUt68ddPyR+JiOlK36JSv1vxk7YEeYh3+zggOUPiHe9EPINewkpjonbNfP4UkSuyw3j8zWs+yBv+45CfOruoY3HidFRho951HyGkuRZbDwbXfQClW6nNs4Y0WUVVMtW1f2/ljsnv3zPdrlwotH9XXU5Tr2MHU/L1nWuop85dQc39bqbgcRoDwaaEB0Zfz+FPizZzRe/YFkzwLCNGrF+MWiVVKlhGScRthMe6Mus;ekXxgukI6w2LSNAPT1O9Lg=="
 ---
 
