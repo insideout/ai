@@ -2,6 +2,35 @@
   "page": 48,
   "value": [
     {
+      "path": "_news/2020-03-09-artificial-intelligence-in-healthcare-market-2020-global-key-players-trends-share-industry-size-segmentation-opportunities-forecast-to-2026.md",
+      "title": "Artificial Intelligence in Healthcare Market 2020: Global Key Players, Trends, Share, Industry Size, Segmentation, Opportunities, Forecast To 2026",
+      "excerpt": "“Artificial Intelligence in Healthcare Market” Summary: A new market study, titled \"Global Artificial Intelligence in Healthcare Market Upcoming Trends,",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/03/ab15504764/artificial-intelligence-in-healthcare-market-2020-global-key-players-trends-share-industry-size-s",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/15504764",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15504764",
+      "publishedDateTime": "2020-03-09T00:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-09-global-artificial-intelligence-ai-chips-market-2020-industry-segmentation-cagr-status-leading-trends-forecast-to-2025.md",
       "title": "Global Artificial Intelligence (AI) Chips Market 2020 Industry Segmentation, CAGR Status, Leading Trends, Forecast to 2025",
       "excerpt": "A recent market study entitled Global Artificial Intelligence (AI) Chips Market 2020 by Manufacturers, Regions, Type and Application, Forecast to 2025 provides an in-depth analysis of the global market,",
@@ -1136,43 +1165,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-05-goodyear-concept-ev-tire-can-regrow-tread.md",
-      "title": "Goodyear concept EV tire can regrow tread",
-      "excerpt": "\"Thanks to artificial intelligence a driver profile would be ... more than the 259-mile range for the 2020 Chevrolet Bolt. Waymo raises $2.25 billion in first external funding round In a ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.autonews.com/mobility-report-newsletter/goodyear-concept-ev-tire-can-regrow-tread",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-05T08:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Automotive News",
-        "domain": "autonews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://s3-prod.autonews.com/s3fs-public/styles/width_792/public/GMEVDay02-main_i.jpg",
-          "width": 792,
-          "height": 526,
-          "title": "Goodyear concept EV tire can regrow tread",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

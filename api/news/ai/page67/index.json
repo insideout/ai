@@ -2,6 +2,43 @@
   "page": 67,
   "value": [
     {
+      "path": "_news/2020-02-11-facebook-acquires-third-ai-startup-in-uk-for-40m.md",
+      "title": "Facebook Acquires Third AI Startup In UK For $40M",
+      "excerpt": "Facebook acquires a new AI startup in Deeptide Ltd. The deal went almost unnoticed save for the blog post of Deeptide's founder back in December There was no disclosed acquisition cost but sources speculates it to be $40 million Facebook's \"acquire and conquer\" strategy has landed it another startup to boost its AI game.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.ibtimes.com/facebook-acquires-third-ai-startup-uk-40m-2919901",
+      "ampWebUrl": "https://www.ibtimes.com/facebook-acquires-third-ai-startup-uk-40m-2919901?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/facebook-acquires-third-ai-startup-uk-40m-2919901?amp=1",
+      "publishedDateTime": "2020-02-11T03:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/01/28/facebook-reports-it-is-closer-to-setting-up.jpg",
+          "width": 1024,
+          "height": 682,
+          "title": "Facebook Acquires Third AI Startup In UK For $40M",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2020-02-11-amds-new-arcturus-gpu-could-be-super-efficient-but-probably-wont-trouble-nvidia.md",
       "title": "AMD’s new Arcturus GPU could be super-efficient – but probably won’t trouble Nvidia",
       "excerpt": "... reckons it can win the high-end GPU battle – and dethrone Nvidia These are all the best graphics cards of 2020 Remember this is a GPU aimed at data center and heavyweight compute usage – the likes of AI applications – but seemingly we’re looking at something of a beast of a card with a 1,090MHz base clock and 1,333MHz boost, with ...",
@@ -1234,50 +1271,6 @@
           "width": 796,
           "height": 417,
           "title": "This AI could reunite families after an earthquake",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-10-7-things-digital-marketing-industry-need-to-know-about-artificial-intelligence.md",
-      "title": "7 Things Digital Marketing Industry Need To Know About Artificial Intelligence",
-      "excerpt": "But, again, it becomes important to mention digital marketing without an effective resolution to the customer means nothing. And, here, AI or Artificial Intelligence comes into the picture. Today, most of the companies are merging the two technologies to create outstanding business operations, which can help in business growth.",
-      "heat": 73,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/@inforobertsmith36/7-things-digital-marketing-industry-need-to-know-about-artificial-intelligence-17cab74ff304",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-10T10:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/1200/1*9CF2YcL5UfPcmS034ycptg.jpeg",
-          "width": 1200,
-          "height": 628,
-          "title": "7 Things Digital Marketing Industry Need To Know About Artificial Intelligence",
           "attribution": null
         }
       ],

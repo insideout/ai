@@ -8,7 +8,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/amazon-launches-aws-appflow
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amazon-launches-aws-appflow-a-new-service-for-managing-saas-data-flows/"
 type: article
 quality: 91
-heat: 91
+heat: 101
 published: true
 
 provider:
@@ -30,6 +30,21 @@ images:
     height: 675
     title: "Amazon launches AWS AppFlow, a new service for managing SaaS data flows"
 
-secured: "NiA4Vaomxhz1KcKH3NF9H5ijQCcNU3nfIZGEhNrC6hSumO6coY6F2V2LhEQIg+7IWu8ABllkkXF0nkwz1myP2dyBXT8AI0Q5ETAhrNqhSbAJZjFPwVVmCgrOA8ReGh3xYahPDxfAz94SS33iajI6yFwGS8dQ2h+iJZxJgNvI4cJCOJy3D77gd57aBU9S4tKsr6Sjpm+q23RU7QKRL+Oz6kfAOZDRPAhSpAlPycmh6RF0ds1+AtIxio3W8F/O6a7WO7Sot1QDKxGM3jaG8LZLfe0hto4m8uQVe9KO8mLA7zb+qPLMohq7QuvR2gc9avSA4aDr3nruvycJQeDwIAfOwlqquKdCygLxOPbVexDXkFHILCrqxn8glyBE9L67iEo04DQ14i3Rkz6FiRwF/t+RHblbjqOl6WG7f1RZkuZFJW4oJpkm+OsPB7yfSKLHaYErjKZQ7kt8z3klvELqvM8FD6GncbJ5w/U/GewHSBsRXBg=;2+AjyenqXj2z+WXfLg3H2A=="
+related:
+  - title: "Amazon debuts AppFlow, a new service for sharing SaaS data with its cloud"
+    excerpt: "The announcement means developers now have an additional choice of EC2 instance types to use with SageMaker, allowing more flexibility when it comes to choosing the optimal cost/performance ratio for each workload, Amazon said. Show your support for our mission with our one-click subscription to our YouTube channel (below). The more subscribers ..."
+    publishedDateTime: 2020-04-23T00:28:00Z
+    webUrl: "https://siliconangle.com/2020/04/22/amazon-debuts-appflow-new-service-sharing-saas-data-cloud/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 23
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/04/awslogo-768x541-1.jpg"
+        width: 768
+        height: 541
+
+secured: "dWc7ax4+E1OivmmxRr8cZn3vZPPFh2pFqxOsL1QguyNx9QnCDVpcRQB5A+u9chNNvs3FcxbAT8C1qmdJN6H9FpG8H04HHr/LybAfSIPi5e945VYpUHHZ9kptlMpO+6i3Vm5fV8MkCwBS6Ajl7+BFIE7qoa6hdnX39FPoik0iu0QyTFY1qwjuof8bQfaGiUaUNDNgcj8s9D1ihSsL51tvCWXSWGWE/7cxWeYEfm5q83G/YWdEErCmFtXoXkY3MI2AGqhTDj+WVjy89WzHVckfrjqzxP1MyQ3k9av8F94iSmC12pMqAxFQ/dXZp0rS4uXVE1pawK8db6Zh0InJ9hhrdqlmn5k3dLN7zX2WlO4z6rdBDnig6dM3Gi42XSpcoePSrsZrsnTeQgmidbbWVClAs3hp8cFPWcn5XKhVXuqaLfbabUl3RCf76V6V7wQqFR8XwhukmXOEhq0eaZNLf7I3vsTiKFOTyt5qtNb+/KWPKo8=;zGVZD5m9cWKmQ+f6IYIJjA=="
 ---
 

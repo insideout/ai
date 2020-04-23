@@ -2,6 +2,51 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-04-19-uber-says-engineer-is-on-his-own-for-us180-million-legal-award-to-google.md",
+      "title": "Uber says engineer is on his own for US$180 million legal award to Google",
+      "excerpt": "engineering documents and software related to self-driving cars. Sign up now and get a 10% discount (original price US$400) off the China AI Report 2020 by SCMP Research. Learn about the AI ambitions of Alibaba, Baidu & JD.com through our in-depth case studies, and explore new applications of AI across industries. The report also includes ...",
+      "heat": 73,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.scmp.com/tech/big-tech/article/3080573/uber-says-engineer-his-own-us180-million-legal-award-google",
+      "ampWebUrl": "https://amp.scmp.com/tech/big-tech/article/3080573/uber-says-engineer-his-own-us180-million-legal-award-google",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3080573/uber-says-engineer-his-own-us180-million-legal-award-google",
+      "publishedDateTime": "2020-04-18T17:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/04/19/7f0db3be-81ca-11ea-8736-98edddd9b5ca_image_hires_080326.JPG?itok=xt1FJcBB&v=1587254613",
+          "width": 1200,
+          "height": 630,
+          "title": "Uber says engineer is on his own for US$180 million legal award to Google",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-18-for-this-high-yield-stock-5g-and-artificial-intelligence-outweigh-coronavirus.md",
       "title": "For This High-Yield Stock, 5G and Artificial Intelligence Outweigh Coronavirus",
       "excerpt": "Leading nodes are the smallest, densest, most advanced chips, with higher power and better battery efficiency. More powerful chips are needed in all the big megatrends today, from 5G communications to artificial intelligence applications in the data center. For instance, Taiwan Semiconductor gets almost half of its revenue from smartphone chips.",
@@ -1239,50 +1284,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-17-ai-gets-into-the-fight-with-covid-19.md",
-      "title": "AI Gets Into The Fight With COVID-19",
-      "excerpt": "Recent surveys, studies, forecasts and other quantitative assessments of of AI highlight the role AI plays in fighting the Coronavirus, the business impact of AI, and what the American public feels about it.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/gilpress/2020/04/17/ai-gets-into-the-fight-with-covid-19/",
-      "ampWebUrl": "https://www.forbes.com/sites/gilpress/2020/04/17/ai-gets-into-the-fight-with-covid-19/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2020/04/17/ai-gets-into-the-fight-with-covid-19/amp/",
-      "publishedDateTime": "2020-04-17T06:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1213736109%2F0x0.jpg",
-          "width": 1199,
-          "height": 778,
-          "title": "AI Gets Into The Fight With COVID-19",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

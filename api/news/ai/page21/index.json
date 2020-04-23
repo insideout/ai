@@ -2,6 +2,51 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2020-04-01-natural-language-processing-404.md",
+      "title": "Natural Language Processing 404",
+      "excerpt": "With the release of the COVID-19 datasets which is predominantly an NLP datasets (because it is mainly textual ), one must have mastery of Natural Language Processing to mine insight from the ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/analytics-vidhya/natural-language-processing-404-8cbe88474cc1",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-01T05:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/640/1*UVA9cy_3ZsqBi2cTa4BGOw.png",
+          "width": 640,
+          "height": 426,
+          "title": "Natural Language Processing 404",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-01-immunitybio-combines-supercomputing-power-with-microsoft-azure-to-target-infection-doorway-of-the-coronavirus.md",
       "title": "ImmunityBio Combines Supercomputing Power With Microsoft Azure to Target Infection “Doorway” of the Coronavirus",
       "excerpt": "quickly deployed a High Performance Compute cluster on Microsoft Azure cloud services. The cluster contains over 1,250 NVIDIA V100 Tensor Core high performance graphics processing units (GPUs) specifically designed for machine learning and other ...",
@@ -1213,51 +1258,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-31-mit-csails-commplan-ai-helps-robots-efficiently-collaborate-with-humans.md",
-      "title": "MIT CSAIL’s CommPlan AI helps robots efficiently collaborate with humans",
-      "excerpt": "In a new study, researchers at MIT’s Computer Science and Artificial Intelligence Lab propose a framework called CommPlan, which gives robots that work alongside humans principles for “good etiquette” and leave it to the robots to make decisions that let them finish tasks efficiently. They claim it’s a superior approach to handcrafted ...",
-      "heat": 103,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/03/31/mit-csails-commplan-ai-helps-robots-efficiently-collaborate-with-humans/",
-      "ampWebUrl": "https://venturebeat.com/2020/03/31/mit-csails-commplan-ai-helps-robots-efficiently-collaborate-with-humans/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/31/mit-csails-commplan-ai-helps-robots-efficiently-collaborate-with-humans/amp/",
-      "publishedDateTime": "2020-03-31T12:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/03/43102ff2-761d-4f3c-896f-4c50c6349e2e-e1585335348192.png?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "MIT CSAIL’s CommPlan AI helps robots efficiently collaborate with humans",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

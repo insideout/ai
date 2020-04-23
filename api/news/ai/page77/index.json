@@ -2,6 +2,51 @@
   "page": 77,
   "value": [
     {
+      "path": "_news/2020-01-30-openai-goes-all-in-on-facebooks-pytorch-machine-learning-framework.md",
+      "title": "OpenAI goes all-in on Facebook’s Pytorch machine learning framework",
+      "excerpt": "While TensorFlow has been around slightly longer (since November 2015), PyTorch continues to see rapid uptake in the data science and developer community. It claimed one of the top spots for ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/01/30/openai-facebook-pytorch-google-tensorflow/",
+      "ampWebUrl": "https://venturebeat.com/2020/01/30/openai-facebook-pytorch-google-tensorflow/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/30/openai-facebook-pytorch-google-tensorflow/amp/",
+      "publishedDateTime": "2020-01-30T09:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/06/pytorch-e1576624094357.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "OpenAI goes all-in on Facebook’s Pytorch machine learning framework",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2020-01-30-peta-demands-groundhog-days-punxsutawney-phil-be-replaced-by-ai-robot.md",
       "title": "PETA Demands Groundhog Day's Punxsutawney Phil Be Replaced by AI Robot",
       "excerpt": "The organization suggests \"an animatronic groundhog with artificial intelligence\" to predict the end of winter. PETA is calling for Punxsutawney Phil to be retired and replaced by a robot ahead of Groundhogs Day on Sunday. The animal rights organization wrote a letter to the Punxsutawney Groundhog Club urging the the small town in Pennsylvania ...",
@@ -1217,51 +1262,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-29-rich-countries-should-invest-in-latam-to-create-ai-talent.md",
-      "title": "Rich countries should invest in LatAm to create AI talent",
-      "excerpt": "Uruguay, the second best-prepared country on the Insead ranking, has launched its public consultation on AI in April 2019 and spent the whole year working on the plan, which is just about ready. The report also mentions Chile's plan to address the infrastructure, priority areas and ethics, standards and regulations around AI. On Brazil ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/rich-countries-should-invest-in-latam-to-create-ai-talent/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/rich-countries-should-invest-in-latam-to-create-ai-talent/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/rich-countries-should-invest-in-latam-to-create-ai-talent/",
-      "publishedDateTime": "2020-01-29T15:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2018/09/25/f2e8efdb-8c6c-4884-a8eb-4a1d5b6e2b3c/thumbnail/1200x675/7f2125eac9be0743c7a93613eb1919e4/istock-919118256.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Rich countries should invest in LatAm to create AI talent",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

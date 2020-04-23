@@ -2,6 +2,50 @@
   "page": 80,
   "value": [
     {
+      "path": "_news/2020-01-28-securitiai-scores-50m-series-b-to-modernize-data-governance.md",
+      "title": "Securiti.ai scores $50M Series B to modernize data governance",
+      "excerpt": "Securiti.ai, a San Jose startup, is working to bring a modern twist to data governance and security. Today the company announced a $50 million Series B led by General Catalyst with participation from Mayfield. The company, which only launched in 2018, reports it has already raised $81 million. What is attracting all of this investment in such a ...",
+      "heat": 97,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/01/28/securiti-ai-scores-50m-series-b-to-modernize-data-governance/",
+      "ampWebUrl": "https://techcrunch.com/2020/01/28/securiti-ai-scores-50m-series-b-to-modernize-data-governance/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/28/securiti-ai-scores-50m-series-b-to-modernize-data-governance/amp/",
+      "publishedDateTime": "2020-01-28T09:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/01/PrivacyOps-Center.jpg?w=680",
+          "width": 680,
+          "height": 564,
+          "title": "Securiti.ai scores $50M Series B to modernize data governance",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-01-28-realityengines-launches-its-autonomous-ai-service.md",
       "title": "RealityEngines launches its autonomous AI service",
       "excerpt": "RealityEngines.AI, an AI and machine learning startup founded by a number of former Google executives and engineers, is coming out of stealth today and announcing its first set of products. When the company first announced its $5.25 million seed round last year, CEO Bindu Reddy wasn’t quite ready to disclose RealityEngines’ mission beyond ...",
@@ -1202,50 +1246,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-01-27-ai-accurately-predicts-billie-eilish-bad-guy-grammy-win.md",
-      "title": "AI accurately predicts Billie Eilish 'bad guy' Grammy win",
-      "excerpt": "Lil Nas X was nominated six times and walked away with two wins, according to CBS. Taylor Larkin, a data scientist with the company, used the DataRobot enterprise AI platform to predict the winners for song and record of the year. DataRobot leverages machine-learning models to learn from the past to predict the future. \"For Grammy ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/ai-accurately-predicts-billie-eilish-bad-guy-grammy-win/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ai-accurately-predicts-billie-eilish-bad-guy-grammy-win/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-accurately-predicts-billie-eilish-bad-guy-grammy-win/",
-      "publishedDateTime": "2020-01-27T11:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/01/27/35f461af-b2cc-4f4f-8dee-22ac1ed6bb35/resize/1200x/24932119221d74ceb8807e3600f33dc0/billie-eilish-and-finneas-oconnell.jpg",
-          "width": 1200,
-          "height": 729,
-          "title": "AI accurately predicts Billie Eilish 'bad guy' Grammy win",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

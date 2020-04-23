@@ -2,6 +2,50 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-04-15-awake-security-raises-36-million-for-ai-that-identifies-network-threats.md",
+      "title": "Awake Security raises $36 million for AI that identifies network threats",
+      "excerpt": "“Stolen insider credentials are far more effective than malware for the attacker. These threats cannot be discovered through the use of signatures, or even some of the early approaches to AI-based security that rely on unsupervised machine learning.” One of the major arguments against platforms that use purely unsupervised machine learning ...",
+      "heat": 86,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/15/awake-security-raises-36-million-for-ai-that-identifies-network-threats/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/15/awake-security-raises-36-million-for-ai-that-identifies-network-threats/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/15/awake-security-raises-36-million-for-ai-that-identifies-network-threats/amp/",
+      "publishedDateTime": "2020-04-15T06:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/Screenshot_2020-04-15-Awake-Security-Technology-Walkthrough.png?fit=1244%2C661&strip=all",
+          "width": 1244,
+          "height": 661,
+          "title": "Awake Security raises $36 million for AI that identifies network threats",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-15-frame-ai-raises-63m-series-a-to-help-understand-customers-across-channels.md",
       "title": "Frame AI raises $6.3M Series A to help understand customers across channels",
       "excerpt": "Frame AI, a New York City startup that uses artificial intelligence and machine learning to help companies understand their customers better across multiple channels, announced a $6.3 million Series A investment today. G20 Ventures and Greycroft led the round together. Bill Wiberg, co-founder and partner at G20, will join Frame’s board under ...",
@@ -517,14 +561,14 @@
     {
       "path": "_news/2020-04-15-afp-used-clearview-ai-facial-recognition-software-to-counter-child-exploitation.md",
       "title": "AFP used Clearview AI facial recognition software to counter child exploitation",
-      "excerpt": "Seven officers have conducted searches on the Clearview AI facial recognition platform.",
+      "excerpt": "The Australian Federal Police (AFP) has admitted to using a facial recognition tool, despite not having an appropriate legislative framework in place, to help counter child exploitation. Australia’s encryption laws: An insider’s guide Australia now has world-first encryption laws. This guide explains what the laws can do, what they cannot ...",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.zdnet.com/video/afp-used-clearview-ai-facial-recognition-software-to-counter-child-exploitation/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-14T20:45:00-07:00",
+      "webUrl": "https://www.zdnet.com/article/afp-used-clearview-ai-facial-recognition-software-to-counter-child-exploitation/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/afp-used-clearview-ai-facial-recognition-software-to-counter-child-exploitation/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/afp-used-clearview-ai-facial-recognition-software-to-counter-child-exploitation/",
+      "publishedDateTime": "2020-04-14T20:40:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "ZDNet",
@@ -543,9 +587,9 @@
       },
       "images": [
         {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2020/04/16/43dce3ec-8083-443a-b027-321bdeafee8c/thumbnail/770x578/a5f5db7891dc99aa2234de7b704b2e30/afp-used-clearview-ai-facial-recognition-5e97a875b3157671f8b01e1d-1-apr-16-2020-6-30-34-poster.jpg",
-          "width": 770,
-          "height": 578,
+          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/04/16/43dce3ec-8083-443a-b027-321bdeafee8c/thumbnail/1200x675/cdefb4be9dbcbf757b2c3cad0ac932ec/afp-used-clearview-ai-facial-recognition-5e97a875b3157671f8b01e1d-1-apr-16-2020-6-30-34-poster.jpg",
+          "width": 1200,
+          "height": 675,
           "title": "AFP used Clearview AI facial recognition software to counter child exploitation",
           "attribution": null
         }
@@ -1010,51 +1054,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-14-artificial-intelligence-that-can-evolve-on-its-own-is-being-tested-by-google-scientists.md",
-      "title": "Artificial Intelligence That Can Evolve on Its Own Is Being Tested by Google Scientists",
-      "excerpt": "It's extremely exciting to see if it can turn up any algorithms that we haven't even thought of yet, the impact of which to our daily lives may be enormous,\" one computer expert told Newsweek.",
-      "heat": 81,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.newsweek.com/google-brain-artificial-intelligence-machine-learning-research-evolution-automl-zero-1497781",
-      "ampWebUrl": "https://www.newsweek.com/google-brain-artificial-intelligence-machine-learning-research-evolution-automl-zero-1497781?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/google-brain-artificial-intelligence-machine-learning-research-evolution-automl-zero-1497781?amp=1",
-      "publishedDateTime": "2020-04-14T09:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1581468/stock-math-equations.jpg",
-          "width": 2100,
-          "height": 1428,
-          "title": "Artificial Intelligence That Can Evolve on Its Own Is Being Tested by Google Scientists",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

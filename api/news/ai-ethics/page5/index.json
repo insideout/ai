@@ -2,6 +2,51 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-01-16-new-kmpg-report-says-industry-leaders-want-government-guidance-around-ai.md",
+      "title": "New KMPG report says industry leaders want government guidance around AI",
+      "excerpt": "Companies are making progress on internal ethics but training still lags. Companies are starting to see a few benefits from artificial intelligence, but there are still many roadblocks to progress. In Living in an AI World: Achievements and Challenges of Artificial Intelligence Across Five Industries, KPMG looks at what's working and what isn't ...",
+      "heat": 88,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/article/new-kmpg-report-says-industry-leaders-want-government-guidance-around-ai/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/new-kmpg-report-says-industry-leaders-want-government-guidance-around-ai/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/new-kmpg-report-says-industry-leaders-want-government-guidance-around-ai/",
+      "publishedDateTime": "2020-01-16T06:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr1.cbsistatic.com/hub/i/r/2019/12/04/70d05d50-7fdc-4611-acee-d1c6867906c0/thumbnail/1200x675/075730befe930c61f707faeac9381bfe/20191125-veronica-karen.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "New KMPG report says industry leaders want government guidance around AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2020-01-12-the-white-houses-new-ai-principles-wont-solve-regulatory-problems.md",
       "title": "The White House’s new AI principles won’t solve regulatory problems",
       "excerpt": "The principles themselves address some of the concerns raised by the AI ethics community and academics who study the effects of technology on society. One such principle calls for lawmakers to consider whether the technology will “introduce real-world bias that produces discriminatory outcomes,” echoing the rallying cries of academics who ...",

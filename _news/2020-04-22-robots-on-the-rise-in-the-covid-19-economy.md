@@ -6,7 +6,7 @@ publishedDateTime: 2020-04-22T17:11:00Z
 webUrl: "https://www.securityinfowatch.com/perimeter-security/robotics/news/21135079/robots-on-the-rise-in-the-covid19-economy"
 type: article
 quality: 19
-heat: 19
+heat: -1
 published: false
 
 provider:
@@ -16,6 +16,21 @@ provider:
 topics:
   - AI in Robotics
   - AI
+
+related:
+  - title: "Robots on the rise in the Covid-19 economy"
+    excerpt: "Refraction AI's robot restaurant food delivery service has seen demand increase by four times since the Covid-19 crisis shut down Michigan last month, and the company's engineers are working furiously to expand the company's small fleet of three-wheeled REV 'bots."
+    publishedDateTime: 2020-04-23T01:02:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2020/04/23/robots-on-the-rise-in-the-covid-19-economy"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 39
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2020/04/23/653940.jpeg"
+        width: 1240
+        height: 909
 
 secured: "UMlOEQfkwawRxDYH+LFR4H7SKQzKJ7YP7MYpih3bUMdVuNi8qz2npLmYfiQLyhAQZM+qKCoTmN7HmKzbt5JHXfVLzhUony1f4ebkSpjvPQrJb7mnYpAeiEeQJFh8zMW0U3RcAb7J/ioyIkNlAWKrn09tsnwtZa//QBG8J+MC3k9mP1JnoUKgly6d1iouPFaqTvTP82bJJLTAFU5E23GI7ahCCoiDQpy1oBAHdDou6ImodMZRidDwK62Soj86/3JSSZmQSJ5u1qTR1HqhCtJKFmxJR3EYbhDpk6s/5SktpECqvxJw9kPLHU10+DeHXZe/EucxYyYf3/hNYQK1zcnlvrxu8TWSlgu+fyeqXZYaMOqESlprXR4SEPybNkvoc+gXXl+tIa8pUy4JatdXJBgwtRLlvm7ZNE0zqGe+5gJR+u60nWoPsFjXkhwL4V+vMKBUbVrczep5PRY607TFfA6UmTsAsnjGBwWFuYalzDNfAiE=;v//aZ4PunHuBn4gA6PM0NQ=="
 ---

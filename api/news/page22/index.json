@@ -2,6 +2,43 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2020-04-03-your-face-is-going-places-you-may-not-like.md",
+      "title": "Your Face Is Going Places You May Not Like",
+      "excerpt": "In a study by the ACLU, Amazon’s Rekognition software accidentally matched 28 members of congress with mugshots in its database. The training set isn’t the only problem for recognition.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://hackaday.com/2019/01/02/your-face-is-going-places-you-may-not-like/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-02T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2019/01/Facial.jpg",
+          "width": 3000,
+          "height": 1815,
+          "title": "Your Face Is Going Places You May Not Like",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-02-using-ai-responsibly-to-fight-the-coronavirus-pandemic.md",
       "title": "Using AI responsibly to fight the coronavirus pandemic",
       "excerpt": "Mark Minevich is president of Going Global Ventures, an advisor at Boston Consulting Group, a digital fellow at IPsoft and a leading global AI expert and digital cognitive strategist and venture capitalist. Irakli Beridze is head of the Centre for AI and Robotics at the United Nations Interregional Crime and Justice Research Institute (UNICRI).",
@@ -1031,51 +1068,6 @@
         "Google AI",
         "AI",
         "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2020-04-02-why-robots-will-save-your-career-not-destroy-it.md",
-      "title": "Why Robots Will Save Your Career, Not Destroy It",
-      "excerpt": "AI, despite the challenges it poses for job seekers and the hiring process, is not a problem to be solved — it's a ray of hope.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/04/02/why-robots-will-save-your-career-not-destroy-it/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/04/02/why-robots-will-save-your-career-not-destroy-it/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/04/02/why-robots-will-save-your-career-not-destroy-it/amp/",
-      "publishedDateTime": "2020-04-02T06:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F04%2Fa-61.jpg",
-          "width": 640,
-          "height": 640,
-          "title": "Why Robots Will Save Your Career, Not Destroy It",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

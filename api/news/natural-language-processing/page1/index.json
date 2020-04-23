@@ -5,7 +5,7 @@
       "path": "_news/2020-04-22-google-debuts-ai-in-google-translate-that-addresses-gender-bias.md",
       "title": "Google debuts AI in Google Translate that addresses gender bias",
       "excerpt": "“We’ve made significant progress since our initial launch by increasing the quality of gender-specific translations and also expanding it to 4 more language-pairs,” wrote Google Research senior software engineer Melvin Johnson. “We are committed to further addressing gender bias in Google Translate and plan to extend this work to ...",
-      "heat": 89,
+      "heat": 91,
       "tags": null,
       "type": "article",
       "webUrl": "https://venturebeat.com/2020/04/22/google-debuts-ai-in-google-translate-that-addresses-gender-bias/",
@@ -43,7 +43,8 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
+        "AI",
+        "AI Ethics"
       ]
     },
     {

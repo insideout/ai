@@ -29,6 +29,6 @@ images:
     height: 675
     title: "Nvidia RTX Voice is great for improving sound quality on video calls – and doesn’t actually need an RTX GPU"
 
-secured: "0DafJgSzmDS4je1VLN4FbeCmta5Blg1OT1LhoMMBj3v84hQmD8S4r3HoEA2l6cLN+Lt/AUtj3Pj+U1Dq8DX2rb4EYT+L9Wjc0vEamni8XlXcz9abqkxkKgwkuU8Ah+BxMQAen3kZTjeRs1kdknaUPWy9omplhSs9RZ22tekHznod2RULiAMMhZJIy5h8B5EhAenIKVWWymgIu+iQA1cpZgSgo8J/8yqq4P+o4/7pJaKgcN5QaxBynZs/0slzbDYWtct/cWF+OHDovkzAM08FfZ+YV3mfBI1EllStmm8Q29B9oSBHHA7d3vE8uTT9NXAs;EqrywQXifOCGc0N3PjpwGg=="
+secured: "dTSO30Qgtr24gJb+3Ddi4j4UqVGIP1Ly6cKdcTsItZCZcmGS7bbGMwvxX9XcTjGOIMaChNWFza2wQ1pBZQD95m23iY2FBeuXjFy/v0pchhniUcbNIW0xsfcsr47jodv3iW52CiDQi61otqv4WHGx9Wfye9ZUI91wzh3bpiyL1v4fk9m5l4oBCdULciDfKpvC7vvPIb5tSShTYVL5Hl47ccXdNFKAoaKjHZPrscLwN8xvmprVdZfNBVNB1zAK+m4TRA2ADK0b9HKdwKr6cMruYycHq7dDvsEghbB/QKXbdiHQJ0J5BFMOk8q2IIRFF/JZ1h9K+lZDqAlHmhiR2JN6ZWm7IWZTDh50rcwiUMBEnBgtiwGxKY8HVQfzAGo/6m0Q+hxlWgS/LfrGuiC4TVXmPjYsRfxFNpn3JHbCf6QOJAPef2lUTnmna7WDAkZGae5bZrW/vHj4UlCwsiZ6XdZL/N1V1Mgz+k4Hsjpu1A6vqP0=;vupH7REL1E740D9qP/47rg=="
 ---
 

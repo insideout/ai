@@ -7,8 +7,8 @@ webUrl: "https://venturebeat.com/2020/04/22/google-debuts-ai-in-google-translate
 ampWebUrl: "https://venturebeat.com/2020/04/22/google-debuts-ai-in-google-translate-that-addresses-gender-bias/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/22/google-debuts-ai-in-google-translate-that-addresses-gender-bias/amp/"
 type: article
-quality: 89
-heat: 89
+quality: 91
+heat: 91
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - AI Ethics
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/04/google-reuters-e1586941024905.jpeg?fit=1200%2C600&strip=all"

@@ -2,6 +2,43 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2020-04-04-velodyne-lidar-accused-of-using-pandemic-as-excuse-for-big-job-cuts.md",
+      "title": "Velodyne Lidar accused of using pandemic as excuse for big job cuts",
+      "excerpt": "Businesses everywhere are shedding jobs because of #COVID-19. One San Jose company, Velodyne Lidar, is being accused in a federal lawsuit of using the #pandememic as an excuse to cut 140 jobs on a day's notice as cover to move them overseas.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.bizjournals.com/sanjose/news/2020/04/04/velodyne-lidar-accused-of-using-pandemic-as-excuse.html",
+      "ampWebUrl": "https://www.bizjournals.com/sanjose/news/2020/04/04/velodyne-lidar-accused-of-using-pandemic-as-excuse.amp.html",
+      "cdnAmpWebUrl": "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/sanjose/news/2020/04/04/velodyne-lidar-accused-of-using-pandemic-as-excuse.amp.html",
+      "publishedDateTime": "2020-04-04T07:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Business Journals",
+        "domain": "bizjournals.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.bizj.us/view/img/10307832/velodynelidarsj-6-of-14*600xx1996-1329-0-171.jpg",
+          "width": 600,
+          "height": 399,
+          "title": "Velodyne Lidar accused of using pandemic as excuse for big job cuts",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-04-how-deepminds-agent57-outperformed-humans-in-57-atari-games.md",
       "title": "How DeepMind’s Agent57 Outperformed Humans In 57 Atari Games",
       "excerpt": "In a paper published by DeepMind, a team of scientists from Alphabet’s UK-based research division has claimed that Agent57 – the first deep reinforcement learning agent – has outperformed humans on all 57 Atari 2600 games in the Arcade Learning Environment data set. Agent57 combines an algorithm to efficiently explore a meta controller ...",
@@ -983,51 +1020,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-03-clinical-ai-startup-jvion-launches-covid-community-vulnerability-map.md",
-      "title": "Clinical AI startup Jvion launches COVID community vulnerability map",
-      "excerpt": "In an effort to help flatten the curve in the coronavirus pandemic, clinical AI startup Jvion has launched the COVID Community Vulnerability Map, a free, publicly available tool that identifies populations—down to the census block level—that are likely to experience severe outcomes requiring hospitalization if they contract the virus.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/clinical-ai-startup-jvion-launches-covid-community-vulnerability-map/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/clinical-ai-startup-jvion-launches-covid-community-vulnerability-map/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/clinical-ai-startup-jvion-launches-covid-community-vulnerability-map/",
-      "publishedDateTime": "2020-04-03T08:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/04/03/75ed8f15-e5a5-49f5-9892-df69b2755c95/resize/1200x/6cb7e80e70af315b753960d372303a21/jvion-shot-2020-04-03-at-11-09-35-am.png",
-          "width": 1200,
-          "height": 975,
-          "title": "Clinical AI startup Jvion launches COVID community vulnerability map",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

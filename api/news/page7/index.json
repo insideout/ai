@@ -2,6 +2,51 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-04-16-former-fbi-agent-of-25-years-explains-how-to-speed-read-body-languagenow-that-were-wearing-face-masks.md",
+      "title": "Former FBI agent of 25 years explains how to 'speed-read' body language—now that we're wearing face masks",
+      "excerpt": "Our facial expressions reflect our current emotional conditions. But now that many of us are required to wear face masks (to prevent the spread of coronavirus), detecting each other's thoughts and feelings can be tricky.",
+      "heat": 72,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2020/04/16/retired-fbi-agent-how-to-read-body-language-during-coronavirus-when-wearing-face-masks.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/04/16/retired-fbi-agent-how-to-read-body-language-during-coronavirus-when-wearing-face-masks.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/04/16/retired-fbi-agent-how-to-read-body-language-during-coronavirus-when-wearing-face-masks.html",
+      "publishedDateTime": "2020-04-16T10:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106490292-1586980001137gettyimages-1154813597.jpg?v=1586980056",
+          "width": 6720,
+          "height": 4480,
+          "title": "Former FBI agent of 25 years explains how to 'speed-read' body language—now that we're wearing face masks",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-16-mits-ai-suggests-that-social-distancing-works.md",
       "title": "MIT’s AI suggests that social distancing works",
       "excerpt": "Unlike most of the models that have so far been proposed, this one doesn’t rely on data from studies about previous outbreaks, like SARS or MERS. Instead, it taps an AI algorithm trained to capture the number of infected individuals under quarantine using the SEIR model, which groups people into classes like “susceptible,” “exposed ...",
@@ -1032,51 +1077,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-16-these-are-the-new-hot-spots-of-innovation-in-the-time-of-coronavirus.md",
-      "title": "These are the new hot spots of innovation in the time of coronavirus",
-      "excerpt": "Entrepreneurs are innovating in new ways as a result of the coronavirus. Potential examples include virus resistant nanoparticles for health worker protective gear and home schooling solutions, CEO of global start-up accelerator The Founder Institute Adeo Ressi tells CNBC Make It.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnbc.com/2020/04/15/hot-spots-of-innovation-as-a-result-of-coronavirus-pandemic.html",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/04/15/hot-spots-of-innovation-as-a-result-of-coronavirus-pandemic.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/04/15/hot-spots-of-innovation-as-a-result-of-coronavirus-pandemic.html",
-      "publishedDateTime": "2020-04-15T17:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106490055-1586970735615outschoolteam.jpg?v=1586970997",
-          "width": 1800,
-          "height": 1200,
-          "title": "These are the new hot spots of innovation in the time of coronavirus",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

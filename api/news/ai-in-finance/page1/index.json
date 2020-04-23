@@ -5,7 +5,7 @@
       "path": "_news/2020-04-22-amazon-launches-aws-appflow-a-new-service-for-managing-saas-data-flows.md",
       "title": "Amazon launches AWS AppFlow, a new service for managing SaaS data flows",
       "excerpt": "Also: Top cloud providers in 2020: AWS, Microsoft Azure, and Google Cloud, hybrid, SaaS players Separately, AWS announced that EC2 Inf1 instances are now available to run on SageMaker, its fully-managed machine learning service. First announced at re:Invent 2019, Inf1 are machine learning inference instances powered by Inferentia, the company ...",
-      "heat": 91,
+      "heat": 101,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.zdnet.com/article/amazon-launches-aws-appflow-a-new-service-for-managing-saas-data-flows/",
