@@ -2,6 +2,227 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-04-23-robots-ai-and-the-road-to-a-fully-autonomous-construction-industry.md",
+      "title": "Robots, AI, and the road to a fully autonomous construction industry",
+      "excerpt": "That might’ve seemed like an absurd thing to say back when autonomous driving first entered the collective imagination and companies established their intention to solve AI’s grand autonomous vehicle challenge. But Waymo now takes billions from outside investors, and the delay of major initiatives like GM’s Cruise and taxi service and ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/23/robots-ai-and-the-road-to-a-fully-autonomous-construction-industry/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/23/robots-ai-and-the-road-to-a-fully-autonomous-construction-industry/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/23/robots-ai-and-the-road-to-a-fully-autonomous-construction-industry/amp/",
+      "publishedDateTime": "2020-04-23T06:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/09/built-robotics.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Robots, AI, and the road to a fully autonomous construction industry",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-23-randori-raises-20-million-to-spot-cyberattacks-with-ai.md",
+      "title": "Randori raises $20 million to spot cyberattacks with AI",
+      "excerpt": "Cybersecurity startup Randori today announced that it secured $20 million in equity financing ... Randori tells VentureBeat that it uses AI classification models to prioritize the targets attackers are most interested in, as well as affiliation mechanisms that make up a confidence engine responsible for analyzing information gleaned from ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/23/randori-raises-20-million-to-spot-cyberattacks-with-ai/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/23/randori-raises-20-million-to-spot-cyberattacks-with-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/23/randori-raises-20-million-to-spot-cyberattacks-with-ai/amp/",
+      "publishedDateTime": "2020-04-23T06:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/randori_masthead_updated_photo_x4-1-e1587142028408.png?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Randori raises $20 million to spot cyberattacks with AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-23-otterai-releases-secure-live-interactive-transcripts-for-collaboration-platforms.md",
+      "title": "Otter.ai releases secure, live interactive transcripts for collaboration platforms",
+      "excerpt": "The new feature is available to Otter for Teams and Zoom subscribers with additional video collaboration integrations planned. Voice transcription company Otter.ai has rolled out a new Live Video Meeting Notes feature, which enables participants to open a secure, live interactive transcript directly from a video conference, or after a meeting ...",
+      "heat": 81,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/article/otter-ai-releases-secure-live-interactive-transcripts-for-collaboration-platforms/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/otter-ai-releases-secure-live-interactive-transcripts-for-collaboration-platforms/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/otter-ai-releases-secure-live-interactive-transcripts-for-collaboration-platforms/",
+      "publishedDateTime": "2020-04-23T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/03/24/757c78fb-3099-49b8-8845-3ab72d4964d8/thumbnail/1200x675/1cdb1f301471faa092025ad26e671b30/zoom.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Otter.ai releases secure, live interactive transcripts for collaboration platforms",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-23-paige-raises-5-million-more-from-goldman-sachs-to-detect-cancer-with-computer-vision.md",
+      "title": "Paige raises $5 million more from Goldman Sachs to detect cancer with computer vision",
+      "excerpt": "Health care startup Paige has raised an additional $5 million to help diagnose cancer using computer vision trained with clinical imaging data. The idea is to use data sets related to treatment and genomics to train the company’s deep learning networks to detect breast, prostate, and other major cancers. New York-based Paige has raised over ...",
+      "heat": 107,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/23/paige-raises-5-million-more-from-goldman-sachs-to-detect-cancer-with-computer-vision/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/23/paige-raises-5-million-more-from-goldman-sachs-to-detect-cancer-with-computer-vision/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/23/paige-raises-5-million-more-from-goldman-sachs-to-detect-cancer-with-computer-vision/amp/",
+      "publishedDateTime": "2020-04-23T05:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/paige.jpg?fit=1200%2C722&strip=all",
+          "width": 1200,
+          "height": 722,
+          "title": "Paige raises $5 million more from Goldman Sachs to detect cancer with computer vision",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-23-paige-adds-5m-from-goldman-sachs-to-double-down-on-ai-based-cancer-therapies.md",
+      "title": "Paige adds $5M from Goldman Sachs to double down on AI-based cancer therapies",
+      "excerpt": "“It has highlighted that they are unable to work remotely. The technology we have been building supports the pathology community’s ability to work safely and remotely, and can further accelerate their work through the use of AI technology. Because pathologists’ inability to work remotely is becoming more apparent, it is creating an ...",
+      "heat": 94,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/04/23/paige-adds-5m-from-goldman-sachs-to-double-down-on-ai-based-cancer-therapies/",
+      "ampWebUrl": "https://techcrunch.com/2020/04/23/paige-adds-5m-from-goldman-sachs-to-double-down-on-ai-based-cancer-therapies/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/23/paige-adds-5m-from-goldman-sachs-to-double-down-on-ai-based-cancer-therapies/amp/",
+      "publishedDateTime": "2020-04-23T05:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2018/09/techdoc.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": "Paige adds $5M from Goldman Sachs to double down on AI-based cancer therapies",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-23-time-to-think-ethically-about-ai.md",
       "title": "Time to think ethically about AI",
       "excerpt": "Which means that, when it comes to AI, system design will point at the nirvana of ‘ethics in design’ and ‘ethics by design’ – algorithms that are powerful, scalable and transparent. On the other hand, AI as a new form of agency relies on delegation and responsibility. Delegation is assigning tasks to the machine to lower costs and ...",
@@ -87,7 +308,7 @@
       "path": "_news/2020-04-23-bringing-machine-learning-to-finance-dont-overlook-these-three-key-considerations.md",
       "title": "Bringing Machine Learning To Finance? Don't Overlook These Three Key Considerations",
       "excerpt": "Harnessing the promise and power of machine learning is an exciting prospect for finance executives. Before long, planning systems will operate much like a navigation system for finance teams — a kind of Waze for business.",
-      "heat": 83,
+      "heat": 85,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/04/23/bringing-machine-learning-to-finance-dont-overlook-these-three-key-considerations/",
@@ -125,7 +346,8 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
+        "AI",
+        "AI in Finance"
       ]
     },
     {
@@ -618,6 +840,51 @@
       ]
     },
     {
+      "path": "_news/2020-04-22-facebooks-climate-conversation-map-reveals-reactions-to-environmental-news.md",
+      "title": "Facebook’s Climate Conversation Map reveals reactions to environmental news",
+      "excerpt": "It’s available by request to research partners and nonprofits following a preview last year ... “We look forward to seeing how different organizations use these maps to inform the climate debate and deliver new resources.” Facebook’s work in AI and mapping comes after the social network shared to the OpenStreetMap community the Map ...",
+      "heat": 72,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/22/facebooks-climate-conversation-map-reveals-reactions-to-environmental-news/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/22/facebooks-climate-conversation-map-reveals-reactions-to-environmental-news/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/22/facebooks-climate-conversation-map-reveals-reactions-to-environmental-news/amp/",
+      "publishedDateTime": "2020-04-22T10:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/04/Facebook-sign-F8-e1564693284989.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Facebook’s Climate Conversation Map reveals reactions to environmental news",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-22-increasing-demand-for-natural-language-processing-market-to-fuel-revenue-growth-through-2015-2021.md",
       "title": "Increasing Demand for Natural Language Processing Market to Fuel Revenue Growth Through 2015 - 2021",
       "excerpt": "The MarketWatch News Department was not involved in the creation of the content. Apr 22, 2020 Xherald -- Natural Language processing (NLP) is a field of computer science and artificial intelligence that is concerned with the interaction between computer and human language. Natural language processing basically works as a bridge between human ...",
@@ -838,274 +1105,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-22-googles-ai-teaches-robots-to-grasp-occluded-objects-and-adapt-to-new-situations.md",
-      "title": "Google’s AI teaches robots to grasp occluded objects and adapt to new situations",
-      "excerpt": "In a pair of papers published on the preprint server Arxiv.org this week, Google and University of California, Berkely researchers describe new AI and machine learning techniques that enable robots to adapt to never-before-seen tasks and grasp occluded objects. The first study details X-Ray, an algorithm that when deployed on a robot can search ...",
-      "heat": 82,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/22/googles-ai-teaches-robots-to-grasp-occluded-objects-and-adapt-to-new-situations/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/22/googles-ai-teaches-robots-to-grasp-occluded-objects-and-adapt-to-new-situations/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/22/googles-ai-teaches-robots-to-grasp-occluded-objects-and-adapt-to-new-situations/amp/",
-      "publishedDateTime": "2020-04-22T08:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/10/google-ai-logo.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Google’s AI teaches robots to grasp occluded objects and adapt to new situations",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-22-intel-is-using-ai-to-gather-real-time-data-on-coral-reef-health.md",
-      "title": "Intel is using AI to gather real-time data on coral reef health",
-      "excerpt": "Project CORaiL monitors prosthetic reefs with AI-powered video cameras. There’s no question that coral reefs are rapidly deteriorating due to overfishing, bottom trawling, warming temperatures and unsustainable coastal development. In order to help protect and restore reefs, scientists need more data, and Intel thinks it might have a solution.",
-      "heat": 107,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.engadget.com/intel-ai-monitors-coral-reef-health-152247984.html",
-      "ampWebUrl": "https://www.engadget.com/amp/intel-ai-monitors-coral-reef-health-152247984.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/intel-ai-monitors-coral-reef-health-152247984.html",
-      "publishedDateTime": "2020-04-22T08:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-04%2Ffb956480-84aa-11ea-97ce-b695cf0789e3&client=amp-blogside-v2&signature=b61893ebfaeb73766baa17712deaccb3ea747147",
-          "width": 600,
-          "height": 350,
-          "title": "Intel is using AI to gather real-time data on coral reef health",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-22-impact-of-covid-19-on-artificial-intelligence-market-beyond-2020.md",
-      "title": "Impact of COVID-19 on Artificial Intelligence Market - Beyond 2020",
-      "excerpt": "The MarketWatch News Department was not involved in the creation of the content. The global artificial intelligence market has been segmented in terms of type, application, and region. Based on type, the market has been segmented into artificial neural network, digital assistance system, embedded system, expert system and automated robotic system.",
-      "heat": 81,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/impact-of-covid-19-on-artificial-intelligence-market---beyond-2020-2020-04-22",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-22T08:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Impact of COVID-19 on Artificial Intelligence Market - Beyond 2020",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-04-22-granulate-raises-12-million-to-optimize-server-performance-with-ai.md",
-      "title": "Granulate raises $12 million to optimize server performance with AI",
-      "excerpt": "Applying AI to data center operations isn’t a new idea — IDC predicts that 50% of IT assets ... (Granulate has 14 employees, and it expects to triple its headcount to roughly 40 by 2021.) Sign up for Funding Weekly to start your week with VB's top funding stories.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/22/granulate-raises-12-million-to-optimize-server-performance-with-ai/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/22/granulate-raises-12-million-to-optimize-server-performance-with-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/22/granulate-raises-12-million-to-optimize-server-performance-with-ai/amp/",
-      "publishedDateTime": "2020-04-22T07:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2014/10/hp-servers-e1586902722207.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Granulate raises $12 million to optimize server performance with AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-22-optimizing-hardware-infrastructure-with-data-and-ai-granulate-scores-12-million-series-a-funding.md",
-      "title": "Optimizing hardware infrastructure with data and AI: Granulate scores $12 million Series A funding",
-      "excerpt": "Ezra and his co-founder, Tal Saiag, have a story shared by many Israeli startup founders. They met over a decade ago, and served together in one of Israel's top technological intelligence units. Ezra said that besides the fact that this enabled them to hone their problem solving and initiative taking skills, it also had some technical ...",
-      "heat": 83,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/optimizing-hardware-infrastructure-with-data-and-ai-granulate-scores-12-million-series-a-funding/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/optimizing-hardware-infrastructure-with-data-and-ai-granulate-scores-12-million-series-a-funding/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/optimizing-hardware-infrastructure-with-data-and-ai-granulate-scores-12-million-series-a-funding/",
-      "publishedDateTime": "2020-04-22T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/2020/04/22/75d52d79-fe77-48d3-b2aa-5b33a032fa72/granulate-io.jpg",
-          "width": 595,
-          "height": 418,
-          "title": "Optimizing hardware infrastructure with data and AI: Granulate scores $12 million Series A funding",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-22-comet-ai-nabs-45m-for-more-efficient-machine-learning-model-management.md",
-      "title": "Comet AI nabs $4.5M for more efficient machine learning model management",
-      "excerpt": "To that end, Comet AI announced a $4.5 million investment today as it tries to build a more efficient machine learning platform. The money came from existing investors Trilogy Equity Partners, Two Sigma Ventures and Founder’s Co-op. Today’s investment comes on top of an earlier $2.3 million seed. “We provide a self-hosted and cloud-based ...",
-      "heat": 113,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/04/22/comet-ai-nabs-4-5m-for-more-efficient-machine-learning-model-management/",
-      "ampWebUrl": "https://techcrunch.com/2020/04/22/comet-ai-nabs-4-5m-for-more-efficient-machine-learning-model-management/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/22/comet-ai-nabs-4-5m-for-more-efficient-machine-learning-model-management/amp/",
-      "publishedDateTime": "2020-04-22T06:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/04/GettyImages-927316250.jpg?w=1024",
-          "width": 1024,
-          "height": 768,
-          "title": "Comet AI nabs $4.5M for more efficient machine learning model management",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

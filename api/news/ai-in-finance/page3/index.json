@@ -2,6 +2,51 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-02-24-fintech-the-personal-stories-of-the-money-hackers-who-have-changed-finance.md",
+      "title": "Fintech — The Personal Stories Of The Money Hackers Who Have Changed Finance",
+      "excerpt": "Dan Simon has written a book about the people who created the technology firms that have been changing finance, such as Venmo and Braintree, Credit Karma, Lending Club, Kabbage, Yodlee, Clarity Money and Betterment.",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/tomgroenfeldt/2020/02/24/fintech---the-personal-stories-of-the-money-hackers-who-have-changed-finance/",
+      "ampWebUrl": "https://www.forbes.com/sites/tomgroenfeldt/2020/02/24/fintech---the-personal-stories-of-the-money-hackers-who-have-changed-finance/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomgroenfeldt/2020/02/24/fintech---the-personal-stories-of-the-money-hackers-who-have-changed-finance/amp/",
+      "publishedDateTime": "2020-02-24T11:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e53e07ad378190007f42478%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1283%26cropY1%3D228%26cropY2%3D950",
+          "width": 1200,
+          "height": 676,
+          "title": "Fintech — The Personal Stories Of The Money Hackers Who Have Changed Finance",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2020-02-21-breakingviews-bank-of-englands-ai-approach-will-toughen-up.md",
       "title": "Breakingviews - Bank of England’s AI approach will toughen up",
       "excerpt": "The Bank of England last year picked artificial-intelligence pioneer Alan Turing as the face of its new 50-pound note. It’s an apt choice given the central bank will quickly have to figure out how to ensure that the spread of smart robots throughout finance is a force for good rather than a destabilising influence.",

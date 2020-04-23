@@ -2,6 +2,266 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-04-21-nvidia-launches-project-monai-ai-framework-for-health-care-research-in-alpha.md",
+      "title": "Nvidia launches Project MONAI AI framework for health care research in alpha",
+      "excerpt": "MONAI stands for Medical Open Network for AI. The framework is optimized for the demands of health care researchers and made for running with deep learning frameworks like PyTorch and Ignite. A main goal of the MONAI framework is to help researchers can reproduce their experiments in order t to build upon each other’s work. One example in the ...",
+      "heat": 94,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/21/nvidia-launches-project-monai-ai-framework-for-health-care-research-in-alpha/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/21/nvidia-launches-project-monai-ai-framework-for-health-care-research-in-alpha/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/21/nvidia-launches-project-monai-ai-framework-for-health-care-research-in-alpha/amp/",
+      "publishedDateTime": "2020-04-21T10:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/monai.jpg?fit=1262%2C673&strip=all",
+          "width": 1262,
+          "height": 673,
+          "title": "Nvidia launches Project MONAI AI framework for health care research in alpha",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-21-why-covid-natures-code-cracking-machine-intelligence.md",
+      "title": "Why COVID? Nature’s Code Cracking Machine Intelligence",
+      "excerpt": "Viruses don’t just attack the human body. They attack all the systems we’ve built to sustain modern life. As our systems have evolved, so too have our viruses. Today, we have COVID-19, and if we aren’t careful,",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/williamhaseltine/2020/04/21/why-covid-natures-code-cracking-machine-intelligence/",
+      "ampWebUrl": "https://www.forbes.com/sites/williamhaseltine/2020/04/21/why-covid-natures-code-cracking-machine-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/williamhaseltine/2020/04/21/why-covid-natures-code-cracking-machine-intelligence/amp/",
+      "publishedDateTime": "2020-04-21T09:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e9f1c9d736d170006fedf1b%2F0x0.jpg",
+          "width": 1199,
+          "height": 831,
+          "title": "Why COVID? Nature’s Code Cracking Machine Intelligence",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-21-aws-and-facebook-launch-an-open-source-model-server-for-pytorch.md",
+      "title": "AWS and Facebook launch an open-source model server for PyTorch",
+      "excerpt": "For AWS, that’s mostly SageMaker, the company’s machine learning platform, but as Bratin Saha, AWS VP and GM for Machine Learning Services, told me, the work on PyTorch was mostly motivated by requests from the community. And while there are obviously other model servers like TensorFlow Serving and the Multi Model Server available today ...",
+      "heat": 109,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/04/21/aws-and-facebook-launch-an-open-source-model-server-for-pytorch/",
+      "ampWebUrl": "https://techcrunch.com/2020/04/21/aws-and-facebook-launch-an-open-source-model-server-for-pytorch/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/21/aws-and-facebook-launch-an-open-source-model-server-for-pytorch/amp/",
+      "publishedDateTime": "2020-04-21T09:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/04/GettyImages-175397431.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": "AWS and Facebook launch an open-source model server for PyTorch",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-21-deep-learning-model-can-make-dentists-work-easier.md",
+      "title": "Deep learning model can make dentists' work easier",
+      "excerpt": "The model is based on a fully convolutional architecture, which makes it as fast and data-efficient as possible. Based on the research results, this type of a deep learning model can localize the mandibular canals highly accurately. It surpasses the statistical shape models, which have thus far been the best, automatized method to localize the ...",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.news-medical.net/news/20200421/Deep-learning-model-can-make-dentists-work-easier.aspx",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20200421/Deep-learning-model-can-make-dentists-work-easier.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200421/Deep-learning-model-can-make-dentists-work-easier.aspx",
+      "publishedDateTime": "2020-04-21T09:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.news-medical.net/image.axd?picture=2019%2f5%2ffuturistic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": "Deep learning model can make dentists' work easier",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-21-low-trust-versus-high-trust-beliefs-will-impact-the-growth-of-ai-including-for-self-driving-cars.md",
+      "title": "Low-Trust Versus High-Trust Beliefs Will Impact The Growth Of AI, Including For Self-Driving Cars",
+      "excerpt": "To make things parsimonious, there are two overarching categories conventionally used when discussing trust levels, namely a citizenry of little or no trust, known as a low-trust nation or locale, versus being characterized as a high-trust nation or locale,",
+      "heat": 86,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/04/21/low-trust-versus-high-trust-beliefs-will-impact-the-growth-of-ai-including-for-self-driving-cars/",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/04/21/low-trust-versus-high-trust-beliefs-will-impact-the-growth-of-ai-including-for-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/04/21/low-trust-versus-high-trust-beliefs-will-impact-the-growth-of-ai-including-for-self-driving-cars/amp/",
+      "publishedDateTime": "2020-04-21T09:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F182201783%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5600%26cropY1%3D419%26cropY2%3D3567",
+          "width": 1200,
+          "height": 675,
+          "title": "Low-Trust Versus High-Trust Beliefs Will Impact The Growth Of AI, Including For Self-Driving Cars",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-21-ai-indicates-which-symptoms-might-be-leading-indicators-of-covid-19.md",
+      "title": "AI indicates which symptoms might be leading indicators of COVID-19",
+      "excerpt": "In a preprint paper published this week on Arxiv.org, a team of researchers from the Mayo Clinic and Nference, a startup developing tech that analyzes text from biomedical publications, report that they’ve used AI to isolate phenotypes characteristic of the coronavirus. They claim that a specific combination of cough and diarrhea, along with ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/21/ai-indicates-which-symptoms-might-be-leading-indicators-of-covid-19/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/21/ai-indicates-which-symptoms-might-be-leading-indicators-of-covid-19/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/21/ai-indicates-which-symptoms-might-be-leading-indicators-of-covid-19/amp/",
+      "publishedDateTime": "2020-04-21T09:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2016/05/diagnosis-e1585691897976.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "AI indicates which symptoms might be leading indicators of COVID-19",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-21-googles-dynamicembedding-framework-extends-tensorflow-to-colossal-scale-applications.md",
       "title": "Google’s DynamicEmbedding framework extends TensorFlow to ‘colossal-scale’ applications",
       "excerpt": "In a preliminary whitepaper published this week on Arxiv.org, Google researchers describe DynamicEmbedding, which extends Google’s TensorFlow machine learning framework to “colossal-scale” applications with arbitrary numbers of features (e.g., search queries). According to Google, AI models developed on it have achieved significant ...",
@@ -840,257 +1100,6 @@
       "topics": [
         "AI",
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-20-contactless-delivery-using-self-driving-cars-coming-to-irvine-ca-amid-coronavirus.md",
-      "title": "Contactless delivery using self-driving cars coming to Irvine, CA amid coronavirus",
-      "excerpt": "For the most up-to-date news and information about the coronavirus pandemic, visit the WHO website . A Toyota-backed self-driving car startup will soon jump into the and contactless delivery game. Pony.",
-      "heat": 78,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnet.com/roadshow/news/autonomous-grocery-delivery-toyota-pony-ai-irvine-california-coronavirus/",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/autonomous-grocery-delivery-toyota-pony-ai-irvine-california-coronavirus/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/autonomous-grocery-delivery-toyota-pony-ai-irvine-california-coronavirus/",
-      "publishedDateTime": "2020-04-20T11:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cnet1.cbsistatic.com/img/GKSW9ZW-FYkRooxXACcCq9i2OZw=/2020/04/17/549366cd-a19a-4cd5-b5da-3e913fe04605/ogi-pony.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": "Contactless delivery using self-driving cars coming to Irvine, CA amid coronavirus",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-20-clearview-ai-source-code-revealed-exposing-majority-security-lapse.md",
-      "title": "Clearview AI source code revealed, exposing majority security lapse",
-      "excerpt": "Hussein also found the source code had been configured to allow anyone to register as a new user and log in to the platform. Hoan Ton-That, CEO and co-founder of Clearview AI, responded to the cybersecurity lapse, saying that it “did not expose any personally identifiable information, search history, or biometric identifiers.” He added that ...",
-      "heat": 88,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.itpro.co.uk/security/cyber-security/355374/clearview-ai-source-code-revealed-exposing-majority-security-lapse",
-      "ampWebUrl": "https://www.itpro.co.uk/security/cyber-security/355374/clearview-ai-source-code-revealed-exposing-majority-security-lapse?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/security/cyber-security/355374/clearview-ai-source-code-revealed-exposing-majority-security-lapse?amp",
-      "publishedDateTime": "2020-04-20T10:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk//image/upload/v1587403508/shutterstock_1658378527.jpg",
-          "width": 5000,
-          "height": 3051,
-          "title": "Clearview AI source code revealed, exposing majority security lapse",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-20-using-ai-to-build-better-chips.md",
-      "title": "Using AI To Build Better Chips",
-      "excerpt": "With so many startups and large semiconductor firms racing to get new AI chips to market, electronic tool and design service firms like Synopsis, Cadence and Mentor Graphics are looking for new approaches to help designers speed their time to market. Ironically, one of the approaches being taken is to use AI to help build better AI chips.",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2020/04/20/using-ai-to-build-better-chips/",
-      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2020/04/20/using-ai-to-build-better-chips/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2020/04/20/using-ai-to-build-better-chips/amp/",
-      "publishedDateTime": "2020-04-20T10:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-20-introducing-the-digital-startup-alley-package-for-disrupt-sf.md",
-      "title": "Introducing the Digital Startup Alley Package for Disrupt SF",
-      "excerpt": "The Digital Startup Alley Package covers three people and includes: CrunchMatch: TechCrunch’s AI-powered founder/investor networking platform. Save time, zero in and connect with the people who can move your business forward. Each startup will create a customizable profile, allowing startups to easily note their value add and business model ...",
-      "heat": 72,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/04/20/introducing-the-digital-startup-alley-package-for-disrupt-sf/",
-      "ampWebUrl": "https://techcrunch.com/2020/04/20/introducing-the-digital-startup-alley-package-for-disrupt-sf/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/20/introducing-the-digital-startup-alley-package-for-disrupt-sf/amp/",
-      "publishedDateTime": "2020-04-20T10:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/03/CrunchMatch.png?w=1024",
-          "width": 1024,
-          "height": 512,
-          "title": "Introducing the Digital Startup Alley Package for Disrupt SF",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-20-cognex-introduces-worlds-first-industrial-smart-camera-powered-by-deep-learning.md",
-      "title": "Cognex Introduces World's First Industrial Smart Camera Powered by Deep Learning",
-      "excerpt": "PRWeb/ -- Cognex Corporation, the leader in industrial machine vision, introduces the In-Sight® D900 embedded vision system. A first-of-its-kind solution, the In-Sight D900 features Cognex's ViDiTM deep learning software inside an In-Sight industrial-grade smart camera.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://markets.businessinsider.com/news/stocks/cognex-introduces-world-s-first-industrial-smart-camera-powered-by-deep-learning-1029108615",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/cognex-introduces-world-s-first-industrial-smart-camera-powered-by-deep-learning-1029108615",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/cognex-introduces-world-s-first-industrial-smart-camera-powered-by-deep-learning-1029108615",
-      "publishedDateTime": "2020-04-20T10:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-20-this-covid-19-app-would-listen-to-your-cough-and-use-ai-to-predict-whether-you-have-coronavirus.md",
-      "title": "This COVID-19 app would listen to your cough and use AI to predict whether you have coronavirus",
-      "excerpt": "A slew of AI labs are currently aiming to fight coronavirus with apps that analyze audio from people speaking, breathing, or coughing.",
-      "heat": 75,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businessinsider.com/app-would-listen-cough-predict-coronavirus-2020-4",
-      "ampWebUrl": "https://www.businessinsider.com/app-would-listen-cough-predict-coronavirus-2020-4?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/app-would-listen-cough-predict-coronavirus-2020-4?amp",
-      "publishedDateTime": "2020-04-20T10:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.insider.com/5e9dc9c192e8ba71ef0c6fc8?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": "This COVID-19 app would listen to your cough and use AI to predict whether you have coronavirus",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

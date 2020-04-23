@@ -50,7 +50,7 @@
       "path": "_news/2020-04-23-bringing-machine-learning-to-finance-dont-overlook-these-three-key-considerations.md",
       "title": "Bringing Machine Learning To Finance? Don't Overlook These Three Key Considerations",
       "excerpt": "Harnessing the promise and power of machine learning is an exciting prospect for finance executives. Before long, planning systems will operate much like a navigation system for finance teams — a kind of Waze for business.",
-      "heat": 83,
+      "heat": 85,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/04/23/bringing-machine-learning-to-finance-dont-overlook-these-three-key-considerations/",
@@ -88,7 +88,8 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
+        "AI",
+        "AI in Finance"
       ]
     },
     {
@@ -1189,10 +1190,10 @@
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.nextgov.com/emerging-tech/2020/04/pentagon-needs-tools-test-limits-its-artificial-intelligence-projects/164687/?oref=ng-skybox-lander",
+      "webUrl": "https://www.nextgov.com/emerging-tech/2020/04/pentagon-needs-tools-test-limits-its-artificial-intelligence-projects/164687/",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-16T14:50:00-07:00",
+      "publishedDateTime": "2020-04-16T14:43:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Nextgov",

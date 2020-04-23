@@ -23,23 +23,6 @@ images:
     height: 750
     title: "Robots providing social support while we’re social distancing"
 
-related:
-  - title: "Self-driving robots keep deliveries moving for some businesses during the coronavirus pandemic"
-    excerpt: "In Washington D.C., some companies are turning to robots -- some of which are self-driving -- to deliver groceries. The self-driving delivery-robot was created by Starship Technologies. The advanced devices can travel within a four-mile radius of their starting location, and its entire journey and location can be monitored on a smartphone."
-    publishedDateTime: 2020-04-18T20:05:00Z
-    webUrl: "https://fox6now.com/2020/04/18/self-driving-robots-keep-deliveries-moving-for-some-businesses-during-the-coronavirus-pandemic/"
-    ampWebUrl: "https://fox6now.com/2020/04/18/self-driving-robots-keep-deliveries-moving-for-some-businesses-during-the-coronavirus-pandemic/amp/"
-    cdnAmpWebUrl: "https://fox6now-com.cdn.ampproject.org/c/s/fox6now.com/2020/04/18/self-driving-robots-keep-deliveries-moving-for-some-businesses-during-the-coronavirus-pandemic/amp/"
-    type: article
-    provider:
-      name: FOX6 Milwaukee
-      domain: fox6now.com
-    quality: 32
-    images:
-      - url: "https://localtvwiti.files.wordpress.com/2020/04/rd1.jpeg?quality=85&strip=all&w=1200"
-        width: 1200
-        height: 675
-
 secured: "MblIphs+oC8bq1tug7ryVRy91UfaqfDM2lArp5hQNsYcpHxy4qBHpYlsQ+JVcpMN59BbvQj2nixFrF4YyPSngl6LPzL7vLiPFli8Sg7TrMriPc/j9IVdoYY4XtCVQV/21Jdrz4alMLgLV/DKnNSATF/ZqWJOOutNTAghmkqlLDVjPDcimOFAqnLphySSkcpwXQxPkwvZ6ULrP8sMl7ArZ3VM+gAvdvmXFEetfeH03WKA1IFLZq0siwARZr4lsqB9ebNPlF+vMtdpRUY2r9G6Gxmgsr7jxULlJCgEMyorGuJt8a8TJAlFa/etgtFFKnex;T/LOsi1lP+wdLBt3/i5zRQ=="
 ---
 

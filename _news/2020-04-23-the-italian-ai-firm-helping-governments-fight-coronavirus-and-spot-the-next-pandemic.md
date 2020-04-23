@@ -28,6 +28,6 @@ images:
     height: 676
     title: "The Italian AI Firm Helping Governments Fight Coronavirus — And Spot The Next Pandemic"
 
-secured: "2j8rtxDpKao7sL2Et2wtgw+V/5QXGwnp5ubGB9HiZCVq7bUMXrLndFa+9O+roO47coRYoS8gZDITldKkZawE+oPytFXLF4iploNycm9NFg/MSQvZC8wzTHXscAPe4GTa4b+gLsuCG5Z8h1g9pCr7JJtMLLViNtt3I5xI8Pvt+KwOM/UtUugS0p3zln2AX5qfzAF5BOagLUR6iROAf13ZYGFi58pWcMHIvn3zWpzYzXWrQ0/qcR7t7V0bJpz2EfamsrnTGMi4Te28Q6bjQQpoSIf9GQt7HLjhi/kbL+dXebkxer9st1o3tfkQ12QTKpe5;mdH20N7xEwzRMk3kJ2/SWg=="
+secured: "hlo0MjSfWUET7yI20Vb/1xGNnpsb0dKnfCIaceXJw5LjaI4kjYrpaH3/BncR/sHSS+fF4lExTmGpNOvHE2ixiqiB6AdEBclQmwMwaMlEwp4Al92PRhrCe6/sGlJ0LdD1Ly4K7edq7YEB3y0hu8Uv3nBsj3ZFPOOfeTLkiF2iRCSoZkrPGy24Vf+Wqx8iXvSD+iLFKuF/ZuYQuyGFAEY2tfy8vIegwG78RD8FqH2ooVIT05dh6Ow7V/+iaCORUUydsrJaUHQs7eAQwEGJu5ExbFHhUFfjyIkhpjwVhl+QKWLHN34Fw9hwIleAt68yklzTzk06zSee+VMU/J0DfCoLAOJn70BKz8Ay9+Na1D6r6iRbBbp8+wrwSG+3ECnoM6596GdktpHL7rPYhbMef/em+VzoqcSvNjFelgrxLKRgfX+QEPMrMBYZC8jHo3Yg0THgOxG8i4mPRBUa7knQ0OXevdAtJeaUA8h87fQ8Ro6z4Jw=;a4PhLtvPlXZWIoSy3dBhLg=="
 ---
 

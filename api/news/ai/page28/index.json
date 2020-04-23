@@ -2,6 +2,213 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2020-03-26-what-an-all-digital-ai-research-conference-looks-like.md",
+      "title": "What an all-digital AI research conference looks like",
+      "excerpt": "Organizers of the International Conference on Learning Representations (ICLR) shared details about what will be one of the largest-ever all-digital AI research conferences. The weeklong, online-only affair will feature more than 650 machine learning works. ICLR will include live chat, live Zoom video calls for Q&As and research author meetings ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/03/26/what-an-all-digital-ai-research-conference-looks-like/",
+      "ampWebUrl": "https://venturebeat.com/2020/03/26/what-an-all-digital-ai-research-conference-looks-like/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/26/what-an-all-digital-ai-research-conference-looks-like/amp/",
+      "publishedDateTime": "2020-03-26T06:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/11/ai-brain.jpg?fit=1200%2C595&strip=all",
+          "width": 1200,
+          "height": 595,
+          "title": "What an all-digital AI research conference looks like",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-26-3-healthcare-stocks-to-buy-for-ai-and-big-data.md",
+      "title": "3 Healthcare Stocks to Buy for AI and Big Data",
+      "excerpt": "However one of the major problems in the healthcare sector is how to collect and efficiently use data. The health care sector looks to be a logical application for artificial intelligence (AI) and big data. However, there are legitimate privacy concerns about the use of this data. One concern is how healthcare data can be used in predictive ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://investorplace.com/2020/03/healthcare-stocks-using-ai-big-data/",
+      "ampWebUrl": "https://investorplace.com/2020/03/healthcare-stocks-using-ai-big-data/amp/",
+      "cdnAmpWebUrl": "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/03/healthcare-stocks-using-ai-big-data/amp/",
+      "publishedDateTime": "2020-03-26T06:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InvestorPlace",
+        "domain": "investorplace.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://investorplace.com/wp-content/uploads/2019/07/healthcare1600a.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": "3 Healthcare Stocks to Buy for AI and Big Data",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-26-how-a-freshly-funded-robotics-startup-wants-to-help-hospitals-dealing-with-coronavirus.md",
+      "title": "How a freshly funded robotics startup wants to help hospitals dealing with coronavirus",
+      "excerpt": "The Austin startup makes robot assistants that help hospital staff with routine tasks. Moxi is the name of their current robot. It uses artificial intelligence to help hospital staff take care of things like delivering clean linens, gauze and syringes and setting up rooms for patients. DNX Ventures led the round, which also included existing ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.bizjournals.com/austin/news/2020/03/26/how-a-freshly-funded-robotics-startup-wants-to.html",
+      "ampWebUrl": "https://www.bizjournals.com/austin/news/2020/03/26/how-a-freshly-funded-robotics-startup-wants-to.amp.html",
+      "cdnAmpWebUrl": "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/austin/news/2020/03/26/how-a-freshly-funded-robotics-startup-wants-to.amp.html",
+      "publishedDateTime": "2020-03-26T06:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Business Journals",
+        "domain": "bizjournals.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.bizj.us/view/img/11238834/diligent-robotics-founders-moxi*600xx5725-3817-0-0.jpg",
+          "width": 600,
+          "height": 400,
+          "title": "How a freshly funded robotics startup wants to help hospitals dealing with coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-26-tusimple-zf-partner-to-develop-and-produce-autonomous-truck-technologies.md",
+      "title": "TuSimple, ZF partner to develop and produce autonomous truck technologies",
+      "excerpt": "The companies will accelerate self-driving tech developed for big rigs with true driverless tests start in 2021.",
+      "heat": 83,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnet.com/roadshow/news/tusimple-zf-autonomous-truck-technology-partnership/",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/tusimple-zf-autonomous-truck-technology-partnership/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tusimple-zf-autonomous-truck-technology-partnership/",
+      "publishedDateTime": "2020-03-26T06:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cnet4.cbsistatic.com/img/4pHgn_zavWjuSyUQlY-w2dLTIJE=/2020/03/26/c78205ca-e6b7-438e-a579-08892973d5ae/p1133202-scaled-ogi.jpg",
+          "width": 2560,
+          "height": 1344,
+          "title": "TuSimple, ZF partner to develop and produce autonomous truck technologies",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-26-how-ai-can-help-pinpoint-opportunity-zones-true-opportunities.md",
+      "title": "How AI Can Help Pinpoint Opportunity Zones' True Opportunities",
+      "excerpt": "Alternative sources like street views, cellular data and social media, rather than out-of-date information from U.S. Census data, offer clearer views of potential opportunities within Opportunity Zones.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/jeffsteele/2020/03/26/how-ai-can-help-pinpoint-opportunity-zones-true-opportunities/",
+      "ampWebUrl": "https://www.forbes.com/sites/jeffsteele/2020/03/26/how-ai-can-help-pinpoint-opportunity-zones-true-opportunities/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jeffsteele/2020/03/26/how-ai-can-help-pinpoint-opportunity-zones-true-opportunities/amp/",
+      "publishedDateTime": "2020-03-26T06:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e7bdf5fd8e1ae0007b7814e%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3612%26cropY1%3D356%26cropY2%3D2049",
+          "width": 1200,
+          "height": 563,
+          "title": "How AI Can Help Pinpoint Opportunity Zones' True Opportunities",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-26-news-rules-could-finally-clear-the-way-for-self-driving-cars.md",
       "title": "News Rules Could Finally Clear the Way for Self-Driving Cars",
       "excerpt": "Since an internet search company named Google began testing self-driving vehicles more than a decade ago, the still-in-development technology has faced a niggling issue: The federal vehicle safety rules that govern car design assume that a human sits behind the steering wheel of each vehicle. In fact, they assume each vehicle has a steering wheel.",
@@ -985,213 +1192,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-25-the-covid-19-pandemic-is-a-crisis-that-robots-were-built-for.md",
-      "title": "The Covid-19 Pandemic Is a Crisis That Robots Were Built For",
-      "excerpt": "Ever more sophisticated robots and AI are augmenting human workers, rather than replacing them entirely ... argue a dozen roboticists in an editorial out today in the journal Science Robotics. Perhaps “people start to reflect that for situations such as this, how robots can be used not only to help with in terms of social distancing, but ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wired.com/story/covid-19-pandemic-robots/",
-      "ampWebUrl": "https://www.wired.com/story/covid-19-pandemic-robots/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/covid-19-pandemic-robots/amp",
-      "publishedDateTime": "2020-03-25T11:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5e7a57d18283f9000a415185/master/pass/Science_covid19_1207640994.jpg",
-          "width": 2300,
-          "height": 1533,
-          "title": "The Covid-19 Pandemic Is a Crisis That Robots Were Built For",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-25-how-do-we-get-ai-out-of-the-early-adopter-phase-its-about-people.md",
-      "title": "How do we get AI out of the early adopter phase? It's about people",
-      "excerpt": "For those companies that are still kicking the tires on AI, it's natural that cultural antibodies would fight against it. It's new and (as yet) unproven. As it gets implemented in production, however, people start to see the value and the antibodies dissipate, as can be seen in the vastly diminished cultural headwinds for those companies that ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/how-do-we-get-ai-out-of-the-early-adopter-phase-its-about-people/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/how-do-we-get-ai-out-of-the-early-adopter-phase-its-about-people/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-do-we-get-ai-out-of-the-early-adopter-phase-its-about-people/",
-      "publishedDateTime": "2020-03-25T10:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr4.cbsistatic.com/hub/i/r/2019/04/30/5b11ee32-73c2-44a4-8b2b-3e5f9e608f39/resize/1200x/597423bf50db8a7114b211dfeb791671/istock-889289314azure.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "How do we get AI out of the early adopter phase? It's about people",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-25-google-details-metnet-an-ai-model-better-than-noaa-at-predicting-precipitation.md",
-      "title": "Google details MetNet, an AI model better than NOAA at predicting precipitation",
-      "excerpt": "In a blog post and accompanying paper, researchers at Google detail an AI system — MetNet — that can predict precipitation up to eight hours into the future. They say that it outperforms the current state-of-the-art physics model in use by the U.S. National Oceanic and Atmospheric Administration (NOAA) and that it makes a prediction over ...",
-      "heat": 83,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/03/25/google-details-metnet-an-ai-model-better-than-noaa-at-predicting-precipitation/",
-      "ampWebUrl": "https://venturebeat.com/2020/03/25/google-details-metnet-an-ai-model-better-than-noaa-at-predicting-precipitation/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/25/google-details-metnet-an-ai-model-better-than-noaa-at-predicting-precipitation/amp/",
-      "publishedDateTime": "2020-03-25T10:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/10/google-2-e1576088234162.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Google details MetNet, an AI model better than NOAA at predicting precipitation",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-25-analyzing-and-optimizing-amazon-lex-conversations-using-dashbot.md",
-      "title": "Analyzing and optimizing Amazon Lex conversations using Dashbot",
-      "excerpt": "This post is co-written by Arte Merritt, co-founder and CEO of Dashbot. In their own words, “Dashbot is an analytics platform for chatbots and voice skills that enables enterprises to increase engagement, satisfaction, and conversions through actionable insights and tools.” \nAfter you have deployed a",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/analyzing-and-optimizing-amazon-lex-conversations-using-dashbot/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-25T09:38:44-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/03/23/dashbot-9.gif",
-          "width": 1000,
-          "height": 557,
-          "title": "Analyzing and optimizing Amazon Lex conversations using Dashbot",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-25-yokogawa-acquires-danish-startup-grazper-technologies-specialists-in-ai-for-image-analytics.md",
-      "title": "Yokogawa Acquires Danish Startup Grazper Technologies, Specialists in AI for Image Analytics",
-      "excerpt": "Grazper has developed advanced artificial intelligence (AI) technologies for analysing images, and Yokogawa aims to leverage these technologies within its various existing businesses and to develop new industrial AI solutions. Why 100% Accurate Technical Translation Is a ... circuit design in the hardware language About Yokogawa Founded in ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.manufacturingtomorrow.com/news/2020/03/25/yokogawa-acquires-danish-startup-grazper-technologies-specialists-in-ai-for-image-analytics/15024/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-25T08:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Manufacturing",
-        "domain": "manufacturingtomorrow.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

@@ -28,6 +28,6 @@ images:
     height: 3051
     title: "Clearview AI source code revealed, exposing majority security lapse"
 
-secured: "l6v4cfUSXIAR3u2RBNDciWBN/gX4Qs/0PvxLC7YYlWV5P7eLuagYY1gAUXGIh6jt/fneqwvqFX9rdEfd+7iwDrPPV0/HbIdSYc3v0wqJZxSipZWowYP8V9SOySwwiBgsx5U9L0mTIM6NSy6fdRIq/0xcXgQwGsh5/XQil5p96I5gW20E+cOZ/zglvtFrlUk1/CR8zh6jIH3hfvfQ83SpbVvFPb/9clrXOsBrzo+ZvWTAv6SRe5ryj733fZBT/fGtKtGKCGl5w7BkiiruCcxcjcLzFeHON+kP27HCwZCtqCj7lOV2OAWAsxejcVlCZt1r;9LoQWC0LxFhn0DoplC7jGQ=="
+secured: "FMiGrGy0h8ijju8ZNs1FT/J4ZUL4dbSmhR2KPc5qH/+iEBawt40BwoM0ZTxtWVnxKqgE00Kiol4niZq2GYC7SQYvwp4hOeLFAMRnjP7QG5S+Aujm+1DRbd8OernudYlJ4dybBAERm40r7jc2juV2tO/uXh46bGWOzM0EUH81ejWA1hbYz2FmdrmpyLdZqGnSfUzjbK3ZG6zK26DunxLcILAn5FyLNVsDle5AnVsUteWavCTFnuV22ysw3GDzmO5ghqKQY0apcYZSaI/pL1Llo5OxLesiwYwSn0gwWl46Yva052lNoGppCbfs6XX0HyG5;U5s6PnxSg3sXi4nqOo3nUQ=="
 ---
 

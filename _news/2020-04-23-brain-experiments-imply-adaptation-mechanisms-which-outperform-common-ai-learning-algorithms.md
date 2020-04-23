@@ -6,7 +6,7 @@ publishedDateTime: 2020-04-23T09:07:00Z
 webUrl: "https://www.nature.com/articles/s41598-020-63755-5"
 type: article
 quality: 26
-heat: 26
+heat: -1
 published: false
 
 provider:
@@ -21,6 +21,23 @@ images:
     width: 589
     height: 685
     title: "Brain experiments imply adaptation mechanisms which outperform common AI learning algorithms"
+
+related:
+  - title: "Scientists demonstrate new brain-inspired learning mechanism"
+    excerpt: "The origin of machine and deep learning algorithms, which increasingly affect almost all aspects of our life, is the learning mechanism of synaptic (weight) strengths connecting neurons in our brain. Attempting to imitate these brain functions, researchers bridged between neuroscience and artificial intelligence over half a century ago."
+    publishedDateTime: 2020-04-23T13:55:00Z
+    webUrl: "https://www.news-medical.net/news/20200423/Scientists-demonstrate-new-brain-inspired-learning-mechanism.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20200423/Scientists-demonstrate-new-brain-inspired-learning-mechanism.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200423/Scientists-demonstrate-new-brain-inspired-learning-mechanism.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 59
+    images:
+      - url: "https://www.news-medical.net/image.axd?picture=2019%2f5%2ffuturistic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
+        width: 620
+        height: 480
 
 secured: "C56ZrgPLl3POVVdrUOUnLnz/53/JMRmsx0MJ3jLB+SpwQWb4R1mr8qHuECLi8Y/sX1+zealPyu9mEEvlybxqzT93l51Ns0XKv+lx52KMuPUHQ27ddSw0K33ptsKw7iDOGgmcbSMv5xCVnSdRZ4UfH0IBvd2mlXoh19+dtTGSWsB83IfQM+WrveM3qnLkrXInpsk2N6UYgNxHrvjqRBLassDhXPJt7PyRuc/IcmCkEkivZAYZVtvZWvLBbkobSVwOs3g7LwddHJArF/JbC8vbCc/qlD5kOfF+wigOnYaxiOUwzvNp4dvL2n2O8mUBim+l3lsAbB7JTYTpozLaDbJIatHfco7YJwAw/Ov2509CvkP0e097sH+2lLAoO/ztKgMcQRbMW07joALX4PZgH3OjMdEciM4vmhanNzsypjMDaqJRec+zzkUrLrFtOoelzBns0nIWz7lbU4ygZv/+TfcKB6eISXqcWD2T/Xeju2fvShk=;26wBUslalIw9woGHu8JJEw=="
 ---
