@@ -24,15 +24,19 @@ images:
     title: "Global Emotion Detection and Recognition (EDR) Market - Increase in Connected Wearable Devices Driving Market Growth - ResearchAndMarkets.com"
 
 related:
-  - title: "Festo and MassRobotics to Create Innovations in Robotics and Automation Through New Partnership"
-    excerpt: "Perceptions of Collaborative Robotics Post, COVID-19, Q&A with Productive Robotics The Importance of the Speed-Torque Gradient in DC Motor Sizing Understanding the Motor Constant in DC Motor Sizing New Artificial Intelligence Error Proofing Features Machine Learning Technology Surviving a Global Cyberattack - Company Culture Plays a Pivotal ..."
-    publishedDateTime: 2020-04-23T13:13:00Z
-    webUrl: "https://www.roboticstomorrow.com/news/2020/04/23/festo-and-massrobotics-to-create-innovations-in-robotics-and-automation-through-new-partnership/15186/"
+  - title: "Secureye launches contactless fever detector with biometric facial recognition tech"
+    excerpt: "Secureye has released a contactless temperature detection and biometric facial recognition product to help companies in India identify individuals with a high fever, as part of their COVID-19 containment efforts. Contactless attendance of employees is becoming vital as coronavirus keeps spreading fast across the world. Some of the key features ..."
+    publishedDateTime: 2020-04-23T19:26:00Z
+    webUrl: "https://www.biometricupdate.com/202004/secureye-launches-contactless-fever-detector-with-biometric-facial-recognition-tech"
     type: article
     provider:
-      name: Robotics Tomorrow
-      domain: roboticstomorrow.com
-    quality: 22
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 33
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/04160101/facial-recognition-for-biometric-access-control-housing.jpeg"
+        width: 1600
+        height: 1035
 
 secured: "bR68tccOB/qVBqmzqteZyW/zDCvLSeFdJi90Wanfcchc4a7wfRAuElK3L+NN2ZSuyFMfx+pJeEO4S6hdW/bujtBEtiOQJ5/cgwKzOYt3o4dr/74LzBM6tfR5ObXsLby5kvTCd1HEqcS08A1jCry+R0o4in2uR6LXS8A+fVTlMnIHCkdfs3KcUMgJE5C7ncOlhTp9TyaRDrc1oQz93Dmn27jncxk5KMCh0+idi//ZZcW/MBwMQ1OXcC/xbF2ieK0Pt4J94L7z5fPLsyH/k/+K6N5yY6M3o+3Pmqa6mFMOH3p57r2aL8O+c1AWQ2+nbIfx/zsyQMlMADXpcBiH+gyZHqwJH+p0TvLyHExMXuNjoL089FEdKxtERmsaly9brUgUqTPjv1ZDYSxM0Lx6ZxU19scGfnDl0+uuYIala7Pj8lDMb6139ampQTL5D5i9M8v5UVUHZzHlRdpa851SJvJ4ycOZwHhGUNZUIISkc4faFBU=;qeg80nQXTxXkdGb5nLdnDg=="
 ---

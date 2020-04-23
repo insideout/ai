@@ -22,6 +22,6 @@ images:
     height: 419
     title: "Global Artificial Intelligence (AI) Industry Outlook, 2020-2025 - AI Chipsets, AI in Edge Networks, AI and 5G, AI and Real-time Data Processing"
 
-secured: "E9r6vK1YnU8DnMFdcDHhsgb32MDhZF1C/hfAVN6E279t9/ngJe3uleUgyaensiMgH4aiwE5wH/v0n+nEew6MwY7WCTwFel/GQ/6lJF4Bxx9HTwspawYHOA/ANIkws3LoSJfVL0Jw6yJXCS+WLkLNZrC5Fal5WRF/RLz7voWaAOkDfJegQvz3+T2Li0uU4N5A0oRMe2BMfcC5Xadq5oCVzJzAYRrJPxs6a9Vyn93oW/KUo6QjPnBrYdSkuH0V1kTjQSpOb1cw3PA/c3VBkXgLWPGkCOlnpkAKnt2GkAuMeF8GSC6wCb84Oapz8y06Bs1n;9/cx8lM9b9d99PgS0Ra/pQ=="
+secured: "sPr/F7GEJHQCLxQPlEgDzqcyLc6/ltUHnNP0PSjm6npYpgtffehKGG9vBwIgF9C1dqq4zr5gV5mPqk4oSxYYoz2caMd2mNla6JLdcSJdwJOz1TKL+DEKTX3ovvpqmPTqhTl6L67XTB2+rxHN+GWYjeMVcWQE62KroYd3/x/uK+2F+jQlnwriFPBCW3wM+MX3ajJ06/yqKmYY0FwvcT6Vujimo5MLQAOQALuDJDbXbGT+EwnZ3vFjPePTuHPDwU3XE+oRChBPeo0iHWXhY21lo1TzmksFVmwoeEqks5LnY+GsKt1NMhgugSnk2h/B7nyIegBVuPRgA8MKAwdTBi/CSyQFCfOz1dYLrLKXq1x81yv0ZXalpVyhC8Q3coqRGDjL7WDQF5jAw6fwlCyq7l8nDLsBHp332JqlG9wQOWUmgSjIkzGDg1ihsMwWZPlG/jK7jJj4Si00HtgH31mjuRYZ7all5kficO0Zce0kHallENs=;vuP3i0Nny5CnuGa8C/psyQ=="
 ---
 

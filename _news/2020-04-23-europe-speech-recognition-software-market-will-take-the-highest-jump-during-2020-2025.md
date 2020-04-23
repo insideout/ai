@@ -3,25 +3,19 @@ category: news
 title: "Europe Speech Recognition Software Market will take the highest jump during 2020-2025"
 excerpt: "\"The global Speech Recognition Software market report offers information relating to the leading regions, competitive landscape, growth trends, and other crucial information about the growth status of the market. Additionally, the Speech Recognition Software market report also gives an in-depth evaluation of prevailing growth strategies ..."
 publishedDateTime: 2020-04-23T05:34:00Z
-webUrl: "https://www.cmo.com.au/mediareleases/87429/europe-speech-recognition-software-market-will/"
+webUrl: "https://www.arnnet.com.au/mediareleases/87429/europe-speech-recognition-software-market-will/"
 type: article
-quality: 32
+quality: 12
 heat: -1
 published: false
 
 provider:
-  name: cmo.com.au
-  domain: cmo.com.au
+  name: ARN
+  domain: arnnet.com.au
 
 topics:
   - Natural Language Processing
   - AI
-
-images:
-  - url: "https://demo.idg.com.au/cmo/cmo50/2019/cmo50_promo2019_5.jpg"
-    width: 600
-    height: 246
-    title: "Europe Speech Recognition Software Market will take the highest jump during 2020-2025"
 
 related:
   - title: "AI Market in Call Center Applications-Growth, Trends, and Forecast (2020-2025)"
@@ -47,6 +41,6 @@ related:
       domain: marketwatch.com
     quality: 37
 
-secured: "qv/j54P/iONlZT2cjznyM1S5WIqA27St0yYowppihKTpd6uuLxcDxuHvs2xz1cjOZz+p/SF4ltNu1Nd/pgzrUCTEM0HMfjxTPolpcPfAO0ljocdKg0QV3n4+UhQkKsqUGnaxJUV1jKpr8ThMK5lKD39gyIISUqc5nPxiVr8OkiemLtvFn4phuO8aT9ZURqgfICIAXx3NW8oN6Du3mpFzniW8LNcdg6zPeGtjzDthOmnMW5GCZyfSU3itAJb0UVVRVqnmkKVGWbMS0KWwzZo/yXskyUbKJMRI1WwMfJBd/v/grHzDq9u/1TiWKZQh6gGo;CHrcfrs0Y/qRhUtoV3f+VQ=="
+secured: "YgTjG75Op/33C5JXRm+M3iBlvBmbJNObIEOuUaTkxRKbryFqNsRWKBnJGWCCNJebucO0qcgqiAtf+OPQeFmynyBJZdVQ8QtdNCKe41cesMz1D490KGB6V1gGra8aWpSX49itJqxIrDA0L716a5RFFiWGgzUz0is6T/zr5mlkoc/z2OPz/6qCGibAVxYhCj5DSFFljiA6XUo79qY4OKVVW2ausSD/ZJE9pdopfoW5JGz5pUzng5Q/Go/WXBlJ1OB48NM9gxwLNo8DvumwlYNp5ySvdBc/aUDdqBkLu/Bb0kg5p2grr8QSkQwA19M4HXBY;qJf075NJv+ogCIkNlUDPlQ=="
 ---
 

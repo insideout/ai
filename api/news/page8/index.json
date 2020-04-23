@@ -2,6 +2,95 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-04-16-aws-iq-waives-fees-until-june-30-2020-to-help-you-stand-up-and-scale-remote-work-initiatives.md",
+      "title": "AWS IQ waives fees until June 30, 2020, to help you stand up and scale remote work initiatives",
+      "excerpt": "The recent post Working from Home? Here’s How AWS Can Help shared several ways AWS is helping you set up and scale remote work and work-from-home initiatives. Getting these solutions set up is sometimes best—and achieved more quickly—with expert help. You can get the help you need with AWS IQ, which",
+      "heat": 92,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/aws-iq-waives-fees-until-june-30-2020-to-help-you-stand-up-and-scale-remote-work-initiatives/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-16T11:40:25-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/04/15/no-fee-aws-iq-2.gif",
+          "width": 1000,
+          "height": 380,
+          "title": "AWS IQ waives fees until June 30, 2020, to help you stand up and scale remote work initiatives",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-16-covid-19-how-artificial-intelligence-can-help-companies-plan-for-the-future.md",
+      "title": "COVID-19: How artificial intelligence can help companies plan for the future",
+      "excerpt": "Karen Roby speaks with Dataminr's Jen Jones about the role of artificial intelligence in the coronavirus crisis and why information is key to managing emerging risks. TechRepublic's Karen Roby talks with Jen Jones, CMO of Dataminr, a company that uses artificial intelligence (AI) to detect risks, about the role AI is playing in the effort to ...",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/article/covid-19-how-artificial-intelligence-can-help-companies-plan-for-the-future/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/covid-19-how-artificial-intelligence-can-help-companies-plan-for-the-future/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/covid-19-how-artificial-intelligence-can-help-companies-plan-for-the-future/",
+      "publishedDateTime": "2020-04-16T11:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/04/16/abc977fe-63e7-448f-b067-9fc0dd4897b1/thumbnail/1200x675/003d7891c928e2b077754d0cc0564bf4/20200413-dataminr-karen.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "COVID-19: How artificial intelligence can help companies plan for the future",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-16-spanish-newscaster-speaking-style-now-available-in-amazon-polly.md",
       "title": "Spanish Newscaster speaking style now available in Amazon Polly",
       "excerpt": "Amazon Polly is launching its first non-English Newscaster speaking style voice, Lupe. This female US Spanish voice is the third Newscaster speaking style voice in Amazon Polly, following the launches of US English voices Matthew and Joanna. All Newscaster voices are made possible by the Neural Text-to-Speech",
@@ -986,80 +1075,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-16-global-artificial-intelligence-ai-in-healthcare-market-growth-size-share-trends-status-and-forecast-2020-2027.md",
-      "title": "Global Artificial Intelligence (AI) in Healthcare Market Growth, Size, Share, Trends, Status and Forecast 2020-2027",
-      "excerpt": "A new research report titled “Global Artificial Intelligence (AI) in Healthcare market” successfully exhibits the complete scenario of the global and an individual analysis of the various regional segments.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-healthcare-market-growth-size-share-trends-status-and-forecast-2020-2027-2020-04-16",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-16T01:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Global Artificial Intelligence (AI) in Healthcare Market Growth, Size, Share, Trends, Status and Forecast 2020-2027",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-04-16-sdl-offers-machine-translation-free-of-charge-to-health-science-professionals.md",
-      "title": "SDL Offers Machine Translation Free of Charge to Health Science Professionals",
-      "excerpt": "By offering our services free of charge we’re hoping to remove any language barriers that stand in the way of understanding and give these researchers instant access to the information they need to bring an end to the pandemic.” Built using SDL’s Linguistic AI to improve the quality of translations, SDL Machine Translation instantly ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businesswire.com/news/home/20200416005038/en/SDL-Offers-Machine-Translation-Free-Charge-Health",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-16T00:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

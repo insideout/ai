@@ -2,6 +2,97 @@
   "page": 63,
   "value": [
     {
+      "path": "_news/2020-02-18-weve-just-seen-the-first-use-of-deepfakes-in-an-indian-election-campaign.md",
+      "title": "We've Just Seen the First Use of Deepfakes in an Indian Election Campaign",
+      "excerpt": "Political Deepfakes: Genie out of the bottle Ever since deepfakes blew up in 2017, the technology has been used extensively to create fake porn videos using existing celebrity video footage and AI algorithms ... assuming the translation is easily available in the right written language?” he asks. “But if it’s used deceptively, that ...",
+      "heat": 98,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.vice.com/en_in/article/jgedjb/the-first-use-of-deepfakes-in-indian-election-by-bjp",
+      "ampWebUrl": "https://www.vice.com/amp/en_in/article/jgedjb/the-first-use-of-deepfakes-in-indian-election-by-bjp",
+      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_in/article/jgedjb/the-first-use-of-deepfakes-in-indian-election-by-bjp",
+      "publishedDateTime": "2020-02-18T04:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VICE",
+        "domain": "vice.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/vice.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://video-images.vice.com/test-uploads/articles/5e4bcd6e78a517009d5aec59/lede/1582027600116-Fake-Editing.png?crop=1xw%3A1xh%3Bcenter%2Ccenter&resize=2000%3A*",
+          "width": 2000,
+          "height": 1125,
+          "title": "We've Just Seen the First Use of Deepfakes in an Indian Election Campaign",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-02-18-join-the-innovators-in-enterprise-ai-at-transform-2020.md",
+      "title": "Join the innovators in enterprise AI at Transform 2020",
+      "excerpt": "The AI event of the year for business leaders, Transform 2020 doubles down on results-driven content that helps executives at the senior director level and above maintain their competitive edge. Expect two days of the most transformative trends in conversational AI, computer vision, IoT and AI at the edge, and automation, plus a special ...",
+      "heat": 131,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/02/18/join-the-innovators-in-enterprise-ai-at-transform-2020/",
+      "ampWebUrl": "https://venturebeat.com/2020/02/18/join-the-innovators-in-enterprise-ai-at-transform-2020/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/18/join-the-innovators-in-enterprise-ai-at-transform-2020/amp/",
+      "publishedDateTime": "2020-02-18T04:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/02/4TPO2827.jpg?fit=6655%2C3329&strip=all",
+          "width": 6655,
+          "height": 3329,
+          "title": "Join the innovators in enterprise AI at Transform 2020",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-02-18-mankato-robotics-teams-qualify-for-worldwide-competition.md",
       "title": "Mankato robotics teams qualify for worldwide competition",
       "excerpt": "which stands for artificial intelligence. Their team of eight students won the state championships in their division and will be competing at the world championships in April. Each student has a unique role to play. Anderson drives the robot using a game controller similar to an Xbox — picking up, moving and stacking green, purple and orange ...",
@@ -1156,87 +1247,6 @@
           "width": 480,
           "height": 320,
           "title": "EU plan on AI: new rules, better taxes",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-17-costa-group-turns-to-ai-maths-robot-to-improve-berry-yield-predictions.md",
-      "title": "Costa Group turns to AI 'maths robot' to improve berry yield predictions",
-      "excerpt": "Costa Group, one of Australia's largest horticulturist companies, has begun rolling out an artificial intelligence (AI) system to help the company better understand and manage the quantity and quality of its berry crops. The Sensing+ system, developed by Sydney-based company, The Yield, has been designed to measure 14 variables of a typical ...",
-      "heat": 103,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/costa-group-turns-to-ai-maths-robot-to-improve-berry-yield-predictions/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/costa-group-turns-to-ai-maths-robot-to-improve-berry-yield-predictions/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/costa-group-turns-to-ai-maths-robot-to-improve-berry-yield-predictions/",
-      "publishedDateTime": "2020-02-16T20:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/2020/02/17/78ce6dfc-31b4-4817-ae47-d1b21601de2e/ty-node-in-costa-polytunnel-1.png",
-          "width": 1156,
-          "height": 867,
-          "title": "Costa Group turns to AI 'maths robot' to improve berry yield predictions",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-02-17-artificial-intelligence-training-for-technical-students-in-odisha-soon.md",
-      "title": "Artificial Intelligence training for technical students in Odisha soon",
-      "excerpt": "BHUBANESWAR: Technical students in Odisha will soon have the opportunity to get training on Artificial Intelligence (AI) to develop smart machines. Skill Development and Technical Education Minister Premananda Nayak said a Centre of Excellence has been set up by Tech Mahindra and Biju Patnaik University of Technology (BPUT) at the College of ...",
-      "heat": 72,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.newindianexpress.com/states/odisha/2020/feb/17/artificial-intelligence-training-for-technical-students-in-odisha-soon-2104479.html",
-      "ampWebUrl": "https://www.newindianexpress.com/states/odisha/2020/feb/17/artificial-intelligence-training-for-technical-students-in-odisha-soon-2104479.amp",
-      "cdnAmpWebUrl": "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/states/odisha/2020/feb/17/artificial-intelligence-training-for-technical-students-in-odisha-soon-2104479.amp",
-      "publishedDateTime": "2020-02-16T19:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New Indian Express",
-        "domain": "newindianexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.newindianexpress.com/uploads/user/imagelibrary/2020/2/17/w600X390/AFSDFGH.jpg",
-          "width": 600,
-          "height": 390,
-          "title": "Artificial Intelligence training for technical students in Odisha soon",
           "attribution": null
         }
       ],

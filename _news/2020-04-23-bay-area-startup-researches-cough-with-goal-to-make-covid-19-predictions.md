@@ -1,0 +1,44 @@
+---
+category: news
+title: "Bay Area startup researches cough with goal to make Covid-19 predictions"
+excerpt: "HealthMode is backed by seed funding from DCVC and Promus Ventures, Karlin said, though the startup does not appear to be listed as a portfolio company ... We are just getting the cough sounds along with the other information so we can try to train an AI or ML model to determine what they can predict.” Karlin said, in a phone interview."
+publishedDateTime: 2020-04-23T19:20:00Z
+webUrl: "https://medcitynews.com/2020/04/bay-area-startup-researches-cough-with-goal-to-make-covid-19-predictions/"
+type: article
+quality: 21
+heat: -1
+published: false
+
+provider:
+  name: MedCity News
+  domain: medcitynews.com
+
+topics:
+  - AI
+
+images:
+  - url: "https://medcitynews.com/uploads/2020/04/iPad_fullhd.png"
+    width: 1920
+    height: 1080
+    title: "Bay Area startup researches cough with goal to make Covid-19 predictions"
+
+related:
+  - title: "Doctors are using AI to triage covid-19 patients. The tools may be here to stay"
+    excerpt: "The company operates as a middleman: it licenses software from firms like Qure.ai and a Seoul-based startup called Lunit and offers the package of options to hospitals. Before the pandemic, however, it struggled to gain traction. “Customers were interested in the artificial-intelligence application for imaging,” Durand says, “but they ..."
+    publishedDateTime: 2020-04-23T14:12:00Z
+    webUrl: "https://www.technologyreview.com/2020/04/23/1000410/ai-triage-covid-19-patients-health-care/"
+    ampWebUrl: "https://www.technologyreview.com/2020/04/23/1000410/ai-triage-covid-19-patients-health-care/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2020/04/23/1000410/ai-triage-covid-19-patients-health-care/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 53
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2020/04/cropped-GettyImages-1192868131_web.jpg?w=1024"
+        width: 1024
+        height: 576
+
+secured: "5t3oEkpjR3ekOs9Vyj4UN2f2u4wgViSWpqqmZ8vxFLI/K8TV3CqpdWqT8lTRwt/WVydLEXNbRutOU77CrDysqpaGU/f4HRu1hDrVVSff4vfrpKOf1NWAA/milnMN8MGt8Q5nMFQC0DRpv+85KYRP7CweJCt6b80CePxNEMNHOfDJ2WUGyR/DtoF5tgDEKB1WUjq3t2ec4rr7bvME0n6UFmVOvD+3+dGmvbJ3mt4GbwhMHxoxzcsNsfFXhbWaZDB3H/zSHaf3W9Nv4rtA8y1Ym0xayhrUgDhKZExuArdCDTfVHLxBNqtU8UMjm88dgxTD;PMreXaAkyNIadqLj7EV8kQ=="
+---
+

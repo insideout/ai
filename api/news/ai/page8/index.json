@@ -2,6 +2,95 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-04-15-medopad-rebrands-to-huma-makes-acquisitions-to-bolster-its-ai-health-monitoring-portfolio.md",
+      "title": "Medopad rebrands to Huma, makes acquisitions to bolster its AI health monitoring portfolio",
+      "excerpt": "Digital health company Medopad today announced that it’s rebranding to Huma and acquiring two companies — BioBeats and Tarilian Laser Technologies (TLT) — to add support for new biomarkers to its AI-powered patient monitoring platform. When contacted for comment, a Huma spokesperson declined to disclose the purchase price for the two ...",
+      "heat": 77,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/15/medopad-rebrands-to-huma-makes-acquisitions-to-bolster-its-ai-health-monitoring-portfolio/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/15/medopad-rebrands-to-huma-makes-acquisitions-to-bolster-its-ai-health-monitoring-portfolio/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/15/medopad-rebrands-to-huma-makes-acquisitions-to-bolster-its-ai-health-monitoring-portfolio/amp/",
+      "publishedDateTime": "2020-04-15T16:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/6508d40a-448c-44b3-bd7d-3ec135ba2e54-e1585776810679.png?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Medopad rebrands to Huma, makes acquisitions to bolster its AI health monitoring portfolio",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-15-us-self-driving-car-startup-zoox-agrees-to-settle-lawsuit-with-tesla.md",
+      "title": "U.S. self-driving car startup Zoox agrees to settle lawsuit with Tesla",
+      "excerpt": "Zoox Inc said on Tuesday it had settled a lawsuit with Tesla Inc after admitting that some new hires from the carmaker were in possession of certain Tesla documents when they joined the U.S. self-driving car startup.",
+      "heat": 119,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-tesla-lawsuit-zoox-idUSKCN21X034",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKCN21X034",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN21X034",
+      "publishedDateTime": "2020-04-15T15:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200415&t=2&i=1515214860&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG3E01H",
+          "width": 766,
+          "height": 545,
+          "title": "U.S. self-driving car startup Zoox agrees to settle lawsuit with Tesla",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-15-former-tesla-employees-brought-stolen-documents-to-self-driving-startup-zoox.md",
       "title": "Former Tesla employees brought stolen documents to self-driving startup Zoox",
       "excerpt": "Self-driving startup Zoox has admitted that four of its employees took confidential documents from their previous employer Tesla, according to a statement issued after the company settled a lawsuit this week over the matter.",
@@ -1221,94 +1310,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-15-onfido-the-ai-based-id-verification-platform-raises-100m-led-by-tpg.md",
-      "title": "Onfido, the AI-based ID verification platform, raises $100M led by TPG",
-      "excerpt": "Onfido, which uses AI to “read” a person’s identity documents and then uses facial recognition and other datapoints to verify that a person says who she or he is online — customers for its tech include major banks, government bodies, and businesses doing recruitment: any organization running parts of its processes virtually — is today ...",
-      "heat": 107,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/04/15/onfido-the-ai-based-id-verification-platform-raises-100m-led-by-tpg/",
-      "ampWebUrl": "https://techcrunch.com/2020/04/15/onfido-the-ai-based-id-verification-platform-raises-100m-led-by-tpg/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/15/onfido-the-ai-based-id-verification-platform-raises-100m-led-by-tpg/amp/",
-      "publishedDateTime": "2020-04-15T03:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/04/April-15_Onfido-Company-Photo_FINAL.jpg?w=680",
-          "width": 680,
-          "height": 404,
-          "title": "Onfido, the AI-based ID verification platform, raises $100M led by TPG",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-15-onfido-raises-100-million-to-verify-identities-with-ai.md",
-      "title": "Onfido raises $100 million to verify identities with AI",
-      "excerpt": "Onfido — which was founded in 2012 by three Oxford University graduates who observed that background checks were largely done manually and were therefore prone to human error — develops a software-as-a-service (SaaS) platform that taps AI to perform background checks on would-be employees at each stage of the hiring and recruitment process.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/15/onfido-raises-100-million-to-verify-identities-with-ai/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/15/onfido-raises-100-million-to-verify-identities-with-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/15/onfido-raises-100-million-to-verify-identities-with-ai/amp/",
-      "publishedDateTime": "2020-04-15T03:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/ONFIDO_RGB_WORDMARK_BLUE-e1586551350126.png?fit=1199%2C599&strip=all",
-          "width": 1199,
-          "height": 599,
-          "title": "Onfido raises $100 million to verify identities with AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

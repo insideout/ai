@@ -5,8 +5,8 @@ excerpt: "The paper is being presented next week at the International Conference
 publishedDateTime: 2020-04-23T17:44:00Z
 webUrl: "https://www.eurekalert.org/pub_releases/2020-04/miot-rtc042320.php"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - IBM AI
   - AI
+  - Machine Learning
 
 images:
   - url: "https://eurekalert.org/images/EurekAlert_StackedLogo_RGB.jpg"

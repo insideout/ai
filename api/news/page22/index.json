@@ -2,6 +2,88 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2020-04-03-how-to-get-and-use-voice-commands-in-mount-and-blade-ii-bannerlord.md",
+      "title": "How to get and use voice commands in Mount and Blade II: Bannerlord",
+      "excerpt": "Both full and trial version users will want to test how the software works with their voice and have the speech recognition software tune to your voice. You can do this by searching for ‘speech recognition’ in your desktop’s control panel, and then choosing ‘train your computer to understand you better.’ After that, follow the steps ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.gamepur.com/guides/how-to-get-and-use-voice-commands-in-mount-and-blade-ii-bannerlord",
+      "ampWebUrl": "https://www.gamepur.com/guides/how-to-get-and-use-voice-commands-in-mount-and-blade-ii-bannerlord/amp",
+      "cdnAmpWebUrl": "https://www-gamepur-com.cdn.ampproject.org/c/s/www.gamepur.com/guides/how-to-get-and-use-voice-commands-in-mount-and-blade-ii-bannerlord/amp",
+      "publishedDateTime": "2020-04-03T10:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gaming Polls",
+        "domain": "gamepur.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://assets.gamepur.com/wp-content/uploads/2020/04/01122550/Sword-and-Shield-Mount-blade-2.jpg",
+          "width": 1917,
+          "height": 1196,
+          "title": "How to get and use voice commands in Mount and Blade II: Bannerlord",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-03-a-cash-flow-model-to-meet-daily-banking-needs.md",
+      "title": "A Cash Flow Model to Meet Daily Banking Needs",
+      "excerpt": "In this post, we are going to present a use case within banking where deep learning (DL) turns out to be an efficient solution for time series prediction. The value of correct predictions of ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/analytics-ai-swedbank/predicting-customer-finances-using-deep-learning-168b47e54d54",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-03T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/1200/1*Ob4flUPrY9AdiImw8kL-Ew.jpeg",
+          "width": 1200,
+          "height": 800,
+          "title": "A Cash Flow Model to Meet Daily Banking Needs",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-03-tech-leaders-highlight-military-ai-and-5g-investments-they-call-essential-to-us-economy-and-national-security.md",
       "title": "Tech leaders highlight military AI and 5G investments they call essential to U.S economy and national security",
       "excerpt": "Other recommendations in the report include: On matters of privacy and ethics, the Commission singles out Clearview AI, a company that scraped billions of images from the web to create a facial recognition system, as an example of invasive AI-powered tech that should be avoided. Tech companies that track the location of individuals ...",
@@ -684,7 +766,7 @@
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.ft.com/content/03355c3c-52d1-42da-8218-90524d458d93",
+      "webUrl": "https://www.ft.com/content/03355c3c-52d1-42da-8218-90524d458d93?src=rss",
       "ampWebUrl": "https://amp.ft.com/content/03355c3c-52d1-42da-8218-90524d458d93",
       "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/03355c3c-52d1-42da-8218-90524d458d93",
       "publishedDateTime": "2020-04-03T03:34:00-07:00",
@@ -959,88 +1041,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-03-in-coronavirus-fight-oft-criticised-facebook-data-aids-us-cities-states.md",
-      "title": "In coronavirus fight, oft-criticised Facebook data aids US cities, states",
-      "excerpt": "Facebook and the researchers leading the project say they have overcome those ... Sign up now and get a 10% discount (original price US$400) off the China AI Report 2020 by SCMP Research. Learn about the AI ambitions of Alibaba, Baidu & JD.com through our in-depth case studies, and explore new applications of AI across industries.",
-      "heat": 88,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.scmp.com/tech/science-research/article/3078220/coronavirus-fight-oft-criticised-facebook-data-aids-us-cities",
-      "ampWebUrl": "https://amp.scmp.com/tech/science-research/article/3078220/coronavirus-fight-oft-criticised-facebook-data-aids-us-cities",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/science-research/article/3078220/coronavirus-fight-oft-criticised-facebook-data-aids-us-cities",
-      "publishedDateTime": "2020-04-02T18:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/04/03/6e6a9e96-754a-11ea-ab8f-988daf8efd6f_image_hires_093454.JPG?itok=sfzYo3cq&v=1585877702",
-          "width": 1200,
-          "height": 630,
-          "title": "In coronavirus fight, oft-criticised Facebook data aids US cities, states",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-03-ai-researchers-scold-amazon-for-selling-flawed-face-recognition-tech-to-the-police.md",
-      "title": "AI researchers scold Amazon for selling flawed face-recognition tech to the police",
-      "excerpt": "Amazon has come under fire before for Rekognition, the facial recognition technology that the company has allowed police to use and which has led to concerns the company is essentially supporting ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://bgr.com/2019/04/03/amazon-facial-recognition-open-letter/",
-      "ampWebUrl": "https://bgr.com/2019/04/03/amazon-facial-recognition-open-letter/amp/",
-      "cdnAmpWebUrl": "https://bgr-com.cdn.ampproject.org/c/s/bgr.com/2019/04/03/amazon-facial-recognition-open-letter/amp/",
-      "publishedDateTime": "2020-04-02T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BGR",
-        "domain": "bgr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://boygeniusreport.files.wordpress.com/2019/04/face-recognition.jpg?quality=98&#038;strip=all",
-          "width": 1600,
-          "height": 1050,
-          "title": "AI researchers scold Amazon for selling flawed face-recognition tech to the police",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

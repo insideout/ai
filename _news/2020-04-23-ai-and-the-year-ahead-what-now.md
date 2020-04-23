@@ -7,8 +7,8 @@ webUrl: "https://www.cmswire.com/digital-workplace/ai-and-the-year-ahead-what-no
 ampWebUrl: "https://www.cmswire.com/digital-workplace/ai-and-the-year-ahead-what-now/amp/"
 cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-workplace/ai-and-the-year-ahead-what-now/amp/"
 type: article
-quality: 57
-heat: 57
+quality: 61
+heat: 61
 published: false
 
 provider:
@@ -17,6 +17,8 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
+  - Microsoft AI
 
 images:
   - url: "https://www.cmswire.com/-/media/0e5803d05bdc4f598ed05c035257e875.ashx?mw=1024"
@@ -24,6 +26,6 @@ images:
     height: 480
     title: "AI and the Year Ahead: What Now?"
 
-secured: "A4J57cx++lGlOSVeigRe+NooRrggnEkZ8kxbKK6e0QvdpQrdIbKagmnReGLCKd0wDv4Qa7rT9PdZJhGHfhBjxsKvgkcDibIoP0sY2UEbt9Pijbna+TxIKA5/qQWuJPszBWuY/JZp7Pba5IjA3LNq/YMfnaKIkOAgnjWhSINZ3YiEjcM+ppek+LCJ0G61nwwq2iSLzcYGsm7Rj3POJtAd94XCLEdFIizBC6cQaix1Ft4y45SrOg03LrBRnA1HDQXWCIiPlZ5xU4EL0jl5PCF61DNZMzQFBFes3AJ0ugRNszDmYSgmjMNLuXCTuJ+w0cWL;VSl4a228GciuD0lbhkYJrA=="
+secured: "KrSRch0EHzqQeKMfZnBZiWSTb8XrEZzw20Yc+8GUFKluK1z4gwN5jPG16bakbWm612pwsAU4TF3xyP5Bvb7fWZgmgCzxiWghhYhSGDwfu373Q/OyNy5T4GVyev2JveeSeAmRx03xIEjBniIg7DU6oziMCMqcNBxgNhsq+hSux8JZi2AtzLo2e5ggPnDhymwl44fnHFddTtPVnf0Kn/X4bLxM7hTmcI06tRFBVl6etk1Fecj86Jk1FhGc1jwsH6KLMHkd/PGGSCdjDTaMbZe1uzgENxIatrXYYiteeZ2+QABWMxIJofMV3c2w6KUe5KJPdc2gLUPtdv97ZqPW9T/Py1uxGFl02kIhWT0+4h4UMOuDD8wFM55D/PRBaqebUZhl/1ufVmdp6EoozNq0xx7eolqyXbc5vHpqto/z/FtN5Mbq6KZmb9kQYg6Mn71FmsooroichkKogCNcB32UtULhmo+DHwFB2VxpHKQRT4FgEeg=;9hjalh83rwzDi98RvpqaZw=="
 ---
 

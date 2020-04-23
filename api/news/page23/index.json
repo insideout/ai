@@ -2,6 +2,88 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2020-04-03-in-coronavirus-fight-oft-criticised-facebook-data-aids-us-cities-states.md",
+      "title": "In coronavirus fight, oft-criticised Facebook data aids US cities, states",
+      "excerpt": "Facebook and the researchers leading the project say they have overcome those ... Sign up now and get a 10% discount (original price US$400) off the China AI Report 2020 by SCMP Research. Learn about the AI ambitions of Alibaba, Baidu & JD.com through our in-depth case studies, and explore new applications of AI across industries.",
+      "heat": 88,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.scmp.com/tech/science-research/article/3078220/coronavirus-fight-oft-criticised-facebook-data-aids-us-cities",
+      "ampWebUrl": "https://amp.scmp.com/tech/science-research/article/3078220/coronavirus-fight-oft-criticised-facebook-data-aids-us-cities",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/science-research/article/3078220/coronavirus-fight-oft-criticised-facebook-data-aids-us-cities",
+      "publishedDateTime": "2020-04-02T18:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/04/03/6e6a9e96-754a-11ea-ab8f-988daf8efd6f_image_hires_093454.JPG?itok=sfzYo3cq&v=1585877702",
+          "width": 1200,
+          "height": 630,
+          "title": "In coronavirus fight, oft-criticised Facebook data aids US cities, states",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-03-ai-researchers-scold-amazon-for-selling-flawed-face-recognition-tech-to-the-police.md",
+      "title": "AI researchers scold Amazon for selling flawed face-recognition tech to the police",
+      "excerpt": "Amazon has come under fire before for Rekognition, the facial recognition technology that the company has allowed police to use and which has led to concerns the company is essentially supporting ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://bgr.com/2019/04/03/amazon-facial-recognition-open-letter/",
+      "ampWebUrl": "https://bgr.com/2019/04/03/amazon-facial-recognition-open-letter/amp/",
+      "cdnAmpWebUrl": "https://bgr-com.cdn.ampproject.org/c/s/bgr.com/2019/04/03/amazon-facial-recognition-open-letter/amp/",
+      "publishedDateTime": "2020-04-02T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BGR",
+        "domain": "bgr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://boygeniusreport.files.wordpress.com/2019/04/face-recognition.jpg?quality=98&#038;strip=all",
+          "width": 1600,
+          "height": 1050,
+          "title": "AI researchers scold Amazon for selling flawed face-recognition tech to the police",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-03-amazon-stands-for-nothing-that-almost-makes-it-beautiful.md",
       "title": "Amazon stands for nothing. That almost makes it beautiful",
       "excerpt": "“We feel really great and really strongly about the value that Amazon Rekognition is providing our customers of all sizes and all types of industries in law enforcement and out of law enforcement.",
@@ -929,89 +1011,6 @@
           "width": 796,
           "height": 417,
           "title": "How AI can determine which coronavirus patients require hospitalization",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-02-hands-on-tensorflow-tokenizer-for-nlp.md",
-      "title": "Hands-on TensorFlow Tokenizer for NLP",
-      "excerpt": "In this tutorial, I will describe how to use TensorFlow Tokenizer which helps to handle the text into sequences of numbers with a number was the value of a key-value pair with the key being the word.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/@canerkilinc/hands-on-tensorflow-tokenizer-for-nlp-392c97d5874d",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-02T08:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/770/1*Y8VE4Swklmj-LtCEXh_rxw.png",
-          "width": 770,
-          "height": 274,
-          "title": "Hands-on TensorFlow Tokenizer for NLP",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2020-04-02-artificial-intelligence-can-speed-up-the-detection-of-stroke.md",
-      "title": "Artificial intelligence can speed up the detection of stroke.",
-      "excerpt": "Timely detection and accurate segmentation of acute ischemic stroke (AIS) lesions on magnetic resonance images (MRIs) are essential for the triaging patient for endovascular therapy. Lesion segmentation is a routine process where the abnormal areas within ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://infosurhoy.com/news-summary/artificial-intelligence-can-speed-up-the-detection-of-stroke/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-02T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoSur Hoy",
-        "domain": "infosurhoy.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://infosurhoy.com/wp-content/uploads/2020/04/20-artificialin.jpg",
-          "width": 453,
-          "height": 480,
-          "title": "Artificial intelligence can speed up the detection of stroke.",
           "attribution": null
         }
       ],

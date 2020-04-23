@@ -2,6 +2,87 @@
   "page": 53,
   "value": [
     {
+      "path": "_news/2020-02-27-smart-camera-startup-wyze-sued-following-data-breach-that-exposed-customer-information.md",
+      "title": "Smart camera startup Wyze sued following data breach that exposed customer information",
+      "excerpt": "The company, based in Kirkland, Wash., raised $20 million just over a year ago. Wyze was separately in the news after another Seattle startup, Xnor.ai, backed out of a deal to provide its person recognition technology to Wyze cameras before Xnor was acquired by Apple. Twelve Security first spotted the breach and publicized it in December ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.geekwire.com/2020/smart-camera-startup-wyze-sued-following-data-breach-exposed-customer-information/",
+      "ampWebUrl": "https://www.geekwire.com/2020/smart-camera-startup-wyze-sued-following-data-breach-exposed-customer-information/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/smart-camera-startup-wyze-sued-following-data-breach-exposed-customer-information/amp/",
+      "publishedDateTime": "2020-02-27T11:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2017/11/wyzecam-630x420.jpeg",
+          "width": 630,
+          "height": 420,
+          "title": "Smart camera startup Wyze sued following data breach that exposed customer information",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-27-ibm-and-microsoft-sign-vatican-pledge-for-ethical-ai.md",
+      "title": "IBM and Microsoft sign Vatican pledge for ethical AI",
+      "excerpt": "Tech giants promise to develop new technology in way that protects the rights of all people The 'Rome Call for AI Ethics' document calls for artificial intelligence to safeguard the rights of all humankind and for new regulations in fields such as facial recognition IBM and Microsoft have signed an “ethical resolution” with the Vatican to ...",
+      "heat": 94,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.ft.com/content/5dc6edcc-5981-11ea-a528-dd0f971febbc",
+      "ampWebUrl": "https://amp.ft.com/content/5dc6edcc-5981-11ea-a528-dd0f971febbc",
+      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/5dc6edcc-5981-11ea-a528-dd0f971febbc",
+      "publishedDateTime": "2020-02-27T10:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Times",
+        "domain": "ft.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2F41f09a98-5964-11ea-a528-dd0f971febbc?source=google-amp&fit=scale-down&width=500",
+          "width": 500,
+          "height": 281,
+          "title": "IBM and Microsoft sign Vatican pledge for ethical AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2020-02-27-scientists-make-artificial-and-biological-neurons-communicate-over-the-internet.md",
       "title": "Scientists make artificial and biological neurons communicate over the internet",
       "excerpt": "But scientists in the U.K., Switzerland, Germany, and Italy are here to remind you that it really isn’t. In a recent experiment, the researchers fired up a working neural network that let biological and silicon-based artificial brain cells communicate with one another over an internet connection. At present, it’s still early stages for the ...",
@@ -1182,88 +1263,6 @@
       "topics": [
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-02-26-classifying-images-using-tensorflow-and-faced-challenges-a-case-study.md",
-      "title": "Classifying images using TensorFlow and faced challenges — a case study",
-      "excerpt": "We decided to use Deep Learning with TensorFlow by setting up a Convolutional Neural Network (CNN) to classify these images. It was necessary to have a large data set with training data for each page. Instead of taking many different pictures (which would have been very time consuming), we decided to make a video of each page and then take ...",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/@simon.huber/classifying-images-using-tensorflow-and-faced-challenges-a-case-study-f283c039d720",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-26T14:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/freeze/max/400/1*DB25tGjRiWmvzRODq9TEOg.gif",
-          "width": 400,
-          "height": 224,
-          "title": "Classifying images using TensorFlow and faced challenges — a case study",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-26-repair-robot-swims-through-oil-pipelines-and-welds-cracks-without-exploding.md",
-      "title": "Repair robot swims through oil pipelines and welds cracks — without exploding",
-      "excerpt": "Before this project even really got going, we knew that the technology worked and that this is something we could do. Everything else — the robotics, the artificial intelligence — all followed on from there.” The robot consists of five or six joined segments, each of which carries out tasks like navigation, control, communications ...",
-      "heat": 81,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.digitaltrends.com/cool-tech/friction-stir-welding-robotic-crawler/",
-      "ampWebUrl": "https://www.digitaltrends.com/cool-tech/friction-stir-welding-robotic-crawler/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cool-tech/friction-stir-welding-robotic-crawler/?amp",
-      "publishedDateTime": "2020-02-26T14:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],
