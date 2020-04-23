@@ -6,7 +6,7 @@ publishedDateTime: 2020-04-22T10:09:00Z
 webUrl: "https://www.marketwatch.com/press-release/ai-market-in-call-center-applications-growth-trends-and-forecast-2020-2025-2020-04-22"
 type: article
 quality: 63
-heat: 83
+heat: 73
 published: true
 
 provider:
@@ -36,19 +36,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 37
-  - title: "Arista Delivers Cognitive WiFi for Collaboration, Video and Chat Applications"
-    excerpt: "SANTA CLARA, Calif.--(BUSINESS WIRE)--Arista Networks (NYSE:ANET), today announced a new release of its Cognitive WiFi software that seamlessly delivers intelligent application identification, performance optimization, automated troubleshooting and location services. This provides customers with an enhanced WiFi experience for critical video ..."
-    publishedDateTime: 2020-04-22T10:03:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200422005166/en/Arista-Delivers-Cognitive-WiFi-Collaboration-Video-Chat"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 21
-    images:
-      - url: "https://mms.businesswire.com/media/20200422005166/en/178582/23/arista_200pt_FINAL.jpg"
-        width: 1200
-        height: 627
 
 secured: "BlMKPTH4iIY78DWEBWExSwIVNGs7pwVI0Qb4g15i8ZfB1rTePLpHpRJSjCi4SNzrK7h8Xqc3R5lC40/zhNTCueHAmYPjOrNiBhX4IB/hzuveZgQoLwxvxqng4Vsaj5QhsFdvOrUXJP+tkeTWgfOYpSI0QHHnJZYufvYt1DT/oeD/hKfDSk7inJKB2VUsDQatJH0NimcSMTKGED5XEgRdtYoJLGnJpGPjpbOwSxHTpMXIjWmFoesqhimR+I3064PyRONG63BXqB63V08xrPW3A0PDdIuX8j76d3adJVuL102M7blOtQjfNwV+ZJmBF3T0;ZYagoDSj2ukchnwsO3usCQ=="
 ---

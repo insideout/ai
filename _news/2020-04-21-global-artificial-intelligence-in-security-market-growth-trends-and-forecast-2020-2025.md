@@ -34,19 +34,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Arista Delivers Cognitive WiFi for Collaboration, Video and Chat Applications"
-    excerpt: "SANTA CLARA, Calif.--(BUSINESS WIRE)--Arista Networks (NYSE:ANET), today announced a new release of its Cognitive WiFi software that seamlessly delivers intelligent application identification, performance optimization, automated troubleshooting and location services. This provides customers with an enhanced WiFi experience for critical video ..."
-    publishedDateTime: 2020-04-22T10:03:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200422005166/en/Arista-Delivers-Cognitive-WiFi-Collaboration-Video-Chat"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 21
-    images:
-      - url: "https://mms.businesswire.com/media/20200422005166/en/178582/23/arista_200pt_FINAL.jpg"
-        width: 1200
-        height: 627
 
 secured: "sgwa1lit5abAVwAj/Z0O+XFN//gnXksSoVoOJ48GXgOVJUOYkYC2lS9DVuUKSIXDN0OvUCwgT/hDS00JKDLpdm1c85DqxblYqeNXCFhcTolFzZij/Q5ORIfuEVW+cxUcfvKLHOVF+dQr9c5AJz6NYfjXtl0nnwPwKjmSOHRNALx8JzvyZL9wmzwHBFnI0VY8BUwIQQ+BocYYG+Mysz5KU9vK57xXEaWaI80KsWjx3TAI7aSu+cqF6AjwASCoNF/mizIqfPOEYDOgbhp1VTa4SshaHIo6Fb4+7yPA+shbt+BBL6PdjlolmyeCw2ZIRCVc;SnNf8YmwL1N9TbIstodfYA=="
 ---
