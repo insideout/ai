@@ -1,28 +1,28 @@
 ---
 category: news
-title: "UST Global named winner at the Microsoft AI Awards 2.0 for the Best Innovation in Artificial Intelligence"
-excerpt: "The award marks industry appreciation of UST Global’s AI capabilities to build products that scale new heights in innovations in Artificial Intelligence. UST Global partnered with EmancipAction ... baseline assessment, IPT Sessions, end of therapy assessments and follow up assessments until they are ready to start a new life without fear ..."
-publishedDateTime: 2020-04-21T10:08:00Z
-webUrl: "https://indiaeducationdiary.in/ust-global-named-winner-at-the-microsoft-ai-awards-2-0-for-the-best-innovation-in-artificial-intelligence/"
+title: "UST Global Named Winner at the Microsoft AI Awards 2.0 for the Best Innovation in Artificial Intelligence"
+excerpt: "UST Global, a leading digital transformation solutions company, announced that it has won the 2020 most innovative AI application award"
+publishedDateTime: 2020-04-21T15:14:00Z
+webUrl: "https://www.prnewswire.com/in/news-releases/ust-global-named-winner-at-the-microsoft-ai-awards-2-0-for-the-best-innovation-in-artificial-intelligence-831358695.html"
 type: article
 quality: 37
 heat: 37
 published: false
 
 provider:
-  name: India Education Diary
-  domain: indiaeducationdiary.in
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://i2.wp.com/indiaeducationdiary.in/wp-content/uploads/2020/04/Krishna-Sudheendra-CEO-UST-Global-recieving-the-award-from-Jean-Philippe-Courtois-EVP-and-President-Global-Sales-Marketing-and-Operations-Microsoft-Corporation.jpg?fit=1000%2C1058&ssl=1"
-    width: 1000
-    height: 1058
-    title: "UST Global named winner at the Microsoft AI Awards 2.0 for the Best Innovation in Artificial Intelligence"
+  - url: "https://mma.prnewswire.com/media/540539/UST_Global_Logo.jpg?p=facebook"
+    width: 1443
+    height: 757
+    title: "UST Global Named Winner at the Microsoft AI Awards 2.0 for the Best Innovation in Artificial Intelligence"
 
-secured: "AL/xUBvfg1lqr48MeR3G7WmHXshBAyLuMRoIqqBNa2Bisb+YeLF6NbgyObT6R/I710qYlD2mKwHy6djTXlK48ASVNL0KO7LShB8gGjenaApqJ8ATF1gtp+yDsOamv1LBzN9SfzDCeBsvfeuQR+xQ5/waXkQG0SW189AyN5L7MI6tLdagupxL6YSrxPh7q02JRd28ReOIOnczHf84LMtHsNvmxca94yTnldbrRbt9E4KTVePeKoTlhouX0v4yq5uTsdTHBmUnUgTbY1taciefkOBJTqrUmeUGPPtnyuIK+jHkPLUahYeTrjj4MA69NfVHhXkPiOyfK6Eu2SlAAVRMXrRZXOerhUrR748y8tODwZTmqev3zxSnNVly7RUtqJQN3ayxCIH5KoDAPSSBB6yeSNn+75cUx5vDu0l35YEJWV9kQYR+KhcF6F0XywfGTZ/YZS804+cL3gPYXFrpPrzb4MmQbSrc/YBhs/93dbNFqt0=;61qWovOPbKJThA/impYsWg=="
+secured: "K/lpBiAbWXR4yslkOiS98bdVyack4ZHtIlA5Z8Sh224454GYvEu1F+J/tWErTvimuHyHzGN3BA2xrl8OxNUthA5uf+MTFi97F39b/5QXDWYbcHfAc5cQTc3ZFzmH2BtbdKLCq09OwLu8XR/8sgp2gBHm27APjQwJk8pnmf3YPvnP8/T7+NNwZSeFsdfH69Hwi/3tFoI5gFIFgy7fyNbm7nqPeWYLN7hhOnWuDzaBExunGxc1cZurGi9ruHdNJpszYABRrHiPW2ZxwUGJbS7JXx3bV0AagQPo0YR8XiV/V/ji8UxA9lOj6Xn1NZzgfDdA;FIz5nPSk8N08VxV0ADl+kQ=="
 ---
 

@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Vonage Enables AI Chatbot for Spanish Government to Provide Accurate, Updated COVID-19 Information"
-excerpt: "The Hispabot-COVID19 chatbot is easy to use through WhatsApp: Spanish citizens simply save the number +34 600 802 802 in their phone's contacts and send the word \"hello\" in a WhatsApp message to start the conversation. Using AI, the service responds with official answers to citizens' most common questions regarding COVID-19 including details on ..."
-publishedDateTime: 2020-04-23T07:38:00Z
-webUrl: "https://www.businesswire.com/news/home/20200423005115/en/Vonage-Enables-AI-Chatbot-Spanish-Government-Provide"
+excerpt: "Sngular, a Madrid-based international technology solutions provider, and AI experts from the Government of Spain, have built an"
+publishedDateTime: 2020-04-23T13:00:00Z
+webUrl: "https://www.prnewswire.com/news-releases/vonage-enables-ai-chatbot-for-spanish-government-to-provide-accurate-updated-covid-19-information-301045621.html"
 type: article
 quality: 23
 heat: 23
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI
 
 images:
-  - url: "https://mms.businesswire.com/media/20200423005115/en/753227/23/Vonage.jpg"
-    width: 1200
-    height: 627
+  - url: "https://mma.prnewswire.com/media/1019801/Vonage_Logo.jpg?p=facebook"
+    width: 2695
+    height: 1414
     title: "Vonage Enables AI Chatbot for Spanish Government to Provide Accurate, Updated COVID-19 Information"
 
-secured: "ivxexo2+ktFXQqv9h+y9V+VQTmuj/zgJVlnuliOEeSfOOoL9CBRbgGzTiH41zBxf9WrpGSoJojjc5d8lO6PjT67fGrvazf0sJbn1tcfBBRHR7fWVSLQsTlzYuDzeZiUAtvu2OmAlhUzPRLZuMVIa1PdsS5l03j7Zvgt41xDOingJrdWHWMt+Wwf+ulCLXLwDsO4A3WCyn39itdBHBzHw0uQjc/C4wyVPieDn6FPC1/cYidw4tLlrdGo9p3/RrEHcRXEvBv3bqBPeJCuN4EXLIH5kfFFq48xYJbPuQ2CUWRacurw/rlOyBJlsLb9/tJ2DatWj1oVXZVeS2jLsLhE1yCHV2+CnqShzIu7Sp7WXehiTh1Rj4JFpd7vwCWV/DWGlJMB/whiMnsD7pCb1eiwKkQunX5/SqOxwcXJMg/IzdtyY+QSJ+Br6v7h+ytujct5FnhJ7xJ+1bmV1YaZOWetWx12DlnBW/5AcFG+9VTl5lZM=;aWK2cbOhO7PqvTx9ixxReA=="
+secured: "lz+r+/zaO2ShV5UrEAgaLGQ+IOVZG2RbKrffahQdMvXQ6jHffHcDtSDxoSRlrGVTdHDUx1e6EaeYwqO6rB44RWA/iJefCLIlMSjLZ9+ZsfEFWUyQ909LtY87lPtyDqRcHtAzyZQqZPS8kCFKBef+OSgr2UDqyTK/nAoh1MbWLsFyjKC9DZs+YsiiNEii5DcYz3o7q7T3cQbQclSWyJrvrFMmSZBCmtaaQ5S/WzK65xDRA8intYg8VLXy1r2gEXXqfjBkp859UU8Gw7N4xeI8OAbx0klafar4T65fAI2gX2c/1o/o271QrdfY/+Bosl66;rYu2h9nz9moZmqKJyT9ULA=="
 ---
 

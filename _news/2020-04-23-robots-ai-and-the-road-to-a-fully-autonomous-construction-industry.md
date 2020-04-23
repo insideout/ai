@@ -7,8 +7,8 @@ webUrl: "https://venturebeat.com/2020/04/23/robots-ai-and-the-road-to-a-fully-au
 ampWebUrl: "https://venturebeat.com/2020/04/23/robots-ai-and-the-road-to-a-fully-autonomous-construction-industry/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/23/robots-ai-and-the-road-to-a-fully-autonomous-construction-industry/amp/"
 type: article
-quality: 87
-heat: 87
+quality: 104
+heat: 104
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2019/09/built-robotics.jpg?fit=1200%2C600&strip=all"
@@ -28,6 +29,6 @@ images:
     height: 600
     title: "Robots, AI, and the road to a fully autonomous construction industry"
 
-secured: "K96Xp5HWHtQY5+XYGj7Ql7oGQXrcysAW2uS5iWSctbA9sbObYtwpWKqg0QWCJzTP7KPspjw+LaMcmW/7QhyF39IReJo4ilHpXkycbmoOV1/D7qut+VoZNElmK9xx5c865t4//e8vtpcJ8iqqmskxwiLsNKoGTJ2sG1qvmuj1yms67F4MmVvHp0VKocus80z+bldI9GH8mpIpuc64/SUSUa9WMZxBRWxWwVU6mGs0NWVI2MExRI8JPq5gQHMQjiP/tVgH6rMW2SSmd4VByvjQhnWyHmUXvQgDyW1tcj6dAIVc3pttZGkeXvTLae9WwJ/j;q+XRgnODoEM76rXUPQ//Bw=="
+secured: "iY5LwQvvI4Tlw+gwAGx5/LcsBWwJ9fhvBdEaCLGPf2Lwh6n4VgQkgUFjPvurw06S/HgmMtDGKzudNSWS4MjcvscHlWClsJTs7C4vFxwmf0AipV7hWVvt8+OQxcnT42JxfF6LDbopGk31/eBn1758CLOHdATngfNBbYgvxtTXXZvJFIKXyoEb7KceBjiUdH0ftXKIx4NY0cldub9lUNGmCDnXTJ9C+Qmi+DJBN2vP5TfhuLBO1BKzae4r8+V7sqBmezgFY1TmibtavxxM3UvwjgjjaYUFfbUrSeOEJDJPic7pRZzL31rkkezLeuV+qUpD3t+5oVDZFwdgxPv1kJ7+3iV3En/CZHQvHWCAhOGI/9y63fO+4do90J7v3iLZHP1ckxb9gxp9ikc6TfxSIzhCGsml6lEqU7poz94UAqToX/X1XgnEsKI53lKgHWrzFkhBpVKLVLig6I+x3aa+ufrBeboTo/QE6UlcwqNNv/OwC8M=;A1z18liVlvSbq2WxzwnXFA=="
 ---
 

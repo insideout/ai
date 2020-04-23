@@ -1,28 +1,25 @@
 ---
 category: news
 title: "QC Ware Wins BPIFrance Concours d'Innovation i-Nov Award to Accelerate Quantum Machine Learning in France"
-excerpt: "QC Ware France, a wholly owned subsidiary of the quantum computing-as-a-service company QC Ware, today announced that it has been selected"
+excerpt: "PARIS and PALO ALTO, Calif., April 9, 2020 /PRNewswire/ -- QC Ware France, a wholly owned subsidiary of the quantum computing-as-a-service company QC Ware, today announced that it has been"
 publishedDateTime: 2020-04-09T14:00:00Z
-webUrl: "https://www.prnewswire.com/news-releases/qc-ware-wins-bpifrance-concours-dinnovation-i-nov-award-to-accelerate-quantum-machine-learning-in-france-301037988.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/qc-ware-wins-bpifrance-concours-dinnovation-i-nov-award-to-accelerate-quantum-machine-learning-in/article_49f2a7b0-ac6d-5606-a467-25b1e5a8a607.html"
 type: article
-quality: 7
-heat: 7
-published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/974472/qcware_logo_blue_twoline_Logo.jpg?p=facebook"
-    width: 1182
-    height: 619
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/0/79/0798b1a9-ea3c-51a8-bf86-18ce8cdd6d13/5e8f31a3258fb.image.jpg?resize=400%2C271"
+    width: 400
+    height: 271
     title: "QC Ware Wins BPIFrance Concours d'Innovation i-Nov Award to Accelerate Quantum Machine Learning in France"
 
-secured: "5yEdeYks659tnW5UIyG5tA1L1UbZcpjDM9DMG67uRnB11R+k/vFTi42UTpl2hROD94WQV3b3Uvb8zCyGDviesN70bOVPi6DWUpWNb6y4cvTTAWG+bm7qFRN7Mier7EsTsZkrjvSOXLhdRIhYsklNfc4gI3VBwbJMeRc2p315Ki3jrKmD9jXk1/sSiKDjjHNJhYxix0Ut2Bk8rqTl5f/j9+3eFF0ruj09GC3Ung+DOGWzibJdiKZ6mWbT0irhsFL0WrFDlQue4Fx/1MwNDw9XlmSlrsJMpj8ivM1agSC7GDMHt4CrVavJGkMaZtNPb5gsOpo3yfLo9ThUoeH+K2WcQx5Y63B4B/jeok8iNxxgEucwBwqsNHcY5aeQamHI+55PKmatTYTNSrXj49eFIASZEqgL4ALrwwqOFlzb1IQot4MYvzhR75sF9XEEZw3J+JLyGkAHtQmfUxuC5WlmKlEzfWbP2EM3HEZvIktaLVlKXD4=;/a1PGWhlzBoPwLiRKXH5PQ=="
+secured: "oS3PrMYnBc3HxPJPRvv/DPqkjI2739uKeNtgMfzaNOpVROOuEvmqePL51qd3Wz9T3NFM+Fo6ClzGB9KaMEgN3tcQoEy/WEdhKNPIk0CKZIv8Jjq+VRQryzeAoYBjAjM6biK+5/1D0wGHjZ4k3pMCGOgGl0HfiNUXeVas+mS/c/rlKbPl3aVJoQ4C5powgUaI08ylsRFKamKRqUDhMD9pVtVutVCTja87TmHOGbn3Q8gVuT3+Wt+m+7r3MQYCEbOMb5AyhxNgXc9YRu/uusOf+hwPIhdGUrNKZDjzM+jW0EaWyx4cPas4xASSJ2WS3iIr;xQkpKVxGMvjzGiqU5C/Ffw=="
 ---
 

@@ -1,26 +1,20 @@
 ---
 category: news
 title: "Global Robotics Market (Impact of COVID-19) and Volume (Industrial and Service Robotics), Key Players Analysis - Forecast to 2025"
-excerpt: "The Global Robotics Market was valued at around US$ 34 Billion in 2019 and the market is expected to register a double digit CAGR over the forecast period of 2020 - 2025. The market for robotics is anticipated to grow exponentially during the forecast period driven by advantages such as cost reduction,"
+excerpt: "The Global Robotics Market was valued at around US$ 34 Billion in 2019 and the market is expected to register a double digit"
 publishedDateTime: 2020-04-23T00:00:00Z
-webUrl: "https://markets.businessinsider.com/news/stocks/global-robotics-market-impact-of-covid-19-and-volume-industrial-and-service-robotics-key-players-analysis-forecast-to-2025-1029119909"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/global-robotics-market-impact-of-covid-19-and-volume-industrial-and-service-robotics-key-players-analysis-forecast-to-2025-1029119909"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/global-robotics-market-impact-of-covid-19-and-volume-industrial-and-service-robotics-key-players-analysis-forecast-to-2025-1029119909"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/global-robotics-market-impact-of-covid-19-and-volume-industrial-and-service-robotics-key-players/article_78e51e3d-1b26-5599-a8f6-ad332a931b98.html"
 type: article
-quality: 55
-heat: 75
-published: true
+quality: 0
+heat: -1
+published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
-  - AI in Robotics
+  - AI in Healthcare
   - AI
 
 related:
@@ -37,16 +31,7 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Entertainment Robot Toys Market Advancement in Technology, Innovations and Global Trends 2020 to 2025"
-    excerpt: "The global market is expected to be driven entertainment robot by the fact that the entertainment industry continues to look to adopt automation in this industry. For example, the entertainment industry has used artificial intelligence (AI) in children’s toys. Geographically, this report is segmented into several key Regions, with production ..."
-    publishedDateTime: 2020-04-22T09:30:00Z
-    webUrl: "https://galusaustralis.com/2020/04/609292/entertainment-robot-toys-market-advancement-in-technology-innovations-and-global-trends-2020-to-2025/"
-    type: article
-    provider:
-      name: galusaustralis.com
-      domain: galusaustralis.com
-    quality: 19
 
-secured: "Rul9JXpX+rnjK5aYN+gL8fH+uTesX173Arkgkeiv5c8CMno70W7GPIdg77O+0uIyD+sqm5K96O2zIem5QiEcinNMcgsQnIq4oPAWMzyV6o/B6RGLE7Q5zfWLLd/jIqITUnpNZivAgivKPsOID4t8K2l1j0l5H1yGdiOU06AfOeNeY9Q3S0X3hXj2MwUnC+eDlTAoo2QxQaVTOFK5YWN8ejgy6XavUG5zjiTzmbZfLjm48vu0Qyw1blSdeqf5R9XOUbbLgUdU+QJeQokj8pEuMAjYKok8AQkPuRUicII48D49XQXoFKgIFwnYv/kGY4Sa;lRn5v23fOJYr61eXVp+frQ=="
+secured: "h0Ga96gNFn5CF3gcntq/IQ8ePieALu5CKYOa5fpjBEAYdDIxNGVCxLxwrBZcepbHRDNpX+1bBjblMWTe3b4pwhEdMp1d1gQ/uLtnumDWx5MldsNqXndB0ET4wY3Lrd8zyewGU/YSft7Io+6/Q/VGEQfYbRNOJKFWHL/2Sci/ZGZVlNP9PIW9YB5AcsV9LO7zQd+zjSA0sehz33INERYPoad0PJV33Ve85Bb7m/ECUFL3AsiUOQ2337ZJx5FjwZaPrii3z9pfdW4GW8qDqH523MFk6cjBMYqnVGuy22y2fHAdQ5XQZgiobLul+zb/1kXO;0ZhHEKb/uEqePnlQ5vvvkQ=="
 ---
 

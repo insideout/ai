@@ -1,27 +1,23 @@
 ---
 category: news
 title: "7 Visionaries Shaping The Future Of Transportation"
-excerpt: "This is the age of wild rides that are transforming the personal transportation sector into something worth more than ever. We not only"
+excerpt: "This is the age of wild rides that are transforming the personal transportation sector into something worth more than ever. We not only"
 publishedDateTime: 2020-04-22T12:00:00Z
-webUrl: "https://www.prnewswire.com/news-releases/7-visionaries-shaping-the-future-of-transportation-301044939.html"
+webUrl: "https://www.benzinga.com/pressreleases/20/04/n15855119/7-visionaries-shaping-the-future-of-transportation"
+ampWebUrl: "https://amp.benzinga.com/amp/content/15855119"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15855119"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Autos
   - AI
-
-images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
-    title: "7 Visionaries Shaping The Future Of Transportation"
 
 related:
   - title: "Optimizing hardware infrastructure with data and AI: Granulate scores $12 million Series A funding"
@@ -40,6 +36,6 @@ related:
         width: 595
         height: 418
 
-secured: "qKRX4NE+mpCoQDtfN165pvnydFJuG8qJaHAyXH9H3PspjXKBpyRunK57tP2QK9/x+WFgfIOsgL2IPLFSBsDujrLBStR3DQXxGPP0TQWsZ99SSPQbbP8S+yecdFogUXgHHvQWHtQ1yyRySRamRecsIx9/tNUQzvhm5PykrRYv5RhjaIuPIfiUvhqe8vRI38NgTA7wzXQMHqDDXsQgDd5/9W3DC5w9yrwsD8qIDRyusl6Ujuvd1Ue05TE5gb2wUZ6agdRYU/YC9R/jIURBb7iUrEi/5H5vju2WeI7vcTx2wVF1LSTbl7RjpEJ4Z1M3CaOk;Q/8AG4T4ddOS6hbmKsw2pA=="
+secured: "8gb2anXq4piAWmkp4LR9b0JkzQ+Mta6cPJYGfH3cm/NolPiFPRkNoW/tWzMYY1YNnOtc6TBADx9KJv/0/gsq61DT8gzKwedggDle5ub3cYgV/VOhq71FLDp83+8jhmmiJJddciLRwmWbLUQlZx5XrrnwdkhtbhJ/4P8LNWLa+5Q//pAQIRMBO0zSA17TeWEs3DL6KYgo/CpHhcM7UTg32fnR0NZg+k/GovvL7/K4Df81DRToVlHjz+jmguHLgT0scxEh56xIJ+O2qew7qgZ2CsVUjaytTnl3TO8JQ1cGZgYJKaUigIYzeM+q+p2lAPKI;mY0jHYnCVE3yomTXg+Jw4w=="
 ---
 

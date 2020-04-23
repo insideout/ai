@@ -26,6 +26,6 @@ images:
     height: 600
     title: "We got an exclusive look at the pitch deck that enterprise AI startup Peak used to raise $12 million"
 
-secured: "MojuPTtxoX6FDwIdpKgt0QFLymWIheR5iZqGZILV/8Wy3qkJK9SoH2HIgZNVlZWptJr3XjY/fnixye5w/0z7ehdbI0yeH9ZX5a9rKy/sK1m8/WwhQCyyNk9W13NCOv09UjFw3Nor2BK1jEjcAnEu4QlGz5pyfpaU/BMa3AQXi9U69Jqz62wOlKTH0zkNBmiMmna1Zy/MK2c/TPc2FScKtnXI/3ZjcGfXiXkVyyrRwv0sgJIwX3EvhQFUI1ZrwbVPvKXVwRfaihaeXBP/xLNkpVHjGM+aPOuoEN0QkK7HJosyJRUlAmmmMY6k/4XceI9H;1zwgI5c+mbiYpfwggtn2SQ=="
+secured: "l/sg6xOPPAQ56oQagnaJnWUeSmqBRRmNqr1Se7ICdSVwxaJKn/4i0LdvUEAKT+TT05yATbRf2fceqL1OSd3hqWqDf6HTc9CsCBUtnmm8vw81nj+ZsfWu6zCg587bebrlMXsVRM5ozXQg6L0qlsfB6pJOhbiUPpYEiMHqHv2kb1g7XGUOiLiDI66ZwuXVlxBIsRdjM6+szs9tHLAS6nudVarF/+/bwRNQnIuTodoN1ajMHQ6bHzS0HysM5G9EvzAz3vQupE1/hJkjiM1ODl2fFlXwlZvTcVJv7LFQtKtUtjL70e3VSN6UZQBDa0ar+G7efNMlwtk83uyMGwpUGVuo67FZh8o/MZON24NNg+NSLUQJ5dm39GszMAyGKBD7k8d8rxx2wTntSbWD2AzsirJmKLXOvtuos1eJLVFZaYCTkvpXEXwO5qP/jCjx7sdfRzhiWFq0AcMM9+gQmlrv38npzMI6pa3pbKgrEMhamKEn1/I=;3a7rLQSvFfo/JnGCnxag3w=="
 ---
 
