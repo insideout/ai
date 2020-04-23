@@ -2,8 +2,8 @@
 category: news
 title: "Are You Pushing Too Many Vertices to Your GPU? Careful There!"
 excerpt: "That means, temporarily getting rid of the cost of different stages: CPU: disable AI, physics, networking, animations, audio; reduce draw calls. GPU: reduce render resolution, reduce texture max sizes to 32, change materials' shaders to unlit color. If you get rid of all other expensive parts and your game is still not performing, then you can ..."
-publishedDateTime: 2020-04-22T15:07:00Z
-webUrl: "https://www.gamasutra.com/blogs/RubenTorresBonet/20200422/361542/Are_You_Pushing_Too_Many_Vertices_to_Your_GPU_Careful_There.php"
+publishedDateTime: 2020-04-22T15:08:00Z
+webUrl: "https://gamasutra.com/blogs/RubenTorresBonet/20200422/361542/Are_You_Pushing_Too_Many_Vertices_to_Your_GPU_Careful_There.php"
 type: article
 quality: 39
 heat: -1
@@ -38,6 +38,6 @@ related:
         width: 1440
         height: 810
 
-secured: "2CPZxxFge58PURQ5Nnuv9DVuygDXqDSK2N7QKWqd8A72IBG0TQ9pHemMxxpMFq5m6tgRBXpzx88ddCvs5dxSeJAm7X2wDZIyqKLVm+Orn9zmgL6W3/5Qj8/wWJs33clZj3mzU1Y6vbG/ubxhzRxvKuY9nTmlNHBc5WNzP4S6aBGI1RbwMF4DyiIgvse4GgwrY/NBXsCrQDMIk5VpWglwAGBxz/Ehqaa/1J/TCJlIr5t6up6NfRHVjPM4PmmskJNDmIcDn5XmFQ07URjaR6uaKIZp5qZ/vIgFvvBBPpEnEkEs39yuOB65BmEyKzvie4MZ;qw/7RQcICpizdtamiAC/fw=="
+secured: "q42A1jnmMXoMbaPqgerSrpJwxD8lSc1cbcTMriDW1mNUlVsZfxaC2WMJDebagpZjjNqorqU7qDVo+gHpOXTRBKfkNKLlPBMqOCoRKQzlWiwtipO9/tp9/fI6cVcfoP+0l3Zr1KEL5D7pYY9i5syCQXPg0wicRuJzIwtdWmD8r0nxRS3H5jRHMkIxjXWxXnfQCsP7fRuMhlqX/jZSHJuFA+35wJ75cntxxjkwHnY9nDUXZBFsLQmS/Eqb+YLO9lA4lA4iTks8+UBJ7gwcrcUM6GSqDDBx4N4uni7B3e4reRkJOUKaVL4LJ7HoxA6IA3x0;68PaJh6j1L4BDZHwgE3CSw=="
 ---
 

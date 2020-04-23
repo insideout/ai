@@ -1,24 +1,19 @@
 ---
 category: news
 title: "SDL Offers Machine Translation Free of Charge to Health Science Professionals"
-excerpt: "SDL Machine Translation Supports Global Research into COVID-19 by Providing Easy Access to Multilingual Content SDL (LSE: SDL), the intelligent language and content company,"
+excerpt: "By offering our services free of charge we’re hoping to remove any language barriers that stand in the way of understanding and give these researchers instant access to the information they need to bring an end to the pandemic.” Built using SDL’s Linguistic AI to improve the quality of translations, SDL Machine Translation instantly ..."
 publishedDateTime: 2020-04-16T07:00:00Z
-webUrl: "https://www.benzinga.com/pressreleases/20/04/b15815328/sdl-offers-machine-translation-free-of-charge-to-health-science-professionals"
-ampWebUrl: "https://amp.benzinga.com/amp/content/15815328"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15815328"
+webUrl: "https://www.businesswire.com/news/home/20200416005038/en/SDL-Offers-Machine-Translation-Free-Charge-Health"
 type: article
-quality: 36
-heat: 36
-published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "egR5T+um6E3igexP7X62MvaGFL85H/zc/lEWY8cBM9X7bN2y0S/KLAhYzdtExyVC46UMfEqTS+LxdBwfsGPUZaUjvahPlRa2lSHKerEFL5Ca6PE48+PwLm5C/N1fRFtEs7nh4CwHJSEFsPGr98oNmatw2Ntl8gHnT1w1QPW3a31GnCL90qGKE7FoLwEqfwCEuIhnoiF0nFo3RgENQxTYNdevHP0ss0phlM14HfU/W77lxmf2BYSXrz80EexwbsT3xaFsVNbxWiNaVQ8AB3xB7qvJK2v8fMQHu0OarmVUjpEnpaiUzpfskjU0TQ3My4Nf;xO+fptQwaYGjk6IfTQXAZQ=="
+secured: "Lb+Wyqweq8DrPWqLt6/sHNpkf/QmOd+MmSqVLhZE6B9borZo4S7q/odgK6zzkHEklDWVMNVTlq+j+KAyLECWJ0V+Z4+Oi66ztjDlYH0croIahNq27wc2ovDiPSkE50007GPJfZP1mqxrjKrbeTEhQbyoclelMCVWHy1UnfxKYpE6x8Nl7KeZ8OgRNp679DJdciqyS9Q0SSbY0HZ6Xd8s2w2b7MV2dBz2s0p3dv7nh6dl4jKdwcZi36D5qXv+lAiAAYSkDnvqUIkrc7bn1HdMGu4KjBk4LScg7mtcB1BVj9V6Y1E+nHJkrvAxf/STDRhT;TFPAz5/3rTu+vp6YDUOZNQ=="
 ---
 

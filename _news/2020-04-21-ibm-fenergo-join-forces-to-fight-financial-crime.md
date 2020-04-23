@@ -39,6 +39,15 @@ related:
       - url: "https://www.crowdfundinsider.com/wp-content/uploads/2018/11/Prison-Criminal-Crook-Crime-Jail-300x208.jpg"
         width: 300
         height: 208
+  - title: "IBM and Fenergo Join Forces To Fight Financial Crime"
+    excerpt: "all built with Watson. As a result, IBM will offer companies a complete AI application suite that is focused on risk and compliance and helps clients fend off financial criminals and meet their intensifying regulatory requirements for disclosure."
+    publishedDateTime: 2020-04-21T17:44:00Z
+    webUrl: "https://www.bobsguide.com/guide/news/2020/Apr/21/ibm-and-fenergo-join-forces-to-fight-financial-crime/"
+    type: article
+    provider:
+      name: Bobs Guide
+      domain: bobsguide.com
+    quality: 4
 
 secured: "pGW2hijXyvwlINsu4tHPV20n1bayij2e05sUiEU3tns1Jr2DcU2d2ZwKHU6avF0Vvc67Muu2fNlfWki0xb7sTkWQL6NRBgcjSaCgYFpJSTubctJgMmzpu5J8SDAM0yuwR9SjmDcme4Ebxbp92VmebQtyFZKDezfq1gyGMb+yswqyn2/AJbJ8/Pooxce89XD0Vc6Ikx59T00EiEPtUfzznEbiqyB/gjiuXbtfTICndwnxwd2jrA3g+1lmLZDK+1F6bbfsk34+wi7pFPk1CsUxlnqLI5AlOYfx3izFsDGj7LH7jKF3+PJoOG3cld7USAhL;u6scfFJydDdJIX/jkE6EZw=="
 ---

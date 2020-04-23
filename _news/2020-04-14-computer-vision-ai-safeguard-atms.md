@@ -2,22 +2,18 @@
 category: news
 title: "Computer Vision & AI Safeguard ATMs"
 excerpt: "Italy’s Banca Monte dei Paschi di Siena turned to advanced technology that could reliably detect installation of skimming devices, respect the privacy of bank customers, and reduce the load on operators. ATMSense is an aftermarket intelligent vision system that can be deployed on existing ATMs."
-publishedDateTime: 2020-04-14T13:47:00Z
-webUrl: "https://www.infoworld.com/resources/201265/computer-vision-ai-safeguard-atms"
+publishedDateTime: 2020-04-14T13:24:00Z
+webUrl: "https://www.computerworld.com/resources/201265/computer-vision-ai-safeguard-atms"
 type: article
 
 provider:
-  name: InfoWorld
-  domain: infoworld.com
-  images:
-    - url: "https://insideout.app/ai/assets/images/organizations/infoworld.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Computerworld
+  domain: computerworld.com
 
 topics:
   - Computer Vision
   - AI
 
-secured: "DhfaFysF4yUZUVnbBQIxtZMeyYbJjwTBgxha1wc/CGHmNg6mmUyRro1A04cj2hlzS7aacUDMYsdUmk5ggTN/eInHGa5YC/AMTiHYg3odWZGE10ABzBHo27XtqfhphIOeY+axBrrhHc5+nD3ItvegKbhrSrsJLPMeQBGj+9oClpMpaeI7gq+hBPAgpUfUazYj8MIQwAQFKR1DWOqPAqS5wN5uh++pQKPBPAFviFgF2KaxPTHQ2ekJMuqdiFO3aEE7ZRcI7JCx3ZFnVeMhWCkv4RUWrtbPcPbYyTPNmvGhLtKPjjaBb6MsZ4AxBdD+ajRKlsnXubY6JjzAlGjaGC3uGZTUWhy6yI882od4Wl3KhN2RFoHoDU91lLa/z980S2ew8DZoa/fM5zaHE9QjqSC/J9yUWhXlvFv9syHfqy4gQr3P8rFctjdKDfZr2N+U5fjdtFs6h0YUS7BY/Gn0wRWlG8HbZb6wQoSevLkd3im67v0=;aYnFi4gLSee6ljXkd7QQ1Q=="
+secured: "VAhYZJvgmirhnoayc+t09xTmOl/5yXQglhbJFqM8jrmVwBFX+ae9F1CiWLkEFAEGHZB18p2JptIL6Tx1mSc0/ZZzcwT/MkWpQEZS/QSkzfzN8/VAW+rXY3s9Y0LZ/0hUemx9AAvym7SbJBextP4UWzV6/Q6TcwgTvRsewSp96wwEmgV0fWKax1wPAeeVmfQO+NpK+GNqnUCnDrwA4Nqp8uWpLUL/gmHhVyeLLnT23V5CXIq7hJ+uWfB2DV8EKxg3Xhgz0JZtLHTE/N9IRxT6Hyz7CDLjzZ6d5D45zCH0GLmsOtWs28dw+WEVi275LrdBVfTPOAstObXcgMQ4jtVlh44VG00fu8OAsYLWvoiZoX5JvPDsQQ0y12HwCmAKoNEbgUgaV8fXfRgmZIGjlMNNUZXsvPuMCIXn0OxIxNunfOWN0opJn04U3eOMYwg6HOfIPm/N7xtSzezDeM3Si5Ij91dh257IIJXxCjh4U4qpWBI=;uOR6dW8wqDLwj7uhiODaVA=="
 ---
 
