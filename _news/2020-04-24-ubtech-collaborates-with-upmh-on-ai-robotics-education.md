@@ -23,6 +23,6 @@ images:
     height: 694
     title: "UBTECH collaborates with UPMH on AI & Robotics education"
 
-secured: "b6e1TB3qh/65rdTHjyx10X68bEMsthuQ/QGuDHyf7rqfrQ65pbVzov4b/5XqSUuwpjP+f7z+J9/9ULF+dRATEyoguFWBv2/gCVMshJ8rJZ8W9oMOWNM9An2PpLPQjEBQuk0oAUc7nrw4FKFrTTCAIokjCY5xMGl966oIJzy/vuPl8uEAi1blI2L7R208jIqp1JcKTFHghIuRk+Sz7+YP+oQ0IvxFdGpDr/Qt3d7cyn9vrfBi/8gNd2ivZ2CBYz/orULfif62k8bOrhO0kOQ9XB/dddeBbSjCJqx1jJeuGR7Mzn22q43poHWrcW9nTzk6;GjnmJ/pQ5C6k2IlGqNUoYg=="
+secured: "hsLzTLS2LiFCmBl7SJQeCU7OConklEn/HIs9fu4yra8SPLms1HJv0RMR+K1nFTCcW74N4A7w/lGZ7R7uGJkkLYNjeiNoWSCYZM2I3Vic8fCv+ohhVAB7Vm7p4NuGCtTJysjwWC7f1qfyV4uI27/OJCbBpwkXclsd0ix4vBqB1phJZJvGGGInKT2pVmB1D2RfS4OAw1NYpu4DOF1A5+gOA9YbRnaLlGE31B6heNS+ZqmdG91aM3iC8LhKbt2q+Pm5TC678wIhktry055szHTOpJefPzkJ9QmJdW84DUqpyJ5ZA+txHb/CpDbRr52dUeFL2tQnghq/NHKJUeDzxIiNrLI4TL6BMkpDB2Wqy4krJP275YuY4rz/TPCnhVzWiv1M90vWiJjwhos18vxM/FLv7so+uX6GcWPv6p6u7UdpIkqalW7mBs1B+aND9Q6y7rKWfuQns33VLy8sulJ0zdKWjBWq0eVKmcKboMaFCWCf8to=;JM4qRya/hJH/BU5h2oh7xA=="
 ---
 

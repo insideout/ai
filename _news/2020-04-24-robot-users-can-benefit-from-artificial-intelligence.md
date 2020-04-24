@@ -23,6 +23,6 @@ images:
     height: 800
     title: "Robot users can benefit from artificial intelligence"
 
-secured: "KZolza0Booic/CtFDd4Ay1MWnxK6eZ2i6mGZkA8YeSN87zfFcNIwYuR2jB9taIFaD3wo636i74e2xKJHg8I8CQIe9h3+t5rv/066KzvCJJqAa1y8H+SxNWCihhDBnxxf+ATlGtwhJ2FgexIQUD4XjDLnVc/cp17yR/vpljio7+BtF6IfWfkOACR13Aq0YR5iFNaOyUJoO/xmLI/JMLyqyqLvzvMY0/gC3S930HanpL9kNb1TAdxnWMBP5cGbUuG/yzcIz7sk6NZST1iwE2yZU7Q0jk+4WXScnvbCUBx0iq4ZQ6MXyPoX8j3temsohnmI;nrIBZQ/BgwJBsMb2wS2z4Q=="
+secured: "D1cZDIs6LmV48pzPlkzac+LGz3gi2YC2e/ptp5dYBU+NaYrp2IF7de2iLkOOiR+v+62l7MhEOBGbitgK3DuRs2Xx9R7gZ4+JuYDOdzoYVhU2MM+VJpucWjRmqJ/aAhZ2NGv47uI0FOBr1moxvJvzDcph0/hAkhP1iBdWdj6qX5ZT383UVSzx0JkXo46g+tl0h13kiYD5ygEmqkuRMjUgF9DHI3GKFcWJRS/erVL0RILrffk7gv+A8IIBLenUFz7cy8WJJHZjd2Nqup1E2vcwGJQ+CKbesvNdOUH73ZDVbjvyMuhfnX+Yg5v+Kav0HPM8vG3zVcS4lEQzgeCg4xW4PuKz5f47oXIacnx0qs2UdoD2xdFKh6bQ/3cglseXBFZ3gdP/BWM1S/bhwhfnhiNMBQ+Plur/ZvH6JSKyd3mZYN+E4u5VJkmux2lX9ms0OQm4wUUUzcl3p3/fC4gi1iJEsMm+EDhqoJyxPDFbRBWn0yw=;b4Kk77LwGS29kaSD9qDTcA=="
 ---
 

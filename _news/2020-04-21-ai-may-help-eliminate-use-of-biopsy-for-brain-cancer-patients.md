@@ -8,7 +8,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20200421/AI-may-help-eliminate
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200421/AI-may-help-eliminate-use-of-biopsy-for-brain-cancer-patients.aspx"
 type: article
 quality: 59
-heat: 69
+heat: -1
 published: false
 
 provider:
@@ -28,15 +28,34 @@ images:
 related:
   - title: "AI may help brain cancer patients avoid biopsy"
     excerpt: "A new study by UT Southwestern shows artificial intelligence can identify a specific genetic mutation in a glioma tumor ... practice of pretreatment surgeries in which glioma samples are taken and analyzed to choose an appropriate therapy. Scientists across the country have been testing other imaging techniques in recent years, but the latest ..."
-    publishedDateTime: 2020-04-21T17:14:00Z
-    webUrl: "https://medicalxpress.com/news/2020-04-ai-brain-cancer-patients-biopsy.html"
-    ampWebUrl: "https://medicalxpress.com/news/2020-04-ai-brain-cancer-patients-biopsy.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-04-ai-brain-cancer-patients-biopsy.amp"
+    publishedDateTime: 2020-04-21T20:59:00Z
+    webUrl: "https://scienceblog.com/515689/ai-may-help-brain-cancer-patients-avoid-biopsy/"
+    ampWebUrl: "https://scienceblog.com/515689/ai-may-help-brain-cancer-patients-avoid-biopsy/amp/"
+    cdnAmpWebUrl: "https://scienceblog-com.cdn.ampproject.org/c/s/scienceblog.com/515689/ai-may-help-brain-cancer-patients-avoid-biopsy/amp/"
     type: article
     provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 39
+      name: ScienceBlog
+      domain: scienceblog.com
+    quality: 59
+    images:
+      - url: "https://scienceblog.com/wp-content/uploads/2020/04/AI-may-help-brain-cancer-patients-avoid-biopsy-.jpg"
+        width: 900
+        height: 708
+  - title: "New AI Model Could Aid Brain Cancer Patients Avoid Biopsies"
+    excerpt: "‘New artificial intelligence can identify a specific genetic mutation in a glioma tumor simply ... The IDH mutation status also helps doctors decide on a combination of treatments most suitable for the patient, from chemotherapy and radiation therapy to surgery to remove the tumor. To improve the process of detecting enzyme mutations and ..."
+    publishedDateTime: 2020-04-22T05:15:00Z
+    webUrl: "https://www.medindia.net/news/new-ai-model-could-aid-brain-cancer-patients-avoid-biopsies-194536-1.htm"
+    ampWebUrl: "https://www.medindia.net/amp/news/new-ai-model-could-aid-brain-cancer-patients-avoid-biopsies-194536-1.htm"
+    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/new-ai-model-could-aid-brain-cancer-patients-avoid-biopsies-194536-1.htm"
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 59
+    images:
+      - url: "https://images.medindia.net/amp-images/health-images/brain-cancer.jpg"
+        width: 1200
+        height: 1000
 
 secured: "VH8i/Dw73CMMoLUagVqW6d1eC3c2VD53OzwqsKfyElxigFm4JD/T9di6Si95Rl6mQ/ZsrU7i1NWLdQstLRBduzLR9d98VQLV8LdfzbiaKjTC86f1jxa82kteGMJLN/ArvWFxWTP//kJjvUAlSFEYwPXbWpSiJH4XoOjIcJPwPFvNnyFqDe7uChk6eE8aGK8o8fDRa5WEoP2tAxFqcma3M3ozv1mVUuyb7kFVtvb8jTT1sTyfRqGXPA358c/4SgV23OqMVDiOpunQSFvXv4wxvw/P/71zC3YA03FOrzOOjaAhwkWGpkq4pIjfwIaNGfPxw5REtPMfhuqQTnWorVozWU39+yVkzRKk9zO3NT8xhb805QzOCHAaZF9hmpTzxllrlyGHaRRDry/ccI4DuNgtQKfVTB2z/sLlgDdQqokR5brV6Doc1D6WskQ65aNbYfHO+vnrgVVNTwIrZKT+k4iMUT8Q9endT+Crpa6sjW8HJ3Q=;m2IrPqJjcSx5ZIb+Yb+oEQ=="
 ---

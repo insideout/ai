@@ -8,7 +8,7 @@ ampWebUrl: "https://thenextweb.com/neural/2020/04/24/neural-network-draw-dicks/a
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/04/24/neural-network-draw-dicks/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 90
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     height: 452
     title: "This neural network was fed 10,000 dicks to learn how to draw one"
 
-secured: "EdLKS+Tg+w/7wb/DBQghzW6hv6vQhEKqz/VR6V6m+yIy1G/lFFU0PypAJFh8tHEpkTLpzoTmP+ue+qU7mlKcwb08e2HH8d0j6atR3x/lfEqzjmkIJX2Ap0tXFZntOOs2mSb4YteMDDCDh1R7Y64wnGuZN6ns/olSnI/2CfmzZkf3GOU5F7ot6wc0Ye/1d+N4rHvXC5XrRh0ygpIQFJNDjv/WkQxNFNTas8/V5kMt+poAGxkXHfatnS5ZWFq/FSC3WDEZruv36OT2sU2pALLh1Wo3J+9Uept/rWO4LYMZZsx6/1WEwKCshV5E2xAAMENa;hG9L2YThdiND2Jal8JMfrg=="
+secured: "AMVQvsS+LCAc6Db3XwS1R/b3M6khdE9mY8eM4UmBveOGDLr2SBP+lI50EBKUym0ovmBMW1ISFP+COoG6tvlEMaf+bi2woj2U7Y5mfajo3L55/1zgUQEK2IfQnC7q5mqE3AZ00scU5Tcw7WdjXwfbeFirWi5f3RBH+24crENx7kolIh+QoK2C9+N27HnvXvlF1h8E6aRZLJMnfB5Er485VI4y9mI4cwlnZUcTqI48Db4v8EqO/7+4BrdCg19aQxA4rIYpmvLJ532qc3P7opB9E8NaRg+mjL0P/KUIJ8b4RiHjq209OamXh9wrcHd67zxQPasit1iXVsfzNI5WnrdO3wmD2WbPOKHyqJo44ZJIwUjvM/QfL74RK2xduLgR1qIRPfQVRPxq017XNJJaEMxk9s49aZKRSDAFMEnASPCG32JOdMkMuvv4jVK6TrE5Lx9OXImH7/9IYTvYXKEKusuIqcxNE2P07qrmOA77lPILT00=;OnMy9XSBJFcHcEvfRQsrow=="
 ---
 

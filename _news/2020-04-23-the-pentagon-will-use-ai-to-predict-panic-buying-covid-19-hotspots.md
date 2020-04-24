@@ -3,7 +3,7 @@ category: news
 title: "The Pentagon Will Use AI to Predict Panic Buying, COVID-19 Hotspots"
 excerpt: "The Joint Artificial Intelligence Center, or JAIC, has built a prototype AI tool that uses a wide variety of data streams to predict COVID-19 hotspots and related logistics and supply-chain problems. “You have to be looking a little in the future,” said Nand Mulchandani, chief technical officer at the JAIC. Dubbed Salus, for the Roman ..."
 publishedDateTime: 2020-04-23T18:01:00Z
-webUrl: "https://www.govexec.com/defense/2020/04/pentagon-will-use-ai-predict-panic-buying-covid-19-hotspots/164836/?oref=ge-category-lander-river"
+webUrl: "https://www.govexec.com/defense/2020/04/pentagon-will-use-ai-predict-panic-buying-covid-19-hotspots/164836/?oref=ge-category-lander-featured-river"
 type: article
 quality: 37
 heat: 37
@@ -22,6 +22,6 @@ images:
     height: 400
     title: "The Pentagon Will Use AI to Predict Panic Buying, COVID-19 Hotspots"
 
-secured: "fd3IclMTxF8m5QH55zoFeF2lM3vV5842peZOIlc0JlQP7TyeYMMM95G7YVVKlWrL+Bg7/KesfaKvp0Pmw/fLKBpDeLofuXDDuG34Pdx2w3S3+wKmF1GTm3Ow10F+W76iD14A1EkNybbW6DDPZrpOe7YkRwwOqnp9bYK4Pf6/NMxJZqSLWTd9SWZVJcmzMbwUCWiG0iTOBeiv8pDaF2m+MnG3QEIt+LOGoOaHS1ot/RFGx45C5p7yXX0VyFcdNi/AcHTjvP+8emW2Xs//5xGkR1EnDggpQqw8jKiTgg6UUM0SVL1ByiaNOL1MWGEhFwr3auHNA/RQmdr7QXPVOD8TkMt4aO7xtq5ShiN0nboocuTMHEq5/l+OiZYK6k2x3yGenQwe0+Wo7TniNHG+1GtRUMeMdQrHorb/BjrHFyRkRx95P63lfH541jUNTDh7O66pIldxd78lHW3n8BQb+fu5As9n6q/nsTXlMtKZ6YAcp8w=;LChCI83K4ezyN+/ZO8Fu0Q=="
+secured: "GjczwFMdhQGytJ5lTcok+fqIUNjHoAQb02X7NW90nt19HOFUu8G3ZCSRRAQr0fQVUZFh2IS5r9rAtGlLqSTtiIXM3BPqNCwCNu7WNWt8noF1gLiIBxX9Qfil4TSzLsHFxObWyS8axDnKUr4b6F50co7w2vnIfoHXOYL/+RzKZ4sghAHGQ7YM2R43tl6RD4prvjkSgx6q2xocXmIZHBVkKA8A3yWFa/TGKaL3XY2YJOaNMBXnAn2uuErFym6WUfIwLL17XIBCElFv5hhnsaQjOhD8Zmbfe4gW0oPUVPfD3XO/fY07yyDf3h5V9N7CzPkt;N1sxnfk/w/cG7alJIHo5Bw=="
 ---
 

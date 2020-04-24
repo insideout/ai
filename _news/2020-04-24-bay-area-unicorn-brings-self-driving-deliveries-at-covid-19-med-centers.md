@@ -25,6 +25,6 @@ images:
     height: 399
     title: "Bay Area unicorn brings self-driving deliveries at Covid-19 med centers"
 
-secured: "tykf1l7/6OxdEoHM0jtgPJao2TrShnX7obI+8KUCWXmzLQFKjI+VZ0W7fDy6FBC6XCliTIDHEZEPjIHWqT1zrI9y3bGhqJsm0rn9Ar2+vk7D6B/4jg5uuucuX8cJZ/vu5JZX4ImBwUMIlZSIpYQS22yVq/ySRpSEsDtpxFYcY7wR3Wg1d3SOntaa+1lgIZX+dOcISSAQxWnDvjpVgBzKxNMVPcUGNg8Y2LdJf/PTotelLDNYFDfQBtDCErirV9ghDK8Q+qPAYWTUabjEws+B3JsDKzUe2WXQaIB/uVhlTHXx7trVMltQKYSZVP54Imp0;dASqu7/ts46hueswFxb+1g=="
+secured: "O/gs07k8oEjHUXPQUJdA0qm3pQ4qVvsobpDOfSRp/Xoxk/KBW+B5VfOiXpdmKHdKcL2jupr7pA4BfxQSFNz6PuHQMips8IBHCsWTUP6x2v1yPIh4vDU7oBQyzVRF+63L8d7/cuCtwyrCam3VQne2WoZjk2wtcdKqW1RRCmjq/r8SFhU6jU2GPiC2zUIQjuBUbnibG/UFHDWPfYehN8xOdgKJcJlK+hc/ei65uR+gIkl8FNYlbI5YKXMudwp2/oM0PyI4h/GHBGWGNVeAHmaGosrCr2F4jjFCIhv3VL2kOv1HT1Ic0hNST3LP1Eqkw2Mdf2XIizf9Jy4oh3a11sYopGNG4flEzlTUrsACCZr4ZPlqzK83ZSipL+6SP9ZlgQNBoZ4cetOCuZQv9TWz4++MnTVfcKNhO0nev070tOTaadWVUN38qemS/36zXtnixn3al6MMZPpiCjYhm9IuKwdDS0QNkahe3GgxJoBTzJ321pc=;EWZFkgXGEKyh0uA9E1UGmw=="
 ---
 

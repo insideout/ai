@@ -23,6 +23,6 @@ images:
     height: 980
     title: "AI Startup Landscape: How Avant-Garde Establishments Are Gaining Momentum?"
 
-secured: "G7FgaDyI9j1eA4KwlGhg1+hgx00Kl+40Ibej9nt/WmFmIJbBR19IbOXl06Th726eTN9PtbBRB6hxPMw+8I9imND5SkJevns+VZMRNFvFnVy3zrBRHiUN03wR6zQ2SuBwX9/4u+7zTuX1KeZ9zaKHAS5uzO8s5VQK+zsOLVssRbYXKlrAjYUQo/XM08yiiMgp+ZxgvXVWwCk6zbD/LnAEnjtG1u1diCN833PPtZ4Y7zSO1o3fpXLbqYISnq5+VNLEbqTfNef4f47YXioIkuRforCV80heRauxLbpS52fzWYEX/f/Z+isT6mKDJBmD4bdT;d5VCD+SAO92pVmEj73OlCQ=="
+secured: "S+fVzrpA8bqzCGrYydp6zTtcMzgu3yeVWIQnuubvoPAPrgnijhftSiH/76gthBqpncF+nUivLQckHpVvW1M4rQzIRwclpnjjWNah1BnaSf41IRpktjF3oGb2is2S2LHV1vDtFpUG6rJxtE/7k96tCz26Ue/bZjfHIDnnPl1qmhefbQXLQ3vKDMuTLx0pzCeBZm56/eiDiOr0SpMoXrTZ2GWHE7hfLqTmXsoFyXxFAC528WXIA6vtkD8Dft6gfKPlkdBUSTPEQRgseUWGc6WQVIcOAOP9pjsCmhptNURDcGj6us9oM04ahnUWCGCKh4j+EnZkFB/lgjPPhxhY/f936F+Cde2gjhS6bAlSpSD9VRsKQNkORPuGwa9bfGP1sjb3Tzc0gD+jTJeo9z7QgqN/ANd5MG4ar+avpuc6j46zyh3zhLenAEsK76FNLLy+Oizu2BXXM8jWbGb2l6fdqec85Wl3lBzNRPE2XJnqNbImj3s=;os9g03YtH/C/3/rSMDGgSw=="
 ---
 
