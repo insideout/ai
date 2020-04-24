@@ -8,7 +8,7 @@ ampWebUrl: "https://yourstory.com/2020/04/tracking-self-assessment-developers-aw
 cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/04/tracking-self-assessment-developers-aws/amp"
 type: article
 quality: 35
-heat: 35
+heat: -1
 published: false
 
 provider:
@@ -26,30 +26,21 @@ images:
     title: "From mobility tracking to self-assessment tests, here’s how these software developers are combating COVID-19 using AWS"
 
 related:
-  - title: "How Tech Giants Are Enhancing Their Conversational AI Platforms To Fight COVID-19"
-    excerpt: "While the economy has been facing a hard time, demand for emerging technologies like conversational AI is at its peak. For instance, in India, the Ministry of Health along with the MyGov platform launched a ‘Corona Helpdesk’ chatbot on Facebook Messenger to ... to accelerate COVID‑19 diagnostics, research, and testing."
-    publishedDateTime: 2020-04-24T13:32:00Z
-    webUrl: "https://analyticsindiamag.com/how-tech-giants-are-enhancing-their-conversational-ai-platforms-to-fight-covid-19/"
+  - title: "Exclusive: Meet the scientists reversing robotics by putting the man into the machine"
+    excerpt: "Cortical Labs is not your average robotics startup. Instead of creating artificial technology that is programmed to function like the ... Probably not, if you ask Chong and Kitchen, but they also admitted it’s too early to tell. Fluid intelligence is what they’re going for right now. The more complex devices that think with these chips ..."
+    publishedDateTime: 2020-04-24T19:39:00Z
+    webUrl: "https://www.syfy.com/syfywire/meet-the-scientists-who-are-putting-neurons-into-computers"
+    ampWebUrl: "https://www.syfy.com/syfywire/meet-the-scientists-who-are-putting-neurons-into-computers?amp"
+    cdnAmpWebUrl: "https://www-syfy-com.cdn.ampproject.org/c/s/www.syfy.com/syfywire/meet-the-scientists-who-are-putting-neurons-into-computers?amp"
     type: article
     provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 34
+      name: Syfy
+      domain: syfy.com
+    quality: 67
     images:
-      - url: "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2020/04/aim_chtbt.jpeg"
-        width: 1880
-        height: 1253
-  - title: "VisiQuate welcomes healthcare and software development leaders to its Board of Directors"
-    excerpt: "As VisiQuate Inc. continues to grow and expand into new areas of healthcare, the company today announced that Jim Lacy and"
-    publishedDateTime: 2020-04-24T11:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/04/n15873030/visiquate-welcomes-healthcare-and-software-development-leaders-to-its-board-of-directors"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/15873030"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15873030"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 30
+      - url: "https://www.syfy.com/sites/syfy/files/styles/1200x680/public/2020/04/hackersmatrix_0.jpg"
+        width: 1200
+        height: 680
 
 secured: "o280NqB/Eqs9k5uvyJndKYlqUkrcyXpnYvcPxeead4P949f1yVtsUUvrXXYP2Yj7QGXOq22j0+5NKU15gh7CELHmIE5nmpX+aBv4oujBZYSfawvwYoQhqFEAzcdzS7mgXEuDNnzz3IpNFy1iMNHP8WDbHkos5cePX3EQKFxhOreAZb37gyox13rc2gnDzH0i5fj/w9I/z9uv3aT49UdSyaNk7KgTO8n6Anaxwn54zZUIerurLX4d65gVSGQ30pdqb6ihX0WmpN/l5LDLz7W0FnUMap1nn8SmGLqzvFsL+Cs6xb6x2H5tYrUDGA7yY3Gc4uAAcUGEMTpcBz8QORHfMYLZBSqKeoMAcJ8zAtnuxwIdinADMZqV9bOp+RME0UeuPD2QcA6w3+h+haGf1FCuw21ABN8yI5GzMPlz5DDUGkEegnqgxRYOm3mnCIYoWhdlE8qYEXPZ2SU/46tnN4YmS/E+Ybovkewm5oFbocsEF60=;PYiYWvDnyEjzp59q8KGa1A=="
 ---

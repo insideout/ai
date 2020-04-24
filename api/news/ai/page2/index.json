@@ -2,6 +2,124 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-04-23-omnipresence-launches-cxmnowio-for-life-sciences-in-the-microsoft-azure-marketplace.md",
+      "title": "Omnipresence Launches CXMnow.io for Life Sciences in the Microsoft Azure Marketplace",
+      "excerpt": "CXMnow.io in the Azure Marketplace today, an online store providing applications and services for use on Microsoft Azure. The customer experience management (CXM) technology allows life sciences organizations with certain well-defined business needs to sign up online for a built-for-purpose customer engagement capability to use in their commercial or medical operations.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/omnipresence-launches-cxmnow-io-for-life-sciences-in-the-microsoft-azure-marketplace-1029123493",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/omnipresence-launches-cxmnow-io-for-life-sciences-in-the-microsoft-azure-marketplace-1029123493",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/omnipresence-launches-cxmnow-io-for-life-sciences-in-the-microsoft-azure-marketplace-1029123493",
+      "publishedDateTime": "2020-04-23T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-23-amp-robotics-hits-major-ai-driven-recycling-milestone.md",
+      "title": "AMP Robotics Hits Major AI-driven Recycling Milestone",
+      "excerpt": "AMP Robotics Corp. (“AMP”), a pioneer in artificial intelligence (AI) and robotics for the recycling industry, just announced that it has processed one billion recyclables over the last 12 months. The ‘one billion’ milestone means that AMP’s technology has specifically targeted and removed one billion individual recyclable items from ...",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.waste360.com/recycling/amp-robotics-hits-major-ai-driven-recycling-milestone",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-23T07:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Waste360",
+        "domain": "waste360.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.waste360.com/sites/waste360.com/files/Untitled%20design%2010_4.png",
+          "width": 1540,
+          "height": 800,
+          "title": "AMP Robotics Hits Major AI-driven Recycling Milestone",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-23-this-ai-camera-can-help-restaurants-show-that-their-food-is-safe-from-covid-19.md",
+      "title": "This AI Camera Can Help Restaurants Show That Their Food Is Safe From Covid-19",
+      "excerpt": "If a restaurant like Emilie’s were to use Dragontail’s AI camera technology, it could help them show customers what they’re doing in the kitchen, says CEO Levanol.",
+      "heat": 83,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/jennysplitter/2020/04/23/this-ai-camera-can-help-restaurants-show-that-their-food-is-safe-from-covid-19/",
+      "ampWebUrl": "https://www.forbes.com/sites/jennysplitter/2020/04/23/this-ai-camera-can-help-restaurants-show-that-their-food-is-safe-from-covid-19/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jennysplitter/2020/04/23/this-ai-camera-can-help-restaurants-show-that-their-food-is-safe-from-covid-19/amp/",
+      "publishedDateTime": "2020-04-23T07:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ea18f0ef0b8cf000629757b%2F0x0.jpg",
+          "width": 1199,
+          "height": 673,
+          "title": "This AI Camera Can Help Restaurants Show That Their Food Is Safe From Covid-19",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-23-robots-ai-and-the-road-to-a-fully-autonomous-construction-industry.md",
       "title": "Robots, AI, and the road to a fully autonomous construction industry",
       "excerpt": "That might’ve seemed like an absurd thing to say back when autonomous driving first entered the collective imagination and companies established their intention to solve AI’s grand autonomous vehicle challenge. But Waymo now takes billions from outside investors, and the delay of major initiatives like GM’s Cruise and taxi service and ...",
@@ -1204,140 +1322,6 @@
         "AI",
         "Machine Learning",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-04-22-granulate-raises-12-million-to-optimize-server-performance-with-ai.md",
-      "title": "Granulate raises $12 million to optimize server performance with AI",
-      "excerpt": "Applying AI to data center operations isn’t a new idea — IDC predicts that 50% of IT assets ... (Granulate has 14 employees, and it expects to triple its headcount to roughly 40 by 2021.) Sign up for Funding Weekly to start your week with VB's top funding stories.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/22/granulate-raises-12-million-to-optimize-server-performance-with-ai/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/22/granulate-raises-12-million-to-optimize-server-performance-with-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/22/granulate-raises-12-million-to-optimize-server-performance-with-ai/amp/",
-      "publishedDateTime": "2020-04-22T07:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2014/10/hp-servers-e1586902722207.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Granulate raises $12 million to optimize server performance with AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-22-optimizing-hardware-infrastructure-with-data-and-ai-granulate-scores-12-million-series-a-funding.md",
-      "title": "Optimizing hardware infrastructure with data and AI: Granulate scores $12 million Series A funding",
-      "excerpt": "Ezra and his co-founder, Tal Saiag, have a story shared by many Israeli startup founders. They met over a decade ago, and served together in one of Israel's top technological intelligence units. Ezra said that besides the fact that this enabled them to hone their problem solving and initiative taking skills, it also had some technical ...",
-      "heat": 83,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/optimizing-hardware-infrastructure-with-data-and-ai-granulate-scores-12-million-series-a-funding/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/optimizing-hardware-infrastructure-with-data-and-ai-granulate-scores-12-million-series-a-funding/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/optimizing-hardware-infrastructure-with-data-and-ai-granulate-scores-12-million-series-a-funding/",
-      "publishedDateTime": "2020-04-22T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/2020/04/22/75d52d79-fe77-48d3-b2aa-5b33a032fa72/granulate-io.jpg",
-          "width": 595,
-          "height": 418,
-          "title": "Optimizing hardware infrastructure with data and AI: Granulate scores $12 million Series A funding",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-22-comet-ai-nabs-45m-for-more-efficient-machine-learning-model-management.md",
-      "title": "Comet AI nabs $4.5M for more efficient machine learning model management",
-      "excerpt": "To that end, Comet AI announced a $4.5 million investment today as it tries to build a more efficient machine learning platform. The money came from existing investors Trilogy Equity Partners, Two Sigma Ventures and Founder’s Co-op. Today’s investment comes on top of an earlier $2.3 million seed. “We provide a self-hosted and cloud-based ...",
-      "heat": 113,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/04/22/comet-ai-nabs-4-5m-for-more-efficient-machine-learning-model-management/",
-      "ampWebUrl": "https://techcrunch.com/2020/04/22/comet-ai-nabs-4-5m-for-more-efficient-machine-learning-model-management/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/22/comet-ai-nabs-4-5m-for-more-efficient-machine-learning-model-management/amp/",
-      "publishedDateTime": "2020-04-22T06:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/04/GettyImages-927316250.jpg?w=1024",
-          "width": 1024,
-          "height": 768,
-          "title": "Comet AI nabs $4.5M for more efficient machine learning model management",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

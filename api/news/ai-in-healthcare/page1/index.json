@@ -2,6 +2,44 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-04-24-aws-announces-general-availability-of-amazon-augmented-artificial-intelligence-a2i.md",
+      "title": "AWS Announces General Availability of Amazon Augmented Artificial Intelligence (A2I)",
+      "excerpt": "that allow machine learning predictions from Amazon Rekognition and Amazon Textract to be human-reviewed more easily. Developers who build custom machine learning models in Amazon SageMaker (or other on-premises or cloud tools) can set up human review for their specific use case in the Augmented AI console or via its Application Programming ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businesswire.com/news/home/20200424005488/en/AWS-Announces-General-Availability-Amazon-Augmented-Artificial",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-24T10:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20200424005488/en/787122/23/AWS_logo_RGB.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": "AWS Announces General Availability of Amazon Augmented Artificial Intelligence (A2I)",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2020-04-21-ai-may-help-brain-cancer-patients-avoid-biopsy.md",
       "title": "AI may help brain cancer patients avoid biopsy",
       "excerpt": "A new study by UT Southwestern shows artificial intelligence can identify a specific genetic mutation in a glioma tumor ... practice of pretreatment surgeries in which glioma samples are taken and analyzed to choose an appropriate therapy. Scientists across the country have been testing other imaging techniques in recent years, but the latest ...",
@@ -1175,51 +1213,6 @@
           "width": 700,
           "height": 450,
           "title": "Predictive Oncology Reports 2019 Full-year Financial Results",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-01-healthcare-and-artificial-intelligence-how-databricks-uses-apache-spark-to-analyze-huge-data-sets.md",
-      "title": "Healthcare and artificial intelligence: How Databricks uses Apache Spark to analyze huge data sets",
-      "excerpt": "There is no shortage of big data sets in the healthcare world, encompassing everything from chest X-rays to drug research. Startups and established companies alike are both using artificial intelligence (AI) and machine learning to analyze these data sets and use the results to guide business strategy and treatment plans. Special Feature ...",
-      "heat": 90,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/healthcare-and-artificial-intelligence-how-databricks-uses-apache-spark-to-analyze-huge-data-sets/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/healthcare-and-artificial-intelligence-how-databricks-uses-apache-spark-to-analyze-huge-data-sets/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/healthcare-and-artificial-intelligence-how-databricks-uses-apache-spark-to-analyze-huge-data-sets/",
-      "publishedDateTime": "2020-04-01T06:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/03/12/dd98591c-0dd3-4ca8-b9b9-a86a1a885ead/thumbnail/1200x675/eb84aa5cfc1c259d5633e76710557363/ibm-tests-the-use-of-artificial-intellig-5e69776e710b2800019c9e04-1-mar-12-2020-2-28-12-poster.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Healthcare and artificial intelligence: How Databricks uses Apache Spark to analyze huge data sets",
           "attribution": null
         }
       ],

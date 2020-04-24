@@ -6,7 +6,7 @@ publishedDateTime: 2020-04-24T15:42:00Z
 webUrl: "https://www.businesswire.com/news/home/20200424005411/en/Global-Smart-Manufacturing-Market-Impact-COVID-19-Forecast"
 type: article
 quality: 0
-heat: 0
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,21 @@ images:
     height: 627
     title: "Global Smart Manufacturing Market & Impact of COVID-19, Forecast to 2025: Condition Monitoring, Artificial Intelligence, IIoT, Digital Twin, Industrial 3D Printing ..."
 
-secured: "QYHloG4LnoSedNB8XVTAQW5+pFluq7u2jMb2Y0/Jh42CfFw2R9krQv+su25S0jqoegmeEuy5MWQ3OFDxZDcgm+5n/mjvjTPMN+a0Aiw8X0JQ1aBbQ1a6fS779cesQ4Vjow9f3B/fUVr2NxK3Y/sibWwxDg3FE4QoQnNDAQ9zSv1WYu4ZJ6qKF62PILJkaX1u4oqwA1/XWM89HKcBJldxcjkrIuMZJlD4X/Ltu2BV+uecZdmzKpetgwkYqVQZMd4d/NqCTd8XGFssix98ME409A7WVkXxc+yaBfFRQB7ORdYmvp0joRgmbNfImtAeW8nn;F6Xe95/sW7xM6quJSh4MJg=="
+related:
+  - title: "How Tech Giants Are Enhancing Their Conversational AI Platforms To Fight COVID-19"
+    excerpt: "While the economy has been facing a hard time, demand for emerging technologies like conversational AI is at its peak. For instance, in India, the Ministry of Health along with the MyGov platform launched a ‘Corona Helpdesk’ chatbot on Facebook Messenger to ... to accelerate COVID‑19 diagnostics, research, and testing."
+    publishedDateTime: 2020-04-24T13:32:00Z
+    webUrl: "https://analyticsindiamag.com/how-tech-giants-are-enhancing-their-conversational-ai-platforms-to-fight-covid-19/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 34
+    images:
+      - url: "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2020/04/aim_chtbt.jpeg"
+        width: 1880
+        height: 1253
+
+secured: "k9qkQvEmCILoxROQ3jQQHvzKP9Gn0xpm30/9daXASybm13Ef9Xphl1OBNguhxHJY31FQL1eKLsZl7X5oxe3evEXbttqDIXNvRdaPcWxZLorSqM6vYGDIVr7OY5a4XFRd6+cKZIllRozreeru+50fB+lQ2UCoiEOgC3/kb4ouuMi9Pl+4UXDfPsyNaONUr3He1KIWVNwSdfy/2gZRkaXlZx0KPSH+LVWgkF8DBVN52TEoXKHNdUgXm4301twzIzzaFe1HD/YYeuKg+rWwNv5dInqUo8H+HlrG7auHVuZvxKM/mrBzgYK98wIXwHNuvntFXEJ1s5QVLprNCgVXWGYKMb0WeiYNUkPsP0gRMMR0XEbu7GwFO4eVr4k63BDUcnqS8e+l6Wh4qtpViTfkcoOM+fUO6EaQjC9FVj8LGy5rjxDkn136ewPyB0lNxWw0dLem7JkYE9/0xwtKqlrEJl4vjME58WPq6Cj5BhQnmkPtXGI=;vE8h4hwgu/i4+dJ+UIXtBA=="
 ---
 

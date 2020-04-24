@@ -2,10 +2,55 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-04-24-amazon-a2i-is-now-generally-available.md",
+      "title": "Amazon A2I is now generally available",
+      "excerpt": "AWS is excited to announce the general availability of Amazon Augmented AI (Amazon A2I), a new service that makes it easy to implement human reviews of machine learning (ML) predictions at scale. Amazon A2I removes the undifferentiated heavy lifting associated with building and managing expensive and",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-a2i-is-now-generally-available/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-24T11:21:40-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/04/23/Product-Page-Diagram_Textract@2x.png",
+          "width": 1200,
+          "height": 485,
+          "title": "Amazon A2I is now generally available",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-24-aws-announces-general-availability-of-amazon-augmented-artificial-intelligence-a2i.md",
       "title": "AWS Announces General Availability of Amazon Augmented Artificial Intelligence (A2I)",
       "excerpt": "that allow machine learning predictions from Amazon Rekognition and Amazon Textract to be human-reviewed more easily. Developers who build custom machine learning models in Amazon SageMaker (or other on-premises or cloud tools) can set up human review for their specific use case in the Augmented AI console or via its Application Programming ...",
-      "heat": 72,
+      "heat": 74,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.businesswire.com/news/home/20200424005488/en/AWS-Announces-General-Availability-Amazon-Augmented-Artificial",
@@ -35,7 +80,8 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
+        "AI",
+        "AI in Healthcare"
       ]
     },
     {
@@ -756,14 +802,14 @@
     {
       "path": "_news/2020-04-11-amazon-announces-general-availability-of-aws-deepcomposer.md",
       "title": "Amazon Announces General Availability of AWS Deepcomposer",
-      "excerpt": "Recently, Amazon announced the general availability of Deepcomposer, a service in AWS, which provides developers with a creative way to learn Machine Learning (ML). Deepcomposer is a machine ...",
+      "excerpt": "At re:Invent last year, Amazon launched AWS Deepcomposer as a preview, and it is generally available now with a few new features. These features include: Julien Simon, artificial intelligence & machine learning evangelist for EMEA, states in a blog post on the GA of Deepcomposer: Until now, developers interested in growing skills in GANs haven ...",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.infoq.com/news/2020/04/amazon-aws-deepcomposer-ga/?useSponsorshipSuggestions=true",
+      "webUrl": "https://www.infoq.com/news/2020/04/amazon-aws-deepcomposer-ga/",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-11T04:05:00-07:00",
+      "publishedDateTime": "2020-04-11T04:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "InfoQ",
@@ -1225,43 +1271,6 @@
           "width": 600,
           "height": 268,
           "title": "Artificial Intelligence Enables Rapid COVID-19 Lung Imaging Analysis at UC San Diego Health",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-07-example-notebooks-that-show-how-to-apply-machine-learning-deep-learning-and-reinforcement-learning-in-amazon-sagemaker.md",
-      "title": "Example notebooks that show how to apply machine learning, deep learning and reinforcement learning in Amazon SageMaker",
-      "excerpt": "These examples provide quick walkthroughs to get you up and running with the labeling job workflow for Amazon SageMaker Ground Truth. These examples provide a gentle introduction to machine learning concepts as they are applied in practical use cases ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://github.com/awslabs/amazon-sagemaker-examples",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-06T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GitHub",
-        "domain": "github.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://camo.githubusercontent.com/95b6d72381a76a923718ae1d6e56b079f3307e7b/68747470733a2f2f322e67726176617461722e636f6d2f6176617461722f61646133346163383236353638393938363337633563633637653837383031333f643d68747470732533412532462532466769746875622e6769746875626173736574732e636f6d253246696d6167657325324667726176617461727325324667726176617461722d757365722d3432302e706e6726723d6726733d3634",
-          "width": 420,
-          "height": 420,
-          "title": "Example notebooks that show how to apply machine learning, deep learning and reinforcement learning in Amazon SageMaker",
           "attribution": null
         }
       ],

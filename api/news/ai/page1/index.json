@@ -2,10 +2,136 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-04-24-exclusive-meet-the-scientists-reversing-robotics-by-putting-the-man-into-the-machine.md",
+      "title": "Exclusive: Meet the scientists reversing robotics by putting the man into the machine",
+      "excerpt": "Cortical Labs is not your average robotics startup. Instead of creating artificial technology that is programmed to function like the ... Probably not, if you ask Chong and Kitchen, but they also admitted it’s too early to tell. Fluid intelligence is what they’re going for right now. The more complex devices that think with these chips ...",
+      "heat": 77,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.syfy.com/syfywire/meet-the-scientists-who-are-putting-neurons-into-computers",
+      "ampWebUrl": "https://www.syfy.com/syfywire/meet-the-scientists-who-are-putting-neurons-into-computers?amp",
+      "cdnAmpWebUrl": "https://www-syfy-com.cdn.ampproject.org/c/s/www.syfy.com/syfywire/meet-the-scientists-who-are-putting-neurons-into-computers?amp",
+      "publishedDateTime": "2020-04-24T12:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Syfy",
+        "domain": "syfy.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.syfy.com/sites/syfy/files/styles/1200x680/public/2020/04/hackersmatrix_0.jpg",
+          "width": 1200,
+          "height": 680,
+          "title": "Exclusive: Meet the scientists reversing robotics by putting the man into the machine",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-24-ai-weekly-ai-models-illustrate-the-importance-of-continued-social-distancing.md",
+      "title": "AI Weekly: AI models illustrate the importance of continued social distancing",
+      "excerpt": "Using a hybrid AI system dubbed SIRNet and several epidemiological models, which were trained on smartphone location data along with population-weighted density and other data points from the startup Safe Graph, World Health Organization, the U.S. Centers for Disease Control and Prevention, and elsewhere, the coauthors claim they managed to ...",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/24/ai-weekly-ai-models-illustrate-the-importance-of-continued-social-distancing/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/24/ai-weekly-ai-models-illustrate-the-importance-of-continued-social-distancing/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/24/ai-weekly-ai-models-illustrate-the-importance-of-continued-social-distancing/amp/",
+      "publishedDateTime": "2020-04-24T12:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/03/s3.reutersmedia.net_-e1587747290843.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "AI Weekly: AI models illustrate the importance of continued social distancing",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-24-amazon-a2i-is-now-generally-available.md",
+      "title": "Amazon A2I is now generally available",
+      "excerpt": "AWS is excited to announce the general availability of Amazon Augmented AI (Amazon A2I), a new service that makes it easy to implement human reviews of machine learning (ML) predictions at scale. Amazon A2I removes the undifferentiated heavy lifting associated with building and managing expensive and",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-a2i-is-now-generally-available/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-24T11:21:40-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/04/23/Product-Page-Diagram_Textract@2x.png",
+          "width": 1200,
+          "height": 485,
+          "title": "Amazon A2I is now generally available",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-24-aws-announces-general-availability-of-amazon-augmented-artificial-intelligence-a2i.md",
       "title": "AWS Announces General Availability of Amazon Augmented Artificial Intelligence (A2I)",
       "excerpt": "that allow machine learning predictions from Amazon Rekognition and Amazon Textract to be human-reviewed more easily. Developers who build custom machine learning models in Amazon SageMaker (or other on-premises or cloud tools) can set up human review for their specific use case in the Augmented AI console or via its Application Programming ...",
-      "heat": 72,
+      "heat": 74,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.businesswire.com/news/home/20200424005488/en/AWS-Announces-General-Availability-Amazon-Augmented-Artificial",
@@ -35,7 +161,8 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
+        "AI",
+        "AI in Healthcare"
       ]
     },
     {
@@ -1175,124 +1302,6 @@
       "topics": [
         "AI",
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-23-omnipresence-launches-cxmnowio-for-life-sciences-in-the-microsoft-azure-marketplace.md",
-      "title": "Omnipresence Launches CXMnow.io for Life Sciences in the Microsoft Azure Marketplace",
-      "excerpt": "CXMnow.io in the Azure Marketplace today, an online store providing applications and services for use on Microsoft Azure. The customer experience management (CXM) technology allows life sciences organizations with certain well-defined business needs to sign up online for a built-for-purpose customer engagement capability to use in their commercial or medical operations.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://markets.businessinsider.com/news/stocks/omnipresence-launches-cxmnow-io-for-life-sciences-in-the-microsoft-azure-marketplace-1029123493",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/omnipresence-launches-cxmnow-io-for-life-sciences-in-the-microsoft-azure-marketplace-1029123493",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/omnipresence-launches-cxmnow-io-for-life-sciences-in-the-microsoft-azure-marketplace-1029123493",
-      "publishedDateTime": "2020-04-23T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-23-amp-robotics-hits-major-ai-driven-recycling-milestone.md",
-      "title": "AMP Robotics Hits Major AI-driven Recycling Milestone",
-      "excerpt": "AMP Robotics Corp. (“AMP”), a pioneer in artificial intelligence (AI) and robotics for the recycling industry, just announced that it has processed one billion recyclables over the last 12 months. The ‘one billion’ milestone means that AMP’s technology has specifically targeted and removed one billion individual recyclable items from ...",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.waste360.com/recycling/amp-robotics-hits-major-ai-driven-recycling-milestone",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-23T07:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Waste360",
-        "domain": "waste360.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.waste360.com/sites/waste360.com/files/Untitled%20design%2010_4.png",
-          "width": 1540,
-          "height": 800,
-          "title": "AMP Robotics Hits Major AI-driven Recycling Milestone",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-23-this-ai-camera-can-help-restaurants-show-that-their-food-is-safe-from-covid-19.md",
-      "title": "This AI Camera Can Help Restaurants Show That Their Food Is Safe From Covid-19",
-      "excerpt": "If a restaurant like Emilie’s were to use Dragontail’s AI camera technology, it could help them show customers what they’re doing in the kitchen, says CEO Levanol.",
-      "heat": 83,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/jennysplitter/2020/04/23/this-ai-camera-can-help-restaurants-show-that-their-food-is-safe-from-covid-19/",
-      "ampWebUrl": "https://www.forbes.com/sites/jennysplitter/2020/04/23/this-ai-camera-can-help-restaurants-show-that-their-food-is-safe-from-covid-19/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jennysplitter/2020/04/23/this-ai-camera-can-help-restaurants-show-that-their-food-is-safe-from-covid-19/amp/",
-      "publishedDateTime": "2020-04-23T07:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ea18f0ef0b8cf000629757b%2F0x0.jpg",
-          "width": 1199,
-          "height": 673,
-          "title": "This AI Camera Can Help Restaurants Show That Their Food Is Safe From Covid-19",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

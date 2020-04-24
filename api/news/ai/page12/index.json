@@ -2,6 +2,133 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-04-10-ai-training-helps-remote-controlled-buggy-negotiate-rugged-terrain.md",
+      "title": "AI training helps remote-controlled buggy negotiate rugged terrain",
+      "excerpt": "The work is preliminary, but it might hold promise for autonomous vehicle companies that rely chiefly on camera footage to train their navigational AI. U.K.-based Wayve is in that camp, as are Tesla, Mobileye, and Comma.ai. The researchers’ work combines elements of model-free and model-based AI training methods into a single graph to ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/10/ai-training-helps-remote-controlled-buggy-negotiate-rugged-terrain/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/10/ai-training-helps-remote-controlled-buggy-negotiate-rugged-terrain/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/10/ai-training-helps-remote-controlled-buggy-negotiate-rugged-terrain/amp/",
+      "publishedDateTime": "2020-04-10T12:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/Screenshot-2020-04-10-at-3.36.33-PM-e1586547649387.png?fit=1201%2C600&strip=all",
+          "width": 1201,
+          "height": 600,
+          "title": "AI training helps remote-controlled buggy negotiate rugged terrain",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-10-podcast-tesla-battery-day-delay-tesla-cybertruck-full-self-driving-and-more.md",
+      "title": "Podcast: Tesla battery day delay, Tesla Cybertruck, Full Self-Driving, and more",
+      "excerpt": "This week on the Electrek Podcast, we discuss the most popular news in the world of sustainable transport and energy, including Tesla ‘battery day’ being delay, Tesla Cybertruck new, Full Self-Driving news, and more. The Electrek Podcast is me, Fred Lambert, editor-in-chief of Electrek, and Seth Weintraub, founder and publisher of ...",
+      "heat": 85,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://electrek.co/2020/04/10/podcast-tesla-battery-day-delay-tesla-cybertruck-full-self-driving/",
+      "ampWebUrl": "https://electrek.co/2020/04/10/podcast-tesla-battery-day-delay-tesla-cybertruck-full-self-driving/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/04/10/podcast-tesla-battery-day-delay-tesla-cybertruck-full-self-driving/amp/",
+      "publishedDateTime": "2020-04-10T12:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://electrek.co/wp-content/uploads/sites/3/2017/12/business_card-1.jpg?quality=82&strip=all&w=1000",
+          "width": 1000,
+          "height": 562,
+          "title": "Podcast: Tesla battery day delay, Tesla Cybertruck, Full Self-Driving, and more",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-10-infragistics-adds-predictive-analytics-machine-learning-and-more.md",
+      "title": "Infragistics Adds Predictive Analytics, Machine Learning and More",
+      "excerpt": "In addition to its fast, easy integration into any platform or deployment option, Reveal's newest features address the latest trends in data analytics: predictive and advanced analytics, machine learning, R and Python scripting, big data connectors, and much more. These enhancements allow businesses to quickly analyze and gain insights from ...",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://patch.com/new-jersey/princeton/infragistics-adds-predictive-analytics-machine-learning-more",
+      "ampWebUrl": "https://patch.com/new-jersey/princeton/amp/28686297/infragistics-adds-predictive-analytics-machine-learning-more",
+      "cdnAmpWebUrl": "https://patch-com.cdn.ampproject.org/c/s/patch.com/new-jersey/princeton/amp/28686297/infragistics-adds-predictive-analytics-machine-learning-more",
+      "publishedDateTime": "2020-04-10T10:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Patch",
+        "domain": "patch.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://patch.com/img/cdn20/users/961400/20200410/012804/styles/patch_image/public/reveal-update-image-4-20___10132652676.jpg?width=984",
+          "width": 771,
+          "height": 578,
+          "title": "Infragistics Adds Predictive Analytics, Machine Learning and More",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-10-probeat-microsoft-teams-video-calls-and-the-ethics-of-invisible-ai.md",
       "title": "ProBeat: Microsoft Teams video calls and the ethics of invisible AI",
       "excerpt": "Governments and companies alike have been abusing AI in a variety of ways. But even AI features clearly designed to help humans do something as basic as communicate clearly come with ethical questions for the companies and developers that build them. The discussion Aichner and I had gave me a brief glimpse into what businesses and developers ...",
@@ -1115,125 +1242,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-10-elon-musk-seemingly-used-the-superhuman-false-narrative-in-advancing-teslas-self-driving-car-ambitions.md",
-      "title": "Elon Musk Seemingly Used The Superhuman ‘False Narrative’ In Advancing Tesla’s Self-Driving Car Ambitions",
-      "excerpt": "Elon Musk sent a tweet this week referring to Tesla's self-driving tech as potentially being ... [+] \"superhuman\" which raises interesting questions about AI. Well, Elon Musk has suggested that Tesla cars outfitted with self-driving tech “can definitely be superhuman” (in his tweet on April 7, 2020), which invokes the superhuman moniker and ...",
-      "heat": 72,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/04/10/elon-musk-seemingly-used-the-superhuman-false-narrative-in-advancing-teslas-self-driving-car-ambitions/",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/04/10/elon-musk-seemingly-used-the-superhuman-false-narrative-in-advancing-teslas-self-driving-car-ambitions/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/04/10/elon-musk-seemingly-used-the-superhuman-false-narrative-in-advancing-teslas-self-driving-car-ambitions/amp/",
-      "publishedDateTime": "2020-04-09T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1096056680%2F0x0.jpg",
-          "width": 1200,
-          "height": 783,
-          "title": "Elon Musk Seemingly Used The Superhuman ‘False Narrative’ In Advancing Tesla’s Self-Driving Car Ambitions",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-10-how-do-consumers-feel-about-fashion-during-coronavirus-heres-what-ai-thinks.md",
-      "title": "How Do Consumers Feel About Fashion During Coronavirus? Here’s What AI Thinks",
-      "excerpt": "Cognovi Labs, an award-winning technology startup which measures the public’s emotions and quantifies consumer intent through AI-meets-behavioral-psychology ... is a powerhouse in natural language processing, which is the understanding of unstructured conversation. Most social listening technology pulls words from digital conversations ...",
-      "heat": 86,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/rebeccasuhrawardi/2020/04/10/how-do-consumers-feel-about-fashion-during-coronavirus-heres-what-ai-thinks/",
-      "ampWebUrl": "https://www.forbes.com/sites/rebeccasuhrawardi/2020/04/10/how-do-consumers-feel-about-fashion-during-coronavirus-heres-what-ai-thinks/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rebeccasuhrawardi/2020/04/10/how-do-consumers-feel-about-fashion-during-coronavirus-heres-what-ai-thinks/amp/",
-      "publishedDateTime": "2020-04-09T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e90bb1904699f00065a8db6%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "How Do Consumers Feel About Fashion During Coronavirus? Here’s What AI Thinks",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-09-upmc-launches-clinical-trial-for-covid-19-therapies.md",
-      "title": "UPMC launches clinical trial for COVID-19 therapies",
-      "excerpt": "The adaptive clinical trial relies on a type of artificial intelligence known as reinforcement learning to identify the best therapy for COVID-19, Angus explained. “This approach using adaptive platforms is not what people ever did normally, but it is ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.ellwoodcityledger.com/news/20200409/upmc-launches-clinical-trial-for-covid-19-therapies",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-09T15:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ellwood City Ledger",
-        "domain": "ellwoodcityledger.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

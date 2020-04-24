@@ -2,6 +2,139 @@
   "page": 87,
   "value": [
     {
+      "path": "_news/2020-01-22-cramer-i-love-the-clarity-of-vision-from-netflix-ceo-reed-hastings-on-ai-and-avoiding-ads.md",
+      "title": "Cramer: 'I love the clarity of vision' from Netflix CEO Reed Hastings on AI and avoiding ads",
+      "excerpt": "CNBC's Jim Cramer said Netflix's earnings call fostered optimism about a company he once called \"an open sore on the market.\"",
+      "heat": 76,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2020/01/22/cramer-loves-vision-from-netflix-ceo-reed-hastings-on-ai-and-ads.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/01/22/cramer-loves-vision-from-netflix-ceo-reed-hastings-on-ai-and-ads.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/01/22/cramer-loves-vision-from-netflix-ceo-reed-hastings-on-ai-and-ads.html",
+      "publishedDateTime": "2020-01-22T08:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106193847-1571685003084img_3993r.jpg?v=1571685072",
+          "width": 3000,
+          "height": 2000,
+          "title": "Cramer: 'I love the clarity of vision' from Netflix CEO Reed Hastings on AI and avoiding ads",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-01-22-adobes-ai-lets-you-preview-any-item-of-clothing-on-a-virtual-body-model.md",
+      "title": "Adobe’s AI lets you preview any item of clothing on a virtual body model",
+      "excerpt": "They also say it achieved state-of-the-art results across qualitative metrics, including Fréchet Inception Distance (FID), which takes photos from both the target distribution and the system being evaluated (in this case SieveNet) and uses an AI object recognition system to capture important features and suss out similarities. SieveNet isn’t ...",
+      "heat": 86,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/01/22/adobes-ai-lets-you-preview-any-item-of-clothing-on-a-virtual-body-model/",
+      "ampWebUrl": "https://venturebeat.com/2020/01/22/adobes-ai-lets-you-preview-any-item-of-clothing-on-a-virtual-body-model/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/22/adobes-ai-lets-you-preview-any-item-of-clothing-on-a-virtual-body-model/amp/",
+      "publishedDateTime": "2020-01-22T08:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/01/8d194448-ea6c-4e6a-8ef4-2e26bf92cd0a-e1579709264687.png?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Adobe’s AI lets you preview any item of clothing on a virtual body model",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-01-22-facial-recognition-technology-doesnt-have-to-destroy-privacy.md",
+      "title": "Facial-Recognition Technology Doesn't Have to Destroy Privacy",
+      "excerpt": "Regulation moves at a snail's pace, so it's up to CEOs, executives, and employees to reject projects that put profit over privacy. Clearview AI facial-recognition tech is just the latest example of 'innovation' that could quickly get out of hand.",
+      "heat": 124,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.pcmag.com/news/facial-recognition-technology-doesnt-have-to-destroy-privacy",
+      "ampWebUrl": "https://www.pcmag.com/news/facial-recognition-technology-doesnt-have-to-destroy-privacy?amp=true",
+      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/facial-recognition-technology-doesnt-have-to-destroy-privacy?amp=true",
+      "publishedDateTime": "2020-01-22T08:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/00592rlQabuAGHAibpsW8pn-1.fit_scale.size_1028x578.jpg",
+          "width": 1028,
+          "height": 578,
+          "title": "Facial-Recognition Technology Doesn't Have to Destroy Privacy",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2020-01-22-ibm-chief-calls-for-precision-regulation-on-ai-that-weighs-privacy-against-benefits-to-society.md",
       "title": "IBM chief calls for 'precision regulation' on AI that weighs privacy against benefits to society",
       "excerpt": "\"You want to have innovation flourish and you've got to balance that with security,\" IBM CEO Ginni Rometty said in a CNBC interview from Davos.",
@@ -1139,124 +1272,6 @@
       "topics": [
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-01-21-vmware-to-acquire-nyansa-for-ai-based-network-analytics.md",
-      "title": "VMware to acquire Nyansa for AI-based network analytics",
-      "excerpt": "VMware on Tuesday announced it intends to acquire Nyansa, a Palo Alto, Calif.-based firm that offers AI-based network analytics. The deal is expected to close in VMware's first quarter of FY2021. The terms of the deal were not disclosed. VMware plans to combine Nyansa Voyance, the AIOps platform for network analytics and IoT security ...",
-      "heat": 187,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/vmware-to-acquire-nyansa-for-ai-based-network-analytics/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/vmware-to-acquire-nyansa-for-ai-based-network-analytics/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/vmware-to-acquire-nyansa-for-ai-based-network-analytics/",
-      "publishedDateTime": "2020-01-21T14:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-21-google-temporary-ban-on-facial-recognition-tech-might-be-necessary.md",
-      "title": "Google: Temporary Ban on Facial-Recognition Tech Might Be Necessary",
-      "excerpt": "Google's CEO made the comments as the European Commission is considering a moratorium on using facial-recognition technologies in public spaces. The proposed ban would last for three to five years so regulators can assess the risks of the technology.",
-      "heat": 104,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.pcmag.com/news/google-temporary-ban-on-facial-recognition-tech-might-be-necessary",
-      "ampWebUrl": "https://www.pcmag.com/news/google-temporary-ban-on-facial-recognition-tech-might-be-necessary?amp=true",
-      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/google-temporary-ban-on-facial-recognition-tech-might-be-necessary?amp=true",
-      "publishedDateTime": "2020-01-21T14:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.pcmag.com/images/pcmag-social-share.jpg",
-          "width": 997,
-          "height": 1201,
-          "title": "Google: Temporary Ban on Facial-Recognition Tech Might Be Necessary",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-01-21-preparing-for-ai-ethics-and-explainability-in-2020.md",
-      "title": "Preparing For AI Ethics And Explainability In 2020",
-      "excerpt": "After racing head long into creating complex models, companies must take a step back to provide explainable and ethical AI. Fortunately, researchers are providing new tools to help demystify complex models.",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/maribellopez/2020/01/21/preparing-for-ai-ethics-and-explainability-in-2020/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-21T13:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

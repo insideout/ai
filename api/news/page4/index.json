@@ -2,6 +2,124 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-04-22-intels-project-corail-monitors-coral-reef-health-with-ai.md",
+      "title": "Intel’s Project Corail monitors coral reef health with AI",
+      "excerpt": "To commemorate Earth Day, Intel — in partnership with Accenture and Sulubaaï Environmental Foundation, a Philippine-based nonprofit dedicated to protecting Palawan’s natural resources — detailed Project Corail, an AI-powered platform that monitors and analyzes the resiliency of coral reefs. Since its launch in May 2019, it’s collected ...",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/21/intels-project-corail-monitors-coral-reef-health-with-ai/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/21/intels-project-corail-monitors-coral-reef-health-with-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/21/intels-project-corail-monitors-coral-reef-health-with-ai/amp/",
+      "publishedDateTime": "2020-04-21T21:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/CORaiL_5small-e1587450236227.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Intel’s Project Corail monitors coral reef health with AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-22-mastercard-to-launch-online-course-on-digital-ethics-privacy-and-ai.md",
+      "title": "Mastercard To Launch Online Course On Digital Ethics, Privacy And AI",
+      "excerpt": "Called the Oxford Cyber Future Program, the six-week class will cover artificial intelligence, cybersecurity, threat analytics, data privacy and digital ethics, a press release states. The class partners with a number of experts related to each of those fields and aims to “reframe” the world for business leaders, teaching them to navigate ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.pymnts.com/news/security-and-risk/2020/oxford-mastercard-to-launch-online-course-on-digital-ethics-privacy-ai/",
+      "ampWebUrl": "https://www.pymnts.com/news/security-and-risk/2020/oxford-mastercard-to-launch-online-course-on-digital-ethics-privacy-ai/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/security-and-risk/2020/oxford-mastercard-to-launch-online-course-on-digital-ethics-privacy-ai/amp/",
+      "publishedDateTime": "2020-04-21T20:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-22-dissident-artist-ai-weiwei-says-virus-has-only-strengthened-chinas-police-state.md",
+      "title": "Dissident artist Ai Weiwei says virus has only strengthened China's 'police state'",
+      "excerpt": "The artist has been critical of China's handling of the outbreak and believes the \"arrogance and success\" of the government's authoritarian tactics will lead it into another crisis.",
+      "heat": 81,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnn.com/style/article/ai-weiwei-coronavirus-pandemic/index.html",
+      "ampWebUrl": "https://www.cnn.com/style/amp/ai-weiwei-coronavirus-pandemic/index.html",
+      "cdnAmpWebUrl": "https://www-cnn-com.cdn.ampproject.org/c/s/www.cnn.com/style/amp/ai-weiwei-coronavirus-pandemic/index.html",
+      "publishedDateTime": "2020-04-21T19:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "http://cdn.cnn.com/cnnnext/dam/assets/200421223427-ai-weiwei-file-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": "Dissident artist Ai Weiwei says virus has only strengthened China's 'police state'",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-21-ai-may-help-brain-cancer-patients-avoid-biopsy.md",
       "title": "AI may help brain cancer patients avoid biopsy",
       "excerpt": "A new study by UT Southwestern shows artificial intelligence can identify a specific genetic mutation in a glioma tumor ... practice of pretreatment surgeries in which glioma samples are taken and analyzed to choose an appropriate therapy. Scientists across the country have been testing other imaging techniques in recent years, but the latest ...",
@@ -661,7 +779,7 @@
       "path": "_news/2020-04-21-mit-cuts-ties-with-a-chinese-ai-firm-amid-human-rights-concerns.md",
       "title": "MIT Cuts Ties With a Chinese AI Firm Amid Human Rights Concerns",
       "excerpt": "The amount of money involved was not disclosed. iFlytek is one of China’s older AI companies, and while it specializes in voice recognition, it also offers tools for analyzing legal documents and medical imagery. Like other growing Chinese AI companies, contracts to supply software for processing video and audio to police departments and ...",
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.wired.com/story/mit-cuts-ties-chinese-ai-firm-human-rights/",
@@ -965,141 +1083,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-21-artificial-intelligence-in-healthcare-market-size-industry-report-covid-19-impact-analysis-and-scope.md",
-      "title": "Artificial Intelligence in Healthcare Market Size | Industry Report, COVID-19 Impact Analysis and Scope",
-      "excerpt": "According to the latest report by IMARC Group, titled \"Artificial Intelligence in Healthcare Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2020-2025,\" the global artificial intelligence in healthcare market size experienced healthy growth during 2014-2019.",
-      "heat": 78,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-size-industry-report-covid-19-impact-analysis-and-scope-2020-04-21",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-20T23:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Artificial Intelligence in Healthcare Market Size | Industry Report, COVID-19 Impact Analysis and Scope",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-21-specification-gaming-the-flip-side-of-ai-ingenuity.md",
-      "title": "Specification gaming: the flip side of AI ingenuity",
-      "excerpt": "Specification gaming is a behaviour that satisfies the literal specification of an objective without achieving the intended outcome. We have all had experiences with specification gaming, even if not by this name. Readers may have heard the myth of King Midas and the golden touch, in which the king asks",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://deepmind.com/blog/article/Specification-gaming-the-flip-side-of-AI-ingenuity",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-20T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "DeepMind",
-        "domain": "deepmind.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/deepmind.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://lh3.googleusercontent.com/KAS2k_9qAacqcCa7dCLfruoLoBsQgh_XBQQN7NU9rhmHLlVRExiNUvLv_sTAgM2mYqD1KZ-V7oyR5HcBRBRLVRgqek3ORqJ2gVQVTO8",
-          "width": 512,
-          "height": 288,
-          "title": "Specification gaming: the flip side of AI ingenuity",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-20-new-ai-algorithm-brings-us-closer-than-ever-to-controlling-machines-with-our-minds.md",
-      "title": "New AI algorithm brings us closer than ever to controlling machines with our minds",
-      "excerpt": "After that, the sky’s the limit. We may one day use chips and AI to make secure mental connections with cloud computers. This would make machine such as ATMs, that merely exist to authenticate a transaction, obsolete. And who knows what kind of alien aesthetics we’ll end up with as a result of a less hands-on approach to reality once ...",
-      "heat": 83,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/04/20/new-ai-algorithm-brings-us-closer-than-ever-to-controlling-machines-with-our-minds/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/04/20/new-ai-algorithm-brings-us-closer-than-ever-to-controlling-machines-with-our-minds/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/04/20/new-ai-algorithm-brings-us-closer-than-ever-to-controlling-machines-with-our-minds/amp/",
-      "publishedDateTime": "2020-04-20T16:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/03/braincomputer-796x417.jpg",
-          "width": 796,
-          "height": 417,
-          "title": "New AI algorithm brings us closer than ever to controlling machines with our minds",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

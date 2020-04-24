@@ -5,8 +5,8 @@ excerpt: "that allow machine learning predictions from Amazon Rekognition and Am
 publishedDateTime: 2020-04-24T17:26:00Z
 webUrl: "https://www.businesswire.com/news/home/20200424005488/en/AWS-Announces-General-Availability-Amazon-Augmented-Artificial"
 type: article
-quality: 62
-heat: 72
+quality: 64
+heat: 74
 published: true
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - AWS AI
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://mms.businesswire.com/media/20200424005488/en/787122/23/AWS_logo_RGB.jpg"

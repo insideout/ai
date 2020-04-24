@@ -2,6 +2,142 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-04-22-google-debuts-ai-in-google-translate-that-addresses-gender-bias.md",
+      "title": "Google debuts AI in Google Translate that addresses gender bias",
+      "excerpt": "“We’ve made significant progress since our initial launch by increasing the quality of gender-specific translations and also expanding it to 4 more language-pairs,” wrote Google Research senior software engineer Melvin Johnson. “We are committed to further addressing gender bias in Google Translate and plan to extend this work to ...",
+      "heat": 101,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/22/google-debuts-ai-in-google-translate-that-addresses-gender-bias/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/22/google-debuts-ai-in-google-translate-that-addresses-gender-bias/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/22/google-debuts-ai-in-google-translate-that-addresses-gender-bias/amp/",
+      "publishedDateTime": "2020-04-22T10:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/google-reuters-e1586941024905.jpeg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Google debuts AI in Google Translate that addresses gender bias",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2020-04-22-facebooks-climate-conversation-map-reveals-reactions-to-environmental-news.md",
+      "title": "Facebook’s Climate Conversation Map reveals reactions to environmental news",
+      "excerpt": "It’s available by request to research partners and nonprofits following a preview last year ... “We look forward to seeing how different organizations use these maps to inform the climate debate and deliver new resources.” Facebook’s work in AI and mapping comes after the social network shared to the OpenStreetMap community the Map ...",
+      "heat": 72,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/22/facebooks-climate-conversation-map-reveals-reactions-to-environmental-news/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/22/facebooks-climate-conversation-map-reveals-reactions-to-environmental-news/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/22/facebooks-climate-conversation-map-reveals-reactions-to-environmental-news/amp/",
+      "publishedDateTime": "2020-04-22T10:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/04/Facebook-sign-F8-e1564693284989.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Facebook’s Climate Conversation Map reveals reactions to environmental news",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-22-increasing-demand-for-natural-language-processing-market-to-fuel-revenue-growth-through-2015-2021.md",
+      "title": "Increasing Demand for Natural Language Processing Market to Fuel Revenue Growth Through 2015 - 2021",
+      "excerpt": "The MarketWatch News Department was not involved in the creation of the content. Apr 22, 2020 Xherald -- Natural Language processing (NLP) is a field of computer science and artificial intelligence that is concerned with the interaction between computer and human language. Natural language processing basically works as a bridge between human ...",
+      "heat": 75,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/increasing-demand-for-natural-language-processing-market-to-fuel-revenue-growth-through-2015---2021-2020-04-22",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-22T09:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Increasing Demand for Natural Language Processing Market to Fuel Revenue Growth Through 2015 - 2021",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-22-for-earth-day-a-tech-team-develops-a-way-to-heal-coral-reefs-using-ai.md",
       "title": "For Earth Day, a tech team develops a way to heal coral reefs using AI",
       "excerpt": "The joint initiative will use the power of artificial intelligence (AI) \"to monitor, recreate, and restore coral reefs,\" according to the release. SEE: Earth Day 2020 (free PDF) (TechRepublic) To gauge the reef health, Project: CORail calculated the number and type of fish in a reef. While the monitoring of coral reefs has typically been left ...",
@@ -962,124 +1098,6 @@
           "width": 1200,
           "height": 800,
           "title": "How Artificial Intelligence, IoT And Big Data Can Save The Bees",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-22-intels-project-corail-monitors-coral-reef-health-with-ai.md",
-      "title": "Intel’s Project Corail monitors coral reef health with AI",
-      "excerpt": "To commemorate Earth Day, Intel — in partnership with Accenture and Sulubaaï Environmental Foundation, a Philippine-based nonprofit dedicated to protecting Palawan’s natural resources — detailed Project Corail, an AI-powered platform that monitors and analyzes the resiliency of coral reefs. Since its launch in May 2019, it’s collected ...",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/21/intels-project-corail-monitors-coral-reef-health-with-ai/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/21/intels-project-corail-monitors-coral-reef-health-with-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/21/intels-project-corail-monitors-coral-reef-health-with-ai/amp/",
-      "publishedDateTime": "2020-04-21T21:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/CORaiL_5small-e1587450236227.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Intel’s Project Corail monitors coral reef health with AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-22-mastercard-to-launch-online-course-on-digital-ethics-privacy-and-ai.md",
-      "title": "Mastercard To Launch Online Course On Digital Ethics, Privacy And AI",
-      "excerpt": "Called the Oxford Cyber Future Program, the six-week class will cover artificial intelligence, cybersecurity, threat analytics, data privacy and digital ethics, a press release states. The class partners with a number of experts related to each of those fields and aims to “reframe” the world for business leaders, teaching them to navigate ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.pymnts.com/news/security-and-risk/2020/oxford-mastercard-to-launch-online-course-on-digital-ethics-privacy-ai/",
-      "ampWebUrl": "https://www.pymnts.com/news/security-and-risk/2020/oxford-mastercard-to-launch-online-course-on-digital-ethics-privacy-ai/amp/",
-      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/security-and-risk/2020/oxford-mastercard-to-launch-online-course-on-digital-ethics-privacy-ai/amp/",
-      "publishedDateTime": "2020-04-21T20:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pymnts.com",
-        "domain": "pymnts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-22-dissident-artist-ai-weiwei-says-virus-has-only-strengthened-chinas-police-state.md",
-      "title": "Dissident artist Ai Weiwei says virus has only strengthened China's 'police state'",
-      "excerpt": "The artist has been critical of China's handling of the outbreak and believes the \"arrogance and success\" of the government's authoritarian tactics will lead it into another crisis.",
-      "heat": 81,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnn.com/style/article/ai-weiwei-coronavirus-pandemic/index.html",
-      "ampWebUrl": "https://www.cnn.com/style/amp/ai-weiwei-coronavirus-pandemic/index.html",
-      "cdnAmpWebUrl": "https://www-cnn-com.cdn.ampproject.org/c/s/www.cnn.com/style/amp/ai-weiwei-coronavirus-pandemic/index.html",
-      "publishedDateTime": "2020-04-21T19:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "http://cdn.cnn.com/cnnnext/dam/assets/200421223427-ai-weiwei-file-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": "Dissident artist Ai Weiwei says virus has only strengthened China's 'police state'",
           "attribution": null
         }
       ],

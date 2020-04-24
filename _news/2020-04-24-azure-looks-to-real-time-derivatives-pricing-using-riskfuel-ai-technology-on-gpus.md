@@ -5,8 +5,8 @@ excerpt: "The Azure ND40rs_v2 Virtual Machine is a new addition to the NVIDIA GP
 publishedDateTime: 2020-04-24T15:29:00Z
 webUrl: "https://insidehpc.com/2020/04/azure-looks-to-real-time-derivatives-pricing-using-riskfuel-ai-technology-on-gpus/"
 type: article
-quality: 49
-heat: 49
+quality: 66
+heat: 66
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - AI Hardware
 
 images:
   - url: "https://insidehpc.com/wp-content/uploads/2020/04/riskfuel.jpg"
@@ -23,6 +24,6 @@ images:
     height: 450
     title: "Azure Looks to Real-Time Derivatives Pricing using Riskfuel AI Technology on GPUs"
 
-secured: "EN+ywITb+Gkng0iA2KYfgmDieljQEK2MefRDof6EaQTVPW8tZqUmwQMlgmkc7Fx//wafiGJdrtAFlVw3yusuOXLGrLwM8/81yVcwRiv8Pj8R0oSCLjFWzkNcNZ5Lg3ddMQ9R4XMS0hnzlE/pld2qkh0bgDCjcXehLASj3xrTa3orv1rThZT+GWljvLj5l4jmlxmSWpor62nmpe9sfACCl0pvOfcgdD+f0Lm3NSCFj8hZ31bURJoGJ8SYjbsors1yOScM2DPb2IDluFjde7+dFcHpYHvTV0wH6tP9F+fScr5rSQaPvJplQZHloVkyrFQH;pDUrDkSIXR5UXIbTwSm4pw=="
+secured: "hGgUV3rhX876FSrdB6lrFa1Y0LQoPobYccU5Deauh1pFuhHw5z5fU/wDZq23Y9ymd397m7OjjpYBoO5QRrQpZzxohu9lNFO6oMKx9UHtT7cOnS2cbvwF/HhRsghUCWufU9KMjgRSc75T5/2bD+0p+Qqz5d9i6a5orn6BE7LwdEQXkeNRrU57A/INYog6AGyBfBhr4GS7y2ZlSqZQ5SVnNISjcbeL20ER3s1TsyBlPF4rRNNArmiTuW6pia8bjtO4A14Xm7jhdBeuK0PMKTkFWXojEr4MalceeWCoYz8O8iuCqkRQwAncQG02lH74rOvh81wip2Xmgex6Mh4E9yyY0srsB77lAu2okoXWNfVUYGDGiylQLxjNxk4ijfaGLSyRmp0ZlouDo8FzrbknDiziXGNu6yBqb0i/pN6DTkZ9HeGwASL+m0aqyeHJMIPgMlY6w2FmranKNecCqjbZJasBMq7D9o4oDSSknaOIvy0TgN0=;z16eidRFRCASBWp3zmltgQ=="
 ---
 

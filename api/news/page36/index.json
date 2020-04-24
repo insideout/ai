@@ -2,6 +2,117 @@
   "page": 36,
   "value": [
     {
+      "path": "_news/2020-03-25-artificial-intelligence-model-can-detect-covid-19-on-chest-ct.md",
+      "title": "Artificial intelligence model can detect COVID-19 on chest CT",
+      "excerpt": "(HealthDay)—Artificial intelligence allows coronavirus ... a deep learning model COVID-19 detection neural network was developed. To test the robustness of the model, CAP and other nonpneumonia ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medicalxpress.com/news/2020-03-artificial-intelligence-covid-chest-ct.html",
+      "ampWebUrl": "https://medicalxpress.com/news/2020-03-artificial-intelligence-covid-chest-ct.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-03-artificial-intelligence-covid-chest-ct.amp",
+      "publishedDateTime": "2020-03-25T12:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-25-ibm-launches-an-interactive-dashboard-to-track-coronavirus-on-phone-and-the-web.md",
+      "title": "IBM launches an interactive dashboard to track coronavirus on phone and the web",
+      "excerpt": "IBM’s dashboard runs on the IBM public cloud and uses IBM Watson to access and analyze data from the World Health Organization and multiple national, state and local governments. The dashboard has the following features: An AI-enhanced interactive “Incidents Map” of COVID-19 data and stats, including confirmed cases and more by U.S. state ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://mspoweruser.com/ibm-dashboard-track-coronavirus-phone-and-online/",
+      "ampWebUrl": "https://mspoweruser.com/ibm-dashboard-track-coronavirus-phone-and-online/amp/",
+      "cdnAmpWebUrl": "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/ibm-dashboard-track-coronavirus-phone-and-online/amp/",
+      "publishedDateTime": "2020-03-25T12:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MSPoweruser",
+        "domain": "mspoweruser.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mspoweruser.com/wp-content/uploads/2020/03/IBM-Cognos-Analytics-Dashboard_County-Level-1000.png",
+          "width": 1000,
+          "height": 625,
+          "title": "IBM launches an interactive dashboard to track coronavirus on phone and the web",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-25-ai-is-searching-for-unexploded-vietnam-war-bombs-in-cambodia.md",
+      "title": "AI is searching for unexploded Vietnam War bombs in Cambodia",
+      "excerpt": "The system uses object recognition algorithms that detect the unique features of bomb craters, including their shapes, colors, textures, and sizes. These algorithms then scan satellite images for ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/03/25/ai-is-searching-for-unexploded-vietnam-war-bombs-in-cambodia/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/03/25/ai-is-searching-for-unexploded-vietnam-war-bombs-in-cambodia/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/03/25/ai-is-searching-for-unexploded-vietnam-war-bombs-in-cambodia/amp/",
+      "publishedDateTime": "2020-03-25T11:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/03/Untitled-design38-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "AI is searching for unexploded Vietnam War bombs in Cambodia",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-25-introducing-finis-lanevision-the-worlds-first-ai-computer-vision-swim-training-technology.md",
       "title": "Introducing FINIS LaneVision: The World’s First AI & Computer Vision Swim Training Technology",
       "excerpt": "The Aspiricx team is a unique blend of people with a passion for technology (AI, computer vision, data science, etc.) and for swimming. Natalie Coughlin, a 12-time Olympic medalist and 20-time World Championship medalist, holds the title of chief aspirer; her role is to bridge the gap between the two worlds and introduce all swimmers to ...",
@@ -875,124 +986,6 @@
           "width": 640,
           "height": 640,
           "title": "Artificial Intelligence, Machine Learning And Deep Learning: What's The Difference?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-25-how-autism-researchers-are-applying-machine-learning-techniques.md",
-      "title": "How autism researchers are applying machine-learning techniques",
-      "excerpt": "From identifying a new antibiotic to generating the first-ever image of a black hole, machine learning is changing how scientists approach questions in many fields. Autism researchers are being equally creative, using machine-learning methods to improve ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.spectrumnews.org/news/how-autism-researchers-are-applying-machine-learning-techniques/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-25T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Spectrum",
-        "domain": "spectrumnews.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://s3.amazonaws.com/spectrumnews-web-assets/wp-content/uploads/2020/03/23142010/20200325-MachineLearnV2-8441.jpg",
-          "width": 844,
-          "height": 570,
-          "title": "How autism researchers are applying machine-learning techniques",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-25-affinitys-ai-powered-relationship-intelligence-platform-is-transforming-crm.md",
-      "title": "Affinity’s AI-powered relationship intelligence platform is transforming CRM",
-      "excerpt": "Affinity is an AI-powered relationship intelligence platform with patented technology that structures ... Data science and artificial intelligence had advanced to a tipping point in terms of changing the CRM paradigm and that’s what inspired us to start the company.” Affinity’s founders recognized a need for streamlining how companies ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.clickz.com/affinitys-ai-powered-relationship-intelligence-platform-is-transforming-crm/260926/",
-      "ampWebUrl": "https://www.clickz.com/affinitys-ai-powered-relationship-intelligence-platform-is-transforming-crm/260926/amp/",
-      "cdnAmpWebUrl": "https://www-clickz-com.cdn.ampproject.org/c/s/www.clickz.com/affinitys-ai-powered-relationship-intelligence-platform-is-transforming-crm/260926/amp/",
-      "publishedDateTime": "2020-03-25T03:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ClickZ",
-        "domain": "clickz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://1ld3bn3pj7u818mrpr3kmfig-wpengine.netdna-ssl.com/wp-content/uploads/2020/03/031820c.jpg",
-          "width": 768,
-          "height": 489,
-          "title": "Affinity’s AI-powered relationship intelligence platform is transforming CRM",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-25-is-machine-learning-the-quantum-physics-of-computer-science.md",
-      "title": "Is Machine Learning The Quantum Physics Of Computer Science",
-      "excerpt": "Quantum Physics was a new way of thinking about physics. It seems there are parallels in the world of computer science.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/rahulrazdan/2020/03/25/is-machine-learning-the-quantum-physics-of-computer-science-/",
-      "ampWebUrl": "https://www.forbes.com/sites/rahulrazdan/2020/03/25/is-machine-learning-the-quantum-physics-of-computer-science-/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rahulrazdan/2020/03/25/is-machine-learning-the-quantum-physics-of-computer-science-/amp/",
-      "publishedDateTime": "2020-03-25T03:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e7b33c59f46de0006e48c79%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Is Machine Learning The Quantum Physics Of Computer Science",
           "attribution": null
         }
       ],

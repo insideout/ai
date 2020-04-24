@@ -2,6 +2,117 @@
   "page": 49,
   "value": [
     {
+      "path": "_news/2020-03-17-society-50-japans-lofty-plans-face-hurdles.md",
+      "title": "Society 5.0: Japan’s lofty plans face hurdles",
+      "excerpt": "Carbon emissions are cut by driverless vehicles choosing the shortest route home. Robots take care of the elderly, using body sensors to flag up if additional human help is needed. Artificial intelligence (AI) will sift your online history and health records to build you the perfect itinerary for a city break, for example, tailored just so to ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.raconteur.net/business-innovation/society-5-0-infrastructure",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-16T18:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Raconteur",
+        "domain": "raconteur.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.raconteur.net/wp-content/uploads/2020/03/EdImage_p3.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Society 5.0: Japan’s lofty plans face hurdles",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-17-ibm-commercialises-ai-communication.md",
+      "title": "IBM commercialises AI communication",
+      "excerpt": "IBM is commercialising a new technology that makes it easier for computers to understand human communication. AI has struggled to understand the kinds of nuances that appear in everyday communication among people. Now Big Blue is adding new tools to its AI system, Watson, which can address that problem and better understand human language.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fudzilla.com/news/ai/50483-ibm-commercialises-ai-communication",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-16T18:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fudzilla",
+        "domain": "fudzilla.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.fudzilla.com/media/k2/items/cache/31c2c7604349f9615a8f77c09e482964_L.jpg",
+          "width": 620,
+          "height": 465,
+          "title": "IBM commercialises AI communication",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-17-now-ai-will-understand-language-of-business.md",
+      "title": "Now AI will understand language of business",
+      "excerpt": "The new technologies represent the first commercialisation of key Natural Language Processing (NLP) capabilities to come from IBM Research’s Project Debater, the only AI system capable of debating humans on complex topics. For example, a new advanced sentiment analysis feature is defined to identify and analyse idioms and colloquialisms ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://gadget.co.za/now-ai-will-understand-language-of-business/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-16T18:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "gadget.co.za",
+        "domain": "gadget.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://gadget.co.za/wp-content/uploads/2019/06/artificial-intelligence-computer-science-electrical-engineering-science-technology-53cda3-1024-1000x600.jpg",
+          "width": 1000,
+          "height": 600,
+          "title": "Now AI will understand language of business",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-17-tesla-trails-waymo-cruise-and-others-in-self-driving-strategy-study-claims.md",
       "title": "Tesla trails Waymo, Cruise and others in self-driving strategy, study claims",
       "excerpt": "Tesla's position on Navigant Research's AV development leaderboard is just about at the bottom. Waymo continues to lead the pack in terms of both vision and execution, according to Navigant's leaderboard.",
@@ -808,110 +919,6 @@
         "IBM AI",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-03-16-fortinet-introduces-self-learning-artificial-intelligence-appliance-for-sub-second-threat-detection.md",
-      "title": "Fortinet Introduces Self-Learning Artificial Intelligence Appliance for Sub-Second Threat Detection",
-      "excerpt": "FortiAI’s Virtual Security Analyst embeds one of the industry’s most mature cybersecurity artificial intelligence – developed by Fortinet’s FortiGuard Labs – directly into an ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.ciol.com/fortinet-introduces-self-learning-artificial-intelligence-appliance-sub-second-threat-detection/",
-      "ampWebUrl": "https://www.ciol.com/fortinet-introduces-self-learning-artificial-intelligence-appliance-sub-second-threat-detection/amp/",
-      "cdnAmpWebUrl": "https://www-ciol-com.cdn.ampproject.org/c/s/www.ciol.com/fortinet-introduces-self-learning-artificial-intelligence-appliance-sub-second-threat-detection/amp/",
-      "publishedDateTime": "2020-03-16T03:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CIOL",
-        "domain": "ciol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-03-16-big-tech-swallows-most-of-the-hot-ai-startups.md",
-      "title": "Big Tech Swallows Most of the Hot AI Startups",
-      "excerpt": "An acquisition spree by Apple, Amazon, Facebook, Google and Microsoft eliminated potential rivals and concentrated brain power in this critical field.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.bloomberg.com/news/articles/2020-03-16/big-tech-swallows-most-of-the-hot-ai-startups",
-      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-03-16/big-tech-swallows-most-of-the-hot-ai-startups",
-      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-03-16/big-tech-swallows-most-of-the-hot-ai-startups",
-      "publishedDateTime": "2020-03-16T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-16-cognitive-computing-technology-market-by-offering-solutionsservices-technology-deployment-type-applications-forecasts-to-2023.md",
-      "title": "Cognitive Computing Technology Market By Offering (Solutions,Services), Technology, Deployment Type, Applications Forecasts To 2023",
-      "excerpt": "This report analyzes the global cognitive computing technology market by technology (NLP, machine learning, automated reasoning), deployment (cloud, on-premise), organization size (SME, large enterprise), end-user (BFSI, retail, aerospace & defense); it also studies the top manufacturers in the market. • Microsoft Corporation (U.S ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.benzinga.com/pressreleases/20/03/ab15555518/cognitive-computing-technology-market-by-offering-solutions-services-technology-deployment-type-a",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/15555518",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15555518",
-      "publishedDateTime": "2020-03-16T02:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.abnewswire.com/uploads/1584351519.jpeg",
-          "width": 278,
-          "height": 333,
-          "title": "Cognitive Computing Technology Market By Offering (Solutions,Services), Technology, Deployment Type, Applications Forecasts To 2023",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],
