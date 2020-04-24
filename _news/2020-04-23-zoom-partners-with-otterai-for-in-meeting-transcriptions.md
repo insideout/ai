@@ -40,6 +40,19 @@ related:
       - url: "https://tr1.cbsistatic.com/hub/i/r/2020/03/24/757c78fb-3099-49b8-8845-3ab72d4964d8/thumbnail/1200x675/1cdb1f301471faa092025ad26e671b30/zoom.jpg"
         width: 1200
         height: 675
+  - title: "New Google Research May Improve Live-Translation of Virtual Meetings"
+    excerpt: "According to Gartner’s Magic Quadrant for Meeting Solutions, published September 5, 2019, 80% of the vendors they profiled “have some version of meeting transcription, much of which is based on natural language processing (NLP) technology with AI.” It also identified “transcription and translation for delivering webinars, town hall ..."
+    publishedDateTime: 2020-04-24T06:44:00Z
+    webUrl: "https://slator.com/machine-translation/new-google-research-may-improve-live-translation-of-virtual-meetings/"
+    type: article
+    provider:
+      name: Slator
+      domain: slator.com
+    quality: 24
+    images:
+      - url: "https://slator.com/assets/2020/04/Google-Simultaneous-Translation-Research.png"
+        width: 600
+        height: 400
   - title: "Otter.ai Releases Secure, Live Interactive Transcripts to Support Remote Work and Distance Learning"
     excerpt: "View Otter.ai’s pricing plans and features. See a demo of Otter.ai Live Video Meeting Notes for Zoom, check out the Quick Start Guide, or sign up here for Otter for Teams. Otter.ai creates award-winning technologies and products that make valuable information from voice conversations instantly accessible and actionable. The Otter Voice ..."
     publishedDateTime: 2020-04-23T14:38:00Z

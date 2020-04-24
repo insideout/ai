@@ -2,6 +2,52 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-04-22-ibms-the-weather-channel-app-using-machine-learning-to-forecast-allergy-hotspots.md",
+      "title": "IBM's The Weather Channel app using machine learning to forecast allergy hotspots",
+      "excerpt": "The Weather Channel's new tool shows a 15-day allergy forecast based on ML. IBM's The Weather Channel is now using machine learning (ML) to forecast allergy symptoms. IBM data scientists developed a new tool on The Weather Channel app and weather.com, \"Allergy Insights with Watson\" to predict your risk of allergy symptoms. Weather can also ...",
+      "heat": 86,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/article/ibms-the-weather-channel-app-using-machine-learning-to-forecast-allergy-hotspots/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ibms-the-weather-channel-app-using-machine-learning-to-forecast-allergy-hotspots/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ibms-the-weather-channel-app-using-machine-learning-to-forecast-allergy-hotspots/",
+      "publishedDateTime": "2020-04-22T13:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/04/22/d5ea3a71-463d-42a5-b5fe-e4c400a17436/resize/1200x/50457b05eac2a537f63c612f59980238/allergy-season-ahead.jpg",
+          "width": 1200,
+          "height": 801,
+          "title": "IBM's The Weather Channel app using machine learning to forecast allergy hotspots",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-22-stereoset-measures-racism-sexism-and-other-forms-of-bias-in-ai-language-models.md",
       "title": "StereoSet measures racism, sexism, and other forms of bias in AI language models",
       "excerpt": "among ways to turn AI ethics principles into practice. The news follows a study last month that found major automated speech detection systems were more likely to recognize white voices than black voices. Last year, researchers found OpenAI’s GPT-2 generates different responses when prompted with race-related language.",
@@ -1169,7 +1215,7 @@
       "path": "_news/2020-04-22-intel-accenture-use-ai-to-save-the-coral-reef.md",
       "title": "Intel & Accenture Use AI To Save The Coral Reef",
       "excerpt": "Accenture, Intel and the Sulubaaï Environmental Foundation announced Project: CORaiL, an artificial intelligence (AI) - powered solution to monitor, characterize and analyze coral reef resilience.",
-      "heat": 87,
+      "heat": 97,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/04/22/intel--accenture-use-ai-to-save-the-coral-reef/",
@@ -1288,50 +1334,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-22-how-artificial-intelligence-iot-and-big-data-can-save-the-bees.md",
-      "title": "How Artificial Intelligence, IoT And Big Data Can Save The Bees",
-      "excerpt": "Artificial intelligence (AI), internet of things sensors, big data analytics, and other technologies are being used to monitor and develop solutions to mitigate the global issue of declining honey bee and pollinator populations.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2020/04/22/how-artificial-intelligence-iot-and-big-data-can-save-the-bees/",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2020/04/22/how-artificial-intelligence-iot-and-big-data-can-save-the-bees/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2020/04/22/how-artificial-intelligence-iot-and-big-data-can-save-the-bees/amp/",
-      "publishedDateTime": "2020-04-21T21:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e9fc586dea8300007de8a08%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "How Artificial Intelligence, IoT And Big Data Can Save The Bees",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

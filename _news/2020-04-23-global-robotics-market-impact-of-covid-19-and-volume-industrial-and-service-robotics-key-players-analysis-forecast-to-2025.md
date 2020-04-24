@@ -7,8 +7,8 @@ webUrl: "https://www.benzinga.com/pressreleases/20/04/n15861824/global-robotics-
 ampWebUrl: "https://amp.benzinga.com/amp/content/15861824"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15861824"
 type: article
-quality: 0
-heat: 0
+quality: 27
+heat: 27
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Robotics
 
 secured: "Po9k6ttkY9aTKD94+pIi45kJyOPziOpdxAJI3DN2AS4fLUr5ePAg6qTwcvaM0i35ignsaje4jhKXc0hK/vBHdbGjMME1/P3HKZjXM5ISw5yr3x5fdmk12hvXwkWG1NJOI/ykQIWaPTmqlQzrLMdupwt1bRoBmdgAZf2o6r4iulOMfy2jqMTtuRL5wu24uWoNe6oULxMbKSu0E8b1PkmHvNlWf2UpPnrQAS6xWuClNif1tRicGq3XIPqiaSWoGs1jax9XXHN+ptd2kXRgQSedL3I7Ka6jo/jDSfP2iwXMGSq8srZKHbCoR99jzLMa+XsX;7pja6ph/QMMMCRSV7PaM/g=="
 ---

@@ -1,28 +1,27 @@
 ---
 category: news
-title: "TAL's AI Mandarin Teaching App Receives Recognition by UNESCO"
-excerpt: "TAL's Improving literacy, preserving language, and providing inclusion using AI and big data has been selects by UNESCO as one of"
-publishedDateTime: 2020-04-18T12:00:00Z
-webUrl: "https://www.prnewswire.com/news-releases/tals-ai-mandarin-teaching-app-receives-recognition-by-unesco-301042884.html"
+title: "TAL’s AI Mandarin Teaching App Receives Recognition by UNESCO"
+excerpt: "The project focuses on helping improve the overall literacy rate, using AI speech recognition and big data, to increase opportunities for further inclusivity and social mobility within these rural communities. In 2018, Xueersi Online School under TAL ..."
+publishedDateTime: 2020-04-18T21:32:00Z
+webUrl: "https://techent.tv/2020/04/18/tals-ai-mandarin-teaching-app-receives-recognition-by-unesco/"
+ampWebUrl: "https://techent.tv/2020/04/18/tals-ai-mandarin-teaching-app-receives-recognition-by-unesco/amp/"
+cdnAmpWebUrl: "https://techent-tv.cdn.ampproject.org/c/s/techent.tv/2020/04/18/tals-ai-mandarin-teaching-app-receives-recognition-by-unesco/amp/"
 type: article
-quality: 39
-heat: 39
-published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: techent.tv
+  domain: techent.tv
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1156780/UNESCO_certificate_presented_TAL_Education_Group.jpg?p=facebook"
-    width: 960
-    height: 503
-    title: "TAL's AI Mandarin Teaching App Receives Recognition by UNESCO"
+  - url: "https://i0.wp.com/techent.tv/wp-content/uploads/2020/04/tals-ai-mandarin-teaching-app-receives-recognition-by-unesco.jpg?fit=400%2C283&ssl=1"
+    width: 400
+    height: 283
+    title: "TAL’s AI Mandarin Teaching App Receives Recognition by UNESCO"
 
-secured: "BNJJ3FTwTjhrFWVkuvYzUKtBSKPWmgZNjxsmAgXpT0CkL5UxTw49ngkBE1ifH442Pzb8xCq3XjWup2pj7RnVm7p0tUOUtsJ5r6j0FZx9PZnQz7Uxu4Kke2NDRWTW3XdbwrtaN8upgxgIyd7SViSkdJroAB1EdMqsCfzL755wih/PrxSQb6S5d9YkStrUHMVxohePemJEZnJsKBbjDHFFsaoi65U+XAqLSm2/wpSSgnDkVEUKoJwt5ilWihKSEa5q5nrqz/w3qSX/YpRVu7EbQmzrfS/0Tt+J7Vopn6+uZcpJzs/TiE9YHCbLXVPiTUd4U2qy44/P97BZo6af/I6lM2UmzjCpde68o7eP5KgFVmeWEr7NHYRIMoyT8wRUQiqPdbLFh8YuWyP8NQuwCw7Pissbj2OnQdti+xBS66g6v7TkfWkorDoWEBlkHGb8E+kw/2vePZnFLWAJ1G69KzbR6KzlWMyN06RF1/ASX1dm+U0=;e8iU9/4GVY7tB6ccNH2Ldw=="
+secured: "neHjtWIYmJcEOKnDcsCDMjz6UWlxDRaTrUQAJOX51gczpLDuHm9rfBtHCSRyi0gQ01GutDDJXgVcjI5sku43DIObbKn22eQFhTNqJantud5yw8U31PLJnCb11K3KUdumR3ZHnWKsFG+M+mgTipeqP4DpOBpDYmq9cRz9n5nCGLBYhaqhiQaaYud4i811SZDqseu4vHM57LV5VypifSiz9OYn5FhAuvcet7RLhSqfUnZiyvlb4TvnWUL2j9Knd6BFCWk5FlC2FG442IIvOhoOhfORfH9h3SXJujtQpkZYeuZmDY+S5RZtRDCvzcckJaRa;AuIE6oq58A2cBOMD4n+2Dg=="
 ---
 
