@@ -6,7 +6,7 @@ publishedDateTime: 2020-04-23T16:18:00Z
 webUrl: "https://www.miragenews.com/reducing-carbon-footprint-of-artificial-intelligence/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -32,7 +32,7 @@ related:
     provider:
       name: EurekAlert!
       domain: eurekalert.org
-    quality: 39
+    quality: 41
     images:
       - url: "https://eurekalert.org/images/EurekAlert_StackedLogo_RGB.jpg"
         width: 900

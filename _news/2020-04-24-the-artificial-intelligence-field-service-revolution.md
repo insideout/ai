@@ -23,6 +23,6 @@ images:
     height: 851
     title: "The Artificial Intelligence Field Service Revolution"
 
-secured: "vBNltY6z5S6Nin46RE2h06fOFSAYGaar3YWyQldKtG4b+I6t5Z/BLW9bAYRtG2G6lgsKq++ExMm+VPEURxIs/bsJcTOkTUd5zOoMpy6oyYbXjj79qhqAeEjwqNfDLpQIgdbvhwpFLbN1cV4HG7fWbzqJFASoKj8BodW4hVUfKV7XkYVDi4xWzWn06fhv7TXBf8d6dJCzmB+MHIYCmhm9Z3CuQr0mRyi/2fXn/TbVVXGlliei/PSlbGqEP5zRNWiCHANHdLxujTCfVKbPchpHcLd4lNPRLRl+GqjibdJCP9+HPuuJYOTiOF2122iLs38R;nYXM9VQ/S93dlKFQpd7pYw=="
+secured: "R82M+iLa/DePnldlFnJ42iyZ/rKWM2cCmgEXllsSK0SNzZAJD0kGQ/LlwevLbgN+1D/hL5gudI+eQZzR/NMFDGtCm+qLV4MPwJkG8jgS9m1Kh6USy+zNOFLZACKOl+CsNHNpfBSTNvkcdD2YNqGjjBmzxByDoSTApRrEcN2d+pYt5bu3GF+IcL8MZsj9PwySuppmwDJcnESRBhPoDVqWIljC1f7kGqaMagQExBvKFcxT+rBqV85T0jpvzoWZQ9TuIzJFKVRDblM4e67HTVgGNoLLXpkvx+Tm3mc/QVNSkaye8GLhO+Q7/nf9ky6/FM9/HXzsXRHXNQsoMtDfLI4/iplJE/8o1m+1v/WTUVXA/gVloXH7SFcbRwUMFLkL7g9fAoazKIGgy8JHU0nB157ZapPbuR2zwTA/ITrIZcuiGFr2HtPcunM6m7XHQ9dv2Afqq/rmWAnOOr7gQUtiRkCcBCbHNl2W2iLmcOSXtGDi+bU=;7/oqPXQYaDr89qRO+GZUrQ=="
 ---
 

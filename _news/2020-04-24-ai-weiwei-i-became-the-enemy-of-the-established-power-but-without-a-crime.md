@@ -28,6 +28,6 @@ images:
     height: 360
     title: "Ai Weiwei: 'I became the enemy of the established power, but without a crime'"
 
-secured: "ySt4ichWVCaQfzR1XdxC3t5gYmeiYbztbC1/mMKZlwirOdvlQNFTiT9uRbA0udO4XMTDNQOxT2T4AR7X1Ff941YUGpTWbBniwy5ob4nvx2ydRebpFL6mxrWu0juUWmcswnAdm6wMHqkZ2AlS2Rp0XSh7M+ehUpowo8AZ/Disx37zRasl+Opl3s6I+4N5+cSpKu5OOpRXxUZa1R15OfiHhuGXM3FNIF8XejggkKix/LKeXkWwcop1y5ARy3cpoNpAmrp6aYz/DXqY109TDiuKeihGqfGPxqaOh3i4zeu0eGIcB5O1VwznPibvQ49hZIF1;v4/fPmBvvqd6mOq6n1uPrQ=="
+secured: "Ka8pIrQ4YBPYLW2UUUaKQwjjDR0CWu8nJYn/9/tXkO9rxL8Y+rSI5IDBCMF/00cIRr6TomRCYLp9aac5JRsyA2msV6QPUgvpMg8pnQh25Gq3WuAQ2R97+PwO8nhuugrQWljEi+Bw3n8Deg/3G/Uua0O7PJ/RswBAZO695DGk0ZG7pg2nO/bGc5xS5Ui1kYHfddhhn/mexefZAOUDw2DxwsGkCWbyO+9xYrEvnKWXg/PjmQPTP+yBEMxI5EZu9+ZsqDDMqnLtd5J9G4r7/NijY6g0OTiVfAR7eyz6gZ2XwVFKAS2NAwYX1mkclwW6RLi8BwetjxKcwgT5yb+jiAHM13SgK7/ySQinwImLNxmvN8m88MCxReg5L8clFCoLGqQqHcQ7atz9cUnlbPvZ3LCWjAUs1LrT3OodRhegw0aqzIYvliQ/AzLzjM5BDbiSPx7ZOW1P1WgTkphPgdgLKCre4SYR6AXGfDfk9detvap3nsw=;9jbnKcuxgYNvWO9UecuNFw=="
 ---
 

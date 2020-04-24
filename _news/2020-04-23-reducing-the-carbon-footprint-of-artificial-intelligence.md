@@ -5,8 +5,8 @@ excerpt: "Artificial intelligence has become a focus of certain ethical concerns
 publishedDateTime: 2020-04-23T00:00:00Z
 webUrl: "https://eurekalert.org/pub_releases/2020-04/miot-rtc042320.php"
 type: article
-quality: 39
-heat: -1
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - IBM AI
 
 images:
   - url: "https://eurekalert.org/images/EurekAlert_StackedLogo_RGB.jpg"

@@ -24,6 +24,19 @@ images:
     title: "Reducing AI’s carbon footprint"
 
 related:
+  - title: "Reducing the carbon footprint of artificial intelligence"
+    excerpt: "Artificial intelligence has become a focus of certain ethical concerns, but it also has some major sustainability issues. Last June, researchers at the University of Massachusetts at Amherst released a startling report estimating that the amount of power required for training and searching a certain neural network architecture involves the ..."
+    publishedDateTime: 2020-04-23T00:00:00Z
+    webUrl: "https://eurekalert.org/pub_releases/2020-04/miot-rtc042320.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 41
+    images:
+      - url: "https://eurekalert.org/images/EurekAlert_StackedLogo_RGB.jpg"
+        width: 900
+        height: 300
   - title: "Reducing carbon footprint of artificial intelligence"
     excerpt: "Artificial intelligence has become a focus of certain ethical ... report estimating that the amount of power required for training and searching a certain neural network architecture involves the emissions of roughly 626,000 pounds of carbon dioxide."
     publishedDateTime: 2020-04-23T16:18:00Z
@@ -37,20 +50,7 @@ related:
       - url: "https://news.mit.edu/sites/mit.edu.newsoffice/files/styles/news_article_image_top_slideshow/public/images/2020/MIT-Energy-Efficient-AI-01_0.jpg?itok=-qaOADP2"
         width: 639
         height: 426
-  - title: "Reducing the carbon footprint of artificial intelligence"
-    excerpt: "Artificial intelligence has become a focus of certain ethical concerns, but it also has some major sustainability issues. Last June, researchers at the University of Massachusetts at Amherst released a startling report estimating that the amount of power required for training and searching a certain neural network architecture involves the ..."
-    publishedDateTime: 2020-04-23T00:00:00Z
-    webUrl: "https://eurekalert.org/pub_releases/2020-04/miot-rtc042320.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 39
-    images:
-      - url: "https://eurekalert.org/images/EurekAlert_StackedLogo_RGB.jpg"
-        width: 900
-        height: 300
 
-secured: "rDZTLwbEGmn8GNCsU2tJfrluHm1RDYY5JLktouqoF2HkenMNdqL7lrATseyq4R4plP5JpgCNRnnLZUytwksn7D5ILD5Wgn3i9xQvtdVCga69ux3A6IP6fX8mXcOUzy9Emztrmh3LUpZcBnV5+9zvo1ChkXSYH0p9hrw09HatrfiOx2ol70Ff22m8eMBc6nJp0FPPoESHHi7oqAIQHBUKZPYrxUqR68usfjuG/OrByeGU6sTTGNaxPFTZmm8mKXl/mEr7YGEz7Iv752XQXKUwCGJ2Jp4KCSk+XjKvfQktV4tsuc7igzKar8uqPVRgL5SU;GqkKv09waCudssekf7kNpQ=="
+secured: "AiGPDmvwZawh4ieVo0dxT+x/sgFWOWMbl42VC5NZSJB8OTV9yVF2kNUU2o4KmQE+4e+F8yZZ4DVm5CmVnObwNwfzDHtXfBiFjuTxHrC2nqaZDNPLc1iLbKSnmQL2AFV3+O14d4xd5cW1RKm7rb2lzJbP8WuANrtSOwZ2fZRFbUbGp+OqGMXKlfxqIiNvKs12jYwPTHrox7adyYLi/57hP0D1QkqcqlZ13lhC4GtT4d+uarLBl8tIa26QM0mhzxQ8i8G8EUVia4PPd1AyILgx+sjd8Fm0Co+setZhyIgIYgncFPPaogH+9DaYdPoe3HLgrQ9tJRA35xqs5PO4fC/U0e5I7Cwki+70HHgAVmp5aA5oNAnJxpROMZSh42FuIGz+U5XX6Rkf+qGjXYf0mm7zN8oLRC2GaR4oyprfHVSc1QK+ktiVNrEC0d9iKVaPFRiUbp3GCUhCn+Fj+3kBB7LQdB9XeOxuMorUk7fT9pmtbVw=;ScBF+PW1tUDrvQrrH1Wvxg=="
 ---
 
