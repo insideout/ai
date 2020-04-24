@@ -20,6 +20,6 @@ images:
     height: 400
     title: "U.S. Consumer Healthcare Advocacy Group (USCHAG) Announces Partnership with IBM Solutions"
 
-secured: "zIzy8zFn4hWr5ZFEbnpWiB9wZThM/vgyTjnwv9f2gZ3q5G/hN4O6GtTb46htr7LESQjIZbjdfq7b3QxOSR0an7/yWN7XdbKzHKZUM7IlQffwfPTtAxr8YQ6olkypo9EMmdOFSL6zghGiolDnoneDQKgdjU8aCEWhwY1SXSWTieTKa1Whx0zVygGgbVPCBABf0Js8SrVGOtqttiS6cvTurFuakVriPr9oFIgTUBObDc+iRWeI/euF5j6uZoCYtR8DwrhMWDHP9NSeiShKH3ij1veRZORtOC+0il/YVzKNNK+hmBkB7XXUku8f49hgTrHn;XBjn8QMeRl8cl/g/FkPgAA=="
+secured: "EhhUoXzps4BWLOx6SQwkd2C9c6Ic2AVl0wW2nxrD/fBQauZRjxGDXM16Z+7uWmZZAYqDmIfbamvCG/CmfFeu3g7P6LRJPjwJOqoClCkazN987IQCds/twjlbKpAgtzgBkg2F3qiudHCLazZTzCQZFddx+5sOL4Y/RlaaH09tF66ABrudm8t3JMmAwPPHVbY6AwaNVys2JiHI019ET9yU/UTHBvrY9JRL5UvrZ85Q5fOzT36kEPjulZexEV6yMy6l2wb/VYt+YdAD48/S40/EflxtIUuX2uB4QiQi0+O/1vDtCrWW31Wb2XQHOWyNszOqXtzOHb8E0y3jFCkW65M9crIBFHurznc7WG5ps7l1mxcQI6f72+ny/2sXfgCUL3dw7gq+q/w+T/Y+ZGmYsUvPoVUNDjQ7n1NI1+rmA2CaAvZy6RpypSEE2HdYlXDcBu2XGprllXRfQgdkU1vBmfrMXEKHBsKPDq6//w8ygGZ/g2w=;JFRmq51gRuSOVJx3BXQo2Q=="
 ---
 

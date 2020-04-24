@@ -29,6 +29,6 @@ images:
     height: 428
     title: "Xiaomi launches the MIJIA Sweeping Robot G1, an affordable cleaning device"
 
-secured: "OATSHbz0IDHqzmjFdKSzQt8eILLsmEMK9E8LqdYdcOlKUFMZHaSNxCUXWeTsZo0jSqVFRPE/1ZqpmUQ6qkfl8taWg7/9bZmh3EVGa2P18gk1IrFKcn9GeqHhIftWstFr5ZSzpcZ+3d6IRlBgHmwcup4F6dvEY3X9SeIDX2ObEBwjvJKFMQVbix8AdiIX8p4e6PYYMmgTKeAJ7tHMcAEpFUt/PyafEJHsNXT3QzCpXANG1hBvbyB/eQjAsKZI/amJL4QyouMYPsp6+Dn4eDyHm37NiDvgreTl14IvotRJ9VGwBuRxNcK4USU8Sz0ij23/;Z2knOTpP8Hu3jcanuTiKvA=="
+secured: "HIEINMZeLDGDItfWLKlSOLZRsAlXwbKMzF4mEBOhAZ1NZyCKBMPzQHOjINM7mQTKFLKInzyuwCAtFY2xKOJvjiaqS07Wa/PVsuWx5IkN4oXrIwe1MWo/cle9w/iHGI+DH0Ls0UmoxfafYSawHWu7tx/6INvg4gESN4truTfHtgB6I3flqHnnuAo/uh28+EUb//uoJ6tUSKIsuNGBT76TyL/2KNG+QM2FRaRA9d9eKpk93jWz6KDe8s7CW7AIhN90ILIczOgFexzNoOdJH0gxUk1bHWE3EgexD2KSpkKyto1CeZ1gSHMdy4TO+BSyu5gk1ndhD1AeRnHzv6lnLgzPRXq73RaKGLDAgflWtY9kmtG8+eBhBWuN/5ND/zqtxI1r5Cttk/nzn4Ry6iAvpR7DytByhHPzggCEHutAs+aosig42ic5Zqwb5R/LmTXkM+jqs+P4nXvT4PRxQ/1NfoiGmonn3MRkfe+61G64+PzjfTE=;7rF2kBmT+RhduIs+fYzLVA=="
 ---
 

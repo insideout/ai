@@ -1,0 +1,57 @@
+---
+category: news
+title: "Coronavirus: AI trial hopes to help hospitals plan bed and ventilator demand"
+excerpt: "NHS Digital said the initiative marks the first time a project of such scale involving machine learning has been rolled out."
+publishedDateTime: 2020-04-24T10:36:00Z
+webUrl: "https://www.zdnet.com/video/coronavirus-ai-trial-hopes-to-help-hospitals-plan-bed-and-ventilator-demand/"
+type: article
+quality: 64
+heat: -1
+published: false
+
+provider:
+  name: ZDNet
+  domain: zdnet.com
+  images:
+    - url: "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI
+
+images:
+  - url: "https://zdnet1.cbsistatic.com/hub/i/r/2020/04/24/742a280b-7590-4355-bd9e-a815a30cb6d8/thumbnail/770x578/25290d8210ce0f2b88a2a121194fdb6a/coronavirus-ai-trial-hopes-to-help-hospi-5ea0150227c3040ebef55129-1-apr-24-2020-9-35-21-poster.jpg"
+    width: 770
+    height: 578
+    title: "Coronavirus: AI trial hopes to help hospitals plan bed and ventilator demand"
+
+related:
+  - title: "This AI tool helps hospitals predict COVID-19 bed and ventilator demand"
+    excerpt: "SEE: How to implement AI and machine learning (ZDNet special report) | Download the report as a PDF (TechRepublic) Trials are expected to last a week and will take place at NHS trusts Cambridge University Hospitals, Kings College Hospital, Lancashire Teaching Hospitals and University Hospital Southampton. If initial deployments prove successful ..."
+    publishedDateTime: 2020-04-21T12:05:00Z
+    webUrl: "https://www.zdnet.com/article/this-ai-tool-helps-hospitals-predict-covid-19-bed-and-ventilator-demand/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/this-ai-tool-helps-hospitals-predict-covid-19-bed-and-ventilator-demand/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/this-ai-tool-helps-hospitals-predict-covid-19-bed-and-ventilator-demand/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
+    images:
+      - url: "https://zdnet3.cbsistatic.com/hub/i/r/2020/03/13/7e404fac-4532-4237-8f10-91e709d6b15b/thumbnail/1200x675/80e3fc902fe3c9d6aba28b44aa664ac0/20200313-tiernan-karen-corona.png"
+        width: 1200
+        height: 675
+  - title: "Machine learning to help hospitals predict Covid-19 demand"
+    excerpt: "A machine learning (ML) system is being trialled in hospitals in England to manage upcoming demand for beds and ventilators in intensive care units (ICUs) in the Covid-19 coronavirus outbreak. The Covid-19 Capacity Planning and Analysis System (CPAS) was developed by NHS Digital data scientists and a team of researchers from the University of ..."
+    publishedDateTime: 2020-04-20T09:35:00Z
+    webUrl: "https://www.computerweekly.com/news/252481839/Machine-learning-to-help-hospitals-predict-Covid-19-demand"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 19
+
+secured: "L0jirdp8GShD9eqC4eMDl2O73fTbNSTbcSdNFnCfKWMXn0ozgER/MtRs4N7OGo5PkTU4aM2T8RjhckN5etNKKi1cFDY9wDiSAbEcTLUcgQGLjewxKqjFkowKiTH6Y2exnJDsqjdaQvXYWDZaYbO7QYq4tgmmzDoV5CLGA6uyVkv3g8ZshE3eHkC9efeeWynzblZ33llsg/JsLNwUdyd6C0wjc4N6x4UoyrCnpGVA4mX5+3EMndfYMTaeZUkw/BnwIzEU+ykgUWmaah+tSVHUmNbfTkBNCw2olattiTrUoYx1V3UdYYPOuO0UPLX+NhF6;i1N4yRLQ49h4pkizzL5olg=="
+---
+

@@ -55,19 +55,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Natural Language Processing (NLP) Market Analysis – Global Industry Size, Share, Trends and Forecast 2020 – 2026"
-    excerpt: "According to the report published by Acumen Research and Consulting, the global Natural Language Processing (NLP) market was expected to reach at US$ Mn in 2018 and is anticipated to exceed US$ Mn by 2026."
-    publishedDateTime: 2020-04-23T10:37:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-analysis-global-industry-size-share-trends-and-forecast-2020-2026-2020-04-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 48
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
 
 secured: "FXrzdZ4novIKQn0wd7fRG/ousZCJ+KzfWsJVz79d8EE5aZwmApPSnSIi7e04xLWqqQbWdI1+/2FA+DZcTWNo71VNowSZXYyLz9aR6G2YLPsCCcgu3733pVZuoEvuBC36qLeNWlvZU51/YCECHz57MrVK9sFcyudlpO560AppnWE3IyshsoNbP2ETl9iKCo0pxqG9CUb1cSFBbTeraDdFrs6f7P7dZloF0iGq4MKBrJkBp9huyKX1wNEG/nEyrVrLkONd+cgTrL4Z7LrLWMeJPi/DV0GRsyr8yqbtcHhgjpSqdlzlvoaAyDFEKsUdE+gz;fbJRA0BOK3mwBvJFEI1IHQ=="
 ---

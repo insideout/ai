@@ -27,6 +27,6 @@ images:
     height: 448
     title: "Americans don’t ‘get’ electric vehicles or self-driving tech — but it’s not their fault"
 
-secured: "JaB0rnUwg8uHtdJb6/ah6EGLiBwE1bGi7nvwV09afeRQPzMu6Dqo+3xhAde8sPyJYGFu7PPSfRTVQOvzAtDncRhxslby5wRXDpAhepFUZdGujxJQmoWUuoF+kZZ0MEZ1jjMxIlaztXjnJGI+cTmyuMz7YYWkyUUuxWJaUcIC/MynQp140narcQ2Qy9DW07DCPRVRzSAWGR/JGiUrd3Xfqr88OzK7H3BcH+IvPhr+XgUBsTv4lCbcZHwpaUGWNdL8hcGVsKw7kIyOsCi1Oyfg1ieOh6yDwhgQ3+u8Jafhv4vwgDnuEK4C/uK/k1/fss7w;YKvRGZn+tUN5ktnB+0JDqg=="
+secured: "Fn+020kT0zCwRP4V5N1DQQRFB+sK33t+WACWXbVYiwrh6Pu4Qgbho5Rjc2aB22oKsG2kJ1N6noGZFsYgwQ/GHAeDffTDvzHOIk9/IZctIW+O3WbIbxoNWXUsk7QleigfUwoNDwXwTQzpCLWAOl4oMGtiKtxaFqNGJedEUx/2yYz/ywq5FzDQfJfYWP8vlaSkeJhoXHDKi/lRxaSOE9deIKQPBBN1aQJpiaJOHW9y4rvk4fvagZZOyPI5TwbafTai/Pw8jGuKkN9GbUobo3EcNMopOe6S8MRWDwKID3o7qwmP8vcfEVV0lvH8oFMW9lEASp+gzxxtUBEAYCjpqTNNi2PtvA+o2YC8HmbBwiVq3h8gypez6I3lvhXQOOUxTvWikgzfOahmoWJ3jny2hyyPFr+0TL1EGNIVnshYJ1yeYrySorFcRpzfgvYHObIncbf9usvFrtkUCd6TIFFspFwRqai54jUMcqRtb6bGOIfy2+g=;JA2swhpueL8eYsTqlnY8Ww=="
 ---
 
