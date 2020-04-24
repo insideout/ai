@@ -1,40 +1,54 @@
 ---
 category: news
-title: "Using artificial intelligence to save coral reefs"
-excerpt: "Today, on Earth Day 2020, Accenture, Intel and the Sulubaaï Environmental Foundation announced Project: CORaiL, an artificial intelligence (AI)-powered solution to monitor, characterize and analyze coral reef resiliency. Project: CORaiL was deployed in May 2019 to the reef surrounding Pangatalan Island in the Philippines and has collected ..."
-publishedDateTime: 2020-04-22T13:01:00Z
-webUrl: "https://phys.org/news/2020-04-artificial-intelligence-coral-reefs.html"
-ampWebUrl: "https://phys.org/news/2020-04-artificial-intelligence-coral-reefs.amp"
-cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-04-artificial-intelligence-coral-reefs.amp"
+title: "Using Artificial Intelligence to Save Coral Reefs"
+excerpt: "What’s New: Today, on Earth Day 2020, Accenture, Intel and the Sulubaaï Environmental Foundation announced Project: CORaiL, an artificial intelligence (AI)-powered solution to monitor ..."
+publishedDateTime: 2020-04-22T06:06:00Z
+webUrl: "https://www.ciol.com/using-artificial-intelligence-save-coral-reefs/"
+ampWebUrl: "https://www.ciol.com/using-artificial-intelligence-save-coral-reefs/amp/"
+cdnAmpWebUrl: "https://www-ciol-com.cdn.ampproject.org/c/s/www.ciol.com/using-artificial-intelligence-save-coral-reefs/amp/"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Phys.org
-  domain: phys.org
+  name: CIOL
+  domain: ciol.com
 
 topics:
+  - AI in Autos
   - AI
 
 related:
-  - title: "Intel & Accenture Use AI To Save The Coral Reef"
-    excerpt: "Accenture, Intel and the Sulubaaï Environmental Foundation announced Project: CORaiL, an artificial intelligence (AI) - powered solution to monitor, characterize and analyze coral reef resilience."
-    publishedDateTime: 2020-04-22T08:34:00Z
-    webUrl: "https://www.forbes.com/sites/cognitiveworld/2020/04/22/intel--accenture-use-ai-to-save-the-coral-reef/"
-    ampWebUrl: "https://www.forbes.com/sites/cognitiveworld/2020/04/22/intel--accenture-use-ai-to-save-the-coral-reef/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/04/22/intel--accenture-use-ai-to-save-the-coral-reef/amp/"
+  - title: "Intel’s Project Corail monitors coral reef health with AI"
+    excerpt: "To commemorate Earth Day, Intel — in partnership with Accenture and Sulubaaï Environmental Foundation, a Philippine-based nonprofit dedicated to protecting Palawan’s natural resources — detailed Project Corail, an AI-powered platform that monitors and analyzes the resiliency of coral reefs. Since its launch in May 2019, it’s collected ..."
+    publishedDateTime: 2020-04-22T04:05:00Z
+    webUrl: "https://venturebeat.com/2020/04/21/intels-project-corail-monitors-coral-reef-health-with-ai/"
+    ampWebUrl: "https://venturebeat.com/2020/04/21/intels-project-corail-monitors-coral-reef-health-with-ai/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/21/intels-project-corail-monitors-coral-reef-health-with-ai/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e9ffb06893ac200075fd4d6%2F0x0.jpg"
+      - url: "https://venturebeat.com/wp-content/uploads/2020/04/CORaiL_5small-e1587450236227.jpg?fit=1200%2C600&strip=all"
         width: 1200
-        height: 628
+        height: 600
+  - title: "Accenture, Intel and Sulubaaï Environmental Foundation Use Artificial Intelligence to Save Coral Reefs"
+    excerpt: "NEW YORK & SANTA CLARA, Calif. & MANILA, The Philippines--(BUSINESS WIRE)--Accenture (NYSE: ACN), Intel and the Philippines-based Sulubaaï Environmental Foundation have developed a new solution powered by artificial intelligence (AI) to monitor, characterize and analyze coral reef resiliency. The solution — the work product of Project ..."
+    publishedDateTime: 2020-04-22T04:18:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200421005932/en/Accenture-Intel-Sulubaaï-Environmental-Foundation-Artificial-Intelligence"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 21
+    images:
+      - url: "https://mms.businesswire.com/media/20200421005932/en/786514/23/Island_Reef.jpg"
+        width: 1200
+        height: 627
 
-secured: "snvxIlwnvBgPmvm4n68t9VXVJitKZ7/tFNcc1+ZtlwrlyW+cXSrd2PJwlG0MowIcIPPVnECsh9LNNfK1K4KH2oZlmnSFSktYt7e5XNY7gi2R+pfUFYeChHyEB41NbnITvhGih2RsvkU0RW+nt+T6CHwrdikOQIEAO9+nwJ0I9L2n83pDYyK3hFe7ThMEz+zD8a+2L0X892VD2B9dlsqrs0iHbJxXsy+dCGkA4+GWMMW//mbKFhkgoLzcITdcxG0wjxZ6+1y17VgdMtI1w+VGWF/FUHFqPlSeLZC7jDHpIApwxQ85N5MwRouDOsmGdNRjvrQqm+GGIcBNZ43+Ufa8Bl0j8mgmXviGuV2R2KJZLajr9jCCTyQX+SwUbBwb8TAGYayYhsQpMMYajjgAQn3CSt6pVu8q/1u2uxafE75yR/8xwy5oJxbnIJdUyUIiC3HevRs1vdCg9H/D0Ju5DHwjq4kJJrhMkLKbZvHgmQdyz08=;c4gfEHBZ3n8bXllyUNJ8TA=="
+secured: "9CPwDJyeh2MMUoi2jHXuuE0duCUx9Pxfyn64zbw9PUhnPbMUpQi9DOsszL36NcfhPAhAV8qHKMzf4mS03mzMBxCQtbs00O1YqmUxh3JilqCZ3zs9lpQxlPWVFOSrfVinJ92YuyDdkIWZIJK6nXhjlLdeULsw34O5DcBAL3VV/EeDiinMWbPS5M8v2hnlptRVOopzvG7H+vnu5XLTAZSfKtd6JS5/UGeFzWgnKGKOlIveVdTd05oN9BqWWPdB707eXFudoboobXyOyRDlTCkwCCq5oB+aTUWck8C56UsI/v7iBhGt9kuqDccJsuzojB1+;VjRBhZccwVC3KRIUDUBbMg=="
 ---
 

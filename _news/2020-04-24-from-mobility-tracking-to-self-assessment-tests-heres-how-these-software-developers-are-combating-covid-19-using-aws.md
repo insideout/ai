@@ -1,14 +1,14 @@
 ---
 category: news
 title: "From mobility tracking to self-assessment tests, here’s how these software developers are combating COVID-19 using AWS"
-excerpt: "Among those developers on the frontlines is Innovaccer, a San Francisco-based healthcare technology company that leverages artificial intelligence and analytics to reduce manual overhead ... what treatments are to be administered and then monitor the effects of the therapy,” said Rohit Ghosh, Founding Member, Qure.ai."
+excerpt: "Among those developers on the frontlines is Innovaccer, a San Francisco-based healthcare technology company that leverages artificial intelligence and analytics ... The company has listed these datasets on AWS Data Exchange. Any AWS customer can browse and find the intelligence, subscribe and access the data directly in their S3 bucket."
 publishedDateTime: 2020-04-24T10:05:00Z
-webUrl: "https://yourstory.com/2020/04/from-mobility-tracking-to-self-assessment-tests-he"
-ampWebUrl: "https://yourstory.com/2020/04/from-mobility-tracking-to-self-assessment-tests-he/amp"
-cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/04/from-mobility-tracking-to-self-assessment-tests-he/amp"
+webUrl: "https://yourstory.com/2020/04/tracking-self-assessment-developers-aws"
+ampWebUrl: "https://yourstory.com/2020/04/tracking-self-assessment-developers-aws/amp"
+cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/04/tracking-self-assessment-developers-aws/amp"
 type: article
-quality: 20
-heat: -1
+quality: 35
+heat: 35
 published: false
 
 provider:
@@ -16,7 +16,7 @@ provider:
   domain: yourstory.com
 
 topics:
-  - AI in Healthcare
+  - AWS AI
   - AI
 
 images:
@@ -26,6 +26,19 @@ images:
     title: "From mobility tracking to self-assessment tests, here’s how these software developers are combating COVID-19 using AWS"
 
 related:
+  - title: "How Tech Giants Are Enhancing Their Conversational AI Platforms To Fight COVID-19"
+    excerpt: "While the economy has been facing a hard time, demand for emerging technologies like conversational AI is at its peak. For instance, in India, the Ministry of Health along with the MyGov platform launched a ‘Corona Helpdesk’ chatbot on Facebook Messenger to ... to accelerate COVID‑19 diagnostics, research, and testing."
+    publishedDateTime: 2020-04-24T13:32:00Z
+    webUrl: "https://analyticsindiamag.com/how-tech-giants-are-enhancing-their-conversational-ai-platforms-to-fight-covid-19/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 34
+    images:
+      - url: "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2020/04/aim_chtbt.jpeg"
+        width: 1880
+        height: 1253
   - title: "VisiQuate welcomes healthcare and software development leaders to its Board of Directors"
     excerpt: "As VisiQuate Inc. continues to grow and expand into new areas of healthcare, the company today announced that Jim Lacy and"
     publishedDateTime: 2020-04-24T11:00:00Z
@@ -38,6 +51,6 @@ related:
       domain: benzinga.com
     quality: 30
 
-secured: "JDeddQ2bi8hK2LlyVMLzKlmmz3vDOVj/QSGMWY98XwB7IC/VR1NGUrSmL9yIWtI7p6mQau1F6rkbvC/URDHo1hAXYSfUPBO/IhhpIdGGwCtDikVfmPWDLf4BbJTnuanJh9GxGyW9+D4x2U+BgGZMKuL3qJLtrj/ZF5NbZRIv3gSRDdhEJascdGqPNICQ8Zx3gEbDHLLcLHF+vEDlDYJSFp4GlofOClEqkn9oc07DgYOT6ZeeGbRhgtxCK4P19+g3MVitVdEQppdq1kMwEHDFKWLxScLZDdpbUEaGs7BgldtvDPFJsg0CGR70ASg1ZEQn;D0rS2hOh5lqXcRjis2oN5g=="
+secured: "nK0ApI6Zol1A2JmzOFrzzRLjquUKw4myKbuJQXyaM/HBu7n7HSHWlAlqwblsze9s4BGEpAsZv23dqIZixRtbEBNWi+Vi+IK9jyHpQyzUBTQa4iKFnRAUHsyvD4ZB5+Unet5dssUpb3CTrJITDBVIoOFzkxkja7dm4ttOg5yl7edmUu59/TSegM0b+CGeZkqHOZdyixqQlKVxpgjou4aZBDlVFPd2M6ZzpkL4kDOxtlKQ4aKinVDbYMbKL6CKh07n+KOslr4SaPky8cj3IN1dd5ZZtfZ5mYl9uwAYoHRCQ6eouWHTbwYF6479agsvioHH;j9S+KgNTh7PSRdr9JyGsJQ=="
 ---
 

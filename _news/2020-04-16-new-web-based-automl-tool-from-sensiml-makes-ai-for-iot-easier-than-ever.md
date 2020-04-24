@@ -14,6 +14,12 @@ topics:
   - Machine Learning
   - AI
 
-secured: "pqNHCZ6gWZW1nZauI/rA4b0jVAgg6Mo1ofE+j8xmkcXSBfXbHCP1bLpbZDdYlsXhzbBXU3ve51p+BsXd+Pv9nfTqDlErgnRNE7/rqnhv/576PqHvvu/iz994Re3MuSH455ZrSAEHa72EVKv4/r1MgkxKhCbtDwt0rwt0eUcR3UdSzpYw4BTwXe3UcmPB+siPr5eKOh1pooMeP6DDoQqaM+jPUBJdgzH/XqR5vt5+t17L+c5FEn54GJiiQy9THR+N3Gdo+71FiF6y2T23EN9FVgPxTy+7TFSDO52NZNlxDqpAIqdIAlwg7TBXKklGLBrf;Iu+alD+i6I0VRWLLr3RsLQ=="
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/c/22/c2216860-0a3c-5af2-ba20-9a5b036c0854/5e986247ecbff.image.jpg?resize=400%2C208"
+    width: 400
+    height: 208
+    title: "New Web-Based AutoML Tool from SensiML Makes AI for IoT Easier than Ever"
+
+secured: "3E1E1NIMm0OoJZNSyHKiV90/NJ4JEz7/09XA9Dm6uFEjzIakMLrxAXYlCthLXYS8DmHFgSnAOUn+nSMEJ7Gd8Ki9GaIaslud9pEhObTuo/b1+EomBVkXUN8b3PAXsHEfuYeuJ58dJgF7rsh/GtWqDdTs5RCEZKDZQiN3Kr5Vc3+60szPpqgCe/iL/vkvQqDdlbu2P2em0urMNTyL9ei/BUDd83yC74tNMDBu+/bvxFnmt7oEIgS1uTlSX3q1cWZ2xHKuXi5/SWV72+J+SKUT71fCQ4yjd0JLwYesvw8Pzc8wTCjwuzxzBE3y9XaGhTrF;hOqNWm6KCS+sIz4jkb7gtA=="
 ---
 
