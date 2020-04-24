@@ -28,6 +28,6 @@ images:
     height: 600
     title: "AI Weekly: AI models illustrate the importance of continued social distancing"
 
-secured: "rJKbnk3uY4yYMyd+YWhYkuXfeYV1NWXxr5jldxTyMVXd7CiVTJnePnU3YS+FxwJmeI4uYNGbCeT06423OMV9jeToxGOcYoszc7MfXyDwrnVYrcgHSqqlTRWlrlQ+/ApFN4q6Qhyx+Q6wWKDPMV4CDmNMLwDkXzdwHbxB+j8Rp85MbDdjOFY4HzUI/9kmzvkZykt3tOUljQz5/jQZ8iD31ljRjhO6y4N8/JrfERcijeGZ15TD/hwoZPk7J3ikWoPMztgkrK11ZLf92+kVi1F6JO3fq7CuTmTu1xhQQ+RWUR9Lni69GINfhrJ8YyGkX6jD;ueCpQWP0p+fQ1auFwR4yYw=="
+secured: "0/5VEHyUAyqSVo32QmW0hL+n9vi/BS4WsXxOc2R9fmdrGSb5+Pkhon4ovpx5QTZJrJIMjykdgqnV2S14jfDSAoRo+6y2yh+Q9BHccpgsiSRfp1cyWShMPH8b/Ajv4LjBTctAOANi4v97Yg9jPQK6I9RXe/uM7/bxpuXIkaVe8Yq8ZuqH3x6BVBamkfaj00Yvj3uBN1V6McRg2IIaHIrfWkLG1rRSLsr7tYGL0D7BZVEi1Jy/pPW+a59+uBYeMtFJwUFBlRSxLhd4NUAdm1beLsyypF/Zl+VmzZPfeKpp7QY+qRXoehHTx+2902vyWi3JTGQ4HkkkcBFgyZBPrb/bUazzs3YrDzkz6aRxePhttrp09zmq3rhWi/qsCaqXLnJ/mqNRiRBK+83j4yl4aogP+UrDdgPlzWM5sVfQ33igeGfj973qAF3KFDcWgt6na+Du4n3PXG4D5xB3KU30m5zYFTReJCPIQflmsA0ZOacoL18=;2z2l1ixjgwPOmKlFQLK9qg=="
 ---
 

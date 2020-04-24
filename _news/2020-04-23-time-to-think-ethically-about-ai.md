@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Time to think ethically about AI"
-excerpt: "Which means that, when it comes to AI, system design will point at the nirvana of ‘ethics in design’ and ‘ethics by design’ – algorithms that are powerful, scalable and transparent. On the other hand, AI as a new form of agency relies on delegation and responsibility. Delegation is assigning tasks to the machine to lower costs and ..."
+excerpt: "Which means that, when it comes to AI, system design will point at the nirvana of ‘ethics in design’ and ‘ethics by design’ – algorithms that are powerful, scalable and transparent. On the other hand, AI as a new form of agency relies on ..."
 publishedDateTime: 2020-04-23T11:44:00Z
-webUrl: "https://www.research-live.com/article/opinion/time-to-think-ethically-about-ai/id/5066692"
+webUrl: "https://www.research-live.com/article/opinion/time_to_think_ethically_about_ai/id/5066692"
 ampWebUrl: "https://www.research-live.com/amp-page.html?id=5066692&name=time-to-think-ethically-about-ai"
 cdnAmpWebUrl: "https://www-research--live-com.cdn.ampproject.org/c/s/www.research-live.com/amp-page.html?id=5066692&name=time-to-think-ethically-about-ai"
 type: article
@@ -25,6 +25,6 @@ images:
     height: 581
     title: "Time to think ethically about AI"
 
-secured: "6gINSWjHT2YMkC3xuBZwOBuo454065bY/ROZB97K4VikCoKbGhqvykPLF23WBxgydwdZLqo/tK+dhNs20m5YF882KBuoVsBCRDr0S9NmviDaHsjUuyTRmM44TgwLfFkPpF1KdxDTt5EXD6IuZLDxLiMX6jkMaHUcQVH5kZstiwqg/OiaNiGSSpJY5G3vmQLh0hBdaWT5FEKXSXwzl11x+sUZBxPDAj8JgKhc8PwgksJxtx/10gcp1YLBaaSEkM4AS0BPodo7FOwQ18UVfTzuP8eCQlavFRTLC/bg6TAMPjLjA9ChG2lXgcjqu5vlNm2FCS3vKXmK80wgphJWuTr/vXqYnf8rXxNmM/qd13y9A8yj7029gic3blNUFD2TQSPQ3tLIY+h1wGCyO3twc/9D57rn9NogyfruLtrKt4DyPMeUF8H7sOhTJVhw6zxDSBHrO9BAnx5V7N1Ub8HJrpI0EUn7O4XukBgJzO/t2yZsqBc=;8jP0WCN02IxdrWuAlyAPqA=="
+secured: "XLNR0tmnBNZdS2O5pOMq+Aw/YUWvZ63AXoJEXGz0j6hungwxOViOe/RHluX5Rav1hZdJrtXdm9X3t7hWR+/5I9RdO4IPzh98uhMErISxWTnVvcO2zNU7OwCBvotW2Ac6lsbw7GbKt7NgFaeMpqdjO+vf77k85JyJz1JUtSA3NXGSNhH7AMQQJ/+wJUMOBqdbOcI2m+FNpZcnnD+rcTtSiaj+y03sMnolKnD0bw+I77Yy/cSjoZwgXrTXxxX5o6cywpixXWukyKNWU8bp4n/ovKiqyeKAoZ+tRlNU9h/pOX5vQPeD2bhIVQsFNEsQTm9g;wrsPHIuRvYA9Q4Z1iOUmOg=="
 ---
 

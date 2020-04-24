@@ -2,6 +2,88 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-02-07-center-for-robotics-and-biosystems-at-northwestern-works-on-human-robot-collaboration.md",
+      "title": "Center for Robotics and Biosystems at Northwestern works on human-robot collaboration",
+      "excerpt": "“The robot can learn how well the user can operate on his or her own and adjust ... not to mention the application itself. “Artificial intelligence is a hot topic,” Lynch acknowledged. “At the highest level, embodied intelligence has to have some physical connection to the world. It’s not just chatbots but AI that receives information ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.therobotreport.com/center-robotics-biosystems-northwestern-human-robot-collaboration/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-07T13:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2020/02/cooperative-mobile-manipulators-1024x683.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": "Center for Robotics and Biosystems at Northwestern works on human-robot collaboration",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-02-07-daily-news-of-artificial-intelligence.md",
+      "title": "DAILY NEWS OF ARTIFICIAL INTELLIGENCE",
+      "excerpt": "The robots have recently entered pole-dancers ... costs and fraudulent orders PWC Tech World reports that most e-commerce platforms are focused on sectors such as communication commerce, artificial intelligence (AI), virtual reality (VR) / augmented reality (AR) and analytics technologies New Delhi: Global auditing and consulting firm PWC ...",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/series/daily-news-of-artificial-intelligence-66b0dd171af1",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-07T11:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/2400/1*nUI0tQinevzbwiWcodKGCg.jpeg",
+          "width": 639,
+          "height": 429,
+          "title": "DAILY NEWS OF ARTIFICIAL INTELLIGENCE",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-02-07-weed-mapping-robot-moves-from-prototype-to-fleet-manufacture.md",
       "title": "Weed-mapping robot moves from prototype to fleet manufacture",
       "excerpt": "Small Robot Company (SRC), the UK-based agri-tech startup, has announced the next stage in the development of its crop-monitoring ... feed/weed and seed arable crops, directed by an Ubuntu-based AI system called Wilma. Tom creates high-resolution 'per-plant' crop maps, which will enable Dick and Harry to carry out precision husbandry with ...",
@@ -1160,97 +1242,6 @@
       ],
       "topics": [
         "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-01-29-a-warehouse-robot-learns-to-sort-out-the-tricky-stuff.md",
-      "title": "A Warehouse Robot Learns to Sort Out the Tricky Stuff",
-      "excerpt": "At a facility near Berlin, a new kind of robot is automating tasks that until recently had been out of the reach of machines. LUDWIGSFELDE, Germany — Inside a warehouse on the outskirts of Berlin, a long line of blue crates moved down a conveyor belt,",
-      "heat": 139,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nytimes.com/2020/01/29/technology/warehouse-robot.html",
-      "ampWebUrl": "https://www.nytimes.com/2020/01/29/technology/warehouse-robot.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/01/29/technology/warehouse-robot.amp.html",
-      "publishedDateTime": "2020-01-29T01:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/01/29/autossell/29robopicker-video1/29robopicker-video1-facebookJumbo-v3.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": "A Warehouse Robot Learns to Sort Out the Tricky Stuff",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-01-29-ai-powered-robot-pickers-will-be-the-next-big-work-revolution-in-warehouses.md",
-      "title": "AI-powered robot pickers will be the next big work revolution in warehouses",
-      "excerpt": "As it comes out of stealth today, Covariant has announced a raft of private backers, including some of the most high-profile names in AI research. They include Google’s head of AI, Jeff Dean; Facebook’s head of AI research, Yann LeCun, and one of the “godfathers of AI,” Geoffrey Hinton. As Abbeel says, the involvement of these ...",
-      "heat": 124,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.theverge.com/2020/1/29/21083313/robot-picking-warehouses-logistics-ai-covariant-stealth",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/1/29/21083313/robot-picking-warehouses-logistics-ai-covariant-stealth",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/1/29/21083313/robot-picking-warehouses-logistics-ai-covariant-stealth",
-      "publishedDateTime": "2020-01-29T01:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/sAH8ueW1jJ5J3BYmdZYCiU5QDzQ=/0x1166:2412x2998/1400x933/filters:focal(24x1737:708x2421):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66211274/A_Covariant_robot_at_a_KNAPP_powered_warehouse_Obeta_outside_Berlin_.0.jpg",
-          "width": 1400,
-          "height": 933,
-          "title": "AI-powered robot pickers will be the next big work revolution in warehouses",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI",
         "AI in Robotics"
       ]
     }

@@ -2,6 +2,43 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-03-14-ibm-watson-gains-the-ability-to-understand-complex-topics.md",
+      "title": "IBM Watson Gains The Ability To Understand Complex Topics",
+      "excerpt": "“Language is a tool for expressing thought and opinion, as much as it is a tool for information,” said Rob Thomas, General Manager of IBM Data and AI. “This is why we’re harvesting technology from Project Debater and integrating it into Watson ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://pulse2.com/ibm-watson-complex-topics/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-14T14:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Pulse 2.0",
+        "domain": "pulse2.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.pulse2.com/cdn/2020/03/IBM-Watson.jpg",
+          "width": 1200,
+          "height": 1031,
+          "title": "IBM Watson Gains The Ability To Understand Complex Topics",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-13-ai-in-healthcare-market-exploring-future-growth-2019-2030-and-key-players-nvidia-intel-general-electric.md",
       "title": "Ai in Healthcare Market Exploring Future Growth 2019-2030 and Key Players - NVIDIA, Intel, GENERAL ELECTRIC",
       "excerpt": "AI in healthcare is used to perform complex cognitive tasks and to analyze large amounts of patient data quickly & effectively. Artificial Intelligence makes use of number of different algorithms and decision-making capabilities,",
@@ -1235,52 +1272,6 @@
       "topics": [
         "AI",
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-23-grammys-go-high-tech-with-ibm-and-artificial-intelligence.md",
-      "title": "Grammys go high-tech with IBM and artificial intelligence",
-      "excerpt": "Along with Versace and Jean Paul Gaultier, artificial intelligence and Natural Language Processing will be important accessories on the 62nd Annual Grammys' red carpet. IBM will enhance the red carpet livestream with Grammy Insights with Watson this Sunday at the Staples Center in Los Angeles. The team at IBM took over 18 million documents and ...",
-      "heat": 121,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/grammys-go-high-tech-with-ibm-and-artificial-intelligence/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/grammys-go-high-tech-with-ibm-and-artificial-intelligence/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/grammys-go-high-tech-with-ibm-and-artificial-intelligence/",
-      "publishedDateTime": "2020-01-23T12:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr3.cbsistatic.com/hub/i/r/2020/01/23/cee06460-61dc-4c72-b883-c33e460bdf62/resize/1200x/fde53f4a02e376c99dc52ef6bfbcaa1e/ibm-2020-grammys-photo-app-brandi-carlile-02.jpg",
-          "width": 1200,
-          "height": 862,
-          "title": "Grammys go high-tech with IBM and artificial intelligence",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "IBM AI",
-        "Natural Language Processing"
       ]
     }
   ],

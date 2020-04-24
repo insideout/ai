@@ -7,9 +7,9 @@ webUrl: "https://www.express.co.uk/news/science/1273593/iss-news-ibm-cimon2-arti
 ampWebUrl: "https://www.express.co.uk/news/science/1273593/iss-news-ibm-cimon2-artificial-intelligence-ai-robot-coronavirus-social-care/amp"
 cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/news/science/1273593/iss-news-ibm-cimon2-artificial-intelligence-ai-robot-coronavirus-social-care/amp"
 type: article
-quality: 53
-heat: 53
-published: false
+quality: 70
+heat: 70
+published: true
 
 provider:
   name: Express
@@ -18,6 +18,7 @@ provider:
 topics:
   - IBM AI
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://cdn.images.express.co.uk/img/dynamic/151/590x/iss-news-ibm-cimon2-artificial-intelligence-ai-robot-coronavirus-social-care-1273593.jpg?r=1587753177377"
@@ -25,6 +26,6 @@ images:
     height: 350
     title: "ISS news: Space station's CIMON-2 AI robot to revolutionise coronavirus social care"
 
-secured: "oAIG2wzLT3npqQRZFacQ3mO9jwZrkXEwlHYgph97juTRvjFLbZZ5QkdjU6HefbO9p0Us66Ek5NCM0e6R6s/nFO0M9NTyLxb9zNfX25nKb9Tea9K8H9Cyanag1qVn741CfNYSiHUEJvoPGw1T45HJW48nXQEtdTp6fM9cJzys5cHaZ+1fRYPbgX4IbLi/znhRZWjAOMmw9n2rZes/864pHqhwtwry5trhzFm8+LSy4D+IfeK3Fk92CHzc1ff5mQNN+qszPy4m/TRmNmwIHuMW6N+TtZhcablRDxeilNieOm/34qMEybzbM+oNJ0DgsO7V;nkY+/zAp2dBrXVyP8+X+Hg=="
+secured: "tB91qi54jgcHC9d1NJ1w/ZnxHEH2eQ+/45MET9taLT4cShv2nRXeghNffD3IkvUNx9ENHHSkVx/xO7Dkm5MexMwijpyyB+KbqHGQQjBEvBXoCop7MFz+stcSXv9K8AlugEy1QqjNf6lxMRgCpqJT1TwjtDdZdMZenpAPGAiKY5AMNra/E/5evKmY0sEAupum6+t1D4dlpYVmTqhleX4l4kIj72+OOtM+fNEDXA216UdBF7z+6xCx/2KDVNp3I4DaCL2zWRycCS4vohxb2QOf3VmZXBoHQLmrXryrrUTFjlgCwVggkZ+7y8A937YpS+Ac3XSecWSBLihhWtxnRni2z8wVrC80pZPHuz5MzyybR9R4/brZeqKjHx3DYnBwc8IzNL25PBQDtNOzkJb1gcZ9rcMY0tphUqYlhIEoFvyOxFY+aQcU3pVziSQHoAuWqF3x3Xv9jyM0OmyXzzx1+5xaP3FQIL1gVBoQSINX1/ik7qY=;klUqxP0om2T+uClsO5Iwrg=="
 ---
 

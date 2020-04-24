@@ -6,7 +6,7 @@ publishedDateTime: 2020-04-20T20:11:00Z
 webUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/news/21134648/chicagomade-glasses-designed-to-block-facial-recognition"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,43 @@ images:
     title: "Chicago-made glasses designed to block facial recognition"
 
 related:
+  - title: "Vietnamese AI Group Touts Mask-ready Facial Recognition for Smartphones"
+    excerpt: "VinAI Research says it has developed facial recognition technology that can identify users wearing masks, and that it will bring the tech to mobile devices. The firm is a subsidiary of the Vietnamese conglomerate Vingroup, which also owns VinSmart, an electronics maker that also produces smartphones. VinAI Research says it is working with ..."
+    publishedDateTime: 2020-04-20T18:00:00Z
+    webUrl: "https://mobileidworld.com/vietnamese-ai-group-touts-mask-ready-facial-recognition-for-smartphones-104201/"
+    type: article
+    provider:
+      name: Mobile ID News
+      domain: mobileidworld.com
+    quality: 54
+    images:
+      - url: "https://mobileidworld.com/wp-content/uploads/ani-kolleshi-vu-DaZVeny0-unsplash-1-1024x612.jpg"
+        width: 1024
+        height: 612
+  - title: "State-of-the-art face recognition tech developed"
+    excerpt: "Smartphone users will soon be able to use facial recognition to unlock their devices – without removing their face masks."
+    publishedDateTime: 2020-04-21T03:45:00Z
+    webUrl: "https://www.thestar.com.my/news/regional/2020/04/21/state-of-the-art-face-recognition-tech-developed"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 39
+    images:
+      - url: "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png"
+        width: 1200
+        height: 630
+  - title: "Vingroup's Successful Research on Facial Recognition Technology That Can Identify People in Masks"
+    excerpt: "The world's recognition technologies: The system of facial recognition is an app that can identify people from their photos or videos like FaceID from Apple, DeepFace from Facebook, Rekognition from Amazon. These technologies currently do not solve the problem of identifying people in masks."
+    publishedDateTime: 2020-04-20T23:24:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/04/a15844327/vingroups-successful-research-on-facial-recognition-technology-that-can-identify-people-in-masks"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/15844327"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15844327"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 28
   - title: "A face-recognition tech that works even for masked faces"
     excerpt: "In these corona days, face-recognition technologies — used for a variety of security purposes — are severely challenged by the fact that everyone’s wearing protective masks. The Israeli company Corsight says it has solved that problem with autonomous artificial intelligence. It claims that its camera-based technology can identify people ..."
     publishedDateTime: 2020-04-21T05:37:00Z
@@ -46,15 +83,6 @@ related:
       name: Philippine Daily Inquirer
       domain: inquirer.net
     quality: 19
-  - title: "Bendigo soldier named among Thuillier collection in world-first NEC facial recognition trial"
-    excerpt: "The glass plates were found in a wooden chest in the family's farmhouse nearly a century later. But none of the subjects could be identified until now. Facial recognition technology has provided the key to finding these soldiers' identities. Electronics company NEC compared the photos to existing Australian War Memorial databases to find matches."
-    publishedDateTime: 2020-04-21T01:30:00Z
-    webUrl: "https://www.bendigoadvertiser.com.au/story/6729937/bendigo-soldier-named-by-world-first-tech-trial/"
-    type: article
-    provider:
-      name: Bendigo Advertiser
-      domain: bendigoadvertiser.com.au
-    quality: 8
 
 secured: "JkiOHuMVSDCBUWQH0xqEVK1d5cLHaW6EYeSW/59kkiWHbeYuQfab6aOuvPxIsWqpomICt//K+1Qlr/9KpFLxlpPRprCM4s/3iMqmwaVre4k95WWftvKJRPWUc+kf+pGZwQ5H28rt1wLcx5mWDFxjx84RLaJAnVja1MzT7NIIyjQpEvp62SwVCMwBQrAA/+FSDqaHMXQZnf3INB7Fs78qfva3kWeU0FAKkej9ZeMuVp4J8GXNGXOsVdBtfedRGbF3fjUW2fUJ4Oop70ZU4+e64i4aXZZ3DlZX/rdqeMjsosu8icybyq6KpdC3JFuifM/WYjJWFgMWqiT0xHBNUf1QF5nnUhg2LMFYJDDVF1shcdaVM07Ox4Xh7eO0PePD0owsohDzGHcnlkQXkmJEN/dDhuPbNhNtvDr7tQPQw4MJLhDP4mVxH3bXPTUQpfTlmOEQ6y+i+TGKSV4G96TpkzmA4Zi+IHmLmB/6t/xUaKH2Z/w=;GMvuBTOjZMDJp9FdcF+pow=="
 ---

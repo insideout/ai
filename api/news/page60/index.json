@@ -2,6 +2,183 @@
   "page": 60,
   "value": [
     {
+      "path": "_news/2020-03-09-as-companies-race-to-develop-self-driving-cars-americans-remain-ambivalent.md",
+      "title": "As companies race to develop self-driving cars, Americans remain ambivalent",
+      "excerpt": "As companies continue working to get self-driving cars into production, acceptance of the technology remains “stuck in neutral,” according to AAA. In a study conducted by the organization ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.digitaltrends.com/cars/aaa-study-shows-acceptance-of-self-driving-cars-stuck-in-neutral/",
+      "ampWebUrl": "https://www.digitaltrends.com/cars/aaa-study-shows-acceptance-of-self-driving-cars-stuck-in-neutral/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/aaa-study-shows-acceptance-of-self-driving-cars-stuck-in-neutral/?amp",
+      "publishedDateTime": "2020-03-09T03:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-09-artificial-intelligence-in-healthcare-market-2020-global-key-players-trends-share-industry-size-segmentation-opportunities-forecast-to-2026.md",
+      "title": "Artificial Intelligence in Healthcare Market 2020: Global Key Players, Trends, Share, Industry Size, Segmentation, Opportunities, Forecast To 2026",
+      "excerpt": "“Artificial Intelligence in Healthcare Market” Summary: A new market study, titled \"Global Artificial Intelligence in Healthcare Market Upcoming Trends,",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/03/ab15504764/artificial-intelligence-in-healthcare-market-2020-global-key-players-trends-share-industry-size-s",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/15504764",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15504764",
+      "publishedDateTime": "2020-03-09T00:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-09-global-artificial-intelligence-ai-chips-market-2020-industry-segmentation-cagr-status-leading-trends-forecast-to-2025.md",
+      "title": "Global Artificial Intelligence (AI) Chips Market 2020 Industry Segmentation, CAGR Status, Leading Trends, Forecast to 2025",
+      "excerpt": "A recent market study entitled Global Artificial Intelligence (AI) Chips Market 2020 by Manufacturers, Regions, Type and Application, Forecast to 2025 provides an in-depth analysis of the global market,",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-chips-market-2020-industry-segmentation-cagr-status-leading-trends-forecast-to-2025-2020-03-09",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-08T23:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Global Artificial Intelligence (AI) Chips Market 2020 Industry Segmentation, CAGR Status, Leading Trends, Forecast to 2025",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-09-autonomous-and-self-driving-vehicle-news-baidu-spoofed-waymo-cmore.md",
+      "title": "Autonomous and Self-Driving Vehicle News; Baidu Spoofed, Waymo & CMORE",
+      "excerpt": "That’s all you need to get the sensor mixed up, report the researchers that broke into Baidu Apollo. “We showed how an attacker can suddenly halt ... which fills a crucial safety role in self-driving vehicles. In the U.S. each year, there are more than 1.5 million deer-related accidents, which cause around 200 human deaths and 10,000 ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.autoconnectedcar.com/2020/03/autonomous-and-self-driving-vehicle-news-baidu-spoofed-waymo-cmore/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-08T19:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "autoconnectedcar.com",
+        "domain": "autoconnectedcar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-09-getting-there-americans-remain-leery-of-self-driving-cars.md",
+      "title": "GETTING THERE: Americans remain leery of self-driving cars",
+      "excerpt": "WHILE the push continues for a future where self-driving cars are the norm, at present we humans seem averse to sharing the road with artificial intelligence. And that’s saying a lot, given the proliferation of bad and dangerous drivers on the roads.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fredericksburg.com/news/transportation/getting-there-americans-remain-leery-of-self-driving-cars/article_ab0b9d66-c427-562a-bf29-f62c96faf7ce.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-08T19:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fredericksburg.com",
+        "domain": "fredericksburg.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/fredericksburg.com/content/tncms/assets/v3/editorial/7/f1/7f1025a4-1959-555a-9f88-89a50aa49030/5e627e4b1e8b5.image.jpg?crop=1657%2C932%2C0%2C159&resize=1120%2C630&order=crop%2Cresize",
+          "width": 1120,
+          "height": 630,
+          "title": "GETTING THERE: Americans remain leery of self-driving cars",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-09-google-launches-tensorflow-quantum.md",
       "title": "Google Launches TensorFlow Quantum",
       "excerpt": "The worlds of quantum computing and machine learning are coming together with TensorFlow Quantum (TFQ), a new library unveiled today by Google. Google has been one of the leaders in the emerging field of quantum computing, where computers are able to ...",
@@ -795,191 +972,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-06-the-epam-cloud-pipeline-released-in-the-microsoft-azure-marketplace.md",
-      "title": "The EPAM Cloud Pipeline Released in the Microsoft Azure Marketplace",
-      "excerpt": "NEWTOWN, Pa., March 5, 2020 /PRNewswire/ -- EPAM Systems, Inc. (NYSE: EPAM), a leading global provider of digital platform engineering and software development solutions, today announced that the EPAM",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/the-epam-cloud-pipeline-released-in-the-microsoft-azure-marketplace/article_05440427-ea7e-53ab-8258-88b878ba0d09.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-05T16:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/5/9b/59bc3e30-ef53-5706-8b02-8582cf49a64d/5e61c7743dfee.image.jpg?resize=400%2C277",
-          "width": 400,
-          "height": 277,
-          "title": "The EPAM Cloud Pipeline Released in the Microsoft Azure Marketplace",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-06-computer-model-mimics-neural-processes-in-object-recognition.md",
-      "title": "Computer model mimics neural processes in object recognition",
-      "excerpt": "\"We chose street-scene recognition as an example because it has a restricted set of object categories, and it has practical social applications,\" said Serre. The IEEE paper describes how the team \"showed\" the model randomly selected images so that it could ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.vision-systems.com/factory/consumer-packaged-goods/article/16749835/computer-model-mimics-neural-processes-in-object-recognition",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-05T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Vision Systems Design",
-        "domain": "vision-systems.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-05-amd-unveils-cdna-gpu-architecture-a-dedicated-gpu-architecture-for-data-centers.md",
-      "title": "AMD Unveils CDNA GPU Architecture: A Dedicated GPU Architecture for Data Centers",
-      "excerpt": "Driven in large part by rapid progress in neural networking, deep learning, and all things AI, GPUs have become a critical part of some data center workloads ... The answer, as AMD is revealing today, is their new dedicated GPU architecture for data center compute: CDNA. The Compute counterpart to the gaming-focused RDNA, CDNA is AMD’s ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.anandtech.com/show/15593/amd-unveils-cdna-gpu-architecture-a-dedicated-gpu-architecture-for-data-centers",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-05T13:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AnandTech",
-        "domain": "anandtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.anandtech.com/doci/15593/CDNA_Master_678x452.jpg",
-          "width": 678,
-          "height": 381,
-          "title": "AMD Unveils CDNA GPU Architecture: A Dedicated GPU Architecture for Data Centers",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-05-microsoft-azure-cisco-team-up-to-simplify-iot-deployments.md",
-      "title": "Microsoft Azure, Cisco team up to simplify IoT deployments",
-      "excerpt": "Once that data is in the hub, teams can use services like Azure Stream Analytics or Azure Machine Learning to build IoT applications. Microsoft said in its blog post that this should \"kickstart ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/microsoft-azure-cisco-team-up-to-simplify-iot-deployments/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-azure-cisco-team-up-to-simplify-iot-deployments/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-azure-cisco-team-up-to-simplify-iot-deployments/",
-      "publishedDateTime": "2020-03-05T11:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/02/14/b263e8aa-1b65-4c1b-885e-3ad5770ebf6c/thumbnail/1200x675/495b3b7e0a7e4d872cf6b4d8845edc71/netflixistock-992007460.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Microsoft Azure, Cisco team up to simplify IoT deployments",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-05-neural-hardware-for-image-recognition-in-nanoseconds.md",
-      "title": "Neural hardware for image recognition in nanoseconds",
-      "excerpt": "This makes object recognition many orders of magnitude faster.\" The chip was developed and manufactured at the TU Vienna. It is based on photodetectors made of tungsten diselenide - an ultra-thin ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.eurekalert.org/pub_releases/2020-03/vuot-nhf030520.php",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-05T08:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.eurekalert.org/multimedia/pub/web/226224_web.jpg",
-          "width": 1440,
-          "height": 1177,
-          "title": "Neural hardware for image recognition in nanoseconds",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

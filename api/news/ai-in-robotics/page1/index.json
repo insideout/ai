@@ -39,6 +39,44 @@
       ]
     },
     {
+      "path": "_news/2020-04-24-iss-news-space-stations-cimon-2-ai-robot-to-revolutionise-coronavirus-social-care.md",
+      "title": "ISS news: Space station's CIMON-2 AI robot to revolutionise coronavirus social care",
+      "excerpt": "SPACE experts have revealed IBM's revolutionary Crew Interactive MObile CompanioN (CIMON-2) continues to exceed expectations aboard the International Space Station (ISS). One of the AI robot's developers has now revealed how the project can aid social care in the post-coronavirus world.",
+      "heat": 70,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.express.co.uk/news/science/1273593/iss-news-ibm-cimon2-artificial-intelligence-ai-robot-coronavirus-social-care",
+      "ampWebUrl": "https://www.express.co.uk/news/science/1273593/iss-news-ibm-cimon2-artificial-intelligence-ai-robot-coronavirus-social-care/amp",
+      "cdnAmpWebUrl": "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/news/science/1273593/iss-news-ibm-cimon2-artificial-intelligence-ai-robot-coronavirus-social-care/amp",
+      "publishedDateTime": "2020-04-24T11:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Express",
+        "domain": "express.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.images.express.co.uk/img/dynamic/151/590x/iss-news-ibm-cimon2-artificial-intelligence-ai-robot-coronavirus-social-care-1273593.jpg?r=1587753177377",
+          "width": 590,
+          "height": 350,
+          "title": "ISS news: Space station's CIMON-2 AI robot to revolutionise coronavirus social care",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-04-24-xiaomi-launches-the-mijia-sweeping-robot-g1-an-affordable-cleaning-device.md",
       "title": "Xiaomi launches the MIJIA Sweeping Robot G1, an affordable cleaning device",
       "excerpt": "Notably, the robot also supports the Xiao AI voice assistant. It can also be linked with a smart door lock. Thus, the Xiaomi MIJIA Sweeping Robot G1 can immediately start sweeping as people start walking in. The device automatically goes to recharge once it is done with its designated task. The gadget starts from 899Yuan (roughly 127 US Dollars ...",
@@ -492,6 +530,43 @@
           "width": 770,
           "height": 578,
           "title": "COVID-19: How artificial intelligence can help companies plan for the future",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-17-robotaxi-service-ponyai-begins-offering-autonomous-deliveries.md",
+      "title": "Robotaxi Service Pony.Ai Begins Offering Autonomous Deliveries",
+      "excerpt": "As delivery services are being stretched thin, delivery robot and robotaxi companies are looking to pick up the slack. First NAVYA repurposed its self-driving shuttles to deliver COVID-19 tests to the Mayo Clinic in Florida, and now Pony.ai is transforming 10 of its Hyundai Kona Electrics as delivery vehicles. Chinese robotaxi startup Pony.ai ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.caranddriver.com/news/a32188633/robotaxi-service-ponyai-autonomous-deliveries/",
+      "ampWebUrl": "https://www.caranddriver.com/news/amp32188633/robotaxi-service-ponyai-autonomous-deliveries/",
+      "cdnAmpWebUrl": "https://www-caranddriver-com.cdn.ampproject.org/c/s/www.caranddriver.com/news/amp32188633/robotaxi-service-ponyai-autonomous-deliveries/",
+      "publishedDateTime": "2020-04-16T23:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Car and Driver",
+        "domain": "caranddriver.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/pony-ai-yamibuy-delivery-service-jpg-1587143386.jpg?crop=1.00xw:0.754xh;0,0.236xh&resize=1200:*",
+          "width": 600,
+          "height": 302,
+          "title": "Robotaxi Service Pony.Ai Begins Offering Autonomous Deliveries",
           "attribution": null
         }
       ],
@@ -1152,88 +1227,6 @@
           "width": 800,
           "height": 450,
           "title": "World's First Fully Bionic, Mind-Controlled Leg Goes for a Walk",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-10-ask-sophia-the-robot-is-ai-an-existential-threat-to-humans.md",
-      "title": "Ask Sophia the Robot: Is AI an existential threat to humans?",
-      "excerpt": "Sophia is Hanson Robotics’ latest human-like robot, created to be a research platform for Hanson Robotics' ongoing AI and robotics research work. Working with labs, universities and companies around the world, she is an architecture and a platform for developing AI applications. Sophia has received the title of Innovation Champion for the ...",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://bigthink.com/videos/sophia-the-robot-ai-threat",
-      "ampWebUrl": "https://bigthink.com/videos/sophia-the-robot-ai-threat.amp.html",
-      "cdnAmpWebUrl": "https://bigthink-com.cdn.ampproject.org/c/s/bigthink.com/videos/sophia-the-robot-ai-threat.amp.html",
-      "publishedDateTime": "2020-04-10T02:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Big Think",
-        "domain": "bigthink.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://assets.rebelmouse.io/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8yMjkxNjUwMy9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTYwMjE1NzA2M30.GOgoYXP2fQJ_og_DA0MKMmKBLdOKkl43q3I0LKsMQuM/img.jpg?width=1200&height=675",
-          "width": 1200,
-          "height": 675,
-          "title": "Ask Sophia the Robot: Is AI an existential threat to humans?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-09-fmi-updates-medical-bionic-implants-and-exoskeletons-market-forecast-and-analysis-as-corona-virus-outbreak-disturbs-investment-plans.md",
-      "title": "FMI Updates Medical Bionic Implants And Exoskeletons Market Forecast and Analysis as Corona Virus Outbreak Disturbs Investment Plans",
-      "excerpt": "Advancement in new robotics technology (mind-controlled bionic limbs & exoskeletons) coupled with 3D printing is also positively impacting the growth of the market. Download the sample copy of ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/fmi-updates-medical-bionic-implants-and-exoskeletons-market-forecast-and-analysis-as-corona-virus-outbreak-disturbs-investment-plans-2020-04-09",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-09T03:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "FMI Updates Medical Bionic Implants And Exoskeletons Market Forecast and Analysis as Corona Virus Outbreak Disturbs Investment Plans",
           "attribution": null
         }
       ],

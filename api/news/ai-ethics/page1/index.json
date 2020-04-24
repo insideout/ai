@@ -2,13 +2,103 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-04-24-silicon-valley-needs-a-new-approach-to-studying-ethics-now-more-than-ever.md",
+      "title": "Silicon Valley needs a new approach to studying ethics now more than ever",
+      "excerpt": "Despite several company-led ethics initiatives, including worthwhile ones to appoint chief ethics officers and Microsoft and IBM’s principles for ethical AI, the students in our class told us they had no space for open and honest conversations about tech’s behavior. If we want a more ethically knowledgeable tech industry today, we need ...",
+      "heat": 88,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/04/24/silicon-valley-needs-a-new-approach-to-studying-ethics-now-more-than-ever/",
+      "ampWebUrl": "https://techcrunch.com/2020/04/24/silicon-valley-needs-a-new-approach-to-studying-ethics-now-more-than-ever/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/24/silicon-valley-needs-a-new-approach-to-studying-ethics-now-more-than-ever/amp/",
+      "publishedDateTime": "2020-04-24T14:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/04/SVethics.jpg?w=1000",
+          "width": 1000,
+          "height": 667,
+          "title": "Silicon Valley needs a new approach to studying ethics now more than ever",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-24-the-surge-of-sensationalist-covid-19-ai-research.md",
+      "title": "The surge of sensationalist COVID-19 AI research",
+      "excerpt": "There seems to be a tendency to hastily use imperfect and questionable data to train an AI solution for COVID-19, a dangerous trend that not only does not help any patient or physician but also damages the reputation of the AI community. Dealing with a pandemic — as significant as it is — does not suspend basic scientific principles.",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/24/the-surge-of-sensationalist-covid-19-ai-research/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/24/the-surge-of-sensationalist-covid-19-ai-research/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/24/the-surge-of-sensationalist-covid-19-ai-research/amp/",
+      "publishedDateTime": "2020-04-24T14:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/coronavirus_ai.jpg?fit=2122%2C1413&strip=all",
+          "width": 2122,
+          "height": 1413,
+          "title": "The surge of sensationalist COVID-19 AI research",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2020-04-23-time-to-think-ethically-about-ai.md",
       "title": "Time to think ethically about AI",
-      "excerpt": "Which means that, when it comes to AI, system design will point at the nirvana of ‘ethics in design’ and ‘ethics by design’ – algorithms that are powerful, scalable and transparent. On the other hand, AI as a new form of agency relies on delegation and responsibility. Delegation is assigning tasks to the machine to lower costs and ...",
+      "excerpt": "Which means that, when it comes to AI, system design will point at the nirvana of ‘ethics in design’ and ‘ethics by design’ – algorithms that are powerful, scalable and transparent. On the other hand, AI as a new form of agency relies on ...",
       "heat": 74,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.research-live.com/article/opinion/time-to-think-ethically-about-ai/id/5066692",
+      "webUrl": "https://www.research-live.com/article/opinion/time_to_think_ethically_about_ai/id/5066692",
       "ampWebUrl": "https://www.research-live.com/amp-page.html?id=5066692&name=time-to-think-ethically-about-ai",
       "cdnAmpWebUrl": "https://www-research--live-com.cdn.ampproject.org/c/s/www.research-live.com/amp-page.html?id=5066692&name=time-to-think-ethically-about-ai",
       "publishedDateTime": "2020-04-23T04:44:00-07:00",
@@ -1199,89 +1289,6 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-03-26-uc-berkeley-covid-19-first-target-of-new-ai-research-consortium.md",
-      "title": "UC Berkeley: COVID-19 First Target Of New AI Research Consortium",
-      "excerpt": "A core value in its activities is a commitment to open-source dissemination of the results for the public good.\"",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://patch.com/california/berkeley/uc-berkeley-covid-19-first-target-new-ai-research-consortium",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-26T15:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Patch",
-        "domain": "patch.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.patchcdn.com/assets/layout/logo-patch-800x600.png",
-          "width": 800,
-          "height": 600,
-          "title": "UC Berkeley: COVID-19 First Target Of New AI Research Consortium",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-26-c3ai-microsoft-help-launch-the-c3ai-digital-transformation-institute.md",
-      "title": "C3.ai, Microsoft help launch the C3.ai Digital Transformation Institute",
-      "excerpt": "Additionally, C3.ai and Microsoft will contribute an $310 million in-kind, including use of the C3 AI Suite and Microsoft Azure computing, storage, and technical resources to support the consortium. C3.ai DTI will be jointly managed and hosted by the University of California at Berkeley and the University of Illinois at Urbana-Champaign.",
-      "heat": 136,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/c3-ai-microsoft-help-launch-the-c3-ai-digital-transformation-institute/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/c3-ai-microsoft-help-launch-the-c3-ai-digital-transformation-institute/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/c3-ai-microsoft-help-launch-the-c3-ai-digital-transformation-institute/",
-      "publishedDateTime": "2020-03-26T13:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/03/26/7a4cdb90-55e4-47df-bcef-2270e436b848/thumbnail/1200x675/a8d26ed3f62e8f9e33bc56df07bd93c5/online-learning-gets-its-moment-due-to-c-5e7a254b72c9c14f48d15807-1-mar-26-2020-18-29-53-poster.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "C3.ai, Microsoft help launch the C3.ai Digital Transformation Institute",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI",
         "AI Ethics"
       ]
