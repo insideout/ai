@@ -17,17 +17,6 @@ topics:
   - AI
   - AI in Healthcare
 
-related:
-  - title: "Artificial Intelligence in Retail Market"
-    excerpt: "A recent report published by QMI on artificial intelligence in retail market is a detailed assessment of the most important market dynamics. After carrying out thorough research of artificial intelligence in retail market historical as well as current growth parameters, business expectations for growth are obtained with utmost precision."
-    publishedDateTime: 2020-04-19T10:05:00Z
-    webUrl: "https://www.openpr.com/news/2015965/artificial-intelligence-in-retail-market-2020-rising-growth"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 32
-
 secured: "3iwV2YoAvCa5/pdsI75TEbWVfsNCo9wEadTJD+dHgqwfRZkR8bW/MqTGikcGGTU8KmiE0Vm7mQ8RMbAC2S/YXBx1zxm5izw71t24b+5HzafP0LWwqwFPKcdLQr2/ar0gmXhVBlpSR22vQ0ffCo3pbUvNBSd0fFUtEGSieQjK8vsPyNTToz3rpEdIpyN9vNSyweR8ljJUAHW6mcGuHKBIRsE8PIuUVquBGfw1KtjZ8XRvefJ+Hn6Tbh2uB2//Q2qlw0yj5N7nVTMcEhXameTTBbCUQHcYH8pLW9Mkf0BsMXVYFrxIns/WggoJUIWJoNmi;fkEuiFKHW/0wcmB3vmRCXA=="
 ---
 

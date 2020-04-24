@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/04/23/misconcept
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/04/23/misconception-3-of-5-managing-models-is-like-managing-traditional-software/amp/"
 type: article
 quality: 71
-heat: 71
+heat: 81
 published: true
 
 provider:
@@ -28,6 +28,17 @@ images:
     width: 640
     height: 640
     title: "Misconception 3 (of 5): Managing Models Is Like Managing Traditional Software"
+
+related:
+  - title: "STA-CNN: Convolutional Spatial-Temporal Attention Learning for Action Recognition"
+    excerpt: "Abstract: Convolutional Neural Networks have achieved excellent successes for object recognition in still images. However, the improvement of Convolutional Neural Networks over the traditional methods for recognizing actions in videos is not so significant, because the raw videos usually have much more redundant or irrelevant information than ..."
+    publishedDateTime: 2020-04-23T23:55:00Z
+    webUrl: "https://ieeexplore.ieee.org/document/9058999"
+    type: article
+    provider:
+      name: IEEE
+      domain: ieee.org
+    quality: 0
 
 secured: "iH38y20QbTo/7jfoZf6ZznirREjpwyLnvvrL3Zgj7kZ441eYP0Hhnxp9mLTe+/JdFTW9ZV9hg93ALZ914ilNGsGjJv9B/syxfxtQ4C7WeiOMGrTYyEdSS06Kbv97mySczuyvZ8lam/1qSZCpK9PaLzgLheAUzc9rUjTnuQupz2SMrjfZeU5s+Z/0VF8BDcJAMhh0FWhcOpzw0fZ3IcfA/G/RzA4wanx3ztXtHvbCZeLv7RiOkitP+siVdJmukHPY1KqRXTE3/1ZizJ9uP5L4nRQA9fZf3OctwnR1FFJJ+AXIgabCyLhZai/hPhP0FL8BO53N2O3e7+41jqOD71kRQTcceGpAM8N+p61Of+dnLeeEYShlEKByN/kJKNX9hRSMTNwo8cGgt5OA3T3Qs5JCve50tcojvhtUY375gc5WibQBx2nMfTt5VcHFaSXiDsEMr52le8fRkFSG5Ho3O/Ge0Ie2VJYMS9nG1XBoEGW2faA=;LatWjXwcnhsOhvCDCprCiA=="
 ---

@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/04/21/facebooks-ai-detects-fake-account
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/21/facebooks-ai-detects-fake-accounts-with-fewer-than-20-friend-requests/amp/"
 type: article
 quality: 87
-heat: 88
+heat: 87
 published: true
 
 provider:

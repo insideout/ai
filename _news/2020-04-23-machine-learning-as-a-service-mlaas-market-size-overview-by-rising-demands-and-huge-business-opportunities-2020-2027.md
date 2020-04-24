@@ -6,7 +6,7 @@ publishedDateTime: 2020-04-23T08:20:00Z
 webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-size-overview-by-rising-demands-and-huge-business-opportunities-2020-2027-2020-04-23"
 type: article
 quality: 60
-heat: 80
+heat: 90
 published: true
 
 provider:
@@ -28,6 +28,19 @@ images:
     title: "Machine Learning as a Service (MLaaS) Market Size Overview by Rising Demands and Huge Business Opportunities 2020-2027"
 
 related:
+  - title: "Artificial Intelligence In Military Market Global Scenario, Market Size, Outlook, Trend and Forecast 2020-2027"
+    excerpt: "Artificial intelligence is not a weapon. Instead, artificial intelligence, from a military perspective, is an enabler, much like electricity and the combustion engine. The potential promise of AI--including its ability to improve the speed and accuracy of everything from logistics to battlefield planning and to help improve human decision-making--is driving militaries around the world to accelerate their research into and development of AI applications."
+    publishedDateTime: 2020-04-24T05:05:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-military-market-global-scenario-market-size-outlook-trend-and-forecast-2020-2027-2020-04-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
   - title: "Natural Language Processing (NLP) Market Analysis – Global Industry Size, Share, Trends and Forecast 2020 – 2026"
     excerpt: "According to the report published by Acumen Research and Consulting, the global Natural Language Processing (NLP) market was expected to reach at US$ Mn in 2018 and is anticipated to exceed US$ Mn by 2026."
     publishedDateTime: 2020-04-23T10:37:00Z

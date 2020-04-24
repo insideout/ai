@@ -41,6 +41,19 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Artificial Intelligence In Military Market Global Scenario, Market Size, Outlook, Trend and Forecast 2020-2027"
+    excerpt: "Artificial intelligence is not a weapon. Instead, artificial intelligence, from a military perspective, is an enabler, much like electricity and the combustion engine. The potential promise of AI--including its ability to improve the speed and accuracy of everything from logistics to battlefield planning and to help improve human decision-making--is driving militaries around the world to accelerate their research into and development of AI applications."
+    publishedDateTime: 2020-04-24T05:05:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-military-market-global-scenario-market-size-outlook-trend-and-forecast-2020-2027-2020-04-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
   - title: "Speech Recognition Market 2020: Software Innovations, Global Trends, Size, Share, Business Analysis, Key Updates and Key Industry Segments till 2023"
     excerpt: "According to a new report by Market Research Future (MRFR), global speech recognition market is expected to reach USD"
     publishedDateTime: 2020-04-23T09:51:00Z

@@ -2,6 +2,51 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2020-03-28-ai-can-help-scientists-find-a-covid-19-vaccine.md",
+      "title": "AI Can Help Scientists Find a Covid-19 Vaccine",
+      "excerpt": "Over the last few weeks, teams at the Allen Institute for AI, Google DeepMind, and elsewhere have created AI tools, shared datasets and research results, and shared them freely with the global scientific community. Oren Etzioni is the CEO of the nonprofit Allen Institute for AI, and a professor of computer science at the University of Washington.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wired.com/story/opinion-ai-can-help-find-scientists-find-a-covid-19-vaccine/",
+      "ampWebUrl": "https://www.wired.com/story/opinion-ai-can-help-find-scientists-find-a-covid-19-vaccine/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/opinion-ai-can-help-find-scientists-find-a-covid-19-vaccine/amp",
+      "publishedDateTime": "2020-03-28T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.vanityfair.com/photos/576c493744d93e6e4482bb21/master/pass/placeholder_the_scene.jpg",
+          "width": 800,
+          "height": 450,
+          "title": "AI Can Help Scientists Find a Covid-19 Vaccine",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-28-ipad-trackpad-support-is-just-the-start-of-ios-134s-great-features.md",
       "title": "iPad trackpad support is just the start of iOS 13.4's great features",
       "excerpt": "Apple released the latest iPhone and iPad software update with iOS 13.4 and iPadOS 13.4. It adds new features that let you use the trackpad to control the iPad, share iCloud files and make new Memoji,",
@@ -1032,43 +1077,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-27-cobourg-company-working-on-robotics-for-front-line-coronavirus-response.md",
-      "title": "Cobourg company working on robotics for front-line coronavirus response",
-      "excerpt": "The company’s robotics solutions for front-line medical professional would include a self-driving indoor delivery robot and artificial intelligence sterilization robots for indoor and ... “If there is an order coming in, we can kick-start the process, set up a temporary assembly and testing facility in Cobourg and have the device deployed ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.flamboroughreview.com/news-story/9915875-cobourg-company-working-on-robotics-for-front-line-coronavirus-response/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-27T07:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "flamboroughreview.com",
-        "domain": "flamboroughreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://dynamicmedia.zuza.com/zz/m/original_/2/e/2e61fc69-2202-4b4f-83df-25d12551250f/CB_Z_RoboticsCOVID___Super_Portrait.jpg",
-          "width": 563,
-          "height": 417,
-          "title": "Cobourg company working on robotics for front-line coronavirus response",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

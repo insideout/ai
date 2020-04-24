@@ -2,6 +2,50 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2020-04-03-scientists-are-using-ai-to-predict-which-coronavirus-patients-need-ventilators.md",
+      "title": "Scientists are using AI to predict which coronavirus patients need ventilators",
+      "excerpt": "Computer scientists from the University of Copenhagen are using AI to calculate which coronavirus patients need ventilators and intensive care. The system will help doctors identify the symptoms that seriously ill patients have in common. Hospitals could use the insights provided by the AI to work how many patients will need a ventilator at ...",
+      "heat": 93,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/04/03/scientists-are-using-ai-to-predict-which-coronavirus-patients-need-ventilators/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/04/03/scientists-are-using-ai-to-predict-which-coronavirus-patients-need-ventilators/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/04/03/scientists-are-using-ai-to-predict-which-coronavirus-patients-need-ventilators/amp/",
+      "publishedDateTime": "2020-04-03T07:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/04/Untitled-design50-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "Scientists are using AI to predict which coronavirus patients need ventilators",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-03-royal-dutch-shell-reskills-workers-in-artificial-intelligence-as-part-of-huge-energy-transition.md",
       "title": "Royal Dutch Shell reskills workers in artificial intelligence as part of huge energy transition",
       "excerpt": "Royal Dutch Shell is collaborating with Udacity to digitally train its workers in artificial intelligence. This began long before the coronavirus pandemic and the company continues to use this training method. The digital workforce skilling platform may become the training method of choice for a growing number of companies who need to keep ...",
@@ -1179,35 +1223,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-02-bosch-video-management-system-joins-ranks-of-platesmart-alpr-integrations.md",
-      "title": "Bosch Video Management System Joins Ranks of PlateSmart ALPR Integrations",
-      "excerpt": "The software offers true object recognition instead of simple optical character recognition (OCR), which allows it to read the plate as well as the state jurisdiction and vehicle make. PlateSmart has earned multiple industry awards for excellence in ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.newswiretoday.com/news/172658/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-02T11:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newswire Today",
-        "domain": "newswiretoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

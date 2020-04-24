@@ -8,7 +8,7 @@ ampWebUrl: "https://www.itpro.co.uk/security/cyber-security/355374/clearview-ai-
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/security/cyber-security/355374/clearview-ai-source-code-revealed-exposing-majority-security-lapse?amp"
 type: article
 quality: 87
-heat: 88
+heat: 87
 published: true
 
 provider:

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/google-clouds-anthos-for-aw
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-clouds-anthos-for-aws-generally-available-microsoft-azure-in-preview/"
 type: article
 quality: 116
-heat: 116
+heat: 126
 published: true
 
 provider:
@@ -28,6 +28,23 @@ images:
     width: 1200
     height: 675
     title: "Google Cloud's Anthos for AWS generally available, Microsoft Azure in preview"
+
+related:
+  - title: "Google Cloud’s fully managed Anthos is now generally available for AWS"
+    excerpt: "But support for Azure will come later this year and the company already has a number of preview customers for it. In addition, Anthos will also come to bare metal servers in the future. Looking even further ahead, Manor also noted that better support for machine learning workloads is on the way. Many businesses, after all, want to be able to ..."
+    publishedDateTime: 2020-04-22T19:26:00Z
+    webUrl: "https://techcrunch.com/2020/04/22/google-clouds-fully-managed-anthos-is-now-generally-available-for-aws/"
+    ampWebUrl: "https://techcrunch.com/2020/04/22/google-clouds-fully-managed-anthos-is-now-generally-available-for-aws/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/22/google-clouds-fully-managed-anthos-is-now-generally-available-for-aws/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 89
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2020/04/GOOGLENEXT_2019_0409_091100-0355_ALIVECOVE.max-2200x2200-1.png?w=1024"
+        width: 1024
+        height: 682
 
 secured: "OhLPijCymjvTir/gGPngRIMAaH0vc/1LGhDyAnj2wuTCV4eOKa5nLUq3CxX7w5UUdzskzqBNywVrWdSbszvdRCC8+ooX1ofDhhs65A9ru6sEuKunlYjvq/qCIevHJAI3cEJEWHs6yoCf+x5ugoM3aGjXyluIhv2VaS/kv9z4AFxQAbCmoOH0Wceyq/3Jh1/kHwZT6SiQiBymd5bsq7IGU1VCGO8dg6vDSTFXJSwP52PjFLvIM8x1aMJR+mBYxYYAcHdSkNauzk2DUxp3NY3eUdkZqnvmpfA6rVN7M/8WTAM/3mZdLvwNoUDqREXYcDEN/fNfz8Xubs5nMPysb/JXd+Ort4PnmDatwRAKb6NUNss000jNZHvC36pgpOcQIQxCU0G09R4dPGvzDbTa/9F5Son9GmO+KS3qv/UpYlypmsRSLdPP/MUGlTVSA6fpcKpVFa2MKBLQQUvJIPWkAalFnPTCnGk2ofWocWsqU6W2/0U=;uUrC1BSKx9UamKLPNSmZwQ=="
 ---

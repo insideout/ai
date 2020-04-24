@@ -23,6 +23,6 @@ images:
     height: 687
     title: "Better security, and machine learning, for Renesas RA MCU support software"
 
-secured: "FtnvYjc6k8Z1+oYkvfD4KB4l59heyK08b0TpdSNq6zqDGBD1xo2v4X9/jHQB72tOxrM6LXqWFPYwDPJxfyk8ITPZiQxpD5a0mvxwAo+WnMrYzNpx9FMnUZ8a3ikog24wZvA3nnqFhlRKyNdZjUcG1kSq9wxmaIE8R+w56rRAzsk6R3S+wsWYXA7YMPmtDNm43PiGVNWryZGpyG/v5T0pM7xCAhq9atgAoB8qWTlhzcgYdXnHAq3Ga69u/nrIAKmCg4N2Ksq8eTztBYXYn1csHIcIt+nPmF6ErpjUmZjOFxb1LHlMrXfypUKBUWNeGG5N;jcXQgc1HgeYXv7+fdxUc1Q=="
+secured: "85pKXLHnTjBjdUDGcyn0fumk+pS9D64/tMegqjPxoVaagpHjXI03L7TJ8pBMXdQ6Q3jrHwwUSJDEf1y12oQWJwYgvr/FYFA3sPay4GKy3dQtWJKeYuQ/a1FyD3+XpLxUi08CMyfOaqKJO4Ios+a1lwHdowFnEMe0Sl1wFpAKCrIL+zrv5IaiN7RY61XWZQg3XzBVR8ju/Zj3NS++9OwpBAyV5JRx10qMXw1aYe9pz7cz7Pc3+gYhwtPCLflJmx1RCUfWmxpyDXN97FxRHmNWM+1ZmqGJwu+fytFzAFqGAi/akI5/0dDXUZUutihTNvOCwtnn5fiJ/RYCWOKDHPxSR9Dir5/J/bHMBOJwuUiXrnCYLdAhM4Vzl5f0vzoONXvVjd86rh/DlPlpCuFhTDz/UVI9Ix2qUVPL2BwS+NRdU89ErEMVAob+As2VKBoNOzPEPeg7oZotdGmzAJHTRkiHUQJ19j6dojc9ZsdFdb+TtIA=;Vw9j00lp00CS3zZSqn2C3A=="
 ---
 

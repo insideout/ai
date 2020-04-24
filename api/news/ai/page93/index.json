@@ -2,6 +2,51 @@
   "page": 93,
   "value": [
     {
+      "path": "_news/2020-01-16-apple-buys-an-ai-start-up-that-came-from-microsoft-co-founder-paul-allens-research-lab.md",
+      "title": "Apple buys an A.I. start-up that came from Microsoft co-founder Paul Allen's research lab",
+      "excerpt": "Apple on Wednesday confirmed that it has acquired a start-up that developed software for running artificial intelligence workloads on less-powerful devices.",
+      "heat": 65,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2020/01/15/apple-acquires-xnor-ai-startup-that-spun-out-of-allen-institute.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/01/15/apple-acquires-xnor-ai-startup-that-spun-out-of-allen-institute.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/01/15/apple-acquires-xnor-ai-startup-that-spun-out-of-allen-institute.html",
+      "publishedDateTime": "2020-01-15T18:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/103407475-GettyImages-146170267.jpg?v=1532564184",
+          "width": 3000,
+          "height": 2108,
+          "title": "Apple buys an A.I. start-up that came from Microsoft co-founder Paul Allen's research lab",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2020-01-16-facebook-invented-a-new-language-for-machines-to-solve-complex-math-equations.md",
       "title": "Facebook Invented a New Language for Machines to Solve Complex Math Equations",
       "excerpt": "Or at least, they have trouble understanding how humanity writes math equations. Facebook’s AI research team, however, claims to have developed a new approach to turn complex math problems into ...",
@@ -1270,51 +1315,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-15-will-qualcomm-overtake-nvidia-in-driverless-cars.md",
-      "title": "Will Qualcomm Overtake NVIDIA in Driverless Cars?",
-      "excerpt": "Today, a growing list of companies -- including Ford, Toyota, Daimer's Mercedes-Benz, and Baidu-- have partnered with NVIDIA across various self-driving projects. NVIDIA's automotive revenue accounted for 5% of its top line last quarter. Qualcomm launched its first line of Snapdragon Automotive chipsets in early 2016. It tried to buy NXP ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.fool.com/investing/2020/01/15/will-qualcomm-overtake-nvidia-in-driverless-cars.aspx",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/01/15/will-qualcomm-overtake-nvidia-in-driverless-cars.aspx",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/01/15/will-qualcomm-overtake-nvidia-in-driverless-cars.aspx",
-      "publishedDateTime": "2020-01-15T08:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F553428%2Fimage-6-a-woman-sits-in-a-driverless-car.jpg&w=700&op=resize",
-          "width": 700,
-          "height": 466,
-          "title": "Will Qualcomm Overtake NVIDIA in Driverless Cars?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],
