@@ -1,31 +1,21 @@
 ---
 category: news
 title: "Have $1,000 to Invest? Buy These 2 Artificial Intelligence Stocks Now"
-excerpt: "Artificial intelligence (AI) -- the capability of a machine to mimic intelligent human behavior -- is a huge growth trend. The tech is being used to smarten up countless things large and small -- from cities and homes to cars and computers to factory equipment and healthcare diagnostic tools. One research firm, IDC, estimates that spending on ..."
-publishedDateTime: 2020-04-19T23:01:00Z
-webUrl: "https://www.fool.com/investing/2020/04/19/have-1000-to-invest-buy-these-2-artificial-intelli.aspx?source=eptcnnlnk0000002"
-ampWebUrl: "https://www.fool.com/amp/investing/2020/04/19/have-1000-to-invest-buy-these-2-artificial-intelli.aspx"
-cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/04/19/have-1000-to-invest-buy-these-2-artificial-intelli.aspx"
+excerpt: "Artificial intelligence (AI) -- the capability of a machine to mimic intelligent human behavior -- is a huge growth trend. The tech is being used to smarten up countless things la"
+publishedDateTime: 2020-04-19T20:01:00Z
+webUrl: "https://www.nasdaq.com/articles/have-%241000-to-invest-buy-these-2-artificial-intelligence-stocks-now-2020-04-19?time=1587323042"
+ampWebUrl: "https://www.nasdaq.com/articles/have-%241000-to-invest-buy-these-2-artificial-intelligence-stocks-now-2020-04-19?amp"
+cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/have-%241000-to-invest-buy-these-2-artificial-intelligence-stocks-now-2020-04-19?amp"
 type: article
 
 provider:
-  name: The Motley Fool
-  domain: fool.com
-  images:
-    - url: "https://insideout.app/ai/assets/images/organizations/fool.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AI in Healthcare
   - AI
 
-images:
-  - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F568387%2Fbest-ai-stocks-best-artificial-intelligence-stocks-2020-amzn-syock-amazon-stock-nvda-stock-nvidia-stock-goog-stock-google-stock-alphabet-stock-evbg-stock-everbright-stock.jpg&w=1200&op=resize"
-    width: 1200
-    height: 800
-    title: "Have $1,000 to Invest? Buy These 2 Artificial Intelligence Stocks Now"
-
-secured: "ultjLz3FqqSMc4s/BMIWVPzbD+YH/osF5C/r0gkar/KhWzsvo7KtS6no6sV8IFbmtJ+EoluADhIKyV+SFvGw5+XCdjLdrEAPe/JKoip0gExmhTfEQJdOQQL+Xy3hhOiupTyWyeCegzPPX39UjxmiNPfMfcmuASH4QamKVy0GcnY7Y3h6/YVNnWPe11Ws84wC0O06BZsnYZazQYiSKUISCtpOxtVmI0m4ghzTXhtvj15JSvkTLN9jfLUMwkaOk4uScOb2v9Lz+2T49pH3KYDmXywm/bArg2AxFAN16szrLrnJSKP6UCshLkVXF4xojGRX;dHdNzLXQdYDU0Trqlg08AQ=="
+secured: "od7cV3Agcw78G0bQsim9d66X2xSBBfBJufxeeVQbGmqtfU1HRPB8vC4EiWiWycNgTCKgEkv0xkLnsJgpwV57ks3oOqdwO5Nlu1HC0iyk8uozTH9AguF7DFkJaHDGynNiANxcT0D2cBUxDGS/YIbGv6yiZJOC8Ip/vpWbqp0udQLoO+TfGmfrt4g/Oql7kFFo7thoC9lzDYizi4KBYwkZRPjjh5bIItVgoYDWsHkbPzgI92cXWYePKkA5D+wbTD13ukn9BzhgRKBeX4vZ9nlxSl5GmWoRNR5u5AbC6rIhWEaWlGjMxKy5woy5O4vLy4vclRZSFeBidOfenwHgr1nA1DgB8eiki+jfrsXsZum26lvV5sG/IANC+pnvfdrM78X/0dN9j1mqekiNQUtX1FMwFMG176lhInzEuj6KtFzx/G0Wn13hxQO7hFLzG3ZVaNiAMW9VibwlEaN5nwrTIo80a9xVj1hNAEjkoyS/jBtoL4w=;0Q5v+uv6MLP0KJF8F3TL1w=="
 ---
 

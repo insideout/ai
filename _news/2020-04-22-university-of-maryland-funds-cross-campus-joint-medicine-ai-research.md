@@ -2,8 +2,8 @@
 category: news
 title: "University of Maryland funds cross-campus, joint medicine & AI research"
 excerpt: "The below research awards are the first in a joint UMB-UMD program that will fund big research initiatives that draw on the fields of artificial intelligence and medicine ... and disease conditions and identification of appropriate interventions. Precision Therapy for Neonatal Opioid Withdrawal Syndrome UMB researchers: Seth Ament, School ..."
-publishedDateTime: 2020-04-22T17:49:00Z
-webUrl: "https://www.eurekalert.org/pub_releases/2020-04/uom-uom042220.php"
+publishedDateTime: 2020-04-22T20:15:00Z
+webUrl: "https://eurekalert.org/pub_releases/2020-04/uom-uom042220.php"
 type: article
 quality: 39
 heat: 39
@@ -23,6 +23,6 @@ images:
     height: 300
     title: "University of Maryland funds cross-campus, joint medicine & AI research"
 
-secured: "4p+b4KNVzPgEeeeXYHK4yT92QwjvvQ038Ms2vG2K+lVDcSYjkzOugyQrRwB7Wyj42edJnv427Dt69QF9uJNuGKaxWFZmmLdEUTBMRN55yxR03ok0lhgUsBWIATLnNyjs17oMdLima753CrTtsOaEMGojZD/UTtM5acD5sq42Swy6Uu6P2wfoxN+Mo1Ps/6aE9pXlrOOpTV0wyvNB4SFNV20ZzuxUQ66Si3s0GexphwzK0dWqtDadHMKALUkbnrt5YiWoN5I0l/CqpNNb1rGbhQAns4vPt6gcxLkESSJgfBZid5ILHGCo2FJcwKNPIl7F;Gz+2Ubj6/ckUc+NSmLtJVw=="
+secured: "x80CLmgNlZWrpSLNSpYTRTuqsMo9ZZNhy9jVS4rPN6VGGhVXD3vciIgh54OXNPMIo3FDybDh/LyALnFngL2e6xZvFGakzBkNLsP0byrNiDqYJT9oYXExbaZghndRxgkyLanTfMi3iL9wiNai/6oGJmdeTmKBJ5lHJO6y5kZlZkK1+upxutqWs+Ebv8SkkOppPTH8jLBEbZ1CRoRF4pADMZA+CTsD68thG4VaSKRG3Ke1MbjBV/i2Xm9TgQZAP2vbuUICgxK2CQjPhncTAjo8EelEMExIC5dVJHZRA6Lieq2h6a/KPrCF32d4pKvqtH80;/YF6ueWa3Fy+X+N63dA2nw=="
 ---
 
