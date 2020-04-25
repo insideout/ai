@@ -16,6 +16,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://mms.businesswire.com/media/20200424005411/en/371054/23/ResearchAndMarkets_800px.jpg"

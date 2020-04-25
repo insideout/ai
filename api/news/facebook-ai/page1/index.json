@@ -582,6 +582,51 @@
       ]
     },
     {
+      "path": "_news/2020-04-10-facebook-guess-well-disclose-the-whole-face-recognition-thing-since-we-have-to.md",
+      "title": "Facebook: Guess We'll Disclose the Whole Face Recognition Thing (Since We Have To)",
+      "excerpt": "an applied research lead of Facebook AI. Instead, everyone will now have the face recognition setting that the company initially rolled out to some users in 2017, and which the company has claimed ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://gizmodo.com/facebook-guess-well-disclose-the-whole-face-recognitio-1837850800",
+      "ampWebUrl": "https://gizmodo.com/facebook-guess-well-disclose-the-whole-face-recognitio-1837850800/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/facebook-guess-well-disclose-the-whole-face-recognitio-1837850800/amp",
+      "publishedDateTime": "2020-04-10T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/culuy8aqdwfivc2vvfsb.jpg",
+          "width": 800,
+          "height": 448,
+          "title": "Facebook: Guess We'll Disclose the Whole Face Recognition Thing (Since We Have To)",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-09-how-microsoft-teams-will-use-ai-to-filter-out-typing-barking-and-other-noise-from-video-calls.md",
       "title": "How Microsoft Teams will use AI to filter out typing, barking, and other noise from video calls",
       "excerpt": "Last month, Microsoft announced that Teams, its competitor to Slack, Facebook’s Workplace, and Google’s Hangouts Chat ... But one feature, real-time noise suppression, stood out — Microsoft demoed how the AI minimized distracting background noise during a call. We’ve all been there. How many times have you asked someone to mute ...",
@@ -1269,51 +1314,6 @@
           "width": 640,
           "height": 640,
           "title": "Five Ways AI Is Changing The Game Of Content Marketing",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-18-the-ai-eye-vsblty-provides-corporate-update-and-intel-announces-readiness-of-neuromorphic-research-system.md",
-      "title": "The AI Eye: VSBLTY Provides Corporate Update and Intel Announces Readiness of Neuromorphic Research System",
-      "excerpt": "Point Roberts, WA and Vancouver, BC - March 18, 2020 (Investorideas.com Newswire) Investorideas.com (www.investorideas.com), a global investor news source covering Artificial Intelligence (AI) brings you today's edition of The AI Eye - watching stock news,",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/the-ai-eye-vsblty-provides-corporate-update-and-intel-announces-readiness-of-neuromorphic-research-system-2020-03-18",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-18T11:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "The AI Eye: VSBLTY Provides Corporate Update and Intel Announces Readiness of Neuromorphic Research System",
           "attribution": null
         }
       ],

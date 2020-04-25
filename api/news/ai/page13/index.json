@@ -2,6 +2,51 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2020-04-10-how-ai-is-helping-in-the-fight-against-covid-19.md",
+      "title": "How AI Is Helping in the Fight Against COVID-19",
+      "excerpt": "Artificial intelligence technologies such as machine learning, natural-language processing, computer vision, and deep learning can help track and identify the novel coronavirus. On Dec. 31, BlueDot, a Toronto-based company that uses artificial intelligence to track the spread of infectious diseases, alerted its customers about a cluster of ...",
+      "heat": 109,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://au.pcmag.com/artificial-intelligence-1/66281/how-ai-is-helping-in-the-fight-against-covid-19",
+      "ampWebUrl": "https://au.pcmag.com/artificial-intelligence-1/66281/how-ai-is-helping-in-the-fight-against-covid-19?amp=1",
+      "cdnAmpWebUrl": "https://au-pcmag-com.cdn.ampproject.org/c/s/au.pcmag.com/artificial-intelligence-1/66281/how-ai-is-helping-in-the-fight-against-covid-19?amp=1",
+      "publishedDateTime": "2020-04-10T02:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://sm.pcmag.com/t/pcmag_au/news/h/how-ai-is-/how-ai-is-helping-in-the-fight-against-covid-19_5mp8.620.jpg",
+          "width": 620,
+          "height": 349,
+          "title": "How AI Is Helping in the Fight Against COVID-19",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-10-ask-sophia-the-robot-is-ai-an-existential-threat-to-humans.md",
       "title": "Ask Sophia the Robot: Is AI an existential threat to humans?",
       "excerpt": "Sophia is Hanson Robotics’ latest human-like robot, created to be a research platform for Hanson Robotics' ongoing AI and robotics research work. Working with labs, universities and companies around the world, she is an architecture and a platform for developing AI applications. Sophia has received the title of Innovation Champion for the ...",
@@ -1191,43 +1236,6 @@
           "width": 1200,
           "height": 630,
           "title": "FMI Updates Medical Bionic Implants And Exoskeletons Market Forecast and Analysis as Corona Virus Outbreak Disturbs Investment Plans",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-09-robots-deliver-food-and-relief-to-uw-students-still-on-campus-during-covid-19-pandemic.md",
-      "title": "Robots deliver food — and relief — to UW students still on campus during COVID-19 pandemic",
-      "excerpt": "Students wary of coming into contact with COVID-19 at the dining hall can instead dispatch a robot to deliver food to their dorm.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://madison.com/wsj/news/local/education/university/robots-deliver-food-and-relief-to-uw-students-still-on-campus-during-covid-19-pandemic/article_cdd8a9f4-a2aa-542d-a226-02afa13dc3ef.html",
-      "ampWebUrl": "https://madison.com/news/local/education/university/robots-deliver-food-and-relief-to-uw-students-still-on-campus-during-covid-19-pandemic/article_cdd8a9f4-a2aa-542d-a226-02afa13dc3ef.amp.html",
-      "cdnAmpWebUrl": "https://madison-com.cdn.ampproject.org/c/s/madison.com/news/local/education/university/robots-deliver-food-and-relief-to-uw-students-still-on-campus-during-covid-19-pandemic/article_cdd8a9f4-a2aa-542d-a226-02afa13dc3ef.amp.html",
-      "publishedDateTime": "2020-04-09T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Madison.com",
-        "domain": "madison.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/3/fb/3fb77a79-7fe7-5882-84b1-de4944452c4c/5e8e28945f28f.image.jpg?resize=1024%2C701",
-          "width": 1024,
-          "height": 701,
-          "title": "Robots deliver food — and relief — to UW students still on campus during COVID-19 pandemic",
           "attribution": null
         }
       ],

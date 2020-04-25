@@ -2,6 +2,43 @@
   "page": 95,
   "value": [
     {
+      "path": "_news/2020-01-15-artificial-intelligence-or-ai-here-is-how-it-is-transforming-healthcare.md",
+      "title": "Artificial Intelligence or AI: Here is how it is transforming healthcare",
+      "excerpt": ". AI sector has also become one of the world's highest-growth industries. ©Shutterstock. Making a breakthrough in healthcare, researchers at the University of Warwick have developed a new ...",
+      "heat": 88,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.thehealthsite.com/news/artificial-intelligence-or-ai-here-is-how-it-is-transforming-healthcare-722335/",
+      "ampWebUrl": "https://www.thehealthsite.com/news/artificial-intelligence-or-ai-here-is-how-it-is-transforming-healthcare-722335/amp/",
+      "cdnAmpWebUrl": "https://www-thehealthsite-com.cdn.ampproject.org/c/s/www.thehealthsite.com/news/artificial-intelligence-or-ai-here-is-how-it-is-transforming-healthcare-722335/amp/",
+      "publishedDateTime": "2020-01-15T05:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TheHealthSite",
+        "domain": "thehealthsite.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://st1.thehealthsite.com/wp-content/uploads/2019/01/artificial-intelligence.jpg",
+          "width": 679,
+          "height": 365,
+          "title": "Artificial Intelligence or AI: Here is how it is transforming healthcare",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2020-01-15-retailers-hope-in-store-tech-will-keep-shoppers-in-stores.md",
       "title": "Retailers Hope In-Store Tech Will Keep Shoppers in Stores",
       "excerpt": "Dubbed AWM Frictionless, the system includes digital shelving and object-recognition cameras that can keep track of which customers leave with which items. Customers have to do facial recognition ...",
@@ -1218,43 +1255,6 @@
           "width": 1024,
           "height": 512,
           "title": "Amazon Cloud Clientele Strengthens as Bundesliga Selects AWS | Nasdaq",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-14-bundesliga-brings-on-aws-to-revolutionise-football-viewing-experience.md",
-      "title": "Bundesliga brings on AWS to ‘revolutionise’ football viewing experience",
-      "excerpt": "Under the terms of its deal with AWS, the Bundesliga will make use during the 2019-20 season and beyond of artificial intelligence (AI), machine learning (ML), analytics, compute, database, and storage services to deliver real-time statistics to predict future plays and game outcomes, and recommend personalised match footage across mobile ...",
-      "heat": 69,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.rapidtvnews.com/2020011457936/bundesliga-brings-on-aws-to-revolutionise-football-viewing-experience.html",
-      "ampWebUrl": "https://www.rapidtvnews.com/2020011457936/bundesliga-brings-on-aws-to-revolutionise-football-viewing-experience.amp.html",
-      "cdnAmpWebUrl": "https://www-rapidtvnews-com.cdn.ampproject.org/c/s/www.rapidtvnews.com/2020011457936/bundesliga-brings-on-aws-to-revolutionise-football-viewing-experience.amp.html",
-      "publishedDateTime": "2020-01-13T23:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Rapid TV",
-        "domain": "rapidtvnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.rapidtvnews.com/images/2020/Jan_2020/bundesliga_AWS_14Jan2020.jpg",
-          "width": 788,
-          "height": 337,
-          "title": "Bundesliga brings on AWS to ‘revolutionise’ football viewing experience",
           "attribution": null
         }
       ],

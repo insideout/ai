@@ -2,6 +2,51 @@
   "page": 118,
   "value": [
     {
+      "path": "_news/2020-01-07-amazon-doubles-down-on-ring-partnerships-with-law-enforcement.md",
+      "title": "Amazon Doubles Down on Ring Partnerships With Law Enforcement",
+      "excerpt": "In other cases, municipalities may be utilizing other technology—such as Amazon’s Rekognition product—to extract data even if the security cameras themselves aren’t the most sophisticated. When asked whether Amazon had considered applying facial recognition software technology to Ring cameras, Limp pointed out that Amazon hasn’t ...",
+      "heat": 94,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wired.com/story/ces-2020-amazon-defends-ring-police-partnerships/",
+      "ampWebUrl": "https://www.wired.com/story/ces-2020-amazon-defends-ring-police-partnerships/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ces-2020-amazon-defends-ring-police-partnerships/amp",
+      "publishedDateTime": "2020-01-07T12:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5e151678fa6692000820d0e8/master/pass/Biz_Ring-1174747225.jpg",
+          "width": 2300,
+          "height": 1533,
+          "title": "Amazon Doubles Down on Ring Partnerships With Law Enforcement",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-01-07-lidar-sensors-arent-just-for-self-driving-cars-anymore.md",
       "title": "LIDAR sensors aren’t just for self-driving cars anymore",
       "excerpt": "Most people will recognize a self-driving car based on the whirling sensor perched on the roof. LIDAR, which stands for Light Detection and Ranging, uses laser pulses to build a 3D model of the ...",
@@ -1039,51 +1084,6 @@
       "topics": [
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-06-3-steps-to-implement-ethics-in-ai-for-competitive-advantage-in-2020.md",
-      "title": "3 steps to implement ethics in AI for competitive advantage in 2020",
-      "excerpt": "Every major company and government deploying AI at scale has publicly declared some form of statement on ethics in AI and articulated a set of guiding principles. In fact, Harvard’s Berkman ...",
-      "heat": 104,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/01/06/3-steps-to-implement-ethics-in-ai-for-competitive-advantage-in-2020/",
-      "ampWebUrl": "https://venturebeat.com/2020/01/06/3-steps-to-implement-ethics-in-ai-for-competitive-advantage-in-2020/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/06/3-steps-to-implement-ethics-in-ai-for-competitive-advantage-in-2020/amp/",
-      "publishedDateTime": "2020-01-06T07:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/01/VB_FeatureImage_1200x600.png?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "3 steps to implement ethics in AI for competitive advantage in 2020",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

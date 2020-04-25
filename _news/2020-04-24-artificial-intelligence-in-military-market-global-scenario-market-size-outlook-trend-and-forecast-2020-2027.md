@@ -41,6 +41,19 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Natural Language Processing (NLP) Market to Garner Overwhelming Hike In Revenues by 2027"
+    excerpt: "According to the research held by Acumenresearchandconsulting.com, \"The global Natural Language Processing (NLP) market is expected to reach US$ XX Mn with a CAGR of XX.X% during the forecast period from 2020 to 2027\"."
+    publishedDateTime: 2020-04-23T10:52:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-to-garner-overwhelming-hike-in-revenues-by-2027-2020-04-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 60
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
   - title: "Speech Recognition Market 2020: Software Innovations, Global Trends, Size, Share, Business Analysis, Key Updates and Key Industry Segments till 2023"
     excerpt: "According to a new report by Market Research Future (MRFR), global speech recognition market is expected to reach USD"
     publishedDateTime: 2020-04-23T09:51:00Z

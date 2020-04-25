@@ -917,6 +917,51 @@
       ]
     },
     {
+      "path": "_news/2020-04-10-facebook-guess-well-disclose-the-whole-face-recognition-thing-since-we-have-to.md",
+      "title": "Facebook: Guess We'll Disclose the Whole Face Recognition Thing (Since We Have To)",
+      "excerpt": "an applied research lead of Facebook AI. Instead, everyone will now have the face recognition setting that the company initially rolled out to some users in 2017, and which the company has claimed ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://gizmodo.com/facebook-guess-well-disclose-the-whole-face-recognitio-1837850800",
+      "ampWebUrl": "https://gizmodo.com/facebook-guess-well-disclose-the-whole-face-recognitio-1837850800/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/facebook-guess-well-disclose-the-whole-face-recognitio-1837850800/amp",
+      "publishedDateTime": "2020-04-10T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/culuy8aqdwfivc2vvfsb.jpg",
+          "width": 800,
+          "height": 448,
+          "title": "Facebook: Guess We'll Disclose the Whole Face Recognition Thing (Since We Have To)",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-10-lee-sedol-loses-final-go-match-making-it-a-4-1-victory-for-googles-ai.md",
       "title": "Lee Sedol Loses Final Go Match Making It a 4-1 Victory for Google's AI",
       "excerpt": "Google Deepmind’s Demis Hassabis put the odds ... has stomped to victory for a fourth time against Go world champion Lee Sedol. That makes it a resounding victory for the AI, which has won ...",
@@ -1220,51 +1265,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-10-how-ai-is-helping-in-the-fight-against-covid-19.md",
-      "title": "How AI Is Helping in the Fight Against COVID-19",
-      "excerpt": "Artificial intelligence technologies such as machine learning, natural-language processing, computer vision, and deep learning can help track and identify the novel coronavirus. On Dec. 31, BlueDot, a Toronto-based company that uses artificial intelligence to track the spread of infectious diseases, alerted its customers about a cluster of ...",
-      "heat": 109,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://au.pcmag.com/artificial-intelligence-1/66281/how-ai-is-helping-in-the-fight-against-covid-19",
-      "ampWebUrl": "https://au.pcmag.com/artificial-intelligence-1/66281/how-ai-is-helping-in-the-fight-against-covid-19?amp=1",
-      "cdnAmpWebUrl": "https://au-pcmag-com.cdn.ampproject.org/c/s/au.pcmag.com/artificial-intelligence-1/66281/how-ai-is-helping-in-the-fight-against-covid-19?amp=1",
-      "publishedDateTime": "2020-04-10T02:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://sm.pcmag.com/t/pcmag_au/news/h/how-ai-is-/how-ai-is-helping-in-the-fight-against-covid-19_5mp8.620.jpg",
-          "width": 620,
-          "height": 349,
-          "title": "How AI Is Helping in the Fight Against COVID-19",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }
