@@ -2,6 +2,78 @@
   "page": 122,
   "value": [
     {
+      "path": "_news/2017-05-01-a-list-of-artificial-intelligence-tools-you-can-use-today-for-personal-use-13.md",
+      "title": "A list of artificial intelligence tools you can use today — for personal use (1/3)",
+      "excerpt": "Artificial Intelligence and the fourth industrial revolution has made some considerable progress over the last couple of years. Most of this current progress that is usable has been developed for ...",
+      "heat": 161,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/@Liamiscool/a-list-of-artificial-intelligence-tools-you-can-use-today-for-personal-use-1-3-7f1b60b6c94f",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2017-04-30T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/freeze/max/1200/1*KdbQDJccO7aoNIvDrjUhzA.gif",
+          "width": 1200,
+          "height": 675,
+          "title": "A list of artificial intelligence tools you can use today — for personal use (1/3)",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2016-02-23-trolls-vs-pirates-halostryker-oral-arguments.md",
+      "title": "Trolls vs Pirates: Halo/Stryker Oral Arguments",
+      "excerpt": "Wall’s approach was to highlight the general nature of the the statute ... MR. WALL: [W]e and the PTO and many of Respondents’ amici recognize, the system as it currently stands is out of balance. And we have tried, and I believe we have succeeded ...",
+      "heat": 102,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://patentlyo.com/patent/2016/02/pirates-halostryker-arguments.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2016-02-23T08:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Patently-O",
+        "domain": "patentlyo.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2015-02-17-meet-the-new-face-detection-algorithm-that-will-change-image-search.md",
       "title": "Meet the new face-detection algorithm that will change image search",
       "excerpt": "Current facial-recognition technology is based primarily on the work of Paul Viola and Michael Jones, who achieved a major breakthrough in 2001 when they developed an algorithm that could detect ...",

@@ -2,6 +2,50 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-04-21-how-to-improve-the-financial-services-industry-with-artificial-intelligence-and-blockchain.md",
+      "title": "How To Improve The Financial Services Industry With Artificial Intelligence And Blockchain",
+      "excerpt": "Blockchain and artificial intelligence (AI) solve different tasks, but they can work together to improve many processes in the financial services industry, from customer service to loan application reviews and payment processing.",
+      "heat": 92,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/04/21/how-to-improve-the-financial-services-industry-with-artificial-intelligence-and-blockchain/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/04/21/how-to-improve-the-financial-services-industry-with-artificial-intelligence-and-blockchain/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/04/21/how-to-improve-the-financial-services-industry-with-artificial-intelligence-and-blockchain/amp/",
+      "publishedDateTime": "2020-04-21T04:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F04%2Fa-24-2.jpg",
+          "width": 640,
+          "height": 640,
+          "title": "How To Improve The Financial Services Industry With Artificial Intelligence And Blockchain",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-21-artificial-intelligence-how-machine-learning-jobs-are-giving-refugees-a-future-in-tech.md",
       "title": "Artificial intelligence: How machine-learning jobs are giving refugees a future in tech",
       "excerpt": "Humans in the Loop is a social enterprise founded in 2017. It helps refugees from conflict zones like Syria, Iraq, and Afghanistan settle in the country by acquiring digital skills that they can use for working on artificial-intelligence and machine-learning-related projects. SEE: How to implement AI and machine learning (ZDNet special report ...",
@@ -1029,50 +1073,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-20-how-utilities-are-using-ai-to-adapt-to-electricity-demands.md",
-      "title": "How utilities are using AI to adapt to electricity demands",
-      "excerpt": "Some utilities are employing AI and machine learning to address the windfalls and fluctuations in energy usage resulting from COVID-19. Precise load forecasting could ensure that operations aren’t interrupted in the coming months, thereby preventing blackouts and brownouts. And they might also bolster the efficiency of utilities’ internal ...",
-      "heat": 97,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/20/utilities-energy-usage-covid-19-ai-machine-learning/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/20/utilities-energy-usage-covid-19-ai-machine-learning/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/20/utilities-energy-usage-covid-19-ai-machine-learning/amp/",
-      "publishedDateTime": "2020-04-20T06:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/6cd663ee-b571-428e-8665-0dadb7cbc371-e1587321011520.png?fit=1202%2C598&strip=all",
-          "width": 1202,
-          "height": 598,
-          "title": "How utilities are using AI to adapt to electricity demands",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

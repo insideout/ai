@@ -2,6 +2,51 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-03-24-building-a-trash-sorter-with-aws-deeplens.md",
+      "title": "Building a trash sorter with AWS DeepLens",
+      "excerpt": "In this blog post, we show you how to build a prototype trash sorter using AWS DeepLens, the AWS deep learning-enabled video camera designed for developers to learn machine learning in a fun, hands-on way. This prototype trash sorter project teaches you how to train image classification models with custom",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/building-a-trash-sorter-with-aws-deeplens/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-24T13:37:44-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/03/23/deeplens-trash-sorter-1.gif",
+          "width": 1200,
+          "height": 545,
+          "title": "Building a trash sorter with AWS DeepLens",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-24-making-accurate-energy-consumption-predictions-with-amazon-forecast.md",
       "title": "Making accurate energy consumption predictions with Amazon Forecast",
       "excerpt": "Amazon Forecast is a fully managed service that uses machine learning (ML) to generate highly accurate forecasts, without requiring any prior ML experience. Forecast is applicable in a wide variety of use cases, including energy demand forecasting, estimating product demand, workforce planning, and computing",
@@ -1099,43 +1144,6 @@
           "width": 816,
           "height": 459,
           "title": "AWS makes BEE gains, dangles R365m to SA’s SMEs",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-09-amazon-wants-other-retailers-to-go-cashierless-with-its-just-walk-out-technology.md",
-      "title": "Amazon Wants Other Retailers to Go Cashierless With Its Just Walk Out Technology",
-      "excerpt": "Jay Stanley, senior policy analyst for the ACLU, which has previously expressed concerns about Amazon technology like Rekognition, said the ecommerce giant’s ability to retain data in ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.adweek.com/retail/amazon-wants-other-retailers-to-go-cashierless-with-its-just-walk-out-technology/",
-      "ampWebUrl": "https://www.adweek.com/retail/amazon-wants-other-retailers-to-go-cashierless-with-its-just-walk-out-technology/amp/",
-      "cdnAmpWebUrl": "https://www-adweek-com.cdn.ampproject.org/c/s/www.adweek.com/retail/amazon-wants-other-retailers-to-go-cashierless-with-its-just-walk-out-technology/amp/",
-      "publishedDateTime": "2020-03-09T12:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Adweek",
-        "domain": "adweek.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.adweek.com/wp-content/uploads/2020/03/nike-app-free-hed-page-2020-640x360.png",
-          "width": 640,
-          "height": 360,
-          "title": "Amazon Wants Other Retailers to Go Cashierless With Its Just Walk Out Technology",
           "attribution": null
         }
       ],

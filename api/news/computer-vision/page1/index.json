@@ -651,15 +651,23 @@
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.cio.com/resources/201265/computer-vision-ai-safeguard-atms",
+      "webUrl": "https://www.infoworld.com/resources/201265/computer-vision-ai-safeguard-atms",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-14T06:41:00-07:00",
+      "publishedDateTime": "2020-04-14T06:47:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "CIO",
-        "domain": "cio.com",
-        "images": null,
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
         "publishers": null,
         "authors": null
       },

@@ -2,6 +2,51 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-04-24-scaling-your-ai-powered-battlesnake-with-distributed-reinforcement-learning-in-amazon-sagemaker.md",
+      "title": "Scaling your AI-powered Battlesnake with distributed reinforcement learning in Amazon SageMaker",
+      "excerpt": "Battlesnake is an AI competition in which you build AI-powered snakes. Battlesnake’s rules are similar to the traditional snakes game. Your goal is to be the last surviving snake when competing against other snakes. Developers of all levels build snakes using techniques ranging from unique heuristic-based",
+      "heat": 92,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/scaling-your-ai-powered-battlesnake-with-distributed-reinforcement-learning-in-amazon-sagemaker/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-24T16:51:54-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/03/13/battlesnake-sagemaker-14.gif",
+          "width": 600,
+          "height": 423,
+          "title": "Scaling your AI-powered Battlesnake with distributed reinforcement learning in Amazon SageMaker",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-24-amazon-a2i-is-now-generally-available.md",
       "title": "Amazon A2I is now generally available",
       "excerpt": "AWS is excited to announce the general availability of Amazon Augmented AI (Amazon A2I), a new service that makes it easy to implement human reviews of machine learning (ML) predictions at scale. Amazon A2I removes the undifferentiated heavy lifting associated with building and managing expensive and",
@@ -802,14 +847,14 @@
     {
       "path": "_news/2020-04-11-amazon-announces-general-availability-of-aws-deepcomposer.md",
       "title": "Amazon Announces General Availability of AWS Deepcomposer",
-      "excerpt": "At the end of 2019, InfoQ ran a survey of our readers to find out what tools, techniques, and languages they were using. This is a summary of the results. Daniel Bryant sat down with Dave Sudia ...",
+      "excerpt": "Recently, Amazon announced the general availability of Deepcomposer, a service in AWS, which provides developers with a creative way to learn Machine Learning (ML). Deepcomposer is a machine ...",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.infoq.com/news/2020/04/amazon-aws-deepcomposer-ga/?useSponsorshipSuggestions=true&itm_source=presentations_about_Devops&itm_medium=link&itm_campaign=Devops",
+      "webUrl": "https://www.infoq.com/news/2020/04/amazon-aws-deepcomposer-ga/?useSponsorshipSuggestions=true",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-10T17:00:00-07:00",
+      "publishedDateTime": "2020-04-11T04:05:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "InfoQ",
@@ -1244,43 +1289,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-07-artificial-intelligence-enables-rapid-covid-19-lung-imaging-analysis-at-uc-san-diego-health.md",
-      "title": "Artificial Intelligence Enables Rapid COVID-19 Lung Imaging Analysis at UC San Diego Health",
-      "excerpt": "The details are published in the Journal of Thoracic Imaging. Now, enabled by donated service credits provided by the AWS Diagnostic Development Initiative and the efforts of UC San Diego Health’s Clinical Research IT team, Hsiao’s AI method has been ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://health.ucsd.edu/news/releases/Pages/2020-04-07-artificial-intelligence-enables-rapid-covid-19-lung-imaging-analysis.aspx",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-06T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Scripps News",
-        "domain": "ucsd.edu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://health.ucsd.edu/news/releases/PublishingImages/covid_xray_hsiao.jpg",
-          "width": 600,
-          "height": 268,
-          "title": "Artificial Intelligence Enables Rapid COVID-19 Lung Imaging Analysis at UC San Diego Health",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

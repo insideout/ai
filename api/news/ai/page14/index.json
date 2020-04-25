@@ -2,6 +2,88 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2020-04-09-robots-deliver-food-and-relief-to-uw-students-still-on-campus-during-covid-19-pandemic.md",
+      "title": "Robots deliver food — and relief — to UW students still on campus during COVID-19 pandemic",
+      "excerpt": "Students wary of coming into contact with COVID-19 at the dining hall can instead dispatch a robot to deliver food to their dorm.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://madison.com/wsj/news/local/education/university/robots-deliver-food-and-relief-to-uw-students-still-on-campus-during-covid-19-pandemic/article_cdd8a9f4-a2aa-542d-a226-02afa13dc3ef.html",
+      "ampWebUrl": "https://madison.com/news/local/education/university/robots-deliver-food-and-relief-to-uw-students-still-on-campus-during-covid-19-pandemic/article_cdd8a9f4-a2aa-542d-a226-02afa13dc3ef.amp.html",
+      "cdnAmpWebUrl": "https://madison-com.cdn.ampproject.org/c/s/madison.com/news/local/education/university/robots-deliver-food-and-relief-to-uw-students-still-on-campus-during-covid-19-pandemic/article_cdd8a9f4-a2aa-542d-a226-02afa13dc3ef.amp.html",
+      "publishedDateTime": "2020-04-09T03:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Madison.com",
+        "domain": "madison.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/3/fb/3fb77a79-7fe7-5882-84b1-de4944452c4c/5e8e28945f28f.image.jpg?resize=1024%2C701",
+          "width": 1024,
+          "height": 701,
+          "title": "Robots deliver food — and relief — to UW students still on campus during COVID-19 pandemic",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-09-singapore-dangles-70m-package-to-help-fintech-fsi-firms-drive-digital-efforts.md",
+      "title": "Singapore dangles $70M package to help fintech, FSI firms drive digital efforts",
+      "excerpt": "essential as it adopts new technologies such as AI, as well as more funding support for deep-tech startups and SMBs. Read More Funded by the country's Financial Sector Development Fund, the SG$125 million package focused on three components comprising workforce training and manpower costs, digitalisation and operational resilience, and fintech ...",
+      "heat": 80,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/singapore-dangles-70m-package-to-help-fintech-fsi-firms-drive-digital-efforts/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/singapore-dangles-70m-package-to-help-fintech-fsi-firms-drive-digital-efforts/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/singapore-dangles-70m-package-to-help-fintech-fsi-firms-drive-digital-efforts/",
+      "publishedDateTime": "2020-04-09T00:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2020/03/26/85e9778f-abfa-4966-914a-e8a7a82e2236/thumbnail/1200x675/fbe7926652330423f7c1d9dbe3d95609/virus-coronavirus-covid-19-stock-photo.png",
+          "width": 1200,
+          "height": 675,
+          "title": "Singapore dangles $70M package to help fintech, FSI firms drive digital efforts",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-09-google-expands-its-conversational-duplex-ai-to-the-uk-australia-and-canada.md",
       "title": "Google expands its conversational Duplex AI to the UK, Australia and Canada",
       "excerpt": "Google’s high-tech Duplex AI calling service has quietly made its way to the UK, Australia and Canada. The tech giant originally launched the feature in the US back in 2018 before it started a pilot testing for it in New Zealand a year later. With Duplex, you can ask Google Assistant to call, say, restaurants or car rentals for you ...",
@@ -1220,79 +1302,6 @@
           "width": 770,
           "height": 500,
           "title": "CorelDRAW Graphics Suite 2020 review: Faster, with more AI and added collaboration",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-08-when-machines-design-artificial-intelligence-and-the-future-of-aesthetics.md",
-      "title": "When Machines Design: Artificial Intelligence and the Future of Aesthetics",
-      "excerpt": "In a tech report on artificial intelligence, Building Design + Construction explored how Arup had applied a neural network to a light rail design and reduced the number of utility clashes by over 90%, saving nearly 800 hours of engineering. In the same vein, the areas of site and social research that utilize artificial intelligence have been ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.archdaily.com/937051/when-machines-design-artificial-intelligence-and-the-future-of-aesthetics",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-08T04:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ArchDaily",
-        "domain": "archdaily.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-08-how-ai-and-data-science-are-helping-to-understand-and-tackle-covid-19.md",
-      "title": "How AI And Data Science Are Helping To Understand And Tackle COVID-19",
-      "excerpt": "The AI company Black Swan Data has turned its skills to help clinicians, researchers and the medical community in their work on analysing COVID-19.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/victoriacollins/2020/04/08/how-ai-and-data-science-are-helping-to-understand-and-tackle-covid-19/",
-      "ampWebUrl": "https://www.forbes.com/sites/victoriacollins/2020/04/08/how-ai-and-data-science-are-helping-to-understand-and-tackle-covid-19/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/victoriacollins/2020/04/08/how-ai-and-data-science-are-helping-to-understand-and-tackle-covid-19/amp/",
-      "publishedDateTime": "2020-04-08T04:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e8daa7c2b720000076d7b44%2F0x0.jpg",
-          "width": 1019,
-          "height": 734,
-          "title": "How AI And Data Science Are Helping To Understand And Tackle COVID-19",
           "attribution": null
         }
       ],

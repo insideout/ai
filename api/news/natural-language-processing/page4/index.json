@@ -2,6 +2,44 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-03-16-ibm-tackles-human-language-through-ai.md",
+      "title": "IBM Tackles Human Language Through AI",
+      "excerpt": "Rob Thomas, GM of IBM Data and AI was quoted saying, “A language is a tool for expressing thought and opinion as much as it is a tool for information.” This has been the motto of IBM with its recent announcement of bringing Project Debater and integrating it into Watson. Marketing Technology News: Xandr AT&T Partners with AMC Networks ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.martechadvisor.com/news/machine-learning-ai/ibm-tackles-human-language-through-ai/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-16T03:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarTech Advisor",
+        "domain": "martechadvisor.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.martechadvisor.com/images/uploads/content_images/shutterstock_677646538_5e6f53ac61cd9.jpg",
+          "width": 786,
+          "height": 393,
+          "title": "IBM Tackles Human Language Through AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2020-03-16-ai-for-speech-recognition-market.md",
       "title": "AI for Speech Recognition Market",
       "excerpt": "This report provides in-depth study of \"Global AI for Speech Recognition Market 2020\" using SWOT analysis i.e. Strength, Weakness, Opportunities, and Threat to the organization. The AI for Speech Recognition Market report also provides an in-depth survey of key players in the market organization. The most important key factors driving the ...",
@@ -1168,43 +1206,6 @@
           "width": 1200,
           "height": 630,
           "title": "Reuters launches AI-powered video transcription feature for Connect customers",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-02-25-local-ai-firm-builds-speech-recognition-for-kinyarwanda.md",
-      "title": "Local AI firm builds speech recognition for Kinyarwanda",
-      "excerpt": "Digital Umuganda, a fully Rwandan artificial intelligence (AI) firm, is building an automatic speech and voice recognition infrastructure for Kinyarwanda in partnership with Rwanda Utility and Regulatory Authority (RURA). The technology is part of RURA’s joint initiative dubbed KinyaTech with a non-profit behind Firefox web-browser ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.newtimes.co.rw/daily/technology/local-ai-firm-builds-speech-recognition-for-kinyarwanda",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-25T05:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New Times",
-        "domain": "newtimes.co.rw",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.newtimes.co.rw/sites/default/files/main/articles/2020/02/20/voice-recog-devices-feature_1200x675_hero_011419_0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Local AI firm builds speech recognition for Kinyarwanda",
           "attribution": null
         }
       ],

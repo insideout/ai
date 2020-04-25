@@ -38,17 +38,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2020/04/CORaiL_5small-e1587450236227.jpg?fit=1200%2C600&strip=all"
         width: 1200
         height: 600
-  - title: "Using Artificial Intelligence to Save Coral Reefs"
-    excerpt: "What’s New: Today, on Earth Day 2020, Accenture, Intel and the Sulubaaï Environmental Foundation announced Project: CORaiL, an artificial intelligence (AI)-powered solution to monitor ..."
-    publishedDateTime: 2020-04-22T06:06:00Z
-    webUrl: "https://www.ciol.com/using-artificial-intelligence-save-coral-reefs/"
-    ampWebUrl: "https://www.ciol.com/using-artificial-intelligence-save-coral-reefs/amp/"
-    cdnAmpWebUrl: "https://www-ciol-com.cdn.ampproject.org/c/s/www.ciol.com/using-artificial-intelligence-save-coral-reefs/amp/"
-    type: article
-    provider:
-      name: CIOL
-      domain: ciol.com
-    quality: 39
 
 secured: "zDKULhQDafIsH8+rqivigzirY5S4HmWaj6t+aVXpufefpY8LlMzXv3+a7yWwGVnKygF0c7Qg0Ja44mkxREMpnponx2AJorkbqhhzjpoxp90jvp4+NrjRIZa7ERXYRvVBb4CfDR2ohMXN46Wqe2E+8NY9eU6FK/VPoBApNqgHTI6IGgZh9Kh0FyjvgBAfw5IW4HXhI3yjQhRd677tZiVhxAlog+w0S7467bkVBAFvbeFJzs3e6+rsyIMxebMPyv+O3py8lEHTUHhK/eiG+gAYr270SE7tM4cLgEI/89J0/vuCH7rMQ8WYOOUJavQXjDeqDkwcEQ1raTJ2CIj8WCNDcTFzsBo8UcX/GavytGriV9eGFi+nk7Nm+5h4gWmwrWFVmJkB4OkZhn3suEFsbHgcrTJwVwAeeS1jBshZv1PzAZegcwZQW+6zQKeMbK2tAyVfgONrzk1ThUteB8ToYZShVCiIlWo/BzySkkV2ya+Ei84=;GO+X7H+bmMESj1CQALR1uQ=="
 ---

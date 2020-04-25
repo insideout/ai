@@ -2,6 +2,51 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-04-24-scaling-your-ai-powered-battlesnake-with-distributed-reinforcement-learning-in-amazon-sagemaker.md",
+      "title": "Scaling your AI-powered Battlesnake with distributed reinforcement learning in Amazon SageMaker",
+      "excerpt": "Battlesnake is an AI competition in which you build AI-powered snakes. Battlesnake’s rules are similar to the traditional snakes game. Your goal is to be the last surviving snake when competing against other snakes. Developers of all levels build snakes using techniques ranging from unique heuristic-based",
+      "heat": 92,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/scaling-your-ai-powered-battlesnake-with-distributed-reinforcement-learning-in-amazon-sagemaker/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-24T16:51:54-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/03/13/battlesnake-sagemaker-14.gif",
+          "width": 600,
+          "height": 423,
+          "title": "Scaling your AI-powered Battlesnake with distributed reinforcement learning in Amazon SageMaker",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-24-silicon-valley-needs-a-new-approach-to-studying-ethics-now-more-than-ever.md",
       "title": "Silicon Valley needs a new approach to studying ethics now more than ever",
       "excerpt": "Despite several company-led ethics initiatives, including worthwhile ones to appoint chief ethics officers and Microsoft and IBM’s principles for ethical AI, the students in our class told us they had no space for open and honest conversations about tech’s behavior. If we want a more ethically knowledgeable tech industry today, we need ...",
@@ -1250,51 +1295,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-23-deepminds-ai-studies-game-players-to-exploit-weaknesses-in-their-strategies.md",
-      "title": "DeepMind’s AI studies game players to exploit weaknesses in their strategies",
-      "excerpt": "In a paper published on the preprint server Arxiv.org, scientists at Alphabet’s DeepMind propose a new framework that learns an approximate best response in both imperfect information games (where players are unaware of the actions chosen by other players) and perfect information games (where each player is informed of all actions taken by ...",
-      "heat": 101,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/23/deepminds-ai-studies-game-players-to-exploit-weaknesses-in-strategies/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/23/deepminds-ai-studies-game-players-to-exploit-weaknesses-in-strategies/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/23/deepminds-ai-studies-game-players-to-exploit-weaknesses-in-strategies/amp/",
-      "publishedDateTime": "2020-04-23T08:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/260dcb5d-b808-40f3-947f-c28e349c3da4-e1585799405647.png?fit=1198%2C600&strip=all",
-          "width": 1198,
-          "height": 600,
-          "title": "DeepMind’s AI studies game players to exploit weaknesses in their strategies",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

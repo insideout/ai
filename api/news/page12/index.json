@@ -2,6 +2,35 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-04-15-behringer-deepmind-12d-desktop-12-voice-polyphonic-analog-synth-module.md",
+      "title": "Behringer DeepMind 12D Desktop 12-Voice Polyphonic Analog Synth Module",
+      "excerpt": "I will ship with tracking to the listed regions. To negotiate shipping rates to other locations, please send me a message. Taxes are charged in the following regions either by the seller, per their tax policy, or by Reverb as a Marketplace Facilitator:",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://reverb.com/item/33329886-behringer-deepmind-12d-desktop-12-voice-polyphonic-analog-synth-module",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-14T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reverb.com",
+        "domain": "reverb.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-14-brief-hansoh-pharma-atomwise-expand-strategic-partnership-for-ai-accelerated-drug-discovery.md",
       "title": "BRIEF-Hansoh Pharma, Atomwise Expand Strategic Partnership For Ai-Accelerated Drug Discovery",
       "excerpt": "Hansoh Pharmaceutical Group Co Ltd : * HANSOH PHARMA - CO, ATOMWISE ANNOUNCED EXPANSION OF THEIR STRATEGIC PARTNERSHIP FOR AI-ACCELERATED DRUG DISCOVERY Source text for Eikon: Further company coverage: Our Standards:The Thomson Reuters Trust Principles.",
@@ -131,6 +160,35 @@
       ],
       "topics": [
         "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-14-whats-driving-speech-recognition-market-growth-major-players.md",
+      "title": "What's Driving Speech Recognition Market Growth? Major Players",
+      "excerpt": "Speech recognition is a technology used in various devices such as smartphones cars and computers which enables the system to identify the sound of spoken words and convert them into machine readable forms It uses linguistic units for speech and",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.openpr.com/news/2009622/what-s-driving-speech-recognition-market-growth-major-players",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-14T12:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
         "AI"
       ]
     },
@@ -617,15 +675,23 @@
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.cio.com/resources/201265/computer-vision-ai-safeguard-atms",
+      "webUrl": "https://www.infoworld.com/resources/201265/computer-vision-ai-safeguard-atms",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-14T06:41:00-07:00",
+      "publishedDateTime": "2020-04-14T06:47:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "CIO",
-        "domain": "cio.com",
-        "images": null,
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -916,96 +982,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-14-cant-wait-for-final-fantasy-7-remake-on-pc-this-mod-ai-upscales-original-to-hd.md",
-      "title": "Can't wait for Final Fantasy 7 Remake on PC? This mod AI upscales original to HD",
-      "excerpt": "So, if you're looking for something a little more faithful, and own the PC version of the original game, feast your eyes on the Remako HD mod, an AI-powered fan-made upgrade that's just about to ... In China, Nintendo's games are available on the Nvidia Shield, with the chip maker using its neural processing techniques to give the likes of ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techradar.com/au/news/cant-wait-for-final-fantasy-7-remake-on-pc-this-mod-ai-upscales-original-to-hd",
-      "ampWebUrl": "https://www.techradar.com/au/amp/news/cant-wait-for-final-fantasy-7-remake-on-pc-this-mod-ai-upscales-original-to-hd",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/cant-wait-for-final-fantasy-7-remake-on-pc-this-mod-ai-upscales-original-to-hd",
-      "publishedDateTime": "2020-04-14T01:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/hzHvuwLmTMnaGtDNL77TLF-1200-80.jpg",
-          "width": 960,
-          "height": 540,
-          "title": "Can't wait for Final Fantasy 7 Remake on PC? This mod AI upscales original to HD",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-14-coronavirus-how-ready-is-ai-to-detect-and-prevent-pandemics.md",
-      "title": "Coronavirus: How Ready is AI to Detect and Prevent Pandemics",
-      "excerpt": "But the technological landscape has changed. Can AI, alongside machine learning, natural language processing (NLP), and robotics be called upon to detect, prevent, and manage pandemics? Bluedot, a Canadian startup used an AI-based algorithm to warn people against traveling to China due to the possibility of a flu-like outbreak. The startup ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.entrepreneur.com/article/348804",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/348804",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/348804",
-      "publishedDateTime": "2020-04-13T22:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/20200407144446-GettyImages-1185375168.jpeg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": "Coronavirus: How Ready is AI to Detect and Prevent Pandemics",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

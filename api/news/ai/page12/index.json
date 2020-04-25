@@ -2,6 +2,132 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-04-11-amazon-announces-general-availability-of-aws-deepcomposer.md",
+      "title": "Amazon Announces General Availability of AWS Deepcomposer",
+      "excerpt": "Recently, Amazon announced the general availability of Deepcomposer, a service in AWS, which provides developers with a creative way to learn Machine Learning (ML). Deepcomposer is a machine ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.infoq.com/news/2020/04/amazon-aws-deepcomposer-ga/?useSponsorshipSuggestions=true",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-11T04:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoQ",
+        "domain": "infoq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/da4b9237bacccdf19c0760cab7aec4a8359010b0/2020/03/27/julsimon-deepcomposerga-1-1024x835.png",
+          "width": 1024,
+          "height": 835,
+          "title": "Amazon Announces General Availability of AWS Deepcomposer",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-11-enabling-financial-inclusion-in-asia.md",
+      "title": "Enabling Financial Inclusion in Asia",
+      "excerpt": "Fortunately, AI-enabled alternative credit scoring is upending this, creating opportunities for online lenders and fostering financial inclusion across the region ... borrowers who may otherwise be credit-worthy. Self-learning credit scoring models can continuously improve themselves via machine learning (ML) as new data feeds into the system.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.entrepreneur.com/article/349064",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/349064",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/349064",
+      "publishedDateTime": "2020-04-11T00:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/20181029051457-rsz-shutterstock-512201887.jpeg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": "Enabling Financial Inclusion in Asia",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-11-ai-in-the-enterprise-reality-or-myth.md",
+      "title": "AI In The Enterprise: Reality Or Myth?",
+      "excerpt": "It's estimated that enterprise AI usage has increased 270% since 2015. This has coincided with a massive spike in investment, with the enterprise AI industry expected to grow to $6.1 billion by 2022.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/04/09/ai-in-the-enterprise-reality-or-myth/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/04/09/ai-in-the-enterprise-reality-or-myth/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/04/09/ai-in-the-enterprise-reality-or-myth/amp/",
+      "publishedDateTime": "2020-04-10T23:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F04%2Fa-32.jpg",
+          "width": 640,
+          "height": 640,
+          "title": "AI In The Enterprise: Reality Or Myth?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-11-dont-turn-your-marketing-function-over-to-ai-just-yet.md",
       "title": "Don't Turn Your Marketing Function Over To AI Just Yet",
       "excerpt": "Lacking human insight, artificial intelligence will be limited when it comes to helping marketers open the black box of market prediction.",
@@ -79,43 +205,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-11-amazon-announces-general-availability-of-aws-deepcomposer.md",
-      "title": "Amazon Announces General Availability of AWS Deepcomposer",
-      "excerpt": "At the end of 2019, InfoQ ran a survey of our readers to find out what tools, techniques, and languages they were using. This is a summary of the results. Daniel Bryant sat down with Dave Sudia ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.infoq.com/news/2020/04/amazon-aws-deepcomposer-ga/?useSponsorshipSuggestions=true&itm_source=presentations_about_Devops&itm_medium=link&itm_campaign=Devops",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-10T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/da4b9237bacccdf19c0760cab7aec4a8359010b0/2020/03/27/julsimon-deepcomposerga-1-1024x835.png",
-          "width": 1024,
-          "height": 835,
-          "title": "Amazon Announces General Availability of AWS Deepcomposer",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     },
@@ -1168,88 +1257,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-10-how-ai-is-helping-in-the-fight-against-covid-19.md",
-      "title": "How AI Is Helping in the Fight Against COVID-19",
-      "excerpt": "Artificial intelligence technologies such as machine learning, natural-language processing, computer vision, and deep learning can help track and identify the novel coronavirus. On Dec. 31, BlueDot, a Toronto-based company that uses artificial intelligence to track the spread of infectious diseases, alerted its customers about a cluster of ...",
-      "heat": 109,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://au.pcmag.com/artificial-intelligence-1/66281/how-ai-is-helping-in-the-fight-against-covid-19",
-      "ampWebUrl": "https://au.pcmag.com/artificial-intelligence-1/66281/how-ai-is-helping-in-the-fight-against-covid-19?amp=1",
-      "cdnAmpWebUrl": "https://au-pcmag-com.cdn.ampproject.org/c/s/au.pcmag.com/artificial-intelligence-1/66281/how-ai-is-helping-in-the-fight-against-covid-19?amp=1",
-      "publishedDateTime": "2020-04-10T02:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://sm.pcmag.com/t/pcmag_au/news/h/how-ai-is-/how-ai-is-helping-in-the-fight-against-covid-19_5mp8.620.jpg",
-          "width": 620,
-          "height": 349,
-          "title": "How AI Is Helping in the Fight Against COVID-19",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-10-ask-sophia-the-robot-is-ai-an-existential-threat-to-humans.md",
-      "title": "Ask Sophia the Robot: Is AI an existential threat to humans?",
-      "excerpt": "Sophia is Hanson Robotics’ latest human-like robot, created to be a research platform for Hanson Robotics' ongoing AI and robotics research work. Working with labs, universities and companies around the world, she is an architecture and a platform for developing AI applications. Sophia has received the title of Innovation Champion for the ...",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://bigthink.com/videos/sophia-the-robot-ai-threat",
-      "ampWebUrl": "https://bigthink.com/videos/sophia-the-robot-ai-threat.amp.html",
-      "cdnAmpWebUrl": "https://bigthink-com.cdn.ampproject.org/c/s/bigthink.com/videos/sophia-the-robot-ai-threat.amp.html",
-      "publishedDateTime": "2020-04-10T02:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Big Think",
-        "domain": "bigthink.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://assets.rebelmouse.io/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8yMjkxNjUwMy9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTYwMjE1NzA2M30.GOgoYXP2fQJ_og_DA0MKMmKBLdOKkl43q3I0LKsMQuM/img.jpg?width=1200&height=675",
-          "width": 1200,
-          "height": 675,
-          "title": "Ask Sophia the Robot: Is AI an existential threat to humans?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

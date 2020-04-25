@@ -2,6 +2,96 @@
   "page": 79,
   "value": [
     {
+      "path": "_news/2020-02-14-new-facial-recognition-app-promises-to-solve-crimes-critics-say-it-means-end-of-privacy.md",
+      "title": "New facial recognition app promises to solve crimes, critics say it means end of privacy",
+      "excerpt": "A class action lawsuit filed Wednesday in New York federal court claims a breakthrough facial recognition technology designed for law enforcement use is illegally taking people’s biometric information without their consent. The lawsuit was filed by two individuals from Illinois who claim the company behind the technology, Clearview AI ...",
+      "heat": 110,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.foxnews.com/us/new-facial-recognition-app-promises-to-solve-crimes-critics-say-its-the-end-of-privacy",
+      "ampWebUrl": "https://www.foxnews.com/us/new-facial-recognition-app-promises-to-solve-crimes-critics-say-its-the-end-of-privacy.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/new-facial-recognition-app-promises-to-solve-crimes-critics-say-its-the-end-of-privacy.amp",
+      "publishedDateTime": "2020-02-14T06:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2019/08/bc4a043e-532521-microsoft-facial-recognition.jpg",
+          "width": 810,
+          "height": 456,
+          "title": "New facial recognition app promises to solve crimes, critics say it means end of privacy",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2020-02-14-nvidia-shares-surge-on-signs-of-a-machine-learning-boom.md",
+      "title": "Nvidia shares surge on signs of a machine learning boom",
+      "excerpt": "Nvidia stunned analysts with strong quarterly results and joined rivals Intel and Advanced Micro Devices in predicting strong demand for chips used in data centers and A.I.",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2020/02/14/nvidia-nvda-earnings-q4-2020.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/02/14/nvidia-nvda-earnings-q4-2020.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/02/14/nvidia-nvda-earnings-q4-2020.html",
+      "publishedDateTime": "2020-02-14T06:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/105398954-1534357352806rts1xdsi.jpg?v=1534357453",
+          "width": 3846,
+          "height": 2564,
+          "title": "Nvidia shares surge on signs of a machine learning boom",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-02-14-hypodermic-needles-left-in-self-driving-cars-is-an-ominous-harbinger-of-whats-to-come.md",
       "title": "Hypodermic Needles Left In Self-Driving Cars Is An Ominous Harbinger Of What’s To Come",
       "excerpt": "Reckless passengers are leaving hypodermic needles in self-driving cars, it's a problem that's going to get worse.",
@@ -992,80 +1082,6 @@
       "topics": [
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-13-senators-introduce-facial-recognition-bill-proposing-moratorium-on-government-use.md",
-      "title": "Senators introduce facial recognition bill proposing moratorium on government use",
-      "excerpt": "Two Democratic senators introduced a bill on Wednesday that would place a moratorium on the use of facial recognition technology by the federal government. Sen. Jeff Merkley (D-Ore.) and Sen. Cory Booker (D-N.J.) introduced the Ethical Use of Facial Recognition Act. Besides placing a moratorium on the federal government’s use of the ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.dailydot.com/layer8/facial-recognition-moratorium-bill-merkley-booker/",
-      "ampWebUrl": "https://www.dailydot.com/layer8/facial-recognition-moratorium-bill-merkley-booker/?amp",
-      "cdnAmpWebUrl": "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/layer8/facial-recognition-moratorium-bill-merkley-booker/?amp",
-      "publishedDateTime": "2020-02-13T06:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Dot",
-        "domain": "dailydot.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.dailydot.com/wp-content/uploads/2020/02/Facial-Recognition-Bill-Congress-Merkley-Booker-1024x512.jpg",
-          "width": 1024,
-          "height": 512,
-          "title": "Senators introduce facial recognition bill proposing moratorium on government use",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-02-13-intuition-robotics-raises-36m-for-cognitive-agents-for-seniors-smart-vehicles.md",
-      "title": "Intuition Robotics raises $36M for cognitive agents for seniors, smart vehicles",
-      "excerpt": "Intuition Robotics Ltd., which has been developing cognitive agents to interact with ... as well as socially engaged. The company’s “Q” cognitive artificial intelligence product, which powers EllliQ, is available to third parties, starting with automakers. “This investment will fuel the evolution of agents from utilitarian digital ...",
-      "heat": 95,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.therobotreport.com/intuition-robotics-series-b-cognitive-agents/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-13T06:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2020/02/ElliQ_3-1024x773-1.jpg",
-          "width": 1024,
-          "height": 773,
-          "title": "Intuition Robotics raises $36M for cognitive agents for seniors, smart vehicles",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

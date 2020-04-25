@@ -2,6 +2,43 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-04-21-deep-learning-model-can-make-dentists-work-easier.md",
+      "title": "Deep learning model can make dentists' work easier",
+      "excerpt": "The model is based on a fully convolutional architecture, which makes it as fast and data-efficient as possible. Based on the research results, this type of a deep learning model can localize the mandibular canals highly accurately. It surpasses the statistical shape models, which have thus far been the best, automatized method to localize the ...",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.news-medical.net/news/20200421/Deep-learning-model-can-make-dentists-work-easier.aspx",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20200421/Deep-learning-model-can-make-dentists-work-easier.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200421/Deep-learning-model-can-make-dentists-work-easier.aspx",
+      "publishedDateTime": "2020-04-21T09:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.news-medical.net/image.axd?picture=2019%2f5%2ffuturistic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": "Deep learning model can make dentists' work easier",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-21-low-trust-versus-high-trust-beliefs-will-impact-the-growth-of-ai-including-for-self-driving-cars.md",
       "title": "Low-Trust Versus High-Trust Beliefs Will Impact The Growth Of AI, Including For Self-Driving Cars",
       "excerpt": "To make things parsimonious, there are two overarching categories conventionally used when discussing trust levels, namely a citizenry of little or no trust, known as a low-trust nation or locale, versus being characterized as a high-trust nation or locale,",
@@ -1253,50 +1290,6 @@
           "width": 680,
           "height": 383,
           "title": "The Station: Pony.ai turns to delivery, Kodiak cuts, Lime snaps up Boosted’s IP",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-20-brief-oncodesign-announces-creation-of-artificial-intelligence-business-unit.md",
-      "title": "BRIEF-Oncodesign Announces Creation Of Artificial Intelligence Business Unit",
-      "excerpt": "Oncodesign SA: * ANNOUNCES CREATION OF ITS NEW ARTIFICIAL INTELLIGENCE BUSINESS UNIT (BU) HEADED UP BY STÉPHANE GERART * NEW BU WILL BE BASED MAINLY IN DIJON",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.reuters.com/article/brief-oncodesign-announces-creation-of-a-idUSFWN2C819O",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSFWN2C819O",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSFWN2C819O",
-      "publishedDateTime": "2020-04-20T09:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png",
-          "width": 1200,
-          "height": 630,
-          "title": "BRIEF-Oncodesign Announces Creation Of Artificial Intelligence Business Unit",
           "attribution": null
         }
       ],

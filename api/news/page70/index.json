@@ -2,6 +2,96 @@
   "page": 70,
   "value": [
     {
+      "path": "_news/2020-02-24-google-ai-chief-dean-sees-evolution-in-mlperf-benchmark-for-machine-learning.md",
+      "title": "Google AI chief Dean sees evolution in MLPerf benchmark for machine learning",
+      "excerpt": "If computer systems are to evolve to handle ever larger machine learning models, a standard way to compare the effectiveness of those systems is essential, according to Google head of AI, Jeff Dean. But that system of measurement itself must evolve over time, he said. \"I think the MLPerf benchmark suite is actually going to be very effective ...",
+      "heat": 118,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/google-ai-chief-dean-sees-evolution-in-mlperf-benchmark-for-ai/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-ai-chief-dean-sees-evolution-in-mlperf-benchmark-for-ai/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-ai-chief-dean-sees-evolution-in-mlperf-benchmark-for-ai/",
+      "publishedDateTime": "2020-02-24T08:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/2020/02/24/47c5d178-a38a-4ccc-8b13-5f32e97779b7/mlperf-benchmarks-for-various-networks.png",
+          "width": 2048,
+          "height": 1261,
+          "title": "Google AI chief Dean sees evolution in MLPerf benchmark for machine learning",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2020-02-24-googles-ai-detects-adversarial-attacks-against-image-classifiers.md",
+      "title": "Google’s AI detects adversarial attacks against image classifiers",
+      "excerpt": "Defenses against adversarial attacks, which in the context of AI refer to techniques that fool models through malicious input, are increasingly being broken by “defense-aware” attacks. In fact, most state-of-the-art methods claiming to detect adversarial attacks have been counteracted shortly after their publication. To break the cycle ...",
+      "heat": 167,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/02/24/googles-ai-detects-adversarial-attacks-against-image-classifiers/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-24T08:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/02/4d7874af-b02e-40f1-8c6a-51d9d85f4d09-e1582563235661.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 774,
+          "title": "Google’s AI detects adversarial attacks against image classifiers",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-02-24-5-reasons-to-choose-pytorch-for-deep-learning.md",
       "title": "5 reasons to choose PyTorch for deep learning",
       "excerpt": "While the fast.ai course uses fast.ai’s own library that provides further abstractions on top of PyTorch (making it even easier to get to grips with deep learning), the course also delves deep into the fundamentals, building a PyTorch-like library from scratch, which will give you a thorough understanding of how the internals of PyTorch ...",
@@ -956,95 +1046,6 @@
         "AI",
         "Natural Language Processing",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-22-artificial-intelligence-set-to-jazz-up-software-development-and-deployment.md",
-      "title": "Artificial intelligence set to jazz up software development and deployment",
-      "excerpt": "Artificial intelligence and machine learning has the potential to boost many, many areas of the enterprise. As explored in my recent post, it is capable of accelerating and adding intelligence to supply chain management, human resources, sales, marketing and finance. Oh, and one more area, by the way -- IT management. The inevitable impact of ...",
-      "heat": 95,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/how-artificial-intelligence-will-jazz-up-software-development-and-deployment/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/how-artificial-intelligence-will-jazz-up-software-development-and-deployment/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-artificial-intelligence-will-jazz-up-software-development-and-deployment/",
-      "publishedDateTime": "2020-02-22T07:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2020/01/31/feb50686-cae2-407b-a9cc-d43f81bfe48b/thumbnail/1200x675/a4bdd67a9d47da93ecd63a666ea9a9a4/phone-mask.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Artificial intelligence set to jazz up software development and deployment",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-22-heres-why-the-ai-at-the-wheel-of-a-self-driving-car-might-be-male-female-gender-fluid-or-gender-neutral.md",
-      "title": "Here’s Why The AI At The Wheel Of A Self-Driving Car Might Be Male, Female, Gender-Fluid, Or Gender-Neutral",
-      "excerpt": "Do you think that men are better drivers than women, or do you believe that women are better drivers than men? Seems like most of us have an opinion on the matter, one way or another. In a stereotypical manner,",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/02/22/heres-why-the-ai-at-the-wheel-of-a-self-driving-car-might-be-male-female-gender-fluid-or-gender-neutral/",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/02/22/heres-why-the-ai-at-the-wheel-of-a-self-driving-car-might-be-male-female-gender-fluid-or-gender-neutral/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/02/22/heres-why-the-ai-at-the-wheel-of-a-self-driving-car-might-be-male-female-gender-fluid-or-gender-neutral/amp/",
-      "publishedDateTime": "2020-02-22T07:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1042124056%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5472%26cropY1%3D277%26cropY2%3D3355",
-          "width": 1200,
-          "height": 675,
-          "title": "Here’s Why The AI At The Wheel Of A Self-Driving Car Might Be Male, Female, Gender-Fluid, Or Gender-Neutral",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

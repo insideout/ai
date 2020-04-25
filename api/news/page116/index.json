@@ -2,6 +2,95 @@
   "page": 116,
   "value": [
     {
+      "path": "_news/2020-01-12-the-white-houses-new-ai-principles-wont-solve-regulatory-problems.md",
+      "title": "The White House’s new AI principles won’t solve regulatory problems",
+      "excerpt": "The principles themselves address some of the concerns raised by the AI ethics community and academics who study the effects of technology on society. One such principle calls for lawmakers to consider whether the technology will “introduce real-world bias that produces discriminatory outcomes,” echoing the rallying cries of academics who ...",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/01/11/the-white-houses-new-ai-principles-wont-solve-regulatory-problems/",
+      "ampWebUrl": "https://venturebeat.com/2020/01/11/the-white-houses-new-ai-principles-wont-solve-regulatory-problems/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/11/the-white-houses-new-ai-principles-wont-solve-regulatory-problems/amp/",
+      "publishedDateTime": "2020-01-11T19:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2017/01/white-house-north-view.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "The White House’s new AI principles won’t solve regulatory problems",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2020-01-12-researchers-are-we-on-the-cusp-of-an-ai-winter.md",
+      "title": "Researchers: Are we on the cusp of an ‘AI winter’?",
+      "excerpt": "some researchers believe it would be wrong to call this new phase an AI winter. Robot Wars judge Noel Sharkey, who is also a professor of AI and robotics at Sheffield University, told the BBC that he likes the term \"AI autumn\" - and several others agree.",
+      "heat": 187,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.bbc.com/news/technology-51064369",
+      "ampWebUrl": "https://www.bbc.com/news/amp/technology-51064369",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-51064369",
+      "publishedDateTime": "2020-01-11T16:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/136BA/production/_110464597_atlas.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": "Researchers: Are we on the cusp of an ‘AI winter’?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-01-12-capillary-technologies-achieves-aws-retail-competency-status.md",
       "title": "Capillary Technologies achieves AWS retail competency status",
       "excerpt": "Boosting Innovation: Capillary has also used Amazon Rekognition to drive an effective customer engagement solution powered by smart IoT sensors deployed in the stores. The technology captures information about visitors such as how much time they spend in a ...",
@@ -1009,97 +1098,6 @@
       "topics": [
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-01-10-self-driving-car-market-revenue-of-usd-17315-bn-by-2023.md",
-      "title": "Self-driving car market revenue of USD 173.15 Bn by 2023",
-      "excerpt": "The global self-driving car market is expected to expand at a CAGR of 36.2%, leading to global revenue of USD 173.15 Bn by 2023. A self-driving car, also known as an autonomous car or driverless car,",
-      "heat": 64,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/self-driving-car-market-revenue-of-usd-17315-bn-by-2023-2020-01-10",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-09T22:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Self-driving car market revenue of USD 173.15 Bn by 2023",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-01-09-amazons-autogluon-produces-ai-models-with-as-little-as-3-lines-of-code.md",
-      "title": "Amazon’s AutoGluon produces AI models with as little as 3 lines of code",
-      "excerpt": "AutoGluon’s debut follows on the heels of major upgrades to Amazon Web Services’ (AWS’) SageMaker, a toolkit for continuously training and deploying machine learning models to cloud and edge environments. AWS SageMaker Studio is a model training and workflow management tool that collects all the code, notebooks, and folders for machine ...",
-      "heat": 121,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/01/09/amazons-autogluon-produces-ai-models-with-as-little-as-three-lines-of-code/",
-      "ampWebUrl": "https://venturebeat.com/2020/01/09/amazons-autogluon-produces-ai-models-with-as-little-as-three-lines-of-code/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/09/amazons-autogluon-produces-ai-models-with-as-little-as-three-lines-of-code/amp/",
-      "publishedDateTime": "2020-01-09T15:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/12/amazon-logo-reuters.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Amazon’s AutoGluon produces AI models with as little as 3 lines of code",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Microsoft AI"
       ]
     }
   ],

@@ -2,6 +2,65 @@
   "page": 39,
   "value": [
     {
+      "path": "_news/2020-03-24-global-chinese-hd-map-markets-insight-2019-2020-industry-leaders-are-amap-baidu-map-navinfo-and-emapgo.md",
+      "title": "Global & Chinese HD Map Markets Insight, 2019-2020 - Industry Leaders are Amap, Baidu Map, NavInfo and eMapgo",
+      "excerpt": "It can be seen from the use of HD map in automakers' L3 self-driving cars to be soon mass-produced that the map leaders like Amap, Baidu Map, NavInfo and eMapgo stay ahead in HD map application.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.globenewswire.com/news-release/2020/03/24/2005473/0/en/Global-Chinese-HD-Map-Markets-Insight-2019-2020-Industry-Leaders-are-Amap-Baidu-Map-NavInfo-and-eMapgo.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-24T05:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GlobeNewswire",
+        "domain": "globenewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-24-ceva-announces-dsp-and-voice-neural-networks-integration-with-tensorflow-lite-for-microcontrollers.md",
+      "title": "CEVA Announces DSP and Voice Neural Networks Integration with TensorFlow Lite for Microcontrollers",
+      "excerpt": "MOUNTAIN VIEW, Calif., March 24, 2020 /PRNewswire/ -- CEVA, Inc. (NASDAQ:CEVA), the leading licensor of wireless connectivity and smart sensing technologies, today announced",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/03/n15648647/ceva-announces-dsp-and-voice-neural-networks-integration-with-tensorflow-lite-for-microcontrollers",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/15648647",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15648647",
+      "publishedDateTime": "2020-03-24T04:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "TensorFlow",
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-24-this-week-amazon-has-a-chance-to-prove-it-can-do-the-right-thing-on-its-own.md",
       "title": "This Week, Amazon Has a Chance to Prove It Can Do the Right Thing on Its Own",
       "excerpt": "The second solicits an independent investigation and report on Amazon’s facial recognition tech, Rekognition, detailing “the extent to which such technology may endanger, threaten, or violate ...",
@@ -983,87 +1042,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-23-microsofts-cloud-and-ai-services-tapped-in-coronavirus-fight.md",
-      "title": "Microsoft's Cloud and AI Services Tapped in Coronavirus Fight",
-      "excerpt": "Microsoft recently described the ways in which its artificial intelligence (AI) and machine learning offerings, as well as its Azure cloud, are being used by researchers and other public health ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://rcpmag.com/articles/2020/03/23/microsoft-cloud-ai-coronavirus-research.aspx",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-23T09:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Redmond Channel Partner",
-        "domain": "rcpmag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://rcpmag.com/-/media/ECG/redmondmag/Images/IntroImages2017/1017red_F2Ransomware.jpg",
-          "width": 647,
-          "height": 450,
-          "title": "Microsoft's Cloud and AI Services Tapped in Coronavirus Fight",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-23-ubers-enhanced-poet-creates-and-solves-ai-agent-training-challenges.md",
-      "title": "Uber’s Enhanced POET creates and solves AI agent training challenges",
-      "excerpt": "They say it produces AI agents capable of solving a range of environmental challenges, many of which can’t be solved through other means, taking a step toward AI systems that could bootstrap themselves to powerful cognitive machines. Picture enterprise AI that learns an objective without instruction beyond a vague task list, or cars that ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/03/23/uber-enhanced-poet-creates-and-solves-its-own-challenges-to-train-ai-agents/",
-      "ampWebUrl": "https://venturebeat.com/2020/03/23/uber-enhanced-poet-creates-and-solves-its-own-challenges-to-train-ai-agents/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/23/uber-enhanced-poet-creates-and-solves-its-own-challenges-to-train-ai-agents/amp/",
-      "publishedDateTime": "2020-03-23T09:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/02/GettyImages-509147578-e1584462768628.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Uber’s Enhanced POET creates and solves AI agent training challenges",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],
