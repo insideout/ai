@@ -43,6 +43,21 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2020/04/GettyImages-175397431.jpg?w=1024"
         width: 1024
         height: 682
+  - title: "AWS unveils open source model server for PyTorch"
+    excerpt: "Model versioning for A/B testing. Metrics for monitoring. RESTful endpoints for application integration. Any deployment environment can be supported by TorchServe, including Kubernetes, Amazon SageMaker, Amazon EKS, and Amazon EC2. TorchServe requires Java 11 on Ubuntu Linux or MacOS. Detailed installation instructions can be found on GitHub."
+    publishedDateTime: 2020-04-25T00:41:00Z
+    webUrl: "https://www.infoworld.com/article/3540415/aws-unveils-open-source-model-server-for-pytorch.html"
+    ampWebUrl: "https://www.infoworld.com/article/3540415/aws-unveils-open-source-model-server-for-pytorch.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3540415/aws-unveils-open-source-model-server-for-pytorch.amp.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 89
+    images:
+      - url: "https://images.idgesg.net/images/article/2019/07/automation_iot_machine-learning_process_ai_artificial-intelligence-by-zapp2photo-getty-100802298-large.jpg"
+        width: 1200
+        height: 800
   - title: "TorchServe, an Open Source Model Server for PyTorch Launched by Facebook and AWS"
     excerpt: "It can be used by AI practitioners to scale cloud training resources according to their needs. The TorchServe framework, complete with TorchElastic, will support all machine learning environments, “including Amazon SageMaker, container services, and Amazon Elastic Compute Cloud (EC2).”"
     publishedDateTime: 2020-04-21T19:43:00Z

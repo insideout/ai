@@ -6,7 +6,7 @@ publishedDateTime: 2020-04-24T13:32:00Z
 webUrl: "https://analyticsindiamag.com/how-tech-giants-are-enhancing-their-conversational-ai-platforms-to-fight-covid-19/"
 type: article
 quality: 34
-heat: -1
+heat: 34
 published: false
 
 provider:
@@ -24,19 +24,19 @@ images:
     title: "How Tech Giants Are Enhancing Their Conversational AI Platforms To Fight COVID-19"
 
 related:
-  - title: "Artificial intelligence and COVID-19 research"
-    excerpt: "Q: How is artificial intelligence helping with the research ... After we identified those cases, we counseled on self-quarantining and therapy as indicated. And we’d like to think that doing that activity has helped to prevent new transmission. Q: Along with tracking the virus, how else is ai being used for COVID research?"
-    publishedDateTime: 2020-04-24T22:22:00Z
-    webUrl: "https://www.anchoragepress.com/news/coronavirus/artificial-intelligence-and-covid-19-research/article_b006aa88-8667-11ea-a4bd-1b8f8314d063.html"
+  - title: "Global Smart Manufacturing Market & Impact of COVID-19, Forecast to 2025: Condition Monitoring, Artificial Intelligence, IIoT, Digital Twin, Industrial 3D Printing ..."
+    excerpt: "DUBLIN--(BUSINESS WIRE)--The \"COVID-19 Impact on Smart Manufacturing Market by Enabling Technology (Condition Monitoring, Artificial Intelligence ... and the emerging & expanding role of collaborative robots in healthcare and manufacturing sectors. The post-COVID-19 market for collaborative robots is expected to witness positive growth in ..."
+    publishedDateTime: 2020-04-24T15:42:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200424005411/en/Global-Smart-Manufacturing-Market-Impact-COVID-19-Forecast"
     type: article
     provider:
-      name: Anchorage Press
-      domain: anchoragepress.com
-    quality: 39
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/anchoragepress.com/content/tncms/assets/v3/editorial/e/f8/ef888988-8667-11ea-b779-bbb3bf7d6a57/5ea34841ee750.image.jpg?crop=768%2C576%2C128%2C0&resize=768%2C576&order=crop%2Cresize"
-        width: 768
-        height: 576
+      - url: "https://mms.businesswire.com/media/20200424005411/en/371054/23/ResearchAndMarkets_800px.jpg"
+        width: 1200
+        height: 627
 
 secured: "JZfGnD4VwCzfRVAMmBm1zdMP9+5ByvhyX1uw0ta4g0SJmaukfGe0tMBJDtVe0TgcXi2PH522mROA2AyYD9P7GuKZY75dG+qC3NGPxRh65FtHeSEWRtvpyq9GozBc6pct8raynM1Dq3Qxq4Lwri1G3Wu6nvKBJ43PvH/Sh4fZWMu1K4zfxJhfqjlKWsMYDGwUnC7HevuRxmTVt2pmfueqWpTCOnh8BQHfVsoQX3xYZnQLOTP7Bm54HEbv98IqpUd8mJIhE4RCQ6gSTlgi5Za7av47YYDpEoUrHGEWWw8zIr5L/M9FDb3NZo35Gn3lxrfJYsrpio+Jac2bL2pJohHnZM7dpq9t3AWlG2QANzjV7RmTSlLhkj2GURPAC1Ua25Fg37/9oiJILgPY+Zk8GJJeMCdaSp++w5YhovvHI6yJqvmCi+T+oZcdgNbfjptdNaM/3ZL5pmgOToebAc93e6mphsGcaO/9/jg/YIPX3HTsfyw=;idBd/eMrGXfrRafZcssWxQ=="
 ---
