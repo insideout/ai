@@ -29,7 +29,7 @@ related:
   - title: "Brain experiments imply adaptation mechanisms which outperform common AI learning algorithms"
     excerpt: "Attempting to imitate the brain’s functionalities, researchers have bridged between neuroscience and artificial intelligence for decades; however, experimental neuroscience has not directly advanced the field of machine learning (ML)."
     publishedDateTime: 2020-04-23T09:07:00Z
-    webUrl: "https://www.nature.com/articles/s41598-020-63755-5?code=9d2a4c59-5580-4d41-b2ee-bcb65e945c93&error=cookies_not_supported"
+    webUrl: "https://www.nature.com/articles/s41598-020-63755-5"
     type: article
     provider:
       name: Nature
