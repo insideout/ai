@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/04/21/intels-project-corail-monitors-co
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/21/intels-project-corail-monitors-coral-reef-health-with-ai/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -30,6 +30,17 @@ images:
     title: "Intel’s Project Corail monitors coral reef health with AI"
 
 related:
+  - title: "Using Artificial Intelligence to Save Coral Reefs"
+    excerpt: "What’s New: Today, on Earth Day 2020, Accenture, Intel and the Sulubaaï Environmental Foundation announced Project: CORaiL, an artificial intelligence (AI)-powered solution to monitor ..."
+    publishedDateTime: 2020-04-22T06:06:00Z
+    webUrl: "https://www.ciol.com/using-artificial-intelligence-save-coral-reefs/"
+    ampWebUrl: "https://www.ciol.com/using-artificial-intelligence-save-coral-reefs/amp/"
+    cdnAmpWebUrl: "https://www-ciol-com.cdn.ampproject.org/c/s/www.ciol.com/using-artificial-intelligence-save-coral-reefs/amp/"
+    type: article
+    provider:
+      name: CIOL
+      domain: ciol.com
+    quality: 39
   - title: "Accenture, Intel and Sulubaaï Environmental Foundation Use Artificial Intelligence to Save Coral Reefs"
     excerpt: "NEW YORK & SANTA CLARA, Calif. & MANILA, The Philippines--(BUSINESS WIRE)--Accenture (NYSE: ACN), Intel and the Philippines-based Sulubaaï Environmental Foundation have developed a new solution powered by artificial intelligence (AI) to monitor, characterize and analyze coral reef resiliency. The solution — the work product of Project ..."
     publishedDateTime: 2020-04-22T04:18:00Z

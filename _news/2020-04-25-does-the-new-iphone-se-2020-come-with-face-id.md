@@ -23,6 +23,6 @@ images:
     height: 720
     title: "Does the new iPhone SE 2020 come with Face ID?"
 
-secured: "KLF3OB2zZfuuLSZ6YWU9ec+co+HG8H/OdSqyrf3Odlte3rO6E+DGmbFHpMXDKIDEPGpHS1mOigo8Pp1cs6sg543fZNxX+aU3INPVl4lhAcy/S6uZurRHdAiYTy6/YSu7GyVgk9f6q/sR6KsFXs3ZL+uIUxyGdwgz90jMp5NeBgczJDYvas9ZRD3Np058dF6G2keGe7SIT4zCwvXOxG6nDuuIlAadJfnnNaX7rNs8wXEC7nKlSTTvXoMg/GHKGwy/XnETbA2p+jmXnyRxWKfT3swDMURJe8ix2V2agmYtEvk3Ud7UjBRjrgGyfpjUSPFk;xRmjzH/wOuFkH+5jPoOQYQ=="
+secured: "bi+Qnu/0vDYXW/IcvCoLPl18Z1oQ7TtM3As1oJnoeuUstx6ZwzN8pcn9jcvrbeoZ8Jrap6i23xYw3FqwR+NdLqGdASOW03S+XhxIaEjd4IXXQIvSZjJY6KvSBD02jJI8YQ1dTOAGshwqaEF2uUXknhG4htLv0xCVDc8eOr+oI+x+qVaq8YWHA7inkcgcDFLTFmSUeIabKBBCEivuC20lxdH+5iaWCK8vexP1McxAA0wd/tRiaxjZJfFUXjbGy3I+A5X4q0bcqk0W9Dg7feN9KMt1s+HBYB0F07jL5emniSK7TfwwICmINOXEFMYXgo+S3so+lDVXJ4Y+pVaXHzDRlSBzh/zu2wF5WEOHawa1rtnvyYD3EoU8Zkskb4uoDY7BH511ceV8eH1YRFlt6i/WFqQ5B1sD41LFPS+rq0r/SoNvMMl/7q+J7BWuAafECusuoreRTgCg8PZpoZ52egZNFhWyPuDd6ufEvQOCn9wuCaU=;pc5y8G2PzbUH4Rv+Aq4O5A=="
 ---
 

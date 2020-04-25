@@ -8,8 +8,8 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/autonomous-grocery-delivery-toy
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/autonomous-grocery-delivery-toyota-pony-ai-irvine-california-coronavirus/"
 type: article
 quality: 68
-heat: 78
-published: true
+heat: 68
+published: false
 
 provider:
   name: CNET
@@ -28,23 +28,6 @@ images:
     width: 1200
     height: 630
     title: "Contactless delivery using self-driving cars coming to Irvine, CA amid coronavirus"
-
-related:
-  - title: "Self-driving cars deliver packages for residents under lockdown in California"
-    excerpt: "AN ARTIFICIAL intelligence company is using autonomous driving tech to deliver as many as 700 packages per day to people under lockdown in California. Pony.ai, a tech start-up founded in America but also based in China, is using the self-driving vehicles to deliver to residents of Irvine, California, who — like most of the world’s ..."
-    publishedDateTime: 2020-04-20T11:25:00Z
-    webUrl: "https://www.driving.co.uk/news/autonomous-car-company-launches-delivery-service-california/"
-    ampWebUrl: "https://www.driving.co.uk/news/autonomous-car-company-launches-delivery-service-california/amp/"
-    cdnAmpWebUrl: "https://www-driving-co-uk.cdn.ampproject.org/c/s/www.driving.co.uk/news/autonomous-car-company-launches-delivery-service-california/amp/"
-    type: article
-    provider:
-      name: Sunday Times Driving
-      domain: driving.co.uk
-    quality: 41
-    images:
-      - url: "https://www.driving.co.uk/s3/st-driving-prod/uploads/2020/04/pony-ai-1024x638.jpg"
-        width: 1024
-        height: 638
 
 secured: "cC+7VmdoYeKGOLu2vEW9IFwTF0beUh9U0sDKOJmY3pkVIgtOhCiFgJtwh8+4c1M5JO83HB4pRVVPlwQ7uEqWTCkxPPEp4WNpkG2dVZQU/MCDuO4E6EdkWVQZOcFgfXDAzkmVwdEXeVgLOmS7dJhSpzqKf7ROUEDHe5bDwvCxmFEZ1FdEd4QieQ41EA5lhrpWQTW5IHuzHJbp8q9xvhYwb5HulARg5EdxPhKISObykIlbQZCzYSL1ROXfRcayPRQs5O7t3brLL5mpzKhLm8sJGSd3URvPyxaixqic+IQqR9CinX4I3yO5Tbgl9MiHqmN3EwbAV3vzLi/i1RRJQjuT6ymn9yHNilp6H7fHKNHC32b/MsomrSRl+n92f8FGgM/6X3dhq4XlXX4GIxzv+rh4KoZPcGxNHf6/7EP629NVO5tXTFvLeuT+iGkZiXpQ/3rly7l/xjP/3MDwufCt5VhTqnplVUo3yDe7sT+xQISaGIU=;UAb7NqJjXiwyD5uElP29Pg=="
 ---
