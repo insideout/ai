@@ -2,6 +2,51 @@
   "page": 41,
   "value": [
     {
+      "path": "_news/2020-03-17-human-behavior-and-group-dynamics-can-be-reshaped-by-ai-use-including-via-ai-self-driving-cars.md",
+      "title": "Human Behavior And Group Dynamics Can Be Reshaped By AI Use, Including Via AI Self-Driving Cars",
+      "excerpt": "Suppose you interact with an AI system, such as a robot, and in so doing your behavior changes based on that interaction. This makes sense in that we already today interact with the likes of Alexa and Siri,",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/03/16/human-behavior-and-group-dynamics-can-be-reshaped-by-ai-use-including-via-ai-self-driving-cars/",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/03/16/human-behavior-and-group-dynamics-can-be-reshaped-by-ai-use-including-via-ai-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/03/16/human-behavior-and-group-dynamics-can-be-reshaped-by-ai-use-including-via-ai-self-driving-cars/amp/",
+      "publishedDateTime": "2020-03-16T21:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e6d588faa5428000759e27c%2F0x0.jpg%3FcropX1%3D331%26cropX2%3D4974%26cropY1%3D0%26cropY2%3D3482",
+          "width": 1200,
+          "height": 900,
+          "title": "Human Behavior And Group Dynamics Can Be Reshaped By AI Use, Including Via AI Self-Driving Cars",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-17-top-5-researches-on-visual-speech-recognition.md",
       "title": "Top 5 Researches On Visual Speech Recognition",
       "excerpt": "Visual speech recognition (also known as lipreading) is considered to be one of the most futuristic applications of AI. So far, there haven’t been major breakthroughs, and the domain is slowly catching up to audio-based speech recognition. Visual speech recognition provides machines with the ability to understand languages in noisy ...",
@@ -1098,35 +1143,6 @@
         "Google AI",
         "AI",
         "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2020-03-16-closedloopai-announces-release-of-free-open-source-ai-based-tool-to-identify-individuals-vulnerable-to-severe-complications-of-covid-19.md",
-      "title": "ClosedLoop.ai Announces Release of Free Open Source AI-based Tool to Identify Individuals Vulnerable to Severe Complications of COVID-19",
-      "excerpt": "on Amazon's SageMaker platform, and via ClosedLoop's HIPAA compliant hosted platform. The CV19 Index is available for use through any of these methods at no cost ClosedLoop has created a forum at ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.benzinga.com/pressreleases/20/03/b15556274/closedloop-ai-announces-release-of-free-open-source-ai-based-tool-to-identify-individuals-vulnerab",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/15556274",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15556274",
-      "publishedDateTime": "2020-03-16T04:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

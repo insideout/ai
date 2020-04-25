@@ -2,6 +2,51 @@
   "page": 56,
   "value": [
     {
+      "path": "_news/2020-02-26-machine-learning-artificial-intelligence-virtual-reality-and-retailers.md",
+      "title": "Machine Learning, Artificial Intelligence, Virtual Reality And Retailers",
+      "excerpt": "These technologies are very quickly making the transition from novelties to be marveled at to fixtures that will define many of the activities that comprise our daily lives. But how does this translate for retailers?",
+      "heat": 118,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/26/machine-learning-artificial-intelligence-virtual-reality-and-retailers/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/26/machine-learning-artificial-intelligence-virtual-reality-and-retailers/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/02/26/machine-learning-artificial-intelligence-virtual-reality-and-retailers/amp/",
+      "publishedDateTime": "2020-02-26T04:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/dam/imageserve/1034313794/960x0.jpg?fit=scale",
+          "width": 711,
+          "height": 474,
+          "title": "Machine Learning, Artificial Intelligence, Virtual Reality And Retailers",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-02-26-macadamian-to-host-ai-in-healthcare-webinar-with-microsoft-canadas-national-chief-data-scientist.md",
       "title": "Macadamian to host AI in Healthcare webinar with Microsoft Canada's National Chief Data Scientist",
       "excerpt": "GATINEAU, Quebec, Feb. 26, 2020 /PRNewswire/ -- Macadamian, a leading digital and connected healthcare software development consultancy, announced that it will host a webinar with Microsoft Canada titled AI in Healthcare: 5 Things Every Product Owner Should Know.",
@@ -1230,51 +1275,6 @@
         "AI",
         "Machine Learning",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-25-zoho-full-stack-operating-system-and-data-protector.md",
-      "title": "Zoho: Full stack, operating system, and data protector",
-      "excerpt": "Following the ongoing cloud (r)evolution, AI, voice, UX/UI and macro trends such as digital transformation and the rise of the cognitive enterprise are ... Zoho's app services, data centers and proprietary layers of its full stack position the company against the likes of Microsoft, Google, IBM and Oracle. And, since Zoho's full stack includes ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/zoho-full-stack-operating-system-and-data-protector/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/zoho-full-stack-operating-system-and-data-protector/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/zoho-full-stack-operating-system-and-data-protector/",
-      "publishedDateTime": "2020-02-25T09:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/02/24/43e6dbde-98b9-41a7-aa32-e4bb4d160600/zoho-stack.png",
-          "width": 975,
-          "height": 590,
-          "title": "Zoho: Full stack, operating system, and data protector",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

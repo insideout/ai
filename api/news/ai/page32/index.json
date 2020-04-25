@@ -2,6 +2,51 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2020-03-24-researchers-propose-paradigm-that-trains-ai-agents-through-evolution.md",
+      "title": "Researchers propose paradigm that trains AI agents through evolution",
+      "excerpt": "A paper published by researchers at Carnegie Mellon University, San Francisco research firm OpenAI, Facebook AI Research, and the University of California, Berkeley, and Shanghai Jiao Tong University describes a paradigm that scales up multi-agent reinforcement learning, where AI models learn by having agents interact within an environment such ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/03/24/researchers-propose-paradigm-that-trains-ai-agents-through-evolution/",
+      "ampWebUrl": "https://venturebeat.com/2020/03/24/researchers-propose-paradigm-that-trains-ai-agents-through-evolution/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/24/researchers-propose-paradigm-that-trains-ai-agents-through-evolution/amp/",
+      "publishedDateTime": "2020-03-24T10:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/03/AI_winter-e1585070939495.jpg?fit=1200%2C602&strip=all",
+          "width": 1200,
+          "height": 602,
+          "title": "Researchers propose paradigm that trains AI agents through evolution",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-24-artificial-intelligence-in-healthcare-why-transparency-matters.md",
       "title": "Artificial Intelligence in Healthcare: Why Transparency Matters",
       "excerpt": "The growing presence of artificial intelligence during the care delivery process continues to show potential ... algorithms and machine learning to accurately detect cancer and heart disease; and robot-assisted therapy for recovering stroke patients. “We’re getting to a point where machines can start telling us things we don’t know ...",
@@ -1166,51 +1211,6 @@
         "Computer Vision",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-03-24-8-d-list-characters-who-tried-and-failed-to-replace-a-list-superheroes.md",
-      "title": "8 D-List Characters Who Tried And Failed To Replace A-List Superheroes",
-      "excerpt": "Apparently their best idea for replacing the Human Torch was a woefully annoying robot. Pitched by Stan ... having been mind controlled by time-traveling supervillain Kang the Conqueror.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://io9.gizmodo.com/8-d-list-characters-who-tried-and-failed-to-replace-a-l-1705795950",
-      "ampWebUrl": "https://io9.gizmodo.com/8-d-list-characters-who-tried-and-failed-to-replace-a-l-1705795950/amp",
-      "cdnAmpWebUrl": "https://io9-gizmodo-com.cdn.ampproject.org/c/s/io9.gizmodo.com/8-d-list-characters-who-tried-and-failed-to-replace-a-l-1705795950/amp",
-      "publishedDateTime": "2020-03-23T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "io9.gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/1260906929369303437.png",
-          "width": 800,
-          "height": 450,
-          "title": "8 D-List Characters Who Tried And Failed To Replace A-List Superheroes",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

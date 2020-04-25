@@ -2,6 +2,51 @@
   "page": 80,
   "value": [
     {
+      "path": "_news/2020-01-30-microsoft-azure-ai-the-right-platform-for-your-machine-learning-ambition.md",
+      "title": "Microsoft Azure AI — the right platform for your machine learning ambition?",
+      "excerpt": "The core product is Azure Machine Learning, including the ML Studio, which is intended to provide a complete service suite for data scientists and machine learning engineers. As always ...",
+      "heat": 97,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/appanion/microsoft-azure-ai-the-right-platform-for-your-machine-learning-ambition-1da94d260abc",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-30T01:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/1024/1*TwU76v22s7tRfiLvXKapUQ.png",
+          "width": 1024,
+          "height": 769,
+          "title": "Microsoft Azure AI — the right platform for your machine learning ambition?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-01-30-artificial-intelligence-in-construction-market-big-changes-to-have-big-impact.md",
       "title": "Artificial Intelligence In Construction Market - Big Changes to Have Big Impact",
       "excerpt": "The Exploration study offers in-depth assessment of Artificial Intelligence In Construction Market and helps market participants to gain strong insights of the industry to make valuable decision. The study highlights assessment of the market by giving lot of focus on futuristic trend,",
@@ -1227,51 +1272,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-01-29-google-translate-app-to-transcribe-and-translate-in-real-time.md",
-      "title": "Google Translate App to Transcribe and Translate in Real Time",
-      "excerpt": "As CNET reports, Google was showing off a number of its AI projects earlier this week in San Francisco. One of them is a new feature heading to the Google Translate app a few months from now which allows a conversation to be transcribed in real-time while simultaneously being translated into another language. From a practical point of view it ...",
-      "heat": 114,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.entrepreneur.com/article/345665",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/345665",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/345665",
-      "publishedDateTime": "2020-01-29T08:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/20200129163936-google-translate.jpeg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": "Google Translate App to Transcribe and Translate in Real Time",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

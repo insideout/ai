@@ -2,18 +2,24 @@
 category: news
 title: "New Web-Based AutoML Tool from SensiML Makes AI for IoT Easier than Ever"
 excerpt: "PORTLAND, Ore., April 16, 2020 /PRNewswire/ -- SensiML™ Corporation, a leading developer of AI tools for building intelligent IoT endpoints, has released a new web-based AutoML tool with a ..."
-publishedDateTime: 2020-04-16T13:23:00Z
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/new-web-based-automl-tool-from-sensiml-makes-ai-for-iot-easier-than-ever/article_35c486af-26f5-5532-8c78-a677135b8da5.html"
+publishedDateTime: 2020-04-16T13:07:00Z
+webUrl: "https://www.prnewswire.com/news-releases/new-web-based-automl-tool-from-sensiml-makes-ai-for-iot-easier-than-ever-301041756.html"
 type: article
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Machine Learning
   - AI
 
-secured: "LGRjjKpIEe32gOvsH01JAU8wSg4zhD00/FbfS57H68q+938nsvo+QU6WopXGEnemwonzB+nc6WRl7q4MCXX2C2OuOKw40zM/kOAQ+XDmt7vt7FeAdhYLplv7g364r4Vp/FTStUv4WB/IRbdl1ydRIyeOlagjLaNQztr7fRTocPm+vYhWhE7wWS/2QxPtpwO7vaZVb03Y2JSAdCAHbFN1++K5nGOpncoz05mj8ZYdEmZMd3z9y9xm5KZAx1e9o9OPJrmBQqjtgS8kYhcdSbwkiN4DriFDYdPJzHg8smgptwckWVTjciq/0cQvc5+io2Ae;GqrJCxqXH8Y1NoxeL78mPg=="
+images:
+  - url: "https://mma.prnewswire.com/media/891804/SensiML_Logo.jpg?p=facebook"
+    width: 2059
+    height: 1079
+    title: "New Web-Based AutoML Tool from SensiML Makes AI for IoT Easier than Ever"
+
+secured: "5m8a6rOe+2jHUFTa2yfaGm3w1P0bIUkW2wD+5lpN72Eq5fER2LEaMfDtRffY4XHoZ6mLCSQBqK3ybGyR34bsMDYmpd6ueCNUgGXeypCbfrT/TZYnzC3mtTO0g2DDCFW+ywCxYWimT4JaNcnodDK4Pe0IeYZmKL2B3shys7ocpMiXhCkwe16BBxLvYv4g9Mb26vyBt4uHo3gmLhUdfuVqPZSIAk7huDYXc66LhvCX6Y7qITUPpKQun36E5kVo+Bb1gGHYj8UjpQSN6NHgWEluhzoUzSR4mMaAUp2ZjKg+QIOHtapA9wIzRRNYtDRY8BRd;5+cvoswzHpMc/793bB+JXQ=="
 ---
 

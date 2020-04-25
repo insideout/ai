@@ -2,6 +2,42 @@
   "page": 65,
   "value": [
     {
+      "path": "_news/2020-02-17-chicago-kids-company-presents-goldilocks-the-three-bears.md",
+      "title": "Chicago Kids Company Presents Goldilocks & The Three Bears",
+      "excerpt": "When Goldilocks and her dog, Bailey, venture into the woods to find a friend for her mom, she stumbles upon a cute house with three bowls of porridge, three chairs and three beds, but no one is home. Will Goldi be able to make it back to her mom before she ...",
+      "heat": 122,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.chicagoparent.com/events/chicago-kids-company-presents-goldilocks-three-bears/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-17T02:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chicago Parent",
+        "domain": "chicagoparent.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.chicagoparent.com/downloads/22705/download/calendar%20-%20performances%20Chicago%20Kids%20Company%27s%20GOLDILOCKS%20AND%20THE%20THREE%20BEARS.jpeg?cb=80b27000e1de900824773ebcd4ca2a81&w=1200",
+          "width": 1200,
+          "height": 1600,
+          "title": "Chicago Kids Company Presents Goldilocks & The Three Bears",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-02-17-how-the-race-to-autonomous-cars-got-sidetracked-by-human-nature.md",
       "title": "How the race to autonomous cars got sidetracked by human nature",
       "excerpt": "If you believed the early hype about autonomous cars ... have told me that it’s actually harder for a human to remain ready to take control than it is for them to fully control the vehicle. On top of that, studies have shown that even in controlled test environments, human reaction time for taking over an autonomous system is often to slow ...",
@@ -1177,51 +1213,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-14-new-facial-recognition-app-promises-to-solve-crimes-critics-say-it-means-end-of-privacy.md",
-      "title": "New facial recognition app promises to solve crimes, critics say it means end of privacy",
-      "excerpt": "A class action lawsuit filed Wednesday in New York federal court claims a breakthrough facial recognition technology designed for law enforcement use is illegally taking people’s biometric information without their consent. The lawsuit was filed by two individuals from Illinois who claim the company behind the technology, Clearview AI ...",
-      "heat": 110,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.foxnews.com/us/new-facial-recognition-app-promises-to-solve-crimes-critics-say-its-the-end-of-privacy",
-      "ampWebUrl": "https://www.foxnews.com/us/new-facial-recognition-app-promises-to-solve-crimes-critics-say-its-the-end-of-privacy.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/new-facial-recognition-app-promises-to-solve-crimes-critics-say-its-the-end-of-privacy.amp",
-      "publishedDateTime": "2020-02-14T06:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2019/08/bc4a043e-532521-microsoft-facial-recognition.jpg",
-          "width": 810,
-          "height": 456,
-          "title": "New facial recognition app promises to solve crimes, critics say it means end of privacy",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Amazon Announces General Availability of AWS Deepcomposer"
-excerpt: "Recently, Amazon announced the general availability of Deepcomposer, a service in AWS, which provides developers with a creative way to learn Machine Learning (ML). Deepcomposer is a machine ..."
-publishedDateTime: 2020-04-11T11:09:00Z
-webUrl: "https://www.infoq.com/news/2020/04/amazon-aws-deepcomposer-ga/?useSponsorshipSuggestions=true&itm_source=presentations_about_architecture-design&itm_medium=link&itm_campaign=architecture-design"
+excerpt: "At re:Invent last year, Amazon launched AWS Deepcomposer as a preview, and it is generally available now with a few new features. These features include: Julien Simon, artificial intelligence & machine learning evangelist for EMEA, states in a blog post on the GA of Deepcomposer: Until now, developers interested in growing skills in GANs haven ..."
+publishedDateTime: 2020-04-11T11:30:00Z
+webUrl: "https://www.infoq.com/news/2020/04/amazon-aws-deepcomposer-ga/"
 type: article
 
 provider:
@@ -20,6 +20,6 @@ images:
     height: 835
     title: "Amazon Announces General Availability of AWS Deepcomposer"
 
-secured: "JskVZQibKcc5S6GbSpmsNhA0p4RlEJSchuF4Q+xGZL6jWlZUE/ZMXoTSXlv38MFKmx3tv6oVFyjZg2If9emFi5p6bXvwVj8vUfuAIjqRdPBRB6YIcegcB3WtYYoWMvANj6AgUEDolTsZ904YLSInPTwTgFjoF94LEHa1dOwKP/2C6nJyn9sHlsrRcyoceaHvb80K7xUFlk1Vo41Z9A0TaeSeB16AA+ZVmUBvPS/huiDzNQHwsNRXzMck8E1gl5SK6LpLPO6AD086/yTHzW84eHm2+Kq1h9iNN+WhqtZizL59xibjiydr8arMqSndyNnf;UjjXSlbF2mJc/miZSKno8A=="
+secured: "ZFK/Gk6IORrFwu3gDXPD/TL397DGj4zjRwiSPasJIM5PWZAAdTs+sIcpwTqjSVumA8/DasYdb0MxQ2cTQP3C+i1ALuLsEyFLMmHogNnpGT4qf/MAlioMhPoDEnvPRENBKGBHxiEAA+aF/SS3H/AlvjMSfnO6lTyxa872f5lfdHhn1W3UWlX/oDD47N+LV+ZCSgxl7MCBmrsws7wO9kgiZReyh7UDAXHgMEaAH1rQhOOmcc+xf4mNvmcOzVQjEj/VmO6NYL8DxhxbTtvz7DKxaW2/MiyJSleaf8v21fxoJTVoZHEdv9/SqRsoLzmfl0+5;zXLu4zrmEXZVuPxYX6/cKQ=="
 ---
 
