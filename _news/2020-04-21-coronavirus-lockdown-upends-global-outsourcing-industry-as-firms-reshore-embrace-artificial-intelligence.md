@@ -24,21 +24,6 @@ images:
     height: 390
     title: "Coronavirus lockdown upends global outsourcing industry as firms 'reshore', embrace artificial intelligence"
 
-related:
-  - title: "Virus Upends Outsourcing As Firms 'Reshore', Embrace AI"
-    excerpt: "Coronavirus is permanently shaking up the global outsourcing industry as lockdowns from Bangalore to Manila prompt firms to \"reshore\" jobs and, with AI, to move further away from needing humans at all."
-    publishedDateTime: 2020-04-21T03:42:00Z
-    webUrl: "https://www.ibtimes.com/virus-upends-outsourcing-firms-reshore-embrace-ai-2962143"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 37
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/04/20/restrictions-on-normal-activity-have-created-a-logistical.jpg"
-        width: 1024
-        height: 682
-
 secured: "+uY0Hmf/zE5gFUnoRbruHBYhQ3ogbMk9kbErFpN9cXPZVXtsxQWC9zrFbSiJywZnUuDjaSE+oh1Uh7HDwxH59wOiCF7klZm03RzNMwHTA5wmXxYWeRdSRLoBvtRbJbew+OJeeKGr1kgANgZKXrhAHVII2pnhAaUKeIGEERgNRAs1/v2cujSmpNZYjKMBik0iOQVLL17U0hXhWkfRHmbEzG2hrS3Bos0TaZoiWOLOG2096O5CVlelNKTudxT/WiQP4jwqyeld6Se2ztMIhjnqepOLsF+S+DnzPC3GkMcQRmd1PEtJYtexAbf2uTZmaJ/OAVEvgLzQqXxE8/kItCzB+BXjAObgllVFzejgvpDMZgfZAE6cW4Lf+FiOuttwT3kKK67NCFawF1rXmQneLaca2FpgO2exKi4hRcwUwcmRnApGRObVcfOmrG3hKtcu3BGG5lbJPDQ7PdaLoXrDbbrkNSRwTvOow37VFD9IkF5SDAs=;rFpQs9wRLh/6wFZRpEDv5A=="
 ---
 

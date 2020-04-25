@@ -5,7 +5,7 @@ excerpt: "This new report titled Global Military Artificial Intelligence (AI) Ma
 publishedDateTime: 2020-04-25T18:44:00Z
 webUrl: "https://www.marketwatch.com/press-release/global-military-artificial-intelligence-ai-market-2020-industry-growth-top-players-segmentation-and-forecast-to-2025-2020-04-25"
 type: article
-quality: 57
+quality: 59
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
