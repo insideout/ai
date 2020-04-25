@@ -8,7 +8,7 @@ ampWebUrl: "https://amp.scmp.com/tech/apps-social/article/3080837/facebook-maps-
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/apps-social/article/3080837/facebook-maps-covid-19-symptoms-us-plans-expand-effort-globally"
 type: article
 quality: 68
-heat: -1
+heat: 68
 published: false
 
 provider:
@@ -28,23 +28,6 @@ images:
     width: 1200
     height: 630
     title: "Facebook maps Covid-19 symptoms in the US, with plans to expand the effort globally"
-
-related:
-  - title: "Facebook, three fintech firms in talks to launch mobile payments service in Indonesia"
-    excerpt: "Facebook is working with three Indonesian digital fintech firms to apply for regulatory approval to launch mobile payments ... Sign up now and get a 10% discount (original price US$400) off the China AI Report 2020 by SCMP Research. Learn about the AI ambitions of Alibaba, Baidu & JD.com through our in-depth case studies, and explore new ..."
-    publishedDateTime: 2020-04-20T09:50:00Z
-    webUrl: "https://www.scmp.com/tech/big-tech/article/3080729/facebook-three-fintech-firms-talks-launch-mobile-payments-service"
-    ampWebUrl: "https://amp.scmp.com/tech/big-tech/article/3080729/facebook-three-fintech-firms-talks-launch-mobile-payments-service"
-    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3080729/facebook-three-fintech-firms-talks-launch-mobile-payments-service"
-    type: article
-    provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 69
-    images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/04/20/72823e74-82e4-11ea-8863-2139a14b0dea_image_hires_181245.JPG?itok=-bpnCTHB&v=1587377576"
-        width: 1200
-        height: 630
 
 secured: "yTGZeGbkZ69cka8pueQuz5gTRqoBn5hTTalq+RlWyhuFfSJvq9ssMeyJub6uZHRL/eusakIRWQcKRXypncqno5FRYv64KJPMYzJA9sUJ2vhZnRIiRIeZ4eEgxkCaCoMm9v2Az3e7c97XIGA9ufGZN+ttw3OGo3yxId4tYI2B2WBCfKvc6AsUXKyl+X9fCP23UJSGr1tp469dQprx04M+VU9rUepfZHIcpQrk7CYJ2EFDM5ECSZUFMLhI/AJDmyHLSfJcvLvjkkXRXcv6sNxOWTmXhTktkHs7MRu6VXT/k2j60I+DkcWFBiDKxxzjBA/itNrCPjZPORForD8XcXymwRzzTY7R6KrBuMIomBuxE8Zf5T4ozAjdnLkoM3hMoLBMwNphoQewK6+xQL1AZJ9LsbDHEw9qGWROEgRMQD7hAywpM2Q4Lau+NyFz6dIYxvPT65cGIZKkja/y2mJmTDnOW5DlPOspOUbFM2L49Y/dv2A=;oNE/MrOY77/FowsN58mt1Q=="
 ---

@@ -6,7 +6,7 @@ publishedDateTime: 2020-04-23T12:49:00Z
 webUrl: "https://www.openpr.com/news/2022400/computer-vision-in-healthcare-market-growth-factors-emerging"
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -16,17 +16,6 @@ provider:
 topics:
   - Computer Vision
   - AI
-
-related:
-  - title: "Global Artificial Intelligence in Healthcare Market"
-    excerpt: "Various trustworthy sources such as journals, websites, annual reports of the companies, and mergers are used for the gathering of data and information mentioned in this Global Artificial Intelligence in Healthcare Market report. Market analysis, market definition, currency and pricing, key developments and market categorization along with ..."
-    publishedDateTime: 2020-04-20T10:51:00Z
-    webUrl: "https://www.openpr.com/news/2016934/global-artificial-intelligence-in-healthcare-market-2020"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 34
 
 secured: "aCEsaxt7YZ9B/60ysFyvyJ+XmHeQ+9aBh1SHQ5ZElGGQWD3fYlAj5AhHc9yorsctdrT1a25Z3Ry8EMCpltzQnCxRnwYFe2FojVsz9b8SQlGVV4LwWNOpgIGd41Ph0yYiqvh0LR/veXvZutxRjGmEF3gn7WE+HxX/WVbXs9rK/+UWuazHUMljlbiN228FE0xA55Yg5AqfVSl4BzRIyj2yCjHqUTzqQwXFhWRASMWWQY3du4glMTRuP2as7b6nDf6fuWYfpai5TWB2kXVGQtzh86xvEpFt3Br8xM4XVz56mvSdbWM+OZPChMkmegWvHfFi;iXPvyfLI0SzxmH3H7gZq2A=="
 ---

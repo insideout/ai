@@ -5,9 +5,9 @@ excerpt: "A new research study has been presented by Market Research Intellect o
 publishedDateTime: 2020-04-24T23:54:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-2020-professional-in-depth-analysis-and-forecast-to-2026-2020-04-24"
 type: article
-quality: 69
-heat: 69
-published: false
+quality: 71
+heat: 71
+published: true
 
 provider:
   name: MarketWatch
@@ -19,6 +19,7 @@ provider:
 
 topics:
   - AI
+  - AI in Finance
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

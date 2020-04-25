@@ -42,15 +42,6 @@ related:
       - url: "https://zdnet3.cbsistatic.com/hub/i/r/2020/03/13/7e404fac-4532-4237-8f10-91e709d6b15b/thumbnail/1200x675/80e3fc902fe3c9d6aba28b44aa664ac0/20200313-tiernan-karen-corona.png"
         width: 1200
         height: 675
-  - title: "Machine learning to help hospitals predict Covid-19 demand"
-    excerpt: "A machine learning (ML) system is being trialled in hospitals in England to manage upcoming demand for beds and ventilators in intensive care units (ICUs) in the Covid-19 coronavirus outbreak. The Covid-19 Capacity Planning and Analysis System (CPAS) was developed by NHS Digital data scientists and a team of researchers from the University of ..."
-    publishedDateTime: 2020-04-20T09:35:00Z
-    webUrl: "https://www.computerweekly.com/news/252481839/Machine-learning-to-help-hospitals-predict-Covid-19-demand"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 19
 
 secured: "2+6XFku3LQP0GrBNtrxJMrI2g+ldWWQTsDG/1Jjv4SWI27052sOfwHrt3w1vf+sQ6o7GcakAoZ3Bn78c1p29l9p2ih7qEzrnx0uA4SuKRFXiVse40JyOYnP1W5FjgS4A4vOvk0TzG61Rjjl8Zm0zOVwLqaYw7AWIZ/Yhlk2upQv98SIVzCjRGFGGm2TU2YPMEeOvbWgaKVYS9TNOAiQ0G3hurwSK58rPHATPb+91n0LlePkWIAZyZC22QItt/eUjP2YYDEPnO9eXFvQgh8TzyKTDZ/kdWTtOI0CFzkGz1Rdv9XMbXIDFbqBHUkPFFcXB7n2uzZjFCTUSSH93izMSdT8X20R4tZ2t5scDxi1gF58JADvmF6NVxPa+XQKVnJpkm6zKkh0TAmdiNrSpdDQjtgwAMbQEOVoakA5tts5jLkIXX/6JUxhxgKMvh4DX8DgYl9GA8l4/pvz5vDzJnwd4VsMZTl3Qv+RlG5ayRl/GmZk=;jdTYxQvcNVUiBDxlMLkqZg=="
 ---

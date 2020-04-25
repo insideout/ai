@@ -283,15 +283,7 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/c/22/c2216860-0a3c-5af2-ba20-9a5b036c0854/5e986247ecbff.image.jpg?resize=400%2C208",
-          "width": 400,
-          "height": 208,
-          "title": "New Web-Based AutoML Tool from SensiML Makes AI for IoT Easier than Ever",
-          "attribution": null
-        }
-      ],
+      "images": null,
       "locale": "en-us",
       "categories": [
         "news"

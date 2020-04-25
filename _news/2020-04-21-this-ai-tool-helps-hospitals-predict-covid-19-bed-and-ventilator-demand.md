@@ -8,7 +8,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/this-ai-tool-helps-hospital
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/this-ai-tool-helps-hospitals-predict-covid-19-bed-and-ventilator-demand/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -42,15 +42,6 @@ related:
       - url: "https://zdnet1.cbsistatic.com/hub/i/r/2020/04/24/742a280b-7590-4355-bd9e-a815a30cb6d8/thumbnail/770x578/25290d8210ce0f2b88a2a121194fdb6a/coronavirus-ai-trial-hopes-to-help-hospi-5ea0150227c3040ebef55129-1-apr-24-2020-9-35-21-poster.jpg"
         width: 770
         height: 578
-  - title: "Machine learning to help hospitals predict Covid-19 demand"
-    excerpt: "A machine learning (ML) system is being trialled in hospitals in England to manage upcoming demand for beds and ventilators in intensive care units (ICUs) in the Covid-19 coronavirus outbreak. The Covid-19 Capacity Planning and Analysis System (CPAS) was developed by NHS Digital data scientists and a team of researchers from the University of ..."
-    publishedDateTime: 2020-04-20T09:35:00Z
-    webUrl: "https://www.computerweekly.com/news/252481839/Machine-learning-to-help-hospitals-predict-Covid-19-demand"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 19
 
 secured: "BlsANTac7sRDeOVaUUei9hD2LHkfrN0C+tEEcBBjr6Cuyw/nBSgLsh/DBJRSYj0eyj0I87xfvI3/ZSMn8KvyetUDJng4loYwxDt8FfTpeGxUZeXNvJdaDsDHPx4zm3FXAjVTVAnOd2ipYi/SA8Y/yqkxSTEa0dWbImrUUf2PBXbQWkLrIwEUQRa0+vNlFl++s5LSuoDIoatRulmtRinxZFg0SWLlD+5FCWqjYfmZ8hk7nMSRl1EcRbMbvUEIMZ1wju6CntubfNofjsDHH0c032Qqu/WdpPljj2B3tSO0hrS6h1hPzG3mpvzIlDOR+5pvCcWRlcT18NlszgWLJcC4XJYl50cyL+x3kEGA38b209cyXXJFRUCvWouPSpHKuuBv+iz4K7mM9hI6WYcHOuGHVx88EbCSOvOZdGPWSMI5VAHZmLiC4DLpsFE4T2x6scLMU5mjHKzEgJ92uHddDVnXABWdwPUy4ACx356Gxx6l9c0=;NhUNLtPnYZA9Wg5vDUy+qw=="
 ---
