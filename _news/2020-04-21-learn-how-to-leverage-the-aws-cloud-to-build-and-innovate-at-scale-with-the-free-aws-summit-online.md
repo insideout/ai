@@ -7,9 +7,6 @@ webUrl: "https://yourstory.com/2020/04/aws-cloud-innovate-summit-online"
 ampWebUrl: "https://yourstory.com/2020/04/aws-cloud-innovate-summit-online/amp"
 cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/04/aws-cloud-innovate-summit-online/amp"
 type: article
-quality: 45
-heat: 45
-published: false
 
 provider:
   name: Your Story
@@ -25,6 +22,6 @@ images:
     height: 300
     title: "Learn how to leverage the AWS cloud, to build and innovate at scale with the free AWS Summit Online"
 
-secured: "ErrvbKvvC1wOZH0z5WdgMdoAmmayqPnq+xCdpaeuSxTpFC2R3NiBmf8zcgjsXLSAgBJnj+/Kx+tFx0vAdN4hUeeqFKaxEsANwj/SLDnFD9RyT3fGdGaV7YjA0IIInKYwV4NzxYi4SL3C9bhzvkk4prX12wRp5ov7Hlv4TxBF+aMoVocTkI925k+4kneNfPmQuaQVFVqyWhN6gamqIEWk+8IwonNF6c9h+o4EPMxJX9GuGzIt6btAGKs2ZEOI7yezL2zUWvEohO3HJ2mx4DQc9rBWh85zDm+HRnGYgDAzuKfv2w/+gNC8W98FT+TdbLvU;hFrdT3ROWiyJFX3YduTJbA=="
+secured: "j1ITE0qYBeeuFsZfh5u3wxZayVvPwDe+TSlFMNqetTV14cqQCcq28XIXA3a9cQ7C2tpGZXm4aaaoUHTlI65Fifjo5hiELXiUkZWMfT/OwC6+U0VK7J/LC/nqLcnPIgKFrAq0J4s3kYhv/MqpKnfCiqwl80z558vbaWg+WFVKiA4EWmG+WWiKvnIcKsi9M/dxpFOamgWqKfKbofOmhVW5q4vRJjHSNly/rQtoByQOplUDTqhZ+uO0rJDkuzb8Ooo2Cq2iDRYaWGtrL/zvfk7+sYrQKMQvEBCwl6dxk0yN02CUsJcTASnfHms9ACyZ0VqM;uLsPakNwZTIV0+cCgdiB8Q=="
 ---
 

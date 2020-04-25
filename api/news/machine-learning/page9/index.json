@@ -2,6 +2,43 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-02-11-arm-targets-iot-with-new-machine-learning-ip-processors.md",
+      "title": "Arm targets IoT with new Machine Learning IP, processors",
+      "excerpt": "The company added new machine learning (ML) IP, a new Cortex processor and neural processing unit (NPU) to its AI platform. In a statement, Arm said the combination of its latest IP with a related set of tools would provide hardware and software developers with more options for innovation when delivering on-device ML, while lowering overall ...",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.mobileworldlive.com/featured-content/devices-home-banner/arm-targets-iot-with-new-machine-learning-ip-processors/",
+      "ampWebUrl": "https://www.mobileworldlive.com/featured-content/devices-home-banner/arm-targets-iot-with-new-machine-learning-ip-processors/amp/",
+      "cdnAmpWebUrl": "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/featured-content/devices-home-banner/arm-targets-iot-with-new-machine-learning-ip-processors/amp/",
+      "publishedDateTime": "2020-02-11T02:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mobile World Live",
+        "domain": "mobileworldlive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i0.wp.com/www.mobileworldlive.com/wp-content/uploads/2020/01/London-IoT.png?fit=650%2C400&ssl=1",
+          "width": 650,
+          "height": 400,
+          "title": "Arm targets IoT with new Machine Learning IP, processors",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-02-11-googles-machine-learning-is-making-you-more-effective-in-2020.md",
       "title": "Google’s Machine Learning Is Making You More Effective In 2020",
       "excerpt": "to email as well as increasing ways to help me complete or enhance a document, spreadsheet, or presentation with the Explore function.",
@@ -1282,51 +1319,6 @@
         "AI",
         "Machine Learning",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-29-jetbrains-taps-machine-learning-for-full-line-code-completion.md",
-      "title": "JetBrains taps machine learning for full-line code completion",
-      "excerpt": "JetBrains has laid out a 2020 roadmap for IntelliJ IDEA and its IntelliJ-based IDEs. The promised new capabilities range from additional machine learning driven code completion to collaborative editing. The company said the additional machine learning based code completion capabilities would make better use of the context for ranking ...",
-      "heat": 104,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.infoworld.com/article/3518429/jetbrains-taps-machine-learning-for-full-line-code-completion.html",
-      "ampWebUrl": "https://www.infoworld.com/article/3518429/jetbrains-taps-machine-learning-for-full-line-code-completion.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3518429/jetbrains-taps-machine-learning-for-full-line-code-completion.amp.html",
-      "publishedDateTime": "2020-01-29T09:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.techhive.com/images/article/2014/10/artificial_intelligence_virtual_digital_identity_binary_stream_thinkstock-100528010-large.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": "JetBrains taps machine learning for full-line code completion",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

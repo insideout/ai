@@ -2,6 +2,140 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-04-22-consumer-lending-companies-riding-on-machine-learning-platforms-to-manage-risks.md",
+      "title": "Consumer Lending Companies Riding On Machine Learning Platforms To Manage Risks",
+      "excerpt": "The increased incidents of payment defaults, along with an alarming credit risk rate have prompted many of these firms to build risk mitigation models using machine learning (ML), so as to reduce the risk of default in a cost-effective manner, while taking smart, well-informed lending decisions in these complex times. The traditional analytical ...",
+      "heat": 105,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.entrepreneur.com/article/349633",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/349633",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/349633",
+      "publishedDateTime": "2020-04-22T03:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/20160727110527-shutterstock-391308160.jpeg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": "Consumer Lending Companies Riding On Machine Learning Platforms To Manage Risks",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-22-nvidia-rtx-voice-is-great-for-improving-sound-quality-on-video-calls-and-doesnt-actually-need-an-rtx-gpu.md",
+      "title": "Nvidia RTX Voice is great for improving sound quality on video calls – and doesn’t actually need an RTX GPU",
+      "excerpt": "The way it works is you download the RTX Voice beta as normal, and install the plugin, whereupon non-RTX GPU owners will be greeted by an error message stating that ... car alarms going off outside your window, and so on (and as it’s AI-powered, it should get better with time and training). Remember that RTX Voice is still in beta, although ...",
+      "heat": 81,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techradar.com/news/nvidia-rtx-voice-is-great-for-improving-sound-quality-on-video-calls-and-doesnt-actually-need-an-rtx-gpu",
+      "ampWebUrl": "https://www.techradar.com/amp/news/nvidia-rtx-voice-is-great-for-improving-sound-quality-on-video-calls-and-doesnt-actually-need-an-rtx-gpu",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/nvidia-rtx-voice-is-great-for-improving-sound-quality-on-video-calls-and-doesnt-actually-need-an-rtx-gpu",
+      "publishedDateTime": "2020-04-22T03:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/WAzBq6sGY9T2ruVjdDvRuk-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Nvidia RTX Voice is great for improving sound quality on video calls – and doesn’t actually need an RTX GPU",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-22-ai-market-in-call-center-applications-growth-trends-and-forecast-2020-2025.md",
+      "title": "AI Market in Call Center Applications-Growth, Trends, and Forecast (2020-2025)",
+      "excerpt": "The AI Market in Call Center Applications is anticipated to witness a CAGR of 25.8% over the forecast period 2020 - 2025. AI technology has gained widespread recognition and adoption over the past few years.",
+      "heat": 83,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/ai-market-in-call-center-applications-growth-trends-and-forecast-2020-2025-2020-04-22",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-22T03:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "AI Market in Call Center Applications-Growth, Trends, and Forecast (2020-2025)",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-22-ai-in-medical-imaging-market-a-game-changer-in-healthcare-sector.md",
       "title": "AI in Medical Imaging Market - A Game Changer in Healthcare Sector",
       "excerpt": "AI in Medical Imaging Market: Introduction According to a new market report pertaining to the global AI in medical imaging",
@@ -944,139 +1078,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-21-efficient-ai-how-to-position-your-rd-spend-in-a-downturn.md",
-      "title": "Efficient AI: How To Position Your R&D Spend In A Downturn",
-      "excerpt": "A recession ahead will mark the first time corporations will have to learn to manage their AI spend during a downtown. Many companies are unsure how to position research and development (R&D) spend when their core business models are threatened.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/theyec/2020/04/21/efficient-ai-how-to-position-your-rd-spend-in-a-downturn/",
-      "ampWebUrl": "https://www.forbes.com/sites/theyec/2020/04/21/efficient-ai-how-to-position-your-rd-spend-in-a-downturn/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2020/04/21/efficient-ai-how-to-position-your-rd-spend-in-a-downturn/amp/",
-      "publishedDateTime": "2020-04-21T05:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Ftheyec%2Ffiles%2F2020%2F04%2Fa-13-3.jpg",
-          "width": 640,
-          "height": 640,
-          "title": "Efficient AI: How To Position Your R&D Spend In A Downturn",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-21-this-ai-tool-helps-hospitals-predict-covid-19-bed-and-ventilator-demand.md",
-      "title": "This AI tool helps hospitals predict COVID-19 bed and ventilator demand",
-      "excerpt": "SEE: How to implement AI and machine learning (ZDNet special report) | Download the report as a PDF (TechRepublic) Trials are expected to last a week and will take place at NHS trusts Cambridge University Hospitals, Kings College Hospital, Lancashire Teaching Hospitals and University Hospital Southampton. If initial deployments prove successful ...",
-      "heat": 97,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/this-ai-tool-helps-hospitals-predict-covid-19-bed-and-ventilator-demand/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/this-ai-tool-helps-hospitals-predict-covid-19-bed-and-ventilator-demand/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/this-ai-tool-helps-hospitals-predict-covid-19-bed-and-ventilator-demand/",
-      "publishedDateTime": "2020-04-21T05:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2020/03/13/7e404fac-4532-4237-8f10-91e709d6b15b/thumbnail/1200x675/80e3fc902fe3c9d6aba28b44aa664ac0/20200313-tiernan-karen-corona.png",
-          "width": 1200,
-          "height": 675,
-          "title": "This AI tool helps hospitals predict COVID-19 bed and ventilator demand",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-21-mit-cuts-ties-with-a-chinese-ai-firm-amid-human-rights-concerns.md",
-      "title": "MIT Cuts Ties With a Chinese AI Firm Amid Human Rights Concerns",
-      "excerpt": "The amount of money involved was not disclosed. iFlytek is one of China’s older AI companies, and while it specializes in voice recognition, it also offers tools for analyzing legal documents and medical imagery. Like other growing Chinese AI companies, contracts to supply software for processing video and audio to police departments and ...",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wired.com/story/mit-cuts-ties-chinese-ai-firm-human-rights/",
-      "ampWebUrl": "https://www.wired.com/story/mit-cuts-ties-chinese-ai-firm-human-rights/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/mit-cuts-ties-chinese-ai-firm-human-rights/amp",
-      "publishedDateTime": "2020-04-21T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5e9a05aab1d67d0009c2cdf3/master/pass/Biz-mit-1216059983.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": "MIT Cuts Ties With a Chinese AI Firm Amid Human Rights Concerns",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

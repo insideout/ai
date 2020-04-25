@@ -2,6 +2,198 @@
   "page": 29,
   "value": [
     {
+      "path": "_news/2020-03-27-smarter-ai-amplifies-the-voice-of-alaska-with-accurate-real-time-captioning.md",
+      "title": "Smarter AI amplifies “The Voice of Alaska” with accurate, real-time captioning",
+      "excerpt": "IBM agreed to help and introduced KTVA with its proprietary Watson Captioning Live technology - an automated speech recognition solution which applies smarter artificial intelligence (AI) and machine learning (ML) to learn words in context and continually deliver better results. Download and read the case study to find out: How Watson ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techradar.com/sg/news/smarter-ai-amplifies-the-voice-of-alaska-with-accurate-real-time-captioning",
+      "ampWebUrl": "https://www.techradar.com/sg/amp/news/smarter-ai-amplifies-the-voice-of-alaska-with-accurate-real-time-captioning",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/sg/amp/news/smarter-ai-amplifies-the-voice-of-alaska-with-accurate-real-time-captioning",
+      "publishedDateTime": "2020-03-27T05:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/VSTTS7aSmeyoZAymbs8Wne-1200-80.jpg",
+          "width": 970,
+          "height": 545,
+          "title": "Smarter AI amplifies “The Voice of Alaska” with accurate, real-time captioning",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-27-global-and-china-hd-map-industry-report-2019-2020-market-burgeoning-with-the-roll-out-of-l3-autonomous-vehicles-researchandmarketscom.md",
+      "title": "Global and China HD Map Industry Report, 2019-2020 - Market Burgeoning with the Roll-out of L3 Autonomous Vehicles - ResearchAndMarkets.com",
+      "excerpt": "It can be seen from the use of HD map in automakers' L3 self-driving cars to be soon mass-produced that the map leaders like Amap, Baidu Map, NavInfo and eMapgo stay ahead in HD map application. In addition to HD map services for third parties, more companies applied in 2019 to be the eligible providers of electronic navigation mapping with ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/03/b15680177/global-and-china-hd-map-industry-report-2019-2020-market-burgeoning-with-the-roll-out-of-l3-autono",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/15680177",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15680177",
+      "publishedDateTime": "2020-03-27T02:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-27-why-transparency-is-key-to-promoting-trust-in-artificial-intelligence.md",
+      "title": "Why transparency is key to promoting trust in artificial intelligence",
+      "excerpt": "As AI gets more and more embedded in our lives and helps make decisions that are increasingly significant to us, we’re rightly concerned about transparency. When big new stories like the Cambridge Analytica scandal or ongoing discussion around inherent biases in facial recognition hit the headlines, we are concerned about bias (intentional ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/355130/why-transparency-is-key-to-promoting-trust-in",
+      "ampWebUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/355130/why-transparency-is-key-to-promoting-trust-in?amp",
+      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/355130/why-transparency-is-key-to-promoting-trust-in?amp",
+      "publishedDateTime": "2020-03-27T00:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk//image/upload/v1585240726/itpro/2020/03/shutterstock_AI_understanding_unlock.jpg",
+          "width": 9000,
+          "height": 5063,
+          "title": "Why transparency is key to promoting trust in artificial intelligence",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-27-aws-certified-machine-learning-specialty-2020-hands-on.md",
+      "title": "AWS Certified Machine Learning Specialty 2020 - Hands On!",
+      "excerpt": "Course Ratings are calculated from individual students’ ratings and a variety of other signals, like age of rating and reliability, to ensure that they reflect course quality fairly and accurately.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.udemy.com/course/aws-machine-learning/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-26T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Udemy",
+        "domain": "udemy.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/udemy.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-27-the-godfathers-of-ai-just-won-this-years-turing-award.md",
+      "title": "The ‘godfathers of AI’ just won this year’s Turing Award",
+      "excerpt": "Facebook’s director of artificial intelligence research is one of three AI leaders who’ve won this year’s Turing Award, sometimes referred to as the Nobel Prize of computing. This year’s ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://bgr.com/2019/03/27/turing-award-winners-announced/",
+      "ampWebUrl": "https://bgr.com/2019/03/27/turing-award-winners-announced/amp/",
+      "cdnAmpWebUrl": "https://bgr-com.cdn.ampproject.org/c/s/bgr.com/2019/03/27/turing-award-winners-announced/amp/",
+      "publishedDateTime": "2020-03-26T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BGR",
+        "domain": "bgr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://boygeniusreport.files.wordpress.com/2018/04/data-center-corridor-aritifical-intelligence-ai.jpg?quality=98&#038;strip=all",
+          "width": 1500,
+          "height": 1001,
+          "title": "The ‘godfathers of AI’ just won this year’s Turing Award",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-27-using-personal-digital-assistants-to-document-pharmacist-cognitive-services-and-estimate-potential-reimbursement.md",
       "title": "Using Personal Digital Assistants to Document Pharmacist Cognitive Services and Estimate Potential Reimbursement",
       "excerpt": "Windows NT version 4.0 (Microsoft) does not recognize USB ... efficient system for documenting pharmacists' cognitive services and, potentially, for generating reimbursement claims.",
@@ -1048,197 +1240,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-26-preparing-for-the-post-crisis-world-using-ai-and-rpa-to-foster-remote-work.md",
-      "title": "Preparing For The Post-Crisis World: Using AI And RPA To Foster Remote Work",
-      "excerpt": "How do you find the solution that is right for you, especially if you're under pressure to right wrongs during difficult times like these? Here are a few key things to consider.",
-      "heat": 85,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/03/26/preparing-for-the-post-crisis-world-using-ai-and-rpa-to-foster-remote-work/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/03/26/preparing-for-the-post-crisis-world-using-ai-and-rpa-to-foster-remote-work/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/03/26/preparing-for-the-post-crisis-world-using-ai-and-rpa-to-foster-remote-work/amp/",
-      "publishedDateTime": "2020-03-26T04:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbesbusinessdevelopmentcouncil%2Ffiles%2F2020%2F03%2F113.jpg",
-          "width": 640,
-          "height": 640,
-          "title": "Preparing For The Post-Crisis World: Using AI And RPA To Foster Remote Work",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-26-virtual-patient-care-using-ai.md",
-      "title": "Virtual Patient Care Using AI",
-      "excerpt": "Healthcare systems need to start focusing on using AI in the patient care life cycle, incorporating conversational AI into their core strategy in order to scale successfully and make an impact.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/03/26/virtual-patient-care-using-ai/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/03/26/virtual-patient-care-using-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/03/26/virtual-patient-care-using-ai/amp/",
-      "publishedDateTime": "2020-03-26T04:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F03%2Fa-35.jpg",
-          "width": 640,
-          "height": 640,
-          "title": "Virtual Patient Care Using AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-26-loop-receives-100000-in-development-funds-from-amazon-web-services-to-enhance-companys-ai-capabilities.md",
-      "title": "Loop Receives $100,000 in Development Funds from Amazon Web Services to Enhance Company's AI Capabilities",
-      "excerpt": "Working with AWS enables Loop to streamline and enhance current artificial intelligence (AI) functionality of its products, ensuring a future-proof integrated solution for brick and mortar retail ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.morningstar.com/news/accesswire/582658msn/loop-receives-100000-in-development-funds-from-amazon-web-services-to-enhance-companys-ai-capabilities",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-26T04:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar%2c Inc.",
-        "domain": "morningstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-26-the-globus-pallidus-orchestrates-abnormal-network-dynamics-in-a-model-of-parkinsonism.md",
-      "title": "The globus pallidus orchestrates abnormal network dynamics in a model of Parkinsonism",
-      "excerpt": "Oscillatory changes between basal ganglia nuclei occur in Parkinson’s disease. Here the authors determine that the globus pallidus is the source of beta oscillation generation in a rodent model of the disease.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nature.com/articles/s41467-020-15352-3",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-26T03:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nature",
-        "domain": "nature.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-020-15352-3/MediaObjects/41467_2020_15352_Fig1_HTML.png",
-          "width": 685,
-          "height": 577,
-          "title": "The globus pallidus orchestrates abnormal network dynamics in a model of Parkinsonism",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-26-c3ai-microsoft-and-leading-universities-launch-c3ai-digital-transformation-institute.md",
-      "title": "C3.ai, Microsoft, and leading universities launch C3.ai Digital Transformation Institute",
-      "excerpt": "“We believe this Institute has the potential to make tremendous contributions by including ethics, new business models, and public policy to the technologies for transforming societal scale systems globally.” “The C3.ai Digital Transformation Institute, with its vision of cross-institutional and multi-disciplinary ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://news.microsoft.com/2020/03/26/c3-ai-microsoft-and-leading-universities-launch-c3-ai-digital-transformation-institute/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-26T03:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

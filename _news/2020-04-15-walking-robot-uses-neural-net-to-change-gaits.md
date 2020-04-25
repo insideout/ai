@@ -7,9 +7,6 @@ webUrl: "https://newatlas.com/robotics/neuropod-robot-neural-network-gait/"
 ampWebUrl: "https://newatlas.com/robotics/neuropod-robot-neural-network-gait/?amp=true"
 cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/robotics/neuropod-robot-neural-network-gait/?amp=true"
 type: article
-quality: 89
-heat: 89
-published: true
 
 provider:
   name: New Atlas
@@ -29,6 +26,6 @@ images:
     height: 800
     title: "Walking robot uses neural net to change gaits"
 
-secured: "j2aNegxC+ho8Zg/e89EwOOUE4IbXU9FSq+YrpFayldgrQiqBONFP17unV6vSM/cJ2Ssbqd7mpKUlIcMG9Jg8vx6SdjvCqm+gJ7FXpSzaQRw8P5iXt1gL2YEVk1nFy3bZdNubT3WK07nUvoWoYIm6WRuHr+KY227qYiGcYF2oWPaPI4n+sRDRQ6M+TyobySs1aVc6+aKXIL9z73ME9fBNid4FNfto0BT5w6HPol2qvhFsheL4c8qlq2uCEE/aEneADDnxC/SjV0fkIVJPZpOskldcMCpodfNPtytzHZqe/1+yAY72Ep6wSk4zCaWVeOGuwjXUQ1JcHmpAYeBr/d1/TEzqaFJtGMDMFnZh/0SlUUSP98+jrYCrrEq03gEr5YX6zCB+1quCyvwpsognhH68HRtnZeZNRjIU42+3yvuHsVJEbFLIkPSWorE65tbivCa9WosTHjUJecvfUT0R7yTskF/oArIz0ejCuzZ5tFWvQpg=;N+N98bOe65r+YpjdZ9jpLQ=="
+secured: "a5aOvRsw2zburY5fdJY4s5pHLt5WgiDCoaJrmvDFdSnMChu5OtfgZ69laBw6kfpJBf7IfFUVS49PqnpGvOVMvT+yYGERUnpDCqL08yHfCxknQeo6SgLZL612oyf1tXuXsKdBJweHZfIOR8G1AEfPY9DUK+UpX+FjObtMGKe8QIfGbGJiyVnnz9Ni0nV2QBMDLp2l74kxpklrAJ6i20amTTUI9lznF9W1VN7dtJdt9g3OrU3OxWzqDavmPdR3TgUlDqxrOJYm+Gbh2bcc+1RZYjNpZJGGS3H8Iue7EgoQ8Ikyyu+djGdQIQykPr2dhTS/;F8x6aBYV1l0Ls7daQSy1LQ=="
 ---
 
