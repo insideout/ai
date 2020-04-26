@@ -7,8 +7,8 @@ webUrl: "https://go.theregister.co.uk/feed/www.theregister.co.uk/2020/04/26/ai_r
 ampWebUrl: "https://www.theregister.co.uk/AMP/2020/04/26/ai_roundup_240420/"
 cdnAmpWebUrl: "https://www-theregister-co-uk.cdn.ampproject.org/c/s/www.theregister.co.uk/AMP/2020/04/26/ai_roundup_240420/"
 type: article
-quality: 28
-heat: 28
+quality: 45
+heat: 45
 published: false
 
 provider:
@@ -19,6 +19,7 @@ topics:
   - Microsoft AI
   - AI
   - AI Hardware
+  - Facebook AI
 
 images:
   - url: "https://regmedia.co.uk/2019/07/20/shutterstock_programmer.jpg"
@@ -26,6 +27,6 @@ images:
     height: 676
     title: "Facebook, AWS team up to produce open-source PyTorch AI libraries, grad student says he successfully used GPT-2 to write his homework...."
 
-secured: "FuEmJOK/FyfNViXSfzF5jG51044tO0YWIetD/wGV6MlwzgZ+p6ApLA1uOpXi+PKrMriukkIX6UqHfpk98ptckP/xSoy8SYCcLKkTwEQNjIUR0ydN2MjhmimD5puAgVWGrGPiXTysNCZbxDtxmo+eE2q2GM0wXMf6Oq0oOR88KQ5Z+D4EhV4JG1w5YJ/J201X8dO1zK/plPfb9WOFY4LknPicu3PRxGvM4Nc5Uiy7b53H2rBwTEeBPDlaTiFQN4PdFvCOLW7Tl8+iZ9wxlfTj3g0BLXUFHbpMqjte8+TKdPMJh1OFEtNAi2WWV9bHKJNX;Ag+eRvaVTWKycQqpmVTvGw=="
+secured: "jrmOdDA/9w7fT0dXfgPx6loenc9XZaNzRsBXNnGOKlSYUP5F/w4GrqsuUvb4IVfbCPDjdMUZCQsMQ953EOMg38SpRV8fqgrwQZi7qP0S7uWAWDWcs9jS7+KdG+Bnqug6RQ/pWJaL23fdui/gPI4jDeLU51cPFs30Y+UcTC1QeGLBI+FoZu2OpWY+/whOnXrgBdBn8+Ss6cACswIh0jHeumDHXu7ii/pCD2hHf/czDOl347Od6pUUWZYRzSjX5/NU+85XXg+DpsiP6HQfky9ZGmjBwIaX6h5ew53IuywOnUhzknWsplUGTyIs66tiYqrAL3WT4I9zYP+2zWCsjNq1TV1EUv18auxKQf7HpRQDX39Sq9dlMoV2c492E98lCh4880m/QYN5y4rjaxfJkwT9+2Z2Oza6st8dP7DEYaptWizcLFozxEu1MDusM1QgTPJFRgZERZfi7P4mpgF7rmQeSYbnqozqyZmPOgA/t/CpVSk=;aMHj75KvsodfxzU/F9ksJQ=="
 ---
 

@@ -25,21 +25,6 @@ images:
     height: 349
     title: "Digital Nirvana Releases Trance 3.0"
 
-related:
-  - title: "Digital Nirvana Releases Trance 3.0"
-    excerpt: "a text translation engine that simplifies and speeds captioning in additional languages and automated caption conformance to accelerate delivery of content to new platforms and geographic regions,\" said Russell Wise, senior vice president at Digital Nirvana. The release, which brings together speech-to-text technology and other AI-driven ..."
-    publishedDateTime: 2020-04-21T17:24:00Z
-    webUrl: "https://www.tvtechnology.com/equipment/digital-nirvana-releases-trance-30"
-    type: article
-    provider:
-      name: TV Technology
-      domain: tvtechnology.com
-    quality: 24
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/SUrBnaXNfMnE2BfnmM6ftY-1200-80.png"
-        width: 760
-        height: 467
-
 secured: "pJz1cr5xxEtm16s06hna6SZsejeA25B3a961L+T1JI+Cq5fRIL5Hv2SpU8yKWuqRDZpOO16JkobvnLrTaoNYOlzSUFPTgAUydvcp8eT0fYAKYruCpGfMENIZeDe2QAOYK6MQ2DlxYkizxccJg8ep06DItM/CKEYaJMwejQY/ujBZnc6lIN+2Wa1+cLvE3AqapdMyVAwZne5p4gB/GEwCgQ1zQe06Gui2E+9d9EJCrq+6DefQqIoIpXMkzr+nshl/jXvaqRbxlKVxyllkDdlSFD0FpB7++FLB97MnkMxScXgWkQEe7S82LnG+nJ/esmPm/NwZo2HIxmUhxiPbY80OogSK3qzlVrwlmCYfqNVAHxZ1jiWucn0lY8CjeIiNCGRbm94n2H9GO1ZKs91Szry8mqPniHomHmAAaSw5gYGmwqooNodfObwtaRw00pOYVxrS3N3aDOJQvSvjqeSn/hnoQRFeLTfFu4zFE/jKAS/Ziss=;0cZNGtA4+4UrQ2naA5iCEQ=="
 ---
 

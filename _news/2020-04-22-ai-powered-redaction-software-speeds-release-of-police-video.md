@@ -1,9 +1,9 @@
 ---
 category: news
 title: "AI-powered redaction software speeds release of police video"
-excerpt: "Officers can upload video to Veritone’s aiWARE platform, which uses CJIS-compliant Microsoft Azure, and use Redact. They run a head-detection engine against the video to quickly identify all the heads in the video, and then the officer can search and select which ones to redact and how to redact then, such as with a full blur or a pixilation."
+excerpt: "Police officers in Pemberton Township, N.J., now use cloud-based, artificial intelligence-powered software to quickly redact video from body-worn and in-car cameras."
 publishedDateTime: 2020-04-22T21:39:00Z
-webUrl: "https://gcn.com/articles/2020/04/22/ai-video-redaction.aspx"
+webUrl: "https://gcn.com/articles/2020/04/22/ai-video-redaction.aspx?admgarea=TC_EmergingTech"
 type: article
 quality: 39
 heat: 39
@@ -23,6 +23,6 @@ images:
     height: 368
     title: "AI-powered redaction software speeds release of police video"
 
-secured: "WK67QmtUqRo7qwxPSHDOmTwCytn0ch9t+4svq72PRkqMWS/kckBLNos/kBuSrcScaEGl61snraGXF5KeSACIjD271+cFGJ9byjTSlK8tYvIgLU7TF7KLZEPBVy36op7vG2DvCVhcu+mjxWH7P6Nbt36RBkCo17HFw8a4Nskz43NQKLc+r/00S1agEC8a2ILUMEMzde1nqQe0rM4st74/R2C7uRxsDrTZgOd1fvKeSv21XrRLGzAGflyJIybFo7KtfTQj8oeH1PQ6dpyRro0eyF23hWBTOj2juSfC461fyKF7Pb8FgJGpvSZ7NsGBUUEBQDveXE6vI4y8vOlTtv97c1hcjRm1aRNRxUqe4PpkvW1kQtX/dqp4qHqg4WeKEKdqSM4ywCOPJ+ebXPQJSUBJVq/aI/z2AgbChxGB3s63UO7t/Sm8sKvJK3rESLO+Os6Xq4IJLPu1slAaFs45FbIby3BR5Sbc0FiE3tsyCl8JVB8=;iA+yFC+dJzzo2g8z6s77kw=="
+secured: "mOc5FxlZlGAs9BNIYnEzgnVjtqPXAzno1Bakup0N76dlKgpDlln1QuLdrdkaIkS1owig4Gf/FIXlhQPW09Q0c/wfs/FJuccDm46k8cS5//cpbgqPQIE/Jb9lxif4tThsPJz3yUo2i63AlWabGU1Wwuv5W4QD8jYYLmxhi/Y2j85SRahnT4e1cQs/6eQv4QAldw2NKBBdYpu0W4xRI6G8ZAkx11XR2RRaCG3NdTgKrJ0NYe+8ffMY8MgH2yROWVOoBPQtWs0lSiRkfh6Cwc0JtHXC8QnHUhZireNZyf9RAFS3ySteEXltBDps9eK8UhMo;LL6Z/6izn1SvZgFAvTONpw=="
 ---
 

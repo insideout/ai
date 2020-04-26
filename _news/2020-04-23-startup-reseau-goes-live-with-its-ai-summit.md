@@ -1,25 +1,27 @@
 ---
 category: news
 title: "Startup Réseau Goes LIVE With its AI Summit"
-excerpt: "Before it's here, it's on the Bloomberg Terminal."
-publishedDateTime: 2020-04-23T07:36:00Z
-webUrl: "https://www.bloomberg.com/press-releases/2020-04-23/startup-r-seau-goes-live-with-its-ai-summit"
+excerpt: "The online summit will cover themes and tracks across core technology and applications, where AI is playing a massive role Built on the founding pillar of #StartupsFirst, 'Startup Réseau' is an ecosystem of Enterprises, Capital, Markets, and Services – for Startups, by bringing in various types of structured interface for enabling unique ..."
+publishedDateTime: 2020-04-23T07:43:00Z
+webUrl: "https://www.prnewswire.com/in/news-releases/startup-reseau-goes-live-with-its-ai-summit-847656852.html"
 type: article
-quality: 47
-heat: 47
+quality: 37
+heat: 37
 published: false
 
 provider:
-  name: Bloomberg
-  domain: bloomberg.com
-  images:
-    - url: "https://insideout.app/ai/assets/images/organizations/bloomberg.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI
 
-secured: "rnI0TvQQF4BIHeaGBhMTaneXDMdb0c3we1ilyx0B7CSnyy+krMBF3qroErpHbGVZ0l5qx2dMap9xtliJcJ0UANj1I3CjglTT1KkDN9geYtmz/QcDdALoM7/EL4NjavsWVhNHIM3wwB7F+Zv3DJ8oDAmvRWKlmnnhwt9Rkb1DMV2Ww0UchRocHBYUwNnQwfrSuWu/frWVpTeKbWCcsZxOAl66f+BVzFis68JdsN5F+6Bthax9wLubi7z+inRJk/Ix5M8KhpX09NiaLqPlVwqVcicsMeD/h0QvqWVn86X1h0vlLmI05C2hvoBaxwiDwycl;BNqWiTmeYcIZMcpWDANE9w=="
+images:
+  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+    width: 600
+    height: 315
+    title: "Startup Réseau Goes LIVE With its AI Summit"
+
+secured: "0RHpT/472dUH76W85x/c6CAfNYJROE2RAaQkJzUE1pjm4gLSwiWEz96uDql/di2Nc69UR1G7M1iEWyT5DXgPTLV+WKrKB+svm42vtsVHY2OP77EdXwxoy6G7bds0b2kBbJuBj49FP0R+1AEwp218XZEuPXQ1LawtaEL0HCU1vI0L1fwm3q2cHMqMncZee329nPF5xMyf3t6jArTVMJhvR/k6boN7KdaGlmj7uzv2NYiQU50F3J0PuFII1QVUV7p6tUtQRqj3Eo/Lgh9aRRICHeRQfY4H1gjjwXOf+fDlo//kSiiPjjaUAPJUQMW+xY6r;a8jickgUZLE5FZLjTDqJ9Q=="
 ---
 
