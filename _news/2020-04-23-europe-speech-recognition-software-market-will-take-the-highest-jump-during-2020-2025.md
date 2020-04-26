@@ -3,19 +3,25 @@ category: news
 title: "Europe Speech Recognition Software Market will take the highest jump during 2020-2025"
 excerpt: "\"The global Speech Recognition Software market report offers information relating to the leading regions, competitive landscape, growth trends, and other crucial information about the growth status of the market. Additionally, the Speech Recognition Software market report also gives an in-depth evaluation of prevailing growth strategies ..."
 publishedDateTime: 2020-04-23T05:34:00Z
-webUrl: "https://www.arnnet.com.au/mediareleases/87429/europe-speech-recognition-software-market-will/"
+webUrl: "https://www.cmo.com.au/mediareleases/87429/europe-speech-recognition-software-market-will/"
 type: article
-quality: 12
+quality: 32
 heat: -1
 published: false
 
 provider:
-  name: ARN
-  domain: arnnet.com.au
+  name: cmo.com.au
+  domain: cmo.com.au
 
 topics:
   - Natural Language Processing
   - AI
+
+images:
+  - url: "https://demo.idg.com.au/cmo/cmo50/2019/cmo50_promo2019_5.jpg"
+    width: 600
+    height: 246
+    title: "Europe Speech Recognition Software Market will take the highest jump during 2020-2025"
 
 related:
   - title: "AI Market in Call Center Applications-Growth, Trends, and Forecast (2020-2025)"
@@ -31,16 +37,7 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Global Artificial Intelligence in Security Market-Growth, Trends, and Forecast (2020-2025)"
-    excerpt: "The Artificial Intelligence in Security market was valued at USD 5.08 billion in 2019 and is expected to reach USD 14.18 billion by 2025, at a CAGR of 18.64% over the forecast period 2020 - 2025. The U."
-    publishedDateTime: 2020-04-21T08:34:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-security-market-growth-trends-and-forecast-2020-2025-2020-04-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 37
 
-secured: "GJpx6hzQUhvKIT/vHdnYSfzWmxCuRE3hUlN3fooZzk6FDaBzIb5KFHsx1md45bKTDnKzJeuPicqS1ZnICjAw4GaIa37UgdkNDOkOt9VvGqlSX4ORgUUSf5Iaz9oey0N1xxREXoNqLmeynYbvALLK1YiYmALy/fOgQwaNgGzJqUOsr4JsPDSHPnSwWHKynXJzuV8+RfayxqeohrQKMg9RXSyA8zHqd16Jt3EuhBG6lfEhiyDDKQJr+YXAaZKvMm18L8iqZW0s/ZeqwftVnB9mV4AqjHL8SA65mnnxD59Bn+1OpXbcAI+mUoQ/DvQ96t2X;rL8Q/GFmUj7aLsrfEq6ELg=="
+secured: "r2ZnrQrcv07d67TynJEUFnktx7tdpku729Xln85JuM+2jP8sDva/YUHOQe0Wwntj/fhfyRDSIEecMZBK9xa6kYTABl4F9L4nfbxfCA0lfbUDSZbExbeCN2zQJdv9gE1VWTmd3hB0JE0U6JJuwb1lIO6sFfAeZxcO/xHLx4zgnjUSyhI5XIdS844hedMH/lJzMUrch2cnfPygpzG0wvBlfIgLgtHbO4yuSJ8iZaqLPk4nSFCEwcb4zKBAVCBV8WPy+z9hhrwtqTLh2kDJ3CHNRWD6ChM5WYHs8fSk4Jucb0BDsY+qSVk38MorPCUr35RH;2luT/uTYjWvHsO3TIoBuEA=="
 ---
 

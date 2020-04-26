@@ -6,7 +6,7 @@ publishedDateTime: 2020-04-25T18:44:00Z
 webUrl: "https://www.marketwatch.com/press-release/global-military-artificial-intelligence-ai-market-2020-industry-growth-top-players-segmentation-and-forecast-to-2025-2020-04-25"
 type: article
 quality: 59
-heat: -1
+heat: 69
 published: false
 
 provider:
@@ -28,15 +28,15 @@ images:
     title: "Global Military Artificial Intelligence (AI) Market 2020 Industry Growth, Top Players, Segmentation and Forecast to 2025"
 
 related:
-  - title: "AI in Pharmaceutical Market 2020 Industry Analysis, Segment & Forecast Up to 2026"
-    excerpt: "Global AI in Pharmaceutical Industry New Study On “AI in Pharmaceutical Market 2020 Global Market Opportunities,"
-    publishedDateTime: 2020-04-21T07:45:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-pharmaceutical-market-2020-industry-analysis-segment-forecast-up-to-2026-2020-04-21"
+  - title: "Global Enterprise Artificial Intelligence (AI) Market 2020 Industry Growth, Top Players, Segmentation and Forecast to 2025"
+    excerpt: "The segmentation allows the readers to understand the aspects of the global Enterprise Artificial Intelligence (AI) market such as its products, available technologies, and applications of the same. The segmentation is represented in a manner to describe their development over the years and the course they are likely to take in the upcoming years."
+    publishedDateTime: 2020-04-25T21:27:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-enterprise-artificial-intelligence-ai-market-2020-industry-growth-top-players-segmentation-and-forecast-to-2025-2020-04-25"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 62
+    quality: 56
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

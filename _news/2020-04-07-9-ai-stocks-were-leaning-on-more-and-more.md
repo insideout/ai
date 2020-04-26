@@ -15,6 +15,7 @@ provider:
 topics:
   - IBM AI
   - AI
+  - Facebook AI
 
 images:
   - url: "https://investorplace.com/wp-content/uploads/2019/07/ai1600b.jpg"

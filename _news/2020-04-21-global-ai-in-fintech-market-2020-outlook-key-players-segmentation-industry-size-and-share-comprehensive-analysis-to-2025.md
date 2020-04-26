@@ -6,7 +6,7 @@ publishedDateTime: 2020-04-21T16:43:00Z
 webUrl: "https://www.marketwatch.com/press-release/global-ai-in-fintech-market-2020-outlook-key-players-segmentation-industry-size-and-share-comprehensive-analysis-to-2025-2020-04-21"
 type: article
 quality: 42
-heat: -1
+heat: 42
 published: false
 
 provider:
@@ -28,19 +28,15 @@ images:
     title: "Global AI in Fintech Market 2020 Outlook, Key Players, Segmentation, Industry Size and Share, Comprehensive Analysis to 2025"
 
 related:
-  - title: "Global Enterprise Artificial Intelligence (AI) Market 2020 Industry Growth, Top Players, Segmentation and Forecast to 2025"
-    excerpt: "The segmentation allows the readers to understand the aspects of the global Enterprise Artificial Intelligence (AI) market such as its products, available technologies, and applications of the same. The segmentation is represented in a manner to describe their development over the years and the course they are likely to take in the upcoming years."
-    publishedDateTime: 2020-04-25T21:27:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-enterprise-artificial-intelligence-ai-market-2020-industry-growth-top-players-segmentation-and-forecast-to-2025-2020-04-25"
+  - title: "Artificial Intelligence in Retail Market to Offer Increased Growth Prospects for Manufacturers Upto 2025"
+    excerpt: "Latest market study on \"Artificial Intelligence in Retail Market to 2025 by Retail Format (E-Commerce and, Brick & Mortar), Technology (Chat-Bot, Recommendation Engine and Audio - Visual Analytics, and Others), Application (Sales & Marketing, Supply Chain ..."
+    publishedDateTime: 2020-04-21T15:55:00Z
+    webUrl: "https://www.openpr.com/news/2019257/artificial-intelligence-in-retail-market-to-offer-increased"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 56
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      name: openpr.com
+      domain: openpr.com
+    quality: 15
 
 secured: "o/Q2m1fREOa2AftgAQ/0cL3r6PcxXoLtIyslnYhkYktrgseA0L1wFYsjWa8LBFKH27lMANIUEOTX/htHHsICDnO8e+y9y5wIDohmeSv0T7zT6bwCvBg40Be1aXj1oIPiCq5CTO+muyQNgWUcTT+fPfSxq8lwLDkBOofysgnaEMWl1HrsOtJxLgAlcKurD7hs0nAwBmRBTDkzpXDDEnzIN4X8/GA89/VIVanM/z74y6cbdvZObpZTnAb6N2oul8xKO+i2iehoahpeOtqzOPZcM5Dwo6dhe68PELT+fEZQAporCqW++Ii8GZNC7sbtMrnH;r3gGOy7XI33vONiJ1tzyBQ=="
 ---

@@ -2,14 +2,11 @@
 category: news
 title: "Learn how to leverage the AWS cloud, to build and innovate at scale with the free AWS Summit Online"
 excerpt: "The AWS DeepRacer League Summit Race Compete for prizes and meet fellow machine learning enthusiasts, online. Racers will have the opportunity to join the DeepRacer online workshop and have a 1-to ..."
-publishedDateTime: 2020-04-21T11:24:00Z
+publishedDateTime: 2020-04-21T00:00:00Z
 webUrl: "https://yourstory.com/2020/04/aws-cloud-innovate-summit-online"
 ampWebUrl: "https://yourstory.com/2020/04/aws-cloud-innovate-summit-online/amp"
 cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/04/aws-cloud-innovate-summit-online/amp"
 type: article
-quality: 45
-heat: 45
-published: false
 
 provider:
   name: Your Story
@@ -25,6 +22,6 @@ images:
     height: 300
     title: "Learn how to leverage the AWS cloud, to build and innovate at scale with the free AWS Summit Online"
 
-secured: "Bf6HIzusflzGAVknS4WWJKr1GQGcaU0LOV4azCo+nctvYl9LhsiDF+yfONPsifvzqyTBXohVDos3i+ITyBg3NN+zMsfu9miZ3kXB3CXwSp7Hp39sy/tiUWF9/Cn6+rCbhBQDmAJ8XZr3EhHRLt12kzu7Mz9D7xbqciua53c9PvxFopxVvHlA4I5sGJwlZnRbPpLFEAbxmPfrGJOZF2Rw6A3tgOFYFsea3xQ1sPAZMwItwaXEZu/CgKwjSGG4RB0uGdhsUNh+nvFV3RdPd0QIUyrZD3/mWim6+xMUpM1nzhh+RndNTM71vUMOODwYbx0R;JxRi/fLwgJ6bXPb1/bl1/Q=="
+secured: "VowvZ+cCQcsc/nApdLsL23nFJpSMNOGtFpo5zrlE2eRIkmdhLvrFFRA32b0MNFM5kmRTqgdqktk6bgUmeTfEmrOQ5cdBIUlhwJ4a6RbUXUgucfj6prOlp1e2l6UbohPYDBTxG4k2B1NSTxhA8BTBdTFsMpOEu1D2l4DhkDwP0ZsQgqdbXXPBJ4oVyTKAa5PW3OwWOwIgiXOG4dv1mHtG4D9Nu8+GAGPdaaEtSM0KZ8pUdmcVz82NVjsQ0xcvUZWUuh4Y87thfxFBzkZwA3zxWGWe6NbMmmnEPlbnoetwoB96shv8Dfsrjs/VvBape4Af;QVkN7EpYi3HGIVzSkpkMvg=="
 ---
 
