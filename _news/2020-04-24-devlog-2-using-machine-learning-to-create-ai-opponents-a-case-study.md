@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Devlog 2 - Using Machine Learning to Create AI Opponents, A Case Study"
-excerpt: "Partly to give an otherwise fully multiplayer game some hint of single-player content. And partly because machine learning is just plain cool. It also helped that I had built the game in Unity and could use their ML-Agents toolkit. For context I should probably give a brief description of the control system in Riposte! It’s a controller based ..."
+excerpt: "Later in using the AI agent dynamically in the real game they are set by the script managing the match. Once the environment is working and the agent is capable of moving the sword it was time to define the reward criteria. For the agent to learn it needed feedback on whether it was succeeding or failing. As a general rule, you should start as ..."
 publishedDateTime: 2020-04-24T15:23:00Z
-webUrl: "https://gamasutra.com/blogs/AaronMaus/20200424/361750/Devlog_2__Using_Machine_Learning_to_Create_AI_Opponents_A_Case_Study.php"
+webUrl: "https://www.gamasutra.com/blogs/AaronMaus/20200424/361750/Devlog_2__Using_Machine_Learning_to_Create_AI_Opponents_A_Case_Study.php"
 type: article
-quality: 54
-heat: 64
+quality: 37
+heat: -1
 published: false
 
 provider:
@@ -14,7 +14,6 @@ provider:
   domain: gamasutra.com
 
 topics:
-  - Machine Learning
   - AI
 
 images:
@@ -38,6 +37,6 @@ related:
         width: 500
         height: 500
 
-secured: "Ljl8dl1JS1XWODuXmr89HMmgDKHxHhNnpyZwNGDbw+e+W6C9zLhSBq/UI+TeaPsogEO670EVzPKBXC166LTDeLzzyVTWo/HfFfuVSek9lbapIyNa0ldV5sAbfmu1Or4KfxpDH9NyDxs7dKPaKmui4+QuRsAuOiUmJFjqMt1xWpJ2UGlgQnTkxGuxDeehF3VCU+fWYFIN22ambHMrKTFgArhe7ocqAt8Z299F5W4zgZOE5JoU0k7do7mf1ssnZrGQNDV7zVkrg1GfJmh/D+xCCs9TUqbKRCYg5jQ7lkDOJkLqEY9q7UcemwADrCmficzkv+7LWgEZZdUBYmL1qX+K5FCgxN4WuKWYj+1Qsx6bPofznFf9jLETwMmgUumJENq1hP4qNgl0ZvijhQ8sXuIzAV8nY2EEMM5LkRw1hSc5WolHhuCcxse5rjKZt/9+kwQEGyneiXjr8M2YUGnn9TBEzJtuaxeA1zorpD2BHa43TV8=;5Zh1t2dufnf9IO9MAcz5PQ=="
+secured: "2+HEGSK0PUtmtnclCVTi29mtGR3wgK5fLPAPGtKFGDa+JYCzU+78KiTFdL7sSp+fg26+33T9KVwYPJYpa0IviE8kT5PjULhxnMDuzKlPS6rB3y7Wo8E5MtFSLnAm3KtEylqLuQsCbiK1oxWfkYL0fyDqTglFqvk4kCQenb0rnJVX333vWOGbL0pFVDa7WqS1xbaO8Y6n+UOSRAkAuZzfA7Jkn223KCRW/SCoAr2GK7onji8jvKPheFUJXRPkgdM3DhXaj9CmW4f04k0Oc5Av2P9Sgz9lW5fuU9qt+7nS/0Xi7j9S9Eitf0qZ9kVkean+;H8cmySBVp7FJWkgag8KIVg=="
 ---
 

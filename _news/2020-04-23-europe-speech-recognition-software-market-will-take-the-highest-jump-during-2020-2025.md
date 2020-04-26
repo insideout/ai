@@ -3,25 +3,19 @@ category: news
 title: "Europe Speech Recognition Software Market will take the highest jump during 2020-2025"
 excerpt: "\"The global Speech Recognition Software market report offers information relating to the leading regions, competitive landscape, growth trends, and other crucial information about the growth status of the market. Additionally, the Speech Recognition Software market report also gives an in-depth evaluation of prevailing growth strategies ..."
 publishedDateTime: 2020-04-23T05:34:00Z
-webUrl: "https://www.cmo.com.au/mediareleases/87429/europe-speech-recognition-software-market-will/"
+webUrl: "https://www.arnnet.com.au/mediareleases/87429/europe-speech-recognition-software-market-will/"
 type: article
-quality: 32
+quality: 12
 heat: -1
 published: false
 
 provider:
-  name: cmo.com.au
-  domain: cmo.com.au
+  name: ARN
+  domain: arnnet.com.au
 
 topics:
   - Natural Language Processing
   - AI
-
-images:
-  - url: "https://demo.idg.com.au/cmo/cmo50/2019/cmo50_promo2019_5.jpg"
-    width: 600
-    height: 246
-    title: "Europe Speech Recognition Software Market will take the highest jump during 2020-2025"
 
 related:
   - title: "AI Market in Call Center Applications-Growth, Trends, and Forecast (2020-2025)"
@@ -38,6 +32,6 @@ related:
         width: 1200
         height: 630
 
-secured: "r2ZnrQrcv07d67TynJEUFnktx7tdpku729Xln85JuM+2jP8sDva/YUHOQe0Wwntj/fhfyRDSIEecMZBK9xa6kYTABl4F9L4nfbxfCA0lfbUDSZbExbeCN2zQJdv9gE1VWTmd3hB0JE0U6JJuwb1lIO6sFfAeZxcO/xHLx4zgnjUSyhI5XIdS844hedMH/lJzMUrch2cnfPygpzG0wvBlfIgLgtHbO4yuSJ8iZaqLPk4nSFCEwcb4zKBAVCBV8WPy+z9hhrwtqTLh2kDJ3CHNRWD6ChM5WYHs8fSk4Jucb0BDsY+qSVk38MorPCUr35RH;2luT/uTYjWvHsO3TIoBuEA=="
+secured: "pQg6nctPZ1GVjMBAlfnHC6nVjLWjUbbI4kFdCWBR1PDzhj9EdWAN9SgcfEnGVDe2jU6l86HRjXSUsJs+da+n/SHbGllXQ+5NRUssZ54WbyQ/ZrWPoGZR6vr0qi3dAZoXiE4sipKtqOITp/D6GZE9qGWiB7VHiNdgR55GXackjhM0movJ8tozMi6RMcJbE+IWIVZdeCy5vT4ixOp/ztKmyKyoFxwfDjLl5mn9ZluQNzBU65jYbPYc9Psv/EV6adDWw3wXj1AZw4I+mgbS1F1byrdg6PJ+A/45KRX0H5gLR8sjGmQzCONtG8U5GfQEVf8P;FI6JFQMXYeK3o7s/c4FyPw=="
 ---
 

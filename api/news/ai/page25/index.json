@@ -2,51 +2,6 @@
   "page": 25,
   "value": [
     {
-      "path": "_news/2020-03-31-perceive-emerges-from-stealth-with-ergo-edge-ai-chip.md",
-      "title": "Perceive emerges from stealth with Ergo edge AI chip",
-      "excerpt": "On-device computing solutions startup Perceive emerged from stealth today with its first product: the Ergo edge processor for AI inference. CEO Steve Teig claims the chip, which is designed for consumer devices like security cameras, connected appliances, and mobile phones, delivers “breakthrough” accuracy and performance in its class.",
-      "heat": 104,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/03/31/perceive-emerges-from-stealth-with-ergo-edge-ai-chip/",
-      "ampWebUrl": "https://venturebeat.com/2020/03/31/perceive-emerges-from-stealth-with-ergo-edge-ai-chip/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/31/perceive-emerges-from-stealth-with-ergo-edge-ai-chip/amp/",
-      "publishedDateTime": "2020-03-31T06:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/11/big-data.GettyImages-1133714603-e1584722383408.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Perceive emerges from stealth with Ergo edge AI chip",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-03-31-pokemon-go-maker-niantic-acquires-3d-world-scanning-software-company-6dai.md",
       "title": "Pokemon Go maker Niantic acquires 3D world-scanning software company 6D.ai",
       "excerpt": "Niantic, makers of Pokemon Go and collaborators with Qualcomm on a future AR headset design, have just acquired a company that enables collaborative AR world maps to be shared. 6D.ai is a company that specializes in building out 3D world meshes that multiple share and keep building on.",
@@ -1242,6 +1197,51 @@
       ],
       "topics": [
         "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-30-microsoft-will-no-longer-make-minority-investments-in-facial-recognition-tech.md",
+      "title": "Microsoft Will No Longer Make Minority Investments in Facial Recognition Tech",
+      "excerpt": "Microsoft (NASDAQ:MSFT) is drawing a line in the sand when it comes to facial recognition technology. On Friday, the company announced it was divesting its stake in a facial recognition start-up and vowed to no longer make minority investments in the area. Through its M12 venture fund, the software giant announced over the weekend that it ...",
+      "heat": 96,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fool.com/investing/2020/03/30/microsoft-will-no-longer-make-minority-investments.aspx",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/03/30/microsoft-will-no-longer-make-minority-investments.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/03/30/microsoft-will-no-longer-make-minority-investments.aspx",
+      "publishedDateTime": "2020-03-30T12:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F565770%2Fmicrosoft-anyvision-mf.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 800,
+          "title": "Microsoft Will No Longer Make Minority Investments in Facial Recognition Tech",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
         "AI"
       ]
     }

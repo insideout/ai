@@ -489,43 +489,6 @@
       ]
     },
     {
-      "path": "_news/2020-04-21-learn-how-to-leverage-the-aws-cloud-to-build-and-innovate-at-scale-with-the-free-aws-summit-online.md",
-      "title": "Learn how to leverage the AWS cloud, to build and innovate at scale with the free AWS Summit Online",
-      "excerpt": "The AWS DeepRacer League Summit Race Compete for prizes and meet fellow machine learning enthusiasts, online. Racers will have the opportunity to join the DeepRacer online workshop and have a 1-to ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://yourstory.com/2020/04/aws-cloud-innovate-summit-online",
-      "ampWebUrl": "https://yourstory.com/2020/04/aws-cloud-innovate-summit-online/amp",
-      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/04/aws-cloud-innovate-summit-online/amp",
-      "publishedDateTime": "2020-04-20T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Your Story",
-        "domain": "yourstory.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.yourstory.com/cs/static/default-ys-image.jpg",
-          "width": 300,
-          "height": 300,
-          "title": "Learn how to leverage the AWS cloud, to build and innovate at scale with the free AWS Summit Online",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-04-21-specification-gaming-the-flip-side-of-ai-ingenuity.md",
       "title": "Specification gaming: the flip side of AI ingenuity",
       "excerpt": "Specification gaming is a behaviour that satisfies the literal specification of an objective without achieving the intended outcome. We have all had experiences with specification gaming, even if not by this name. Readers may have heard the myth of King Midas and the golden touch, in which the king asks",
@@ -1064,6 +1027,50 @@
           "width": 1200,
           "height": 600,
           "title": "This COVID-19 app would listen to your cough and use AI to predict whether you have coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-20-the-station-ponyai-turns-to-delivery-kodiak-cuts-lime-snaps-up-boosteds-ip.md",
+      "title": "The Station: Pony.ai turns to delivery, Kodiak cuts, Lime snaps up Boosted’s IP",
+      "excerpt": "Pony .ai is the latest autonomous vehicle startup to turn its efforts to delivery — at least temporarily. The company announced this week it will partner with e-commerce platform Yamibuy to ...",
+      "heat": 83,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/04/20/the-station-pony-ai-turns-to-delivery-kodiak-cuts-lime-snaps-up-boosteds-ip/",
+      "ampWebUrl": "https://techcrunch.com/2020/04/20/the-station-pony-ai-turns-to-delivery-kodiak-cuts-lime-snaps-up-boosteds-ip/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/20/the-station-pony-ai-turns-to-delivery-kodiak-cuts-lime-snaps-up-boosteds-ip/amp/",
+      "publishedDateTime": "2020-04-20T09:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2018/05/boosted-electric-board-vehicle-bridge.jpg",
+          "width": 680,
+          "height": 383,
+          "title": "The Station: Pony.ai turns to delivery, Kodiak cuts, Lime snaps up Boosted’s IP",
           "attribution": null
         }
       ],

@@ -2,51 +2,6 @@
   "page": 62,
   "value": [
     {
-      "path": "_news/2020-03-04-surprise-aws-leads-in-cloud-ai-services-ranking.md",
-      "title": "Surprise! AWS Leads In 'Cloud AI Services' Ranking",
-      "excerpt": "Everyone reading this article knows that the cloud space is hot. And it's comprised of many different types of services and platforms to complete a full stack. Ten years ago, it was sufficient to just call the space “cloud”,",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2020/03/04/surprise-aws-leads-in-cloud-ai-services-ranking/",
-      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2020/03/04/surprise-aws-leads-in-cloud-ai-services-ranking/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2020/03/04/surprise-aws-leads-in-cloud-ai-services-ranking/amp/",
-      "publishedDateTime": "2020-03-04T15:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e6017d8e1e617000758dc82%2F0x0.jpg",
-          "width": 975,
-          "height": 549,
-          "title": "Surprise! AWS Leads In 'Cloud AI Services' Ranking",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-03-04-how-ibm-makes-money.md",
       "title": "How IBM Makes Money",
       "excerpt": "Major competitors include Alphabet Inc. (GOOGL), Cisco Systems Inc. (CSCO), Microsoft Corp. (MSFT ... IBM sells IT services, cloud and cognitive offerings, and enterprise systems and software.",
@@ -963,6 +918,35 @@
       ],
       "topics": [
         "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-03-machine-learning-25-million-students-in-the-country-to-train-on-ai-soon.md",
+      "title": "Machine Learning! 2.5 million students in the country to train on AI soon",
+      "excerpt": "Last week, NITI Aayog’s Atal Innovation Mission (AIM), in collaboration with the National Association of Software and Services Companies ... AI and machine learning touted to form the basis ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.financialexpress.com/opinion/machine-learning-2-5-million-students-in-the-country-to-train-on-ai-soon/1886957/",
+      "ampWebUrl": "https://www.financialexpress.com/opinion/machine-learning-2-5-million-students-in-the-country-to-train-on-ai-soon/1886957/lite/",
+      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/opinion/machine-learning-2-5-million-students-in-the-country-to-train-on-ai-soon/1886957/lite/",
+      "publishedDateTime": "2020-03-02T20:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Express",
+        "domain": "financialexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
         "AI"
       ]
     }

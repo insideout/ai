@@ -33,19 +33,6 @@ related:
       - url: "https://www.crowdfundinsider.com/wp-content/uploads/2018/11/Prison-Criminal-Crook-Crime-Jail-300x208.jpg"
         width: 300
         height: 208
-  - title: "IBM & Fenergo Join Forces to Fight Financial Crime"
-    excerpt: "Fenergo, the leading provider of digital transformation, customer journey and client lifecycle management (CLM) solutions for"
-    publishedDateTime: 2020-04-21T10:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/ibm--fenergo-join-forces-to-fight-financial-crime-301043856.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 24
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
 
 secured: "kU+YocU3DpsYEaADL1cNjJ4hDysrSK7tAj+R46QWfTFCfVHh4ybkJDVr7Ys1vnlKvaQmuFR0aWm6oI4+XRzgebWihV6pmlNuX191+JVRfEkY7J2b8B65i48tSBDTFkX8GtBcaqO/6d7LixR3q/7reeSFeMg3+4geaBIygqP/kW6kHfUhqq+gwGGRnkUL4jTKGCgOQbukcZbcCpD+DGMu85mmgLmglCzd/w/3qGLoS1lmT6ivzD/Pujptv1Q9LLWcFdhsM0UHocv1aiYwKV9CAhCX86+B9OM91TAZ14rzR1NbjVWJRtGZXPeDsfKCLuH3;MRZz72SMtPXIj2QrZDZdxg=="
 ---

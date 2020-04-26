@@ -266,43 +266,6 @@
       ]
     },
     {
-      "path": "_news/2020-04-21-learn-how-to-leverage-the-aws-cloud-to-build-and-innovate-at-scale-with-the-free-aws-summit-online.md",
-      "title": "Learn how to leverage the AWS cloud, to build and innovate at scale with the free AWS Summit Online",
-      "excerpt": "The AWS DeepRacer League Summit Race Compete for prizes and meet fellow machine learning enthusiasts, online. Racers will have the opportunity to join the DeepRacer online workshop and have a 1-to ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://yourstory.com/2020/04/aws-cloud-innovate-summit-online",
-      "ampWebUrl": "https://yourstory.com/2020/04/aws-cloud-innovate-summit-online/amp",
-      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/04/aws-cloud-innovate-summit-online/amp",
-      "publishedDateTime": "2020-04-20T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Your Story",
-        "domain": "yourstory.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.yourstory.com/cs/static/default-ys-image.jpg",
-          "width": 300,
-          "height": 300,
-          "title": "Learn how to leverage the AWS cloud, to build and innovate at scale with the free AWS Summit Online",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-04-20-14-ways-aws-beats-microsoft-azure-and-google-cloud.md",
       "title": "14 ways AWS beats Microsoft Azure and Google Cloud",
       "excerpt": "If your shop is obsessed with mixing AI into your stack, Amazon has almost too many options to consider. There are too many to list. They begin with basic tools like SageMaker for training models to respond to your data. These tools have attracted plenty of developers and that may be why the sales literature brags that “85% of TensorFlow ...",
@@ -884,14 +847,14 @@
     {
       "path": "_news/2020-04-11-amazon-announces-general-availability-of-aws-deepcomposer.md",
       "title": "Amazon Announces General Availability of AWS Deepcomposer",
-      "excerpt": "Recently, Amazon announced the general availability of Deepcomposer, a service in AWS, which provides developers with a creative way to learn Machine Learning (ML). Deepcomposer is a machine ...",
+      "excerpt": "At re:Invent last year, Amazon launched AWS Deepcomposer as a preview, and it is generally available now with a few new features. These features include: Julien Simon, artificial intelligence ...",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.infoq.com/news/2020/04/amazon-aws-deepcomposer-ga/?useSponsorshipSuggestions=true",
+      "webUrl": "https://www.infoq.com/news/2020/04/amazon-aws-deepcomposer-ga/",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-11T04:05:00-07:00",
+      "publishedDateTime": "2020-04-11T04:09:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "InfoQ",
@@ -1281,6 +1244,51 @@
       "topics": [
         "AWS AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-07-optimizing-japanese-text-to-speech-with-amazon-polly.md",
+      "title": "Optimizing Japanese text-to-speech with Amazon Polly",
+      "excerpt": "Amazon Polly is a cloud service that offers text-to-speech (TTS), a system that converts text input into a waveform, in a range of 61 voices in 29 languages by using advanced deep learning technologies. The Amazon Polly service supports companies in developing digital products that use speech synthesis",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/optimizing-japanese-text-to-speech-with-amazon-polly/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-07T10:59:57-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/11/24/polly-social.jpg",
+          "width": 1024,
+          "height": 512,
+          "title": "Optimizing Japanese text-to-speech with Amazon Polly",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
       ]
     }
   ],

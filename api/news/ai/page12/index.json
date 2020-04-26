@@ -2,51 +2,6 @@
   "page": 12,
   "value": [
     {
-      "path": "_news/2020-04-13-chinese-tech-titan-baidu-acquires-us-start-up-to-boost-driverless-car-efforts.md",
-      "title": "Chinese tech titan Baidu acquires US start-up to boost driverless car efforts",
-      "excerpt": "The company's latest move follows a series of ventures into artificial intelligence ... Google - which introduced its own driverless car, Waymo, back in 2009. It also opens a window of opportunity ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnbc.com/2017/04/13/chinese-tech-titan-baidu-acquires-us-start-up-to-boost-driverless-car-efforts.html",
-      "ampWebUrl": "https://www.cnbc.com/amp/2017/04/13/chinese-tech-titan-baidu-acquires-us-start-up-to-boost-driverless-car-efforts.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2017/04/13/chinese-tech-titan-baidu-acquires-us-start-up-to-boost-driverless-car-efforts.html",
-      "publishedDateTime": "2020-04-12T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/102789256-182034207.jpg?v=1529468820",
-          "width": 2000,
-          "height": 1333,
-          "title": "Chinese tech titan Baidu acquires US start-up to boost driverless car efforts",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-04-12-how-to-reduce-the-unemployment-gap-with-ai.md",
       "title": "How To Reduce The Unemployment Gap With AI",
       "excerpt": "McKinsey & Company's recent article, A new AI-powered network, is helping workers displaced by the coronavirus crisis provides context around the scope of challenges involved in closing the unemployment gap.",
@@ -257,14 +212,14 @@
     {
       "path": "_news/2020-04-11-amazon-announces-general-availability-of-aws-deepcomposer.md",
       "title": "Amazon Announces General Availability of AWS Deepcomposer",
-      "excerpt": "Recently, Amazon announced the general availability of Deepcomposer, a service in AWS, which provides developers with a creative way to learn Machine Learning (ML). Deepcomposer is a machine ...",
+      "excerpt": "At re:Invent last year, Amazon launched AWS Deepcomposer as a preview, and it is generally available now with a few new features. These features include: Julien Simon, artificial intelligence ...",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.infoq.com/news/2020/04/amazon-aws-deepcomposer-ga/?useSponsorshipSuggestions=true",
+      "webUrl": "https://www.infoq.com/news/2020/04/amazon-aws-deepcomposer-ga/",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-11T04:05:00-07:00",
+      "publishedDateTime": "2020-04-11T04:09:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "InfoQ",
@@ -1248,6 +1203,51 @@
       ],
       "topics": [
         "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-10-lee-sedol-loses-final-go-match-making-it-a-4-1-victory-for-googles-ai.md",
+      "title": "Lee Sedol Loses Final Go Match Making It a 4-1 Victory for Google's AI",
+      "excerpt": "Google Deepmind’s Demis Hassabis put the odds ... has stomped to victory for a fourth time against Go world champion Lee Sedol. That makes it a resounding victory for the AI, which has won ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://gizmodo.com/lee-sedol-loses-final-go-match-making-it-a-4-1-victory-1764954190",
+      "ampWebUrl": "https://gizmodo.com/lee-sedol-loses-final-go-match-making-it-a-4-1-victory-1764954190/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/lee-sedol-loses-final-go-match-making-it-a-4-1-victory-1764954190/amp",
+      "publishedDateTime": "2020-04-10T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/aqwd9etxb05pn19wqid9.jpg",
+          "width": 800,
+          "height": 362,
+          "title": "Lee Sedol Loses Final Go Match Making It a 4-1 Victory for Google's AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
         "AI"
       ]
     }

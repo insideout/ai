@@ -2,50 +2,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_news/2020-04-20-the-station-ponyai-turns-to-delivery-kodiak-cuts-lime-snaps-up-boosteds-ip.md",
-      "title": "The Station: Pony.ai turns to delivery, Kodiak cuts, Lime snaps up Boosted’s IP",
-      "excerpt": "Pony .ai is the latest autonomous vehicle startup to turn its efforts to delivery — at least temporarily. The company announced this week it will partner with e-commerce platform Yamibuy to ...",
-      "heat": 83,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/04/20/the-station-pony-ai-turns-to-delivery-kodiak-cuts-lime-snaps-up-boosteds-ip/",
-      "ampWebUrl": "https://techcrunch.com/2020/04/20/the-station-pony-ai-turns-to-delivery-kodiak-cuts-lime-snaps-up-boosteds-ip/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/20/the-station-pony-ai-turns-to-delivery-kodiak-cuts-lime-snaps-up-boosteds-ip/amp/",
-      "publishedDateTime": "2020-04-20T09:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2018/05/boosted-electric-board-vehicle-bridge.jpg",
-          "width": 680,
-          "height": 383,
-          "title": "The Station: Pony.ai turns to delivery, Kodiak cuts, Lime snaps up Boosted’s IP",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-04-20-brief-oncodesign-announces-creation-of-artificial-intelligence-business-unit.md",
       "title": "BRIEF-Oncodesign Announces Creation Of Artificial Intelligence Business Unit",
       "excerpt": "Oncodesign SA: * ANNOUNCES CREATION OF ITS NEW ARTIFICIAL INTELLIGENCE BUSINESS UNIT (BU) HEADED UP BY STÉPHANE GERART * NEW BU WILL BE BASED MAINLY IN DIJON",
@@ -1053,6 +1009,51 @@
       ],
       "topics": [
         "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-19-this-doctor-from-kashmir-uses-machine-learning-to-crunch-coronavirus-data.md",
+      "title": "This Doctor From Kashmir Uses Machine Learning To Crunch Coronavirus Data",
+      "excerpt": "A young surgeon raised in Kashmir is now part of a team using big data and machine learning to help detect useful patterns in the tsunami of public health data generated world-wide by the COVID-19 crisis and do what he can for those back home.",
+      "heat": 88,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/andrewwight/2020/04/19/this-doctor-from-kashmir-uses-machine-learning-to-crunch-coronavirus-data/",
+      "ampWebUrl": "https://www.forbes.com/sites/andrewwight/2020/04/19/this-doctor-from-kashmir-uses-machine-learning-to-crunch-coronavirus-data/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/andrewwight/2020/04/19/this-doctor-from-kashmir-uses-machine-learning-to-crunch-coronavirus-data/amp/",
+      "publishedDateTime": "2020-04-19T07:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e8f979915a3500006b64361%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1346%26cropY1%3D44%26cropY2%3D801",
+          "width": 1200,
+          "height": 675,
+          "title": "This Doctor From Kashmir Uses Machine Learning To Crunch Coronavirus Data",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
         "AI"
       ]
     }

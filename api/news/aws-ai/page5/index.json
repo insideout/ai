@@ -2,43 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2020-02-17-aws-assists-premier-league-analytics.md",
-      "title": "AWS assists Premier League analytics",
-      "excerpt": "The Premier League has chosen Amazon Web Services (AWS) as its preferred Cloud, machine learning (ML) and artificial intelligence (AI) provider. The league’s analytics company Second Spectrum uses AWS to help deliver analytics, visualisations and searchable video clips during games. Second Spectrum applies ML and computer vision techniques to ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.tvbeurope.com/technology/aws-assists-premier-league-analytics",
-      "ampWebUrl": "https://www.tvbeurope.com/technology/aws-assists-premier-league-analytics?amp",
-      "cdnAmpWebUrl": "https://www-tvbeurope-com.cdn.ampproject.org/c/s/www.tvbeurope.com/technology/aws-assists-premier-league-analytics?amp",
-      "publishedDateTime": "2020-02-17T02:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "tvbeurope.com",
-        "domain": "tvbeurope.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.tvbeurope.com/wp-content/uploads/2019/05/premier-league.jpg",
-          "width": 590,
-          "height": 350,
-          "title": "AWS assists Premier League analytics",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
       "path": "_news/2020-02-14-simplify-machine-learning-inference-on-kubernetes-with-amazon-sagemaker-operators.md",
       "title": "Simplify Machine Learning Inference on Kubernetes with Amazon SageMaker Operators",
       "excerpt": "Amazon SageMaker Operators for Kubernetes allows you to augment your existing Kubernetes cluster with SageMaker hosted endpoints. \nMachine learning inferencing requires investment to create a reliable and efficient service. For an XGBoost model, developers have to create an application, such as through",
@@ -1312,6 +1275,52 @@
       ],
       "topics": [
         "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-01-15-congress-moves-toward-facial-recognition-regulation.md",
+      "title": "Congress moves toward facial recognition regulation",
+      "excerpt": "A bipartisan group in Congress is working on legislation that could regulate the use of facial recognition by the private sector, federal government, and law enforcement. “We have a ...",
+      "heat": 481,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/01/15/congress-moves-toward-facial-recognition-regulation/",
+      "ampWebUrl": "https://venturebeat.com/2020/01/15/congress-moves-toward-facial-recognition-regulation/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/15/congress-moves-toward-facial-recognition-regulation/amp/",
+      "publishedDateTime": "2020-01-15T11:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/08/facial-recognition.png?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Congress moves toward facial recognition regulation",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision",
         "AWS AI"
       ]
     }
