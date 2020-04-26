@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-04-26-revolutionizing-the-student-experience-with-ai-an-experiment-in-voice-apps-at-arizona-state-university.md",
+      "title": "Revolutionizing The Student Experience With AI: An Experiment In Voice Apps At Arizona State University",
+      "excerpt": "Before the pandemic forced all learning online, one campus was ahead of the revolution on using AI to augment the learning experience.",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/04/26/revolutionizing-the-student-experience-with-ai-an-experiment-in-voice-apps-at-arizona-state-university/",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/04/26/revolutionizing-the-student-experience-with-ai-an-experiment-in-voice-apps-at-arizona-state-university/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/04/26/revolutionizing-the-student-experience-with-ai-an-experiment-in-voice-apps-at-arizona-state-university/amp/",
+      "publishedDateTime": "2020-04-26T07:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ea5929c2281170006819f47%2F0x0.jpg",
+          "width": 1200,
+          "height": 1800,
+          "title": "Revolutionizing The Student Experience With AI: An Experiment In Voice Apps At Arizona State University",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-26-microsoft-technology-chief-explains-how-ai-could-someday-help-rural-people-get-through-a-pandemic.md",
       "title": "Microsoft technology chief explains how A.I. could someday help rural people get through a pandemic",
       "excerpt": "Coronavirus has reached Campbell County, where Microsoft's Kevin Scott grew up. He thinks said AI could offer new economic opportunity and greater interaction.",
@@ -1250,51 +1294,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-24-google-researchers-use-deep-reinforcement-learning-for-optimizing-chip-design.md",
-      "title": "Google researchers use deep reinforcement learning for optimizing chip design",
-      "excerpt": "However, it is a process that takes substantial time, and efforts are being made to make it more efficient. Considering this, researchers working with Google have now looked towards machine learning to help tackle the problem. In a recent paper titled “Chip Placement with Deep Reinforcement Learning” published on arXiv, the team at Google ...",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.neowin.net/news/google-researchers-use-deep-reinforcement-learning-for-optimizing-chip-design",
-      "ampWebUrl": "https://www.neowin.net/amp/google-researchers-use-deep-reinforcement-learning-for-optimizing-chip-design/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/google-researchers-use-deep-reinforcement-learning-for-optimizing-chip-design/",
-      "publishedDateTime": "2020-04-23T23:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2020/04/1587706306_sharedscreenshot_story.jpg",
-          "width": 760,
-          "height": 421,
-          "title": "Google researchers use deep reinforcement learning for optimizing chip design",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

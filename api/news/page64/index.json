@@ -2,6 +2,95 @@
   "page": 64,
   "value": [
     {
+      "path": "_news/2020-02-28-how-this-ai-engineer-turned-ceo-is-reshaping-the-way-we-work-for-society-50.md",
+      "title": "How This AI Engineer-Turned CEO Is Reshaping The Way We Work For Society 5.0",
+      "excerpt": "A recent survey of over 10,000 office workers by a U. S. tech firm found respondents were wasting more than 40% of their day on repetitive data work.",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/japan/2020/02/28/how-this-ai-engineer-turned-ceo-is-reshaping-the-way-we-work-for-society-50/",
+      "ampWebUrl": "https://www.forbes.com/sites/japan/2020/02/28/how-this-ai-engineer-turned-ceo-is-reshaping-the-way-we-work-for-society-50/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/japan/2020/02/28/how-this-ai-engineer-turned-ceo-is-reshaping-the-way-we-work-for-society-50/amp/",
+      "publishedDateTime": "2020-02-28T10:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e5946917a00980007347bb4%2F0x0.jpg",
+          "width": 876,
+          "height": 586,
+          "title": "How This AI Engineer-Turned CEO Is Reshaping The Way We Work For Society 5.0",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-28-the-pope-is-getting-on-the-ai-bandwagon.md",
+      "title": "The Pope is getting on the AI bandwagon",
+      "excerpt": "The tech giants signed the Vatican's “Rome Call for AI Ethics” pledge which asserts that technology should respect privacy, work reliably and do so without bias. It also says that AI technology should consider “the needs of all human beings” and operate transparently. The document reflects growing concerns among businesses and ...",
+      "heat": 139,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techradar.com/news/the-pope-is-getting-on-the-ai-bandwagon",
+      "ampWebUrl": "https://www.techradar.com/amp/news/the-pope-is-getting-on-the-ai-bandwagon",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/the-pope-is-getting-on-the-ai-bandwagon",
+      "publishedDateTime": "2020-02-28T10:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/o32fPtrBni3aBQR3wyWqqE-1200-80.jpg",
+          "width": 970,
+          "height": 545,
+          "title": "The Pope is getting on the AI bandwagon",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2020-02-28-probeat-clearview-ais-short-slippery-slope.md",
       "title": "ProBeat: Clearview AI’s short slippery slope",
       "excerpt": "Facial recognition startup Clearview AI is best known for two things: its facial recognition algorithm that lets you upload a photo to compare with its database of potential matches and that the company created said database by scraping over 3 billion images from user profiles on Microsoft’s LinkedIn, Twitter, Venmo, Google’s YouTube ...",
@@ -1002,96 +1091,6 @@
       "topics": [
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-02-28-ice-warrantless-facial-recognition-searches-trigger-maryland-bill.md",
-      "title": "ICE warrantless facial recognition searches trigger Maryland bill",
-      "excerpt": "Cortez spoke today in the Maryland General Assembly in favor of a bill that requires ICE obtain a warrant from a judge before the agency can use facial recognition to search the Maryland Image Repository System or MRS. Maryland began to issue driver’s licenses to immigrants in 2013. On Wednesday, the Washington Post reported that ICE searched ...",
-      "heat": 119,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/02/27/ice-warrantless-facial-recognition-searches-trigger-maryland-bill/",
-      "ampWebUrl": "https://venturebeat.com/2020/02/27/ice-warrantless-facial-recognition-searches-trigger-maryland-bill/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/27/ice-warrantless-facial-recognition-searches-trigger-maryland-bill/amp/",
-      "publishedDateTime": "2020-02-27T16:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/01/GettyImages-1181457356.jpg?fit=2215%2C1353&strip=all",
-          "width": 2215,
-          "height": 1353,
-          "title": "ICE warrantless facial recognition searches trigger Maryland bill",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-02-28-robots-and-their-masters-take-over-nuclear-plant-for-darpas-subterranean-challenge.md",
-      "title": "Robots and their masters take over nuclear plant for DARPA’s Subterranean Challenge",
-      "excerpt": "This special series explores the evolving relationship between humans and machines, examining the ways that robots, artificial intelligence and automation are impacting our work ... “And that confidence might be just what they need to go start a company, or create a lab, or address real problems that need additional attention.”",
-      "heat": 83,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.geekwire.com/2020/robots-masters-take-nuclear-plant-darpas-subterranean-challenge/",
-      "ampWebUrl": "https://www.geekwire.com/2020/robots-masters-take-nuclear-plant-darpas-subterranean-challenge/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/robots-masters-take-nuclear-plant-darpas-subterranean-challenge/amp/",
-      "publishedDateTime": "2020-02-27T16:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/02/200225-subt-csiro2-630x449.jpg",
-          "width": 630,
-          "height": 449,
-          "title": "Robots and their masters take over nuclear plant for DARPA’s Subterranean Challenge",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

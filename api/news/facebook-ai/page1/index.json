@@ -537,6 +537,44 @@
       ]
     },
     {
+      "path": "_news/2020-04-12-facebooks-regnet-ai-model-tops-googles-efficientnet-runs-5-times-faster-on-gpus.md",
+      "title": "Facebook's RegNet AI model tops Google's EfficientNet, runs 5 times faster on GPUs",
+      "excerpt": "Facebook recently made progress in the GPU department. A team from Facebook AI Research (FAIR) recently developed a new low-dimensional design space. Named ‘RegNet’ the new design outperforms traditional available models including ones from Google. Further, it runs five times faster on GPUs. Also Read - Facebook launches Quiet Mode to curb ...",
+      "heat": 88,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.bgr.in/news/facebooks-regnet-ai-model-tops-googles-efficientnet-runs-5-times-faster-on-gpus-885365/",
+      "ampWebUrl": "https://www.bgr.in/news/facebooks-regnet-ai-model-tops-googles-efficientnet-runs-5-times-faster-on-gpus-885365/amp/",
+      "cdnAmpWebUrl": "https://www-bgr-in.cdn.ampproject.org/c/s/www.bgr.in/news/facebooks-regnet-ai-model-tops-googles-efficientnet-runs-5-times-faster-on-gpus-885365/amp/",
+      "publishedDateTime": "2020-04-12T03:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BGR",
+        "domain": "www.bgr.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://st1.bgr.in/wp-content/uploads/2018/05/facebook-pixabay-main.jpg",
+          "width": 805,
+          "height": 456,
+          "title": "Facebook's RegNet AI model tops Google's EfficientNet, runs 5 times faster on GPUs",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-10-facebook-proposes-3d-navigation-task-for-training-autonomous-robots.md",
       "title": "Facebook proposes 3D navigation task for training autonomous robots",
       "excerpt": "“Crucially, VLN-CE … provides the [research] community with a testbed where these sort ... In 2018, the company open-sourced AI that can navigate New York City streets with 360-degree images. More recently, a Facebook team published a paper describing a system that learns how to get around an office by watching videos.",
@@ -1271,52 +1309,6 @@
       "topics": [
         "Facebook AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-23-ai-in-computer-vision-market-project-to-include-more-research-development-to-attain-high-valuation.md",
-      "title": "AI in Computer Vision Market Project to Include More Research & Development to Attain High Valuation",
-      "excerpt": "AI in Computer Vision Market Research Report- Forecast till 2023 Market Highlights A boom in the increasing demand",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-project-to-include-more-research-development-to-attain-high-valuation-2020-03-23",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-23T09:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "AI in Computer Vision Market Project to Include More Research & Development to Attain High Valuation",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

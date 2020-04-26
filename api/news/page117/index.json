@@ -2,6 +2,96 @@
   "page": 117,
   "value": [
     {
+      "path": "_news/2020-01-10-ubtechs-updated-walker-robot-does-yoga-and-pours-drinks.md",
+      "title": "Ubtech's updated Walker robot does 'yoga' and pours drinks",
+      "excerpt": "Walker's updated software is the result of continued AI training on its original hardware -- including the same optical sensors ... If you haven't already, it's about time you start saving up for your robot pal. Follow all the latest news from CES 2020 here!",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.engadget.com/2020/01/10/ubtech-walker-robot-yoga-pouring-drinks/",
+      "ampWebUrl": "https://www.engadget.com/amp/2020/01/10/ubtech-walker-robot-yoga-pouring-drinks/",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/10/ubtech-walker-robot-yoga-pouring-drinks/",
+      "publishedDateTime": "2020-01-10T10:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://img.vidible.tv/prod/2020-01/10/5e161c85791cad4774d68586/5e18b3342e50cc3257502b58_o_U_v1.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Ubtech's updated Walker robot does 'yoga' and pours drinks",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-01-10-amazon-aims-to-democratize-deep-learning-with-new-library-autogluon.md",
+      "title": "Amazon aims to democratize deep learning with new library AutoGluon",
+      "excerpt": "“We developed AutoGluon to truly democratize machine learning, and make the power of deep learning available to all developers,” said Jonas Mueller, AWS applied scientist. According to ...",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://sdtimes.com/ai/amazon-aims-to-democratize-deep-learning-with-new-library-autogluon/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-10T08:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SD Times",
+        "domain": "sdtimes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/sdtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://sdtimes.com/wp-content/uploads/2020/01/download-1.png",
+          "width": 1440,
+          "height": 810,
+          "title": "Amazon aims to democratize deep learning with new library AutoGluon",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-01-10-neons-artificial-human-is-a-scary-glimpse-of-the-future-thats-mostly-still-hype.md",
       "title": "Neon's 'artificial human' is a scary glimpse of the future that's (mostly) still hype",
       "excerpt": "We've grown accustomed to asking virtual assistants like Siri and Alexa to do small tasks for us and provide basic information. But if the CEO of a Samsung-backed startup has his way, \"artificial humans\" will become your teachers,",
@@ -978,96 +1068,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-01-08-artificial-humans-named-neon-are-stars-of-ces.md",
-      "title": "'Artificial humans' named Neon are stars of CES",
-      "excerpt": "Neon, the super-realistic digitally simulated avatar, has taken CES by storm. Build upon the Core R3 neural network, the Neon avatars can provide incredibly lifelike renderings of people to be used as AI assistants,",
-      "heat": 94,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnbc.com/2020/01/08/this-samsung-backed-startup-creates-super-realistic-human-avatars.html",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/01/08/this-samsung-backed-startup-creates-super-realistic-human-avatars.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/01/08/this-samsung-backed-startup-creates-super-realistic-human-avatars.html",
-      "publishedDateTime": "2020-01-08T15:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106325550-1578454163254screenshot2020-01-07at10.28.04pm.png?v=1578507662",
-          "width": 2818,
-          "height": 1594,
-          "title": "'Artificial humans' named Neon are stars of CES",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-01-08-going-fast-buy-a-demo-table-at-tc-sessions-roboticsai-2020.md",
-      "title": "Going fast: Buy a demo table at TC Sessions: Robotics+AI 2020",
-      "excerpt": "Startup founders, set your sites on TC Sessions: Robotics+AI, which takes place on March 3, 2020. This annual day-long event draws the brightest minds and makers from these two industries — 1,500 attendees last year alone. And if you really want to make 2020 a game-changing year, grab yourself a demo table and showcase your early-stage ...",
-      "heat": 129,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/01/08/going-fast-buy-a-demo-table-at-tc-sessions-robotics-ai-2020/",
-      "ampWebUrl": "https://techcrunch.com/2020/01/08/going-fast-buy-a-demo-table-at-tc-sessions-robotics-ai-2020/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/08/going-fast-buy-a-demo-table-at-tc-sessions-robotics-ai-2020/amp/",
-      "publishedDateTime": "2020-01-08T13:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/10/robotics_2020_wordpress_header_2000x1090.png?w=1024",
-          "width": 1024,
-          "height": 558,
-          "title": "Going fast: Buy a demo table at TC Sessions: Robotics+AI 2020",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

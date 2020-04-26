@@ -2,6 +2,86 @@
   "page": 102,
   "value": [
     {
+      "path": "_news/2018-08-22-society-is-made-of-narrative-realizing-this-is-awakening-from-the-matrix.md",
+      "title": "Society Is Made Of Narrative. Realizing This Is Awakening From The Matrix.",
+      "excerpt": "In the movie The Matrix, humans are imprisoned in a virtual world by a powerful artificial intelligence system in a dystopian future. What they take to be ... with their senses is actually made of AI-generated code. Life in our current society is very ...",
+      "heat": 150,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/@caityjohnstone/society-is-made-of-narrative-realizing-this-is-awakening-from-the-matrix-787c7e2539ae",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2018-08-21T18:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/1200/0*pmMn-OBDF907eDRG",
+          "width": 1200,
+          "height": 900,
+          "title": "Society Is Made Of Narrative. Realizing This Is Awakening From The Matrix.",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2017-07-27-kesha-discovers-how-to-learn-to-let-go-in-new-song-and-video.md",
+      "title": "Kesha Discovers How to “Learn to Let Go” in New Song and Video",
+      "excerpt": "According to an essay in The Huffington Post, pop singer Kesha, while writing “Learn to Let Go,” was also inspired by ... where she encounters signposts from her past—including a cleverly devised fake swimming pool—that parallel the funny, often ...",
+      "heat": 142,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.slantmagazine.com/music/kesha-discovers-how-to-learn-to-let-go-in-new-song-and-video/",
+      "ampWebUrl": "https://www.slantmagazine.com/music/kesha-discovers-how-to-learn-to-let-go-in-new-song-and-video/amp/",
+      "cdnAmpWebUrl": "https://www-slantmagazine-com.cdn.ampproject.org/c/s/www.slantmagazine.com/music/kesha-discovers-how-to-learn-to-let-go-in-new-song-and-video/amp/",
+      "publishedDateTime": "2017-07-27T06:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Slant Magazine",
+        "domain": "slantmagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.slantmagazine.com/wp-content/uploads/2017/07/music_learntoletgo-600x600.jpg",
+          "width": 600,
+          "height": 600,
+          "title": "Kesha Discovers How to “Learn to Let Go” in New Song and Video",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2017-05-01-a-list-of-artificial-intelligence-tools-you-can-use-today-for-personal-use-13.md",
       "title": "A list of artificial intelligence tools you can use today — for personal use (1/3)",
       "excerpt": "Artificial Intelligence and the fourth industrial revolution has made some considerable progress over the last couple of years. Most of this current progress that is usable has been developed for ...",

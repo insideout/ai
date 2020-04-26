@@ -2,6 +2,51 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-01-22-top-players-in-ai-technology-market-2020-23-ibm-amazon-google-intel-and-facebook.md",
+      "title": "Top Players in AI Technology Market (2020-23) IBM, Amazon, Google, Intel and Facebook",
+      "excerpt": "The Global AI Technology Market Research Report Forecast 2020-2023 is a valuable source of insightful data for business strategists. It provides the AI Technology overview with growth analysis and historical & futuristic cost,",
+      "heat": 92,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/top-players-in-ai-technology-market-2020-23-ibm-amazon-google-intel-and-facebook-2020-01-22",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-22T01:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Top Players in AI Technology Market (2020-23) IBM, Amazon, Google, Intel and Facebook",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2020-01-21-facebooks-ai-learns-the-relationships-between-physical-places-from-first-person-video-footage.md",
       "title": "Facebook’s AI learns the relationships between physical places from first-person video footage",
       "excerpt": "That’s why a team of researchers from the University of Texas and Facebook AI Research investigated in a paper Ego-Topo, a technique that decomposes a space captured in a video into a ...",

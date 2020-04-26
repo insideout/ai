@@ -5,8 +5,8 @@ excerpt: "A technical walk through of how I made AI opponents for the party figh
 publishedDateTime: 2020-04-24T15:23:00Z
 webUrl: "https://gamasutra.com/blogs/AaronMaus/20200424/361750/Devlog_2__Using_Machine_Learning_to_Create_AI_Opponents_A_Case_Study.php"
 type: article
-quality: 37
-heat: -1
+quality: 54
+heat: 64
 published: false
 
 provider:
@@ -15,6 +15,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://lh3.googleusercontent.com/p0WJZ4WeL9KfuPstoE7WxW0moWxK6VZgxHUkXcg3wcELVCbahySHRzPK11MfkavUhuGy-1xhPd6bUKE4S5BzZB3yBqH2qX_i0jzjq7hc9juWpB2Rzw_avNv_WxjmsqMpS4hdbzZI"
@@ -37,6 +38,6 @@ related:
         width: 500
         height: 500
 
-secured: "UIYOPZc2H+9+2SGKESq92XkgM2PNo40M04Td1GO8F4CWHkD3ioEthyhpkX3mGguGPlM6+fOkaUBoS8/poupMZqnfOFxrEd2ZoFxw/DsG04XOWelUz9MajHlSjCwprLxCWmr6/CwMZ86gCLDAmNSxKRJ2lNnhcoDyXze56QmeBmy3C3kNnl3/kakP+F30V9PcFwUy4X3Tb78TsG+mhYO+jtKqVU8QFHsQz3t3+YAUcqRaZCa5Te6R5Kz5bgEMfYo0193b0nacetF/nJ6EvqkYclhXh2+gM8RfT4TRQU4CNvdThCv14buSjSPABBq9bkdY;NepJThlWiLItiCLPnoJuKg=="
+secured: "mjMM+iTsDTN27XXPa2An+l0D2gVxdq6xmgrsr55zEKVksBDQDFiP2m+IMX+q08kM8GibueX1DiOioZwU0BKn7KgPYunHuRfI47vND5KLh95FytdHpPgPe2TiUBBx/VRghp3RYDl3913Ye5wAjJZDvZbfclMan5jDaNRaAx9aiuu4pd0XutBTAHdNQR1FOO0X3ySVPBvjBkYtrvXglo72mimHqFUbPpn+7mRhrgl6fTAlFYagxdJbcuj3uUzKRKN9JV89OJWLAcajKjRAmizQ1qbtuHvmx5hNVLRf9UkBrV6utjeyxF9Pp5BPo2sSh1feFMH444PbPKSp5ljHS7maDL9kWX247ivqoUTYwbk1TKp/ooy6WqpdIAYrmZxnmlZs+g+3v6fICg84Slcrn+tZc/+Dq64a3q7+NGU3T2NGsjFfKx2+DAe6Ny/lmIyW5RRFifD8Pi+kmZ1UDaPhBlUFbSkYNte+LLI7fKjpzEzEu6I=;Qapg/a76NCNtMuBBXIuQkQ=="
 ---
 

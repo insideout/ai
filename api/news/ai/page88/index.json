@@ -2,6 +2,79 @@
   "page": 88,
   "value": [
     {
+      "path": "_news/2020-01-22-pathfactory-and-6sense-join-forces-to-equip-abm-marketers-with-unrivalled-dataset.md",
+      "title": "PathFactory and 6sense Join Forces To Equip ABM Marketers With Unrivalled Dataset",
+      "excerpt": "TORONTO, Jan. 22, 2020 /PRNewswire-PRWeb/ -- PathFactory (the leader in content intelligence) announced a partnership today with 6sense (the leading Account Based Orchestration Platform, powered by AI) that will give marketers complete visibility into the quality of account engagement,",
+      "heat": 117,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/01/n15163274/pathfactory-and-6sense-join-forces-to-equip-abm-marketers-with-unrivalled-dataset",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/15163274",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15163274",
+      "publishedDateTime": "2020-01-22T05:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-01-22-the-changing-face-of-the-cashier.md",
+      "title": "The Changing Face Of The Cashier",
+      "excerpt": "Convenience is king, and today's consumers are demanding a frictionless, omnichannel in-store experience that is personalized and efficient.",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/22/the-changing-face-of-the-cashier/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/22/the-changing-face-of-the-cashier/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/22/the-changing-face-of-the-cashier/amp/",
+      "publishedDateTime": "2020-01-22T04:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/dam/imageserve/1152642020/960x0.jpg?fit=scale",
+          "width": 711,
+          "height": 474,
+          "title": "The Changing Face Of The Cashier",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2020-01-22-oakland-startup-nets-221m-to-build-out-whats-no-longer-science-fiction.md",
       "title": "Oakland startup nets $22.1M to build out what's 'no longer science fiction'",
       "excerpt": "When Sean Byrnes started his automated data analytics company, Outlier, in 2015 the idea of using artificial intelligence to boil down the massive amounts of data businesses collect into a few valuable insights sounded like science fiction.",
@@ -1198,87 +1271,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-01-21-varicent-software-acquires-augmented-intelligence-company-symonai.md",
-      "title": "Varicent Software Acquires Augmented Intelligence Company Symon.AI",
-      "excerpt": "Varicent, the leading provider of next generation Sales Performance Management (SPM), today announced that it has acquired Symon.AI, a visionary technology platform built on sophisticated Natural Language and Machine Learning algorithms that provide easy to use,",
-      "heat": 129,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/varicent-software-acquires-augmented-intelligence-company-symonai-2020-01-21-12159517",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-21T08:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Varicent Software Acquires Augmented Intelligence Company Symon.AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-21-philips-new-oled805-and-oled855-tvs-will-use-ai-power-to-pimp-your-picture.md",
-      "title": "Philips' new OLED805 and OLED855 TVs will use AI power to pimp your picture",
-      "excerpt": "Philips has revealed its first wave of new OLED TVs for 2020 – and it's going all-in on AI picture ... OLED855 and OLED805 televisions their debuts. Essentially identical in terms of specs aside from the style of their respective stands (the 805 has a two-legged \"chamfered stand\" while the 855 has a central mount), both make use of the ...",
-      "heat": 145,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techradar.com/news/philips-new-oled805-and-oled855-tvs-will-use-ai-power-to-pimp-your-picture",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-21T08:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

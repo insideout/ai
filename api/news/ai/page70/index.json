@@ -2,6 +2,88 @@
   "page": 70,
   "value": [
     {
+      "path": "_news/2020-02-11-depression-treatment-using-ai-brain-scans.md",
+      "title": "Depression treatment using AI, brain scans",
+      "excerpt": "Artificial intelligence (AI) may be a useful and even essential tool in selecting the best ... patterns of brain activity were actually linked to the kind of brain activity impairment that improves with antidepressant therapy. This data came from the EMBARC trial for patients with major depression. The trial lasted 16 weeks at four different ...",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.news-medical.net/news/20200210/Depression-treatment-using-AI-brain-scans.aspx",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20200210/Depression-treatment-using-AI-brain-scans.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200210/Depression-treatment-using-AI-brain-scans.aspx",
+      "publishedDateTime": "2020-02-10T17:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.news-medical.net/image.axd?picture=2020%2f2%2f223421_web_00c4750629854c469bd98996c081a559-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": "Depression treatment using AI, brain scans",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2020-02-11-why-we-need-to-focus-on-the-positives-of-ai.md",
+      "title": "Why We Need To Focus On The Positives Of AI",
+      "excerpt": "Many people tend to think of AI as purely an automation technology, but that just skims the surface of what these tools and techniques can do for us.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/danielnewman/2020/02/06/why-we-need-to-focus-on-the-positives-of-ai/",
+      "ampWebUrl": "https://www.forbes.com/sites/danielnewman/2020/02/06/why-we-need-to-focus-on-the-positives-of-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danielnewman/2020/02/06/why-we-need-to-focus-on-the-positives-of-ai/amp/",
+      "publishedDateTime": "2020-02-10T16:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e3c807a8b6cf300071e1c86%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6000%26cropY1%3D0%26cropY2%3D3375",
+          "width": 1200,
+          "height": 675,
+          "title": "Why We Need To Focus On The Positives Of AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2020-02-11-three-ways-ai-and-ml-are-making-a-difference-in-healthcare-behind-the-scenes.md",
       "title": "Three Ways AI And ML Are Making A Difference In Healthcare Behind The Scenes",
       "excerpt": "AI and ML are revolutionizing many healthcare processes that, although not medical in nature, directly affect provider efficiency and productivity — as well as the patient experience.",
@@ -1218,97 +1300,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-02-10-how-to-empower-yourself-in-the-job-search-and-fight-back-against-the-ai-robots.md",
-      "title": "How To Empower Yourself In The Job Search And Fight Back Against The AI Robots",
-      "excerpt": "This approach is a useful and important tool to get yourself in front of the right people. This strategy will help increase your chances of getting noticed, chosen for an interview and, ultimately, getting the job you want.",
-      "heat": 100,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/jackkelly/2020/02/10/how-to-empower-yourself-in-the-job-search-and-fight-back-against-the-ai-robots/",
-      "ampWebUrl": "https://www.forbes.com/sites/jackkelly/2020/02/10/how-to-empower-yourself-in-the-job-search-and-fight-back-against-the-ai-robots/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jackkelly/2020/02/10/how-to-empower-yourself-in-the-job-search-and-fight-back-against-the-ai-robots/amp/",
-      "publishedDateTime": "2020-02-10T08:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1180036882%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "How To Empower Yourself In The Job Search And Fight Back Against The AI Robots",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-02-10-friendships-are-faltering-but-theres-hope-that-ai-self-driving-cars-might-cause-a-friendship-uplift.md",
-      "title": "Friendships Are Faltering But There’s Hope That AI Self-Driving Cars Might Cause A Friendship Uplift",
-      "excerpt": "Seems like friendships are faltering, but there's hope that via AI self-driving cars a friendship uplift will occur.",
-      "heat": 76,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/02/10/friendships-are-faltering-but-theres-hope-that-ai-self-driving-cars-might-cause-a-friendship-uplift/",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/02/10/friendships-are-faltering-but-theres-hope-that-ai-self-driving-cars-might-cause-a-friendship-uplift/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/02/10/friendships-are-faltering-but-theres-hope-that-ai-self-driving-cars-might-cause-a-friendship-uplift/amp/",
-      "publishedDateTime": "2020-02-10T07:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/trim/301x0:5190x3667/fit-in/711x533/smart/https://specials-images.forbesimg.com/imageserve/1124494417/0x0.jpg",
-          "width": 711,
-          "height": 533,
-          "title": "Friendships Are Faltering But There’s Hope That AI Self-Driving Cars Might Cause A Friendship Uplift",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos",
-        "Natural Language Processing"
       ]
     }
   ],

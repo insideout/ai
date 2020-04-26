@@ -2,6 +2,72 @@
   "page": 48,
   "value": [
     {
+      "path": "_news/2020-03-17-moven-and-the-saudi-digital-payments-company-stc-pay-announce-agreement-to-collaborate-on-new-fintech-banking-service.md",
+      "title": "Moven and the Saudi Digital Payments Company (STC Pay) announce Agreement to Collaborate on new Fintech Banking Service",
+      "excerpt": "Ahmed Alenazi, the CEO of STC Pay added, \"we have strived to create the best FinTech service in the Kingdom and the MENA region in Oct 2018 ... Movencorp leads banking-as-a-service innovation in AI/ML driven smart-banking technologies in order to drive financial wellness and smart day-to-day banking capabilities. Movencorp, Inc is the only ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/moven-and-the-saudi-digital-payments-company-stc-pay-announce-agreement-to-collaborate-on-new-fintech-banking-service-1029004635",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/moven-and-the-saudi-digital-payments-company-stc-pay-announce-agreement-to-collaborate-on-new-fintech-banking-service-1029004635",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/moven-and-the-saudi-digital-payments-company-stc-pay-announce-agreement-to-collaborate-on-new-fintech-banking-service-1029004635",
+      "publishedDateTime": "2020-03-17T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-17-machine-learning-to-scale-up-the-quantum-computer.md",
+      "title": "Machine learning to scale up the quantum computer",
+      "excerpt": "Machine learning is an emerging area of research which is revolutionizing almost every field of research, from medical science to image processing, robotics, and material design. A carefully trained machine learning algorithm can process very large data sets with enormous efficiency. One branch of machine learning is known as convolutional ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://phys.org/news/2020-03-machine-scale-quantum.html",
+      "ampWebUrl": "https://phys.org/news/2020-03-machine-scale-quantum.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-03-machine-scale-quantum.amp",
+      "publishedDateTime": "2020-03-17T07:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-17-intels-innovative-approach-to-data-encryption-could-advance-ai-and-machine-learning.md",
       "title": "Intel’s innovative approach to data encryption could advance AI and machine learning",
       "excerpt": "This week, theCUBE features Casimir Wierzynski as its Guest of the Week. Wierzynski is one of the leading voices in a movement for Privacy-Preserving Machine Learning, or PPML. The goal of PPML is to combine complementary technologies so that machine learning can use data for training models without sacrificing the anonymity of personal ...",
@@ -808,80 +874,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-cyber-infrastructures10-week-azure-app-development-implementation-now-availablein-the-microsoft-azure-marketplace.md",
-      "title": "Cyber Infrastructure's10-Week Azure App Development Implementation Now Availablein the Microsoft Azure Marketplace",
-      "excerpt": "Microsoft Azure customers worldwide gain access to Cyber Infrastructure's implementation service to take advantage of agility of Azure to drive app development. SAN JOSE, CA, USA, March 17, 2020 /EINPresswire.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/cyber-infrastructures10-week-azure-app-development-implementation-now-availablein-the-microsoft-azure-marketplace-2020-03-17",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-17T01:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Cyber Infrastructure's10-Week Azure App Development Implementation Now Availablein the Microsoft Azure Marketplace",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-ai-machine-learning-could-put-cell-sites-to-sleep-and-slash-energy-costs.md",
-      "title": "AI, machine learning could put cell sites to sleep (and slash energy costs)",
-      "excerpt": "And these new features incorporate tools like artificial intelligence (AI) and machine learning. In a new Ericsson white paper called \"Breaking the Energy Curve,\" the company said that machine learning can be used to make certain network features more autonomous. Two of those features, MIMO Sleep Mode and Cell Sleep Mode, are using machine ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.lightreading.com/ai-automation/ai-machine-learning-could-put-cell-sites-to-sleep-(and-slash-energy-costs)/d/d-id/758249",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-17T00:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Light Reading",
-        "domain": "lightreading.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

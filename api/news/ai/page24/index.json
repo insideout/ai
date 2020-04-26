@@ -2,6 +2,89 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2020-04-01-acm-prize-in-computing-awarded-to-alphago-developer.md",
+      "title": "ACM Prize in Computing awarded to AlphaGo developer",
+      "excerpt": "Silver is a Professor at University College London and a Principal Research Scientist at DeepMind, a Google-owned artificial intelligence company based in the United Kingdom. Silver is recognized ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.eurekalert.org/pub_releases/2020-04/afcm-api033120.php",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-31T21:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.eurekalert.org/multimedia/pub/web/228188_web.jpg",
+          "width": 720,
+          "height": 813,
+          "title": "ACM Prize in Computing awarded to AlphaGo developer",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-01-algorithmic-justice-league-protests-bias-voice-ai-and-media-coverage.md",
+      "title": "Algorithmic Justice League protests bias voice AI and media coverage",
+      "excerpt": "“We cannot let the promise of AI overshadow real and present harms,” Benjamin said in the piece ... In statements following the release of the study, Google and IBM Watson pledged commitments to progress.",
+      "heat": 91,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/03/31/algorithmic-justice-league-protests-bias-voice-ai-and-media-coverage/",
+      "ampWebUrl": "https://venturebeat.com/2020/03/31/algorithmic-justice-league-protests-bias-voice-ai-and-media-coverage/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/31/algorithmic-justice-league-protests-bias-voice-ai-and-media-coverage/amp/",
+      "publishedDateTime": "2020-03-31T20:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/03/voicing-erasure.jpg?fit=1280%2C661&strip=all",
+          "width": 1280,
+          "height": 661,
+          "title": "Algorithmic Justice League protests bias voice AI and media coverage",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2020-04-01-nvidia-a-clear-winner-in-otherwise-brutal-quarter-for-chip-makers.md",
       "title": "Nvidia a clear winner in otherwise brutal quarter for chip makers",
       "excerpt": "Last week, Needham upgraded the stock to buy, forecasting higher demand for chips used in medical applications, as well as in artificial intelligence applications. Why China’s AI champions must find alternatives to US hardware – and quick Nvidia is up about 14 per cent thus far this year, putting it in the top 10 gainers on the S&P 500.",
@@ -1187,97 +1270,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-31-natural-language-processing-nlp-market-expected-to-secure-notable-revenue-share-during-2020-2027.md",
-      "title": "Natural Language Processing (NLP) Market Expected to Secure Notable Revenue Share During 2020-2027",
-      "excerpt": "Global Natural Language Processing (NLP) Market 2020 size, share, growth, trends, consumption, production, market sales analysis by manufacturers, regions, Type and Application and forecast to 2027. The published report global Natural Language Processing (NLP) market provides a holistic overview of the current market covering the current trends.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-expected-to-secure-notable-revenue-share-during-2020-2027-2020-03-31",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-31T06:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Natural Language Processing (NLP) Market Expected to Secure Notable Revenue Share During 2020-2027",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-31-ai-lifecycle-management-startup-cnvrgio-launches-free-community-tier.md",
-      "title": "AI lifecycle management startup Cnvrg.io launches free community tier",
-      "excerpt": "Cnvrg.io, a data science startup headquartered in Jerusalem and New York, today released a community version of its machine learning automation platform designed to help enterprises manage and scale AI. CEO Yochay Ettun says the release was motivated in part by the influx of social distancing and remote work stemming from the COVID-19 pandemic ...",
-      "heat": 91,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/03/31/ai-lifecycle-management-startup-cnvrg-io-launches-free-community-tier/",
-      "ampWebUrl": "https://venturebeat.com/2020/03/31/ai-lifecycle-management-startup-cnvrg-io-launches-free-community-tier/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/31/ai-lifecycle-management-startup-cnvrg-io-launches-free-community-tier/amp/",
-      "publishedDateTime": "2020-03-31T06:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/03/big-data-shutterstock_228162115-e1573230263860.jpg?fit=1000%2C600&strip=all",
-          "width": 1000,
-          "height": 600,
-          "title": "AI lifecycle management startup Cnvrg.io launches free community tier",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI",
-        "AWS AI"
       ]
     }
   ],

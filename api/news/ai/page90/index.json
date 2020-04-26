@@ -2,6 +2,95 @@
   "page": 90,
   "value": [
     {
+      "path": "_news/2020-01-20-interpreting-3d-seismic-data-automatically-using-amazon-sagemaker.md",
+      "title": "Interpreting 3D seismic data automatically using Amazon SageMaker",
+      "excerpt": "Interpreting 3D seismic data correctly helps identify geological features that may hold or trap oil and gas deposits. Amazon SageMaker and Apache MXNet on AWS can automate horizon picking using deep learning techniques. In this post, I use these services to build and train a custom deep-learning model",
+      "heat": 109,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/interpreting-3d-seismic-data-automatically-using-amazon-sagemaker/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-20T09:49:48-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/06/12/seismic-1.gif",
+          "width": 600,
+          "height": 424,
+          "title": "Interpreting 3D seismic data automatically using Amazon SageMaker",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-01-20-google-boss-sundar-pichai-calls-for-ai-regulation.md",
+      "title": "Google boss Sundar Pichai calls for AI regulation",
+      "excerpt": "The head of Google and parent company Alphabet has called for artificial intelligence (AI) to be regulated. Writing in the Financial Times, Sundar Pichai said it was \"too important not to\" impose regulation but argued for \"a sensible approach\". He said that individual areas of AI development, like self-driving cars and health tech, required ...",
+      "heat": 287,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.bbc.com/news/technology-51178198",
+      "ampWebUrl": "https://www.bbc.com/news/amp/technology-51178198",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-51178198",
+      "publishedDateTime": "2020-01-20T08:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/11749/production/_110579417_gettyimages-1051617224.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": "Google boss Sundar Pichai calls for AI regulation",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-01-20-intel-and-partners-are-using-computer-vision-to-help-save-antarcticas-penguins-from-extinction.md",
       "title": "Intel and partners are using computer vision to help save Antarctica’s penguins from extinction",
       "excerpt": "In search of a solution, an Intel-led group of tech companies developed a computer vision solution to help ecologists count the remaining penguins faster and more accurately than before.",
@@ -1190,95 +1279,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-01-18-the-3-best-artificial-intelligence-stocks-to-buy-now-for-your-portfolio.md",
-      "title": "The 3 Best Artificial Intelligence Stocks to Buy Now for Your Portfolio",
-      "excerpt": "Artificial intelligence (AI) is probably today's hottest tech growth trend. Spending on AI systems will soar from $37.5 billion in 2019 to $97.9 billion in 2023 -- that's a 28.4% compound annual growth rate -- according to estimates by research firm IDC. And that's a conservative projection. So it makes great sense for investors to want some ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.fool.com/investing/2020/01/18/the-3-best-artificial-intelligence-stocks-to-buy-f.aspx?source=eptcnnlnk0000002",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/01/18/the-3-best-artificial-intelligence-stocks-to-buy-f.aspx",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/01/18/the-3-best-artificial-intelligence-stocks-to-buy-f.aspx",
-      "publishedDateTime": "2020-01-18T14:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F553710%2Fbest-ai-stocks-best-artificial-intelligence-stocks-2020-nvda-stock-nvidia-stock-mu-stock-micron-stock-crm-stock-salesforce-stock.jpg&w=700&op=resize",
-          "width": 700,
-          "height": 466,
-          "title": "The 3 Best Artificial Intelligence Stocks to Buy Now for Your Portfolio",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-18-the-secretive-company-that-might-end-privacy-as-we-know-it.md",
-      "title": "The Secretive Company That Might End Privacy as We Know It",
-      "excerpt": "His tiny company, Clearview AI, devised a groundbreaking facial recognition app. You take a picture of a person, upload it and get to see public photos of that person, along with links to where ...",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nytimes.com/2020/01/18/technology/clearview-privacy-facial-recognition.html",
-      "ampWebUrl": "https://www.nytimes.com/2020/01/18/technology/clearview-privacy-facial-recognition.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/01/18/technology/clearview-privacy-facial-recognition.amp.html",
-      "publishedDateTime": "2020-01-18T11:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/01/26/business/19clearview/19clearview-facebookJumbo-v4.png",
-          "width": 1050,
-          "height": 549,
-          "title": "The Secretive Company That Might End Privacy as We Know It",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

@@ -2,6 +2,94 @@
   "page": 76,
   "value": [
     {
+      "path": "_news/2020-02-18-y-combinator-startup-humanly-helps-companies-screen-job-candidates-at-scale-with-the-help-of-ai.md",
+      "title": "Y Combinator startup Humanly helps companies screen job candidates at scale, with the help of AI",
+      "excerpt": "Startup Spotlight profiles emerging tech companies in the Pacific Northwest. Do you run a standout startup? Apply for Startup Spotlight. The Humanly team at Y Combinator, from left, CTO Bryan Leptich, CEO Prem Kumar and COO Andrew Gardner. (Humanly Photo) Automation may be a means to replacing humans in specific types of jobs. But for Humanly ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.geekwire.com/2020/humanly/",
+      "ampWebUrl": "https://www.geekwire.com/2020/humanly/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/humanly/amp/",
+      "publishedDateTime": "2020-02-18T14:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/02/humanly-630x619.jpg",
+          "width": 630,
+          "height": 619,
+          "title": "Y Combinator startup Humanly helps companies screen job candidates at scale, with the help of AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-18-google-updates-its-collection-feature-to-add-ai-capabilities.md",
+      "title": "Google Updates Its Collection Feature To Add AI Capabilities",
+      "excerpt": "Google has started the year with a range of updates to its most popular services. This time, it’s the recent AI upgrade to Google’s Collections feature.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/ilkerkoksal/2020/02/18/google-updates-its-collection-feature-to-add-ai-capabilities/",
+      "ampWebUrl": "https://www.forbes.com/sites/ilkerkoksal/2020/02/18/google-updates-its-collection-feature-to-add-ai-capabilities/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ilkerkoksal/2020/02/18/google-updates-its-collection-feature-to-add-ai-capabilities/amp/",
+      "publishedDateTime": "2020-02-18T14:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1198299608%2F0x0.jpg%3FcropX1%3D393%26cropX2%3D4662%26cropY1%3D0%26cropY2%3D2401",
+          "width": 1200,
+          "height": 675,
+          "title": "Google Updates Its Collection Feature To Add AI Capabilities",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-02-18-the-greatest-gift-machine-learning-ever-gave-us-is-this-archive-of-mark-zuckerberg-haircuts.md",
       "title": "The greatest gift machine learning ever gave us is this archive of Mark Zuckerberg haircuts",
       "excerpt": "Even the most commonplace of objects, sufficiently decontextualized, has the power to take on new meaning. We see this, perhaps most famously, with Marcel Duchamp's \"Fountain.\" The so-called readymade sculpture was in fact simply a signed urinal. However, in part by separating it from the whole, Duchamp challenged his audience to see the ...",
@@ -995,96 +1083,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-02-18-enveil-raises-10-million-for-enterprise-scale-homomorphic-encryption.md",
-      "title": "Enveil raises $10 million for enterprise-scale homomorphic encryption",
-      "excerpt": "Moreover, libraries like PySyft and tf-encrypted — which are built on Facebook’s PyTorch machine learning framework and TensorFlow, respectively — have made great strides in recent months. So, too, have abstraction layers like HE-Transformer, a backend for nGraph (Intel’s neural network compiler) that delivers leading performance on ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/02/18/enveil-raises-10-million-for-enterprise-scale-homomorphic-encryption/",
-      "ampWebUrl": "https://venturebeat.com/2020/02/18/enveil-raises-10-million-for-enterprise-scale-homomorphic-encryption/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/18/enveil-raises-10-million-for-enterprise-scale-homomorphic-encryption/amp/",
-      "publishedDateTime": "2020-02-18T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/11/GettyImages-1079012962-e1574180775599.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Enveil raises $10 million for enterprise-scale homomorphic encryption",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-18-can-ai-and-rpa-transform-legacy-systems.md",
-      "title": "Can AI And RPA Transform Legacy Systems?",
-      "excerpt": "AI and RPA are often mentioned in the same sentence as ML and IoT; they are touted as magical solutions that will transform the way we live and work. For companies with massive legacy tech platforms,",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/02/18/can-ai-and-rpa-transform-legacy-systems/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/02/18/can-ai-and-rpa-transform-legacy-systems/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/02/18/can-ai-and-rpa-transform-legacy-systems/amp/",
-      "publishedDateTime": "2020-02-18T04:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/711x399/https://specials-images.forbesimg.com/dam/imageserve/1187105635/960x0.jpg?fit=scale",
-          "width": 711,
-          "height": 399,
-          "title": "Can AI And RPA Transform Legacy Systems?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

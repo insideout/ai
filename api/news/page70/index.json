@@ -2,6 +2,96 @@
   "page": 70,
   "value": [
     {
+      "path": "_news/2020-02-24-uk-police-are-using-ai-to-predict-who-could-become-violent-criminals.md",
+      "title": "UK police are using AI to predict who could become violent criminals",
+      "excerpt": "[Read: Predictive policing AI is a bigger scam than psychic detectives ... which was commissioned by the UK government’s Centre for Data Ethics. The report revealed major legal and ethical ...",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/02/24/uk-police-are-using-ai-to-predict-who-could-become-violent-criminals/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/02/24/uk-police-are-using-ai-to-predict-who-could-become-violent-criminals/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/02/24/uk-police-are-using-ai-to-predict-who-could-become-violent-criminals/amp/",
+      "publishedDateTime": "2020-02-24T13:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/02/Untitled-design-30-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "UK police are using AI to predict who could become violent criminals",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2020-02-24-this-robot-wants-to-help-stressed-out-teens.md",
+      "title": "This Robot Wants to Help Stressed-Out Teens",
+      "excerpt": "For instance, teens quickly told us that elaborate, AI humanoids were NOT the type of robot they wanted to interact ... We’ve also noticed that by inviting the teen to talk to the robot, teens in the environment seem to instinctively start talking to one another about their stress and experiences. I am gently calling this an \"invitation ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://in.pcmag.com/robotics-automation/135185/this-robot-wants-to-help-stressed-out-teens",
+      "ampWebUrl": "https://in.pcmag.com/robotics-automation/135185/this-robot-wants-to-help-stressed-out-teens?amp=1",
+      "cdnAmpWebUrl": "https://in-pcmag-com.cdn.ampproject.org/c/s/in.pcmag.com/robotics-automation/135185/this-robot-wants-to-help-stressed-out-teens?amp=1",
+      "publishedDateTime": "2020-02-24T13:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://sm.pcmag.com/t/pcmag_in/news/t/this-robot/this-robot-wants-to-help-stressed-out-teens_tpjf.620.jpg",
+          "width": 620,
+          "height": 348,
+          "title": "This Robot Wants to Help Stressed-Out Teens",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-02-24-softbank-leads-265-million-investments-in-two-us-based-start-ups.md",
       "title": "SoftBank leads $265 million investments in two U.S.-based start-ups",
       "excerpt": "SoftBank on Monday led a new funding round of $165 million in California-based Karius and invested $100 million in New York-headquartered AI company Behavox, as the technology giant builds a portfolio under its second Vision Fund.",
@@ -963,96 +1053,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-24-mit-csails-radars-map-hidden-features-to-help-driverless-cars-navigate-snowy-terrain.md",
-      "title": "MIT CSAIL’s radars map hidden features to help driverless cars navigate snowy terrain",
-      "excerpt": "Plus, bad weather has a tendency to obscure road signage and structures that normally serve as navigational landmarks. Fortunately, researchers at MIT’s Computer Science and Artificial Intelligence Laboratory and Lincoln Laboratory are on the case. In a paper that will be published in the journal IEEE Robotics and Automation Letters later ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/02/23/mit-csails-ground-penetrating-radars-map-underground-features-to-help-driverless-cars-navigate-snowy-terrain/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-23T21:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/02/1MIT-CSAILs-car-in-the-snow-from-the-back-credit-MIT-CSAIL-e1582233935856.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "MIT CSAIL’s radars map hidden features to help driverless cars navigate snowy terrain",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-02-24-this-self-driving-car-looks-under-the-road-for-a-safety-boost-in-rain-and-snow.md",
-      "title": "This self-driving car looks under the road for a safety boost in rain and snow",
-      "excerpt": "Over the past few years, autonomous vehicle technology and self-driving systems have reached new levels of sophistication and an experimental scanning system could lead to improved safety levels in poor weather. Self-driving capabilities are measured on a scale of levels 0 - 5; 0 being no automation and level 5 considered to be a true ...",
-      "heat": 235,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/this-self-driving-car-system-looks-under-the-road-for-a-safety-boost-in-rain-and-snow/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/this-self-driving-car-system-looks-under-the-road-for-a-safety-boost-in-rain-and-snow/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/this-self-driving-car-system-looks-under-the-road-for-a-safety-boost-in-rain-and-snow/",
-      "publishedDateTime": "2020-02-23T21:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2018/10/20/46764bbf-aad1-4e5a-8b0e-e5ebe4228ad9/resize/1200x900/f882f01e4412ac9465fbc91b9e0f972e/screen-shot-2018-10-20-at-15-30-54.png",
-          "width": 1200,
-          "height": 767,
-          "title": "This self-driving car looks under the road for a safety boost in rain and snow",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

@@ -2,6 +2,80 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2020-04-08-deep-learning-shows-promising-growth-amid-challenges.md",
+      "title": "Deep Learning Shows Promising Growth Amid Challenges",
+      "excerpt": "Deep learning, a subset of machine learning and artificial intelligence (AI), has been there since a while, but became an overnight “sensation” when in 2016, Google’s AI program, a robot ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cxotoday.com/news-analysis/deep-learning-shows-promising-growth-amid-challenges/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-07T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CXO Today",
+        "domain": "cxotoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.cxotoday.com/wp-content/uploads/2020/04/deep-learning5.jpg",
+          "width": 600,
+          "height": 450,
+          "title": "Deep Learning Shows Promising Growth Amid Challenges",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-08-security-measure-or-big-brother-civil-rights-groups-ask-amazon-to-stop-selling-its-facial-recognition-system-to-law-enforcement.md",
+      "title": "Security measure or Big Brother? Civil rights groups ask Amazon to stop selling its facial recognition system to law enforcement",
+      "excerpt": "The technology, called Rekognition, was released in 2016 through Amazon’s cloud computing division. For a low price, it helps users identify people, objects, scenes and activities in videos or ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.scpr.org/programs/airtalk/2018/05/24/63078/security-measure-or-big-brother-civil-rights-group/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-07T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KPCC",
+        "domain": "scpr.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://a.scpr.org/i/8008c8cbd74aba3f0f7b599bcb88a11c/161224-full.jpg",
+          "width": 1024,
+          "height": 768,
+          "title": "Security measure or Big Brother? Civil rights groups ask Amazon to stop selling its facial recognition system to law enforcement",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-08-why-your-firm-should-host-a-hackathon-and-5-ways-to-ensure-its-success.md",
       "title": "Why your firm should host a hackathon – and 5 ways to ensure its success",
       "excerpt": "Hackathons have become de rigueur in the tech world – Facebook, Inc. held its 50th in February – but it’s not just tech companies that can benefit from scheduling an all-day brainstorming and development session, management consultants Elizabeth ...",
@@ -976,96 +1050,6 @@
         "IBM AI",
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-07-5-practical-reasons-to-embrace-artificial-intelligence.md",
-      "title": "5 practical reasons to embrace artificial intelligence",
-      "excerpt": "AI is about more than just robots. There are several reasons that people should accept artificial intelligence, including health care fighting the current coronavirus pandemic and empowering people with disabilities. Artificial intelligence is about more than robots. Whether someone considers themself a tech expert, or a newbie when it comes to ...",
-      "heat": 91,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/5-practical-reasons-to-embrace-artificial-intelligence/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/5-practical-reasons-to-embrace-artificial-intelligence/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/5-practical-reasons-to-embrace-artificial-intelligence/",
-      "publishedDateTime": "2020-04-07T08:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr3.cbsistatic.com/hub/i/r/2020/04/07/b9096b1a-0696-4267-a3f0-1ee3c61fe529/resize/1200x/ef5bf98b81cf782d65908c237d3d27b5/drone-garden.jpg",
-          "width": 1200,
-          "height": 798,
-          "title": "5 practical reasons to embrace artificial intelligence",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-04-07-mixmode-raises-4-million-to-help-companies-fight-ai-driven-cyberattacks.md",
-      "title": "MixMode raises $4 million to help companies fight AI-driven cyberattacks",
-      "excerpt": "The Santa Barbara-based startup is trying to leapfrog ahead of current security AI strategies by developing technology that doesn’t require any human intervention or rule-making. As bad actors turn to AI to launch new forms of attacks, the company believes such “unsupervised” AI is essential to maintaining defenses. “Large enterprises ...",
-      "heat": 96,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/07/mixmode-raises-4-million-to-help-companies-fight-ai-driven-cyberattacks/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/07/mixmode-raises-4-million-to-help-companies-fight-ai-driven-cyberattacks/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/07/mixmode-raises-4-million-to-help-companies-fight-ai-driven-cyberattacks/amp/",
-      "publishedDateTime": "2020-04-07T08:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/Screen-Shot-2020-04-06-at-10.01.02-AM-e1586253515890.png?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "MixMode raises $4 million to help companies fight AI-driven cyberattacks",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

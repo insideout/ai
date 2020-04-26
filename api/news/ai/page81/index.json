@@ -2,6 +2,87 @@
   "page": 81,
   "value": [
     {
+      "path": "_news/2020-01-29-amazon-made-rekognition-software-now-able-to-detect-fear.md",
+      "title": "Amazon-made Rekognition software now able to detect fear",
+      "excerpt": "Mashable is a global, multi-platform media and entertainment company. Powered by its own proprietary technology, Mashable is the go-to source for tech, digital culture and entertainment content ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://mashable.com/video/amazon-rekognition-adds-fear/",
+      "ampWebUrl": "https://mashable.com/video/amazon-rekognition-adds-fear.amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/video/amazon-rekognition-adds-fear.amp",
+      "publishedDateTime": "2020-01-29T11:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mondrian.mashable.com/2019%252F08%252F14%252F5c%252Fd535431604e94fd58731c9b7cc541e31.7b409.jpg%252F1200x630.jpg?signature=ztgM6q23TnHX2BdaPVHRlIEaQwU=",
+          "width": 1200,
+          "height": 630,
+          "title": "Amazon-made Rekognition software now able to detect fear",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-01-29-nest-is-testing-detecting-hvac-problems-with-ai.md",
+      "title": "Nest is testing detecting HVAC problems with AI",
+      "excerpt": "Google today announced that it’s testing AI algorithms tailored to identify “unusual patterns” related to HVAC systems controlled by Nest, which can alert users to issues and put them in touch with a maintenance professional. Based on information like the thermostat’s historical data and current weather, Nest will learn to spot patterns ...",
+      "heat": 97,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/01/29/nest-is-testing-detecting-hvac-problems-with-ai/",
+      "ampWebUrl": "https://venturebeat.com/2020/01/29/nest-is-testing-detecting-hvac-problems-with-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/29/nest-is-testing-detecting-hvac-problems-with-ai/amp/",
+      "publishedDateTime": "2020-01-29T10:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2015/01/nest-thermostat-google-smart-home.jpg?fit=1280%2C600&strip=all",
+          "width": 1280,
+          "height": 600,
+          "title": "Nest is testing detecting HVAC problems with AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-01-29-facebook-invented-a-new-language-for-machines-to-solve-complex-math-equations.md",
       "title": "Facebook Invented a New Language for Machines to Solve Complex Math Equations",
       "excerpt": "Or at least, they have trouble understanding how humanity writes math equations. Facebook’s AI research team, however, claims to have developed a new approach to turn complex math problems into machine-readable data. And using the same kind of technology that translates English into Mandarin, they were able to translate problems into solutions.",
@@ -1207,95 +1288,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-28-launch-your-product-at-transform-2020-the-ai-event-for-enterprise-decision-makers.md",
-      "title": "Launch your product at Transform 2020 — The AI event for enterprise decision makers",
-      "excerpt": "VentureBeat’s Tech Showcase is back at Transform 2020: Accelerating your business with AI, July 15-16 in San Francisco. We’re on the lookout for disruptive AI companies of all sizes that are ready to present their tech on the main stage. Those selected to present will do so in front of hundreds of industry decision makers. Every presenter ...",
-      "heat": 81,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/01/28/launch-your-product-at-transform-2020/",
-      "ampWebUrl": "https://venturebeat.com/2020/01/28/launch-your-product-at-transform-2020/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/28/launch-your-product-at-transform-2020/amp/",
-      "publishedDateTime": "2020-01-28T15:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/01/ShowcasePic-1.jpg?fit=2000%2C925&strip=all",
-          "width": 2000,
-          "height": 925,
-          "title": "Launch your product at Transform 2020 — The AI event for enterprise decision makers",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-28-ai-driven-biomarkers-of-aging.md",
-      "title": "AI Driven Biomarkers Of Aging",
-      "excerpt": "AI will allow for enhanced precision in creating panels of actionable biomarkers obtained via digital wearable devices.",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/01/28/ai-driven-biomarkers-of-aging/",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/01/28/ai-driven-biomarkers-of-aging/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/01/28/ai-driven-biomarkers-of-aging/amp/",
-      "publishedDateTime": "2020-01-28T15:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e30aae6f133f400076af2dd%2F0x0.jpg",
-          "width": 1200,
-          "height": 585,
-          "title": "AI Driven Biomarkers Of Aging",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

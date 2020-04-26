@@ -2,6 +2,35 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-04-03-artificial-intelligence-and-natural-language-processing.md",
+      "title": "Artificial Intelligence and Natural Language Processing",
+      "excerpt": "To send content items to your account, please confirm that you agree to abide by our usage policies. If this is the first time you use this feature, you will be asked to authorise Cambridge Core to connect with your account. Find out more about sending ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cambridge.org/core/browse-subjects/computer-science/artificial-intelligence-and-natural-language-processing/listing",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-02T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cambridge University Press",
+        "domain": "cambridge.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-02-ibm-watson-offers-free-service-to-answer-covid-19-questions.md",
       "title": "IBM Watson offers free service to answer COVID-19 questions",
       "excerpt": "IBM Watson Assistant for Citizens on the IBM public cloud brings together Watson Assistant, natural language processing capabilities from IBM Research, and enterprise artificial intelligence (AI) search capabilities with Watson Discovery, to understand and respond to common questions about COVID-19, IBM said. \"While helping government agencies ...",
@@ -1177,44 +1206,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-24-speech-recognition-systems-have-higher-error-rates-for-black-people-study-finds.md",
-      "title": "Speech recognition systems have higher error rates for black people, study finds",
-      "excerpt": "This is far from the first time we've seen evidence of bias embedded in the supposed technology of tomorrow. In December of last year, a federal study once again confirmed that facial-recognition tech is a biased mess. In October of 2017, we saw that Google's text/sentiment-analysis tool exhibited signs of homophobia, racism, and antisemitism.",
-      "heat": 96,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://mashable.com/article/speech-recognition-systems-error-rates-racial-bias/",
-      "ampWebUrl": "https://mashable.com/article/speech-recognition-systems-error-rates-racial-bias.amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/speech-recognition-systems-error-rates-racial-bias.amp",
-      "publishedDateTime": "2020-03-23T18:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/2020%252F03%252F24%252Fb9%252Fd5042a28ebb74ac7a3ee380eb82cab61.561a2.jpg%252F1200x630.jpg?signature=3wjt45lwzDvmOSNZtNZHHuOOVXc=",
-          "width": 1200,
-          "height": 630,
-          "title": "Speech recognition systems have higher error rates for black people, study finds",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

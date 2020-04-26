@@ -2,6 +2,81 @@
   "page": 59,
   "value": [
     {
+      "path": "_news/2020-03-10-how-autonomous-freight-trains-powered-by-artificial-intelligence-could-come-to-a-railroad-near-you.md",
+      "title": "How autonomous freight trains powered by artificial intelligence could come to a railroad near you",
+      "excerpt": "Officials from BNSF and Union Pacific, the two largest freight railroads in the Pacific Northwest, declined to comment about their interest in driverless trains. Michael Rush, senior vice president for safety and operations at the Association of American Railroads, said the industry is embracing technology like artificial intelligence but that ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.seattletimes.com/seattle-news/how-autonomous-freight-trains-powered-by-artificial-intelligence-could-come-to-a-railroad-near-you/",
+      "ampWebUrl": "https://www.seattletimes.com/seattle-news/how-autonomous-freight-trains-powered-by-artificial-intelligence-could-come-to-a-railroad-near-you/?amp=1",
+      "cdnAmpWebUrl": "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/seattle-news/how-autonomous-freight-trains-powered-by-artificial-intelligence-could-come-to-a-railroad-near-you/?amp=1",
+      "publishedDateTime": "2020-03-10T06:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seattle Times",
+        "domain": "seattletimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static.seattletimes.com/wp-content/uploads/2020/02/02182020_train_083439-300x225.jpg",
+          "width": 300,
+          "height": 225,
+          "title": "How autonomous freight trains powered by artificial intelligence could come to a railroad near you",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2020-03-10-deep-learning-accelerates-scientific-simulations-up-to-two-billion-times.md",
+      "title": "Deep Learning Accelerates Scientific Simulations up to Two Billion Times",
+      "excerpt": "Researchers from several physics and geology laboratories have developed Deep Emulator Network SEarch (DENSE), a technique for using deep-learning to perform scientific simulations from various fields, from high-energy physics to climate science. Compared to previous simulators, the results from DENSE achieved speedups ranging from 10 million ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.infoq.com/news/2020/03/deep-learning-simulation/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-10T06:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoQ",
+        "domain": "infoq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://res.infoq.com/news/2020/03/deep-learning-simulation/en/headerimage/deep-learning-simulation-1583679280070.jpg",
+          "width": 1200,
+          "height": 477,
+          "title": "Deep Learning Accelerates Scientific Simulations up to Two Billion Times",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-10-artificial-intelligence-image-guided-robotics-for-automatic-blood-draw.md",
       "title": "Artificial intelligence, image-guided robotics for automatic blood draw",
       "excerpt": "Rutgers University engineers have created a tabletop device that combines a robot, artificial intelligence (AI), and near-infrared and ultrasound imaging to draw blood or insert catheters for fluid and drug delivery. Research results, published in the journal Nature Machine Intelligence, suggest medical robots could reduce injuries, improve ...",
@@ -879,72 +954,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-09-google-is-making-it-easier-to-develop-quantum-machine-learning-apps.md",
-      "title": "Google is making it easier to develop quantum machine-learning apps",
-      "excerpt": "TensorFlow Quantum is an add-on to Google’s popular TensorFlow toolkit, which has helped give machine learning a big boost since its launch in 2015. What does it do? TensorFlow is one of a ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.technologyreview.com/f/615337/google-software-tensorflow-quantum-machine-learning-apps-ai-computing/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-09T08:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.technologyreview.com/i/images/fabian-grohs-oz61kfuqsus-unsplash.jpg?sw=1200&cx=0&cy=263&cw=1767&ch=994",
-          "width": 1200,
-          "height": 675,
-          "title": "Google is making it easier to develop quantum machine-learning apps",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-09-american-board-of-artificial-intelligence-in-medicine-abaim-aims-to-educate-and-certify-healthcare-professionals-in-ai-and-related-technologies.md",
-      "title": "American Board of Artificial Intelligence in Medicine (ABAIM) Aims to Educate and Certify Healthcare Professionals in AI, and Related Technologies",
-      "excerpt": "is pleased to announce its recent incorporation as a not-for-profit entity. The ABAIM plans to credential healthcare professionals and anyone else who seeks a greater understanding of the growing role and use of artificial intelligence (AI),",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.benzinga.com/pressreleases/20/03/n15508706/american-board-of-artificial-intelligence-in-medicine-abaim-aims-to-educate-and-certify-healthcare",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/15508706",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15508706",
-      "publishedDateTime": "2020-03-09T08:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

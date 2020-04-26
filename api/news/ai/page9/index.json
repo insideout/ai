@@ -2,6 +2,71 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-04-16-sdl-offers-machine-translation-free-of-charge-to-health-science-professionals.md",
+      "title": "SDL Offers Machine Translation Free of Charge to Health Science Professionals",
+      "excerpt": "By offering our services free of charge we’re hoping to remove any language barriers that stand in the way of understanding and give these researchers instant access to the information they need to bring an end to the pandemic.” Built using SDL’s Linguistic AI to improve the quality of translations, SDL Machine Translation instantly ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businesswire.com/news/home/20200416005038/en/SDL-Offers-Machine-Translation-Free-Charge-Health",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-16T00:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-16-artificial-intelligence-aiding-fight-against-coronavirus-in-uae.md",
+      "title": "Artificial Intelligence aiding fight against coronavirus in UAE",
+      "excerpt": "With no sign of an imminent breakthrough, the use of Artificial Intelligence (AI) to speed up the search for an antidote to the coronavirus disease (COVID-19 is a no-brainer. In fact, scientific institutions and governments have already been harnessing AI to generate possible solutions to the global public-health emergency. Shameer Thaha ...",
+      "heat": 72,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zawya.com/mena/en/business/story/Artificial_Intelligence_aiding_fight_against_coronavirus_in_UAE-SNG_172421894/",
+      "ampWebUrl": "https://www.zawya.com/mena/en/story/amp/SNG_172421894/",
+      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/SNG_172421894/",
+      "publishedDateTime": "2020-04-15T23:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.zawya.com/resources/img/zawya-logo-en-social.png",
+          "width": 1200,
+          "height": 878,
+          "title": "Artificial Intelligence aiding fight against coronavirus in UAE",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-16-some-countries-in-the-middle-east-are-using-artificial-intelligence-to-fight-the-coronavirus-pandemic.md",
       "title": "Some countries in the Middle East are using artificial intelligence to fight the coronavirus pandemic",
       "excerpt": "AI's ability to crunch large amounts of data has allowed governments worldwide to collect information to try and stop the pandemic.",
@@ -1229,87 +1294,6 @@
           "width": 600,
           "height": 349,
           "title": "MIT’s AI-powered device lets doctors monitor coronavirus patients remotely",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-15-the-global-artificial-intelligence-in-healthcare-market-is-set-to-register-growth-projecting-a-cagr-of-3805-during-the-forecast-period-2020-2028.md",
-      "title": "The global artificial intelligence in healthcare market is set to register growth, projecting a CAGR of 38.05% during the forecast period, 2020-2028",
-      "excerpt": "KEY FINDINGS The global artificial intelligence in healthcare market is set to register growth, projecting a CAGR of 38.05% during the",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.prnewswire.com/news-releases/the-global-artificial-intelligence-in-healthcare-market-is-set-to-register-growth-projecting-a-cagr-of-38-05-during-the-forecast-period-2020-2028--301045674.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-15T06:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg",
-          "width": 600,
-          "height": 315,
-          "title": "The global artificial intelligence in healthcare market is set to register growth, projecting a CAGR of 38.05% during the forecast period, 2020-2028",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-15-awake-security-raises-36-million-for-ai-that-identifies-network-threats.md",
-      "title": "Awake Security raises $36 million for AI that identifies network threats",
-      "excerpt": "“Stolen insider credentials are far more effective than malware for the attacker. These threats cannot be discovered through the use of signatures, or even some of the early approaches to AI-based security that rely on unsupervised machine learning.” One of the major arguments against platforms that use purely unsupervised machine learning ...",
-      "heat": 86,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/15/awake-security-raises-36-million-for-ai-that-identifies-network-threats/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/15/awake-security-raises-36-million-for-ai-that-identifies-network-threats/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/15/awake-security-raises-36-million-for-ai-that-identifies-network-threats/amp/",
-      "publishedDateTime": "2020-04-15T06:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/Screenshot_2020-04-15-Awake-Security-Technology-Walkthrough.png?fit=1244%2C661&strip=all",
-          "width": 1244,
-          "height": 661,
-          "title": "Awake Security raises $36 million for AI that identifies network threats",
           "attribution": null
         }
       ],

@@ -441,6 +441,43 @@
       ]
     },
     {
+      "path": "_news/2020-04-21-ust-global-named-winner-at-the-microsoft-ai-awards-20-for-the-best-innovation-in-artificial-intelligence.md",
+      "title": "UST Global named winner at the Microsoft AI Awards 2.0 for the Best Innovation in Artificial Intelligence",
+      "excerpt": "UST Global, a leading digital transformation solutions company, announced that it has won the 2020 most innovative AI application award for societal impact from Microsoft. UST",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://indiaeducationdiary.in/ust-global-named-winner-at-the-microsoft-ai-awards-2-0-for-the-best-innovation-in-artificial-intelligence/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-21T03:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Education Diary",
+        "domain": "indiaeducationdiary.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i2.wp.com/indiaeducationdiary.in/wp-content/uploads/2020/04/Krishna-Sudheendra-CEO-UST-Global-recieving-the-award-from-Jean-Philippe-Courtois-EVP-and-President-Global-Sales-Marketing-and-Operations-Microsoft-Corporation.jpg?fit=1000%2C1058&ssl=1",
+          "width": 1000,
+          "height": 1058,
+          "title": "UST Global named winner at the Microsoft AI Awards 2.0 for the Best Innovation in Artificial Intelligence",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-21-checking-ai-bias-is-a-job-for-the-humans.md",
       "title": "Checking AI bias is a job for the humans",
       "excerpt": "One of the primary problems with artificial intelligence (AI) is the “artificial” part. The other is the “intelligence.” While we like to pretend that we’re setting robotic intelligences free from our human biases and other shortcomings, in reality we often transfer our failings into the AI, one dataset at a time. Hannah Davis ...",
@@ -598,6 +635,35 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-21-transcosmos-releases-automated-call-answering-service-with-the-power-of-speech-recognition-intent-inference-algorithms.md",
+      "title": "transcosmos releases \"Automated Call Answering Service\" with the power of speech recognition & intent inference algorithms",
+      "excerpt": "PRWeb/ -- transcosmos inc. released an \"automated call answering service\" that utilizes \"BEDORE Voice Conversation,\" a",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/04/n15845146/transcosmos-releases-automated-call-answering-service-with-the-power-of-speech-recognition-intent-",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/15845146",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15845146",
+      "publishedDateTime": "2020-04-21T00:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
         "AI"
       ]
     },
@@ -978,87 +1044,6 @@
           "width": 5000,
           "height": 3051,
           "title": "Clearview AI source code revealed, exposing majority security lapse",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-20-using-ai-to-build-better-chips.md",
-      "title": "Using AI To Build Better Chips",
-      "excerpt": "With so many startups and large semiconductor firms racing to get new AI chips to market, electronic tool and design service firms like Synopsis, Cadence and Mentor Graphics are looking for new approaches to help designers speed their time to market. Ironically, one of the approaches being taken is to use AI to help build better AI chips.",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2020/04/20/using-ai-to-build-better-chips/",
-      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2020/04/20/using-ai-to-build-better-chips/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2020/04/20/using-ai-to-build-better-chips/amp/",
-      "publishedDateTime": "2020-04-20T10:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-20-introducing-the-digital-startup-alley-package-for-disrupt-sf.md",
-      "title": "Introducing the Digital Startup Alley Package for Disrupt SF",
-      "excerpt": "The Digital Startup Alley Package covers three people and includes: CrunchMatch: TechCrunch’s AI-powered founder/investor networking platform. Save time, zero in and connect with the people who can move your business forward. Each startup will create a customizable profile, allowing startups to easily note their value add and business model ...",
-      "heat": 72,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/04/20/introducing-the-digital-startup-alley-package-for-disrupt-sf/",
-      "ampWebUrl": "https://techcrunch.com/2020/04/20/introducing-the-digital-startup-alley-package-for-disrupt-sf/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/20/introducing-the-digital-startup-alley-package-for-disrupt-sf/amp/",
-      "publishedDateTime": "2020-04-20T10:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/03/CrunchMatch.png?w=1024",
-          "width": 1024,
-          "height": 512,
-          "title": "Introducing the Digital Startup Alley Package for Disrupt SF",
           "attribution": null
         }
       ],

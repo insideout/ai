@@ -2,6 +2,87 @@
   "page": 80,
   "value": [
     {
+      "path": "_news/2020-01-30-google-ai-chief-the-promise-of-multi-modal-learning.md",
+      "title": "Google AI chief: The promise of multi-modal learning",
+      "excerpt": "Google's Jeff Dean explains multi-modal learning and why it's the next big challenge for AI researchers. Read more: https://zd.net/2RWOWVq",
+      "heat": 77,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/video/google-ai-chief-the-promise-of-multi-modal-learning/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-30T05:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/01/30/982ecb2e-09ab-44ee-a2e9-a132a038b050/thumbnail/770x578/79de21a8c75b1f253e83a6992a2be950/20200129-dean-steph.jpg",
+          "width": 770,
+          "height": 578,
+          "title": "Google AI chief: The promise of multi-modal learning",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-01-30-artificial-intelligence-may-be-life-or-death-for-you-says-vestager-as-meps-discuss-regulation.md",
+      "title": "'Artificial Intelligence may be life or death for you,' says Vestager as MEPs discuss regulation",
+      "excerpt": "A debate on the future of artificial intelligence (AI ... revolutionising areas like voice recognition and translation. In healthcare it's expected to allow huge leaps in drug development. But facial recognition is an AI technology that is much less ...",
+      "heat": 126,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.euronews.com/2020/01/30/artificial-intelligence-may-be-life-or-death-for-you-says-vestager-as-meps-discuss-regula",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-30T05:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Euronews",
+        "domain": "euronews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static.euronews.com/articles/stories/04/46/77/08/1000x563_cmsv2_4b54ef2d-a930-5c2b-8df2-fdd3463c9b63-4467708.jpg",
+          "width": 1000,
+          "height": 563,
+          "title": "'Artificial Intelligence may be life or death for you,' says Vestager as MEPs discuss regulation",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2020-01-30-two-sundance-docs-sound-the-alarm-on-the-dangers-of-modern-ai.md",
       "title": "Two Sundance docs sound the alarm on the dangers of modern AI",
       "excerpt": "Cautionary tales about AI were all over Sundance screens this year, and not as sci-fi flights of fancy. Two new documentaries, The Social Dilemma and Coded Bias, dig into the pitfalls of artificial intelligence as it currently exists — manipulating our social-media feeds, determining our financial or professional futures, surveilling us on ...",
@@ -1176,87 +1257,6 @@
       "topics": [
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-01-29-amazon-made-rekognition-software-now-able-to-detect-fear.md",
-      "title": "Amazon-made Rekognition software now able to detect fear",
-      "excerpt": "Mashable is a global, multi-platform media and entertainment company. Powered by its own proprietary technology, Mashable is the go-to source for tech, digital culture and entertainment content ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://mashable.com/video/amazon-rekognition-adds-fear/",
-      "ampWebUrl": "https://mashable.com/video/amazon-rekognition-adds-fear.amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/video/amazon-rekognition-adds-fear.amp",
-      "publishedDateTime": "2020-01-29T11:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/2019%252F08%252F14%252F5c%252Fd535431604e94fd58731c9b7cc541e31.7b409.jpg%252F1200x630.jpg?signature=ztgM6q23TnHX2BdaPVHRlIEaQwU=",
-          "width": 1200,
-          "height": 630,
-          "title": "Amazon-made Rekognition software now able to detect fear",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-29-nest-is-testing-detecting-hvac-problems-with-ai.md",
-      "title": "Nest is testing detecting HVAC problems with AI",
-      "excerpt": "Google today announced that it’s testing AI algorithms tailored to identify “unusual patterns” related to HVAC systems controlled by Nest, which can alert users to issues and put them in touch with a maintenance professional. Based on information like the thermostat’s historical data and current weather, Nest will learn to spot patterns ...",
-      "heat": 97,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/01/29/nest-is-testing-detecting-hvac-problems-with-ai/",
-      "ampWebUrl": "https://venturebeat.com/2020/01/29/nest-is-testing-detecting-hvac-problems-with-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/29/nest-is-testing-detecting-hvac-problems-with-ai/amp/",
-      "publishedDateTime": "2020-01-29T10:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2015/01/nest-thermostat-google-smart-home.jpg?fit=1280%2C600&strip=all",
-          "width": 1280,
-          "height": 600,
-          "title": "Nest is testing detecting HVAC problems with AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

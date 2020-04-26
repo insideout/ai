@@ -2,6 +2,95 @@
   "page": 96,
   "value": [
     {
+      "path": "_news/2020-01-14-the-secret-to-building-ai-quantify.md",
+      "title": "The Secret to Building AI? Quantify.",
+      "excerpt": "If you want to build an AI company, you should define the “goal” of your AI and have a quantitative means to progress toward that goal.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/konstantinebuhler/2020/01/14/the-secret-to-building-ai-quantify/",
+      "ampWebUrl": "https://www.forbes.com/sites/konstantinebuhler/2020/01/14/the-secret-to-building-ai-quantify/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/konstantinebuhler/2020/01/14/the-secret-to-building-ai-quantify/amp/",
+      "publishedDateTime": "2020-01-14T07:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1130913708%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D7952%26cropY1%3D404%26cropY2%3D4879",
+          "width": 1199,
+          "height": 675,
+          "title": "The Secret to Building AI? Quantify.",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-01-14-the-case-for-a-light-hand-with-ai-and-a-hard-line-on-china.md",
+      "title": "The Case for a Light Hand With AI and a Hard Line on China",
+      "excerpt": "Last week, at the WIRED HQ at CES, I spoke with Michael Kratsios, the chief technology officer of the United States. We dug into the government’s recent regulatory framework for AI, the potential for an AI cold war with China, and whether or not the NSA is building a quantum computer. The conversation has been lightly edited for clarity.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wired.com/story/light-hand-ai-hard-line-china/",
+      "ampWebUrl": "https://www.wired.com/story/light-hand-ai-hard-line-china/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/light-hand-ai-hard-line-china/amp",
+      "publishedDateTime": "2020-01-14T07:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5e18caa890f5f5000872b7b5/master/pass/Biz-Kratsios-IMG_6970.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": "The Case for a Light Hand With AI and a Hard Line on China",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-01-14-transenterix-wants-to-use-more-ai-in-surgical-robotics-heres-how.md",
       "title": "TransEnterix wants to use more AI in surgical robotics: Here’s how",
       "excerpt": "TransEnterix (NYSE:TRXC) has filed a 510(k) submission to add an artificial intelligence feature to its robot-assisted surgery system in ... “I think our hope is that people will start to say this scrappy little company that’s been around for a while and is still fighting— it’s having kind of a Phoenix-like rise with some really ...",
@@ -1168,97 +1257,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-01-12-microsoft-outsourced-skype-cortana-voice-analysis-to-china-with-virtually-no-security-in-place-report.md",
-      "title": "Microsoft Outsourced Skype, Cortana Voice Analysis to China With Virtually No Security in Place: Report",
-      "excerpt": "According to the Guardian, workers who were tasked with transcribing and vetting these clips in order to improve Microsoft’s voice-recognition technology were given no cybersecurity support to keep the recordings from theft or seizure by governments. A contractor on the project, who was based out of Beijing, told the paper that new hires ...",
-      "heat": 68,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://gizmodo.com/microsoft-outsourced-skype-cortana-voice-analysis-to-c-1840935163",
-      "ampWebUrl": "https://gizmodo.com/microsoft-outsourced-skype-cortana-voice-analysis-to-c-1840935163/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/microsoft-outsourced-skype-cortana-voice-analysis-to-c-1840935163/amp",
-      "publishedDateTime": "2020-01-12T04:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/s--yLbSiilu--/c_scale,f_auto,fl_progressive,q_80,w_800/rnlvvsunsjuyaznjm5th.jpg",
-          "width": 800,
-          "height": 450,
-          "title": "Microsoft Outsourced Skype, Cortana Voice Analysis to China With Virtually No Security in Place: Report",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-01-12-artificial-intelligence-how-to-measure-the-i-in-ai.md",
-      "title": "Artificial intelligence: How to measure the ‘I’ in AI",
-      "excerpt": "Neural network-based models, also known as connectionist AI ... (Note: Some AI researchers, such as computer scientist Rich Sutton, believe that the true direction for artificial intelligence research should be methods that can scale with the availability of data and compute resources.) In the paper, Chollet presents the Abstraction Reasoning ...",
-      "heat": 86,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/syndication/2020/01/12/artificial-intelligence-how-to-measure-the-i-in-ai/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-12T01:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/01/1-copy-copy-1-796x417.jpg",
-          "width": 796,
-          "height": 417,
-          "title": "Artificial intelligence: How to measure the ‘I’ in AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "Google AI"
       ]
     }
   ],

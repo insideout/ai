@@ -2,6 +2,87 @@
   "page": 66,
   "value": [
     {
+      "path": "_news/2020-02-14-asu-researchers-debut-viwi-bt-an-aicomputer-vision-mmwave-beam-guide.md",
+      "title": "ASU researchers debut ViWi-BT, an AI/computer vision mmWave beam guide",
+      "excerpt": "ViWi-BT’s goal is to use AI and a device’s cameras or lidar capabilities to identify physical impediments and advantages for the beam targeting process, enabling “vision-aided wireless communications.” In short, a system with ViWi-BT capabilities will learn about its 3D environment using a database of previously transmitted millimeter ...",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/02/14/asu-researchers-debut-viwi-bt-an-ai-computer-vision-mmwave-beam-guide/",
+      "ampWebUrl": "https://venturebeat.com/2020/02/14/asu-researchers-debut-viwi-bt-an-ai-computer-vision-mmwave-beam-guide/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/14/asu-researchers-debut-viwi-bt-an-ai-computer-vision-mmwave-beam-guide/amp/",
+      "publishedDateTime": "2020-02-14T11:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/02/mmwaveml.jpg?fit=2608%2C1304&strip=all",
+          "width": 2608,
+          "height": 1304,
+          "title": "ASU researchers debut ViWi-BT, an AI/computer vision mmWave beam guide",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2020-02-14-ai-algorithms-intended-to-detect-welfare-fraud-often-punish-the-poor.md",
+      "title": "AI Algorithms Intended to Detect Welfare Fraud Often Punish the Poor",
+      "excerpt": "Automated algorithms – not humans – are increasingly making decisions about who’s eligible for welfare benefits.",
+      "heat": 77,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.usnews.com/news/best-states/articles/2020-02-14/ai-algorithms-intended-to-detect-welfare-fraud-often-punish-the-poor-instead",
+      "ampWebUrl": "https://www.usnews.com/news/best-states/articles/2020-02-14/ai-algorithms-intended-to-detect-welfare-fraud-often-punish-the-poor-instead?context=amp",
+      "cdnAmpWebUrl": "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/best-states/articles/2020-02-14/ai-algorithms-intended-to-detect-welfare-fraud-often-punish-the-poor-instead?context=amp",
+      "publishedDateTime": "2020-02-14T09:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-02-14-nvidia-spikes-as-demand-spikes-for-chips-used-in-ai-applications.md",
       "title": "Nvidia Spikes As Demand Spikes For Chips Used In AI Applications",
       "excerpt": "Thursday night, the graphics chip company posted better-than-expected fourth quarter results ... “Cloud vendors should see a step up in spend and clearly Nvidia has a combination of AI drivers layering in on top of this market improvement,” he writes. “On the competitive front, there still appears little competition.”",
@@ -1203,87 +1284,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-13-viziblezone-taps-ai-and-smartphone-data-to-alert-drivers-to-pedestrians.md",
-      "title": "Viziblezone taps AI and smartphone data to alert drivers to pedestrians",
-      "excerpt": "An intriguing solution emerged last year from Viziblezone, a startup within the Jerusalem-based investment platform OurCrowd’s Labs/02 incubator program. Using a combination of AI and machine learning models, smartphones, and commodity car hardware, it’s capable of alerting drivers about potential nearby hazards while helping them to avoid ...",
-      "heat": 97,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/02/13/viziblezone-taps-ai-and-smartphone-data-to-alert-drivers-of-pedestrians/",
-      "ampWebUrl": "https://venturebeat.com/2020/02/13/viziblezone-taps-ai-and-smartphone-data-to-alert-drivers-of-pedestrians/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/13/viziblezone-taps-ai-and-smartphone-data-to-alert-drivers-of-pedestrians/amp/",
-      "publishedDateTime": "2020-02-13T09:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/02/maxresdefault-3-e1581578338376.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Viziblezone taps AI and smartphone data to alert drivers to pedestrians",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-13-ais-healthcare-promise-will-serve-patients-and-more.md",
-      "title": "AI’s Healthcare Promise Will Serve Patients — and More",
-      "excerpt": "The question: “As healthcare organizations invest in artificial intelligence technologies, in what areas can they reap the most immediate benefits?” Scott Nelson, Founder, CEO, CTO, Reuleaux Technology, agrees. “Without question, the most immediate AND impactful application of AI in healthcare will be patient engagement/behavior during ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cio.com/article/3519915/ais-healthcare-promise-will-serve-patients-and-more.html",
-      "ampWebUrl": "https://www.cio.com/article/3519915/ais-healthcare-promise-will-serve-patients-and-more.amp.html",
-      "cdnAmpWebUrl": "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/3519915/ais-healthcare-promise-will-serve-patients-and-more.amp.html",
-      "publishedDateTime": "2020-02-13T08:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CIO",
-        "domain": "cio.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2020/02/istock-1139923894-100831551-large.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "AI’s Healthcare Promise Will Serve Patients — and More",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

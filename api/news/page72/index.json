@@ -2,6 +2,94 @@
   "page": 72,
   "value": [
     {
+      "path": "_news/2020-02-21-scientists-discover-powerful-antibiotic-using-ai.md",
+      "title": "Scientists discover powerful antibiotic using AI",
+      "excerpt": "In a world first, scientists have discovered a new type of antibiotic using artificial intelligence (AI). It has been heralded by experts as a major breakthrough in the fight against the growing problem of drug resistance. A powerful algorithm was used to analyse more than one hundred million chemical compounds in a matter of days. The newly ...",
+      "heat": 227,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.bbc.com/news/health-51586010",
+      "ampWebUrl": "https://www.bbc.com/news/amp/health-51586010",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/health-51586010",
+      "publishedDateTime": "2020-02-21T08:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/6764/production/_110986462_gettyimages-1068778256.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": "Scientists discover powerful antibiotic using AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-21-un-will-use-ai-to-learn-what-people-want-from-peace-deals.md",
+      "title": "UN will use AI to learn what people want from peace deals",
+      "excerpt": "The UN will help people in warzones to influence peace deals through an AI conversation tool they can access through their smartphones. The system will be launched within the next year, the Financial Times reports. The technology was developed by UN officials alongside a startup called Remesh, which produces a tool that creates online ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/02/21/un-will-use-ai-to-learn-what-people-want-from-peace-deals/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/02/21/un-will-use-ai-to-learn-what-people-want-from-peace-deals/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/02/21/un-will-use-ai-to-learn-what-people-want-from-peace-deals/amp/",
+      "publishedDateTime": "2020-02-21T08:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/02/Untitled-design-28-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "UN will use AI to learn what people want from peace deals",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-02-21-elon-musk-jeff-bezos-and-star-trek-collide-in-uncanny-deepfake.md",
       "title": "Elon Musk, Jeff Bezos and Star Trek collide in uncanny deepfake",
       "excerpt": "Bezos transforms into an alien and Musk becomes the captain of the USS Enterprise. SpaceX founder Elon Musk dreams of space exploration. Blue Origin and Amazon founder Jeff Bezos also looks to the stars.",
@@ -974,80 +1062,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-02-20-cisco-adds-5g-and-machine-learning-to-iot-monitoring-platform.md",
-      "title": "Cisco adds 5G and machine learning to IoT monitoring platform",
-      "excerpt": "\"Leveraging machine learning opens up opportunities to look for specific patterns or to find new patterns that may have operational, security or financial implications,\" he said. SEE: 5G: What it means for IoT (free PDF) The Control Center allows customers to manage multiple services through one platform. Butaney said one of Cisco's ...",
-      "heat": 131,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/cisco-adds-5g-and-machine-learning-to-iot-monitoring-platform/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/cisco-adds-5g-and-machine-learning-to-iot-monitoring-platform/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/cisco-adds-5g-and-machine-learning-to-iot-monitoring-platform/",
-      "publishedDateTime": "2020-02-20T08:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/02/03/66f6f5da-15a1-456c-8adf-a48cbf833009/resize/1200x/9666674f20d29b29ebb06d59db1479a9/istock-952984968.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "Cisco adds 5G and machine learning to IoT monitoring platform",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2020-02-20-artificial-intelligence-yields-new-antibiotic.md",
-      "title": "Artificial intelligence yields new antibiotic",
-      "excerpt": "\"We wanted to develop a platform that would allow us to harness the power of artificial intelligence to usher in a new age of antibiotic drug discovery,\" says James Collins, the Termeer Professor of Medical Engineering and Science in MIT's Institute for Medical Engineering and Science (IMES) and Department of Biological Engineering. \"Our ...",
-      "heat": 277,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://phys.org/news/2020-02-artificial-intelligence-yields-antibiotic.html",
-      "ampWebUrl": "https://phys.org/news/2020-02-artificial-intelligence-yields-antibiotic.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-02-artificial-intelligence-yields-antibiotic.amp",
-      "publishedDateTime": "2020-02-20T08:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

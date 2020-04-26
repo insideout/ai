@@ -2,6 +2,97 @@
   "page": 71,
   "value": [
     {
+      "path": "_news/2020-02-10-how-to-empower-yourself-in-the-job-search-and-fight-back-against-the-ai-robots.md",
+      "title": "How To Empower Yourself In The Job Search And Fight Back Against The AI Robots",
+      "excerpt": "This approach is a useful and important tool to get yourself in front of the right people. This strategy will help increase your chances of getting noticed, chosen for an interview and, ultimately, getting the job you want.",
+      "heat": 100,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/jackkelly/2020/02/10/how-to-empower-yourself-in-the-job-search-and-fight-back-against-the-ai-robots/",
+      "ampWebUrl": "https://www.forbes.com/sites/jackkelly/2020/02/10/how-to-empower-yourself-in-the-job-search-and-fight-back-against-the-ai-robots/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jackkelly/2020/02/10/how-to-empower-yourself-in-the-job-search-and-fight-back-against-the-ai-robots/amp/",
+      "publishedDateTime": "2020-02-10T08:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1180036882%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "How To Empower Yourself In The Job Search And Fight Back Against The AI Robots",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-02-10-friendships-are-faltering-but-theres-hope-that-ai-self-driving-cars-might-cause-a-friendship-uplift.md",
+      "title": "Friendships Are Faltering But There’s Hope That AI Self-Driving Cars Might Cause A Friendship Uplift",
+      "excerpt": "Seems like friendships are faltering, but there's hope that via AI self-driving cars a friendship uplift will occur.",
+      "heat": 76,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/02/10/friendships-are-faltering-but-theres-hope-that-ai-self-driving-cars-might-cause-a-friendship-uplift/",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/02/10/friendships-are-faltering-but-theres-hope-that-ai-self-driving-cars-might-cause-a-friendship-uplift/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/02/10/friendships-are-faltering-but-theres-hope-that-ai-self-driving-cars-might-cause-a-friendship-uplift/amp/",
+      "publishedDateTime": "2020-02-10T07:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/trim/301x0:5190x3667/fit-in/711x533/smart/https://specials-images.forbesimg.com/imageserve/1124494417/0x0.jpg",
+          "width": 711,
+          "height": 533,
+          "title": "Friendships Are Faltering But There’s Hope That AI Self-Driving Cars Might Cause A Friendship Uplift",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2020-02-10-uk-public-sector-failing-to-be-open-about-its-use-of-ai-review-finds.md",
       "title": "UK public sector failing to be open about its use of AI, review finds",
       "excerpt": "He has also personally championed a chatbot startup, Babylon Health, that’s using AI for healthcare triage — and which is now selling a service in to the NHS. Policing is another area where AI is being accelerated into UK public service delivery, with a number of police forces trialing facial recognition technology — and London’s Met ...",
@@ -1188,88 +1279,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-09-why-the-race-for-ai-dominance-is-more-global-than-you-think.md",
-      "title": "Why The Race For AI Dominance Is More Global Than You Think",
-      "excerpt": "When people hear about the race for Artificial Intelligence dominance, they often think that the main competition is between the US and China. But, many countries have AI efforts, funding, technologies,",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/02/09/why-the-race-for-ai-dominance-is-more-global-than-you-think/",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/02/09/why-the-race-for-ai-dominance-is-more-global-than-you-think/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/02/09/why-the-race-for-ai-dominance-is-more-global-than-you-think/amp/",
-      "publishedDateTime": "2020-02-08T22:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1144319087%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Why The Race For AI Dominance Is More Global Than You Think",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-02-09-this-paralyzed-man-can-feel-his-fingers-again-thanks-to-a-mind-controlled-robotic-arm.md",
-      "title": "This paralyzed man can feel his fingers again thanks to a mind-controlled robotic arm",
-      "excerpt": "Mashable is a global, multi-platform media and entertainment company. Powered by its own proprietary technology, Mashable is the go-to source for tech, digital culture and entertainment content ...",
-      "heat": 97,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://mashable.com/2016/10/14/paralyzed-man-feels-fingers-again/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-08T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/2016%252F10%252F14%252Fb6%252FAP_16287736330662.d3659.jpg%252F1200x630.jpg?signature=NIqfeD79B--WSLa-nz-r7U5cHZ0=",
-          "width": 1200,
-          "height": 630,
-          "title": "This paralyzed man can feel his fingers again thanks to a mind-controlled robotic arm",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

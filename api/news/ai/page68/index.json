@@ -2,6 +2,97 @@
   "page": 68,
   "value": [
     {
+      "path": "_news/2020-02-12-ibm-highlights-new-approach-to-infuse-knowledge-into-nlp-models.md",
+      "title": "IBM highlights new approach to infuse knowledge into NLP models",
+      "excerpt": "The research announced at the AAAI-20 Conference in New York gives computer systems the ability to better comprehend and infer from natural language. Researchers from the MIT-IBM Watson AI Lab, Tulane University and the University of Illinois this week unveiled research that allows a computer to more closely replicate human-based reading ...",
+      "heat": 76,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/article/ibm-highlights-new-approach-to-infuse-knowledge-into-nlp-models/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ibm-highlights-new-approach-to-infuse-knowledge-into-nlp-models/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ibm-highlights-new-approach-to-infuse-knowledge-into-nlp-models/",
+      "publishedDateTime": "2020-02-12T13:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr3.cbsistatic.com/hub/i/r/2019/02/12/cdda909e-f963-4538-a3e8-dd84cc224515/resize/1200x/bf661506ae11de07f865681a9fcae5bc/ibm-watson-940x705.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": "IBM highlights new approach to infuse knowledge into NLP models",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "IBM AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-02-12-artificial-intelligence-ai-in-healthcare-market-to-register-high-revenue-growth-at-519-cagr-by-2023.md",
+      "title": "Artificial Intelligence (AI) in Healthcare Market To Register High Revenue Growth At 51.9% CAGR by 2023",
+      "excerpt": "Healthcare Artificial Intelligence (AI) Market Scenario As per a report published by Market Research Future (MRFR), the global healthcare artificial intelligence market is likely to capture an impressive CAGR of 51.",
+      "heat": 123,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-to-register-high-revenue-growth-at-519-cagr-by-2023-2020-02-12",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-12T12:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial Intelligence (AI) in Healthcare Market To Register High Revenue Growth At 51.9% CAGR by 2023",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2020-02-12-ceo-glaser-invests-10m-in-realnetworks-bullish-on-facial-recognition-software-gaming.md",
       "title": "CEO Glaser invests $10M in RealNetworks, bullish on facial recognition software, gaming",
       "excerpt": "RealNetworks Inc. CEO Rob Glaser is so bullish on the company’s facial recognition software and its gaming pipeline that he pledged this week to invest nearly $10 million of his personal funds into the company.",
@@ -1189,94 +1280,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-02-11-vb-special-issue-ai-and-security.md",
-      "title": "VB Special Issue: AI and Security",
-      "excerpt": "Both AI and cybersecurity are nearly omnipresent in our daily lives, and the intersection of the two is of increasing importance as our world becomes more connected, more “intelligent,” and more reliant on online or automated systems. AI technology can impact existing problems in cybersecurity, national security, physical safety ...",
-      "heat": 77,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/vb-special-issue-ai-and-security/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-11T10:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/02/ai-and-security-header-2x1-1.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "VB Special Issue: AI and Security",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-11-ai-and-automation-together-forever.md",
-      "title": "AI And Automation: Together Forever?",
-      "excerpt": "AI and automation are particularly intertwined in robotics, supplying workforce-enhancing solutions that not only complete repetitive tasks but also support and improve decision-making processes.",
-      "heat": 97,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/businessreporter/2020/02/11/ai-and-automation-together-forever/",
-      "ampWebUrl": "https://www.forbes.com/sites/businessreporter/2020/02/11/ai-and-automation-together-forever/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/businessreporter/2020/02/11/ai-and-automation-together-forever/amp/",
-      "publishedDateTime": "2020-02-11T10:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e42e21e3f2df80006e3c68f%2F0x0.jpg",
-          "width": 1200,
-          "height": 801,
-          "title": "AI And Automation: Together Forever?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

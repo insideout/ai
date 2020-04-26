@@ -2,6 +2,94 @@
   "page": 76,
   "value": [
     {
+      "path": "_news/2020-02-04-5-reasons-why-ai-may-dazzle-only-to-disappoint.md",
+      "title": "5 Reasons Why AI May Dazzle Only To Disappoint",
+      "excerpt": "In my experience of advising and consulting with several companies on AI strategy, I have observed five reasons that prevent AI initiatives from delivering the desired business outcomes.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/mohanbirsawhney/2020/02/04/5-reasons-why-ai-may-dazzle-only-to-disappoint/",
+      "ampWebUrl": "https://www.forbes.com/sites/mohanbirsawhney/2020/02/04/5-reasons-why-ai-may-dazzle-only-to-disappoint/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mohanbirsawhney/2020/02/04/5-reasons-why-ai-may-dazzle-only-to-disappoint/amp/",
+      "publishedDateTime": "2020-02-04T08:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1177116437%2F0x0.jpg",
+          "width": 1200,
+          "height": 720,
+          "title": "5 Reasons Why AI May Dazzle Only To Disappoint",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-04-ais-evolution-trends-to-watch-in-investment-management.md",
+      "title": "AI's Evolution: Trends To Watch In Investment Management",
+      "excerpt": "Artificial intelligence has become one of the most talked about topics in investment management, but its full potential has yet to be discovered.",
+      "heat": 107,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2020/02/04/ais-evolution-trends-to-watch-in-investment-management/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2020/02/04/ais-evolution-trends-to-watch-in-investment-management/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2020/02/04/ais-evolution-trends-to-watch-in-investment-management/amp/",
+      "publishedDateTime": "2020-02-04T08:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/711x473/https://specials-images.forbesimg.com/dam/imageserve/942218138/960x0.jpg?fit=scale",
+          "width": 711,
+          "height": 473,
+          "title": "AI's Evolution: Trends To Watch In Investment Management",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-02-04-bafta-award-winner-andy-serkis-praises-the-enabling-power-of-technology.md",
       "title": "BAFTA Award Winner Andy Serkis Praises The Enabling Power Of Technology",
       "excerpt": "The idea expressed by Andy Serkis, that anyone can play anything, opens the sluice gate for a wider talent pool in many careers. I talked to two powerhouses of accessibility tech this week, Neil Milliken Chief Accessibility Officer of Atos and Michael Vermeesch,",
@@ -1180,88 +1268,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-03-millennium-management-secure-machine-learning-using-amazon-sagemaker.md",
-      "title": "Millennium Management: Secure machine learning using Amazon SageMaker",
-      "excerpt": "This is a guest post from Millennium Management. In their own words, “Millennium Management is a global investment management firm, established in 1989, with over 2,900 employees and $39.2 billion in assets under management as of August 2, 2019.”  \nMillennium Management is comprised of a large number",
-      "heat": 109,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/millennium-management-secure-machine-learning-using-amazon-sagemaker/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-03T12:16:17-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/01/31/millenium-sagemaker-1.gif",
-          "width": 900,
-          "height": 473,
-          "title": "Millennium Management: Secure machine learning using Amazon SageMaker",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-03-microsoft-looks-to-expand-into-ai-as-cloud-computing-drives-q2-results.md",
-      "title": "Microsoft looks to expand into AI as cloud computing drives Q2 results",
-      "excerpt": "while adding that Microsoft also plans to develop more AI capabilities in Azure. “Cognitive Services, now integrated with Azure Data Lake, enables customers to use industry-leading AI capabilities to easily analyze images, text, emotions, and sentiments at petabyte scale.” Mandy is a lineup editor at CTV News. A former staffer at IT World ...",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.itworldcanada.com/article/microsoft-looks-to-expand-into-ai-as-cloud-computing-drives-q2-results/390316",
-      "ampWebUrl": "https://www.itworldcanada.com/article/microsoft-looks-to-expand-into-ai-as-cloud-computing-drives-q2-results/390316?amp=1",
-      "cdnAmpWebUrl": "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/microsoft-looks-to-expand-into-ai-as-cloud-computing-drives-q2-results/390316?amp=1",
-      "publishedDateTime": "2020-02-03T12:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT World Canada",
-        "domain": "itworldcanada.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.itworldcanada.com/wp-content/uploads/2016/03/249A0332-1-620x250.jpg",
-          "width": 620,
-          "height": 250,
-          "title": "Microsoft looks to expand into AI as cloud computing drives Q2 results",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

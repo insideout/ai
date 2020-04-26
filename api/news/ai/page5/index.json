@@ -2,6 +2,87 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-04-20-microsoft-pairs-machine-learning-models-to-fight-software-bugs.md",
+      "title": "Microsoft pairs machine learning models to fight software bugs",
+      "excerpt": "Microsoft has been collecting 13 million work items and bugs since 2001, and used that data to create a machine learning model to fight software bugs. According to the company, the model distinguishes between security and non-security bugs 99% of the time and identify the high-priority bugs 97% of the time. “At Microsoft, 47,000 developers ...",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://sdtimes.com/msft/microsoft-pairs-machine-learning-models-to-fight-software-bugs/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-20T13:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SD Times",
+        "domain": "sdtimes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://sdtimes.com/wp-content/uploads/2018/10/artificial-neural-network-3501528_960_720.png",
+          "width": 960,
+          "height": 540,
+          "title": "Microsoft pairs machine learning models to fight software bugs",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-20-this-app-uses-ai-to-screen-for-covid-19-in-rural-areas-future-blink.md",
+      "title": "This app uses AI to screen for COVID-19 in rural areas — Future Blink",
+      "excerpt": "Mashable is a global, multi-platform media and entertainment company. Powered by its own proprietary technology, Mashable is the go-to source for tech, digital culture and entertainment content for its dedicated and influential audience around the globe. ©2020 Mashable, Inc. All Rights Reserved. Mashable, MashBash and Mashable House are among ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://mashable.com/video/ai-app-screens-for-covid19/",
+      "ampWebUrl": "https://mashable.com/video/ai-app-screens-for-covid19.amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/video/ai-app-screens-for-covid19.amp",
+      "publishedDateTime": "2020-04-20T12:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mondrian.mashable.com/2020%252F04%252F20%252Fb3%252Fdafac5d3f3764c8a96f87cd2a4afc970.5f8ea.png%252F1200x630.png?signature=qoiUcCOJbh6-a14QFdtgUst3UJM=",
+          "width": 1200,
+          "height": 630,
+          "title": "This app uses AI to screen for COVID-19 in rural areas — Future Blink",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-20-allergy-insights-with-watson-uses-ai-to-predict-allergy-symptom-risk.md",
       "title": "Allergy Insights with Watson uses AI to predict allergy symptom risk",
       "excerpt": "IBM today announced a new tool that taps AI to predict when allergy symptoms are likely to flare up. It’s called Allergy Insights with Watson, and it’s available in The Weather Channel app for iOS and Android ahead of a launch on the web. In addition to a 15-day forecast that predicts allergy symptom risk (e.g., high, moderate, low ...",
@@ -1179,88 +1260,6 @@
         "authors": null
       },
       "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-19-privitar-announces-availability-of-its-data-privacy-platform-in-aws-marketplace.md",
-      "title": "Privitar announces availability of its Data Privacy Platform in AWS Marketplace",
-      "excerpt": "AWS Security, Data and Analytics Competency In addition ... constantly and efficiently monitor cameras in real-time or review the high volumes of archived video. Video analytics powered by Artificial Intelligence Increasingly, event venues are overcoming this challenge and maximising this video data by investing in intelligent video surveillance.",
-      "heat": 70,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.sourcesecurity.com/news/privitar-availability-data-privacy-platform-aws-marketplace-co-1537871022-ga-co-1580719254-ga-npr.1587126989.html",
-      "ampWebUrl": "https://www.sourcesecurity.com/amp/news/privitar-availability-data-privacy-platform-aws-marketplace-co-1537871022-ga-co-1580719254-ga-npr.1587126989.html",
-      "cdnAmpWebUrl": "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/privitar-availability-data-privacy-platform-aws-marketplace-co-1537871022-ga-co-1580719254-ga-npr.1587126989.html",
-      "publishedDateTime": "2020-04-19T15:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SourceSecurity",
-        "domain": "sourcesecurity.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://security-img.scdn6.secure.raxcdn.com/news/612/vandalism-surveillance-920x533_1578636475.jpg",
-          "width": 612,
-          "height": 355,
-          "title": "Privitar announces availability of its Data Privacy Platform in AWS Marketplace",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-19-moscow-is-using-coronavirus-as-an-excuse-to-amp-up-its-facial-recognition-surveillance.md",
-      "title": "Moscow Is Using Coronavirus as an Excuse to Amp Up Its Facial Recognition Surveillance",
-      "excerpt": "This article originally appeared on VICE US. MOSCOW –– There’s about 178,000 surveillance cameras set up all around the Russian capital, pretty much wherever you look, and some of them are already connected to facial recognition software that’s helped police arrest more than 300 people. But now the authorities are trying to bring the ...",
-      "heat": 91,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.vice.com/en_au/article/n7jx3b/moscow-is-using-coronavirus-as-an-excuse-to-amp-up-its-facial-recognition-surveillance",
-      "ampWebUrl": "https://www.vice.com/amp/en_au/article/n7jx3b/moscow-is-using-coronavirus-as-an-excuse-to-amp-up-its-facial-recognition-surveillance",
-      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_au/article/n7jx3b/moscow-is-using-coronavirus-as-an-excuse-to-amp-up-its-facial-recognition-surveillance",
-      "publishedDateTime": "2020-04-19T15:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VICE",
-        "domain": "vice.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/vice.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://video-images.vice.com/test-uploads/articles/5e9896d602fbe3009eff8090/lede/1587058510180-russiaclean.jpeg?crop=1xw:1xh;center,center",
-          "width": 1920,
-          "height": 1080,
-          "title": "Moscow Is Using Coronavirus as an Excuse to Amp Up Its Facial Recognition Surveillance",
-          "attribution": null
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"

@@ -2,6 +2,51 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-02-17-israel-risks-falling-behind-in-ai-despite-growth.md",
+      "title": "Israel risks falling behind in AI despite growth",
+      "excerpt": "Habana Labs. Mobileye. Hailo. Wix. There are more than 1,150 AI-focused startups in Israel, and that number is growing. Even so, some people within the government are concerned that the nation risks falling behind because it lacks a unified AI policy. AI policy refers to national strategies like the U.S.’s American AI Initiative and Canada ...",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/02/17/israel-risks-falling-behind-in-ai-despite-growth/",
+      "ampWebUrl": "https://venturebeat.com/2020/02/17/israel-risks-falling-behind-in-ai-despite-growth/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/17/israel-risks-falling-behind-in-ai-despite-growth/amp/",
+      "publishedDateTime": "2020-02-17T11:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/05/mobileye-e1572905863843.jpeg?fit=1200%2C601&strip=all",
+          "width": 1200,
+          "height": 601,
+          "title": "Israel risks falling behind in AI despite growth",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2020-02-17-bridging-the-gender-gap-in-ai.md",
       "title": "Bridging The Gender Gap In AI",
       "excerpt": "The first step to bridge the gender gap in AI is awareness. By understanding the nature and significance of the gender bias, we can take meaningfully steps to bridge the divide.",
@@ -1282,51 +1327,6 @@
       "topics": [
         "AI",
         "Microsoft AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-22-top-players-in-ai-technology-market-2020-23-ibm-amazon-google-intel-and-facebook.md",
-      "title": "Top Players in AI Technology Market (2020-23) IBM, Amazon, Google, Intel and Facebook",
-      "excerpt": "The Global AI Technology Market Research Report Forecast 2020-2023 is a valuable source of insightful data for business strategists. It provides the AI Technology overview with growth analysis and historical & futuristic cost,",
-      "heat": 92,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/top-players-in-ai-technology-market-2020-23-ibm-amazon-google-intel-and-facebook-2020-01-22",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-22T01:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Top Players in AI Technology Market (2020-23) IBM, Amazon, Google, Intel and Facebook",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
         "Facebook AI"
       ]
     }

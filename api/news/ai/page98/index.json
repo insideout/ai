@@ -2,6 +2,80 @@
   "page": 98,
   "value": [
     {
+      "path": "_news/2020-01-09-microsoft-announces-canadian-azure-availability-zone-and-azure-expressroute-in-vancouver.md",
+      "title": "Microsoft announces Canadian Azure Availability Zone, and Azure ExpressRoute in Vancouver",
+      "excerpt": "Azure ExpressRoutes, a service that provides a private connection between an organization ... Users will be able to enter questions about the city’s services and receive immediate answers in a conversational format. Ottawa will begin piloting its new 311 AI chatbot in the first quarter of 2020. Sanders also said the city is experimenting ...",
+      "heat": 80,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.itworldcanada.com/article/microsoft-announces-new-azure-availability-zone-and-azure-expressroute-in-vancouver/425868",
+      "ampWebUrl": "https://www.itworldcanada.com/article/microsoft-announces-new-azure-availability-zone-and-azure-expressroute-in-vancouver/425868?amp=1",
+      "cdnAmpWebUrl": "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/microsoft-announces-new-azure-availability-zone-and-azure-expressroute-in-vancouver/425868?amp=1",
+      "publishedDateTime": "2020-01-09T13:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT World Canada",
+        "domain": "itworldcanada.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.itworldcanada.com/wp-content/uploads/2020/01/Microsoft-envision-alysa-e1578600806775-620x250.jpg",
+          "width": 620,
+          "height": 250,
+          "title": "Microsoft announces Canadian Azure Availability Zone, and Azure ExpressRoute in Vancouver",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-01-09-ai-for-ai-evaluating-the-opportunity-for-embedded-ai-in-data-productivity-tools.md",
+      "title": "AI for AI - evaluating the opportunity for embedded AI in data productivity tools",
+      "excerpt": "This is the only comment that mentions ethics; otherwise, it has nothing to do with the topic. I just wanted to point out fifty-nine out of sixty prognosticators overlooked the one thing is going to be red-hot in 2020. Yaffa Cohen-Ifrah, CMO and Head of Corporate Communications, Sapiens: AI enables insurers to better utilize the troves of data ...",
+      "heat": 64,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://diginomica.com/ai-ai-evaluating-opportunity-embedded-ai-data-productivity-tools",
+      "ampWebUrl": "https://diginomica.com/ai-ai-evaluating-opportunity-embedded-ai-data-productivity-tools?amp",
+      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/ai-ai-evaluating-opportunity-embedded-ai-data-productivity-tools?amp",
+      "publishedDateTime": "2020-01-09T12:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Diginomica",
+        "domain": "diginomica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://diginomica.com/sites/default/files/images/2014-11/magnifying-glass.jpg",
+          "width": 1694,
+          "height": 1122,
+          "title": "AI for AI - evaluating the opportunity for embedded AI in data productivity tools",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2020-01-09-canon-wants-to-ease-pain-of-culling-photos-in-lightroom-with-this-ai-plug-in.md",
       "title": "Canon wants to ease pain of culling photos in Lightroom with this A.I. plug-in",
       "excerpt": "That’s the concept behind Canon’s upcoming Photo Culling Plugin, a Lightroom add-on that uses the Canon Computer Vision A.I. Engine to sort through all those photos. The plug-in smartly doesn ...",
@@ -1210,80 +1284,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-01-07-on-semiconductor-ponyai-team-up-to-boost-machine-vision.md",
-      "title": "ON Semiconductor & Pony.ai Team Up to Boost Machine Vision",
-      "excerpt": "ON Semiconductor ON announced its partnership with Pony.ai — a leading autonomous driving technology company — to develop next-generation image sensing and processing technologies for machine vision.",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nasdaq.com/articles/on-semiconductor-pony.ai-team-up-to-boost-machine-vision-2020-01-07",
-      "ampWebUrl": "https://www.nasdaq.com/articles/on-semiconductor-pony.ai-team-up-to-boost-machine-vision-2020-01-07?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/on-semiconductor-pony.ai-team-up-to-boost-machine-vision-2020-01-07?amp",
-      "publishedDateTime": "2020-01-07T06:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg",
-          "width": 1024,
-          "height": 512,
-          "title": "ON Semiconductor & Pony.ai Team Up to Boost Machine Vision",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-01-07-intel-tiger-lake-mobile-processors-will-use-new-xe-gpu-architecture.md",
-      "title": "Intel 'Tiger Lake' mobile processors will use new Xe GPU architecture",
-      "excerpt": "As a \"first-look\" of the processor, the CES 2020 presentation offered a general overview for the chips, which will have optimizations for the CPU, AI accelerators, and the GPU to achieve \"double ...",
-      "heat": 69,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://appleinsider.com/articles/20/01/07/intel-tiger-lake-mobile-processors-will-use-new-xe-gpu-architecture",
-      "ampWebUrl": "https://appleinsider.com/articles/20/01/07/intel-tiger-lake-mobile-processors-will-use-new-xe-gpu-architecture/amp/",
-      "cdnAmpWebUrl": "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/20/01/07/intel-tiger-lake-mobile-processors-will-use-new-xe-gpu-architecture/amp/",
-      "publishedDateTime": "2020-01-07T05:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AppleInsider",
-        "domain": "appleinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://photos5.appleinsider.com/gallery/34074-60961-intel-tiger-lake-board-xl.jpg",
-          "width": 870,
-          "height": 485,
-          "title": "Intel 'Tiger Lake' mobile processors will use new Xe GPU architecture",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

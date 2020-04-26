@@ -2,6 +2,87 @@
   "page": 94,
   "value": [
     {
+      "path": "_news/2020-01-31-bbc-develops-technology-that-could-let-people-feel-the-weather.md",
+      "title": "BBC develops technology that could let people 'feel' the weather",
+      "excerpt": "Technology has been developed that could allow people to 'feel the weather ... could be delivered through existing devices, such as remote controls and phones, as well as new ones.",
+      "heat": 142,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.dailymail.co.uk/news/article-7953833/BBC-develops-technology-let-people-feel-weather.html",
+      "ampWebUrl": "https://www.dailymail.co.uk/news/article-7953833/amp/BBC-develops-technology-let-people-feel-weather.html",
+      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-7953833/amp/BBC-develops-technology-let-people-feel-weather.html",
+      "publishedDateTime": "2020-01-31T14:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Mail",
+        "domain": "dailymail.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.dailymail.co.uk/1s/2020/01/31/22/24149812-0-image-a-27_1580509388294.jpg",
+          "width": 636,
+          "height": 382,
+          "title": "BBC develops technology that could let people 'feel' the weather",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-01-31-chicago-police-facial-recognition-adds-jet-fuel-for-criminal-investigations.md",
+      "title": "Chicago police: Facial recognition adds “jet fuel” for criminal investigations",
+      "excerpt": "If you accessed the internet in last week or so, chances are you came across the name ClearView AI — a terrifying facial recognition software that has over three billion images in the database; far more than what FBI has. The New York Times wrote a lengthy report on how the software scraped images from all over the internet to increase its ...",
+      "heat": 95,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/artificial-intelligence/2020/01/31/facial-recognition-adds-jet-fuel-for-criminal-investigations-chicago-police/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-31T12:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/01/Facial-recognition-796x420.jpg",
+          "width": 796,
+          "height": 420,
+          "title": "Chicago police: Facial recognition adds “jet fuel” for criminal investigations",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2020-01-31-would-you-take-a-drug-discovered-by-artificial-intelligence.md",
       "title": "Would you take a drug discovered by artificial intelligence?",
       "excerpt": "The British startup Exscientia claims it has developed the first medication created using artificial intelligence that will be clinically tested on humans. The medication, which is meant to treat ...",
@@ -979,95 +1060,6 @@
           "width": 1200,
           "height": 801,
           "title": "Want To Be AI-First? You Need To Be Data-First.",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-01-31-forget-the-roi-with-artificial-intelligence-decision-making-will-never-be-the-same.md",
-      "title": "Forget The ROI: With Artificial Intelligence, Decision-Making Will Never Be The Same",
-      "excerpt": "Having the right mindset toward AI means looking beyond traditional, cold ROI measures, and looking at the ways AI will enrich and amplify decision-making.",
-      "heat": 80,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/joemckendrick/2020/01/30/forget-the-roi-with-artificial-intelligence-decision-making-will-never-be-the-same/",
-      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2020/01/30/forget-the-roi-with-artificial-intelligence-decision-making-will-never-be-the-same/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2020/01/30/forget-the-roi-with-artificial-intelligence-decision-making-will-never-be-the-same/amp/",
-      "publishedDateTime": "2020-01-30T19:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e33857fe32a410007e7d6ff%2F0x0.jpg",
-          "width": 1200,
-          "height": 806,
-          "title": "Forget The ROI: With Artificial Intelligence, Decision-Making Will Never Be The Same",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-31-intel-lays-out-strategy-for-ai-its-habana.md",
-      "title": "Intel Lays Out Strategy For AI: It’s Habana",
-      "excerpt": "Does Intel still need a big GPU? While Habana will become the flagship processor for Intel’s AI, a GPU still has a place in its data center strategy because it is far more flexible and can be ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2020/01/31/intel-lays-out-strategy-for-ai-its-habana/",
-      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2020/01/31/intel-lays-out-strategy-for-ai-its-habana/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2020/01/31/intel-lays-out-strategy-for-ai-its-habana/amp/",
-      "publishedDateTime": "2020-01-30T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e3474dcf133f400076b4e60%2F0x0.jpg",
-          "width": 899,
-          "height": 568,
-          "title": "Intel Lays Out Strategy For AI: It’s Habana",
           "attribution": null
         }
       ],

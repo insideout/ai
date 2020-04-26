@@ -2,6 +2,95 @@
   "page": 60,
   "value": [
     {
+      "path": "_news/2020-02-21-can-ai-better-match-luxury-real-estate-agents-with-well-heeled-buyers.md",
+      "title": "Can AI Better Match Luxury Real Estate Agents With Well-Heeled Buyers?",
+      "excerpt": "Nascent technologies and AI can assist high-end real estate agent reach more buyers and better communicate with them, but old-fashioned personal networking is still crucial in a sector driven by customization and individual attention.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/dimawilliams/2020/02/21/can-ai-better-match-luxury-real-estate-agents-with-high-heeled-buyers/",
+      "ampWebUrl": "https://www.forbes.com/sites/dimawilliams/2020/02/21/can-ai-better-match-luxury-real-estate-agents-with-high-heeled-buyers/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/dimawilliams/2020/02/21/can-ai-better-match-luxury-real-estate-agents-with-high-heeled-buyers/amp/",
+      "publishedDateTime": "2020-02-21T09:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1071612584%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Can AI Better Match Luxury Real Estate Agents With Well-Heeled Buyers?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-21-ai-weekly-why-a-slow-movement-for-machine-learning-could-be-a-good-thing.md",
+      "title": "AI Weekly: Why a slow movement for machine learning could be a good thing",
+      "excerpt": "In 2019, the number of published papers related to AI and machine learning was nearly 25,000 in the U.S. alone, up from roughly 10,000 in 2015. And NeurIPS 2019, one of the world’s largest machine learning and computational neuroscience conferences, featured close to 2,000 accepted papers from thousands of attendees. There’s no question ...",
+      "heat": 83,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/02/21/ai-weekly-why-a-slow-movement-for-machine-learning-could-be-a-good-thing/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-21T09:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/12/neurips-e1582228287730.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "AI Weekly: Why a slow movement for machine learning could be a good thing",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-02-21-ai-and-edge-computing-replaces-the-pilgrims-in-the-new-mayflower.md",
       "title": "AI and edge computing replaces the Pilgrims in the new Mayflower",
       "excerpt": "IBM’s AI and edge computing technologies are going to guide a crewless boat to chart the same route the Pilgrims did 400 years ago. I was at an IBM analyst event when I met Don Scott, CTO of Marine Ai, a venture that is working on an automatic boat, named “Mayflower”, which ... Google demands that all new “knowledge” developed from ...",
@@ -1173,79 +1262,6 @@
         "AI",
         "Machine Learning",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2020-02-20-artificial-intelligence-yields-new-antibiotic.md",
-      "title": "Artificial intelligence yields new antibiotic",
-      "excerpt": "\"We wanted to develop a platform that would allow us to harness the power of artificial intelligence to usher in a new age of antibiotic drug discovery,\" says James Collins, the Termeer Professor of Medical Engineering and Science in MIT's Institute for Medical Engineering and Science (IMES) and Department of Biological Engineering. \"Our ...",
-      "heat": 277,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://phys.org/news/2020-02-artificial-intelligence-yields-antibiotic.html",
-      "ampWebUrl": "https://phys.org/news/2020-02-artificial-intelligence-yields-antibiotic.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-02-artificial-intelligence-yields-antibiotic.amp",
-      "publishedDateTime": "2020-02-20T08:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-20-google-parent-alphabet-is-pruning-its-other-bets.md",
-      "title": "Google parent Alphabet is pruning its 'other bets'",
-      "excerpt": "YouTube and more), Access (Fiber broadband), Calico (aging), Capital (late-stage investment), DeepMind (artificial intelligence), Google Ventures (startup investment), Life Sciences (health), Nest (smart home appliances), Sidewalk (smart cities) and Google X, which still looked after Boston Dynamics (robots), Waymo (self-driving cars), Loon ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.engadget.com/2020/02/20/alphabet-makani-chronicle-jigsaw-other-bets/",
-      "ampWebUrl": "https://www.engadget.com/amp/2020/02/20/alphabet-makani-chronicle-jigsaw-other-bets/",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/02/20/alphabet-makani-chronicle-jigsaw-other-bets/",
-      "publishedDateTime": "2020-02-20T07:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fresize%3D2000%252C2000%252Cshrink%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-uploaded-images%252F2020-02%252F84251f30-53db-11ea-9fcf-d89c1210ec92%26client%3Da1acac3e1b3290917d92%26signature%3D6ed4057d83c63aff8c4a85abf3a6285ca6b30cdb&client=amp-blogside-v2&signature=22c879d0d3bb8d2443c47f82793e879d2cc7bc5a",
-          "width": 600,
-          "height": 350,
-          "title": "Google parent Alphabet is pruning its 'other bets'",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

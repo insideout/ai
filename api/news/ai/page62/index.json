@@ -2,6 +2,95 @@
   "page": 62,
   "value": [
     {
+      "path": "_news/2020-02-19-automating-your-amazon-forecast-workflow-with-lambda-step-functions-and-cloudwatch-events-rule.md",
+      "title": "Automating your Amazon Forecast workflow with Lambda, Step Functions, and CloudWatch Events rule",
+      "excerpt": "Amazon Forecast is a fully managed service that uses machine learning (ML) to generate highly accurate forecasts without requiring any prior ML experience. Forecast is applicable in a wide variety of use cases, including estimating product demand, energy demand, workforce planning, computing cloud infrastructure",
+      "heat": 86,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/automating-your-amazon-forecast-workflow-with-lambda-step-functions-and-cloudwatch-events-rule/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-19T13:11:09-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/02/19/forecast-workflow.gif",
+          "width": 800,
+          "height": 383,
+          "title": "Automating your Amazon Forecast workflow with Lambda, Step Functions, and CloudWatch Events rule",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-19-stanford-and-nyu-only-15-of-ai-federal-agencies-use-is-highly-sophisticated.md",
+      "title": "Stanford and NYU: Only 15% of AI federal agencies use is highly sophisticated",
+      "excerpt": "More than 40% of U.S. federal agencies and departments have experimented with AI tools, but only 15% currently use highly sophisticated AI, according to analysis by Stanford University computer scientists published today in “Government by Algorithm,” a joint report from Stanford and New York University. “This is concerning because ...",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/02/19/only-15-of-ai-federal-agencies-use-is-highly-sophisticated-according-to-stanford-and-nyu-report/",
+      "ampWebUrl": "https://venturebeat.com/2020/02/19/only-15-of-ai-federal-agencies-use-is-highly-sophisticated-according-to-stanford-and-nyu-report/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/19/only-15-of-ai-federal-agencies-use-is-highly-sophisticated-according-to-stanford-and-nyu-report/amp/",
+      "publishedDateTime": "2020-02-19T12:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2016/07/capitol-building.jpg?fit=3263%2C2005&strip=all",
+          "width": 3263,
+          "height": 2005,
+          "title": "Stanford and NYU: Only 15% of AI federal agencies use is highly sophisticated",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-02-19-10-robotics-startups-to-watch-in-2020.md",
       "title": "10 robotics startups to watch in 2020",
       "excerpt": "Running a robotics startup is no easy task. Yet, we are always amazed by the number of robotics startups ... Reason to watch: Covariant is building AI that it calls the “Covariant Brain” to make robots smarter. Covariant was founded in 2017, but it came out of stealth mode in January 2020, announcing that its first application is piece ...",
@@ -1184,89 +1273,6 @@
       "topics": [
         "AI",
         "Natural Language Processing",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-02-19-this-startup-is-using-ai-to-transform-industrial-quality-inspections.md",
-      "title": "This Startup Is Using AI To Transform Industrial Quality Inspections",
-      "excerpt": "Neurala's Brain Builder platform leverages artificial intelligence to make revolutionary leaps in machine vision industrial inspection technology.",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/jimvinoski/2020/02/19/this-startup-is-using-ai-to-transform-industrial-quality-inspections/",
-      "ampWebUrl": "https://www.forbes.com/sites/jimvinoski/2020/02/19/this-startup-is-using-ai-to-transform-industrial-quality-inspections/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jimvinoski/2020/02/19/this-startup-is-using-ai-to-transform-industrial-quality-inspections/amp/",
-      "publishedDateTime": "2020-02-19T04:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e4c97476895e0000683937c%2F0x0.jpg",
-          "width": 1200,
-          "height": 836,
-          "title": "This Startup Is Using AI To Transform Industrial Quality Inspections",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-02-19-artificial-intelligence-and-machine-learning-in-the-operating-room.md",
-      "title": "Artificial Intelligence and Machine Learning in the Operating Room",
-      "excerpt": "Most applications of artificial intelligence (AI) and machine learning technology provide only data to physicians, leaving the doctors to form a judgment on how to proceed. Because AI doesn’t actually perform any procedure or prescribe a course of medication, the software that diagnoses health problems does not have to pass a randomized ...",
-      "heat": 76,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://247wallst.com/healthcare-economy/2020/02/19/artificial-intelligence-and-machine-learning-in-the-operating-room/",
-      "ampWebUrl": "https://247wallst.com/healthcare-economy/2020/02/19/artificial-intelligence-and-machine-learning-in-the-operating-room/amp/",
-      "cdnAmpWebUrl": "https://247wallst-com.cdn.ampproject.org/c/s/247wallst.com/healthcare-economy/2020/02/19/artificial-intelligence-and-machine-learning-in-the-operating-room/amp/",
-      "publishedDateTime": "2020-02-19T04:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "24/7 Wall St",
-        "domain": "247wallst.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://247wallst.files.wordpress.com/2020/01/imageforentry19-gsk.jpg?w=1200",
-          "width": 1200,
-          "height": 675,
-          "title": "Artificial Intelligence and Machine Learning in the Operating Room",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare",
         "Machine Learning"
       ]
     }

@@ -2,6 +2,87 @@
   "page": 96,
   "value": [
     {
+      "path": "_news/2020-01-30-2-major-security-flaws-detected-in-microsoft-azure-cloud-know-what-they-are.md",
+      "title": "2 major security flaws detected in Microsoft Azure Cloud: Know what they are",
+      "excerpt": "\"Azure Stack Edge brings rapid Machine Learning inferencing closer to where data is generated and the new ruggedized Azure Stack form factors provide cloud capabilities in even the harshest of conditions like disaster response,\" he explained. \"Our differentiated approach across the cloud and edge is winning customers. The US Department of ...",
+      "heat": 81,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.indiatvnews.com/technology/news-security-flaws-microsoft-azure-cloud-what-they-are-584431",
+      "ampWebUrl": "https://www.indiatvnews.com/amp/technology/news-security-flaws-microsoft-azure-cloud-what-they-are-584431",
+      "cdnAmpWebUrl": "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news-security-flaws-microsoft-azure-cloud-what-they-are-584431",
+      "publishedDateTime": "2020-01-30T05:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India TV",
+        "domain": "indiatvnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2020/01/satya-nadella-1580390767.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "2 major security flaws detected in Microsoft Azure Cloud: Know what they are",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-01-30-ethical-ai-can-ensure-ais-superpower-is-used-for-good.md",
+      "title": "Ethical AI Can Ensure AI's Superpower Is Used For Good",
+      "excerpt": "Ethical AI can help ensure all of our AI efforts are ethically compliant, environmentally conscious and transparent.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/30/ethical-ai-can-ensure-ais-superpower-is-used-for-good/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/30/ethical-ai-can-ensure-ais-superpower-is-used-for-good/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/30/ethical-ai-can-ensure-ais-superpower-is-used-for-good/amp/",
+      "publishedDateTime": "2020-01-30T04:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/711x558/https://specials-images.forbesimg.com/dam/imageserve/1079012854/960x0.jpg?fit=scale",
+          "width": 711,
+          "height": 558,
+          "title": "Ethical AI Can Ensure AI's Superpower Is Used For Good",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-01-30-facebook-agrees-to-pay-550-million-to-end-facial-recognition-tech-lawsuit.md",
       "title": "Facebook agrees to pay $550 million to end facial recognition tech lawsuit",
       "excerpt": "Facebook has agreed to pay $550 million to settle claims in Illinois that the company violated local laws on facial recognition technologies. The results of the lawsuit were made public on Wednesday and have been described as the \"largest cash settlement ever resolving a privacy-related lawsuit.\" Launched by law firms Edelson, Robbins Geller ...",
@@ -986,79 +1067,6 @@
       "topics": [
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2020-01-29-man-in-wheelchair-dumped-onto-ground-in-dispute-over-parking-space-at-pleasant-hill-target-store.md",
-      "title": "Man In Wheelchair Dumped Onto Ground In Dispute Over Parking Space At Pleasant Hill Target Store",
-      "excerpt": "Detectives were given a partial license plate number for Tiger’s vehicle, and later identified ... injury were filed and an arrest warrant was issued. Two days later, Tiger was arrested in ...",
-      "heat": 124,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://sanfrancisco.cbslocal.com/2020/01/29/wheelchair-assault-dispute-parking-space-pleasant-hill-target/",
-      "ampWebUrl": "https://sanfrancisco.cbslocal.com/2020/01/29/wheelchair-assault-dispute-parking-space-pleasant-hill-target/amp/",
-      "cdnAmpWebUrl": "https://sanfrancisco-cbslocal-com.cdn.ampproject.org/c/s/sanfrancisco.cbslocal.com/2020/01/29/wheelchair-assault-dispute-parking-space-pleasant-hill-target/amp/",
-      "publishedDateTime": "2020-01-29T11:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS Local",
-        "domain": "cbslocal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-29-object-recognition-is-the-answer-heres-why.md",
-      "title": "Object Recognition Is The Answer, Here’s Why",
-      "excerpt": "More specifically, the convergence of Object Recognition, Machine Vision, and Neural Networks enables machines to see and understand what it is they are seeing. For sure, there are specific use ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/hodfleishman/2020/01/29/object-recognition-is-the-answer-heres-why/",
-      "ampWebUrl": "https://www.forbes.com/sites/hodfleishman/2020/01/29/object-recognition-is-the-answer-heres-why/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/hodfleishman/2020/01/29/object-recognition-is-the-answer-heres-why/amp/",
-      "publishedDateTime": "2020-01-29T11:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F483146942%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "Object Recognition Is The Answer, Here’s Why",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

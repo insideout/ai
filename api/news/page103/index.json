@@ -2,6 +2,94 @@
   "page": 103,
   "value": [
     {
+      "path": "_news/2020-01-23-a-beginners-guide-to-the-ai-apocalypse-wall-e-syndrome.md",
+      "title": "A beginner’s guide to the AI apocalypse: Wall-E syndrome",
+      "excerpt": "Without our current AI – Google Search and Amazon Alexa, and so on – we might start to feel a little unwise or uneducated. “Google it” has forever changed our society. But does that mean ...",
+      "heat": 167,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/artificial-intelligence/2020/01/23/a-beginners-guide-to-the-ai-apocalypse-wall-e-syndrome/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-23T13:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/01/walle-796x365.jpg",
+          "width": 796,
+          "height": 365,
+          "title": "A beginner’s guide to the AI apocalypse: Wall-E syndrome",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-01-23-hypergiant-is-using-ai-and-algae-to-take-on-climate-change.md",
+      "title": "Hypergiant Is Using AI And Algae To Take on Climate Change",
+      "excerpt": "Hypergiant, an AI products and solutions company, is harnessing this unique power of algae in its latest technology, the EOS bio-reactor which uses AI to optimize algae growth and carbon sequestration.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/01/23/hypergiant-ai-algae-climate-change/?ss=ai",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/01/23/hypergiant-ai-algae-climate-change/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/01/23/hypergiant-ai-algae-climate-change/amp/",
+      "publishedDateTime": "2020-01-23T12:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e29dbab0d31ae0006face4d%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3300%26cropY1%3D167%26cropY2%3D2023",
+          "width": 1200,
+          "height": 675,
+          "title": "Hypergiant Is Using AI And Algae To Take on Climate Change",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-01-23-grammys-go-high-tech-with-ibm-and-artificial-intelligence.md",
       "title": "Grammys go high-tech with IBM and artificial intelligence",
       "excerpt": "Along with Versace and Jean Paul Gaultier, artificial intelligence and Natural Language Processing will be important accessories on the 62nd Annual Grammys' red carpet. IBM will enhance the red carpet livestream with Grammy Insights with Watson this Sunday at the Staples Center in Los Angeles. The team at IBM took over 18 million documents and ...",
@@ -991,96 +1079,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-01-23-kneron-raises-40-million-to-grow-edge-ai-chip-design-operations.md",
-      "title": "Kneron raises $40 million to grow edge AI chip design operations",
-      "excerpt": "Edge AI startup Kneron today said it’s raised $40 million led by Horizon Ventures. The funding will be used to grow Kneron’s algorithms made especially for on-device machine learning and semiconductor design operations. Kneron released the KL520, a chip made especially for deployment of AI on devices like smart home or IoT devices last year ...",
-      "heat": 264,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/01/23/kneron-raises-40-million-to-grow-edge-ai-chip-design-operations/",
-      "ampWebUrl": "https://venturebeat.com/2020/01/23/kneron-raises-40-million-to-grow-edge-ai-chip-design-operations/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/23/kneron-raises-40-million-to-grow-edge-ai-chip-design-operations/amp/",
-      "publishedDateTime": "2020-01-23T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/01/Kneron_KL520.jpg?fit=1618%2C909&strip=all",
-          "width": 1618,
-          "height": 909,
-          "title": "Kneron raises $40 million to grow edge AI chip design operations",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-01-23-microsoft-brings-enhanced-nlp-capabilities-to-onnx-runtime.md",
-      "title": "Microsoft Brings Enhanced NLP Capabilities To ONNX Runtime",
-      "excerpt": "With the integration of BERT with ONNX, developers can train a model, export it to ONNX format and use it for inferencing across multiple hardware platforms.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/janakirammsv/2020/01/23/microsoft-brings-enhanced-nlp-capabilities-to-onnx-runtime/",
-      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2020/01/23/microsoft-brings-enhanced-nlp-capabilities-to-onnx-runtime/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2020/01/23/microsoft-brings-enhanced-nlp-capabilities-to-onnx-runtime/amp/",
-      "publishedDateTime": "2020-01-23T05:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e2998aca854780006af4a28%2F0x0.jpg",
-          "width": 1000,
-          "height": 666,
-          "title": "Microsoft Brings Enhanced NLP Capabilities To ONNX Runtime",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

@@ -2,6 +2,90 @@
   "page": 93,
   "value": [
     {
+      "path": "_news/2020-01-16-heres-why-apple-paid-200-million-for-an-ai-startup.md",
+      "title": "Here's Why Apple Paid $200 Million for an AI Startup",
+      "excerpt": "Apple has reportedly acquired AI start-up Xnor.ai for about $200 million, according to a report from GeekWire, citing \"sources with knowledge of the deal.\" Xnor specializes in developing complex ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fool.com/investing/2020/01/16/why-apple-paid-200-million-for-ai-startup.aspx",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/01/16/why-apple-paid-200-million-for-ai-startup.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/01/16/why-apple-paid-200-million-for-ai-startup.aspx",
+      "publishedDateTime": "2020-01-16T12:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F553780%2Fa-circuit-board-with-a-chip-labeled-ai-at-the-center.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 900,
+          "title": "Here's Why Apple Paid $200 Million for an AI Startup",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-01-16-dont-want-a-robot-stealing-your-job-take-a-course-on-ai-and-machine-learning.md",
+      "title": "Don't want a robot stealing your job? Take a course on AI and machine learning.",
+      "excerpt": "TL;DR: Jump into the world of AI with the Essential AI and Machine Learning Certification Training Bundle for $39.99, a 93% savings. From facial recognition to self-driving vehicles, machine learning is taking over modern life as we know it. It may not be the flying cars and world-dominating robots we envisioned 2020 would hold, but it's ...",
+      "heat": 121,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://mashable.com/shopping/jan-16-ai-and-machine-learning-training-bundle/",
+      "ampWebUrl": "https://mashable.com/shopping/jan-16-ai-and-machine-learning-training-bundle.amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/shopping/jan-16-ai-and-machine-learning-training-bundle.amp",
+      "publishedDateTime": "2020-01-16T11:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mondrian.mashable.com/2020%252F01%252F16%252Ff8%252Fd507fcc0136c43698089928d54f4e01c.9f182.jpg%252F1200x630.jpg?signature=OfjGlytH34ga9iy1BfOWSJ8VERQ=",
+          "width": 1200,
+          "height": 630,
+          "title": "Don't want a robot stealing your job? Take a course on AI and machine learning.",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI in Robotics",
+        "Google AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2020-01-16-can-ai-save-our-oceans-lets-start-with-the-data.md",
       "title": "Can AI Save Our Oceans? Let’s Start With The Data.",
       "excerpt": "Coral is the ocean’s life system and without it, we will soon also have an ocean without life. In spite of the terrible news, there are some glimmers of light and hope spots that we can point to, especially in the areas of AI for the benefit of the ocean. This will be the first in a series of articles that puts a spotlight on the top ...",
@@ -1211,88 +1295,6 @@
       "topics": [
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2020-01-16-cloud-natural-language-processing-nlp-market-2019-2027-trends-analysis-segmentation-and-forecast.md",
-      "title": "Cloud Natural Language Processing (NLP) Market 2019-2027 / Trends, Analysis, Segmentation And Forecast",
-      "excerpt": "The report covers the forecast and analysis of the cloud natural language processing (NLP) market on a global and regional level. The study provides historical data from 2015 to 2018 along with a forecast from 2019 to 2027 based on revenue (USD Million).",
-      "heat": 63,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/cloud-natural-language-processing-nlp-market-2019-2027-trends-analysis-segmentation-and-forecast-2020-01-16",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-16T02:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Cloud Natural Language Processing (NLP) Market 2019-2027 / Trends, Analysis, Segmentation And Forecast",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-01-16-artificial-intelligence-ai-in-healthcare-is-expected-to-grow-to-361-billion-by-2025.md",
-      "title": "Artificial Intelligence (AI) in Healthcare is Expected to Grow to $36.1 billion by 2025",
-      "excerpt": "Why is Artificial Intelligence disrupting the healthcare ... From life coaching to cognitive behavioural therapy to faith-based healing, therapy bots support users’ mental health and help ...",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/@brand_minds/artificial-intelligence-ai-in-healthcare-is-expected-to-grow-to-36-1-billion-by-2025-1e2f70b0ca1",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-16T00:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

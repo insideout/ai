@@ -2,6 +2,98 @@
   "page": 73,
   "value": [
     {
+      "path": "_news/2020-02-07-what-is-machine-learning-exploring-its-impact-on-customer-experience.md",
+      "title": "What is machine learning? Exploring its impact on customer experience",
+      "excerpt": "As machine learning algorithms become increasingly integrated into home and business applications, this offspring of artificial intelligence is certainly grabbing headlines. From self-driving cars ...",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/@mahiprashanth866/what-is-machine-learning-exploring-its-impact-on-customer-experience-350bf3115497",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-07T11:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/844/0*bbnXzCvTKv0Wl7uc.png",
+          "width": 844,
+          "height": 422,
+          "title": "What is machine learning? Exploring its impact on customer experience",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-02-07-how-to-learn-pytorch-a-resources-guide-for-developers.md",
+      "title": "How to learn PyTorch: A resources guide for developers",
+      "excerpt": "Developed by Facebook, PyTorch is similar to Google's TensorFlow in that it runs on tensors, but instead of using static computation graphs like TensorFlow, it utilizes dynamic computation graphs. If you are interested in learning PyTorch, the following list of resources can help you get started. SEE: Hiring kit: Python developer ...",
+      "heat": 78,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/article/how-to-learn-pytorch-a-resources-guide-for-developers/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/how-to-learn-pytorch-a-resources-guide-for-developers/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-to-learn-pytorch-a-resources-guide-for-developers/",
+      "publishedDateTime": "2020-02-07T11:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/02/05/82457267-972f-48c8-ad24-3542a0ef2f87/resize/1200x/bbccae6b5e2cb340e005046ffae1dcf0/istock-1169711450.jpg",
+          "width": 1200,
+          "height": 718,
+          "title": "How to learn PyTorch: A resources guide for developers",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI",
+        "Microsoft AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2020-02-07-an-update-on-intel-and-habana-labs.md",
       "title": "An Update On Intel And Habana Labs",
       "excerpt": "Analyst Karl Freund provides an update on Intel's plans to switch its AI acceleration from Nervana to recently acquired Habana Labs.",
@@ -1178,80 +1270,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-06-top-homeland-security-democrat-voices-opposition-to-facial-recognition-moratorium.md",
-      "title": "Top Homeland Security Democrat voices opposition to facial recognition moratorium",
-      "excerpt": "on Thursday voiced concern about placing a federal moratorium on facial recognition technology, a pr",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thehill.com/policy/technology/481866-top-homeland-security-dem-voices-opposition-to-facial-recognition",
-      "ampWebUrl": "https://thehill.com/policy/technology/481866-top-homeland-security-dem-voices-opposition-to-facial-recognition?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/481866-top-homeland-security-dem-voices-opposition-to-facial-recognition?amp",
-      "publishedDateTime": "2020-02-06T11:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/thompsonbennie_010920gn_lead.jpg",
-          "width": 980,
-          "height": 551,
-          "title": "Top Homeland Security Democrat voices opposition to facial recognition moratorium",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-02-06-crowdstrike-aws-expand-world-challenge-official-provider-roles.md",
-      "title": "CrowdStrike, AWS expand World Challenge official provider roles",
-      "excerpt": "In forming an expanded alliance, SRO Motorsports Group will benefit from AWS’ 175 fully featured services for storage, networking, analytics, machine learning and artificial intelligence (AI), Internet of Things (IoT), mobile, security, hybrid, virtual and augmented reality (VR and AR), with a broad global reach. Along with being official ...",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://racer.com/2020/02/06/crowdstrike-aws-expand-world-challenge-official-provider-roles/",
-      "ampWebUrl": "https://racer.com/2020/02/06/crowdstrike-aws-expand-world-challenge-official-provider-roles/amp/",
-      "cdnAmpWebUrl": "https://racer-com.cdn.ampproject.org/c/s/racer.com/2020/02/06/crowdstrike-aws-expand-world-challenge-official-provider-roles/amp/",
-      "publishedDateTime": "2020-02-06T10:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Racer",
-        "domain": "racer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://racerdigital.files.wordpress.com/2020/02/aws-crowdstrike-1.jpeg?w=1000&h=430&crop=1",
-          "width": 1000,
-          "height": 430,
-          "title": "CrowdStrike, AWS expand World Challenge official provider roles",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

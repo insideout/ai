@@ -2,6 +2,87 @@
   "page": 86,
   "value": [
     {
+      "path": "_news/2020-02-10-deep-learning-has-limits-but-its-commercial-impact-has-just-begun.md",
+      "title": "Deep Learning Has Limits. But Its Commercial Impact Has Just Begun.",
+      "excerpt": "There has been increased hand-wringing across the AI community in recent months about the limitations of deep learning. Even deep learning's staunchest defenders, Bengio included, are beginning to ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/robtoews/2020/02/09/deep-learning-has-limits-but-its-commercial-impact-has-just-begun/",
+      "ampWebUrl": "https://www.forbes.com/sites/robtoews/2020/02/09/deep-learning-has-limits-but-its-commercial-impact-has-just-begun/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2020/02/09/deep-learning-has-limits-but-its-commercial-impact-has-just-begun/amp/",
+      "publishedDateTime": "2020-02-09T17:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e40aef58b6cf300071e457e%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Deep Learning Has Limits. But Its Commercial Impact Has Just Begun.",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-02-09-risk-mitigation-and-huawei-the-uk-makes-a-choice.md",
+      "title": "Risk Mitigation and Huawei: The UK Makes a Choice",
+      "excerpt": "To read the full newsletter, click here to subscribe for free ... American pressure on London had been coming from the highest levels of government. On Thursday, the Financial Times exclusively reported on a phone call between U.S. President Donald J. Trump and Johnson. Trump lambasted Johnson for the decision to allow Huawei in ...",
+      "heat": 122,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thediplomat.com/2020/02/risk-mitigation-and-huawei-the-uk-makes-a-choice/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-09T15:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Diplomat",
+        "domain": "thediplomat.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thediplomat.com/wp-content/uploads/2020/01/sizes/td-story-s-2/thediplomat-2020-01-28-19.jpg",
+          "width": 600,
+          "height": 361,
+          "title": "Risk Mitigation and Huawei: The UK Makes a Choice",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-02-09-kuwait-launches-robotics-ai-festival.md",
       "title": "Kuwait launches Robotics, AI Festival",
       "excerpt": "Kuwait launched on Sunday the Robotics and Artificial Intelligence (AI) Festival to promote the scientific awareness in Kuwait. At the opening ceremony, Salam Al-Ablani, scientific culture director of the Kuwait Foundation for Advancement of Science (KFAS), said that the festival aims at boosting the scientific culture in smart industries and ...",
@@ -982,97 +1063,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-07-nuros-r2-vehicle-has-been-granted-the-nhtsas-first-regulatory-exemption-for-a-custom-self-driving-car.md",
-      "title": "Nuro's R2 vehicle has been granted the NHTSA's first regulatory exemption for a custom self-driving car",
-      "excerpt": "Self-driving cars: Nuro is a well-known entity in the autonomous vehicle industry. It's partnered up with companies like Kroger and Dominos in the past to offer driverless food and grocery delivery services via its \"R1\" generation of vehicles. Now ...",
-      "heat": 88,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techspot.com/news/83926-nuro-has-granted-nhtsa-first-regulatory-exemption-custom.html",
-      "ampWebUrl": "https://www.techspot.com/amp/news/83926-nuro-has-granted-nhtsa-first-regulatory-exemption-custom.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/83926-nuro-has-granted-nhtsa-first-regulatory-exemption-custom.html",
-      "publishedDateTime": "2020-02-07T14:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/ts3_thumbs/2020/02/2020-02-07-ts3_thumbs-3a9.jpg",
-          "width": 800,
-          "height": 560,
-          "title": "Nuro's R2 vehicle has been granted the NHTSA's first regulatory exemption for a custom self-driving car",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-02-07-geek-of-the-week-trupanions-david-jaw-uses-machine-learning-to-help-facilitate-better-pet-care.md",
-      "title": "Geek of the Week: Trupanion’s David Jaw uses machine learning to help facilitate better pet care",
-      "excerpt": "As the leader of the data science department at Trupanion in Seattle, David Jaw’s projects are actually around pets. Jaw, GeekWire’s latest Geek of the Week, uses artificial intelligence and machine learning to help automate medical insurance claims for pets, streamlining the process and removing the worry about what’s covered and what ...",
-      "heat": 78,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.geekwire.com/2020/david-jaw-2/",
-      "ampWebUrl": "https://www.geekwire.com/2020/david-jaw-2/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/david-jaw-2/amp/",
-      "publishedDateTime": "2020-02-07T14:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/02/hank_home_011-630x511.jpg",
-          "width": 630,
-          "height": 511,
-          "title": "Geek of the Week: Trupanion’s David Jaw uses machine learning to help facilitate better pet care",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AI in Finance"
       ]
     }
   ],

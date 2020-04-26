@@ -2,6 +2,96 @@
   "page": 120,
   "value": [
     {
+      "path": "_news/2020-01-03-why-baidu-is-a-better-ai-stock-than-google.md",
+      "title": "Why Baidu Is a Better AI Stock Than Google",
+      "excerpt": "It assigned Baidu to the development of self-driving cars, Alibaba to smart cities, Tencent to digital healthcare, and iFlyTek to voice recognition. Baidu also launched a state-backed engineering laboratory for deep learning technologies like computer vision, machine hearing, biometric identification, and human-computer interactions.",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fool.com/investing/2020/01/03/why-baidu-is-a-better-ai-stock-than-google.aspx",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/01/03/why-baidu-is-a-better-ai-stock-than-google.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/01/03/why-baidu-is-a-better-ai-stock-than-google.aspx",
+      "publishedDateTime": "2020-01-03T09:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F552239%2Fgettyimages-664246660.jpg&w=700&op=resize",
+          "width": 700,
+          "height": 525,
+          "title": "Why Baidu Is a Better AI Stock Than Google",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2020-01-03-snapchat-quietly-acquired-ai-factory-the-company-behind-its-new-cameos-feature-for-166m.md",
+      "title": "Snapchat quietly acquired AI Factory, the company behind its new Cameos feature, for $166M",
+      "excerpt": "The company has acquired AI Factory, a computer vision startup that Snap had worked with to create Snapchat’s new Cameos animated selfie-based video feature, for a price believed to be in the ...",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/01/03/snapchat-quietly-acquired-ai-factory-the-company-behind-its-new-cameos-feature-for-166m/",
+      "ampWebUrl": "https://techcrunch.com/2020/01/03/snapchat-quietly-acquired-ai-factory-the-company-behind-its-new-cameos-feature-for-166m/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/03/snapchat-quietly-acquired-ai-factory-the-company-behind-its-new-cameos-feature-for-166m/amp/",
+      "publishedDateTime": "2020-01-03T09:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/12/Snapchat-Cameos.png?w=1024",
+          "width": 1024,
+          "height": 553,
+          "title": "Snapchat quietly acquired AI Factory, the company behind its new Cameos feature, for $166M",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2020-01-03-ambarella-aws-bring-ml-solutions-to-edge-applications.md",
       "title": "Ambarella & AWS Bring ML Solutions to Edge Applications",
       "excerpt": "Ambarella AMBA recently announced a collaboration with Amazon’s AMZN cloud computing arm, AWS, enabling customers to use Amazon SageMaker Neo cloud service to run ML models on devices based on Ambarella’s CVflow-powered AI vision SoC (system on chip).",
@@ -978,88 +1068,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2019-12-30-nine-ai-marketing-trends-set-to-explode-in-2020.md",
-      "title": "Nine AI Marketing Trends Set To Explode In 2020",
-      "excerpt": "Share to facebook Share to twitter Share to linkedin Using artificial intelligence in marketing ... According to our recent research, 65% of consumers expect that within five years marketing ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2019/12/30/nine-ai-marketing-trends-set-to-explode-in-2020/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2019/12/30/nine-ai-marketing-trends-set-to-explode-in-2020/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2019/12/30/nine-ai-marketing-trends-set-to-explode-in-2020/amp/",
-      "publishedDateTime": "2019-12-30T04:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbesagencycouncil%2Ffiles%2F2019%2F12%2FNine_AI_Marketing_Trends_Set_To_Explode_In_2020-1200x580.png",
-          "width": 1200,
-          "height": 580,
-          "title": "Nine AI Marketing Trends Set To Explode In 2020",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2019-12-30-the-therapy-apps-trying-to-help-you-deal-while-youre-on-the-nhs-waiting-list.md",
-      "title": "The Therapy Apps Trying To Help You Deal While You’re On The NHS Waiting List",
-      "excerpt": "Mental health problems are on the rise, with some people in the UK having to wait for up to two years to receive therapeutic treatment. With many being forced to take matters into their own hands, therapy apps could help provide those in need with a cheap ...",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.refinery29.com/amp/en-gb/mental-health-artificial-intelligence",
-      "ampWebUrl": "https://www.refinery29.com/amp/en-gb/mental-health-artificial-intelligence",
-      "cdnAmpWebUrl": "https://www-refinery29-com.cdn.ampproject.org/c/s/www.refinery29.com/amp/en-gb/mental-health-artificial-intelligence",
-      "publishedDateTime": "2019-12-29T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Refinery29",
-        "domain": "refinery29.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://s3.r29static.com/bin/entry/696/0,1727,3544,1861/x,80/1868918/image.jpg",
-          "width": 3544,
-          "height": 1861,
-          "title": "The Therapy Apps Trying To Help You Deal While You’re On The NHS Waiting List",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

@@ -2,6 +2,96 @@
   "page": 101,
   "value": [
     {
+      "path": "_news/2019-12-27-tesla-patents-data-pipeline-and-deep-learning-system-for-autonomous-driving.md",
+      "title": "Tesla patents data pipeline and deep learning system for autonomous driving",
+      "excerpt": "As Tesla is working toward deploying an autonomous driving system as soon as next year, the automaker is patenting a data pipeline and deep learning system that could help them develop it faster. The system has been revealed in a new patent application by ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://electrek.co/2019/12/27/tesla-patents-data-pipeline-deep-learning-autonomous-driving/",
+      "ampWebUrl": "https://electrek.co/2019/12/27/tesla-patents-data-pipeline-deep-learning-autonomous-driving/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2019/12/27/tesla-patents-data-pipeline-deep-learning-autonomous-driving/amp/",
+      "publishedDateTime": "2019-12-27T13:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://electrek.co/wp-content/uploads/sites/3/2019/10/Tesla-Autopilot-hero-4-e1570845324247.jpg?quality=82&strip=all&w=1000",
+          "width": 1000,
+          "height": 500,
+          "title": "Tesla patents data pipeline and deep learning system for autonomous driving",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2019-12-27-neurodiversity-in-artificial-intelligence.md",
+      "title": "Neurodiversity in Artificial Intelligence",
+      "excerpt": "Artificial Intelligence is Helping to Create Jobs for ... Many of them also need routine visual therapy to increase hand-eye coordination. Recognizing the need for therapy, and playing to this ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2019/12/27/neurodiversity-in-artificial-intelligence/",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2019/12/27/neurodiversity-in-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2019/12/27/neurodiversity-in-artificial-intelligence/amp/",
+      "publishedDateTime": "2019-12-27T05:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e060ce1e961e100073a0424%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5499%26cropY1%3D192%26cropY2%3D3286",
+          "width": 1200,
+          "height": 675,
+          "title": "Neurodiversity in Artificial Intelligence",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2019-12-26-artificial-intelligence-can-now-track-down-blood-cancer.md",
       "title": "Artificial intelligence can now track down blood cancer",
       "excerpt": "Artificial intelligence tracks down acute myeloid leukaemia ... This approach could support conventional diagnostics and accelerate therapy of the disease. \"Some studies have been carried out ...",
@@ -1164,86 +1254,6 @@
           "width": 1024,
           "height": 683,
           "title": "Everything you need to know about key differences between AI, Data Science, Machine Learning and Big Data",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2018-08-22-society-is-made-of-narrative-realizing-this-is-awakening-from-the-matrix.md",
-      "title": "Society Is Made Of Narrative. Realizing This Is Awakening From The Matrix.",
-      "excerpt": "In the movie The Matrix, humans are imprisoned in a virtual world by a powerful artificial intelligence system in a dystopian future. What they take to be ... with their senses is actually made of AI-generated code. Life in our current society is very ...",
-      "heat": 150,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/@caityjohnstone/society-is-made-of-narrative-realizing-this-is-awakening-from-the-matrix-787c7e2539ae",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2018-08-21T18:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/1200/0*pmMn-OBDF907eDRG",
-          "width": 1200,
-          "height": 900,
-          "title": "Society Is Made Of Narrative. Realizing This Is Awakening From The Matrix.",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2017-07-27-kesha-discovers-how-to-learn-to-let-go-in-new-song-and-video.md",
-      "title": "Kesha Discovers How to “Learn to Let Go” in New Song and Video",
-      "excerpt": "According to an essay in The Huffington Post, pop singer Kesha, while writing “Learn to Let Go,” was also inspired by ... where she encounters signposts from her past—including a cleverly devised fake swimming pool—that parallel the funny, often ...",
-      "heat": 142,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.slantmagazine.com/music/kesha-discovers-how-to-learn-to-let-go-in-new-song-and-video/",
-      "ampWebUrl": "https://www.slantmagazine.com/music/kesha-discovers-how-to-learn-to-let-go-in-new-song-and-video/amp/",
-      "cdnAmpWebUrl": "https://www-slantmagazine-com.cdn.ampproject.org/c/s/www.slantmagazine.com/music/kesha-discovers-how-to-learn-to-let-go-in-new-song-and-video/amp/",
-      "publishedDateTime": "2017-07-27T06:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Slant Magazine",
-        "domain": "slantmagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.slantmagazine.com/wp-content/uploads/2017/07/music_learntoletgo-600x600.jpg",
-          "width": 600,
-          "height": 600,
-          "title": "Kesha Discovers How to “Learn to Let Go” in New Song and Video",
           "attribution": null
         }
       ],

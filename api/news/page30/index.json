@@ -2,6 +2,95 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2020-03-31-perceive-emerges-from-stealth-with-ergo-edge-ai-chip.md",
+      "title": "Perceive emerges from stealth with Ergo edge AI chip",
+      "excerpt": "On-device computing solutions startup Perceive emerged from stealth today with its first product: the Ergo edge processor for AI inference. CEO Steve Teig claims the chip, which is designed for consumer devices like security cameras, connected appliances, and mobile phones, delivers “breakthrough” accuracy and performance in its class.",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/03/31/perceive-emerges-from-stealth-with-ergo-edge-ai-chip/",
+      "ampWebUrl": "https://venturebeat.com/2020/03/31/perceive-emerges-from-stealth-with-ergo-edge-ai-chip/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/31/perceive-emerges-from-stealth-with-ergo-edge-ai-chip/amp/",
+      "publishedDateTime": "2020-03-31T06:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/11/big-data.GettyImages-1133714603-e1584722383408.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Perceive emerges from stealth with Ergo edge AI chip",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-31-pokemon-go-maker-niantic-acquires-3d-world-scanning-software-company-6dai.md",
+      "title": "Pokemon Go maker Niantic acquires 3D world-scanning software company 6D.ai",
+      "excerpt": "Niantic, makers of Pokemon Go and collaborators with Qualcomm on a future AR headset design, have just acquired a company that enables collaborative AR world maps to be shared. 6D.ai is a company that specializes in building out 3D world meshes that multiple share and keep building on.",
+      "heat": 85,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnet.com/news/pokemon-go-maker-niantic-acquires-3d-world-scanning-software-company-6d-ai/",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/pokemon-go-maker-niantic-acquires-3d-world-scanning-software-company-6d-ai/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/pokemon-go-maker-niantic-acquires-3d-world-scanning-software-company-6d-ai/",
+      "publishedDateTime": "2020-03-31T06:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cnet2.cbsistatic.com/img/wOD2pqt5YiE48j8erpa0ii9An9w=/756x567/2019/07/25/48f277d2-b011-4181-9cec-22c857bd0a68/screenshot-2019-07-25-at-12-12-02.png",
+          "width": 756,
+          "height": 567,
+          "title": "Pokemon Go maker Niantic acquires 3D world-scanning software company 6D.ai",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-31-europe-far-field-speech-recognition-market-is-slated-to-grow-rapidly-in-the-coming-years.md",
       "title": "Europe Far-field Speech Recognition Market is slated to grow rapidly in the coming years",
       "excerpt": "This research study on the Far-field Speech Recognition market enumerates details about this industry in terms of a detailed evaluation and also an in-depth assessment of this business. The Far-field Speech Recognition market has been suitably divided into important segments, as per the report. A detailed overview of the industry with respect ...",
@@ -945,96 +1034,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-31-agent57-outperforming-the-human-atari-benchmark.md",
-      "title": "Agent57: Outperforming the human Atari benchmark",
-      "excerpt": "Agent57: Outperforming the Human Atari Benchmark",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://deepmind.com/blog/article/Agent57-Outperforming-the-human-Atari-benchmark",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-30T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "DeepMind",
-        "domain": "deepmind.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/deepmind.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://lh3.googleusercontent.com/nSh9GUWMWjWy1gGLXd8YWf-kqyK1VVI4-mvVihDnUkTPZYF619kUyrXfG0hH9JEZN4y0F9D5zThcQc6t_SE8SDoyaR_6N3M5GwigYLw",
-          "width": 512,
-          "height": 225,
-          "title": "Agent57: Outperforming the human Atari benchmark",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-31-aws-machine-learning-ai.md",
-      "title": "AWS Machine Learning / AI",
-      "excerpt": "In this section you will finish up with one last AI tool, Rekognition, and you'll also learn about the deeper side of machine learning with the powerful Sagemaker and Deep Learning Instances on AWS. A fully managed machine learning service is a great place ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.pluralsight.com/paths/aws-machine-learning-ai",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-30T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Pluralsight",
-        "domain": "pluralsight.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://pluralsight2.imgix.net/paths/images/aws-certified-devops-engineer-25d912e3da.png",
-          "width": 512,
-          "height": 512,
-          "title": "AWS Machine Learning / AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

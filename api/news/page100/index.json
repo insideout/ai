@@ -2,6 +2,79 @@
   "page": 100,
   "value": [
     {
+      "path": "_news/2020-01-28-ai-can-help-cancer-patients-start-radiation-therapy-sooner.md",
+      "title": "AI can help cancer patients start radiation therapy sooner",
+      "excerpt": "Artificial intelligence can help cancer patients start their radiation therapy sooner - and thereby decrease the odds of the cancer spreading - by instantly translating complex clinical data into an optimal plan of attack. Patients typically must wait several days to a week to begin therapy while doctors manually develop treatment plans.",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.news-medical.net/news/20200127/AI-can-help-cancer-patients-start-radiation-therapy-sooner.aspx",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20200127/AI-can-help-cancer-patients-start-radiation-therapy-sooner.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200127/AI-can-help-cancer-patients-start-radiation-therapy-sooner.aspx",
+      "publishedDateTime": "2020-01-27T18:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.news-medical.net/image.axd?picture=2014%2f7%2fRadiation_Therapy-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": "AI can help cancer patients start radiation therapy sooner",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2020-01-28-5-canadian-top-social-cios-vala-afshar-may-have-missed.md",
+      "title": "5 Canadian top social CIOs Vala Afshar may have missed",
+      "excerpt": "100 Most Social CIOs on Twitter 2015 from Vala Afshar As he explains in his post, Afshar looks at a number of factors in choosing the top social CIOs, including the number of followers ...",
+      "heat": 142,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.itworldcanada.com/article/5-canadian-top-social-cios-vala-afshar-may-have-missed/101337",
+      "ampWebUrl": "https://www.itworldcanada.com/article/5-canadian-top-social-cios-vala-afshar-may-have-missed/101337?amp=1",
+      "cdnAmpWebUrl": "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/5-canadian-top-social-cios-vala-afshar-may-have-missed/101337?amp=1",
+      "publishedDateTime": "2020-01-27T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT World Canada",
+        "domain": "itworldcanada.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.itworldcanada.com/wp-content/uploads/2015/01/Screen-Shot-2015-01-28-at-10.02.44-AM.png-620x250.jpg",
+          "width": 620,
+          "height": 250,
+          "title": "5 Canadian top social CIOs Vala Afshar may have missed",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-01-28-servicenow-acquires-conversational-ai-startup-passage-ai.md",
       "title": "ServiceNow acquires conversational AI startup Passage AI",
       "excerpt": "ServiceNow announced this morning that it has acquired Passage AI, a startup that helps customers build chatbots in multiple languages, something that should come in handy as ServiceNow continues ...",
@@ -1011,95 +1084,6 @@
       "topics": [
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-01-27-mosquitoes-spread-disease-but-this-is-how-ai-is-biting-back.md",
-      "title": "Mosquitoes spread disease, but this is how AI is biting back",
-      "excerpt": "So, having early detection systems to promptly deploy preventive controls is crucial to protecting people. The Institute of Agrifood Research and Technology (IRTA) in Catalonia, Spain, has started to use artificial intelligence (AI), sensors, and satellite communications to automate the process of trapping mosquitoes and classifying them ...",
-      "heat": 97,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/mosquitoes-spread-disease-but-this-is-how-ai-is-biting-back/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/mosquitoes-spread-disease-but-this-is-how-ai-is-biting-back/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/mosquitoes-spread-disease-but-this-is-how-ai-is-biting-back/",
-      "publishedDateTime": "2020-01-27T03:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2020/01/17/9cd53c09-594e-45b6-ad71-ffebbe7c4b06/thumbnail/1200x675/d95da7082bf0d82ff45d36f0d4da5436/20200117-tiernan-karen-global.png",
-          "width": 1200,
-          "height": 675,
-          "title": "Mosquitoes spread disease, but this is how AI is biting back",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-27-cloud-natural-language-processing-nlp-market-demands-and-forecast-2019-2027.md",
-      "title": "Cloud Natural Language Processing (NLP) Market demands And forecast 2019-2027",
-      "excerpt": "The report covers the forecast and analysis of the cloud natural language processing (NLP) market on a global and regional level. The study provides historical data from 2015 to 2018 along with a forecast from 2019 to 2027 based on revenue (USD Million).",
-      "heat": 76,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/cloud-natural-language-processing-nlp-market-demands-and-forecast-2019-2027-2020-01-27-7197455",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-27T03:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Cloud Natural Language Processing (NLP) Market demands And forecast 2019-2027",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

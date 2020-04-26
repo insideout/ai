@@ -2,6 +2,79 @@
   "page": 66,
   "value": [
     {
+      "path": "_news/2020-02-27-mobile-artificial-intelligence-mai-market-outlook-2019-mediatek-microsoft-corporation-ibm-corporation.md",
+      "title": "Mobile Artificial Intelligence (MAI) Market Outlook 2019 | MediaTek, Microsoft Corporation, IBM Corporation",
+      "excerpt": "Global Mobile Artificial Intelligence (MAI) Market 2019 Trending Industry News with quality, reliability and innovations in technology. Global Mobile Artificial Intelligence (MAI) Market 2019 showcases the newest trends within the international and regional markets on all important parameters also as valuable facts and figures,",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/mobile-artificial-intelligence-mai-market-outlook-2019-mediatek-microsoft-corporation-ibm-corporation-2020-02-27",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-27T01:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Mobile Artificial Intelligence (MAI) Market Outlook 2019 | MediaTek, Microsoft Corporation, IBM Corporation",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-27-ai-in-banking-market-and-ai-in-education-market.md",
+      "title": "AI in Banking Market and AI in Education Market...",
+      "excerpt": "Dallas, Texas, Feb. 27, 2020 (GLOBE NEWSWIRE) -- Global AI in Banking Market Comprehensive Analysis 2020-2026: In recent years Artificial Intelligence (AI) is being used everywhere. Almost all the sectors from banking,",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/02/g15424821/ai-in-banking-market-and-ai-in-education-market-2020-worldwide-shares-strategies-regions-applicati",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/15424821",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15424821",
+      "publishedDateTime": "2020-02-26T22:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2020-02-27-toyota-had-the-most-autonomous-vehicle-disengagements-27000-more-than-baidu-apollo.md",
       "title": "Toyota had the most autonomous vehicle disengagements, 27,000% more than Baidu Apollo",
       "excerpt": "California's annual disengagement report is a peek into the state of self-driving car engineering, and we're going to dive into it. Baidu's open-source Apollo self-driving car platform is 2019's king of the hill when it comes to fewest disengagements per mile.",
@@ -983,95 +1056,6 @@
           "width": 1200,
           "height": 907,
           "title": "Artificial intelligence uncovers outrageous employee expense reports",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-26-the-rudest-drivers-tend-to-drive-these-car-brands-which-ai-self-driving-cars-ought-to-keep-in-mind.md",
-      "title": "The Rudest Drivers Tend To Drive These Car Brands, Which AI Self-Driving Cars Ought To ‘Keep In Mind’",
-      "excerpt": "What kind of car do you drive? I don’t mean whether it is a four-door or two-door, nor whether it is red in color or blue. Specifically, what brand of car do you drive? According to various studies (cited in a moment herein),",
-      "heat": 124,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/02/26/the-rudest-drivers-tend-to-drive-these-car-brands-which-ai-self-driving-cars-ought-to-keep-in-mind/",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/02/26/the-rudest-drivers-tend-to-drive-these-car-brands-which-ai-self-driving-cars-ought-to-keep-in-mind/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/02/26/the-rudest-drivers-tend-to-drive-these-car-brands-which-ai-self-driving-cars-ought-to-keep-in-mind/amp/",
-      "publishedDateTime": "2020-02-26T08:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F660298170%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6000%26cropY1%3D304%26cropY2%3D3679",
-          "width": 1200,
-          "height": 675,
-          "title": "The Rudest Drivers Tend To Drive These Car Brands, Which AI Self-Driving Cars Ought To ‘Keep In Mind’",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-02-26-researchers-find-way-to-boost-self-supervised-ai-models-robustness.md",
-      "title": "Researchers find way to boost self-supervised AI models’ robustness",
-      "excerpt": "In self-supervised learning, an AI technique where the training data is automatically labeled by a feature extractor, the said extractor not uncommonly exploits low-level features (known as “shortcuts”) that cause it to ignore useful representations. In search of a technique that might help to remove those shortcuts autonomously ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/02/26/researchers-method-improving-self-supervised-ai-model-robustness/",
-      "ampWebUrl": "https://venturebeat.com/2020/02/26/researchers-method-improving-self-supervised-ai-model-robustness/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/26/researchers-method-improving-self-supervised-ai-model-robustness/amp/",
-      "publishedDateTime": "2020-02-26T08:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/10/2053dde0-ac3e-444d-af1b-67b978e397dc-1-e1582734322714.png?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Researchers find way to boost self-supervised AI models’ robustness",
           "attribution": null
         }
       ],

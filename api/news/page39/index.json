@@ -2,6 +2,96 @@
   "page": 39,
   "value": [
     {
+      "path": "_news/2020-03-24-speech-recognition-technology-is-racist-study-finds.md",
+      "title": "Speech recognition technology is racist, study finds",
+      "excerpt": "New evidence of voice recognition’s racial bias problem has emerged. Speech recognition technologies developed by Amazon, Google, Apple, Microsoft, and IBM make almost twice as many errors when transcribing African American voices as they do with white American voices, according to a new Stanford study. All five systems produced these error ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/03/24/speech-recognition-technology-is-racist-study-finds/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/03/24/speech-recognition-technology-is-racist-study-finds/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/03/24/speech-recognition-technology-is-racist-study-finds/amp/",
+      "publishedDateTime": "2020-03-24T07:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/03/Untitled-design35-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "Speech recognition technology is racist, study finds",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-24-cognitive-collaboration-market-analysis-by-industry-growth-size-share-demand-trends-and-research-report.md",
+      "title": "Cognitive Collaboration Market Analysis By Industry Growth, Size, Share, Demand, Trends and Research Report",
+      "excerpt": "Kenneth Research has published a detailed report on Cognitive Collaboration Market which has been categorized by",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/cognitive-collaboration-market-analysis-by-industry-growth-size-share-demand-trends-and-research-report-2020-03-24",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-24T07:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Cognitive Collaboration Market Analysis By Industry Growth, Size, Share, Demand, Trends and Research Report",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-24-the-potential-of-ai-rpa-together.md",
       "title": "The Potential Of AI & RPA Together",
       "excerpt": "Robotic Process Automation (RPA) has been on fire, but it will need an assist from AI to reach its full potential",
@@ -905,95 +995,6 @@
           "width": 1200,
           "height": 600,
           "title": "MIT CSAIL’s VISTA autonomous vehicles simulator transfers skills learned to the real world",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-23-monitoring-is-critical-to-successful-ai.md",
-      "title": "Monitoring is critical to successful AI",
-      "excerpt": "Amit Paka is co-founder and chief product officer at Fiddler Labs, an explainable AI startup that enables enterprises to deploy and scale risk- and bias-free AI applications. Krishna Gade is co-founder and CEO at Fiddler Labs, an explainable AI startup that enables enterprises to deploy and scale risk- and bias-free AI applications. As the ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/03/23/monitoring-is-critical-to-successful-ai/",
-      "ampWebUrl": "https://techcrunch.com/2020/03/23/monitoring-is-critical-to-successful-ai/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/03/23/monitoring-is-critical-to-successful-ai/amp/",
-      "publishedDateTime": "2020-03-23T15:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/03/adeolu-eletu-unRkg2jH1j0-unsplash.jpg?w=640",
-          "width": 640,
-          "height": 424,
-          "title": "Monitoring is critical to successful AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-23-softbank-nears-deal-to-invest-in-didis-self-driving-unit-the-information.md",
-      "title": "SoftBank nears deal to invest in Didi's self-driving unit: The Information",
-      "excerpt": "SoftBank said it plans to raise as much as $41 billion to buy back shares and reduce debt, in an unprecedented move to restore investor confidence as a financial market rout pummels its shares and its portfolio companies.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.reuters.com/article/us-softbank-group-didi/softbank-nears-deal-to-invest-in-didis-self-driving-unit-the-information-idUSKBN21A2TG",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN21A2TG",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN21A2TG",
-      "publishedDateTime": "2020-03-23T14:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200323&t=2&i=1507150339&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG2M1ON",
-          "width": 785,
-          "height": 545,
-          "title": "SoftBank nears deal to invest in Didi's self-driving unit: The Information",
           "attribution": null
         }
       ],

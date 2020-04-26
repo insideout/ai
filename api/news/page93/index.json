@@ -2,6 +2,87 @@
   "page": 93,
   "value": [
     {
+      "path": "_news/2020-02-03-victoria-to-use-ai-to-detect-heart-attacks-on-emergency-calls.md",
+      "title": "Victoria to use AI to detect heart attacks on emergency calls",
+      "excerpt": "Triple zero call operators could soon have artificial intelligence (AI) alert them to callers who suffer from a heart attack. The Victorian government announced on Sunday it was kicking in AU$1.36 million towards the Artificial Intelligence in Cardiac Arrest project, which will be developed by Monash University and Ambulance Victoria.",
+      "heat": 187,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/victoria-to-use-ai-to-detect-heart-attacks-on-emergency-calls/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/victoria-to-use-ai-to-detect-heart-attacks-on-emergency-calls/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/victoria-to-use-ai-to-detect-heart-attacks-on-emergency-calls/",
+      "publishedDateTime": "2020-02-02T20:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/2013/11/14/c13adafe-5fde-41cb-99d0-859c455db5d5/Melbourne_credit_Kevin_Poh.jpg",
+          "width": 2048,
+          "height": 1536,
+          "title": "Victoria to use AI to detect heart attacks on emergency calls",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-03-what-are-machine-learning-and-deep-learning-in-artificial-intelligence.md",
+      "title": "What are Machine Learning and Deep Learning in Artificial Intelligence",
+      "excerpt": "AI can be called a superset of Machine Learning (ML) processes, and Deep Learning (DL) processes. AI usually is an umbrella term that is used for ML and DL. Deep Learning is again, a subset of ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.thewindowsclub.com/machine-learning-deep-learning-artificial-intelligence",
+      "ampWebUrl": "https://www.thewindowsclub.com/machine-learning-deep-learning-artificial-intelligence/amp",
+      "cdnAmpWebUrl": "https://www-thewindowsclub-com.cdn.ampproject.org/c/s/www.thewindowsclub.com/machine-learning-deep-learning-artificial-intelligence/amp",
+      "publishedDateTime": "2020-02-02T19:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TWCN Tech News",
+        "domain": "thewindowsclub.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thewindowsclub-thewindowsclubco.netdna-ssl.com/wp-content/uploads/2020/01/aivsmlvsdl.png",
+          "width": 412,
+          "height": 338,
+          "title": "What are Machine Learning and Deep Learning in Artificial Intelligence",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-02-03-intel-dumps-its-nervana-neural-network-processors-for-habanas-ai-chips.md",
       "title": "Intel dumps its Nervana neural network processors for Habana’s AI chips",
       "excerpt": "... told him it had decided to end its work on both the Nervana NNP-T training chips and the Nervana NNP-I inference chips, though it said it will still deliver on customer commitments for the latter. Habana has developed two AI chips of its own, namely the Habana Gaudi and the Habana Goya (pictured). The former is a highly specialized neural ...",
@@ -941,87 +1022,6 @@
           "width": 796,
           "height": 419,
           "title": "Why Amazon’s Ring and facial recognition technology are a clear and present danger to society",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-01-31-bbc-develops-technology-that-could-let-people-feel-the-weather.md",
-      "title": "BBC develops technology that could let people 'feel' the weather",
-      "excerpt": "Technology has been developed that could allow people to 'feel the weather ... could be delivered through existing devices, such as remote controls and phones, as well as new ones.",
-      "heat": 142,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.dailymail.co.uk/news/article-7953833/BBC-develops-technology-let-people-feel-weather.html",
-      "ampWebUrl": "https://www.dailymail.co.uk/news/article-7953833/amp/BBC-develops-technology-let-people-feel-weather.html",
-      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-7953833/amp/BBC-develops-technology-let-people-feel-weather.html",
-      "publishedDateTime": "2020-01-31T14:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Mail",
-        "domain": "dailymail.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.dailymail.co.uk/1s/2020/01/31/22/24149812-0-image-a-27_1580509388294.jpg",
-          "width": 636,
-          "height": 382,
-          "title": "BBC develops technology that could let people 'feel' the weather",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-31-chicago-police-facial-recognition-adds-jet-fuel-for-criminal-investigations.md",
-      "title": "Chicago police: Facial recognition adds “jet fuel” for criminal investigations",
-      "excerpt": "If you accessed the internet in last week or so, chances are you came across the name ClearView AI — a terrifying facial recognition software that has over three billion images in the database; far more than what FBI has. The New York Times wrote a lengthy report on how the software scraped images from all over the internet to increase its ...",
-      "heat": 95,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/artificial-intelligence/2020/01/31/facial-recognition-adds-jet-fuel-for-criminal-investigations-chicago-police/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-31T12:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/01/Facial-recognition-796x420.jpg",
-          "width": 796,
-          "height": 420,
-          "title": "Chicago police: Facial recognition adds “jet fuel” for criminal investigations",
           "attribution": null
         }
       ],

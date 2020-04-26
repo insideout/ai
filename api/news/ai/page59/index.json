@@ -2,6 +2,79 @@
   "page": 59,
   "value": [
     {
+      "path": "_news/2020-02-24-new-york-artificial-intelligence-company-behavox-raises-100-million.md",
+      "title": "New York artificial intelligence company Behavox raises $100 million",
+      "excerpt": "Behavox, a New York-based artificial intelligence company, said Monday it has raised $100 million. The funding came from SoftBank Vision Fund 2, according to Behavox, which describes itself as \"the world’s only end-to-end data operating platform.",
+      "heat": 72,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.bizjournals.com/newyork/news/2020/02/24/behavox-raises-100-million.html",
+      "ampWebUrl": "https://www.bizjournals.com/newyork/news/2020/02/24/behavox-raises-100-million.amp.html",
+      "cdnAmpWebUrl": "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/newyork/news/2020/02/24/behavox-raises-100-million.amp.html",
+      "publishedDateTime": "2020-02-24T07:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Business Journals",
+        "domain": "bizjournals.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.bizj.us/view/img/11611878/behavox-ceo*600xx1829-1219-164-0.jpg",
+          "width": 600,
+          "height": 399,
+          "title": "New York artificial intelligence company Behavox raises $100 million",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-24-applications-of-photodetectors-in-robotics.md",
+      "title": "Applications of Photodetectors in Robotics",
+      "excerpt": "For now, security robots aren’t able to adequately replace a human security guard ... In 2017, the US Department of Defense launched Project Maven, an initiative to leverage artificial intelligence to classify and analyze massive amounts of surveillance video. The project has been working on AI software that can flag people, vehicles ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.azorobotics.com/Article.aspx?ArticleID=345",
+      "ampWebUrl": "https://www.azorobotics.com/amp/article.aspx?ArticleID=345",
+      "cdnAmpWebUrl": "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/article.aspx?ArticleID=345",
+      "publishedDateTime": "2020-02-24T07:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Azorobotics",
+        "domain": "azorobotics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.azorobotics.com/images/Article_Images/ImageForArticle_345_15825385749239338.png",
+          "width": 950,
+          "height": 713,
+          "title": "Applications of Photodetectors in Robotics",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-02-24-china-delays-self-driving-car-deployment-goal-to-2025.md",
       "title": "China delays self-driving car deployment goal to 2025",
       "excerpt": "Why it matters: China backing off its ambitious plans underscores the challenging technological leap that self-driving technology has proven to be. Global auto tech giants have struggled to make autonomous cars safe for public use. The valuation of Google’s AV arm Waymo was slashed by 40% to $105 billion late last year, while General Motors ...",
@@ -1199,95 +1272,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-02-21-can-ai-better-match-luxury-real-estate-agents-with-well-heeled-buyers.md",
-      "title": "Can AI Better Match Luxury Real Estate Agents With Well-Heeled Buyers?",
-      "excerpt": "Nascent technologies and AI can assist high-end real estate agent reach more buyers and better communicate with them, but old-fashioned personal networking is still crucial in a sector driven by customization and individual attention.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/dimawilliams/2020/02/21/can-ai-better-match-luxury-real-estate-agents-with-high-heeled-buyers/",
-      "ampWebUrl": "https://www.forbes.com/sites/dimawilliams/2020/02/21/can-ai-better-match-luxury-real-estate-agents-with-high-heeled-buyers/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/dimawilliams/2020/02/21/can-ai-better-match-luxury-real-estate-agents-with-high-heeled-buyers/amp/",
-      "publishedDateTime": "2020-02-21T09:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1071612584%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "Can AI Better Match Luxury Real Estate Agents With Well-Heeled Buyers?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-21-ai-weekly-why-a-slow-movement-for-machine-learning-could-be-a-good-thing.md",
-      "title": "AI Weekly: Why a slow movement for machine learning could be a good thing",
-      "excerpt": "In 2019, the number of published papers related to AI and machine learning was nearly 25,000 in the U.S. alone, up from roughly 10,000 in 2015. And NeurIPS 2019, one of the world’s largest machine learning and computational neuroscience conferences, featured close to 2,000 accepted papers from thousands of attendees. There’s no question ...",
-      "heat": 83,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/02/21/ai-weekly-why-a-slow-movement-for-machine-learning-could-be-a-good-thing/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-21T09:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/12/neurips-e1582228287730.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "AI Weekly: Why a slow movement for machine learning could be a good thing",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

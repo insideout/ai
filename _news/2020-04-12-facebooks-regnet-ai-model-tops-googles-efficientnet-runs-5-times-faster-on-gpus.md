@@ -18,6 +18,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Facebook AI
 
 images:
   - url: "https://st1.bgr.in/wp-content/uploads/2018/05/facebook-pixabay-main.jpg"

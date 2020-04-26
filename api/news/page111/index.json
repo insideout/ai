@@ -2,6 +2,87 @@
   "page": 111,
   "value": [
     {
+      "path": "_news/2020-01-17-the-future-of-lawyers-legal-tech-ai-big-data-and-online-courts.md",
+      "title": "The Future of Lawyers: Legal Tech, AI, Big Data And Online Courts",
+      "excerpt": "Just as technology has transformed many other industries, it’s impacting the legal sector as well. Rather than just take over tasks that have traditionally been done by lawyers, artificial intelligence is expected to completely transform the industry and make online courts ubiquitous.",
+      "heat": 97,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2020/01/17/the-future-of-lawyers-legal-tech-ai-big-data-and-online-courts/",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2020/01/17/the-future-of-lawyers-legal-tech-ai-big-data-and-online-courts/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2020/01/17/the-future-of-lawyers-legal-tech-ai-big-data-and-online-courts/amp/",
+      "publishedDateTime": "2020-01-16T22:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e214479735f8c00079a0916%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "The Future of Lawyers: Legal Tech, AI, Big Data And Online Courts",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-01-17-best-of-arxivorg-for-ai-machine-learning-and-deep-learning-december-2019.md",
+      "title": "Best of arXiv.org for AI, Machine Learning, and Deep Learning – December 2019",
+      "excerpt": "In this recurring monthly feature, we filter recent research papers appearing on the arXiv.org preprint server for compelling subjects relating to AI, machine learning and deep learning – from disciplines including statistics, mathematics and computer science – and provide you with a useful “best of” list for the past month. Researchers ...",
+      "heat": 76,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://insidebigdata.com/2020/01/16/best-of-arxiv-org-for-ai-machine-learning-and-deep-learning-december-2019/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-16T19:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "insidebigdata.com",
+        "domain": "insidebigdata.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://insidebigdata.com/wp-content/uploads/2013/12/arxiv.jpg",
+          "width": 450,
+          "height": 380,
+          "title": "Best of arXiv.org for AI, Machine Learning, and Deep Learning – December 2019",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-01-17-what-does-fairness-in-ai-mean.md",
       "title": "What Does Fairness in AI Mean?",
       "excerpt": "A closer look at how bias can creep into AI systems, and the push toward more fair and equitable AI outcomes. It’s not every day that the musings of a 4-year-old echo the conversations of the world’s leading technologists—but that’s precisely the situation in which I recently found myself while driving my daughter home from day care.",
@@ -987,90 +1068,6 @@
       "topics": [
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-01-16-apple-acquires-artificial-intelligence-company-xnoraiheres-what-that-company-is.md",
-      "title": "Apple Acquires Artificial Intelligence Company Xnor.ai—Here's What That Company Is",
-      "excerpt": "Apple (APPL) has reportedly acquired a company called Xnor.ai. The little-known, and difficult to pronounce, company is a Seattle-based artificial intelligence start-up. It was founded in 2016 by researchers at the Allen Institute for Artificial Intelligence. Xnor.ai’s mission is to enable AI algorithms to run on small devices—such as ...",
-      "heat": 66,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.thestreet.com/video/apple-acquisition-of-xnor-ai-explained",
-      "ampWebUrl": "https://www.thestreet.com/.amp/video/apple-acquisition-of-xnor-ai-explained",
-      "cdnAmpWebUrl": "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/video/apple-acquisition-of-xnor-ai-explained",
-      "publishedDateTime": "2020-01-16T08:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TheStreet.com",
-        "domain": "thestreet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://content.jwplatform.com/thumbs/twa6yTzs-720.jpg",
-          "width": 720,
-          "height": 406,
-          "title": "Apple Acquires Artificial Intelligence Company Xnor.ai—Here's What That Company Is",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-16-5-technology-trends-for-the-roaring-20s-part-2-ai-knowledge-graphs-infinity-and-beyond.md",
-      "title": "5 technology trends for the roaring 20s, part 2: AI, Knowledge Graphs, infinity and beyond",
-      "excerpt": "GraphCore, which became the first AI chip unicorn in late 2018, has recently announced its chips are now used in Microsoft Azure Cloud. Far from over, the AI chip race is only just beginning. Up until the beginning of the 2010s, the world was mostly running on relational databases and spreadsheets. To a large extent, it still does. But if the ...",
-      "heat": 85,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/5-technology-trends-for-the-roaring-20s-part-2-ai-knowledge-graphs-infinity-and-beyond/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/5-technology-trends-for-the-roaring-20s-part-2-ai-knowledge-graphs-infinity-and-beyond/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/5-technology-trends-for-the-roaring-20s-part-2-ai-knowledge-graphs-infinity-and-beyond/",
-      "publishedDateTime": "2020-01-16T07:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/2016/09/14/9cc18f42-baa4-4abc-bd77-00a03b8e1d7e/10-google-knowledge-graph.jpg",
-          "width": 770,
-          "height": 560,
-          "title": "5 technology trends for the roaring 20s, part 2: AI, Knowledge Graphs, infinity and beyond",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI",
-        "AI Hardware",
-        "AI Ethics",
-        "Natural Language Processing"
       ]
     }
   ],

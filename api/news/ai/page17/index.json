@@ -2,6 +2,96 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2020-04-07-honor-confirms-the-kirin-985-soc-features-and-ai-benchmark-ranking-revealed.md",
+      "title": "Honor confirms the Kirin 985 SoC, features and AI benchmark ranking revealed!",
+      "excerpt": "Between October last year and now, Huawei‘s Hisilicon chip department has released two high-end chipsets ... In a Weibo post today, the Honor VP shared the latest AI benchmark ranking with the Kirin 985 in the third spot. The chipset has ahead of it, only the Kirin 990 which is in the first spot and the MediaTek Dimensity 1000 in the second ...",
+      "heat": 86,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.gizmochina.com/2020/04/07/honor-confirms-the-kirin-985-soc-features-and-ai-benchmark-ranking-revealed/",
+      "ampWebUrl": "https://www.gizmochina.com/2020/04/07/honor-confirms-the-kirin-985-soc-features-and-ai-benchmark-ranking-revealed/?amp",
+      "cdnAmpWebUrl": "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2020/04/07/honor-confirms-the-kirin-985-soc-features-and-ai-benchmark-ranking-revealed/?amp",
+      "publishedDateTime": "2020-04-07T06:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2020/04/kirin-985.jpg",
+          "width": 600,
+          "height": 337,
+          "title": "Honor confirms the Kirin 985 SoC, features and AI benchmark ranking revealed!",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-07-intel-pledges-50m-to-help-fight-covid-19.md",
+      "title": "Intel pledges $50m to help fight COVID-19",
+      "excerpt": "The University of Sydney has used Microsoft cognitive services to build the \"AI-infused bot\" that has been tackling between 200 and 400 individual student inquiries daily. Microsoft said each student is typically asking two to three questions. It said the bot provides the most appropriate answer to the question and, where necessary, directs the ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/intel-pledges-50m-to-help-fight-covid-19/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/intel-pledges-50m-to-help-fight-covid-19/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/intel-pledges-50m-to-help-fight-covid-19/",
+      "publishedDateTime": "2020-04-07T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/04/15/d734a519-076b-4e3d-8bfe-63dde72da3b4/thumbnail/1200x675/c14f1f558417c2eb9f6962e04f2a29df/thumb.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Intel pledges $50m to help fight COVID-19",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-07-cambridge-quantum-computing-performs-the-worlds-first-quantum-natural-language-processing-experiment.md",
       "title": "Cambridge Quantum Computing Performs the World's First Quantum Natural Language Processing Experiment",
       "excerpt": "This is the first time that natural language processing has been executed on a quantum computer. Furthermore, by achieving the results without relying on quantum RAM, CQC scientists have created a ...",
@@ -1168,88 +1258,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-06-todays-cache-duo-uses-ai-to-improve-calls-and-more.md",
-      "title": "Today’s cache | Duo uses AI to improve calls, and more",
-      "excerpt": "Google Duo is using AI technology from DeepMind to enhance call quality to fill gaps in transmission losses. In the US, Tesla’s engineers are using car parts to build ventilators for COVID-19 ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.thehindu.com/sci-tech/technology/todays-cache-duo-uses-ai-to-improve-calls-and-more/article31273477.ece",
-      "ampWebUrl": "https://www.thehindu.com/sci-tech/technology/todays-cache-duo-uses-ai-to-improve-calls-and-more/article31273477.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/todays-cache-duo-uses-ai-to-improve-calls-and-more/article31273477.ece/amp/",
-      "publishedDateTime": "2020-04-06T14:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hindu",
-        "domain": "thehindu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.thehindu.com/sci-tech/technology/6msqdv/article31273476.ece/ALTERNATES/LANDSCAPE_615/06THCACHEGOOGLEAI",
-          "width": 615,
-          "height": 384,
-          "title": "Today’s cache | Duo uses AI to improve calls, and more",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-06-robotic-5g-car-can-id-faces-check-for-fevers-and-make-deliveries.md",
-      "title": "Robotic 5G car can ID faces, check for fevers, and make deliveries",
-      "excerpt": "The 5G vehicle is part of the KuGaea Kun series developed by Cool High Technology, a Beijing-based maker of autonomous drones and cars. A self-driving version has been certified for Baidu’s Apollo autonomous open vehicle platform, taking advantage of Beijing’s 300-plus miles of self-driving test roads. Beijing Institute of Technology’s ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/06/robotic-5g-car-can-id-faces-check-for-fevers-and-make-deliveries/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/06/robotic-5g-car-can-id-faces-check-for-fevers-and-make-deliveries/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/06/robotic-5g-car-can-id-faces-check-for-fevers-and-make-deliveries/amp/",
-      "publishedDateTime": "2020-04-06T13:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/beijing5gcar.jpg?fit=2000%2C1000&strip=all",
-          "width": 2000,
-          "height": 1000,
-          "title": "Robotic 5G car can ID faces, check for fevers, and make deliveries",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

@@ -2,6 +2,88 @@
   "page": 108,
   "value": [
     {
+      "path": "_news/2020-01-20-intel-and-partners-are-using-computer-vision-to-help-save-antarcticas-penguins-from-extinction.md",
+      "title": "Intel and partners are using computer vision to help save Antarctica’s penguins from extinction",
+      "excerpt": "In search of a solution, an Intel-led group of tech companies developed a computer vision solution to help ecologists count the remaining penguins faster and more accurately than before.",
+      "heat": 77,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/01/20/intel-and-partners-are-using-computer-vision-to-help-save-antarcticas-penguins-from-extinction/",
+      "ampWebUrl": "https://venturebeat.com/2020/01/20/intel-and-partners-are-using-computer-vision-to-help-save-antarcticas-penguins-from-extinction/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/20/intel-and-partners-are-using-computer-vision-to-help-save-antarcticas-penguins-from-extinction/amp/",
+      "publishedDateTime": "2020-01-20T08:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/01/4435aca3-10d3-4e94-bce1-b9a5ec1a9557-e1579113904720.png?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Intel and partners are using computer vision to help save Antarctica’s penguins from extinction",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2020-01-20-airtel-teams-up-with-google-cloud-to-take-on-jio-microsoft-partnership.md",
+      "title": "Airtel Teams Up With Google Cloud To Take On Jio-Microsoft Partnership",
+      "excerpt": "In this partnership, Jio is also leveraging Microsoft’s speech and language cognitive services for its device ecosystem, providing support in 13 Indian languages, with the flexibility to add other languages. While both Google and Microsoft have entered into a partnership with Indian telcos, Amazon Web Services (AWS) is currently leading the ...",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://inc42.com/buzz/airtel-teams-up-with-google-cloud-to-take-on-jio-microsoft-partnership/",
+      "ampWebUrl": "https://inc42.com/buzz/airtel-teams-up-with-google-cloud-to-take-on-jio-microsoft-partnership/amp/",
+      "cdnAmpWebUrl": "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/airtel-teams-up-with-google-cloud-to-take-on-jio-microsoft-partnership/amp/",
+      "publishedDateTime": "2020-01-20T07:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "inc42.com",
+        "domain": "inc42.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i0.wp.com/cdn.inc42.com/wp-content/uploads/2020/01/Untitled-design-2020-01-20T211049.620.jpg?fit=1200%2C628&#038;ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": "Airtel Teams Up With Google Cloud To Take On Jio-Microsoft Partnership",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-01-20-12-ai-milestones-1-shakey-the-robot.md",
       "title": "12 AI Milestones: 1. Shakey The Robot",
       "excerpt": "from 1966 to 1972, SHAKEY was the world’s first mobile intelligent robot. According to the 2017 IEEE Milestone citation, it “could perceive its surroundings, infer implicit facts from explicit ones, create plans,",
@@ -975,94 +1057,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-01-19-why-agile-methodologies-miss-the-mark-for-ai-ml-projects.md",
-      "title": "Why Agile Methodologies Miss The Mark For AI & ML Projects",
-      "excerpt": "What drives AI and ML projects is not programmatic code, but rather the data from which learning must be derived. What is needed is a project management methodology that takes into account the data-centric needs of AI and application-focused uses of models.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/01/19/why-agile-methodologies-miss-the-mark-for-ai--ml-projects/",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/01/19/why-agile-methodologies-miss-the-mark-for-ai--ml-projects/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/01/19/why-agile-methodologies-miss-the-mark-for-ai--ml-projects/amp/",
-      "publishedDateTime": "2020-01-19T01:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e1a23e2a854780006e84fa0%2F0x0.jpg",
-          "width": 300,
-          "height": 300,
-          "title": "Why Agile Methodologies Miss The Mark For AI & ML Projects",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-19-2020-the-year-of-artificial-intelligence-for-your-business.md",
-      "title": "2020: The Year Of Artificial Intelligence For Your Business",
-      "excerpt": "Close to 40% of businesses use artificial intelligence (AI). This number was estimated at 5% to 10%, but a survey by IBM showed that we grossly underestimated the scale of AI’s existence. Most importantly, this number is set to grow to 80% to 90% over the next 18-24 months. Furthermore, AI specialists are the number one job role for 2020.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.entrepreneur.com/article/345112",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/345112",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/345112",
-      "publishedDateTime": "2020-01-18T19:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/20190109070104-shutterstock-529299211.jpeg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": "2020: The Year Of Artificial Intelligence For Your Business",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

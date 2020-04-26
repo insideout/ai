@@ -2,6 +2,80 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2020-04-03-top-artificial-intelligence-funding-and-investments-in-march-2020.md",
+      "title": "Top Artificial Intelligence Funding and Investments in March 2020",
+      "excerpt": "What Artificial Intelligence has in its baggage is known to everyone and ... Therefore, we have brought you some of the most recent and significant AI funding and investments of 2020. Waymo, Alphabet’s self-driving car unit, just raised billions of ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.analyticsinsight.net/top-artificial-intelligence-funding-and-investments-in-march-2020/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-02T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics Insight",
+        "domain": "analyticsinsight.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.analyticsinsight.net/wp-content/uploads/2020/04/software_robots-top-526940848.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": "Top Artificial Intelligence Funding and Investments in March 2020",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-03-your-face-is-going-places-you-may-not-like.md",
+      "title": "Your Face Is Going Places You May Not Like",
+      "excerpt": "In a study by the ACLU, Amazon’s Rekognition software accidentally matched 28 members of congress with mugshots in its database. The training set isn’t the only problem for recognition.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://hackaday.com/2019/01/02/your-face-is-going-places-you-may-not-like/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-02T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2019/01/Facial.jpg",
+          "width": 3000,
+          "height": 1815,
+          "title": "Your Face Is Going Places You May Not Like",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-02-using-ai-responsibly-to-fight-the-coronavirus-pandemic.md",
       "title": "Using AI responsibly to fight the coronavirus pandemic",
       "excerpt": "Mark Minevich is president of Going Global Ventures, an advisor at Boston Consulting Group, a digital fellow at IPsoft and a leading global AI expert and digital cognitive strategist and venture capitalist. Irakli Beridze is head of the Centre for AI and Robotics at the United Nations Interregional Crime and Justice Research Institute (UNICRI).",
@@ -975,97 +1049,6 @@
           "width": 1200,
           "height": 630,
           "title": "This AI startup rents out robots that can do human jobs amid the coronavirus pandemic",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-02-google-were-opening-code-search-for-go-angular-dart-flutter-tensorflow-and-more.md",
-      "title": "Google: We're opening Code Search for Go, Angular, Dart, Flutter, TensorFlow and more",
-      "excerpt": "Code Search or 'CS' for open-source Google projects for now supports Angular, Bazel, Dart, ExoPlayer, Firebase SDK, Flutter, Go, gVisor, Kythe, Nomulus, Outline, and Tensorflow – which represent a small portion of Google's open-source projects, but ones that open-source communities may benefit from search being available on their respective ...",
-      "heat": 109,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/google-were-opening-code-search-for-go-angular-dart-flutter-tensorflow-and-more/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-were-opening-code-search-for-go-angular-dart-flutter-tensorflow-and-more/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-were-opening-code-search-for-go-angular-dart-flutter-tensorflow-and-more/",
-      "publishedDateTime": "2020-04-02T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/2020/04/02/923a42ea-62f9-40aa-8fe4-82a59a5454d8/cs-opensource.png",
-          "width": 2082,
-          "height": 1292,
-          "title": "Google: We're opening Code Search for Go, Angular, Dart, Flutter, TensorFlow and more",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2020-04-02-why-robots-will-save-your-career-not-destroy-it.md",
-      "title": "Why Robots Will Save Your Career, Not Destroy It",
-      "excerpt": "AI, despite the challenges it poses for job seekers and the hiring process, is not a problem to be solved — it's a ray of hope.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/04/02/why-robots-will-save-your-career-not-destroy-it/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/04/02/why-robots-will-save-your-career-not-destroy-it/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/04/02/why-robots-will-save-your-career-not-destroy-it/amp/",
-      "publishedDateTime": "2020-04-02T06:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F04%2Fa-61.jpg",
-          "width": 640,
-          "height": 640,
-          "title": "Why Robots Will Save Your Career, Not Destroy It",
           "attribution": null
         }
       ],

@@ -2,6 +2,96 @@
   "page": 77,
   "value": [
     {
+      "path": "_news/2020-02-18-enveil-raises-10-million-for-enterprise-scale-homomorphic-encryption.md",
+      "title": "Enveil raises $10 million for enterprise-scale homomorphic encryption",
+      "excerpt": "Moreover, libraries like PySyft and tf-encrypted — which are built on Facebook’s PyTorch machine learning framework and TensorFlow, respectively — have made great strides in recent months. So, too, have abstraction layers like HE-Transformer, a backend for nGraph (Intel’s neural network compiler) that delivers leading performance on ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/02/18/enveil-raises-10-million-for-enterprise-scale-homomorphic-encryption/",
+      "ampWebUrl": "https://venturebeat.com/2020/02/18/enveil-raises-10-million-for-enterprise-scale-homomorphic-encryption/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/18/enveil-raises-10-million-for-enterprise-scale-homomorphic-encryption/amp/",
+      "publishedDateTime": "2020-02-18T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/11/GettyImages-1079012962-e1574180775599.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Enveil raises $10 million for enterprise-scale homomorphic encryption",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-18-can-ai-and-rpa-transform-legacy-systems.md",
+      "title": "Can AI And RPA Transform Legacy Systems?",
+      "excerpt": "AI and RPA are often mentioned in the same sentence as ML and IoT; they are touted as magical solutions that will transform the way we live and work. For companies with massive legacy tech platforms,",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/02/18/can-ai-and-rpa-transform-legacy-systems/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/02/18/can-ai-and-rpa-transform-legacy-systems/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/02/18/can-ai-and-rpa-transform-legacy-systems/amp/",
+      "publishedDateTime": "2020-02-18T04:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/711x399/https://specials-images.forbesimg.com/dam/imageserve/1187105635/960x0.jpg?fit=scale",
+          "width": 711,
+          "height": 399,
+          "title": "Can AI And RPA Transform Legacy Systems?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-02-18-google-funds-6-ai-driven-research-projects-in-india.md",
       "title": "Google funds 6 AI-driven research projects in India",
       "excerpt": "Google Research India will provide each team with funding and computational resources in addition to supporting the efforts with expertise in computer vision, natural language processing, and other deep learning techniques, the company said in a statement. \"We are increasingly seeing people apply AI to address big challenges. Therefore ...",
@@ -992,88 +1082,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-02-17-automated-facial-recognition-breaches-gdpr-says-eu-digital-chief.md",
-      "title": "Automated facial recognition breaches GDPR, says EU digital chief",
-      "excerpt": "The EU’s digital and competition chief has said that automated facial recognition breaches GDPR, as the technology fails to meet the regulation’s requirement for consent. Margrethe Vestager, the European Commission’s executive vice president for digital affairs, told reporters that “as it stands right now, GDPR would say ‘don’t ...",
-      "heat": 509,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/02/17/automated-facial-recognition-breaches-gdpr-says-eu-digital-chief/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/02/17/automated-facial-recognition-breaches-gdpr-says-eu-digital-chief/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/02/17/automated-facial-recognition-breaches-gdpr-says-eu-digital-chief/amp/",
-      "publishedDateTime": "2020-02-17T04:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/02/Untitled-design-14-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "Automated facial recognition breaches GDPR, says EU digital chief",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-02-17-80-of-chinese-banks-to-integrate-fintech-solutions-from-cloud-market-report.md",
-      "title": "80% of Chinese Banks to Integrate Fintech Solutions from Cloud Market: Report",
-      "excerpt": "China’s Fintech sector is known for quickly adopting a broad range of information technologies including cloud computing, Big Data, artificial intelligence (AI), mobile-based Internet solutions, and Internet of Things (IoT)-based applications, the IDC noted in its recent report on ongoing digital transformation efforts in China. The Chinese ...",
-      "heat": 76,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.crowdfundinsider.com/2020/02/157546-80-of-chinese-banks-to-integrate-fintech-solutions-from-cloud-market-report/",
-      "ampWebUrl": "https://www.crowdfundinsider.com/2020/02/157546-80-of-chinese-banks-to-integrate-fintech-solutions-from-cloud-market-report/amp/",
-      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/02/157546-80-of-chinese-banks-to-integrate-fintech-solutions-from-cloud-market-report/amp/",
-      "publishedDateTime": "2020-02-17T04:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crowdfund Insider",
-        "domain": "crowdfundinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2019/11/Beijing-China-2-600x599.jpeg",
-          "width": 600,
-          "height": 599,
-          "title": "80% of Chinese Banks to Integrate Fintech Solutions from Cloud Market: Report",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

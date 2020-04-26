@@ -2,6 +2,96 @@
   "page": 69,
   "value": [
     {
+      "path": "_news/2020-02-25-blackrock-intel-and-google-back-ai-chip-startup.md",
+      "title": "BlackRock, Intel and Google Back AI Chip Startup",
+      "excerpt": "Investors and technology giants eager to capitalize on the burgeoning field of chips that power artificial intelligence applications have poured capital into startups in the sector.",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wsj.com/articles/blackrock-intel-and-google-back-ai-chip-startup-11582628400",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-25T08:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-157302/social",
+          "width": 1280,
+          "height": 640,
+          "title": "BlackRock, Intel and Google Back AI Chip Startup",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2020-02-25-its-time-to-take-self-driving-storage-out-for-a-spin.md",
+      "title": "It's Time To Take 'Self-Driving' Storage Out For A Spin",
+      "excerpt": "We have solidly embarked on the journey to the \"self-driving\" storage system: a fully autonomous system capable of adapting its behavior in response to changing workloads.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/25/its-time-to-take-self-driving-storage-out-for-a-spin/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/25/its-time-to-take-self-driving-storage-out-for-a-spin/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/02/25/its-time-to-take-self-driving-storage-out-for-a-spin/amp/",
+      "publishedDateTime": "2020-02-25T07:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F02%2Fa-26-2.jpg",
+          "width": 640,
+          "height": 640,
+          "title": "It's Time To Take 'Self-Driving' Storage Out For A Spin",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2020-02-25-bosch-launches-ai-training-program-for-developers-and-managers.md",
       "title": "Bosch Launches AI Training Program for Developers and Managers",
       "excerpt": "The German industrial firm, known for home appliances, power tools, automotive parts and more, is training 20,000 employees, roughly 5% of its global workforce, in the use of AI. The education program will include an AI code of ethics, which the company published on Feb. 19.",
@@ -973,96 +1063,6 @@
           "width": 300,
           "height": 243,
           "title": "AI Android Teaching Assistant Gives Students Hands-on Robotics Experience",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-02-24-uk-police-are-using-ai-to-predict-who-could-become-violent-criminals.md",
-      "title": "UK police are using AI to predict who could become violent criminals",
-      "excerpt": "[Read: Predictive policing AI is a bigger scam than psychic detectives ... which was commissioned by the UK government’s Centre for Data Ethics. The report revealed major legal and ethical ...",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/02/24/uk-police-are-using-ai-to-predict-who-could-become-violent-criminals/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/02/24/uk-police-are-using-ai-to-predict-who-could-become-violent-criminals/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/02/24/uk-police-are-using-ai-to-predict-who-could-become-violent-criminals/amp/",
-      "publishedDateTime": "2020-02-24T13:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/02/Untitled-design-30-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "UK police are using AI to predict who could become violent criminals",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-02-24-this-robot-wants-to-help-stressed-out-teens.md",
-      "title": "This Robot Wants to Help Stressed-Out Teens",
-      "excerpt": "For instance, teens quickly told us that elaborate, AI humanoids were NOT the type of robot they wanted to interact ... We’ve also noticed that by inviting the teen to talk to the robot, teens in the environment seem to instinctively start talking to one another about their stress and experiences. I am gently calling this an \"invitation ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://in.pcmag.com/robotics-automation/135185/this-robot-wants-to-help-stressed-out-teens",
-      "ampWebUrl": "https://in.pcmag.com/robotics-automation/135185/this-robot-wants-to-help-stressed-out-teens?amp=1",
-      "cdnAmpWebUrl": "https://in-pcmag-com.cdn.ampproject.org/c/s/in.pcmag.com/robotics-automation/135185/this-robot-wants-to-help-stressed-out-teens?amp=1",
-      "publishedDateTime": "2020-02-24T13:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://sm.pcmag.com/t/pcmag_in/news/t/this-robot/this-robot-wants-to-help-stressed-out-teens_tpjf.620.jpg",
-          "width": 620,
-          "height": 348,
-          "title": "This Robot Wants to Help Stressed-Out Teens",
           "attribution": null
         }
       ],

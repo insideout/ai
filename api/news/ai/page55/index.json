@@ -2,6 +2,95 @@
   "page": 55,
   "value": [
     {
+      "path": "_news/2020-02-27-misconception-2-of-5-automated-machine-learning-will-unlock-enterprise-ai.md",
+      "title": "Misconception 2 (of 5): Automated Machine Learning Will Unlock Enterprise AI",
+      "excerpt": "AutoML holds real promise and will likely play an important role in Enterprise AI, but the confusion caused by unqualified assertions about AutoML can lead to grief.",
+      "heat": 101,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/27/misconception-2-of-5-automated-machine-learning-will-unlock-enterprise-ai/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/27/misconception-2-of-5-automated-machine-learning-will-unlock-enterprise-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/02/27/misconception-2-of-5-automated-machine-learning-will-unlock-enterprise-ai/amp/",
+      "publishedDateTime": "2020-02-27T04:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/711x464/https://specials-images.forbesimg.com/dam/imageserve/973718370/960x0.jpg?fit=scale",
+          "width": 711,
+          "height": 464,
+          "title": "Misconception 2 (of 5): Automated Machine Learning Will Unlock Enterprise AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-02-27-when-ai-cant-replace-a-worker-it-watches-them-instead.md",
+      "title": "When AI Can’t Replace a Worker, It Watches Them Instead",
+      "excerpt": "Denso’s use of Drishti shows how some jobs will be transformed by artificial intelligence even when they’re unlikely to be eliminated by AI anytime soon. Many jobs in manufacturing require dexterity and resourcefulness, for example, in ways that robots and software still can’t match. But advances in AI and sensors are providing new ways ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wired.com/story/when-ai-cant-replace-worker-watches-them-instead/",
+      "ampWebUrl": "https://www.wired.com/story/when-ai-cant-replace-worker-watches-them-instead/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/when-ai-cant-replace-worker-watches-them-instead/amp",
+      "publishedDateTime": "2020-02-27T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5e5738bcc880ec0008a52387/master/pass/Theme-Week-Wearables-Coral-Line-Working.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": "When AI Can’t Replace a Worker, It Watches Them Instead",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-02-27-one-in-five-would-trust-ai-over-politicians-in-brexit-negotiations-report.md",
       "title": "One in five would trust AI over politicians in Brexit negotiations – report",
       "excerpt": "More than a fifth of Britons would trust artificial intelligence (AI) to better handle political negotiations – including Brexit – over ... “On the one hand, consumers appear willing to trust the ruthless rationality and efficiency of AI when it comes to certain tasks. However, the fear of AI ‘taking over’ remains rife.",
@@ -1174,94 +1263,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-02-26-researchers-find-way-to-boost-self-supervised-ai-models-robustness.md",
-      "title": "Researchers find way to boost self-supervised AI models’ robustness",
-      "excerpt": "In self-supervised learning, an AI technique where the training data is automatically labeled by a feature extractor, the said extractor not uncommonly exploits low-level features (known as “shortcuts”) that cause it to ignore useful representations. In search of a technique that might help to remove those shortcuts autonomously ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/02/26/researchers-method-improving-self-supervised-ai-model-robustness/",
-      "ampWebUrl": "https://venturebeat.com/2020/02/26/researchers-method-improving-self-supervised-ai-model-robustness/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/26/researchers-method-improving-self-supervised-ai-model-robustness/amp/",
-      "publishedDateTime": "2020-02-26T08:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/10/2053dde0-ac3e-444d-af1b-67b978e397dc-1-e1582734322714.png?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Researchers find way to boost self-supervised AI models’ robustness",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-26-ai-needs-to-be-controlled-but-lazy-humans-may-not-be-up-to-the-job.md",
-      "title": "AI needs to be controlled. But lazy humans may not be up to the job",
-      "excerpt": "Artificial intelligence, for all its benefits, needs human oversight. Government reports, and experts all over the world have stressed the importance of keeping a human decision-maker in the loop when using AI. \"Human agency and oversight\" is the first key requirement laid out in the EU Commission's white paper on the regulation of AI ...",
-      "heat": 97,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/ai-needs-to-be-controlled-but-lazy-humans-may-not-be-up-to-the-job/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-needs-to-be-controlled-but-lazy-humans-may-not-be-up-to-the-job/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-needs-to-be-controlled-but-lazy-humans-may-not-be-up-to-the-job/",
-      "publishedDateTime": "2020-02-26T08:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/02/20/6ec3400c-4d6f-4edc-bbae-714003910df4/thumbnail/1200x675/633a5f0e0a9995b7384bbd620431291c/ai-strategy-how-the-eu-hopes-to-put-peop-5e4e5afadb1d010001ac32fe-1-feb-20-2020-12-22-36-poster.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "AI needs to be controlled. But lazy humans may not be up to the job",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,80 @@
   "page": 45,
   "value": [
     {
+      "path": "_news/2020-03-13-boosting-the-power-of-machine-learning.md",
+      "title": "Boosting the power of machine learning",
+      "excerpt": "Eigen Technologies Co-founder and CEO Dr Lewis Liu said “In the years we have worked with ING we have found them to have some of the most advanced thinking in the market on the application of machine learning in financial services, something that comes from their fantastic innovation culture.” “To have ING join us as both an investor and ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.ing.com/Newsroom/News/Boosting-the-power-of-machine-learning.htm",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-13T00:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ING",
+        "domain": "ing.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.ing.com/upload/d72ef16a-4651-440e-b6cf-d625a1bcb29f_orange-juice_1200x675.png",
+          "width": 1200,
+          "height": 675,
+          "title": "Boosting the power of machine learning",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-13-week-in-review-design-low-power.md",
+      "title": "Week In Review: Design, Low Power",
+      "excerpt": "Synopsys revealed DSO.ai (Design Space Optimization AI), an autonomous AI application that searches for optimization targets in very large solution spaces of chip design, inspired by the process of DeepMind’s game-playing AlphaZero. DSO.ai engines ingest ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://semiengineering.com/week-in-review-design-low-power-85/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-13T00:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Semiconductor Engineering",
+        "domain": "semiengineering.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i0.wp.com/semiengineering.com/wp-content/uploads/2019/05/iStock-509646667-brainchip.jpg?fit=663%2C527&#038;ssl=1",
+          "width": 663,
+          "height": 527,
+          "title": "Week In Review: Design, Low Power",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-13-infosys-ranked-a-leader-in-nelsonhalls-cognitive-and-self-healing-it-infrastructure-management-services-report-2020.md",
       "title": "Infosys Ranked a Leader in NelsonHall's Cognitive and Self-Healing IT Infrastructure Management Services Report 2020",
       "excerpt": "BENGALURU, India, March 13, 2020 /PRNewswire/ -- Infosys has been ranked a Leader in NelsonHall's Cognitive and Self-Healing IT Infrastructure Management Services report 2020. Infosys emerged as ...",
@@ -1019,80 +1093,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-12-swiss-re-launches-digital-market-center-supported-by-microsoft-data-analytics-ai-tools.md",
-      "title": "Swiss Re Launches Digital Market Center Supported by Microsoft Data Analytics, AI Tools",
-      "excerpt": "As part of the strategic alliance, Swiss Re will transform its internal operating platform by modernizing and moving it to the Azure cloud. This move will increase the efficiency and effectiveness of the core processes by leveraging the most advanced data processing and AI capabilities at scale. “Swiss Re’s alliance with Microsoft will help ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.insurancejournal.com/news/international/2020/03/12/560945.htm",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-12T04:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Insurance Journal",
-        "domain": "insurancejournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.insurancejournal.com/app/uploads/2017/03/business-technology-.jpg",
-          "width": 900,
-          "height": 615,
-          "title": "Swiss Re Launches Digital Market Center Supported by Microsoft Data Analytics, AI Tools",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-12-farewell-to-the-old-assembly-line-automation-is-changing-manufacturing-processes-in-the-automotive-industry.md",
-      "title": "Farewell to the old assembly line: Automation is changing manufacturing processes in the automotive industry",
-      "excerpt": "Instead, the vehicles move through production on driverless transport systems, also called autonomous guided vehicles ... the assembly stations that are currently available on autonomous transport systems. Algorithms and artificial intelligence support planning and make decision-making more efficient.” According to Uellendahl, the increased ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://roboticsandautomationnews.com/2020/03/12/farewell-to-the-old-assembly-line-automation-is-changing-manufacturing-processes-in-the-automobile-industry/31270/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-12T04:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Robotics & Automation News",
-        "domain": "roboticsandautomationnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://roboticsandautomationnews.com/wp-content/uploads/2020/03/automatica-2020_03_Flexible_Automobilfertigung-copy.jpg",
-          "width": 750,
-          "height": 500,
-          "title": "Farewell to the old assembly line: Automation is changing manufacturing processes in the automotive industry",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

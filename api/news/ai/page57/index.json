@@ -2,6 +2,95 @@
   "page": 57,
   "value": [
     {
+      "path": "_news/2020-02-25-new-algorithm-for-self-driving-vehicles-has-a-bold-collision-free-guarantee.md",
+      "title": "New algorithm for self-driving vehicles has a bold ‘collision-free guarantee’",
+      "excerpt": "Researchers have developed an algorithm that could stop self-driving vehicles from getting in crashes and traffic jams. The team from Northwestern University (NU) claims their invention is “the first decentralized algorithm with a collision-free, deadlock-free guarantee.” The algorithm divides the ground beneath the machines into a grid.",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/02/25/this-algorithm-for-self-driving-vehicles-comes-with-collision-free-guarantee/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/02/25/this-algorithm-for-self-driving-vehicles-comes-with-collision-free-guarantee/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/02/25/this-algorithm-for-self-driving-vehicles-comes-with-collision-free-guarantee/amp/",
+      "publishedDateTime": "2020-02-25T10:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/02/Untitled-design-33-1-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "New algorithm for self-driving vehicles has a bold ‘collision-free guarantee’",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2020-02-25-ai-the-view-from-a-silicon-valley-icon-a-podcast-with-tom-siebel-ceo-c3.md",
+      "title": "AI, The View From A Silicon Valley Icon - A Podcast With Tom Siebel CEO C3",
+      "excerpt": "Tom Siebel is one of the founding fathers of the silicon-valley software industry. So, what he thinks, how he builds for the next revolutions with technology, should be something we all pay attention to.",
+      "heat": 85,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbesinsights/2020/02/25/ai-the-view-from-a-silicon-valley-icona-podcast-with-tom-siebel-ceo-c3/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesinsights/2020/02/25/ai-the-view-from-a-silicon-valley-icona-podcast-with-tom-siebel-ceo-c3/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesinsights/2020/02/25/ai-the-view-from-a-silicon-valley-icona-podcast-with-tom-siebel-ceo-c3/amp/",
+      "publishedDateTime": "2020-02-25T10:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e5456577a0098000734243a%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D942%26cropY1%3D0%26cropY2%3D530",
+          "width": 942,
+          "height": 531,
+          "title": "AI, The View From A Silicon Valley Icon - A Podcast With Tom Siebel CEO C3",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-02-25-microsoft-to-open-azure-regions-in-spain-expands-telefonica-relationship.md",
       "title": "Microsoft to open Azure regions in Spain, expands Telefonica relationship",
       "excerpt": "In February 2019, Telefonica and Microsoft announced a partnership via which Telefonica would use Azure and Microsoft AI services as a base for its own AI-powered networking technology. The pair said they would be working together to identify AI, blockchain, 5G and edge computing opportunities. Today, the pair said they'd be working together on ...",
@@ -1206,87 +1295,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-25-artificial-intelligence-finds-compound-that-can-destroy-superbugs.md",
-      "title": "Artificial intelligence finds compound that can destroy superbugs",
-      "excerpt": "This isn’t the first time artificial intelligence has been tapped to process large amounts of information in order to find new arrangements of existing things. For example, the spice company McCormick has used IBM’s AI technology to develop new spice combinations for various meals. The same AI tech has also been used to create entirely new ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.slashgear.com/artificial-intelligence-finds-compound-that-can-destroy-superbugs-24611028/",
-      "ampWebUrl": "https://www.slashgear.com/artificial-intelligence-finds-compound-that-can-destroy-superbugs-24611028/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/artificial-intelligence-finds-compound-that-can-destroy-superbugs-24611028/amp/",
-      "publishedDateTime": "2020-02-24T17:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://scdn.slashgear.com/wp-content/uploads/2020/02/bacteria_main_petri_uns.jpg",
-          "width": 1440,
-          "height": 800,
-          "title": "Artificial intelligence finds compound that can destroy superbugs",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-25-artificial-intelligence-hub-planned-for-orange-county.md",
-      "title": "Artificial intelligence hub planned for Orange County",
-      "excerpt": "HIGHLAND FALLS – A local economic development agency has big ambitions to lure researchers and companies to the Village of Highland Falls to study artificial intelligence ... of tasks normally requiring human intelligence, including visual perception, speech recognition and decision-making. Robots, self-driving cars and missile systems ...",
-      "heat": 169,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.recordonline.com/news/20200224/artificial-intelligence-hub-planned-for-orange-county",
-      "ampWebUrl": "https://www.recordonline.com/news/20200224/artificial-intelligence-hub-planned-for-orange-county?template=ampart",
-      "cdnAmpWebUrl": "https://www-recordonline-com.cdn.ampproject.org/c/s/www.recordonline.com/news/20200224/artificial-intelligence-hub-planned-for-orange-county?template=ampart",
-      "publishedDateTime": "2020-02-24T16:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "recordonline.com",
-        "domain": "recordonline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.recordonline.com/apps/pbcsi.dll/bilde?Site=TH&Date=20200224&Category=NEWS&ArtNo=200229625&Ref=AR",
-          "width": 6000,
-          "height": 4000,
-          "title": "Artificial intelligence hub planned for Orange County",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

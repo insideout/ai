@@ -2,6 +2,89 @@
   "page": 64,
   "value": [
     {
+      "path": "_news/2020-02-18-esg-dell-emc-ready-solutions-for-ai-deep-learning-with-intel.md",
+      "title": "ESG: Dell EMC Ready Solutions for AI: Deep Learning with Intel",
+      "excerpt": "Organizations looking to leverage the power of AI face significant challenges, but what are the drivers behind these challenges? Document retention policy Hiring Kit: .Net developer Top cloud providers in 2020: AWS, Microsoft Azure, and Google Cloud ...",
+      "heat": 116,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/resource-library/whitepapers/esg-dell-emc-ready-solutions-for-ai-deep-learning-with-intel/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/resource-library/whitepapers/esg-dell-emc-ready-solutions-for-ai-deep-learning-with-intel/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/resource-library/whitepapers/esg-dell-emc-ready-solutions-for-ai-deep-learning-with-intel/",
+      "publishedDateTime": "2020-02-18T06:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-02-18-global-machine-learning-chip-market-to-garner-3785-billion-by-2025-at-408-cagr.md",
+      "title": "Global Machine Learning Chip Market to Garner $37.85 Billion by 2025, at 40.8% CAGR",
+      "excerpt": "Portland, Feb. 18, 2020 (GLOBE NEWSWIRE) -- According to the report published by Allied Market Research, the global machine learning chip market accounted for $3.46 billion in 2018 and is projected to reach $37.",
+      "heat": 73,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/global-machine-learning-chip-market-to-garner-3785-billion-by-2025-at-408-cagr-2020-02-18",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-18T06:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Global Machine Learning Chip Market to Garner $37.85 Billion by 2025, at 40.8% CAGR",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-02-18-google-revealed-to-have-acquired-the-most-ai-startups-since-2009.md",
       "title": "Google revealed to have acquired the most AI startups since 2009",
       "excerpt": "Coming in behind Google was Apple with 18 AI companies acquired for a total disclosed amount of $886 million, followed by Facebook with 12 for the disclosed cost of just over $1 billion. Apple’s acquisitions included Siri in 2010 and Realface in 2017, while Facebook bought Face.com in 2012 and Masquerade Technologies in 2016. Along with data ...",
@@ -1210,96 +1293,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-02-17-machine-learning-is-no-place-to-move-fast-and-break-things.md",
-      "title": "Machine Learning Is No Place To “Move Fast And Break Things”",
-      "excerpt": "Machine learning systems can be massively useful, but also fail critically in unforeseen ways. We need systems engineering in synergy with experimentation and innovation.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/alexanderlavin/2020/02/17/machine-learning-is-no-place-to-move-fast-and-break-things/",
-      "ampWebUrl": "https://www.forbes.com/sites/alexanderlavin/2020/02/17/machine-learning-is-no-place-to-move-fast-and-break-things/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alexanderlavin/2020/02/17/machine-learning-is-no-place-to-move-fast-and-break-things/amp/",
-      "publishedDateTime": "2020-02-17T08:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e48aadba854780006b17705%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Machine Learning Is No Place To “Move Fast And Break Things”",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-02-17-bridging-the-gender-gap-in-ai.md",
-      "title": "Bridging The Gender Gap In AI",
-      "excerpt": "The first step to bridge the gender gap in AI is awareness. By understanding the nature and significance of the gender bias, we can take meaningfully steps to bridge the divide.",
-      "heat": 109,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/falonfatemi/2020/02/17/bridging-the-gender-gap-in-ai/",
-      "ampWebUrl": "https://www.forbes.com/sites/falonfatemi/2020/02/17/bridging-the-gender-gap-in-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/falonfatemi/2020/02/17/bridging-the-gender-gap-in-ai/amp/",
-      "publishedDateTime": "2020-02-17T07:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e4a973bf133f40006290dbd%2F0x0.jpg",
-          "width": 1200,
-          "height": 801,
-          "title": "Bridging The Gender Gap In AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

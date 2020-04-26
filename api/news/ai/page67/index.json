@@ -2,6 +2,87 @@
   "page": 67,
   "value": [
     {
+      "path": "_news/2020-02-13-viziblezone-taps-ai-and-smartphone-data-to-alert-drivers-to-pedestrians.md",
+      "title": "Viziblezone taps AI and smartphone data to alert drivers to pedestrians",
+      "excerpt": "An intriguing solution emerged last year from Viziblezone, a startup within the Jerusalem-based investment platform OurCrowd’s Labs/02 incubator program. Using a combination of AI and machine learning models, smartphones, and commodity car hardware, it’s capable of alerting drivers about potential nearby hazards while helping them to avoid ...",
+      "heat": 97,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/02/13/viziblezone-taps-ai-and-smartphone-data-to-alert-drivers-of-pedestrians/",
+      "ampWebUrl": "https://venturebeat.com/2020/02/13/viziblezone-taps-ai-and-smartphone-data-to-alert-drivers-of-pedestrians/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/13/viziblezone-taps-ai-and-smartphone-data-to-alert-drivers-of-pedestrians/amp/",
+      "publishedDateTime": "2020-02-13T09:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/02/maxresdefault-3-e1581578338376.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Viziblezone taps AI and smartphone data to alert drivers to pedestrians",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-13-ais-healthcare-promise-will-serve-patients-and-more.md",
+      "title": "AI’s Healthcare Promise Will Serve Patients — and More",
+      "excerpt": "The question: “As healthcare organizations invest in artificial intelligence technologies, in what areas can they reap the most immediate benefits?” Scott Nelson, Founder, CEO, CTO, Reuleaux Technology, agrees. “Without question, the most immediate AND impactful application of AI in healthcare will be patient engagement/behavior during ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cio.com/article/3519915/ais-healthcare-promise-will-serve-patients-and-more.html",
+      "ampWebUrl": "https://www.cio.com/article/3519915/ais-healthcare-promise-will-serve-patients-and-more.amp.html",
+      "cdnAmpWebUrl": "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/3519915/ais-healthcare-promise-will-serve-patients-and-more.amp.html",
+      "publishedDateTime": "2020-02-13T08:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CIO",
+        "domain": "cio.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2020/02/istock-1139923894-100831551-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "AI’s Healthcare Promise Will Serve Patients — and More",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2020-02-13-how-is-your-company-managing-its-ai-and-ml-initiatives.md",
       "title": "How is your company managing its AI and ML initiatives?",
       "excerpt": "SEE: Managing AI and ML in the enterprise 2019: Tech leaders expect more difficulty than previous ... Top cloud providers in 2020: AWS, Microsoft Azure, and Google Cloud, hybrid, SaaS players",
@@ -1190,97 +1271,6 @@
           "width": 620,
           "height": 348,
           "title": "Healthcare Algorithms Are Biased, and the Results Can Be Deadly",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-02-12-ibm-highlights-new-approach-to-infuse-knowledge-into-nlp-models.md",
-      "title": "IBM highlights new approach to infuse knowledge into NLP models",
-      "excerpt": "The research announced at the AAAI-20 Conference in New York gives computer systems the ability to better comprehend and infer from natural language. Researchers from the MIT-IBM Watson AI Lab, Tulane University and the University of Illinois this week unveiled research that allows a computer to more closely replicate human-based reading ...",
-      "heat": 76,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/ibm-highlights-new-approach-to-infuse-knowledge-into-nlp-models/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ibm-highlights-new-approach-to-infuse-knowledge-into-nlp-models/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ibm-highlights-new-approach-to-infuse-knowledge-into-nlp-models/",
-      "publishedDateTime": "2020-02-12T13:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr3.cbsistatic.com/hub/i/r/2019/02/12/cdda909e-f963-4538-a3e8-dd84cc224515/resize/1200x/bf661506ae11de07f865681a9fcae5bc/ibm-watson-940x705.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": "IBM highlights new approach to infuse knowledge into NLP models",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "IBM AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-02-12-artificial-intelligence-ai-in-healthcare-market-to-register-high-revenue-growth-at-519-cagr-by-2023.md",
-      "title": "Artificial Intelligence (AI) in Healthcare Market To Register High Revenue Growth At 51.9% CAGR by 2023",
-      "excerpt": "Healthcare Artificial Intelligence (AI) Market Scenario As per a report published by Market Research Future (MRFR), the global healthcare artificial intelligence market is likely to capture an impressive CAGR of 51.",
-      "heat": 123,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-to-register-high-revenue-growth-at-519-cagr-by-2023-2020-02-12",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-12T12:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Artificial Intelligence (AI) in Healthcare Market To Register High Revenue Growth At 51.9% CAGR by 2023",
           "attribution": null
         }
       ],

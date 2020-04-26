@@ -2,6 +2,97 @@
   "page": 97,
   "value": [
     {
+      "path": "_news/2020-01-12-microsoft-outsourced-skype-cortana-voice-analysis-to-china-with-virtually-no-security-in-place-report.md",
+      "title": "Microsoft Outsourced Skype, Cortana Voice Analysis to China With Virtually No Security in Place: Report",
+      "excerpt": "According to the Guardian, workers who were tasked with transcribing and vetting these clips in order to improve Microsoft’s voice-recognition technology were given no cybersecurity support to keep the recordings from theft or seizure by governments. A contractor on the project, who was based out of Beijing, told the paper that new hires ...",
+      "heat": 68,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://gizmodo.com/microsoft-outsourced-skype-cortana-voice-analysis-to-c-1840935163",
+      "ampWebUrl": "https://gizmodo.com/microsoft-outsourced-skype-cortana-voice-analysis-to-c-1840935163/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/microsoft-outsourced-skype-cortana-voice-analysis-to-c-1840935163/amp",
+      "publishedDateTime": "2020-01-12T04:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/s--yLbSiilu--/c_scale,f_auto,fl_progressive,q_80,w_800/rnlvvsunsjuyaznjm5th.jpg",
+          "width": 800,
+          "height": 450,
+          "title": "Microsoft Outsourced Skype, Cortana Voice Analysis to China With Virtually No Security in Place: Report",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-01-12-artificial-intelligence-how-to-measure-the-i-in-ai.md",
+      "title": "Artificial intelligence: How to measure the ‘I’ in AI",
+      "excerpt": "Neural network-based models, also known as connectionist AI ... (Note: Some AI researchers, such as computer scientist Rich Sutton, believe that the true direction for artificial intelligence research should be methods that can scale with the availability of data and compute resources.) In the paper, Chollet presents the Abstraction Reasoning ...",
+      "heat": 86,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/syndication/2020/01/12/artificial-intelligence-how-to-measure-the-i-in-ai/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-12T01:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/01/1-copy-copy-1-796x417.jpg",
+          "width": 796,
+          "height": 417,
+          "title": "Artificial intelligence: How to measure the ‘I’ in AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2020-01-12-the-white-houses-new-ai-principles-wont-solve-regulatory-problems.md",
       "title": "The White House’s new AI principles won’t solve regulatory problems",
       "excerpt": "The principles themselves address some of the concerns raised by the AI ethics community and academics who study the effects of technology on society. One such principle calls for lawmakers to consider whether the technology will “introduce real-world bias that produces discriminatory outcomes,” echoing the rallying cries of academics who ...",
@@ -1226,80 +1317,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-01-09-microsoft-announces-canadian-azure-availability-zone-and-azure-expressroute-in-vancouver.md",
-      "title": "Microsoft announces Canadian Azure Availability Zone, and Azure ExpressRoute in Vancouver",
-      "excerpt": "Azure ExpressRoutes, a service that provides a private connection between an organization ... Users will be able to enter questions about the city’s services and receive immediate answers in a conversational format. Ottawa will begin piloting its new 311 AI chatbot in the first quarter of 2020. Sanders also said the city is experimenting ...",
-      "heat": 80,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.itworldcanada.com/article/microsoft-announces-new-azure-availability-zone-and-azure-expressroute-in-vancouver/425868",
-      "ampWebUrl": "https://www.itworldcanada.com/article/microsoft-announces-new-azure-availability-zone-and-azure-expressroute-in-vancouver/425868?amp=1",
-      "cdnAmpWebUrl": "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/microsoft-announces-new-azure-availability-zone-and-azure-expressroute-in-vancouver/425868?amp=1",
-      "publishedDateTime": "2020-01-09T13:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT World Canada",
-        "domain": "itworldcanada.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.itworldcanada.com/wp-content/uploads/2020/01/Microsoft-envision-alysa-e1578600806775-620x250.jpg",
-          "width": 620,
-          "height": 250,
-          "title": "Microsoft announces Canadian Azure Availability Zone, and Azure ExpressRoute in Vancouver",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-09-ai-for-ai-evaluating-the-opportunity-for-embedded-ai-in-data-productivity-tools.md",
-      "title": "AI for AI - evaluating the opportunity for embedded AI in data productivity tools",
-      "excerpt": "This is the only comment that mentions ethics; otherwise, it has nothing to do with the topic. I just wanted to point out fifty-nine out of sixty prognosticators overlooked the one thing is going to be red-hot in 2020. Yaffa Cohen-Ifrah, CMO and Head of Corporate Communications, Sapiens: AI enables insurers to better utilize the troves of data ...",
-      "heat": 64,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://diginomica.com/ai-ai-evaluating-opportunity-embedded-ai-data-productivity-tools",
-      "ampWebUrl": "https://diginomica.com/ai-ai-evaluating-opportunity-embedded-ai-data-productivity-tools?amp",
-      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/ai-ai-evaluating-opportunity-embedded-ai-data-productivity-tools?amp",
-      "publishedDateTime": "2020-01-09T12:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Diginomica",
-        "domain": "diginomica.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://diginomica.com/sites/default/files/images/2014-11/magnifying-glass.jpg",
-          "width": 1694,
-          "height": 1122,
-          "title": "AI for AI - evaluating the opportunity for embedded AI in data productivity tools",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

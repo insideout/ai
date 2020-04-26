@@ -2,6 +2,96 @@
   "page": 119,
   "value": [
     {
+      "path": "_news/2020-01-07-waymos-autonomous-cars-have-driven-20-million-miles-on-public-roads.md",
+      "title": "Waymo’s autonomous cars have driven 20 million miles on public roads",
+      "excerpt": "The updated metric puts Waymo far ahead of rivals like Yandex and Baidu, whose cars had driven ... In late 2017, the cofounder of Cruise, GM’s self-driving unit, told investors it was on the ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/01/06/waymos-autonomous-cars-have-driven-20-million-miles-on-public-roads/",
+      "ampWebUrl": "https://venturebeat.com/2020/01/06/waymos-autonomous-cars-have-driven-20-million-miles-on-public-roads/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/06/waymos-autonomous-cars-have-driven-20-million-miles-on-public-roads/amp/",
+      "publishedDateTime": "2020-01-06T19:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/09/waymo-ipace-e1572290208222.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Waymo’s autonomous cars have driven 20 million miles on public roads",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2020-01-07-samsung-envisions-even-more-personal-consumer-tech-at-ces-2020-including-a-cute-rolling-robot.md",
+      "title": "Samsung envisions even more personal consumer tech at CES 2020 -- including a cute, rolling robot",
+      "excerpt": "The \"Age of Experience\" includes companion robots, AI-powered homes and smart cities ... more enjoyable and more meaningful.\" \"2020 will start a new era in tech,\" he said during his presentation.",
+      "heat": 76,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnet.com/news/samsung-co-ceo-hs-kim-envisions-more-personalized-consumer-tech-at-ces-2020/",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/samsung-co-ceo-hs-kim-envisions-more-personalized-consumer-tech-at-ces-2020/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/samsung-co-ceo-hs-kim-envisions-more-personalized-consumer-tech-at-ces-2020/",
+      "publishedDateTime": "2020-01-06T19:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cnet3.cbsistatic.com/img/QUF4DnSN92F_axDWPufG1xnxWjA=/756x567/2020/01/07/1e7e478d-657b-4055-a2a1-23cf37958d73/hs-kim-ces-2020-keynote-main-1.jpg",
+          "width": 756,
+          "height": 567,
+          "title": "Samsung envisions even more personal consumer tech at CES 2020 -- including a cute, rolling robot",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-01-07-ces-2020-intel-previews-tiger-lake-mobile-processors-and-discrete-gpu.md",
       "title": "CES 2020: Intel previews Tiger Lake mobile processors and discrete GPU",
       "excerpt": "AI accelerators, and discrete-level integrated graphics based on the new Intel Xe graphics architecture,\" the company said. The first Tiger Lake systems are expected to ship later this year. Intel also offered a preview of the first Xe-based discrete GPU ...",
@@ -974,96 +1064,6 @@
           "width": 800,
           "height": 581,
           "title": "Seismic horizons detection using computer vision",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-01-03-why-baidu-is-a-better-ai-stock-than-google.md",
-      "title": "Why Baidu Is a Better AI Stock Than Google",
-      "excerpt": "It assigned Baidu to the development of self-driving cars, Alibaba to smart cities, Tencent to digital healthcare, and iFlyTek to voice recognition. Baidu also launched a state-backed engineering laboratory for deep learning technologies like computer vision, machine hearing, biometric identification, and human-computer interactions.",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.fool.com/investing/2020/01/03/why-baidu-is-a-better-ai-stock-than-google.aspx",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/01/03/why-baidu-is-a-better-ai-stock-than-google.aspx",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/01/03/why-baidu-is-a-better-ai-stock-than-google.aspx",
-      "publishedDateTime": "2020-01-03T09:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F552239%2Fgettyimages-664246660.jpg&w=700&op=resize",
-          "width": 700,
-          "height": 525,
-          "title": "Why Baidu Is a Better AI Stock Than Google",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-01-03-snapchat-quietly-acquired-ai-factory-the-company-behind-its-new-cameos-feature-for-166m.md",
-      "title": "Snapchat quietly acquired AI Factory, the company behind its new Cameos feature, for $166M",
-      "excerpt": "The company has acquired AI Factory, a computer vision startup that Snap had worked with to create Snapchat’s new Cameos animated selfie-based video feature, for a price believed to be in the ...",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/01/03/snapchat-quietly-acquired-ai-factory-the-company-behind-its-new-cameos-feature-for-166m/",
-      "ampWebUrl": "https://techcrunch.com/2020/01/03/snapchat-quietly-acquired-ai-factory-the-company-behind-its-new-cameos-feature-for-166m/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/03/snapchat-quietly-acquired-ai-factory-the-company-behind-its-new-cameos-feature-for-166m/amp/",
-      "publishedDateTime": "2020-01-03T09:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/12/Snapchat-Cameos.png?w=1024",
-          "width": 1024,
-          "height": 553,
-          "title": "Snapchat quietly acquired AI Factory, the company behind its new Cameos feature, for $166M",
           "attribution": null
         }
       ],

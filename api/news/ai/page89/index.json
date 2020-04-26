@@ -2,6 +2,87 @@
   "page": 89,
   "value": [
     {
+      "path": "_news/2020-01-21-varicent-software-acquires-augmented-intelligence-company-symonai.md",
+      "title": "Varicent Software Acquires Augmented Intelligence Company Symon.AI",
+      "excerpt": "Varicent, the leading provider of next generation Sales Performance Management (SPM), today announced that it has acquired Symon.AI, a visionary technology platform built on sophisticated Natural Language and Machine Learning algorithms that provide easy to use,",
+      "heat": 129,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/varicent-software-acquires-augmented-intelligence-company-symonai-2020-01-21-12159517",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-21T08:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Varicent Software Acquires Augmented Intelligence Company Symon.AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2020-01-21-philips-new-oled805-and-oled855-tvs-will-use-ai-power-to-pimp-your-picture.md",
+      "title": "Philips' new OLED805 and OLED855 TVs will use AI power to pimp your picture",
+      "excerpt": "Philips has revealed its first wave of new OLED TVs for 2020 – and it's going all-in on AI picture ... OLED855 and OLED805 televisions their debuts. Essentially identical in terms of specs aside from the style of their respective stands (the 805 has a two-legged \"chamfered stand\" while the 855 has a central mount), both make use of the ...",
+      "heat": 145,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techradar.com/news/philips-new-oled805-and-oled855-tvs-will-use-ai-power-to-pimp-your-picture",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-21T08:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-01-21-berkshire-grey-raises-263m-to-fuel-global-expansion-of-logistics-robotics.md",
       "title": "Berkshire Grey raises $263M to fuel global expansion of logistics robotics",
       "excerpt": "With technologies such as artificial intelligence, computer vision, machine learning, advanced sensing, novel gripping, and robotics, the company said it can handle “the broadest assortment of products, packaging, and parcels – and all while continuously improving speed and performance through autonomous learning.” The company said its ...",
@@ -1190,95 +1271,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-01-20-interpreting-3d-seismic-data-automatically-using-amazon-sagemaker.md",
-      "title": "Interpreting 3D seismic data automatically using Amazon SageMaker",
-      "excerpt": "Interpreting 3D seismic data correctly helps identify geological features that may hold or trap oil and gas deposits. Amazon SageMaker and Apache MXNet on AWS can automate horizon picking using deep learning techniques. In this post, I use these services to build and train a custom deep-learning model",
-      "heat": 109,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/interpreting-3d-seismic-data-automatically-using-amazon-sagemaker/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-20T09:49:48-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/06/12/seismic-1.gif",
-          "width": 600,
-          "height": 424,
-          "title": "Interpreting 3D seismic data automatically using Amazon SageMaker",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-20-google-boss-sundar-pichai-calls-for-ai-regulation.md",
-      "title": "Google boss Sundar Pichai calls for AI regulation",
-      "excerpt": "The head of Google and parent company Alphabet has called for artificial intelligence (AI) to be regulated. Writing in the Financial Times, Sundar Pichai said it was \"too important not to\" impose regulation but argued for \"a sensible approach\". He said that individual areas of AI development, like self-driving cars and health tech, required ...",
-      "heat": 287,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.bbc.com/news/technology-51178198",
-      "ampWebUrl": "https://www.bbc.com/news/amp/technology-51178198",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-51178198",
-      "publishedDateTime": "2020-01-20T08:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/11749/production/_110579417_gettyimages-1051617224.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": "Google boss Sundar Pichai calls for AI regulation",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

@@ -1,28 +1,28 @@
 ---
 category: news
 title: "Auditoria.AI Raises $6 Million and Introduces SmartFlow Skills to Power the \"Self-Driving\" Finance Back Office"
-excerpt: "SANTA CLARA, Calif., April 22, 2020 /PRNewswire/ -- today announced SmartFlow Skills, a groundbreaking new SaaS solution that addresses the most pressing challenges of the enterprise finance back office."
-publishedDateTime: 2020-04-22T13:38:00Z
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/auditoria-ai-raises-6-million-and-introduces-smartflow-skills-to-power-the-self-driving-finance/article_2a4185c6-6b31-5968-b616-a1b081e1a222.html"
+excerpt: "SANTA CLARA, Calif., April 22, 2020 /PRNewswire/ -- Auditoria.AI today announced SmartFlow Skills, a groundbreaking new SaaS solution that"
+publishedDateTime: 2020-04-22T13:05:00Z
+webUrl: "https://markets.businessinsider.com/news/stocks/auditoria-ai-raises-6-million-and-introduces-smartflow-skills-to-power-the-self-driving-finance-back-office-1029117853"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/auditoria-ai-raises-6-million-and-introduces-smartflow-skills-to-power-the-self-driving-finance-back-office-1029117853"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/auditoria-ai-raises-6-million-and-introduces-smartflow-skills-to-power-the-self-driving-finance-back-office-1029117853"
 type: article
-quality: 19
-heat: 19
+quality: 49
+heat: 49
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-    width: 1280
-    height: 720
-    title: "Auditoria.AI Raises $6 Million and Introduces SmartFlow Skills to Power the \"Self-Driving\" Finance Back Office"
-
-secured: "bT/hW4+Um3OmdB2UfzS4Gx59Ik6zH0UgMAgTtZv1ung0hwfheufWQ9ydeteHY5m3gWJTvR9al/2zrnDiF+N4y3v4jwxzbEWMFPvfiSk7sFc08cFv4E/DyDF5+XI8jflyBWP9qjkV6T5kQtu/6B3zYQc00P6R2LBeemzCj5vBwcEwMarTK3Nn8oWXI1OU0V4wiyGsaAl1K6sp31YZ4oth8wfh/l6bwJt82piLsrh//9Jg9JDaNszhx0sGsXi22QAmIMMXpCzTZBHucUoGL5027iQN2vANdiCRZsCifYhijR0VLpq2HIQoNkgCHsQa9YA/;yw7o2RwLQx9pERTvHOA4KA=="
+secured: "wACMi9vQox4q1H7gCxRKQa/xByea1bxh79eeZC//1Ufs+xb506873k4VKXLXc5nUO30txfUqAX0vNNYkYUDr2y+AzR6YVp0ZAhp5Qr69GTd/CptOQdNVEyi9UqzBVgsEAIdTmAXD8SvVWXEGIupaD/2DVDfhxawdekI0agdyVODtfkzw2lXOe5w6IqNqGpEhyQ2rzTBWIBhgCYsnz0HBVtAAsc2ehacTQBPp9dF2G+3uOgm5T2foxNjbD+jYjZMIg2p+Do6RCKKMK1SVd2MsgP0JXJWCNzlewm2EWvD0QQAc85Zpo40/EyFyw+m4qO7Y;EGcTxu/bqPb4gANP2uaYTA=="
 ---
 

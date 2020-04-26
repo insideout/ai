@@ -2,6 +2,94 @@
   "page": 56,
   "value": [
     {
+      "path": "_news/2020-02-26-researchers-find-way-to-boost-self-supervised-ai-models-robustness.md",
+      "title": "Researchers find way to boost self-supervised AI models’ robustness",
+      "excerpt": "In self-supervised learning, an AI technique where the training data is automatically labeled by a feature extractor, the said extractor not uncommonly exploits low-level features (known as “shortcuts”) that cause it to ignore useful representations. In search of a technique that might help to remove those shortcuts autonomously ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/02/26/researchers-method-improving-self-supervised-ai-model-robustness/",
+      "ampWebUrl": "https://venturebeat.com/2020/02/26/researchers-method-improving-self-supervised-ai-model-robustness/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/26/researchers-method-improving-self-supervised-ai-model-robustness/amp/",
+      "publishedDateTime": "2020-02-26T08:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/10/2053dde0-ac3e-444d-af1b-67b978e397dc-1-e1582734322714.png?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Researchers find way to boost self-supervised AI models’ robustness",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-26-ai-needs-to-be-controlled-but-lazy-humans-may-not-be-up-to-the-job.md",
+      "title": "AI needs to be controlled. But lazy humans may not be up to the job",
+      "excerpt": "Artificial intelligence, for all its benefits, needs human oversight. Government reports, and experts all over the world have stressed the importance of keeping a human decision-maker in the loop when using AI. \"Human agency and oversight\" is the first key requirement laid out in the EU Commission's white paper on the regulation of AI ...",
+      "heat": 97,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/ai-needs-to-be-controlled-but-lazy-humans-may-not-be-up-to-the-job/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-needs-to-be-controlled-but-lazy-humans-may-not-be-up-to-the-job/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-needs-to-be-controlled-but-lazy-humans-may-not-be-up-to-the-job/",
+      "publishedDateTime": "2020-02-26T08:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/02/20/6ec3400c-4d6f-4edc-bbae-714003910df4/thumbnail/1200x675/633a5f0e0a9995b7384bbd620431291c/ai-strategy-how-the-eu-hopes-to-put-peop-5e4e5afadb1d010001ac32fe-1-feb-20-2020-12-22-36-poster.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "AI needs to be controlled. But lazy humans may not be up to the job",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-02-26-better-buy-ibm-vs-google.md",
       "title": "Better Buy: IBM vs. Google",
       "excerpt": "The cloud and cognitive software unit houses various cloud ... which competes against larger platforms like Amazon (NASDAQ:AMZN) Web Services (AWS), Microsoft's (NASDAQ:MSFT) Azure, and Google Cloud. Its global business services unit offers IT and ...",
@@ -1172,95 +1260,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-02-25-new-algorithm-for-self-driving-vehicles-has-a-bold-collision-free-guarantee.md",
-      "title": "New algorithm for self-driving vehicles has a bold ‘collision-free guarantee’",
-      "excerpt": "Researchers have developed an algorithm that could stop self-driving vehicles from getting in crashes and traffic jams. The team from Northwestern University (NU) claims their invention is “the first decentralized algorithm with a collision-free, deadlock-free guarantee.” The algorithm divides the ground beneath the machines into a grid.",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/02/25/this-algorithm-for-self-driving-vehicles-comes-with-collision-free-guarantee/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/02/25/this-algorithm-for-self-driving-vehicles-comes-with-collision-free-guarantee/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/02/25/this-algorithm-for-self-driving-vehicles-comes-with-collision-free-guarantee/amp/",
-      "publishedDateTime": "2020-02-25T10:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/02/Untitled-design-33-1-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "New algorithm for self-driving vehicles has a bold ‘collision-free guarantee’",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-02-25-ai-the-view-from-a-silicon-valley-icon-a-podcast-with-tom-siebel-ceo-c3.md",
-      "title": "AI, The View From A Silicon Valley Icon - A Podcast With Tom Siebel CEO C3",
-      "excerpt": "Tom Siebel is one of the founding fathers of the silicon-valley software industry. So, what he thinks, how he builds for the next revolutions with technology, should be something we all pay attention to.",
-      "heat": 85,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbesinsights/2020/02/25/ai-the-view-from-a-silicon-valley-icona-podcast-with-tom-siebel-ceo-c3/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesinsights/2020/02/25/ai-the-view-from-a-silicon-valley-icona-podcast-with-tom-siebel-ceo-c3/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesinsights/2020/02/25/ai-the-view-from-a-silicon-valley-icona-podcast-with-tom-siebel-ceo-c3/amp/",
-      "publishedDateTime": "2020-02-25T10:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e5456577a0098000734243a%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D942%26cropY1%3D0%26cropY2%3D530",
-          "width": 942,
-          "height": 531,
-          "title": "AI, The View From A Silicon Valley Icon - A Podcast With Tom Siebel CEO C3",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

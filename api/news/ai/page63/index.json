@@ -2,6 +2,89 @@
   "page": 63,
   "value": [
     {
+      "path": "_news/2020-02-19-this-startup-is-using-ai-to-transform-industrial-quality-inspections.md",
+      "title": "This Startup Is Using AI To Transform Industrial Quality Inspections",
+      "excerpt": "Neurala's Brain Builder platform leverages artificial intelligence to make revolutionary leaps in machine vision industrial inspection technology.",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/jimvinoski/2020/02/19/this-startup-is-using-ai-to-transform-industrial-quality-inspections/",
+      "ampWebUrl": "https://www.forbes.com/sites/jimvinoski/2020/02/19/this-startup-is-using-ai-to-transform-industrial-quality-inspections/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jimvinoski/2020/02/19/this-startup-is-using-ai-to-transform-industrial-quality-inspections/amp/",
+      "publishedDateTime": "2020-02-19T04:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e4c97476895e0000683937c%2F0x0.jpg",
+          "width": 1200,
+          "height": 836,
+          "title": "This Startup Is Using AI To Transform Industrial Quality Inspections",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-02-19-artificial-intelligence-and-machine-learning-in-the-operating-room.md",
+      "title": "Artificial Intelligence and Machine Learning in the Operating Room",
+      "excerpt": "Most applications of artificial intelligence (AI) and machine learning technology provide only data to physicians, leaving the doctors to form a judgment on how to proceed. Because AI doesn’t actually perform any procedure or prescribe a course of medication, the software that diagnoses health problems does not have to pass a randomized ...",
+      "heat": 76,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://247wallst.com/healthcare-economy/2020/02/19/artificial-intelligence-and-machine-learning-in-the-operating-room/",
+      "ampWebUrl": "https://247wallst.com/healthcare-economy/2020/02/19/artificial-intelligence-and-machine-learning-in-the-operating-room/amp/",
+      "cdnAmpWebUrl": "https://247wallst-com.cdn.ampproject.org/c/s/247wallst.com/healthcare-economy/2020/02/19/artificial-intelligence-and-machine-learning-in-the-operating-room/amp/",
+      "publishedDateTime": "2020-02-19T04:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "24/7 Wall St",
+        "domain": "247wallst.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://247wallst.files.wordpress.com/2020/01/imageforentry19-gsk.jpg?w=1200",
+          "width": 1200,
+          "height": 675,
+          "title": "Artificial Intelligence and Machine Learning in the Operating Room",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-02-19-bitcoins-guardian-angel-inside-coinbase-billionaire-brian-armstrongs-plan-to-make-crypto-safe-for-all.md",
       "title": "Bitcoin’s Guardian Angel: Inside Coinbase Billionaire Brian Armstrong’s Plan To Make Crypto Safe For All",
       "excerpt": "For now, Coinbase looks like a casino, but founder Brian Armstrong sees it as just the beginning of a financial liberation of the planet.",
@@ -1179,89 +1262,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-02-18-esg-dell-emc-ready-solutions-for-ai-deep-learning-with-intel.md",
-      "title": "ESG: Dell EMC Ready Solutions for AI: Deep Learning with Intel",
-      "excerpt": "Organizations looking to leverage the power of AI face significant challenges, but what are the drivers behind these challenges? Document retention policy Hiring Kit: .Net developer Top cloud providers in 2020: AWS, Microsoft Azure, and Google Cloud ...",
-      "heat": 116,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/resource-library/whitepapers/esg-dell-emc-ready-solutions-for-ai-deep-learning-with-intel/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/resource-library/whitepapers/esg-dell-emc-ready-solutions-for-ai-deep-learning-with-intel/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/resource-library/whitepapers/esg-dell-emc-ready-solutions-for-ai-deep-learning-with-intel/",
-      "publishedDateTime": "2020-02-18T06:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-02-18-global-machine-learning-chip-market-to-garner-3785-billion-by-2025-at-408-cagr.md",
-      "title": "Global Machine Learning Chip Market to Garner $37.85 Billion by 2025, at 40.8% CAGR",
-      "excerpt": "Portland, Feb. 18, 2020 (GLOBE NEWSWIRE) -- According to the report published by Allied Market Research, the global machine learning chip market accounted for $3.46 billion in 2018 and is projected to reach $37.",
-      "heat": 73,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/global-machine-learning-chip-market-to-garner-3785-billion-by-2025-at-408-cagr-2020-02-18",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-18T06:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Global Machine Learning Chip Market to Garner $37.85 Billion by 2025, at 40.8% CAGR",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

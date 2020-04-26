@@ -2,6 +2,88 @@
   "page": 114,
   "value": [
     {
+      "path": "_news/2020-01-15-marscat-robot-is-more-project-than-pet.md",
+      "title": "MarsCat robot is more project than pet",
+      "excerpt": "There's a growing fear that artificial intelligence combined with robotics will displace the value of humans in many contexts. But could these trends also apply to our traditional four-legged canine and feline companions? After its splash at CES 2020, I had an opportunity to get up close this week with two prototypes of the MarsCat robot ...",
+      "heat": 69,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/marscat-robot-is-more-project-than-pet/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/marscat-robot-is-more-project-than-pet/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/marscat-robot-is-more-project-than-pet/",
+      "publishedDateTime": "2020-01-15T10:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-01-15-how-deepmind-is-unlocking-the-secrets-of-dopamine-and-protein-folding-with-ai.md",
+      "title": "How DeepMind is unlocking the secrets of dopamine and protein folding with AI",
+      "excerpt": "Demis Hassabis founded DeepMind with the goal of unlocking answers to some of the world’s toughest questions by recreating intelligence itself. His ambition remains just that — an ambition — but Hassabis and colleagues inched closer to realizing it this week with the publication of papers in Nature addressing two formidable challenges in ...",
+      "heat": 131,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/01/15/deepmind-dopamine-protein-folding-ai/",
+      "ampWebUrl": "https://venturebeat.com/2020/01/15/deepmind-dopamine-protein-folding-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/15/deepmind-dopamine-protein-folding-ai/amp/",
+      "publishedDateTime": "2020-01-15T10:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/12/dims-e1575998404106.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "How DeepMind is unlocking the secrets of dopamine and protein folding with AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2020-01-15-using-azure-to-understand-azure.md",
       "title": "Using Azure to Understand Azure",
       "excerpt": "Azure Machine Learning (AML) is a great example. Over the years, my team has developed a portfolio of production models, spanning everything from behavioral clustering to anomaly detection.",
@@ -970,87 +1052,6 @@
         "authors": null
       },
       "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-14-2020-the-year-of-seeing-clearly-on-ai-and-machine-learning.md",
-      "title": "2020: The year of seeing clearly on AI and machine learning",
-      "excerpt": "Late last year, I complained to Richard Socher, chief scientist at Salesforce and head of its AI projects, about the term \"artificial intelligence\" and that we should use more accurate terms such as machine learning or smart machine systems, because \"AI\" creates unreasonably high expectations when the vast majority of applications are ...",
-      "heat": 114,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/2020-the-year-of-seeing-clearly-on-ai-and-machine-learning/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/2020-the-year-of-seeing-clearly-on-ai-and-machine-learning/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/2020-the-year-of-seeing-clearly-on-ai-and-machine-learning/",
-      "publishedDateTime": "2020-01-14T10:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/2018/11/30/eb36294b-a7fb-4514-ab2b-8f58d536211a/20140909-idf-56.jpg",
-          "width": 640,
-          "height": 574,
-          "title": "2020: The year of seeing clearly on AI and machine learning",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-01-14-an-emotionally-intelligent-ai-could-support-astronauts-on-a-trip-to-mars.md",
-      "title": "An emotionally intelligent AI could support astronauts on a trip to Mars",
-      "excerpt": "Astronauts also have to deal with the unique physical strains of space travel—including ... stunted by a lack of emotional intelligence, says Tom Soderstrom, CTO at NASA’s Jet Propulsion Laboratory. That’s why JPL is now working with Australian tech firm Akin to develop an AI that could one day provide emotional support for astronauts ...",
-      "heat": 166,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.technologyreview.com/s/615044/an-emotionally-intelligent-ai-could-support-astronauts-on-a-trip-to-mars/",
-      "ampWebUrl": "https://www.technologyreview.com/s/615044/an-emotionally-intelligent-ai-could-support-astronauts-on-a-trip-to-mars/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/s/615044/an-emotionally-intelligent-ai-could-support-astronauts-on-a-trip-to-mars/amp/",
-      "publishedDateTime": "2020-01-14T09:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.technologyreview.com/i/images/gettyimages-1168361504-web.jpg?sw=600&cx=0&cy=0&cw=3000&ch=1688",
-          "width": 600,
-          "height": 337,
-          "title": "An emotionally intelligent AI could support astronauts on a trip to Mars",
-          "attribution": null
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"

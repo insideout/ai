@@ -2,6 +2,95 @@
   "page": 101,
   "value": [
     {
+      "path": "_news/2020-01-27-mosquitoes-spread-disease-but-this-is-how-ai-is-biting-back.md",
+      "title": "Mosquitoes spread disease, but this is how AI is biting back",
+      "excerpt": "So, having early detection systems to promptly deploy preventive controls is crucial to protecting people. The Institute of Agrifood Research and Technology (IRTA) in Catalonia, Spain, has started to use artificial intelligence (AI), sensors, and satellite communications to automate the process of trapping mosquitoes and classifying them ...",
+      "heat": 97,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/mosquitoes-spread-disease-but-this-is-how-ai-is-biting-back/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/mosquitoes-spread-disease-but-this-is-how-ai-is-biting-back/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/mosquitoes-spread-disease-but-this-is-how-ai-is-biting-back/",
+      "publishedDateTime": "2020-01-27T03:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2020/01/17/9cd53c09-594e-45b6-ad71-ffebbe7c4b06/thumbnail/1200x675/d95da7082bf0d82ff45d36f0d4da5436/20200117-tiernan-karen-global.png",
+          "width": 1200,
+          "height": 675,
+          "title": "Mosquitoes spread disease, but this is how AI is biting back",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-01-27-cloud-natural-language-processing-nlp-market-demands-and-forecast-2019-2027.md",
+      "title": "Cloud Natural Language Processing (NLP) Market demands And forecast 2019-2027",
+      "excerpt": "The report covers the forecast and analysis of the cloud natural language processing (NLP) market on a global and regional level. The study provides historical data from 2015 to 2018 along with a forecast from 2019 to 2027 based on revenue (USD Million).",
+      "heat": 76,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/cloud-natural-language-processing-nlp-market-demands-and-forecast-2019-2027-2020-01-27-7197455",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-27T03:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Cloud Natural Language Processing (NLP) Market demands And forecast 2019-2027",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2020-01-27-8-misleading-ai-myths-and-the-realities-behind-them.md",
       "title": "8 misleading AI myths — and the realities behind them",
       "excerpt": "The fact is, much of the fear around AI comes from overactive imaginations that machines will mimic our own bad behavior. Skynet aside, there are some rational questions and answers to be had. So let’s break down the myths and realities around AI and all of its offshoots, like machine learning and deep learning. This is the single greatest ...",
@@ -987,87 +1076,6 @@
       "topics": [
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-01-24-seeing-a-better-future-for-ai.md",
-      "title": "Seeing A Better Future For AI",
-      "excerpt": "I grew up during the 80s and 90s, the kind of kid who built his own computers late into the night and heard the dial-up modem’s tones as my personal anthem. During this time of great promise in mankind’s technological potential I remember watching early documentaries on artificial intelligence (AI).",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/amirhusain/2020/01/24/seeing-a-better-future-for-ai/",
-      "ampWebUrl": "https://www.forbes.com/sites/amirhusain/2020/01/24/seeing-a-better-future-for-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/amirhusain/2020/01/24/seeing-a-better-future-for-ai/amp/",
-      "publishedDateTime": "2020-01-24T11:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e2b46f58b6cf300071ce1d0%2F0x0.jpg%3FcropX1%3D54%26cropX2%3D4933%26cropY1%3D0%26cropY2%3D2744",
-          "width": 1200,
-          "height": 675,
-          "title": "Seeing A Better Future For AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-24-ganpaint-studio-uses-neural-network-to-paint-new-elements-into-images.md",
-      "title": "GANPaint Studio uses neural network to 'paint' new elements into images",
-      "excerpt": "A team of researchers with IBM Research, MIT CSAIL and MIT-IBM Watson AI Lab has launched a new online tool called GANPaint Studio that utilizes a GAN neural network and semantic brushes to 'draw' entirely new elements into existing images. In the case of this particular tool, the elements include grass, clouds, brick, doors, trees, sky and domes.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.dpreview.com/news/7545535551/ganpaint-studio-uses-neural-network-to-paint-new-elements-into-images",
-      "ampWebUrl": "https://m.dpreview.com/news/7545535551/ganpaint-studio-uses-neural-network-to-paint-new-elements-into-images.amp",
-      "cdnAmpWebUrl": "https://m-dpreview-com.cdn.ampproject.org/c/s/m.dpreview.com/news/7545535551/ganpaint-studio-uses-neural-network-to-paint-new-elements-into-images.amp",
-      "publishedDateTime": "2020-01-24T11:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Photography Review",
-        "domain": "dpreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://2.img-dpreview.com/files/p/E~TS590x0~articles/7545535551/original_main.jpeg",
-          "width": 590,
-          "height": 436,
-          "title": "GANPaint Studio uses neural network to 'paint' new elements into images",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

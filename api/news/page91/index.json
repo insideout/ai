@@ -2,6 +2,87 @@
   "page": 91,
   "value": [
     {
+      "path": "_news/2020-02-04-robot-bartender-begins-serving-drinks-in-tokyo-pub.md",
+      "title": "Robot bartender begins serving drinks in Tokyo pub",
+      "excerpt": "The robot, made by the company QBIT Robotics, can pour a beer in 40 seconds and mix a cocktail in a minute. It uses four cameras to monitor customers to analyse their expressions with artificial intelligence software. \"I like it because dealing with people can be a hassle. With this you can just come and get drunk,\" Satoshi Harada, a restaurant ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.newshub.co.nz/home/lifestyle/2020/02/robot-bartender-begins-serving-drinks-in-tokyo-pub.html",
+      "ampWebUrl": "https://www.newshub.co.nz/home/lifestyle/2020/02/robot-bartender-begins-serving-drinks-in-tokyo-pub.amp.html",
+      "cdnAmpWebUrl": "https://www-newshub-co-nz.cdn.ampproject.org/c/s/www.newshub.co.nz/home/lifestyle/2020/02/robot-bartender-begins-serving-drinks-in-tokyo-pub.amp.html",
+      "publishedDateTime": "2020-02-04T08:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newshub",
+        "domain": "newshub.co.nz",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.newshub.co.nz/home/lifestyle/2020/02/robot-bartender-begins-serving-drinks-in-tokyo-pub/_jcr_content/par/image.dynimg.768.q75.jpg/v1580834704692/reuters-PUB-ROBOT-1120.jpg",
+          "width": 768,
+          "height": 438,
+          "title": "Robot bartender begins serving drinks in Tokyo pub",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-02-04-arbilex-a-harvard-law-school-legal-tech-startup-uses-ai-to-settle-arbitrations.md",
+      "title": "ArbiLex, A Harvard Law School Legal Tech Startup, Uses AI To Settle Arbitrations",
+      "excerpt": "With international arbitration cases resolved through international arbitration, the outcomes are on the order of millions and billions of dollars. Isabel Yang and her team have created ArbiLex to settle these claims faster for all parties involved.",
+      "heat": 82,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/frederickdaso/2020/02/04/arbilex-a-harvard-law-school-legal-tech-startup-uses-ai-to-settle-arbitrations/?ss=under30",
+      "ampWebUrl": "https://www.forbes.com/sites/frederickdaso/2020/02/04/arbilex-a-harvard-law-school-legal-tech-startup-uses-ai-to-settle-arbitrations/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/frederickdaso/2020/02/04/arbilex-a-harvard-law-school-legal-tech-startup-uses-ai-to-settle-arbitrations/amp/",
+      "publishedDateTime": "2020-02-04T08:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e3736e4f133f400076b718f%2F0x0.jpg",
+          "width": 750,
+          "height": 496,
+          "title": "ArbiLex, A Harvard Law School Legal Tech Startup, Uses AI To Settle Arbitrations",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-02-04-5-reasons-why-ai-may-dazzle-only-to-disappoint.md",
       "title": "5 Reasons Why AI May Dazzle Only To Disappoint",
       "excerpt": "In my experience of advising and consulting with several companies on AI strategy, I have observed five reasons that prevent AI initiatives from delivering the desired business outcomes.",
@@ -971,95 +1052,6 @@
       "topics": [
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-02-04-blackpool-pothole-fixing-artificial-intelligence-saves-1m.md",
-      "title": "Blackpool pothole-fixing artificial intelligence 'saves £1m'",
-      "excerpt": "An innovative pilot scheme using artificial intelligence to assess potholes has saved more than £1m of taxpayers' cash, a council has said. Blackpool Council said it was the first local authority to use AI technology to detect damage to roads. It uses satellite images to inspect roads in seconds rather than sending engineers, and was trialled ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.bbc.com/news/uk-england-lancashire-51356855",
-      "ampWebUrl": "https://www.bbc.com/news/amp/uk-england-lancashire-51356855",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/uk-england-lancashire-51356855",
-      "publishedDateTime": "2020-02-03T16:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/2BF7/production/_110755211_pothole.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": "Blackpool pothole-fixing artificial intelligence 'saves £1m'",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-04-uk-urged-to-regulate-how-tech-giants-like-facebook-and-google-target-you-with-content.md",
-      "title": "UK urged to regulate how tech giants like Facebook and Google target you with content",
-      "excerpt": "The U.K.'s AI advisor has called for regulation on how social media firms target users with posts, videos and ads.",
-      "heat": 77,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnbc.com/2020/02/03/uk-ai-advisor-regulate-social-media-firms-over-online-targeting.html",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/02/03/uk-ai-advisor-regulate-social-media-firms-over-online-targeting.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/02/03/uk-ai-advisor-regulate-social-media-firms-over-online-targeting.html",
-      "publishedDateTime": "2020-02-03T16:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/105461515-1537443902083gettyimages-1028930706.jpg?v=1572356456",
-          "width": 1024,
-          "height": 684,
-          "title": "UK urged to regulate how tech giants like Facebook and Google target you with content",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
       ]
     }
   ],
