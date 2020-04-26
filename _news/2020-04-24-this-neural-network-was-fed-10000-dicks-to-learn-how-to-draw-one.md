@@ -8,7 +8,7 @@ ampWebUrl: "https://thenextweb.com/neural/2020/04/24/neural-network-draw-dicks/a
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/04/24/neural-network-draw-dicks/amp/"
 type: article
 quality: 89
-heat: 90
+heat: 89
 published: true
 
 provider:

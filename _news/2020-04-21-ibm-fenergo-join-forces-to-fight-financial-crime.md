@@ -1,23 +1,27 @@
 ---
 category: news
 title: "IBM & Fenergo Join Forces to Fight Financial Crime"
-excerpt: "DUBLIN and ARMONK, New York, April 21, 2020 /PRNewswire/ -- Fenergo, the leading provider of digital transformation, customer journey and client lifecycle management"
+excerpt: "Fenergo, the leading provider of digital transformation, customer journey and client lifecycle management (CLM) solutions for"
 publishedDateTime: 2020-04-21T10:00:00Z
-webUrl: "https://www.benzinga.com/pressreleases/20/04/n15845536/ibm-fenergo-join-forces-to-fight-financial-crime"
-ampWebUrl: "https://amp.benzinga.com/amp/content/15845536"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15845536"
+webUrl: "https://www.prnewswire.com/news-releases/ibm--fenergo-join-forces-to-fight-financial-crime-301043856.html"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - IBM AI
   - AI
+
+images:
+  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+    width: 600
+    height: 315
+    title: "IBM & Fenergo Join Forces to Fight Financial Crime"
 
 related:
   - title: "IBM Joins Forces With Fenergo to Tackle Financial Crime"
@@ -45,6 +49,6 @@ related:
       domain: bobsguide.com
     quality: 4
 
-secured: "mSdDdizEefxG8Me0oB6hyy6NJCC5wjt9UPl1ZT8KUtgAZYBml6hFE6T2Gb5IzcUHGm5RrSOW7buFrlWrb879XU/cA21qmzPIhnt9PKuzM6E7FeKwU2bv7IBvs0PV4xIkeawQCWYWCIBJuf1+Q57b2uxryFlBZCFfTyoP4Nm/pyIHZUqw39prcyWgyJF/Ztauu1Qd7MEPb/HUvJThI0HcAzypDa+kioUDsmAJuZgxPJkspYaEz2hRFFI8fA9OPV+qWk2dU5NgWrnt9vaywcaSZy7DAt3MhpOeSpVteCavuvmmowgIriGz8cbuS3iqBJyy;3nok+ZmXEH80gdudn5tVNQ=="
+secured: "cfQdF6KhIVqMMKWXSM1JGQh3S25KchuKnqsikATHNnqAj1kfI0VJdLLHEal18TPu2kap0zqAgNoKp9MXeWk5iT2TlOED/qTAiAxZ3Hznp4p5cB21Jpt1wd542UiamY6GIhuFN/ueT7WFfA+rRxKxqizmBsCJQx5ObeAeb8isbUOhBz4Vz7RTjAlPaw2t3fXjLadhlwMG9EoN9CkES3kvNayl4/5JabLvUfORX5VKiOw3O/AGSJWbLrDzCAX+ApsrcBatEbyppOENp0yzAYRr8PB0d6PMW/AU3aGlGyENiqjQIHAHegLSlANLFzKv0aR+;XOJiUhkelSonpOcZr27Zzg=="
 ---
 
