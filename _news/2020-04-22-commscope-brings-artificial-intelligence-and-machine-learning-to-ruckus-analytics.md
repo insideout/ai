@@ -8,7 +8,7 @@ ampWebUrl: "https://www.zawya.com/mena/en/story/amp/ZAWYA20200422073526/"
 cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20200422073526/"
 type: article
 quality: 69
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -35,19 +35,6 @@ related:
       name: Robotics & Automation News
       domain: roboticsandautomationnews.com
     quality: 51
-  - title: "CommScope Brings Artificial Intelligence and Machine Learning to RUCKUS Analytics"
-    excerpt: "Built on a patented machine learning (ML) and artificial intelligence (AI) foundation, the new service accelerates troubleshooting, provides comprehensive network visibility, automatically identifies service-affecting issues, and—unique to the networking industry—classifies them according to severity, enabling managed service provider and ..."
-    publishedDateTime: 2020-04-21T15:14:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200421005599/en/CommScope-Brings-Artificial-Intelligence-Machine-Learning-RUCKUS"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 49
-    images:
-      - url: "https://mms.businesswire.com/media/20200421005599/en/786372/23/top-level-dashboard.jpg"
-        width: 1200
-        height: 627
   - title: "CommScope Brings Artificial Intelligence and Machine Learning to RUCKUS Analytics"
     excerpt: "CommScope today announced RUCKUS Analytics, a new cloud service that delivers network intelligence and simplifies service assurance, enabling organisations with complex networks to proactively improve their users’ experience. Built on a patented machine learning (ML) and artificial intelligence (AI) foundation, the new service accelerates ..."
     publishedDateTime: 2020-04-23T11:01:00Z

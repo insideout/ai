@@ -40,15 +40,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Burgeoning Demand for Natural Language Processing Market to Fuel Market Growth Thorough the COVID-19 Crisis Period"
-    excerpt: "Natural Language processing (NLP) is a field of computer science and artificial intelligence that is concerned with the"
-    publishedDateTime: 2020-04-21T15:21:00Z
-    webUrl: "https://www.marketwatch.com/press-release/burgeoning-demand-for-natural-language-processing-market-to-fuel-market-growth-thorough-the-covid-19-crisis-period-2020-04-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 27
 
 secured: "kswA/EAEpOR1sDWbqcnnVp0dW/yhkFd4C7bblY6jfSTjIIEpuNdZ7FFUQOTHmhNGSc/1wOU16SB+yyQl+WEicrH/oJWPUC+UUZwwPc9u9fjZkNBjk4vThlfXAg2PeLfvWlc855HQOqxTBB4FK1SqjDFqcm7KF6Bf2sR/bK6jXtFEP8OG+zfCmmOtn9NwB1FkQc8KP9VmZYLHIwByPMT3+vNA9UCJoV6l5gT5LG92N3gi7NkP7ecsqJt9Q5jFkHfTDEeY/2+y5l77ZaXENo6VUSB3qELVKdDOrlO/pcOsTViRU0bXwJmT6XBRyMvuoYye;KAuqA69G6S/VCR6P33D3Kw=="
 ---

@@ -18,21 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "AWS and Facebook launch an open-source model server for PyTorch"
-    excerpt: "For AWS, that’s mostly SageMaker, the company’s machine learning platform, but as Bratin Saha, AWS VP and GM for Machine Learning Services, told me, the work on PyTorch was mostly motivated by requests from the community. And while there are obviously other model servers like TensorFlow Serving and the Multi Model Server available today ..."
-    publishedDateTime: 2020-04-21T16:33:00Z
-    webUrl: "https://techcrunch.com/2020/04/21/aws-and-facebook-launch-an-open-source-model-server-for-pytorch/"
-    ampWebUrl: "https://techcrunch.com/2020/04/21/aws-and-facebook-launch-an-open-source-model-server-for-pytorch/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/21/aws-and-facebook-launch-an-open-source-model-server-for-pytorch/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 89
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/04/GettyImages-175397431.jpg?w=1024"
-        width: 1024
-        height: 682
   - title: "AWS unveils open source model server for PyTorch"
     excerpt: "Model versioning for A/B testing. Metrics for monitoring. RESTful endpoints for application integration. Any deployment environment can be supported by TorchServe, including Kubernetes, Amazon SageMaker, Amazon EKS, and Amazon EC2. TorchServe requires Java 11 on Ubuntu Linux or MacOS. Detailed installation instructions can be found on GitHub."
     publishedDateTime: 2020-04-25T00:41:00Z
@@ -48,19 +33,19 @@ related:
       - url: "https://images.idgesg.net/images/article/2019/07/automation_iot_machine-learning_process_ai_artificial-intelligence-by-zapp2photo-getty-100802298-large.jpg"
         width: 1200
         height: 800
-  - title: "Deploying PyTorch models for inference at scale using TorchServe"
-    excerpt: "Many services you interact with today rely on machine learning (ML). From online search and product recommendations to speech recognition and language translation, these services need ML models to serve predictions. As ML finds its way into even more services, you face the challenge of taking the results"
-    publishedDateTime: 2020-04-21T16:25:49Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/deploying-pytorch-models-for-inference-at-scale-using-torchserve/"
+  - title: "SD Times Open-Source Project of the Week: TorchServe"
+    excerpt: "embeds default handlers for common application, and offers multi-model serving, model versioning for A/B testing, monitoring metrics, and RESTful endpoints for application integration. In addition, TorchServe supports all machine learning environments, such as Amazon SageMaker, container services, and Amazon Elastic Compute Cloud (EC2)."
+    publishedDateTime: 2020-04-24T13:10:00Z
+    webUrl: "https://sdtimes.com/open-source/sd-times-open-source-project-of-the-week-torchserve/"
     type: article
     provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 74
+      name: SD Times
+      domain: sdtimes.com
+    quality: 54
     images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/04/20/deploying-pytorch-torchserve-1-2.gif"
-        width: 1000
-        height: 359
+      - url: "https://sdtimes.com/wp-content/uploads/2020/04/acetylene-1239328_640.jpg"
+        width: 640
+        height: 442
 
 secured: "qwLOX68Abjyvi8ah9kifqAxlv7k9/o4ZBRyfgjpwNOxvO4TS0w44Ju7M9s1hIQ1GDXYT1UtLvqD1hfGzad8olOScvxKI6SmbTbY+KfOB51qaWnFPOPepnvDbwNqzwKLey4KRIhnJJH414uUF4WIStZxrSC3zWBcVKajAJ0jsfWFFT3x9HSQwWEHvoxIcIdtQFmScOEivZAtQk4xB86vMzlZUWjgTD9eHA+n9VdhdwRowbbrQW5ot+DKqcV9jloKi86pkp6C2AHfB8xYcQxEjwfAZ87HxGNwfFe8H3wO2oA7VlqlkH4jX0B39gqPiHDrNU2tIqQKM+f+LVdKmRXiH5My4q82n7ctwwAqUFAzIqKv1BXbvmdVLfxA1ilUWBM3wQkFREV33xF1lJBAGvrfF8SrGiZLhzqOfvWVYAkdXS14h0LV6Pm8dVW42upHxdF+pCaWZSlXBLaCZofcQYV/7+WTy1lJiRlsFvf6LESl2oyM=;iAQfxqhzIVqgrrneCX6vDQ=="
 ---

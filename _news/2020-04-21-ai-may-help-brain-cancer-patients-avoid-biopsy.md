@@ -8,8 +8,8 @@ ampWebUrl: "https://scienceblog.com/515689/ai-may-help-brain-cancer-patients-avo
 cdnAmpWebUrl: "https://scienceblog-com.cdn.ampproject.org/c/s/scienceblog.com/515689/ai-may-help-brain-cancer-patients-avoid-biopsy/amp/"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: ScienceBlog
@@ -26,21 +26,6 @@ images:
     title: "AI may help brain cancer patients avoid biopsy"
 
 related:
-  - title: "AI may help eliminate use of biopsy for brain cancer patients"
-    excerpt: "A new study by UT Southwestern shows artificial intelligence can identify a specific genetic mutation in a glioma tumor ... practice of pretreatment surgeries in which glioma samples are taken and analyzed to choose an appropriate therapy. Scientists across the country have been testing other imaging techniques in recent years, but the latest ..."
-    publishedDateTime: 2020-04-21T16:59:00Z
-    webUrl: "https://www.news-medical.net/news/20200421/AI-may-help-eliminate-use-of-biopsy-for-brain-cancer-patients.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20200421/AI-may-help-eliminate-use-of-biopsy-for-brain-cancer-patients.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200421/AI-may-help-eliminate-use-of-biopsy-for-brain-cancer-patients.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 59
-    images:
-      - url: "https://www.news-medical.net/image.axd?picture=2018%2f7%2fBrain_cancer%2c_3D_illustration_showing_presence_of_tumor_inside_brain_-_Kateryna_Kon_M1_6704c47fefe0477dbe1cd3351402914f-620x480.jpg"
-        width: 620
-        height: 480
   - title: "New AI Model Could Aid Brain Cancer Patients Avoid Biopsies"
     excerpt: "‘New artificial intelligence can identify a specific genetic mutation in a glioma tumor simply ... The IDH mutation status also helps doctors decide on a combination of treatments most suitable for the patient, from chemotherapy and radiation therapy to surgery to remove the tumor. To improve the process of detecting enzyme mutations and ..."
     publishedDateTime: 2020-04-22T05:15:00Z
