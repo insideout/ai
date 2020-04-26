@@ -5,8 +5,8 @@ excerpt: "Artificial intelligence and deep learning have advanced to the point w
 publishedDateTime: 2020-04-26T10:08:00Z
 webUrl: "https://www.ajmc.com/newsroom/artificial-intelligence-deep-learning-combining-as-powerful-oncological-tool"
 type: article
-quality: 34
-heat: 34
+quality: 51
+heat: 51
 published: false
 
 provider:
@@ -15,6 +15,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://hraresearch.s3.amazonaws.com/_media/_core/ajmc-twitter-logo.jpg"

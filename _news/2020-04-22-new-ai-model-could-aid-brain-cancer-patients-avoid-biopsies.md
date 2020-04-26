@@ -8,7 +8,7 @@ ampWebUrl: "https://www.medindia.net/amp/news/new-ai-model-could-aid-brain-cance
 cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/new-ai-model-could-aid-brain-cancer-patients-avoid-biopsies-194536-1.htm"
 type: article
 quality: 59
-heat: -1
+heat: 59
 published: false
 
 provider:
@@ -24,23 +24,6 @@ images:
     width: 1200
     height: 1000
     title: "New AI Model Could Aid Brain Cancer Patients Avoid Biopsies"
-
-related:
-  - title: "AI may help brain cancer patients avoid biopsy"
-    excerpt: "A new study by UT Southwestern shows artificial intelligence can identify a specific genetic mutation in a glioma tumor ... practice of pretreatment surgeries in which glioma samples are taken and analyzed to choose an appropriate therapy. Scientists across the country have been testing other imaging techniques in recent years, but the latest ..."
-    publishedDateTime: 2020-04-21T20:59:00Z
-    webUrl: "https://scienceblog.com/515689/ai-may-help-brain-cancer-patients-avoid-biopsy/"
-    ampWebUrl: "https://scienceblog.com/515689/ai-may-help-brain-cancer-patients-avoid-biopsy/amp/"
-    cdnAmpWebUrl: "https://scienceblog-com.cdn.ampproject.org/c/s/scienceblog.com/515689/ai-may-help-brain-cancer-patients-avoid-biopsy/amp/"
-    type: article
-    provider:
-      name: ScienceBlog
-      domain: scienceblog.com
-    quality: 59
-    images:
-      - url: "https://scienceblog.com/wp-content/uploads/2020/04/AI-may-help-brain-cancer-patients-avoid-biopsy-.jpg"
-        width: 900
-        height: 708
 
 secured: "ZoBJDrMcDCNk4345eN3wQaivdlDe14l2WKy3aZ3JVCET2RmjgXFNOngWoVTBwTQELcRgi0q8//SYcEipI9/BD1ZgyWbble09LAoeerToAl3y9FCLK378DZOLsekrfBO1OWVU5o2bQQ8DptWukyQTsmhmyl/csWWleNmMl6855v3s5iqWdtULA7hpouFyq44+Ppn+tJgHv41uAWUippttFq2pl7YpTdX/7cggSSPsAbu7PVFN+wF5y2q3uyXrL3P6dVOk6kfamF/ahMs6KMiiTYwSgvBtZo0IXkCGE/tpiha/a2rz14F2sxorMTyiNP1Nbf4KR7k7EjUM7MZXOnSYGPGF5Noi/m+eovEqHkt2EvkaRX0vOrkmoO2+E+0LeqlUvGtNluXrVU+cUGDx4LETCy0ZR00bmAbkxpf/JYwDxRNSKx3BCVPsBgewmtfyiffKDXcYhamoSQQl1gNQsZ+4a3Lor8uy3v7FSFXVXhwFar4=;Y5Tj5s01qe76VaWr0jgyhg=="
 ---

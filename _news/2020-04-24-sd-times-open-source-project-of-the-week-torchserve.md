@@ -43,15 +43,6 @@ related:
       - url: "https://images.idgesg.net/images/article/2019/07/automation_iot_machine-learning_process_ai_artificial-intelligence-by-zapp2photo-getty-100802298-large.jpg"
         width: 1200
         height: 800
-  - title: "TorchServe, an Open Source Model Server for PyTorch Launched by Facebook and AWS"
-    excerpt: "It can be used by AI practitioners to scale cloud training resources according to their needs. The TorchServe framework, complete with TorchElastic, will support all machine learning environments, “including Amazon SageMaker, container services, and Amazon Elastic Compute Cloud (EC2).”"
-    publishedDateTime: 2020-04-21T19:43:00Z
-    webUrl: "https://www.techjuice.pk/torchserve-an-open-source-model-server-for-pytorch-launched-by-facebook-and-aws/"
-    type: article
-    provider:
-      name: techjuice.pk
-      domain: techjuice.pk
-    quality: 14
 
 secured: "1cNuSw5ExssCuq0kESFmPM3TskZ1L5Mucd7LAFLSazjXg2B3+K0pDNi7lAEmNuFc46AOb/abMnt/zN8VX2zKa6hDGuYWXKllMqs146yoY6d/jfS/A8jEkNaU7PVYxjzllPkrbSLySeOZQ4rr4HzzE4GifvavqTmmMldsOnQlXi00/rkTvEIMkocqJeIiQUtH7caJ0tCL45IUlWofP5f5sKF9bHVe+lZIXb0/I1S7bPzl7YP9iVMoJepQCb0voq6hK7nelor+whSp+0BbJImEylbQfym9FE4f4Q9CpxaORakNYgsmotCl/f8OQNuFd1tiioBAKE1OyXbuM46ZbQgtS7yGWQVGgSc1bSFVsvu4Iw93UpmmNnBpk4031yhTh6qlcwJsUdD4wQ0sJAyj4Nf9Di+VNegkKmxaBdgjBquMQNI6CokNh7cUlYfWEV/1NZxUdRldFX5xQSD2nqbN9Bbt4ZeCXWW7aAia1JFKIZtZaVw=;vFzpRgr6pYLfcEizfwWP2A=="
 ---

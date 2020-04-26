@@ -8,7 +8,7 @@ ampWebUrl: "https://www.infoworld.com/article/3540415/aws-unveils-open-source-mo
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3540415/aws-unveils-open-source-model-server-for-pytorch.amp.html"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -43,15 +43,6 @@ related:
       - url: "https://sdtimes.com/wp-content/uploads/2020/04/acetylene-1239328_640.jpg"
         width: 640
         height: 442
-  - title: "TorchServe, an Open Source Model Server for PyTorch Launched by Facebook and AWS"
-    excerpt: "It can be used by AI practitioners to scale cloud training resources according to their needs. The TorchServe framework, complete with TorchElastic, will support all machine learning environments, “including Amazon SageMaker, container services, and Amazon Elastic Compute Cloud (EC2).”"
-    publishedDateTime: 2020-04-21T19:43:00Z
-    webUrl: "https://www.techjuice.pk/torchserve-an-open-source-model-server-for-pytorch-launched-by-facebook-and-aws/"
-    type: article
-    provider:
-      name: techjuice.pk
-      domain: techjuice.pk
-    quality: 14
 
 secured: "liA/gcqcgvgS5eBw+Mn2ihmsy0HS+Jrqat4woJdt6b8dZeZi894COa/67+8RlTC8Lcn9C7Vo9zz1oMQfYmWWe4HX29OnvXpUFNg3zobkkfw4V20Uy3G+4ApjY4ZZxVtYWQEgwtJOE99yMYl1gLV9rc9FoBt7izK3PelL8t5mmj3w1tOO/f4AqvqiNhXmWPINHCJ6rw/lNPbVHInncJeb6dBRLuERJYmvk1sARQknjBnaF/SquWRW7fUqFyb8AT5+LhxKA1WlYtQi4IJiMbKzmVYjXYZGk5zKq77gpC1a2Rzzhs75fjbIb7GmfomKP3XW;ah0htGsU1sEfj1wzchoGmg=="
 ---

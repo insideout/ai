@@ -1,37 +1,39 @@
 ---
 category: news
 title: "Europe Speech Recognition Software Market will take the highest jump during 2020-2025"
-excerpt: "\"The global Speech Recognition Software market report offers information relating to the leading regions, competitive landscape, growth trends, and other crucial information about the growth status of the market. Additionally, the Speech Recognition Software market report also gives an in-depth evaluation of prevailing growth strategies ..."
+excerpt: "The global Speech Recognition Software market report offers information relating to the leading regions, competitive landscape, growth trends, and other crucial information about the growth status of the market."
 publishedDateTime: 2020-04-23T05:34:00Z
-webUrl: "https://www.arnnet.com.au/mediareleases/87429/europe-speech-recognition-software-market-will/"
+webUrl: "https://www.cmo.com.au/mediareleases/87429/europe-speech-recognition-software-market-will/"
 type: article
-quality: 12
-heat: -1
+quality: 32
+heat: 32
 published: false
 
 provider:
-  name: ARN
-  domain: arnnet.com.au
+  name: cmo.com.au
+  domain: cmo.com.au
 
 topics:
   - Natural Language Processing
   - AI
 
+images:
+  - url: "https://demo.idg.com.au/cmo/cmo50/2019/cmo50_promo2019_5.jpg"
+    width: 600
+    height: 246
+    title: "Europe Speech Recognition Software Market will take the highest jump during 2020-2025"
+
 related:
-  - title: "AI Market in Call Center Applications-Growth, Trends, and Forecast (2020-2025)"
-    excerpt: "The AI Market in Call Center Applications is anticipated to witness a CAGR of 25.8% over the forecast period 2020 - 2025. AI technology has gained widespread recognition and adoption over the past few years."
-    publishedDateTime: 2020-04-22T10:09:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-market-in-call-center-applications-growth-trends-and-forecast-2020-2025-2020-04-22"
+  - title: "United States Speech Recognition Software Market will take the highest jump during 2020-2025"
+    excerpt: "The Speech Recognition Software Market 2020 Research Report investigates the industry thoroughly and offers a complete study on Speech Recognition Software volume, market Share, market Trends, Global Speech Recognition Software Growth aspects,"
+    publishedDateTime: 2020-04-24T05:11:00Z
+    webUrl: "https://www.arnnet.com.au/mediareleases/88907/united-states-speech-recognition-software-market/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 63
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      name: ARN
+      domain: arnnet.com.au
+    quality: 8
 
-secured: "pQg6nctPZ1GVjMBAlfnHC6nVjLWjUbbI4kFdCWBR1PDzhj9EdWAN9SgcfEnGVDe2jU6l86HRjXSUsJs+da+n/SHbGllXQ+5NRUssZ54WbyQ/ZrWPoGZR6vr0qi3dAZoXiE4sipKtqOITp/D6GZE9qGWiB7VHiNdgR55GXackjhM0movJ8tozMi6RMcJbE+IWIVZdeCy5vT4ixOp/ztKmyKyoFxwfDjLl5mn9ZluQNzBU65jYbPYc9Psv/EV6adDWw3wXj1AZw4I+mgbS1F1byrdg6PJ+A/45KRX0H5gLR8sjGmQzCONtG8U5GfQEVf8P;FI6JFQMXYeK3o7s/c4FyPw=="
+secured: "KTAR/gR73suv0zTGUt6stdsF+H2WjuypNf7WXQ/kEU9cLnAgJ3MnjIKXY68nGisMlCc1MyN9H7ksZh6COtEiG2w4gYdQWrvXhMecpJOUBNG/pcnuBVHE7BZYNeI0rP/MBtPLRtZ0c/UY7aXEYxVXZRe0O6iKGobSroUS9Hl3R8YefZY4fyHp09C83g0Y/q/F8m6p1pi5JJznehYG6YW/UyYTasoW3sRFKCB7oiGKo1hm6ICeCBT+YIXT493AXo8kC0QQ4Gg5WyeuOQo9iqLFWmNBGJCnNqpvKKue3kc7ep73lX/zTNfeuDCHOBMoqZYW;e8yXN29lo148lmEBTm/qgQ=="
 ---
 
