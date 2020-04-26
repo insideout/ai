@@ -2,6 +2,44 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2020-04-07-9-ai-stocks-were-leaning-on-more-and-more.md",
+      "title": "9 AI Stocks We’re Leaning on More and More",
+      "excerpt": "IBM Watson Assistant for Citizens on the IBM public cloud brings together Watson Assistant, Natural Language Processing capabilities from IBM Research, and state-of-art enterprise AI search capabilities with Watson Discovery, to understand and respond to common questions about COVID-19. It’s always great when big corporations give back to the ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://investorplace.com/2020/04/9-ai-stocks-were-leaning-on-more-and-more/",
+      "ampWebUrl": "https://investorplace.com/2020/04/9-ai-stocks-were-leaning-on-more-and-more/amp/",
+      "cdnAmpWebUrl": "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/04/9-ai-stocks-were-leaning-on-more-and-more/amp/",
+      "publishedDateTime": "2020-04-07T08:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InvestorPlace",
+        "domain": "investorplace.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://investorplace.com/wp-content/uploads/2019/07/ai1600b.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": "9 AI Stocks We’re Leaning on More and More",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-07-5-practical-reasons-to-embrace-artificial-intelligence.md",
       "title": "5 practical reasons to embrace artificial intelligence",
       "excerpt": "AI is about more than just robots. There are several reasons that people should accept artificial intelligence, including health care fighting the current coronavirus pandemic and empowering people with disabilities. Artificial intelligence is about more than robots. Whether someone considers themself a tech expert, or a newbie when it comes to ...",
@@ -1011,43 +1049,6 @@
           "width": 2000,
           "height": 1333,
           "title": "4 Chinese-backed electric-car start-ups planning a run at Tesla",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-07-ai-applications-top-10-real-world-artificial-intelligence-applications.md",
-      "title": "AI Applications: Top 10 Real World Artificial Intelligence Applications",
-      "excerpt": "This makes Waymo cars more effective and safer. Another famous example of an autonomous vehicle is Tesla’s self-driving car. Artificial Intelligence implements computer vision, image detection and deep learning to build cars that can automatically detect ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.edureka.co/blog/artificial-intelligence-applications/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-06T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Edureka",
-        "domain": "edureka.co",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "http://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/10/Artificial-IntelligenceAI-applications.png",
-          "width": 1630,
-          "height": 952,
-          "title": "AI Applications: Top 10 Real World Artificial Intelligence Applications",
           "attribution": null
         }
       ],

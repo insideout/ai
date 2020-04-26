@@ -2,6 +2,43 @@
   "page": 55,
   "value": [
     {
+      "path": "_news/2020-03-12-michael-guberti-three-ways-to-grow-your-business-with-artificial-intelligence.md",
+      "title": "Michael Guberti: Three ways to grow your business with artificial intelligence",
+      "excerpt": "Artificial intelligence involves robots and algorithms that can perform tasks, solve problems and adapt to different situations. If you have Googled directions to a location, asked Alexa a question, scrolled through Facebook, browsed recommended products on Amazon or asked Siri to call a friend, you have interacted with artificial intelligence.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://westfaironline.com/122170/michael-guberti-three-ways-to-grow-your-business-with-artificial-intelligence/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-12T05:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Westfaironline.com",
+        "domain": "westfaironline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://westfaironline.com/wp-content/uploads/2019/08/Michael_Guberti.jpg",
+          "width": 650,
+          "height": 440,
+          "title": "Michael Guberti: Three ways to grow your business with artificial intelligence",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-12-towards-an-ai-led-2020.md",
       "title": "Towards an AI-led 2020",
       "excerpt": "Paul Morgan, Business Unit Lead – Data, Planning, and Analytics at Altron Karabina AI, machine learning, and data science are becoming more mainstream in larger organisations in South Africa. Thanks to the availability of the local Azure data centres, AI has become much easier to use, and companies are able to make use of Cognitive Services ...",
@@ -928,43 +965,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-11-new-scientist-got-an-early-glimpse-of-voice-recognition-technology.md",
-      "title": "New Scientist got an early glimpse of voice recognition technology",
-      "excerpt": "HEY Siri, we saw you coming. In our 17 March 1990 issue, we wrote about a computer system that could recognise continuous speech and may, we predicted, “form the basis of a personal computer controlled by voice”. At the time, this intriguing new technology had already piqued the interest of Apple, which we then described as “famous for ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.newscientist.com/article/mg24532732-700-new-scientist-got-an-early-glimpse-of-voice-recognition-technology/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-11T11:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Scientist",
-        "domain": "newscientist.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.newscientist.com/wp-content/uploads/2015/08/ns-logo-for-featured-image.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "New Scientist got an early glimpse of voice recognition technology",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

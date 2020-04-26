@@ -2,6 +2,51 @@
   "page": 93,
   "value": [
     {
+      "path": "_news/2020-01-16-eu-mulls-5-year-ban-on-facial-recognition-tech-in-public-areas.md",
+      "title": "EU mulls 5-year ban on facial recognition tech in public areas",
+      "excerpt": "BRUSSELS, Jan 16 (Reuters) - The European Union is considering banning facial recognition technology in public areas for up to five years, to give it time to work out how to prevent abuses, according to proposals seen by Reuters. The plan by the EU's executive - set out in an 18-page white paper - comes amid a global debate about the systems ...",
+      "heat": 419,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2020/01/16/reuters-america-eu-mulls-5-year-ban-on-facial-recognition-tech-in-public-areas.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/01/16/reuters-america-eu-mulls-5-year-ban-on-facial-recognition-tech-in-public-areas.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/01/16/reuters-america-eu-mulls-5-year-ban-on-facial-recognition-tech-in-public-areas.html",
+      "publishedDateTime": "2020-01-16T12:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc_logo.gif?v=1524171804",
+          "width": 1200,
+          "height": 630,
+          "title": "EU mulls 5-year ban on facial recognition tech in public areas",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2020-01-16-heres-why-apple-paid-200-million-for-an-ai-startup.md",
       "title": "Here's Why Apple Paid $200 Million for an AI Startup",
       "excerpt": "Apple has reportedly acquired AI start-up Xnor.ai for about $200 million, according to a report from GeekWire, citing \"sources with knowledge of the deal.\" Xnor specializes in developing complex ...",
@@ -1250,51 +1295,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-16-ai-in-fintech-market-big-changes-to-have-big-impact.md",
-      "title": "AI in Fintech Market - Big Changes to Have Big Impact",
-      "excerpt": "Advance Market Analytics recently introduced AI in Fintech Market study with in-depth overview, describing about the Product / Industry Scope and elaborates market outlook and status to 2025. AI in Fintech Market explores effective study on varied sections of Industry like opportunities,",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/ai-in-fintech-market---big-changes-to-have-big-impact-2020-01-16",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-16T02:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "AI in Fintech Market - Big Changes to Have Big Impact",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

@@ -2,6 +2,43 @@
   "page": 54,
   "value": [
     {
+      "path": "_news/2020-03-13-using-machine-learning-to-tackle-arms-proliferation-in-russian-trade-data.md",
+      "title": "Using Machine Learning to Tackle Arms Proliferation In Russian Trade Data",
+      "excerpt": "We eventually settled on EMR (Spark & Livy), in conjunction with SageMaker, as it was perfect for our use-case. We picked these two for their ease-of-use in a collaborative work environment and ability to use multiple clusters to process our large dataset. The set-up process was substantial and required some of what would be called a sysadmin ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://towardsdatascience.com/using-machine-learning-to-tackle-arms-proliferation-in-russian-trade-data-e457f44002c0",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-12T19:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "towardsdatascience.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/1200/1*ji9YlyGqz6Y_1dCss28fnA.jpeg",
+          "width": 1200,
+          "height": 800,
+          "title": "Using Machine Learning to Tackle Arms Proliferation In Russian Trade Data",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-13-behringer-deepmind-12-polyphonic-analog-synth.md",
       "title": "Behringer DeepMind 12 Polyphonic Analog Synth",
       "excerpt": "Excellent items are almost entirely free from blemishes and other visual defects and have been played or used with the utmost care.learn more I will ship with tracking to the listed regions. To negotiate shipping rates to other locations, please send me a ...",
@@ -872,43 +909,6 @@
         "AI Ethics",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-12-michael-guberti-three-ways-to-grow-your-business-with-artificial-intelligence.md",
-      "title": "Michael Guberti: Three ways to grow your business with artificial intelligence",
-      "excerpt": "Artificial intelligence involves robots and algorithms that can perform tasks, solve problems and adapt to different situations. If you have Googled directions to a location, asked Alexa a question, scrolled through Facebook, browsed recommended products on Amazon or asked Siri to call a friend, you have interacted with artificial intelligence.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://westfaironline.com/122170/michael-guberti-three-ways-to-grow-your-business-with-artificial-intelligence/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-12T05:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Westfaironline.com",
-        "domain": "westfaironline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://westfaironline.com/wp-content/uploads/2019/08/Michael_Guberti.jpg",
-          "width": 650,
-          "height": 440,
-          "title": "Michael Guberti: Three ways to grow your business with artificial intelligence",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

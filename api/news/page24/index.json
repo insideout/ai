@@ -2,6 +2,35 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2020-04-03-infragistics-adds-predictive-analytics-machine-learning-and-more-to-reveal-embedded-business-intelligence-tool.md",
+      "title": "Infragistics Adds Predictive Analytics, Machine Learning and More to Reveal Embedded Business Intelligence Tool",
+      "excerpt": "Reveal's new machine learning feature identifies and visually displays predictions from user data to enable more educated business-decision making. Reveal reads data from Microsoft Azure and ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.globenewswire.com/news-release/2020/04/03/2011600/0/en/Infragistics-Adds-Predictive-Analytics-Machine-Learning-and-More-to-Reveal-Embedded-Business-Intelligence-Tool.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-03T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GlobeNewswire",
+        "domain": "globenewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-03-experimental-covid-19-test-attempts-to-use-your-voice-to-check-for-symptoms.md",
       "title": "Experimental COVID-19 test attempts to use your voice to check for symptoms",
       "excerpt": "That’s why a research team at Carnegie Mellon University developed a cheaper, more accessible way to potentially detect signs of the virus: voice detection (h/t: Futurism). The team has been working on this solution for a while, and now it has released an early version of a web app called the COVID Voice Detector. The app uses an in-house ...",
@@ -991,35 +1020,6 @@
       "topics": [
         "TensorFlow",
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-03-sentiveillance-60-facial-identification-and-object-recognition-technology.md",
-      "title": "SentiVeillance 6.0 Facial Identification and Object Recognition Technology",
-      "excerpt": "Neurotechnology released the SentiVeillance 6.0 software development kit (SDK), which provides improved facial recognition using ... provides real-time moving object detection; tracking ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.officer.com/investigations/forensics/facial-recognition/product/12322276/neurotechnology-sentiveillance-60-facial-identification-and-object-recognition-technology",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-02T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Officer",
-        "domain": "officer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

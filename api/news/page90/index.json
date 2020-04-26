@@ -2,6 +2,50 @@
   "page": 90,
   "value": [
     {
+      "path": "_news/2020-02-05-huami-amazfit-homestudio-start-your-immersive-fitness-at-home-in-2020.md",
+      "title": "Huami Amazfit HomeStudio: Start your immersive fitness at home in 2020",
+      "excerpt": "The Amazfit HomeStudio is built to offer a vision of the future of fitness with connectivity, technology, and the way AI will impact your workout. Huami CEO Wang Huang said, “at the end of 2019, Huami defined a new mission: Connect Health with Technology,” and the new Amazfit is just the start of a new decade of technology. The Amazfit ...",
+      "heat": 72,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.androidauthority.com/huami-amazfit-homestudio-treadmill-display-1080512/",
+      "ampWebUrl": "https://www.androidauthority.com/huami-amazfit-homestudio-treadmill-display-1080512/amp/",
+      "cdnAmpWebUrl": "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/huami-amazfit-homestudio-treadmill-display-1080512/amp/",
+      "publishedDateTime": "2020-02-05T12:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android Authority",
+        "domain": "androidauthority.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/androidauthority.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn57.androidauthority.net/wp-content/uploads/2020/02/huami-amazfit-homestudio-treadmill-4-920x470.jpg",
+          "width": 920,
+          "height": 470,
+          "title": "Huami Amazfit HomeStudio: Start your immersive fitness at home in 2020",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-02-05-crunchmatch-simplifies-networking-tc-sessions-robotics-ai-2020.md",
       "title": "CrunchMatch simplifies networking @ TC Sessions: Robotics + AI 2020",
       "excerpt": "With just about 1 month until go-time, TC Sessions: Robotics + AI 2020 (March 3 in Berkeley, Calif.) looks to be a true powerhouse event. Prepare to spend the day engaging with the leading innovators, makers and investors bent on shaping the future of these two game-changing technologies. Don’t have a ticket yet? Crikey, mate, beat the price ...",
@@ -1013,51 +1057,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-02-04-kaskada-raises-8-million-to-facilitate-ai-feature-engineering.md",
-      "title": "Kaskada raises $8 million to facilitate AI feature engineering",
-      "excerpt": "Meanwhile, Iguazio last month nabbed $24 million for its suite of AI development and management tools, and Clusterone raked in $2 million for its DevOps for AI platform that operates with both on-premise servers and public cloud computing platforms like AWS, Azure, and Google Cloud Platform.",
-      "heat": 109,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/02/04/kaskada-raises-8-million-to-facilitate-ai-feature-engineering/",
-      "ampWebUrl": "https://venturebeat.com/2020/02/04/kaskada-raises-8-million-to-facilitate-ai-feature-engineering/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/04/kaskada-raises-8-million-to-facilitate-ai-feature-engineering/amp/",
-      "publishedDateTime": "2020-02-04T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/01/kaskada-card-image.png?fit=1200%2C628&strip=all",
-          "width": 1200,
-          "height": 628,
-          "title": "Kaskada raises $8 million to facilitate AI feature engineering",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

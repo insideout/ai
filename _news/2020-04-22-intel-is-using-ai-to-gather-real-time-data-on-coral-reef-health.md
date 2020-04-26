@@ -8,7 +8,7 @@ ampWebUrl: "https://www.engadget.com/amp/intel-ai-monitors-coral-reef-health-152
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/intel-ai-monitors-coral-reef-health-152247984.html"
 type: article
 quality: 87
-heat: 107
+heat: 108
 published: true
 
 provider:
@@ -58,6 +58,6 @@ related:
         width: 770
         height: 578
 
-secured: "5FuY3Gnf5NzW01IU5ZbNaafm/fk5v5L7Dh9yk7xn+eMHe86RhKnCwV0sEm1j2APFal2O1AfEzkzw2JLgPBZ8Whknc6x0MhXnNYtYr2C3aJEdk+UOSQ/VMNhS3EY9ohFGnYSqsTVuqgNKe4Q19jixmGH9d6RRAZejhO8NaMJAAxrCdJT+TIgpIStWT9RlGhwnqhjghqs7LEMNBN0GzERdhud//vkOvuRBRg8wOmt6RH9YRrBWVWtBhQxi7hVvADUTzLr95OA5UlIbFeLvFzISgs+pOtnMU0nGGHkgc4QwImGl33yCPLQFo5hQk5py/9kp2InnzE4Wqs58bmN18GWIajTarDKB2oktS477wyK7YD1bC4QOZi2BT8wRQG9Ou7u6ZKE7t2Xvhpv+QQ5gYxK4/mVLjMB0qOkLceuxM31K9iGvkhFL/FC2eSnYMTgToBNW5d9+Fbe4UTWwgZDhyTlFpk3pCut9iEqoebseJVcloQo=;WRUvRJFWTNsI+ialTv9ahw=="
+secured: "znJoeFFXxXK35HBwz6berchp65Hzo6HnYhpuVrG/dQS8+kKeQuZJ2XFfb9pgs5JTIikj3R/8mjMhx8gARRqUWuNKs6+X0GBLCXp0vC9bkVXu00Mu7RQ0/MysoN3lBXzB8yCw9cef3mAXdNm9LNaWy6wWUZXPLjOgMDA0RRPGlJw0m529YdpHdonnYZqi46tnCG2ZEcoQIc6skh5a7ujVW8/U11RoW/L7whvbiMkn4cU0YGW6zAGvwjt2RAb6igK4ZAxIxp9FZaFBQXiNRmOQgRBO0H5zcnx0NqiTC8GDUUQvrHtoR692/agGUHgJDxU1lQhFw/r9bjhoub2S9yTpaCHgMScx0m77sbrkwNm1AjtDTcfq8K6krTn6uqarB/rTYFcnoLMVEfhq7xC/p9DZudtyIcAwg9+hdMxmO2oS9fbgKQMI2BJsQWCzKorGyva/D79I0AmJAocTO2gOs54sj2S1chpVDqHa7h6HJ46ILn8=;F5nEK2lHZD4JVy4yzNdjCA=="
 ---
 

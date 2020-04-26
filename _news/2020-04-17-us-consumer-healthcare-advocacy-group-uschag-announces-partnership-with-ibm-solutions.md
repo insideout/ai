@@ -14,12 +14,6 @@ topics:
   - IBM AI
   - AI
 
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/a/a7/aa72f18e-94ce-57c4-bfae-e17bf137f5eb/5e99a8d765877.image.jpg?resize=300%2C400"
-    width: 300
-    height: 400
-    title: "U.S. Consumer Healthcare Advocacy Group (USCHAG) Announces Partnership with IBM Solutions"
-
-secured: "SGMI0MtCjcBJdH4jRuRdkw3cSzHRPohligVOZBeEOk8Nerz+3XKVx/d/e42eEgjyivXbSbKvNWgJNlN4OYkE+oJQA1YshDUMDfZJCk3RlSqUFXf+BV8eTuKxmO+HtBKJDjM/6luCHAJfjJsapZHXhQpKcANLgYXxCY72Fd/jPuEIRb657dRdS9NL0oPZESBcY+q+hFiFBOBFyaQcordUqAMdyiwcM9nvS3aCOoQ6KSxlbVTNI2VoEtRnTYacrRFWMUUjQ3nMBMGv/zwdm90WW9iQGT7I6zhWdY+BNdiazn+renpZw5tmyxRPVmW0Z+HgvoD4kDSUGzQqdvJKVz44w3QM4A1wFBE26DkP3cyGsnZkiGU/YvbNs0TehCa2XEZw/OvDQ8TV5tjvaiz0Pd8cB7EWJm9ItaZoXWnO1+HbhQRqs9LH8y8fosfSmPFiTi1tY+/RbugbfkkXZ/jLfAv539NyFWDicVfQZtPMThAzKtQ=;/rOR2JCtnc88AxxdT4dygg=="
+secured: "0h9pQOLIvweq/YuDyC0cjpjdgeXKXt+ciKHywKQde6zQRlRKeoNl5gUhc3/DHh8Qeju+eOcGgGgjb5+daenj5+IokAln7T/30+AQP14iLNuNeqW3sCdDwk9OPNyhzBhXhYWYFhxLD23nmBpqjn6I18KTVIFpVZAd99twliw1HQf76m1Pz2EHe0xJp9SiZV4o9DotsEbB7EdPFP+lxxG5lCoWBN3590U6hhaO8IUBVfObLTBEX8f+l3fS0eiASj0NQiusZxRflHbH1gERr4OOgf5J+dZvViydN9O3W8E6SEykwaBCgjn5RYQLWWVU/xT1;NzfIVKNEXMyPmqs9Kw+1Nw=="
 ---
 

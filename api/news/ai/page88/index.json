@@ -2,6 +2,50 @@
   "page": 88,
   "value": [
     {
+      "path": "_news/2020-01-22-agency-from-william-gibson-splits-the-seams-between-ai-and-humans.md",
+      "title": "Agency from William Gibson splits the seams between AI and humans",
+      "excerpt": "It involves Bay Area tech startups and AR headsets, spinning a vibe that doesn't feel far off from the life I actually live right now covering emergent tech. There's a mysterious AI program: an assistant, a person, named Eunice. Someone. I don't want to give much more away. I'd prefer you let the book take you on this journey. Eunice meets and ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnet.com/news/agency-from-william-gibson-splits-the-seams-between-ai-and-humans/",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/agency-from-william-gibson-splits-the-seams-between-ai-and-humans/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/agency-from-william-gibson-splits-the-seams-between-ai-and-humans/",
+      "publishedDateTime": "2020-01-22T05:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cnet3.cbsistatic.com/img/6eQsnz77aQNhAqQrV6v1SBzBXdc=/756x567/2020/01/21/aaa44387-8e97-463e-bef4-c4adcb32b2e8/william-gibson.jpg",
+          "width": 756,
+          "height": 567,
+          "title": "Agency from William Gibson splits the seams between AI and humans",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-01-22-pathfactory-and-6sense-join-forces-to-equip-abm-marketers-with-unrivalled-dataset.md",
       "title": "PathFactory and 6sense Join Forces To Equip ABM Marketers With Unrivalled Dataset",
       "excerpt": "TORONTO, Jan. 22, 2020 /PRNewswire-PRWeb/ -- PathFactory (the leader in content intelligence) announced a partnership today with 6sense (the leading Account Based Orchestration Platform, powered by AI) that will give marketers complete visibility into the quality of account engagement,",
@@ -1226,51 +1270,6 @@
       "topics": [
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-01-21-lets-teach-kids-about-ai-self-driving-cars-but-only-in-an-unbiased-way.md",
-      "title": "Let’s Teach Kids About AI Self-Driving Cars, But Only In An Unbiased Way",
-      "excerpt": "What should kids know about the advent of self-driving cars? Is it necessary to teach them about self-driving cars or is it something that isn’t worth bringing to their attention? If kids are going to get taught about self-driving cars,",
-      "heat": 138,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/01/21/lets-teach-kids-about-ai-self-driving-cars-but-only-in-an-unbiased-way/",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/01/21/lets-teach-kids-about-ai-self-driving-cars-but-only-in-an-unbiased-way/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/01/21/lets-teach-kids-about-ai-self-driving-cars-but-only-in-an-unbiased-way/amp/",
-      "publishedDateTime": "2020-01-21T08:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1049271976%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "Let’s Teach Kids About AI Self-Driving Cars, But Only In An Unbiased Way",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

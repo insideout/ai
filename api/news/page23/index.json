@@ -2,6 +2,35 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2020-04-04-3-high-yield-tech-stocks-to-buy-in-april.md",
+      "title": "3 High-Yield Tech Stocks to Buy in April",
+      "excerpt": "As more people work from home, stream media, and use cloud-based services, data centers must expand their ... IBM's new CEO Arvind Krishna, who previously led the higher-growth Cloud and Cognitive Software unit, could also expand Big Blue's public cloud business to challenge Amazon and Microsoft. Those changes could offset the slower growth ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nasdaq.com/articles/3-high-yield-tech-stocks-to-buy-in-april-2020-04-04",
+      "ampWebUrl": "https://www.nasdaq.com/articles/3-high-yield-tech-stocks-to-buy-in-april-2020-04-04?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-high-yield-tech-stocks-to-buy-in-april-2020-04-04?amp",
+      "publishedDateTime": "2020-04-04T10:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-04-apple-snatches-ai-startup-to-smarten-siri.md",
       "title": "Apple Snatches AI Startup to Smarten Siri",
       "excerpt": "Apple has acquired another artificial intelligence startup, according to Bloomberg. Voysis, a Dublin-based startup, will join Apple and aim to improve Siri's ability to understand a person's natural language. It focused on shopping-related voice commands ...",
@@ -989,35 +1018,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-03-infragistics-adds-predictive-analytics-machine-learning-and-more-to-reveal-embedded-business-intelligence-tool.md",
-      "title": "Infragistics Adds Predictive Analytics, Machine Learning and More to Reveal Embedded Business Intelligence Tool",
-      "excerpt": "Reveal's new machine learning feature identifies and visually displays predictions from user data to enable more educated business-decision making. Reveal reads data from Microsoft Azure and ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.globenewswire.com/news-release/2020/04/03/2011600/0/en/Infragistics-Adds-Predictive-Analytics-Machine-Learning-and-More-to-Reveal-Embedded-Business-Intelligence-Tool.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-03T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GlobeNewswire",
-        "domain": "globenewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

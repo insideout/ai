@@ -2,6 +2,43 @@
   "page": 50,
   "value": [
     {
+      "path": "_news/2020-03-09-amazon-wants-other-retailers-to-go-cashierless-with-its-just-walk-out-technology.md",
+      "title": "Amazon Wants Other Retailers to Go Cashierless With Its Just Walk Out Technology",
+      "excerpt": "Jay Stanley, senior policy analyst for the ACLU, which has previously expressed concerns about Amazon technology like Rekognition, said the ecommerce giant’s ability to retain data in ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.adweek.com/retail/amazon-wants-other-retailers-to-go-cashierless-with-its-just-walk-out-technology/",
+      "ampWebUrl": "https://www.adweek.com/retail/amazon-wants-other-retailers-to-go-cashierless-with-its-just-walk-out-technology/amp/",
+      "cdnAmpWebUrl": "https://www-adweek-com.cdn.ampproject.org/c/s/www.adweek.com/retail/amazon-wants-other-retailers-to-go-cashierless-with-its-just-walk-out-technology/amp/",
+      "publishedDateTime": "2020-03-09T12:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Adweek",
+        "domain": "adweek.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.adweek.com/wp-content/uploads/2020/03/nike-app-free-hed-page-2020-640x360.png",
+          "width": 640,
+          "height": 360,
+          "title": "Amazon Wants Other Retailers to Go Cashierless With Its Just Walk Out Technology",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-09-facebook-ais-other-play-algorithm-could-improve-autonomous-vehicle-performance.md",
       "title": "Facebook AI’s ‘other-play’ algorithm could improve autonomous vehicle performance",
       "excerpt": "A team of Facebook AI Research researchers recently developed an algorithm — other-play (OP) — that constructs strategies that achieve high returns with agents that weren’t trained with other agents (a form of zero-shot coordination). If the claims pan out, the work could greatly improve the performance of autonomous cars, which leverage ...",
@@ -1090,43 +1127,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-08-tucson-tech-artificial-intelligence-tech-developed-locally-looks-to-change-the-game.md",
-      "title": "Tucson Tech: Artificial intelligence tech developed locally looks to change the game",
-      "excerpt": "A Tucson avionics startup working to bring artificial intelligence to cockpits is one example of how the Old Pueblo is jumping on the AI development train.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://tucson.com/business/tucson-tech-artificial-intelligence-tech-developed-locally-looks-to-change/article_51cad541-d40a-5d56-a3e6-a1e5d9b0d957.html",
-      "ampWebUrl": "https://tucson.com/business/tucson-tech-artificial-intelligence-tech-developed-locally-looks-to-change/article_51cad541-d40a-5d56-a3e6-a1e5d9b0d957.amp.html",
-      "cdnAmpWebUrl": "https://tucson-com.cdn.ampproject.org/c/s/tucson.com/business/tucson-tech-artificial-intelligence-tech-developed-locally-looks-to-change/article_51cad541-d40a-5d56-a3e6-a1e5d9b0d957.amp.html",
-      "publishedDateTime": "2020-03-08T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Arizona Daily Star",
-        "domain": "tucson.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/tucson.com/content/tncms/assets/v3/editorial/9/ea/9ea46bb3-c5fe-5b34-80a0-ddb58b4f239e/5e5ff45fa24e6.image.jpg?resize=1024%2C715",
-          "width": 1024,
-          "height": 715,
-          "title": "Tucson Tech: Artificial intelligence tech developed locally looks to change the game",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

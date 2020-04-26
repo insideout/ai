@@ -2,6 +2,42 @@
   "page": 81,
   "value": [
     {
+      "path": "_news/2020-02-13-esteban-granero-aiming-to-bring-artificial-intelligence-into-football.md",
+      "title": "Esteban Granero aiming to bring artificial intelligence into football",
+      "excerpt": "But it is as a pioneer in artificial intelligence that the 32-year-old hopes to make his most lasting impression on football. For the last five years, at the same time as representing Real Sociedad, Espanyol and Marbella FC as a player, Granero, who previously had a spell in the Premier League with QPR, has been working as the founder and CEO ...",
+      "heat": 72,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.skysports.com/football/news/11095/11932406/esteban-granero-aiming-to-bring-artificial-intelligence-into-football",
+      "ampWebUrl": "https://www.skysports.com/amp/football/news/11095/11932406/esteban-granero-aiming-to-bring-artificial-intelligence-into-football",
+      "cdnAmpWebUrl": "https://www-skysports-com.cdn.ampproject.org/c/s/www.skysports.com/amp/football/news/11095/11932406/esteban-granero-aiming-to-bring-artificial-intelligence-into-football",
+      "publishedDateTime": "2020-02-12T23:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Sky Sports",
+        "domain": "skysports.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://e0.365dm.com/20/02/1600x900/skysports-esteban-granero-espanyol_4917382.jpg?20200211164937",
+          "width": 1600,
+          "height": 900,
+          "title": "Esteban Granero aiming to bring artificial intelligence into football",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-02-13-xmos-unveils-xcoreai-a-powerful-chip-designed-for-ai-processing-at-the-edge.md",
       "title": "XMOS unveils Xcore.ai, a powerful chip designed for AI processing at the edge",
       "excerpt": "With seed funding from the University of Bristol enterprise fund and the Wyvern seed fund as well as Amadeus Capital Partners, DJF Espirit, and Foundation Capital, the startup set about developing processor technology ... spinning off its Graphcore division focused on server-side AI. The following three years culminated in the release of ...",
@@ -1029,43 +1065,6 @@
           "width": 1024,
           "height": 752,
           "title": "Deep Instinct nabs $43M for a deep-learning cybersecurity solution that can suss an attack before it happens",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-02-12-india-can-benefit-from-ai-machine-learning-chandra.md",
-      "title": "India can benefit from AI, machine learning: Chandra",
-      "excerpt": "Mumbai, Feb 12 () Tata Sons Chairman N Chandrasekaran on Tuesday said job losses due to technological growth is a bogey created by advanced nations, and emerging economies like India can benefit from aspects such as artificial intelligence and machine learning. Addressing tech industry chief executives at industry lobby Nasscom's annual event ...",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businessinsider.in/business/news/india-can-benefit-from-ai-machine-learning-chandra/articleshow/74103826.cms",
-      "ampWebUrl": "https://www.businessinsider.in/business/news/india-can-benefit-from-ai-machine-learning-chandra/amp_articleshow/74103826.cms",
-      "cdnAmpWebUrl": "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/business/news/india-can-benefit-from-ai-machine-learning-chandra/amp_articleshow/74103826.cms",
-      "publishedDateTime": "2020-02-12T06:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider India",
-        "domain": "businessinsider.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.businessinsider.in/thumb/72107402.cms?height=275&width=412",
-          "width": 412,
-          "height": 275,
-          "title": "India can benefit from AI, machine learning: Chandra",
           "attribution": null
         }
       ],

@@ -2,6 +2,34 @@
   "page": 86,
   "value": [
     {
+      "path": "_news/2020-02-10-hello-new-member-here.md",
+      "title": "Hello, new member here",
+      "excerpt": "Hi, I had joined many years ago on another account but just got back on the site so made a new one. I’m on iPad and was wondering how we create a album or change themes, colors on our profile? I can’t seem to find out how. I just have a plain white ...",
+      "heat": 102,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.christianforums.com/threads/hello-new-member-here.8148658/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-09T17:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Christian Forums",
+        "domain": "christianforums.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-02-10-deep-learning-has-limits-but-its-commercial-impact-has-just-begun.md",
       "title": "Deep Learning Has Limits. But Its Commercial Impact Has Just Begun.",
       "excerpt": "There has been increased hand-wringing across the AI community in recent months about the limitations of deep learning. Even deep learning's staunchest defenders, Bengio included, are beginning to ...",
@@ -1013,50 +1041,6 @@
         "authors": null
       },
       "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-07-smart-cities-how-artificial-intelligence-could-change-london.md",
-      "title": "Smart cities: How artificial intelligence could change London",
-      "excerpt": "Computers are scanning London's roads, with a 98% accuracy rate in identifying vehicles and people. And they are are learning all the time. The new system can run 24/7 and is part of the \"smart city\" revolution. Using data from the scanners, planners can change streets and target investment.",
-      "heat": 77,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.bbc.com/news/av/uk-england-london-51415491/smart-cities-how-artificial-intelligence-could-change-london",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-07T15:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/F0A1/production/_110810616_p082lg33.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": "Smart cities: How artificial intelligence could change London",
-          "attribution": null
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"

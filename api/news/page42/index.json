@@ -2,6 +2,43 @@
   "page": 42,
   "value": [
     {
+      "path": "_news/2020-03-20-ex-uber-self-driving-head-anthony-levandowski-to-take-plea-deal-over-google-secrets.md",
+      "title": "Ex-Uber self-driving head Anthony Levandowski to take plea deal over Google secrets",
+      "excerpt": "SAN FRANCISCO — Engineer Anthony Levandowski, known for advancing self-driving car technology over the past decade, agreed to plead guilty on Thursday to taking sensitive documents from his former employer Google before joining rival Uber Technologies. Federal prosecutors agreed to recommend a prison term of no more than 30 months as part of ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.autoblog.com/2020/03/20/uber-anthony-levandowski-plea-deal-google-waymo/",
+      "ampWebUrl": "https://www.autoblog.com/amp/2020/03/20/uber-anthony-levandowski-plea-deal-google-waymo/",
+      "cdnAmpWebUrl": "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2020/03/20/uber-anthony-levandowski-plea-deal-google-waymo/",
+      "publishedDateTime": "2020-03-20T06:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Autoblog",
+        "domain": "autoblog.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims3/GLOB/crop/3000x1688+0+23/resize/800x450!/format/jpg/quality/85/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-images/2020-03/3ce655b0-6080-11ea-b7ba-5a1d52e002d7",
+          "width": 800,
+          "height": 450,
+          "title": "Ex-Uber self-driving head Anthony Levandowski to take plea deal over Google secrets",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-20-levandowski-agrees-plea-deal-over-google-self-driving-car-secrets-theft.md",
       "title": "Levandowski agrees plea deal over Google self-driving car secrets theft",
       "excerpt": "Anthony Levandowski, the former head of Uber’s self-driving unit, has agreed to plead guilty to stealing trade secrets from his former employer Google before joining Uber and kickstarting the ride-sharing company’s self-driving car development. According to a statement from the US Department of Justice, Levandowski submitted documents on ...",
@@ -948,50 +985,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-19-ibms-starnet-brings-explainable-ai-to-image-classification.md",
-      "title": "IBM’s StarNet brings explainable AI to image classification",
-      "excerpt": "By extension, it could cut down on deployment time for AI projects involving classifiers, which surveys show ranges between 8 and 90 days. StarNet consists of a few-shot classifier module attached to an extractor, both of which are trained in a meta-learning fashion where episodes are randomly sampled from classes. Each episode comprises ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/03/19/ibm-starnet-explainable-image-classification/",
-      "ampWebUrl": "https://venturebeat.com/2020/03/19/ibm-starnet-explainable-image-classification/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/19/ibm-starnet-explainable-image-classification/amp/",
-      "publishedDateTime": "2020-03-19T12:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/11/ibm-keyboard-logo.png?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "IBM’s StarNet brings explainable AI to image classification",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

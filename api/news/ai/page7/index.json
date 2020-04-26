@@ -444,15 +444,7 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/a/a7/aa72f18e-94ce-57c4-bfae-e17bf137f5eb/5e99a8d765877.image.jpg?resize=300%2C400",
-          "width": 300,
-          "height": 400,
-          "title": "U.S. Consumer Healthcare Advocacy Group (USCHAG) Announces Partnership with IBM Solutions",
-          "attribution": null
-        }
-      ],
+      "images": null,
       "locale": "en-us",
       "categories": [
         "news"

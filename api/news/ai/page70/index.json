@@ -2,6 +2,52 @@
   "page": 70,
   "value": [
     {
+      "path": "_news/2020-02-11-the-aclu-slammed-a-facial-recognition-company-that-scrapes-photos-from-instagram-and-facebook.md",
+      "title": "The ACLU Slammed A Facial Recognition Company That Scrapes Photos From Instagram And Facebook",
+      "excerpt": "By Caroline Haskins and Ryan Mac and Logan McDonald Posted on February 10, 2020, at 11:20 a.m. ET Clearview AI's website previously touted that its technology had been verified using \"the ACLU's facial recognition accuracy methodology.\" The ACLU pushed back on that claim and asked Clearview to remove it last month. Clearview AI, the facial ...",
+      "heat": 230,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.buzzfeednews.com/article/carolinehaskins1/clearview-ai-facial-recognition-accurate-aclu-absurd",
+      "ampWebUrl": "https://www.buzzfeednews.com/amphtml/carolinehaskins1/clearview-ai-facial-recognition-accurate-aclu-absurd",
+      "cdnAmpWebUrl": "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/carolinehaskins1/clearview-ai-facial-recognition-accurate-aclu-absurd",
+      "publishedDateTime": "2020-02-10T18:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BuzzFeed News",
+        "domain": "buzzfeednews.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/buzzfeednews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-02/10/16/asset/da869febf445/sub-buzz-274-1581350749-7.jpg?output-quality=auto&output-format=auto&downsize=640:*",
+          "width": 640,
+          "height": 440,
+          "title": "The ACLU Slammed A Facial Recognition Company That Scrapes Photos From Instagram And Facebook",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2020-02-11-depression-treatment-using-ai-brain-scans.md",
       "title": "Depression treatment using AI, brain scans",
       "excerpt": "Artificial intelligence (AI) may be a useful and even essential tool in selecting the best ... patterns of brain activity were actually linked to the kind of brain activity impairment that improves with antidepressant therapy. This data came from the EMBARC trial for patients with major depression. The trial lasted 16 weeks at four different ...",
@@ -1255,51 +1301,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-10-deep-learning-godfathers-bengio-hinton-and-lecun-say-the-field-can-fix-its-flaws.md",
-      "title": "Deep learning godfathers Bengio, Hinton, and LeCun say the field can fix its flaws",
-      "excerpt": "The three, who were dubbed the \"godfathers\" of deep learning by the conference, were being honored for having received last year's Turing Award for lifetime achievements in computing.",
-      "heat": 83,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/deep-learning-godfathers-bengio-hinton-and-lecun-say-the-field-can-fix-its-flaws/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/deep-learning-godfathers-bengio-hinton-and-lecun-say-the-field-can-fix-its-flaws/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/deep-learning-godfathers-bengio-hinton-and-lecun-say-the-field-can-fix-its-flaws/",
-      "publishedDateTime": "2020-02-10T08:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/02/10/791c60e2-4f7e-4ab8-9ddf-688966cfe2ac/hinton-lecun-bengio-aaai20-feb-9-2020.png",
-          "width": 3151,
-          "height": 1082,
-          "title": "Deep learning godfathers Bengio, Hinton, and LeCun say the field can fix its flaws",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

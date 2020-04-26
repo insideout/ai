@@ -2,6 +2,52 @@
   "page": 36,
   "value": [
     {
+      "path": "_news/2020-03-19-artificial-intelligence-for-edge-devices-market-detailed-analysis-and-growth-prospects-for-next-5-years.md",
+      "title": "Artificial Intelligence for Edge Devices Market Detailed analysis and growth prospects for Next 5 Years",
+      "excerpt": "Advance Market Analytics recently introduced Global Artificial Intelligence for Edge Devices Market study with in-depth overview, describing about the Product / Industry Scope and elaborates market outlook and status to 2025.",
+      "heat": 70,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-for-edge-devices-market-detailed-analysis-and-growth-prospects-for-next-5-years-2020-03-19",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-19T11:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial Intelligence for Edge Devices Market Detailed analysis and growth prospects for Next 5 Years",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2020-03-19-insights-how-ai-is-changing-jobs.md",
       "title": "Insights: How AI is Changing Jobs",
       "excerpt": "FORTUNE On-Demand",
@@ -1139,43 +1185,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-19-how-machine-learning-fights-financial-fraud.md",
-      "title": "How Machine Learning Fights Financial Fraud",
-      "excerpt": "We have e-shops, online banking, online insurances, and tons of other online services. But there’s one more thing we have ... So companies are forced to look for new solutions to prevent, detect, and eliminate fraud. And machine learning seems to be the best answer to financial fraud. How does it work, what are the benefits, and who ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cpomagazine.com/cyber-security/how-machine-learning-fights-financial-fraud/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-19T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CPO Magazine",
-        "domain": "cpomagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.cpomagazine.com/wp-content/uploads/2020/03/how-machine-learning-fights-financial-fraud_1500.jpg",
-          "width": 1500,
-          "height": 860,
-          "title": "How Machine Learning Fights Financial Fraud",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

@@ -7,8 +7,8 @@ webUrl: "https://www.wired.com/story/artificial-intelligence-wont-save-us-from-c
 ampWebUrl: "https://www.wired.com/story/artificial-intelligence-wont-save-us-from-coronavirus/amp"
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/artificial-intelligence-wont-save-us-from-coronavirus/amp"
 type: article
-quality: 89
-heat: 89
+quality: 91
+heat: 91
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 topics:
   - AI
   - AI in Autos
+  - Facebook AI
 
 images:
   - url: "https://media.wired.com/photos/5ea32aceddad8f0008fac706/master/pass/OpEd-AI-1208406717.jpg"

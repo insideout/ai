@@ -2,6 +2,50 @@
   "page": 74,
   "value": [
     {
+      "path": "_news/2020-02-20-retail-optimization-startup-teikametrics-raises-15m-as-it-expands-beyond-amazon-and-beyond-ads.md",
+      "title": "Retail optimization startup Teikametrics raises $15M as it expands beyond Amazon and beyond ads",
+      "excerpt": "Teikametrics, a startup that helps retailers optimize their online ad spending ... Looking at the broader retail and advertising landscape, McLean-Foreman acknowledged, “AI is almost a buzzword,” but he argued, “We are actually AI-first. The product itself is automation, it is intelligent decision-making.” He added, “Advertising ...",
+      "heat": 75,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/02/19/teikametrics-funding/",
+      "ampWebUrl": "https://techcrunch.com/2020/02/19/teikametrics-funding/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/19/teikametrics-funding/amp/",
+      "publishedDateTime": "2020-02-19T19:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/02/unnamed.jpg?w=1024",
+          "width": 1024,
+          "height": 512,
+          "title": "Retail optimization startup Teikametrics raises $15M as it expands beyond Amazon and beyond ads",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-02-20-boston-dynamics-spot-isnt-quite-the-terrifying-robot-hunter-you-think-it-is.md",
       "title": "Boston Dynamics’ Spot isn’t quite the terrifying robot hunter you think it is",
       "excerpt": "Contrary to popular belief, Boston Dynamics’ robots are not powered by artificial intelligence; many of its mechanical commands, while extremely sophisticated by modern robotic standards, must be initiated and guided by human operators. This means that when the bot fails to do what you want it to, it often involves heavy troubleshooting and ...",
@@ -1007,51 +1051,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-02-19-your-future-face-scanning-phone-could-check-for-live-skin.md",
-      "title": "Your future face-scanning phone could check for live skin",
-      "excerpt": "Sound creepy? It may actually make your Face ID-type sensor more secure and accurate. The company behind this expects to see the tech in phones by 2021. Fooling a face-scanning phone camera may be a lot more challenging in 2021.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnet.com/news/your-future-face-scanning-phone-could-check-for-live-skin/",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/your-future-face-scanning-phone-could-check-for-live-skin/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/your-future-face-scanning-phone-could-check-for-live-skin/",
-      "publishedDateTime": "2020-02-19T06:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cnet4.cbsistatic.com/img/D8Y4cgycDzhP4a5QPsbrC1_5WOI=/756x567/2020/02/18/14de88f1-b752-4f08-9a48-6cb05ac87b9e/trinamix-camera.jpg",
-          "width": 756,
-          "height": 567,
-          "title": "Your future face-scanning phone could check for live skin",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

@@ -2,6 +2,51 @@
   "page": 89,
   "value": [
     {
+      "path": "_news/2020-01-21-lets-teach-kids-about-ai-self-driving-cars-but-only-in-an-unbiased-way.md",
+      "title": "Let’s Teach Kids About AI Self-Driving Cars, But Only In An Unbiased Way",
+      "excerpt": "What should kids know about the advent of self-driving cars? Is it necessary to teach them about self-driving cars or is it something that isn’t worth bringing to their attention? If kids are going to get taught about self-driving cars,",
+      "heat": 138,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/01/21/lets-teach-kids-about-ai-self-driving-cars-but-only-in-an-unbiased-way/",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/01/21/lets-teach-kids-about-ai-self-driving-cars-but-only-in-an-unbiased-way/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/01/21/lets-teach-kids-about-ai-self-driving-cars-but-only-in-an-unbiased-way/amp/",
+      "publishedDateTime": "2020-01-21T08:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1049271976%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Let’s Teach Kids About AI Self-Driving Cars, But Only In An Unbiased Way",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2020-01-21-varicent-software-acquires-augmented-intelligence-company-symonai.md",
       "title": "Varicent Software Acquires Augmented Intelligence Company Symon.AI",
       "excerpt": "Varicent, the leading provider of next generation Sales Performance Management (SPM), today announced that it has acquired Symon.AI, a visionary technology platform built on sophisticated Natural Language and Machine Learning algorithms that provide easy to use,",
@@ -1226,51 +1271,6 @@
       "topics": [
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2020-01-20-darpa-backed-soft-robotics-raises-23-million-for-autonomous-grippers-and-sorters.md",
-      "title": "DARPA-backed Soft Robotics raises $23 million for autonomous grippers and sorters",
-      "excerpt": "As for the SuperPick, it’s a robot-agnostic solution comprising a vision system and AI engine that reports real-time metrics ... Sign up for Funding Weekly to start your week with VB's top funding stories.",
-      "heat": 124,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/01/20/darpa-backed-soft-robotics-raises-23-million-for-autonomous-grippers-and-sorters/",
-      "ampWebUrl": "https://venturebeat.com/2020/01/20/darpa-backed-soft-robotics-raises-23-million-for-autonomous-grippers-and-sorters/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/20/darpa-backed-soft-robotics-raises-23-million-for-autonomous-grippers-and-sorters/amp/",
-      "publishedDateTime": "2020-01-20T10:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/01/SoftRobotics_Eggs-e1579543568131.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "DARPA-backed Soft Robotics raises $23 million for autonomous grippers and sorters",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

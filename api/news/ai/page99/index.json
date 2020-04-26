@@ -2,6 +2,51 @@
   "page": 99,
   "value": [
     {
+      "path": "_news/2020-01-07-waymo-self-driving-vehicles-cover-20-million-miles-on-public-roads.md",
+      "title": "Waymo self-driving vehicles cover 20 million miles on public roads",
+      "excerpt": "(Reuters) - Waymo, the self-driving unit of Alphabet Inc (GOOGL.O), said its vehicles had covered more than 20 million miles (32.2 million km) on public roads since its creation in 2009.",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-autonomous-waymo-idUSKBN1Z61RX",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN1Z61RX",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1Z61RX",
+      "publishedDateTime": "2020-01-07T07:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200107&t=2&i=1473349659&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG0617G",
+          "width": 817,
+          "height": 545,
+          "title": "Waymo self-driving vehicles cover 20 million miles on public roads",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2020-01-07-on-semiconductor-ponyai-team-up-to-boost-machine-vision.md",
       "title": "ON Semiconductor & Pony.ai Team Up to Boost Machine Vision",
       "excerpt": "ON Semiconductor ON announced its partnership with Pony.ai — a leading autonomous driving technology company — to develop next-generation image sensing and processing technologies for machine vision.",
@@ -1230,51 +1275,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-04-microsoft-takes-azure-to-the-next-level.md",
-      "title": "Microsoft takes Azure to the next level",
-      "excerpt": "Microsoft first developed its cloud computing ... new capabilities for Azure Cognitive Services, Azure Digital Twins, and general availability of Azure IoT Central. Azure came to blockchain ...",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://sdtimes.com/msft/microsoft-takes-azure-to-the-next-level/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-03T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SD Times",
-        "domain": "sdtimes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/sdtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://sdtimes.com/wp-content/uploads/2019/01/MicrosoftAzure.jpg",
-          "width": 660,
-          "height": 371,
-          "title": "Microsoft takes Azure to the next level",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

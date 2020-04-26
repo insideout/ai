@@ -2,6 +2,43 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-03-23-why-the-coronavirus-could-mean-more-bogus-cures-fake-government-crackdowns-and-misinformation-on-facebook.md",
+      "title": "Why the coronavirus could mean more bogus cures, fake government crackdowns and misinformation on Facebook",
+      "excerpt": "Facebook, YouTube and Twitter’s content moderators were sent home due to the coronavirus, forcing the companies to rely more on algorithms to police content in the interim.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.washingtonpost.com/technology/2020/03/23/facebook-moderators-coronavirus/",
+      "ampWebUrl": "https://www.washingtonpost.com/technology/2020/03/23/facebook-moderators-coronavirus/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2020/03/23/facebook-moderators-coronavirus/?outputType=amp",
+      "publishedDateTime": "2020-03-23T10:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/TF1lbo3BNhg90uK3iZeOKvdnLJI=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AKL52PAY3BH6VDJKTGMCSD4VFI.jpg",
+          "width": 1440,
+          "height": 910,
+          "title": "Why the coronavirus could mean more bogus cures, fake government crackdowns and misinformation on Facebook",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-23-ai-in-computer-vision-market-project-to-include-more-research-development-to-attain-high-valuation.md",
       "title": "AI in Computer Vision Market Project to Include More Research & Development to Attain High Valuation",
       "excerpt": "AI in Computer Vision Market Research Report- Forecast till 2023 Market Highlights A boom in the increasing demand",
@@ -1223,44 +1260,6 @@
       "topics": [
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-18-google-revealed-to-have-acquired-the-most-ai-startups-since-2009.md",
-      "title": "Google revealed to have acquired the most AI startups since 2009",
-      "excerpt": "Coming in behind Google was Apple with 18 AI companies acquired for a total disclosed amount of $886 million, followed by Facebook with 12 for the disclosed cost of just over $1 billion. Apple’s acquisitions included Siri in 2010 and Realface in 2017, while Facebook bought Face.com in 2012 and Masquerade Technologies in 2016. Along with data ...",
-      "heat": 151,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.information-age.com/google-revealed-acquired-most-ai-startups-since-2009-123487752/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-18T06:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Information Age",
-        "domain": "information-age.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://s27389.pcdn.co/wp-content/uploads/2020/02/google-revealed-acquired-most-ai-startups-since-2009.jpeg",
-          "width": 1013,
-          "height": 675,
-          "title": "Google revealed to have acquired the most AI startups since 2009",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI",
-        "Google AI"
       ]
     }
   ],

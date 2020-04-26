@@ -2,6 +2,51 @@
   "page": 76,
   "value": [
     {
+      "path": "_news/2020-02-18-document-understanding-ai-google-cloud-explained.md",
+      "title": "Document Understanding AI — Google Cloud Explained",
+      "excerpt": "Hey, folks How are you doing. Today I am going to discuss Document Understanding AI using Google cloud in simple steps. I know I know you say there is a lot of complexity!!!. Don’t worry folks ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/datadriveninvestor/document-understanding-ai-google-cloud-explained-193ae84cda75",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-18T14:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/688/1*JQnPt8Ct4mzzzyEFVKW7zg.png",
+          "width": 688,
+          "height": 273,
+          "title": "Document Understanding AI — Google Cloud Explained",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-02-18-y-combinator-startup-humanly-helps-companies-screen-job-candidates-at-scale-with-the-help-of-ai.md",
       "title": "Y Combinator startup Humanly helps companies screen job candidates at scale, with the help of AI",
       "excerpt": "Startup Spotlight profiles emerging tech companies in the Pacific Northwest. Do you run a standout startup? Apply for Startup Spotlight. The Humanly team at Y Combinator, from left, CTO Bryan Leptich, CEO Prem Kumar and COO Andrew Gardner. (Humanly Photo) Automation may be a means to replacing humans in specific types of jobs. But for Humanly ...",
@@ -1038,51 +1083,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-18-altruistic-hopes-for-ai-self-driving-car-firms-to-share-their-proprietary-tech-is-a-starry-eyed-dream.md",
-      "title": "Altruistic Hopes For AI Self-Driving Car Firms To Share Their Proprietary Tech Is A Starry-Eyed Dream",
-      "excerpt": "Can’t we all work together? This question is often brought up at conferences on AI self-driving cars. Why so? Well, it is noteworthy to realize that there are currently about 40,000 deaths each year in the United States due to car accidents and about 2.",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/02/18/altruistic-hopes-for-ai-self-driving-car-firms-to-share-their-proprietary-tech-is-a-starry-eyed-dream/",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/02/18/altruistic-hopes-for-ai-self-driving-car-firms-to-share-their-proprietary-tech-is-a-starry-eyed-dream/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/02/18/altruistic-hopes-for-ai-self-driving-car-firms-to-share-their-proprietary-tech-is-a-starry-eyed-dream/amp/",
-      "publishedDateTime": "2020-02-18T05:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e41afbef133f400076c1a47%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6720%26cropY1%3D341%26cropY2%3D4121",
-          "width": 1200,
-          "height": 675,
-          "title": "Altruistic Hopes For AI Self-Driving Car Firms To Share Their Proprietary Tech Is A Starry-Eyed Dream",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

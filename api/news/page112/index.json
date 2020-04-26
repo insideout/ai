@@ -2,6 +2,51 @@
   "page": 112,
   "value": [
     {
+      "path": "_news/2020-01-16-the-us-military-wants-long-range-in-the-dark-facial-recognition.md",
+      "title": "The US Military Wants Long-Range in the Dark Facial Recognition",
+      "excerpt": "The military always likes to be at least one step ahead, so while we all get used to facial recognition unlocking our phones, the US military wants to detect the faces of individuals at long range and in the dark. As the OneZero blog reports, the US military is funding two contracts worth a combined value of $4.2 million. In return, the ...",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://uk.pcmag.com/news/124531/the-us-military-wants-long-range-in-the-dark-facial-recognition",
+      "ampWebUrl": "https://uk.pcmag.com/news/124531/the-us-military-wants-long-range-in-the-dark-facial-recognition?amp=1",
+      "cdnAmpWebUrl": "https://uk-pcmag-com.cdn.ampproject.org/c/s/uk.pcmag.com/news/124531/the-us-military-wants-long-range-in-the-dark-facial-recognition?amp=1",
+      "publishedDateTime": "2020-01-16T08:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://sm.pcmag.com/t/pcmag_uk/news/t/the-us-mil/the-us-military-wants-long-range-in-the-dark-facial-recognit_jcw7.620.jpg",
+          "width": 620,
+          "height": 349,
+          "title": "The US Military Wants Long-Range in the Dark Facial Recognition",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2020-01-16-apple-acquires-artificial-intelligence-company-xnoraiheres-what-that-company-is.md",
       "title": "Apple Acquires Artificial Intelligence Company Xnor.ai—Here's What That Company Is",
       "excerpt": "Apple (APPL) has reportedly acquired a company called Xnor.ai. The little-known, and difficult to pronounce, company is a Seattle-based artificial intelligence start-up. It was founded in 2016 by researchers at the Allen Institute for Artificial Intelligence. Xnor.ai’s mission is to enable AI algorithms to run on small devices—such as ...",
@@ -1025,52 +1070,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-16-2020-trending-deep-learning-ai-market-to-give-boost-to-retail-healthcare-automotive-bsfi-and-telecom-industries.md",
-      "title": "2020 Trending: Deep Learning AI Market to give boost to retail, healthcare, automotive, BSFI and telecom Industries",
-      "excerpt": "The Deep Learning AI marketis poised to grow at an excess of 30% CAGR during the forecast period from 2019-2023.In terms of investments in the field of artificial intelligence & deep learning, the U.S.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/2020-trending-deep-learning-ai-market-to-give-boost-to-retail-healthcare-automotive-bsfi-and-telecom-industries-2020-01-16",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-15T20:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "2020 Trending: Deep Learning AI Market to give boost to retail, healthcare, automotive, BSFI and telecom Industries",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware",
-        "Machine Learning"
       ]
     }
   ],

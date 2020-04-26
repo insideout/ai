@@ -2,6 +2,43 @@
   "page": 72,
   "value": [
     {
+      "path": "_news/2020-02-21-leaked-reports-show-eu-police-are-planning-a-pan-european-network-of-facial-recognition-databases.md",
+      "title": "Leaked Reports Show EU Police Are Planning a Pan-European Network of Facial Recognition Databases",
+      "excerpt": "the EU could soon be creating a network of national police facial recognition databases. A report drawn up by the national police forces of 10 EU member states, led by Austria, calls for the introduction of EU legislation to introduce and interconnect such databases in every member state. The report, which The Intercept obtained from a European ...",
+      "heat": 276,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://theintercept.com/2020/02/21/eu-facial-recognition-database/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-21T09:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Intercept",
+        "domain": "theintercept.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://theintercept.com/wp-uploads/sites/1/2020/02/YotamHadar_TheIntercept_EUv4-still-1582297909.jpg",
+          "width": 2000,
+          "height": 1000,
+          "title": "Leaked Reports Show EU Police Are Planning a Pan-European Network of Facial Recognition Databases",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2020-02-21-scientists-discover-powerful-antibiotic-using-ai.md",
       "title": "Scientists discover powerful antibiotic using AI",
       "excerpt": "In a world first, scientists have discovered a new type of antibiotic using artificial intelligence (AI). It has been heralded by experts as a major breakthrough in the fight against the growing problem of drug resistance. A powerful algorithm was used to analyse more than one hundred million chemical compounds in a matter of days. The newly ...",
@@ -1025,43 +1062,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-02-20-ids-nxt-ocean-designed-to-ease-image-processing-for-neural-networks.md",
-      "title": "IDS NXT ocean designed to ease image processing for neural networks",
-      "excerpt": "Among the challenges facing artificial intelligence, robotics, and autonomous vehicle developers is the need to process mages for training neural networks. IDS NXT ocean from Imaging Development Systems GmbH is intended to make it easier for users who are not AI experts to classify images. IDS NXT ocean includes camera hardware, a self ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.therobotreport.com/ids-nxt-ocean-designed-ease-image-processing-neural-networks/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-20T08:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2020/02/ids-nxt-ocean-industrial-cameras-ai-1000x800-02.jpg",
-          "width": 1000,
-          "height": 800,
-          "title": "IDS NXT ocean designed to ease image processing for neural networks",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

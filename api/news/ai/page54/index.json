@@ -2,6 +2,52 @@
   "page": 54,
   "value": [
     {
+      "path": "_news/2020-02-28-artificial-intelligence-ai-chipset-market-size-share-key-players-growth-drivers-business-opportunities-and-industry-forecast.md",
+      "title": "Artificial Intelligence (AI) Chipset Market Size, Share, Key Players, Growth Drivers, Business Opportunities, and industry Forecast",
+      "excerpt": "Market Highlights Artificial intelligence (AI) chipset are silicon-based chips that are integrated with devices",
+      "heat": 141,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipset-market-size-share-key-players-growth-drivers-business-opportunities-and-industry-forecast-2020-02-28",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-28T01:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial Intelligence (AI) Chipset Market Size, Share, Key Players, Growth Drivers, Business Opportunities, and industry Forecast",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2020-02-28-this-ai-company-is-trying-to-fix-physician-burnout-an-interview-with-dr-nathan-gunn-coo-of-sukiai.md",
       "title": "This AI Company Is Trying To Fix Physician Burnout - An Interview With Dr. Nathan Gunn, COO Of Suki.ai",
       "excerpt": "The National Academy of Medicine found 50% of the country’s doctors and over 60% of the country’s medical students and residents experience substantial symptoms of burnout.",
@@ -1246,52 +1292,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-02-27-how-aws-attempts-to-bring-transparency-to-automl-through-amazon-sagemaker-autopilot.md",
-      "title": "How AWS Attempts To Bring Transparency To AutoML Through Amazon SageMaker Autopilot",
-      "excerpt": "With Amazon SageMaker Autopilot, AWS has taken the first step in making AutoML solution transparent and explainable. The platform appeals to both expert data scientists and entry-level ML developers.",
-      "heat": 130,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/janakirammsv/2020/02/27/how-aws-attempts-to-bring-transparency-to-automl-through-amazon-sagemaker-autopilot/",
-      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2020/02/27/how-aws-attempts-to-bring-transparency-to-automl-through-amazon-sagemaker-autopilot/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2020/02/27/how-aws-attempts-to-bring-transparency-to-automl-through-amazon-sagemaker-autopilot/amp/",
-      "publishedDateTime": "2020-02-27T04:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e57b23b765d4500072d4e2a%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1000%26cropY1%3D48%26cropY2%3D610",
-          "width": 1000,
-          "height": 563,
-          "title": "How AWS Attempts To Bring Transparency To AutoML Through Amazon SageMaker Autopilot",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AWS AI"
       ]
     }
   ],

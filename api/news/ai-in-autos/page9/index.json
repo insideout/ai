@@ -2,6 +2,44 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-02-02-what-are-machine-learning-and-deep-learning-in-artificial-intelligence.md",
+      "title": "What are Machine Learning and Deep Learning in Artificial Intelligence",
+      "excerpt": "They say ML is a complete science in its own right and thus, need not be called with reference to Artificial Intelligence. AI thrives on data ... For example, if the machine is a self-driving vehicle, it has to create its own scenarios on road. There is no way a programmer can program every step as he or she can’t think of all the ...",
+      "heat": 101,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.thewindowsclub.com/machine-learning-deep-learning-artificial-intelligence",
+      "ampWebUrl": "https://www.thewindowsclub.com/machine-learning-deep-learning-artificial-intelligence/amp",
+      "cdnAmpWebUrl": "https://www-thewindowsclub-com.cdn.ampproject.org/c/s/www.thewindowsclub.com/machine-learning-deep-learning-artificial-intelligence/amp",
+      "publishedDateTime": "2020-02-02T14:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TWCN Tech News",
+        "domain": "thewindowsclub.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thewindowsclub-thewindowsclubco.netdna-ssl.com/wp-content/uploads/2020/01/aivsmlvsdl.png",
+          "width": 412,
+          "height": 338,
+          "title": "What are Machine Learning and Deep Learning in Artificial Intelligence",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-01-31-yesterdays-waymo-crash-in-arizona-does-not-involve-self-driving-but-some-day-it-will.md",
       "title": "Yesterday’s Waymo Crash In Arizona Does Not Involve Self-driving, But Some Day It Will",
       "excerpt": "On Jan 30, a crash was reported between a Waymo Chrysler Pacifica minivan and another vehicle, causing minor injuries to the safety driver. Reports suggest the other car acted erratically and cut quickly in front of the Waymo vehicle,",
@@ -1270,43 +1308,6 @@
           "width": 1200,
           "height": 800,
           "title": "Let’s Teach Kids About AI Self-Driving Cars, But Only In An Unbiased Way",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-01-21-4-stocks-to-gain-as-artificial-intelligence-simplifies-life-nasdaq.md",
-      "title": "4 Stocks to Gain as Artificial Intelligence Simplifies Life | Nasdaq",
-      "excerpt": "Since its invention in 1955, Artificial Intelligence (AI) has constantly been studied by several researchers and many big firms have invested billions each year just to accomplish one goal ...",
-      "heat": 104,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nasdaq.com/articles/4-stocks-to-gain-as-artificial-intelligence-simplifies-life-2020-01-21",
-      "ampWebUrl": "https://www.nasdaq.com/articles/4-stocks-to-gain-as-artificial-intelligence-simplifies-life-2020-01-21?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/4-stocks-to-gain-as-artificial-intelligence-simplifies-life-2020-01-21?amp",
-      "publishedDateTime": "2020-01-21T00:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg",
-          "width": 1024,
-          "height": 512,
-          "title": "4 Stocks to Gain as Artificial Intelligence Simplifies Life | Nasdaq",
           "attribution": null
         }
       ],

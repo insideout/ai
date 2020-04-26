@@ -2,6 +2,51 @@
   "page": 37,
   "value": [
     {
+      "path": "_news/2020-03-25-the-covid-19-pandemic-is-a-crisis-that-robots-were-built-for.md",
+      "title": "The Covid-19 Pandemic Is a Crisis That Robots Were Built For",
+      "excerpt": "Ever more sophisticated robots and AI are augmenting human workers, rather than replacing them entirely ... argue a dozen roboticists in an editorial out today in the journal Science Robotics. Perhaps “people start to reflect that for situations such as this, how robots can be used not only to help with in terms of social distancing, but ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wired.com/story/covid-19-pandemic-robots/",
+      "ampWebUrl": "https://www.wired.com/story/covid-19-pandemic-robots/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/covid-19-pandemic-robots/amp",
+      "publishedDateTime": "2020-03-25T11:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5e7a57d18283f9000a415185/master/pass/Science_covid19_1207640994.jpg",
+          "width": 2300,
+          "height": 1533,
+          "title": "The Covid-19 Pandemic Is a Crisis That Robots Were Built For",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-25-how-do-we-get-ai-out-of-the-early-adopter-phase-its-about-people.md",
       "title": "How do we get AI out of the early adopter phase? It's about people",
       "excerpt": "For those companies that are still kicking the tires on AI, it's natural that cultural antibodies would fight against it. It's new and (as yet) unproven. As it gets implemented in production, however, people start to see the value and the antibodies dissipate, as can be seen in the vastly diminished cultural headwinds for those companies that ...",
@@ -958,44 +1003,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-25-self-driving-dream-eludes-yet-again-as-starsky-robotics-shuts-down.md",
-      "title": "Self-Driving Dream Eludes Yet Again As Starsky Robotics Shuts Down",
-      "excerpt": "Similarly, though, it didn’t turn out as planned. Although he still lauds his team for their efforts, he lamented that the self-driving space was overwhelmed with the unmet promise of AI to focus on a practical solution. Added to this is the recession in trucking for the past 18 months. The hardest part of building AI is how it deals with ...",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://analyticsindiamag.com/self-driving-dream-eludes-yet-again-as-starsky-robotics-shuts-down/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-25T00:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2020/03/starsky.png",
-          "width": 1600,
-          "height": 1066,
-          "title": "Self-Driving Dream Eludes Yet Again As Starsky Robotics Shuts Down",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

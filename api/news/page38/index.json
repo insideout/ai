@@ -2,6 +2,44 @@
   "page": 38,
   "value": [
     {
+      "path": "_news/2020-03-25-self-driving-dream-eludes-yet-again-as-starsky-robotics-shuts-down.md",
+      "title": "Self-Driving Dream Eludes Yet Again As Starsky Robotics Shuts Down",
+      "excerpt": "Similarly, though, it didn’t turn out as planned. Although he still lauds his team for their efforts, he lamented that the self-driving space was overwhelmed with the unmet promise of AI to focus on a practical solution. Added to this is the recession in trucking for the past 18 months. The hardest part of building AI is how it deals with ...",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://analyticsindiamag.com/self-driving-dream-eludes-yet-again-as-starsky-robotics-shuts-down/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-25T00:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2020/03/starsky.png",
+          "width": 1600,
+          "height": 1066,
+          "title": "Self-Driving Dream Eludes Yet Again As Starsky Robotics Shuts Down",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-03-25-manitoulin-robotics-teams-compete-at-first-ontario-district-event.md",
       "title": "Manitoulin robotics teams compete at FIRST Ontario district event",
       "excerpt": "Teams had to use their robots to pick up soft yellow balls (serving as power cells) scattered about the playing surface and for the first 15 seconds, they had to operate autonomously—yes, these high school students had to program a form of artificial intelligence into their robots. Following the self-driving portion, drivers take over for a ...",
@@ -996,51 +1034,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-24-making-accurate-energy-consumption-predictions-with-amazon-forecast.md",
-      "title": "Making accurate energy consumption predictions with Amazon Forecast",
-      "excerpt": "Amazon Forecast is a fully managed service that uses machine learning (ML) to generate highly accurate forecasts, without requiring any prior ML experience. Forecast is applicable in a wide variety of use cases, including energy demand forecasting, estimating product demand, workforce planning, and computing",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/making-accurate-energy-consumption-predictions-with-amazon-forecast/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-24T08:17:47-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/03/23/forecast-energy-production-1.gif",
-          "width": 1000,
-          "height": 374,
-          "title": "Making accurate energy consumption predictions with Amazon Forecast",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

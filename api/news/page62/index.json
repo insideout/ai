@@ -2,6 +2,43 @@
   "page": 62,
   "value": [
     {
+      "path": "_news/2020-03-05-its-like-you-have-a-hand-again-ultra-precise-mind-controlled-prosthetic-developed.md",
+      "title": "‘It’s like you have a hand again’: Ultra-precise mind-controlled prosthetic developed",
+      "excerpt": "The scientists tapped faint, latent signals from arm nerves and amplified them to enable real-time, intuitive, finger-level control of a robotic hand. To achieve this, they developed a way to tame ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.express.co.uk/news/science/1251194/science-news-telepathic-mind-controlled-prosthetic-hand-amputees",
+      "ampWebUrl": "https://www.express.co.uk/news/science/1251194/science-news-telepathic-mind-controlled-prosthetic-hand-amputees/amp",
+      "cdnAmpWebUrl": "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/news/science/1251194/science-news-telepathic-mind-controlled-prosthetic-hand-amputees/amp",
+      "publishedDateTime": "2020-03-05T02:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Express",
+        "domain": "express.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.images.express.co.uk/img/dynamic/151/590x/science-news-telepathic-mind-controlled-prosthetic-hand-amputees-1251194.jpg?r=1583402891475",
+          "width": 590,
+          "height": 350,
+          "title": "‘It’s like you have a hand again’: Ultra-precise mind-controlled prosthetic developed",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-05-cisco-and-microsoft-partner-on-cloud-iot-stuff.md",
       "title": "Cisco and Microsoft partner on cloud IoT stuff",
       "excerpt": "The thinking is that Microsoft’s Azure IoT platform is great at the datacenter ... global connectivity, advance analytics, and cognitive services for analyzing IoT data.” “This partnership between Cisco and Azure IoT will significantly simplify ...",
@@ -894,43 +931,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-03-researchers-develop-slide-algorithm-for-cpu-ai-training-that-outperforms-gpus.md",
-      "title": "Researchers Develop SLIDE Algorithm For CPU AI Training That Outperforms GPUs",
-      "excerpt": "There's a lot of money to be made by leveraging AI—NVIDIA, for example ... but the researchers claim SLIDE performs better than GPU methods. \"Our tests show that SLIDE is the first smart ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://hothardware.com/news/researchers-slide-algorithm-cpu-ai-training-outperforms-gpu",
-      "ampWebUrl": "https://amp.hothardware.com/news/researchers-slide-algorithm-cpu-ai-training-outperforms-gpu",
-      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/researchers-slide-algorithm-cpu-ai-training-outperforms-gpu",
-      "publishedDateTime": "2020-03-03T08:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HotHardware",
-        "domain": "hothardware.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.hothardware.com/contentimages/newsitem/50927/content/CPU.jpg",
-          "width": 708,
-          "height": 398,
-          "title": "Researchers Develop SLIDE Algorithm For CPU AI Training That Outperforms GPUs",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

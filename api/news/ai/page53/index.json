@@ -2,6 +2,43 @@
   "page": 53,
   "value": [
     {
+      "path": "_news/2020-03-02-are-chinas-self-driving-cars-overtaking-us-peers.md",
+      "title": "Are China's self-driving cars overtaking US peers?",
+      "excerpt": "Is this proof that Baidu's self-driving car is better than Google's? Both companies say no. \"Waymo's position from the start -- and a growing industry consensus -- is that disengagements are not ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://asia.nikkei.com/Business/Automobiles/Are-China-s-self-driving-cars-overtaking-US-peers",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-02T07:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NIKKEI",
+        "domain": "nikkei.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fs3-ap-northeast-1.amazonaws.com%2Fpsh-ex-ftnikkei-3937bb4%2Fimages%2F4%2F8%2F9%2F0%2F25280984-6-eng-GB%2FCropped-1583135322apollo.png?source=nar-cms&width=1024&height=512&fit=cover&gravity=faces",
+          "width": 1024,
+          "height": 512,
+          "title": "Are China's self-driving cars overtaking US peers?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-02-key-takeaways-from-the-gartner-magic-quadrant-for-ai-developer-services.md",
       "title": "Key Takeaways From The Gartner Magic Quadrant For AI Developer Services",
       "excerpt": "Amazon’s investment in developer kits such as DeepLens, DeepRacer, DeepComposer is working in its favor. Google is one of the first to offer AI and AutoML services to developers and businesses.",
@@ -1269,52 +1306,6 @@
       "topics": [
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-28-artificial-intelligence-ai-chipset-market-size-share-key-players-growth-drivers-business-opportunities-and-industry-forecast.md",
-      "title": "Artificial Intelligence (AI) Chipset Market Size, Share, Key Players, Growth Drivers, Business Opportunities, and industry Forecast",
-      "excerpt": "Market Highlights Artificial intelligence (AI) chipset are silicon-based chips that are integrated with devices",
-      "heat": 141,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipset-market-size-share-key-players-growth-drivers-business-opportunities-and-industry-forecast-2020-02-28",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-28T01:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Artificial Intelligence (AI) Chipset Market Size, Share, Key Players, Growth Drivers, Business Opportunities, and industry Forecast",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare",
-        "AI Hardware"
       ]
     }
   ],

@@ -2,6 +2,43 @@
   "page": 70,
   "value": [
     {
+      "path": "_news/2020-02-24-ai-android-teaching-assistant-gives-students-hands-on-robotics-experience.md",
+      "title": "AI Android Teaching Assistant Gives Students Hands-on Robotics Experience",
+      "excerpt": "... presence of robots and artificial intelligence in our world,\" said Barry in an article about the project. \"One of the points that I'm bringing out in this class is that robots reflect their programming: If they're programmed with a life-affirming, ethical framework, they are more likely to act ethically and help humans to do the same.\"",
+      "heat": 78,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://campustechnology.com/articles/2020/02/24/ai-android-teaching-assistant-gives-students-hands-on-robotics-experience.aspx?admgarea=news",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-24T13:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Campus Technology",
+        "domain": "campustechnology.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://campustechnology.com/-/media/EDU/CampusTechnology/2020-images/20200224MariaBotfigure1.jpg",
+          "width": 300,
+          "height": 243,
+          "title": "AI Android Teaching Assistant Gives Students Hands-on Robotics Experience",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-02-24-uk-police-are-using-ai-to-predict-who-could-become-violent-criminals.md",
       "title": "UK police are using AI to predict who could become violent criminals",
       "excerpt": "[Read: Predictive policing AI is a bigger scam than psychic detectives ... which was commissioned by the UK government’s Centre for Data Ethics. The report revealed major legal and ethical ...",
@@ -1008,51 +1045,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-24-microsoft-azure-sphere-launches-in-general-availability.md",
-      "title": "Microsoft Azure Sphere launches in general availability",
-      "excerpt": "As for brownfield, it calls for an Azure Sphere “guardian” device — the bulk of which are produced by Avnet and AI-Link — to connect existing hardware to the internet. Azure Sphere hardware is available in several configurations, including Wi-Fi modules, development kits and dev boards (from partners like Seeed Studios and USI), and the ...",
-      "heat": 149,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/02/24/microsoft-azure-sphere-launches-in-general-availability/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-24T01:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2017/12/microsoft-azure-new-logo-2017-e1572843284943.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Microsoft Azure Sphere launches in general availability",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

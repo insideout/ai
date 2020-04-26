@@ -2,6 +2,51 @@
   "page": 95,
   "value": [
     {
+      "path": "_news/2020-01-31-want-to-be-ai-first-you-need-to-be-data-first.md",
+      "title": "Want To Be AI-First? You Need To Be Data-First.",
+      "excerpt": "Those that implement AI and Machine Learning project learn quickly that machine learning projects are not like typical application development projects. The code is the least significant part.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/01/30/want-to-be-ai-first-you-need-to-be-data-first/",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/01/30/want-to-be-ai-first-you-need-to-be-data-first/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/01/30/want-to-be-ai-first-you-need-to-be-data-first/amp/",
+      "publishedDateTime": "2020-01-30T20:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e0f567178b3f4000623f395%2F0x0.jpg",
+          "width": 1200,
+          "height": 801,
+          "title": "Want To Be AI-First? You Need To Be Data-First.",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2020-01-31-forget-the-roi-with-artificial-intelligence-decision-making-will-never-be-the-same.md",
       "title": "Forget The ROI: With Artificial Intelligence, Decision-Making Will Never Be The Same",
       "excerpt": "Having the right mindset toward AI means looking beyond traditional, cold ROI measures, and looking at the ways AI will enrich and amplify decision-making.",
@@ -1034,42 +1079,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-01-30-two-sundance-docs-sound-the-alarm-on-the-dangers-of-modern-ai.md",
-      "title": "Two Sundance docs sound the alarm on the dangers of modern AI",
-      "excerpt": "Cautionary tales about AI were all over Sundance screens this year, and not as sci-fi flights of fancy. Two new documentaries, The Social Dilemma and Coded Bias, dig into the pitfalls of artificial intelligence as it currently exists — manipulating our social-media feeds, determining our financial or professional futures, surveilling us on ...",
-      "heat": 197,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://mashable.com/article/coded-bias-social-dilemma-documentary-review/",
-      "ampWebUrl": "https://mashable.com/article/coded-bias-social-dilemma-documentary-review.amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/coded-bias-social-dilemma-documentary-review.amp",
-      "publishedDateTime": "2020-01-30T05:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/2020%252F01%252F30%252F2b%252F197609c9e4b0492b9aad0d764ab4085e.746b6.jpg%252F1200x630.jpg?signature=NmOmlZmtuGjdTlPu2UY9_ACFzbc=",
-          "width": 1200,
-          "height": 630,
-          "title": "Two Sundance docs sound the alarm on the dangers of modern AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

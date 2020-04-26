@@ -2,6 +2,34 @@
   "page": 74,
   "value": [
     {
+      "path": "_news/2020-02-06-is-the-goldilocks-economy-dead-or-just-sleeping.md",
+      "title": "Is the 'Goldilocks economy' dead or just sleeping?",
+      "excerpt": "To get a handle on what zonked Goldilocks, we have to consider the three bears that together made 2019 so unpleasant ... Economic uncertainty skyrocketed; plans for new investment in long-life capital were shelved, as indicated later by the fact that actual investment fell. Then came more tariffs, this time covering a growing array of Chinese ...",
+      "heat": 122,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.washingtonexaminer.com/opinion/is-the-goldilocks-economy-dead-or-just-sleeping",
+      "ampWebUrl": "https://www.washingtonexaminer.com/opinion/is-the-goldilocks-economy-dead-or-just-sleeping?_amp=true",
+      "cdnAmpWebUrl": "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/opinion/is-the-goldilocks-economy-dead-or-just-sleeping?_amp=true",
+      "publishedDateTime": "2020-02-06T11:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Examiner",
+        "domain": "washingtonexaminer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-02-06-top-homeland-security-democrat-voices-opposition-to-facial-recognition-moratorium.md",
       "title": "Top Homeland Security Democrat voices opposition to facial recognition moratorium",
       "excerpt": "on Thursday voiced concern about placing a federal moratorium on facial recognition technology, a pr",
@@ -1191,50 +1219,6 @@
           "width": 640,
           "height": 426,
           "title": "What Role Will (Or Does) Artificial Intelligence Play In Your Life?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-05-googles-ml-fairness-gym-lets-researchers-study-the-long-term-effects-of-ais-decisions.md",
-      "title": "Google’s ML-fairness-gym lets researchers study the long-term effects of AI’s decisions",
-      "excerpt": "Determining whether an AI system is maintaining fairness in its predictions requires an understanding of models’ short- and long-term effects, which might be informed by disparities in error metrics on a number of static data sets. In some cases, it’s necessary to consider the context in which the AI system operates in addition to the ...",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/02/05/googles-ml-fairness-gym-lets-researchers-study-the-long-term-effects-of-ais-decisions/",
-      "ampWebUrl": "https://venturebeat.com/2020/02/05/googles-ml-fairness-gym-lets-researchers-study-the-long-term-effects-of-ais-decisions/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/05/googles-ml-fairness-gym-lets-researchers-study-the-long-term-effects-of-ais-decisions/amp/",
-      "publishedDateTime": "2020-02-05T14:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/10/google-ai-logo.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Google’s ML-fairness-gym lets researchers study the long-term effects of AI’s decisions",
           "attribution": null
         }
       ],

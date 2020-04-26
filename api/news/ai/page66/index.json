@@ -2,6 +2,51 @@
   "page": 66,
   "value": [
     {
+      "path": "_news/2020-02-14-simplify-machine-learning-inference-on-kubernetes-with-amazon-sagemaker-operators.md",
+      "title": "Simplify Machine Learning Inference on Kubernetes with Amazon SageMaker Operators",
+      "excerpt": "Amazon SageMaker Operators for Kubernetes allows you to augment your existing Kubernetes cluster with SageMaker hosted endpoints. \nMachine learning inferencing requires investment to create a reliable and efficient service. For an XGBoost model, developers have to create an application, such as through",
+      "heat": 94,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/simplify-machine-learning-inference-on-kubernetes-with-amazon-sagemaker-operators/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-14T12:18:36-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/12/02/EKxHDbaWkAEIegr.png",
+          "width": 800,
+          "height": 400,
+          "title": "Simplify Machine Learning Inference on Kubernetes with Amazon SageMaker Operators",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-02-14-asu-researchers-debut-viwi-bt-an-aicomputer-vision-mmwave-beam-guide.md",
       "title": "ASU researchers debut ViWi-BT, an AI/computer vision mmWave beam guide",
       "excerpt": "ViWi-BT’s goal is to use AI and a device’s cameras or lidar capabilities to identify physical impediments and advantages for the beam targeting process, enabling “vision-aided wireless communications.” In short, a system with ViWi-BT capabilities will learn about its 3D environment using a database of previously transmitted millimeter ...",
@@ -1240,50 +1285,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-13-andrew-yang-brought-ai-into-american-politics-and-it-isnt-going-away.md",
-      "title": "Andrew Yang brought AI into American politics, and it isn’t going away",
-      "excerpt": "Andrew Yang ended his campaign Tuesday after a tepid showing in New Hampshire, bringing to an end what can be characterized as the only AI-first presidential campaign in U.S. history. Some will argue Yang’s campaign simply rose to prominence because of his support of a $1,000 universal basic income, but he outlasted and outperformed most of ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/02/13/andrew-yang-brought-ai-into-american-politics-and-it-isnt-going-away/",
-      "ampWebUrl": "https://venturebeat.com/2020/02/13/andrew-yang-brought-ai-into-american-politics-and-it-isnt-going-away/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/13/andrew-yang-brought-ai-into-american-politics-and-it-isnt-going-away/amp/",
-      "publishedDateTime": "2020-02-13T09:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/01/andrew-yang.jpg?fit=1800%2C989&strip=all",
-          "width": 1800,
-          "height": 989,
-          "title": "Andrew Yang brought AI into American politics, and it isn’t going away",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

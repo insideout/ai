@@ -2,6 +2,51 @@
   "page": 78,
   "value": [
     {
+      "path": "_news/2020-02-17-teslas-biggest-problem-with-self-driving-cars-is-that-it-actually-has-to-sell-them-to-customers.md",
+      "title": "Tesla's biggest problem with self-driving cars is that it actually has to sell them to customers",
+      "excerpt": "Tesla is trapped, having created great products that consumers want and love, but also watching as competitors design all-new businesses.",
+      "heat": 76,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businessinsider.com/teslas-biggest-problem-with-self-driving-cars-is-that-it-has-to-sell-them-2020-2",
+      "ampWebUrl": "https://www.businessinsider.com/teslas-biggest-problem-with-self-driving-cars-is-that-it-has-to-sell-them-2020-2?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/teslas-biggest-problem-with-self-driving-cars-is-that-it-has-to-sell-them-2020-2?amp",
+      "publishedDateTime": "2020-02-17T07:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.insider.com/5dd9a902fd9db212ca6834d3?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": "Tesla's biggest problem with self-driving cars is that it actually has to sell them to customers",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2020-02-17-automated-facial-recognition-breaches-gdpr-says-eu-digital-chief.md",
       "title": "Automated facial recognition breaches GDPR, says EU digital chief",
       "excerpt": "The EU’s digital and competition chief has said that automated facial recognition breaches GDPR, as the technology fails to meet the regulation’s requirement for consent. Margrethe Vestager, the European Commission’s executive vice president for digital affairs, told reporters that “as it stands right now, GDPR would say ‘don’t ...",
@@ -944,50 +989,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-02-14-class-action-suit-against-clearview-ai-cites-illinois-law-that-cost-facebook-550m.md",
-      "title": "Class action suit against Clearview AI cites Illinois law that cost Facebook $550M",
-      "excerpt": "Just two weeks ago Facebook settled a lawsuit alleging violations of privacy laws in Illinois for the considerable sum of $550 million. Now controversial startup Clearview AI, which has gleefully admitted to scraping and analyzing the data of millions, is the target of a new lawsuit citing similar violations. Clearview made waves earlier this ...",
-      "heat": 91,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/02/14/class-action-suit-against-clearview-ai-cites-illinois-law-that-cost-facebook-550m/",
-      "ampWebUrl": "https://techcrunch.com/2020/02/14/class-action-suit-against-clearview-ai-cites-illinois-law-that-cost-facebook-550m/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/14/class-action-suit-against-clearview-ai-cites-illinois-law-that-cost-facebook-550m/amp/",
-      "publishedDateTime": "2020-02-14T12:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/06/getty-facial-face-recognition.jpg?w=1024",
-          "width": 1024,
-          "height": 684,
-          "title": "Class action suit against Clearview AI cites Illinois law that cost Facebook $550M",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

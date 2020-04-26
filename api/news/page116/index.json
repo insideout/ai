@@ -2,6 +2,44 @@
   "page": 116,
   "value": [
     {
+      "path": "_news/2020-01-13-tealium-launches-predict-solution-powered-by-machine-learning.md",
+      "title": "Tealium Launches Predict Solution Powered By Machine Learning",
+      "excerpt": "Integrated into Tealium AudienceStream, a data-first customer data platform that is designed to create highly granular, unified customer profiles from every touchpoint, Tealium Predict aims to create and activate trustworthy machine learning insights using cross-channel customer behavior data. Visitors are scored based on the likelihood to ...",
+      "heat": 61,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.demandgenreport.com/features/solution-spotlight/tealium-launches-predict-solution-powered-by-machine-learning",
+      "ampWebUrl": "https://www.demandgenreport.com/features/solution-spotlight/tealium-launches-predict-solution-powered-by-machine-learning/amp",
+      "cdnAmpWebUrl": "https://www-demandgenreport-com.cdn.ampproject.org/c/s/www.demandgenreport.com/features/solution-spotlight/tealium-launches-predict-solution-powered-by-machine-learning/amp",
+      "publishedDateTime": "2020-01-13T08:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Demand Gen Report",
+        "domain": "demandgenreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.demandgenreport.com/media/k2/items/cache/2d88ab916503b4690740bdbf348148be_XL.jpg",
+          "width": 1280,
+          "height": 766,
+          "title": "Tealium Launches Predict Solution Powered By Machine Learning",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2020-01-13-bundesliga-goes-all-in-on-aws-cites-ml-and-ai-expertise-for-archiving-as-key.md",
       "title": "Bundesliga goes all-in on AWS, cites ML and AI expertise for archiving as key",
       "excerpt": "Yet another sporting franchise is signing up with Amazon Web Services (AWS) to utilise its artificial intelligence (AI) and machine learning (ML) capabilities. The Bundesliga, Germany’s top flight football league, has announced it its going all-in on AWS ...",
@@ -1046,50 +1084,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-01-10-an-ex-cio-of-goldman-sachs-is-helping-a-startup-use-ai-to-battle-cancer.md",
-      "title": "An Ex-CIO Of Goldman Sachs Is Helping A Startup Use AI To Battle Cancer",
-      "excerpt": "Marty Chavez, who left Goldman last year, just joined the board of Paige, a New York City startup that’s raised around $70 million to better diagnose and treat cancer patients.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/martingiles/2020/01/10/goldman-sachs-ex-cio-helping-ai-startup-paige-battle-cancer/",
-      "ampWebUrl": "https://www.forbes.com/sites/martingiles/2020/01/10/goldman-sachs-ex-cio-helping-ai-startup-paige-battle-cancer/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martingiles/2020/01/10/goldman-sachs-ex-cio-helping-ai-startup-paige-battle-cancer/amp/",
-      "publishedDateTime": "2020-01-10T13:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e18eb77735f8c0007999891%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "An Ex-CIO Of Goldman Sachs Is Helping A Startup Use AI To Battle Cancer",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

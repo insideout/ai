@@ -2,6 +2,43 @@
   "page": 69,
   "value": [
     {
+      "path": "_news/2020-02-25-brainchip-featured-in-actualtech-medias-emerging-aiml-and-data-science-ecocast.md",
+      "title": "BrainChip Featured in ActualTech Media’s Emerging AI/ML and Data Science EcoCast",
+      "excerpt": "SAN FRANCISCO, Feb. 25, 2020 (GLOBE NEWSWIRE) -- BrainChip Holdings Ltd. (ASX: BRN), a leading provider of ultra-low power, high performance edge AI technology, will present to IT professionals in the upcoming EcoCast webinar “Supporting Emerging AI, ML, and Data Science Initiatives,” February 27, 2020. The EcoCast, a live in-depth ...",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/brainchip-featured-in-actualtech-media-s-emerging-ai-ml-and-data-science-ecocast-1028935527",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/BrainChip-Featured-in-ActualTech-Media-s-Emerging-AI-ML-and-Data-Science-EcoCast-1028935527",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/BrainChip-Featured-in-ActualTech-Media-s-Emerging-AI-ML-and-Data-Science-EcoCast-1028935527",
+      "publishedDateTime": "2020-02-25T08:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2020-02-25-blackrock-intel-and-google-back-ai-chip-startup.md",
       "title": "BlackRock, Intel and Google Back AI Chip Startup",
       "excerpt": "Investors and technology giants eager to capitalize on the burgeoning field of chips that power artificial intelligence applications have poured capital into startups in the sector.",
@@ -1036,43 +1073,6 @@
       "topics": [
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-02-24-ai-android-teaching-assistant-gives-students-hands-on-robotics-experience.md",
-      "title": "AI Android Teaching Assistant Gives Students Hands-on Robotics Experience",
-      "excerpt": "... presence of robots and artificial intelligence in our world,\" said Barry in an article about the project. \"One of the points that I'm bringing out in this class is that robots reflect their programming: If they're programmed with a life-affirming, ethical framework, they are more likely to act ethically and help humans to do the same.\"",
-      "heat": 78,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://campustechnology.com/articles/2020/02/24/ai-android-teaching-assistant-gives-students-hands-on-robotics-experience.aspx?admgarea=news",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-24T13:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Campus Technology",
-        "domain": "campustechnology.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://campustechnology.com/-/media/EDU/CampusTechnology/2020-images/20200224MariaBotfigure1.jpg",
-          "width": 300,
-          "height": 243,
-          "title": "AI Android Teaching Assistant Gives Students Hands-on Robotics Experience",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

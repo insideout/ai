@@ -2,6 +2,43 @@
   "page": 59,
   "value": [
     {
+      "path": "_news/2020-03-10-artificial-intelligence-drives-new-industrial-inspection-drones.md",
+      "title": "Artificial Intelligence Drives New Industrial Inspection Drones",
+      "excerpt": "Jameson Huckaba of Digital Aerolus explains the technology behind and capabilities of the company's Aertos industrial inspection drones during the Tech Crunch Robotics+AI 2020 event.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.automationworld.com/factory/plant-maintenance/video/21120855/artificial-intelligence-drives-new-industrial-inspection-drones",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-10T06:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Automation World",
+        "domain": "automationworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://img.automationworld.com/files/base/pmmi/all/image/2020/03/IMG_0453.5e6696b198bf7.png?auto=format&fit=max&w=1200",
+          "width": 1200,
+          "height": 900,
+          "title": "Artificial Intelligence Drives New Industrial Inspection Drones",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-10-how-autonomous-freight-trains-powered-by-artificial-intelligence-could-come-to-a-railroad-near-you.md",
       "title": "How autonomous freight trains powered by artificial intelligence could come to a railroad near you",
       "excerpt": "Officials from BNSF and Union Pacific, the two largest freight railroads in the Pacific Northwest, declined to comment about their interest in driverless trains. Michael Rush, senior vice president for safety and operations at the Association of American Railroads, said the industry is embracing technology like artificial intelligence but that ...",
@@ -926,35 +963,6 @@
         "Google AI",
         "AI",
         "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2020-03-09-global-voice-and-speech-recognition-technology-industry.md",
-      "title": "Global Voice and Speech Recognition Technology Industry",
-      "excerpt": "NEW YORK, March 9, 2020 /PRNewswire/ -- Voice and Speech Recognition Technology market worldwide is projected to grow by US$15 Billion, driven by a compounded growth of",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.benzinga.com/pressreleases/20/03/n15509110/global-voice-and-speech-recognition-technology-industry",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/15509110",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15509110",
-      "publishedDateTime": "2020-03-09T09:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

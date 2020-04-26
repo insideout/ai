@@ -2,6 +2,51 @@
   "page": 75,
   "value": [
     {
+      "path": "_news/2020-02-19-your-future-face-scanning-phone-could-check-for-live-skin.md",
+      "title": "Your future face-scanning phone could check for live skin",
+      "excerpt": "Sound creepy? It may actually make your Face ID-type sensor more secure and accurate. The company behind this expects to see the tech in phones by 2021. Fooling a face-scanning phone camera may be a lot more challenging in 2021.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnet.com/news/your-future-face-scanning-phone-could-check-for-live-skin/",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/your-future-face-scanning-phone-could-check-for-live-skin/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/your-future-face-scanning-phone-could-check-for-live-skin/",
+      "publishedDateTime": "2020-02-19T06:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cnet4.cbsistatic.com/img/D8Y4cgycDzhP4a5QPsbrC1_5WOI=/756x567/2020/02/18/14de88f1-b752-4f08-9a48-6cb05ac87b9e/trinamix-camera.jpg",
+          "width": 756,
+          "height": 567,
+          "title": "Your future face-scanning phone could check for live skin",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2020-02-19-europe-unveils-its-big-ai-strategy-others-are-abusing-ai-that-mustnt-happen-here.md",
       "title": "Europe unveils its big AI strategy: Others are abusing AI. That mustn't happen here",
       "excerpt": "Behind that broad description, the new strategy's objectives are specific: establish rules on data and AI that are quintessentially European – regulation that \"puts people first\" and fosters \"trustworthy technology\". In a white paper on artificial intelligence released as part of the new strategy announcement, the European organisation ...",
@@ -995,51 +1040,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-02-18-document-understanding-ai-google-cloud-explained.md",
-      "title": "Document Understanding AI — Google Cloud Explained",
-      "excerpt": "Hey, folks How are you doing. Today I am going to discuss Document Understanding AI using Google cloud in simple steps. I know I know you say there is a lot of complexity!!!. Don’t worry folks ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/datadriveninvestor/document-understanding-ai-google-cloud-explained-193ae84cda75",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-18T14:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/688/1*JQnPt8Ct4mzzzyEFVKW7zg.png",
-          "width": 688,
-          "height": 273,
-          "title": "Document Understanding AI — Google Cloud Explained",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

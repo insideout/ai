@@ -2,6 +2,52 @@
   "page": 84,
   "value": [
     {
+      "path": "_news/2020-01-27-4-days-left-to-save-150-on-tickets-to-tc-sessions-robotics-ai-2020.md",
+      "title": "4 days left to save $150 on tickets to TC Sessions: Robotics + AI 2020",
+      "excerpt": "There’s plenty more waiting for you, including the finalists of our first Pitch Night. This group of intrepid robotics and AI startup founders made the cut (10 teams will pitch the night before the conference at a private event). The finalists will pitch again at the conference from the Main Stage. Think your startup has what it takes to ...",
+      "heat": 171,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/01/27/4-days-left-to-save-150-on-tickets-to-tc-sessions-robotics-ai-2020/",
+      "ampWebUrl": "https://techcrunch.com/2020/01/27/4-days-left-to-save-150-on-tickets-to-tc-sessions-robotics-ai-2020/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/27/4-days-left-to-save-150-on-tickets-to-tc-sessions-robotics-ai-2020/amp/",
+      "publishedDateTime": "2020-01-27T07:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/01/robotics_countdown_4.png?w=1024",
+          "width": 1024,
+          "height": 562,
+          "title": "4 days left to save $150 on tickets to TC Sessions: Robotics + AI 2020",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2020-01-27-general-motors-to-build-cruise-origin-electric-self-driving-shuttle-in-detroit.md",
       "title": "General Motors to build Cruise Origin electric self-driving shuttle in Detroit",
       "excerpt": "The facility has been earmarked to build several all-electric models, starting with a pickup in late 2021. The plant was previously the home of the discontinued Chevrolet Volt plug-in hybrid and currently produces the Cadillac CT6 and Chevrolet Impala, which will bill both end production in February. Batteries for all of the vehicles will be ...",
@@ -1263,51 +1309,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-25-mass-production-of-a-self-driving-restaurant-robot-is-coming.md",
-      "title": "Mass Production Of A Self-Driving Restaurant Robot Is Coming",
-      "excerpt": "Bear Robotics has received a Series A investment of $32 million and has plans to mass-produce its self-driving restaurant robot called Penny. The robot works as a food runner and can deliver items to a table.",
-      "heat": 94,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/lanabandoim/2020/01/24/mass-production-of-a-self-driving-restaurant-robot-is-coming/",
-      "ampWebUrl": "https://www.forbes.com/sites/lanabandoim/2020/01/24/mass-production-of-a-self-driving-restaurant-robot-is-coming/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanabandoim/2020/01/24/mass-production-of-a-self-driving-restaurant-robot-is-coming/amp/",
-      "publishedDateTime": "2020-01-24T19:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F43189452%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3999%26cropY1%3D0%26cropY2%3D2667",
-          "width": 1200,
-          "height": 800,
-          "title": "Mass Production Of A Self-Driving Restaurant Robot Is Coming",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

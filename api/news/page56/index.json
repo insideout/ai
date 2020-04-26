@@ -2,6 +2,43 @@
   "page": 56,
   "value": [
     {
+      "path": "_news/2020-03-11-new-scientist-got-an-early-glimpse-of-voice-recognition-technology.md",
+      "title": "New Scientist got an early glimpse of voice recognition technology",
+      "excerpt": "HEY Siri, we saw you coming. In our 17 March 1990 issue, we wrote about a computer system that could recognise continuous speech and may, we predicted, “form the basis of a personal computer controlled by voice”. At the time, this intriguing new technology had already piqued the interest of Apple, which we then described as “famous for ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.newscientist.com/article/mg24532732-700-new-scientist-got-an-early-glimpse-of-voice-recognition-technology/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-11T11:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Scientist",
+        "domain": "newscientist.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.newscientist.com/wp-content/uploads/2015/08/ns-logo-for-featured-image.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "New Scientist got an early glimpse of voice recognition technology",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-11-researchers-criticize-opacity-of-googles-mammogram-reading-ai-study.md",
       "title": "Researchers criticize opacity of Google's mammogram-reading AI study",
       "excerpt": "Though a study published Jan. 1 describing the success of Google's DeepMind artificial intelligence at diagnosing breast cancer was largely met with praise and excitement, in a Feb. 28 response, a group of AI researchers criticized the study's lack of transparency. In the initial study, Google researchers found the DeepMind AI produced fewer ...",
@@ -942,43 +979,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-11-robo-taxi-market-2020-technology-share-demand-opportunity-projection-analysis-forecast-outlook-2026.md",
-      "title": "Robo-Taxi Market 2020 Technology, Share, Demand, Opportunity, Projection Analysis Forecast Outlook 2026",
-      "excerpt": "”  Robo-Taxi Market – 2020-2026″ A new market study, titled \"Discover Global Robo-Taxi Market By Upcoming Trends, Growth Drivers and Challenges\" has",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.benzinga.com/pressreleases/20/03/ab15524352/robo-taxi-market-2020-technology-share-demand-opportunity-projection-analysis-forecast-outlook-20",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/15524352",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15524352",
-      "publishedDateTime": "2020-03-11T02:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.abnewswire.com/uploads/1583915997.jpeg",
-          "width": 600,
-          "height": 250,
-          "title": "Robo-Taxi Market 2020 Technology, Share, Demand, Opportunity, Projection Analysis Forecast Outlook 2026",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

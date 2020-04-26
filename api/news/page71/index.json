@@ -2,6 +2,51 @@
   "page": 71,
   "value": [
     {
+      "path": "_news/2020-02-24-microsoft-azure-sphere-launches-in-general-availability.md",
+      "title": "Microsoft Azure Sphere launches in general availability",
+      "excerpt": "As for brownfield, it calls for an Azure Sphere “guardian” device — the bulk of which are produced by Avnet and AI-Link — to connect existing hardware to the internet. Azure Sphere hardware is available in several configurations, including Wi-Fi modules, development kits and dev boards (from partners like Seeed Studios and USI), and the ...",
+      "heat": 149,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/02/24/microsoft-azure-sphere-launches-in-general-availability/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-24T01:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2017/12/microsoft-azure-new-logo-2017-e1572843284943.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Microsoft Azure Sphere launches in general availability",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-02-24-mit-csails-radars-map-hidden-features-to-help-driverless-cars-navigate-snowy-terrain.md",
       "title": "MIT CSAIL’s radars map hidden features to help driverless cars navigate snowy terrain",
       "excerpt": "Plus, bad weather has a tendency to obscure road signage and structures that normally serve as navigational landmarks. Fortunately, researchers at MIT’s Computer Science and Artificial Intelligence Laboratory and Lincoln Laboratory are on the case. In a paper that will be published in the journal IEEE Robotics and Automation Letters later ...",
@@ -1026,43 +1071,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-21-leaked-reports-show-eu-police-are-planning-a-pan-european-network-of-facial-recognition-databases.md",
-      "title": "Leaked Reports Show EU Police Are Planning a Pan-European Network of Facial Recognition Databases",
-      "excerpt": "the EU could soon be creating a network of national police facial recognition databases. A report drawn up by the national police forces of 10 EU member states, led by Austria, calls for the introduction of EU legislation to introduce and interconnect such databases in every member state. The report, which The Intercept obtained from a European ...",
-      "heat": 276,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://theintercept.com/2020/02/21/eu-facial-recognition-database/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-21T09:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Intercept",
-        "domain": "theintercept.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://theintercept.com/wp-uploads/sites/1/2020/02/YotamHadar_TheIntercept_EUv4-still-1582297909.jpg",
-          "width": 2000,
-          "height": 1000,
-          "title": "Leaked Reports Show EU Police Are Planning a Pan-European Network of Facial Recognition Databases",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

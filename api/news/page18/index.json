@@ -1014,47 +1014,31 @@
       ]
     },
     {
-      "path": "_news/2020-04-08-aws-to-azure-services-comparison.md",
-      "title": "AWS to Azure services comparison",
-      "excerpt": "This article helps you understand how Microsoft Azure services compare to Amazon Web Services (AWS). Whether you are planning ... including single virtual machine or multiple virtual machine solutions. SageMaker Machine Learning A cloud service to train ...",
+      "path": "_news/2020-04-08-artificial-intelligence-ai-in-agriculture.md",
+      "title": "Artificial Intelligence (AI) in Agriculture",
+      "excerpt": "Artificial Intelligence has various application in agriculture ranging from rural automatons, facial acknowledgment, computerized water system frameworks, and driverless tractors. These ...",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://docs.microsoft.com/en-us/azure/architecture/aws-professional/services",
+      "webUrl": "https://www.openpr.com/news/2004110/artificial-intelligence-ai-in-agriculture-market-overall",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-04-07T17:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png",
-          "width": 400,
-          "height": 400,
-          "title": "AWS to Azure services comparison",
-          "attribution": null
-        }
-      ],
+      "images": null,
       "locale": "en-us",
       "categories": [
         "news"
       ],
       "topics": [
-        "AWS AI",
+        "AI in Autos",
         "AI"
       ]
     }

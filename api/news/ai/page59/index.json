@@ -2,6 +2,43 @@
   "page": 59,
   "value": [
     {
+      "path": "_news/2020-02-24-met-police-chief-facial-recognition-technology-critics-are-ill-informed.md",
+      "title": "Met police chief: facial recognition technology critics are ill-informed",
+      "excerpt": "Cressida Dick defends tech after civil liberties groups raise fears over accuracy and privacy",
+      "heat": 708,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.theguardian.com/technology/2020/feb/24/met-police-chief-cressida-dick-facial-recognition-technology-critics-ill-informed",
+      "ampWebUrl": "https://amp.theguardian.com/technology/2020/feb/24/met-police-chief-cressida-dick-facial-recognition-technology-critics-ill-informed",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2020/feb/24/met-police-chief-cressida-dick-facial-recognition-technology-critics-ill-informed",
+      "publishedDateTime": "2020-02-24T07:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/6527a5db37946bab14375a67ded41e294359749b/109_407_2779_1667/master/2779.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=8db0391fdb6cc0f6fc84eadbd17fff8d",
+          "width": 600,
+          "height": 360,
+          "title": "Met police chief: facial recognition technology critics are ill-informed",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2020-02-24-new-york-artificial-intelligence-company-behavox-raises-100-million.md",
       "title": "New York artificial intelligence company Behavox raises $100 million",
       "excerpt": "Behavox, a New York-based artificial intelligence company, said Monday it has raised $100 million. The funding came from SoftBank Vision Fund 2, according to Behavox, which describes itself as \"the world’s only end-to-end data operating platform.",
@@ -1227,51 +1264,6 @@
         "AI in Robotics",
         "AI in Healthcare",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-21-self-driving-car-companies-complain-california-test-data-may-mislead.md",
-      "title": "Self-driving car companies complain California test data may mislead",
-      "excerpt": "Developers of self-driving cars are amping up criticism of a California reporting requirement on test data, saying the data could mislead, as the state prepares to release the latest results for 2019.",
-      "heat": 289,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.reuters.com/article/us-autos-self-driving-california/self-driving-car-companies-complain-california-test-data-may-mislead-idUSKBN20F2F7",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN20F2F7",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN20F2F7",
-      "publishedDateTime": "2020-02-21T09:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200221&t=2&i=1493407844&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG1K1LU",
-          "width": 830,
-          "height": 545,
-          "title": "Self-driving car companies complain California test data may mislead",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

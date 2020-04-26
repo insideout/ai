@@ -2,6 +2,43 @@
   "page": 68,
   "value": [
     {
+      "path": "_news/2020-02-25-these-are-the-pentagons-new-ethics-principles-for-ai-in-warfare.md",
+      "title": "These Are the Pentagon’s New Ethics “Principles” for AI in Warfare",
+      "excerpt": "On Monday, the Pentagon announced the official adoption of a series of new principles for ethical use of artificial intelligence in warfare, the Associated Press reports. The principles were formed out of a commission with the (darkly Newspeak-y) name the Defense Innovation Board, which released its recommendations (title: “AI Principles ...",
+      "heat": 124,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://futurism.com/the-byte/pentagon-ai-ethics-dod-warfare",
+      "ampWebUrl": "https://futurism.com/pentagon-ai-ethics-dod-warfare/amp",
+      "cdnAmpWebUrl": "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/pentagon-ai-ethics-dod-warfare/amp",
+      "publishedDateTime": "2020-02-25T13:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Futurism",
+        "domain": "futurism.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://wp-assets.futurism.com/2020/02/pentagon-new-ethics-principles-ai-warfare-600x315.jpg",
+          "width": 600,
+          "height": 315,
+          "title": "These Are the Pentagon’s New Ethics “Principles” for AI in Warfare",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2020-02-25-techchill-2020-is-hot-for-connectivity.md",
       "title": "TechChill 2020 Is Hot For Connectivity",
       "excerpt": "Analyst Will Townsend provides his connectivity-related takeaways from the TechChill 2020 startup event in Riga, Latvia.",
@@ -1052,43 +1089,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-25-brainchip-featured-in-actualtech-medias-emerging-aiml-and-data-science-ecocast.md",
-      "title": "BrainChip Featured in ActualTech Media’s Emerging AI/ML and Data Science EcoCast",
-      "excerpt": "SAN FRANCISCO, Feb. 25, 2020 (GLOBE NEWSWIRE) -- BrainChip Holdings Ltd. (ASX: BRN), a leading provider of ultra-low power, high performance edge AI technology, will present to IT professionals in the upcoming EcoCast webinar “Supporting Emerging AI, ML, and Data Science Initiatives,” February 27, 2020. The EcoCast, a live in-depth ...",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://markets.businessinsider.com/news/stocks/brainchip-featured-in-actualtech-media-s-emerging-ai-ml-and-data-science-ecocast-1028935527",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/BrainChip-Featured-in-ActualTech-Media-s-Emerging-AI-ML-and-Data-Science-EcoCast-1028935527",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/BrainChip-Featured-in-ActualTech-Media-s-Emerging-AI-ML-and-Data-Science-EcoCast-1028935527",
-      "publishedDateTime": "2020-02-25T08:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

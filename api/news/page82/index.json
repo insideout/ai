@@ -2,6 +2,43 @@
   "page": 82,
   "value": [
     {
+      "path": "_news/2020-02-12-india-can-benefit-from-ai-machine-learning-chandra.md",
+      "title": "India can benefit from AI, machine learning: Chandra",
+      "excerpt": "Mumbai, Feb 12 () Tata Sons Chairman N Chandrasekaran on Tuesday said job losses due to technological growth is a bogey created by advanced nations, and emerging economies like India can benefit from aspects such as artificial intelligence and machine learning. Addressing tech industry chief executives at industry lobby Nasscom's annual event ...",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businessinsider.in/business/news/india-can-benefit-from-ai-machine-learning-chandra/articleshow/74103826.cms",
+      "ampWebUrl": "https://www.businessinsider.in/business/news/india-can-benefit-from-ai-machine-learning-chandra/amp_articleshow/74103826.cms",
+      "cdnAmpWebUrl": "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/business/news/india-can-benefit-from-ai-machine-learning-chandra/amp_articleshow/74103826.cms",
+      "publishedDateTime": "2020-02-12T06:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider India",
+        "domain": "businessinsider.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.businessinsider.in/thumb/72107402.cms?height=275&width=412",
+          "width": 412,
+          "height": 275,
+          "title": "India can benefit from AI, machine learning: Chandra",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-02-12-the-future-of-blockchain-fintech-50-2020.md",
       "title": "The Future Of Blockchain: Fintech 50 2020",
       "excerpt": "Over the past year, the price of bitcoin has more than doubled, and a number of imaginative new blockchain products have launched, showing the breadth of industries that could be impacted.",
@@ -1033,51 +1070,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-02-11-mcafee-cto-how-ai-is-changing-both-cybersecurity-and-cyberattacks.md",
-      "title": "McAfee CTO: How AI is changing both cybersecurity and cyberattacks",
-      "excerpt": "McAfee, one of the big players in the industry, is adding AI capabilities to its own suite of tools that protect users from increasingly automated attacks. A whole wave of startups — like Israel ...",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/02/11/mcafee-cto-how-ai-is-changing-both-cybersecurity-and-cyberattacks/",
-      "ampWebUrl": "https://venturebeat.com/2020/02/11/mcafee-cto-how-ai-is-changing-both-cybersecurity-and-cyberattacks/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/11/mcafee-cto-how-ai-is-changing-both-cybersecurity-and-cyberattacks/amp/",
-      "publishedDateTime": "2020-02-11T09:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/01/11-McAfee-interview.jpg?fit=2160%2C1078&strip=all",
-          "width": 2160,
-          "height": 1078,
-          "title": "McAfee CTO: How AI is changing both cybersecurity and cyberattacks",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

@@ -2,6 +2,43 @@
   "page": 37,
   "value": [
     {
+      "path": "_news/2020-03-19-how-machine-learning-fights-financial-fraud.md",
+      "title": "How Machine Learning Fights Financial Fraud",
+      "excerpt": "We have e-shops, online banking, online insurances, and tons of other online services. But there’s one more thing we have ... So companies are forced to look for new solutions to prevent, detect, and eliminate fraud. And machine learning seems to be the best answer to financial fraud. How does it work, what are the benefits, and who ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cpomagazine.com/cyber-security/how-machine-learning-fights-financial-fraud/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-19T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CPO Magazine",
+        "domain": "cpomagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.cpomagazine.com/wp-content/uploads/2020/03/how-machine-learning-fights-financial-fraud_1500.jpg",
+          "width": 1500,
+          "height": 860,
+          "title": "How Machine Learning Fights Financial Fraud",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-19-hybrid-ai-systems-are-quietly-solving-the-problems-of-deep-learning.md",
       "title": "Hybrid AI systems are quietly solving the problems of deep learning",
       "excerpt": "Deep learning, the main innovation that has renewed interest in artificial intelligence in the past years, has helped solve many critical problems in computer vision, natural language processing, and speech recognition. However, as the deep learning matures and moves from hype peak to its trough of disillusionment, it is becoming clear that it ...",
@@ -1101,35 +1138,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-18-delphian-trading-launches-ai-based-institutional-trading-platform.md",
-      "title": "Delphian Trading Launches AI-based Institutional Trading Platform",
-      "excerpt": "Delphian Trading, a leader in predictive analytics for derivatives trading and incubated by System Soft Technologies, today announced the formal launch of its Delphian Trading platform, which provides institutional-grade,",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.globenewswire.com/news-release/2020/03/18/2002835/0/en/Delphian-Trading-Launches-AI-based-Institutional-Trading-Platform.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-18T09:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GlobeNewswire",
-        "domain": "globenewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

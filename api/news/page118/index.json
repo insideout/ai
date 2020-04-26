@@ -2,6 +2,43 @@
   "page": 118,
   "value": [
     {
+      "path": "_news/2020-01-08-new-approach-using-deep-learning-could-speed-up-brain-image-microscopy-by-16-times.md",
+      "title": "New approach using deep learning could speed up brain image microscopy by 16 times",
+      "excerpt": "They believed that deep learning -- a form of machine-learning that uses multiple layers of analysis to progressively extract higher level features from raw input -- could be very useful for increasing the resolution of microscope images, a process called ...",
+      "heat": 68,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.news-medical.net/news/20200108/New-approach-using-deep-learning-could-speed-up-brain-image-microscopy-by-16-times.aspx",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20200108/New-approach-using-deep-learning-could-speed-up-brain-image-microscopy-by-16-times.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200108/New-approach-using-deep-learning-could-speed-up-brain-image-microscopy-by-16-times.aspx",
+      "publishedDateTime": "2020-01-08T15:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.news-medical.net/image.axd?picture=2016%2f3%2fArtificially_Colored_MRI_Scan_Of_Human_Brain-Daisy_Daisy_a8c5d8bbbf824bc8932308e30187510f-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": "New approach using deep learning could speed up brain image microscopy by 16 times",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-01-08-artificial-humans-named-neon-are-stars-of-ces.md",
       "title": "'Artificial humans' named Neon are stars of CES",
       "excerpt": "Neon, the super-realistic digitally simulated avatar, has taken CES by storm. Build upon the Core R3 neural network, the Neon avatars can provide incredibly lifelike renderings of people to be used as AI assistants,",
@@ -1031,51 +1068,6 @@
       "topics": [
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-07-intels-tiger-lake-laptop-cpu-brings-thunderbolt-4-ai-graphics-processing.md",
-      "title": "Intel's Tiger Lake Laptop CPU Brings Thunderbolt 4, AI Graphics Processing",
-      "excerpt": "Some laptops with Tiger Lake processors are also expected to use Intel's upcoming discrete GPU, called the DGX1. Intel teased its discrete graphics processor last year at Computex, and at CES here it showed off a working demo of the GPU running Destiny 2 ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.pcmag.com/news/372882/intels-tiger-lake-laptop-cpu-brings-thunderbolt-4-ai-graph",
-      "ampWebUrl": "https://www.pcmag.com/news/372882/intels-tiger-lake-laptop-cpu-brings-thunderbolt-4-ai-graph?amp=1",
-      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/372882/intels-tiger-lake-laptop-cpu-brings-thunderbolt-4-ai-graph?amp=1",
-      "publishedDateTime": "2020-01-06T19:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/016yXQZCZtDGZxmUfpB8pav-3.fit_lpad.size_1200x675.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Intel's Tiger Lake Laptop CPU Brings Thunderbolt 4, AI Graphics Processing",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

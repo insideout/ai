@@ -2,6 +2,51 @@
   "page": 100,
   "value": [
     {
+      "path": "_news/2020-01-28-ai-and-disinformation-join-nukes-in-the-race-for-armageddon.md",
+      "title": "AI and disinformation join nukes in the race for armageddon",
+      "excerpt": "Some analysts say China is surging ahead with the development of artificial intelligence (AI), and perhaps even dominating the field. Huawei's founder Ren Zhengfei would beg to differ. The US government has yet to figure out the implications of AI, but China hasn't even started thinking about it, Ren told the World Economic Forum in Davos last ...",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/ai-and-disinformation-join-nukes-in-the-race-for-armageddon/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-and-disinformation-join-nukes-in-the-race-for-armageddon/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-and-disinformation-join-nukes-in-the-race-for-armageddon/",
+      "publishedDateTime": "2020-01-27T21:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2018/09/12/68bc9baf-bca9-4377-a59d-94d87c57e3be/thumbnail/1200x675/f52ca7b39d4fe3985df2389980bf8973/fibre-broadband.png",
+          "width": 1200,
+          "height": 675,
+          "title": "AI and disinformation join nukes in the race for armageddon",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2020-01-28-ai-can-help-cancer-patients-start-radiation-therapy-sooner.md",
       "title": "AI can help cancer patients start radiation therapy sooner",
       "excerpt": "Artificial intelligence can help cancer patients start their radiation therapy sooner - and thereby decrease the odds of the cancer spreading - by instantly translating complex clinical data into an optimal plan of attack. Patients typically must wait several days to a week to begin therapy while doctors manually develop treatment plans.",
@@ -1039,51 +1084,6 @@
         "AI",
         "Microsoft AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-01-27-the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it.md",
-      "title": "The US Army uses facial recognition to train AI. Now, it needs to protect it",
-      "excerpt": "Facial and object recognition technologies are used by the US Army to train artificial intelligence (AI) systems used in unmanned aerial vehicles (UAVs), surveillance systems, and more.",
-      "heat": 101,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-us-army-uses-facial-recognition-to-train-ai-now-it-needs-to-protect-it/",
-      "publishedDateTime": "2020-01-27T03:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2019/12/16/35ee7b2b-7adc-4a8f-9a42-034997586ff6/thumbnail/1200x675/29e6b7ba24c8774ada650245cc7c7ba7/san-diego-to-suspend-facial-recognition-5df3b0c7aaacb30001a11066-1-dec-16-2019-22-49-36-poster.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "The US Army uses facial recognition to train AI. Now, it needs to protect it",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

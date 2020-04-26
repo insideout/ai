@@ -2,6 +2,43 @@
   "page": 49,
   "value": [
     {
+      "path": "_news/2020-03-10-nec-x-and-vaco-partner-on-ai-machine-learning-solution.md",
+      "title": "NEC X and VACO Partner on AI, Machine Learning Solution",
+      "excerpt": "This AI platform runs VACO’s proven Cognitive Computing Framework and can be scaled with the exact number of vector engine (VE) cards needed to process large data sets in real time, for use in machine learning (ML) applications such as PII redaction and GDPR compliance for banking, financial services and insurance (BFSI), as well as several ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.hpcwire.com/off-the-wire/nec-x-and-vaco-partner-on-ai-machine-learning-solution/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-10T08:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HPCwire",
+        "domain": "hpcwire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/03/necx-vaco-press-image-final-300x225.png",
+          "width": 300,
+          "height": 225,
+          "title": "NEC X and VACO Partner on AI, Machine Learning Solution",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-10-deep-learning-electrocardiogram-devices-found-to-be-susceptible-to-adversarial-attack.md",
       "title": "Deep learning electrocardiogram devices found to be susceptible to adversarial attack",
       "excerpt": "A team of researchers from New York University and NYU Langone Health has found that deep learning electrocardiogram devices can be susceptible to adversarial attacks. In their paper published in the journal Nature Medicine, the group describes how they developed an attack approach and tested it with electrocardiogram devices. Over the past ...",
@@ -1091,43 +1128,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-09-amazon-wants-other-retailers-to-go-cashierless-with-its-just-walk-out-technology.md",
-      "title": "Amazon Wants Other Retailers to Go Cashierless With Its Just Walk Out Technology",
-      "excerpt": "Jay Stanley, senior policy analyst for the ACLU, which has previously expressed concerns about Amazon technology like Rekognition, said the ecommerce giant’s ability to retain data in ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.adweek.com/retail/amazon-wants-other-retailers-to-go-cashierless-with-its-just-walk-out-technology/",
-      "ampWebUrl": "https://www.adweek.com/retail/amazon-wants-other-retailers-to-go-cashierless-with-its-just-walk-out-technology/amp/",
-      "cdnAmpWebUrl": "https://www-adweek-com.cdn.ampproject.org/c/s/www.adweek.com/retail/amazon-wants-other-retailers-to-go-cashierless-with-its-just-walk-out-technology/amp/",
-      "publishedDateTime": "2020-03-09T12:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Adweek",
-        "domain": "adweek.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.adweek.com/wp-content/uploads/2020/03/nike-app-free-hed-page-2020-640x360.png",
-          "width": 640,
-          "height": 360,
-          "title": "Amazon Wants Other Retailers to Go Cashierless With Its Just Walk Out Technology",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

@@ -2,6 +2,52 @@
   "page": 62,
   "value": [
     {
+      "path": "_news/2020-02-19-ucla-abandons-plans-to-use-facial-recognition-after-backlash.md",
+      "title": "UCLA Abandons Plans to Use Facial Recognition After Backlash",
+      "excerpt": "In an attempt to highlight the risks of using facial recognition on UCLA's campus, Fight for the Future used Amazon's facial recognition software, Rekognition, to scan public photos of UCLA's athletes and faculty, then compare the photos to a mugshot database.",
+      "heat": 551,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.vice.com/en_us/article/z3by79/ucla-abandons-plans-to-use-facial-recognition-after-backlash",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-19T13:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VICE",
+        "domain": "vice.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/vice.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://video-images.vice.com/test-uploads/articles/5e4daba66b5b2900986d5840/lede/1582148536256-GettyImages-899305840.jpeg?crop=1xw:0.8436405216037368xh;center,center&resize=1200:*",
+          "width": 1200,
+          "height": 674,
+          "title": "UCLA Abandons Plans to Use Facial Recognition After Backlash",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2020-02-19-automating-your-amazon-forecast-workflow-with-lambda-step-functions-and-cloudwatch-events-rule.md",
       "title": "Automating your Amazon Forecast workflow with Lambda, Step Functions, and CloudWatch Events rule",
       "excerpt": "Amazon Forecast is a fully managed service that uses machine learning (ML) to generate highly accurate forecasts without requiring any prior ML experience. Forecast is applicable in a wide variety of use cases, including estimating product demand, energy demand, workforce planning, computing cloud infrastructure",
@@ -1227,52 +1273,6 @@
       ],
       "topics": [
         "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-02-19-obviously-ai-introduces-natural-language-predictive-analytics-service.md",
-      "title": "Obviously AI introduces natural language predictive analytics service",
-      "excerpt": "The key is a combination of natural language processing and AutoML-like capabilities that let you write a query down in standard English (you can skip the SQL), choose the data set and column(s) you want to target. Then the service performs some data cleansing to normalize the data, internally runs a handful of competing algorithms to select ...",
-      "heat": 131,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/obviously-ai-introduces-natural-language-predictive-analytics-service/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/obviously-ai-introduces-natural-language-predictive-analytics-service/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/obviously-ai-introduces-natural-language-predictive-analytics-service/",
-      "publishedDateTime": "2020-02-19T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2020/02/19/3b6d1b1b-288c-4f2d-9b9d-76593f46fba9/thumbnail/1200x675/aeb3ea6808e22b96d2de0a08c7e48caa/sennheiser-hd-450bt-header.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Obviously AI introduces natural language predictive analytics service",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing",
         "Machine Learning"
       ]
     }

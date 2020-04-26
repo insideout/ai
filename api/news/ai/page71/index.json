@@ -2,6 +2,51 @@
   "page": 71,
   "value": [
     {
+      "path": "_news/2020-02-10-deep-learning-godfathers-bengio-hinton-and-lecun-say-the-field-can-fix-its-flaws.md",
+      "title": "Deep learning godfathers Bengio, Hinton, and LeCun say the field can fix its flaws",
+      "excerpt": "The three, who were dubbed the \"godfathers\" of deep learning by the conference, were being honored for having received last year's Turing Award for lifetime achievements in computing.",
+      "heat": 83,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/deep-learning-godfathers-bengio-hinton-and-lecun-say-the-field-can-fix-its-flaws/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/deep-learning-godfathers-bengio-hinton-and-lecun-say-the-field-can-fix-its-flaws/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/deep-learning-godfathers-bengio-hinton-and-lecun-say-the-field-can-fix-its-flaws/",
+      "publishedDateTime": "2020-02-10T08:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/02/10/791c60e2-4f7e-4ab8-9ddf-688966cfe2ac/hinton-lecun-bengio-aaai20-feb-9-2020.png",
+          "width": 3151,
+          "height": 1082,
+          "title": "Deep learning godfathers Bengio, Hinton, and LeCun say the field can fix its flaws",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-02-10-how-to-empower-yourself-in-the-job-search-and-fight-back-against-the-ai-robots.md",
       "title": "How To Empower Yourself In The Job Search And Fight Back Against The AI Robots",
       "excerpt": "This approach is a useful and important tool to get yourself in front of the right people. This strategy will help increase your chances of getting noticed, chosen for an interview and, ultimately, getting the job you want.",
@@ -1235,50 +1280,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-02-09-study-warns-ai-may-trick-humans-with-false-evidence-of-alien-life.md",
-      "title": "Study warns AI may trick humans with false evidence of alien life",
-      "excerpt": "A newly published study warns that using AI to detect these techno-signatures may be risky, however, with the potential to make humans think they have discovered evidence of alien life when no such evidence actually exists. The new study points toward Ceres, the dwarf planet that briefly dazzled humanity with then-mysterious bright spots that ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.slashgear.com/study-warns-ai-may-trick-humans-with-false-evidence-of-alien-life-09609133/",
-      "ampWebUrl": "https://www.slashgear.com/study-warns-ai-may-trick-humans-with-false-evidence-of-alien-life-09609133/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/study-warns-ai-may-trick-humans-with-false-evidence-of-alien-life-09609133/amp/",
-      "publishedDateTime": "2020-02-09T06:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://scdn.slashgear.com/wp-content/uploads/2020/02/space_colorful_main_uns.jpg",
-          "width": 1440,
-          "height": 800,
-          "title": "Study warns AI may trick humans with false evidence of alien life",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

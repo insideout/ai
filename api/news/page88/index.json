@@ -2,6 +2,51 @@
   "page": 88,
   "value": [
     {
+      "path": "_news/2020-02-07-tesla-accused-of-abruptly-pulling-self-driving-from-a-used-model-s.md",
+      "title": "Tesla accused of abruptly pulling self-driving from a used Model S",
+      "excerpt": "An extensive Jalopnik report details an (anonymous) person who bought a second-hand Model S 75D with both Enhanced Autopilot and Full Self Driving (FSD) as listed features. Except, somehow, those features were remotely removed, without notice from Tesla, as part of a software update. Last November, a California secondhand dealer picked up the ...",
+      "heat": 139,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.engadget.com/2020/02/07/tesla-model-s-fsd-issues/",
+      "ampWebUrl": "https://www.engadget.com/amp/2020/02/07/tesla-model-s-fsd-issues/",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/02/07/tesla-model-s-fsd-issues/",
+      "publishedDateTime": "2020-02-07T02:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D5615%252C3744%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1067%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2020-02%252F573a2860-4997-11ea-b8ff-def49bb616f0%26client%3Da1acac3e1b3290917d92%26signature%3Dbc650a616fa7b08a85ec932a5a5f8db81960ac55&client=amp-blogside-v2&signature=55e283838481287341c2ce50730f8e43eb0dd682",
+          "width": 600,
+          "height": 350,
+          "title": "Tesla accused of abruptly pulling self-driving from a used Model S",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2020-02-07-natural-language-processing-market-2020-precise-outlook-apple-dolbey-systems-google-microsof-verint.md",
       "title": "Natural Language Processing Market 2020 Precise Outlook - Apple, Dolbey Systems, Google, Microsof, Verint",
       "excerpt": "The Natural Language Processing Market report is a compilation of first-hand information, qualitative and quantitative assessment by industry analysts, inputs from industry experts and industry participants across the value chain.",
@@ -1002,52 +1047,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-02-06-facebook-launches-3d-deep-learning-library-for-pytorch.md",
-      "title": "Facebook launches 3D deep learning library for PyTorch",
-      "excerpt": "Facebook AI Research (FAIR) today unveiled PyTorch3D, a library that enables researchers and developers to combine deep learning and 3D objects. As part of the release, Facebook is also open-sourcing Mesh R-CNN, a model introduced last year capable of rendering 3D objects from 2D shapes in images of interior spaces. PyTorch3D was inspired by ...",
-      "heat": 126,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/02/06/facebook-launches-3d-deep-learning-library-for-pytorch/",
-      "ampWebUrl": "https://venturebeat.com/2020/02/06/facebook-launches-3d-deep-learning-library-for-pytorch/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/06/facebook-launches-3d-deep-learning-library-for-pytorch/amp/",
-      "publishedDateTime": "2020-02-06T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/02/pytorch3D-1.png?fit=2472%2C1314&strip=all",
-          "width": 2472,
-          "height": 1314,
-          "title": "Facebook launches 3D deep learning library for PyTorch",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "Facebook AI"
       ]
     }
   ],

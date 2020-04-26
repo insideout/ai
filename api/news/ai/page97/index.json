@@ -2,6 +2,43 @@
   "page": 97,
   "value": [
     {
+      "path": "_news/2020-01-12-global-x-robotics-artificial-intelligence-thematic-etf-nysearcabotz-stock-price-up-0.md",
+      "title": "Global X Robotics & Artificial Intelligence Thematic ETF (NYSEARCA:BOTZ) Stock Price Up 0%",
+      "excerpt": "Shares of Global X Robotics & Artificial Intelligence Thematic ETF (NYSEARCA:BOTZ) rose 0% during mid-day trading on Friday . The stock traded as high as $22.60 and last traded at $22.42, approximately 4,672 shares were traded during trading. A decline of 99% from the average daily volume of 429,400 shares. The stock had previously closed at $ ...",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.modernreaders.com/news/2020/01/12/global-x-robotics-artificial-intelligence-thematic-etf-nysearcabotz-stock-price-up-0.html",
+      "ampWebUrl": "https://www.modernreaders.com/news/2020/01/12/global-x-robotics-artificial-intelligence-thematic-etf-nysearcabotz-stock-price-up-0.html/amp",
+      "cdnAmpWebUrl": "https://www-modernreaders-com.cdn.ampproject.org/c/s/www.modernreaders.com/news/2020/01/12/global-x-robotics-artificial-intelligence-thematic-etf-nysearcabotz-stock-price-up-0.html/amp",
+      "publishedDateTime": "2020-01-12T05:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "modernreaders.com",
+        "domain": "modernreaders.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.marketbeat.com/logos/generic-stocks.jpg",
+          "width": 450,
+          "height": 323,
+          "title": "Global X Robotics & Artificial Intelligence Thematic ETF (NYSEARCA:BOTZ) Stock Price Up 0%",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-01-12-microsoft-outsourced-skype-cortana-voice-analysis-to-china-with-virtually-no-security-in-place-report.md",
       "title": "Microsoft Outsourced Skype, Cortana Voice Analysis to China With Virtually No Security in Place: Report",
       "excerpt": "According to the Guardian, workers who were tasked with transcribing and vetting these clips in order to improve Microsoft’s voice-recognition technology were given no cybersecurity support to keep the recordings from theft or seizure by governments. A contractor on the project, who was based out of Beijing, told the paper that new hires ...",
@@ -1280,43 +1317,6 @@
         "AI",
         "AWS AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-09-the-trump-administration-wants-to-regulate-artificial-intelligence.md",
-      "title": "The Trump Administration Wants to Regulate Artificial Intelligence",
-      "excerpt": "To prevent the United States from falling behind competitor nations like China, when it comes to the development of artificial intelligence-based ... In the case of self-driving cars, there was—and continues to be—a clear lack of regulation at the ...",
-      "heat": 69,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.popularmechanics.com/technology/a30430579/trump-artificial-intelligence-ai-guidelines/",
-      "ampWebUrl": "https://www.popularmechanics.com/technology/amp30430579/trump-artificial-intelligence-ai-guidelines/",
-      "cdnAmpWebUrl": "https://www-popularmechanics-com.cdn.ampproject.org/c/s/www.popularmechanics.com/technology/amp30430579/trump-artificial-intelligence-ai-guidelines/",
-      "publishedDateTime": "2020-01-09T14:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Popular Mechanics",
-        "domain": "popularmechanics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/trump-ai-1578605274.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
-          "width": 1200,
-          "height": 600,
-          "title": "The Trump Administration Wants to Regulate Artificial Intelligence",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

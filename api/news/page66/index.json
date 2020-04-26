@@ -2,6 +2,42 @@
   "page": 66,
   "value": [
     {
+      "path": "_news/2020-02-27-healthcare-startup-qureai-raises-16-million-led-by-sequoia-india.md",
+      "title": "Healthcare startup Qure.ai raises $16 million led by Sequoia India",
+      "excerpt": "Healthcare startup Qure.ai has raised $16 million in an equity funding round led by Sequoia India, with participation from MassMutual Ventures Southeast Asia, it said Thursday. MassMutual Ventures is the investment arm of US-based MassMutual Life Insurance Company. Founded in 2016 by Prashant Warier and Pooja Rao, Qure.ai provides ...",
+      "heat": 77,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.livemint.com/companies/start-ups/healthcare-startup-qure-ai-raises-16-million-led-by-sequoia-india-11582797164202.html",
+      "ampWebUrl": "https://www.livemint.com/companies/start-ups/healthcare-startup-qure-ai-raises-16-million-led-by-sequoia-india/amp-11582797164202.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/start-ups/healthcare-startup-qure-ai-raises-16-million-led-by-sequoia-india/amp-11582797164202.html",
+      "publishedDateTime": "2020-02-27T02:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.livemint.com/img/2020/02/27/600x338/healthcare-kH0D--621x414@LiveMint_1582797347447.jpg",
+          "width": 600,
+          "height": 337,
+          "title": "Healthcare startup Qure.ai raises $16 million led by Sequoia India",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-02-27-mobile-artificial-intelligence-mai-market-outlook-2019-mediatek-microsoft-corporation-ibm-corporation.md",
       "title": "Mobile Artificial Intelligence (MAI) Market Outlook 2019 | MediaTek, Microsoft Corporation, IBM Corporation",
       "excerpt": "Global Mobile Artificial Intelligence (MAI) Market 2019 Trending Industry News with quality, reliability and innovations in technology. Global Mobile Artificial Intelligence (MAI) Market 2019 showcases the newest trends within the international and regional markets on all important parameters also as valuable facts and figures,",
@@ -1021,50 +1057,6 @@
       "topics": [
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-02-26-artificial-intelligence-uncovers-outrageous-employee-expense-reports.md",
-      "title": "Artificial intelligence uncovers outrageous employee expense reports",
-      "excerpt": "SEE: Cheat sheet: Artificial intelligence (free PDF) (TechRepublic) \"Nothing shocks me. It's just how much is going through—that's what surprises me—how far people can take it,\" said Anant Kale, CEO of AppZen. Companies spend an average of $4,134 on a so-called high-risk expense report, which includes out-of-policy items or merchants ...",
-      "heat": 187,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/artificial-intelligence-uncovers-outrageous-employee-expense-reports/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/artificial-intelligence-uncovers-outrageous-employee-expense-reports/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/artificial-intelligence-uncovers-outrageous-employee-expense-reports/",
-      "publishedDateTime": "2020-02-26T08:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/01/21/8b97c7d2-1021-47d9-8344-ef569f6dac5e/resize/1200x/3468efd8c5c2522af698896bc047ed3e/screen-shot-2020-01-21-at-1-18-19-pm.png",
-          "width": 1200,
-          "height": 907,
-          "title": "Artificial intelligence uncovers outrageous employee expense reports",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

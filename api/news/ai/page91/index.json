@@ -2,6 +2,51 @@
   "page": 91,
   "value": [
     {
+      "path": "_news/2020-01-19-artificial-intelligence-to-drive-china-vc-investments-in-2017-kpmg.md",
+      "title": "Artificial intelligence to drive China VC investments in 2017: KPMG",
+      "excerpt": "and monetize it,\" a KPMG China partner, Lyndon Fung, told CNBC's \"Street Signs\" on Thursday. He cited self-driving cars as an example of artificial intelligence technology that is poised to ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2017/01/18/artificial-intelligence-to-drive-china-vc-investments-in-2017-kpmg.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2017/01/18/artificial-intelligence-to-drive-china-vc-investments-in-2017-kpmg.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2017/01/18/artificial-intelligence-to-drive-china-vc-investments-in-2017-kpmg.html",
+      "publishedDateTime": "2020-01-18T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/104227109-GettyImages-596727272.jpg?v=1529473923",
+          "width": 1024,
+          "height": 666,
+          "title": "Artificial intelligence to drive China VC investments in 2017: KPMG",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2020-01-18-the-3-best-artificial-intelligence-stocks-to-buy-now-for-your-portfolio.md",
       "title": "The 3 Best Artificial Intelligence Stocks to Buy Now for Your Portfolio",
       "excerpt": "Artificial intelligence (AI) is probably today's hottest tech growth trend. Spending on AI systems will soar from $37.5 billion in 2019 to $97.9 billion in 2023 -- that's a 28.4% compound annual growth rate -- according to estimates by research firm IDC. And that's a conservative projection. So it makes great sense for investors to want some ...",
@@ -1241,43 +1286,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-01-17-patent-dominance-top-5-companies-leading-the-charge.md",
-      "title": "Patent Dominance: Top 5 Companies Leading the Charge",
-      "excerpt": "P atents are considered one of the best representations of a company’s inventive activity. Patenting an innovation is a crucial step to secure and convert research and development (R&D) efforts into potential economic gains.",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nasdaq.com/articles/patent-dominance%3A-top-5-companies-leading-the-charge-2020-01-17",
-      "ampWebUrl": "https://www.nasdaq.com/articles/patent-dominance%3A-top-5-companies-leading-the-charge-2020-01-17?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/patent-dominance%3A-top-5-companies-leading-the-charge-2020-01-17?amp",
-      "publishedDateTime": "2020-01-17T08:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.nasdaq.com/sites/acquia.prod/files/2019-07/ibm2.jpg",
-          "width": 1000,
-          "height": 665,
-          "title": "Patent Dominance: Top 5 Companies Leading the Charge",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

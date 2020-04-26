@@ -2,6 +2,51 @@
   "page": 44,
   "value": [
     {
+      "path": "_news/2020-03-19-natural-language-processing-market-industry-size-share-business-strategies-major-segments-and-key-manufacturers-revenue-forecast.md",
+      "title": "Natural Language Processing Market Industry Size & Share, Business Strategies, Major Segments and Key Manufacturers Revenue Forecast",
+      "excerpt": "The global natural language processing market is expected to rise with an impressive CAGR and generate the highest revenue by 2026.Fortune Business Insights™ in its latest report published this information.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-industry-size-share-business-strategies-major-segments-and-key-manufacturers-revenue-forecast-2020-03-19",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-19T05:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Natural Language Processing Market Industry Size & Share, Business Strategies, Major Segments and Key Manufacturers Revenue Forecast",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-19-is-ices-use-of-a-maryland-facial-recognition-database-lawful.md",
       "title": "Is ICE’s Use of a Maryland Facial Recognition Database Lawful?",
       "excerpt": "The Washington Post reported recently that U.S. Immigration and Customs Enforcement (ICE) officials have accessed, without obtaining judicial process, a Maryland facial recognition database that contains photographs of more than 275,000 undocumented immigrants who have obtained special driver’s licenses under a 2013 state law. “It’s a bet ...",
@@ -924,44 +969,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-18-ibm-working-on-greater-business-use-of-natural-language-processing.md",
-      "title": "IBM Working on Greater Business Use of Natural Language Processing",
-      "excerpt": "IBM today at an online event outlined a plan to bring to market new natural language processing (NLP) technology that will help computers better understand human communication and companies better communicate with their customers. The company is working on commercial applications of the NLP technology developed as part of IBM Research's Project ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=139833",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-18T13:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Destination CRM",
-        "domain": "destinationcrm.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://dzceab466r34n.cloudfront.net/Images/TopStoryImages/116673-Top-Story-AI-ORG.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": "IBM Working on Greater Business Use of Natural Language Processing",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "IBM AI"
       ]
     }
   ],

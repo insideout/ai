@@ -2,6 +2,43 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2020-04-01-study-nations-leading-speech-recognition-systems-twice-as-likely-to-misinterpret-black-speech.md",
+      "title": "Study: Nation’s Leading Speech Recognition Systems Twice as Likely to Misinterpret Black Speech",
+      "excerpt": "The technology behind automated speech recognition systems at some of the nation’s top tech firms are twice as likely to misinterpret words spoken by African-Americans compared to those spoken by whites, according to a new study out of Stanford University. Stanford University researchers found that speech recognition systems used by the top ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://atlantablackstar.com/2020/04/01/study-nations-leading-speech-recognition-systems-twice-as-likely-to-misinterpret-black-speech/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-01T10:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Atlanta Blackstar",
+        "domain": "atlantablackstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://atlantablackstar.com/wp-content/uploads/2020/03/GettyImages-1189583572-scaled.jpg",
+          "width": 2560,
+          "height": 1707,
+          "title": "Study: Nation’s Leading Speech Recognition Systems Twice as Likely to Misinterpret Black Speech",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-01-immunitybio-and-microsoft-team-up-to-precisely-model-how-key-covid-19-protein-leads-to-infection.md",
       "title": "ImmunityBio and Microsoft team up to precisely model how key COVID-19 protein leads to infection",
       "excerpt": "In practical terms, the partnership between the two companies included a complement of 1,250 Nvidia V100 Tensor Core GPUs designed for use in machine learning applications from a Microsoft Azure cluster, working with ImmunityBio’s existing 320 GPU cluster that is tuned specifically to molecular modeling work. The results of the collaboration ...",
@@ -1234,51 +1271,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-01-about-azure-edge-zones-preview.md",
-      "title": "About Azure Edge Zones - Preview",
-      "excerpt": "... using SD-WAN appliances on the same Private Edge Zone appliances and manage them from Azure. Typical use cases include: Real-time command and control in robotics Real-time analytics and inferencing with Artificial Intelligence and Machine Learning Machine Vision Remote rendering for mixed reality and VDI scenarios Surveillance and security ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://docs.microsoft.com/en-us/azure/networking/edge-zones-overview",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-31T22:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png",
-          "width": 400,
-          "height": 400,
-          "title": "About Azure Edge Zones - Preview",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

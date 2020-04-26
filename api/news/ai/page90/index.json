@@ -2,6 +2,51 @@
   "page": 90,
   "value": [
     {
+      "path": "_news/2020-01-20-darpa-backed-soft-robotics-raises-23-million-for-autonomous-grippers-and-sorters.md",
+      "title": "DARPA-backed Soft Robotics raises $23 million for autonomous grippers and sorters",
+      "excerpt": "As for the SuperPick, it’s a robot-agnostic solution comprising a vision system and AI engine that reports real-time metrics ... Sign up for Funding Weekly to start your week with VB's top funding stories.",
+      "heat": 124,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/01/20/darpa-backed-soft-robotics-raises-23-million-for-autonomous-grippers-and-sorters/",
+      "ampWebUrl": "https://venturebeat.com/2020/01/20/darpa-backed-soft-robotics-raises-23-million-for-autonomous-grippers-and-sorters/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/20/darpa-backed-soft-robotics-raises-23-million-for-autonomous-grippers-and-sorters/amp/",
+      "publishedDateTime": "2020-01-20T10:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/01/SoftRobotics_Eggs-e1579543568131.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "DARPA-backed Soft Robotics raises $23 million for autonomous grippers and sorters",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-01-20-interpreting-3d-seismic-data-automatically-using-amazon-sagemaker.md",
       "title": "Interpreting 3D seismic data automatically using Amazon SageMaker",
       "excerpt": "Interpreting 3D seismic data correctly helps identify geological features that may hold or trap oil and gas deposits. Amazon SageMaker and Apache MXNet on AWS can automate horizon picking using deep learning techniques. In this post, I use these services to build and train a custom deep-learning model",
@@ -1234,51 +1279,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-19-artificial-intelligence-to-drive-china-vc-investments-in-2017-kpmg.md",
-      "title": "Artificial intelligence to drive China VC investments in 2017: KPMG",
-      "excerpt": "and monetize it,\" a KPMG China partner, Lyndon Fung, told CNBC's \"Street Signs\" on Thursday. He cited self-driving cars as an example of artificial intelligence technology that is poised to ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnbc.com/2017/01/18/artificial-intelligence-to-drive-china-vc-investments-in-2017-kpmg.html",
-      "ampWebUrl": "https://www.cnbc.com/amp/2017/01/18/artificial-intelligence-to-drive-china-vc-investments-in-2017-kpmg.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2017/01/18/artificial-intelligence-to-drive-china-vc-investments-in-2017-kpmg.html",
-      "publishedDateTime": "2020-01-18T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/104227109-GettyImages-596727272.jpg?v=1529473923",
-          "width": 1024,
-          "height": 666,
-          "title": "Artificial intelligence to drive China VC investments in 2017: KPMG",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

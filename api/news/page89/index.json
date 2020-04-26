@@ -2,6 +2,52 @@
   "page": 89,
   "value": [
     {
+      "path": "_news/2020-02-06-facebook-launches-3d-deep-learning-library-for-pytorch.md",
+      "title": "Facebook launches 3D deep learning library for PyTorch",
+      "excerpt": "Facebook AI Research (FAIR) today unveiled PyTorch3D, a library that enables researchers and developers to combine deep learning and 3D objects. As part of the release, Facebook is also open-sourcing Mesh R-CNN, a model introduced last year capable of rendering 3D objects from 2D shapes in images of interior spaces. PyTorch3D was inspired by ...",
+      "heat": 126,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/02/06/facebook-launches-3d-deep-learning-library-for-pytorch/",
+      "ampWebUrl": "https://venturebeat.com/2020/02/06/facebook-launches-3d-deep-learning-library-for-pytorch/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/06/facebook-launches-3d-deep-learning-library-for-pytorch/amp/",
+      "publishedDateTime": "2020-02-06T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/02/pytorch3D-1.png?fit=2472%2C1314&strip=all",
+          "width": 2472,
+          "height": 1314,
+          "title": "Facebook launches 3D deep learning library for PyTorch",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2020-02-06-ieee-calls-for-standards-to-combat-climate-change-and-protect-kids-in-the-age-of-ai.md",
       "title": "IEEE calls for standards to combat climate change and protect kids in the age of AI",
       "excerpt": "The white paper encapsulates change underway at the IEEE in line with AI ethics principles released in spring 2019 after years of work, according to IEEE Global Initiative on Ethics of Autonomous & Intelligent Systems John Havens. It also follows last fall’s declaration by IEEE leadership to recognize “the global scale of the human-made and ...",
@@ -1007,50 +1053,6 @@
       "topics": [
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-02-05-huami-amazfit-homestudio-start-your-immersive-fitness-at-home-in-2020.md",
-      "title": "Huami Amazfit HomeStudio: Start your immersive fitness at home in 2020",
-      "excerpt": "The Amazfit HomeStudio is built to offer a vision of the future of fitness with connectivity, technology, and the way AI will impact your workout. Huami CEO Wang Huang said, “at the end of 2019, Huami defined a new mission: Connect Health with Technology,” and the new Amazfit is just the start of a new decade of technology. The Amazfit ...",
-      "heat": 72,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.androidauthority.com/huami-amazfit-homestudio-treadmill-display-1080512/",
-      "ampWebUrl": "https://www.androidauthority.com/huami-amazfit-homestudio-treadmill-display-1080512/amp/",
-      "cdnAmpWebUrl": "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/huami-amazfit-homestudio-treadmill-display-1080512/amp/",
-      "publishedDateTime": "2020-02-05T12:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Authority",
-        "domain": "androidauthority.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/androidauthority.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn57.androidauthority.net/wp-content/uploads/2020/02/huami-amazfit-homestudio-treadmill-4-920x470.jpg",
-          "width": 920,
-          "height": 470,
-          "title": "Huami Amazfit HomeStudio: Start your immersive fitness at home in 2020",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

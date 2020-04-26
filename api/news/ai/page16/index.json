@@ -2,6 +2,43 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2020-04-08-deep-learning-shows-promising-growth-amid-challenges.md",
+      "title": "Deep Learning Shows Promising Growth Amid Challenges",
+      "excerpt": "Deep learning, a subset of machine learning and artificial intelligence (AI), has been there since a while, but became an overnight “sensation” when in 2016, Google’s AI program, a robot ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cxotoday.com/news-analysis/deep-learning-shows-promising-growth-amid-challenges/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-07T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CXO Today",
+        "domain": "cxotoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.cxotoday.com/wp-content/uploads/2020/04/deep-learning5.jpg",
+          "width": 600,
+          "height": 450,
+          "title": "Deep Learning Shows Promising Growth Amid Challenges",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-08-security-measure-or-big-brother-civil-rights-groups-ask-amazon-to-stop-selling-its-facial-recognition-system-to-law-enforcement.md",
       "title": "Security measure or Big Brother? Civil rights groups ask Amazon to stop selling its facial recognition system to law enforcement",
       "excerpt": "The technology, called Rekognition, was released in 2016 through Amazon’s cloud computing division. For a low price, it helps users identify people, objects, scenes and activities in videos or ...",
@@ -1230,51 +1267,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-07-tenstorrent-reveals-grayskull-an-all-in-one-system-that-accelerates-ai-model-training.md",
-      "title": "Tenstorrent reveals Grayskull, an all-in-one system that accelerates AI model training",
-      "excerpt": "Tenstorrent, an AI and machine learning hardware startup based in Toronto, Canada, today emerged from stealth with over $34 million in financing and an all-in-one computer system dubbed Grayskull. Cofounder and CEO Ljubisa Bajic, a former Nvidia senior architect who previously served as director of integrated circuit design at AMD, claims that ...",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/07/tenstorrent-reveals-grayskull-an-all-in-one-system-that-accelerates-ai-model-training/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/07/tenstorrent-reveals-grayskull-an-all-in-one-system-that-accelerates-ai-model-training/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/07/tenstorrent-reveals-grayskull-an-all-in-one-system-that-accelerates-ai-model-training/amp/",
-      "publishedDateTime": "2020-04-07T06:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/11/big-data.GettyImages-1133714603-e1584722383408.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Tenstorrent reveals Grayskull, an all-in-one system that accelerates AI model training",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

@@ -2,6 +2,50 @@
   "page": 110,
   "value": [
     {
+      "path": "_news/2020-01-17-hedera-hashgraph-cpo-the-adoption-of-blockchain-is-going-faster-than-ive-seen-in-iot-and-ai.md",
+      "title": "Hedera Hashgraph CPO: “The Adoption Of Blockchain Is Going Faster Than I’ve Seen In IoT And AI”",
+      "excerpt": "“This is about building use cases, proving the value, developing, and technology, deploying on a POC, and so forth,” said Lionel Chocron, CPO of Hedera Hashgraph.",
+      "heat": 75,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/justinoconnell/2020/01/17/hedera-hashgraph-cpo-the-adoption-of-blockchain-is-going-faster-than-ive-seen-in-iot-and-ai/",
+      "ampWebUrl": "https://www.forbes.com/sites/justinoconnell/2020/01/17/hedera-hashgraph-cpo-the-adoption-of-blockchain-is-going-faster-than-ive-seen-in-iot-and-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/justinoconnell/2020/01/17/hedera-hashgraph-cpo-the-adoption-of-blockchain-is-going-faster-than-ive-seen-in-iot-and-ai/amp/",
+      "publishedDateTime": "2020-01-17T10:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/711x533/https://specials-images.forbesimg.com/imageserve/5e21f534a854780006e8c6b8/960x0.jpg?fit=scale",
+          "width": 711,
+          "height": 533,
+          "title": "Hedera Hashgraph CPO: “The Adoption Of Blockchain Is Going Faster Than I’ve Seen In IoT And AI”",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-01-17-google-hopes-to-draw-more-cloud-customers-by-making-ai-easier-to-use.md",
       "title": "Google hopes to draw more cloud customers by making A.I. easier to use",
       "excerpt": "Google's first Cloud AutoML tool will be for recognizing objects in images. It follows Google's Cloud Machine Learning Engine service and the Cloud Vision application programming interface.",
@@ -1033,52 +1077,6 @@
       "topics": [
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-17-apples-latest-deal-shows-how-ai-is-moving-right-onto-devices.md",
-      "title": "Apple's Latest Deal Shows How AI Is Moving Right Onto Devices",
-      "excerpt": "It’s all about keeping an edge in AI ... by adding more AI to the edge. “Machine learning is going to happen at the edge in a big way,” predicts Subhasish Mitra, a professor at Stanford who is working on low-power chips for AI. “The big question is how do you do it efficiently? That requires new hardware technology and design.",
-      "heat": 101,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wired.com/story/apples-deal-shows-ai-moving-devices/",
-      "ampWebUrl": "https://www.wired.com/story/apples-deal-shows-ai-moving-devices/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/apples-deal-shows-ai-moving-devices/amp",
-      "publishedDateTime": "2020-01-16T23:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5e20d1f9f2f8270008751d36/master/pass/Biz-applemobile-1026919434.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": "Apple's Latest Deal Shows How AI Is Moving Right Onto Devices",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware",
-        "Machine Learning"
       ]
     }
   ],

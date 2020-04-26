@@ -2,6 +2,43 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2020-04-03-top-artificial-intelligence-funding-and-investments-in-march-2020.md",
+      "title": "Top Artificial Intelligence Funding and Investments in March 2020",
+      "excerpt": "What Artificial Intelligence has in its baggage is known to everyone and ... Therefore, we have brought you some of the most recent and significant AI funding and investments of 2020. Waymo, Alphabet’s self-driving car unit, just raised billions of ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.analyticsinsight.net/top-artificial-intelligence-funding-and-investments-in-march-2020/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-02T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics Insight",
+        "domain": "analyticsinsight.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.analyticsinsight.net/wp-content/uploads/2020/04/software_robots-top-526940848.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": "Top Artificial Intelligence Funding and Investments in March 2020",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-03-your-face-is-going-places-you-may-not-like.md",
       "title": "Your Face Is Going Places You May Not Like",
       "excerpt": "In a study by the ACLU, Amazon’s Rekognition software accidentally matched 28 members of congress with mugshots in its database. The training set isn’t the only problem for recognition.",
@@ -1238,35 +1275,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-02-deepminds-agent57-can-beat-average-humans-at-57-atari-games.md",
-      "title": "DeepMind’s ‘Agent57’ Can Beat Average Humans At 57 Atari Games",
-      "excerpt": "In a recent paper published by Google subsidiary, DeepMind has stated that the company has developed a new artificial intelligence — Agent57 designed to play and beat an average human at 57 classic Atari games, in the Arcade Learning environment. The system has been developed by combining deep reinforcement learning with an ML technique in ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://analyticsindiamag.com/deepminds-agent57-can-beat-average-humans-at-57-atari-games/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-02T05:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

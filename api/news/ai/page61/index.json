@@ -2,6 +2,52 @@
   "page": 61,
   "value": [
     {
+      "path": "_news/2020-02-20-cisco-adds-5g-and-machine-learning-to-iot-monitoring-platform.md",
+      "title": "Cisco adds 5G and machine learning to IoT monitoring platform",
+      "excerpt": "\"Leveraging machine learning opens up opportunities to look for specific patterns or to find new patterns that may have operational, security or financial implications,\" he said. SEE: 5G: What it means for IoT (free PDF) The Control Center allows customers to manage multiple services through one platform. Butaney said one of Cisco's ...",
+      "heat": 131,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/article/cisco-adds-5g-and-machine-learning-to-iot-monitoring-platform/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/cisco-adds-5g-and-machine-learning-to-iot-monitoring-platform/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/cisco-adds-5g-and-machine-learning-to-iot-monitoring-platform/",
+      "publishedDateTime": "2020-02-20T08:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/02/03/66f6f5da-15a1-456c-8adf-a48cbf833009/resize/1200x/9666674f20d29b29ebb06d59db1479a9/istock-952984968.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Cisco adds 5G and machine learning to IoT monitoring platform",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2020-02-20-artificial-intelligence-yields-new-antibiotic.md",
       "title": "Artificial intelligence yields new antibiotic",
       "excerpt": "\"We wanted to develop a platform that would allow us to harness the power of artificial intelligence to usher in a new age of antibiotic drug discovery,\" says James Collins, the Termeer Professor of Medical Engineering and Science in MIT's Institute for Medical Engineering and Science (IMES) and Department of Biological Engineering. \"Our ...",
@@ -1245,52 +1291,6 @@
         "AI",
         "Machine Learning",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-02-19-ucla-abandons-plans-to-use-facial-recognition-after-backlash.md",
-      "title": "UCLA Abandons Plans to Use Facial Recognition After Backlash",
-      "excerpt": "In an attempt to highlight the risks of using facial recognition on UCLA's campus, Fight for the Future used Amazon's facial recognition software, Rekognition, to scan public photos of UCLA's athletes and faculty, then compare the photos to a mugshot database.",
-      "heat": 551,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.vice.com/en_us/article/z3by79/ucla-abandons-plans-to-use-facial-recognition-after-backlash",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-19T13:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VICE",
-        "domain": "vice.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/vice.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://video-images.vice.com/test-uploads/articles/5e4daba66b5b2900986d5840/lede/1582148536256-GettyImages-899305840.jpeg?crop=1xw:0.8436405216037368xh;center,center&resize=1200:*",
-          "width": 1200,
-          "height": 674,
-          "title": "UCLA Abandons Plans to Use Facial Recognition After Backlash",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Computer Vision"
       ]
     }
   ],

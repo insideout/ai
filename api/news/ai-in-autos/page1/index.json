@@ -5,7 +5,7 @@
       "path": "_news/2020-04-26-microsoft-technology-chief-explains-how-ai-could-someday-help-rural-people-get-through-a-pandemic.md",
       "title": "Microsoft technology chief explains how A.I. could someday help rural people get through a pandemic",
       "excerpt": "Coronavirus has reached Campbell County, where Microsoft's Kevin Scott grew up. He thinks said AI could offer new economic opportunity and greater interaction.",
-      "heat": 75,
+      "heat": 76,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.cnbc.com/2020/04/26/microsoft-cto-ai-can-help-rural-people-ride-out-covid-19.html",
@@ -50,7 +50,7 @@
       "path": "_news/2020-04-26-artificial-intelligence-wont-save-us-from-coronavirus.md",
       "title": "Artificial Intelligence Won't Save Us From Coronavirus",
       "excerpt": "Artificial intelligence is here to save us from coronavirus. It spots new outbreaks, identifies people with fevers, diagnoses cases, prioritizes the patients most in need, reads the scientific literature,",
-      "heat": 89,
+      "heat": 91,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.wired.com/story/artificial-intelligence-wont-save-us-from-coronavirus/",
@@ -88,7 +88,8 @@
       ],
       "topics": [
         "AI",
-        "AI in Autos"
+        "AI in Autos",
+        "Facebook AI"
       ]
     },
     {

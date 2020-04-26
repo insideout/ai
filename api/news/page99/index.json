@@ -2,6 +2,50 @@
   "page": 99,
   "value": [
     {
+      "path": "_news/2020-01-28-artificial-intelligence-is-still-a-science-project-in-most-companies.md",
+      "title": "Artificial Intelligence Is Still A Science Project In Most Companies",
+      "excerpt": "Will AI remain in the labs while the industry moves on to the next technology trend, or will it become the revolutionary force some are predicting?",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/joemckendrick/2020/01/28/artificial-intelligence-is-still-a-science-project-in-most-companies/",
+      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2020/01/28/artificial-intelligence-is-still-a-science-project-in-most-companies/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2020/01/28/artificial-intelligence-is-still-a-science-project-in-most-companies/amp/",
+      "publishedDateTime": "2020-01-28T09:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1154231467%2F0x0.jpg",
+          "width": 1200,
+          "height": 663,
+          "title": "Artificial Intelligence Is Still A Science Project In Most Companies",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-01-28-securitiai-scores-50m-series-b-to-modernize-data-governance.md",
       "title": "Securiti.ai scores $50M Series B to modernize data governance",
       "excerpt": "Securiti.ai, a San Jose startup, is working to bring a modern twist to data governance and security. Today the company announced a $50 million Series B led by General Catalyst with participation from Mayfield. The company, which only launched in 2018, reports it has already raised $81 million. What is attracting all of this investment in such a ...",
@@ -1000,51 +1044,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-01-28-ai-and-disinformation-join-nukes-in-the-race-for-armageddon.md",
-      "title": "AI and disinformation join nukes in the race for armageddon",
-      "excerpt": "Some analysts say China is surging ahead with the development of artificial intelligence (AI), and perhaps even dominating the field. Huawei's founder Ren Zhengfei would beg to differ. The US government has yet to figure out the implications of AI, but China hasn't even started thinking about it, Ren told the World Economic Forum in Davos last ...",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/ai-and-disinformation-join-nukes-in-the-race-for-armageddon/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-and-disinformation-join-nukes-in-the-race-for-armageddon/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-and-disinformation-join-nukes-in-the-race-for-armageddon/",
-      "publishedDateTime": "2020-01-27T21:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2018/09/12/68bc9baf-bca9-4377-a59d-94d87c57e3be/thumbnail/1200x675/f52ca7b39d4fe3985df2389980bf8973/fibre-broadband.png",
-          "width": 1200,
-          "height": 675,
-          "title": "AI and disinformation join nukes in the race for armageddon",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

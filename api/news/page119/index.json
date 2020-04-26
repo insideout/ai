@@ -2,6 +2,51 @@
   "page": 119,
   "value": [
     {
+      "path": "_news/2020-01-07-intels-tiger-lake-laptop-cpu-brings-thunderbolt-4-ai-graphics-processing.md",
+      "title": "Intel's Tiger Lake Laptop CPU Brings Thunderbolt 4, AI Graphics Processing",
+      "excerpt": "Some laptops with Tiger Lake processors are also expected to use Intel's upcoming discrete GPU, called the DGX1. Intel teased its discrete graphics processor last year at Computex, and at CES here it showed off a working demo of the GPU running Destiny 2 ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.pcmag.com/news/372882/intels-tiger-lake-laptop-cpu-brings-thunderbolt-4-ai-graph",
+      "ampWebUrl": "https://www.pcmag.com/news/372882/intels-tiger-lake-laptop-cpu-brings-thunderbolt-4-ai-graph?amp=1",
+      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/372882/intels-tiger-lake-laptop-cpu-brings-thunderbolt-4-ai-graph?amp=1",
+      "publishedDateTime": "2020-01-06T19:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/016yXQZCZtDGZxmUfpB8pav-3.fit_lpad.size_1200x675.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Intel's Tiger Lake Laptop CPU Brings Thunderbolt 4, AI Graphics Processing",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2020-01-07-waymos-autonomous-cars-have-driven-20-million-miles-on-public-roads.md",
       "title": "Waymo’s autonomous cars have driven 20 million miles on public roads",
       "excerpt": "The updated metric puts Waymo far ahead of rivals like Yandex and Baidu, whose cars had driven ... In late 2017, the cofounder of Cruise, GM’s self-driving unit, told investors it was on the ...",
@@ -1029,51 +1074,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-03-seismic-horizons-detection-using-computer-vision.md",
-      "title": "Seismic horizons detection using computer vision",
-      "excerpt": "The complexity of seismic data interpretation and analysis is mainly connected with the fact that for each task requires an individual approach, since each dataset is unique. Manual processing requires significant labor costs, and the result often contains ...",
-      "heat": 69,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/seismic-data-analysis-using-ai/seismic-data-analysis-using-ai-3ce18a18fbb?source=---------2------------------",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-03T11:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/800/0*qrI00-KHLcVXzTbq",
-          "width": 800,
-          "height": 581,
-          "title": "Seismic horizons detection using computer vision",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

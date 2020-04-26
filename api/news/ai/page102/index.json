@@ -2,6 +2,50 @@
   "page": 102,
   "value": [
     {
+      "path": "_news/2018-08-29-everything-you-need-to-know-about-key-differences-between-ai-data-science-machine-learning-and-big-data.md",
+      "title": "Everything you need to know about key differences between AI, Data Science, Machine Learning and Big Data",
+      "excerpt": "“All right, but what’s the difference between data science and AI ... claims that: “Machine learning is a part of research on artificial intelligence, seeking to provide knowledge to ...",
+      "heat": 150,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/dlabs-pl/everything-you-need-to-know-about-key-differences-between-ai-data-science-machine-learning-and-4ad7ab0b516b",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2018-08-28T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/1024/1*Ps0DH-MFVfZKjkhgFoL3Kg.jpeg",
+          "width": 1024,
+          "height": 683,
+          "title": "Everything you need to know about key differences between AI, Data Science, Machine Learning and Big Data",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2018-08-22-society-is-made-of-narrative-realizing-this-is-awakening-from-the-matrix.md",
       "title": "Society Is Made Of Narrative. Realizing This Is Awakening From The Matrix.",
       "excerpt": "In the movie The Matrix, humans are imprisoned in a virtual world by a powerful artificial intelligence system in a dystopian future. What they take to be ... with their senses is actually made of AI-generated code. Life in our current society is very ...",

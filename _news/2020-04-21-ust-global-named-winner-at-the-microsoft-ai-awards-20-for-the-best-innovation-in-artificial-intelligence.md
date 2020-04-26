@@ -20,6 +20,6 @@ images:
     height: 1058
     title: "UST Global named winner at the Microsoft AI Awards 2.0 for the Best Innovation in Artificial Intelligence"
 
-secured: "wmYQHAInqMwW8QrrCCoDTyDdyLi8Y2AK+G0EFosyEs9v/3ABHxhCPX12h7ohwDjFT0gRoXgWQ/96U90wtRip1IScIWSYKzhA9wPEaWnBFb/pzSXN54yXwt2dPftPKwBdLuTQYmgOldp1XzsCXoAWAIB0iH95Ag4PXcGsmXXIDvN7hfX5cbm0VI8/7oICKIk5UOoyd/CLSxKhKlSTR7zzF8X8ph8PdD9ypxy5U08GcG7ZE6ju58MXkPmf7TrXzDyckcFC+zpSt7qCJIxTysM0XfxcIYf0acMiLIlPLfXmUj/NQoI7uF+9kjPqoR8jtxHt;qZ1vn8rZ6PPF6yehx7rZ9A=="
+secured: "PbxcqjhKGJpByC39jldljpa9hxMtugbYYfcgC0VG52KcewKIZrDWx/sALimqEkoHWpAk/fJIczNqPbvacOHhFFz0ZGRDyWXeo16Eh1S50YjfM2TZcnCCmzXJVngE4Oi68hHg5le2wvQvqm3k9RNQP1l1UafZnBY4pZgREplMwHh1rcobgx+eLnkFqhl1zgNJReG54RQINCuUEUvNH/vxE5o7jsxl/efen1EAXqCAPg20yawhxQ2vTWsofFAXRIZmbPx/kxvTg5SX0iL1CNlstZXTqmSCovDgfV6knbAiTmRk5qC0kt8c20+ZQqzjIcy9;P/yruCRY6kB2kldaZR8BjA=="
 ---
 

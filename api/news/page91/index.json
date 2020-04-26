@@ -2,6 +2,51 @@
   "page": 91,
   "value": [
     {
+      "path": "_news/2020-02-04-kaskada-raises-8-million-to-facilitate-ai-feature-engineering.md",
+      "title": "Kaskada raises $8 million to facilitate AI feature engineering",
+      "excerpt": "Meanwhile, Iguazio last month nabbed $24 million for its suite of AI development and management tools, and Clusterone raked in $2 million for its DevOps for AI platform that operates with both on-premise servers and public cloud computing platforms like AWS, Azure, and Google Cloud Platform.",
+      "heat": 109,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/02/04/kaskada-raises-8-million-to-facilitate-ai-feature-engineering/",
+      "ampWebUrl": "https://venturebeat.com/2020/02/04/kaskada-raises-8-million-to-facilitate-ai-feature-engineering/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/04/kaskada-raises-8-million-to-facilitate-ai-feature-engineering/amp/",
+      "publishedDateTime": "2020-02-04T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/01/kaskada-card-image.png?fit=1200%2C628&strip=all",
+          "width": 1200,
+          "height": 628,
+          "title": "Kaskada raises $8 million to facilitate AI feature engineering",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-02-04-robot-bartender-begins-serving-drinks-in-tokyo-pub.md",
       "title": "Robot bartender begins serving drinks in Tokyo pub",
       "excerpt": "The robot, made by the company QBIT Robotics, can pour a beer in 40 seconds and mix a cocktail in a minute. It uses four cameras to monitor customers to analyse their expressions with artificial intelligence software. \"I like it because dealing with people can be a hassle. With this you can just come and get drunk,\" Satoshi Harada, a restaurant ...",
@@ -1015,43 +1060,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-02-04-lawsuit-filed-against-facial-recognition-company-cpd-works-with.md",
-      "title": "Lawsuit filed against facial recognition company CPD works with",
-      "excerpt": "CHICAGO — A lawsuit has been filed against a facial recognition company that Chicago police have recently begun working with. The lawsuit claims the company, Clearview AI, is acting out of pure greed and is violating Illinois law. Clearview AI collects social media pictures and videos for a growing database sold to law enforcement agencies ...",
-      "heat": 124,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://wgntv.com/2020/02/03/lawsuit-filed-against-facial-recognition-company-cpd-works-with/",
-      "ampWebUrl": "https://wgntv.com/2020/02/03/lawsuit-filed-against-facial-recognition-company-cpd-works-with/amp/",
-      "cdnAmpWebUrl": "https://wgntv-com.cdn.ampproject.org/c/s/wgntv.com/2020/02/03/lawsuit-filed-against-facial-recognition-company-cpd-works-with/amp/",
-      "publishedDateTime": "2020-02-03T16:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WGN-TV",
-        "domain": "wgntv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tribwgntv.files.wordpress.com/2020/02/promo405042906.jpg?quality=85&strip=all&w=1200",
-          "width": 1200,
-          "height": 675,
-          "title": "Lawsuit filed against facial recognition company CPD works with",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

@@ -2,6 +2,50 @@
   "page": 72,
   "value": [
     {
+      "path": "_news/2020-02-09-study-warns-ai-may-trick-humans-with-false-evidence-of-alien-life.md",
+      "title": "Study warns AI may trick humans with false evidence of alien life",
+      "excerpt": "A newly published study warns that using AI to detect these techno-signatures may be risky, however, with the potential to make humans think they have discovered evidence of alien life when no such evidence actually exists. The new study points toward Ceres, the dwarf planet that briefly dazzled humanity with then-mysterious bright spots that ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.slashgear.com/study-warns-ai-may-trick-humans-with-false-evidence-of-alien-life-09609133/",
+      "ampWebUrl": "https://www.slashgear.com/study-warns-ai-may-trick-humans-with-false-evidence-of-alien-life-09609133/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/study-warns-ai-may-trick-humans-with-false-evidence-of-alien-life-09609133/amp/",
+      "publishedDateTime": "2020-02-09T06:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://scdn.slashgear.com/wp-content/uploads/2020/02/space_colorful_main_uns.jpg",
+          "width": 1440,
+          "height": 800,
+          "title": "Study warns AI may trick humans with false evidence of alien life",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-02-09-why-the-race-for-ai-dominance-is-more-global-than-you-think.md",
       "title": "Why The Race For AI Dominance Is More Global Than You Think",
       "excerpt": "When people hear about the race for Artificial Intelligence dominance, they often think that the main competition is between the US and China. But, many countries have AI efforts, funding, technologies,",
@@ -1252,51 +1296,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-02-07-an-ar-based-procedure-to-automate-image-labelling-in-the-context-3d-object-recognition.md",
-      "title": "An AR based procedure to automate image labelling in the context 3D object recognition",
-      "excerpt": "This article describes a procedure aimed to ease the toil of labelling images while building your own object recognition system. I will explain the steps I followed and the difficulties I ran into.",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/@alfredo.rubio.arevalo/an-ar-based-procedure-to-automate-image-labelling-in-the-context-3d-object-recognition-a5129b55a755",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-07T11:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/778/1*m9yobYKqtSe9paXDczs5IA.png",
-          "width": 778,
-          "height": 1600,
-          "title": "An AR based procedure to automate image labelling in the context 3D object recognition",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

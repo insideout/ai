@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Auditoria.AI Raises $6 Million and Introduces SmartFlow Skills to Power the \"Self-Driving\" Finance Back Office"
-excerpt: "SANTA CLARA, Calif., April 22, 2020 /PRNewswire/ -- Auditoria.AI today announced SmartFlow Skills, a groundbreaking new SaaS solution that"
-publishedDateTime: 2020-04-22T13:05:00Z
-webUrl: "https://markets.businessinsider.com/news/stocks/auditoria-ai-raises-6-million-and-introduces-smartflow-skills-to-power-the-self-driving-finance-back-office-1029117853"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/auditoria-ai-raises-6-million-and-introduces-smartflow-skills-to-power-the-self-driving-finance-back-office-1029117853"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/auditoria-ai-raises-6-million-and-introduces-smartflow-skills-to-power-the-self-driving-finance-back-office-1029117853"
+excerpt: "SANTA CLARA, Calif., April 22, 2020 /PRNewswire/ -- today announced SmartFlow Skills, a groundbreaking new SaaS solution that addresses the most pressing challenges of the enterprise finance back office."
+publishedDateTime: 2020-04-22T13:38:00Z
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/auditoria-ai-raises-6-million-and-introduces-smartflow-skills-to-power-the-self-driving-finance/article_2a4185c6-6b31-5968-b616-a1b081e1a222.html"
 type: article
-quality: 49
-heat: 49
+quality: 0
+heat: 0
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI in Autos
   - AI
 
-secured: "wACMi9vQox4q1H7gCxRKQa/xByea1bxh79eeZC//1Ufs+xb506873k4VKXLXc5nUO30txfUqAX0vNNYkYUDr2y+AzR6YVp0ZAhp5Qr69GTd/CptOQdNVEyi9UqzBVgsEAIdTmAXD8SvVWXEGIupaD/2DVDfhxawdekI0agdyVODtfkzw2lXOe5w6IqNqGpEhyQ2rzTBWIBhgCYsnz0HBVtAAsc2ehacTQBPp9dF2G+3uOgm5T2foxNjbD+jYjZMIg2p+Do6RCKKMK1SVd2MsgP0JXJWCNzlewm2EWvD0QQAc85Zpo40/EyFyw+m4qO7Y;EGcTxu/bqPb4gANP2uaYTA=="
+secured: "gRgCmEDDDTSKDIm3zmg6wg4R026GEfwcWIFZYsYoZ+VPHFIB1s6MEIr7D/9gj2A9oMJaWJGafwIMMW8xtCqvjISTNCNKRL6oXYe+pUpUeS0zOmSONkLL+WHVEGR6IsQi9KyV3NjthOYNm6OIj+OwTjKmGvY8GIOm3xumxHMOzMuJ9JX5TKbuL456CbAjleRF9w1CxeLRvee/7MPUkx0Ts0lCo+gofSSFAqbkmRZq1Ain9/6A8vVZuRvrdzUqvYGeU9lLyb6UmfahT76MLvGhGjQg7p/h5cMZXiGZ4RvCtdKlpQCvV43+cBjk6yrvgHIK;NyBSjIiLqECQHbYAiF/l5Q=="
 ---
 

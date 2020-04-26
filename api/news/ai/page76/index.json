@@ -2,6 +2,50 @@
   "page": 76,
   "value": [
     {
+      "path": "_news/2020-02-04-arbilex-a-harvard-law-school-legal-tech-startup-uses-ai-to-settle-arbitrations.md",
+      "title": "ArbiLex, A Harvard Law School Legal Tech Startup, Uses AI To Settle Arbitrations",
+      "excerpt": "With international arbitration cases resolved through international arbitration, the outcomes are on the order of millions and billions of dollars. Isabel Yang and her team have created ArbiLex to settle these claims faster for all parties involved.",
+      "heat": 82,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/frederickdaso/2020/02/04/arbilex-a-harvard-law-school-legal-tech-startup-uses-ai-to-settle-arbitrations/?ss=under30",
+      "ampWebUrl": "https://www.forbes.com/sites/frederickdaso/2020/02/04/arbilex-a-harvard-law-school-legal-tech-startup-uses-ai-to-settle-arbitrations/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/frederickdaso/2020/02/04/arbilex-a-harvard-law-school-legal-tech-startup-uses-ai-to-settle-arbitrations/amp/",
+      "publishedDateTime": "2020-02-04T08:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e3736e4f133f400076b718f%2F0x0.jpg",
+          "width": 750,
+          "height": 496,
+          "title": "ArbiLex, A Harvard Law School Legal Tech Startup, Uses AI To Settle Arbitrations",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-02-04-5-reasons-why-ai-may-dazzle-only-to-disappoint.md",
       "title": "5 Reasons Why AI May Dazzle Only To Disappoint",
       "excerpt": "In my experience of advising and consulting with several companies on AI strategy, I have observed five reasons that prevent AI initiatives from delivering the desired business outcomes.",
@@ -1223,51 +1267,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-03-identifying-worker-labeling-efficiency-using-amazon-sagemaker-ground-truth.md",
-      "title": "Identifying worker labeling efficiency using Amazon SageMaker Ground Truth",
-      "excerpt": "A critical success factor in machine learning (ML) is the cleanliness and accuracy of training datesets. Training with mislabeled or inaccurate data can lead to a poorly performing model. But how can you easily determine if the  labeling team is  accurately labeling data? \nOne way is to manually sift",
-      "heat": 97,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/identifying-worker-labeling-efficiency-using-amazon-sagemaker-ground-truth/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-03T13:14:21-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/01/29/labeling-efficiency-sagemaker-gt-2.gif",
-          "width": 500,
-          "height": 202,
-          "title": "Identifying worker labeling efficiency using Amazon SageMaker Ground Truth",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

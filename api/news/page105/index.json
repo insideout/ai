@@ -2,6 +2,51 @@
   "page": 105,
   "value": [
     {
+      "path": "_news/2020-01-22-how-ai-supports-and-accelerates-healthcare.md",
+      "title": "How AI Supports And Accelerates Healthcare",
+      "excerpt": "AI is currently most adept at helping to improve and accelerate workflows for researchers and healthcare professionals.",
+      "heat": 124,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/22/how-ai-supports-and-accelerates-healthcare/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/22/how-ai-supports-and-accelerates-healthcare/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/22/how-ai-supports-and-accelerates-healthcare/amp/",
+      "publishedDateTime": "2020-01-22T09:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/711x446/https://specials-images.forbesimg.com/dam/imageserve/1147479249/960x0.jpg?fit=scale",
+          "width": 711,
+          "height": 446,
+          "title": "How AI Supports And Accelerates Healthcare",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2020-01-22-tech-in-the-classroom-microsoft-says-ai-and-vr-could-help-future-students-focus-better.md",
       "title": "Tech in the classroom? Microsoft says AI and VR could help future students focus better",
       "excerpt": "while AI-powered speech recognition and translation tools let students hear what is being said in their native language. Anthony Salcito, the vice president of Microsoft Education, said at the conference: \"We need to recognize the need to embrace a hybrid intelligence to be able to achieve more. With new technology, we will have to think ...",
@@ -1013,51 +1058,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-01-22-automotive-artificial-intelligence-market-size-growth-opportunity-and-forecast-to-2025.md",
-      "title": "Automotive Artificial Intelligence Market Size, Growth, Opportunity and Forecast to 2025",
-      "excerpt": "Benefits of automotive artificial intelligence include - driverless cars, smarter, safer and affordable, assisted features, cognitive predictive maintenance. Sample Infographics: Market Dynamics ...",
-      "heat": 70,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-size-growth-opportunity-and-forecast-to-2025-2020-01-22?mod=mw_quote_news",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-21T21:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Automotive Artificial Intelligence Market Size, Growth, Opportunity and Forecast to 2025",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

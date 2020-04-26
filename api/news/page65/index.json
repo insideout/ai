@@ -2,6 +2,43 @@
   "page": 65,
   "value": [
     {
+      "path": "_news/2020-02-28-facial-recognition-company-says-entire-client-list-was-stolen.md",
+      "title": "Facial recognition company says entire client list was stolen",
+      "excerpt": "Facial recognition firm Clearview A.I. has confirmed to NBC News that their entire client list has been stolen.Feb. 28, 2020 © 2020 NBC UNIVERSAL",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nbcnews.com/now/video/facial-recognition-company-says-entire-client-list-was-stolen-79580229780",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-27T17:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media14.s-nbcnews.com/j/MSNBC/Components/Video/202002/ott_now_facial_200227_1920x1080.nbcnews-fp-1200-630.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": "Facial recognition company says entire client list was stolen",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2020-02-28-ice-warrantless-facial-recognition-searches-trigger-maryland-bill.md",
       "title": "ICE warrantless facial recognition searches trigger Maryland bill",
       "excerpt": "Cortez spoke today in the Maryland General Assembly in favor of a bill that requires ICE obtain a warrant from a judge before the agency can use facial recognition to search the Maryland Image Repository System or MRS. Maryland began to issue driver’s licenses to immigrants in 2013. On Wednesday, the Washington Post reported that ICE searched ...",
@@ -1028,42 +1065,6 @@
         "authors": null
       },
       "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-27-healthcare-startup-qureai-raises-16-million-led-by-sequoia-india.md",
-      "title": "Healthcare startup Qure.ai raises $16 million led by Sequoia India",
-      "excerpt": "Healthcare startup Qure.ai has raised $16 million in an equity funding round led by Sequoia India, with participation from MassMutual Ventures Southeast Asia, it said Thursday. MassMutual Ventures is the investment arm of US-based MassMutual Life Insurance Company. Founded in 2016 by Prashant Warier and Pooja Rao, Qure.ai provides ...",
-      "heat": 77,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.livemint.com/companies/start-ups/healthcare-startup-qure-ai-raises-16-million-led-by-sequoia-india-11582797164202.html",
-      "ampWebUrl": "https://www.livemint.com/companies/start-ups/healthcare-startup-qure-ai-raises-16-million-led-by-sequoia-india/amp-11582797164202.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/start-ups/healthcare-startup-qure-ai-raises-16-million-led-by-sequoia-india/amp-11582797164202.html",
-      "publishedDateTime": "2020-02-27T02:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2020/02/27/600x338/healthcare-kH0D--621x414@LiveMint_1582797347447.jpg",
-          "width": 600,
-          "height": 337,
-          "title": "Healthcare startup Qure.ai raises $16 million led by Sequoia India",
-          "attribution": null
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
