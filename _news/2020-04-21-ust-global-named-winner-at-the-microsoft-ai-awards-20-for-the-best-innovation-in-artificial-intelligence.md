@@ -1,25 +1,25 @@
 ---
 category: news
-title: "UST Global named winner at the Microsoft AI Awards 2.0 for the Best Innovation in Artificial Intelligence"
-excerpt: "UST Global, a leading digital transformation solutions company, announced that it has won the 2020 most innovative AI application award for societal impact from Microsoft. UST"
-publishedDateTime: 2020-04-21T10:08:00Z
-webUrl: "https://indiaeducationdiary.in/ust-global-named-winner-at-the-microsoft-ai-awards-2-0-for-the-best-innovation-in-artificial-intelligence/"
+title: "UST Global Named Winner at the Microsoft AI Awards 2.0 for the Best Innovation in Artificial Intelligence"
+excerpt: "UST Global, a leading digital transformation solutions company, announced that it has won the 2020 most innovative AI application award"
+publishedDateTime: 2020-04-21T15:14:00Z
+webUrl: "https://www.prnewswire.com/in/news-releases/ust-global-named-winner-at-the-microsoft-ai-awards-2-0-for-the-best-innovation-in-artificial-intelligence-831358695.html"
 type: article
 
 provider:
-  name: India Education Diary
-  domain: indiaeducationdiary.in
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://i2.wp.com/indiaeducationdiary.in/wp-content/uploads/2020/04/Krishna-Sudheendra-CEO-UST-Global-recieving-the-award-from-Jean-Philippe-Courtois-EVP-and-President-Global-Sales-Marketing-and-Operations-Microsoft-Corporation.jpg?fit=1000%2C1058&ssl=1"
-    width: 1000
-    height: 1058
-    title: "UST Global named winner at the Microsoft AI Awards 2.0 for the Best Innovation in Artificial Intelligence"
+  - url: "https://mma.prnewswire.com/media/540539/UST_Global_Logo.jpg?p=facebook"
+    width: 1443
+    height: 757
+    title: "UST Global Named Winner at the Microsoft AI Awards 2.0 for the Best Innovation in Artificial Intelligence"
 
-secured: "rGDK0J3Hgjp17EuOzFLfRc15ebv4R5Lr1kjGoSE+JHdtcmdN0gzA0QeXHZPOovQOv2oA3A1vuMduV4Ii5rKKnHnBJBndWFd+HlaRjVBnCjLuseSqajnzJRmKfFZbfFxh7BoQpOp9EIVU+Ti0YspmFO9mKTu2q/ZSSy0lRl7A5rfHFtH0Vj57K9XdIXqrzGNdNkqGBn7118sruwmjY8EnO5m8RxaDuanUwfeU0yIeA5i89W9q8ppYQGRhM2XIRFXo79SwVU5knkOaiVlHm2vQFpNxzDtXZ//cziFhKsAH+jjCko8BMmhJ0o4fzFu/TIs5;WxdBFRkRtEBfz1FGXdC1rA=="
+secured: "4htoMJX0ldB+R4IJq3Yb7zkIcZywApR21ZS0NHXsJvb2rL/W+npvI6qJT0eMRYHZ50ON+bK07f50pIqq8HggwUgIEp/09yurtXDNjLihkEb5chhMQUcyKhO8zH2AX3w8iaCaGek4AvAjvohG3CcuPiDg7d4rsaGUcDyi7d0K9hHmjuGlrZvIBYv1Bw7WOW3UAZgGqzS6Hs2MRl+6Zfq3BiNbM03sAhStCRmEczgq2n1cdEnRCow9bOYsZI6L0vrI7bFTRG5S87mhObcT9voH7YKpJfX6FYldB66Ynp6JSCiG3z3+vBl1A2nLbmu3gxsy;DuYVpiKVtmyOyycbHqq45A=="
 ---
 

@@ -15,6 +15,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://www.storagereview.com/wp-content/uploads/2020/04/StorageReview-WekaIO-Weka-AI.png"

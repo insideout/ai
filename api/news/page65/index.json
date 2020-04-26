@@ -2,6 +2,50 @@
   "page": 65,
   "value": [
     {
+      "path": "_news/2020-02-28-cant-define-ai-try-defining-intelligence.md",
+      "title": "Can't Define AI? Try Defining Intelligence",
+      "excerpt": "Turns out that the answer to the question of AI’s definition is complicated by one fact: we don’t have a precise definition of intelligence itself.",
+      "heat": 97,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/02/27/cant-define-ai-try-defining-intelligence/",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/02/27/cant-define-ai-try-defining-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/02/27/cant-define-ai-try-defining-intelligence/amp/",
+      "publishedDateTime": "2020-02-27T19:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/711x533/https://specials-images.forbesimg.com/imageserve/5e5887fb765d4500072d6194/960x0.jpg?fit=scale",
+          "width": 711,
+          "height": 533,
+          "title": "Can't Define AI? Try Defining Intelligence",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-02-28-the-age-of-customer-acquisition-30.md",
       "title": "The age of customer acquisition 3.0",
       "excerpt": "Some of the most intelligent growth marketers in the industry are looking beyond the obvious ways AI can improve results to focus on the cutting edge “out of the box” ways AI can turbocharge their paid user acquisition performance. AI-powered machines ... to accelerate your rate of learning will require an intelligent machine operational ...",
@@ -1027,50 +1071,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-02-27-when-ai-cant-replace-a-worker-it-watches-them-instead.md",
-      "title": "When AI Can’t Replace a Worker, It Watches Them Instead",
-      "excerpt": "Denso’s use of Drishti shows how some jobs will be transformed by artificial intelligence even when they’re unlikely to be eliminated by AI anytime soon. Many jobs in manufacturing require dexterity and resourcefulness, for example, in ways that robots and software still can’t match. But advances in AI and sensors are providing new ways ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wired.com/story/when-ai-cant-replace-worker-watches-them-instead/",
-      "ampWebUrl": "https://www.wired.com/story/when-ai-cant-replace-worker-watches-them-instead/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/when-ai-cant-replace-worker-watches-them-instead/amp",
-      "publishedDateTime": "2020-02-27T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5e5738bcc880ec0008a52387/master/pass/Theme-Week-Wearables-Coral-Line-Working.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": "When AI Can’t Replace a Worker, It Watches Them Instead",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

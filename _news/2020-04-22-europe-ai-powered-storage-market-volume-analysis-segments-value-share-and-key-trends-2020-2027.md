@@ -5,8 +5,8 @@ excerpt: "Increasing data volume, growing requirement for global enterprise infr
 publishedDateTime: 2020-04-22T12:50:00Z
 webUrl: "https://www.marketwatch.com/press-release/europe-ai-powered-storage-market-volume-analysis-segments-value-share-and-key-trends-2020-2027-2020-04-22"
 type: article
-quality: 54
-heat: 54
+quality: 56
+heat: 56
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
