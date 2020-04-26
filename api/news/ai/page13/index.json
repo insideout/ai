@@ -2,6 +2,51 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2020-04-10-lee-sedol-loses-final-go-match-making-it-a-4-1-victory-for-googles-ai.md",
+      "title": "Lee Sedol Loses Final Go Match Making It a 4-1 Victory for Google's AI",
+      "excerpt": "Google Deepmind’s Demis Hassabis put the odds ... has stomped to victory for a fourth time against Go world champion Lee Sedol. That makes it a resounding victory for the AI, which has won ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://gizmodo.com/lee-sedol-loses-final-go-match-making-it-a-4-1-victory-1764954190",
+      "ampWebUrl": "https://gizmodo.com/lee-sedol-loses-final-go-match-making-it-a-4-1-victory-1764954190/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/lee-sedol-loses-final-go-match-making-it-a-4-1-victory-1764954190/amp",
+      "publishedDateTime": "2020-04-10T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/aqwd9etxb05pn19wqid9.jpg",
+          "width": 800,
+          "height": 362,
+          "title": "Lee Sedol Loses Final Go Match Making It a 4-1 Victory for Google's AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-10-new-documents-show-amazons-face-scanning-tech-for-cops-was-a-headache-from-the-start.md",
       "title": "New Documents Show Amazon's Face-Scanning Tech for Cops Was a Headache From the Start",
       "excerpt": "2649 purchased by readersG/O Media may get a commission Earlier this year, Amazon’s facial recognition tech Rekognition—which can scan photos and videos and match them against databases of ...",
@@ -1200,50 +1245,6 @@
           "width": 1200,
           "height": 675,
           "title": "Open-source AI tool aims to help identify coronavirus infections",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-09-google-releases-simclr-an-ai-framework-that-can-classify-images-with-limited-labeled-data.md",
-      "title": "Google releases SimCLR, an AI framework that can classify images with limited labeled data",
-      "excerpt": "A team of Google researchers recently detailed a framework called SimCLR, which improves previous approaches to self-supervised learning, a family of techniques for converting an unsupervised learning problem (i.e., a problem in which AI models train on unlabeled data) into a supervised one by creating labels from unlabeled data sets.",
-      "heat": 77,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/09/google-releases-simclr-ai-framework-learns-to-classify-images-with-limited-labeled-data/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/09/google-releases-simclr-ai-framework-learns-to-classify-images-with-limited-labeled-data/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/09/google-releases-simclr-ai-framework-learns-to-classify-images-with-limited-labeled-data/amp/",
-      "publishedDateTime": "2020-04-09T06:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/10/google-ai-logo.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Google releases SimCLR, an AI framework that can classify images with limited labeled data",
           "attribution": null
         }
       ],

@@ -25,6 +25,6 @@ images:
     height: 800
     title: "Gulf energy firms look to AI, big data after oil price rout"
 
-secured: "MdeUew2aFQ47CmOhbiHHoTWU+Vjlf5bdTBd+hPbNDflua3GQEyzRnyasCPhW0N/l1Wod+/z5vLIQykWEjmeKvficmA8ugPD4Bqy1b8ykAWTnyJ/Asa9KPa6mLkam3CIxQcKb/LJl14yTmt0tV3b0RF4kmPdOb31IuHGNxb4cySLeqr8w9ntDENA1cuCAY47R1lgpitxg/5wBjYP1L6YYUYMboLOSHk1W8U269T0hu+UiWm5F7i2kfxxZlHzRHvXLRxb3GVJAbZpFP9FCvvsfoYNps2PpYU+1vnk0piDdIbCWXK19n/kzpf58z+xlIprs;hA4BQd4cIkVWfcFDkOM2tA=="
+secured: "Qmr6vGnSzByLxS9T4DmDSTg4zoD7O87/hbjhNUh8S/2ZSm2x/TVNJizfwBbC4/xK1le/KcDbSmahv6gnJKHRfXscNozNpXlG+t1LArY5lvMNWAqvV3k8oGNWYHWydghwy0PDidVxgCSGe0TteqwxgF3s8rE7+c7q0H73qbBKkt5MJSgAKfJTWlotefvnafiKXaUc1aMCCD+COO0P6YBrFYFroLTSTOqc0fr/KDlLaTs0TGwRwUSWCe2DMBzeNXFj2cYzagylMYHNqrguEWCvwNu/B/oqk3bOqNfYgUt1iQjUxxiqVObV5suMVjm50FDVR0xaU+1ll2xsYk1pGPLPVo7SbmYGOlXFYQTo9AM0FIlkrY5+gfRMKd34r2NUWRw4O+N69DmMQc7Kky3TT85wqan7wa1SoB4ObE5ymLYD28gcaYrVaxtQYcZWGno1+3it68+xGowrz4vqOXHigPr1luBi7AloaQRWFK/ibYa/9zI=;nTjxh+TKSerwCfauNIZoAQ=="
 ---
 

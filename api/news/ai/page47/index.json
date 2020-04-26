@@ -2,6 +2,43 @@
   "page": 47,
   "value": [
     {
+      "path": "_news/2020-03-11-ai-provider-releases-social-determinants-of-health-tool.md",
+      "title": "AI provider releases social determinants of health tool",
+      "excerpt": "Jvion leveraged its own AI along with Microsoft Azure Maps to empower providers and health systems to address underserved populations. Jvion's social determinants of health platform also offers individualized interventions to aid in aligning community benefits more effectively. The platform is based on de-identified patient information.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.beckershospitalreview.com/artificial-intelligence/ai-provider-releases-social-determinants-of-health-tool.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-11T07:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Becker's Hospital Review",
+        "domain": "beckershospitalreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/3.jpg",
+          "width": 400,
+          "height": 300,
+          "title": "AI provider releases social determinants of health tool",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-11-intel-stock-is-poised-to-outperform-on-chip-and-ai-developments.md",
       "title": "Intel Stock Is Poised to Outperform on Chip and AI Developments",
       "excerpt": "Intel’s chips are proving to be popular with AI developers, and it expects its upcoming Cooper chips to “enable AI systems to be trained up to 60% faster than their predecessors.” Moreover, as I wrote in a previous article on AMD: “According to Analytics India Magazine, AI chips made by Habana are four times better than graphics ...",
@@ -1164,43 +1201,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-11-heres-how-this-uae-law-firm-is-tapping-ai-cloud-to-stay-competitive.md",
-      "title": "Here's how this UAE law firm is tapping AI, cloud to stay competitive",
-      "excerpt": "Fichte is using AI tools offered in Microsoft's Office and Azure. \"Outlook Insights is a useful tool to remind you about potential tasks and to follow up on them,\" notes Peet. In addition, the firm has started investigating Azure AI capabilities for more complex tasks: invoice analysis and automated processing. Not all experiments work out.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cio.com/article/3531310/heres-how-this-uae-law-firm-is-tapping-ai-cloud-to-stay-competitive.html",
-      "ampWebUrl": "https://www.cio.com/article/3531310/heres-how-this-uae-law-firm-is-tapping-ai-cloud-to-stay-competitive.amp.html",
-      "cdnAmpWebUrl": "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/3531310/heres-how-this-uae-law-firm-is-tapping-ai-cloud-to-stay-competitive.amp.html",
-      "publishedDateTime": "2020-03-10T20:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CIO",
-        "domain": "cio.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2019/01/rules_rulebook_law_compliance_regulation_by-baloon111_getty-100786795-large.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "Here's how this UAE law firm is tapping AI, cloud to stay competitive",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

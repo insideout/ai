@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/04/21/low-trust-versus-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/04/21/low-trust-versus-high-trust-beliefs-will-impact-the-growth-of-ai-including-for-self-driving-cars/amp/"
 type: article
 quality: 76
-heat: 86
+heat: 76
 published: true
 
 provider:
@@ -28,21 +28,6 @@ images:
     width: 1200
     height: 675
     title: "Low-Trust Versus High-Trust Beliefs Will Impact The Growth Of AI, Including For Self-Driving Cars"
-
-related:
-  - title: "The biggest myth about self-driving cars: that humans can sit back and enjoy the ride"
-    excerpt: "AI is sophisticated enough to take over the basic function of driving a vehicle, but driving entails so much more than just navigating a car. Human beings perform a vast variety of tasks in a car, and much of that job is dealing with other humans. Look at the role of the driver: only a part of his or her attention is focused on actually ..."
-    publishedDateTime: 2020-04-21T12:00:00Z
-    webUrl: "https://www.fastcompany.com/90493699/this-is-the-biggest-myth-about-self-driving-cars?partner=feedburner"
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 17
-    images:
-      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/04/p-1-this-is-the-biggest-myth-about-self-driving-cars.jpg"
-        width: 1280
-        height: 720
 
 secured: "JrbqLqtMrwX+GAFhY0eVJfBXo2VnDkH+Q4IXQ57E78OwONsWZGEbRSIMWpZ8ous6Zk+3MvS/dY9CR3AI8U0aiVMDCGIfdmLPxTdMMr25bbVQ9x64ssetWtjAgbbQ7cbTDnzb6OkhhA8IPQJrZxv3+9g+PIskGoPy1ZF+mKKA1aXMJqe3NLmI6aee76ZojYAyJmf/2M2nnATvEc2RAqTCJqN6B4hx9mLeCbQzKLwujJQAYROgzZMIpVbLX0tf+6BCDhXIHbD/YwiKB1hkFI8OYcowY5UDdqt5C9v3bEyWNqgWfjT8JLzrctq8k2kr8skWB59/EBuFQp+/w3WIXJv0pECS5pt22d4WztRA1shh8r9ZAlnqzJyOA+ex9wSIMeBg4crhWNH8m5MNxC5An0qRxp2z0kht4wqNrzgHLa9UmFY+QYFUAfHHKUhHkT2OqNrjH6soQiIJ202su4D9GlxpBMf5APvnL815fW9WaqNCh20=;baUiDXJgwGTK+uZ1BH8JCw=="
 ---
