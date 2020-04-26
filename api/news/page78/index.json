@@ -2,6 +2,42 @@
   "page": 78,
   "value": [
     {
+      "path": "_news/2020-02-17-cyber-security-market-to-register-an-impressive-cagr-of-126-till-2027-says-fortune-business-insights.md",
+      "title": "Cyber Security Market to Register an Impressive CAGR of 12.6% till 2027, Says Fortune Business Insights",
+      "excerpt": "/PRNewswire/ -- Rapidly rising e-commerce activities will be the key driver for the global cyber security market growth during the forecast period.",
+      "heat": 106,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.prnewswire.com/news-releases/cyber-security-market-to-register-an-impressive-cagr-of-12-6-till-2027--says-fortune-business-insights-301005924.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-17T07:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1091206/FBI_Cyber_Security_Market.jpg?p=facebook",
+          "width": 999,
+          "height": 524,
+          "title": "Cyber Security Market to Register an Impressive CAGR of 12.6% till 2027, Says Fortune Business Insights",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-02-17-teslas-biggest-problem-with-self-driving-cars-is-that-it-actually-has-to-sell-them-to-customers.md",
       "title": "Tesla's biggest problem with self-driving cars is that it actually has to sell them to customers",
       "excerpt": "Tesla is trapped, having created great products that consumers want and love, but also watching as competitors design all-new businesses.",
@@ -952,43 +988,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-14-ai-weekly-machine-learning-could-lead-cybersecurity-into-uncharted-territory.md",
-      "title": "AI Weekly: Machine learning could lead cybersecurity into uncharted territory",
-      "excerpt": "Once a quarter, VentureBeat publishes a special issue to take an in-depth look at trends of great importance. This week, we launched issue two, examining AI and security. Across a spectrum of stories, the VentureBeat editorial team took a close look at some of the most important ways AI and security are colliding today. It’s a shift with high ...",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/02/14/ai-weekly-machine-learning-could-lead-cybersecurity-into-uncharted-territory/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-14T13:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

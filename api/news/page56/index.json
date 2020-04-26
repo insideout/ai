@@ -2,6 +2,43 @@
   "page": 56,
   "value": [
     {
+      "path": "_news/2020-03-11-abb-partners-with-covariant-for-integrated-ai-robotic-solutions.md",
+      "title": "ABB partners with Covariant for integrated AI robotic solutions",
+      "excerpt": "ABB and Silicon Valley AI start-up, Covariant, have partnered up to bring AI-enabled robotics solutions to market, starting with a fully autonomous warehouse order fulfillment solution. According to ABB, the partnership brings together the two companies with a vision for robotics enabled by AI, where intelligent robots work alongside humans in ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.controldesign.com/industrynews/2020/abb-partners-with-covariant-for-integrated-ai-robotic-solutions/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-11T13:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Control Design",
+        "domain": "controldesign.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.controldesign.com/assets/Uploads/ABB-robots-sorting-different-packages-with-Covariant-AI-sb.jpg",
+          "width": 880,
+          "height": 440,
+          "title": "ABB partners with Covariant for integrated AI robotic solutions",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-11-new-scientist-got-an-early-glimpse-of-voice-recognition-technology.md",
       "title": "New Scientist got an early glimpse of voice recognition technology",
       "excerpt": "HEY Siri, we saw you coming. In our 17 March 1990 issue, we wrote about a computer system that could recognise continuous speech and may, we predicted, “form the basis of a personal computer controlled by voice”. At the time, this intriguing new technology had already piqued the interest of Apple, which we then described as “famous for ...",
@@ -942,43 +979,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-11-global-computer-vision-in-healthcare-market-latest-innovations-drivers-restraints-challenges-and-industry-key-events-2020-2025.md",
-      "title": "Global Computer Vision in Healthcare Market: Latest Innovations, Drivers, Restraints, Challenges and Industry Key Events 2020 – 2025",
-      "excerpt": "“Computer Vision in Healthcare Market 2020-2025” Summary: – Wiseguyreports.Com Adds \"Computer Vision in Healthcare – Market Demand, Growth,",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.benzinga.com/pressreleases/20/03/ab15524368/global-computer-vision-in-healthcare-market-latest-innovations-drivers-restraints-challenges-and-",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/15524368",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15524368",
-      "publishedDateTime": "2020-03-11T02:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.abnewswire.com/uploads/1583916027.jpeg",
-          "width": 500,
-          "height": 598,
-          "title": "Global Computer Vision in Healthcare Market: Latest Innovations, Drivers, Restraints, Challenges and Industry Key Events 2020 – 2025",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

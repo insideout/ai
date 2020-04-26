@@ -2,6 +2,51 @@
   "page": 92,
   "value": [
     {
+      "path": "_news/2020-02-04-epic-asks-federal-trade-commission-to-regulate-use-of-artificial-intelligence-in-pre-employment-screenings.md",
+      "title": "EPIC Asks Federal Trade Commission To Regulate Use Of Artificial Intelligence In Pre-Employment Screenings",
+      "excerpt": "has charged that HireVue, a leading provider of artificial intelligence-based pre-employment screenings, is flouting national and international standards of transparency, fairness and accountability.",
+      "heat": 171,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/patriciagbarnes/2020/02/03/group-asks-federal-trade-commission-to-regulate-use-of-artificial-intelligence-in-pre-employment-screenings/?ss=diversity",
+      "ampWebUrl": "https://www.forbes.com/sites/patriciagbarnes/2020/02/03/group-asks-federal-trade-commission-to-regulate-use-of-artificial-intelligence-in-pre-employment-screenings/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patriciagbarnes/2020/02/03/group-asks-federal-trade-commission-to-regulate-use-of-artificial-intelligence-in-pre-employment-screenings/amp/",
+      "publishedDateTime": "2020-02-03T16:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/trim/365x308:5585x4045/fit-in/711x509/smart/https://specials-images.forbesimg.com/imageserve/1091526904/0x0.jpg",
+          "width": 711,
+          "height": 509,
+          "title": "EPIC Asks Federal Trade Commission To Regulate Use Of Artificial Intelligence In Pre-Employment Screenings",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2020-02-04-lawsuit-filed-against-facial-recognition-company-cpd-works-with.md",
       "title": "Lawsuit filed against facial recognition company CPD works with",
       "excerpt": "CHICAGO — A lawsuit has been filed against a facial recognition company that Chicago police have recently begun working with. The lawsuit claims the company, Clearview AI, is acting out of pure greed and is violating Illinois law. Clearview AI collects social media pictures and videos for a growing database sold to law enforcement agencies ...",
@@ -1020,51 +1065,6 @@
       "topics": [
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-02-03-artificial-intelligence-ai-in-fintech-market-future-development-trends-revenue-and-key-manufacturers-analysis.md",
-      "title": "Artificial Intelligence (AI) in Fintech Market: Future Development, Trends, Revenue and Key Manufacturers Analysis",
-      "excerpt": "The Leading Distributor of Market Research Reports, DeepResearchReports.com published latest report on \"Global Artificial Intelligence (AI) in Fintech Industry Report\". Artificial Intelligence (AI) in Fintech Market segment by Application.",
-      "heat": 82,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-future-development-trends-revenue-and-key-manufacturers-analysis-2020-02-03",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-03T01:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Artificial Intelligence (AI) in Fintech Market: Future Development, Trends, Revenue and Key Manufacturers Analysis",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

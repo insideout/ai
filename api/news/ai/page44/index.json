@@ -2,6 +2,43 @@
   "page": 44,
   "value": [
     {
+      "path": "_news/2020-03-13-the-aclu-is-suing-government-agencies-over-dystopian-facial-recognition-programs.md",
+      "title": "The ACLU is suing government agencies over 'dystopian' facial recognition programs",
+      "excerpt": "Thursday, the American Civil Liberties Union sued multiple government agencies for information on their facial recognition programs and how they are being used at airports and by Border Patrol. Facial recognition has expanded rapidly over the past few years, but a lack of clarity around the technology’s rollout has led to increasing concerns ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.mic.com/p/the-aclu-is-suing-government-agencies-over-dystopian-facial-recognition-programs-22621097",
+      "ampWebUrl": "https://www.mic.com/p/the-aclu-is-suing-government-agencies-over-dystopian-facial-recognition-programs-22621097/amp",
+      "cdnAmpWebUrl": "https://www-mic-com.cdn.ampproject.org/c/s/www.mic.com/p/the-aclu-is-suing-government-agencies-over-dystopian-facial-recognition-programs-22621097/amp",
+      "publishedDateTime": "2020-03-13T15:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mic",
+        "domain": "mic.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://imgix.bustle.com/uploads/getty/2020/3/13/f99cf8db-dd80-4ba8-9281-761c39585a48-getty-1087948100.jpg?w=1200&h=630&q=70&fit=crop&crop=faces&fm=jpg",
+          "width": 1200,
+          "height": 630,
+          "title": "The ACLU is suing government agencies over 'dystopian' facial recognition programs",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-13-glisten-uses-computer-vision-to-break-down-product-photos-to-their-most-important-parts.md",
       "title": "Glisten uses computer vision to break down product photos to their most important parts",
       "excerpt": "Glisten is a new startup enabling just that by using computer vision to understand and list the most important aspects of the products in any photo. Now, you may think this already exists.",
@@ -1177,43 +1214,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-13-ibm-to-integrate-ai-debating-technology-into-its-qa-computer-system-watson.md",
-      "title": "IBM to integrate AI debating technology into its Q&A computer system Watson",
-      "excerpt": "IBM plans to integrate several key components, such as natural language processing (NLP), from the AI system into its question-answering computer system Watson from March this year. The move is aimed at “enabling businesses to capture, analyse, and understand more from human language and … transform how they use intellectual capital that ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.scmp.com/tech/big-tech/article/3074934/ibm-integrate-ai-debating-technology-its-qa-computer-system-watson",
-      "ampWebUrl": "https://amp.scmp.com/tech/big-tech/article/3074934/ibm-integrate-ai-debating-technology-its-qa-computer-system-watson",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3074934/ibm-integrate-ai-debating-technology-its-qa-computer-system-watson",
-      "publishedDateTime": "2020-03-13T01:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/03/13/6386b39e-6446-11ea-8e9f-2d196083a37c_image_hires_085224.JPG?itok=5_XCVEqw&v=1584060750",
-          "width": 1200,
-          "height": 630,
-          "title": "IBM to integrate AI debating technology into its Q&A computer system Watson",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

@@ -2,6 +2,52 @@
   "page": 98,
   "value": [
     {
+      "path": "_news/2020-01-09-amazons-autogluon-produces-ai-models-with-as-little-as-3-lines-of-code.md",
+      "title": "Amazon’s AutoGluon produces AI models with as little as 3 lines of code",
+      "excerpt": "AutoGluon’s debut follows on the heels of major upgrades to Amazon Web Services’ (AWS’) SageMaker, a toolkit for continuously training and deploying machine learning models to cloud and edge environments. AWS SageMaker Studio is a model training and workflow management tool that collects all the code, notebooks, and folders for machine ...",
+      "heat": 121,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/01/09/amazons-autogluon-produces-ai-models-with-as-little-as-three-lines-of-code/",
+      "ampWebUrl": "https://venturebeat.com/2020/01/09/amazons-autogluon-produces-ai-models-with-as-little-as-three-lines-of-code/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/09/amazons-autogluon-produces-ai-models-with-as-little-as-three-lines-of-code/amp/",
+      "publishedDateTime": "2020-01-09T15:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/12/amazon-logo-reuters.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Amazon’s AutoGluon produces AI models with as little as 3 lines of code",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-01-09-the-trump-administration-wants-to-regulate-artificial-intelligence.md",
       "title": "The Trump Administration Wants to Regulate Artificial Intelligence",
       "excerpt": "To prevent the United States from falling behind competitor nations like China, when it comes to the development of artificial intelligence-based ... In the case of self-driving cars, there was—and continues to be—a clear lack of regulation at the ...",
@@ -1239,43 +1285,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-01-07-demystifying-debit-4-trends-in-consumer-fintech.md",
-      "title": "Demystifying Debit: 4 Trends in Consumer Fintech",
-      "excerpt": "F intech is turning traditional banking on its head. The global fintech market value projects to surpass $300 billion by the end of 2022. In December, major consumer fintech company Bill.com surged a whopping 60% on the day of its IPO.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nasdaq.com/articles/demystifying-debit%3A-4-trends-in-consumer-fintech-2020-01-07",
-      "ampWebUrl": "https://www.nasdaq.com/articles/demystifying-debit%3A-4-trends-in-consumer-fintech-2020-01-07?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/demystifying-debit%3A-4-trends-in-consumer-fintech-2020-01-07?amp",
-      "publishedDateTime": "2020-01-07T07:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg",
-          "width": 1024,
-          "height": 512,
-          "title": "Demystifying Debit: 4 Trends in Consumer Fintech",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

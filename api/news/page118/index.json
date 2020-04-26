@@ -2,6 +2,43 @@
   "page": 118,
   "value": [
     {
+      "path": "_news/2020-01-09-upcoming-innovations-in-artificial-intelligence-in-healthcare-thriving-medical-attention-by-2025.md",
+      "title": "Upcoming Innovations In Artificial Intelligence in Healthcare Thriving Medical Attention by 2025",
+      "excerpt": "“Grand View Research, Inc. – Market Research And Consulting.” Artificial Intelligence in Healthcare Market Size, Share, & Trends Analysis By Component",
+      "heat": 61,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/01/ab15096479/upcoming-innovations-in-artificial-intelligence-in-healthcare-thriving-medical-attention-by-2025",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/15096479",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15096479",
+      "publishedDateTime": "2020-01-09T00:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.grandviewresearch.com/static/img/research/us-artificial-intelligence-in-healthcare-market.png",
+          "width": 600,
+          "height": 300,
+          "title": "Upcoming Innovations In Artificial Intelligence in Healthcare Thriving Medical Attention by 2025",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2020-01-08-new-approach-using-deep-learning-could-speed-up-brain-image-microscopy-by-16-times.md",
       "title": "New approach using deep learning could speed up brain image microscopy by 16 times",
       "excerpt": "They believed that deep learning -- a form of machine-learning that uses multiple layers of analysis to progressively extract higher level features from raw input -- could be very useful for increasing the resolution of microscope images, a process called ...",
@@ -1023,51 +1060,6 @@
       "topics": [
         "AI",
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-07-facebook-bans-deceptive-deepfakes-and-some-misleadingly-modified-media.md",
-      "title": "Facebook bans deceptive deepfakes and some misleadingly modified media",
-      "excerpt": "Hence the new policy bans deepfake content that involves the use of AI technologies ... to produce more research and open source tools to detect deepfakes”. While says Facebook has been working ...",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/01/07/facebook-bans-deceptive-deepfakes-and-some-misleadingly-modified-media/",
-      "ampWebUrl": "https://techcrunch.com/2020/01/07/facebook-bans-deceptive-deepfakes-and-some-misleadingly-modified-media/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/07/facebook-bans-deceptive-deepfakes-and-some-misleadingly-modified-media/amp/",
-      "publishedDateTime": "2020-01-07T03:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/09/gettyimages-487867268.jpg?w=1024",
-          "width": 1024,
-          "height": 663,
-          "title": "Facebook bans deceptive deepfakes and some misleadingly modified media",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

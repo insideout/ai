@@ -2,6 +2,51 @@
   "page": 97,
   "value": [
     {
+      "path": "_news/2020-01-29-google-looks-ahead-to-the-next-decade-of-ai-research.md",
+      "title": "Google looks ahead to the next decade of AI research",
+      "excerpt": "Google's already making strides on this front, with on-device translation services offered in 59 different languages. While Google and the industry at large have made significant strides in AI in the past few years, public awareness of the technology's potential drawbacks -- and corresponding regulation -- is only now beginning to catch up ...",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/google-looks-ahead-to-the-next-decade-of-ai-research/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-looks-ahead-to-the-next-decade-of-ai-research/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-looks-ahead-to-the-next-decade-of-ai-research/",
+      "publishedDateTime": "2020-01-29T12:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2016/07/21/0de0545b-b157-4463-ab44-1d34e8507596/thumbnail/1200x675/b8e69dc3d17f34f561a14663a253b409/twittersign-28.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Google looks ahead to the next decade of AI research",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2020-01-29-here-are-the-7-biggest-fintech-trends-to-watch-in-2020-according-to-a-centana-growth-partners-exec.md",
       "title": "Here are the 7 biggest fintech trends to watch in 2020, according to a Centana Growth Partners exec",
       "excerpt": "Alfieri, one of Business Insider's 2019 Rising Stars of Wall Street, lays out the biggest themes to watch for fintech in 2020.",
@@ -1031,42 +1076,6 @@
         "AI",
         "Microsoft AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-01-29-deepak-chopra-gives-jimmy-fallon-a-sneak-peek-at-the-digital-ai-version-of-himself.md",
-      "title": "Deepak Chopra gives Jimmy Fallon a sneak peek at the digital AI version of himself",
-      "excerpt": "Deepak Chopra's digital AI version of himself is almost in beta, and Jimmy Fallon got to take it for a quick spin. The author, who announced the 'Digital Deepak' project in December, gave Jimmy Fallon a sneak preview on The Tonight Show Tuesday, taking the host, The Roots, and the audience through a very swift meditation (it's only a few seconds).",
-      "heat": 81,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://mashable.com/video/digital-deepak-chopa-jimmy-fallon/",
-      "ampWebUrl": "https://mashable.com/video/digital-deepak-chopa-jimmy-fallon.amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/video/digital-deepak-chopa-jimmy-fallon.amp",
-      "publishedDateTime": "2020-01-29T03:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/2020%252F01%252F29%252Fb2%252F973b166d53074d139f63b2d872c3a497.a04a7.png%252F1200x630.png?signature=AcyQ4VQYvny-pagLhgr44499WAM=",
-          "width": 1200,
-          "height": 630,
-          "title": "Deepak Chopra gives Jimmy Fallon a sneak peek at the digital AI version of himself",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,51 @@
   "page": 73,
   "value": [
     {
+      "path": "_news/2020-02-20-when-it-comes-to-artificial-intelligence-throw-away-that-tired-old-tech-rulebook.md",
+      "title": "When It Comes To Artificial Intelligence, Throw Away That Tired Old Tech Rulebook",
+      "excerpt": "MIT Sloan survey finds AI incurs risks and demands for executive involvement not seen in previous technology incarnations.",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/joemckendrick/2020/02/20/when-it-comes-to-artificial-intelligence-throw-away-that-tired-old-tech-rulebook/",
+      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2020/02/20/when-it-comes-to-artificial-intelligence-throw-away-that-tired-old-tech-rulebook/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2020/02/20/when-it-comes-to-artificial-intelligence-throw-away-that-tired-old-tech-rulebook/amp/",
+      "publishedDateTime": "2020-02-20T09:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e4eaced765d4500072cca5b%2F0x0.jpg",
+          "width": 478,
+          "height": 327,
+          "title": "When It Comes To Artificial Intelligence, Throw Away That Tired Old Tech Rulebook",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2020-02-20-ids-nxt-ocean-designed-to-ease-image-processing-for-neural-networks.md",
       "title": "IDS NXT ocean designed to ease image processing for neural networks",
       "excerpt": "Among the challenges facing artificial intelligence, robotics, and autonomous vehicle developers is the need to process mages for training neural networks. IDS NXT ocean from Imaging Development Systems GmbH is intended to make it easier for users who are not AI experts to classify images. IDS NXT ocean includes camera hardware, a self ...",
@@ -1025,53 +1070,6 @@
         "AI",
         "AI in Robotics",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-02-20-gartners-2020-magic-quadrant-for-data-science-and-machine-learning-platforms-has-many-surprises.md",
-      "title": "Gartner’s 2020 Magic Quadrant For Data Science And Machine Learning Platforms Has Many Surprises",
-      "excerpt": "Enterprise decision-makers look up to Gartner for its recommendations on enterprise software stack. The magic quadrant report is one of the most credible, genuine, and authoritative research from Gartner.",
-      "heat": 150,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/janakirammsv/2020/02/20/gartners-2020-magic-quadrant-for-data-science-and-machine-learning-platforms-has-many-surprises/",
-      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2020/02/20/gartners-2020-magic-quadrant-for-data-science-and-machine-learning-platforms-has-many-surprises/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2020/02/20/gartners-2020-magic-quadrant-for-data-science-and-machine-learning-platforms-has-many-surprises/amp/",
-      "publishedDateTime": "2020-02-19T23:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e4e13147a0098000733c741%2F0x0.jpg",
-          "width": 1000,
-          "height": 675,
-          "title": "Gartner’s 2020 Magic Quadrant For Data Science And Machine Learning Platforms Has Many Surprises",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI",
-        "Machine Learning",
-        "AWS AI"
       ]
     }
   ],

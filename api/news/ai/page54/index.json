@@ -2,6 +2,51 @@
   "page": 54,
   "value": [
     {
+      "path": "_news/2020-02-28-forget-chessthe-real-challenge-is-teaching-ai-to-play-dd.md",
+      "title": "Forget Chess—the Real Challenge Is Teaching AI to Play D&D",
+      "excerpt": "This kind of spontaneous yet coherent storytelling is extremely difficult for artificial intelligence, even as AI has mastered more constrained board games such as chess and Go. The best text-generating AI programs too often produce confused and disjointed prose. So some researchers view spontaneous storytelling as a good test of progress ...",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wired.com/story/forget-chess-real-challenge-teaching-ai-play-dandd/",
+      "ampWebUrl": "https://www.wired.com/story/forget-chess-real-challenge-teaching-ai-play-dandd/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/forget-chess-real-challenge-teaching-ai-play-dandd/amp",
+      "publishedDateTime": "2020-02-28T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.vanityfair.com/photos/576c493744d93e6e4482bb21/master/pass/placeholder_the_scene.jpg",
+          "width": 800,
+          "height": 450,
+          "title": "Forget Chess—the Real Challenge Is Teaching AI to Play D&D",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2020-02-28-artificial-intelligence-ai-chipset-market-size-share-key-players-growth-drivers-business-opportunities-and-industry-forecast.md",
       "title": "Artificial Intelligence (AI) Chipset Market Size, Share, Key Players, Growth Drivers, Business Opportunities, and industry Forecast",
       "excerpt": "Market Highlights Artificial intelligence (AI) chipset are silicon-based chips that are integrated with devices",
@@ -1246,51 +1291,6 @@
       "topics": [
         "AI",
         "AI in Finance",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-02-27-children-with-autism-saw-their-learning-and-social-skills-boosted-after-playing-with-this-ai-robot.md",
-      "title": "Children With Autism Saw Their Learning and Social Skills Boosted After Playing With This AI Robot",
-      "excerpt": "Over half a dozen children with autism played with a green, feathered artificially intelligent robot called Kiwi for the study.",
-      "heat": 85,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.newsweek.com/children-autism-saw-their-learning-social-skills-boosted-after-playing-this-ai-robot-1489224",
-      "ampWebUrl": "https://www.newsweek.com/children-autism-saw-their-learning-social-skills-boosted-after-playing-this-ai-robot-1489224?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/children-autism-saw-their-learning-social-skills-boosted-after-playing-this-ai-robot-1489224?amp=1",
-      "publishedDateTime": "2020-02-27T05:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1569565/girl-paint-playing-learning-stock-getty.jpg",
-          "width": 2226,
-          "height": 1347,
-          "title": "Children With Autism Saw Their Learning and Social Skills Boosted After Playing With This AI Robot",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
         "Machine Learning"
       ]
     }

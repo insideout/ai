@@ -2,6 +2,43 @@
   "page": 48,
   "value": [
     {
+      "path": "_news/2020-03-17-scientists-use-artificial-intelligence-to-create-new-proteins-unseen-in-nature.md",
+      "title": "Scientists use artificial intelligence to create new proteins unseen in nature",
+      "excerpt": "The resulting “musical scores” which are generated depending on how a protein folds were fed into a deep learning neural network. These artificial neural networks are computational algorithms that mimic the behavior of human interconnected neurons to process and learn from large amounts of information in a similar way to how the brain ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.news-medical.net/news/20200317/Scientists-use-artificial-intelligence-to-create-new-proteins-unseen-in-nature.aspx",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20200317/Scientists-use-artificial-intelligence-to-create-new-proteins-unseen-in-nature.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200317/Scientists-use-artificial-intelligence-to-create-new-proteins-unseen-in-nature.aspx",
+      "publishedDateTime": "2020-03-17T08:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.news-medical.net/image.axd?picture=2020%2f3%2fshutterstock_1354969193.jpg",
+          "width": 1000,
+          "height": 563,
+          "title": "Scientists use artificial intelligence to create new proteins unseen in nature",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-17-osaro-recognized-as-top-global-ai-startup-by-cb-insights-ai-100-cnbcs-upstart-100.md",
       "title": "OSARO Recognized as Top Global AI Startup by CB Insights' AI 100 & CNBC's Upstart 100",
       "excerpt": "\"Each year, CNBC scans the globe looking for the 100 venture-backed start-ups that have the potential to transform industries ... Since 2015, OSARO's wider mission has been to build hardware-agnostic AI software that enables robots to function in a variety of environments and perform a diverse set of tasks. OSARO systems are compatible with ...",
@@ -846,42 +883,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-qa-toyota-ai-ventures-seeks-disruptive-start-ups.md",
-      "title": "Q&A: Toyota AI Ventures seeks disruptive start-ups",
-      "excerpt": "Toyota AI Ventures, a subsidiary of Toyota Research Institute (TRI), is a Silicon Valley-based venture capital company which invests in early-stage start-ups developing technology in areas including AI, cloud, data, mobility and more. Mobile World Live spoke to Jim Adler, founding MD (pictured, right), about some of the key trends the company ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.mobileworldlive.com/featured-content/top-three/qa-toyota-ai-ventures-seeks-disruptive-start-ups/",
-      "ampWebUrl": "https://www.mobileworldlive.com/featured-content/top-three/qa-toyota-ai-ventures-seeks-disruptive-start-ups/amp/",
-      "cdnAmpWebUrl": "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/featured-content/top-three/qa-toyota-ai-ventures-seeks-disruptive-start-ups/amp/",
-      "publishedDateTime": "2020-03-17T02:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mobile World Live",
-        "domain": "mobileworldlive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i1.wp.com/www.mobileworldlive.com/wp-content/uploads/2017/08/MWL_Toyota_Connected_Car.jpg?fit=500%2C281&ssl=1",
-          "width": 500,
-          "height": 281,
-          "title": "Q&A: Toyota AI Ventures seeks disruptive start-ups",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

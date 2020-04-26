@@ -2,6 +2,43 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-01-23-dem-senator-presses-facial-recognition-company-after-reports-of-law-enforcement-collaboration.md",
+      "title": "Dem senator presses facial recognition company after reports of law enforcement collaboration",
+      "excerpt": "Sen. Ed Markey (D-Mass.) on Thursday sent a series of questions to the CEO of Clearview AI after reports that the company has been selling facial recognition software with an expansive database to law enforcement.",
+      "heat": 248,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thehill.com/policy/technology/479564-democratic-senator-presses-facial-recognition-company-after-reports-of-law",
+      "ampWebUrl": "https://thehill.com/policy/technology/479564-democratic-senator-presses-facial-recognition-company-after-reports-of-law?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/479564-democratic-senator-presses-facial-recognition-company-after-reports-of-law?amp",
+      "publishedDateTime": "2020-01-23T08:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/markeyedward_030619gn2_lead.jpg",
+          "width": 980,
+          "height": 551,
+          "title": "Dem senator presses facial recognition company after reports of law enforcement collaboration",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2020-01-23-forget-smart-fridges-the-smart-kitchen-needs-a-brain.md",
       "title": "Forget smart fridges, the smart kitchen needs a brain",
       "excerpt": "Progression like that might happen faster than you'd expect. LG recently announced a new AI chip focused on object recognition, and Amazon won a patent for a fridge that can sense spoiled food, but neither one has made it to market yet. There's a bit of the loop still left to close when it comes to recommending recipes with only the ...",
@@ -1250,51 +1287,6 @@
           "width": 1280,
           "height": 640,
           "title": "Retailers Hope In-Store Tech Will Keep Shoppers in Stores",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-01-14-advocates-ask-colleges-to-avoid-facial-recognition-as-surveillance-grows.md",
-      "title": "Advocates ask colleges to avoid facial recognition as surveillance grows",
-      "excerpt": "To that end, digital rights advocacy group Fight for the Future today launched a campaign to get facial recognition off of college campuses. The campaign is partnering with student advocacy groups at The George Washington University in Washington, DC, and DePaul University in Chicago. \"Facial-recognition surveillance spreading to college ...",
-      "heat": 338,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://arstechnica.com/tech-policy/2020/01/advocates-ask-colleges-to-avoid-facial-recognition-as-surveillance-grows/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-14T13:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2020/01/GettyImages-1167712182-760x380.jpg",
-          "width": 760,
-          "height": 380,
-          "title": "Advocates ask colleges to avoid facial recognition as surveillance grows",
           "attribution": null
         }
       ],

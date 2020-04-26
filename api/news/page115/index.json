@@ -2,6 +2,43 @@
   "page": 115,
   "value": [
     {
+      "path": "_news/2020-01-14-the-us-leads-in-world-changing-startups.md",
+      "title": "The U.S. Leads in World-Changing Startups",
+      "excerpt": "A new report shows the U.S. dramatically leads with new companies focused on emerging technologies. The United States enters 2020 on a favorable technology setting, with 23 of 36 of what CB Insights labels \"game-changing\" tech startup companies this year being based in the country.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.usnews.com/news/best-countries/articles/2020-01-14/the-us-has-the-most-startups-that-could-change-the-world",
+      "ampWebUrl": "https://www.usnews.com/news/best-countries/articles/2020-01-14/the-us-has-the-most-startups-that-could-change-the-world?context=amp",
+      "cdnAmpWebUrl": "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/best-countries/articles/2020-01-14/the-us-has-the-most-startups-that-could-change-the-world?context=amp",
+      "publishedDateTime": "2020-01-14T12:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2020-01-14-rights-group-says-china-is-trying-to-silence-critics-abroad.md",
       "title": "Rights group says China is trying to silence critics abroad",
       "excerpt": "He warned that if human rights aren’t defended, the world could face “a dystopian future in which no one is beyond the reach of Chinese censors” and a global rights system so weakened that ...",
@@ -986,51 +1023,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-01-13-facebook-releases-low-latency-online-speech-recognition-framework.md",
-      "title": "Facebook releases low-latency online speech recognition framework",
-      "excerpt": "Facebook AI Research (FAIR) today said it’s open-sourcing wav2letter@anywhere, a deep learning-based inference framework that achieves fast performance for online automatic speech recognition in ...",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/01/13/facebook-releases-low-latency-online-speech-recognition-framework/",
-      "ampWebUrl": "https://venturebeat.com/2020/01/13/facebook-releases-low-latency-online-speech-recognition-framework/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/13/facebook-releases-low-latency-online-speech-recognition-framework/amp/",
-      "publishedDateTime": "2020-01-13T09:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/04/Facebook-sign-F8-e1564693284989.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Facebook releases low-latency online speech recognition framework",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

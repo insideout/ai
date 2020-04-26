@@ -2,6 +2,51 @@
   "page": 96,
   "value": [
     {
+      "path": "_news/2020-01-14-facebook-taught-its-ai-to-speak-math.md",
+      "title": "Facebook taught its AI to speak math",
+      "excerpt": "My numerical idiocy aside, Facebook has trained an AI to solve ... Essentially the research team taught the AI to unpack mathematical equations much in the same way that we do for complex phrases ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.engadget.com/2020/01/14/facebook-taught-its-ai-to-speak-math/",
+      "ampWebUrl": "https://www.engadget.com/amp/2020/01/14/facebook-taught-its-ai-to-speak-math/",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/14/facebook-taught-its-ai-to-speak-math/",
+      "publishedDateTime": "2020-01-14T09:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D7952%252C5304%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1067%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2019-10%252Fa6df90d0-fc30-11e9-bf3d-41e8fa5d6f01%26client%3Da1acac3e1b3290917d92%26signature%3Df51c7486a6dd8080945bf5ef5ac7482111cf2c46&client=amp-blogside-v2&signature=7c28bf857a46eba7eeca3ef58ca21d26e24a1234",
+          "width": 600,
+          "height": 350,
+          "title": "Facebook taught its AI to speak math",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2020-01-14-coral-is-googles-quiet-initiative-to-enable-ai-without-the-cloud.md",
       "title": "Coral is Google’s quiet initiative to enable AI without the cloud",
       "excerpt": "Market analysts predict that more than 750 million edge AI chips and computers will be sold in 2020, rising to 1.5 billion by 2024. And while most of these will be installed in consumer devices like phones, a great deal are destined for enterprise customers in industries like automotive and health care. To meet customers’ needs Coral offers ...",
@@ -1221,51 +1266,6 @@
       "topics": [
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-12-how-the-police-use-facial-recognition-and-where-it-falls-short.md",
-      "title": "How the Police Use Facial Recognition, and Where It Falls Short",
-      "excerpt": "So investigators turned to one of the oldest and largest facial recognition systems in the country: a statewide program based in Pinellas County, Fla., that began almost 20 years ago, when law ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nytimes.com/2020/01/12/technology/facial-recognition-police.html",
-      "ampWebUrl": "https://www.nytimes.com/2020/01/12/technology/facial-recognition-police.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/01/12/technology/facial-recognition-police.amp.html",
-      "publishedDateTime": "2020-01-12T14:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/01/11/multimedia/11pinellas/00pinellas-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": "How the Police Use Facial Recognition, and Where It Falls Short",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

@@ -2,6 +2,50 @@
   "page": 104,
   "value": [
     {
+      "path": "_news/2020-01-23-phiar-launches-ai-powered-ar-navigation-app-in-invite-only-iphone-beta.md",
+      "title": "Phiar launches AI-powered AR navigation app in invite-only iPhone beta",
+      "excerpt": "It also uses AI for lane segmentation, semantic segmentation, and 3D localization, allowing the app to determine and draw a proper navigational route through multi-lane streets. The user can then just follow the suggested path, as well as seeing floating icons that indicate points of interest and traffic signals. One key to these tricks is on ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/01/23/phiar-launches-ai-powered-ar-navigation-app-in-invite-only-iphone-beta/",
+      "ampWebUrl": "https://venturebeat.com/2020/01/23/phiar-launches-ai-powered-ar-navigation-app-in-invite-only-iphone-beta/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/23/phiar-launches-ai-powered-ar-navigation-app-in-invite-only-iphone-beta/amp/",
+      "publishedDateTime": "2020-01-23T07:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/01/phiar.jpg?fit=2299%2C1150&strip=all",
+          "width": 2299,
+          "height": 1150,
+          "title": "Phiar launches AI-powered AR navigation app in invite-only iPhone beta",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-01-23-waymo-self-driving-vans-and-trucks-coming-to-new-mexico-and-texas.md",
       "title": "Waymo self-driving vans and trucks coming to New Mexico and Texas",
       "excerpt": "Alphabet’s Waymo announced today that it’s expanding to new markets, revealing that it’s bringing some of its vehicles to Texas and parts of New Mexico. More specifically, those living in Texas and New Mexico can expect to see Waymo’s Chrysler Pacificas and long-haul trucks on the road in the near future. Waymo hasn’t shared a ton of ...",
@@ -1023,51 +1067,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-22-clearview-ais-facial-recognition-app-is-a-nightmare-for-stalking-victims.md",
-      "title": "Clearview AI’s facial-recognition app is a nightmare for stalking victims",
-      "excerpt": "The latest example of Silicon Valley’s hubris is the facial-recognition app Clearview AI. The small startup’s app is so powerful that someone could walk up to you on the street, snap your photo, and quickly find out your name, address, and phone number ...",
-      "heat": 88,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.digitaltrends.com/news/clearview-ai-facial-recognition-domestic-violence-stalking/",
-      "ampWebUrl": "https://www.digitaltrends.com/news/clearview-ai-facial-recognition-domestic-violence-stalking/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/clearview-ai-facial-recognition-domestic-violence-stalking/?amp",
-      "publishedDateTime": "2020-01-22T09:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://icdn3.digitaltrends.com/image/digitaltrends/facial-recognition-composite-feature-1200x630-c-ar1.91.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": "Clearview AI’s facial-recognition app is a nightmare for stalking victims",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

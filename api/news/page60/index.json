@@ -2,6 +2,44 @@
   "page": 60,
   "value": [
     {
+      "path": "_news/2020-03-09-tensorflow-quantum-software-combines-quantum-and-classical-machine-learning.md",
+      "title": "TensorFlow Quantum software combines quantum and classical machine learning",
+      "excerpt": "The collaborative effort resulted in the creation of an open-source hybrid quantum-classical machine learning software platform, called TensorFlow Quantum. TensorFlow Quantum integrates Google’s Cirq and TensorFlow and will allow for the rapid ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://insidehpc.com/2020/03/tensorflow-quantum-software-combines-quantum-and-classical-machine-learning/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-09T10:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "insideHPC",
+        "domain": "insidehpc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://insidehpc.com/wp-content/uploads/2020/03/blobid0_1583527327745.jpg",
+          "width": 640,
+          "height": 480,
+          "title": "TensorFlow Quantum software combines quantum and classical machine learning",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "TensorFlow"
+      ]
+    },
+    {
       "path": "_news/2020-03-09-global-voice-and-speech-recognition-technology-industry.md",
       "title": "Global Voice and Speech Recognition Technology Industry",
       "excerpt": "NEW YORK, March 9, 2020 /PRNewswire/ -- Voice and Speech Recognition Technology market worldwide is projected to grow by US$15 Billion, driven by a compounded growth of",
@@ -879,43 +917,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-08-uk-based-fintech-finastra-to-allow-customers-to-use-conversational-ai-based-retail-banking-app.md",
-      "title": "UK-based Fintech Finastra to Allow Customers to Use Conversational AI-based Retail Banking App",
-      "excerpt": "London-based Fintech firm Finastra has revealed that its customers will be able to Active.Ai‘s conversational artificial intelligence (AI)-based retail banking app, which was integrated with the ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.crowdfundinsider.com/2020/03/158332-uk-based-fintech-finastra-to-allow-customers-to-use-conversational-ai-based-retail-banking-app/",
-      "ampWebUrl": "https://www.crowdfundinsider.com/2020/03/158332-uk-based-fintech-finastra-to-allow-customers-to-use-conversational-ai-based-retail-banking-app/amp/",
-      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/03/158332-uk-based-fintech-finastra-to-allow-customers-to-use-conversational-ai-based-retail-banking-app/amp/",
-      "publishedDateTime": "2020-03-08T09:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crowdfund Insider",
-        "domain": "crowdfundinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2019/10/Art-Deco-Statue-AI-Artificial-Intelligence-300x225.jpeg",
-          "width": 300,
-          "height": 225,
-          "title": "UK-based Fintech Finastra to Allow Customers to Use Conversational AI-based Retail Banking App",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

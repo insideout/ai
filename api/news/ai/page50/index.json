@@ -2,6 +2,43 @@
   "page": 50,
   "value": [
     {
+      "path": "_news/2020-03-09-marylands-face-recognition-system-is-one-of-the-most-invasive-in-the-nation-commentary.md",
+      "title": "Maryland’s face recognition system is one of the most invasive in the nation | COMMENTARY",
+      "excerpt": "Her photo was posted on news channels and all over the internet. The mistake was the result of faulty face recognition technology, which Sri Lankan authorities had used to search for suspects.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.baltimoresun.com/opinion/op-ed/bs-ed-op-0310-face-recognition-20200309-hg6jkfav2fdz3ccs55bvqjtnmu-story.html",
+      "ampWebUrl": "https://www.baltimoresun.com/opinion/op-ed/bs-ed-op-0310-face-recognition-20200309-hg6jkfav2fdz3ccs55bvqjtnmu-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/opinion/op-ed/bs-ed-op-0310-face-recognition-20200309-hg6jkfav2fdz3ccs55bvqjtnmu-story.html?outputType=amp",
+      "publishedDateTime": "2020-03-09T12:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Baltimore Sun",
+        "domain": "baltimoresun.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.baltimoresun.com/resizer/zb8KR6IkgmyW3Mbc5y-UnmfoZT8=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/RDVQ7TGPVBGWPMTQZ7CQYBBEVE.jpg",
+          "width": 1200,
+          "height": 814,
+          "title": "Maryland’s face recognition system is one of the most invasive in the nation | COMMENTARY",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-09-amazon-wants-other-retailers-to-go-cashierless-with-its-just-walk-out-technology.md",
       "title": "Amazon Wants Other Retailers to Go Cashierless With Its Just Walk Out Technology",
       "excerpt": "Jay Stanley, senior policy analyst for the ACLU, which has previously expressed concerns about Amazon technology like Rekognition, said the ecommerce giant’s ability to retain data in ...",
@@ -1082,51 +1119,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-08-facial-recognition-technology-is-getting-out-of-control.md",
-      "title": "Facial recognition technology is getting out of control",
-      "excerpt": "Facial recognition is a more pressing concern than aerial surveillance. Thanks to technology like that developed by Clearview, anyone who has uploaded photos of themselves to social media is ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businessinsider.com/facial-recognition-technology-getting-out-of-control-needs-regulation-2020-3",
-      "ampWebUrl": "https://www.businessinsider.com/facial-recognition-technology-getting-out-of-control-needs-regulation-2020-3?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/facial-recognition-technology-getting-out-of-control-needs-regulation-2020-3?amp",
-      "publishedDateTime": "2020-03-08T08:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.insider.com/5e62a399fee23d57f8269b25?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": "Facial recognition technology is getting out of control",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

@@ -2,6 +2,51 @@
   "page": 82,
   "value": [
     {
+      "path": "_news/2020-02-12-deep-instinct-nabs-43m-for-a-deep-learning-cybersecurity-solution-that-can-suss-an-attack-before-it-happens.md",
+      "title": "Deep Instinct nabs $43M for a deep-learning cybersecurity solution that can suss an attack before it happens",
+      "excerpt": "Today, a startup that’s built a deep learning solution that it claims can both identify and stop even viruses that have yet to be identified, has raised a large round of funding from some big strategic partners. Deep Instinct, which uses deep learning both to learn how to identify and stop known viruses and other hacking techniques ...",
+      "heat": 155,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/02/12/deep-instinct-nabs-43m-for-a-deep-learning-cybersecurity-solution-that-can-suss-an-attack-before-it-happens/",
+      "ampWebUrl": "https://techcrunch.com/2020/02/12/deep-instinct-nabs-43m-for-a-deep-learning-cybersecurity-solution-that-can-suss-an-attack-before-it-happens/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/12/deep-instinct-nabs-43m-for-a-deep-learning-cybersecurity-solution-that-can-suss-an-attack-before-it-happens/amp/",
+      "publishedDateTime": "2020-02-12T06:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/09/GettyImages-1079200304.jpg?w=1024",
+          "width": 1024,
+          "height": 752,
+          "title": "Deep Instinct nabs $43M for a deep-learning cybersecurity solution that can suss an attack before it happens",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-02-12-india-can-benefit-from-ai-machine-learning-chandra.md",
       "title": "India can benefit from AI, machine learning: Chandra",
       "excerpt": "Mumbai, Feb 12 () Tata Sons Chairman N Chandrasekaran on Tuesday said job losses due to technological growth is a bogey created by advanced nations, and emerging economies like India can benefit from aspects such as artificial intelligence and machine learning. Addressing tech industry chief executives at industry lobby Nasscom's annual event ...",
@@ -1025,51 +1070,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-02-11-aptivs-self-driving-vehicles-top-100000-rides-in-las-vegas.md",
-      "title": "Aptiv’s Self-Driving Vehicles Top 100,000 Rides In Las Vegas",
-      "excerpt": "Waymo got a lot of media coverage for the December 2018 commercial launch of its automated ride-hailing service. But Waymo wasn’t the first company to open such a service to the general public and start charging for rides.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/samabuelsamid/2020/02/11/aptiv-self-driving-vehicles-top-100000-rides-in-las-vegas/",
-      "ampWebUrl": "https://www.forbes.com/sites/samabuelsamid/2020/02/11/aptiv-self-driving-vehicles-top-100000-rides-in-las-vegas/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/samabuelsamid/2020/02/11/aptiv-self-driving-vehicles-top-100000-rides-in-las-vegas/amp/",
-      "publishedDateTime": "2020-02-11T09:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e41bec0a854780006b0f2a8%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Aptiv’s Self-Driving Vehicles Top 100,000 Rides In Las Vegas",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

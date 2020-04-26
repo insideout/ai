@@ -2,6 +2,50 @@
   "page": 88,
   "value": [
     {
+      "path": "_news/2020-01-22-servicenow-acquires-loom-systems-to-expand-aiops-coverage.md",
+      "title": "ServiceNow acquires Loom Systems to expand AIOps coverage",
+      "excerpt": "ServiceNow announced today that it has acquired Loom Systems ... reduce L1 incidents,” he told TechCrunch. Loom co-founder and CEO Gabby Menachem not surprisingly sees a similar value proposition. “By joining forces, we have the unique opportunity to bring together our AI innovations and ServiceNow’s AIOps capabilities to help customers ...",
+      "heat": 267,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/01/22/servicenow-acquires-loom-systems-to-expand-aiops-coverage/",
+      "ampWebUrl": "https://techcrunch.com/2020/01/22/servicenow-acquires-loom-systems-to-expand-aiops-coverage/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/22/servicenow-acquires-loom-systems-to-expand-aiops-coverage/amp/",
+      "publishedDateTime": "2020-01-22T05:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/01/GettyImages-1173020463.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": "ServiceNow acquires Loom Systems to expand AIOps coverage",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-01-22-agency-from-william-gibson-splits-the-seams-between-ai-and-humans.md",
       "title": "Agency from William Gibson splits the seams between AI and humans",
       "excerpt": "It involves Bay Area tech startups and AR headsets, spinning a vibe that doesn't feel far off from the life I actually live right now covering emergent tech. There's a mysterious AI program: an assistant, a person, named Eunice. Someone. I don't want to give much more away. I'd prefer you let the book take you on this journey. Eunice meets and ...",
@@ -1225,51 +1269,6 @@
       "topics": [
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-21-google-ceo-backs-temporary-ban-on-facial-recognition.md",
-      "title": "Google CEO backs temporary ban on facial recognition",
-      "excerpt": "Google and Alphabet CEO Sundar Pichai supports a temporary ban on facial recognition technology in the European Union. Activists and technologists have called the controversial technology racially biased, and voiced concerns about privacy, regarding its use by governments and law enforcement. “I think it is important that governments and ...",
-      "heat": 169,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.foxnews.com/tech/google-ceo-ban-facial-recognition-sundar",
-      "ampWebUrl": "https://www.foxnews.com/tech/google-ceo-ban-facial-recognition-sundar.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/google-ceo-ban-facial-recognition-sundar.amp",
-      "publishedDateTime": "2020-01-21T09:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/headshot-new.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": "Google CEO backs temporary ban on facial recognition",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

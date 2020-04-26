@@ -2,6 +2,42 @@
   "page": 100,
   "value": [
     {
+      "path": "_news/2020-01-04-gone-today-hair-tomorrowfollica-raises-funds-to-begin-human-trial-of-baldness-treatment.md",
+      "title": "Gone Today, Hair Tomorrow—Follica Raises Funds to Begin Human Trial of Baldness Treatment",
+      "excerpt": "A proof of concept study involving 15 to 20 patients (Follica has no shortage of volunteers, as several hundred people sent in e-mails when word of Cotsarelis’s work reached the public ...",
+      "heat": 128,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://xconomy.com/boston/2008/01/04/gone-today-hair-tomorrow-follica-raises-funds-to-begin-human-trial-of-baldness-treatment/2/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-03T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Xconomy",
+        "domain": "xconomy.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.xconomy.com/wordpress/wp-content/images/2019/02/28152625/Special-Report-Image-of-Report-cover1.jpg",
+          "width": 600,
+          "height": 400,
+          "title": "Gone Today, Hair Tomorrow—Follica Raises Funds to Begin Human Trial of Baldness Treatment",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-01-04-microsoft-takes-azure-to-the-next-level.md",
       "title": "Microsoft takes Azure to the next level",
       "excerpt": "Microsoft first developed its cloud computing ... new capabilities for Azure Cognitive Services, Azure Digital Twins, and general availability of Azure IoT Central. Azure came to blockchain ...",
@@ -1240,51 +1276,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2019-12-29-misty-robotics-eyes-23-million-developers-to-build-skills-marketplace.md",
-      "title": "Misty Robotics Eyes 23 Million Developers To Build Skills Marketplace",
-      "excerpt": "Sphero spin off Misty Robotics is building a skills marketplace for its Misty II robot by crowdsourcing the talents of the global developer community. Now hobbyists with a few lines of Javascript or C# code can create their dream assistant who out of the box can see,",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/martineparis/2020/12/29/misty-robotics-eyes-23-million-developers-to-build-skills-marketplace/",
-      "ampWebUrl": "https://www.forbes.com/sites/martineparis/2020/12/29/misty-robotics-eyes-23-million-developers-to-build-skills-marketplace/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martineparis/2020/12/29/misty-robotics-eyes-23-million-developers-to-build-skills-marketplace/amp/",
-      "publishedDateTime": "2019-12-29T02:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e087da825ab5d0007cf756b%2F0x0.jpg%3FcropX1%3D178%26cropX2%3D1606%26cropY1%3D0%26cropY2%3D804",
-          "width": 1200,
-          "height": 676,
-          "title": "Misty Robotics Eyes 23 Million Developers To Build Skills Marketplace",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

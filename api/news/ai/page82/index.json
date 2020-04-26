@@ -2,6 +2,43 @@
   "page": 82,
   "value": [
     {
+      "path": "_news/2020-01-29-maine-to-build-institute-to-teach-tech-skills-machine-learning.md",
+      "title": "Maine to Build Institute to Teach Tech Skills, Machine Learning",
+      "excerpt": "We really see that [as] a great opportunity.” (TNS) — Wex uses machine learning and artificial intelligence in its day-to-day operations. At its call centers, the payment processing firm uses speech recognition technology to route calls. When monitoring accounts for fraud risk, the company uses sophisticated data analysis built by algorithm.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.governing.com/next/Maine-to-Build-Institute-to-Teach-Tech-Skills-Machine-Learning.html",
+      "ampWebUrl": "https://www.governing.com/next/Maine-to-Build-Institute-to-Teach-Tech-Skills-Machine-Learning.html?AMP",
+      "cdnAmpWebUrl": "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/next/Maine-to-Build-Institute-to-Teach-Tech-Skills-Machine-Learning.html?AMP",
+      "publishedDateTime": "2020-01-28T16:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Governing",
+        "domain": "governing.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media2.govtech.com/images/Cuyahoga+County+OZ.JPG",
+          "width": 2048,
+          "height": 1582,
+          "title": "Maine to Build Institute to Teach Tech Skills, Machine Learning",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-01-29-deepmind-develops-ai-with-an-imagination.md",
       "title": "DeepMind Develops AI With An Imagination",
       "excerpt": "Google is going full Westworld by giving robots the ability to imagine and plan. In the same way a person would look at a glass of water on the edge of a table and consider whether it might fall ...",
@@ -1233,51 +1270,6 @@
       "topics": [
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-01-28-this-young-innovator-is-a-champion-of-ai-for-good.md",
-      "title": "This Young Innovator Is A Champion Of AI For Good",
-      "excerpt": "At the AIMed conference 2019, UCI’s sophomore, and Dalai Lama Scholar Karishma Muthukumar gave an opening speech about her big idea of using empathy-based artificial intelligence to improve human connection in the healthcare field.",
-      "heat": 109,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/01/28/this-young-innovator-is-a-champion-of-ai-for-good/",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/01/28/this-young-innovator-is-a-champion-of-ai-for-good/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/01/28/this-young-innovator-is-a-champion-of-ai-for-good/amp/",
-      "publishedDateTime": "2020-01-28T04:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e2f1c45f133f400076acafb%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D616%26cropY1%3D76%26cropY2%3D423",
-          "width": 616,
-          "height": 348,
-          "title": "This Young Innovator Is A Champion Of AI For Good",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

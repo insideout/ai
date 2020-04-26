@@ -971,31 +971,23 @@
     {
       "path": "_news/2020-04-21-ibm-fenergo-join-forces-to-fight-financial-crime.md",
       "title": "IBM & Fenergo Join Forces to Fight Financial Crime",
-      "excerpt": "Fenergo, the leading provider of digital transformation, customer journey and client lifecycle management (CLM) solutions for",
+      "excerpt": "DUBLIN and ARMONK, New York, April 21, 2020 /PRNewswire/ -- Fenergo, the leading provider of digital transformation, customer journey and client lifecycle management",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.prnewswire.com/news-releases/ibm--fenergo-join-forces-to-fight-financial-crime-301043856.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/20/04/n15845536/ibm-fenergo-join-forces-to-fight-financial-crime",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/15845536",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15845536",
       "publishedDateTime": "2020-04-21T03:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg",
-          "width": 600,
-          "height": 315,
-          "title": "IBM & Fenergo Join Forces to Fight Financial Crime",
-          "attribution": null
-        }
-      ],
+      "images": null,
       "locale": "en-us",
       "categories": [
         "news"

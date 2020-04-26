@@ -2,6 +2,34 @@
   "page": 81,
   "value": [
     {
+      "path": "_news/2020-01-29-man-in-wheelchair-dumped-onto-ground-in-dispute-over-parking-space-at-pleasant-hill-target-store.md",
+      "title": "Man In Wheelchair Dumped Onto Ground In Dispute Over Parking Space At Pleasant Hill Target Store",
+      "excerpt": "Detectives were given a partial license plate number for Tiger’s vehicle, and later identified ... injury were filed and an arrest warrant was issued. Two days later, Tiger was arrested in ...",
+      "heat": 124,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://sanfrancisco.cbslocal.com/2020/01/29/wheelchair-assault-dispute-parking-space-pleasant-hill-target/",
+      "ampWebUrl": "https://sanfrancisco.cbslocal.com/2020/01/29/wheelchair-assault-dispute-parking-space-pleasant-hill-target/amp/",
+      "cdnAmpWebUrl": "https://sanfrancisco-cbslocal-com.cdn.ampproject.org/c/s/sanfrancisco.cbslocal.com/2020/01/29/wheelchair-assault-dispute-parking-space-pleasant-hill-target/amp/",
+      "publishedDateTime": "2020-01-29T11:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS Local",
+        "domain": "cbslocal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-01-29-object-recognition-is-the-answer-heres-why.md",
       "title": "Object Recognition Is The Answer, Here’s Why",
       "excerpt": "More specifically, the convergence of Object Recognition, Machine Vision, and Neural Networks enables machines to see and understand what it is they are seeing. For sure, there are specific use ...",
@@ -1251,43 +1279,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-01-29-maine-to-build-institute-to-teach-tech-skills-machine-learning.md",
-      "title": "Maine to Build Institute to Teach Tech Skills, Machine Learning",
-      "excerpt": "We really see that [as] a great opportunity.” (TNS) — Wex uses machine learning and artificial intelligence in its day-to-day operations. At its call centers, the payment processing firm uses speech recognition technology to route calls. When monitoring accounts for fraud risk, the company uses sophisticated data analysis built by algorithm.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.governing.com/next/Maine-to-Build-Institute-to-Teach-Tech-Skills-Machine-Learning.html",
-      "ampWebUrl": "https://www.governing.com/next/Maine-to-Build-Institute-to-Teach-Tech-Skills-Machine-Learning.html?AMP",
-      "cdnAmpWebUrl": "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/next/Maine-to-Build-Institute-to-Teach-Tech-Skills-Machine-Learning.html?AMP",
-      "publishedDateTime": "2020-01-28T16:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Governing",
-        "domain": "governing.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media2.govtech.com/images/Cuyahoga+County+OZ.JPG",
-          "width": 2048,
-          "height": 1582,
-          "title": "Maine to Build Institute to Teach Tech Skills, Machine Learning",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

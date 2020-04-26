@@ -2,6 +2,50 @@
   "page": 103,
   "value": [
     {
+      "path": "_news/2020-01-24-qut-to-use-ai-and-ml-in-gold-coast-future-waterways-project.md",
+      "title": "QUT to use AI and ML in Gold Coast future waterways project",
+      "excerpt": "QUT said its research team will use advanced machine learning and statistical methods to estimate the number and types of vessels using the waterways. See also: How AI and drones are trying to save the Great Barrier Reef (TechRepublic) In combination with information on marine incidents and weather conditions, QUT said it will establish usage ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/qut-to-use-ai-and-ml-in-gold-coast-future-waterways-project/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/qut-to-use-ai-and-ml-in-gold-coast-future-waterways-project/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/qut-to-use-ai-and-ml-in-gold-coast-future-waterways-project/",
+      "publishedDateTime": "2020-01-23T17:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/01/24/4044e1c1-ffc0-4f58-b883-ed92982493e3/49422632433-2e29103a65-k.jpg",
+          "width": 2048,
+          "height": 1536,
+          "title": "QUT to use AI and ML in Gold Coast future waterways project",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-01-24-intel-ceo-were-confident-in-the-future-we-generated-38-billion-in-ai-revenue-in-2019.md",
       "title": "Intel CEO: We’re confident in the future, we generated $3.8 billion in AI revenue in 2019",
       "excerpt": "The AI market opportunity is expected to be $25 billion by 2024. This comes after some rocky moments for Intel in the past couple of years. It changed CEOs, ran into delays in developing its critical 10-nanometer (nm) manufacturing process, wasn’t able to produce as many chips as its customers wanted, and faced serious competition from rival ...",
@@ -1026,50 +1070,6 @@
           "width": 1024,
           "height": 576,
           "title": "Twitter demands AI company stops 'collecting faces'",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-23-phiar-launches-ai-powered-ar-navigation-app-in-invite-only-iphone-beta.md",
-      "title": "Phiar launches AI-powered AR navigation app in invite-only iPhone beta",
-      "excerpt": "It also uses AI for lane segmentation, semantic segmentation, and 3D localization, allowing the app to determine and draw a proper navigational route through multi-lane streets. The user can then just follow the suggested path, as well as seeing floating icons that indicate points of interest and traffic signals. One key to these tricks is on ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/01/23/phiar-launches-ai-powered-ar-navigation-app-in-invite-only-iphone-beta/",
-      "ampWebUrl": "https://venturebeat.com/2020/01/23/phiar-launches-ai-powered-ar-navigation-app-in-invite-only-iphone-beta/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/23/phiar-launches-ai-powered-ar-navigation-app-in-invite-only-iphone-beta/amp/",
-      "publishedDateTime": "2020-01-23T07:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/01/phiar.jpg?fit=2299%2C1150&strip=all",
-          "width": 2299,
-          "height": 1150,
-          "title": "Phiar launches AI-powered AR navigation app in invite-only iPhone beta",
           "attribution": null
         }
       ],

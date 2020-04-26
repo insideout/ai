@@ -2,6 +2,51 @@
   "page": 72,
   "value": [
     {
+      "path": "_news/2020-02-09-tech-start-up-pix-moving-uses-self-driving-ideas-to-make-flexible-cities.md",
+      "title": "Tech Start-Up Pix Moving Uses Self-Driving Ideas To Make Flexible Cities",
+      "excerpt": "Tech start-up Pix Moving has engineered a pioneering autonomous mobile living unit based on self-driving cars and is proposing Pix City as a flexible, tech-evolving future city",
+      "heat": 83,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/nargessbanks/2020/02/09/autonomous-drive-pix-moving/",
+      "ampWebUrl": "https://www.forbes.com/sites/nargessbanks/2020/02/09/autonomous-drive-pix-moving/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nargessbanks/2020/02/09/autonomous-drive-pix-moving/amp/",
+      "publishedDateTime": "2020-02-09T09:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e403a4b8b6cf300071e3efc%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1000%26cropY1%3D0%26cropY2%3D563",
+          "width": 1000,
+          "height": 563,
+          "title": "Tech Start-Up Pix Moving Uses Self-Driving Ideas To Make Flexible Cities",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2020-02-09-study-warns-ai-may-trick-humans-with-false-evidence-of-alien-life.md",
       "title": "Study warns AI may trick humans with false evidence of alien life",
       "excerpt": "A newly published study warns that using AI to detect these techno-signatures may be risky, however, with the potential to make humans think they have discovered evidence of alien life when no such evidence actually exists. The new study points toward Ceres, the dwarf planet that briefly dazzled humanity with then-mysterious bright spots that ...",
@@ -1251,51 +1296,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-07-daily-news-of-artificial-intelligence.md",
-      "title": "DAILY NEWS OF ARTIFICIAL INTELLIGENCE",
-      "excerpt": "The robots have recently entered pole-dancers ... costs and fraudulent orders PWC Tech World reports that most e-commerce platforms are focused on sectors such as communication commerce, artificial intelligence (AI), virtual reality (VR) / augmented reality (AR) and analytics technologies New Delhi: Global auditing and consulting firm PWC ...",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/series/daily-news-of-artificial-intelligence-66b0dd171af1",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-07T11:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/2400/1*nUI0tQinevzbwiWcodKGCg.jpeg",
-          "width": 639,
-          "height": 429,
-          "title": "DAILY NEWS OF ARTIFICIAL INTELLIGENCE",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

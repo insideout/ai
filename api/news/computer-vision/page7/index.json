@@ -2,6 +2,43 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-02-05-european-parliament-insists-it-will-not-use-facial-recognition-tech.md",
+      "title": "European parliament insists it will not use facial recognition tech",
+      "excerpt": "Statement comes after leaked memo on use of technology in security provoked outcry",
+      "heat": 109,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.theguardian.com/technology/2020/feb/05/european-parliament-insists-it-will-not-use-facial-recognition-tech",
+      "ampWebUrl": "https://amp.theguardian.com/technology/2020/feb/05/european-parliament-insists-it-will-not-use-facial-recognition-tech",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2020/feb/05/european-parliament-insists-it-will-not-use-facial-recognition-tech",
+      "publishedDateTime": "2020-02-05T08:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/7d3501ff1cb5c4ad5d95972a50759a0d307408a4/0_117_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=2d8da36a5bbb8e2543a941cb7e2d1a1c",
+          "width": 600,
+          "height": 360,
+          "title": "European parliament insists it will not use facial recognition tech",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2020-02-05-ceo-of-creepy-face-recognition-firm-clearview-ai-says-he-has-first-amendment-right-to-billions-of-photos.md",
       "title": "CEO of Creepy Face Recognition Firm Clearview AI Says He Has First Amendment Right to Billions of Photos",
       "excerpt": "Clearview AI has licensed its face surveillance systems to over 600 law enforcement agencies ranging from the FBI and the Department of Homeland Security to local police departments. It operates with virtually next to no oversight, claims it’s exempt from biometric data laws, and marketed its tools to law enforcement as a sort of face ...",
@@ -1223,43 +1260,6 @@
           "width": 1200,
           "height": 633,
           "title": "Digitizing The Finger: Startup Gelsight Hones Measurement System That Could Speed Up Aerospace Work",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-01-23-dem-senator-presses-facial-recognition-company-after-reports-of-law-enforcement-collaboration.md",
-      "title": "Dem senator presses facial recognition company after reports of law enforcement collaboration",
-      "excerpt": "Sen. Ed Markey (D-Mass.) on Thursday sent a series of questions to the CEO of Clearview AI after reports that the company has been selling facial recognition software with an expansive database to law enforcement.",
-      "heat": 248,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thehill.com/policy/technology/479564-democratic-senator-presses-facial-recognition-company-after-reports-of-law",
-      "ampWebUrl": "https://thehill.com/policy/technology/479564-democratic-senator-presses-facial-recognition-company-after-reports-of-law?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/479564-democratic-senator-presses-facial-recognition-company-after-reports-of-law?amp",
-      "publishedDateTime": "2020-01-23T08:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/markeyedward_030619gn2_lead.jpg",
-          "width": 980,
-          "height": 551,
-          "title": "Dem senator presses facial recognition company after reports of law enforcement collaboration",
           "attribution": null
         }
       ],

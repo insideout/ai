@@ -2,6 +2,51 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-04-13-natural-language-processing-nlp-market-2019-2027-segments-and-supply-demand-forecast.md",
+      "title": "Natural Language Processing (NLP) Market 2019-2027 / Segments and Supply Demand Forecast",
+      "excerpt": "The report covers the forecast and analysis of the natural language processing (NLP) market on a global and regional",
+      "heat": 70,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-2019-2027-segments-and-supply-demand-forecast-2020-04-13",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-13T04:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Natural Language Processing (NLP) Market 2019-2027 / Segments and Supply Demand Forecast",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-13-siriusiq-announces-strategic-collaboration-with-rackware-enabling-rapid-adoption-of-microsoft-azure-cloud-platform.md",
       "title": "SiriusIQ Announces Strategic Collaboration With RackWare, Enabling Rapid Adoption of Microsoft Azure Cloud Platform",
       "excerpt": "The Cloud Correct solution delivers a new level of automation, analytics and AI using the comprehensive Microsoft Azure platform-as-a-service (PaaS) components and quickly adapts to increase the breadth of the customer's on-cloud landscape. \"With RackWare, Cloud Correct can now deliver almost instant value to any system that can benefit ...",
@@ -1189,51 +1234,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-10-janelle-shane-explains-ai-with-weirdness-and-humor-in-book-form.md",
-      "title": "Janelle Shane explains AI with weirdness and humor, in book form",
-      "excerpt": "And also very accessible. And I thought that sounded fantastic. I know this all started with AI Weirdness. Why did you start that blog? How did that come about? Janelle Shane: I saw someone else named Tom Brewe who had used one of these text-generating neural nets to do cookbook recipes. It was one of these situations where I’m laughing so ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/10/janelle-shane-explains-ai-with-weirdness-and-humor-in-book-form/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/10/janelle-shane-explains-ai-with-weirdness-and-humor-in-book-form/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/10/janelle-shane-explains-ai-with-weirdness-and-humor-in-book-form/amp/",
-      "publishedDateTime": "2020-04-10T07:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/03/you-look-like-a-thing-hero.jpg?fit=2000%2C1001&strip=all",
-          "width": 2000,
-          "height": 1001,
-          "title": "Janelle Shane explains AI with weirdness and humor, in book form",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

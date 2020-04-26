@@ -2,6 +2,34 @@
   "page": 65,
   "value": [
     {
+      "path": "_news/2020-02-28-the-age-of-customer-acquisition-30.md",
+      "title": "The age of customer acquisition 3.0",
+      "excerpt": "Some of the most intelligent growth marketers in the industry are looking beyond the obvious ways AI can improve results to focus on the cutting edge “out of the box” ways AI can turbocharge their paid user acquisition performance. AI-powered machines ... to accelerate your rate of learning will require an intelligent machine operational ...",
+      "heat": 122,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.clickz.com/the-age-of-customer-acquisition-3-0/260425/",
+      "ampWebUrl": "https://www.clickz.com/the-age-of-customer-acquisition-3-0/260425/amp/",
+      "cdnAmpWebUrl": "https://www-clickz-com.cdn.ampproject.org/c/s/www.clickz.com/the-age-of-customer-acquisition-3-0/260425/amp/",
+      "publishedDateTime": "2020-02-27T18:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ClickZ",
+        "domain": "clickz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-02-28-facial-recognition-company-says-entire-client-list-was-stolen.md",
       "title": "Facial recognition company says entire client list was stolen",
       "excerpt": "Facial recognition firm Clearview A.I. has confirmed to NBC News that their entire client list has been stolen.Feb. 28, 2020 © 2020 NBC UNIVERSAL",
@@ -1037,34 +1065,6 @@
           "attribution": null
         }
       ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-27-one-in-five-would-trust-ai-over-politicians-in-brexit-negotiations-report.md",
-      "title": "One in five would trust AI over politicians in Brexit negotiations – report",
-      "excerpt": "More than a fifth of Britons would trust artificial intelligence (AI) to better handle political negotiations – including Brexit – over ... “On the one hand, consumers appear willing to trust the ruthless rationality and efficiency of AI when it comes to certain tasks. However, the fear of AI ‘taking over’ remains rife.",
-      "heat": 115,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.irishexaminer.com/breakingnews/technow/one-in-five-would-trust-ai-over-politicians-in-brexit-negotiations-report-984411.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-27T03:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Irish Examiner",
-        "domain": "irishexaminer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
       "locale": "en-us",
       "categories": [
         "news"

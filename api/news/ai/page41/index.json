@@ -2,6 +2,35 @@
   "page": 41,
   "value": [
     {
+      "path": "_news/2020-03-17-whats-driving-the-gpu-market-growth-amd-amazon-web-services-dassault-systmes-google-ibm-intel-corporation-microsoft.md",
+      "title": "What's Driving the GPU Market Growth? AMD, Amazon Web Services, Dassault Systmes, Google, IBM, Intel Corporation, Microsoft",
+      "excerpt": "Ever increasing demand for advanced graphics processing across several sectors is majorly driving the GPU market trends GPUs play a key role in running graphics intensive applications such as gaming image processing 3D visualization VFX animations and many more among",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.openpr.com/news/1970446/what-s-driving-the-gpu-market-growth-amd-amazon-web-services",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-17T01:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-17-cyber-infrastructures10-week-azure-app-development-implementation-now-availablein-the-microsoft-azure-marketplace.md",
       "title": "Cyber Infrastructure's10-Week Azure App Development Implementation Now Availablein the Microsoft Azure Marketplace",
       "excerpt": "Microsoft Azure customers worldwide gain access to Cyber Infrastructure's implementation service to take advantage of agility of Azure to drive app development. SAN JOSE, CA, USA, March 17, 2020 /EINPresswire.",
@@ -1152,35 +1181,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-16-fintech-firms-aion-digital-and-qarar-team-up-to-accelerate-development-of-online-lending-platforms-in-the-middle-east.md",
-      "title": "Fintech Firms, Aion Digital and Qarar, Team Up to Accelerate Development of Online Lending Platforms in the Middle East",
-      "excerpt": "Two major Fintech companies, Aion Digital and Qarar ... As mentioned in the announcement, the platform integrates artificial intelligence (AI) capabilities to assist banks in improving their decision-making processes. Qarar’s deep analytics engine helps financial institutions make risk-managed, consistent business decisions by ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.crowdfundinsider.com/2020/03/158827-fintech-firms-aion-digital-and-qarar-team-up-to-accelerate-development-of-online-lending-platforms-in-the-middle-east/",
-      "ampWebUrl": "https://www.crowdfundinsider.com/2020/03/158827-fintech-firms-aion-digital-and-qarar-team-up-to-accelerate-development-of-online-lending-platforms-in-the-middle-east/amp/",
-      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/03/158827-fintech-firms-aion-digital-and-qarar-team-up-to-accelerate-development-of-online-lending-platforms-in-the-middle-east/amp/",
-      "publishedDateTime": "2020-03-16T13:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crowdfund Insider",
-        "domain": "crowdfundinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

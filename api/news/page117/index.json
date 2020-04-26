@@ -2,6 +2,51 @@
   "page": 117,
   "value": [
     {
+      "path": "_news/2020-01-10-robotaxis-will-be-available-as-soon-as-2022-self-driving-tech-supplier-mobileye-ceo-says.md",
+      "title": "Robotaxis will be available as soon as 2022, self-driving tech supplier Mobileye CEO says",
+      "excerpt": "We are targeting early 2022,\" Mobileye CEO Amnon Shashua told CNBC. Self-driving cars will start with fleet operators before general use due to regulatory and cost constraints \"that you cannot put ...",
+      "heat": 80,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2020/01/10/self-driving-tech-developer-mobileye-ceo-robotaxis-will-come-in-2022.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/01/10/self-driving-tech-developer-mobileye-ceo-robotaxis-will-come-in-2022.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/01/10/self-driving-tech-developer-mobileye-ceo-robotaxis-will-come-in-2022.html",
+      "publishedDateTime": "2020-01-10T15:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106331425-1578694177734shashua_amnon_mm_20200110_img_1027.jpg?v=1578694283",
+          "width": 5795,
+          "height": 3863,
+          "title": "Robotaxis will be available as soon as 2022, self-driving tech supplier Mobileye CEO says",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2020-01-10-an-ex-cio-of-goldman-sachs-is-helping-a-startup-use-ai-to-battle-cancer.md",
       "title": "An Ex-CIO Of Goldman Sachs Is Helping A Startup Use AI To Battle Cancer",
       "excerpt": "Marty Chavez, who left Goldman last year, just joined the board of Paige, a New York City startup that’s raised around $70 million to better diagnose and treat cancer patients.",
@@ -1038,43 +1083,6 @@
       "topics": [
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-01-09-upcoming-innovations-in-artificial-intelligence-in-healthcare-thriving-medical-attention-by-2025.md",
-      "title": "Upcoming Innovations In Artificial Intelligence in Healthcare Thriving Medical Attention by 2025",
-      "excerpt": "“Grand View Research, Inc. – Market Research And Consulting.” Artificial Intelligence in Healthcare Market Size, Share, & Trends Analysis By Component",
-      "heat": 61,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.benzinga.com/pressreleases/20/01/ab15096479/upcoming-innovations-in-artificial-intelligence-in-healthcare-thriving-medical-attention-by-2025",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/15096479",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15096479",
-      "publishedDateTime": "2020-01-09T00:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.grandviewresearch.com/static/img/research/us-artificial-intelligence-in-healthcare-market.png",
-          "width": 600,
-          "height": 300,
-          "title": "Upcoming Innovations In Artificial Intelligence in Healthcare Thriving Medical Attention by 2025",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

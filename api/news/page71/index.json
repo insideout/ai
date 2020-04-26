@@ -2,6 +2,42 @@
   "page": 71,
   "value": [
     {
+      "path": "_news/2020-02-24-how-ai-is-shaping-the-new-life-in-life-sciences-and-pharmaceutical-industry.md",
+      "title": "How AI is shaping the new life in life sciences and pharmaceutical industry",
+      "excerpt": "The pharma and life sciences industry is faced with increasing regulatory oversight, decreasing R&D productivity, challenges to growth and profitability, and the impact of artificial intelligence (AI) in the value chain. The regulatory changes led by the far-reaching Patient Protection and Affordable Care Act (PPACA) in the US are forcing the ...",
+      "heat": 95,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://yourstory.com/2020/02/ai-shaping-new-life-sciences-pharmaceutical-industry",
+      "ampWebUrl": "https://yourstory.com/2020/02/ai-shaping-new-life-sciences-pharmaceutical-industry/amp",
+      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/02/ai-shaping-new-life-sciences-pharmaceutical-industry/amp",
+      "publishedDateTime": "2020-02-24T01:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Your Story",
+        "domain": "yourstory.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.yourstory.com/cs/2/f02aced0d86311e98e0865c1f0fe59a2/Future-of-work-AI-in-life-Science-1582471180105.png?fm=png&auto=format",
+          "width": 800,
+          "height": 400,
+          "title": "How AI is shaping the new life in life sciences and pharmaceutical industry",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-02-24-microsoft-azure-sphere-launches-in-general-availability.md",
       "title": "Microsoft Azure Sphere launches in general availability",
       "excerpt": "As for brownfield, it calls for an Azure Sphere “guardian” device — the bulk of which are produced by Avnet and AI-Link — to connect existing hardware to the internet. Azure Sphere hardware is available in several configurations, including Wi-Fi modules, development kits and dev boards (from partners like Seeed Studios and USI), and the ...",
@@ -1043,34 +1079,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-02-21-ai-and-edge-computing-replaces-the-pilgrims-in-the-new-mayflower.md",
-      "title": "AI and edge computing replaces the Pilgrims in the new Mayflower",
-      "excerpt": "IBM’s AI and edge computing technologies are going to guide a crewless boat to chart the same route the Pilgrims did 400 years ago. I was at an IBM analyst event when I met Don Scott, CTO of Marine Ai, a venture that is working on an automatic boat, named “Mayflower”, which ... Google demands that all new “knowledge” developed from ...",
-      "heat": 117,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://telecoms.com/502623/ai-and-edge-computing-replaces-the-pilgrims-in-the-new-mayflower/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-21T09:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Telecoms",
-        "domain": "telecoms.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

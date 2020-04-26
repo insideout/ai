@@ -2,6 +2,53 @@
   "page": 114,
   "value": [
     {
+      "path": "_news/2020-01-15-what-are-neural-symbolic-ai-methods-and-why-will-they-dominate-2020.md",
+      "title": "What are neural-symbolic AI methods and why will they dominate 2020?",
+      "excerpt": "The recent commercial AI revolution has been largely driven by deep neural networks. First invented in the 1960s, deep NNs came into their own once fueled by the combination of internet-scale datasets and distributed GPU farms. But the field of AI is much richer than just this one type of algorithm. Symbolic reasoning algorithms such ...",
+      "heat": 93,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/podium/2020/01/15/what-are-neural-symbolic-ai-methods-and-why-will-they-dominate-2020/",
+      "ampWebUrl": "https://thenextweb.com/podium/2020/01/15/what-are-neural-symbolic-ai-methods-and-why-will-they-dominate-2020/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/podium/2020/01/15/what-are-neural-symbolic-ai-methods-and-why-will-they-dominate-2020/amp/",
+      "publishedDateTime": "2020-01-15T11:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/01/Untitled-design36-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "What are neural-symbolic AI methods and why will they dominate 2020?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware",
+        "Machine Learning",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2020-01-15-digital-dream-labs-acquires-anki-robotics-artificial-intelligence-assets.md",
       "title": "Digital Dream Labs Acquires Anki Robotics & Artificial Intelligence Assets",
       "excerpt": "/PRNewswire/ -- Digital Dream Labs announced today it has acquired Anki Robotics and Artificial Intelligence assets without taking on any",
@@ -1030,43 +1077,6 @@
         "AI",
         "AI in Robotics",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-01-14-the-us-leads-in-world-changing-startups.md",
-      "title": "The U.S. Leads in World-Changing Startups",
-      "excerpt": "A new report shows the U.S. dramatically leads with new companies focused on emerging technologies. The United States enters 2020 on a favorable technology setting, with 23 of 36 of what CB Insights labels \"game-changing\" tech startup companies this year being based in the country.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.usnews.com/news/best-countries/articles/2020-01-14/the-us-has-the-most-startups-that-could-change-the-world",
-      "ampWebUrl": "https://www.usnews.com/news/best-countries/articles/2020-01-14/the-us-has-the-most-startups-that-could-change-the-world?context=amp",
-      "cdnAmpWebUrl": "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/best-countries/articles/2020-01-14/the-us-has-the-most-startups-that-could-change-the-world?context=amp",
-      "publishedDateTime": "2020-01-14T12:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

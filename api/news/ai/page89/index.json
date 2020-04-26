@@ -2,6 +2,51 @@
   "page": 89,
   "value": [
     {
+      "path": "_news/2020-01-21-google-ceo-backs-temporary-ban-on-facial-recognition.md",
+      "title": "Google CEO backs temporary ban on facial recognition",
+      "excerpt": "Google and Alphabet CEO Sundar Pichai supports a temporary ban on facial recognition technology in the European Union. Activists and technologists have called the controversial technology racially biased, and voiced concerns about privacy, regarding its use by governments and law enforcement. “I think it is important that governments and ...",
+      "heat": 169,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.foxnews.com/tech/google-ceo-ban-facial-recognition-sundar",
+      "ampWebUrl": "https://www.foxnews.com/tech/google-ceo-ban-facial-recognition-sundar.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/google-ceo-ban-facial-recognition-sundar.amp",
+      "publishedDateTime": "2020-01-21T09:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/headshot-new.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": "Google CEO backs temporary ban on facial recognition",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2020-01-21-lets-teach-kids-about-ai-self-driving-cars-but-only-in-an-unbiased-way.md",
       "title": "Let’s Teach Kids About AI Self-Driving Cars, But Only In An Unbiased Way",
       "excerpt": "What should kids know about the advent of self-driving cars? Is it necessary to teach them about self-driving cars or is it something that isn’t worth bringing to their attention? If kids are going to get taught about self-driving cars,",
@@ -1226,51 +1271,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-01-20-ai-will-give-rise-to-fintech-20-and-longevity-banks.md",
-      "title": "AI Will Give Rise To FinTech 2.0 And Longevity Banks",
-      "excerpt": "Recent advances in the development of practical AI tools are enabling advanced FinTech solutions. Longevity Banks and FinTech 2.0 services will attract people who want to optimize their wealthspan.",
-      "heat": 104,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/01/20/ai-will-give-rise-to-fintech-20-and-longevity-banks/",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/01/20/ai-will-give-rise-to-fintech-20-and-longevity-banks/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/01/20/ai-will-give-rise-to-fintech-20-and-longevity-banks/amp/",
-      "publishedDateTime": "2020-01-20T11:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e25ff83a854780006cb4866%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1462%26cropY1%3D25%26cropY2%3D849",
-          "width": 1200,
-          "height": 677,
-          "title": "AI Will Give Rise To FinTech 2.0 And Longevity Banks",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

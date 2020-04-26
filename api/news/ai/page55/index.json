@@ -2,6 +2,51 @@
   "page": 55,
   "value": [
     {
+      "path": "_news/2020-02-27-children-with-autism-saw-their-learning-and-social-skills-boosted-after-playing-with-this-ai-robot.md",
+      "title": "Children With Autism Saw Their Learning and Social Skills Boosted After Playing With This AI Robot",
+      "excerpt": "Over half a dozen children with autism played with a green, feathered artificially intelligent robot called Kiwi for the study.",
+      "heat": 85,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.newsweek.com/children-autism-saw-their-learning-social-skills-boosted-after-playing-this-ai-robot-1489224",
+      "ampWebUrl": "https://www.newsweek.com/children-autism-saw-their-learning-social-skills-boosted-after-playing-this-ai-robot-1489224?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/children-autism-saw-their-learning-social-skills-boosted-after-playing-this-ai-robot-1489224?amp=1",
+      "publishedDateTime": "2020-02-27T05:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1569565/girl-paint-playing-learning-stock-getty.jpg",
+          "width": 2226,
+          "height": 1347,
+          "title": "Children With Autism Saw Their Learning and Social Skills Boosted After Playing With This AI Robot",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-02-27-how-aws-attempts-to-bring-transparency-to-automl-through-amazon-sagemaker-autopilot.md",
       "title": "How AWS Attempts To Bring Transparency To AutoML Through Amazon SageMaker Autopilot",
       "excerpt": "With Amazon SageMaker Autopilot, AWS has taken the first step in making AutoML solution transparent and explainable. The platform appeals to both expert data scientists and entry-level ML developers.",
@@ -1220,50 +1265,6 @@
       "topics": [
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-02-26-artificial-intelligence-uncovers-outrageous-employee-expense-reports.md",
-      "title": "Artificial intelligence uncovers outrageous employee expense reports",
-      "excerpt": "SEE: Cheat sheet: Artificial intelligence (free PDF) (TechRepublic) \"Nothing shocks me. It's just how much is going through—that's what surprises me—how far people can take it,\" said Anant Kale, CEO of AppZen. Companies spend an average of $4,134 on a so-called high-risk expense report, which includes out-of-policy items or merchants ...",
-      "heat": 187,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/artificial-intelligence-uncovers-outrageous-employee-expense-reports/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/artificial-intelligence-uncovers-outrageous-employee-expense-reports/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/artificial-intelligence-uncovers-outrageous-employee-expense-reports/",
-      "publishedDateTime": "2020-02-26T08:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/01/21/8b97c7d2-1021-47d9-8344-ef569f6dac5e/resize/1200x/3468efd8c5c2522af698896bc047ed3e/screen-shot-2020-01-21-at-1-18-19-pm.png",
-          "width": 1200,
-          "height": 907,
-          "title": "Artificial intelligence uncovers outrageous employee expense reports",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

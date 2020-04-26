@@ -2,6 +2,51 @@
   "page": 77,
   "value": [
     {
+      "path": "_news/2020-02-03-are-brighter-days-ahead-for-ibm.md",
+      "title": "Are Brighter Days Ahead for IBM?",
+      "excerpt": "IBM generates its revenue from five core businesses: cloud and cognitive software, global technology services ... business -- which competes against Amazon Web Services (AWS) and Microsoft's Azure -- struggled with \"lower client business volumes\" during the quarter. IBM's total cloud revenue rose 21% to $6.8 billion, or 31% of its top line ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fool.com/investing/2020/02/03/are-brighter-days-ahead-for-ibm.aspx?source=eptcnnlnk0000002",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/02/03/are-brighter-days-ahead-for-ibm.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/02/03/are-brighter-days-ahead-for-ibm.aspx",
+      "publishedDateTime": "2020-02-03T13:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F555866%2Fgettyimages-853701240.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 675,
+          "title": "Are Brighter Days Ahead for IBM?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-02-03-identifying-worker-labeling-efficiency-using-amazon-sagemaker-ground-truth.md",
       "title": "Identifying worker labeling efficiency using Amazon SageMaker Ground Truth",
       "excerpt": "A critical success factor in machine learning (ML) is the cleanliness and accuracy of training datesets. Training with mislabeled or inaccurate data can lead to a poorly performing model. But how can you easily determine if the  labeling team is  accurately labeling data? \nOne way is to manually sift",
@@ -1229,51 +1274,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-02-the-human-powered-companies-that-make-ai-work.md",
-      "title": "The Human-Powered Companies That Make AI Work",
-      "excerpt": "The hidden secret of artificial intelligence is that much of it is actually powered by humans. Well, to be specific, the supervised learning algorithms that have gained much of the attention recently are dependent on humans to provide well-labeled training data that can be used to train machine learning algorithms.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/02/02/the-human-powered-companies-that-make-ai-work/",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/02/02/the-human-powered-companies-that-make-ai-work/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/02/02/the-human-powered-companies-that-make-ai-work/amp/",
-      "publishedDateTime": "2020-02-01T22:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e36288cf133f400076b68ca%2F0x0.jpg",
-          "width": 1200,
-          "height": 662,
-          "title": "The Human-Powered Companies That Make AI Work",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

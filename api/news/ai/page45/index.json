@@ -2,6 +2,43 @@
   "page": 45,
   "value": [
     {
+      "path": "_news/2020-03-13-ibm-to-integrate-ai-debating-technology-into-its-qa-computer-system-watson.md",
+      "title": "IBM to integrate AI debating technology into its Q&A computer system Watson",
+      "excerpt": "IBM plans to integrate several key components, such as natural language processing (NLP), from the AI system into its question-answering computer system Watson from March this year. The move is aimed at “enabling businesses to capture, analyse, and understand more from human language and … transform how they use intellectual capital that ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.scmp.com/tech/big-tech/article/3074934/ibm-integrate-ai-debating-technology-its-qa-computer-system-watson",
+      "ampWebUrl": "https://amp.scmp.com/tech/big-tech/article/3074934/ibm-integrate-ai-debating-technology-its-qa-computer-system-watson",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3074934/ibm-integrate-ai-debating-technology-its-qa-computer-system-watson",
+      "publishedDateTime": "2020-03-13T01:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/03/13/6386b39e-6446-11ea-8e9f-2d196083a37c_image_hires_085224.JPG?itok=5_XCVEqw&v=1584060750",
+          "width": 1200,
+          "height": 630,
+          "title": "IBM to integrate AI debating technology into its Q&A computer system Watson",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-13-islamic-fintech-startups-on-the-rise-in-southeast-asia.md",
       "title": "Islamic Fintech Startups On The Rise In Southeast Asia",
       "excerpt": "At our Singapore-based venture capital firm, we keep an eye on emerging tech sectors across Southeast Asia, and we’re seeing a surge of new growth potential in a traditional niche business. Few non-Muslims even know about the Islamic financial industry.",
@@ -1065,43 +1102,6 @@
         "AI Ethics",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-12-michael-guberti-three-ways-to-grow-your-business-with-artificial-intelligence.md",
-      "title": "Michael Guberti: Three ways to grow your business with artificial intelligence",
-      "excerpt": "Artificial intelligence involves robots and algorithms that can perform tasks, solve problems and adapt to different situations. If you have Googled directions to a location, asked Alexa a question, scrolled through Facebook, browsed recommended products on Amazon or asked Siri to call a friend, you have interacted with artificial intelligence.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://westfaironline.com/122170/michael-guberti-three-ways-to-grow-your-business-with-artificial-intelligence/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-12T05:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Westfaironline.com",
-        "domain": "westfaironline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://westfaironline.com/wp-content/uploads/2019/08/Michael_Guberti.jpg",
-          "width": 650,
-          "height": 440,
-          "title": "Michael Guberti: Three ways to grow your business with artificial intelligence",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,51 @@
   "page": 91,
   "value": [
     {
+      "path": "_news/2020-02-04-ex-google-cloud-engineers-raise-8m-for-seattle-machine-learning-startup-kaskada.md",
+      "title": "Ex-Google Cloud engineers raise $8M for Seattle machine learning startup Kaskada",
+      "excerpt": "Kaskada CEO Davor Bonaci, CTO Ben Chambers and VP of Product Emily Kruger. (Kaskada Photo) Machine learning is all the rage in big tech, but still largely unavailable to most companies that don’t have the resources or the knowhow to build it. Seattle startup Kaskada wants to change that. The company just raised a $8 million Series A round to ...",
+      "heat": 109,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.geekwire.com/2020/ex-google-cloud-engineers-raise-8m-seattle-machine-learning-startup-kaskada/",
+      "ampWebUrl": "https://www.geekwire.com/2020/ex-google-cloud-engineers-raise-8m-seattle-machine-learning-startup-kaskada/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/ex-google-cloud-engineers-raise-8m-seattle-machine-learning-startup-kaskada/amp/",
+      "publishedDateTime": "2020-02-04T09:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/02/Kaskada_Leadership_team-630x504.jpg",
+          "width": 630,
+          "height": 504,
+          "title": "Ex-Google Cloud engineers raise $8M for Seattle machine learning startup Kaskada",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-02-04-kaskada-raises-8-million-to-facilitate-ai-feature-engineering.md",
       "title": "Kaskada raises $8 million to facilitate AI feature engineering",
       "excerpt": "Meanwhile, Iguazio last month nabbed $24 million for its suite of AI development and management tools, and Clusterone raked in $2 million for its DevOps for AI platform that operates with both on-premise servers and public cloud computing platforms like AWS, Azure, and Google Cloud Platform.",
@@ -1015,51 +1060,6 @@
       "topics": [
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-02-04-epic-asks-federal-trade-commission-to-regulate-use-of-artificial-intelligence-in-pre-employment-screenings.md",
-      "title": "EPIC Asks Federal Trade Commission To Regulate Use Of Artificial Intelligence In Pre-Employment Screenings",
-      "excerpt": "has charged that HireVue, a leading provider of artificial intelligence-based pre-employment screenings, is flouting national and international standards of transparency, fairness and accountability.",
-      "heat": 171,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/patriciagbarnes/2020/02/03/group-asks-federal-trade-commission-to-regulate-use-of-artificial-intelligence-in-pre-employment-screenings/?ss=diversity",
-      "ampWebUrl": "https://www.forbes.com/sites/patriciagbarnes/2020/02/03/group-asks-federal-trade-commission-to-regulate-use-of-artificial-intelligence-in-pre-employment-screenings/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patriciagbarnes/2020/02/03/group-asks-federal-trade-commission-to-regulate-use-of-artificial-intelligence-in-pre-employment-screenings/amp/",
-      "publishedDateTime": "2020-02-03T16:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/trim/365x308:5585x4045/fit-in/711x509/smart/https://specials-images.forbesimg.com/imageserve/1091526904/0x0.jpg",
-          "width": 711,
-          "height": 509,
-          "title": "EPIC Asks Federal Trade Commission To Regulate Use Of Artificial Intelligence In Pre-Employment Screenings",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

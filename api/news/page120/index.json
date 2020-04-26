@@ -2,6 +2,51 @@
   "page": 120,
   "value": [
     {
+      "path": "_news/2020-01-04-microsoft-takes-azure-to-the-next-level.md",
+      "title": "Microsoft takes Azure to the next level",
+      "excerpt": "Microsoft first developed its cloud computing ... new capabilities for Azure Cognitive Services, Azure Digital Twins, and general availability of Azure IoT Central. Azure came to blockchain ...",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://sdtimes.com/msft/microsoft-takes-azure-to-the-next-level/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-03T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SD Times",
+        "domain": "sdtimes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/sdtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://sdtimes.com/wp-content/uploads/2019/01/MicrosoftAzure.jpg",
+          "width": 660,
+          "height": 371,
+          "title": "Microsoft takes Azure to the next level",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-01-03-seismic-horizons-detection-using-computer-vision.md",
       "title": "Seismic horizons detection using computer vision",
       "excerpt": "The complexity of seismic data interpretation and analysis is mainly connected with the fact that for each task requires an individual approach, since each dataset is unique. Manual processing requires significant labor costs, and the result often contains ...",
@@ -1031,43 +1076,6 @@
       "topics": [
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2019-12-30-ai-in-2020-how-use-cases-will-drive-artificial-intelligence-deployments.md",
-      "title": "AI in 2020: How use cases will drive artificial intelligence deployments",
-      "excerpt": "Learn why predictions about artificial intelligence trends include ... cost savings across the automotive OEM supply chain, and self-driving technology is projected to be a $556 billion market ...",
-      "heat": 63,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/ai-in-2020-how-use-cases-will-drive-artificial-intelligence-deployments/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2019-12-30T07:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

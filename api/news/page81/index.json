@@ -2,6 +2,51 @@
   "page": 81,
   "value": [
     {
+      "path": "_news/2020-02-13-senate-bill-would-place-a-moratorium-on-feds-using-facial-recognition.md",
+      "title": "Senate bill would place a moratorium on feds using facial recognition",
+      "excerpt": "First, a 13 member commission would try to establish some guidelines on its use. Facial recognition is being used by more agencies than ever, even as its accuracy and impact remain unclear. Several local governments have already taken steps to stop law enforcement from using it in various ways, and a bill introduced by two US senators seeks to ...",
+      "heat": 119,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.engadget.com/2020/02/13/ethical-use-of-ai-act-facial-recognition/",
+      "ampWebUrl": "https://www.engadget.com/amp/2020/02/13/ethical-use-of-ai-act-facial-recognition/",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/02/13/ethical-use-of-ai-act-facial-recognition/",
+      "publishedDateTime": "2020-02-12T23:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D3750%252C2199%252C0%252C87%26quality%3D85%26format%3Djpg%26resize%3D1600%252C938%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2020-02%252F13cdbc50-4e28-11ea-af76-05ffda135652%26client%3Da1acac3e1b3290917d92%26signature%3D0481885756e5df58466c02a0c4b77093553bc031&client=amp-blogside-v2&signature=f8f6c4395bba8a560c86317e4de100dad55191c3",
+          "width": 600,
+          "height": 350,
+          "title": "Senate bill would place a moratorium on feds using facial recognition",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2020-02-13-esteban-granero-aiming-to-bring-artificial-intelligence-into-football.md",
       "title": "Esteban Granero aiming to bring artificial intelligence into football",
       "excerpt": "But it is as a pioneer in artificial intelligence that the 32-year-old hopes to make his most lasting impression on football. For the last five years, at the same time as representing Real Sociedad, Espanyol and Marbella FC as a player, Granero, who previously had a spell in the Premier League with QPR, has been working as the founder and CEO ...",
@@ -1030,51 +1075,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-12-deep-instinct-nabs-43m-for-a-deep-learning-cybersecurity-solution-that-can-suss-an-attack-before-it-happens.md",
-      "title": "Deep Instinct nabs $43M for a deep-learning cybersecurity solution that can suss an attack before it happens",
-      "excerpt": "Today, a startup that’s built a deep learning solution that it claims can both identify and stop even viruses that have yet to be identified, has raised a large round of funding from some big strategic partners. Deep Instinct, which uses deep learning both to learn how to identify and stop known viruses and other hacking techniques ...",
-      "heat": 155,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/02/12/deep-instinct-nabs-43m-for-a-deep-learning-cybersecurity-solution-that-can-suss-an-attack-before-it-happens/",
-      "ampWebUrl": "https://techcrunch.com/2020/02/12/deep-instinct-nabs-43m-for-a-deep-learning-cybersecurity-solution-that-can-suss-an-attack-before-it-happens/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/12/deep-instinct-nabs-43m-for-a-deep-learning-cybersecurity-solution-that-can-suss-an-attack-before-it-happens/amp/",
-      "publishedDateTime": "2020-02-12T06:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/09/GettyImages-1079200304.jpg?w=1024",
-          "width": 1024,
-          "height": 752,
-          "title": "Deep Instinct nabs $43M for a deep-learning cybersecurity solution that can suss an attack before it happens",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

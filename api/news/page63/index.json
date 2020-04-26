@@ -2,6 +2,43 @@
   "page": 63,
   "value": [
     {
+      "path": "_news/2020-03-03-the-evolution-of-e-commerce-shaping-benefits-from-emerging-technologies.md",
+      "title": "The Evolution of E-Commerce: Shaping benefits from emerging technologies",
+      "excerpt": "To cope, many organizations are pinning their hopes on emerging technologies such as artificial intelligence (AI), autonomous mobile ... autonomous truck technologies include Alphabet/Waymo, Embark, TuSimple and Starsky Robotics. Rather than fully ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.logisticsmgmt.com/article/the_evolution_of_e_commerce_shaping_benefits_from_emerging_technologies",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-03T09:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Logistics Management",
+        "domain": "logisticsmgmt.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.logisticsmgmt.com/images/2020_article/LM2003_COVERGettyImages-800px.jpg",
+          "width": 600,
+          "height": 400,
+          "title": "The Evolution of E-Commerce: Shaping benefits from emerging technologies",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-03-researchers-develop-slide-algorithm-for-cpu-ai-training-that-outperforms-gpus.md",
       "title": "Researchers Develop SLIDE Algorithm For CPU AI Training That Outperforms GPUs",
       "excerpt": "There's a lot of money to be made by leveraging AI—NVIDIA, for example ... but the researchers claim SLIDE performs better than GPU methods. \"Our tests show that SLIDE is the first smart ...",
@@ -991,52 +1028,6 @@
       "topics": [
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-02-28-how-companies-should-answer-the-call-for-responsible-ai.md",
-      "title": "How Companies Should Answer The Call For Responsible AI",
-      "excerpt": "Only 25% of companies say that they definitely prioritize considering the ethical implications of an AI solution before investing in it, according to research by PwC.",
-      "heat": 91,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/falonfatemi/2020/02/28/how-companies-should-answer-the-call-for-responsible-ai",
-      "ampWebUrl": "https://www.forbes.com/sites/falonfatemi/2020/02/28/how-companies-should-answer-the-call-for-responsible-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/falonfatemi/2020/02/28/how-companies-should-answer-the-call-for-responsible-ai/amp/",
-      "publishedDateTime": "2020-02-28T11:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e596baad378190007f4938d%2F0x0.jpg",
-          "width": 1200,
-          "height": 799,
-          "title": "How Companies Should Answer The Call For Responsible AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics",
-        "Facebook AI"
       ]
     }
   ],

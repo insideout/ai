@@ -2,6 +2,51 @@
   "page": 67,
   "value": [
     {
+      "path": "_news/2020-02-13-googles-autoflip-uses-ai-to-crop-videos-for-you.md",
+      "title": "Google’s AutoFlip uses AI to crop videos for you",
+      "excerpt": "By contrast, AutoFlip is completely automatic thanks to AI object detection and tracking technologies that intelligently understand video content. The system detects changes in the composition that signify scene changes in order to isolate scenes for processing. And within each shot, it uses video analysis to identify salient content before ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/02/13/googles-autoflip-automatically-crops-videos-using-ai/",
+      "ampWebUrl": "https://venturebeat.com/2020/02/13/googles-autoflip-automatically-crops-videos-using-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/13/googles-autoflip-automatically-crops-videos-using-ai/amp/",
+      "publishedDateTime": "2020-02-13T12:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/10/google-ai-logo.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Google’s AutoFlip uses AI to crop videos for you",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2020-02-13-andrew-yang-brought-ai-into-american-politics-and-it-isnt-going-away.md",
       "title": "Andrew Yang brought AI into American politics, and it isn’t going away",
       "excerpt": "Andrew Yang ended his campaign Tuesday after a tepid showing in New Hampshire, bringing to an end what can be characterized as the only AI-first presidential campaign in U.S. history. Some will argue Yang’s campaign simply rose to prominence because of his support of a $1,000 universal basic income, but he outlasted and outperformed most of ...",
@@ -1225,51 +1270,6 @@
           "width": 378,
           "height": 410,
           "title": "Deep Learning Forecasting Model for Dengue Cases in Singapore",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-02-12-deep-learning-with-spiking-networks-optimising-energy-consumption.md",
-      "title": "Deep Learning with Spiking Networks: Optimising Energy Consumption",
-      "excerpt": "There are several important differences between what is nowadays known as a “neural network” (in the deep learning sense) and networks of neurons in the brain. A particularly evident one is that artificial networks have analogue activations — the output of an artificial neuron is a continuous number. Biological neurons, conversely ...",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/@martino.sorbaro/deep-learning-with-spiking-networks-optimising-energy-consumption-50588b4435fd",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-12T14:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/1200/1*kfFVkqlme7mqJvfySyfXcg.jpeg",
-          "width": 1200,
-          "height": 644,
-          "title": "Deep Learning with Spiking Networks: Optimising Energy Consumption",
           "attribution": null
         }
       ],

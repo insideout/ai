@@ -2,6 +2,35 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2020-03-30-deep-learning-chip-market-to-garner-2937-billion-2025-at-399-cagr-amr.md",
+      "title": "Deep Learning Chip Market to Garner $29.37 Billion 2025, at 39.9% CAGR: AMR",
+      "excerpt": "Portland, March 30, 2020 (GLOBE NEWSWIRE) -- According to the report published by Allied Market Research, the global deep learning chip market was pegged at $2.81 billion in 2018 and is estimated ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.globenewswire.com/news-release/2020/03/30/2008437/0/en/Deep-Learning-Chip-Market-to-Garner-29-37-Billion-2025-at-39-9-CAGR-AMR.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-30T07:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GlobeNewswire",
+        "domain": "globenewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-30-ai-sentiment-models-say-these-are-top-stock-ideas.md",
       "title": "AI Sentiment Models Say These Are Top Stock Ideas",
       "excerpt": "After last week's sharp rally in US stocks, we ask our AI Sentiment Models to tell us what are the best ideas for the upcoming week.",
@@ -1005,35 +1034,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-30-artificial-intelligence-revolution-will-make-many-jobs-obsolete.md",
-      "title": "Artificial Intelligence Revolution Will Make Many Jobs Obsolete",
-      "excerpt": "From personal digital assistants to self-driving cars, artificial intelligence is quickly gaining ground with the technology promising increased productivity, efficiency and safety. Kiet Do reports.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://sanfrancisco.cbslocal.com/video/3756432-artificial-intelligence-revolution-will-make-many-jobs-obsolete/",
-      "ampWebUrl": "https://sanfrancisco.cbslocal.com/video/3756432-artificial-intelligence-revolution-will-make-many-jobs-obsolete/amp/",
-      "cdnAmpWebUrl": "https://sanfrancisco-cbslocal-com.cdn.ampproject.org/c/s/sanfrancisco.cbslocal.com/video/3756432-artificial-intelligence-revolution-will-make-many-jobs-obsolete/amp/",
-      "publishedDateTime": "2020-03-29T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS SF BayArea",
-        "domain": "cbslocal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

@@ -2,6 +2,50 @@
   "page": 112,
   "value": [
     {
+      "path": "_news/2020-01-16-artificial-intelligence-platform-market-outlook-poised-for-a-strong-2020.md",
+      "title": "Artificial Intelligence Platform Market Outlook: Poised For a Strong 2020",
+      "excerpt": "HTF MI newly added the Global Artificial Intelligence Platform Market Study that gives meticulous investigation of current scenario of the Market size, share, demand, growth, trends, and forecast in the coming years.",
+      "heat": 76,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-platform-market-outlook-poised-for-a-strong-2020-2020-01-16",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-16T09:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial Intelligence Platform Market Outlook: Poised For a Strong 2020",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-01-16-the-us-military-wants-long-range-in-the-dark-facial-recognition.md",
       "title": "The US Military Wants Long-Range in the Dark Facial Recognition",
       "excerpt": "The military always likes to be at least one step ahead, so while we all get used to facial recognition unlocking our phones, the US military wants to detect the faces of individuals at long range and in the dark. As the OneZero blog reports, the US military is funding two contracts worth a combined value of $4.2 million. In return, the ...",
@@ -1026,50 +1070,6 @@
       "topics": [
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-01-16-apple-reportedly-acquires-xnorai-to-boost-on-device-ai.md",
-      "title": "Apple reportedly acquires Xnor.ai to boost on-device AI",
-      "excerpt": "Did you know that, according to CEO Tim Cook, Apple acquires a company every two to three weeks? It’s just added another startup to its long line of AI acquisitions. According to a report by GeekWire, the Cupertino-based company has made a deal with Xnor.ai, an edge-based AI startup, for $200 million. What is edge-based AI, you may ask?",
-      "heat": 77,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/apple/2020/01/16/apple-reportedly-acquires-xnor-ai-to-boost-on-device-ai/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-15T22:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/01/xnorai-796x482.jpg",
-          "width": 796,
-          "height": 482,
-          "title": "Apple reportedly acquires Xnor.ai to boost on-device AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

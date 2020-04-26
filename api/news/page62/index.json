@@ -2,6 +2,43 @@
   "page": 62,
   "value": [
     {
+      "path": "_news/2020-03-05-aible-is-recognized-as-a-visionary-in-the-gartner-magic-quadrant-2020.md",
+      "title": "Aible is Recognized as a Visionary in the Gartner Magic Quadrant 2020",
+      "excerpt": "It assesses vendors with offerings in three key service areas: language, vision and automated machine learning (AutoML).” The Gartner Magic Quadrant places Aible in its “Visionaries” quadrant. Gartner says, “Visionaries are likely to excel in AutoML, as this segment is viewed as the most important for application leaders and development ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businesswire.com/news/home/20200305005262/en/Aible-Recognized-Visionary-Gartner-Magic-Quadrant-2020",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-05T03:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20200305005262/en/777778/23/Aible.logo.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": "Aible is Recognized as a Visionary in the Gartner Magic Quadrant 2020",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-05-its-like-you-have-a-hand-again-ultra-precise-mind-controlled-prosthetic-developed.md",
       "title": "‘It’s like you have a hand again’: Ultra-precise mind-controlled prosthetic developed",
       "excerpt": "The scientists tapped faint, latent signals from arm nerves and amplified them to enable real-time, intuitive, finger-level control of a robotic hand. To achieve this, they developed a way to tame ...",
@@ -885,43 +922,6 @@
           "width": 800,
           "height": 448,
           "title": "Self-driving cars a far future in India, but China expects to go commercial by 2025",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-03-the-evolution-of-e-commerce-shaping-benefits-from-emerging-technologies.md",
-      "title": "The Evolution of E-Commerce: Shaping benefits from emerging technologies",
-      "excerpt": "To cope, many organizations are pinning their hopes on emerging technologies such as artificial intelligence (AI), autonomous mobile ... autonomous truck technologies include Alphabet/Waymo, Embark, TuSimple and Starsky Robotics. Rather than fully ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.logisticsmgmt.com/article/the_evolution_of_e_commerce_shaping_benefits_from_emerging_technologies",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-03T09:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Logistics Management",
-        "domain": "logisticsmgmt.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.logisticsmgmt.com/images/2020_article/LM2003_COVERGettyImages-800px.jpg",
-          "width": 600,
-          "height": 400,
-          "title": "The Evolution of E-Commerce: Shaping benefits from emerging technologies",
           "attribution": null
         }
       ],

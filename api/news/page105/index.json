@@ -2,6 +2,51 @@
   "page": 105,
   "value": [
     {
+      "path": "_news/2020-01-22-clearview-ais-facial-recognition-app-is-a-nightmare-for-stalking-victims.md",
+      "title": "Clearview AI’s facial-recognition app is a nightmare for stalking victims",
+      "excerpt": "The latest example of Silicon Valley’s hubris is the facial-recognition app Clearview AI. The small startup’s app is so powerful that someone could walk up to you on the street, snap your photo, and quickly find out your name, address, and phone number ...",
+      "heat": 88,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.digitaltrends.com/news/clearview-ai-facial-recognition-domestic-violence-stalking/",
+      "ampWebUrl": "https://www.digitaltrends.com/news/clearview-ai-facial-recognition-domestic-violence-stalking/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/clearview-ai-facial-recognition-domestic-violence-stalking/?amp",
+      "publishedDateTime": "2020-01-22T09:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://icdn3.digitaltrends.com/image/digitaltrends/facial-recognition-composite-feature-1200x630-c-ar1.91.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": "Clearview AI’s facial-recognition app is a nightmare for stalking victims",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2020-01-22-how-ai-supports-and-accelerates-healthcare.md",
       "title": "How AI Supports And Accelerates Healthcare",
       "excerpt": "AI is currently most adept at helping to improve and accelerate workflows for researchers and healthcare professionals.",
@@ -1021,43 +1066,6 @@
       "topics": [
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-22-robot-burns-poems-created-by-artificial-intelligence.md",
-      "title": "‘Robot Burns’ poems created by artificial intelligence",
-      "excerpt": "But now a student at the University of Glasgow has used a “Robot Burns” artificial intelligence (AI) poem generator programme to create almost “instant works” by Robert Burns, in honour of a fellow student, Chris, who took his own life on Burns Day, on 25 January 2016. Perry Gibson, who is studying for a PhD in computing science ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.scotsman.com/news/politics/robot-burns-poems-created-by-artificial-intelligence-1-5078792",
-      "ampWebUrl": "https://www.scotsman.com/news/politics/robot-burns-poems-created-by-artificial-intelligence-1-5078792/amp",
-      "cdnAmpWebUrl": "https://www-scotsman-com.cdn.ampproject.org/c/s/www.scotsman.com/news/politics/robot-burns-poems-created-by-artificial-intelligence-1-5078792/amp",
-      "publishedDateTime": "2020-01-21T22:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Scotsman",
-        "domain": "scotsman.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images-e.jpimedia.uk/imagefetch/w_620,f_auto,ar_3:2,q_auto:low,c_fill/if_h_lte_200,c_mfit,h_201/https://www.scotsman.com/webimage/1.5078791.1579641847!/image/image.jpg",
-          "width": 620,
-          "height": 413,
-          "title": "‘Robot Burns’ poems created by artificial intelligence",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

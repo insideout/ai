@@ -2,6 +2,50 @@
   "page": 71,
   "value": [
     {
+      "path": "_news/2020-02-10-googles-ceo-calls-for-regulation-of-ai.md",
+      "title": "Google’s CEO Calls For Regulation Of AI",
+      "excerpt": "Without regulation, we may lose trust in AI applications, and without trust, we'll stop using technologies that use them.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/fernandezelizabeth/2020/02/10/googles-ceo-calls-for-regulation-of-ai/",
+      "ampWebUrl": "https://www.forbes.com/sites/fernandezelizabeth/2020/02/10/googles-ceo-calls-for-regulation-of-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/fernandezelizabeth/2020/02/10/googles-ceo-calls-for-regulation-of-ai/amp/",
+      "publishedDateTime": "2020-02-10T08:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1194878708%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Google’s CEO Calls For Regulation Of AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-02-10-deep-learning-godfathers-bengio-hinton-and-lecun-say-the-field-can-fix-its-flaws.md",
       "title": "Deep learning godfathers Bengio, Hinton, and LeCun say the field can fix its flaws",
       "excerpt": "The three, who were dubbed the \"godfathers\" of deep learning by the conference, were being honored for having received last year's Turing Award for lifetime achievements in computing.",
@@ -1235,51 +1279,6 @@
       "topics": [
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-02-09-tech-start-up-pix-moving-uses-self-driving-ideas-to-make-flexible-cities.md",
-      "title": "Tech Start-Up Pix Moving Uses Self-Driving Ideas To Make Flexible Cities",
-      "excerpt": "Tech start-up Pix Moving has engineered a pioneering autonomous mobile living unit based on self-driving cars and is proposing Pix City as a flexible, tech-evolving future city",
-      "heat": 83,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/nargessbanks/2020/02/09/autonomous-drive-pix-moving/",
-      "ampWebUrl": "https://www.forbes.com/sites/nargessbanks/2020/02/09/autonomous-drive-pix-moving/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nargessbanks/2020/02/09/autonomous-drive-pix-moving/amp/",
-      "publishedDateTime": "2020-02-09T09:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e403a4b8b6cf300071e3efc%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1000%26cropY1%3D0%26cropY2%3D563",
-          "width": 1000,
-          "height": 563,
-          "title": "Tech Start-Up Pix Moving Uses Self-Driving Ideas To Make Flexible Cities",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

@@ -2,6 +2,43 @@
   "page": 63,
   "value": [
     {
+      "path": "_news/2020-02-19-report-artificial-intelligence-finds-disease-related-genes-tdnews.md",
+      "title": "Report: Artificial intelligence finds disease-related genes — Tdnews",
+      "excerpt": "An artificial neural network can reveal patterns in huge amounts of gene expression data, and discover groups of disease-related genes. This has been shown by a new study led by researchers at Linköping University, published in Nature Communications. The scientists hope that the method can eventually be applied within precision medicine and in ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.tunisiesoir.com/science/report-artificial-intelligence-finds-disease-related-genes-tdnews-19906-2020/",
+      "ampWebUrl": "https://www.tunisiesoir.com/science/report-artificial-intelligence-finds-disease-related-genes-tdnews-19906-2020/amp/",
+      "cdnAmpWebUrl": "https://www-tunisiesoir-com.cdn.ampproject.org/c/s/www.tunisiesoir.com/science/report-artificial-intelligence-finds-disease-related-genes-tdnews-19906-2020/amp/",
+      "publishedDateTime": "2020-02-19T05:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Tunisie Soir",
+        "domain": "tunisiesoir.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.tunisiesoir.com/wp-content/uploads/2020/02/Artificial-intelligence-finds-disease-related-genes-1024x683.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": "Report: Artificial intelligence finds disease-related genes — Tdnews",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-02-19-obviously-ai-introduces-natural-language-predictive-analytics-service.md",
       "title": "Obviously AI introduces natural language predictive analytics service",
       "excerpt": "The key is a combination of natural language processing and AutoML-like capabilities that let you write a query down in standard English (you can skip the SQL), choose the data set and column(s) you want to target. Then the service performs some data cleansing to normalize the data, internally runs a handful of competing algorithms to select ...",
@@ -1226,51 +1263,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-18-ai-vs-humans-microsofts-eric-horvitz-sees-the-future-as-ai-human-partnership.md",
-      "title": "AI vs. humans? Microsoft’s Eric Horvitz sees the future as AI-human partnership",
-      "excerpt": "machine card games to the “Terminator” movie series. But according to Eric Horvitz, the director of Microsoft Research Labs, the hottest trends in AI have more to do with creating synergies between the humans and the machines. Mastering human-AI collaboration is something “we don’t hear enough about in the open press,” Horvitz said ...",
-      "heat": 95,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.geekwire.com/2020/ai-vs-humans-microsofts-eric-horvitz-sees-future-ai-human-partnership/",
-      "ampWebUrl": "https://www.geekwire.com/2020/ai-vs-humans-microsofts-eric-horvitz-sees-future-ai-human-partnership/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/ai-vs-humans-microsofts-eric-horvitz-sees-future-ai-human-partnership/amp/",
-      "publishedDateTime": "2020-02-18T08:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/02/200217-horvitz3-630x579.jpg",
-          "width": 630,
-          "height": 579,
-          "title": "AI vs. humans? Microsoft’s Eric Horvitz sees the future as AI-human partnership",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

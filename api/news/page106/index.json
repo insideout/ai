@@ -2,6 +2,43 @@
   "page": 106,
   "value": [
     {
+      "path": "_news/2020-01-22-robot-burns-poems-created-by-artificial-intelligence.md",
+      "title": "‘Robot Burns’ poems created by artificial intelligence",
+      "excerpt": "But now a student at the University of Glasgow has used a “Robot Burns” artificial intelligence (AI) poem generator programme to create almost “instant works” by Robert Burns, in honour of a fellow student, Chris, who took his own life on Burns Day, on 25 January 2016. Perry Gibson, who is studying for a PhD in computing science ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.scotsman.com/news/politics/robot-burns-poems-created-by-artificial-intelligence-1-5078792",
+      "ampWebUrl": "https://www.scotsman.com/news/politics/robot-burns-poems-created-by-artificial-intelligence-1-5078792/amp",
+      "cdnAmpWebUrl": "https://www-scotsman-com.cdn.ampproject.org/c/s/www.scotsman.com/news/politics/robot-burns-poems-created-by-artificial-intelligence-1-5078792/amp",
+      "publishedDateTime": "2020-01-21T22:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Scotsman",
+        "domain": "scotsman.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images-e.jpimedia.uk/imagefetch/w_620,f_auto,ar_3:2,q_auto:low,c_fill/if_h_lte_200,c_mfit,h_201/https://www.scotsman.com/webimage/1.5078791.1579641847!/image/image.jpg",
+          "width": 620,
+          "height": 413,
+          "title": "‘Robot Burns’ poems created by artificial intelligence",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-01-22-automotive-artificial-intelligence-market-size-growth-opportunity-and-forecast-to-2025.md",
       "title": "Automotive Artificial Intelligence Market Size, Growth, Opportunity and Forecast to 2025",
       "excerpt": "Benefits of automotive artificial intelligence include - driverless cars, smarter, safer and affordable, assisted features, cognitive predictive maintenance. Sample Infographics: Market Dynamics ...",
@@ -1020,50 +1057,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-01-21-do-you-want-ai-used-on-you-at-the-hospital.md",
-      "title": "Do You Want AI Used On You At The Hospital?",
-      "excerpt": "At its core, successful AI, whether traffic- or health-related, should function seamlessly so that the user isn't aware of how it's functioning in the first place.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/21/do-you-want-ai-used-on-you-at-the-hospital/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/21/do-you-want-ai-used-on-you-at-the-hospital/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/21/do-you-want-ai-used-on-you-at-the-hospital/amp/",
-      "publishedDateTime": "2020-01-21T05:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/dam/imageserve/958886670/960x0.jpg?fit=scale",
-          "width": 711,
-          "height": 474,
-          "title": "Do You Want AI Used On You At The Hospital?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

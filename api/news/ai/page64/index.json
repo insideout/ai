@@ -2,6 +2,51 @@
   "page": 64,
   "value": [
     {
+      "path": "_news/2020-02-18-ai-vs-humans-microsofts-eric-horvitz-sees-the-future-as-ai-human-partnership.md",
+      "title": "AI vs. humans? Microsoft’s Eric Horvitz sees the future as AI-human partnership",
+      "excerpt": "machine card games to the “Terminator” movie series. But according to Eric Horvitz, the director of Microsoft Research Labs, the hottest trends in AI have more to do with creating synergies between the humans and the machines. Mastering human-AI collaboration is something “we don’t hear enough about in the open press,” Horvitz said ...",
+      "heat": 95,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.geekwire.com/2020/ai-vs-humans-microsofts-eric-horvitz-sees-future-ai-human-partnership/",
+      "ampWebUrl": "https://www.geekwire.com/2020/ai-vs-humans-microsofts-eric-horvitz-sees-future-ai-human-partnership/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/ai-vs-humans-microsofts-eric-horvitz-sees-future-ai-human-partnership/amp/",
+      "publishedDateTime": "2020-02-18T08:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/02/200217-horvitz3-630x579.jpg",
+          "width": 630,
+          "height": 579,
+          "title": "AI vs. humans? Microsoft’s Eric Horvitz sees the future as AI-human partnership",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2020-02-18-webinar-leveraging-ai-to-maximize-collaborative-robot-efficiency-march-17.md",
       "title": "Webinar: Leveraging AI to maximize collaborative robot efficiency – March 17",
       "excerpt": "Recent advancements in Artificial Intelligence (AI) have enabled collaborative robots to precisely execute tasks in dynamically changing workspaces, enabling operations to run more smoothly, efficiently and productively. This webinar will define AI and demonstrate how AI-powered cobots can increase production, decrease cost, and shorten cycle ...",
@@ -1240,51 +1285,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-17-how-salesforce-makes-decisions-on-ethics-and-social-issues.md",
-      "title": "How Salesforce Makes Decisions on Ethics and Social Issues",
-      "excerpt": "Paula Goldman joined Salesforce.com Inc. early last year as chief ethical and humane use officer, a new role tasked with developing a framework for making decisions on complicated political issues.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wsj.com/articles/how-salesforce-makes-decisions-on-ethics-and-social-issues-11581955201",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/how-salesforce-makes-decisions-on-ethics-and-social-issues-11581955201",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/how-salesforce-makes-decisions-on-ethics-and-social-issues-11581955201",
-      "publishedDateTime": "2020-02-17T09:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-154936/social",
-          "width": 1280,
-          "height": 640,
-          "title": "How Salesforce Makes Decisions on Ethics and Social Issues",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

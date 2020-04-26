@@ -2,6 +2,42 @@
   "page": 98,
   "value": [
     {
+      "path": "_news/2020-01-29-deepak-chopra-gives-jimmy-fallon-a-sneak-peek-at-the-digital-ai-version-of-himself.md",
+      "title": "Deepak Chopra gives Jimmy Fallon a sneak peek at the digital AI version of himself",
+      "excerpt": "Deepak Chopra's digital AI version of himself is almost in beta, and Jimmy Fallon got to take it for a quick spin. The author, who announced the 'Digital Deepak' project in December, gave Jimmy Fallon a sneak preview on The Tonight Show Tuesday, taking the host, The Roots, and the audience through a very swift meditation (it's only a few seconds).",
+      "heat": 81,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://mashable.com/video/digital-deepak-chopa-jimmy-fallon/",
+      "ampWebUrl": "https://mashable.com/video/digital-deepak-chopa-jimmy-fallon.amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/video/digital-deepak-chopa-jimmy-fallon.amp",
+      "publishedDateTime": "2020-01-29T03:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mondrian.mashable.com/2020%252F01%252F29%252Fb2%252F973b166d53074d139f63b2d872c3a497.a04a7.png%252F1200x630.png?signature=AcyQ4VQYvny-pagLhgr44499WAM=",
+          "width": 1200,
+          "height": 630,
+          "title": "Deepak Chopra gives Jimmy Fallon a sneak peek at the digital AI version of himself",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-01-29-ai-powered-robot-warehouse-pickers-are-now-ready-to-go-to-work.md",
       "title": "AI-powered robot warehouse pickers are now ready to go to work",
       "excerpt": "In the summer of 2018, a small Berkeley-based robotics startup received a challenge. KNAPP, a major provider of warehouse logistics technologies, was on the hunt for a new AI-powered robotic arm that could pick as many types of items as possible. So every week, for eight weeks, it would send the startup a list of increasingly difficult items ...",
@@ -1018,51 +1054,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-01-28-the-10-coolest-silliest-and-most-borderline-insulting-tv-pilots-of-2020.md",
-      "title": "The 10 Coolest, Silliest, and Most Borderline Insulting TV Pilots of 2020",
-      "excerpt": "There are plenty of theories about how her time with Hannibal impacted her, including one that insists she was being mind-controlled to become a government assassin ... better known as that show starring Karl Urban about robot cops that was pretty good except when it was awful. This could end up being something interesting, or it could turn ...",
-      "heat": 73,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://io9.gizmodo.com/the-10-coolest-silliest-and-most-borderline-insulting-1841305564",
-      "ampWebUrl": "https://io9.gizmodo.com/the-10-coolest-silliest-and-most-borderline-insulting-1841305564/amp",
-      "cdnAmpWebUrl": "https://io9-gizmodo-com.cdn.ampproject.org/c/s/io9.gizmodo.com/the-10-coolest-silliest-and-most-borderline-insulting-1841305564/amp",
-      "publishedDateTime": "2020-01-28T09:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/s--aSgrF8P5--/c_scale,f_auto,fl_progressive,q_80,w_800/civehnkykwkfwklensxt.jpg",
-          "width": 800,
-          "height": 449,
-          "title": "The 10 Coolest, Silliest, and Most Borderline Insulting TV Pilots of 2020",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

@@ -2,6 +2,43 @@
   "page": 100,
   "value": [
     {
+      "path": "_news/2020-01-28-why-silicon-valley-is-obsessed-with-robots-delivering-pizza.md",
+      "title": "Why Silicon Valley is obsessed with robots delivering pizza",
+      "excerpt": "A robot that bakes the well-loved meal was a big hit at the Consumer Electronics ... Here’s a second reason for caution: Despite heady media claims that pizza is now being made by artificial intelligence (and a similar suggestion from the company itself), Picnic’s device doesn’t quite earn that encomium. I tend to agree with Melanie ...",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://theprint.in/tech/why-silicon-valley-is-obsessed-with-robots-delivering-pizza/355357/",
+      "ampWebUrl": "https://theprint.in/tech/why-silicon-valley-is-obsessed-with-robots-delivering-pizza/355357/?amp",
+      "cdnAmpWebUrl": "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/tech/why-silicon-valley-is-obsessed-with-robots-delivering-pizza/355357/?amp",
+      "publishedDateTime": "2020-01-27T23:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ThePrint",
+        "domain": "theprint.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d2c7ipcroan06u.cloudfront.net/wp-content/uploads/2018/06/robot-e1527912484227.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Why Silicon Valley is obsessed with robots delivering pizza",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-01-28-ai-and-disinformation-join-nukes-in-the-race-for-armageddon.md",
       "title": "AI and disinformation join nukes in the race for armageddon",
       "excerpt": "Some analysts say China is surging ahead with the development of artificial intelligence (AI), and perhaps even dominating the field. Huawei's founder Ren Zhengfei would beg to differ. The US government has yet to figure out the implications of AI, but China hasn't even started thinking about it, Ren told the World Economic Forum in Davos last ...",
@@ -1037,52 +1074,6 @@
       ],
       "topics": [
         "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-01-27-iguazio-raises-24-million-for-ai-development-and-management-tools.md",
-      "title": "Iguazio raises $24 million for AI development and management tools",
-      "excerpt": "AI adoption levels are higher than they’ve ever been in the enterprise. According to a January survey conducted by Gartner, corporate use of AI grew 270% over the past four years. But developing, deploying, and managing AI applications at scale requires a platform that supports doing so, which is what startup company Iguazio provides.",
-      "heat": 311,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/01/27/iguazio-raises-24-million-for-ai-development-and-management-tools/",
-      "ampWebUrl": "https://venturebeat.com/2020/01/27/iguazio-raises-24-million-for-ai-development-and-management-tools/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/27/iguazio-raises-24-million-for-ai-development-and-management-tools/amp/",
-      "publishedDateTime": "2020-01-27T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/01/Logo_-_updated.jpg?fit=1200%2C627&strip=all",
-          "width": 1200,
-          "height": 627,
-          "title": "Iguazio raises $24 million for AI development and management tools",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI",
         "Machine Learning"
       ]
     }

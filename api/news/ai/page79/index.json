@@ -2,6 +2,51 @@
   "page": 79,
   "value": [
     {
+      "path": "_news/2020-01-31-how-artificial-intelligence-is-improving-the-pharma-supply-chain.md",
+      "title": "How Artificial Intelligence Is Improving The Pharma Supply Chain",
+      "excerpt": "When coupled with machine learning and predictive analytics, the AI transformation goes much deeper than smarter search functions.",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/31/how-artificial-intelligence-is-improving-the-pharma-supply-chain/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/31/how-artificial-intelligence-is-improving-the-pharma-supply-chain/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/31/how-artificial-intelligence-is-improving-the-pharma-supply-chain/amp/",
+      "publishedDateTime": "2020-01-31T05:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/dam/imageserve/807443170/960x0.jpg?fit=scale",
+          "width": 711,
+          "height": 474,
+          "title": "How Artificial Intelligence Is Improving The Pharma Supply Chain",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2020-01-31-misconception-1-of-5-enterprise-ai-is-primarily-about-the-technology.md",
       "title": "Misconception 1 (of 5): Enterprise AI Is Primarily About The Technology",
       "excerpt": "The first step, which is the most important, is to view the enterprise AI challenge as a business problem instead of a technical problem.",
@@ -1254,50 +1299,6 @@
           "width": 796,
           "height": 418,
           "title": "IBM’s new AI-powered tool will automatically label images for developers",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-30-ai-stats-news-35-of-workers-worldwide-expect-their-job-will-be-automated.md",
-      "title": "AI Stats News: 35% Of Workers Worldwide Expect Their Job Will Be Automated",
-      "excerpt": "Recent surveys, studies, forecasts and other quantitative assessments of the progress of AI highlight anxiety about AI eliminating jobs, the competition for AI talent, questions about employees AI preparedness,",
-      "heat": 85,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/gilpress/2020/01/30/ai-stats-news-35-of-workers-worldwide-expect-their-job-will-be-automated/",
-      "ampWebUrl": "https://www.forbes.com/sites/gilpress/2020/01/30/ai-stats-news-35-of-workers-worldwide-expect-their-job-will-be-automated/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2020/01/30/ai-stats-news-35-of-workers-worldwide-expect-their-job-will-be-automated/amp/",
-      "publishedDateTime": "2020-01-30T06:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1050855180%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "AI Stats News: 35% Of Workers Worldwide Expect Their Job Will Be Automated",
           "attribution": null
         }
       ],

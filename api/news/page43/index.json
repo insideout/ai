@@ -2,6 +2,43 @@
   "page": 43,
   "value": [
     {
+      "path": "_news/2020-03-19-starsky-robotics-co-founder-on-self-driving-truck-shutdown.md",
+      "title": "Starsky Robotics co-founder on self-driving truck shutdown",
+      "excerpt": "The autonomous trucking startup was founded in 2015 and raised about ... re instead seeing exponential increases in the cost to improve AI systems — supervised ML seems to follow an S-Curve.” Seltz-Axmacher said a $20 million Series B fell apart in November 2019. Starsky Robotics then furloughed most of its employees and began working ...",
+      "heat": 114,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.therobotreport.com/starsky-robotics-co-founder-on-self-driving-truck-shutdown/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-19T12:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2020/03/starsky-robotics-scaled-e1584644960580.jpeg",
+          "width": 1000,
+          "height": 892,
+          "title": "Starsky Robotics co-founder on self-driving truck shutdown",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-19-ibms-starnet-brings-explainable-ai-to-image-classification.md",
       "title": "IBM’s StarNet brings explainable AI to image classification",
       "excerpt": "By extension, it could cut down on deployment time for AI projects involving classifiers, which surveys show ranges between 8 and 90 days. StarNet consists of a few-shot classifier module attached to an extractor, both of which are trained in a meta-learning fashion where episodes are randomly sampled from classes. Each episode comprises ...",
@@ -954,43 +991,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-19-comment-busting-the-myths-of-autonomous-vehicles.md",
-      "title": "Comment: Busting the myths of autonomous vehicles",
-      "excerpt": "The electric and driverless vehicle offers a vision of the future – but JLR promises it ... taking up less space on the road and allowing traffic to move in a mathematically optimised way. The artificial intelligence behind the vehicles should allow for traffic management; cities with autonomous networks will be able to manage the flow ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://fleetworld.co.uk/comment-busting-the-myths-of-autonomous-vehicles/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-19T05:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fleet World",
-        "domain": "fleetworld.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://fleetworld.co.uk/wp-content/uploads/2020/03/Alfonso-Martinez-091.jpg",
-          "width": 1024,
-          "height": 768,
-          "title": "Comment: Busting the myths of autonomous vehicles",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

@@ -2,6 +2,43 @@
   "page": 99,
   "value": [
     {
+      "path": "_news/2020-01-07-demystifying-debit-4-trends-in-consumer-fintech.md",
+      "title": "Demystifying Debit: 4 Trends in Consumer Fintech",
+      "excerpt": "F intech is turning traditional banking on its head. The global fintech market value projects to surpass $300 billion by the end of 2022. In December, major consumer fintech company Bill.com surged a whopping 60% on the day of its IPO.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nasdaq.com/articles/demystifying-debit%3A-4-trends-in-consumer-fintech-2020-01-07",
+      "ampWebUrl": "https://www.nasdaq.com/articles/demystifying-debit%3A-4-trends-in-consumer-fintech-2020-01-07?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/demystifying-debit%3A-4-trends-in-consumer-fintech-2020-01-07?amp",
+      "publishedDateTime": "2020-01-07T07:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg",
+          "width": 1024,
+          "height": 512,
+          "title": "Demystifying Debit: 4 Trends in Consumer Fintech",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2020-01-07-waymo-self-driving-vehicles-cover-20-million-miles-on-public-roads.md",
       "title": "Waymo self-driving vehicles cover 20 million miles on public roads",
       "excerpt": "(Reuters) - Waymo, the self-driving unit of Alphabet Inc (GOOGL.O), said its vehicles had covered more than 20 million miles (32.2 million km) on public roads since its creation in 2009.",
@@ -1239,42 +1276,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-04-gone-today-hair-tomorrowfollica-raises-funds-to-begin-human-trial-of-baldness-treatment.md",
-      "title": "Gone Today, Hair Tomorrow—Follica Raises Funds to Begin Human Trial of Baldness Treatment",
-      "excerpt": "A proof of concept study involving 15 to 20 patients (Follica has no shortage of volunteers, as several hundred people sent in e-mails when word of Cotsarelis’s work reached the public ...",
-      "heat": 128,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://xconomy.com/boston/2008/01/04/gone-today-hair-tomorrow-follica-raises-funds-to-begin-human-trial-of-baldness-treatment/2/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-03T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Xconomy",
-        "domain": "xconomy.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.xconomy.com/wordpress/wp-content/images/2019/02/28152625/Special-Report-Image-of-Report-cover1.jpg",
-          "width": 600,
-          "height": 400,
-          "title": "Gone Today, Hair Tomorrow—Follica Raises Funds to Begin Human Trial of Baldness Treatment",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

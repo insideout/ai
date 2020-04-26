@@ -2,6 +2,43 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2020-04-13-israeli-military-grade-biometric-facial-recognition-works-with-face-masks.md",
+      "title": "Israeli military-grade biometric facial recognition works with face masks",
+      "excerpt": "Advanced biometric facial recognition technology developed for Israeli law enforcement and intelligence agencies to capture escaping criminals is now used to identify healthcare professionals that need to wear medical face masks for protection, writes The Jerusalem Post. The technology was built by Corsight, a subsidiary of Cortica, a company ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.biometricupdate.com/202004/israeli-military-grade-biometric-facial-recognition-works-with-face-masks",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-13T10:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Biometric Companies",
+        "domain": "biometricupdate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/04/13160552/facial-recognition-database.jpg",
+          "width": 640,
+          "height": 260,
+          "title": "Israeli military-grade biometric facial recognition works with face masks",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-13-growth-of-global-artificial-intelligence-ai-in-retail-market-report-till-2024.md",
       "title": "Growth of Global Artificial Intelligence (AI) in Retail Market Report Till 2024",
       "excerpt": "Market Study Report LLC adds new research on Artificial Intelligence (AI) in Retail market, which is a detailed analysis of",
@@ -1010,44 +1047,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-10-infragistics-adds-predictive-analytics-machine-learning-and-more.md",
-      "title": "Infragistics Adds Predictive Analytics, Machine Learning and More",
-      "excerpt": "In addition to its fast, easy integration into any platform or deployment option, Reveal's newest features address the latest trends in data analytics: predictive and advanced analytics, machine learning, R and Python scripting, big data connectors, and much more. These enhancements allow businesses to quickly analyze and gain insights from ...",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://patch.com/new-jersey/princeton/infragistics-adds-predictive-analytics-machine-learning-more",
-      "ampWebUrl": "https://patch.com/new-jersey/princeton/amp/28686297/infragistics-adds-predictive-analytics-machine-learning-more",
-      "cdnAmpWebUrl": "https://patch-com.cdn.ampproject.org/c/s/patch.com/new-jersey/princeton/amp/28686297/infragistics-adds-predictive-analytics-machine-learning-more",
-      "publishedDateTime": "2020-04-10T10:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Patch",
-        "domain": "patch.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://patch.com/img/cdn20/users/961400/20200410/012804/styles/patch_image/public/reveal-update-image-4-20___10132652676.jpg?width=984",
-          "width": 771,
-          "height": 578,
-          "title": "Infragistics Adds Predictive Analytics, Machine Learning and More",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

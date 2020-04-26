@@ -2,6 +2,51 @@
   "page": 80,
   "value": [
     {
+      "path": "_news/2020-02-14-nvidias-earnings-crush-expectations-and-outlook-shines-stock-pops.md",
+      "title": "NVIDIA's Earnings Crush Expectations and Outlook Shines; Stock Pops",
+      "excerpt": "On the earnings call, CEO Jensen Huang attributed the data center's amazing performance to the rapid adoption of AI for an increasing number of applications, calling out natural language processing and internet recommender systems several times. NVIDIA said in its earnings release that it's still in discussions with China's regulatory agency ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fool.com/investing/2020/02/13/nvidias-earnings-crush-expectations-and-outlook-sh.aspx",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/02/13/nvidias-earnings-crush-expectations-and-outlook-sh.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/02/13/nvidias-earnings-crush-expectations-and-outlook-sh.aspx",
+      "publishedDateTime": "2020-02-13T18:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F558039%2Fnvda-stock-nvda-earnings-nvidia-stock-earnings-ai-artificial-intelligence.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 795,
+          "title": "NVIDIA's Earnings Crush Expectations and Outlook Shines; Stock Pops",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2020-02-14-deepminds-alphastar-ai-crushes-pro-starcraft-players.md",
       "title": "DeepMind’s AlphaStar AI Crushes Pro ‘StarCraft’ Players",
       "excerpt": "There’s no stopping Google’s DeepMind AI. Earlier this year the artificial intelligence platform recently shut out two professional StarCraft players in a 5-0 defeat. And now a report on The ...",
@@ -1009,51 +1054,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-02-13-senate-bill-would-place-a-moratorium-on-feds-using-facial-recognition.md",
-      "title": "Senate bill would place a moratorium on feds using facial recognition",
-      "excerpt": "First, a 13 member commission would try to establish some guidelines on its use. Facial recognition is being used by more agencies than ever, even as its accuracy and impact remain unclear. Several local governments have already taken steps to stop law enforcement from using it in various ways, and a bill introduced by two US senators seeks to ...",
-      "heat": 119,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.engadget.com/2020/02/13/ethical-use-of-ai-act-facial-recognition/",
-      "ampWebUrl": "https://www.engadget.com/amp/2020/02/13/ethical-use-of-ai-act-facial-recognition/",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/02/13/ethical-use-of-ai-act-facial-recognition/",
-      "publishedDateTime": "2020-02-12T23:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D3750%252C2199%252C0%252C87%26quality%3D85%26format%3Djpg%26resize%3D1600%252C938%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2020-02%252F13cdbc50-4e28-11ea-af76-05ffda135652%26client%3Da1acac3e1b3290917d92%26signature%3D0481885756e5df58466c02a0c4b77093553bc031&client=amp-blogside-v2&signature=f8f6c4395bba8a560c86317e4de100dad55191c3",
-          "width": 600,
-          "height": 350,
-          "title": "Senate bill would place a moratorium on feds using facial recognition",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

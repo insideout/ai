@@ -2,6 +2,52 @@
   "page": 57,
   "value": [
     {
+      "path": "_news/2020-02-25-microsoft-ceo-satya-nadella-wants-to-use-diversity-to-remove-bias-in-ai.md",
+      "title": "Microsoft CEO Satya Nadella wants to use diversity to remove bias in AI",
+      "excerpt": "Last time when the India-born CEO visited the country, he talked about the power of Aadhaar ID, India Stack, and connecting more than a billion people through it. This time around apart from numerous mentions of the Azure cloud, AI and inclusivity with technology were at the center.",
+      "heat": 126,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/02/25/microsoft-nadella-india-2020/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/02/25/microsoft-nadella-india-2020/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/02/25/microsoft-nadella-india-2020/amp/",
+      "publishedDateTime": "2020-02-25T11:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2014/10/ms_azure_2014_103-730x409.jpg",
+          "width": 730,
+          "height": 409,
+          "title": "Microsoft CEO Satya Nadella wants to use diversity to remove bias in AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2020-02-25-using-machine-learning-approach-to-unravel-how-the-brain-processes-stores-visual-information.md",
       "title": "Using machine learning approach to unravel how the brain processes, stores visual information",
       "excerpt": "Using a machine learning approach, they applied a novel tensor algorithm to decompose faces into a set of components or images called tensorfaces as well as their associated weights, and represented faces by linear combinations of those components. In this way, they build a mathematical model describing the work of the neurons involved in face ...",
@@ -1250,51 +1296,6 @@
         "AI",
         "AI Hardware",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-25-brief-abb-announces-partnership-with-ai-start-up.md",
-      "title": "BRIEF-ABB Announces Partnership with AI Start-Up",
-      "excerpt": "Our Standards:The Thomson Reuters Trust Principles.",
-      "heat": 119,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.reuters.com/article/brief-abb-announces-partnership-with-ai-idUSFWN2AO19Q",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSFWN2AO19Q",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSFWN2AO19Q",
-      "publishedDateTime": "2020-02-25T03:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png",
-          "width": 1200,
-          "height": 630,
-          "title": "BRIEF-ABB Announces Partnership with AI Start-Up",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

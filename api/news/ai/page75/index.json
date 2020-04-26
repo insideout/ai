@@ -2,6 +2,50 @@
   "page": 75,
   "value": [
     {
+      "path": "_news/2020-02-05-what-role-will-or-does-artificial-intelligence-play-in-your-life.md",
+      "title": "What Role Will (Or Does) Artificial Intelligence Play In Your Life?",
+      "excerpt": "It doesn’t seem too long ago that artificial intelligence (AI) was mostly the stuff of science fiction. Today it seems to be everywhere: in our home appliances, in our cars, in the workplace, even on our wrists. To some extent, our use of AI is still a matter of personal choice. But because AI is becoming increasing ubiquitous, we need to ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/rodgerdeanduncan/2020/02/04/what-role-will-does-artificial-intelligence-play-in-your-life/",
+      "ampWebUrl": "https://www.forbes.com/sites/rodgerdeanduncan/2020/02/04/what-role-will-does-artificial-intelligence-play-in-your-life/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rodgerdeanduncan/2020/02/04/what-role-will-does-artificial-intelligence-play-in-your-life/amp/",
+      "publishedDateTime": "2020-02-05T15:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e17a49da854780006e83185%2F0x0.jpg",
+          "width": 640,
+          "height": 426,
+          "title": "What Role Will (Or Does) Artificial Intelligence Play In Your Life?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-02-05-googles-ml-fairness-gym-lets-researchers-study-the-long-term-effects-of-ais-decisions.md",
       "title": "Google’s ML-fairness-gym lets researchers study the long-term effects of AI’s decisions",
       "excerpt": "Determining whether an AI system is maintaining fairness in its predictions requires an understanding of models’ short- and long-term effects, which might be informed by disparities in error metrics on a number of static data sets. In some cases, it’s necessary to consider the context in which the AI system operates in addition to the ...",
@@ -1236,43 +1280,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-04-robot-bartender-begins-serving-drinks-in-tokyo-pub.md",
-      "title": "Robot bartender begins serving drinks in Tokyo pub",
-      "excerpt": "The robot, made by the company QBIT Robotics, can pour a beer in 40 seconds and mix a cocktail in a minute. It uses four cameras to monitor customers to analyse their expressions with artificial intelligence software. \"I like it because dealing with people can be a hassle. With this you can just come and get drunk,\" Satoshi Harada, a restaurant ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.newshub.co.nz/home/lifestyle/2020/02/robot-bartender-begins-serving-drinks-in-tokyo-pub.html",
-      "ampWebUrl": "https://www.newshub.co.nz/home/lifestyle/2020/02/robot-bartender-begins-serving-drinks-in-tokyo-pub.amp.html",
-      "cdnAmpWebUrl": "https://www-newshub-co-nz.cdn.ampproject.org/c/s/www.newshub.co.nz/home/lifestyle/2020/02/robot-bartender-begins-serving-drinks-in-tokyo-pub.amp.html",
-      "publishedDateTime": "2020-02-04T08:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newshub",
-        "domain": "newshub.co.nz",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.newshub.co.nz/home/lifestyle/2020/02/robot-bartender-begins-serving-drinks-in-tokyo-pub/_jcr_content/par/image.dynimg.768.q75.jpg/v1580834704692/reuters-PUB-ROBOT-1120.jpg",
-          "width": 768,
-          "height": 438,
-          "title": "Robot bartender begins serving drinks in Tokyo pub",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

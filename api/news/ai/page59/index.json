@@ -2,6 +2,51 @@
   "page": 59,
   "value": [
     {
+      "path": "_news/2020-02-24-crucial-oversight-needed-for-police-ai-use.md",
+      "title": "\"Crucial\" oversight needed for police AI use",
+      "excerpt": "A report looking into police use of AI and data-driven technologies has called for urgent national guidance to ... RUSI was commissioned to conduct an independent study into English and Welsh police use of data analytics by the Centre for Data Ethics and Innovation (CDEI). Its focus was on algorithmic bias with a primary focus to help CDEI's ...",
+      "heat": 109,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.itpro.co.uk/data-insights/big-data-analytics/354841/crucial-oversight-needed-for-police-ai-use",
+      "ampWebUrl": "https://www.itpro.co.uk/data-insights/big-data-analytics/354841/crucial-oversight-needed-for-police-ai-use?amp",
+      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/data-insights/big-data-analytics/354841/crucial-oversight-needed-for-police-ai-use?amp",
+      "publishedDateTime": "2020-02-24T07:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk/image/upload/v1582538868/itpro/Police_officers.jpg",
+          "width": 1000,
+          "height": 667,
+          "title": "\"Crucial\" oversight needed for police AI use",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2020-02-24-met-police-chief-facial-recognition-technology-critics-are-ill-informed.md",
       "title": "Met police chief: facial recognition technology critics are ill-informed",
       "excerpt": "Cressida Dick defends tech after civil liberties groups raise fears over accuracy and privacy",
@@ -1216,54 +1261,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-21-artificial-intelligence-ai-market-is-projected-to-reach-usd-1699-billion-in-2026.md",
-      "title": "Artificial Intelligence (AI) Market is Projected to Reach USD 169.9 Billion in 2026",
-      "excerpt": "The major factors propelling the growth of the Global Artificial Intelligence (AI) market include the rise in the adoption of cloud-based applications and services and the growth of big data across the globe.",
-      "heat": 224,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-is-projected-to-reach-usd-1699-billion-in-2026-2020-02-21",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-21T10:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Artificial Intelligence (AI) Market is Projected to Reach USD 169.9 Billion in 2026",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos",
-        "AI in Robotics",
-        "AI in Healthcare",
-        "Facebook AI"
       ]
     }
   ],

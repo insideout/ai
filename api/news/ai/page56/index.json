@@ -2,6 +2,50 @@
   "page": 56,
   "value": [
     {
+      "path": "_news/2020-02-26-artificial-intelligence-uncovers-outrageous-employee-expense-reports.md",
+      "title": "Artificial intelligence uncovers outrageous employee expense reports",
+      "excerpt": "SEE: Cheat sheet: Artificial intelligence (free PDF) (TechRepublic) \"Nothing shocks me. It's just how much is going through—that's what surprises me—how far people can take it,\" said Anant Kale, CEO of AppZen. Companies spend an average of $4,134 on a so-called high-risk expense report, which includes out-of-policy items or merchants ...",
+      "heat": 187,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/article/artificial-intelligence-uncovers-outrageous-employee-expense-reports/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/artificial-intelligence-uncovers-outrageous-employee-expense-reports/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/artificial-intelligence-uncovers-outrageous-employee-expense-reports/",
+      "publishedDateTime": "2020-02-26T08:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/01/21/8b97c7d2-1021-47d9-8344-ef569f6dac5e/resize/1200x/3468efd8c5c2522af698896bc047ed3e/screen-shot-2020-01-21-at-1-18-19-pm.png",
+          "width": 1200,
+          "height": 907,
+          "title": "Artificial intelligence uncovers outrageous employee expense reports",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-02-26-the-rudest-drivers-tend-to-drive-these-car-brands-which-ai-self-driving-cars-ought-to-keep-in-mind.md",
       "title": "The Rudest Drivers Tend To Drive These Car Brands, Which AI Self-Driving Cars Ought To ‘Keep In Mind’",
       "excerpt": "What kind of car do you drive? I don’t mean whether it is a four-door or two-door, nor whether it is red in color or blue. Specifically, what brand of car do you drive? According to various studies (cited in a moment herein),",
@@ -1222,52 +1266,6 @@
       "topics": [
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-25-microsoft-ceo-satya-nadella-wants-to-use-diversity-to-remove-bias-in-ai.md",
-      "title": "Microsoft CEO Satya Nadella wants to use diversity to remove bias in AI",
-      "excerpt": "Last time when the India-born CEO visited the country, he talked about the power of Aadhaar ID, India Stack, and connecting more than a billion people through it. This time around apart from numerous mentions of the Azure cloud, AI and inclusivity with technology were at the center.",
-      "heat": 126,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/02/25/microsoft-nadella-india-2020/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/02/25/microsoft-nadella-india-2020/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/02/25/microsoft-nadella-india-2020/amp/",
-      "publishedDateTime": "2020-02-25T11:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2014/10/ms_azure_2014_103-730x409.jpg",
-          "width": 730,
-          "height": 409,
-          "title": "Microsoft CEO Satya Nadella wants to use diversity to remove bias in AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI",
-        "AI Ethics"
       ]
     }
   ],

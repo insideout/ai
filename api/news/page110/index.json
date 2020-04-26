@@ -2,6 +2,50 @@
   "page": 110,
   "value": [
     {
+      "path": "_news/2020-01-17-bjork-and-microsoft-use-ai-to-create-music-that-changes-with-the-sky.md",
+      "title": "Björk and Microsoft use AI to create music that changes with the sky",
+      "excerpt": "The Icelandic star is using Microsoft AI as part of Kórsafn (\"choral archives\"), a non-stop composition playing in the lobby of the Sister City hotel in New York City. The project plays selections from Björk's many choral arrangements (including new ones composed by the Hamrahlid Choir) based on what the AI sees in the sky through a rooftop ...",
+      "heat": 197,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.engadget.com/2020/01/17/bjork-and-microsoft-ai-sky-music/",
+      "ampWebUrl": "https://www.engadget.com/amp/2020/01/17/bjork-and-microsoft-ai-sky-music/",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/17/bjork-and-microsoft-ai-sky-music/",
+      "publishedDateTime": "2020-01-17T10:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D1600%252C1067%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1067%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-uploaded-images%252F2020-01%252F1753deb0-3954-11ea-9f26-47e800c6b449%26client%3Da1acac3e1b3290917d92%26signature%3Dd74572e0141a4d05afbcc4cbd4f09da27109c50e&client=amp-blogside-v2&signature=397c2e6c49f4a56b1d74ddeac5f8b83a354ed9cd",
+          "width": 600,
+          "height": 350,
+          "title": "Björk and Microsoft use AI to create music that changes with the sky",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-01-17-hedera-hashgraph-cpo-the-adoption-of-blockchain-is-going-faster-than-ive-seen-in-iot-and-ai.md",
       "title": "Hedera Hashgraph CPO: “The Adoption Of Blockchain Is Going Faster Than I’ve Seen In IoT And AI”",
       "excerpt": "“This is about building use cases, proving the value, developing, and technology, deploying on a POC, and so forth,” said Lionel Chocron, CPO of Hedera Hashgraph.",
@@ -1032,51 +1076,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-01-17-facebook-invented-a-new-language-for-machines-to-solve-complex-math-equations.md",
-      "title": "Facebook Invented a New Language for Machines to Solve Complex Math Equations",
-      "excerpt": "Or at least, they have trouble understanding how humanity writes math equations. Facebook’s AI research team, however, claims to have developed a new approach to turn complex math problems into ...",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.vice.com/en_in/article/4agw3q/facebook-invented-a-new-language-for-machines-to-solve-complex-math-equations",
-      "ampWebUrl": "https://www.vice.com/amp/en_in/article/4agw3q/facebook-invented-a-new-language-for-machines-to-solve-complex-math-equations",
-      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_in/article/4agw3q/facebook-invented-a-new-language-for-machines-to-solve-complex-math-equations",
-      "publishedDateTime": "2020-01-17T00:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VICE",
-        "domain": "vice.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/vice.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://video-images.vice.com/_uncategorized/1579112105508-Screen-Shot-2020-01-15-at-11204-PM.png?resize=640:*",
-          "width": 640,
-          "height": 358,
-          "title": "Facebook Invented a New Language for Machines to Solve Complex Math Equations",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

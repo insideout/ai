@@ -2,6 +2,42 @@
   "page": 102,
   "value": [
     {
+      "path": "_news/2019-01-12-serbian-parliament-apologizes-for-1995-srebrenica-bosnia-massacre-president-boris-tadic-says-it-strengthens-links-to-eu.md",
+      "title": "Serbian Parliament apologizes for 1995 Srebrenica, Bosnia, massacre; President Boris Tadic says it strengthens links to EU",
+      "excerpt": "Rajko Kuzmanovic, the president of the Bosnian Serb ministate, said the declaration was \"unacceptable and counterproductive.\" Associated Press writers Jovana Gec in Belgrade, Irena Gajic in Banja Luka, Bosnia-Herzegovina contributed to this report.",
+      "heat": 96,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cleveland.com/world/2010/03/serbian_parliament_apologizes.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2019-01-12T13:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Plain Dealer",
+        "domain": "cleveland.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.cleveland.com/resizer/EMGywyN0Qp1ASZhljB-bu95oGhQ=/1280x0/smart/advancelocal-adapter-image-uploads.s3.amazonaws.com/image.cleveland.com/home/cleve-media/width2048/img/world_impact/photo/serbia-boris-tadic-massacre-033110jpg-af71bef030ec35fb.jpg",
+          "width": 1280,
+          "height": 860,
+          "title": "Serbian Parliament apologizes for 1995 Srebrenica, Bosnia, massacre; President Boris Tadic says it strengthens links to EU",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2018-08-29-everything-you-need-to-know-about-key-differences-between-ai-data-science-machine-learning-and-big-data.md",
       "title": "Everything you need to know about key differences between AI, Data Science, Machine Learning and Big Data",
       "excerpt": "“All right, but what’s the difference between data science and AI ... claims that: “Machine learning is a part of research on artificial intelligence, seeking to provide knowledge to ...",

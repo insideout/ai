@@ -2,6 +2,51 @@
   "page": 90,
   "value": [
     {
+      "path": "_news/2020-02-05-five-emerging-trends-in-retail-technology.md",
+      "title": "Five Emerging Trends In Retail Technology",
+      "excerpt": "Consumers want shopping experiences that feel personal to them, whether they are shopping online or in-store. Retailers are in a race to use technology to match consumer expectations and win more business.",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2020/02/05/five-emerging-trends-in-retail-technology/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2020/02/05/five-emerging-trends-in-retail-technology/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2020/02/05/five-emerging-trends-in-retail-technology/amp/",
+      "publishedDateTime": "2020-02-05T14:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/dam/imageserve/1126653452/960x0.jpg?fit=scale",
+          "width": 711,
+          "height": 474,
+          "title": "Five Emerging Trends In Retail Technology",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2020-02-05-huami-amazfit-homestudio-start-your-immersive-fitness-at-home-in-2020.md",
       "title": "Huami Amazfit HomeStudio: Start your immersive fitness at home in 2020",
       "excerpt": "The Amazfit HomeStudio is built to offer a vision of the future of fitness with connectivity, technology, and the way AI will impact your workout. Huami CEO Wang Huang said, “at the end of 2019, Huami defined a new mission: Connect Health with Technology,” and the new Amazfit is just the start of a new decade of technology. The Amazfit ...",
@@ -1012,51 +1057,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-04-ex-google-cloud-engineers-raise-8m-for-seattle-machine-learning-startup-kaskada.md",
-      "title": "Ex-Google Cloud engineers raise $8M for Seattle machine learning startup Kaskada",
-      "excerpt": "Kaskada CEO Davor Bonaci, CTO Ben Chambers and VP of Product Emily Kruger. (Kaskada Photo) Machine learning is all the rage in big tech, but still largely unavailable to most companies that don’t have the resources or the knowhow to build it. Seattle startup Kaskada wants to change that. The company just raised a $8 million Series A round to ...",
-      "heat": 109,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.geekwire.com/2020/ex-google-cloud-engineers-raise-8m-seattle-machine-learning-startup-kaskada/",
-      "ampWebUrl": "https://www.geekwire.com/2020/ex-google-cloud-engineers-raise-8m-seattle-machine-learning-startup-kaskada/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/ex-google-cloud-engineers-raise-8m-seattle-machine-learning-startup-kaskada/amp/",
-      "publishedDateTime": "2020-02-04T09:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/02/Kaskada_Leadership_team-630x504.jpg",
-          "width": 630,
-          "height": 504,
-          "title": "Ex-Google Cloud engineers raise $8M for Seattle machine learning startup Kaskada",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

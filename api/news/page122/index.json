@@ -2,6 +2,43 @@
   "page": 122,
   "value": [
     {
+      "path": "_news/2019-12-20-ai-accelerator-card-offers-face-object-recognition-applications.md",
+      "title": "AI Accelerator Card Offers Face, Object Recognition Applications",
+      "excerpt": "The card is built with a third-generation Movidius Myriad X Vision Processing Unit (VPU) from Intel, which is particularly well-suited to computer vision applications like face and object recognition. According to Innodisk, the AI accelerator card ...",
+      "heat": 64,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://findbiometrics.com/biometrics-news-ai-accelerator-card-offers-face-object-recognition-applications-122008/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2019-12-19T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SecuriMetrics HIIDE",
+        "domain": "findbiometrics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://findbiometrics.com/wp-content/uploads/computervision.jpeg",
+          "width": 400,
+          "height": 258,
+          "title": "AI Accelerator Card Offers Face, Object Recognition Applications",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2019-12-20-computer-vision-and-the-ccpa-what-you-need-to-know.md",
       "title": "Computer Vision and the CCPA: What You Need to Know",
       "excerpt": "This article will cover what companies who have deployed or are considering deploying computer vision technology should do with the biometric data they collect in order to be compliant with the CCPA. The National Law Review does a tremendous job of ...",

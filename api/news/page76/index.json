@@ -2,6 +2,51 @@
   "page": 76,
   "value": [
     {
+      "path": "_news/2020-02-19-apples-priorities-are-shifting-as-iphone-sales-continue-to-sink.md",
+      "title": "Apple's priorities are shifting as iPhone sales continue to sink",
+      "excerpt": "The company poached a new executive from Google to lead its artificial intelligence efforts ... most notably Waymo, the Alphabet company that spun out of Google's self-driving car project.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2019/02/19/apple-shifts-priorities-to-grow-services-ai.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2019/02/19/apple-shifts-priorities-to-grow-services-ai.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2019/02/19/apple-shifts-priorities-to-grow-services-ai.html",
+      "publishedDateTime": "2020-02-18T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/102732800-GettyImages-146178359.jpg?v=1545326522",
+          "width": 3000,
+          "height": 2111,
+          "title": "Apple's priorities are shifting as iPhone sales continue to sink",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2020-02-18-document-understanding-ai-google-cloud-explained.md",
       "title": "Document Understanding AI — Google Cloud Explained",
       "excerpt": "Hey, folks How are you doing. Today I am going to discuss Document Understanding AI using Google cloud in simple steps. I know I know you say there is a lot of complexity!!!. Don’t worry folks ...",
@@ -1039,50 +1084,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-18-elon-musk-everyone-developing-ai-must-be-regulated-even-tesla.md",
-      "title": "Elon Musk: Everyone developing AI must be regulated — even Tesla",
-      "excerpt": "Elon Musk wants every organization developing advanced AI to be regulated ... and collaboration.” Judging by his reply to Hao on Twitter, Musk shares the sentiment. OpenAI was founded in 2015 as a non-profit, but last year announced that it was restructuring “as a hybrid of a for-profit and nonprofit—which we are calling ...",
-      "heat": 247,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/02/18/elon-musk-everyone-developing-ai-must-be-regulated-even-tesla/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-18T05:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2020%2F02%2FUntitled-design-18.png&signature=ccc63db991ed8ae7a56e57ddcdb0a17c",
-          "width": 1200,
-          "height": 600,
-          "title": "Elon Musk: Everyone developing AI must be regulated — even Tesla",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

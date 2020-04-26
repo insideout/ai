@@ -2,6 +2,35 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2020-04-08-artificial-intelligence-ai-in-agriculture.md",
+      "title": "Artificial Intelligence (AI) in Agriculture",
+      "excerpt": "Artificial Intelligence has various application in agriculture ranging from rural automatons, facial acknowledgment, computerized water system frameworks, and driverless tractors. These ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.openpr.com/news/2004110/artificial-intelligence-ai-in-agriculture-market-overall",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-07T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-08-aws-to-azure-services-comparison.md",
       "title": "AWS to Azure services comparison",
       "excerpt": "This article helps you understand how Microsoft Azure services compare to Amazon Web Services (AWS). Whether you are planning ... including single virtual machine or multiple virtual machine solutions. SageMaker Machine Learning A cloud service to train ...",
@@ -1011,51 +1040,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-07-global-self-driving-car-market-industry-analysis-product-capacity-growth-demand-and-future-forecast-period-till-2026.md",
-      "title": "Global Self-Driving Car Market Industry Analysis, Product Capacity, Growth Demand and Future Forecast Period Till 2026",
-      "excerpt": "Key players of the global Self-Driving Car market are included as given below: The major players in the market include Tesla Motors, Audi, Ford, Toyota, Google, Volvo, Nissan, Baidu, Apple ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/global-self-driving-car-market-industry-analysis-product-capacity-growth-demand-and-future-forecast-period-till-2026-2020-04-07?mod=mw_quote_news",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-07T08:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Global Self-Driving Car Market Industry Analysis, Product Capacity, Growth Demand and Future Forecast Period Till 2026",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

@@ -2,6 +2,34 @@
   "page": 66,
   "value": [
     {
+      "path": "_news/2020-02-27-one-in-five-would-trust-ai-over-politicians-in-brexit-negotiations-report.md",
+      "title": "One in five would trust AI over politicians in Brexit negotiations – report",
+      "excerpt": "More than a fifth of Britons would trust artificial intelligence (AI) to better handle political negotiations – including Brexit – over ... “On the one hand, consumers appear willing to trust the ruthless rationality and efficiency of AI when it comes to certain tasks. However, the fear of AI ‘taking over’ remains rife.",
+      "heat": 115,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.irishexaminer.com/breakingnews/technow/one-in-five-would-trust-ai-over-politicians-in-brexit-negotiations-report-984411.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-27T03:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Irish Examiner",
+        "domain": "irishexaminer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-02-27-healthcare-startup-qureai-raises-16-million-led-by-sequoia-india.md",
       "title": "Healthcare startup Qure.ai raises $16 million led by Sequoia India",
       "excerpt": "Healthcare startup Qure.ai has raised $16 million in an equity funding round led by Sequoia India, with participation from MassMutual Ventures Southeast Asia, it said Thursday. MassMutual Ventures is the investment arm of US-based MassMutual Life Insurance Company. Founded in 2016 by Prashant Warier and Pooja Rao, Qure.ai provides ...",
@@ -1012,51 +1040,6 @@
         "Natural Language Processing",
         "Microsoft AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-02-26-ebay-now-uses-computer-vision-to-remove-product-photo-backgrounds.md",
-      "title": "eBay now uses computer vision to remove product photo backgrounds",
-      "excerpt": "eBay is introducing a new computer vision-powered feature to help sellers’ listings stand out. Image Clean-up, as the tool is called, automatically removes the background from a photo so that only the item being sold appears in the image. It’s fair to assume that most people aren’t experts in Photoshop, nor do they have professional ...",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/02/26/ebay-now-uses-computer-vision-to-remove-product-photo-backgrounds/",
-      "ampWebUrl": "https://venturebeat.com/2020/02/26/ebay-now-uses-computer-vision-to-remove-product-photo-backgrounds/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/26/ebay-now-uses-computer-vision-to-remove-product-photo-backgrounds/amp/",
-      "publishedDateTime": "2020-02-26T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/02/Untitled-4.png?fit=1545%2C765&strip=all",
-          "width": 1545,
-          "height": 765,
-          "title": "eBay now uses computer vision to remove product photo backgrounds",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

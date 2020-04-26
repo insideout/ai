@@ -2,6 +2,35 @@
   "page": 38,
   "value": [
     {
+      "path": "_news/2020-03-25-varian-to-equip-new-ethos-personalized-adaptive-therapy-center-in-phoenix.md",
+      "title": "Varian to Equip New Ethos Personalized Adaptive Therapy Center in Phoenix",
+      "excerpt": "today announced it was selected to equip the new Ethos Personalized Adaptive Therapy Center in Phoenix, Arizona, and help launch a new era in cancer treatment for patients in the region.  Ethos™ therapy provides the ability to personalize the patient's radiation treatments based on their anatomy and the tumor's shape and position on a daily basis at the time of treatment.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/03/n15557132/varian-to-equip-new-ethos-personalized-adaptive-therapy-center-in-phoenix",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/15557132",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15557132",
+      "publishedDateTime": "2020-03-25T01:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-25-self-driving-dream-eludes-yet-again-as-starsky-robotics-shuts-down.md",
       "title": "Self-Driving Dream Eludes Yet Again As Starsky Robotics Shuts Down",
       "excerpt": "Similarly, though, it didn’t turn out as planned. Although he still lauds his team for their efforts, he lamented that the self-driving space was overwhelmed with the unmet promise of AI to focus on a practical solution. Added to this is the recession in trucking for the past 18 months. The hardest part of building AI is how it deals with ...",
@@ -989,50 +1018,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-24-fritz-brings-on-device-ai-to-android-and-ios.md",
-      "title": "Fritz brings on-device AI to Android and iOS",
-      "excerpt": "Fritz AI, a startup providing an AI and machine learning development platform for Android and iOS, today announced that it has raised $5 million. CEO Dan Abdinoor says that the capital will accelerate Fritz’s expansion as it launches its product out of early access, which he asserts addresses the challenges of mobile AI for businesses with ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/03/24/fritz-on-device-ai-development-platform-for-android-and-ios/",
-      "ampWebUrl": "https://venturebeat.com/2020/03/24/fritz-on-device-ai-development-platform-for-android-and-ios/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/24/fritz-on-device-ai-development-platform-for-android-and-ios/amp/",
-      "publishedDateTime": "2020-03-24T08:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/03/1_VGALiW-R7uLVK2drc_Gcw-e1585064544156.png?fit=1134%2C567&strip=all",
-          "width": 1134,
-          "height": 567,
-          "title": "Fritz brings on-device AI to Android and iOS",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

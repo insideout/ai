@@ -2,6 +2,51 @@
   "page": 116,
   "value": [
     {
+      "path": "_news/2020-01-13-facebook-releases-low-latency-online-speech-recognition-framework.md",
+      "title": "Facebook releases low-latency online speech recognition framework",
+      "excerpt": "Facebook AI Research (FAIR) today said it’s open-sourcing wav2letter@anywhere, a deep learning-based inference framework that achieves fast performance for online automatic speech recognition in ...",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/01/13/facebook-releases-low-latency-online-speech-recognition-framework/",
+      "ampWebUrl": "https://venturebeat.com/2020/01/13/facebook-releases-low-latency-online-speech-recognition-framework/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/13/facebook-releases-low-latency-online-speech-recognition-framework/amp/",
+      "publishedDateTime": "2020-01-13T09:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/04/Facebook-sign-F8-e1564693284989.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Facebook releases low-latency online speech recognition framework",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2020-01-13-tealium-launches-predict-solution-powered-by-machine-learning.md",
       "title": "Tealium Launches Predict Solution Powered By Machine Learning",
       "excerpt": "Integrated into Tealium AudienceStream, a data-first customer data platform that is designed to create highly granular, unified customer profiles from every touchpoint, Tealium Predict aims to create and activate trustworthy machine learning insights using cross-channel customer behavior data. Visitors are scored based on the likelihood to ...",
@@ -1029,51 +1074,6 @@
           "width": 1199,
           "height": 675,
           "title": "Self-driving cars may never dominate…and that’s OK",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-01-10-robotaxis-will-be-available-as-soon-as-2022-self-driving-tech-supplier-mobileye-ceo-says.md",
-      "title": "Robotaxis will be available as soon as 2022, self-driving tech supplier Mobileye CEO says",
-      "excerpt": "We are targeting early 2022,\" Mobileye CEO Amnon Shashua told CNBC. Self-driving cars will start with fleet operators before general use due to regulatory and cost constraints \"that you cannot put ...",
-      "heat": 80,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnbc.com/2020/01/10/self-driving-tech-developer-mobileye-ceo-robotaxis-will-come-in-2022.html",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/01/10/self-driving-tech-developer-mobileye-ceo-robotaxis-will-come-in-2022.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/01/10/self-driving-tech-developer-mobileye-ceo-robotaxis-will-come-in-2022.html",
-      "publishedDateTime": "2020-01-10T15:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106331425-1578694177734shashua_amnon_mm_20200110_img_1027.jpg?v=1578694283",
-          "width": 5795,
-          "height": 3863,
-          "title": "Robotaxis will be available as soon as 2022, self-driving tech supplier Mobileye CEO says",
           "attribution": null
         }
       ],

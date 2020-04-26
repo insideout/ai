@@ -2,6 +2,51 @@
   "page": 69,
   "value": [
     {
+      "path": "_news/2020-02-25-azure-adds-form-recognizer-to-its-cognitive-services.md",
+      "title": "Azure adds Form Recognizer to its Cognitive Services",
+      "excerpt": "Microsoft’s Cognitive Services, powered by machine learning, are an easy way to add artificial intelligence to your apps, offering pay-as-you-go access to a selection of useful algorithms. Unlike many other Web services, they’re continuously evolving, improving as they ingest more and more labeled data. That’s an important difference ...",
+      "heat": 204,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.infoworld.com/article/3528784/azure-adds-form-recognizer-to-its-cognitive-services.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-25T08:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.techhive.com/images/article/2014/05/pile-of-paperwork-against-a-textured-green-cubicle-wall-92679985-100265487-large3x2.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Azure adds Form Recognizer to its Cognitive Services",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-02-25-brainchip-featured-in-actualtech-medias-emerging-aiml-and-data-science-ecocast.md",
       "title": "BrainChip Featured in ActualTech Media’s Emerging AI/ML and Data Science EcoCast",
       "excerpt": "SAN FRANCISCO, Feb. 25, 2020 (GLOBE NEWSWIRE) -- BrainChip Holdings Ltd. (ASX: BRN), a leading provider of ultra-low power, high performance edge AI technology, will present to IT professionals in the upcoming EcoCast webinar “Supporting Emerging AI, ML, and Data Science Initiatives,” February 27, 2020. The EcoCast, a live in-depth ...",
@@ -1028,51 +1073,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-02-24-nvidia-gtc-20-could-be-massive.md",
-      "title": "NVIDIA GTC ’20 Could Be Massive",
-      "excerpt": "As we approach NVIDIA’s annual GPU Technology Conference, everyone is anxious to see what CEO Jensen Huang has up his trademark black leather sleeves. I have no idea, but as usual, I have an opinion.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2020/02/24/nvidia-gtc-20-could-be-massive/",
-      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2020/02/24/nvidia-gtc-20-could-be-massive/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2020/02/24/nvidia-gtc-20-could-be-massive/amp/",
-      "publishedDateTime": "2020-02-24T13:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e5412ef7a00980007341821%2F0x0.jpg",
-          "width": 899,
-          "height": 600,
-          "title": "NVIDIA GTC ’20 Could Be Massive",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

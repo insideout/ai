@@ -2,6 +2,43 @@
   "page": 44,
   "value": [
     {
+      "path": "_news/2020-03-19-comment-busting-the-myths-of-autonomous-vehicles.md",
+      "title": "Comment: Busting the myths of autonomous vehicles",
+      "excerpt": "The electric and driverless vehicle offers a vision of the future – but JLR promises it ... taking up less space on the road and allowing traffic to move in a mathematically optimised way. The artificial intelligence behind the vehicles should allow for traffic management; cities with autonomous networks will be able to manage the flow ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://fleetworld.co.uk/comment-busting-the-myths-of-autonomous-vehicles/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-19T05:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fleet World",
+        "domain": "fleetworld.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://fleetworld.co.uk/wp-content/uploads/2020/03/Alfonso-Martinez-091.jpg",
+          "width": 1024,
+          "height": 768,
+          "title": "Comment: Busting the myths of autonomous vehicles",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-19-natural-language-processing-market-industry-size-share-business-strategies-major-segments-and-key-manufacturers-revenue-forecast.md",
       "title": "Natural Language Processing Market Industry Size & Share, Business Strategies, Major Segments and Key Manufacturers Revenue Forecast",
       "excerpt": "The global natural language processing market is expected to rise with an impressive CAGR and generate the highest revenue by 2026.Fortune Business Insights™ in its latest report published this information.",
@@ -931,43 +968,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-18-three-experts-appointed-to-axons-ai-ethics-board.md",
-      "title": "Three Experts Appointed to Axon’s AI Ethics Board",
-      "excerpt": "Axon, a provider of smart devices for reduced-force policing and security applications, has appointed three individuals to its AI Ethics Board. Axon offers products like tasers, body cameras, and drones, as well as policing software; and the company seeks to leverage Artificial Intelligence in its offerings. At a time of intensifying scrutiny ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://findbiometrics.com/biometrics-news-three-experts-appointed-to-axons-ai-ethics-board-903184/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-18T13:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SecuriMetrics HIIDE",
-        "domain": "findbiometrics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://findbiometrics.com/wp-content/uploads/iStock-910132252-1-e1525292879902.jpg",
-          "width": 851,
-          "height": 638,
-          "title": "Three Experts Appointed to Axon’s AI Ethics Board",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

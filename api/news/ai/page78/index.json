@@ -2,6 +2,51 @@
   "page": 78,
   "value": [
     {
+      "path": "_news/2020-02-02-the-human-powered-companies-that-make-ai-work.md",
+      "title": "The Human-Powered Companies That Make AI Work",
+      "excerpt": "The hidden secret of artificial intelligence is that much of it is actually powered by humans. Well, to be specific, the supervised learning algorithms that have gained much of the attention recently are dependent on humans to provide well-labeled training data that can be used to train machine learning algorithms.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/02/02/the-human-powered-companies-that-make-ai-work/",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/02/02/the-human-powered-companies-that-make-ai-work/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/02/02/the-human-powered-companies-that-make-ai-work/amp/",
+      "publishedDateTime": "2020-02-01T22:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e36288cf133f400076b68ca%2F0x0.jpg",
+          "width": 1200,
+          "height": 662,
+          "title": "The Human-Powered Companies That Make AI Work",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2020-02-02-how-aws-is-making-the-six-nations-2020-the-most-immersive-yet.md",
       "title": "How AWS is making the Six Nations 2020 the most immersive yet",
       "excerpt": "AWS tools including Elastic MapReduce and SageMaker are then used to harness machine learning and analytics to get detailed insight into that data, creating analytics that can then be shared in real time for live broadcast to viewers in over 170 countries to enjoy. For example, to power the new Kick Predictor statistics tool, the AWS Machine ...",
@@ -1206,51 +1251,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-31-how-artificial-intelligence-is-improving-the-pharma-supply-chain.md",
-      "title": "How Artificial Intelligence Is Improving The Pharma Supply Chain",
-      "excerpt": "When coupled with machine learning and predictive analytics, the AI transformation goes much deeper than smarter search functions.",
-      "heat": 104,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/31/how-artificial-intelligence-is-improving-the-pharma-supply-chain/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/31/how-artificial-intelligence-is-improving-the-pharma-supply-chain/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/31/how-artificial-intelligence-is-improving-the-pharma-supply-chain/amp/",
-      "publishedDateTime": "2020-01-31T05:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/dam/imageserve/807443170/960x0.jpg?fit=scale",
-          "width": 711,
-          "height": 474,
-          "title": "How Artificial Intelligence Is Improving The Pharma Supply Chain",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

@@ -2,6 +2,43 @@
   "page": 79,
   "value": [
     {
+      "path": "_news/2020-02-14-ai-weekly-machine-learning-could-lead-cybersecurity-into-uncharted-territory.md",
+      "title": "AI Weekly: Machine learning could lead cybersecurity into uncharted territory",
+      "excerpt": "Once a quarter, VentureBeat publishes a special issue to take an in-depth look at trends of great importance. This week, we launched issue two, examining AI and security. Across a spectrum of stories, the VentureBeat editorial team took a close look at some of the most important ways AI and security are colliding today. It’s a shift with high ...",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/02/14/ai-weekly-machine-learning-could-lead-cybersecurity-into-uncharted-territory/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-14T13:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-02-14-class-action-suit-against-clearview-ai-cites-illinois-law-that-cost-facebook-550m.md",
       "title": "Class action suit against Clearview AI cites Illinois law that cost Facebook $550M",
       "excerpt": "Just two weeks ago Facebook settled a lawsuit alleging violations of privacy laws in Illinois for the considerable sum of $550 million. Now controversial startup Clearview AI, which has gleefully admitted to scraping and analyzing the data of millions, is the target of a new lawsuit citing similar violations. Clearview made waves earlier this ...",
@@ -1038,51 +1075,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-02-14-nvidias-earnings-crush-expectations-and-outlook-shines-stock-pops.md",
-      "title": "NVIDIA's Earnings Crush Expectations and Outlook Shines; Stock Pops",
-      "excerpt": "On the earnings call, CEO Jensen Huang attributed the data center's amazing performance to the rapid adoption of AI for an increasing number of applications, calling out natural language processing and internet recommender systems several times. NVIDIA said in its earnings release that it's still in discussions with China's regulatory agency ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.fool.com/investing/2020/02/13/nvidias-earnings-crush-expectations-and-outlook-sh.aspx",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/02/13/nvidias-earnings-crush-expectations-and-outlook-sh.aspx",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/02/13/nvidias-earnings-crush-expectations-and-outlook-sh.aspx",
-      "publishedDateTime": "2020-02-13T18:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F558039%2Fnvda-stock-nvda-earnings-nvidia-stock-earnings-ai-artificial-intelligence.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 795,
-          "title": "NVIDIA's Earnings Crush Expectations and Outlook Shines; Stock Pops",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

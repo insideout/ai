@@ -2,6 +2,51 @@
   "page": 99,
   "value": [
     {
+      "path": "_news/2020-01-28-the-10-coolest-silliest-and-most-borderline-insulting-tv-pilots-of-2020.md",
+      "title": "The 10 Coolest, Silliest, and Most Borderline Insulting TV Pilots of 2020",
+      "excerpt": "There are plenty of theories about how her time with Hannibal impacted her, including one that insists she was being mind-controlled to become a government assassin ... better known as that show starring Karl Urban about robot cops that was pretty good except when it was awful. This could end up being something interesting, or it could turn ...",
+      "heat": 73,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://io9.gizmodo.com/the-10-coolest-silliest-and-most-borderline-insulting-1841305564",
+      "ampWebUrl": "https://io9.gizmodo.com/the-10-coolest-silliest-and-most-borderline-insulting-1841305564/amp",
+      "cdnAmpWebUrl": "https://io9-gizmodo-com.cdn.ampproject.org/c/s/io9.gizmodo.com/the-10-coolest-silliest-and-most-borderline-insulting-1841305564/amp",
+      "publishedDateTime": "2020-01-28T09:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/s--aSgrF8P5--/c_scale,f_auto,fl_progressive,q_80,w_800/civehnkykwkfwklensxt.jpg",
+          "width": 800,
+          "height": 449,
+          "title": "The 10 Coolest, Silliest, and Most Borderline Insulting TV Pilots of 2020",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-01-28-artificial-intelligence-is-still-a-science-project-in-most-companies.md",
       "title": "Artificial Intelligence Is Still A Science Project In Most Companies",
       "excerpt": "Will AI remain in the labs while the industry moves on to the next technology trend, or will it become the revolutionary force some are predicting?",
@@ -1007,43 +1052,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-01-28-why-silicon-valley-is-obsessed-with-robots-delivering-pizza.md",
-      "title": "Why Silicon Valley is obsessed with robots delivering pizza",
-      "excerpt": "A robot that bakes the well-loved meal was a big hit at the Consumer Electronics ... Here’s a second reason for caution: Despite heady media claims that pizza is now being made by artificial intelligence (and a similar suggestion from the company itself), Picnic’s device doesn’t quite earn that encomium. I tend to agree with Melanie ...",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://theprint.in/tech/why-silicon-valley-is-obsessed-with-robots-delivering-pizza/355357/",
-      "ampWebUrl": "https://theprint.in/tech/why-silicon-valley-is-obsessed-with-robots-delivering-pizza/355357/?amp",
-      "cdnAmpWebUrl": "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/tech/why-silicon-valley-is-obsessed-with-robots-delivering-pizza/355357/?amp",
-      "publishedDateTime": "2020-01-27T23:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ThePrint",
-        "domain": "theprint.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d2c7ipcroan06u.cloudfront.net/wp-content/uploads/2018/06/robot-e1527912484227.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "Why Silicon Valley is obsessed with robots delivering pizza",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

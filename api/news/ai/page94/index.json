@@ -2,6 +2,50 @@
   "page": 94,
   "value": [
     {
+      "path": "_news/2020-01-16-ai-for-good-starts-with-collaboration.md",
+      "title": "AI For Good Starts With Collaboration",
+      "excerpt": "In the age of innovation, we are focused on technologies such as artificial intelligence, virtual reality, augmented reality, and more. Often the application of these technologies comes as an afterthought once the technology has been developed.",
+      "heat": 97,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/01/16/ai-for-good-starts-with-collaboration/",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/01/16/ai-for-good-starts-with-collaboration/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/01/16/ai-for-good-starts-with-collaboration/amp/",
+      "publishedDateTime": "2020-01-16T02:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/500x279/https://specials-images.forbesimg.com/imageserve/5e202a29735f8c000799f8da/960x0.jpg?fit=scale",
+          "width": 500,
+          "height": 279,
+          "title": "AI For Good Starts With Collaboration",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-01-16-ai-in-fintech-market-big-changes-to-have-big-impact.md",
       "title": "AI in Fintech Market - Big Changes to Have Big Impact",
       "excerpt": "Advance Market Analytics recently introduced AI in Fintech Market study with in-depth overview, describing about the Product / Industry Scope and elaborates market outlook and status to 2025. AI in Fintech Market explores effective study on varied sections of Industry like opportunities,",
@@ -1284,52 +1328,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-01-15-congress-moves-toward-facial-recognition-regulation.md",
-      "title": "Congress moves toward facial recognition regulation",
-      "excerpt": "A bipartisan group in Congress is working on legislation that could regulate the use of facial recognition by the private sector, federal government, and law enforcement. “We have a ...",
-      "heat": 481,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/01/15/congress-moves-toward-facial-recognition-regulation/",
-      "ampWebUrl": "https://venturebeat.com/2020/01/15/congress-moves-toward-facial-recognition-regulation/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/15/congress-moves-toward-facial-recognition-regulation/amp/",
-      "publishedDateTime": "2020-01-15T11:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/08/facial-recognition.png?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Congress moves toward facial recognition regulation",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision",
-        "AWS AI"
       ]
     }
   ],

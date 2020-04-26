@@ -2,6 +2,43 @@
   "page": 38,
   "value": [
     {
+      "path": "_news/2020-03-18-fca-opts-for-cerence-drive-in-latest-version-of-in-car-voice-platform.md",
+      "title": "FCA Opts for Cerence Drive in Latest Version of In-Car Voice Platform",
+      "excerpt": "Fiat Chrysler Automobiles (FCA) has become the latest car manufacturer to adopt Cerence Drive. The voice recognition solution has been integrated into Uconnect 5, the most recent version of FCA’s Uconnect in-car infotainment platform. Uconnect 5 will be deployed across FCA’s entire product line, allowing drivers to use the brand of their ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://mobileidworld.com/fca-opts-cerence-drive-latest-version-uconnect-in-car-voice-platform-031804/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-18T10:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mobile ID News",
+        "domain": "mobileidworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mobileidworld.com/wp-content/uploads/automobile-automotive-car-228094-1024x683.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": "FCA Opts for Cerence Drive in Latest Version of In-Car Voice Platform",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-18-delphian-trading-launches-ai-based-institutional-trading-platform.md",
       "title": "Delphian Trading Launches AI-based Institutional Trading Platform",
       "excerpt": "Delphian Trading, a leader in predictive analytics for derivatives trading and incubated by System Soft Technologies, today announced the formal launch of its Delphian Trading platform, which provides institutional-grade,",
@@ -1113,43 +1150,6 @@
         "Machine Learning",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-03-18-axon-names-dr-wael-abd-almageed-to-ai-ethics-board-jeff-kunins-quoted.md",
-      "title": "Axon Names Dr. Wael Abd-Almageed to AI Ethics Board; Jeff Kunins Quoted",
-      "excerpt": "Axon (Nasdaq: AAXN) has appointed three new members to its AI Ethics Board, including Dr. Wael Abd-Almageed, the company announced on Tuesday. The board was established in April 2018 to guide the responsible development and use of AI-powered technologies being developed. \"Our new AI Ethics Board members bring a wealth of knowledge and ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.govconwire.com/2020/03/axon-names-dr-wael-abd-almageed-to-ai-ethics-board-jeff-kunins-quoted/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-18T02:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GovCon Wire",
-        "domain": "govconwire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://govconwire-media.s3.amazonaws.com/2020/03/18/2c/ab/57/f7/9d/73/eb/c4/servlet-9.filedownload",
-          "width": 272,
-          "height": 270,
-          "title": "Axon Names Dr. Wael Abd-Almageed to AI Ethics Board; Jeff Kunins Quoted",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

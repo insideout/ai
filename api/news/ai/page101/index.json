@@ -2,6 +2,51 @@
   "page": 101,
   "value": [
     {
+      "path": "_news/2019-12-29-misty-robotics-eyes-23-million-developers-to-build-skills-marketplace.md",
+      "title": "Misty Robotics Eyes 23 Million Developers To Build Skills Marketplace",
+      "excerpt": "Sphero spin off Misty Robotics is building a skills marketplace for its Misty II robot by crowdsourcing the talents of the global developer community. Now hobbyists with a few lines of Javascript or C# code can create their dream assistant who out of the box can see,",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/martineparis/2020/12/29/misty-robotics-eyes-23-million-developers-to-build-skills-marketplace/",
+      "ampWebUrl": "https://www.forbes.com/sites/martineparis/2020/12/29/misty-robotics-eyes-23-million-developers-to-build-skills-marketplace/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martineparis/2020/12/29/misty-robotics-eyes-23-million-developers-to-build-skills-marketplace/amp/",
+      "publishedDateTime": "2019-12-29T02:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e087da825ab5d0007cf756b%2F0x0.jpg%3FcropX1%3D178%26cropX2%3D1606%26cropY1%3D0%26cropY2%3D804",
+          "width": 1200,
+          "height": 676,
+          "title": "Misty Robotics Eyes 23 Million Developers To Build Skills Marketplace",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2019-12-28-whats-in-a-name-the-deep-learning-debate.md",
       "title": "What’s in a name? The ‘deep learning’ debate",
       "excerpt": "The history of the term deep learning shows that the use of it has been opportunistic at times but has had little to do in the way of advancing the science of artificial intelligence. Hence ...",
@@ -1219,42 +1264,6 @@
           "width": 640,
           "height": 480,
           "title": "Face recognition on a Raspberry Pi using 3D model for face alignment",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2019-01-12-serbian-parliament-apologizes-for-1995-srebrenica-bosnia-massacre-president-boris-tadic-says-it-strengthens-links-to-eu.md",
-      "title": "Serbian Parliament apologizes for 1995 Srebrenica, Bosnia, massacre; President Boris Tadic says it strengthens links to EU",
-      "excerpt": "Rajko Kuzmanovic, the president of the Bosnian Serb ministate, said the declaration was \"unacceptable and counterproductive.\" Associated Press writers Jovana Gec in Belgrade, Irena Gajic in Banja Luka, Bosnia-Herzegovina contributed to this report.",
-      "heat": 96,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cleveland.com/world/2010/03/serbian_parliament_apologizes.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2019-01-12T13:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Plain Dealer",
-        "domain": "cleveland.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.cleveland.com/resizer/EMGywyN0Qp1ASZhljB-bu95oGhQ=/1280x0/smart/advancelocal-adapter-image-uploads.s3.amazonaws.com/image.cleveland.com/home/cleve-media/width2048/img/world_impact/photo/serbia-boris-tadic-massacre-033110jpg-af71bef030ec35fb.jpg",
-          "width": 1280,
-          "height": 860,
-          "title": "Serbian Parliament apologizes for 1995 Srebrenica, Bosnia, massacre; President Boris Tadic says it strengthens links to EU",
           "attribution": null
         }
       ],

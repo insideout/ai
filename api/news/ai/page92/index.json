@@ -2,6 +2,51 @@
   "page": 92,
   "value": [
     {
+      "path": "_news/2020-01-17-heres-what-bosch-hopes-to-learn-from-deploying-autonomous-cars-in-san-jose.md",
+      "title": "Here’s what Bosch hopes to learn from deploying autonomous cars in San Jose",
+      "excerpt": "German supplier Bosch is notably moving full speed ahead with its quest to make driverless cars a reality. Kay Stepper, Bosch’s senior vice president of automated driving, sat down with Digital Trends to talk about the state of autonomous driving in 2020, and what’s next for the artificial intelligence technology that powers the prototypes ...",
+      "heat": 72,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.digitaltrends.com/cars/bosch-state-of-self-driving-cars-2020/",
+      "ampWebUrl": "https://www.digitaltrends.com/cars/bosch-state-of-self-driving-cars-2020/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/bosch-state-of-self-driving-cars-2020/?amp",
+      "publishedDateTime": "2020-01-17T08:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://icdn2.digitaltrends.com/image/digitaltrends/bosch-daimler-autonomous-s-class-1-2-1200x630-c-ar1.91.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": "Here’s what Bosch hopes to learn from deploying autonomous cars in San Jose",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2020-01-17-patent-dominance-top-5-companies-leading-the-charge.md",
       "title": "Patent Dominance: Top 5 Companies Leading the Charge",
       "excerpt": "P atents are considered one of the best representations of a company’s inventive activity. Patenting an innovation is a crucial step to secure and convert research and development (R&D) efforts into potential economic gains.",
@@ -1209,50 +1254,6 @@
         "authors": null
       },
       "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-16-wefs-global-risk-report-warns-of-dark-side-of-iot-ai-quantum-computing.md",
-      "title": "WEF's Global Risk Report warns of dark side of IoT, AI, quantum computing",
-      "excerpt": "World Economic Forum report once again lists cyberattacks as one of the top threats facing the world in 2020 - alongside climate change, extreme weather and natural disasters.",
-      "heat": 66,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/video/the-dark-side-of-iot-ai-and-quantum-computing-hacking-data-breaches-and-existential-threat/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-16T13:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2020/01/16/5ea6ba0a-4030-49b7-a3f9-dbf447ba670f/thumbnail/770x578/a5b4b36b32be1fcd06abadda16803865/the-dark-side-of-iot-ai-and-quantum-comp-5e20988d4435920001905e9d-1-jan-16-2020-17-10-41-poster.jpg",
-          "width": 770,
-          "height": 578,
-          "title": "WEF's Global Risk Report warns of dark side of IoT, AI, quantum computing",
-          "attribution": null
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"

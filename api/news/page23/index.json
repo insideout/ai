@@ -2,6 +2,50 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2020-04-04-ai-runs-smack-up-against-a-big-data-problem-in-covid-19-diagnosis.md",
+      "title": "AI runs smack up against a big data problem in COVID-19 diagnosis",
+      "excerpt": "The painful lack of data is evident in one particular use case for AI, the development of diagnostic tests for COVID-19 based on X-rays or on \"computed tomography\" scans of the lungs. While definitive tests for the disease are genetic tests, called \"RT-PCR,\" those tests have been in notoriously short supply in many parts of the world ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/ai-runs-smack-up-against-a-big-data-problem-in-covid-19-diagnosis/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-runs-smack-up-against-a-big-data-problem-in-covid-19-diagnosis/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-runs-smack-up-against-a-big-data-problem-in-covid-19-diagnosis/",
+      "publishedDateTime": "2020-04-04T10:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/04/04/a10b8efd-942e-47c4-b084-7af8ea2c6e20/qure-ai-covid-19-lung-xray-april-2020.png",
+          "width": 941,
+          "height": 682,
+          "title": "AI runs smack up against a big data problem in COVID-19 diagnosis",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-04-3-high-yield-tech-stocks-to-buy-in-april.md",
       "title": "3 High-Yield Tech Stocks to Buy in April",
       "excerpt": "As more people work from home, stream media, and use cloud-based services, data centers must expand their ... IBM's new CEO Arvind Krishna, who previously led the higher-growth Cloud and Cognitive Software unit, could also expand Big Blue's public cloud business to challenge Amazon and Microsoft. Those changes could offset the slower growth ...",
@@ -974,50 +1018,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-03-98point6-raises-43-million-to-expand-its-ai-powered-telehealth-service.md",
-      "title": "98point6 raises $43 million to expand its AI-powered telehealth service",
-      "excerpt": "98point6, a telemedical startup whose platform pairs clinicians with AI to provide text-based care, today announced that it secured $40 million in financing. CEO Robbie Cape, a former Microsoft executive and the founder of the family organization company Cozi, said the capital would be used to hire three times more physicians by the end of April.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/03/98point6-raises-43-million-to-expand-its-ai-powered-telehealth-service/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/03/98point6-raises-43-million-to-expand-its-ai-powered-telehealth-service/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/03/98point6-raises-43-million-to-expand-its-ai-powered-telehealth-service/amp/",
-      "publishedDateTime": "2020-04-03T09:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/10/254d1bd4-41d8-4081-8bc9-2f7cb51956b3-e1585848851613.png?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "98point6 raises $43 million to expand its AI-powered telehealth service",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

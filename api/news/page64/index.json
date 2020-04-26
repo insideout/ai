@@ -2,6 +2,52 @@
   "page": 64,
   "value": [
     {
+      "path": "_news/2020-02-28-how-companies-should-answer-the-call-for-responsible-ai.md",
+      "title": "How Companies Should Answer The Call For Responsible AI",
+      "excerpt": "Only 25% of companies say that they definitely prioritize considering the ethical implications of an AI solution before investing in it, according to research by PwC.",
+      "heat": 91,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/falonfatemi/2020/02/28/how-companies-should-answer-the-call-for-responsible-ai",
+      "ampWebUrl": "https://www.forbes.com/sites/falonfatemi/2020/02/28/how-companies-should-answer-the-call-for-responsible-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/falonfatemi/2020/02/28/how-companies-should-answer-the-call-for-responsible-ai/amp/",
+      "publishedDateTime": "2020-02-28T11:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e596baad378190007f4938d%2F0x0.jpg",
+          "width": 1200,
+          "height": 799,
+          "title": "How Companies Should Answer The Call For Responsible AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2020-02-28-pontifical-academy-for-life-tech-companies-call-for-ethical-use-of-ai-technology.md",
       "title": "Pontifical Academy for Life, tech companies, call for ethical use of AI technology",
       "excerpt": "“Algor-ethics,” according to the text, is the ethical use of artificial intelligence according to the principles of transparency, inclusion, responsibility, impartiality, reliability, security, and privacy. The signing of the “Rome Call for AI Ethics” took place as part of the 2020 assembly of the Pontifical Academy for Life, which was ...",
@@ -1057,34 +1103,6 @@
           "attribution": null
         }
       ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-28-the-age-of-customer-acquisition-30.md",
-      "title": "The age of customer acquisition 3.0",
-      "excerpt": "Some of the most intelligent growth marketers in the industry are looking beyond the obvious ways AI can improve results to focus on the cutting edge “out of the box” ways AI can turbocharge their paid user acquisition performance. AI-powered machines ... to accelerate your rate of learning will require an intelligent machine operational ...",
-      "heat": 122,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.clickz.com/the-age-of-customer-acquisition-3-0/260425/",
-      "ampWebUrl": "https://www.clickz.com/the-age-of-customer-acquisition-3-0/260425/amp/",
-      "cdnAmpWebUrl": "https://www-clickz-com.cdn.ampproject.org/c/s/www.clickz.com/the-age-of-customer-acquisition-3-0/260425/amp/",
-      "publishedDateTime": "2020-02-27T18:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ClickZ",
-        "domain": "clickz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
       "locale": "en-us",
       "categories": [
         "news"

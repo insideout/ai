@@ -2,6 +2,51 @@
   "page": 89,
   "value": [
     {
+      "path": "_news/2020-02-06-uber-gets-green-light-to-test-self-driving-cars-in-california-again.md",
+      "title": "Uber gets green light to test self-driving cars in California again",
+      "excerpt": "Uber's self-driving could be allowed roads again in California. According to report Thursday from Reuters, the ride sharing company received a permit on Wednesday from the California Department of Motor Vehicles to test the autonomous vehicles with a backup driver. Uber did not immediately respond to request for comment, but told Reuters it ...",
+      "heat": 269,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnet.com/news/uber-gets-green-light-to-test-self-driving-cars-in-california-again/",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/uber-gets-green-light-to-test-self-driving-cars-in-california-again/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/uber-gets-green-light-to-test-self-driving-cars-in-california-again/",
+      "publishedDateTime": "2020-02-06T09:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cnet4.cbsistatic.com/img/P1TSwyMIOEev0pcnkl0Asmh3kTs=/756x567/2019/08/21/f4944c4f-9607-41a7-ac58-9daaa50231e8/uber-logo-1.jpg",
+          "width": 756,
+          "height": 567,
+          "title": "Uber gets green light to test self-driving cars in California again",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2020-02-06-facebook-launches-3d-deep-learning-library-for-pytorch.md",
       "title": "Facebook launches 3D deep learning library for PyTorch",
       "excerpt": "Facebook AI Research (FAIR) today unveiled PyTorch3D, a library that enables researchers and developers to combine deep learning and 3D objects. As part of the release, Facebook is also open-sourcing Mesh R-CNN, a model introduced last year capable of rendering 3D objects from 2D shapes in images of interior spaces. PyTorch3D was inspired by ...",
@@ -1008,51 +1053,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-02-05-five-emerging-trends-in-retail-technology.md",
-      "title": "Five Emerging Trends In Retail Technology",
-      "excerpt": "Consumers want shopping experiences that feel personal to them, whether they are shopping online or in-store. Retailers are in a race to use technology to match consumer expectations and win more business.",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2020/02/05/five-emerging-trends-in-retail-technology/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2020/02/05/five-emerging-trends-in-retail-technology/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2020/02/05/five-emerging-trends-in-retail-technology/amp/",
-      "publishedDateTime": "2020-02-05T14:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/dam/imageserve/1126653452/960x0.jpg?fit=scale",
-          "width": 711,
-          "height": 474,
-          "title": "Five Emerging Trends In Retail Technology",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

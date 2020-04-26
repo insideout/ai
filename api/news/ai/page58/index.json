@@ -2,6 +2,51 @@
   "page": 58,
   "value": [
     {
+      "path": "_news/2020-02-25-brief-abb-announces-partnership-with-ai-start-up.md",
+      "title": "BRIEF-ABB Announces Partnership with AI Start-Up",
+      "excerpt": "Our Standards:The Thomson Reuters Trust Principles.",
+      "heat": 119,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/brief-abb-announces-partnership-with-ai-idUSFWN2AO19Q",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSFWN2AO19Q",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSFWN2AO19Q",
+      "publishedDateTime": "2020-02-25T03:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png",
+          "width": 1200,
+          "height": 630,
+          "title": "BRIEF-ABB Announces Partnership with AI Start-Up",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-02-25-opsramp-introduces-ai-driven-suggestions-for-greater-transparency-and-faster-incident-remediation.md",
       "title": "OpsRamp Introduces AI-Driven Suggestions for Greater Transparency and Faster Incident Remediation",
       "excerpt": "The OpsRamp Winter 2020 Release also introduces 19 new cloud monitoring integrations for Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform (GCP), along with dynamic topology maps for Azure and GCP. Highlights of the Winter 2020 Release include: AIOps: OpsQ is OpsRamp's intelligent event management, alert correlation ...",
@@ -1249,51 +1294,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-02-24-crucial-oversight-needed-for-police-ai-use.md",
-      "title": "\"Crucial\" oversight needed for police AI use",
-      "excerpt": "A report looking into police use of AI and data-driven technologies has called for urgent national guidance to ... RUSI was commissioned to conduct an independent study into English and Welsh police use of data analytics by the Centre for Data Ethics and Innovation (CDEI). Its focus was on algorithmic bias with a primary focus to help CDEI's ...",
-      "heat": 109,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.itpro.co.uk/data-insights/big-data-analytics/354841/crucial-oversight-needed-for-police-ai-use",
-      "ampWebUrl": "https://www.itpro.co.uk/data-insights/big-data-analytics/354841/crucial-oversight-needed-for-police-ai-use?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/data-insights/big-data-analytics/354841/crucial-oversight-needed-for-police-ai-use?amp",
-      "publishedDateTime": "2020-02-24T07:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/v1582538868/itpro/Police_officers.jpg",
-          "width": 1000,
-          "height": 667,
-          "title": "\"Crucial\" oversight needed for police AI use",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

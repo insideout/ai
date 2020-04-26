@@ -2,6 +2,51 @@
   "page": 70,
   "value": [
     {
+      "path": "_news/2020-02-24-nvidia-gtc-20-could-be-massive.md",
+      "title": "NVIDIA GTC ’20 Could Be Massive",
+      "excerpt": "As we approach NVIDIA’s annual GPU Technology Conference, everyone is anxious to see what CEO Jensen Huang has up his trademark black leather sleeves. I have no idea, but as usual, I have an opinion.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/moorinsights/2020/02/24/nvidia-gtc-20-could-be-massive/",
+      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2020/02/24/nvidia-gtc-20-could-be-massive/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2020/02/24/nvidia-gtc-20-could-be-massive/amp/",
+      "publishedDateTime": "2020-02-24T13:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e5412ef7a00980007341821%2F0x0.jpg",
+          "width": 899,
+          "height": 600,
+          "title": "NVIDIA GTC ’20 Could Be Massive",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2020-02-24-ai-android-teaching-assistant-gives-students-hands-on-robotics-experience.md",
       "title": "AI Android Teaching Assistant Gives Students Hands-on Robotics Experience",
       "excerpt": "... presence of robots and artificial intelligence in our world,\" said Barry in an article about the project. \"One of the points that I'm bringing out in this class is that robots reflect their programming: If they're programmed with a life-affirming, ethical framework, they are more likely to act ethically and help humans to do the same.\"",
@@ -1009,42 +1054,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-02-24-how-ai-is-shaping-the-new-life-in-life-sciences-and-pharmaceutical-industry.md",
-      "title": "How AI is shaping the new life in life sciences and pharmaceutical industry",
-      "excerpt": "The pharma and life sciences industry is faced with increasing regulatory oversight, decreasing R&D productivity, challenges to growth and profitability, and the impact of artificial intelligence (AI) in the value chain. The regulatory changes led by the far-reaching Patient Protection and Affordable Care Act (PPACA) in the US are forcing the ...",
-      "heat": 95,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://yourstory.com/2020/02/ai-shaping-new-life-sciences-pharmaceutical-industry",
-      "ampWebUrl": "https://yourstory.com/2020/02/ai-shaping-new-life-sciences-pharmaceutical-industry/amp",
-      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/02/ai-shaping-new-life-sciences-pharmaceutical-industry/amp",
-      "publishedDateTime": "2020-02-24T01:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Your Story",
-        "domain": "yourstory.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.yourstory.com/cs/2/f02aced0d86311e98e0865c1f0fe59a2/Future-of-work-AI-in-life-Science-1582471180105.png?fm=png&auto=format",
-          "width": 800,
-          "height": 400,
-          "title": "How AI is shaping the new life in life sciences and pharmaceutical industry",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

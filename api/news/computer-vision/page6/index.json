@@ -2,6 +2,43 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-02-18-clearview-ais-founder-defends-controversial-facial-recognition-app.md",
+      "title": "Clearview AI's founder defends controversial facial recognition app",
+      "excerpt": "Hoan Ton-That's app, Clearview AI, has triggered fears about facial recognition — and the dystopian future it could foreshadow. CNN Business' Donie O'Sullivan sits down with the CEO to talk about questions of legality, privacy, and bias in the era of facial recognition.",
+      "heat": 94,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.djournal.com/news/national/clearview-ai-s-founder-defends-controversial-facial-recognition-app/video_9e9cbbbc-111e-5904-b1c9-c12426069aab.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-18T06:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Journal",
+        "domain": "djournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/9/e9/9e9cbbbc-111e-5904-b1c9-c12426069aab/5e41f2280d4e7.image.jpg?resize=576%2C324",
+          "width": 576,
+          "height": 324,
+          "title": "Clearview AI's founder defends controversial facial recognition app",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2020-02-17-automated-facial-recognition-breaches-gdpr-says-eu-digital-chief.md",
       "title": "Automated facial recognition breaches GDPR, says EU digital chief",
       "excerpt": "The EU’s digital and competition chief has said that automated facial recognition breaches GDPR, as the technology fails to meet the regulation’s requirement for consent. Margrethe Vestager, the European Commission’s executive vice president for digital affairs, told reporters that “as it stands right now, GDPR would say ‘don’t ...",
@@ -1194,43 +1231,6 @@
           "width": 1280,
           "height": 720,
           "title": "Facial recognition tech used by Volusia deputies criticized for ‘scraping’",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-02-05-european-parliament-insists-it-will-not-use-facial-recognition-tech.md",
-      "title": "European parliament insists it will not use facial recognition tech",
-      "excerpt": "Statement comes after leaked memo on use of technology in security provoked outcry",
-      "heat": 109,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.theguardian.com/technology/2020/feb/05/european-parliament-insists-it-will-not-use-facial-recognition-tech",
-      "ampWebUrl": "https://amp.theguardian.com/technology/2020/feb/05/european-parliament-insists-it-will-not-use-facial-recognition-tech",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2020/feb/05/european-parliament-insists-it-will-not-use-facial-recognition-tech",
-      "publishedDateTime": "2020-02-05T08:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/7d3501ff1cb5c4ad5d95972a50759a0d307408a4/0_117_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=2d8da36a5bbb8e2543a941cb7e2d1a1c",
-          "width": 600,
-          "height": 360,
-          "title": "European parliament insists it will not use facial recognition tech",
           "attribution": null
         }
       ],

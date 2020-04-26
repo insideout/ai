@@ -2,6 +2,50 @@
   "page": 93,
   "value": [
     {
+      "path": "_news/2020-01-16-wefs-global-risk-report-warns-of-dark-side-of-iot-ai-quantum-computing.md",
+      "title": "WEF's Global Risk Report warns of dark side of IoT, AI, quantum computing",
+      "excerpt": "World Economic Forum report once again lists cyberattacks as one of the top threats facing the world in 2020 - alongside climate change, extreme weather and natural disasters.",
+      "heat": 66,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/video/the-dark-side-of-iot-ai-and-quantum-computing-hacking-data-breaches-and-existential-threat/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-16T13:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2020/01/16/5ea6ba0a-4030-49b7-a3f9-dbf447ba670f/thumbnail/770x578/a5b4b36b32be1fcd06abadda16803865/the-dark-side-of-iot-ai-and-quantum-comp-5e20988d4435920001905e9d-1-jan-16-2020-17-10-41-poster.jpg",
+          "width": 770,
+          "height": 578,
+          "title": "WEF's Global Risk Report warns of dark side of IoT, AI, quantum computing",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-01-16-eu-mulls-5-year-ban-on-facial-recognition-tech-in-public-areas.md",
       "title": "EU mulls 5-year ban on facial recognition tech in public areas",
       "excerpt": "BRUSSELS, Jan 16 (Reuters) - The European Union is considering banning facial recognition technology in public areas for up to five years, to give it time to work out how to prevent abuses, according to proposals seen by Reuters. The plan by the EU's executive - set out in an 18-page white paper - comes amid a global debate about the systems ...",
@@ -1251,50 +1295,6 @@
       "topics": [
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-01-16-ai-for-good-starts-with-collaboration.md",
-      "title": "AI For Good Starts With Collaboration",
-      "excerpt": "In the age of innovation, we are focused on technologies such as artificial intelligence, virtual reality, augmented reality, and more. Often the application of these technologies comes as an afterthought once the technology has been developed.",
-      "heat": 97,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/01/16/ai-for-good-starts-with-collaboration/",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/01/16/ai-for-good-starts-with-collaboration/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/01/16/ai-for-good-starts-with-collaboration/amp/",
-      "publishedDateTime": "2020-01-16T02:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/500x279/https://specials-images.forbesimg.com/imageserve/5e202a29735f8c000799f8da/960x0.jpg?fit=scale",
-          "width": 500,
-          "height": 279,
-          "title": "AI For Good Starts With Collaboration",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

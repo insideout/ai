@@ -2,6 +2,47 @@
   "page": 31,
   "value": [
     {
+      "path": "_news/2020-03-31-huawei-has-open-sourced-an-ai-framework-called-mindspore-to-rival-googles-tensorflow.md",
+      "title": "Huawei has open sourced an AI framework called MindSpore to rival Google’s TensorFlow",
+      "excerpt": "China’s Huawei Technologies Co. Ltd. has open sourced a framework for artificial intelligence-based application development called MindSpore, which was first revealed last year. Huawei developed MindSpore alongside partners including Imperial College London, Peking University and the University of Edinburgh, as well as a Turkish robotics ...",
+      "heat": 70,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://siliconangle.com/2020/03/30/huawei-open-sourced-ai-framework-called-mindspore-rival-googles-tensorflow/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-30T18:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/03/33049627858_9852cfe418_h.jpg",
+          "width": 1390,
+          "height": 926,
+          "title": "Huawei has open sourced an AI framework called MindSpore to rival Google’s TensorFlow",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "TensorFlow",
+        "Google AI",
+        "AI",
+        "AI in Robotics",
+        "Natural Language Processing",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2020-03-31-accelerating-deep-learning-insights-with-new-gpu-based-solutions.md",
       "title": "Accelerating Deep Learning Insights with New GPU-Based Solutions",
       "excerpt": "Deep learning, an advanced AI technique, is growing in popularity as organizations strive to operate faster and smarter than ever. Deep learning applications utilize neural networks to analyze a variety of data types, including machine signals, audio ...",
@@ -1005,35 +1046,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-30-deep-learning-chip-market-to-garner-2937-billion-2025-at-399-cagr-amr.md",
-      "title": "Deep Learning Chip Market to Garner $29.37 Billion 2025, at 39.9% CAGR: AMR",
-      "excerpt": "Portland, March 30, 2020 (GLOBE NEWSWIRE) -- According to the report published by Allied Market Research, the global deep learning chip market was pegged at $2.81 billion in 2018 and is estimated ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.globenewswire.com/news-release/2020/03/30/2008437/0/en/Deep-Learning-Chip-Market-to-Garner-29-37-Billion-2025-at-39-9-CAGR-AMR.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-30T07:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GlobeNewswire",
-        "domain": "globenewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

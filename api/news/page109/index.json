@@ -2,6 +2,50 @@
   "page": 109,
   "value": [
     {
+      "path": "_news/2020-01-19-how-quartz-used-ai-to-sort-through-the-luanda-leaks.md",
+      "title": "How Quartz used AI to sort through the Luanda Leaks",
+      "excerpt": "But they had a problem: That’s a heck of a lot of files. ICIJ partnered with Quartz’s AI Studio to find a solution. We built a system using artificial intelligence to “read” all the documents and help journalists from Quartz, ICIJ and other partner organizations find the kinds of documents they expected in the cache of leaks ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://qz.com/1786896/ai-for-investigations-sorting-through-the-luanda-leaks/",
+      "ampWebUrl": "https://qz.com/1786896/ai-for-investigations-sorting-through-the-luanda-leaks/amp/",
+      "cdnAmpWebUrl": "https://qz-com.cdn.ampproject.org/c/s/qz.com/1786896/ai-for-investigations-sorting-through-the-luanda-leaks/amp/",
+      "publishedDateTime": "2020-01-19T10:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Quartz",
+        "domain": "qz.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/qz.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cms.qz.com/wp-content/uploads/2020/01/Cover-TheEngineer-V2.jpeg_effected_logo.jpg?quality=75&strip=all&w=1400",
+          "width": 1400,
+          "height": 787,
+          "title": "How Quartz used AI to sort through the Luanda Leaks",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-01-19-dive-into-ai-and-machine-learning-with-this-40-training.md",
       "title": "Dive into AI and machine learning with this $40 training",
       "excerpt": "With four courses and over 280 lessons, this bundle will introduce you to the exciting and lucrative world of machine learning and AI The interconnected worlds of machine learning and AI can be found at the heart of some of today's most exciting and important technologies—from quantum computing and Google algorithms to medical innovations and ...",
@@ -1017,50 +1061,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-01-17-bjork-and-microsoft-use-ai-to-create-music-that-changes-with-the-sky.md",
-      "title": "Björk and Microsoft use AI to create music that changes with the sky",
-      "excerpt": "The Icelandic star is using Microsoft AI as part of Kórsafn (\"choral archives\"), a non-stop composition playing in the lobby of the Sister City hotel in New York City. The project plays selections from Björk's many choral arrangements (including new ones composed by the Hamrahlid Choir) based on what the AI sees in the sky through a rooftop ...",
-      "heat": 197,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.engadget.com/2020/01/17/bjork-and-microsoft-ai-sky-music/",
-      "ampWebUrl": "https://www.engadget.com/amp/2020/01/17/bjork-and-microsoft-ai-sky-music/",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/17/bjork-and-microsoft-ai-sky-music/",
-      "publishedDateTime": "2020-01-17T10:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D1600%252C1067%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1067%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-uploaded-images%252F2020-01%252F1753deb0-3954-11ea-9f26-47e800c6b449%26client%3Da1acac3e1b3290917d92%26signature%3Dd74572e0141a4d05afbcc4cbd4f09da27109c50e&client=amp-blogside-v2&signature=397c2e6c49f4a56b1d74ddeac5f8b83a354ed9cd",
-          "width": 600,
-          "height": 350,
-          "title": "Björk and Microsoft use AI to create music that changes with the sky",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

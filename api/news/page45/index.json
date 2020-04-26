@@ -2,6 +2,43 @@
   "page": 45,
   "value": [
     {
+      "path": "_news/2020-03-18-three-experts-appointed-to-axons-ai-ethics-board.md",
+      "title": "Three Experts Appointed to Axon’s AI Ethics Board",
+      "excerpt": "Axon, a provider of smart devices for reduced-force policing and security applications, has appointed three individuals to its AI Ethics Board. Axon offers products like tasers, body cameras, and drones, as well as policing software; and the company seeks to leverage Artificial Intelligence in its offerings. At a time of intensifying scrutiny ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://findbiometrics.com/biometrics-news-three-experts-appointed-to-axons-ai-ethics-board-903184/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-18T13:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SecuriMetrics HIIDE",
+        "domain": "findbiometrics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://findbiometrics.com/wp-content/uploads/iStock-910132252-1-e1525292879902.jpg",
+          "width": 851,
+          "height": 638,
+          "title": "Three Experts Appointed to Axon’s AI Ethics Board",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-18-ibm-working-on-greater-business-use-of-natural-language-processing.md",
       "title": "IBM Working on Greater Business Use of Natural Language Processing",
       "excerpt": "IBM today at an online event outlined a plan to bring to market new natural language processing (NLP) technology that will help computers better understand human communication and companies better communicate with their customers. The company is working on commercial applications of the NLP technology developed as part of IBM Research's Project ...",
@@ -911,43 +948,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-18-specialized-processors-accelerate-endpoint-ai-workloads.md",
-      "title": "Specialized processors accelerate endpoint AI workloads",
-      "excerpt": "(Image: Texas Instruments Inc.) Nvidia’s well-known Jetson Nano is a small but powerful graphics processing unit (GPU) module for AI applications in endpoint devices. Built on the same Maxwell architecture as larger members of the Jetson family (AGX Xavier and TX2), the GPU on the Nano module has 128 cores and is capable of 0.5 TFLOPS ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.embedded.com/specialized-processors-accelerate-endpoint-ai-workloads/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-18T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Embedded",
-        "domain": "embedded.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.embedded.com/wp-content/uploads/2020/03/img20200318091424Top-10-processors-for-AI-acceler_0.jpg?resize=1024,576",
-          "width": 1024,
-          "height": 576,
-          "title": "Specialized processors accelerate endpoint AI workloads",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

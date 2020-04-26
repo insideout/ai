@@ -2,6 +2,42 @@
   "page": 59,
   "value": [
     {
+      "path": "_news/2020-03-10-it-support-solutions-startup-electricai-raises-145m-from-01-advisors.md",
+      "title": "IT support solutions startup Electric.ai raises $14.5M from 01 Advisors",
+      "excerpt": "Information technology support solutions startup Electric.ai said today it has raised $14.5 million in new funding from 01 Advisors, the investment firm run by former Twitter Inc. Chief Executive Officer Dick Costolo and Twitter Chief Operations Officer Adam Bain. Founded in 2016, Electric offers a fully automated IT platform that is pitched ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://siliconangle.com/2020/03/10/support-solutions-startup-electric-ai-raises-14-5m-01-advisors/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-10T06:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/03/electric.jpg",
+          "width": 2013,
+          "height": 868,
+          "title": "IT support solutions startup Electric.ai raises $14.5M from 01 Advisors",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-10-artificial-intelligence-drives-new-industrial-inspection-drones.md",
       "title": "Artificial Intelligence Drives New Industrial Inspection Drones",
       "excerpt": "Jameson Huckaba of Digital Aerolus explains the technology behind and capabilities of the company's Aertos industrial inspection drones during the Tech Crunch Robotics+AI 2020 event.",
@@ -925,44 +961,6 @@
         "Google AI",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-09-tensorflow-quantum-software-combines-quantum-and-classical-machine-learning.md",
-      "title": "TensorFlow Quantum software combines quantum and classical machine learning",
-      "excerpt": "The collaborative effort resulted in the creation of an open-source hybrid quantum-classical machine learning software platform, called TensorFlow Quantum. TensorFlow Quantum integrates Google’s Cirq and TensorFlow and will allow for the rapid ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://insidehpc.com/2020/03/tensorflow-quantum-software-combines-quantum-and-classical-machine-learning/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-09T10:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "insideHPC",
-        "domain": "insidehpc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://insidehpc.com/wp-content/uploads/2020/03/blobid0_1583527327745.jpg",
-          "width": 640,
-          "height": 480,
-          "title": "TensorFlow Quantum software combines quantum and classical machine learning",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "TensorFlow"
       ]
     }
   ],
