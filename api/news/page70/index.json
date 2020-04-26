@@ -2,6 +2,51 @@
   "page": 70,
   "value": [
     {
+      "path": "_news/2020-02-24-insightful-new-report-is-an-eye-opening-look-at-how-us-government-is-embracing-ai.md",
+      "title": "Insightful New Report Is An Eye-Opening Look At How U.S. Government Is Embracing AI",
+      "excerpt": "One of the most frequently asked questions that I get at industry conferences is how far along the federal government has progressed in embracing AI. Why does this question come up? Some ask because they fervently believe that the government could do a much better job of providing agency services and likely perform its myriad of tasks more effectively by adopting the latest in AI technologies.",
+      "heat": 83,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/02/24/insightful-new-report-reveals-an-eye-opening-look-at-how-our-government-is-embracing-ai/",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/02/24/insightful-new-report-reveals-an-eye-opening-look-at-how-our-government-is-embracing-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/02/24/insightful-new-report-reveals-an-eye-opening-look-at-how-our-government-is-embracing-ai/amp/",
+      "publishedDateTime": "2020-02-24T12:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e52be65d378190007f416ef%2F0x0.jpg%3FcropX1%3D234%26cropX2%3D5634%26cropY1%3D0%26cropY2%3D3600",
+          "width": 1200,
+          "height": 800,
+          "title": "Insightful New Report Is An Eye-Opening Look At How U.S. Government Is Embracing AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2020-02-24-fintech-the-personal-stories-of-the-money-hackers-who-have-changed-finance.md",
       "title": "Fintech — The Personal Stories Of The Money Hackers Who Have Changed Finance",
       "excerpt": "Dan Simon has written a book about the people who created the technology firms that have been changing finance, such as Venmo and Braintree, Credit Karma, Lending Club, Kabbage, Yodlee, Clarity Money and Betterment.",
@@ -1008,43 +1053,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-24-fg-to-include-robotics-ai-in-school-curriculum.md",
-      "title": "FG to include robotics, AI in school curriculum",
-      "excerpt": "The Federal Ministry of Education has said it will work on the inclusion of coding, robotics and artificial intelligence in the country’s school curricula so as to take pupils to the 21st Century technology and educational standards. The Minister of State for Education, Chukwuemeka Nwajiuba, stated this in Abuja at the 2019/2020 Nigeria ...",
-      "heat": 109,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://punchng.com/fg-to-include-robotics-ai-in-school-curriculum/",
-      "ampWebUrl": "https://punchng.com/fg-to-include-robotics-ai-in-school-curriculum/amp/",
-      "cdnAmpWebUrl": "https://punchng-com.cdn.ampproject.org/c/s/punchng.com/fg-to-include-robotics-ai-in-school-curriculum/amp/",
-      "publishedDateTime": "2020-02-23T16:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Punch Newspapers",
-        "domain": "punchng.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.punchng.com/wp-content/uploads/2019/11/01205241/Chukwuemeka-Nwajiuba.jpg",
-          "width": 700,
-          "height": 417,
-          "title": "FG to include robotics, AI in school curriculum",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

@@ -2,6 +2,50 @@
   "page": 61,
   "value": [
     {
+      "path": "_news/2020-02-20-google-removes-gender-descriptions-on-ai-tool.md",
+      "title": "Google Removes Gender Descriptions On AI Tool",
+      "excerpt": "A Google artificial intelligence tool will no longer identify photos with gender descriptions such “man” or “woman,” Business Insider reported.",
+      "heat": 117,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/beasleydavid/2020/02/20/google-removes-gender-descriptions-on-ai-tool/",
+      "ampWebUrl": "https://www.forbes.com/sites/beasleydavid/2020/02/20/google-removes-gender-descriptions-on-ai-tool/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/beasleydavid/2020/02/20/google-removes-gender-descriptions-on-ai-tool/amp/",
+      "publishedDateTime": "2020-02-20T06:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1ef8df0c18d04d60b8bcca96180e0cbd%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4365%26cropY1%3D221%26cropY2%3D2677",
+          "width": 1199,
+          "height": 675,
+          "title": "Google Removes Gender Descriptions On AI Tool",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-02-20-london-police-just-turned-on-facial-recognition-in-one-of-the-worlds-busiest-shopping-districts.md",
       "title": "London Police Just Turned On Facial Recognition In One Of The World’s Busiest Shopping Districts",
       "excerpt": "Just across from the Microsoft store on London’s Regent Street, and just outside the entrance to the Oxford Circus tube station, cameras atop dark blue police vans are watching passersby. London's Metropolitan Police says the rollout of the \"live\" facial recognition across the British capital would reduce serious crime,",
@@ -1254,51 +1298,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-02-19-the-wonderful-weirdness-of-neural-nets.md",
-      "title": "The wonderful weirdness of neural nets",
-      "excerpt": "K. Rowling novel, but rather than an attempt at Harry Potter fan fiction written by an artificial intelligence. Its penchant for the culinary is down to a fundamental quirk of neural networks.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://newatlas.com/computers/weird-neural-networks/",
-      "ampWebUrl": "https://newatlas.com/computers/weird-neural-networks/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/computers/weird-neural-networks/?amp=true",
-      "publishedDateTime": "2020-02-19T11:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/713adf9/2147483647/strip/true/crop/4000x2667+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F3f%2Ffb%2Fa2c818ab43428d1e1a19b39eb9e4%2Fdepositphotos-31079473-xl-2015.jpeg",
-          "width": 1200,
-          "height": 800,
-          "title": "The wonderful weirdness of neural nets",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

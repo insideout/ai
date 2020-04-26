@@ -2,6 +2,43 @@
   "page": 92,
   "value": [
     {
+      "path": "_news/2020-01-17-frost-sullivan-value-creation-from-artificial-intelligence-remains-a-priority.md",
+      "title": "Frost & Sullivan: Value creation from artificial intelligence remains a priority",
+      "excerpt": "According to Wong, there is already a pervasive adoption of artificial intelligence across industries such as manufacturing, healthcare, retail, and the public sector. Early success in those industries is likely to further influence the examination of new applications of the technology to enhance competitiveness in today’s digital age.",
+      "heat": 69,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techwireasia.com/2020/01/frost-sullivan-value-creation-from-artificial-intelligence-remains-a-priority/",
+      "ampWebUrl": "https://techwireasia.com/amp/2020/01/frost-sullivan-value-creation-from-artificial-intelligence-remains-a-priority/",
+      "cdnAmpWebUrl": "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2020/01/frost-sullivan-value-creation-from-artificial-intelligence-remains-a-priority/",
+      "publishedDateTime": "2020-01-17T07:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techwireasia.com",
+        "domain": "techwireasia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techwireasia.global.ssl.fastly.net/wp-content/uploads/2020/01/shutterstock_165333119.jpg",
+          "width": 1000,
+          "height": 667,
+          "title": "Frost & Sullivan: Value creation from artificial intelligence remains a priority",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2020-01-17-apples-low-power-ai-acquisition-will-bolster-its-surging-ar-play.md",
       "title": "Apple's low-power AI acquisition will bolster its surging AR play",
       "excerpt": "Apple acquired Xnor.ai, and the startup's low-power, edge-based AI tools will allow Apple to add AI features to power-constrained devices.",
@@ -1224,51 +1261,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-16-the-next-iphone-will-have-an-advanced-camera-that-can-scan-3-d-objects-barclays-says.md",
-      "title": "The next iPhone will have an advanced camera that can scan 3-D objects, Barclays says",
-      "excerpt": "Barclays semiconductor analysts on Thursday said Apple's 2020 iPhones will have a refreshed version of Face ID and new time of flight camera sensors. The sensors could be used to improve portrait pictures and augmented reality apps.",
-      "heat": 67,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnbc.com/2020/01/16/new-iphones-will-have-refreshed-face-id-and-3d-camera-barclays.html",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/01/16/new-iphones-will-have-refreshed-face-id-and-3d-camera-barclays.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/01/16/new-iphones-will-have-refreshed-face-id-and-3d-camera-barclays.html",
-      "publishedDateTime": "2020-01-16T11:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/105496531-1578685537989tim.jpg?v=1579089697",
-          "width": 3000,
-          "height": 2000,
-          "title": "The next iPhone will have an advanced camera that can scan 3-D objects, Barclays says",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

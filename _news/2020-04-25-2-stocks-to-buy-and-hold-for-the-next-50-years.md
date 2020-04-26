@@ -8,7 +8,7 @@ ampWebUrl: "https://www.fool.com/amp/investing/2020/04/25/2-stocks-to-buy-and-ho
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/04/25/2-stocks-to-buy-and-hold-for-the-next-50-years.aspx"
 type: article
 quality: 74
-heat: 74
+heat: 76
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     height: 800
     title: "2 Stocks to Buy and Hold for the Next 50 Years"
 
-secured: "Pd3vUjb3cWDx8g4HeVW94OiPZ1zzrOeBLLmpRBiEFV5NuKZ5gxhL+LLjo5GGy09EwpMD+fdQ7a4EIZTcOFTheYueHuOmY2uJ2o1EZC9JMZq2mMFdjQa5qy88NyOv1zelS/vDrMO9wPFerb2DAC66gRIzKFmo9J3vpI64kHd1acTm36VM8MhSoyuRBqdVx7WnaPirkBrBAJGGFegOkmPYt05BM/H98MVxmUV6KFw+jeIEfdwyEPoExKV4HUGZUKYwWBv8XZn705jta9i+pRztJApnqCR8SQnA6hpB2DGMGJ1LoAzjT75yJ/NX5tVI40e6;OxWrg3lF6vJ8w7sXp501iA=="
+secured: "oQQ0BLfo6vVCRcxxfUvnw2eEJvXS/HOphBymuaemrGz704JXUqIMvMvOa57sX2wNb7Y/1ha3D1yM8HD+wv9pXHc/CB2q9IE++x4eexacFDYkKOd9VvpLYdHpwHlFTZ6PArJWJIuA92YxxkO8d1yd1k5ZV/7dPd473oxzUGLlX0m13icGpk4k5hWgiQ276dxCCVas9DD3AzFeZA7SelOUFmv3tlMjtYaPVfUdM01On279e1Ns+YagX18/+Tdq4q/rwzTN8NFPWqdQhiI94Bfc7OEJTrTs6F8fKIE1SyZTaJWD72IVkXp1KZoIiIOTPJZ7;JIi4vk5KDrs3WNRc1HQhFg=="
 ---
 

@@ -2,6 +2,43 @@
   "page": 49,
   "value": [
     {
+      "path": "_news/2020-03-10-scientists-linked-artificial-and-biological-neurons-in-a-networkand-amazingly-it-worked.md",
+      "title": "Scientists Linked Artificial and Biological Neurons in a Network—and Amazingly, It Worked",
+      "excerpt": "As Moore’s law is dying, we even said that neuromorphic computing is one path towards the future of extremely powerful, low energy consumption artificial neural network-based computing—in hardware—that could in theory better link up with the brain. Because the chips “speak” the brain’s language, in theory they could become ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://singularityhub.com/2020/03/10/scientists-linked-artificial-and-biological-neurons-in-a-network-and-amazingly-it-worked/",
+      "ampWebUrl": "https://singularityhub.com/2020/03/10/scientists-linked-artificial-and-biological-neurons-in-a-network-and-amazingly-it-worked/amp/",
+      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2020/03/10/scientists-linked-artificial-and-biological-neurons-in-a-network-and-amazingly-it-worked/amp/",
+      "publishedDateTime": "2020-03-10T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Singularity Hub",
+        "domain": "singularityhub.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://singularityhub.com/wp-content/uploads/2020/03/neurons-582054_1280.jpg",
+          "width": 1068,
+          "height": 601,
+          "title": "Scientists Linked Artificial and Biological Neurons in a Network—and Amazingly, It Worked",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-10-helping-scientists-protect-beluga-whales-with-deep-learning.md",
       "title": "Helping Scientists Protect Beluga Whales with Deep Learning",
       "excerpt": "All models were trained in Keras (with the TensorFlow backend) on an Azure Deep Learning Virtual Machine. With a default neutral threshold score of 0.5 used for classification, the results show ...",
@@ -1118,35 +1155,6 @@
         "Google AI",
         "AI",
         "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2020-03-09-global-voice-and-speech-recognition-technology-industry.md",
-      "title": "Global Voice and Speech Recognition Technology Industry",
-      "excerpt": "NEW YORK, March 9, 2020 /PRNewswire/ -- Voice and Speech Recognition Technology market worldwide is projected to grow by US$15 Billion, driven by a compounded growth of",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.benzinga.com/pressreleases/20/03/n15509110/global-voice-and-speech-recognition-technology-industry",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/15509110",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15509110",
-      "publishedDateTime": "2020-03-09T09:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

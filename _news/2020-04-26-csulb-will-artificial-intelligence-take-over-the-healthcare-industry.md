@@ -5,8 +5,8 @@ excerpt: "Laura Gonzalez, professor of finance in the School of Business, explai
 publishedDateTime: 2020-04-26T05:28:00Z
 webUrl: "https://patch.com/california/longbeach-ca/csulb-will-artificial-intelligence-take-over-healthcare-industry"
 type: article
-quality: 37
-heat: 37
+quality: 54
+heat: 54
 published: false
 
 provider:
@@ -15,6 +15,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://cdn.patchcdn.com/assets/layout/logo-patch-800x600.png"

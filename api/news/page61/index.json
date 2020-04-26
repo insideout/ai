@@ -2,6 +2,43 @@
   "page": 61,
   "value": [
     {
+      "path": "_news/2020-03-08-with-painted-faces-artists-fight-facial-recognition-tech.md",
+      "title": "With painted faces, artists fight facial recognition tech",
+      "excerpt": "LONDON -- As night falls in London, Georgina Rowlands and Anna Hart start applying makeup. Instead of lipstick and eyeliner, they’re covering their faces with geometric shapes. Rowlands has long ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://abcnews.go.com/Entertainment/wireStory/painted-faces-artists-fight-facial-recognition-tech-69465610",
+      "ampWebUrl": "https://abcnews.go.com/amp/Entertainment/wireStory/painted-faces-artists-fight-facial-recognition-tech-69465610",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/painted-faces-artists-fight-facial-recognition-tech-69465610",
+      "publishedDateTime": "2020-03-08T01:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABCNews",
+        "domain": "go.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Entertainment/WireAP_36a7c88465f14c438470ac0ae6bc7d4e_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": "With painted faces, artists fight facial recognition tech",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-07-automatic-image-classification-with-amazon-sagemaker-ground-truth.md",
       "title": "Automatic Image Classification with Amazon SageMaker Ground Truth",
       "excerpt": "Source: Amazon Web Services Source: Amazon Web Services 3. Navigate to SageMaker Ground Truth — Labelling Jobs. As we can see, previous labelling jobs are also visible. Click “Create Labelling ...",
@@ -924,35 +961,6 @@
             "attribution": null
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-05-platesmart-recognized-with-fifth-govies-award.md",
-      "title": "PlateSmart Recognized with Fifth Govies Award",
-      "excerpt": "The software offers true object recognition instead of simple optical character recognition (OCR), which allows it to read the plate as well as the state jurisdiction and vehicle make. PlateSmart has earned multiple industry awards for excellence in ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.newswiretoday.com/news/172515/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-04T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newswire Today",
-        "domain": "newswiretoday.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

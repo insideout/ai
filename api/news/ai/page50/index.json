@@ -2,6 +2,35 @@
   "page": 50,
   "value": [
     {
+      "path": "_news/2020-03-09-global-voice-and-speech-recognition-technology-industry.md",
+      "title": "Global Voice and Speech Recognition Technology Industry",
+      "excerpt": "NEW YORK, March 9, 2020 /PRNewswire/ -- Voice and Speech Recognition Technology market worldwide is projected to grow by US$15 Billion, driven by a compounded growth of",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/03/n15509110/global-voice-and-speech-recognition-technology-industry",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/15509110",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15509110",
+      "publishedDateTime": "2020-03-09T09:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-09-google-is-making-it-easier-to-develop-quantum-machine-learning-apps.md",
       "title": "Google is making it easier to develop quantum machine-learning apps",
       "excerpt": "TensorFlow Quantum is an add-on to Google’s popular TensorFlow toolkit, which has helped give machine learning a big boost since its launch in 2015. What does it do? TensorFlow is one of a ...",
@@ -1080,51 +1109,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-07-automatic-image-classification-with-amazon-sagemaker-ground-truth.md",
-      "title": "Automatic Image Classification with Amazon SageMaker Ground Truth",
-      "excerpt": "Source: Amazon Web Services Source: Amazon Web Services 3. Navigate to SageMaker Ground Truth — Labelling Jobs. As we can see, previous labelling jobs are also visible. Click “Create Labelling ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/@firstclassanalyticsmg/automatic-image-classification-with-amazon-sagemaker-ground-truth-ae143349e896",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-07T08:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/1103/1*P5rKQxp9d_mldFxglIECJw.png",
-          "width": 1103,
-          "height": 764,
-          "title": "Automatic Image Classification with Amazon SageMaker Ground Truth",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

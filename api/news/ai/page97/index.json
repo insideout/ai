@@ -2,6 +2,50 @@
   "page": 97,
   "value": [
     {
+      "path": "_news/2020-01-12-researchers-are-we-on-the-cusp-of-an-ai-winter.md",
+      "title": "Researchers: Are we on the cusp of an ‘AI winter’?",
+      "excerpt": "some researchers believe it would be wrong to call this new phase an AI winter. Robot Wars judge Noel Sharkey, who is also a professor of AI and robotics at Sheffield University, told the BBC that he likes the term \"AI autumn\" - and several others agree.",
+      "heat": 187,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.bbc.com/news/technology-51064369",
+      "ampWebUrl": "https://www.bbc.com/news/amp/technology-51064369",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-51064369",
+      "publishedDateTime": "2020-01-11T16:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/136BA/production/_110464597_atlas.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": "Researchers: Are we on the cusp of an ‘AI winter’?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-01-12-capillary-technologies-achieves-aws-retail-competency-status.md",
       "title": "Capillary Technologies achieves AWS retail competency status",
       "excerpt": "Boosting Innovation: Capillary has also used Amazon Rekognition to drive an effective customer engagement solution powered by smart IoT sensors deployed in the stores. The technology captures information about visitors such as how much time they spend in a ...",
@@ -1256,51 +1300,6 @@
       "topics": [
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-01-09-intels-first-discrete-gpu-is-built-for-developers.md",
-      "title": "Intel's first discrete GPU is built for developers",
-      "excerpt": "It also promised \"double digit\" CPU performance increases with Tiger Lake, and \"massive\" AI improvements. Apart from that, it again revealed no additional performance data. As we've already noted in our AMD vs. Intel CES 2020 explainer, AMD has unveiled very specific products and plans, while Intel has just announced upcoming products and been ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.engadget.com/2020/01/09/intel-xe-d1g-software-development-vehicle/",
-      "ampWebUrl": "https://www.engadget.com/amp/2020/01/09/intel-xe-d1g-software-development-vehicle/",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/09/intel-xe-d1g-software-development-vehicle/",
-      "publishedDateTime": "2020-01-09T08:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D2560%252C1440%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C900%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-uploaded-images%252F2020-01%252Fe2f080e0-32c5-11ea-8f6f-37137cd1d902%26client%3Da1acac3e1b3290917d92%26signature%3Da06d205743b2b87fd7053dfb965a6a535c1f922a&client=amp-blogside-v2&signature=c3c0854f900a4547e7c71aeea1722fbf77cd645c",
-          "width": 600,
-          "height": 350,
-          "title": "Intel's first discrete GPU is built for developers",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

@@ -41,19 +41,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "How Will Artificial Intelligence Market Deal with the COVID-19 Crisis?"
-    excerpt: "The global artificial intelligence market is expected to rise with an impressive CAGR and generate the highest revenue"
-    publishedDateTime: 2020-04-21T13:03:00Z
-    webUrl: "https://www.marketwatch.com/press-release/how-will-artificial-intelligence-market-deal-with-the-covid-19-crisis-2020-04-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
   - title: "How Will Speech and Voice Recognition Market Deal with the COVID-19 Crisis?"
     excerpt: "The global speech and voice recognition market is expected to rise with an impressive CAGR and generate the highest"
     publishedDateTime: 2020-04-22T07:29:00Z

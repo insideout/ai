@@ -2,6 +2,51 @@
   "page": 69,
   "value": [
     {
+      "path": "_news/2020-02-25-chess-grandmaster-gary-kasparov-predicts-ai-will-disrupt-96-of-all-jobs.md",
+      "title": "Chess grandmaster Gary Kasparov predicts AI will disrupt 96% of all jobs",
+      "excerpt": "After Kasparov‘s loss, the experts didn’t miss a beat. They said Chess was too easy and postulated that machines would never beat us at Go. Champion Lee Sedol’s loss against DeepMind’s AlphaGo proved them wrong there. Apparently the only thing more powerful than human hubris is our ability to iterate new technologies. At least ...",
+      "heat": 108,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/02/24/chess-grandmaster-gary-kasparov-predicts-ai-will-disrupt-96-percent-of-all-jobs/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/02/24/chess-grandmaster-gary-kasparov-predicts-ai-will-disrupt-96-percent-of-all-jobs/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/02/24/chess-grandmaster-gary-kasparov-predicts-ai-will-disrupt-96-percent-of-all-jobs/amp/",
+      "publishedDateTime": "2020-02-25T07:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/02/chesspieces-796x405.jpg",
+          "width": 796,
+          "height": 405,
+          "title": "Chess grandmaster Gary Kasparov predicts AI will disrupt 96% of all jobs",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2020-02-25-openais-jeff-clune-on-deep-learnings-achilles-heel-and-a-faster-path-to-agi.md",
       "title": "OpenAI’s Jeff Clune on deep learning’s Achilles’ heel and a faster path to AGI",
       "excerpt": "ANML scales catastrophic forgetting reduction to a deep learning model with 6 million parameters. It also expands upon OML, a model that was introduced by Martha White and Khurram Javed at NeurIPS 2019 and is capable of completing up to 200 tasks without catastrophic forgetting. But Clune said ANML differs from OML because his team realized ...",
@@ -1027,51 +1072,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-24-insightful-new-report-is-an-eye-opening-look-at-how-us-government-is-embracing-ai.md",
-      "title": "Insightful New Report Is An Eye-Opening Look At How U.S. Government Is Embracing AI",
-      "excerpt": "One of the most frequently asked questions that I get at industry conferences is how far along the federal government has progressed in embracing AI. Why does this question come up? Some ask because they fervently believe that the government could do a much better job of providing agency services and likely perform its myriad of tasks more effectively by adopting the latest in AI technologies.",
-      "heat": 83,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/02/24/insightful-new-report-reveals-an-eye-opening-look-at-how-our-government-is-embracing-ai/",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/02/24/insightful-new-report-reveals-an-eye-opening-look-at-how-our-government-is-embracing-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/02/24/insightful-new-report-reveals-an-eye-opening-look-at-how-our-government-is-embracing-ai/amp/",
-      "publishedDateTime": "2020-02-24T12:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e52be65d378190007f416ef%2F0x0.jpg%3FcropX1%3D234%26cropX2%3D5634%26cropY1%3D0%26cropY2%3D3600",
-          "width": 1200,
-          "height": 800,
-          "title": "Insightful New Report Is An Eye-Opening Look At How U.S. Government Is Embracing AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

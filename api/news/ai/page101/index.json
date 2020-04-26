@@ -2,6 +2,51 @@
   "page": 101,
   "value": [
     {
+      "path": "_news/2019-12-26-samsung-prepares-neon-ai-for-ces-debut.md",
+      "title": "Samsung Prepares Neon AI for CES Debut",
+      "excerpt": "Samsung is preparing an \"artificial intelligence being\" that could become your \"best friend\": It will debut at CES, award-winning director Shekhar Kapur said on Twitter today. The project, called ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.pcmag.com/news/372695/samsung-prepares-neon-ai-for-ces-debut",
+      "ampWebUrl": "https://www.pcmag.com/news/samsung-prepares-neon-ai-for-ces-debut?amp=true",
+      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/samsung-prepares-neon-ai-for-ces-debut?amp=true",
+      "publishedDateTime": "2019-12-26T03:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.pcmag.com/images/pcmag-social-share.jpg",
+          "width": 997,
+          "height": 1201,
+          "title": "Samsung Prepares Neon AI for CES Debut",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2019-12-26-revisiting-the-rise-of-ai-how-far-has-artificial-intelligence-come-since-2010.md",
       "title": "Revisiting the rise of A.I.: How far has artificial intelligence come since 2010?",
       "excerpt": "To most people, few things say “A.I. is here” quite like seeing an artificial intelligence defeat two champion Jeopardy ... In 2010, Google officially unveiled its autonomous car program, now called Waymo. Over the decade that followed, dozens of other companies (including tech heavy hitters like Apple) have started to develop their ...",
@@ -1209,34 +1254,6 @@
           "attribution": null
         }
       ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2016-02-23-trolls-vs-pirates-halostryker-oral-arguments.md",
-      "title": "Trolls vs Pirates: Halo/Stryker Oral Arguments",
-      "excerpt": "Wall’s approach was to highlight the general nature of the the statute ... MR. WALL: [W]e and the PTO and many of Respondents’ amici recognize, the system as it currently stands is out of balance. And we have tried, and I believe we have succeeded ...",
-      "heat": 102,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://patentlyo.com/patent/2016/02/pirates-halostryker-arguments.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2016-02-23T08:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Patently-O",
-        "domain": "patentlyo.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
       "locale": "en-us",
       "categories": [
         "news"

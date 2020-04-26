@@ -2,6 +2,50 @@
   "page": 99,
   "value": [
     {
+      "path": "_news/2020-01-28-microsofts-project-tokyo-helps-visually-impaired-users-see-with-ai-and-ar.md",
+      "title": "Microsoft’s Project Tokyo helps visually impaired users ‘see’ with AI and AR",
+      "excerpt": "Project Tokyo, which is still ongoing, follows on the heels of efforts like Microsoft’s Seeing AI, a mobile app designed to help low- and impaired-vision users navigate the world around them. More recently, the tech giant debuted Soundscape, a navigation app that uses binaural audio to help visually impaired users build mental maps and make ...",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/01/28/microsofts-project-tokyo-helps-visually-impaired-users-see-with-ai-and-ar/",
+      "ampWebUrl": "https://venturebeat.com/2020/01/28/microsofts-project-tokyo-helps-visually-impaired-users-see-with-ai-and-ar/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/28/microsofts-project-tokyo-helps-visually-impaired-users-see-with-ai-and-ar/amp/",
+      "publishedDateTime": "2020-01-28T08:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/01/Project-Tokyo-07-1920x1280-1.jpg?fit=1920%2C1280&strip=all",
+          "width": 1920,
+          "height": 1280,
+          "title": "Microsoft’s Project Tokyo helps visually impaired users ‘see’ with AI and AR",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-01-28-directly-raises-20-million-to-improve-customer-service-with-ai.md",
       "title": "Directly raises $20 million to improve customer service with AI",
       "excerpt": "Notably, it comes after a year in which the startup grew 10% per month over a six-month period. “At Industry Ventures, our focus is to work with leading growth companies, full stop,” said the VC firm’s Brian Langer. “Directly saw tremendous growth toward the end of 2019, and the work they’re doing to revolutionize AI and machine ...",
@@ -985,53 +1029,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-27-how-artificial-intelligence-and-machine-learning-produced-robots-we-can-talk-to.md",
-      "title": "How artificial intelligence and machine learning produced robots we can talk to",
-      "excerpt": "You have probably already talked to a robot without even knowing it. But what are chatbots and how do they work? Business Insider explores this growing market.",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businessinsider.com/chatbots-talking-ai-robot-chat-machine",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-27T12:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.insider.com/5dfcd92d855cc25a74213a12?width=1200&format=jpeg",
-          "width": 650,
-          "height": 325,
-          "title": "How artificial intelligence and machine learning produced robots we can talk to",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics",
-        "AI in Healthcare",
-        "Machine Learning"
       ]
     }
   ],

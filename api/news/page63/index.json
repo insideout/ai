@@ -2,6 +2,51 @@
   "page": 63,
   "value": [
     {
+      "path": "_news/2020-03-03-an-algorithm-could-make-cpus-a-cheap-way-to-train-ai.md",
+      "title": "An algorithm could make CPUs a cheap way to train AI",
+      "excerpt": "Our results improved by about 50 percent with their help.\" SLIDE is a promising development for those involved in AI. It's unlikely to replace GPU-based training any time soon, because it's far easier to add multiple GPUs to one system than multiple CPUs.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.engadget.com/2020/03/03/rice-university-slide-cpu-gpu-machine-learning/",
+      "ampWebUrl": "https://www.engadget.com/amp/2020/03/03/rice-university-slide-cpu-gpu-machine-learning/",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/03/03/rice-university-slide-cpu-gpu-machine-learning/",
+      "publishedDateTime": "2020-03-03T03:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fresize%3D2000%252C2000%252Cshrink%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-uploaded-images%252F2020-03%252Fa5a838d0-5d55-11ea-be9d-03761c0564fd%26client%3Da1acac3e1b3290917d92%26signature%3Dc52e51ab1982fdec5d966cfa6e153907d1ec8eb7&client=amp-blogside-v2&signature=746be58771df3d630e3d62794a606e1497132d5b",
+          "width": 600,
+          "height": 350,
+          "title": "An algorithm could make CPUs a cheap way to train AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-03-machine-learning-25-million-students-in-the-country-to-train-on-ai-soon.md",
       "title": "Machine Learning! 2.5 million students in the country to train on AI soon",
       "excerpt": "Last week, NITI Aayog’s Atal Innovation Mission (AIM), in collaboration with the National Association of Software and Services Companies ... AI and machine learning touted to form the basis ...",
@@ -998,51 +1043,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-28-using-deepchem-with-amazon-sagemaker-for-virtual-screening.md",
-      "title": "Using DeepChem with Amazon SageMaker for virtual screening",
-      "excerpt": "Virtual screening is a computational methodology used in drug or materials discovery by searching a vast amount of molecules libraries to identify the structures that are most likely to show the target characteristics. \nIt is becoming a ground-breaking tool for molecular discovery due to the exponential",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/using-deepchem-with-amazon-sagemaker-for-virtual-screening/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-28T10:21:02-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/02/20/deepchem-sagemaker-5.gif",
-          "width": 500,
-          "height": 328,
-          "title": "Using DeepChem with Amazon SageMaker for virtual screening",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

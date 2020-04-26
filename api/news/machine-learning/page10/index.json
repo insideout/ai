@@ -2,51 +2,6 @@
   "page": 10,
   "value": [
     {
-      "path": "_news/2020-01-29-jetbrains-taps-machine-learning-for-full-line-code-completion.md",
-      "title": "JetBrains taps machine learning for full-line code completion",
-      "excerpt": "JetBrains has laid out a 2020 roadmap for IntelliJ IDEA and its IntelliJ-based IDEs. The promised new capabilities range from additional machine learning driven code completion to collaborative editing. The company said the additional machine learning based code completion capabilities would make better use of the context for ranking ...",
-      "heat": 104,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.infoworld.com/article/3518429/jetbrains-taps-machine-learning-for-full-line-code-completion.html",
-      "ampWebUrl": "https://www.infoworld.com/article/3518429/jetbrains-taps-machine-learning-for-full-line-code-completion.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3518429/jetbrains-taps-machine-learning-for-full-line-code-completion.amp.html",
-      "publishedDateTime": "2020-01-29T09:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.techhive.com/images/article/2014/10/artificial_intelligence_virtual_digital_identity_binary_stream_thinkstock-100528010-large.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": "JetBrains taps machine learning for full-line code completion",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2020-01-29-machine-learning-as-a-service-market-analysis-report-2019-2027-growing-cagr-354.md",
       "title": "Machine Learning As A Service Market Analysis (Report 2019-2027): Growing CAGR 35.4%",
       "excerpt": "The overall machine learning as a service market worldwide was valued at US$ 1,117.9 Mn in 2018 and is set to grow with a CAGR of 35.4% during the forecast period. Rapid technological advancements and the growing adoption of cloud-based technologies worldwide are primarily driven by the Machine Learning As A Service market.",
@@ -1278,6 +1233,46 @@
       "topics": [
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-01-16-dont-want-a-robot-stealing-your-job-take-a-course-on-ai-and-machine-learning.md",
+      "title": "Don't want a robot stealing your job? Take a course on AI and machine learning.",
+      "excerpt": "TL;DR: Jump into the world of AI with the Essential AI and Machine Learning Certification Training Bundle for $39.99, a 93% savings. From facial recognition to self-driving vehicles, machine learning is taking over modern life as we know it. It may not be the flying cars and world-dominating robots we envisioned 2020 would hold, but it's ...",
+      "heat": 121,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://mashable.com/shopping/jan-16-ai-and-machine-learning-training-bundle/",
+      "ampWebUrl": "https://mashable.com/shopping/jan-16-ai-and-machine-learning-training-bundle.amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/shopping/jan-16-ai-and-machine-learning-training-bundle.amp",
+      "publishedDateTime": "2020-01-16T11:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mondrian.mashable.com/2020%252F01%252F16%252Ff8%252Fd507fcc0136c43698089928d54f4e01c.9f182.jpg%252F1200x630.jpg?signature=OfjGlytH34ga9iy1BfOWSJ8VERQ=",
+          "width": 1200,
+          "height": 630,
+          "title": "Don't want a robot stealing your job? Take a course on AI and machine learning.",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI in Robotics",
+        "Google AI",
+        "Computer Vision"
       ]
     }
   ],

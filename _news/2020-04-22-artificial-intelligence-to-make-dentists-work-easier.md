@@ -33,19 +33,6 @@ related:
       - url: "https://www.news-medical.net/image.axd?picture=2019%2f5%2ffuturistic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
         width: 620
         height: 480
-  - title: "AI to make dentists' work easier"
-    excerpt: "In order to plan a dental implant operation and the implant size and position, dentists need to know the exact location of the mandibular canal, a canal located in both sides of the lower jaw that contains the alveolar nerve. The lower jaw is an anatomically complex structure and medical experts use X-ray and computer tomography (CT) models to ..."
-    publishedDateTime: 2020-04-21T13:24:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-04/au-atm042120.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 37
-    images:
-      - url: "https://eurekalert.org/multimedia/pub/web/229704_web.jpg"
-        width: 1440
-        height: 935
 
 secured: "y2vmb1yYHT/e9TFdoC/LKei+oZRyBwzxJ9jos80Bp+pABRomMXVHfRQx5eNdxvN3vpGEbXca64Xu+BPV0MTnqES14bkp4EnvwkHgSt9sb0XwIa0XveF/GRVpyOcibdfVTs5beNm1ZsnYim4vQbRC1sC5tgX1BaOR4J3R3rDCDj2G5Dms3NRXFQEN92SINwep5rhbcrg3Xjwgwi1vveDTYD5oP1rBwUP2Lfeezb1LAy7oeQZc0VqNhpk9NSF8wgc1N5x9tO/aeisXg/n591sY0pCm6JyEr8WzwTjM8CESx8/C9NvHspj3MEsIWsP5BZhi;WSx8zrkqVSktBWtfwW4Fyg=="
 ---

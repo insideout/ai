@@ -20,6 +20,6 @@ images:
     height: 400
     title: "Pentagon Needs Tools to Test the Limits of Its Artificial Intelligence Projects"
 
-secured: "FcAlJkdMJOFwaWn5XFq3UevTbUjMqesW1MJ9iz4M2sbrzN1Ez21/jVzphe3rfEHjde6Y4Av5+oMUIglOEKEhfAxP4kKOmel9eqLGnee2PBs60ROa0ZQcHSKlTqnhXl0f+Pi7mbAfYYuJ4x2eNVIKuo27Eosz++vOr0rHA6bI+TV0uBF6cwMlnwX/C7wQn0uIf2OPwsaOWE/DD1vwL+HT/Q8KFLXDFM1tEFO+4BQBfXTFC4qtfpCf4uO+SZ+BtY0q+IOXIziQ5UYHxeL1udHyX4d99r4TkidajVttFVYgIcTqZJGTmSLMFqTIn3PgMK4m;VOxceaor07ar0Fu66G917g=="
+secured: "daZUPlTB7FglQs+EJG5c0/zKmyggDBD5NVaFRDPlozas1x+FIVzqeZjJBRfti8uX46x6f90PCt/BRBRuKb9WNYrFG8pPDRQZQLlU8YpgpTStOkz78ieizWYzalF4Sa9JmXRN/1Y1DPQ7ClRXJp4FN5/5o0w6OwRF/qANoUSY7HGheIlWhpXSXCM/4n9IiodcANtrDoRKdLQliVVDmz7biBq818J2/skrOaRgfKfIIMOfZnPrXEU5VZ8zIVAF69Scb99Zwkv3V4w48E2DHBzwJYr+tSXkPThcEkPLbWx1w7X+euphkLaf/QPJlkerFJ4IJ3iLeeCl/YQTnzKdPklC3pqF7QqQh59pMLKoCCp0BKCLZ+gih2ophLPSaQ3fZ+kbhzl2c18KMyqLnfkbrnktdk972K7fjlJSrH5+0AZQGZI+vPhZ8DQYn6j/5VNgC4AswigqmCgRaOElCL4eQGVvh5Lnioe3l2kXE8Tn1vDk2Yw=;/8pZIX4bG1kY7NBz9Uze+Q=="
 ---
 

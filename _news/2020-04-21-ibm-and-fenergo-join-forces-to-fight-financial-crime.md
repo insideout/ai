@@ -18,21 +18,19 @@ topics:
   - AI
 
 related:
-  - title: "IBM Joins Forces With Fenergo to Tackle Financial Crime"
-    excerpt: "Ireland-based fintech Fenergo announced on Tuesday it has joined forces with IBM (NYSE: IBM)  to fight financial crime. The duo signed an original equipment manufacturing (OEM) agreement that will all"
-    publishedDateTime: 2020-04-21T13:14:00Z
-    webUrl: "https://www.crowdfundinsider.com/2020/04/160438-ibm-joins-forces-with-fenergo-to-fight-financial-crime/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2020/04/160438-ibm-joins-forces-with-fenergo-to-fight-financial-crime/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/04/160438-ibm-joins-forces-with-fenergo-to-fight-financial-crime/amp/"
+  - title: "IBM adds Fenergo OEM deal to fight financial crime"
+    excerpt: "... AI to fight financial crime Banks are increasing their use of AI to fight financial crime. It allows them to spot patterns across the vast amounts of data they hold and piece together often complex crimes. IBM has unsurprisingly, therefore, built its RegTech products on Watson. With Watson also available on IBM’s Z platform, it is an ..."
+    publishedDateTime: 2020-04-22T07:41:00Z
+    webUrl: "https://www.enterprisetimes.co.uk/2020/04/22/ibm-adds-fenergo-oem-deal-to-fight-financial-crime/"
     type: article
     provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 44
+      name: enterprisetimes.co.uk
+      domain: enterprisetimes.co.uk
+    quality: 24
     images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2018/11/Prison-Criminal-Crook-Crime-Jail-300x208.jpg"
-        width: 300
-        height: 208
+      - url: "https://www.enterprisetimes.co.uk/wp-content/uploads/2020/04/fbi-financial-crime.jpg"
+        width: 727
+        height: 410
 
 secured: "kU+YocU3DpsYEaADL1cNjJ4hDysrSK7tAj+R46QWfTFCfVHh4ybkJDVr7Ys1vnlKvaQmuFR0aWm6oI4+XRzgebWihV6pmlNuX191+JVRfEkY7J2b8B65i48tSBDTFkX8GtBcaqO/6d7LixR3q/7reeSFeMg3+4geaBIygqP/kW6kHfUhqq+gwGGRnkUL4jTKGCgOQbukcZbcCpD+DGMu85mmgLmglCzd/w/3qGLoS1lmT6ivzD/Pujptv1Q9LLWcFdhsM0UHocv1aiYwKV9CAhCX86+B9OM91TAZ14rzR1NbjVWJRtGZXPeDsfKCLuH3;MRZz72SMtPXIj2QrZDZdxg=="
 ---

@@ -2,6 +2,51 @@
   "page": 52,
   "value": [
     {
+      "path": "_news/2020-03-14-learn-the-basics-of-speech-recognition.md",
+      "title": "Learn the basics of speech recognition",
+      "excerpt": "In this article, you'll learn how to use the Speech SDK in your apps and products to perform high-quality speech recognition. Tip If you haven't had a chance to complete one of our quickstarts, we encourage you to kick the tires and try speech recognition out for yourself. To call the Speech service using the Speech SDK, you need to create a ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://docs.microsoft.com/en-us/azure/cognitive-services/speech-service/speech-to-text-basics",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-13T22:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png",
+          "width": 400,
+          "height": 400,
+          "title": "Learn the basics of speech recognition",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-14-artificial-intelligence-isnt-as-smart-as-it-thinks.md",
       "title": "Artificial intelligence isn’t as smart as it thinks",
       "excerpt": "artificial intelligence appears to be taking over the world. But look past the self-driving cars and facial-recognition cameras, and you'll see that the technology is a lot less intelligent than it may at first appear. It's likely to be decades, at best, before even the smartest forms of AI can outdo humans in the complex tasks that make up ...",
@@ -959,43 +1004,6 @@
           "width": 1284,
           "height": 632,
           "title": "Eigen and ING target financial industry with NLP-driven data extraction",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-13-riskalyze-fintech-report-card-february-2020.md",
-      "title": "Riskalyze Fintech Report Card: February 2020",
-      "excerpt": "What Happened: Andrew Altfest, president of a $1 billion RIA firm, launched new advisor technology at the T3 advisor conference this year. The new software promises to use AI to analyze a client’s existing situation and offer tailored recommendations. Why It Matters: It was only a couple of years ago that I was on record saying “in our ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wealthmanagement.com/technology/riskalyze-fintech-report-card-february-2020",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-13T06:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WealthManagement.com",
-        "domain": "wealthmanagement.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.wealthmanagement.com/sites/wealthmanagement.com/files/fintech-report-card-promo.jpg",
-          "width": 2000,
-          "height": 1040,
-          "title": "Riskalyze Fintech Report Card: February 2020",
           "attribution": null
         }
       ],

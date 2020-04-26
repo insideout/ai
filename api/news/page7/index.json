@@ -2,6 +2,35 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-04-19-have-1000-to-invest-buy-these-2-artificial-intelligence-stocks-now.md",
+      "title": "Have $1,000 to Invest? Buy These 2 Artificial Intelligence Stocks Now",
+      "excerpt": "Artificial intelligence (AI) -- the capability of a machine to mimic intelligent human behavior -- is a huge growth trend. The tech is being used to smarten up countless things la",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nasdaq.com/articles/have-%241000-to-invest-buy-these-2-artificial-intelligence-stocks-now-2020-04-19?time=1587323042",
+      "ampWebUrl": "https://www.nasdaq.com/articles/have-%241000-to-invest-buy-these-2-artificial-intelligence-stocks-now-2020-04-19?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/have-%241000-to-invest-buy-these-2-artificial-intelligence-stocks-now-2020-04-19?amp",
+      "publishedDateTime": "2020-04-19T13:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-19-this-doctor-from-kashmir-uses-machine-learning-to-crunch-coronavirus-data.md",
       "title": "This Doctor From Kashmir Uses Machine Learning To Crunch Coronavirus Data",
       "excerpt": "A young surgeon raised in Kashmir is now part of a team using big data and machine learning to help detect useful patterns in the tsunami of public health data generated world-wide by the COVID-19 crisis and do what he can for those back home.",
@@ -1032,43 +1061,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-17-mhn-asks-the-apartment-of-the-future.md",
-      "title": "MHN Asks … The Apartment of the Future",
-      "excerpt": "Technology will enhance the resident experience, increase efficiency in operations and improve design and decision-making using artificial intelligence ... such as driverless vehicles and air ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.multihousingnews.com/post/mhn-asks-the-apartment-of-the-future/",
-      "ampWebUrl": "https://www.multihousingnews.com/post/amp/mhn-asks-the-apartment-of-the-future/",
-      "cdnAmpWebUrl": "https://www-multihousingnews-com.cdn.ampproject.org/c/s/www.multihousingnews.com/post/amp/mhn-asks-the-apartment-of-the-future/",
-      "publishedDateTime": "2020-04-17T09:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Multi-Housing News",
-        "domain": "multihousingnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.atre.yardi.com/1/102694/images/Mark-McHenry.png?w=350&h=310",
-          "width": 350,
-          "height": 310,
-          "title": "MHN Asks … The Apartment of the Future",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

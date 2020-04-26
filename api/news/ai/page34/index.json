@@ -2,6 +2,51 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2020-03-23-smart-office-market-2016-technology-size-share-and-top-key-players-during-2022.md",
+      "title": "Smart Office Market 2016: Technology, Size, Share and Top Key Players During 2022",
+      "excerpt": "The world is moving at a rapid pace towards automation of labor. Artificial Intelligence and Internet of Things are",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/smart-office-market-2016-technology-size-share-and-top-key-players-during-2022-2020-03-23",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-23T05:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Smart Office Market 2016: Technology, Size, Share and Top Key Players During 2022",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-23-global-artificial-intelligence-ai-market-investments-vs-potential.md",
       "title": "Global Artificial Intelligence (AI) Market: Investments vs Potential",
       "excerpt": "NEW YORK, March 23, 2020 /PRNewswire/ --Report Scope:The scope of this report is broad and covers the global markets for artificial intelligence,",
@@ -1167,43 +1212,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-20-ex-uber-self-driving-head-anthony-levandowski-to-take-plea-deal-over-google-secrets.md",
-      "title": "Ex-Uber self-driving head Anthony Levandowski to take plea deal over Google secrets",
-      "excerpt": "SAN FRANCISCO — Engineer Anthony Levandowski, known for advancing self-driving car technology over the past decade, agreed to plead guilty on Thursday to taking sensitive documents from his former employer Google before joining rival Uber Technologies. Federal prosecutors agreed to recommend a prison term of no more than 30 months as part of ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.autoblog.com/2020/03/20/uber-anthony-levandowski-plea-deal-google-waymo/",
-      "ampWebUrl": "https://www.autoblog.com/amp/2020/03/20/uber-anthony-levandowski-plea-deal-google-waymo/",
-      "cdnAmpWebUrl": "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2020/03/20/uber-anthony-levandowski-plea-deal-google-waymo/",
-      "publishedDateTime": "2020-03-20T06:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Autoblog",
-        "domain": "autoblog.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims3/GLOB/crop/3000x1688+0+23/resize/800x450!/format/jpg/quality/85/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-images/2020-03/3ce655b0-6080-11ea-b7ba-5a1d52e002d7",
-          "width": 800,
-          "height": 450,
-          "title": "Ex-Uber self-driving head Anthony Levandowski to take plea deal over Google secrets",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

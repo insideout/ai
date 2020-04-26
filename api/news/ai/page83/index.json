@@ -2,6 +2,43 @@
   "page": 83,
   "value": [
     {
+      "path": "_news/2020-01-28-miso-robotics-puts-flippy-on-a-rail-for-new-kitchen-concept.md",
+      "title": "Miso Robotics puts Flippy on a rail for new kitchen concept",
+      "excerpt": "Miso Robotics ... team was also working with the AI algorithm to understand the differences in cooking times for different food types and adapt accordingly so orders and food can be ready at the same time. For example, if one “steak” is ordered medium, and one is ordered medium-well, the system knows to start the medium-well item first ...",
+      "heat": 109,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.therobotreport.com/miso-robotics-puts-flippy-on-a-rail-for-new-kitchen-concept/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-28T03:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2020/01/FlippyROAR_IMAGE.png",
+          "width": 1425,
+          "height": 887,
+          "title": "Miso Robotics puts Flippy on a rail for new kitchen concept",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-01-28-miso-robotics-unveils-its-next-gen-robot-kitchen-assistant.md",
       "title": "Miso Robotics unveils its next-gen robot kitchen assistant",
       "excerpt": "This might seem like cause for alarm, but Miso Robotics, a startup developing automation products for fast-food and quick-service ... On the software side, it benefits from improvements to Miso AI (Miso’s eponymous cloud-based platform) that expand the number of cookable food categories to over a dozen, including chicken tenders, chicken ...",
@@ -1240,51 +1277,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-27-privacy-business-critical-transparency-and-expert-ai-to-reshape-the-compliance-industry-in-2020.md",
-      "title": "Privacy, Business-Critical Transparency And Expert AI To Reshape The Compliance Industry In 2020",
-      "excerpt": "This year, businesses should make compliance a priority with the advent of new regulations and an industry emphasis on privacy.",
-      "heat": 76,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/27/privacy-business-critical-transparency-and-expert-ai-to-reshape-the-compliance-industry-in-2020/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/27/privacy-business-critical-transparency-and-expert-ai-to-reshape-the-compliance-industry-in-2020/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/27/privacy-business-critical-transparency-and-expert-ai-to-reshape-the-compliance-industry-in-2020/amp/",
-      "publishedDateTime": "2020-01-27T05:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/dam/imageserve/1063784754/960x0.jpg?fit=scale",
-          "width": 711,
-          "height": 474,
-          "title": "Privacy, Business-Critical Transparency And Expert AI To Reshape The Compliance Industry In 2020",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

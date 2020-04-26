@@ -2,6 +2,42 @@
   "page": 56,
   "value": [
     {
+      "path": "_news/2020-03-11-client-note-aon-acquires-willis-towers-watson-for-30b-nvidia-buys-an-ai-startup-ant-financial-invests-in-klarna-and-more.md",
+      "title": "Client Note: Aon Acquires Willis Towers Watson For $30B, Nvidia Buys An AI Startup, Ant Financial Invests In Klarna, And More",
+      "excerpt": "Also covered are Sequoia’s investment in a student loan company, an email encryption startup raises, and Grindr’s $600M+ sale. Want the full post? Become a CB Insights customer. If you’re already a customer, log in here.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cbinsights.com/research/aon-willis-towers-watson-nvidia-ai-ant-financial-klarna/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-11T08:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CB Insights",
+        "domain": "cbinsights.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s3.amazonaws.com/cbi-research-portal-uploads/2020/03/11105643/News-coverage_edge-computing_CN_03102020-572x364.png",
+          "width": 572,
+          "height": 364,
+          "title": "Client Note: Aon Acquires Willis Towers Watson For $30B, Nvidia Buys An AI Startup, Ant Financial Invests In Klarna, And More",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-11-cadence-tensilica-hifi-ip-accelerates-ai-deployment-with-support-for-tensorflow-lite-for-microcontrollers.md",
       "title": "Cadence Tensilica HiFi IP Accelerates AI Deployment with Support for TensorFlow Lite for Microcontrollers",
       "excerpt": "SAN JOSE, Calif.--(BUSINESS WIRE)--Cadence Design Systems, Inc. (Nasdaq: CDNS) today announced that software for Cadence ® Tensilica ® HiFi digital signal processors (DSPs) has been optimized to efficiently execute TensorFlow Lite for Microcontrollers, part of the TensorFlow end-to-end open-source platform for machine learning (ML ...",
@@ -937,43 +973,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-11-artificial-intelligence-ibms-watson-now-understands-idioms-after-sentiment-update.md",
-      "title": "Artificial intelligence: IBM's Watson now understands idioms after 'sentiment' update",
-      "excerpt": "Artificial intelligence researchers at IBM have introduced a major upgrade to the famed Watson computer, allowing it to understand idioms and colloquialisms for the first time. IBM says the update makes it the first commercial AI system capable of identifying, understanding and analysing some of the most challenging aspects of the English language.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.independent.co.uk/life-style/gadgets-and-tech/news/artificial-intelligence-ibm-watson-ai-language-idiom-a9391166.html",
-      "ampWebUrl": "https://www.independent.co.uk/life-style/gadgets-and-tech/news/artificial-intelligence-ibm-watson-ai-language-idiom-a9391166.html",
-      "cdnAmpWebUrl": "https://www-independent-co-uk.cdn.ampproject.org/c/s/www.independent.co.uk/life-style/gadgets-and-tech/news/artificial-intelligence-ibm-watson-ai-language-idiom-a9391166.html",
-      "publishedDateTime": "2020-03-11T00:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Independent",
-        "domain": "independent.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2020/03/10/16/artificial-intelligence-ibm-watson-ai.jpg",
-          "width": 928,
-          "height": 696,
-          "title": "Artificial intelligence: IBM's Watson now understands idioms after 'sentiment' update",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

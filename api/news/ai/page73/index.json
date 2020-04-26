@@ -2,6 +2,42 @@
   "page": 73,
   "value": [
     {
+      "path": "_news/2020-02-07-et-prime-introduces-market-first-subscribe-with-google-partnership.md",
+      "title": "ET Prime introduces market-first ‘subscribe with Google’ partnership",
+      "excerpt": "NEW DELHI: The Economic Times’ subscription-based premium ... the ability to seamlessly pay for subscriptions or read premium articles across a dedicated mobile app, web browser or search results. ET Prime has now become India’s first premium business news publisher to offer the ‘Subscribe with Google’ option that allows users to ...",
+      "heat": 142,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://timesofindia.indiatimes.com/business/india-business/et-prime-introduces-market-first-subscribe-with-google-partnership/articleshow/74013039.cms",
+      "ampWebUrl": "https://m.timesofindia.com/business/india-business/et-prime-introduces-market-first-subscribe-with-google-partnership/amp_articleshow/74013039.cms",
+      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/business/india-business/et-prime-introduces-market-first-subscribe-with-google-partnership/amp_articleshow/74013039.cms",
+      "publishedDateTime": "2020-02-07T09:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": "ET Prime introduces market-first ‘subscribe with Google’ partnership",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-02-07-software-that-swaps-out-words-can-now-fool-the-ai-behind-alexa-and-siri.md",
       "title": "Software that swaps out words can now fool the AI behind Alexa and Siri",
       "excerpt": "But the tweaks made an AI interpret the sentences completely differently. Why it matters: We have seen many examples of such adversarial attacks, most often with image recognition systems, where tiny alterations to the input can flummox an AI and make it misclassify what it sees. TextFooler shows that this style of attack also breaks NLP ...",
@@ -1206,42 +1242,6 @@
           "width": 1200,
           "height": 600,
           "title": "Amazon researchers distill knowledge from a large AI model to a simplified version",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-06-see-how-neural-networks-turned-a-film-from-1896-into-4k-and-added-color.md",
-      "title": "See How Neural Networks Turned a Film From 1896 Into 4K and Added Color",
-      "excerpt": "The film shows a train pulling into the ... www.youtube.com/watch?v=3RYNThid23g Shiryaev used Topaz Labs Gigapixel AI to upscale the original 4K, then used DAIN (Depth-Aware Video Frame Interpolation) to add additional frames to raise the rate to 60 fps. You can see a version that has been colorized by DeOldify Neural Network below.",
-      "heat": 122,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://fstoppers.com/science/see-how-neural-networks-turned-film-1896-4k-and-added-color-453086",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-06T09:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fstoppers",
-        "domain": "fstoppers.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.fstoppers.com/styles/large-16-9/s3/lead/2020/02/7a9eadc562688cadbf93598dd330a69f.jpg",
-          "width": 1184,
-          "height": 670,
-          "title": "See How Neural Networks Turned a Film From 1896 Into 4K and Added Color",
           "attribution": null
         }
       ],

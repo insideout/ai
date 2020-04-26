@@ -2,6 +2,35 @@
   "page": 46,
   "value": [
     {
+      "path": "_news/2020-03-12-ai-recruitment-start-up-talview-wins-the-best-ai-application-for-societal-impact-recognition-at-microsofts-ai-awards-20.md",
+      "title": "AI recruitment start-up Talview wins the \"Best AI Application for Societal Impact\" recognition at Microsoft's AI Awards 2.0",
+      "excerpt": "... partners and has built its Instahiring Experience platform using Microsoft Azure AI, machine learning and cognitive services. For corporate customers, Talview leverages the capabilities of ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://news.webindia123.com/news/Articles/Business/20200312/3519349.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-12T03:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Webindia 123",
+        "domain": "webindia123.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-12-smart-dubai-identifies-40-use-cases-from-10-different-sectors-for-artificial-intelligence.md",
       "title": "Smart Dubai identifies 40 use cases from 10 different sectors for artificial intelligence",
       "excerpt": "“The steps we are taking at the moment, having an AI Lab, developing use cases across the city, having AI ethics, principles and guidelines, having data exchange and dissemination process, Dubai Pulse feeding city data to the public and government organisations and looking at the potential of exchange of data between the private and public ...",
@@ -1136,43 +1165,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-11-synopsys-advances-state-of-the-art-in-electronic-design-with-revolutionary-artificial-intelligence-technology.md",
-      "title": "Synopsys Advances State-of-the-Art in Electronic Design with Revolutionary Artificial Intelligence Technology",
-      "excerpt": "/PRNewswire/ -- Highlights: Inspired by DeepMind's AlphaZero AI that mastered complex games like chess and Go, Synopsys' DSO.ai™ solution is able",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.prnewswire.com/news-releases/synopsys-advances-state-of-the-art-in-electronic-design-with-revolutionary-artificial-intelligence-technology-301021331.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-11T07:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg",
-          "width": 600,
-          "height": 315,
-          "title": "Synopsys Advances State-of-the-Art in Electronic Design with Revolutionary Artificial Intelligence Technology",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

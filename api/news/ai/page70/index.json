@@ -2,6 +2,43 @@
   "page": 70,
   "value": [
     {
+      "path": "_news/2020-02-10-facebook-acquires-computer-vision-startup-scape-technologies.md",
+      "title": "Facebook Acquires Computer Vision Startup Scape Technologies",
+      "excerpt": "Facebook quietly acquired London-based computer vision startup Scape Technologies, according to several regulatory filings with the U.K.’s Companies House. Scape said on its about page that it is building a cloud-based Vision Engine that allows camera devices to understand their environment, using computer vision. The company added ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.adweek.com/digital/facebook-acquires-computer-vision-startup-scape-technologies/",
+      "ampWebUrl": "https://www.adweek.com/digital/facebook-acquires-computer-vision-startup-scape-technologies/amp/",
+      "cdnAmpWebUrl": "https://www-adweek-com.cdn.ampproject.org/c/s/www.adweek.com/digital/facebook-acquires-computer-vision-startup-scape-technologies/amp/",
+      "publishedDateTime": "2020-02-10T14:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Adweek",
+        "domain": "adweek.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.adweek.com/wp-content/uploads/2020/02/uber-ooh-content-2020-640x360.jpg",
+          "width": 640,
+          "height": 360,
+          "title": "Facebook Acquires Computer Vision Startup Scape Technologies",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2020-02-10-white-houses-proposed-budget-would-increase-investments-in-ai-and-quantum-computing.md",
       "title": "White House’s proposed budget would increase investments in AI and quantum computing",
       "excerpt": "The White House’s proposed budget for fiscal year 2021 includes sizable increases in federal funding for AI and quantum computing projects. All told, the overall increase in federal R&D funding is 6% compared to fiscal year 2020, reaching $142.2 billion. Although much of the funding is aimed at R&D and infrastructure investments like $25 ...",
@@ -1272,43 +1309,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-02-10-facial-recognition-the-next-step-in-fight-against-rabies.md",
-      "title": "Facial recognition: the next step in fight against rabies",
-      "excerpt": "The research team, based out of Washington State University’s Paul G. Allen School for Global Animal Health, is working with PiP My Pet, a company that developed a mobile application that uses facial recognition to reunite lost pets with their owners. The only twist; rather than locate the lost, the company designed a new app to track which ...",
-      "heat": 94,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://scienceblog.com/514102/facial-recognition-the-next-step-in-fight-against-rabies/",
-      "ampWebUrl": "https://scienceblog.com/514102/facial-recognition-the-next-step-in-fight-against-rabies/amp/",
-      "cdnAmpWebUrl": "https://scienceblog-com.cdn.ampproject.org/c/s/scienceblog.com/514102/facial-recognition-the-next-step-in-fight-against-rabies/amp/",
-      "publishedDateTime": "2020-02-10T06:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ScienceBlog",
-        "domain": "scienceblog.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://scienceblog.com/wp-content/uploads/2020/02/Facial-recognition-the-next-step-in-fight-against-rabies.jpg",
-          "width": 792,
-          "height": 528,
-          "title": "Facial recognition: the next step in fight against rabies",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

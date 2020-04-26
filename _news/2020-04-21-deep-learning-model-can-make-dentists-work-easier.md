@@ -8,8 +8,8 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20200421/Deep-learning-model-c
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200421/Deep-learning-model-can-make-dentists-work-easier.aspx"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: News Medical
@@ -26,19 +26,6 @@ images:
     title: "Deep learning model can make dentists' work easier"
 
 related:
-  - title: "AI to make dentists' work easier"
-    excerpt: "In order to plan a dental implant operation and the implant size and position, dentists need to know the exact location of the mandibular canal, a canal located in both sides of the lower jaw that contains the alveolar nerve. The lower jaw is an anatomically complex structure and medical experts use X-ray and computer tomography (CT) models to ..."
-    publishedDateTime: 2020-04-21T13:24:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-04/au-atm042120.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 37
-    images:
-      - url: "https://eurekalert.org/multimedia/pub/web/229704_web.jpg"
-        width: 1440
-        height: 935
   - title: "Artificial Intelligence to make dentists' work easier"
     excerpt: "The model is based on training and using deep neural networks. The researchers trained the model by using a dataset consisting ... The model developed by the researchers at the Finnish Center for Artificial Intelligence FCAI, Tampere University Hospital, Planmeca and the Alan Turing Institute, is based on a fully convolutional architecture ..."
     publishedDateTime: 2020-04-22T10:26:00Z
