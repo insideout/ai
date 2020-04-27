@@ -32,7 +32,7 @@ related:
     provider:
       name: CXO Today
       domain: cxotoday.com
-    quality: 65
+    quality: 67
     images:
       - url: "https://www.cxotoday.com/wp-content/uploads/2020/02/Amazon-campus-hyderabad.jpg"
         width: 600

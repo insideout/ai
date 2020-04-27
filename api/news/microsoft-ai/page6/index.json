@@ -2,6 +2,51 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-02-26-better-buy-ibm-vs-google.md",
+      "title": "Better Buy: IBM vs. Google",
+      "excerpt": "The cloud and cognitive software unit houses various cloud ... which competes against larger platforms like Amazon (NASDAQ:AMZN) Web Services (AWS), Microsoft's (NASDAQ:MSFT) Azure, and Google Cloud. Its global business services unit offers IT and ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fool.com/investing/2020/02/26/better-buy-ibm-vs-google.aspx",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/02/26/better-buy-ibm-vs-google.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/02/26/better-buy-ibm-vs-google.aspx",
+      "publishedDateTime": "2020-02-26T07:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F559643%2Fgettyimages-1133081620.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 713,
+          "title": "Better Buy: IBM vs. Google",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-02-26-macadamian-to-host-ai-in-healthcare-webinar-with-microsoft-canadas-national-chief-data-scientist.md",
       "title": "Macadamian to host AI in Healthcare webinar with Microsoft Canada's National Chief Data Scientist",
       "excerpt": "GATINEAU, Quebec, Feb. 26, 2020 /PRNewswire/ -- Macadamian, a leading digital and connected healthcare software development consultancy, announced that it will host a webinar with Microsoft Canada titled AI in Healthcare: 5 Things Every Product Owner Should Know.",
@@ -1241,43 +1286,6 @@
           "attribution": null
         }
       ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-10-adobe-launches-experience-platform-out-of-azure-in-australia.md",
-      "title": "Adobe launches Experience Platform out of Azure in Australia",
-      "excerpt": "According to Adobe, the Microsoft Azure local data centre will enable Australia and New Zealand businesses to ... See also: Adobe's Experience Cloud now incorporates AI and machine learning (TechRepublic) Adobe has touted the new data centre as \"simplifying data governance\", by not only bringing data together from siloed applications ...",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/adobe-launches-experience-platform-out-of-azure-in-australia/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/adobe-launches-experience-platform-out-of-azure-in-australia/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/adobe-launches-experience-platform-out-of-azure-in-australia/",
-      "publishedDateTime": "2020-02-10T14:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
       "locale": "en-us",
       "categories": [
         "news"

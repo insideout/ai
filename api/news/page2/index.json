@@ -2,6 +2,176 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-04-24-amazon-a2i-is-now-generally-available.md",
+      "title": "Amazon A2I is now generally available",
+      "excerpt": "AWS is excited to announce the general availability of Amazon Augmented AI (Amazon A2I), a new service that makes it easy to implement human reviews of machine learning (ML) predictions at scale. Amazon A2I removes the undifferentiated heavy lifting associated with building and managing expensive and",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-a2i-is-now-generally-available/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-24T11:21:40-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/04/23/Product-Page-Diagram_Textract@2x.png",
+          "width": 1200,
+          "height": 485,
+          "title": "Amazon A2I is now generally available",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-24-false-claim-covid-19-stands-for-certification-of-vaccination-identification-by-artificial-intelligence.md",
+      "title": "False claim: COVID-19 stands for Certification of Vaccination Identification by Artificial Intelligence",
+      "excerpt": "Social media users have been sharing images online that claim that COVID-19 is an abbreviation for Certificate of Vaccination Identification by Artificial Intelligence (  , ​  and  ). The posts often include a black and white photograph of a soldier and two men while the soldier checks a document.",
+      "heat": 88,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/uk-factcheck-covid-name-abbreviation-idUSKCN2262AS",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKCN2262AS",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2262AS",
+      "publishedDateTime": "2020-04-24T08:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png",
+          "width": 1200,
+          "height": 630,
+          "title": "False claim: COVID-19 stands for Certification of Vaccination Identification by Artificial Intelligence",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-24-system-reduces-the-energy-needed-for-training-running-neural-networks.md",
+      "title": "System Reduces the Energy Needed for Training, Running Neural Networks",
+      "excerpt": "Although artificial intelligence has turned out to be a spotlight of some moral concerns, it also has some significant sustainability problems. MIT researchers have developed a new automated AI system with improved computational efficiency and a much smaller carbon footprint. The researchers’ system trains one large neural network comprising ...",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.azocleantech.com/news.aspx?newsID=27202",
+      "ampWebUrl": "https://www.azocleantech.com/amp/news.aspx?newsID=27202",
+      "cdnAmpWebUrl": "https://www-azocleantech-com.cdn.ampproject.org/c/s/www.azocleantech.com/amp/news.aspx?newsID=27202",
+      "publishedDateTime": "2020-04-24T08:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Clean Tech",
+        "domain": "azocleantech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.azocleantech.com/images/news/ImageForNews_27202_15877319223121634.png",
+          "width": 639,
+          "height": 426,
+          "title": "System Reduces the Energy Needed for Training, Running Neural Networks",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-24-this-ai-wrote-such-emo-lyrics-that-humans-thought-it-was-my-chemical-romance.md",
+      "title": "This AI wrote such emo lyrics that humans thought it was My Chemical Romance",
+      "excerpt": "If you think the songs in the charts sound like they were made by machines, you’re probably wrong — an AI’s lyrics would be better. That’s according to research by ticket site TickPick, which recently tested whether people prefer artificial or human songwriters. The system composed 100 songs in each genre, which the TickPick team ...",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/04/24/this-ai-wrote-such-emo-lyrics-that-humans-thought-it-was-my-chemical-romance/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/04/24/this-ai-wrote-such-emo-lyrics-that-humans-thought-it-was-my-chemical-romance/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/04/24/this-ai-wrote-such-emo-lyrics-that-humans-thought-it-was-my-chemical-romance/amp/",
+      "publishedDateTime": "2020-04-24T07:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/04/Untitled-design-11-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "This AI wrote such emo lyrics that humans thought it was My Chemical Romance",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-24-how-ai-can-improve-it-service-management-in-a-pandemic.md",
       "title": "How AI Can Improve IT Service Management In A Pandemic",
       "excerpt": "The bottom line is that the AI-based approach to modernizing ITSM shows the potential to lower IT costs, reduce errors, increase user satisfaction levels while improving response times and speed.",
@@ -914,169 +1084,6 @@
           "width": 489,
           "height": 392,
           "title": "Artificial Intelligence And Automation Top Focus For Venture Capitalists",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-23-otterais-newest-feature-offers-live-interactive-transcripts-of-your-zoom-meetings.md",
-      "title": "Otter.ai’s newest feature offers live, interactive transcripts of your Zoom meetings",
-      "excerpt": "Real-time voice transcription service Otter.ai is adding new functionality that will aid home school students and work-from-home employees alike. The company today is introducing an integration with Zoom in order to provide “Live Video Meeting Notes” — meaning, the ability to record and and view a live, interactive transcript directly ...",
-      "heat": 90,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/04/23/otter-ais-newest-feature-offers-live-interactive-transcripts-of-your-zoom-meetings/",
-      "ampWebUrl": "https://techcrunch.com/2020/04/23/otter-ais-newest-feature-offers-live-interactive-transcripts-of-your-zoom-meetings/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/23/otter-ais-newest-feature-offers-live-interactive-transcripts-of-your-zoom-meetings/amp/",
-      "publishedDateTime": "2020-04-23T08:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/04/otter-hero-screens-2.png?w=1024",
-          "width": 1024,
-          "height": 650,
-          "title": "Otter.ai’s newest feature offers live, interactive transcripts of your Zoom meetings",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-23-artificial-intelligence-can-take-banks-to-the-next-level.md",
-      "title": "Artificial intelligence can take banks to the next level",
-      "excerpt": "This struggle with customer service is ongoing for financial institutions. But it's an area in which artificial intelligence (AI), and its ability to work with unstructured data like voice and images, can help. \"There are two things that artificial intelligence does really well,\" said Ameek Singh, vice president of IBM's Watson applications and ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/artificial-intelligence-can-take-banks-to-the-next-level/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/artificial-intelligence-can-take-banks-to-the-next-level/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/artificial-intelligence-can-take-banks-to-the-next-level/",
-      "publishedDateTime": "2020-04-23T08:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr3.cbsistatic.com/hub/i/r/2020/04/23/e7141a30-003c-4e34-ad1d-6cc7c76daf90/resize/1200x/331adc6fa5179da2d9e9d3f835c07f81/woman-clerk-in-a-bank-flat-vector-vector-id483987118-1.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Artificial intelligence can take banks to the next level",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-23-omnipresence-launches-cxmnowio-for-life-sciences-in-the-microsoft-azure-marketplace.md",
-      "title": "Omnipresence Launches CXMnow.io for Life Sciences in the Microsoft Azure Marketplace",
-      "excerpt": "CXMnow.io in the Azure Marketplace today, an online store providing applications and services for use on Microsoft Azure. The customer experience management (CXM) technology allows life sciences organizations with certain well-defined business needs to sign up online for a built-for-purpose customer engagement capability to use in their commercial or medical operations.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://markets.businessinsider.com/news/stocks/omnipresence-launches-cxmnow-io-for-life-sciences-in-the-microsoft-azure-marketplace-1029123493",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/omnipresence-launches-cxmnow-io-for-life-sciences-in-the-microsoft-azure-marketplace-1029123493",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/omnipresence-launches-cxmnow-io-for-life-sciences-in-the-microsoft-azure-marketplace-1029123493",
-      "publishedDateTime": "2020-04-23T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-23-amp-robotics-hits-major-ai-driven-recycling-milestone.md",
-      "title": "AMP Robotics Hits Major AI-driven Recycling Milestone",
-      "excerpt": "AMP Robotics Corp. (“AMP”), a pioneer in artificial intelligence (AI) and robotics for the recycling industry, just announced that it has processed one billion recyclables over the last 12 months. The ‘one billion’ milestone means that AMP’s technology has specifically targeted and removed one billion individual recyclable items from ...",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.waste360.com/recycling/amp-robotics-hits-major-ai-driven-recycling-milestone",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-23T07:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Waste360",
-        "domain": "waste360.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.waste360.com/sites/waste360.com/files/Untitled%20design%2010_4.png",
-          "width": 1540,
-          "height": 800,
-          "title": "AMP Robotics Hits Major AI-driven Recycling Milestone",
           "attribution": null
         }
       ],

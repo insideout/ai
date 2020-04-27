@@ -2,10 +2,144 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-04-27-vw-admits-teslas-lead-in-software-and-self-driving-in-internal-leak.md",
+      "title": "VW admits Tesla’s lead in software and self-driving in internal leak",
+      "excerpt": "Volkswagen CEO Hebert Diess has admitted that Tesla has a significant lead when it comes to software and its use in its self-driving program, according to leaked internal communications. Tesla pioneered over-the-air software updates in the auto industry.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://electrek.co/2020/04/27/vw-admits-tesla-lead-software-leak-internal/",
+      "ampWebUrl": "https://electrek.co/2020/04/27/vw-admits-tesla-lead-software-leak-internal/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/04/27/vw-admits-tesla-lead-software-leak-internal/amp/",
+      "publishedDateTime": "2020-04-27T02:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://electrek.co/wp-content/uploads/sites/3/2020/03/Tesla-matrix-hero-post-e1583107083706.jpg?quality=82&strip=all&w=1000",
+          "width": 999,
+          "height": 499,
+          "title": "VW admits Tesla’s lead in software and self-driving in internal leak",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-27-qureai-deploys-ai-radiology-software-in-the-fight-against-covid-19.md",
+      "title": "Qure.ai Deploys AI Radiology Software In The Fight Against COVID-19",
+      "excerpt": "Qure.ai, a healthtech company specializing in artificial intelligence (AI), announced the deployment of its COVID-19 progression monitoring software at Bolton NHS Foundation Trust, part of the National Health Service (NHS) in the UK.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/jamessomauroo/2020/04/27/qureai-deploys-ai-radiology-software-in-the-fight-against-covid-19/",
+      "ampWebUrl": "https://www.forbes.com/sites/jamessomauroo/2020/04/27/qureai-deploys-ai-radiology-software-in-the-fight-against-covid-19/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jamessomauroo/2020/04/27/qureai-deploys-ai-radiology-software-in-the-fight-against-covid-19/amp/",
+      "publishedDateTime": "2020-04-27T01:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1132912601%2F0x0.jpg",
+          "width": 1200,
+          "height": 672,
+          "title": "Qure.ai Deploys AI Radiology Software In The Fight Against COVID-19",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-27-chinese-self-driving-truck-startup-inceptio-raises-100-mln-sources.md",
+      "title": "Chinese self-driving truck startup Inceptio raises $100 mln -sources",
+      "excerpt": "China's Inceptio Technology, a startup developing self-driving trucks, has raised $100 million in its latest funding round from logistics firm GLP, its key strategic investor G7 and other investors, two sources familiar with the matter told Reuters.",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/inceptio-autonomous-idUSL8N2C90CW",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL8N2C90CW",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL8N2C90CW",
+      "publishedDateTime": "2020-04-26T23:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Chinese self-driving truck startup Inceptio raises $100 mln -sources",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-27-aws-announces-general-availability-of-amazon-augmented-artificial-intelligence.md",
       "title": "AWS Announces General Availability of Amazon Augmented Artificial Intelligence",
       "excerpt": "Amazon A2I makes it easier for developers to build and manage workflows to validate machine learning predictions with human reviewers Today, Amazon Web Service",
-      "heat": 85,
+      "heat": 87,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.cxotoday.com/press-release/aws-announces-general-availability-of-amazon-augmented-artificial-intelligence/",
@@ -35,7 +169,8 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
+        "AI",
+        "AI in Healthcare"
       ]
     },
     {
@@ -125,6 +260,50 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-26-uk-spies-will-need-artificial-intelligence-rusi-report.md",
+      "title": "UK spies will need artificial intelligence - Rusi report",
+      "excerpt": "UK spies will need to use artificial intelligence (AI) to counter a range of threats, an intelligence report says. Adversaries are likely to use the technology for attacks in cyberspace and on the political system,",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.bbc.com/news/technology-52415775",
+      "ampWebUrl": "https://www.bbc.co.uk/news/amp/technology-52415775",
+      "cdnAmpWebUrl": "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/technology-52415775",
+      "publishedDateTime": "2020-04-26T16:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/12356/production/_111928547_gettyimages-881638976.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": "UK spies will need artificial intelligence - Rusi report",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
@@ -903,176 +1082,6 @@
         "IBM AI",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-04-24-amazon-a2i-is-now-generally-available.md",
-      "title": "Amazon A2I is now generally available",
-      "excerpt": "AWS is excited to announce the general availability of Amazon Augmented AI (Amazon A2I), a new service that makes it easy to implement human reviews of machine learning (ML) predictions at scale. Amazon A2I removes the undifferentiated heavy lifting associated with building and managing expensive and",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-a2i-is-now-generally-available/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-24T11:21:40-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/04/23/Product-Page-Diagram_Textract@2x.png",
-          "width": 1200,
-          "height": 485,
-          "title": "Amazon A2I is now generally available",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-24-false-claim-covid-19-stands-for-certification-of-vaccination-identification-by-artificial-intelligence.md",
-      "title": "False claim: COVID-19 stands for Certification of Vaccination Identification by Artificial Intelligence",
-      "excerpt": "Social media users have been sharing images online that claim that COVID-19 is an abbreviation for Certificate of Vaccination Identification by Artificial Intelligence (  , ​  and  ). The posts often include a black and white photograph of a soldier and two men while the soldier checks a document.",
-      "heat": 88,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.reuters.com/article/uk-factcheck-covid-name-abbreviation-idUSKCN2262AS",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKCN2262AS",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2262AS",
-      "publishedDateTime": "2020-04-24T08:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png",
-          "width": 1200,
-          "height": 630,
-          "title": "False claim: COVID-19 stands for Certification of Vaccination Identification by Artificial Intelligence",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-24-system-reduces-the-energy-needed-for-training-running-neural-networks.md",
-      "title": "System Reduces the Energy Needed for Training, Running Neural Networks",
-      "excerpt": "Although artificial intelligence has turned out to be a spotlight of some moral concerns, it also has some significant sustainability problems. MIT researchers have developed a new automated AI system with improved computational efficiency and a much smaller carbon footprint. The researchers’ system trains one large neural network comprising ...",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.azocleantech.com/news.aspx?newsID=27202",
-      "ampWebUrl": "https://www.azocleantech.com/amp/news.aspx?newsID=27202",
-      "cdnAmpWebUrl": "https://www-azocleantech-com.cdn.ampproject.org/c/s/www.azocleantech.com/amp/news.aspx?newsID=27202",
-      "publishedDateTime": "2020-04-24T08:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Clean Tech",
-        "domain": "azocleantech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.azocleantech.com/images/news/ImageForNews_27202_15877319223121634.png",
-          "width": 639,
-          "height": 426,
-          "title": "System Reduces the Energy Needed for Training, Running Neural Networks",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-24-this-ai-wrote-such-emo-lyrics-that-humans-thought-it-was-my-chemical-romance.md",
-      "title": "This AI wrote such emo lyrics that humans thought it was My Chemical Romance",
-      "excerpt": "If you think the songs in the charts sound like they were made by machines, you’re probably wrong — an AI’s lyrics would be better. That’s according to research by ticket site TickPick, which recently tested whether people prefer artificial or human songwriters. The system composed 100 songs in each genre, which the TickPick team ...",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/04/24/this-ai-wrote-such-emo-lyrics-that-humans-thought-it-was-my-chemical-romance/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/04/24/this-ai-wrote-such-emo-lyrics-that-humans-thought-it-was-my-chemical-romance/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/04/24/this-ai-wrote-such-emo-lyrics-that-humans-thought-it-was-my-chemical-romance/amp/",
-      "publishedDateTime": "2020-04-24T07:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/04/Untitled-design-11-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "This AI wrote such emo lyrics that humans thought it was My Chemical Romance",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

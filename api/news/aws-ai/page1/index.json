@@ -5,7 +5,7 @@
       "path": "_news/2020-04-27-aws-announces-general-availability-of-amazon-augmented-artificial-intelligence.md",
       "title": "AWS Announces General Availability of Amazon Augmented Artificial Intelligence",
       "excerpt": "Amazon A2I makes it easier for developers to build and manage workflows to validate machine learning predictions with human reviewers Today, Amazon Web Service",
-      "heat": 85,
+      "heat": 87,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.cxotoday.com/press-release/aws-announces-general-availability-of-amazon-augmented-artificial-intelligence/",
@@ -35,7 +35,8 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
+        "AI",
+        "AI in Healthcare"
       ]
     },
     {

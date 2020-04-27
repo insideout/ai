@@ -28,6 +28,6 @@ images:
     height: 630
     title: "False claim: COVID-19 stands for Certification of Vaccination Identification by Artificial Intelligence"
 
-secured: "axu0up6xKhU4OFYkn0kC39HEdQnK1HlpqASuOdrKiKI8jvEa9DCSk/UrHTHm7KVxHN63ODgOgq7PL8+4+fbhtISyIrvmJtnhiCASGBoXcBdzrmnqkovECdhpDqkyqhxEAc5hx8jKQppkcILHc+YXbIHr2LnFQARgGhDMOicrV2jeG4QiTvw4+l96DN9NFhJGxLbJtPET/4REMoEO3uuiSAEVAi07p42zF6eBRhOnJwU8CUBE/AvEZXjAPprU2Qy4lPEUeDF2z+Xs32iwNIw6O5aSY0CrfI34/eA4AYNmr7AAb8iy0wQQtstEo2p3t49h;rLyOnHuMIPXfOW7nUM5reA=="
+secured: "icuNzkWyPbhVZjXw5RWUxK1GHH4MG6WqcRw1Q9F6siHwCEJXtwHjpRXQ0dUGg5OKo43bcrSI4PpXXGCSPH3kB3V6U5Idaz5Tq2oFxH458Cbof+EqMXa8TCXLUpEagF1JViSSEgzJqNnxMGVgnq04l20gSVNZ+DJpTlHn3vEvsNeEx5iLw6ZGLqi/OH6utpOppV2tTKv48M/qYTgQJxmy2xXNgXqeMi20daqxurYIs3eWANt4FKH/TctftbRDwwsJjEPeG5RX5ZYWjGSV5SsPtKFYPr+rko5+WTcJ61exvQ9/MMRV9EsOViviDwQQ8aqf;AnHB1I3pNfUDg7N8Oi/jBw=="
 ---
 

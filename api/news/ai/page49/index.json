@@ -2,6 +2,244 @@
   "page": 49,
   "value": [
     {
+      "path": "_news/2020-03-10-toradex-collaborates-with-amazon-web-services-and-nxp-to-release-apalis-ai-vision-starter-kit-for-the-imx-8-applications-processor.md",
+      "title": "Toradex Collaborates with Amazon Web Services and NXP to Release Apalis AI Vision Starter Kit for the i.MX 8 Applications Processor",
+      "excerpt": "The cloud stack is deployed directly from the device in just a few steps via AWS CloudFormation as a dedicated AWS instance. AWS enabled the NXP i.MX 8 applications processor as a target for Amazon SageMaker Neo. Amazon SageMaker Neo allows developers to optimize a ML model for a certain device. Lastly, a trained and optimized model is included ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.embedded-computing.com/news/toradex-collaborates-with-amazon-web-services-and-nxp-to-release-apalis-ai-vision-starter-kit-for-the-i-mx-8-applications-processor",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-10T11:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Embedded Computing Design",
+        "domain": "embedded-computing.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "http://share.opsy.st/5e67d3c91f0cd-76219803_toradex_aws_nxp.jpg",
+          "width": 5000,
+          "height": 1934,
+          "title": "Toradex Collaborates with Amazon Web Services and NXP to Release Apalis AI Vision Starter Kit for the i.MX 8 Applications Processor",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-10-the-new-privacy-rules-why-its-time-to-talk-ethics-in-an-ai-age.md",
+      "title": "The new privacy rules: Why it’s time to talk ethics in an AI age",
+      "excerpt": "AI was so transformative because of the huge amount of data it was able to process at speed, changing and shaping everything we do. She continued: “The reason why we’re talking so much about ethics in AI is over the last few years we have seen the best of technology – but also the worst.” AI was already being used to detect cancer and ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.research-live.com/article/news/the-new-privacy-rules-why-its-time-to-talk-ethics-in-an-ai-age/id/5066342",
+      "ampWebUrl": "https://www.research-live.com/amp-page.html?id=5066342&name=the-new-privacy-rules-why-its-time-to-talk-ethics-in-an-ai-age",
+      "cdnAmpWebUrl": "https://www-research--live-com.cdn.ampproject.org/c/s/www.research-live.com/amp-page.html?id=5066342&name=the-new-privacy-rules-why-its-time-to-talk-ethics-in-an-ai-age",
+      "publishedDateTime": "2020-03-10T11:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "research",
+        "domain": "research-live.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.research-live.com/img/MRS_EM_RGB.jpg",
+          "width": 1000,
+          "height": 581,
+          "title": "The new privacy rules: Why it’s time to talk ethics in an AI age",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-10-agriculture-cameras-tire-changes-and-drive-throughs-here-are-our-robotics-pitch-off-winners.md",
+      "title": "Agriculture, cameras, tire changes and drive-throughs: Here are our robotics pitch-off winners",
+      "excerpt": "We tried something new at last week’s TC Sessions: Robotics + AI. For the first time ever, we incorporated a pitch-off into the event. With a site as embedded in the startup world, it made sense to find a way to give some stage time to some early-stage startups. On Monday night, I was joined by Aaron Jacobson (NEA), Jennifer Roberts (Grit ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/03/10/agriculture-cameras-tire-changes-and-drive-throughs-here-are-our-robotics-pitch-off-winners/",
+      "ampWebUrl": "https://techcrunch.com/2020/03/10/agriculture-cameras-tire-changes-and-drive-throughs-here-are-our-robotics-pitch-off-winners/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/03/10/agriculture-cameras-tire-changes-and-drive-throughs-here-are-our-robotics-pitch-off-winners/amp/",
+      "publishedDateTime": "2020-03-10T10:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/03/49615823798_a99646b439_c.jpg",
+          "width": 799,
+          "height": 533,
+          "title": "Agriculture, cameras, tire changes and drive-throughs: Here are our robotics pitch-off winners",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-10-microsoft-and-cisco-team-up-to-integrate-cloud-and-iot-platforms.md",
+      "title": "Microsoft and Cisco team up to integrate cloud and IoT platforms",
+      "excerpt": "Microsoft has announced a partnership with Cisco to integrate its Azure cloud ... It is focusing on offering customers a fully integrated solution that gives access to powerful design tools, advance analytics, global connectivity and cognitive services for analysing IoT data. In November 2019, Cisco made an unspecified investment on Titan ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.iottechnews.com/news/2020/mar/10/microsoft-and-cisco-team-integrate-cloud-and-iot-platforms/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-10T10:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "iottechnews.com",
+        "domain": "iottechnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.iottechnews.com/media/img/news/iStock-1184908397.jpg.600x600_q96.png",
+          "width": 600,
+          "height": 440,
+          "title": "Microsoft and Cisco team up to integrate cloud and IoT platforms",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-10-neural-networks-are-now-being-used-to-track-exotic-particles-at-cern.md",
+      "title": "Neural networks are now being used to track exotic particles at CERN",
+      "excerpt": "Research within the domain of physics has profited from the rise of artificial neural networks and deep learning. In the past, we've seen them being applied to study dark matter and massive galaxies. Continuing this pattern, we now have artificial neural networks being used in the study of exotic particles. At the Compact Muon Solenoid (CMS ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.neowin.net/news/neural-networks-are-now-being-used-to-track-exotic-particles-at-cern",
+      "ampWebUrl": "https://www.neowin.net/amp/neural-networks-are-now-being-used-to-track-exotic-particles-at-cern/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/neural-networks-are-now-being-used-to-track-exotic-particles-at-cern/",
+      "publishedDateTime": "2020-03-10T09:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2017/05/1494180366_lhc_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": "Neural networks are now being used to track exotic particles at CERN",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-10-genomic-computation-platform-launches-on-microsoft-azure.md",
+      "title": "Genomic computation platform launches on Microsoft Azure",
+      "excerpt": "The application is available on Amazon and Google Cloud, and it will now be made available for purchase on the Microsoft Azure platform, an online marketplace created by Microsoft for buying and selling of software services. EPAM Cloud Pipeline will be open-source, and will utilize machine learning capabilities, allowing scientists to build and ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.outsourcing-pharma.com/Article/2020/03/10/EPAM-launches-its-service-on-Microsoft-Azure",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-10T09:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Outsourcing-pharma",
+        "domain": "outsourcing-pharma.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn-a.william-reed.com/var/wrbm_gb_food_pharma/storage/images/publications/pharmaceutical-science/outsourcing-pharma.com/headlines/clinical-development/epam-launches-its-service-on-microsoft-azure/10792245-1-eng-GB/EPAM-launches-its-service-on-Microsoft-Azure.jpg",
+          "width": 748,
+          "height": 467,
+          "title": "Genomic computation platform launches on Microsoft Azure",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-10-superwiseai-secures-45m-in-seed-funding-to-accelerate-the-adoption-of-its-ai-assurance-platform.md",
       "title": "Superwise.ai Secures $4.5M in Seed Funding to Accelerate the Adoption of Its AI Assurance Platform",
       "excerpt": "Google AI Platform, Azure Machine Learning, Kubeflow, H20.ai and custom-built platforms. According to Gartner’s report, Help the Board Deal With Automated Decisions at Digital Speed (G00433877), “In digital businesses, many operational decisions are ...",
@@ -893,221 +1131,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-10-concerns-raised-after-facial-recognition-software-found-to-have-racial-bias.md",
-      "title": "Concerns raised after facial recognition software found to have racial bias",
-      "excerpt": "One of the cops surreptitiously snapped a cellphone photo of the man and sent it to a crime analyst, who ran the photo through facial recognition software. The facial recognition algorithm ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.thestar.com/news/gta/2020/03/10/concerns-raised-after-facial-recognition-software-found-to-have-racial-bias.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-10T02:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Star",
-        "domain": "thestar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.thestar.com/4JWXKVT5I2IpefurhPWg37bIpGk=/1200x800/smart/filters:cb(1583942249743)/https://www.thestar.com/content/dam/thestar/news/gta/2020/03/10/concerns-raised-after-facial-recognition-software-found-to-have-racial-bias/toni_morgan3.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "Concerns raised after facial recognition software found to have racial bias",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-10-looking-at-how-ai-can-improve-computer-vision.md",
-      "title": "Looking at How AI Can Improve Computer Vision",
-      "excerpt": "And doing so in a manner that provides noticeable improvements in productivity, efficiency and capability. The ability to blend artificial intelligence into the computer vision process could be a prime example. I recently had the opportunity to connect with Johann Beukes, vice-president of data science and analytics at Levatas to hear his insights.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.industryweek.com/technology-and-iiot/article/21125741/looking-at-how-ai-can-improve-computer-vision",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-10T02:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IndustryWeek",
-        "domain": "industryweek.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-10-top-7-baselines-for-image-recognition.md",
-      "title": "Top 7 Baselines For Image Recognition",
-      "excerpt": "SVHN is obtained from house numbers in Google Street View images. SVHN was introduced to develop machine learning and object recognition algorithms with a minimal requirement on data preprocessing and formatting. In this paper, a simple procedure called AutoAugment is defined to automatically search for improved data augmentation policies.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://analyticsindiamag.com/image-classification-models-benchmark-state-of-the-art/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-10T00:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://analyticsindiamag.com/wp-content/uploads/2020/03/imrec.png",
-          "width": 667,
-          "height": 500,
-          "title": "Top 7 Baselines For Image Recognition",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-10-ai-recruitment-start-up-recognised-at-microsofts-ai-awards-20.md",
-      "title": "AI recruitment start-up recognised at Microsoft’s AI Awards 2.0",
-      "excerpt": "Talview helps its clients with digital hiring process by leveraging the capabilities of Microsoft Azure to automate talent screening, video interviews, and securely proctor cognitive assessments for hiring decisions ... need to be a goal for employers in Singapore in 2018. The services sector is attracting top talent as China's economy shifts ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://hrmasia.com/talview-named-best-ai-application-for-societal-impact-at-microsofts-ai-awards-2-0/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-10T00:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "hrmasia.com",
-        "domain": "hrmasia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://hrmasia.com/wp-content/uploads/2019/12/81473998_m.jpg",
-          "width": 2508,
-          "height": 1672,
-          "title": "AI recruitment start-up recognised at Microsoft’s AI Awards 2.0",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-10-aci-worldwide-launches-advanced-machine-learning-capability-to-dramatically-reduce-payment-fraud-for-banks-and-merchants-and-their-customers.md",
-      "title": "ACI Worldwide Launches Advanced Machine Learning Capability to Dramatically Reduce Payment Fraud for Banks and Merchants and Their Customers",
-      "excerpt": "“Traditional machine learning models in many cases are not sufficient to stop fraudsters in their ... “We are the first vendor globally to roll out the new Incremental Learning technology across the merchants, payments and financial services sectors,” commented Fabian Gloerfeld, head of Payments Intelligence, ACI Worldwide.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businesswire.com/news/home/20200309005518/en/ACI-Worldwide-Launches-Advanced-Machine-Learning-Capability",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-09T23:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20200309005518/en/408535/23/ACI_logo.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": "ACI Worldwide Launches Advanced Machine Learning Capability to Dramatically Reduce Payment Fraud for Banks and Merchants and Their Customers",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-10-ai-education-and-ethics-who-should-profit-from-learning.md",
-      "title": "AI, education and ethics: who should profit from learning?",
-      "excerpt": "“AI will be introduced into classrooms, introduced into education ... “It is challenging to implement this,” Mr Minevich adds. “It comes down to privacy and ethics.” According to Mr Riese of Up Learn, constant data collection would represent an improvement on the current means of assessing students, by drawing on hundreds of hours ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.ft.com/content/8d79405c-02ba-11e9-bf0f-53b8511afd73",
-      "ampWebUrl": "https://amp.ft.com/content/8d79405c-02ba-11e9-bf0f-53b8511afd73",
-      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/8d79405c-02ba-11e9-bf0f-53b8511afd73",
-      "publishedDateTime": "2020-03-09T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Times",
-        "domain": "ft.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2Fb20e8b5e-5ef6-11ea-ac5e-df00963c20e6?source=google-amp&fit=scale-down&width=500",
-          "width": 500,
-          "height": 281,
-          "title": "AI, education and ethics: who should profit from learning?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

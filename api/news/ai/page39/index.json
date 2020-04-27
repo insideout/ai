@@ -2,6 +2,236 @@
   "page": 39,
   "value": [
     {
+      "path": "_news/2020-03-18-lanner-teams-with-gorilla-technology-to-launch-secure-edge-ai-appliance.md",
+      "title": "Lanner Teams with Gorilla Technology to Launch Secure Edge AI Appliance",
+      "excerpt": "/PRNewswire/ -- Lanner Electronics, a world leader in design and manufacturing of intelligent edge appliances, announced partnering with Gorilla",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.prnewswire.com/news-releases/lanner-teams-with-gorilla-technology-to-launch-secure-edge-ai-appliance-301025613.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-18T05:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1134798/Lanner_Gorilla_Edge_AI.jpg?p=facebook",
+          "width": 1265,
+          "height": 664,
+          "title": "Lanner Teams with Gorilla Technology to Launch Secure Edge AI Appliance",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-18-heres-what-facebooks-internal-facial-recognition-app-looked-like.md",
+      "title": "Here's What Facebook's Internal Facial Recognition App Looked Like",
+      "excerpt": "Facebook developed an internal facial recognition app that allowed users to scan peoples' faces and identify them. Images obtained by Motherboard now show what that app looked like. Business Insider first reported the existence of Facebook's facial recognition app in November last year. The app, made between 2015 and 2016, was available to ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.vice.com/en_us/article/k7ekmv/facebook-facial-recognition-app",
+      "ampWebUrl": "https://www.vice.com/amp/en_us/article/k7ekmv/facebook-facial-recognition-app",
+      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_us/article/k7ekmv/facebook-facial-recognition-app",
+      "publishedDateTime": "2020-03-18T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VICE",
+        "domain": "vice.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/vice.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://video-images.vice.com/test-uploads/articles/5e6fb419fce7bf009dc0fe79/lede/1584379361591-facebook-app-logo.jpeg?crop=1xw:0.8432xh;0xw,0xh",
+          "width": 2000,
+          "height": 1123,
+          "title": "Here's What Facebook's Internal Facial Recognition App Looked Like",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-18-axon-announces-new-svp-of-artificial-intelligence.md",
+      "title": "Axon Announces New SVP of Artificial Intelligence",
+      "excerpt": "/PRNewswire/ -- Axon (Nasdaq: AAXN), the global leader in connected public safety technologies, today announced the addition of Yasser Ibrahim as Axon's SVP",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.prnewswire.com/news-releases/axon-announces-new-svp-of-artificial-intelligence-301025902.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-18T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1135083/Yasser_Ibrahim.jpg?p=facebook",
+          "width": 5157,
+          "height": 2699,
+          "title": "Axon Announces New SVP of Artificial Intelligence",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-18-deep-learning-market-size-record-booming-511-cagr-by-2020-to-2026.md",
+      "title": "Deep Learning Market Size Record Booming 51.1% CAGR by 2020 to 2026",
+      "excerpt": "The global Deep Learning market is analyzed to grow at a CAGR of around 51.1% during the forecast period and projected to reach the market value over US$ 56,427.2 Mn in 2027. The study provides an extensive market evaluation and includes thorough ideas,",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-size-record-booming-511-cagr-by-2020-to-2026-2020-03-18",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-18T04:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Deep Learning Market Size Record Booming 51.1% CAGR by 2020 to 2026",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-18-attendance-via-facial-recognition-with-temperature-screening-now-available-in-india.md",
+      "title": "Attendance Via Facial Recognition With Temperature Screening Now Available in India",
+      "excerpt": "Ramco Systems unveils advanced facial attendance system embedded with temperature recording. Chennai: Enterprise software company Ramco Systems on Wednesday unveils an advanced facial attendance system embedded with temperature recording which will help organisations improve employees’ safety right at the entrance door. Called RamcoGEEK ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.india.com/technology/attendance-via-facial-recognition-with-temperature-screening-now-available-in-india-3973949/",
+      "ampWebUrl": "https://www.india.com/technology/attendance-via-facial-recognition-with-temperature-screening-now-available-in-india-3973949/amp/",
+      "cdnAmpWebUrl": "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/technology/attendance-via-facial-recognition-with-temperature-screening-now-available-in-india-3973949/amp/",
+      "publishedDateTime": "2020-03-18T04:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India.com",
+        "domain": "india.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s3.india.com/wp-content/uploads/2020/03/b1142c3c810f8aa113112dc5c17841d8.jpg",
+          "width": 700,
+          "height": 415,
+          "title": "Attendance Via Facial Recognition With Temperature Screening Now Available in India",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-18-here-to-help-formations-comes-out-of-stealth-to-help-full-time-self-employed-maximize-their-financial-gains.md",
+      "title": "Here to Help: Formations Comes Out of Stealth to Help Full-Time Self-Employed Maximize Their Financial Gains",
+      "excerpt": "The Kirkland-Based Fintech Startup Embraces the Latest Cloud-Accounting Technology, Big Data and Machine Learning to Detect Patterns and Find Opportunities for Smarter Financial Decisions That Can Add Up to $20,",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/03/b15578143/here-to-help-formations-comes-out-of-stealth-to-help-full-time-self-employed-maximize-their-financ",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/15578143",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15578143",
+      "publishedDateTime": "2020-03-18T04:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-18-deepgram-raises-12-million-to-train-custom-speech-recognition-models-for-businesses.md",
       "title": "Deepgram raises $12 million to train custom speech recognition models for businesses",
       "excerpt": "Deepgram, a Y Combinator graduate building tailored speech recognition models, today announced it has raised $12 million in series A financing. CEO and cofounder Scott Stephenson says the proceeds will bolster the development of Deepgram’s platform, which helps enterprises to process meeting, call, and presentation recordings. If all goes ...",
@@ -912,244 +1142,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-all-the-companies-from-y-combinators-w20-demo-day-part-iii-hardware-robots-ai-and-developer-tools.md",
-      "title": "All the companies from Y Combinator’s W20 Demo Day, Part III: Hardware, Robots, AI and Developer Tools",
-      "excerpt": "These are the companies that are working on hardware, robotics, AI, machine learning or tools for developers ... Morphle: Designed to replace outdated analog microscopes, Morphle’s system uses robotic automation to improve imaging. The startup processes higher-resolution images than far pricier systems and with a much smaller failure rate.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/03/17/all-the-companies-from-y-combinators-w20-demo-day-part-iii-hardware-robots-ai-and-developer-tools/",
-      "ampWebUrl": "https://techcrunch.com/2020/03/17/all-the-companies-from-y-combinators-w20-demo-day-part-iii-hardware-robots-ai-and-developer-tools/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/03/17/all-the-companies-from-y-combinators-w20-demo-day-part-iii-hardware-robots-ai-and-developer-tools/amp/",
-      "publishedDateTime": "2020-03-17T12:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/03/agnoris.png?w=680",
-          "width": 680,
-          "height": 412,
-          "title": "All the companies from Y Combinator’s W20 Demo Day, Part III: Hardware, Robots, AI and Developer Tools",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-all-the-companies-from-y-combinators-w20-demo-day-part-iv-healthcare-biotech-fintech-and-nonprofits.md",
-      "title": "All the companies from Y Combinator’s W20 Demo Day, Part IV: Healthcare, Biotech, Fintech and Nonprofits",
-      "excerpt": "Menten AI: Menten AI says it’s using “quantum computing and machine learning” combined ... Fondeadora: Fondeadora is joining Mexico’s saturated fintech scene, with its alternative neobanking debit card. The company offers a fully mobile digital savings account run within its app. Fondeadora says it has 65,000 users and $6.5 million ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/03/17/all-the-companies-from-y-combinators-w20-demo-day-part-iv-healthcare-biotech-fintech-and-nonprofits/",
-      "ampWebUrl": "https://techcrunch.com/2020/03/17/all-the-companies-from-y-combinators-w20-demo-day-part-iv-healthcare-biotech-fintech-and-nonprofits/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/03/17/all-the-companies-from-y-combinators-w20-demo-day-part-iv-healthcare-biotech-fintech-and-nonprofits/amp/",
-      "publishedDateTime": "2020-03-17T12:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/03/newmans.png?w=680",
-          "width": 680,
-          "height": 365,
-          "title": "All the companies from Y Combinator’s W20 Demo Day, Part IV: Healthcare, Biotech, Fintech and Nonprofits",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-artificial-intelligence-helps-prevent-disruptions-in-fusion-devices.md",
-      "title": "Artificial intelligence helps prevent disruptions in fusion devices",
-      "excerpt": "An international team of scientists led by a graduate student at the U.S. Department of Energy's (DOE) Princeton Plasma Physics Laboratory (PPPL) has demonstrated the use of Artificial Intelligence (AI), the same computing concept that will empower self-driving cars, to predict and avoid disruptions -- the sudden release of energy stored in the ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.eurekalert.org/pub_releases/2020-03/dppl-aih031720.php",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-17T12:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.eurekalert.org/multimedia/pub/web/227200_web.jpg",
-          "width": 1440,
-          "height": 523,
-          "title": "Artificial intelligence helps prevent disruptions in fusion devices",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-the-army-will-soon-be-able-to-command-robot-tanks-with-artificial-intelligence.md",
-      "title": "The Army Will Soon Be Able to Command Robot Tanks With Artificial Intelligence",
-      "excerpt": "Smaller robots such as IED-clearing PackBots have been in existence for more than a ... machine interface are reinforced by an interesting 2015 essay in the “International Journal of Advanced Research in Artificial Intelligence,” which points to networking, command and control and an ability to integrate with existing technologies as ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://nationalinterest.org/blog/buzz/army-will-soon-be-able-command-robot-tanks-artificial-intelligence-133932",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-17T12:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The National Interest",
-        "domain": "nationalinterest.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://nationalinterest.org/sites/default/files/main_images/A49%20%281%29_0.jpg",
-          "width": 1305,
-          "height": 835,
-          "title": "The Army Will Soon Be Able to Command Robot Tanks With Artificial Intelligence",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-azure-admins-cold-sweat-likely-caused-by-a-isolated-power-problems-that-browned-out-west-central-usa-region.md",
-      "title": "Azure admins' cold sweat likely caused by a 'isolated' power problems that browned out West Central USA region",
-      "excerpt": "That upgrade from Java 8 to 11 you've been putting off? UK fintech types at Revolut 'quite happy' after a year in production As if the world doesn't have enough to worry about right now, Azure users with resources running in the Microsoft cloud's Central West USA region have just enjoyed an outage. The problem took out virtual machines and SQL ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.theregister.co.uk/2020/03/15/azure_outage_west_central_usa/",
-      "ampWebUrl": "https://www.theregister.co.uk/AMP/2020/03/15/azure_outage_west_central_usa/",
-      "cdnAmpWebUrl": "https://www-theregister-co-uk.cdn.ampproject.org/c/s/www.theregister.co.uk/AMP/2020/03/15/azure_outage_west_central_usa/",
-      "publishedDateTime": "2020-03-17T12:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Register",
-        "domain": "theregister.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://regmedia.co.uk/2018/09/13/shutterstock_panic.jpg",
-          "width": 648,
-          "height": 432,
-          "title": "Azure admins' cold sweat likely caused by a 'isolated' power problems that browned out West Central USA region",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-artificial-intelligence-for-the-diagnosis-of-diabetic-retinopathy-an-interview-with-michael-d-abramoff-md-phd.md",
-      "title": "Artificial Intelligence for the Diagnosis of Diabetic Retinopathy: An Interview With Michael D. Abramoff, MD, PhD",
-      "excerpt": "Michael D. Abramoff, MD, PhD, is the Robert C. Watzke, MD Professor of ophthalmology and visual sciences at the University of Iowa Carver College of Medicine. He is also a professor of electrical and computer engineering and a professor of biomedical engineering at the University of Iowa.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.ajmc.com/newsroom/artificial-intelligence-for-the-diagnosis-of-diabetic-retinopathy-an-interview-with-michael-d-abramoff-md-phd",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-17T11:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The American Journal of Managed Care",
-        "domain": "ajmc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://hraresearch.s3.amazonaws.com/_media/_core/ajmc-twitter-logo.jpg",
-          "width": 1667,
-          "height": 1667,
-          "title": "Artificial Intelligence for the Diagnosis of Diabetic Retinopathy: An Interview With Michael D. Abramoff, MD, PhD",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

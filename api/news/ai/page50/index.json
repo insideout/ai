@@ -2,6 +2,221 @@
   "page": 50,
   "value": [
     {
+      "path": "_news/2020-03-10-concerns-raised-after-facial-recognition-software-found-to-have-racial-bias.md",
+      "title": "Concerns raised after facial recognition software found to have racial bias",
+      "excerpt": "One of the cops surreptitiously snapped a cellphone photo of the man and sent it to a crime analyst, who ran the photo through facial recognition software. The facial recognition algorithm ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.thestar.com/news/gta/2020/03/10/concerns-raised-after-facial-recognition-software-found-to-have-racial-bias.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-10T02:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Star",
+        "domain": "thestar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.thestar.com/4JWXKVT5I2IpefurhPWg37bIpGk=/1200x800/smart/filters:cb(1583942249743)/https://www.thestar.com/content/dam/thestar/news/gta/2020/03/10/concerns-raised-after-facial-recognition-software-found-to-have-racial-bias/toni_morgan3.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Concerns raised after facial recognition software found to have racial bias",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-10-looking-at-how-ai-can-improve-computer-vision.md",
+      "title": "Looking at How AI Can Improve Computer Vision",
+      "excerpt": "And doing so in a manner that provides noticeable improvements in productivity, efficiency and capability. The ability to blend artificial intelligence into the computer vision process could be a prime example. I recently had the opportunity to connect with Johann Beukes, vice-president of data science and analytics at Levatas to hear his insights.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.industryweek.com/technology-and-iiot/article/21125741/looking-at-how-ai-can-improve-computer-vision",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-10T02:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IndustryWeek",
+        "domain": "industryweek.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-10-top-7-baselines-for-image-recognition.md",
+      "title": "Top 7 Baselines For Image Recognition",
+      "excerpt": "SVHN is obtained from house numbers in Google Street View images. SVHN was introduced to develop machine learning and object recognition algorithms with a minimal requirement on data preprocessing and formatting. In this paper, a simple procedure called AutoAugment is defined to automatically search for improved data augmentation policies.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://analyticsindiamag.com/image-classification-models-benchmark-state-of-the-art/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-10T00:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://analyticsindiamag.com/wp-content/uploads/2020/03/imrec.png",
+          "width": 667,
+          "height": 500,
+          "title": "Top 7 Baselines For Image Recognition",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-10-ai-recruitment-start-up-recognised-at-microsofts-ai-awards-20.md",
+      "title": "AI recruitment start-up recognised at Microsoft’s AI Awards 2.0",
+      "excerpt": "Talview helps its clients with digital hiring process by leveraging the capabilities of Microsoft Azure to automate talent screening, video interviews, and securely proctor cognitive assessments for hiring decisions ... need to be a goal for employers in Singapore in 2018. The services sector is attracting top talent as China's economy shifts ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://hrmasia.com/talview-named-best-ai-application-for-societal-impact-at-microsofts-ai-awards-2-0/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-10T00:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "hrmasia.com",
+        "domain": "hrmasia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://hrmasia.com/wp-content/uploads/2019/12/81473998_m.jpg",
+          "width": 2508,
+          "height": 1672,
+          "title": "AI recruitment start-up recognised at Microsoft’s AI Awards 2.0",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-10-aci-worldwide-launches-advanced-machine-learning-capability-to-dramatically-reduce-payment-fraud-for-banks-and-merchants-and-their-customers.md",
+      "title": "ACI Worldwide Launches Advanced Machine Learning Capability to Dramatically Reduce Payment Fraud for Banks and Merchants and Their Customers",
+      "excerpt": "“Traditional machine learning models in many cases are not sufficient to stop fraudsters in their ... “We are the first vendor globally to roll out the new Incremental Learning technology across the merchants, payments and financial services sectors,” commented Fabian Gloerfeld, head of Payments Intelligence, ACI Worldwide.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businesswire.com/news/home/20200309005518/en/ACI-Worldwide-Launches-Advanced-Machine-Learning-Capability",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-09T23:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20200309005518/en/408535/23/ACI_logo.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": "ACI Worldwide Launches Advanced Machine Learning Capability to Dramatically Reduce Payment Fraud for Banks and Merchants and Their Customers",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-10-ai-education-and-ethics-who-should-profit-from-learning.md",
+      "title": "AI, education and ethics: who should profit from learning?",
+      "excerpt": "“AI will be introduced into classrooms, introduced into education ... “It is challenging to implement this,” Mr Minevich adds. “It comes down to privacy and ethics.” According to Mr Riese of Up Learn, constant data collection would represent an improvement on the current means of assessing students, by drawing on hundreds of hours ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.ft.com/content/8d79405c-02ba-11e9-bf0f-53b8511afd73",
+      "ampWebUrl": "https://amp.ft.com/content/8d79405c-02ba-11e9-bf0f-53b8511afd73",
+      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/8d79405c-02ba-11e9-bf0f-53b8511afd73",
+      "publishedDateTime": "2020-03-09T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Times",
+        "domain": "ft.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2Fb20e8b5e-5ef6-11ea-ac5e-df00963c20e6?source=google-amp&fit=scale-down&width=500",
+          "width": 500,
+          "height": 281,
+          "title": "AI, education and ethics: who should profit from learning?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-10-canadian-correctional-facility-to-test-threat-detection-platform.md",
       "title": "Canadian Correctional Facility to Test Threat Detection Platform",
       "excerpt": "\"The contract from Innovative Solution Canada was awarded to Patriot One for its PATSCAN Platform, with specific interest around the Video Object Recognition Software (VRS) solution for the detection of visible make-shift knives, cellphones, as well as ...",
@@ -915,220 +1130,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-09-anterior-retrosplenial-cortex-is-required-for-long-term-object-recognition-memory.md",
-      "title": "Anterior retrosplenial cortex is required for long-term object recognition memory",
-      "excerpt": "The retrosplenial cortex (RSC) is implicated on navigation and contextual memory. Lesions studies showed that the RSC shares functional similarities with the hippocampus (HP). Here we evaluated the role of the anterior RSC (aRSC) in the “what” and “where” components of recognition memory and contrasted it with that of the dorsal HP (dHP).",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nature.com/articles/s41598-020-60937-z",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-09T03:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nature",
-        "domain": "nature.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-020-60937-z/MediaObjects/41598_2020_60937_Fig1_HTML.png",
-          "width": 407,
-          "height": 685,
-          "title": "Anterior retrosplenial cortex is required for long-term object recognition memory",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-09-as-companies-race-to-develop-self-driving-cars-americans-remain-ambivalent.md",
-      "title": "As companies race to develop self-driving cars, Americans remain ambivalent",
-      "excerpt": "As companies continue working to get self-driving cars into production, acceptance of the technology remains “stuck in neutral,” according to AAA. In a study conducted by the organization ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.digitaltrends.com/cars/aaa-study-shows-acceptance-of-self-driving-cars-stuck-in-neutral/",
-      "ampWebUrl": "https://www.digitaltrends.com/cars/aaa-study-shows-acceptance-of-self-driving-cars-stuck-in-neutral/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/aaa-study-shows-acceptance-of-self-driving-cars-stuck-in-neutral/?amp",
-      "publishedDateTime": "2020-03-09T03:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-09-artificial-intelligence-in-healthcare-market-2020-global-key-players-trends-share-industry-size-segmentation-opportunities-forecast-to-2026.md",
-      "title": "Artificial Intelligence in Healthcare Market 2020: Global Key Players, Trends, Share, Industry Size, Segmentation, Opportunities, Forecast To 2026",
-      "excerpt": "“Artificial Intelligence in Healthcare Market” Summary: A new market study, titled \"Global Artificial Intelligence in Healthcare Market Upcoming Trends,",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.benzinga.com/pressreleases/20/03/ab15504764/artificial-intelligence-in-healthcare-market-2020-global-key-players-trends-share-industry-size-s",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/15504764",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15504764",
-      "publishedDateTime": "2020-03-09T00:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-09-global-artificial-intelligence-ai-chips-market-2020-industry-segmentation-cagr-status-leading-trends-forecast-to-2025.md",
-      "title": "Global Artificial Intelligence (AI) Chips Market 2020 Industry Segmentation, CAGR Status, Leading Trends, Forecast to 2025",
-      "excerpt": "A recent market study entitled Global Artificial Intelligence (AI) Chips Market 2020 by Manufacturers, Regions, Type and Application, Forecast to 2025 provides an in-depth analysis of the global market,",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-chips-market-2020-industry-segmentation-cagr-status-leading-trends-forecast-to-2025-2020-03-09",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-08T23:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Global Artificial Intelligence (AI) Chips Market 2020 Industry Segmentation, CAGR Status, Leading Trends, Forecast to 2025",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-09-autonomous-and-self-driving-vehicle-news-baidu-spoofed-waymo-cmore.md",
-      "title": "Autonomous and Self-Driving Vehicle News; Baidu Spoofed, Waymo & CMORE",
-      "excerpt": "That’s all you need to get the sensor mixed up, report the researchers that broke into Baidu Apollo. “We showed how an attacker can suddenly halt ... which fills a crucial safety role in self-driving vehicles. In the U.S. each year, there are more than 1.5 million deer-related accidents, which cause around 200 human deaths and 10,000 ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.autoconnectedcar.com/2020/03/autonomous-and-self-driving-vehicle-news-baidu-spoofed-waymo-cmore/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-08T19:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "autoconnectedcar.com",
-        "domain": "autoconnectedcar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-09-getting-there-americans-remain-leery-of-self-driving-cars.md",
-      "title": "GETTING THERE: Americans remain leery of self-driving cars",
-      "excerpt": "WHILE the push continues for a future where self-driving cars are the norm, at present we humans seem averse to sharing the road with artificial intelligence. And that’s saying a lot, given the proliferation of bad and dangerous drivers on the roads.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.fredericksburg.com/news/transportation/getting-there-americans-remain-leery-of-self-driving-cars/article_ab0b9d66-c427-562a-bf29-f62c96faf7ce.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-08T19:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fredericksburg.com",
-        "domain": "fredericksburg.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/fredericksburg.com/content/tncms/assets/v3/editorial/7/f1/7f1025a4-1959-555a-9f88-89a50aa49030/5e627e4b1e8b5.image.jpg?crop=1657%2C932%2C0%2C159&resize=1120%2C630&order=crop%2Cresize",
-          "width": 1120,
-          "height": 630,
-          "title": "GETTING THERE: Americans remain leery of self-driving cars",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }
