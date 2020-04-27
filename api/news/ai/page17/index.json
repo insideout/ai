@@ -2,6 +2,134 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2020-04-07-9-ai-stocks-were-leaning-on-more-and-more.md",
+      "title": "9 AI Stocks We’re Leaning on More and More",
+      "excerpt": "IBM Watson Assistant for Citizens on the IBM public cloud brings together Watson Assistant, Natural Language Processing capabilities from IBM Research, and state-of-art enterprise AI search capabilities with Watson Discovery, to understand and respond to common questions about COVID-19. It’s always great when big corporations give back to the ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://investorplace.com/2020/04/9-ai-stocks-were-leaning-on-more-and-more/",
+      "ampWebUrl": "https://investorplace.com/2020/04/9-ai-stocks-were-leaning-on-more-and-more/amp/",
+      "cdnAmpWebUrl": "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/04/9-ai-stocks-were-leaning-on-more-and-more/amp/",
+      "publishedDateTime": "2020-04-07T08:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InvestorPlace",
+        "domain": "investorplace.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://investorplace.com/wp-content/uploads/2019/07/ai1600b.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": "9 AI Stocks We’re Leaning on More and More",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-07-5-practical-reasons-to-embrace-artificial-intelligence.md",
+      "title": "5 practical reasons to embrace artificial intelligence",
+      "excerpt": "AI is about more than just robots. There are several reasons that people should accept artificial intelligence, including health care fighting the current coronavirus pandemic and empowering people with disabilities. Artificial intelligence is about more than robots. Whether someone considers themself a tech expert, or a newbie when it comes to ...",
+      "heat": 91,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/article/5-practical-reasons-to-embrace-artificial-intelligence/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/5-practical-reasons-to-embrace-artificial-intelligence/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/5-practical-reasons-to-embrace-artificial-intelligence/",
+      "publishedDateTime": "2020-04-07T08:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr3.cbsistatic.com/hub/i/r/2020/04/07/b9096b1a-0696-4267-a3f0-1ee3c61fe529/resize/1200x/ef5bf98b81cf782d65908c237d3d27b5/drone-garden.jpg",
+          "width": 1200,
+          "height": 798,
+          "title": "5 practical reasons to embrace artificial intelligence",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2020-04-07-mixmode-raises-4-million-to-help-companies-fight-ai-driven-cyberattacks.md",
+      "title": "MixMode raises $4 million to help companies fight AI-driven cyberattacks",
+      "excerpt": "The Santa Barbara-based startup is trying to leapfrog ahead of current security AI strategies by developing technology that doesn’t require any human intervention or rule-making. As bad actors turn to AI to launch new forms of attacks, the company believes such “unsupervised” AI is essential to maintaining defenses. “Large enterprises ...",
+      "heat": 96,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/07/mixmode-raises-4-million-to-help-companies-fight-ai-driven-cyberattacks/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/07/mixmode-raises-4-million-to-help-companies-fight-ai-driven-cyberattacks/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/07/mixmode-raises-4-million-to-help-companies-fight-ai-driven-cyberattacks/amp/",
+      "publishedDateTime": "2020-04-07T08:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/Screen-Shot-2020-04-06-at-10.01.02-AM-e1586253515890.png?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "MixMode raises $4 million to help companies fight AI-driven cyberattacks",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-07-autonomous-shuttles-ferry-covid-19-tests-around-florida.md",
       "title": "Autonomous Shuttles Ferry COVID-19 Tests Around Florida",
       "excerpt": "The Jacksonville Transportation Authority (JTA), Beep and NAVYA are ferrying COVID-19 tests around in self-driving vans. Four fully autonomous vehicles have ... traffic and staff,\" according to the non-profit medical center. \"Using artificial intelligence enables us to protect staff from exposure to this contagious virus by using cutting ...",
@@ -1123,141 +1251,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-06-how-mobile-technology-and-deep-learning-brings-the-ikea-showroom-to-your-home.md",
-      "title": "How Mobile Technology And Deep Learning Brings The IKEA Showroom To Your Home",
-      "excerpt": "IKEA Retail Business chief digital officer explains how its latest acquisition leverages the power of cloud-based deep learning to audition new furniture and change room layouts without leaving your home.",
-      "heat": 86,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/oisinlunny/2020/04/06/how-mobile-technology-and-deep-learning-brings-the-ikea-showroom-to-your-home/",
-      "ampWebUrl": "https://www.forbes.com/sites/oisinlunny/2020/04/06/how-mobile-technology-and-deep-learning-brings-the-ikea-showroom-to-your-home/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/oisinlunny/2020/04/06/how-mobile-technology-and-deep-learning-brings-the-ikea-showroom-to-your-home/amp/",
-      "publishedDateTime": "2020-04-06T16:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e8aee9ab0a4e4000746c895%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "How Mobile Technology And Deep Learning Brings The IKEA Showroom To Your Home",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-06-laptops-with-big-graphics-cards-are-surging-for-reasons-that-arent-obvious.md",
-      "title": "Laptops With Big Graphics Cards Are Surging For Reasons That Aren’t Obvious",
-      "excerpt": "It increases the output resolution and extends the battery life. DLSS 2.0 uses dedicated AI processors called Tensor cores. Max-Q Dynamic boost showing the power shift on an RTX 2080 Super laptop, 90W GPU power limit, ... [+] Witcher 3, Max settings, Core i7, 16GB of RAM. Not all laptops will support Max-Q GPUs, but for those laptops that do ...",
-      "heat": 72,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2020/04/06/laptops-with-big-graphics-cards-are-surging-for-reasons-that-arent-obvious/?ss=consumertech",
-      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2020/04/06/laptops-with-big-graphics-cards-are-surging-for-reasons-that-arent-obvious/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2020/04/06/laptops-with-big-graphics-cards-are-surging-for-reasons-that-arent-obvious/amp/",
-      "publishedDateTime": "2020-04-06T16:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e8b4260e2bb0400064288b7%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1432%26cropY1%3D0%26cropY2%3D619",
-          "width": 1200,
-          "height": 519,
-          "title": "Laptops With Big Graphics Cards Are Surging For Reasons That Aren’t Obvious",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-06-perceive-exits-stealth-with-super-efficient-machine-learning-chip-for-smarter-devices.md",
-      "title": "Perceive Exits Stealth With Super Efficient Machine Learning Chip For Smarter Devices",
-      "excerpt": "Running today’s advanced neural networks has been significantly beyond the reach of many small and battery-powered devices.",
-      "heat": 82,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/tiriasresearch/2020/04/06/perceive-exits-stealth-with-super-efficient-machine-learning-chip-for-smarter-devices/",
-      "ampWebUrl": "https://www.forbes.com/sites/tiriasresearch/2020/04/06/perceive-exits-stealth-with-super-efficient-machine-learning-chip-for-smarter-devices/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2020/04/06/perceive-exits-stealth-with-super-efficient-machine-learning-chip-for-smarter-devices/amp/",
-      "publishedDateTime": "2020-04-06T16:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e8b6257c095010007bffe6f%2F0x0.jpg",
-          "width": 1200,
-          "height": 726,
-          "title": "Perceive Exits Stealth With Super Efficient Machine Learning Chip For Smarter Devices",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

@@ -2,6 +2,51 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-04-06-robotic-5g-car-can-id-faces-check-for-fevers-and-make-deliveries.md",
+      "title": "Robotic 5G car can ID faces, check for fevers, and make deliveries",
+      "excerpt": "The 5G vehicle is part of the KuGaea Kun series developed by Cool High Technology, a Beijing-based maker of autonomous drones and cars. A self-driving version has been certified for Baidu’s Apollo autonomous open vehicle platform, taking advantage of Beijing’s 300-plus miles of self-driving test roads. Beijing Institute of Technology’s ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/06/robotic-5g-car-can-id-faces-check-for-fevers-and-make-deliveries/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/06/robotic-5g-car-can-id-faces-check-for-fevers-and-make-deliveries/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/06/robotic-5g-car-can-id-faces-check-for-fevers-and-make-deliveries/amp/",
+      "publishedDateTime": "2020-04-06T13:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/beijing5gcar.jpg?fit=2000%2C1000&strip=all",
+          "width": 2000,
+          "height": 1000,
+          "title": "Robotic 5G car can ID faces, check for fevers, and make deliveries",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-06-velodyne-lidar-blames-pandemic-for-sudden-job-cut-its-being-sued-over.md",
       "title": "Velodyne Lidar blames pandemic for sudden job cut it's being sued over",
       "excerpt": "Velodyne Lidar, the San Jose autonomous driving sensor pioneer, says it cut jobs last week because of \"sudden and unexpected\" changes caused by the coronavirus pandemic. A worker lawsuit accuses it of using the crisis as cover for moving jobs overseas.",
@@ -1152,51 +1197,6 @@
           "width": 1445,
           "height": 964,
           "title": "Tesla deal boosts Chinese presence in US auto tech",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-28-teslas-china-business-is-booming.md",
-      "title": "Tesla's China business is booming",
-      "excerpt": "Elon Musk's Tesla is a growing player in China, where the global fight to develop electric, self-driving cars is raging ... and companies like Tesla or Baidu could take a cut of that,\" she said.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnbc.com/2017/03/28/tesla-is-sending-a-lot-more-cars-to-china.html",
-      "ampWebUrl": "https://www.cnbc.com/amp/2017/03/28/tesla-is-sending-a-lot-more-cars-to-china.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2017/03/28/tesla-is-sending-a-lot-more-cars-to-china.html",
-      "publishedDateTime": "2020-03-27T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/104369093-GettyImages-462398776.jpg?v=1549975676",
-          "width": 2000,
-          "height": 1333,
-          "title": "Tesla's China business is booming",
           "attribution": null
         }
       ],

@@ -2,6 +2,133 @@
   "page": 117,
   "value": [
     {
+      "path": "_news/2020-01-11-no-ibm-is-not-the-only-relevant-player-in-virtual-agents.md",
+      "title": "No, IBM is not the only relevant player in virtual agents",
+      "excerpt": "Last month, IBM General Manager of Data and Watson AI, Rob Thomas, told VentureBeat that IBM was the only major enterprise provider in the red-hot area of virtual agents. Virtual agents are software that can chat with customers through text, voice, or web chat. “There really are no big players, except for us,” Thomas said at the time.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/01/11/no-ibm-is-not-the-only-relevant-player-in-virtual-agents/",
+      "ampWebUrl": "https://venturebeat.com/2020/01/11/no-ibm-is-not-the-only-relevant-player-in-virtual-agents/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/11/no-ibm-is-not-the-only-relevant-player-in-virtual-agents/amp/",
+      "publishedDateTime": "2020-01-11T06:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/01/nlp.jpg?fit=2121%2C1414&strip=all",
+          "width": 2121,
+          "height": 1414,
+          "title": "No, IBM is not the only relevant player in virtual agents",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2020-01-11-waymos-anca-dragan-and-ike-robotics-cto-jur-van-den-berg-are-coming-to-tc-sessions-roboticsai.md",
+      "title": "Waymo’s Anca Dragan and Ike Robotics CTO Jur van den Berg are coming to TC Sessions: Robotics+AI",
+      "excerpt": "and is co-PI of the Center for Human-Compatible AI. Last year, Dragan was awarded the Presidential Early Career Award for Scientists and Engineers. Van den Berg is the co-founder and CTO of Ike Robotics, a self-driving truck startup that last year raised $52 million in a Series A funding round led by Bain Capital Ventures. Van den Berg has ...",
+      "heat": 126,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/01/10/waymos-anca-dragan-and-ike-robotics-cto-jur-van-den-berg-are-coming-to-tc-sessions-robotics-ai/",
+      "ampWebUrl": "https://techcrunch.com/2020/01/10/waymos-anca-dragan-and-ike-robotics-cto-jur-van-den-berg-are-coming-to-tc-sessions-robotics-ai/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/10/waymos-anca-dragan-and-ike-robotics-cto-jur-van-den-berg-are-coming-to-tc-sessions-robotics-ai/amp/",
+      "publishedDateTime": "2020-01-11T03:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/01/robtoics_ancajur.png?w=1024",
+          "width": 1024,
+          "height": 558,
+          "title": "Waymo’s Anca Dragan and Ike Robotics CTO Jur van den Berg are coming to TC Sessions: Robotics+AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-01-11-china-tests-worlds-first-high-speed-driverless-bullet-train-at-a-speed-of-350-km-successfully.md",
+      "title": "China tests world’s first high-speed driverless bullet train at a speed of 350 km successfully",
+      "excerpt": "It has all the features connected to artificial intelligence with 5G signal, wireless charging and smart lighting. The Beijing to Zhangjiakou high-speed driverless train test was successful, 56496 crore rupees have been spent on it. The passengers will get ...",
+      "heat": 62,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.metrorailnews.in/china-tests-worlds-first-high-speed-driverless-bullet-train-at-a-speed-of-350-km-successfully/",
+      "ampWebUrl": "https://www.metrorailnews.in/china-tests-worlds-first-high-speed-driverless-bullet-train-at-a-speed-of-350-km-successfully/?amp",
+      "cdnAmpWebUrl": "https://www-metrorailnews-in.cdn.ampproject.org/c/s/www.metrorailnews.in/china-tests-worlds-first-high-speed-driverless-bullet-train-at-a-speed-of-350-km-successfully/?amp",
+      "publishedDateTime": "2020-01-11T02:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Metro rail News",
+        "domain": "metrorailnews.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.metrorailnews.in/wp-content/uploads/2020/01/5492.jpg",
+          "width": 1920,
+          "height": 1152,
+          "title": "China tests world’s first high-speed driverless bullet train at a speed of 350 km successfully",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2020-01-11-robotaxis-will-be-available-as-soon-as-2022-self-driving-tech-supplier-mobileye-ceo-says.md",
       "title": "Robotaxis will be available as soon as 2022, self-driving tech supplier Mobileye CEO says",
       "excerpt": "Self-driving cars will start with fleet operators before general use due to regulatory and cost constraints “that you cannot put on a consumer,” he said in a “Mad Money” interview. “If more cars will be autonomous,",
@@ -957,133 +1084,6 @@
       "topics": [
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-01-09-facial-and-voice-recognition-in-cars-sounds-like-a-privacy-nightmare.md",
-      "title": "Facial and voice recognition in cars sounds like a privacy nightmare",
-      "excerpt": "Even pushing down on the seat triggers the car to react. To power facial or voice recognition systems, cars need to collect information on what your face or voice looks like. Geotab fleet data ...",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://mashable.com/article/facial-voice-recognition-biometric-data-ai-ces/",
-      "ampWebUrl": "https://mashable.com/article/facial-voice-recognition-biometric-data-ai-ces.amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/facial-voice-recognition-biometric-data-ai-ces.amp",
-      "publishedDateTime": "2020-01-09T06:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/2020%252F01%252F09%252F05%252F398230a2d9e84a0986a7acd0a7ac7861.8483c.jpg%252F1200x630.jpg?signature=FM7sSz88mzg3SnzEEsgj0xxogC8=",
-          "width": 1200,
-          "height": 630,
-          "title": "Facial and voice recognition in cars sounds like a privacy nightmare",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-01-09-what-its-like-to-ride-in-a-self-driving-lyft.md",
-      "title": "What it’s like to ride in a self-driving Lyft",
-      "excerpt": "At CES, the consumer electronics trade show in Las Vegas this week, I hit the jackpot: getting picked up in a self-driving Lyft. A few days ago, when I arrived in the city and opened the Lyft app ...",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://qz.com/1781876/ces-2020-what-its-like-to-ride-in-a-self-driving-lyft/",
-      "ampWebUrl": "https://qz.com/1781876/ces-2020-what-its-like-to-ride-in-a-self-driving-lyft/amp/",
-      "cdnAmpWebUrl": "https://qz-com.cdn.ampproject.org/c/s/qz.com/1781876/ces-2020-what-its-like-to-ride-in-a-self-driving-lyft/amp/",
-      "publishedDateTime": "2020-01-09T06:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Quartz",
-        "domain": "qz.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/qz.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cms.qz.com/wp-content/uploads/2020/01/Lyft-self-driving-rear-e1578551520317.jpeg?quality=75&strip=all&w=1400",
-          "width": 1400,
-          "height": 788,
-          "title": "What it’s like to ride in a self-driving Lyft",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-01-09-the-self-driving-enterprise-and-the-road-to-automation.md",
-      "title": "The Self-Driving Enterprise And The Road To Automation",
-      "excerpt": "The autonomous enterprise won’t happen overnight and needs the right tools and plan to achieve success. Just like autonomous vehicles, we need to be knowledgeable about automation and how it can improve our business processes.",
-      "heat": 94,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/09/the-self-driving-enterprise-and-the-road-to-automation/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/09/the-self-driving-enterprise-and-the-road-to-automation/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/09/the-self-driving-enterprise-and-the-road-to-automation/amp/",
-      "publishedDateTime": "2020-01-09T05:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/711x461/https://specials-images.forbesimg.com/dam/imageserve/941265460/960x0.jpg?fit=scale",
-          "width": 711,
-          "height": 461,
-          "title": "The Self-Driving Enterprise And The Road To Automation",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

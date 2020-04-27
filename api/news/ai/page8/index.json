@@ -2,16 +2,142 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-04-16-ponyai-partners-with-yamibuy-on-autonomous-deliveries.md",
+      "title": "Pony.ai partners with Yamibuy on autonomous deliveries",
+      "excerpt": "Self-driving startup Pony.ai today announced that it’s collaborating with Yamibuy ... as well as reduce the risk of infection in the course of deliveries. Former Baidu chief architect James Peng cofounded Pony.ai in 2016 with Tiancheng Lou, who worked at Google X’s autonomous car project before it was spun off into Waymo.",
+      "heat": 119,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/16/pony-ai-partners-with-yamibuy-to-autonomously-deliver-goods-to-irvine-customers/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/16/pony-ai-partners-with-yamibuy-to-autonomously-deliver-goods-to-irvine-customers/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/16/pony-ai-partners-with-yamibuy-to-autonomously-deliver-goods-to-irvine-customers/amp/",
+      "publishedDateTime": "2020-04-16T16:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/Photo2-e1587077842271.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Pony.ai partners with Yamibuy on autonomous deliveries",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-16-autonomous-driving-startup-ponyai-takes-on-last-mile-delivery.md",
+      "title": "Autonomous-Driving Startup Pony.ai Takes On Last-Mile Delivery",
+      "excerpt": "With autonomous-vehicle companies parked by Covid-19, Pony.ai has teamed up with Los Angeles-based e-commerce site Yamibuy to deliver packages and groceries in the city of Irvine. Yamibuy specializes in Asian foods and home goods.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.bloomberg.com/news/articles/2020-04-16/autonomous-driving-startup-pony-ai-takes-on-last-mile-delivery",
+      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-04-16/autonomous-driving-startup-pony-ai-takes-on-last-mile-delivery",
+      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-04-16/autonomous-driving-startup-pony-ai-takes-on-last-mile-delivery",
+      "publishedDateTime": "2020-04-16T16:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/imXSCN6Ae09g/v1/360x-1.jpg",
+          "width": 360,
+          "height": 224,
+          "title": "Autonomous-Driving Startup Pony.ai Takes On Last-Mile Delivery",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-16-nba-microsoft-use-ai-to-create-a-personalized-fan-focused-streaming-service.md",
+      "title": "NBA, Microsoft use A.I. to create a personalized, fan-focused streaming service",
+      "excerpt": "According to a press release, the multiyear collaboration will create a “new, innovative, direct-to-consumer platform” on Microsoft Azure, the company’s framework of cloud services. The streaming service will use machine learning and artificial intelligence to provide personalized game broadcasts and other content. For now, the NBA and ...",
+      "heat": 85,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.digitaltrends.com/home-theater/nba-microsoft-new-streaming-service/",
+      "ampWebUrl": "https://www.digitaltrends.com/home-theater/nba-microsoft-new-streaming-service/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/home-theater/nba-microsoft-new-streaming-service/?amp",
+      "publishedDateTime": "2020-04-16T15:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-16-pentagon-needs-tools-to-test-the-limits-of-its-artificial-intelligence-projects.md",
       "title": "Pentagon Needs Tools to Test the Limits of Its Artificial Intelligence Projects",
-      "excerpt": "The Joint Artificial Intelligence Center seeks cutting-edge evaluation capabilities to assess what systems can and can’t effectively do.",
+      "excerpt": "The Joint Artificial Intelligence Center seeks cutting-edge evaluation ... including machine learning, deep learning and neural networks. According to the solicitation, the Pentagon wants to augment the JAIC’s Test and Evaluation office, which develops ...",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.nextgov.com/emerging-tech/2020/04/pentagon-needs-tools-test-limits-its-artificial-intelligence-projects/164687/",
+      "webUrl": "https://www.nextgov.com/emerging-tech/2020/04/pentagon-needs-tools-test-limits-its-artificial-intelligence-projects/164687/?oref=ng-skybox-lander",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-16T14:43:00-07:00",
+      "publishedDateTime": "2020-04-16T14:50:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Nextgov",
@@ -1172,124 +1298,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-16-how-machine-learning-can-keep-sas-retail-shelves-stocked-during-covid-19.md",
-      "title": "How machine learning can keep SA’s retail shelves stocked during COVID-19",
-      "excerpt": "“Implementing technology with machine learning capabilities will provide retailers with the ability to run insightful analytics and augment this data with trends from other markets already dealing with this crisis. This gives them the ability to predict behaviours and stabilise supply chains,” he says. He adds this information can inform ...",
-      "heat": 83,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.itweb.co.za/content/kLgB17e89BPv59N4",
-      "ampWebUrl": "https://amp.itweb.co.za/content/kLgB17e89BPv59N4",
-      "cdnAmpWebUrl": "https://amp-itweb-co-za.cdn.ampproject.org/c/s/amp.itweb.co.za/content/kLgB17e89BPv59N4",
-      "publishedDateTime": "2020-04-16T04:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ITWeb",
-        "domain": "itweb.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.itweb.co.za/static/pictures/2020/04/Morne-Laubscher-400X.jpg",
-          "width": 400,
-          "height": 303,
-          "title": "How machine learning can keep SA’s retail shelves stocked during COVID-19",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-16-collective-mobilization-can-help-start-ups-fight-covid-19-outbreak.md",
-      "title": "Collective Mobilization Can Help Start-Ups Fight COVID-19 Outbreak",
-      "excerpt": "On the flip side, Hong Kong-based AI healthcare startup Insilico Medicine recently opened its drug compound database to pharmaceutical companies worldwide to help speed up the identification of a COVID-19 cure. This type of open collaboration between startups and big industry is imperative to saving lives. Going forward, startups and industry ...",
-      "heat": 72,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.entrepreneur.com/article/349364",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/349364",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/349364",
-      "publishedDateTime": "2020-04-16T02:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/20200218131007-shutterstock-580313551.jpeg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": "Collective Mobilization Can Help Start-Ups Fight COVID-19 Outbreak",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-16-roboads-inc-uae-robotics-startup-develops-new-generation-of-service-robots-to-aid-medical-and-security-staff-on-coronavirus-frontline.md",
-      "title": "RoboAds Inc., UAE Robotics Startup, Develops New Generation of Service Robots to Aid Medical and Security Staff on Coronavirus Frontline",
-      "excerpt": "UAE based Robotics startup, RoboAds Inc., has developed a new generation of telepresence robots to aid healthcare and security staff on",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.prnewswire.com/ae/news-releases/roboads-inc-uae-robotics-startup-develops-new-generation-of-service-robots-to-aid-medical-and-security-staff-on-coronavirus-frontline-301041045.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-16T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1155067/RoboAds_Inc_Service.jpg?p=facebook",
-          "width": 1920,
-          "height": 1005,
-          "title": "RoboAds Inc., UAE Robotics Startup, Develops New Generation of Service Robots to Aid Medical and Security Staff on Coronavirus Frontline",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

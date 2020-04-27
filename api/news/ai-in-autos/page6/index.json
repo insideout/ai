@@ -2,6 +2,43 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-03-12-farewell-to-the-old-assembly-line-automation-is-changing-manufacturing-processes-in-the-automotive-industry.md",
+      "title": "Farewell to the old assembly line: Automation is changing manufacturing processes in the automotive industry",
+      "excerpt": "Instead, the vehicles move through production on driverless transport systems, also called autonomous guided vehicles ... the assembly stations that are currently available on autonomous transport systems. Algorithms and artificial intelligence support planning and make decision-making more efficient.” According to Uellendahl, the increased ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://roboticsandautomationnews.com/2020/03/12/farewell-to-the-old-assembly-line-automation-is-changing-manufacturing-processes-in-the-automobile-industry/31270/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-12T04:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Robotics & Automation News",
+        "domain": "roboticsandautomationnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://roboticsandautomationnews.com/wp-content/uploads/2020/03/automatica-2020_03_Flexible_Automobilfertigung-copy.jpg",
+          "width": 750,
+          "height": 500,
+          "title": "Farewell to the old assembly line: Automation is changing manufacturing processes in the automotive industry",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-12-ai-is-failing-women-that-needs-to-change.md",
       "title": "AI is Failing Women. That Needs to Change.",
       "excerpt": "From robots and voice recognition to smart fridges and driverless cars – artificial intelligence is becoming widespread – but will these advancements meet the requirements of both men and women? Without diversity, the answer is no, writes Shawn Tan, CEO of AI ecosystem builder Skymind Global Ventures. Women and men don’t hold the same ...",
@@ -1119,43 +1156,6 @@
           "width": 1024,
           "height": 737,
           "title": "Five, the self-driving startup, raises $41M and pivots into B2B, away from building its own fleet",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-02-are-chinas-self-driving-cars-overtaking-us-peers.md",
-      "title": "Are China's self-driving cars overtaking US peers?",
-      "excerpt": "Is this proof that Baidu's self-driving car is better than Google's? Both companies say no. \"Waymo's position from the start -- and a growing industry consensus -- is that disengagements are not ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://asia.nikkei.com/Business/Automobiles/Are-China-s-self-driving-cars-overtaking-US-peers",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-02T07:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NIKKEI",
-        "domain": "nikkei.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fs3-ap-northeast-1.amazonaws.com%2Fpsh-ex-ftnikkei-3937bb4%2Fimages%2F4%2F8%2F9%2F0%2F25280984-6-eng-GB%2FCropped-1583135322apollo.png?source=nar-cms&width=1024&height=512&fit=cover&gravity=faces",
-          "width": 1024,
-          "height": 512,
-          "title": "Are China's self-driving cars overtaking US peers?",
           "attribution": null
         }
       ],

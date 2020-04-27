@@ -2,6 +2,133 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-04-20-does-this-7000-year-old-poop-belong-to-a-human-or-dog-machine-learning-has-the-answer.md",
+      "title": "Does This 7,000-Year-Old Poop Belong to a Human or Dog? Machine Learning Has the Answer",
+      "excerpt": "As outlined in the new paper, coproID uses machine learning software to compare ancient host DNA with DNA in modern feces, enabling it to distinguish between the two hosts in most cases. “CoproID is the first line of identification in coprolite analysis to confirm that what we’re looking for is actually human, or a dog if we’re interested ...",
+      "heat": 81,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.vice.com/en_in/article/jge7j4/does-this-7000-year-old-poop-belong-to-a-human-or-dog-machine-learning-has-the-answer",
+      "ampWebUrl": "https://www.vice.com/amp/en_in/article/jge7j4/does-this-7000-year-old-poop-belong-to-a-human-or-dog-machine-learning-has-the-answer",
+      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_in/article/jge7j4/does-this-7000-year-old-poop-belong-to-a-human-or-dog-machine-learning-has-the-answer",
+      "publishedDateTime": "2020-04-20T00:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VICE",
+        "domain": "vice.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/vice.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://video-images.vice.com/test-uploads/articles/5e98c20ac7e9d80099d6d452/lede/1587070293609-229163_web.jpeg?crop=1xw:0.8446298227320125xh;center,center",
+          "width": 1440,
+          "height": 810,
+          "title": "Does This 7,000-Year-Old Poop Belong to a Human or Dog? Machine Learning Has the Answer",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-20-openai-launches-mircoscope-with-lucid-library-to-help-unravel-neural-networks.md",
+      "title": "OpenAI launches Mircoscope with Lucid Library to help unravel neural networks",
+      "excerpt": "Microscope does the same thing with neural networks. It studies the neurons in these networks and their interconnectivity ... OpenAI is a research laboratory based in San Francisco, California. It mainly works in the artificial general intelligence (AGI)area to build systems for the benefit of humankind. It was co-founded by Elon Musk in ...",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.technowize.com/openai-launches-mircoscope-with-lucid-library-to-help-unravel-neural-networks/",
+      "ampWebUrl": "https://www.technowize.com/openai-launches-mircoscope-with-lucid-library-to-help-unravel-neural-networks/amp/",
+      "cdnAmpWebUrl": "https://www-technowize-com.cdn.ampproject.org/c/s/www.technowize.com/openai-launches-mircoscope-with-lucid-library-to-help-unravel-neural-networks/amp/",
+      "publishedDateTime": "2020-04-19T23:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Technowize",
+        "domain": "technowize.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.technowize.com/wp-content/uploads/2020/04/Cortisol-Labs-Artificial-Brain.jpg",
+          "width": 1000,
+          "height": 597,
+          "title": "OpenAI launches Mircoscope with Lucid Library to help unravel neural networks",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-20-hisense-f50-5g-debuts-with-unisoc-chip-for-2199-yuan-310-in-china.md",
+      "title": "HiSense F50 5G debuts with Unisoc chip for 2,199 Yuan (~$310) in China",
+      "excerpt": "Coupled with AI algorithm, the quad cameras of the HiSense F50 supports night mode photography, HDR, AI beauty and more. The HiSense F50 is backed by a massive 5,010mAh battery that supports 18W fast charging. The Unisoc T7510 chipset supports SA/NSA dual-mode 5G connectivity. The SoC supports N41, N78 and N79 mainstream 5G frequency bands.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.gizmochina.com/2020/04/20/hisense-f50-5g-debuts-with-2199-yuan-310-in-china/",
+      "ampWebUrl": "https://www.gizmochina.com/2020/04/20/hisense-f50-5g-debuts-with-2199-yuan-310-in-china/?amp",
+      "cdnAmpWebUrl": "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2020/04/20/hisense-f50-5g-debuts-with-2199-yuan-310-in-china/?amp",
+      "publishedDateTime": "2020-04-19T22:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2020/04/HiSense-F50-5G.png",
+          "width": 600,
+          "height": 298,
+          "title": "HiSense F50 5G debuts with Unisoc chip for 2,199 Yuan (~$310) in China",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-20-vietnamese-smartphone-makers-devices-will-offer-mask-facial-recognition.md",
       "title": "Vietnamese Smartphone Maker’s Devices Will Offer Mask Facial Recognition",
       "excerpt": "Vingroup’s device unit VinSmart will add facial recognition capabilities to its smartphones that can identify users wearing masks, the company said in an emailed statement.",
@@ -35,6 +162,51 @@
       ],
       "topics": [
         "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-19-have-1000-to-invest-buy-these-2-artificial-intelligence-stocks-now.md",
+      "title": "Have $1,000 to Invest? Buy These 2 Artificial Intelligence Stocks Now",
+      "excerpt": "Artificial intelligence (AI) -- the capability of a machine to mimic intelligent human behavior -- is a huge growth trend. The tech is being used to smarten up countless things la",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fool.com/investing/2020/04/19/have-1000-to-invest-buy-these-2-artificial-intelli.aspx?source=eptcnnlnk0000002",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/04/19/have-1000-to-invest-buy-these-2-artificial-intelli.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/04/19/have-1000-to-invest-buy-these-2-artificial-intelli.aspx",
+      "publishedDateTime": "2020-04-19T16:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F568387%2Fbest-ai-stocks-best-artificial-intelligence-stocks-2020-amzn-syock-amazon-stock-nvda-stock-nvidia-stock-goog-stock-google-stock-alphabet-stock-evbg-stock-everbright-stock.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 800,
+          "title": "Have $1,000 to Invest? Buy These 2 Artificial Intelligence Stocks Now",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
         "AI"
       ]
     },
@@ -162,35 +334,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-19-have-1000-to-invest-buy-these-2-artificial-intelligence-stocks-now.md",
-      "title": "Have $1,000 to Invest? Buy These 2 Artificial Intelligence Stocks Now",
-      "excerpt": "Artificial intelligence (AI) -- the capability of a machine to mimic intelligent human behavior -- is a huge growth trend. The tech is being used to smarten up countless things la",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nasdaq.com/articles/have-%241000-to-invest-buy-these-2-artificial-intelligence-stocks-now-2020-04-19?time=1587323042",
-      "ampWebUrl": "https://www.nasdaq.com/articles/have-%241000-to-invest-buy-these-2-artificial-intelligence-stocks-now-2020-04-19?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/have-%241000-to-invest-buy-these-2-artificial-intelligence-stocks-now-2020-04-19?amp",
-      "publishedDateTime": "2020-04-19T13:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     },
@@ -1137,132 +1280,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-17-ai-becomes-an-ally-in-the-fight-against-covid-19.md",
-      "title": "AI Becomes An Ally In The Fight Against COVID-19",
-      "excerpt": "How human ingenuity coupled with artificial intelligence is helping healthcare providers across the world respond to the pandemic.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/servicenow/2020/04/17/ai-becomes-an-ally-in-the-fight-against-covid-19/",
-      "ampWebUrl": "https://www.forbes.com/sites/servicenow/2020/04/17/ai-becomes-an-ally-in-the-fight-against-covid-19/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/servicenow/2020/04/17/ai-becomes-an-ally-in-the-fight-against-covid-19/amp/",
-      "publishedDateTime": "2020-04-17T10:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e99ea5b2e46c30007c4f740%2F0x0.jpg%3FcropX1%3D395%26cropX2%3D3985%26cropY1%3D107%26cropY2%3D2126",
-          "width": 1200,
-          "height": 675,
-          "title": "AI Becomes An Ally In The Fight Against COVID-19",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-17-microsoft-our-new-machine-learning-model-spots-critical-security-bugs-97-of-the-time.md",
-      "title": "Microsoft: Our new machine learning model spots critical security bugs 97% of the time",
-      "excerpt": "Microsoft claims a machine learning models its built for software developers can distinguish between security and non-security bugs 99% of the time. Microsoft plans to open-source the methodology behind a machine learning algorithm that it claims can distinguish between security bugs and non-security bugs with 99% accuracy. The company ...",
-      "heat": 81,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/microsoft-our-new-machine-learning-model-spots-critical-security-bugs-97-of-the-time/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/microsoft-our-new-machine-learning-model-spots-critical-security-bugs-97-of-the-time/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-our-new-machine-learning-model-spots-critical-security-bugs-97-of-the-time/",
-      "publishedDateTime": "2020-04-17T10:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/03/05/b1b4f0cd-0452-48f5-886c-d3afe0a743dd/thumbnail/1200x675/77fef6207247b1bf98a280183c42a4e5/20200304-larry-bill-coronavirus.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Microsoft: Our new machine learning model spots critical security bugs 97% of the time",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-17-mhn-asks-the-apartment-of-the-future.md",
-      "title": "MHN Asks … The Apartment of the Future",
-      "excerpt": "Technology will enhance the resident experience, increase efficiency in operations and improve design and decision-making using artificial intelligence ... such as driverless vehicles and air ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.multihousingnews.com/post/mhn-asks-the-apartment-of-the-future/",
-      "ampWebUrl": "https://www.multihousingnews.com/post/amp/mhn-asks-the-apartment-of-the-future/",
-      "cdnAmpWebUrl": "https://www-multihousingnews-com.cdn.ampproject.org/c/s/www.multihousingnews.com/post/amp/mhn-asks-the-apartment-of-the-future/",
-      "publishedDateTime": "2020-04-17T09:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Multi-Housing News",
-        "domain": "multihousingnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.atre.yardi.com/1/102694/images/Mark-McHenry.png?w=350&h=310",
-          "width": 350,
-          "height": 310,
-          "title": "MHN Asks … The Apartment of the Future",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

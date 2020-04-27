@@ -6,7 +6,7 @@ publishedDateTime: 2020-04-23T04:52:00Z
 webUrl: "https://asia.nikkei.com/Spotlight/Coronavirus/Japan-chipmaker-unveils-AI-face-recognition-tool-to-detect-fever"
 type: article
 quality: 54
-heat: -1
+heat: 54
 published: false
 
 provider:
@@ -22,23 +22,6 @@ images:
     width: 1024
     height: 512
     title: "Japan chipmaker unveils AI face recognition tool to detect fever"
-
-related:
-  - title: "Microsoft Develops AI-Powered Device That Can Automatically Check For Fever And Face Masks"
-    excerpt: "Microsoft's AI masks and infrared temperature 2-in-1 detection device checks people entering ... [+] Cardinal Tien Hospital in Taiwan to make sure they are wearing face masks and whether they have a fever."
-    publishedDateTime: 2020-04-22T07:46:00Z
-    webUrl: "https://www.forbes.com/sites/ralphjennings/2020/04/22/microsoft-develops-ai-powered-device-that-can-automatically-check-for-fever-and-face-masks/"
-    ampWebUrl: "https://www.forbes.com/sites/ralphjennings/2020/04/22/microsoft-develops-ai-powered-device-that-can-automatically-check-for-fever-and-face-masks/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ralphjennings/2020/04/22/microsoft-develops-ai-powered-device-that-can-automatically-check-for-fever-and-face-masks/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 94
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e9e84bcdea8300007de7c4c%2F0x0.jpg"
-        width: 1200
-        height: 800
 
 secured: "LAlId8EEMO+xoEz+jhySDlM8q8y6hZ8zk1r+hmwzNVSJUUzAMKlwwE8l5nj7KCB9s23jU0hPneflv/FU2K6lsVuxN9MtJbhO5j9e8qjvARXVWrdlZKXSk20syRd75l6X2rlDlZ8kNC+EvyWBuV2lyCIsFEwyTA0ntT4gyukj2HiG0nWNMoSbjgYb6lilOTcSLucU6ZZkIjpcP3eOX/zGmU10Qfkkd+vx3JmohCO33qWYd02U8cUSVCEYe15BzFuvi80o5dpCZzMn5Z39CuJHK5TfbSeGmoo69w8Q+ux+0v2PghN4YZkGWyudvlggrwy9vC2nUm6hFReGvZM+MZKGhxsPWbl4VKGhKCE5jh8I6tXOG1I/YKAncB6NCzXUOy+gWf/oEc0gwvdFVU1T4BUVVNlxO20QjrcQ6luexXfyoPTMqBd+wpiMx3hFh7sjQsIWj9eRYveCzbJC+sUu67N8oKrRkSMLW+lYomj9EIe/jvI=;TDBqgJ5HDtrX4Mnz+dddcw=="
 ---

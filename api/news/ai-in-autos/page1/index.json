@@ -2,6 +2,51 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-04-27-autox-alibabas-autonavi-roll-out-robotaxis-in-shanghais-ride-hailing-services-market.md",
+      "title": "AutoX, Alibaba’s AutoNavi roll out robotaxis in Shanghai’s ride-hailing services market",
+      "excerpt": "Autonomous driving start-up AutoX is now offering its fleet of robotaxis as part of ride-hailing options on Autonavi’s Amap app, which aggregates mobility services provided by more than 40 companies in China.",
+      "heat": 81,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.scmp.com/tech/apps-social/article/3081625/autox-alibabas-autonavi-roll-out-robotaxis-shanghais-ride-hailing",
+      "ampWebUrl": "https://amp.scmp.com/tech/apps-social/article/3081625/autox-alibabas-autonavi-roll-out-robotaxis-shanghais-ride-hailing",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/apps-social/article/3081625/autox-alibabas-autonavi-roll-out-robotaxis-shanghais-ride-hailing",
+      "publishedDateTime": "2020-04-26T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/04/26/85068ffc-8611-11ea-8863-2139a14b0dea_image_hires_200054.jpg?itok=7SNEi299&v=1587902461",
+          "width": 1200,
+          "height": 630,
+          "title": "AutoX, Alibaba’s AutoNavi roll out robotaxis in Shanghai’s ride-hailing services market",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-26-microsoft-technology-chief-explains-how-ai-could-someday-help-rural-people-get-through-a-pandemic.md",
       "title": "Microsoft technology chief explains how A.I. could someday help rural people get through a pandemic",
       "excerpt": "Coronavirus has reached Campbell County, where Microsoft's Kevin Scott grew up. He thinks said AI could offer new economic opportunity and greater interaction.",
@@ -1250,51 +1295,6 @@
           "width": 500,
           "height": 300,
           "title": "Driverless vehicle technology advances amid pandemic, commercialization pace accelerated",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-13-north-america-self-driving-car-market-overview-and-scope-market-size-future-outlook-of-the-market-2018-2023.md",
-      "title": "North America Self-driving Car Market Overview and scope, Market Size, Future Outlook of the Market 2018-2023",
-      "excerpt": "A self-driving car also known as the driverless car or an autonomous car or a robotic car uses a combination of cameras, radars sensor, GPS system and artificial intelligence (AI) to travel ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/north-america-self-driving-car-market-overview-and-scope-market-size-future-outlook-of-the-market-2018-2023-2020-04-13",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-13T16:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "North America Self-driving Car Market Overview and scope, Market Size, Future Outlook of the Market 2018-2023",
           "attribution": null
         }
       ],

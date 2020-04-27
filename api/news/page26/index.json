@@ -2,6 +2,132 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2020-04-02-artificial-intelligence-can-speed-up-the-detection-of-stroke.md",
+      "title": "Artificial intelligence can speed up the detection of stroke.",
+      "excerpt": "Timely detection and accurate segmentation of acute ischemic stroke (AIS) lesions on magnetic resonance images (MRIs) are essential for the triaging patient for endovascular therapy. Lesion segmentation is a routine process where the abnormal areas within ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://infosurhoy.com/news-summary/artificial-intelligence-can-speed-up-the-detection-of-stroke/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-02T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoSur Hoy",
+        "domain": "infosurhoy.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://infosurhoy.com/wp-content/uploads/2020/04/20-artificialin.jpg",
+          "width": 453,
+          "height": 480,
+          "title": "Artificial intelligence can speed up the detection of stroke.",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-02-google-uses-ai-to-enhance-video-call-audio.md",
+      "title": "Google uses AI to enhance video call audio",
+      "excerpt": "Google is hoping to end low quality video calls by deploying artificial intelligence to \"fill in\" audio gaps caused by bad connections. WaveNetEQ works by using a library of speech data to realistically continue short segments of conversations.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.bbc.com/news/technology-52138100",
+      "ampWebUrl": "https://www.bbc.com/news/amp/technology-52138100",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-52138100",
+      "publishedDateTime": "2020-04-02T07:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/14E94/production/_111525658_whatsubject.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": "Google uses AI to enhance video call audio",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-02-washington-state-passes-microsoft-approved-facial-recognition-laws.md",
+      "title": "Washington state passes Microsoft-approved facial recognition laws",
+      "excerpt": "Washington state has adopted sweeping facial recognition laws seen as a national model, much to the pleasure of Microsoft president Bill Smith. “This legislation represents a significant breakthrough — the first time a state or nation has passed a new law devoted exclusively to putting guardrails in place for the use of facial recognition ...",
+      "heat": 109,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/04/02/washington-state-passes-microsoft-approved-facial-recognition-laws/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/04/02/washington-state-passes-microsoft-approved-facial-recognition-laws/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/04/02/washington-state-passes-microsoft-approved-facial-recognition-laws/amp/",
+      "publishedDateTime": "2020-04-02T07:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/04/Untitled-design47-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "Washington state passes Microsoft-approved facial recognition laws",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-02-how-to-leverage-artificial-intelligence-and-machine-learning-during-a-pandemic.md",
       "title": "How To Leverage Artificial Intelligence And Machine Learning During A Pandemic",
       "excerpt": "After the COVID 19 crisis is over, business success or failure may come down to whether companies have taken advantage of Artificial Intelligence (AI) and Machine Learning (ML) technologies.",
@@ -933,133 +1059,6 @@
         "Google AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-04-02-ibms-watson-assistant-for-citizens-answers-coronavirus-questions-by-phone-or-text.md",
-      "title": "IBM’s Watson Assistant for Citizens answers coronavirus questions by phone or text",
-      "excerpt": "IBM today announced the launch of Watson Assistant for Citizens, a new chatbot solution available to government agencies, health care institutions, and academic organizations free of charge for 90 days. The hope is that by tapping AI technologies like natural language processing, it’ll triage residents looking for guidance on COVID-19 ...",
-      "heat": 83,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/01/ibms-watson-assistant-for-citizens-answers-coronavirus-questions-by-phone-or-text/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/01/ibms-watson-assistant-for-citizens-answers-coronavirus-questions-by-phone-or-text/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/01/ibms-watson-assistant-for-citizens-answers-coronavirus-questions-by-phone-or-text/amp/",
-      "publishedDateTime": "2020-04-01T22:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/09/5e486ff8-b51f-4396-9568-06fa29fec85c-e1573767177142.png?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "IBM’s Watson Assistant for Citizens answers coronavirus questions by phone or text",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-02-ibm-forms-watson-assistant-for-citizens-to-handle-covid-19-queries.md",
-      "title": "IBM forms Watson Assistant for Citizens to handle COVID-19 queries",
-      "excerpt": "The Watson suite is available free for at least 90 days and available via online and phone formats. According to IBM, wait times for COVID-19 related queries are exceeding two hours. The use of artificial intelligence via Watson may be able to speed up responses to common COVID-19 questions. As COVID-19 data sets become more accessible ...",
-      "heat": 149,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/ibm-forms-watson-assistant-for-citizens-to-handle-covid-19-queries/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ibm-forms-watson-assistant-for-citizens-to-handle-covid-19-queries/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-forms-watson-assistant-for-citizens-to-handle-covid-19-queries/",
-      "publishedDateTime": "2020-04-01T21:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2020/04/02/fa21d210-17be-4db8-938c-f2c60600464f/thumbnail/1200x675/3a5a416d0bb82d3169b994c176eb7a1e/img-4806.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "IBM forms Watson Assistant for Citizens to handle COVID-19 queries",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-02-robotics-startups-need-support-now-more-than-ever.md",
-      "title": "Robotics startups need support now more than ever",
-      "excerpt": "But our success is reliant on a vibrant and competitive robotics ecosystem. Let’s do everything we can to make sure our industry thrives. Owen Nicholson is CEO of SLAMcore, a London-based startup on a mission to make spatial AI accessible to all. SLAMcore develops algorithms that help robots and drones understand where they are and what’s ...",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.therobotreport.com/robotics-startups-support-now-more-than-ever/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-01T17:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2020/04/robotics-startups-covid-19.png",
-          "width": 1000,
-          "height": 593,
-          "title": "Robotics startups need support now more than ever",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

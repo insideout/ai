@@ -2,6 +2,43 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-03-02-are-chinas-self-driving-cars-overtaking-us-peers.md",
+      "title": "Are China's self-driving cars overtaking US peers?",
+      "excerpt": "Is this proof that Baidu's self-driving car is better than Google's? Both companies say no. \"Waymo's position from the start -- and a growing industry consensus -- is that disengagements are not ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://asia.nikkei.com/Business/Automobiles/Are-China-s-self-driving-cars-overtaking-US-peers",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-02T07:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NIKKEI",
+        "domain": "nikkei.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fs3-ap-northeast-1.amazonaws.com%2Fpsh-ex-ftnikkei-3937bb4%2Fimages%2F4%2F8%2F9%2F0%2F25280984-6-eng-GB%2FCropped-1583135322apollo.png?source=nar-cms&width=1024&height=512&fit=cover&gravity=faces",
+          "width": 1024,
+          "height": 512,
+          "title": "Are China's self-driving cars overtaking US peers?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-01-artificial-intelligence-of-thingsaiot-explained.md",
       "title": "Artificial Intelligence of Things(AIoT) Explained!",
       "excerpt": "The application can range from smart home speakers to self driving cars. Both terms, Artificial Intelligence and Internet of Things, are buzzwords. This means we did already hear about them and ...",
@@ -1276,51 +1313,6 @@
           "width": 1200,
           "height": 675,
           "title": "Video Of Uber Driver On Wild Chase That “Kidnapped” Date-Night Couple Provides Vital Lessons For AI Self-Driving Cars",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-02-14-hypodermic-needles-left-in-self-driving-cars-is-an-ominous-harbinger-of-whats-to-come.md",
-      "title": "Hypodermic Needles Left In Self-Driving Cars Is An Ominous Harbinger Of What’s To Come",
-      "excerpt": "Reckless passengers are leaving hypodermic needles in self-driving cars, it's a problem that's going to get worse.",
-      "heat": 76,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/02/12/hypodermic-needles-leftover-in-ai-self-driving-cars-by-despicable-passengers-is-an-ominous-harbinger-of-whats-yet-to-come/",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/02/12/hypodermic-needles-leftover-in-ai-self-driving-cars-by-despicable-passengers-is-an-ominous-harbinger-of-whats-yet-to-come/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/02/12/hypodermic-needles-leftover-in-ai-self-driving-cars-by-despicable-passengers-is-an-ominous-harbinger-of-whats-yet-to-come/amp/",
-      "publishedDateTime": "2020-02-14T06:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F664664484%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D7000%26cropY1%3D166%26cropY2%3D4831",
-          "width": 1200,
-          "height": 800,
-          "title": "Hypodermic Needles Left In Self-Driving Cars Is An Ominous Harbinger Of What’s To Come",
           "attribution": null
         }
       ],
