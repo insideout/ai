@@ -1,28 +1,25 @@
 ---
 category: news
 title: "RSIP Vision Launches a Pioneering AI Suite Providing Optimal Solutions to Key Tasks in Lung Surgery"
-excerpt: "RSIP Vision, a global leader in artificial intelligence (AI) and computer vision technology, announced today a new innovative AI-based suite"
-publishedDateTime: 2020-04-20T16:05:00Z
-webUrl: "https://www.prnewswire.com/news-releases/rsip-vision-launches-a-pioneering-ai-suite-providing-optimal-solutions-to-key-tasks-in-lung-surgery-301043589.html"
+excerpt: "SILICON VALLEY, Calif., April 20, 2020 /PRNewswire/ -- RSIP Vision, a global leader in artificial intelligence (AI) and computer vision technology, announced today a new innovative AI-based suite of m"
+publishedDateTime: 2020-04-20T16:33:00Z
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/rsip-vision-launches-a-pioneering-ai-suite-providing-optimal-solutions-to-key-tasks-in-lung/article_969a06df-ac77-52f8-b8ec-7edfe462e80a.html"
 type: article
-quality: 25
-heat: 25
-published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1157316/RSIP_Vision_Lung_Surgery.jpg?p=facebook"
-    width: 978
-    height: 512
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/9/9a/99a67bba-74e1-5907-b0c4-b6be6666bca3/5e9dd1fbaaefd.image.jpg?resize=400%2C349"
+    width: 400
+    height: 349
     title: "RSIP Vision Launches a Pioneering AI Suite Providing Optimal Solutions to Key Tasks in Lung Surgery"
 
-secured: "TB1Em10ipgAOTkXxfhkM6hFXp2Ubo1nYlg9eR3xn3FWRO4IzpowWyzMXhFwlyjqkqG6ayt0m93ekfGuouDfCHnINZ2M+xNEFh3JEqauYZ4mQy/b/+deafHQ+1D4QGjYrVdDX/0VzviwvPBMxUhP3hfKVfnBew7MXAmWPc5pHBZgsQZdAKt7txA7+SrnH08G1MayQIEJt5UBPMZweN4IHZLRGTgmxou+ghZX/qi0CcTGVYOnS/kKRzi8r4DRPUzUN/habakHCqNYieitMSsIMGtTuL9mji1j13SL9hkMh7CV2Bl1+g4JZGadiMLLYf9g45QxVcLbIHhhbcNtMBxbhj7UY8+7DF8NhUs6rEFO5WIfkqe2Jh7r1RS1lNQrwNuZvzo48XLRjXu2evlnGksJGpCfHac3dW2Qd/l9DbgzuEqqb6E2+T524/ZUqqMwG+MboM+ssdZS2PICObb3+aZfeQGdkQvceJU8hpVbxIXqJd2M=;J2pxB4BVjjmKCn57kDhBLA=="
+secured: "L8nZgSEdaXgxLbO0bWTkaFaw9ne9Uo1UEpsOh1lb76ShoxPfeKm+XMdKaZMbFzadmzbdCpo/MhznOoxz9WktaB2Nzegt1c0A9zUHvG6ybA4iZyW5zzO+6LaAj7dtRaCNY8KMtgPtcdNsuHVdn55QS9bIrmFHiJN3vQZXuTrcDqGOP9Swl7kO+vye/A/yBWlcjvDvX7cmoXq/0JIVcb+XFL9W5S11BQhoQ5BzAzYRKg1miRZhDhCj2ugDrxmTY3Q8xKppybZDZWcSq0XwoOqghbB+Wo/T7SWu6QAdGAawhKlpfXz0Mc9dZij3EbYdipd0;cqq8LkG69yJVloc+tdZATA=="
 ---
 

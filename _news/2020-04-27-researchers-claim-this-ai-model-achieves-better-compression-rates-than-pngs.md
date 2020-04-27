@@ -8,7 +8,7 @@ ampWebUrl: "https://thenextweb.com/neural/2020/04/27/researchers-claim-this-ai-m
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/04/27/researchers-claim-this-ai-model-achieves-better-compression-rates-than-pngs/amp/"
 type: article
 quality: 85
-heat: 85
+heat: 87
 published: true
 
 provider:
@@ -28,6 +28,6 @@ images:
     height: 418
     title: "Researchers claim this AI model achieves better compression rates than PNGs"
 
-secured: "EbEqYpWCH0t12Eb5HpOnyJXi9Dy9p7yeeX7Ps/DMBBdvzRXIR89O4S906nszNCUFevdC0Q42tcbtnS3bpwnFwwNlkc4nwGfZ7+SiCZDWLEAg6pd4jSWnAuMVCSg51MnvD2ygG3REV/G2iWGfM1ujV//qpgcyGctqmt9Zbk0SIaNALcSJPwlbdIy40lTPDKKlpq44DBmHR6fb3bnpvrVk53wx91YJvxbiTg9+A6PLdOomPajzEllqEG1iDX4op3FBkYGxGVbgaPOuFo3X9o+3BAiBEIOtKQFUeCw0GBx+vpJn/Qkf9Lo99uiRr+RndFrC;WGnWQ0sjEg8euBir665UMA=="
+secured: "bnpSW4ZajpulT08gEPQGo+9hN1WjPXeXV7BuzU3y9nqjOyHE4TUNk1h0y3fYheGDGitIRrSlOA7iTfxVupOvCVUbdr6yA+86IWoTV859cHkRCb56B0SwWRz/Howa+XGRFMJXhp3ePw+LcujgHfD47Ty4suHvySoE934WIl4BqHy5c0qT6iDGzUqYdnPle1EvpHiSD8OSAkyFX8YEVNvJW2Zn01+iXZK06FBMho8b0TtxnQC0FcSaxCquxdUcl00Rg3k/K3BQKmQFeopvkM3h3pipk5ojg7gbyluGOUQ0KpY71MsbH8VxS9mqjt5rA+hkRgTJq2H+UpHmtHnJv0RvZwtB+LZ0mJaZY6rR859ybczbzj1DSz4qoqJsjz7UQrJJ+SK3yCfDalEyYo6GCPjdIOa0ybsWqRiyHY/MDw6KaGkRyrayR1fO4hkXV3kjfsJ4h8OcqkOEuaGFIPYLz1siynyK5BwNtumdf/eumS7slZo=;E+mjpFaTmdBrcoKHRW3Ciw=="
 ---
 

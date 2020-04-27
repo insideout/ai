@@ -2,6 +2,229 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-04-16-samsung-to-tap-us-semiconductor-firm-xilinxs-chips-for-5g-network-equipment.md",
+      "title": "Samsung to tap US semiconductor firm Xilinx’s chips for 5G network equipment",
+      "excerpt": "The companies said Samsung will use Xilinx’s “Versal” computing chips, which will help with a technology called beamforming that lets 5G gear handle more wireless data than previous generations of networks. Sign up now and get a 10% discount (original price US$400) off the China AI Report 2020 by SCMP Research. Learn about the AI ...",
+      "heat": 86,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.scmp.com/tech/gear/article/3080140/samsung-tap-us-semiconductor-firm-xilinxs-chips-5g-network-equipment",
+      "ampWebUrl": "https://amp.scmp.com/tech/gear/article/3080140/samsung-tap-us-semiconductor-firm-xilinxs-chips-5g-network-equipment",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/gear/article/3080140/samsung-tap-us-semiconductor-firm-xilinxs-chips-5g-network-equipment",
+      "publishedDateTime": "2020-04-15T19:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/04/16/0e822f84-7f87-11ea-8736-98edddd9b5ca_image_hires_101214.JPG?itok=wyBLDjSC&v=1587003142",
+          "width": 1200,
+          "height": 630,
+          "title": "Samsung to tap US semiconductor firm Xilinx’s chips for 5G network equipment",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-16-samsung-and-xilinx-partner-on-chips-for-5g-networks.md",
+      "title": "Samsung and Xilinx partner on chips for 5G networks",
+      "excerpt": "In an email, Manuel Uhm, director of silicon marketing at Xilinx, said these chips work well for 5G. That’s because the AI engines within the AI Core series have been optimized for advanced signal processing, as well as AI inference. In particular, for signal processing, the AI engines were developed with 5G wireless algorithms in mind ...",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/15/samsung-and-xilinx-team-up-on-chips-behind-5g-networks/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/15/samsung-and-xilinx-team-up-on-chips-behind-5g-networks/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/15/samsung-and-xilinx-team-up-on-chips-behind-5g-networks/amp/",
+      "publishedDateTime": "2020-04-15T18:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/xilinx-Versal_Angled-Left.jpg?fit=1200%2C770&strip=all",
+          "width": 1200,
+          "height": 770,
+          "title": "Samsung and Xilinx partner on chips for 5G networks",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-16-these-are-the-new-hot-spots-of-innovation-in-the-time-of-coronavirus.md",
+      "title": "These are the new hot spots of innovation in the time of coronavirus",
+      "excerpt": "Entrepreneurs are innovating in new ways as a result of the coronavirus. Potential examples include virus resistant nanoparticles for health worker protective gear and home schooling solutions, CEO of global start-up accelerator The Founder Institute Adeo Ressi tells CNBC Make It.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2020/04/15/hot-spots-of-innovation-as-a-result-of-coronavirus-pandemic.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/04/15/hot-spots-of-innovation-as-a-result-of-coronavirus-pandemic.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/04/15/hot-spots-of-innovation-as-a-result-of-coronavirus-pandemic.html",
+      "publishedDateTime": "2020-04-15T17:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106490055-1586970735615outschoolteam.jpg?v=1586970997",
+          "width": 1800,
+          "height": 1200,
+          "title": "These are the new hot spots of innovation in the time of coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-16-healthcare-organizations-use-nvidias-clara-federated-learning-to-improve-mammogram-analysis-ai.md",
+      "title": "Healthcare organizations use Nvidia’s Clara federated learning to improve mammogram analysis AI",
+      "excerpt": "A group of healthcare organizations in the United States and Brazil have used federated learning to improve AI mammography classification models for recognizing tumors. An Nvidia spokesperson declined to share specific performance details, but said a combined effort led to better classification model performance than models made by any of the ...",
+      "heat": 75,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/15/healthcare-organizations-use-nvidias-clara-federated-learning-to-improve-mammogram-analysis-ai/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/15/healthcare-organizations-use-nvidias-clara-federated-learning-to-improve-mammogram-analysis-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/15/healthcare-organizations-use-nvidias-clara-federated-learning-to-improve-mammogram-analysis-ai/amp/",
+      "publishedDateTime": "2020-04-15T17:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/nci-vol-2573-300.jpg?fit=1800%2C900&strip=all",
+          "width": 1800,
+          "height": 900,
+          "title": "Healthcare organizations use Nvidia’s Clara federated learning to improve mammogram analysis AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-16-three-platforms-where-ai-bias-lives.md",
+      "title": "Three Platforms Where AI Bias Lives",
+      "excerpt": "Google made the decision to prevent its “Smart Compose”—a feature that predicts what users intend to write in emails and auto-completes sentences—from suggesting gender-based pronouns such as “him”, her”,",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/falonfatemi/2020/04/15/three-platforms-where-ai-bias-lives/",
+      "ampWebUrl": "https://www.forbes.com/sites/falonfatemi/2020/04/15/three-platforms-where-ai-bias-lives/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/falonfatemi/2020/04/15/three-platforms-where-ai-bias-lives/amp/",
+      "publishedDateTime": "2020-04-15T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1158763612%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5616%26cropY1%3D585%26cropY2%3D3744",
+          "width": 1200,
+          "height": 675,
+          "title": "Three Platforms Where AI Bias Lives",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-15-medopad-rebrands-to-huma-makes-acquisitions-to-bolster-its-ai-health-monitoring-portfolio.md",
       "title": "Medopad rebrands to Huma, makes acquisitions to bolster its AI health monitoring portfolio",
       "excerpt": "Digital health company Medopad today announced that it’s rebranding to Huma and acquiring two companies — BioBeats and Tarilian Laser Technologies (TLT) — to add support for new biomarkers to its AI-powered patient monitoring platform. When contacted for comment, a Huma spokesperson declined to disclose the purchase price for the two ...",
@@ -879,220 +1102,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-15-mits-ai-powered-device-lets-doctors-monitor-coronavirus-patients-remotely.md",
-      "title": "MIT’s AI-powered device lets doctors monitor coronavirus patients remotely",
-      "excerpt": "A new device that uses AI to monitor coronavirus symptoms is helping doctors treat patients beyond the reach of infection. The box-like device emits wireless signals that bounce off human bodies before returning to the system. Algorithms then analyze changes in the signals to infer the person’s breathing rate, sleep patterns, and movements.",
-      "heat": 85,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/04/15/mits-ai-powered-device-lets-doctors-monitor-coronavirus-patients-remotely/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/04/15/mits-ai-powered-device-lets-doctors-monitor-coronavirus-patients-remotely/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/04/15/mits-ai-powered-device-lets-doctors-monitor-coronavirus-patients-remotely/amp/",
-      "publishedDateTime": "2020-04-15T06:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/04/BABY-BREATH-MONITOR.jpg",
-          "width": 600,
-          "height": 349,
-          "title": "MIT’s AI-powered device lets doctors monitor coronavirus patients remotely",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-15-the-global-artificial-intelligence-in-healthcare-market-is-set-to-register-growth-projecting-a-cagr-of-3805-during-the-forecast-period-2020-2028.md",
-      "title": "The global artificial intelligence in healthcare market is set to register growth, projecting a CAGR of 38.05% during the forecast period, 2020-2028",
-      "excerpt": "KEY FINDINGS The global artificial intelligence in healthcare market is set to register growth, projecting a CAGR of 38.05% during the",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.prnewswire.com/news-releases/the-global-artificial-intelligence-in-healthcare-market-is-set-to-register-growth-projecting-a-cagr-of-38-05-during-the-forecast-period-2020-2028--301045674.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-15T06:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg",
-          "width": 600,
-          "height": 315,
-          "title": "The global artificial intelligence in healthcare market is set to register growth, projecting a CAGR of 38.05% during the forecast period, 2020-2028",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-15-awake-security-raises-36-million-for-ai-that-identifies-network-threats.md",
-      "title": "Awake Security raises $36 million for AI that identifies network threats",
-      "excerpt": "“Stolen insider credentials are far more effective than malware for the attacker. These threats cannot be discovered through the use of signatures, or even some of the early approaches to AI-based security that rely on unsupervised machine learning.” One of the major arguments against platforms that use purely unsupervised machine learning ...",
-      "heat": 86,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/15/awake-security-raises-36-million-for-ai-that-identifies-network-threats/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/15/awake-security-raises-36-million-for-ai-that-identifies-network-threats/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/15/awake-security-raises-36-million-for-ai-that-identifies-network-threats/amp/",
-      "publishedDateTime": "2020-04-15T06:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/Screenshot_2020-04-15-Awake-Security-Technology-Walkthrough.png?fit=1244%2C661&strip=all",
-          "width": 1244,
-          "height": 661,
-          "title": "Awake Security raises $36 million for AI that identifies network threats",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-15-frame-ai-raises-63m-series-a-to-help-understand-customers-across-channels.md",
-      "title": "Frame AI raises $6.3M Series A to help understand customers across channels",
-      "excerpt": "Frame AI, a New York City startup that uses artificial intelligence and machine learning to help companies understand their customers better across multiple channels, announced a $6.3 million Series A investment today. G20 Ventures and Greycroft led the round together. Bill Wiberg, co-founder and partner at G20, will join Frame’s board under ...",
-      "heat": 85,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/04/15/frame-ai-raises-6-3m-series-a-to-help-understand-customers-across-channels/",
-      "ampWebUrl": "https://techcrunch.com/2020/04/15/frame-ai-raises-6-3m-series-a-to-help-understand-customers-across-channels/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/15/frame-ai-raises-6-3m-series-a-to-help-understand-customers-across-channels/amp/",
-      "publishedDateTime": "2020-04-15T06:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/04/GettyImages-1136194804.jpg?w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": "Frame AI raises $6.3M Series A to help understand customers across channels",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-15-gigabyte-aero-17-review-a-gorgeous-4k-laptop-that-finally-makes-sense.md",
-      "title": "Gigabyte Aero 17 review: A gorgeous 4K laptop that finally makes sense",
-      "excerpt": "For our testing, we didn’t rely on Gigabyte’s “AI” feature, which references an AI database for guidance on how hard it can push loads. Instead we set the laptop to its “gaming” fan threshold and set the GPU and CPU settings to their maximum setting. We don’t believe this to be an overclock, but it’s also hard to say because the ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.pcworld.com/article/3537520/gigabyte-aero-17-review.html",
-      "ampWebUrl": "https://www.pcworld.com/article/3537520/gigabyte-aero-17-review.amp.html",
-      "cdnAmpWebUrl": "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/3537520/gigabyte-aero-17-review.amp.html",
-      "publishedDateTime": "2020-04-15T06:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC World",
-        "domain": "pcworld.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/pcworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2020/04/aero_17_lid-100838518-large.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "Gigabyte Aero 17 review: A gorgeous 4K laptop that finally makes sense",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

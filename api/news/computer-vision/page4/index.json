@@ -2,6 +2,72 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-03-15-legal-aid-society-dubious-of-new-nypd-facial-recognition-provision.md",
+      "title": "Legal Aid Society dubious of new NYPD facial recognition provision",
+      "excerpt": "He was surrounded by representatives of the Jewish community and flanked by Commissioner Dermot Shea. (Photo by Todd Maisel) An update to the NYPD policy regarding facial recognition technology does not change precautions against using the feature as evidence to convict, according to Commissioner Dermot Shea. As the technology advances ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.amny.com/police-fire/legal-aid-society-dubious-of-new-nypd-facial-recognition-provision/",
+      "ampWebUrl": "https://www.amny.com/police-fire/legal-aid-society-dubious-of-new-nypd-facial-recognition-provision/amp/",
+      "cdnAmpWebUrl": "https://www-amny-com.cdn.ampproject.org/c/s/www.amny.com/police-fire/legal-aid-society-dubious-of-new-nypd-facial-recognition-provision/amp/",
+      "publishedDateTime": "2020-03-15T10:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AM New York",
+        "domain": "amny.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-15-aclu-sues-dhs-to-expose-secretive-use-of-facial-recognition-technology.md",
+      "title": "ACLU sues DHS to expose secretive use of facial recognition technology",
+      "excerpt": "Feel free to republish and share widely. The ACLU's national and New York arms filed a federal lawsuit Thursday against the U.S. Department of Homeland Security and three of its agencies to expose law enforcement's secretive use of facial recognition surveillance technology. The new suit in the U.S. District Court for the Southern District of ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.salon.com/2020/03/15/aclu-sues-dhs-to-expose-secretive-use-of-facial-recognition-technology_partner/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-15T05:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Salon",
+        "domain": "salon.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.salon.com/2014/09/surveillance_camera.jpg",
+          "width": 620,
+          "height": 412,
+          "title": "ACLU sues DHS to expose secretive use of facial recognition technology",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-15-port-of-seattle-moves-toward-implementing-facial-recognition.md",
       "title": "Port of Seattle moves toward implementing facial recognition",
       "excerpt": "Over protests from civil-liberties groups, the Port of Seattle Commission voted Tuesday to purchase and install facial-recognition cameras at Seattle-Tacoma International Airport’s international departure gates.",
@@ -1102,80 +1168,6 @@
         "Computer Vision",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-10-top-7-baselines-for-image-recognition.md",
-      "title": "Top 7 Baselines For Image Recognition",
-      "excerpt": "SVHN is obtained from house numbers in Google Street View images. SVHN was introduced to develop machine learning and object recognition algorithms with a minimal requirement on data preprocessing and formatting. In this paper, a simple procedure called AutoAugment is defined to automatically search for improved data augmentation policies.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://analyticsindiamag.com/image-classification-models-benchmark-state-of-the-art/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-10T00:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://analyticsindiamag.com/wp-content/uploads/2020/03/imrec.png",
-          "width": 667,
-          "height": 500,
-          "title": "Top 7 Baselines For Image Recognition",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-10-canadian-correctional-facility-to-test-threat-detection-platform.md",
-      "title": "Canadian Correctional Facility to Test Threat Detection Platform",
-      "excerpt": "\"The contract from Innovative Solution Canada was awarded to Patriot One for its PATSCAN Platform, with specific interest around the Video Object Recognition Software (VRS) solution for the detection of visible make-shift knives, cellphones, as well as ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.streetwisereports.com/article/2020/03/09/canadian-correctional-facility-to-test-threat-detection-platform.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-09T17:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "streetwisereports.com",
-        "domain": "streetwisereports.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.streetwisereports.com/images/AS_Prison3-9-20-900.jpg",
-          "width": 900,
-          "height": 514,
-          "title": "Canadian Correctional Facility to Test Threat Detection Platform",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

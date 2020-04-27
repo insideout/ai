@@ -6,7 +6,7 @@ publishedDateTime: 2020-04-23T17:44:00Z
 webUrl: "https://www.eurekalert.org/pub_releases/2020-04/miot-rtc042320.php"
 type: article
 quality: 41
-heat: 41
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,15 @@ images:
     title: "Reducing the carbon footprint of artificial intelligence"
 
 related:
+  - title: "Reducing the carbon footprint of artificial intelligence"
+    excerpt: "A new system cuts the energy required for training and running neural networks. Artificial intelligence has become a focus of certain ethical concerns, but it also has some major sustainability issues."
+    publishedDateTime: 2020-04-27T14:23:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2020/04/200423143034.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 49
   - title: "New system could reduce the carbon footprint of artificial intelligence"
     excerpt: "The paper is being presented next week at the International Conference on Learning Representations. Joining Han on the paper are four undergraduate and graduate students from EECS, MIT-IBM Watson AI Lab, and Shanghai Jiao Tong University. Creating a “once-for-all” network The researchers built the system on a recent AI advance called AutoML ..."
     publishedDateTime: 2020-04-25T10:36:00Z

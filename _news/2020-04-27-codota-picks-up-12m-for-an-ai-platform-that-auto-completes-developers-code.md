@@ -28,6 +28,6 @@ images:
     height: 682
     title: "Codota picks up $12M for an AI platform that auto-completes developers’ code"
 
-secured: "CSu7fIN9B+owffWgfV1dhs9/Fc2s0BtlIgCOehzxL0D3VsPhXuEWM4CxmBFQfHf9Q6T1+D8h/L7DYkCMz0jmRh8Xr96OX/3fISNtpH+HKZTnprXsCWpRChyOZyaXNDel6f/ANIBtyOJq/lG3vXOLd/FUUm2YKDZ6Wnyd82CGXck0kNubzbZ51nz/UQzmZEQtUHffVvofDCObtNTUcNQRYZiitZzUXheObyVdq1efaOCr3DxqIPeCnpOwGz7kJbZYpNjpA+PTSXeYSlb1ga8N+rYwUi7BVSuasmmLeuGDdcGrE3Lv8hcjileV2JDNL/lX;yCc+63E49dTLN17tcWmB9A=="
+secured: "WxIIwktZSmweUygFCgO77ieX52AcckaG8I3hRhCrid+iLFAWAf91KibGPcXn+g0w0cKtKt6doJ3fGHruyjry6Yz1V+N0U2q9t00mdtqBqth2aq7zVs5QNMyO8l2w/AAXroLjxgSCKz5FpjTGwiCIFiLumFcrJVF3u3mXRpRnZBTVgJ+yfb9s3RJ+snTdRSTAIBOe2Pz/hmuOy6EiKRcj1fBDedszWia0IobQLB/Bdl8vgM3kdeMbSZXcNkj9pm2R/faMsuVaeTum8rUnvIi75sl5QUkBuo70xULQ+vlrLwXrA/IRYvs9pFc7FpNU+99xpqMIuSVIxLlX5myNST2wEOd56nsKTMKGvZlJibdkgu7xQwnHhLICZNH8ExCulXRRvGyWkJ5TvRbD6LfY5vUu8kluQJmYfMBtcnGMHRj1b+gg71P+I/03KZezDqCdDWbhx9QTY6MSrj7f7Y7K+M5ckh2vjLZgLFl2D0DuNj1mI4E=;5l6fzQLvp0LOPAaPGqbNRg=="
 ---
 

@@ -5,7 +5,7 @@
       "path": "_news/2020-04-27-12-ai-milestones-4-mycin-an-expert-system-for-infectious-disease-therapy.md",
       "title": "12 AI Milestones: 4. MYCIN, An Expert System For Infectious Disease Therapy",
       "excerpt": "MYCIN was an AI program developed at Stanford University in the early 1970s, designed to assist physicians by recommending treatments for certain infectious diseases.",
-      "heat": 102,
+      "heat": 114,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.forbes.com/sites/gilpress/2020/04/27/12-ai-milestones-4-mycin-an-expert-system-for-infectious-disease-therapy/",
@@ -43,7 +43,8 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
+        "AI",
+        "Natural Language Processing"
       ]
     },
     {

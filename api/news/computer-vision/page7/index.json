@@ -2,6 +2,89 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-02-06-top-homeland-security-democrat-voices-opposition-to-facial-recognition-moratorium.md",
+      "title": "Top Homeland Security Democrat voices opposition to facial recognition moratorium",
+      "excerpt": "on Thursday voiced concern about placing a federal moratorium on facial recognition technology, a pr",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thehill.com/policy/technology/481866-top-homeland-security-dem-voices-opposition-to-facial-recognition",
+      "ampWebUrl": "https://thehill.com/policy/technology/481866-top-homeland-security-dem-voices-opposition-to-facial-recognition?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/481866-top-homeland-security-dem-voices-opposition-to-facial-recognition?amp",
+      "publishedDateTime": "2020-02-06T11:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/thompsonbennie_010920gn_lead.jpg",
+          "width": 980,
+          "height": 551,
+          "title": "Top Homeland Security Democrat voices opposition to facial recognition moratorium",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2020-02-06-is-clearview-ais-facial-recognition-legal-we-need-to-figure-it-out-soon.md",
+      "title": "Is Clearview AI’s facial recognition legal? We need to figure it out soon",
+      "excerpt": "“What’s required to properly govern Clearview AI and so much else is a thoroughgoing reexamination of what private and public mean that shifts the key debates in law, ethics, design, and even everyday expectations. In short, it’s long overdue to acknowledge that people can have legitimate privacy interests in publicly shared information.",
+      "heat": 165,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.digitaltrends.com/news/clearview-ai-data-scraping-legal/",
+      "ampWebUrl": "https://www.digitaltrends.com/news/clearview-ai-data-scraping-legal/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/clearview-ai-data-scraping-legal/?amp",
+      "publishedDateTime": "2020-02-06T02:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://icdn3.digitaltrends.com/image/digitaltrends/facial-recognition-composite-1200x630-c-ar1.91.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": "Is Clearview AI’s facial recognition legal? We need to figure it out soon",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2020-02-05-facial-recognition-tech-used-by-volusia-deputies-criticized-for-scraping.md",
       "title": "Facial recognition tech used by Volusia deputies criticized for ‘scraping’",
       "excerpt": "VOLUSIA COUNTY, Fla. – The company behind a facial recognition tool used by the Volusia County Sheriff's Office is coming under fire after some large tech companies said the tool is violating their terms of use. According to CBS News, Clearview AI received cease and desist letters late Tuesday from Google and YouTube. The letters surrounded ...",
@@ -1162,96 +1245,6 @@
           "width": 756,
           "height": 567,
           "title": "Facial recognition in schools: Even supporters say it won't stop shootings",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-01-24-facebook-messenger-may-soon-use-face-recognition-to-lock-the-app.md",
-      "title": "Facebook Messenger may soon use face recognition to lock the app",
-      "excerpt": "Perhaps more importantly, the text suggests that face recognition details will not be stored on Facebook’s servers. Whether it will implement its own technology or use Android’s and iOS’s facilities isn’t yet clear. And whether it will indeed do as it says will be a whole different matter entirely.",
-      "heat": 129,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.slashgear.com/facebook-messenger-may-soon-use-face-recognition-to-lock-the-app-24607595/",
-      "ampWebUrl": "https://www.slashgear.com/facebook-messenger-may-soon-use-face-recognition-to-lock-the-app-24607595/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/facebook-messenger-may-soon-use-face-recognition-to-lock-the-app-24607595/amp/",
-      "publishedDateTime": "2020-01-23T21:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://scdn.slashgear.com/wp-content/uploads/2020/01/messenger.jpg",
-          "width": 1280,
-          "height": 800,
-          "title": "Facebook Messenger may soon use face recognition to lock the app",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-01-23-clearview-facial-recognition-app-may-pose-chilling-privacy-risk-senator-says.md",
-      "title": "Clearview facial recognition app may pose 'chilling' privacy risk, senator says",
-      "excerpt": "Democratic Sen. Edward Markey of Massachusetts issued an open letter Thursday demanding answers from the creator of a controversial facial recognition app used by US law enforcement. The letter to Clearview AI CEO Hoan Ton-That follows a New York Times investigation into the software company and its app, which can identify people by comparing ...",
-      "heat": 125,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnet.com/news/senator-demands-answers-from-clearview-ai/",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/senator-demands-answers-from-clearview-ai/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/senator-demands-answers-from-clearview-ai/",
-      "publishedDateTime": "2020-01-23T11:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cnet1.cbsistatic.com/img/IxXdPYP12dIlVU2KQR_njg7CUPU=/756x567/2020/01/23/ee631f2b-5f68-46ed-bf92-8888b7960bee/markey-getty.jpg",
-          "width": 756,
-          "height": 567,
-          "title": "Clearview facial recognition app may pose 'chilling' privacy risk, senator says",
           "attribution": null
         }
       ],

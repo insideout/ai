@@ -2,6 +2,229 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2020-04-08-using-cloudfront-to-secure-your-web-applications.md",
+      "title": "Using CloudFront to secure your web applications",
+      "excerpt": "Cybersecurity is a hot topic now. If you search on Google about how to protect your website, you may find many buzzwords, IDS, IPS, WAF, DDoS, Proxy, you name it. You may think protecting your ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/swlh/using-aws-to-secure-your-web-applications-3bd363206875",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-08T13:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/1200/1*ner-yFUzwHIG_nkxW9C29g.png",
+          "width": 1200,
+          "height": 675,
+          "title": "Using CloudFront to secure your web applications",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-08-storytelling-diversity-the-ai-edge-in-la.md",
+      "title": "Storytelling & Diversity: The AI Edge In LA",
+      "excerpt": "LA is known as the land of storytellers, but when it comes to its own story, the entertainment business is still front and center. In fact, LA has been at the core of a flourishing AI scene for decades.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/04/08/ai-edge-la/",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/04/08/ai-edge-la/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/04/08/ai-edge-la/amp/",
+      "publishedDateTime": "2020-04-08T12:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e8e1eabfc5d3f00067c5eba%2F0x0.jpg",
+          "width": 978,
+          "height": 1037,
+          "title": "Storytelling & Diversity: The AI Edge In LA",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-08-how-ai-is-helping-scientists-in-the-fight-against-covid-19-from-robots-to-predicting-the-future.md",
+      "title": "How AI is helping scientists in the fight against COVID-19, from robots to predicting the future",
+      "excerpt": "“AI is playing numerous roles, all of which are important based on where we are in the pandemic cycle,” the two told GeekWire in an email. “But what if the virus could have been contained?” Canadian health surveillance startup BlueDot was among the first in the world to identify the COVID-19 risk and accurately predict its ...",
+      "heat": 103,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.geekwire.com/2020/ai-helping-scientists-fight-covid-19-robots-predicting-future/",
+      "ampWebUrl": "https://www.geekwire.com/2020/ai-helping-scientists-fight-covid-19-robots-predicting-future/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/ai-helping-scientists-fight-covid-19-robots-predicting-future/amp/",
+      "publishedDateTime": "2020-04-08T12:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2019/02/190210-ai-630x420.jpg",
+          "width": 630,
+          "height": 420,
+          "title": "How AI is helping scientists in the fight against COVID-19, from robots to predicting the future",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2020-04-08-google-releases-api-to-train-smaller-faster-ai-models.md",
+      "title": "Google releases API to train smaller, faster AI models",
+      "excerpt": "The QAT API solves this by simulating low-precision computation during the AI model training process. Quantization error is introduced as noise throughout the training, which QAT API’s algorithm tries to minimize such that it learns variables more robust to quantization. A training graph leverages operations that convert floating-point ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/08/google-releases-api-to-train-smaller-faster-ai-models/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/08/google-releases-api-to-train-smaller-faster-ai-models/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/08/google-releases-api-to-train-smaller-faster-ai-models/amp/",
+      "publishedDateTime": "2020-04-08T11:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/06/tensorflow.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Google releases API to train smaller, faster AI models",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-08-coronavirus-crisis-gives-an-opportunity-for-ai-to-shine.md",
+      "title": "Coronavirus crisis gives an opportunity for AI to shine",
+      "excerpt": "SEE: Coronavirus: Critical IT policies and tools every business needs (TechRepublic Premium) It seems that artificial intelligence (AI) and machine learning (ML) have important roles to play as physicians, hospitals, pharmaceutical companies, and others directly engaged in the coronavirus fight try to find rapid therapeutic and containment answers.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/article/coronavirus-crisis-gives-an-opportunity-for-ai-to-shine/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/coronavirus-crisis-gives-an-opportunity-for-ai-to-shine/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/coronavirus-crisis-gives-an-opportunity-for-ai-to-shine/",
+      "publishedDateTime": "2020-04-08T11:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/04/08/0f2c7dfc-c9c7-468a-a36d-eafc5cc75256/resize/1200x/48d39f57b6e8ab042b8f7759922c32a7/istock-1204743045.jpg",
+          "width": 1200,
+          "height": 654,
+          "title": "Coronavirus crisis gives an opportunity for AI to shine",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-08-ai-and-account-based-marketing-in-a-time-of-disruption.md",
       "title": "AI And Account Based Marketing In A Time Of Disruption",
       "excerpt": "How is AI holding up? Has the pandemic impacted the quality of data used to feed analytic tools that help marketers create both strategic and tactical scenarios and insights? Alex Atzberger: There is more data and more need for automation and AI now than ever.",
@@ -1053,207 +1276,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-08-hong-kong-developer-chinachems-hotels-unit-brings-in-robots-to-beat-coronavirus-slump.md",
-      "title": "Hong Kong developer Chinachem’s hotels unit brings in robots to beat coronavirus slump",
-      "excerpt": "The company, which is wholly owned by property developer Chinachem Group, will have three artificial intelligence robots called Genie delivering meals and drinks to guests ... Last week, InterContinental Hong Kong hotel, also in Tsim Sha Tsui, opted to start a lengthy renovations process earlier than scheduled and let go of about 500 staff ...",
-      "heat": 81,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.scmp.com/business/article/3078765/hong-kong-developer-chinachems-hotels-unit-brings-robots-beat-coronavirus",
-      "ampWebUrl": "https://amp.scmp.com/business/article/3078765/hong-kong-developer-chinachems-hotels-unit-brings-robots-beat-coronavirus",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/business/article/3078765/hong-kong-developer-chinachems-hotels-unit-brings-robots-beat-coronavirus",
-      "publishedDateTime": "2020-04-07T18:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/04/07/c95fc976-77c9-11ea-9479-e3cad17ef2b4_image_hires_172711.jpg?itok=yRHzUuTY&v=1586251637",
-          "width": 1200,
-          "height": 630,
-          "title": "Hong Kong developer Chinachem’s hotels unit brings in robots to beat coronavirus slump",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-08-bring-your-own-model-for-amazon-sagemaker-labeling-workflows-with-active-learning.md",
-      "title": "Bring your own model for Amazon SageMaker labeling workflows with active learning",
-      "excerpt": "With Amazon SageMaker Ground Truth, you can easily and inexpensively build accurately labeled machine learning (ML) datasets. To decrease labeling costs, SageMaker Ground Truth uses active learning to differentiate between data objects (like images or documents) that are difficult and easy to label.",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/bring-your-own-model-for-amazon-sagemaker-labeling-workflows-with-active-learning/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-07T17:10:17-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0.png",
-          "width": 1260,
-          "height": 630,
-          "title": "Bring your own model for Amazon SageMaker labeling workflows with active learning",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-08-artificial-intelligence-ai-in-agriculture.md",
-      "title": "Artificial Intelligence (AI) in Agriculture",
-      "excerpt": "Artificial Intelligence has various application in agriculture ranging from rural automatons, facial acknowledgment, computerized water system frameworks, and driverless tractors. These ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.openpr.com/news/2004110/artificial-intelligence-ai-in-agriculture-market-overall",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-07T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-08-aws-to-azure-services-comparison.md",
-      "title": "AWS to Azure services comparison",
-      "excerpt": "This article helps you understand how Microsoft Azure services compare to Amazon Web Services (AWS). Whether you are planning ... including single virtual machine or multiple virtual machine solutions. SageMaker Machine Learning A cloud service to train ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://docs.microsoft.com/en-us/azure/architecture/aws-professional/services",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-07T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png",
-          "width": 400,
-          "height": 400,
-          "title": "AWS to Azure services comparison",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-08-deep-learning-shows-promising-growth-amid-challenges.md",
-      "title": "Deep Learning Shows Promising Growth Amid Challenges",
-      "excerpt": "Deep learning, a subset of machine learning and artificial intelligence (AI), has been there since a while, but became an overnight “sensation” when in 2016, Google’s AI program, a robot ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cxotoday.com/news-analysis/deep-learning-shows-promising-growth-amid-challenges/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-07T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CXO Today",
-        "domain": "cxotoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.cxotoday.com/wp-content/uploads/2020/04/deep-learning5.jpg",
-          "width": 600,
-          "height": 450,
-          "title": "Deep Learning Shows Promising Growth Amid Challenges",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

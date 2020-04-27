@@ -2,6 +2,80 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-03-10-top-7-baselines-for-image-recognition.md",
+      "title": "Top 7 Baselines For Image Recognition",
+      "excerpt": "SVHN is obtained from house numbers in Google Street View images. SVHN was introduced to develop machine learning and object recognition algorithms with a minimal requirement on data preprocessing and formatting. In this paper, a simple procedure called AutoAugment is defined to automatically search for improved data augmentation policies.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://analyticsindiamag.com/image-classification-models-benchmark-state-of-the-art/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-10T00:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://analyticsindiamag.com/wp-content/uploads/2020/03/imrec.png",
+          "width": 667,
+          "height": 500,
+          "title": "Top 7 Baselines For Image Recognition",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-10-canadian-correctional-facility-to-test-threat-detection-platform.md",
+      "title": "Canadian Correctional Facility to Test Threat Detection Platform",
+      "excerpt": "\"The contract from Innovative Solution Canada was awarded to Patriot One for its PATSCAN Platform, with specific interest around the Video Object Recognition Software (VRS) solution for the detection of visible make-shift knives, cellphones, as well as ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.streetwisereports.com/article/2020/03/09/canadian-correctional-facility-to-test-threat-detection-platform.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-09T17:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "streetwisereports.com",
+        "domain": "streetwisereports.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.streetwisereports.com/images/AS_Prison3-9-20-900.jpg",
+          "width": 900,
+          "height": 514,
+          "title": "Canadian Correctional Facility to Test Threat Detection Platform",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-09-marylands-face-recognition-system-is-one-of-the-most-invasive-in-the-nation-commentary.md",
       "title": "Maryland’s face recognition system is one of the most invasive in the nation | COMMENTARY",
       "excerpt": "Her photo was posted on news channels and all over the internet. The mistake was the result of faulty face recognition technology, which Sri Lankan authorities had used to search for suspects.",
@@ -1099,97 +1173,6 @@
           "width": 2000,
           "height": 1124,
           "title": "This College Banned Students From Even Discussing Facial Recognition",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-02-19-ucla-abandons-plans-to-use-facial-recognition-after-backlash.md",
-      "title": "UCLA Abandons Plans to Use Facial Recognition After Backlash",
-      "excerpt": "In an attempt to highlight the risks of using facial recognition on UCLA's campus, Fight for the Future used Amazon's facial recognition software, Rekognition, to scan public photos of UCLA's athletes and faculty, then compare the photos to a mugshot database.",
-      "heat": 551,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.vice.com/en_us/article/z3by79/ucla-abandons-plans-to-use-facial-recognition-after-backlash",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-19T13:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VICE",
-        "domain": "vice.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/vice.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://video-images.vice.com/test-uploads/articles/5e4daba66b5b2900986d5840/lede/1582148536256-GettyImages-899305840.jpeg?crop=1xw:0.8436405216037368xh;center,center&resize=1200:*",
-          "width": 1200,
-          "height": 674,
-          "title": "UCLA Abandons Plans to Use Facial Recognition After Backlash",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-02-19-your-future-face-scanning-phone-could-check-for-live-skin.md",
-      "title": "Your future face-scanning phone could check for live skin",
-      "excerpt": "Sound creepy? It may actually make your Face ID-type sensor more secure and accurate. The company behind this expects to see the tech in phones by 2021. Fooling a face-scanning phone camera may be a lot more challenging in 2021.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnet.com/news/your-future-face-scanning-phone-could-check-for-live-skin/",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/your-future-face-scanning-phone-could-check-for-live-skin/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/your-future-face-scanning-phone-could-check-for-live-skin/",
-      "publishedDateTime": "2020-02-19T06:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cnet4.cbsistatic.com/img/D8Y4cgycDzhP4a5QPsbrC1_5WOI=/756x567/2020/02/18/14de88f1-b752-4f08-9a48-6cb05ac87b9e/trinamix-camera.jpg",
-          "width": 756,
-          "height": 567,
-          "title": "Your future face-scanning phone could check for live skin",
           "attribution": null
         }
       ],

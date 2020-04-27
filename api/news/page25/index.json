@@ -2,6 +2,215 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2020-04-03-a-more-hopeful-view-of-ais-impact-on-americas-rural-worker.md",
+      "title": "A More Hopeful View of AI’s Impact on America’s Rural Worker",
+      "excerpt": "In a new book, Kevin Scott says artificial intelligence can promote opportunity in the U.S. heartland if it comes with a national investment in education, broadband and businesses.",
+      "heat": 77,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.bloomberg.com/news/articles/2020-04-03/a-more-hopeful-view-of-ai-s-impact-on-america-s-rural-worker",
+      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-04-03/a-more-hopeful-view-of-ai-s-impact-on-america-s-rural-worker",
+      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-04-03/a-more-hopeful-view-of-ai-s-impact-on-america-s-rural-worker",
+      "publishedDateTime": "2020-04-03T11:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-03-ibm-makes-ai-tools-and-resources-available-to-coronavirus-researchers.md",
+      "title": "IBM makes AI tools and resources available to coronavirus researchers",
+      "excerpt": "Lastly, IBM says it trained an AI search system on the COVID-19 Open Research Dataset ... The freely available tool extracts embedded text, tables, and graphics to answer specific queries from vetted researchers. Watson Assistant for Citizens’ debut comes after IBM made available a map on The Weather Channel to track the spread of COVID ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/03/ibm-makes-ai-tools-and-resources-available-to-coronavirus-researchers/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/03/ibm-makes-ai-tools-and-resources-available-to-coronavirus-researchers/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/03/ibm-makes-ai-tools-and-resources-available-to-coronavirus-researchers/amp/",
+      "publishedDateTime": "2020-04-03T10:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/11/ibm-keyboard-logo.png?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "IBM makes AI tools and resources available to coronavirus researchers",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-03-how-to-get-and-use-voice-commands-in-mount-and-blade-ii-bannerlord.md",
+      "title": "How to get and use voice commands in Mount and Blade II: Bannerlord",
+      "excerpt": "Both full and trial version users will want to test how the software works with their voice and have the speech recognition software tune to your voice. You can do this by searching for ‘speech recognition’ in your desktop’s control panel, and then choosing ‘train your computer to understand you better.’ After that, follow the steps ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.gamepur.com/guides/how-to-get-and-use-voice-commands-in-mount-and-blade-ii-bannerlord",
+      "ampWebUrl": "https://www.gamepur.com/guides/how-to-get-and-use-voice-commands-in-mount-and-blade-ii-bannerlord/amp",
+      "cdnAmpWebUrl": "https://www-gamepur-com.cdn.ampproject.org/c/s/www.gamepur.com/guides/how-to-get-and-use-voice-commands-in-mount-and-blade-ii-bannerlord/amp",
+      "publishedDateTime": "2020-04-03T10:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gaming Polls",
+        "domain": "gamepur.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://assets.gamepur.com/wp-content/uploads/2020/04/01122550/Sword-and-Shield-Mount-blade-2.jpg",
+          "width": 1917,
+          "height": 1196,
+          "title": "How to get and use voice commands in Mount and Blade II: Bannerlord",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-03-a-cash-flow-model-to-meet-daily-banking-needs.md",
+      "title": "A Cash Flow Model to Meet Daily Banking Needs",
+      "excerpt": "In this post, we are going to present a use case within banking where deep learning (DL) turns out to be an efficient solution for time series prediction. The value of correct predictions of ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/analytics-ai-swedbank/predicting-customer-finances-using-deep-learning-168b47e54d54",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-03T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/1200/1*Ob4flUPrY9AdiImw8kL-Ew.jpeg",
+          "width": 1200,
+          "height": 800,
+          "title": "A Cash Flow Model to Meet Daily Banking Needs",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-03-tech-leaders-highlight-military-ai-and-5g-investments-they-call-essential-to-us-economy-and-national-security.md",
+      "title": "Tech leaders highlight military AI and 5G investments they call essential to U.S economy and national security",
+      "excerpt": "Other recommendations in the report include: On matters of privacy and ethics, the Commission singles out Clearview AI, a company that scraped billions of images from the web to create a facial recognition system, as an example of invasive AI-powered tech that should be avoided. Tech companies that track the location of individuals ...",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/03/tech-leaders-highlight-military-ai-and-5g-investments-they-call-essential-to-u-s-economy-and-national-security/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/03/tech-leaders-highlight-military-ai-and-5g-investments-they-call-essential-to-u-s-economy-and-national-security/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/03/tech-leaders-highlight-military-ai-and-5g-investments-they-call-essential-to-u-s-economy-and-national-security/amp/",
+      "publishedDateTime": "2020-04-03T09:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/6146265.jpg?fit=1800%2C900&strip=all",
+          "width": 1800,
+          "height": 900,
+          "title": "Tech leaders highlight military AI and 5G investments they call essential to U.S economy and national security",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2020-04-03-artificial-intelligence-ai-challenge-regulators-and-induce-recovery.md",
       "title": "Artificial Intelligence (AI) challenge regulators and induce recovery",
       "excerpt": "Artificial intelligence with machine learning is expected not only to enhance the processes and transparency but also to improve the relationship between financial advisors with clients. This will be done because the overriding feature of artificial intelligence is that it will be able to provide services for all clients at a low cost.",
@@ -822,224 +1031,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-03-explore-computer-vision-in-microsoft-azure.md",
-      "title": "Explore computer vision in Microsoft Azure",
-      "excerpt": "There are multiple specific types of computer vision problem that AI engineers and data scientists can solve using a mix of custom machine learning models and platform-as-a-service (PaaS) solutions - including many cognitive services in Microsoft Azure. The Computer Vision service enables software engineers to create intelligent solutions that ...",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/paths/explore-computer-vision-microsoft-azure/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-02T22:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-trophy-social.png",
-          "width": 800,
-          "height": 400,
-          "title": "Explore computer vision in Microsoft Azure",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-04-03-microsoft-unveils-a-comprehensive-edge-computing-strategy-with-azure-edge-zones.md",
-      "title": "Microsoft Unveils A Comprehensive Edge Computing Strategy With Azure Edge Zones",
-      "excerpt": "The vehicle talks to the connected vehicle platform running in Azure that is deployed across hundreds of edge locations managed by the telecom provider. The partnership between Microsoft and telcos enables the ecosystem to build the next generation of applications and user experiences powered by data, analytics, and AI. Microsoft has partnered ...",
-      "heat": 100,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/janakirammsv/2020/04/03/microsoft-unveils-a-comprehensive-edge-computing-strategy-with-azure-edge-zones/?ss=cloud",
-      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2020/04/03/microsoft-unveils-a-comprehensive-edge-computing-strategy-with-azure-edge-zones/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2020/04/03/microsoft-unveils-a-comprehensive-edge-computing-strategy-with-azure-edge-zones/amp/",
-      "publishedDateTime": "2020-04-02T22:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e86c30074e9210006895af5%2F0x0.jpg",
-          "width": 1000,
-          "height": 666,
-          "title": "Microsoft Unveils A Comprehensive Edge Computing Strategy With Azure Edge Zones",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-03-in-coronavirus-fight-oft-criticised-facebook-data-aids-us-cities-states.md",
-      "title": "In coronavirus fight, oft-criticised Facebook data aids US cities, states",
-      "excerpt": "Facebook and the researchers leading the project say they have overcome those ... Sign up now and get a 10% discount (original price US$400) off the China AI Report 2020 by SCMP Research. Learn about the AI ambitions of Alibaba, Baidu & JD.com through our in-depth case studies, and explore new applications of AI across industries.",
-      "heat": 88,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.scmp.com/tech/science-research/article/3078220/coronavirus-fight-oft-criticised-facebook-data-aids-us-cities",
-      "ampWebUrl": "https://amp.scmp.com/tech/science-research/article/3078220/coronavirus-fight-oft-criticised-facebook-data-aids-us-cities",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/science-research/article/3078220/coronavirus-fight-oft-criticised-facebook-data-aids-us-cities",
-      "publishedDateTime": "2020-04-02T18:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/04/03/6e6a9e96-754a-11ea-ab8f-988daf8efd6f_image_hires_093454.JPG?itok=sfzYo3cq&v=1585877702",
-          "width": 1200,
-          "height": 630,
-          "title": "In coronavirus fight, oft-criticised Facebook data aids US cities, states",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-03-ai-researchers-scold-amazon-for-selling-flawed-face-recognition-tech-to-the-police.md",
-      "title": "AI researchers scold Amazon for selling flawed face-recognition tech to the police",
-      "excerpt": "Amazon has come under fire before for Rekognition, the facial recognition technology that the company has allowed police to use and which has led to concerns the company is essentially supporting ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://bgr.com/2019/04/03/amazon-facial-recognition-open-letter/",
-      "ampWebUrl": "https://bgr.com/2019/04/03/amazon-facial-recognition-open-letter/amp/",
-      "cdnAmpWebUrl": "https://bgr-com.cdn.ampproject.org/c/s/bgr.com/2019/04/03/amazon-facial-recognition-open-letter/amp/",
-      "publishedDateTime": "2020-04-02T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BGR",
-        "domain": "bgr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://boygeniusreport.files.wordpress.com/2019/04/face-recognition.jpg?quality=98&#038;strip=all",
-          "width": 1600,
-          "height": 1050,
-          "title": "AI researchers scold Amazon for selling flawed face-recognition tech to the police",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-03-amazon-stands-for-nothing-that-almost-makes-it-beautiful.md",
-      "title": "Amazon stands for nothing. That almost makes it beautiful",
-      "excerpt": "“We feel really great and really strongly about the value that Amazon Rekognition is providing our customers of all sizes and all types of industries in law enforcement and out of law enforcement.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://qz.com/co/1364409/amazon-stands-for-nothing-that-almost-makes-it-beautiful/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-02T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Quartz",
-        "domain": "qz.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/qz.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://qz-news.imgix.net/1364409/thumbnail?auto=compress",
-          "width": 1400,
-          "height": 786,
-          "title": "Amazon stands for nothing. That almost makes it beautiful",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

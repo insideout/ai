@@ -2,6 +2,43 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-03-26-uc-berkeley-covid-19-first-target-of-new-ai-research-consortium.md",
+      "title": "UC Berkeley: COVID-19 First Target Of New AI Research Consortium",
+      "excerpt": "A core value in its activities is a commitment to open-source dissemination of the results for the public good.\"",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://patch.com/california/berkeley/uc-berkeley-covid-19-first-target-new-ai-research-consortium",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-26T15:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Patch",
+        "domain": "patch.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.patchcdn.com/assets/layout/logo-patch-800x600.png",
+          "width": 800,
+          "height": 600,
+          "title": "UC Berkeley: COVID-19 First Target Of New AI Research Consortium",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-26-c3ai-microsoft-help-launch-the-c3ai-digital-transformation-institute.md",
       "title": "C3.ai, Microsoft help launch the C3.ai Digital Transformation Institute",
       "excerpt": "Additionally, C3.ai and Microsoft will contribute an $310 million in-kind, including use of the C3 AI Suite and Microsoft Azure computing, storage, and technical resources to support the consortium. C3.ai DTI will be jointly managed and hosted by the University of California at Berkeley and the University of Illinois at Urbana-Champaign.",
@@ -1147,51 +1184,6 @@
           "width": 1024,
           "height": 576,
           "title": "AI ethics backed by Pope and tech giants in new plan",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-02-28-the-catholic-church-proposes-ai-regulations-that-protect-people.md",
-      "title": "The Catholic Church proposes AI regulations that ‘protect people’",
-      "excerpt": "The “Rome Call for AI Ethics” lays out six broad principles: transparency, inclusion, responsibility, impartiality, reliability, and security and privacy. These principles say that technology should “protect people,” particularly the “weak and underprivileged.” They also urge policymakers across the world to create new forms of ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.theverge.com/2020/2/28/21157667/catholic-church-ai-regulations-protect-people-ibm-microsoft-sign",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/2/28/21157667/catholic-church-ai-regulations-protect-people-ibm-microsoft-sign",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/2/28/21157667/catholic-church-ai-regulations-protect-people-ibm-microsoft-sign",
-      "publishedDateTime": "2020-02-28T13:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/K86yclH694W_vQWvhxj4UhhTIrg=/0x0:1280x854/1400x933/filters:focal(538x325:742x529):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66406016/Rome_Call_For_AI_Ethics.0.jpeg",
-          "width": 1280,
-          "height": 854,
-          "title": "The Catholic Church proposes AI regulations that ‘protect people’",
           "attribution": null
         }
       ],

@@ -23,6 +23,21 @@ images:
     height: 372
     title: "Daily Dicta: “Massively Spoilated”: Judge Issues Terminating Sanctions in Fight over Self-Driving Cars"
 
+related:
+  - title: "'Massively Spoilated': Judge Issues Terminating Sanctions in Fight over Self-Driving Cars"
+    excerpt: "All that’s left to be determined are damages and attorneys’ fees. It’s one in a series of autonomous vehicle trade secrets cases that have been flaring up in Silicon Valley of late—conflict that’s not entirely surprising, given the race to develop self-driving technology and the potentially enormous payoff for the first company to ..."
+    publishedDateTime: 2020-04-27T14:59:00Z
+    webUrl: "https://www.law.com/therecorder/2020/04/26/daily-dicta-massively-spoilated-judge-issues-terminating-sanctions-in-fight-over-self-driving-cars-403-49494/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 15
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/403/2020/04/Quinn-Emanuel-Office-Sign-Article-201803121918.jpg"
+        width: 620
+        height: 372
+
 secured: "1Dco+Hx8MxKriOL2gw9sjbD3eh+pPd/cLJR8MSBUCi6erJwOskmlNHO7AtjGNlR7HeISBu82CZA5Z8S1lK9BHKsw/qux4/2yHu1vLdSkQJQzbwLXQoQWrTwcrzNhgsawojN6nTmjohDw9qeXGzbMdcUV8YiAsNe5FOGupjENQewDT0fPmxN5PBn2/ijl+DV8oMFvahojFn23RC9l8UcFDY+/9nT/jpJQNGzGauEnqmGNWj3L1Amo0oufthV4ctKXmcX916J4gpoRkDzmPQslgYmAaYES20xFTW7oMjYAEr+R3DrB0qjU+r+/epf3g1Ip+B30yN933jpCJYsU4hbXV9LWuQbFSTj/boWGm9+vOeMxmPJN5RanVQRvM10P6exL+FK8ZX2AiU0qgCC5+dZ0+TOKHuENUO7E8A60rKmAxPk4UbsDRnCP4pVVgK5oODi12rI4K500MCYhRqx20BcdGcpBX0sLcbFD2jZ/LXs9U5I=;2Tfz4p2eC18+Pgf4KJxuoQ=="
 ---
 

@@ -2,6 +2,51 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-04-27-apple-iphone-12-this-new-security-feature-could-solve-the-face-mask-problem.md",
+      "title": "Apple iPhone 12: This New Security Feature Could Solve The Face Mask Problem",
+      "excerpt": "You try to open your iPhone using Face ID, but your face mask gets in the way. Apple iPhones use depth perception to detect your face for Face ID, so many of the tricks don’t work. It’s frustrating for many Apple fans,",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/kateoflahertyuk/2020/04/27/apple-iphone-12-this-new-security-feature-could-solve-the-face-mask-problem/",
+      "ampWebUrl": "https://www.forbes.com/sites/kateoflahertyuk/2020/04/27/apple-iphone-12-this-new-security-feature-could-solve-the-face-mask-problem/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kateoflahertyuk/2020/04/27/apple-iphone-12-this-new-security-feature-could-solve-the-face-mask-problem/amp/",
+      "publishedDateTime": "2020-04-27T08:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e43ce58f133f400076c3c67%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Apple iPhone 12: This New Security Feature Could Solve The Face Mask Problem",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-27-ai-in-computer-vision-market-and-region-global-forecast-to-2023-market-effect-of-covid19.md",
       "title": "AI In Computer Vision Market and Region-Global Forecast to 2023 (market Effect of COVID19)",
       "excerpt": "AI In Computer Vision Market Research Report by Component (Hardware, Software), Vertical (healthcare, security,",
@@ -161,6 +206,43 @@
           "width": 1024,
           "height": 612,
           "title": "Vietnamese AI Group Touts Mask-ready Facial Recognition for Smartphones",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-20-rsip-vision-launches-a-pioneering-ai-suite-providing-optimal-solutions-to-key-tasks-in-lung-surgery.md",
+      "title": "RSIP Vision Launches a Pioneering AI Suite Providing Optimal Solutions to Key Tasks in Lung Surgery",
+      "excerpt": "SILICON VALLEY, Calif., April 20, 2020 /PRNewswire/ -- RSIP Vision, a global leader in artificial intelligence (AI) and computer vision technology, announced today a new innovative AI-based suite of m",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/rsip-vision-launches-a-pioneering-ai-suite-providing-optimal-solutions-to-key-tasks-in-lung/article_969a06df-ac77-52f8-b8ec-7edfe462e80a.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-20T09:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/9/9a/99a67bba-74e1-5907-b0c4-b6be6666bca3/5e9dd1fbaaefd.image.jpg?resize=400%2C349",
+          "width": 400,
+          "height": 349,
+          "title": "RSIP Vision Launches a Pioneering AI Suite Providing Optimal Solutions to Key Tasks in Lung Surgery",
           "attribution": null
         }
       ],
@@ -729,31 +811,31 @@
     {
       "path": "_news/2020-04-14-blurams-advanced-ai-facial-recognition-outdoor-camera-makes-people-stay-home-more-convenient.md",
       "title": "Blurams' Advanced AI Facial Recognition Outdoor Camera Makes People Stay Home More Convenient",
-      "excerpt": "Blurams is committed to bringing a more secure and intelligent life to people across the globe. As the coronavirus spreads, more and",
+      "excerpt": "The key feature of the Blurams camera is its smart advanced AI facial recognition technology, which can remember up to 16 different individuals, more than enough for friends, family, and regular ...",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.prnewswire.com/news-releases/blurams-advanced-ai-facial-recognition-outdoor-camera-makes-people-stay-home-more-convenient-301039233.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-14T06:05:00-07:00",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/blurams-advanced-ai-facial-recognition-outdoor-camera-makes-people-stay-home-more-convenient-1029089737",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/blurams-advanced-ai-facial-recognition-outdoor-camera-makes-people-stay-home-more-convenient-1029089737",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/blurams-advanced-ai-facial-recognition-outdoor-camera-makes-people-stay-home-more-convenient-1029089737",
+      "publishedDateTime": "2020-04-14T06:13:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1154347/A21C.jpg?p=facebook",
-          "width": 1920,
-          "height": 1005,
-          "title": "Blurams' Advanced AI Facial Recognition Outdoor Camera Makes People Stay Home More Convenient",
-          "attribution": null
-        }
-      ],
+      "images": null,
       "locale": "en-us",
       "categories": [
         "news"
@@ -1182,72 +1264,6 @@
           "attribution": null
         }
       ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-06-facial-recognition-market-size-share-trends-analysis-report-by-technology-by-application-by-end-use-and-segment-forecasts-2020-2027.md",
-      "title": "Facial Recognition Market Size, Share & Trends Analysis Report By Technology, By Application, By End Use And Segment Forecasts, 2020 - 2027",
-      "excerpt": "Facial Recognition Market Size, Share & Trends Analysis Report By Technology (2D, 3D), By Application (Emotion Recognition, Attendance Tracking & Monitoring), By End Use, And Segment Forecasts, 2020 - 2027 Read the full report:  The global facial recognition market size is expected to reach USD 9.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://markets.businessinsider.com/news/stocks/facial-recognition-market-size-share-trends-analysis-report-by-technology-by-application-by-end-use-and-segment-forecasts-2020-2027-1029068324",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/facial-recognition-market-size-share-trends-analysis-report-by-technology-by-application-by-end-use-and-segment-forecasts-2020-2027-1029068324",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/facial-recognition-market-size-share-trends-analysis-report-by-technology-by-application-by-end-use-and-segment-forecasts-2020-2027-1029068324",
-      "publishedDateTime": "2020-04-06T07:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-04-the-global-face-recognition-market-is-expected-to.md",
-      "title": "The Global Face Recognition Market is expected to...",
-      "excerpt": "Reportlinker.com announces the release of the report \"Face Recognition Market Research Report by Type , by Computing ,",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.benzinga.com/pressreleases/20/04/g15793277/the-global-face-recognition-market-is-expected-to-grow-from-usd-3-546-56-million-in-2019-to-usd-9-",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/15793277",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15793277",
-      "publishedDateTime": "2020-04-03T18:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
       "locale": "en-us",
       "categories": [
         "news"

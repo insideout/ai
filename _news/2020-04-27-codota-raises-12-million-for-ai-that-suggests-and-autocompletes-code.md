@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/04/27/codota-raises-12-million-for-ai-t
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/27/codota-raises-12-million-for-ai-that-suggests-and-autocompletes-code/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:
@@ -28,6 +28,6 @@ images:
     height: 600
     title: "Codota raises $12 million for AI that suggests and autocompletes code"
 
-secured: "uC0qZoBCedeNbE39/iTiifQbrov2GBS80feiMwklY/2TuZs23FHO5HqbFUoFcFp2NsGWmZPQ2P9ecbfGnzuHNqjSvMxbiZCtxAq/yDckZtx/EvMk5vKZ4DN8Mh6s16CathYXyf4QyvkSeCtnkr1Uc78h/MoAlRYbaMdAnaR/1j8Ex7FU7rx6dEbjgoSaPXgcm55r8LRdcT7uGx9cxJIQrrMkrWFgijzgt5wuAt9jX78qALn9ueXU4M4erbhjJExn/0+iy7yKdFyGfKBx2dhei8ymfMqGyxTxnC5c/WK7F50oTcNXhLrg9aMx5NVEYoS9UbHqS9feJK55n7YDQQQoDrq4DMXLzjgstYq5NSjlhk3XHF60bid8DjugrGROsgpOo6IB9akfx8FF6Fsxms2k/K72FOnpTUdbXL9Eo9vQlXdzpnz0vjnjo5BKy0JRdNECSsF4qWh4LMDkLFT5rh7kHfnz3EomJ6qRo4xnBu0UqrQ=;96i/KHqDuAmPdhDntuNYJQ=="
+secured: "/X3K9zDLSQLFzFWdPByDvm+f89MiH49EZyz7PwHM23ABLFaHyHXmjFVOym6iktdhwIi2KCaSPnKWs9yug5aAD/tqJdxgZsNhx5pzhnCZOR3MMGgFleCCPanQddgOdpr2cEqz1lR0TT7nl5EWiWRe9PNkdHMiau5eY7+ew5+jMmBlsfZh796pbMtUmVNiPVlf/+uReBfUA8XAHa0nhCujfNEnyRflShpDK3+La2Lq88sGdgwHDIwJaWRBkJU9n/RRpDiir3cyzutJx1b3v/xt1qDzdaZcxGMIAcfRV4xhEdi2pypWZBXvSN75hMMO3qAo92c73zm0jUJt5x9AfY41Sum6/YlP2n9qj2HQY3lVfzMhXM0wsOTzi4JCUJowA4Mtyg/zaLfhbbGL4r1PCmWVEsvQbs1JYXsRmK+zNFCNlFfE6vt/YknUItfTaeXmLYYabwBg1wbOaLUZrFkA1bkwZ5lrsnnsR9W+ypa+1ytSKqc=;5tA5u/5vP2dEHyeFPfqMXg=="
 ---
 

@@ -2,6 +2,207 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2020-04-06-watson-speech-to-text-review.md",
+      "title": "Watson Speech to Text review",
+      "excerpt": "There’s plenty to be said in favor of IBM’s Watson Speech to Text service, such as its ability to convert hours of audio into text quickly and accurately. But price, integration complexity ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techradar.com/reviews/watson-speech-to-text-review",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-06T03:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/6WnT9aAw8R87L9RDATTztk-1200-80.jpg",
+          "width": 1200,
+          "height": 712,
+          "title": "Watson Speech to Text review",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-06-the-top-10-most-innovative-and-disruptive-insurtech-companies.md",
+      "title": "The top 10 most innovative and disruptive Insurtech companies",
+      "excerpt": "Brolly, as the first insurtech advisory app in the UK to be powered by artificial intelligence, provides customers with vital insights into their ... with Trov helping to power emerging mobility services. Customers include Waymo, Groupe PSA, Suncorp (Australia) and Sompo (Japan), with Trov delivering modern insurance solutions built with ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.information-age.com/the-top-10-most-innovative-insurtech-companies-123488729/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-06T02:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Information Age",
+        "domain": "information-age.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s27389.pcdn.co/wp-content/uploads/2020/04/the-top-10-most-innovative-insurtech-businesses-2020.jpeg",
+          "width": 1013,
+          "height": 675,
+          "title": "The top 10 most innovative and disruptive Insurtech companies",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-06-these-robots-want-to-make-sure-you-dont-do-anything-stupid-with-your-money.md",
+      "title": "These Robots Want to Make Sure You Don’t Do Anything Stupid With Your Money",
+      "excerpt": "Investment firms use prompts to help customers make better financial decisions.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wsj.com/articles/these-robots-want-to-make-sure-you-dont-do-anything-stupid-with-your-money-11586103205",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/these-robots-want-to-make-sure-you-dont-do-anything-stupid-with-your-money-11586103205",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/these-robots-want-to-make-sure-you-dont-do-anything-stupid-with-your-money-11586103205",
+      "publishedDateTime": "2020-04-05T19:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-172689/social",
+          "width": 1280,
+          "height": 640,
+          "title": "These Robots Want to Make Sure You Don’t Do Anything Stupid With Your Money",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-05-ai-translates-human-brain-signals-to-text.md",
+      "title": "AI Translates Human Brain Signals to Text",
+      "excerpt": "Now scientists are one step closer towards a computer interface driven by human thoughts. Neuroscientists at the University of California, San Francisco (UCSF) published a study last week in Nature Neuroscience that shows how their brain-computer interface (BCI) is able to translate human brain activity into text with relatively high accuracy and at natural-speech rates using artificial intelligence (AI) machine learning.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.psychologytoday.com/us/blog/the-future-brain/202004/ai-translates-human-brain-signals-text",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-05T16:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Psychology Today",
+        "domain": "psychologytoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-05-heres-the-top-stock-to-buy-with-your-coronavirus-stimulus-check.md",
+      "title": "Here's the Top Stock to Buy with Your Coronavirus Stimulus Check",
+      "excerpt": "Alphabet's artificial intelligence (AI) initiatives should open up a ginormous market opportunity for the company. Its Google Nest AI-enabled smart home products represent just the tip of the iceberg. My view is that Alphabet's Waymo self-driving car business could really take off over the next decade. I'm not the only one who is optimistic ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fool.com/investing/2020/04/05/heres-the-top-stock-to-buy-with-your-coronavirus-s.aspx?source=eptcnnlnk0000002",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-05T10:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/566132/us-capitol-building-with-100-bills.jpg",
+          "width": 2160,
+          "height": 1387,
+          "title": "Here's the Top Stock to Buy with Your Coronavirus Stimulus Check",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-05-rd-roundup-ultrasoundai-medical-imaging-assistive-exoskeletons-and-neural-weather-modeling.md",
       "title": "R&D Roundup: Ultrasound/AI medical imaging, assistive exoskeletons and neural weather modeling",
       "excerpt": "Another approach from Stanford applies deep learning techniques to ultrasound imagery and shows that an AI agent can recognize the parts of the heart and record the efficiency with which it is moving blood with accuracy comparable to experts. As with other medical imagery AIs, this isn’t about replacing a doctor but augmenting them ...",
@@ -1012,215 +1213,6 @@
         "authors": null
       },
       "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-03-ibm-makes-ai-tools-and-resources-available-to-coronavirus-researchers.md",
-      "title": "IBM makes AI tools and resources available to coronavirus researchers",
-      "excerpt": "Lastly, IBM says it trained an AI search system on the COVID-19 Open Research Dataset ... The freely available tool extracts embedded text, tables, and graphics to answer specific queries from vetted researchers. Watson Assistant for Citizens’ debut comes after IBM made available a map on The Weather Channel to track the spread of COVID ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/03/ibm-makes-ai-tools-and-resources-available-to-coronavirus-researchers/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/03/ibm-makes-ai-tools-and-resources-available-to-coronavirus-researchers/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/03/ibm-makes-ai-tools-and-resources-available-to-coronavirus-researchers/amp/",
-      "publishedDateTime": "2020-04-03T10:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/11/ibm-keyboard-logo.png?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "IBM makes AI tools and resources available to coronavirus researchers",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-03-how-to-get-and-use-voice-commands-in-mount-and-blade-ii-bannerlord.md",
-      "title": "How to get and use voice commands in Mount and Blade II: Bannerlord",
-      "excerpt": "Both full and trial version users will want to test how the software works with their voice and have the speech recognition software tune to your voice. You can do this by searching for ‘speech recognition’ in your desktop’s control panel, and then choosing ‘train your computer to understand you better.’ After that, follow the steps ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.gamepur.com/guides/how-to-get-and-use-voice-commands-in-mount-and-blade-ii-bannerlord",
-      "ampWebUrl": "https://www.gamepur.com/guides/how-to-get-and-use-voice-commands-in-mount-and-blade-ii-bannerlord/amp",
-      "cdnAmpWebUrl": "https://www-gamepur-com.cdn.ampproject.org/c/s/www.gamepur.com/guides/how-to-get-and-use-voice-commands-in-mount-and-blade-ii-bannerlord/amp",
-      "publishedDateTime": "2020-04-03T10:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gaming Polls",
-        "domain": "gamepur.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://assets.gamepur.com/wp-content/uploads/2020/04/01122550/Sword-and-Shield-Mount-blade-2.jpg",
-          "width": 1917,
-          "height": 1196,
-          "title": "How to get and use voice commands in Mount and Blade II: Bannerlord",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-03-a-cash-flow-model-to-meet-daily-banking-needs.md",
-      "title": "A Cash Flow Model to Meet Daily Banking Needs",
-      "excerpt": "In this post, we are going to present a use case within banking where deep learning (DL) turns out to be an efficient solution for time series prediction. The value of correct predictions of ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/analytics-ai-swedbank/predicting-customer-finances-using-deep-learning-168b47e54d54",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-03T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/1200/1*Ob4flUPrY9AdiImw8kL-Ew.jpeg",
-          "width": 1200,
-          "height": 800,
-          "title": "A Cash Flow Model to Meet Daily Banking Needs",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-03-tech-leaders-highlight-military-ai-and-5g-investments-they-call-essential-to-us-economy-and-national-security.md",
-      "title": "Tech leaders highlight military AI and 5G investments they call essential to U.S economy and national security",
-      "excerpt": "Other recommendations in the report include: On matters of privacy and ethics, the Commission singles out Clearview AI, a company that scraped billions of images from the web to create a facial recognition system, as an example of invasive AI-powered tech that should be avoided. Tech companies that track the location of individuals ...",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/03/tech-leaders-highlight-military-ai-and-5g-investments-they-call-essential-to-u-s-economy-and-national-security/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/03/tech-leaders-highlight-military-ai-and-5g-investments-they-call-essential-to-u-s-economy-and-national-security/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/03/tech-leaders-highlight-military-ai-and-5g-investments-they-call-essential-to-u-s-economy-and-national-security/amp/",
-      "publishedDateTime": "2020-04-03T09:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/6146265.jpg?fit=1800%2C900&strip=all",
-          "width": 1800,
-          "height": 900,
-          "title": "Tech leaders highlight military AI and 5G investments they call essential to U.S economy and national security",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-04-03-artificial-intelligence-ai-challenge-regulators-and-induce-recovery.md",
-      "title": "Artificial Intelligence (AI) challenge regulators and induce recovery",
-      "excerpt": "Artificial intelligence with machine learning is expected not only to enhance the processes and transparency but also to improve the relationship between financial advisors with clients. This will be done because the overriding feature of artificial intelligence is that it will be able to provide services for all clients at a low cost.",
-      "heat": 72,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.fxstreet.com/analysis/artificial-intelligence-ai-challenge-regulators-and-induce-recovery-202004031643",
-      "ampWebUrl": "https://www.fxstreet.com/amp/analysis/artificial-intelligence-ai-challenge-regulators-and-induce-recovery-202004031643",
-      "cdnAmpWebUrl": "https://www-fxstreet-com.cdn.ampproject.org/c/s/www.fxstreet.com/amp/analysis/artificial-intelligence-ai-challenge-regulators-and-induce-recovery-202004031643",
-      "publishedDateTime": "2020-04-03T09:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FXStreet",
-        "domain": "fxstreet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://editorial.fxstreet.com/images/Macroeconomics/Countries/taking-his-business-global-gm528981107-54255008_Small.jpg",
-          "width": 320,
-          "height": 217,
-          "title": "Artificial Intelligence (AI) challenge regulators and induce recovery",
-          "attribution": null
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"

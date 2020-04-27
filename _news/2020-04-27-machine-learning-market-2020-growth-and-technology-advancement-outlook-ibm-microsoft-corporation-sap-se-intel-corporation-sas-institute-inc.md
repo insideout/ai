@@ -27,6 +27,21 @@ images:
     height: 630
     title: "Machine Learning Market 2020 Growth and Technology Advancement Outlook - IBM, Microsoft Corporation, SAP SE, Intel Corporation, SAS Institute Inc"
 
+related:
+  - title: "Global SLAM Technology Market Report, with Analysis and Forecasts to 2030"
+    excerpt: "The \"Global Simultaneous Localization and Mapping (SLAM) Technology Market: Focus on Mapping, Type, Platform, and End User - Analysis"
+    publishedDateTime: 2020-04-27T14:15:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/global-slam-technology-market-report-with-analysis-and-forecasts-to-2030-301047478.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 23
+    images:
+      - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
+        width: 800
+        height: 419
+
 secured: "qi+3fW8jZ+XXXPQrScb08+ErOyPQaeV6cdvfZr+JZeDh16wwDOLDTqI0InkoZvLfmAE6T76b7Y2GpitRIE5DLCbIxR8rFZyz0sD/kMKg/w6O/jNgf5I4CoQxERuJy7nLMy42K8SF+dvJRBz6tYRlmR0DMHEqZ70nB9tKWovwym9Z2pH78k00TkaJD43JRinJ8ibuPk/91qMUrS2bAJOMwzQQdmkfpBBv8Sa4qpkbilSuEFjHZTfHOCJreTZuRX/zQ5ZW69/8t8dIgu/fyr4rxpL8ElQwfaH0jWavpJ2JWwI1M6RBk/5S/oV0TACRSZ0E;DlnaolyWHDPLUGW56gVFtA=="
 ---
 

@@ -23,6 +23,6 @@ images:
     height: 627
     title: "Libre Wireless Technologies Single Chip MAVID IoT/Voice Device Now Amazon AWS IoT Core Certified – Leads Industry in Voice Feature Integration, Size and Power for Broader AI ..."
 
-secured: "bfVVWVfM21Cp/+GThrWB5LlsV90MiWPFI3VBvrimFuwsKFMbVGV3+myHDFD8bYijuoI04DsRXx0DzTKf2YT14k572wXChFjRW5Eg1r1koRr314ILeK/Xg6ARbUZZ+Rj+Yt4fxZfkbrCIDRvHih8AQH7Mn9YpdNK5IL2RaPfbE78p+DgRQbO7AmRYUGv0IqEZWHEu+vtZx0yyd8adl2CPbhQ6l4mDcODOuhBWVo+Ag0FVLT+ZyXwE/VcLh9f2EWuDI7Vn2D6GfLDphG8j8zx+9SWcHgnfjrppKoREpZQWe/j6igxdv1AegJn1RRN4KQdU;dCjPPLjZArApKJDiVFiliw=="
+secured: "5oQTnIJDm4t0qEx8EdMI/fVisHEbHLPEGPfGgWGMhSqA63fUF9iZ2vIFwiWLiaxTZzV4T2hWrsRThMcE5MGUIxlwPKVynUWVugxOtlUL32mzPHxT7P8zxXl5eq9wjtw3U46KcG6n4Qo9hZinLOSaVB0UiUiRVfNLsXz5GXuGoQ26KUCTIVUwVVvqlsNxl5vlaASWvT8UJMDjTktN6kBhFLsEdDmYtDZQudpPNMOJeSH8vCEv1pTOvBiqWb+EDM4saAnFx9WALAniB40U+ZhfIcczi9sCSh2wJKol6hBLEEqYsF5UdKI/It0BOSt6wiy4CShBJEaG6gY3b7GQUKy1OCBJubkeAv0M1fV3aoRNQ1WeHAeHV6zwk0SKwD1/elsexrVdelDEUoNe87KzVqwA9xxn/DiH4V67gHF1mMxRyTdiMKsDHwasNubNmxirq1XdLsP85kpVo0MB4JP8EBJPIrmInOWnan5dpUXD/JiVWko=;iZf8UpwuH3f1mX0oCJX5cQ=="
 ---
 

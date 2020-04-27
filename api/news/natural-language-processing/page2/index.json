@@ -2,6 +2,43 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-04-03-algorithmic-justice-league-highlights-automatic-speech-recognition-bias-report.md",
+      "title": "Algorithmic Justice League highlights automatic speech recognition bias report",
+      "excerpt": "The Algorithmic Justice League has released a spoken word and visual project called “Voicing Erasure” to protest the demographic discrepancies or “bias” identified in popular speech recognition systems on the market, following its recent study of algorithmic bias, AI, and technology, writes VentureBeat. The Algorithmic Justice League ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.biometricupdate.com/202004/algorithmic-justice-league-highlights-automatic-speech-recognition-bias-report",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-03T11:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Biometric Companies",
+        "domain": "biometricupdate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/01/09162857/voice-biometrics-large2.jpg",
+          "width": 900,
+          "height": 499,
+          "title": "Algorithmic Justice League highlights automatic speech recognition bias report",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-03-how-to-get-and-use-voice-commands-in-mount-and-blade-ii-bannerlord.md",
       "title": "How to get and use voice commands in Mount and Blade II: Bannerlord",
       "excerpt": "Both full and trial version users will want to test how the software works with their voice and have the speech recognition software tune to your voice. You can do this by searching for ‘speech recognition’ in your desktop’s control panel, and then choosing ‘train your computer to understand you better.’ After that, follow the steps ...",
@@ -1169,43 +1206,6 @@
         "Computer Vision",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-03-24-alibaba-cloud-leverages-ai-to-tackle-covid-19.md",
-      "title": "Alibaba Cloud Leverages AI to Tackle COVID-19",
-      "excerpt": "Through video conferencing and real-time AI translation into 11 languages (Arabic, Bahasa, Chinese, English, French, Japanese, Russian, Spanish, Thai, Turkish, and Vietnamese), Alibaba Cloud aims to build a virtual community, inviting Chinese doctors to share their experiences and answer questions from global peers. From Alibaba DAMO Academy ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.martechadvisor.com/news/cloud-integration/alibaba-cloud-leverages-ai-to-tackle-covid19/",
-      "ampWebUrl": "https://www.martechadvisor.com/news/cloud-integration/alibaba-cloud-leverages-ai-to-tackle-covid19/",
-      "cdnAmpWebUrl": "https://www-martechadvisor-com.cdn.ampproject.org/c/s/www.martechadvisor.com/news/cloud-integration/alibaba-cloud-leverages-ai-to-tackle-covid19/",
-      "publishedDateTime": "2020-03-24T05:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarTech Advisor",
-        "domain": "martechadvisor.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.martechadvisor.com/images/uploads/content_images/alibaba_cloud_leverages_ai_to_tackle_covid19_5e79e9e0e8835.jpg",
-          "width": 600,
-          "height": 300,
-          "title": "Alibaba Cloud Leverages AI to Tackle COVID-19",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

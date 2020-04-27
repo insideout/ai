@@ -2,6 +2,51 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-02-27-5-ai-and-analytics-trends-marketers-and-brands-should-be-investing-in.md",
+      "title": "5 AI And Analytics Trends Marketers And Brands Should Be Investing In",
+      "excerpt": "Why analytics and AI are such powerful tools for brands and organizations and what are the key focus areas that these companies should have for the coming year as analytics and AI continue to be critical to connecting with customers and improving operations.",
+      "heat": 149,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/danielnewman/2020/02/26/5-ai-and-analytics-trends-marketers-and-brands-should-be-investing-in/",
+      "ampWebUrl": "https://www.forbes.com/sites/danielnewman/2020/02/26/5-ai-and-analytics-trends-marketers-and-brands-should-be-investing-in/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danielnewman/2020/02/26/5-ai-and-analytics-trends-marketers-and-brands-should-be-investing-in/amp/",
+      "publishedDateTime": "2020-02-26T18:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1097297162%2F0x0.jpg%3FcropX1%3D35%26cropX2%3D4858%26cropY1%3D0%26cropY2%3D2713",
+          "width": 1200,
+          "height": 675,
+          "title": "5 AI And Analytics Trends Marketers And Brands Should Be Investing In",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2020-02-26-google-ai-helps-google-translate-offer-these-new-languages-spoken-by-millions.md",
       "title": "Google: AI helps Google Translate offer these new languages spoken by millions",
       "excerpt": "For the first time in four years, Google is launching five additional languages for Google Translate, bringing its total number of supported languages to 108. Google says the large interval since it last added new languages is down to how its machine-translation app learns new languages. If there's a shortage of content on the web from a ...",
@@ -1283,52 +1328,6 @@
       ],
       "topics": [
         "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-02-10-facebook-quietly-acquired-another-uk-ai-startup-and-almost-no-one-noticed.md",
-      "title": "Facebook quietly acquired another UK AI startup and almost no one noticed",
-      "excerpt": "Over the last few years, Facebook has been busy building out AI capabilities in areas like computer vision, natural language processing (NLP) and ‘deep learning,’ in part by acquiring promising startups in the space. Understandably, this has seen the U.S. social networking giant look to the U.K. for AI talent, including an acqui-hire of NLP ...",
-      "heat": 120,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/02/10/facebook-quietly-acquired-atlast-ml/",
-      "ampWebUrl": "https://techcrunch.com/2020/02/10/facebook-quietly-acquired-atlast-ml/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/10/facebook-quietly-acquired-atlast-ml/amp/",
-      "publishedDateTime": "2020-02-10T11:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/02/halftone-maze.png?w=1024",
-          "width": 1024,
-          "height": 544,
-          "title": "Facebook quietly acquired another UK AI startup and almost no one noticed",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI",
         "Natural Language Processing"
       ]
     }
