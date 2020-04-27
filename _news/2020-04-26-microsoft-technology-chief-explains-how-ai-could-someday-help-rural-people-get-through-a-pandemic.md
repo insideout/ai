@@ -8,7 +8,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2020/04/26/microsoft-cto-ai-can-help-rural-
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/04/26/microsoft-cto-ai-can-help-rural-people-ride-out-covid-19.html"
 type: article
 quality: 75
-heat: 76
+heat: 75
 published: true
 
 provider:

@@ -3,9 +3,9 @@ category: news
 title: "5G wireless networks leading fourth industrial revolution"
 excerpt: "Network providers around the globe are launching 5G networks that can connect the handful of available 5G-capable devices. Currently, very few devices are connected to these new networks, allowing providers to tout headline grabbing download speeds of 1 Gbps plus."
 publishedDateTime: 2020-04-27T10:12:00Z
-webUrl: "https://www.techradar.com/au/news/5g-wireless-networks-leading-fourth-industrial-revolution"
-ampWebUrl: "https://www.techradar.com/au/amp/news/5g-wireless-networks-leading-fourth-industrial-revolution"
-cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/5g-wireless-networks-leading-fourth-industrial-revolution"
+webUrl: "https://www.techradar.com/news/5g-wireless-networks-leading-fourth-industrial-revolution"
+ampWebUrl: "https://www.techradar.com/amp/news/5g-wireless-networks-leading-fourth-industrial-revolution"
+cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/5g-wireless-networks-leading-fourth-industrial-revolution"
 type: article
 quality: 74
 heat: 74
@@ -29,6 +29,6 @@ images:
     height: 675
     title: "5G wireless networks leading fourth industrial revolution"
 
-secured: "UQDx7oYJ0OQyL8LqiU+AmRX3gqtYjSIG6Of/5ZUYer7HdDv0xt1OHLiEgl9xpXOHO2PYNZjTsVJnC/CBDqwJaw3XJYPtyN/7KinHadAsbUUdktre7X9KUhoflQxPAC2motW+eYjChFM9jiWIgUNNxUhjASFBm+jTbzNpJfrPyh5hDSIljgwi8W/wRIz08LDYy/953errTFN7XI0klyoEUnEpcECe5rQHbBUWx6X5NN1g64T+R8phbZAI+Mhryki43X1fknc4osqpWxIeFaipplKYw/A613+e+yxSBP4ujGXf83qYBPJZL+QoADmOykKQ;w6Bvy547XNo2/wvc3J+QAQ=="
+secured: "QMoUc8KwTGYEyF1v1TaWKK5JeAfymJOI2gjV5x2epmUUJUBJieRcb/HxT+oIzyJdnYJI8IQ8dMfxclyroZ3ypj7KxOzbcCsdNQ6qOa31Tiby8cuVxBATfw5rYmaPLikVUP+7U1UiaNRWkB/CFz9fzudZMPCAp6XOE4G2JVzfiRlE8er8eaceUPmGHFqvygp4fXcz/bTVieYw3wXG2SLC+DwN09Cu7Xaot5790IZ5oxr77RMCorJM0xCgIaCoC8KJ46190kUBHWLeRuDWJ88XHjpDx5quD0B8+GBnjBqPAmZHPCEMkEq51NZjagBizyL/;HP3GWVBTLLtFCCq0I9gThw=="
 ---
 

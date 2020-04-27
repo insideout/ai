@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/04/27/codota-raises-12-million-for-ai-t
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/27/codota-raises-12-million-for-ai-that-suggests-and-autocompletes-code/amp/"
 type: article
 quality: 87
-heat: 88
+heat: 98
 published: true
 
 provider:
@@ -28,6 +28,21 @@ images:
     height: 600
     title: "Codota raises $12 million for AI that suggests and autocompletes code"
 
-secured: "j6gfwJ2XI3CUjTgvechNPvegw1Lt4yIBTGe5EYwTDBUwpHiMMylOqmIpvak64A92fhwHJAxmANh0y32Dw4k8wU28OT19aNkFzMG3Xq2S84qpchi4WyLKXuP3ZdNSHMZfBZo04om92ngBAe7QaZRehF5oNBNKWqKateYyMypDiABQ3k8JmkjRQ3TFJHRx9DWsWAxsitvTIrBhT/oxyDVxRo5sfxTE0RnjpkiYL0deX4tUe1X72Mo48sl1DSGzEfGX7Z+CADL1vN26ThXImWkbNH7hA4PLX8siiY729kxBblzhs/vQMxgRlsmHMjHAGJ+/7I0kHhZfk9MPFJ0qUm4dyI4qvD9yvhAJYz2f6lSfyD5rDCMCtX/JQtWSY5reFX8TmyhiXeK4iONZ5BLNtFK7b60Sorrf7bHPCwtq9wRsKCUqeLYxmpFXltHL3mGLRJnbsXUg+KiGteE8BBHaJlGcmetYKVG5jDjHKHDttnhVyi8=;ripUCRpspC6OM0kY8nNV0w=="
+related:
+  - title: "Corsight AI raises $5M to market and develop real-time facial biometrics for range of applications"
+    excerpt: "Corsight AI has raised $5 million in funding to market and continue the development of its real-time facial biometrics platform, according to NoCamels. The funding round was led by Canadian"
+    publishedDateTime: 2020-04-27T18:43:00Z
+    webUrl: "https://www.biometricupdate.com/202004/corsight-ai-raises-5m-to-market-and-develop-real-time-facial-biometrics-for-range-of-applications"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 25
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/01/28183020/funding-round-biometrics-and-identity-verification.jpg"
+        width: 940
+        height: 500
+
+secured: "cifoqKcAuYxOkxqMKS9Urvn5kL+JmJLJ7/GtM+a7RY/3gcg0Ib7ILDCyyOO3RfgdAUnFwtiwF+NJR4VUr/ci9W+n+Dwg2w6tj/tpZwkbTXtKhV0clZIrQ2BbVBlSsQ/OpRrK6V+MDw0OO9CAgqYxLcKa0EU+c1fVgqB0JM2bPCFMbui3JCA5U2IzLmICTwZB7xl5mpiKlEi+Uh1WHFikSBkJMm/dO9LyN44xVNwjFg0D0Wi30QhPUJJdtQKRGs6xIzIMygGDilMhxSiL6Cu/vHR8U+amlp0VpHDOpZhYrVNAVDWaHx3qSP88nQb2Tj154HCaav36wwURVtCrMCJ4+w94hs73mKRtPHCc2h7s+KPR7brGIJDrEiixyjSt28DImmyzD0upEePG9viV3D12O4wMbejF9+42vSb7Umd8UP0X9/DqSdiJ0ddTgqvp51jRhPPBUSxGIkrngfPw5Ro7FEEWIZjtee6Fj8TonJ0/6d8=;MiaL3L/MerTQXYAAdWaKTw=="
 ---
 

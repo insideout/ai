@@ -22,6 +22,6 @@ images:
     height: 300
     title: "An Introduction to AI and Risk-Based Authentication"
 
-secured: "8cA5d6tobBBc+U3/qqUbRLgB+qjylGv3ZSFYcUcDlyLG5pMROwhp0bgTplXtwZAun4vHjJZFOaUw/SzraPIb4l6HBweHlpsjpUFNyBCGCRbb2M730rW13yuI/CsGK8PnVe3qz0VdX7Gv7NCle0VmkVL1MxcNZOUTz+kaw1F1z+Bvyb5sQ73xlKW6b93X4ahvLMsqidV51BMGlNj3BPzzPLPfQt8UA8LU3kfo6tH57zIovyEAVw8Rz+WzIbJEzvkzWw2J7pUpqoibnojRIO6megAnPB9/ul9h8YeOB2g1Ge7DldPcEnqPs5B74cuLG9V/;Rvzb9JQODSxs2xC+Io6q7g=="
+secured: "8lYjkZLW/5ui1xCMEpS2pIvb/vpmibeRVBbnqrqb7qgfkkrmHN0TL/F3Gj7soBvg1zwTfBYljv+QqruXDdsh3AVQa+utN62odGSd+l7hnPfqdZzerUy7xnRrlHQ797UzREjAQRGUQ/PNhDRKdr+0iXqnLGm9E9xV6yzV9wdcXiPJecJWzFS01L85oH2YpinvldO0GLtFYpE3M8t8lQePh1uvxjjZ56cVx/Yuia1uRcqa1qN0U9OtDH1YKSoQZTwsY3u/VIsYYCMFXdOvvVpU3q///b+B/3o5/KfN/GV+Cf67JCTdibcqP91J1tgqI+Zch+BDdfjZdWGi2z2blC0OSs0uXRt5CZvTPfhxT2HzTrxbjJcIihAOs9Vt6BNXRZxaqAzYxa5IPMVjulgEtB/YvnfOSQWYISsdFXv7c/Sni7FQm2PPOI4JfEapOPi1OC3Mc0xtv9gwZtYt8PrMzeJFx+t8b1jsPkTE/VTpAOOPfYc=;ftqw3DYVetln/MZs3NP2Jg=="
 ---
 

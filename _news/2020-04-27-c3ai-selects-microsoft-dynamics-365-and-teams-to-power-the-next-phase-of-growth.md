@@ -23,6 +23,6 @@ images:
     height: 1414
     title: "C3.ai selects Microsoft Dynamics 365 and Teams to power the next phase of growth"
 
-secured: "2UQITWVjtzVl+JUo32lw4n8XeLuVZSKnkHKweSRzy7cFTR43It5QWQ9TVfd2XJlEsA+9NS+ljt4RdcZpb9ZD4Z3dwLAfl19Dns5KK0cr2Us1ZNZ1juM4gyTOCnujBvyW7iETTR7vq5d5D3GaUl8m1sx+Ha3DdHW2IwriP6FTUtW1rzHGaXatRp/y6b2IsNoB2glfhmiy8RnwllZk7gjZla4n3oT8Q6M0btBBSrhqyQunQVjypSJmbeWchPTGTlBg/bA2Qooztcmd/7J0bdWh4OwlYHeqoPMFFvUVGTWoprLMe32CAlP2Vl3N+jdGHk+v;zJEWTPR4klMvBKs494ItGg=="
+secured: "8ahuodmMc3n0glieXJJUs7i3NZIzC3jMF3nc9vbT+xL2FjvBDHgnWDYYyQEOkOspO2WOYLGaC17SNfepB7xb6IIg3ih4poirr03q+AuQ9t8y54ZUuzZLF1WohAoen4Tk7jjCZiGCTbd9UD6e1PcqQnNtUr+FCmXnmHbEJ+pKfnXoYtYcE+5tVScl4387rGXeGJ1tVAi/p+z/UQRkY4oy0rKMj4ccDaA39uiVxf5+n/DgKRofOIGmQhFpzRdSkf/Xf6ErB/05BoCDVj9nvyLX/ftPY/9tyn1HgdFofhiYKHQ8BsZeSxxXYsd/31CUwaUh0Fiq74EMQV6wxnKwLygCzk1HQOyL3Ng3rrynz8eov01wrM+sz2KcAx5/C8jDY+1pIzbjY309edrCZWV6dH9dc41euy25rx/LUldorT7fWAx/jXtON6r9Qm+743KUGZbju/1d1fkMu/sb++xTPAECPRaWUvewAHdI+gcgePRkoL4=;u8thfh87p3K+6aXHCzKsHw=="
 ---
 

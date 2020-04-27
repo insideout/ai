@@ -1,28 +1,30 @@
 ---
 category: news
 title: "Muscle signals can pilot a robot"
-excerpt: "Bot,” uses human muscle signals from wearable sensors to pilot a robot’s movement. “We envision a world in which machines help people with cognitive and physical work, and to do so, they adapt to people rather than the other way around,"
-publishedDateTime: 2020-04-27T16:38:00Z
-webUrl: "https://www.miragenews.com/muscle-signals-can-pilot-a-robot/"
+excerpt: "Albert Einstein famously postulated that “the only real valuable thing is intuition,” arguably one of the most important keys to understanding intention"
+publishedDateTime: 2020-04-27T18:25:00Z
+webUrl: "https://scienceblog.com/515879/muscle-signals-can-pilot-a-robot/"
+ampWebUrl: "https://scienceblog.com/515879/muscle-signals-can-pilot-a-robot/amp/"
+cdnAmpWebUrl: "https://scienceblog-com.cdn.ampproject.org/c/s/scienceblog.com/515879/muscle-signals-can-pilot-a-robot/amp/"
 type: article
-quality: 39
-heat: 39
+quality: 59
+heat: 59
 published: false
 
 provider:
-  name: Armed robbery in Revesby
-  domain: miragenews.com
+  name: ScienceBlog
+  domain: scienceblog.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://news.mit.edu/sites/mit.edu.newsoffice/files/styles/news_article_image_top_slideshow/public/images/02%20-%20controlling%20drone%20option%201.jpg?itok=TNl9EIuV"
-    width: 639
-    height: 426
+  - url: "https://scienceblog.com/wp-content/uploads/2020/04/controlling-drone-arm-muscles.jpg"
+    width: 468
+    height: 312
     title: "Muscle signals can pilot a robot"
 
-secured: "d3dljk2OeqLZ8Lk+SOkeLfbYb/RB5Pjqx1b3KtKf5UmY+UEx0CcUuuEQpA2QoQ1oyfQjbYjZoQeoobiPlUBjnShikhsFytTYEysxg1kPdEMzokYtspSi2fu3bNbZrCBQx99iL+FflNw+Sio9HS1jALjZwbnck7+A59K9ef2aQlN5oRfi2mR72yCJ0/YLYBJ+JZZFgwTf43ATPtIWxGB+I2wXfqfrZNuQyjDcdiyUubRsMONzopyWVmcT358G8+bZse+rWFv4hkMau4QZc52IMM0GXx+mzU+pPm+hMu0HhrIgXzpqPDcTImyhcA8CtAuf;9hO8M8sH/Vjcpyo6qVJYNw=="
+secured: "qdr19iZM6po2CnLripOLedrEgeqjCugzf5V3fXkAL/waLOoZq2nG/xtz7ESt5qNzuAICeiJklG43S11vdXnUtNTzNC+dSGy6cVNNg8CbnvK7L9vrng1rtfKDX2d2dOO2BRgBEnxIRuZ1ds4TjYt+rWfua/FIs+SIuXQRXk4qZKG4maNfuRguhf1+scnz0bbA3C6bW11BIz7hGFC75BjywdFKSmWmHCgU2eAAXmHwjnhAg3HGMM+9KX3d4MyHFoKf4UqErNTSUjANKocOfv+ElSho3YWHETfd1nD+ta5VGIfGVoYqikmjipBKQR8+Hhup;ZvynIwS4GVHKvw4/vUAO9A=="
 ---
 
