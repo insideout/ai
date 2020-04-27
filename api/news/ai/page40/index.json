@@ -2,6 +2,43 @@
   "page": 40,
   "value": [
     {
+      "path": "_news/2020-03-17-how-the-nz-government-will-regulate-ai.md",
+      "title": "How the NZ government will regulate AI",
+      "excerpt": "The community workshops held by the project team have recommended that the innovative approaches and tools should concentrate on the areas of national conversations about AI ethics and values, assessment and options for a centre of excellence.” In another Government AI development, Statistics New Zealand has released a draft algorithm charter ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.computerworld.com/article/3532505/how-the-nz-government-will-regulate-ai.html",
+      "ampWebUrl": "https://www.computerworld.com/article/3532505/how-the-nz-government-will-regulate-ai.amp.html",
+      "cdnAmpWebUrl": "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3532505/how-the-nz-government-will-regulate-ai.amp.html",
+      "publishedDateTime": "2020-03-17T10:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computerworld",
+        "domain": "computerworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2018/08/brain_mind_neural_network_connections_artificial_intelligence_machine_learning_by_metamorworks_gettyimages-957654482_1200x800-100767998-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "How the NZ government will regulate AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-17-ai-everywhere-iot-chips-coming-from-arm.md",
       "title": "'AI everywhere' IoT chips coming from Arm",
       "excerpt": "The new machine-learning silicon will include micro neural processing units (microNPU) that can be used to identify speech patterns and perform other AI tasks. Importantly, the processing is accomplished on-device and in smaller form factors than have so far been available. The chips don't need the cloud or any network. RELATED: IoT catches on ...",
@@ -1055,35 +1092,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-artificial-intelligence-ai-market.md",
-      "title": "Artificial Intelligence (AI) Market",
-      "excerpt": "In This report studies of MarketStudyReport LLC the Artificial Intelligence (AI) in Fintech market status and outlook of Global and major regions, from angles of players, countries, product types ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.openpr.com/news/1970600/whats-driving-an-artificial-intelligence-ai-in-fintech-market",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-17T02:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

@@ -2,6 +2,51 @@
   "page": 66,
   "value": [
     {
+      "path": "_news/2020-02-27-misconception-2-of-5-automated-machine-learning-will-unlock-enterprise-ai.md",
+      "title": "Misconception 2 (of 5): Automated Machine Learning Will Unlock Enterprise AI",
+      "excerpt": "AutoML holds real promise and will likely play an important role in Enterprise AI, but the confusion caused by unqualified assertions about AutoML can lead to grief.",
+      "heat": 101,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/27/misconception-2-of-5-automated-machine-learning-will-unlock-enterprise-ai/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/27/misconception-2-of-5-automated-machine-learning-will-unlock-enterprise-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/02/27/misconception-2-of-5-automated-machine-learning-will-unlock-enterprise-ai/amp/",
+      "publishedDateTime": "2020-02-27T04:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/711x464/https://specials-images.forbesimg.com/dam/imageserve/973718370/960x0.jpg?fit=scale",
+          "width": 711,
+          "height": 464,
+          "title": "Misconception 2 (of 5): Automated Machine Learning Will Unlock Enterprise AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-02-27-when-ai-cant-replace-a-worker-it-watches-them-instead.md",
       "title": "When AI Can’t Replace a Worker, It Watches Them Instead",
       "excerpt": "Denso’s use of Drishti shows how some jobs will be transformed by artificial intelligence even when they’re unlikely to be eliminated by AI anytime soon. Many jobs in manufacturing require dexterity and resourcefulness, for example, in ways that robots and software still can’t match. But advances in AI and sensors are providing new ways ...",
@@ -1000,43 +1045,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-26-mediatek-announces-helio-p95-with-apu-20-powervr-gpu-and-more.md",
-      "title": "MediaTek announces Helio P95 with APU 2.0, PowerVR GPU and more",
-      "excerpt": "There is an Imagination PowerVR GM 94446 GPU with a 10% improvement in performance over the last generation ... The processor has a triple ISP with 14-bit RAW and 10-bit YUV processing. It also has AI-camera enhancements such as AI-NR low-light photography, 5-person human pose tracking, multiple objects and scene identification, and AI depth ...",
-      "heat": 109,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.gizmochina.com/2020/02/26/mediatek-announces-helio-p95-with-apu-2-0-powervr-gpu-and-more/",
-      "ampWebUrl": "https://www.gizmochina.com/2020/02/26/mediatek-announces-helio-p95-with-apu-2-0-powervr-gpu-and-more/?amp",
-      "cdnAmpWebUrl": "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2020/02/26/mediatek-announces-helio-p95-with-apu-2-0-powervr-gpu-and-more/?amp",
-      "publishedDateTime": "2020-02-26T10:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2020/02/Helio-P95.png",
-          "width": 822,
-          "height": 594,
-          "title": "MediaTek announces Helio P95 with APU 2.0, PowerVR GPU and more",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

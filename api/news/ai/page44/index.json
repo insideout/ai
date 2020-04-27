@@ -2,6 +2,43 @@
   "page": 44,
   "value": [
     {
+      "path": "_news/2020-03-14-when-and-how-your-baby-learns-about-object-permanence.md",
+      "title": "When and How Your Baby Learns About Object Permanence",
+      "excerpt": "Object permanence is a cognitive skill that develops in babies shortly after object recognition, which is when infants can recognize familiar objects like a favorite book, stuffed animal or toy. Babies learn object recognition when they're around 3 months ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.whattoexpect.com/first-year/playtime/object-permanence-in-babies/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-13T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "What To Expect",
+        "domain": "whattoexpect.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "http://images.agoramedia.com/wte3.0/gcms/5-Month-Old-Baby-Learning-About-Object-Permanence-722x406.jpg?width=574",
+          "width": 574,
+          "height": 322,
+          "title": "When and How Your Baby Learns About Object Permanence",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-13-radnet-to-acquire-deephealth-for-machine-learning-radiology-tech.md",
       "title": "RadNet To Acquire DeepHealth For Machine Learning Radiology Tech",
       "excerpt": "DeepHealth has developed machine learning/AI-based imaging analysis technologies ... Major vendors that provide competitive services include: Behold.ai Technologies RadNet disclosed the acquisition price and terms as 1.0 million shares of common stock upfront and up to 1.5 million shares as future contingent consideration based on the ...",
@@ -1162,43 +1199,6 @@
         "Google AI",
         "AI",
         "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2020-03-13-ibm-prepares-to-advance-watsons-language-ability.md",
-      "title": "IBM prepares to advance Watson’s language ability",
-      "excerpt": "NAIROBI, Kenya, Mar 13 - IBM has announced several new IBM Watson technologies designed to help organizations begin identifying, understanding and Kenya breaking news | Kenya news today |",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.capitalfm.co.ke/business/2020/03/ibm-prepares-to-advance-watsons-language-ability/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-13T03:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Capital FM",
-        "domain": "capitalfm.co.ke",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.capitalfm.co.ke/business/files/2020/03/artificial-intelligence-ibm-watson-ai.jpg",
-          "width": 968,
-          "height": 681,
-          "title": "IBM prepares to advance Watson’s language ability",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

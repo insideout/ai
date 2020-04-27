@@ -1,27 +1,25 @@
 ---
 category: news
 title: "Startup Réseau Goes LIVE With its AI Summit"
-excerpt: "The online summit will cover themes and tracks across core technology and applications, where AI is playing a massive role Built on the founding pillar of #StartupsFirst, 'Startup Réseau' is an ecosystem of Enterprises, Capital, Markets, and Services – for Startups, by bringing in various types of structured interface for enabling unique ..."
-publishedDateTime: 2020-04-23T07:43:00Z
-webUrl: "https://www.prnewswire.com/in/news-releases/startup-reseau-goes-live-with-its-ai-summit-847656852.html"
+excerpt: "Before it's here, it's on the Bloomberg Terminal."
+publishedDateTime: 2020-04-23T07:36:00Z
+webUrl: "https://www.bloomberg.com/press-releases/2020-04-23/startup-r-seau-goes-live-with-its-ai-summit"
 type: article
-quality: 37
-heat: 37
+quality: 47
+heat: 47
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Bloomberg
+  domain: bloomberg.com
+  images:
+    - url: "https://insideout.app/ai/assets/images/organizations/bloomberg.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
 
-images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
-    title: "Startup Réseau Goes LIVE With its AI Summit"
-
-secured: "K55gkut0wUPq0XrhsLV6OgcC/o0TRgMSn1ahHinCqiy96ODsEZkLNGBpO4SgrAKEDzc1uDYM1H9gUhybicuhqVbU1+LweYHS/LZcjiJdL630n6cI37dh0hLKOfwSBbLcqFAaqxYZyzILvb/Uq205EJI2oEQhRTDHR9DMVphcdlBEbkcVso1R2eZq2y4EgGhj7xRBbTLNUNx4qL7zHCcK1TGnPeEEQw1FHISbeXSpYas4wcGrcb5TQTmIee3am2V2vFC0DMBUUnA9Mq1CaJlNrwXXY1doPmbvEqX1dAC/MVotj2Gy7AaJ7Wyiy8z0I1nh;mSH7xLuVG9ySGbx/3O2S0w=="
+secured: "137VutM7qMCNPv3DFdhjT9uXmyZ0+U4pJrHIpxHjflzK3P8cDhmpnOlQxIBTFjcIzAX0Hd/vKNu8y3RlyBE9JiaoCvZSVpNk+E/lGuUMCL7y0xkrFcTp4soAAesJiRiem+Tmq5Cheq8HViUODhEmaMrz2zUT2WOWb+JHmG7MNKwGowi9pIuu0gcQM3P+YjuMdUXow2Z1Lxv50Z4eGh2HAiOuS2ZBvAa+xoIQql0Hwix14jX5+3ZwvvAsAzxFVdhnvrGUzEOLi/f7O8jAmB1mILa3+5WoDfzp7SDWFkk7aNvWUKX9V3r/DBffnVS0Gg+N;WT4WasA08Gr1pcjHZi2KIg=="
 ---
 

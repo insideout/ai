@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/cognitiveworld/2020/04/22/intel--accent
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/04/22/intel--accenture-use-ai-to-save-the-coral-reef/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -27,19 +27,6 @@ images:
     width: 1200
     height: 628
     title: "Intel & Accenture Use AI To Save The Coral Reef"
-
-related:
-  - title: "Using Artificial Intelligence to Save Coral Reefs"
-    excerpt: "What’s New: Today, on Earth Day 2020, Accenture, Intel and the Sulubaaï Environmental Foundation announced Project: CORaiL, an artificial intelligence (AI)-powered solution to monitor ..."
-    publishedDateTime: 2020-04-22T06:06:00Z
-    webUrl: "https://www.ciol.com/using-artificial-intelligence-save-coral-reefs/"
-    ampWebUrl: "https://www.ciol.com/using-artificial-intelligence-save-coral-reefs/amp/"
-    cdnAmpWebUrl: "https://www-ciol-com.cdn.ampproject.org/c/s/www.ciol.com/using-artificial-intelligence-save-coral-reefs/amp/"
-    type: article
-    provider:
-      name: CIOL
-      domain: ciol.com
-    quality: 39
 
 secured: "olOH/RekiD/bR+ZwHc+35RNvRml6UpMIBdg1BVXIHaVBmq4J1hnhEH9mNnHS9RUk7tqrmyXjpCAjVTkOzQUY7zYWNDQyCyJe240B3xEBas8YVH2Rb0DjclxYljSvfZJI5UNTos1FbVpRSntvm4+8pND3NgK552JNiDYQUCxT8Rp1riY27ob1dGALBjdf+JO5VhAIOxhXIqqRV8OnI3e22l2qyjco74F/pSYx7J/9m+Zedi2rFJdfulXACTn+ARwNlXvHWNnJd+W2GTse9I3S4pEmKwDAQmEVIhcmlwoaai9eiOkcXYBw4w15/MVCvZkZIfI/gF3eXuDbYTI16vT/edpiNFhaAVrodVadcSkukClo1JTuRP91Q2MxPVD2YTr6MVq97rVYvVU8ifHUylxqhWAvJxmrRIWe9CugrGQ5KDf44Y80yHgIxziAicvC+7q7TV5gXYn8qPkRsPVBXF3ZdF8eSjIclLTACUnvLQurBDU=;JvOeNdNfDXil1OQ7cEAang=="
 ---

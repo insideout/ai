@@ -2,6 +2,35 @@
   "page": 56,
   "value": [
     {
+      "path": "_news/2020-03-11-intels-facial-recognition-will-track-employees-and-visitors.md",
+      "title": "Intel’s Facial Recognition Will Track Employees and Visitors",
+      "excerpt": "Intel’s Portland office will begin using facial recognition to identify “high risk individuals.” The company touts the tech as being used for safety, but many are concerned about privacy and ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.governing.com/security/Intels-Facial-Recognition-Will-Track-Employees-and-Visitors.html",
+      "ampWebUrl": "https://www.governing.com/security/Intels-Facial-Recognition-Will-Track-Employees-and-Visitors.html?AMP",
+      "cdnAmpWebUrl": "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/security/Intels-Facial-Recognition-Will-Track-Employees-and-Visitors.html?AMP",
+      "publishedDateTime": "2020-03-11T14:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Governing",
+        "domain": "governing.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-11-police-used-facial-recognition-to-arrest-over-1100-people-in-india-last-month.md",
       "title": "Police Used Facial Recognition to Arrest Over 1,100 People in India Last Month",
       "excerpt": "Shortly after one of the worst riots New Delhi has seen in decades, law enforcement agencies in India used facial recognition technology to identify more than 1,100 people who allegedly took part ...",
@@ -942,43 +971,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-11-ai-startup-accuses-facebook-of-stealing-code-designed-to-speed-up-machine-learning-models-on-ordinary-cpus.md",
-      "title": "AI startup accuses Facebook of stealing code designed to speed up machine learning models on ordinary CPUs",
-      "excerpt": "Neural Magic, founded in 2017 by Nir Shavit and Alex Matveev, describes itself as a \"no-hardware AI\" company. Instead of relying on GPU chips that are able to crunch through matrix maths operations to run machine-learning models quickly, the Boston-based upstart employs nifty software tricks to achieve similar speeds on CPUs. Court documents ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.theregister.co.uk/2020/03/11/facebook_ai_chips/",
-      "ampWebUrl": "https://www.theregister.co.uk/AMP/2020/03/11/facebook_ai_chips/",
-      "cdnAmpWebUrl": "https://www-theregister-co-uk.cdn.ampproject.org/c/s/www.theregister.co.uk/AMP/2020/03/11/facebook_ai_chips/",
-      "publishedDateTime": "2020-03-11T03:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Register",
-        "domain": "theregister.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://regmedia.co.uk/2019/07/26/shutterstock_processor_design.jpg",
-          "width": 1000,
-          "height": 680,
-          "title": "AI startup accuses Facebook of stealing code designed to speed up machine learning models on ordinary CPUs",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

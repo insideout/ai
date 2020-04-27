@@ -666,6 +666,51 @@
       ]
     },
     {
+      "path": "_news/2020-04-10-ignore-elon-musk-and-mark-zuckerbergs-war-over-killer-robots-the-real-challenge-is-already-here.md",
+      "title": "Ignore Elon Musk and Mark Zuckerberg's War Over Killer Robots, the Real Challenge Is Already Here",
+      "excerpt": "Tech giants Elon Musk and Mark Zuckeberg have been engaged in a very public, somewhat silly and self-indulgent battle over artificial intelligence ... he thinks the Facebook head just doesn ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://gizmodo.com/ignore-elon-musk-and-mark-zuckerbergs-war-over-killer-r-1797249927",
+      "ampWebUrl": "https://gizmodo.com/ignore-elon-musk-and-mark-zuckerbergs-war-over-killer-r-1797249927/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/ignore-elon-musk-and-mark-zuckerbergs-war-over-killer-r-1797249927/amp",
+      "publishedDateTime": "2020-04-10T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/k068hm9apd1dbdpxluss.jpg",
+          "width": 800,
+          "height": 450,
+          "title": "Ignore Elon Musk and Mark Zuckerberg's War Over Killer Robots, the Real Challenge Is Already Here",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-10-lee-sedol-loses-final-go-match-making-it-a-4-1-victory-for-googles-ai.md",
       "title": "Lee Sedol Loses Final Go Match Making It a 4-1 Victory for Google's AI",
       "excerpt": "Google Deepmind’s Demis Hassabis put the odds ... has stomped to victory for a fourth time against Go world champion Lee Sedol. That makes it a resounding victory for the AI, which has won ...",
@@ -1014,43 +1059,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-10-ask-sophia-the-robot-is-ai-an-existential-threat-to-humans.md",
-      "title": "Ask Sophia the Robot: Is AI an existential threat to humans?",
-      "excerpt": "Sophia is Hanson Robotics’ latest human-like robot, created to be a research platform for Hanson Robotics' ongoing AI and robotics research work. Working with labs, universities and companies around the world, she is an architecture and a platform for developing AI applications. Sophia has received the title of Innovation Champion for the ...",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://bigthink.com/videos/sophia-the-robot-ai-threat",
-      "ampWebUrl": "https://bigthink.com/videos/sophia-the-robot-ai-threat.amp.html",
-      "cdnAmpWebUrl": "https://bigthink-com.cdn.ampproject.org/c/s/bigthink.com/videos/sophia-the-robot-ai-threat.amp.html",
-      "publishedDateTime": "2020-04-10T02:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Big Think",
-        "domain": "bigthink.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://assets.rebelmouse.io/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8yMjkxNjUwMy9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTYwMjE1NzA2M30.GOgoYXP2fQJ_og_DA0MKMmKBLdOKkl43q3I0LKsMQuM/img.jpg?width=1200&height=675",
-          "width": 1200,
-          "height": 675,
-          "title": "Ask Sophia the Robot: Is AI an existential threat to humans?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

@@ -2,6 +2,43 @@
   "page": 102,
   "value": [
     {
+      "path": "_news/2019-12-16-waymo-acquires-ai-startup-latent-logic.md",
+      "title": "Waymo acquires AI startup Latent Logic",
+      "excerpt": "Waymo has acquired Latent Logic, a startup formed as an Oxford University spinoff that specializes in \"imitation learning\" for artificial intelligence technology. The company has focused its work on simulation environments that help train algorithms for ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://leftlanenews.com/2019/12/16/waymo-acquires-ai-startup-latent-logic/",
+      "ampWebUrl": "https://leftlanenews.com/2019/12/16/waymo-acquires-ai-startup-latent-logic/",
+      "cdnAmpWebUrl": "https://leftlanenews-com.cdn.ampproject.org/c/s/leftlanenews.com/2019/12/16/waymo-acquires-ai-startup-latent-logic/",
+      "publishedDateTime": "2019-12-16T05:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Leftlane",
+        "domain": "leftlanenews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://leftlanenews.com/images/content/2019-08/WaymoIPACE-city2_700.jpg",
+          "width": 700,
+          "height": 449,
+          "title": "Waymo acquires AI startup Latent Logic",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2019-09-30-face-recognition-on-a-raspberry-pi-using-3d-model-for-face-alignment.md",
       "title": "Face recognition on a Raspberry Pi using 3D model for face alignment",
       "excerpt": "Many face detectors exist in the literature each having its advantages and disadvantages. Here we used the “Viola & Jones ... recognition task easier. For example we could use a 2D alignment ...",

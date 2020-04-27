@@ -2,6 +2,35 @@
   "page": 48,
   "value": [
     {
+      "path": "_news/2020-03-11-indias-mphasis-wins-partnership-certification-on-amazon-web-services.md",
+      "title": "India’s Mphasis wins partnership certification on Amazon Web Services",
+      "excerpt": "Microsoft to help 1.5 billion students missing school Mphasis, which is also a member of the Blackstone Group of companies, provides an end-to-end cloud and cognitive portfolio of services that ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.financialexpress.com/industry/technology/indias-mphasis-wins-partnership-certification-on-amazon-web-services/1894331/",
+      "ampWebUrl": "https://www.financialexpress.com/industry/technology/indias-mphasis-wins-partnership-certification-on-amazon-web-services/1894331/lite/",
+      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/technology/indias-mphasis-wins-partnership-certification-on-amazon-web-services/1894331/lite/",
+      "publishedDateTime": "2020-03-10T22:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Express",
+        "domain": "financialexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-11-ibm-advances-watsons-ability-to-understand-the-language-of-business.md",
       "title": "IBM Advances Watson's Ability to Understand the Language of Business",
       "excerpt": "KPMG, a multinational professional services network, and one of the Big Four accounting organizations, worked with IBM to create an AI solution based on a variety of Watson services, including ...",
@@ -1178,35 +1207,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-10-automated-material-handling-equipment-market-insights-potential-business-strategies-mergers-and-acquisitions-revenue-analysis.md",
-      "title": "Automated Material Handling Equipment Market Insights, Potential Business Strategies, Mergers and Acquisitions, Revenue Analysis",
-      "excerpt": "New York March 10 2020 The scope of the report includes a detailed study of Automated Material Handling Equipment Market with the reasons given for variations in the growth of the industry in certain regions The Automated Material Handling Equipment",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.openpr.com/news/1960887/automated-material-handling-equipment-market-insights",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-10T08:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

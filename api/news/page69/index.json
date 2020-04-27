@@ -2,6 +2,50 @@
   "page": 69,
   "value": [
     {
+      "path": "_news/2020-02-25-amazon-pilots-ai-powered-customer-support-agents.md",
+      "title": "Amazon pilots AI-powered customer support agents",
+      "excerpt": "Might AI help improve customer service for the millions of people who shop on Amazon.com? Amazon intends to find out. In a blog post, the Seattle tech giant revealed that it’s testing two AI-based systems to handle incoming shopper inquiries. One fields requests from customers automatically and without human intervention, while the other ...",
+      "heat": 97,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/02/25/amazon-tests-ai-powered-customer-support-agents-on-amazon-com/",
+      "ampWebUrl": "https://venturebeat.com/2020/02/25/amazon-tests-ai-powered-customer-support-agents-on-amazon-com/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/25/amazon-tests-ai-powered-customer-support-agents-on-amazon-com/amp/",
+      "publishedDateTime": "2020-02-25T08:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/12/amazon-logo-reuters.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Amazon pilots AI-powered customer support agents",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-02-25-why-the-future-of-marketing-relies-on-ai-and-data-storytellers.md",
       "title": "Why The Future Of Marketing Relies On AI and Data Storytellers",
       "excerpt": "Marketing team cultures that are open-minded toward change and invest in both people and technology will be able to future-proof their teams and propel their businesses towards successful transformation.",
@@ -1036,42 +1080,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-24-from-california-to-dc-these-are-the-proposals-for-reforming-law-firm-ownership.md",
-      "title": "From California to D.C., These Are the Proposals for Reforming Law Firm Ownership",
-      "excerpt": "On Twitter at @packeld A weekly ... This study demonstrates how to analyze, streamline, and extract meaningful value from your contract database, with specific examples around M&A deal points. Formulate a compelling business case to win support for adopting artificial intelligence (AI) powered contract analysis using data, benefits and pain ...",
-      "heat": 127,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.law.com/americanlawyer/2020/02/24/from-california-to-d-c-these-are-the-proposals-for-reforming-law-firm-ownership/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-24T14:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Law",
-        "domain": "law.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.law.com/contrib/content/uploads/sites/405/2019/11/Sacramento-State-Capitol-Article-201802222202.jpg",
-          "width": 620,
-          "height": 372,
-          "title": "From California to D.C., These Are the Proposals for Reforming Law Firm Ownership",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

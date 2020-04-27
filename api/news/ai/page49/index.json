@@ -2,6 +2,35 @@
   "page": 49,
   "value": [
     {
+      "path": "_news/2020-03-10-automated-material-handling-equipment-market-insights-potential-business-strategies-mergers-and-acquisitions-revenue-analysis.md",
+      "title": "Automated Material Handling Equipment Market Insights, Potential Business Strategies, Mergers and Acquisitions, Revenue Analysis",
+      "excerpt": "New York March 10 2020 The scope of the report includes a detailed study of Automated Material Handling Equipment Market with the reasons given for variations in the growth of the industry in certain regions The Automated Material Handling Equipment",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.openpr.com/news/1960887/automated-material-handling-equipment-market-insights",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-10T08:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-10-pope-francis-offers-rome-call-for-ai-ethics-to-step-up-ai-wokefulness-which-is-a-wake-up-call-for-ai-self-driving-cars-too.md",
       "title": "Pope Francis Offers ‘Rome Call For AI Ethics’ To Step-Up AI Wokefulness, Which Is A Wake-Up Call For AI Self-Driving Cars Too",
       "excerpt": "The Pope is concerned that AI might be used in ways that undercut humanity rather than AI serving as a tool to enable and embellish humanity. Per the Vatican, a newly released document entitled “Rome Call For AI Ethics” spells out what direction AI ought to go as a technology that preferably is aimed for the betterment of society instead of the detriment or the possible demise of society.",
@@ -1091,43 +1120,6 @@
         "Google AI",
         "AI",
         "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2020-03-09-showcasing-mreports-top-25-fintech-innovators-ai-foundry.md",
-      "title": "Showcasing MReport’s Top 25 Fintech Innovators: AI Foundry",
-      "excerpt": "After much deliberation, we are now proud to present our first annual collection of the Top 25 Fintech Innovators. In the pages that follow, you’ll get exclusive insights into the organizations and offerings that are poised to shape the mortgage industry in 2020 and beyond. Company Description: AI Foundry, an artificial intelligence (AI ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://themreport.com/daily-dose/03-09-2020/showcasing-mreports-top-25-fintech-innovators-ai-foundry",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-09T14:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theMReport",
-        "domain": "themreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://themreport.com/wp-content/uploads/2018/03/TechSavvy-300x236-1-1-300x236-1-1-300x236-1.png",
-          "width": 300,
-          "height": 236,
-          "title": "Showcasing MReport’s Top 25 Fintech Innovators: AI Foundry",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],
