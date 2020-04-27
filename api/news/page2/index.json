@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-04-24-how-ai-can-improve-it-service-management-in-a-pandemic.md",
+      "title": "How AI Can Improve IT Service Management In A Pandemic",
+      "excerpt": "The bottom line is that the AI-based approach to modernizing ITSM shows the potential to lower IT costs, reduce errors, increase user satisfaction levels while improving response times and speed.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/louiscolumbus/2020/04/24/how-ai-can-improve-it-service-management-in-a-pandemic/",
+      "ampWebUrl": "https://www.forbes.com/sites/louiscolumbus/2020/04/24/how-ai-can-improve-it-service-management-in-a-pandemic/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/04/24/how-ai-can-improve-it-service-management-in-a-pandemic/amp/",
+      "publishedDateTime": "2020-04-24T07:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ea2f1b1165a170006a5bb8f%2F0x0.jpg",
+          "width": 1200,
+          "height": 720,
+          "title": "How AI Can Improve IT Service Management In A Pandemic",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-24-insurtech-startup-axinan-closes-series-a-with-16-mn.md",
       "title": "Insurtech Startup Axinan Closes Series A+ with $16 Mn",
       "excerpt": "Insurtech Startup Axinan has closed its series A funding round at $16 mn ... Founded in 2016 by former chief technology officer of Grab, Wei Zhu, Igloo is a full-stack insurtech firm powered by artificial intelligence (AI) and big data that builds digital insurance products. Its product offerings range from personal to lifestyle insurance ...",
@@ -1042,50 +1086,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-23-this-ai-camera-can-help-restaurants-show-that-their-food-is-safe-from-covid-19.md",
-      "title": "This AI Camera Can Help Restaurants Show That Their Food Is Safe From Covid-19",
-      "excerpt": "If a restaurant like Emilie’s were to use Dragontail’s AI camera technology, it could help them show customers what they’re doing in the kitchen, says CEO Levanol.",
-      "heat": 83,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/jennysplitter/2020/04/23/this-ai-camera-can-help-restaurants-show-that-their-food-is-safe-from-covid-19/",
-      "ampWebUrl": "https://www.forbes.com/sites/jennysplitter/2020/04/23/this-ai-camera-can-help-restaurants-show-that-their-food-is-safe-from-covid-19/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jennysplitter/2020/04/23/this-ai-camera-can-help-restaurants-show-that-their-food-is-safe-from-covid-19/amp/",
-      "publishedDateTime": "2020-04-23T07:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ea18f0ef0b8cf000629757b%2F0x0.jpg",
-          "width": 1199,
-          "height": 673,
-          "title": "This AI Camera Can Help Restaurants Show That Their Food Is Safe From Covid-19",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

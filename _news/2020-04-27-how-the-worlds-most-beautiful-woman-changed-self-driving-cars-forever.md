@@ -25,6 +25,6 @@ images:
     height: 628
     title: "How 'The World's Most Beautiful Woman' Changed Self-Driving Cars Forever"
 
-secured: "TizEs9s4VNH3qAbszgpmUY0Uwn2rBIerh1V3TxMJ1aqbKFn4m0/zwtdzUnXUueudAtDrInPKyyqRK2jwviHNpA1hB4Xmk+a3iYttuyOOQbwI1bVH/cJ7D9N4BXXtLECLd24l3kk/dZ0PbhJAcbvGpanPLkYyIRLn8Xfg2z7PhiHqXwuLNMt01JpvdaeSgblxf7aiw72UfKyiOy+YKG4BSKVs9lPJURchKvjHEArZvk6phgpHitzTYQq/x1RkmkEoxTw7Vpg6bqwzMw7OPlbokLDQN2Vvitpjhna5y0L0YlTClaybSRL+PnXsj2cOks1e;E2NLBi37Xa/w5Bsml/WP0A=="
+secured: "zuPnIu98AE2VpwR9rDqr1gyaCAlxDqaYa7zw578cWUVGdZ4PxSez0NC0ZY02LG459twiAICP5kCxbGRaCSC65gXZw4MPMhF8dM6ZQzDhvmNLBWjcf/t6yFceR+/r9+YZSNYBbRDbVMho+6gGTXn+op+beQUZ73ru0BFrxJOKycIrT5WFvC7phiCFVsb5jPIkUHPPPKj4E0i5uP+Itnc8WIeV6800tK7vxAu3P29BiEwxszgt18T4xdBLo+vgW7+8CL+LYEXrJUztZsdYhDLWJj+1jG84mzx+TlrWUWZOlhtMQw/LN3U6cXCOPVbzWyjxus58x3kia6bTYMO279hSofAoLfsrHxeN6UTchfjx3EmZ0fYSCOBt1PlA+MIBlnJ7QLUFNEOJc8zg2Mf9byDjhkiIrgvyQJT3qo+aSkitAcyQYpTwUR8iRllBAriZV/1sr6bpZ+M5hh+WcSEFWoFVAo+ZwP8xcQrLqTqhak2Xb8w=;uH19INt+w/37LAH43GPLfw=="
 ---
 

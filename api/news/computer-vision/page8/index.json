@@ -2,51 +2,6 @@
   "page": 8,
   "value": [
     {
-      "path": "_news/2020-01-23-digitizing-the-finger-startup-gelsight-hones-measurement-system-that-could-speed-up-aerospace-work.md",
-      "title": "Digitizing The Finger: Startup Gelsight Hones Measurement System That Could Speed Up Aerospace Work",
-      "excerpt": "Using computer vision techniques, the system “turns touch into an image,” says Johnson, allowing it to measure surface features down to the single-digit micron level. The company is starting ...",
-      "heat": 70,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/jeremybogaisky/2020/01/23/vision-through-touch-startup-gelsight-hones-measurement-system-that-could-speed-up-aerospace-work/",
-      "ampWebUrl": "https://www.forbes.com/sites/jeremybogaisky/2020/01/23/vision-through-touch-startup-gelsight-hones-measurement-system-that-could-speed-up-aerospace-work/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jeremybogaisky/2020/01/23/vision-through-touch-startup-gelsight-hones-measurement-system-that-could-speed-up-aerospace-work/amp/",
-      "publishedDateTime": "2020-01-23T09:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e29cf2ff133f400076a7e73%2F0x0.jpg",
-          "width": 1200,
-          "height": 633,
-          "title": "Digitizing The Finger: Startup Gelsight Hones Measurement System That Could Speed Up Aerospace Work",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
       "path": "_news/2020-01-23-dem-senator-presses-facial-recognition-company-after-reports-of-law-enforcement-collaboration.md",
       "title": "Dem senator presses facial recognition company after reports of law enforcement collaboration",
       "excerpt": "Sen. Ed Markey (D-Mass.) on Thursday sent a series of questions to the CEO of Clearview AI after reports that the company has been selling facial recognition software with an expansive database to law enforcement.",
@@ -1297,6 +1252,51 @@
         "AI",
         "Computer Vision",
         "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-01-15-retailers-hope-in-store-tech-will-keep-shoppers-in-stores.md",
+      "title": "Retailers Hope In-Store Tech Will Keep Shoppers in Stores",
+      "excerpt": "Dubbed AWM Frictionless, the system includes digital shelving and object-recognition cameras that can keep track of which customers leave with which items. Customers have to do facial recognition ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wsj.com/articles/retailers-hope-in-store-tech-will-keep-shoppers-in-stores-11579084202",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/retailers-hope-in-store-tech-will-keep-shoppers-in-stores-11579084202",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/retailers-hope-in-store-tech-will-keep-shoppers-in-stores-11579084202",
+      "publishedDateTime": "2020-01-15T05:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-144177/social",
+          "width": 1280,
+          "height": 640,
+          "title": "Retailers Hope In-Store Tech Will Keep Shoppers in Stores",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
       ]
     }
   ],

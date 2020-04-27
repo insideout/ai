@@ -6,7 +6,7 @@ publishedDateTime: 2020-04-22T15:08:00Z
 webUrl: "https://gamasutra.com/blogs/RubenTorresBonet/20200422/361542/Are_You_Pushing_Too_Many_Vertices_to_Your_GPU_Careful_There.php"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -22,21 +22,6 @@ images:
     width: 432
     height: 422
     title: "Are You Pushing Too Many Vertices to Your GPU? Careful There!"
-
-related:
-  - title: "AI’ll be there for you: are robots coming to take our jobs?"
-    excerpt: "Fear and apprehension relating to the potential of new generations of robots leading to mass unemployment tends to move up a notch whenever a shiny new piece of artificial intelligence (AI)-powered technology is unveiled. One of the few instances where that was not the case was the recent announcement by Irish company Akara Robotics that it had ..."
-    publishedDateTime: 2020-04-22T11:27:00Z
-    webUrl: "https://www.irishtimes.com/special-reports/business-ireland-magazine/ai-ll-be-there-for-you-are-robots-coming-to-take-our-jobs-1.4219298"
-    type: article
-    provider:
-      name: The Irish Times
-      domain: irishtimes.com
-    quality: 54
-    images:
-      - url: "https://www.irishtimes.com/polopoly_fs/1.4219297.1585846383!/image/image.jpg"
-        width: 1440
-        height: 810
 
 secured: "gcEA6MOHJeHfdiAF1aDQz4y2xX2pGQG27fCBCPsdTEdzQhbbCRhuBPG7ojU71jMSY84gCwavBvMUCSALT9xQuOYy68n1GOprv6QE0twSjJXvJSFB/9lNeHhj2Z/4NNBl016sxt+8Wlmnvjm5wj48Hz3cA75wgLfWTrWgOd76oxvcsVZCN8zwrpResqQNM5RskVt2Ct61bcDkeWMFg+0a6EW/5kdK/Co5Wa4eMuE5IyAVniwb+7Iu0FW8fWGYhEJSPmzaLwd6VFlbolyvtxp/K6rPBkObhRPeGnilhylOEJlj68FNXIvI/q5m81xj4o1CAITfRN4AwIjLdJ/hV/8uhHb7EQFbd6lB9SBTL9Sm90bulwZfvl2y/3U7/neZzuzlymFt19isG+BwVI+GqqRx3IoCBAb04FRnwDdjDCKSTNK47F44sne5Urke9KZ76oSDBO1MKK2Kj8rcp7aQefmfd21GIahZxJfqbnFvc6/BDgs=;MuAmBM5p1DCgtBWX0phfnw=="
 ---

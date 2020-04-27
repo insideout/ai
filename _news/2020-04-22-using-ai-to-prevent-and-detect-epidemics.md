@@ -42,21 +42,6 @@ related:
       - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-04%2Ffb956480-84aa-11ea-97ce-b695cf0789e3&client=amp-blogside-v2&signature=b61893ebfaeb73766baa17712deaccb3ea747147"
         width: 600
         height: 350
-  - title: "Smart coral reefs: This underwater, fish-spotting AI helps protect the rainforest of the sea"
-    excerpt: "Intel, Accenture and Sulubaaï are hoping that Project CORaiL can soon start expanding to more reefs to help tackle the crisis. Engineers are already working on a new prototype including a better-optimized AI classifier, as well as a backup power supply."
-    publishedDateTime: 2020-04-22T11:33:00Z
-    webUrl: "https://www.zdnet.com/article/smart-coral-reefs-this-underwater-fish-spotting-ai-helps-protect-the-rainforest-of-the-sea/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/smart-coral-reefs-this-underwater-fish-spotting-ai-helps-protect-the-rainforest-of-the-sea/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/smart-coral-reefs-this-underwater-fish-spotting-ai-helps-protect-the-rainforest-of-the-sea/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 76
-    images:
-      - url: "https://zdnet3.cbsistatic.com/hub/i/r/2020/03/18/0c067e67-6216-4f9c-a24d-350d3553d70d/thumbnail/1200x675/7ca1d546b1c78ad7a7a272f5b8c7d959/20200318-daphne-karen-chip.jpg"
-        width: 1200
-        height: 675
 
 secured: "qSNI/gz3yTY8iOoNrIlgE6/N5Zlf3zB6XkPW/r9i56SPqvDttQKAnK5O4U15a7lMILI/vRwFoDAnr8muvuTsTlDzldSsGJLqWk58G0nXR2J5HXRda6X9zcQSahbSUcB5W4gTZTRIlAPw/1/noFBiZ3YD9UBiO/47ExIKsfDtpQLFVup6cO9GGizBg/srr3+r6Opu9WxaX5dx1q+Zn+G7t2rsvwVC/oXAXKszUUyab7OwFuEe5pYaVIo09B7/g9XmZb/E5fSUANTaNDm6aBs8lpIJOcstBd/as15UUORgatvPabkjhw16vDsQ2wJEzCafu+kL2yzwC2RW7+ajsYgak2kFh7tkky3606gd1/rQMmVWoyysz6mtWNfAFyfCxVPOy7PJJmvs5q9i4LahvhcxjlFzZdQOaa0huEvFsKc7PMh6Pqm0eMVy2fzDD7a5QkF4Iw0gKkmRaVb/82/QXSddCInPOeqbVSrIMLJAJqQv9Q8=;MQOBj/XG64o7S/R8HkczfQ=="
 ---

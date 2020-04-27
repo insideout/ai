@@ -2,6 +2,51 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-02-18-175-customers-achieve-machine-learning-success-with-awss-machine-learning-solutions-lab.md",
+      "title": "175+ Customers Achieve Machine Learning Success with AWS’s Machine Learning Solutions Lab",
+      "excerpt": "AWS introduced the Machine Learning (ML) Solutions Lab a little over two years ago to connect our machine learning experts and data scientists with AWS customers.  Our goal was to help our customers solve their most pressing business problems using ML. We’ve helped our customers increase fraud detection",
+      "heat": 90,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/175-customers-achieve-machine-learning-success-with-awss-machine-learning-solutions-lab/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-18T06:00:07-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0.png",
+          "width": 1260,
+          "height": 630,
+          "title": "175+ Customers Achieve Machine Learning Success with AWS’s Machine Learning Solutions Lab",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-02-17-aws-assists-premier-league-analytics.md",
       "title": "AWS assists Premier League analytics",
       "excerpt": "The Premier League has chosen Amazon Web Services (AWS) as its preferred Cloud, machine learning (ML) and artificial intelligence (AI) provider. The league’s analytics company Second Spectrum uses AWS to help deliver analytics, visualisations and searchable video clips during games. Second Spectrum applies ML and computer vision techniques to ...",
@@ -1267,51 +1312,6 @@
       "topics": [
         "AI",
         "Natural Language Processing",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-15-standard-voices-in-amazon-polly-now-available-in-middle-east-and-asia-pacific-regions.md",
-      "title": "Standard Voices in Amazon Polly now available in Middle East and Asia Pacific Regions",
-      "excerpt": "Amazon Polly turns text into lifelike speech, which allows you to create voice-enabled applications. AWS is excited to announce the general availability of all standard voices in the Middle East (Bahrain) and Asia Pacific (Hong Kong) Regions. Customers in these Regions can now synthesize over 60 standard",
-      "heat": 97,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/standard-voices-in-amazon-polly-now-available-in-middle-east-and-asia-pacific-regions/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-15T12:32:30-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/11/24/polly-social.jpg",
-          "width": 1024,
-          "height": 512,
-          "title": "Standard Voices in Amazon Polly now available in Middle East and Asia Pacific Regions",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
         "AWS AI"
       ]
     }

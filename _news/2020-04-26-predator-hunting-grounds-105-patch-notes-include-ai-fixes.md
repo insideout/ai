@@ -8,7 +8,7 @@ ampWebUrl: "https://www.gamespot.com/amp-articles/predator-hunting-grounds-105-p
 cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/predator-hunting-grounds-105-patch-notes-include-a/1100-6476506/"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -23,6 +23,23 @@ images:
     width: 640
     height: 360
     title: "Predator: Hunting Grounds 1.05 Patch Notes Include AI Fixes"
+
+related:
+  - title: "New ‘Predator: Hunting Grounds’ patch fixes matchmaking, AI and more"
+    excerpt: "Predator: Hunting Grounds’ has received its first post-release patch, a 1.2GB hotfix which addresses bugs ranging from matchmaking to AI issues."
+    publishedDateTime: 2020-04-27T04:27:00Z
+    webUrl: "https://www.nme.com/en_au/news/gaming-news/new-predator-hunting-grounds-patch-fixes-matchmaking-ai-and-more-2654260"
+    ampWebUrl: "https://www.nme.com/en_au/news/gaming-news/new-predator-hunting-grounds-patch-fixes-matchmaking-ai-and-more-2654260?amp"
+    cdnAmpWebUrl: "https://www-nme-com.cdn.ampproject.org/c/s/www.nme.com/en_au/news/gaming-news/new-predator-hunting-grounds-patch-fixes-matchmaking-ai-and-more-2654260?amp"
+    type: article
+    provider:
+      name: NME
+      domain: nme.com
+    quality: 57
+    images:
+      - url: "https://www.nme.com/wp-content/uploads/2020/04/predator-hunting-grounds-credit-illfonic@2000x1270.jpg"
+        width: 2000
+        height: 1270
 
 secured: "ckvYMY3CHPC2rM8r7jiUdAjoCedjLgWFuFPXxIXw/YkWyYgLWnnqC4MiqLX95YjF20GtjySpI4128RqQbHjvO+U4mtOJb8lKGKdwOj3AIwLPZpwIhy63UpRn/mHZpM3LpAJwfnlvLLMbLof6Jfrr4rT3nCibpgwxmiuK9H+wx2KzEmXs5dxKJFA5qiuXKpjIfUrDCNj+XqHyJq8K5NOrGIBYGsV7xgfsSoxQ34sVmgjFiJJKJUzKMkeb8XInZslmrvWQfP9frwsi5xxZWmm0/RBMd226ZX6b2agwi534eYGLofBmmRJinFRP8ABKfVbmjoI4NhDUhKWBBcaslucYvCSnimhD96f5lohZTXAsd2ZxHszikF0F4NTv6ekm0n9WrA421RESfOHPa518FWHhLnXLCFabozZfP77rD5uXVULIktPyNd0PNkM/ykMeerq06nu3ZGRjoLUOKce9s5y714OUhaoi/A506sS5hilVGOE=;uzRTpXuA1MX95u0BcJjPkw=="
 ---

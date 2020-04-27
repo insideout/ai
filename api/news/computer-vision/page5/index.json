@@ -2,43 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2020-03-09-marylands-face-recognition-system-is-one-of-the-most-invasive-in-the-nation-commentary.md",
-      "title": "Maryland’s face recognition system is one of the most invasive in the nation | COMMENTARY",
-      "excerpt": "Her photo was posted on news channels and all over the internet. The mistake was the result of faulty face recognition technology, which Sri Lankan authorities had used to search for suspects.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.baltimoresun.com/opinion/op-ed/bs-ed-op-0310-face-recognition-20200309-hg6jkfav2fdz3ccs55bvqjtnmu-story.html",
-      "ampWebUrl": "https://www.baltimoresun.com/opinion/op-ed/bs-ed-op-0310-face-recognition-20200309-hg6jkfav2fdz3ccs55bvqjtnmu-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/opinion/op-ed/bs-ed-op-0310-face-recognition-20200309-hg6jkfav2fdz3ccs55bvqjtnmu-story.html?outputType=amp",
-      "publishedDateTime": "2020-03-09T12:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Baltimore Sun",
-        "domain": "baltimoresun.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.baltimoresun.com/resizer/zb8KR6IkgmyW3Mbc5y-UnmfoZT8=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/RDVQ7TGPVBGWPMTQZ7CQYBBEVE.jpg",
-          "width": 1200,
-          "height": 814,
-          "title": "Maryland’s face recognition system is one of the most invasive in the nation | COMMENTARY",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-03-09-patriot-one-secures-contract-for-correctional-service-canada-from-innovative-solutions-canada.md",
       "title": "Patriot One Secures Contract for Correctional Service Canada from Innovative Solutions Canada",
       "excerpt": "The contract from Innovative Solution Canada (ISC), was awarded to Patriot One for its PATSCAN Platform, with specific interest around the Video Object Recognition Software (VRS) solution for the ...",
@@ -1190,6 +1153,51 @@
           "width": 756,
           "height": 567,
           "title": "Your future face-scanning phone could check for live skin",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2020-02-19-this-smartphone-sensor-can-detect-live-skin-to-halt-facial-login-spoofing.md",
+      "title": "This smartphone sensor can detect live skin to halt facial login spoofing",
+      "excerpt": "Apple’s Face ID is the gold standard in facial recognition tech, but it’s not one hundred percent foolproof. Highly detailed 3D printed masks can trick it. Less sophisticated 2D sensors, still found in many smartphones, can be tricked with a photo. The next generation of facial recognition technology is on the horizon, however, thanks to 3D ...",
+      "heat": 73,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.digitaltrends.com/mobile/trinamix-live-skin-module-facial-login-spoofing/",
+      "ampWebUrl": "https://www.digitaltrends.com/mobile/trinamix-live-skin-module-facial-login-spoofing/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/mobile/trinamix-live-skin-module-facial-login-spoofing/?amp",
+      "publishedDateTime": "2020-02-19T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://icdn4.digitaltrends.com/image/digitaltrends/trinamix-live-skin-demo-8-of-7-1200x630-c-ar1.91.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": "This smartphone sensor can detect live skin to halt facial login spoofing",
           "attribution": null
         }
       ],

@@ -6,7 +6,7 @@ publishedDateTime: 2020-04-23T23:11:00Z
 webUrl: "https://www.businesswire.com/news/home/20200423005964/en/AWS-Announces-General-Availability-Amazon-Keyspaces-Apache"
 type: article
 quality: 51
-heat: 61
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,19 @@ images:
     title: "AWS Announces General Availability of Amazon Keyspaces (for Apache Cassandra)"
 
 related:
+  - title: "AWS Announces General Availability of Amazon Augmented Artificial Intelligence"
+    excerpt: "Amazon A2I makes it easier for developers to build and manage workflows to validate machine learning predictions with human reviewers Today, Amazon Web Service"
+    publishedDateTime: 2020-04-27T05:47:00Z
+    webUrl: "https://www.cxotoday.com/press-release/aws-announces-general-availability-of-amazon-augmented-artificial-intelligence/"
+    type: article
+    provider:
+      name: CXO Today
+      domain: cxotoday.com
+    quality: 65
+    images:
+      - url: "https://www.cxotoday.com/wp-content/uploads/2020/02/Amazon-campus-hyderabad.jpg"
+        width: 600
+        height: 450
   - title: "AWS Announces General Availability of Amazon Augmented Artificial Intelligence (A2I)"
     excerpt: "Amazon Web Services (AWS), an Amazon.com company (NASDAQ: AMZN), announced the general availability of Amazon Augmented Artificial Intelligence"
     publishedDateTime: 2020-04-24T17:26:00Z

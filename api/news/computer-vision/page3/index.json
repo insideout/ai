@@ -2,35 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2020-03-26-image-recognition-market-size-worth-1094-billion-by-2027-cagr-188-grand-view-research-inc.md",
-      "title": "Image Recognition Market Size Worth $109.4 Billion by 2027 | CAGR: 18.8%: Grand View Research, Inc.",
-      "excerpt": "The global image recognition market size is expected to reach USD 109.4 billion by 2027, according to a new report by Grand",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.benzinga.com/pressreleases/20/03/n15669680/image-recognition-market-size-worth-109-4-billion-by-2027-cagr-18-8-grand-view-research-inc",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/15669680",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15669680",
-      "publishedDateTime": "2020-03-26T01:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-03-25-ai-is-searching-for-unexploded-vietnam-war-bombs-in-cambodia.md",
       "title": "AI is searching for unexploded Vietnam War bombs in Cambodia",
       "excerpt": "The system uses object recognition algorithms that detect the unique features of bomb craters, including their shapes, colors, textures, and sizes. These algorithms then scan satellite images for ...",
@@ -1147,6 +1118,35 @@
           "attribution": null
         }
       ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-15-port-of-seattle-moves-toward-implementing-facial-recognition.md",
+      "title": "Port of Seattle moves toward implementing facial recognition",
+      "excerpt": "Over protests from civil-liberties groups, the Port of Seattle Commission voted Tuesday to purchase and install facial-recognition cameras at Seattle-Tacoma International Airport’s international departure gates.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://journalstar.com/business/national-and-international/port-of-seattle-moves-toward-implementing-facial-recognition/article_b36dbdd4-c0e1-5629-90ad-2a500ff97241.html",
+      "ampWebUrl": "https://journalstar.com/business/national-and-international/port-of-seattle-moves-toward-implementing-facial-recognition/article_b36dbdd4-c0e1-5629-90ad-2a500ff97241.amp.html",
+      "cdnAmpWebUrl": "https://journalstar-com.cdn.ampproject.org/c/s/journalstar.com/business/national-and-international/port-of-seattle-moves-toward-implementing-facial-recognition/article_b36dbdd4-c0e1-5629-90ad-2a500ff97241.amp.html",
+      "publishedDateTime": "2020-03-14T17:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Lincoln Journal Star",
+        "domain": "journalstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
       "locale": "en-us",
       "categories": [
         "news"

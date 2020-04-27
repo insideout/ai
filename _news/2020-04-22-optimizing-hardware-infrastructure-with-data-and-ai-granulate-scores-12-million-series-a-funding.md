@@ -8,7 +8,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/optimizing-hardware-infrast
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/optimizing-hardware-infrastructure-with-data-and-ai-granulate-scores-12-million-series-a-funding/"
 type: article
 quality: 73
-heat: 83
+heat: 73
 published: true
 
 provider:
@@ -27,21 +27,6 @@ images:
     width: 595
     height: 418
     title: "Optimizing hardware infrastructure with data and AI: Granulate scores $12 million Series A funding"
-
-related:
-  - title: "7 Visionaries Shaping The Future Of Transportation"
-    excerpt: "This is the age of wild rides that are transforming the personal transportation sector into something worth more than ever. We not only"
-    publishedDateTime: 2020-04-22T12:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/7-visionaries-shaping-the-future-of-transportation-301044939.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 24
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
 
 secured: "OuWadTKxrQGX0if6dMq8RZ2Y5x90yIu/P37nqWuElEst8HZRSGfMvEo0kdAsoUSug7A6LAIwX2Di0/EbInsUwMsH8NvjdoRwUepFP8F+sNY7I1BNft/DT1tXoe1HtxD0jnj25urhdXUJ96J4J4gTjG7vAukWzmKhH+Qki2O8CZB7QIW0X+TKEJdQF5Ne11yiRyITA+9lEmTMmFmLwjc7p/+JrzG9WJjpdR7iQ1PpWet8Ieci46ECYMxvrPBG0B9Vdhhm2IiruSbuPUmNHVyyxmv8YV9+/46M9s/63rdQAhonY/b/zksR2gJ5Xa2/1Qxsf3cqDIA8TCupi7tvjgJBeUq+nabLJcZkDbBPsoDMZoYhkPE9JaZxJXD6dbK1Vm8JF2qXYlHx3/gba7qwNhj3HAXq8ZZOrqmqU5qDdu98Wlmd5LigkK4daM1br8BK3l3BLAyLs1XQ8hfPqY7kpiA05PHD0YetuXxzT7hNLstxiV8=;pb76hIPuu8aamuSskiWwjQ=="
 ---

@@ -6,7 +6,7 @@ publishedDateTime: 2020-04-22T15:23:00Z
 webUrl: "https://www.marketwatch.com/press-release/impact-of-covid-19-on-artificial-intelligence-market---beyond-2020-2020-04-22"
 type: article
 quality: 71
-heat: 81
+heat: 71
 published: true
 
 provider:
@@ -27,21 +27,6 @@ images:
     width: 1200
     height: 630
     title: "Impact of COVID-19 on Artificial Intelligence Market - Beyond 2020"
-
-related:
-  - title: "Impressive Growth in Military AI Market"
-    excerpt: "Software offers numerous capabilities such as battlefield healthcare data, language translation, and predictive maintenance. Based on technology, the global artificial intelligence in the military market has been classified as advanced computing, AI systems, and learning and intelligence. The learning and intelligence segment dominated the ..."
-    publishedDateTime: 2020-04-22T12:03:00Z
-    webUrl: "https://i-hls.com/archives/100761"
-    type: article
-    provider:
-      name: AUS&R
-      domain: i-hls.com
-    quality: 39
-    images:
-      - url: "https://i-hls.com/wp-content/uploads/2020/04/artificial-intelligence-503593_1280.jpg"
-        width: 1280
-        height: 905
 
 secured: "9so0H6PE90dQg3VFPrO358E0aq7BX9Up+cnaHXZGnssUpfo0Ahbshs9AjZ6hF+iw5UDiwY6zrivDKfiJBH3XmB03R9S8Ib4SY6uLJiAoUEQeHdByP/36h6E2BOiQEZOThcvEncU5VVxrTUdWm+apXmtP4HRT1HxoWYD4b2pS+Oz2xMs+j65sJI5pN3Rgftgu6wtuCv+vOTKNFQvpXvBg8y/qwG0Z940ds8nWE9M989Q0ulNO1nsU0EbvMVSBQpZvVwokKVyyDvJdgsKHAzq/0vA4xx0NPUe3EEYnepTZMxAXoNzcCBZE8WiVZahn1M/Y;2OQV4bwsVYrqWq+s+H1xmQ=="
 ---

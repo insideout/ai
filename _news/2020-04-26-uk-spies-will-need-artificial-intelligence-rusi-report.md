@@ -7,8 +7,8 @@ webUrl: "https://www.bbc.co.uk/news/technology-52415775"
 ampWebUrl: "https://www.bbc.co.uk/news/amp/technology-52415775"
 cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/technology-52415775"
 type: article
-quality: 57
-heat: 57
+quality: 59
+heat: 59
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/12356/production/_111928547_gettyimages-881638976.jpg"
@@ -24,6 +25,6 @@ images:
     height: 576
     title: "UK spies will need artificial intelligence - Rusi report"
 
-secured: "9HBvpcDgamUIxX87/9JQv2OhtxZRLw1QyhANfkMl6Y6/crSE7O6X9YO3uq/jDyX1ZQWKTx5lXOhcdiK3Fd5DNE3dFaXO9923+1q4kTsvwDjOizqr9fDlhCKNt8g2Va2hr9fg7ttcxd7cLdKSjdbaqxvmG+YO9dCij2TUQUmFGt9VG6tw1ziZkEPeMocyFdNC8kSHPdW9qnK9ip3wS797QRLcFkYD1WmYh+6U8xTeTiibhhMVFJys1oxBiO06y+sSpQyIEqnZMjKucnwchSUoCn7mCbItRVs4LA+HGyYpiq76ii2l+5oBUsF8NEJX7N0p;Hw3r/hUupIn3EsLnkB0jWA=="
+secured: "MrmKUvtCfybJfv8r6KPoqOQbEhK7JyFsdEFv6l1eQ63klDtZT0Rvo1GXlwD8DFhleWciPg5PEU28jeTstPEeLG+Jd0hcTze1P4THfknqlxm5oQ/g+hNJKoxbsQNdMjym7S48OOu2eLPagSyp6+0Ct+AscUNVKBj8wQtQJHN/If8lUxtygx6aZF68WgVOUmwWJuw2/M2BAUQhyx9LyKtG3r06fveSGTTmd5IAQvm/y+HXQSOGYcc/+ej88dei8gHe5KTSVDlsUmnPrl4MkXZ6ylnR2yIprpg2kygKu2PqZ2V/Q19CQvDBUPjf3cWe+BA3SEgF0sEWFMj6PLfF/DTx3G6BKSvEQdrU8acOsy8eO9+EkAr/eCma+M2Jniuj5IhJtYegtiPqEUh+DgbTewmPowfn8royjaot7BLiCVkY2rqTFB1O3oKaW+abuhbwnI1IlKwKYVEny1OG4CSYCm1N/DJlgJ5pjkmsl2ZtpNY+15I=;2R53UqE9Qyn90Uh4hSHJbA=="
 ---
 

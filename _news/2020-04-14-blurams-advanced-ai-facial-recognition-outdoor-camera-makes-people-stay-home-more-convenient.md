@@ -20,6 +20,6 @@ images:
     height: 1005
     title: "Blurams' Advanced AI Facial Recognition Outdoor Camera Makes People Stay Home More Convenient"
 
-secured: "puVW1rjSX/4FbV5wY+jI0PQLhGTJTPe4NStfJ8A4kPV39l4AkSVpNU5vqZUSw2qpC+/691xcKQs+wKObcvddaxgaiqFhXo6rjArXKTtCZabW4idm1TNe/oJiOx4s2Plxm8S3Vgg50hKEdUjw3iNJg++yQBCi/5svY5QedNdwBLsJiF4zLyQEEopDvEoHIPYSkvS5PIpcsT5I+N2C9oOssTY56EoSx5mWUT6LV8ZqUmuoxnLnrE+NnQlEK5GInFzgvK+VxtYI+xbgIeOXr67NdH/ji+OSmLeVj0jUgtsE+9ODPDxETaEfNNLkqwm+ngwu;HgC1iT4hXwhe3PPs6KL6LQ=="
+secured: "glyBBAGolG0ECEQ+lDYaqpfEUB4AphsIG7nNlrFN65F1/H1CowahIEvvpsOrH3UJ5z8L8JoIT82IJecdmLyI2Z2wcEqsU/VcpI8Eop3uAVpIct6ZEvjFTtjy5O8O+2shZXombD4p0QkmP0/0e6jabJ4Ys8mzYwJeJZUspz5GecenKHvS6cGVfJFO4sHzmyCMRbBqZOOx3MkLqCOiFZA/i6fHV64ksz6ocO+/Bn5bpegA1ZdyVBXTQ9aNpH4JVWlI2Jm+E1OumCArVkL+EDvPSalxkPoO1lD+X/xVO2ZSjkXNy0UAnzLaBan5PupYjn/ZCeSgE8k+14UtL4yiGTg/47fF8H+p14XFW2p0VKkXGJ+QSKeDQtXkpbpMy9CcqKNf+7k/w1Jtq+QUsdtZqMFrhgNCMPLXCl97wS//c8fvHZL36LZ6JaUnH8Xc0SyweMax+8YJbaHLBl+jftSSomnfZP92OTdxARNK+O+hSd5tHJI=;Ix2A04F2WQrRyXnxasgqyg=="
 ---
 

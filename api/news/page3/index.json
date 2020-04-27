@@ -2,6 +2,50 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-04-23-this-ai-camera-can-help-restaurants-show-that-their-food-is-safe-from-covid-19.md",
+      "title": "This AI Camera Can Help Restaurants Show That Their Food Is Safe From Covid-19",
+      "excerpt": "If a restaurant like Emilie’s were to use Dragontail’s AI camera technology, it could help them show customers what they’re doing in the kitchen, says CEO Levanol.",
+      "heat": 83,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/jennysplitter/2020/04/23/this-ai-camera-can-help-restaurants-show-that-their-food-is-safe-from-covid-19/",
+      "ampWebUrl": "https://www.forbes.com/sites/jennysplitter/2020/04/23/this-ai-camera-can-help-restaurants-show-that-their-food-is-safe-from-covid-19/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jennysplitter/2020/04/23/this-ai-camera-can-help-restaurants-show-that-their-food-is-safe-from-covid-19/amp/",
+      "publishedDateTime": "2020-04-23T07:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ea18f0ef0b8cf000629757b%2F0x0.jpg",
+          "width": 1199,
+          "height": 673,
+          "title": "This AI Camera Can Help Restaurants Show That Their Food Is Safe From Covid-19",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-23-robots-ai-and-the-road-to-a-fully-autonomous-construction-industry.md",
       "title": "Robots, AI, and the road to a fully autonomous construction industry",
       "excerpt": "That might’ve seemed like an absurd thing to say back when autonomous driving first entered the collective imagination and companies established their intention to solve AI’s grand autonomous vehicle challenge. But Waymo now takes billions from outside investors, and the delay of major initiatives like GM’s Cruise and taxi service and ...",
@@ -709,43 +753,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-22-ring-may-want-to-add-facial-recognition-and-more-to-cameras.md",
-      "title": "Ring may want to add facial recognition and more to cameras",
-      "excerpt": "Will your Ring security camera know your face soon? Maybe. There have been rumors circulating for months that Ring may be implementing facial recognition into its security cameras. While Ring hasn’t come out with any new facial recognition features yet, it looks like it may be considering it. New features may also include vehicle license ...",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.digitaltrends.com/home/ring-may-want-to-add-facial-recognition-and-licence-plate-reading-to-cameras/",
-      "ampWebUrl": "https://www.digitaltrends.com/home/ring-may-want-to-add-facial-recognition-and-licence-plate-reading-to-cameras/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/home/ring-may-want-to-add-facial-recognition-and-licence-plate-reading-to-cameras/?amp",
-      "publishedDateTime": "2020-04-22T12:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     },
