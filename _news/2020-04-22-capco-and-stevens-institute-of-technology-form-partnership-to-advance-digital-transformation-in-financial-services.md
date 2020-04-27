@@ -24,15 +24,6 @@ images:
     title: "Capco and Stevens Institute of Technology form partnership to advance digital transformation in financial services"
 
 related:
-  - title: "Artificial Intelligence: Technological Advancements to Take Place in the Design and Construction Industry by 2026"
-    excerpt: "It is no longer unusual, before completing a project on a construction site, to fly a drone, to visualize a project or to select the best setting on the basis of artificial intelligence (AIs) forecasts. Construction is one of the most difficult artificial intelligence and robotic industries to achieve success in. Some advanced technology will ..."
-    publishedDateTime: 2020-04-22T09:49:00Z
-    webUrl: "https://www.openpr.com/news/2020223/artificial-intelligence-technological-advancements-to-take"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 0
   - title: "Capco and Stevens Institute of Technology Announce Exclusive Partnership to Advance Digital Transformation in Financial Services"
     excerpt: "Under the partnership, Capco will help develop a certificate program in financial analytics ... Stevens’ expertise and research on quantum technologies, machine learning, artificial intelligence, high-performance computing and security, blockchain ..."
     publishedDateTime: 2020-04-22T13:47:00Z

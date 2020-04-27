@@ -37,15 +37,6 @@ related:
       - url: "https://njbiz.com/files/2019/01/njbiz-social-logo.png"
         width: 600
         height: 315
-  - title: "Artificial Intelligence: Technological Advancements to Take Place in the Design and Construction Industry by 2026"
-    excerpt: "It is no longer unusual, before completing a project on a construction site, to fly a drone, to visualize a project or to select the best setting on the basis of artificial intelligence (AIs) forecasts. Construction is one of the most difficult artificial intelligence and robotic industries to achieve success in. Some advanced technology will ..."
-    publishedDateTime: 2020-04-22T09:49:00Z
-    webUrl: "https://www.openpr.com/news/2020223/artificial-intelligence-technological-advancements-to-take"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 0
 
 secured: "SeBSbVzcHigvPqNRvMRtBQiv+4NJbqQrisLnDtlBiK2RKkfSDuHTtyZrTZLeJnPvIzNcH4CNcWZOAv/3R15XxXiWisiW5674vFmKJrgm+/k4ga6xglkfnPWha1AOqJ8axVL+6Ge8fyRX7QIrQ9cnO+nGqR2qr8nR32VNvbi5KvPnK93OBCYCZsSGtLNbALfn68jUSabPTNXpL9OLprkXYWjNpdZf6HBnSskzuTGGwGd5ok0bof49JlCZkX/aAV3QL8hUHye7VwHS+aQK5VuZhzHIfmq0cxk0hsBO+r7t2NYlc8zrXhBnb0e9kFEIxzdwqkBUkyPBZexSS1aZlLzAG6zl0Zz++PmhmX/Kei1sihI1D8fvi5CqR+OrYlS+wZKkAeV3NjlQhWSswZUA+ECu13BDvrZ6g3rdxGJtht0eZBB+xIxeHE59KmOJIuPOtYZtzVR4dUjFIQe5BxqIY1xw36xKS3OeHNPQk7w6ps5pgag=;EeBtR8der5tPEf7+IKjedg=="
 ---
