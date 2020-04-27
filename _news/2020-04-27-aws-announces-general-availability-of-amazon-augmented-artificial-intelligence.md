@@ -25,6 +25,19 @@ images:
     title: "AWS Announces General Availability of Amazon Augmented Artificial Intelligence"
 
 related:
+  - title: "AWS Announces General Availability of Amazon Augmented Artificial Intelligence (A2I)"
+    excerpt: "Amazon Web Services (AWS), an Amazon.com company (NASDAQ: AMZN), announced the general availability of Amazon Augmented Artificial Intelligence"
+    publishedDateTime: 2020-04-24T17:26:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200424005488/en/AWS-Announces-General-Availability-Amazon-Augmented-Artificial"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 64
+    images:
+      - url: "https://mms.businesswire.com/media/20200424005488/en/787122/23/AWS_logo_RGB.jpg"
+        width: 1200
+        height: 627
   - title: "AWS Announces General Availability of Amazon Keyspaces (for Apache Cassandra)"
     excerpt: "AWS offers over 175 fully featured services for compute, storage, databases, networking, analytics, robotics, machine learning and artificial intelligence (AI), Internet of Things (IoT), mobile, security, hybrid, virtual and augmented reality (VR and AR), media, and application development, deployment, and management from 73 Availability Zones ..."
     publishedDateTime: 2020-04-23T23:11:00Z
@@ -36,19 +49,6 @@ related:
     quality: 51
     images:
       - url: "https://mms.businesswire.com/media/20200423005964/en/787134/23/AWS_logo_RGB.jpg"
-        width: 1200
-        height: 627
-  - title: "AWS Announces General Availability of Amazon Augmented Artificial Intelligence (A2I)"
-    excerpt: "Amazon Web Services (AWS), an Amazon.com company (NASDAQ: AMZN), announced the general availability of Amazon Augmented Artificial Intelligence"
-    publishedDateTime: 2020-04-24T17:26:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200424005488/en/AWS-Announces-General-Availability-Amazon-Augmented-Artificial"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 47
-    images:
-      - url: "https://mms.businesswire.com/media/20200424005488/en/787122/23/AWS_logo_RGB.jpg"
         width: 1200
         height: 627
 

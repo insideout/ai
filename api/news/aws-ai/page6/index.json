@@ -2,6 +2,44 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-01-16-alphabets-google-boosts-cloud-offerings-with-appsheet-buyout.md",
+      "title": "Alphabet's Google Boosts Cloud Offerings With AppSheet Buyout",
+      "excerpt": "Alphabet ’s GOOGL division Google is on a buying spree. The company recently acquired a Seattle-based, no-code application development platform, AppSheet. The terms of the deal have not yet been disclosed.",
+      "heat": 76,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nasdaq.com/articles/alphabets-google-boosts-cloud-offerings-with-appsheet-buyout-2020-01-16",
+      "ampWebUrl": "https://www.nasdaq.com/articles/alphabets-google-boosts-cloud-offerings-with-appsheet-buyout-2020-01-16?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/alphabets-google-boosts-cloud-offerings-with-appsheet-buyout-2020-01-16?amp",
+      "publishedDateTime": "2020-01-16T05:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg",
+          "width": 1024,
+          "height": 512,
+          "title": "Alphabet's Google Boosts Cloud Offerings With AppSheet Buyout",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-01-15-standard-voices-in-amazon-polly-now-available-in-middle-east-and-asia-pacific-regions.md",
       "title": "Standard Voices in Amazon Polly now available in Middle East and Asia Pacific Regions",
       "excerpt": "Amazon Polly turns text into lifelike speech, which allows you to create voice-enabled applications. AWS is excited to announce the general availability of all standard voices in the Middle East (Bahrain) and Asia Pacific (Hong Kong) Regions. Customers in these Regions can now synthesize over 60 standard",

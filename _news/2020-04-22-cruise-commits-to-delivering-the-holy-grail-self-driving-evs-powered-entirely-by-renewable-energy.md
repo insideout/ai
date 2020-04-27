@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/lianeyvkoff/2020/04/22/cruise-commits-t
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lianeyvkoff/2020/04/22/cruise-commits-to-delivering-the-holy-grail-self-driving-evs-powered-entirely-by-renewable-energy/amp/"
 type: article
 quality: 75
-heat: 85
+heat: 75
 published: true
 
 provider:
@@ -28,23 +28,6 @@ images:
     width: 1200
     height: 959
     title: "Cruise Commits To Delivering The Holy Grail: Self-Driving EVs Powered Entirely By Renewable Energy"
-
-related:
-  - title: "Cruise commits to using ‘100 percent renewable energy’ to power its self-driving taxis"
-    excerpt: "Some of the energy will come from 12 solar projects on school sites in Southern California Cruise, the self-driving subsidiary of General Motors, prides itself on being one of the few autonomous vehicle companies to use only electric cars in its fleet."
-    publishedDateTime: 2020-04-22T17:04:00Z
-    webUrl: "https://www.theverge.com/2020/4/22/21231168/cruise-gm-av-ev-renewable-energy-solar-taxis"
-    ampWebUrl: "https://www.theverge.com/platform/amp/2020/4/22/21231168/cruise-gm-av-ev-renewable-energy-solar-taxis"
-    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/4/22/21231168/cruise-gm-av-ev-renewable-energy-solar-taxis"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 66
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/hcLHe9JyxSysJ3NaJnzSEZC9riQ=/0x0:2559x1664/1400x933/filters:focal(1076x628:1484x1036):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66690209/1189070708.jpg.0.jpg"
-        width: 1400
-        height: 933
 
 secured: "KBrmg1RjTd20DvQ6tuLI7JXlNPrKSDxqoJhoodr5u5rWXDx/TIGlrYurmLOdv2xWb0dcpEvbz34PUtB2pTklu+byCb8wolV73Lc7a4X90xFHLXJmCEZgPb1QSHtqCYbXqMjUH9Vf3bOyYVeZN4yj3zCedPEqBQVbBBJ/ZGa6NHcoSkZou3vwYb+qExSqsjK8C739G1YLQQI4eeo5ZyHyCx5XCHoAHPaYn4osftREa4dRpN0xSyrRub6M//79YcyBayQAIV9efXGRAajwxMQLiwfOyYW7M6Uz1KCuWB/GbuNL8OgKGNxexCiYeMbI7BawUqGkX3802w9e0NpdKQmA69dZm8MdmABe/ayfGJFTEDU1xWcNWXaPKTQyoobK/sXUTPlft57dQLQyAvFBxMeVrw3MmSwCPzdDBxKpuER+Ib/rIx+OrsLd1BiihlqtQ4OnvHgLBFW6cPNVkWBSnVoFG1WgC/lW2PdT2gWT+kpF5Yg=;yFQDYVjBbsdteDyhxJ8YQA=="
 ---

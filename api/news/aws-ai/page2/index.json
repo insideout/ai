@@ -2,6 +2,43 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-04-08-why-your-firm-should-host-a-hackathon-and-5-ways-to-ensure-its-success.md",
+      "title": "Why your firm should host a hackathon – and 5 ways to ensure its success",
+      "excerpt": "Hackathons have become de rigueur in the tech world – Facebook, Inc. held its 50th in February – but it’s not just tech companies that can benefit from scheduling an all-day brainstorming and development session, management consultants Elizabeth ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.itbusiness.ca/news/why-your-firm-should-host-a-hackathon-and-5-ways-to-ensure-its-success/68436",
+      "ampWebUrl": "https://www.itbusiness.ca/news/why-your-firm-should-host-a-hackathon-and-5-ways-to-ensure-its-success/68436?amp=1",
+      "cdnAmpWebUrl": "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/why-your-firm-should-host-a-hackathon-and-5-ways-to-ensure-its-success/68436?amp=1",
+      "publishedDateTime": "2020-04-07T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Business",
+        "domain": "itbusiness.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.itbusiness.ca/wp-content/uploads/2016/04/Hackathons-header.jpg",
+          "width": 620,
+          "height": 250,
+          "title": "Why your firm should host a hackathon – and 5 ways to ensure its success",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-07-uc-san-diego-health-uses-ai-to-augment-covid-19-lung-imaging-analysis.md",
       "title": "UC San Diego Health uses AI to augment COVID-19 lung imaging analysis",
       "excerpt": "To quickly detect pneumonia -- and therefore better distinguish between COVID-19 patients likely to need more supportive care in the hospital and those who could be followed closely at home -- UC San Diego Health radiologists and other physicians are now using artificial intelligence ... by Amazon Web Services (AWS). The new AI capability ...",
@@ -1177,43 +1214,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-25-closedloopai-announces-release-of-free-open-source-ai-based-tool-to-identify-individuals-vulnerable-to-severe-complications-of-covid-19.md",
-      "title": "ClosedLoop.ai Announces Release of Free Open Source AI-based Tool to Identify Individuals Vulnerable to Severe Complications of COVID-19",
-      "excerpt": "Further, protecting vulnerable individuals helps to protect the healthcare system, healthcare workers, first responders and other vital community resources from becoming overwhelmed The CV19 Index is being released through multiple channels and is available immediately at https://github.com/closedloop-ai/cv19index, on Amazon’s SageMaker ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businesswire.com/news/home/20200316005226/en/ClosedLoop.ai-Announces-Release-Free-Open-Source-AI-based",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-25T08:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20200316005226/en/779842/23/ClosedLoop_Logo.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": "ClosedLoop.ai Announces Release of Free Open Source AI-based Tool to Identify Individuals Vulnerable to Severe Complications of COVID-19",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

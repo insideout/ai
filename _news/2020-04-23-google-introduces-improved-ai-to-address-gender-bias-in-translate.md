@@ -8,8 +8,8 @@ ampWebUrl: "https://thenextweb.com/neural/2020/04/23/google-introduces-improved-
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/04/23/google-introduces-improved-ai-to-address-gender-bias-in-translate/amp/"
 type: article
 quality: 89
-heat: -1
-published: false
+heat: 89
+published: true
 
 provider:
   name: The Next Web
@@ -28,23 +28,6 @@ images:
     width: 640
     height: 310
     title: "Google introduces improved AI to address gender bias in translate"
-
-related:
-  - title: "Google debuts AI in Google Translate that addresses gender bias"
-    excerpt: "“We’ve made significant progress since our initial launch by increasing the quality of gender-specific translations and also expanding it to 4 more language-pairs,” wrote Google Research senior software engineer Melvin Johnson. “We are committed to further addressing gender bias in Google Translate and plan to extend this work to ..."
-    publishedDateTime: 2020-04-22T17:57:00Z
-    webUrl: "https://venturebeat.com/2020/04/22/google-debuts-ai-in-google-translate-that-addresses-gender-bias/"
-    ampWebUrl: "https://venturebeat.com/2020/04/22/google-debuts-ai-in-google-translate-that-addresses-gender-bias/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/22/google-debuts-ai-in-google-translate-that-addresses-gender-bias/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 91
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/04/google-reuters-e1586941024905.jpeg?fit=1200%2C600&strip=all"
-        width: 1200
-        height: 600
 
 secured: "uxATuSeTf9u90zpcvLFZwTYCYGDe7MOCUZRAUNZa19e8B3s64HYvd5DpCSXPoBxeKQs3eNXF97ul6lx6NwcuSOLjjmJTqOaflubrbEoSi7KXHBDs267YFbn78Ei2WPbAY8n+6wcbxld6+aMABmeeJkBwxfwSY+wbuVV8e7pZLiGWR7FOpHhj53vo+3+P6PzNJbg+5wY6fZN5AmkGMQH4MzAs3v01duvwta+bZDRPdb98icHKrj94xSzY23+oIlzm5q60QN4RifdFbDPwdcPsFheQkchTtnJBHgm7B1ZAOltLy640HOI41omze7QT2+Uk1g4VcuXKmjurdvFN2qw99QEOMmHJvDYqnzU13Lki0CHnmddbKGHFWdD76UVtb6MRsghxmtEy5hEv0SaiAmmbsCLuKbMdgZo2wv2vXGzY7nudj/IdrRmSPIDYSp3Hxm0Nc7zWmz5r6L2XlaVp+txhQq/WTp7dooDIGQJR4012bJY=;lUP+4UR3qTE5WcXb2NUs0w=="
 ---

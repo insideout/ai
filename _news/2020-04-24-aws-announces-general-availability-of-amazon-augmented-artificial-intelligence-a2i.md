@@ -5,7 +5,7 @@ excerpt: "Amazon Web Services (AWS), an Amazon.com company (NASDAQ: AMZN), annou
 publishedDateTime: 2020-04-24T17:26:00Z
 webUrl: "https://www.businesswire.com/news/home/20200424005488/en/AWS-Announces-General-Availability-Amazon-Augmented-Artificial"
 type: article
-quality: 47
+quality: 64
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AWS AI
 
 images:
   - url: "https://mms.businesswire.com/media/20200424005488/en/787122/23/AWS_logo_RGB.jpg"
@@ -51,6 +52,6 @@ related:
         width: 1200
         height: 627
 
-secured: "UCkI81lwfI5BfCZelKZhjpxMdP7o8eSIKUwNl4rFlxMOghgTAd13bvEDXLAvAnyJyNWTn3yC3iNDDTHWG9ojJ7apZEVZmzAMQhfyRsCrsB1YW44XTloJQz2DcaXQgcwKlxY2F+B1LB5MZbtvBV9KBK3J+kfZm8mCBu1eUBCCxDYaln6UPbV5O6m4uuyRYNGB3PEwaKwIlqclNOwlk5cW4h2r5VuGLuTbHY5IihRAkYngqQ8fBvkcQRHKfKWIskKBUPRhnk0SV0DI7fH3hJkZKviEFi0fCqhSzrqr6T+7JGwcPnkf67+8DTktulFRKkJU;zX7gB4CQJz2mvhoYWUjBoQ=="
+secured: "fhyursIZCtBsjZjc8CNSFTKIOQwaoT2BtJH3ZGvf6vDR6haP7k+0pqZEQrgd3B7GvZu//fPECFGdugo1DfYPKc9VepVABX3kHWC1OYpMCipb6nrM4RFKCHz69wCAbRdOU/d223Bdt/mfgdjuz8ScbdkQJB8X+d5cmA1ehB9x+r8NHhQaHwLUQUz9FhA2f5u6z687TIrrgbwjIW+L1oU74L0JoCsbVuWlPerUs3x9C3llk+691QsMBXiFvUx6qcj/jItBTqpnhKZMMwzfjCr5PY9kvyxL1iUAjX7VrE0OZ4Se6J7KWGIIoOmnuCplpIC0;YXpAtqkdUMBJSR0X/jcoow=="
 ---
 

@@ -2,38 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2020-03-16-artificial-intelligence-ai-market-analysis-trends-growth-industry-size-and-forecast-2025.md",
-      "title": "Artificial Intelligence (AI) Market Analysis, Trends, Growth, Industry Size and Forecast 2025",
-      "excerpt": "BMW, Tesla, and Toyota are also taking interest in robotics and machine learning to develop driverless cars. Get Sample Copy of Artificial Intelligence (AI) Market at: https://www.omrglobal.com/request-sample/artificial-intelligence-market Some of the key players contributing significantly in the growth of AI market include AIBrain, Amazon ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.openpr.com/news/1968035/artificial-intelligence-ai-market-analysis-trends-growth",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-16T00:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics",
-        "Facebook AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
       "path": "_news/2020-03-14-ai-is-coming-for-your-most-mind-numbing-office-tasks.md",
       "title": "AI Is Coming for Your Most Mind-Numbing Office Tasks",
       "excerpt": "Such reservations seem unlikely to dampen believers’ enthusiasm, though. Guy Kirkwood, the chief evangelist at UiPath, says the vision is for software robots to be a lot more like the AI of science fiction, eventually taking over how they are programmed from start to finish. “The direction of travel—and we’re not there yet—is that we ...",
@@ -1138,6 +1106,51 @@
           "width": 1200,
           "height": 800,
           "title": "How We Educate Our Children Will Change In The Age Of Artificial Intelligence",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-02-28-robots-and-their-masters-take-over-nuclear-plant-for-darpas-subterranean-challenge.md",
+      "title": "Robots and their masters take over nuclear plant for DARPA’s Subterranean Challenge",
+      "excerpt": "This special series explores the evolving relationship between humans and machines, examining the ways that robots, artificial intelligence and automation are impacting our work ... “And that confidence might be just what they need to go start a company, or create a lab, or address real problems that need additional attention.”",
+      "heat": 83,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.geekwire.com/2020/robots-masters-take-nuclear-plant-darpas-subterranean-challenge/",
+      "ampWebUrl": "https://www.geekwire.com/2020/robots-masters-take-nuclear-plant-darpas-subterranean-challenge/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/robots-masters-take-nuclear-plant-darpas-subterranean-challenge/amp/",
+      "publishedDateTime": "2020-02-27T16:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/02/200225-subt-csiro2-630x449.jpg",
+          "width": 630,
+          "height": 449,
+          "title": "Robots and their masters take over nuclear plant for DARPA’s Subterranean Challenge",
           "attribution": null
         }
       ],

@@ -131,25 +131,70 @@
       ]
     },
     {
-      "path": "_news/2020-04-21-ibm-fenergo-join-forces-to-fight-financial-crime.md",
-      "title": "IBM & Fenergo Join Forces to Fight Financial Crime",
-      "excerpt": "DUBLIN and ARMONK, New York, April 21, 2020 /PRNewswire/ -- Fenergo, the leading provider of digital transformation, customer journey and client lifecycle management",
+      "path": "_news/2020-04-22-ibm-fenergo-sign-oem-agreement-to-help-clients-address-financial-risks.md",
+      "title": "IBM, Fenergo Sign OEM Agreement to Help Clients Address Financial Risks",
+      "excerpt": "IBM (NYSE: IBM ... and know-your-client platforms equipped with the Watson technology. IBM will offer customers a complete AI application suite that is focused on risk and compliance that ...",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.benzinga.com/pressreleases/20/04/n15845536/ibm-fenergo-join-forces-to-fight-financial-crime",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/15845536",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15845536",
-      "publishedDateTime": "2020-04-21T03:00:00-07:00",
+      "webUrl": "https://www.govconwire.com/2020/04/ibm-fenergo-sign-oem-agreement-to-help-clients-address-financial-risks/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-22T03:06:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
+        "name": "GovCon Wire",
+        "domain": "govconwire.com",
         "images": null,
         "publishers": null,
         "authors": null
       },
-      "images": null,
+      "images": [
+        {
+          "url": "https://govconwire-media.s3.amazonaws.com/2020/04/22/ac/82/7c/04/7a/1b/6e/c4/servletFileDownload-304.png",
+          "width": 272,
+          "height": 270,
+          "title": "IBM, Fenergo Sign OEM Agreement to Help Clients Address Financial Risks",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-21-ibm-fenergo-join-forces-to-fight-financial-crime.md",
+      "title": "IBM & Fenergo Join Forces to Fight Financial Crime",
+      "excerpt": "Fenergo, the leading provider of digital transformation, customer journey and client lifecycle management (CLM) solutions for",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.prnewswire.com/news-releases/ibm--fenergo-join-forces-to-fight-financial-crime-301043856.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-21T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg",
+          "width": 600,
+          "height": 315,
+          "title": "IBM & Fenergo Join Forces to Fight Financial Crime",
+          "attribution": null
+        }
+      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -207,14 +252,14 @@
     {
       "path": "_news/2020-04-17-us-consumer-healthcare-advocacy-group-uschag-announces-partnership-with-ibm-solutions.md",
       "title": "U.S. Consumer Healthcare Advocacy Group (USCHAG) Announces Partnership with IBM Solutions",
-      "excerpt": "While the details of the relationship are confidential, the partnership includes elements of data acquisition, utilization of artificial intelligence (AI) and IBM's Watson capabilities to effect positive and empowering change for consumers when working with the American healthcare system. In development for over a decade and Founded in 2018 ...",
+      "excerpt": "U.S. Consumer Healthcare Advocacy Group (USCHAG) is pleased to announce a formal partnership with IBM Solutions. While the details of the relationship are confidential,",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/u-s-consumer-healthcare-advocacy-group-uschag-announces-partnership-with-ibm-solutions/article_bd7661a1-ef09-596d-a592-242638e0c699.html",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/u-s-consumer-healthcare-advocacy-group-uschag-announces-partnership-with-ibm-solutions/article_bd7661a1-ef09-596d-a592-242638e0c699.html",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-17T06:09:00-07:00",
+      "publishedDateTime": "2020-04-17T05:33:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "WFMZ-TV",
@@ -1177,43 +1222,6 @@
           "width": 650,
           "height": 434,
           "title": "Not just video-conferencing apps taking a dive: IBM Cloud hit by partial Tuesday outage",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-ibm-commercialises-ai-communication.md",
-      "title": "IBM commercialises AI communication",
-      "excerpt": "IBM is commercialising a new technology that makes it easier for computers to understand human communication. AI has struggled to understand the kinds of nuances that appear in everyday communication among people. Now Big Blue is adding new tools to its AI system, Watson, which can address that problem and better understand human language.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.fudzilla.com/news/ai/50483-ibm-commercialises-ai-communication",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-16T18:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fudzilla",
-        "domain": "fudzilla.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.fudzilla.com/media/k2/items/cache/31c2c7604349f9615a8f77c09e482964_L.jpg",
-          "width": 620,
-          "height": 465,
-          "title": "IBM commercialises AI communication",
           "attribution": null
         }
       ],

@@ -2,6 +2,51 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-02-18-winners-of-aws-machine-learning-research-awards-announced.md",
+      "title": "Winners of AWS Machine Learning Research Awards announced",
+      "excerpt": "The AWS Machine Learning Research Awards (MLRA) provides unrestricted cash funds and AWS Promotional Credits to academics to advance the frontiers of machine learning (ML) and its applications. MLRA is pleased to announce winners for its 2019 Q2/Q3 call-for-proposal cycles: \n \n Mohit Bansal, University",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/winners-of-aws-machine-learning-research-awards-announced/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-18T11:37:43-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0.png",
+          "width": 1260,
+          "height": 630,
+          "title": "Winners of AWS Machine Learning Research Awards announced",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-02-18-175-customers-achieve-machine-learning-success-with-awss-machine-learning-solutions-lab.md",
       "title": "175+ Customers Achieve Machine Learning Success with AWS’s Machine Learning Solutions Lab",
       "excerpt": "AWS introduced the Machine Learning (ML) Solutions Lab a little over two years ago to connect our machine learning experts and data scientists with AWS customers.  Our goal was to help our customers solve their most pressing business problems using ML. We’ve helped our customers increase fraud detection",
@@ -1274,44 +1319,6 @@
       ],
       "topics": [
         "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-16-alphabets-google-boosts-cloud-offerings-with-appsheet-buyout.md",
-      "title": "Alphabet's Google Boosts Cloud Offerings With AppSheet Buyout",
-      "excerpt": "Alphabet ’s GOOGL division Google is on a buying spree. The company recently acquired a Seattle-based, no-code application development platform, AppSheet. The terms of the deal have not yet been disclosed.",
-      "heat": 76,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nasdaq.com/articles/alphabets-google-boosts-cloud-offerings-with-appsheet-buyout-2020-01-16",
-      "ampWebUrl": "https://www.nasdaq.com/articles/alphabets-google-boosts-cloud-offerings-with-appsheet-buyout-2020-01-16?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/alphabets-google-boosts-cloud-offerings-with-appsheet-buyout-2020-01-16?amp",
-      "publishedDateTime": "2020-01-16T05:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg",
-          "width": 1024,
-          "height": 512,
-          "title": "Alphabet's Google Boosts Cloud Offerings With AppSheet Buyout",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing",
         "AWS AI"
       ]
     }

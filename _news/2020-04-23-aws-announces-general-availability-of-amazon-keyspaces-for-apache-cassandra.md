@@ -45,7 +45,7 @@ related:
     provider:
       name: Business Wire
       domain: businesswire.com
-    quality: 47
+    quality: 64
     images:
       - url: "https://mms.businesswire.com/media/20200424005488/en/787122/23/AWS_logo_RGB.jpg"
         width: 1200

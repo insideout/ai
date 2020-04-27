@@ -2,6 +2,43 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-03-03-the-evolution-of-e-commerce-shaping-benefits-from-emerging-technologies.md",
+      "title": "The Evolution of E-Commerce: Shaping benefits from emerging technologies",
+      "excerpt": "To cope, many organizations are pinning their hopes on emerging technologies such as artificial intelligence (AI), autonomous mobile ... autonomous truck technologies include Alphabet/Waymo, Embark, TuSimple and Starsky Robotics. Rather than fully ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.logisticsmgmt.com/article/the_evolution_of_e_commerce_shaping_benefits_from_emerging_technologies",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-03T09:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Logistics Management",
+        "domain": "logisticsmgmt.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.logisticsmgmt.com/images/2020_article/LM2003_COVERGettyImages-800px.jpg",
+          "width": 600,
+          "height": 400,
+          "title": "The Evolution of E-Commerce: Shaping benefits from emerging technologies",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-03-3-top-artificial-intelligence-stocks-to-watch-in-march.md",
       "title": "3 Top Artificial Intelligence Stocks to Watch in March",
       "excerpt": "I like things that go \"boom.\" Sonic or otherwise, that means I tend to gravitate towards defense and aerospace stocks. But to tell the truth, over the course of a dozen years writing for The ...",
@@ -1275,51 +1312,6 @@
           "width": 1200,
           "height": 675,
           "title": "Altruistic Hopes For AI Self-Driving Car Firms To Share Their Proprietary Tech Is A Starry-Eyed Dream",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-02-18-vote-for-the-pacific-northwests-best-innovation-at-the-geekwire-awards.md",
-      "title": "Vote for the Pacific Northwest’s best innovation at the GeekWire Awards",
-      "excerpt": "(GeekWire Photo / Kevin Lisota) The Pacific Northwest’s status as an innovation hub is well-documented: It is at the center of the cloud computing revolution, a hotspot for artificial intelligence, and it will play a role in the future of driverless cars, mobile technology, video games and much more. But the innovation in the region goes well ...",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.geekwire.com/2020/vote-pacific-northwests-best-innovation-geekwire-awards/",
-      "ampWebUrl": "https://www.geekwire.com/2020/vote-pacific-northwests-best-innovation-geekwire-awards/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/vote-pacific-northwests-best-innovation-geekwire-awards/amp/",
-      "publishedDateTime": "2020-02-17T18:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2019/08/textiosnyder-630x420.jpg",
-          "width": 630,
-          "height": 420,
-          "title": "Vote for the Pacific Northwest’s best innovation at the GeekWire Awards",
           "attribution": null
         }
       ],

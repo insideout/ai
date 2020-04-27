@@ -2,6 +2,96 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-01-23-why-your-business-should-focus-on-understanding-speech-over-voice-recognition.md",
+      "title": "Why your business should focus on understanding speech over voice recognition",
+      "excerpt": "If you have ever had to repeat “yes” six times to your automated telephone banking assistant, you’d be forgiven for thinking that automatic speech recognition (ASR) has a long way yet to go.",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/podium/2020/01/23/why-your-business-should-focus-on-understanding-speech-over-voice-recognition/",
+      "ampWebUrl": "https://thenextweb.com/podium/2020/01/23/why-your-business-should-focus-on-understanding-speech-over-voice-recognition/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/podium/2020/01/23/why-your-business-should-focus-on-understanding-speech-over-voice-recognition/amp/",
+      "publishedDateTime": "2020-01-23T02:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/01/Untitled-design40-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "Why your business should focus on understanding speech over voice recognition",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-01-22-tech-in-the-classroom-microsoft-says-ai-and-vr-could-help-future-students-focus-better.md",
+      "title": "Tech in the classroom? Microsoft says AI and VR could help future students focus better",
+      "excerpt": "while AI-powered speech recognition and translation tools let students hear what is being said in their native language. Anthony Salcito, the vice president of Microsoft Education, said at the conference: \"We need to recognize the need to embrace a hybrid intelligence to be able to achieve more. With new technology, we will have to think ...",
+      "heat": 81,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/tech-in-the-classroom-microsoft-says-ai-and-vr-could-help-future-students-focus-better/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/tech-in-the-classroom-microsoft-says-ai-and-vr-could-help-future-students-focus-better/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/tech-in-the-classroom-microsoft-says-ai-and-vr-could-help-future-students-focus-better/",
+      "publishedDateTime": "2020-01-22T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2019/12/02/40cd7c2c-f3c9-4ab1-a8e0-7e2ad0a0e566/thumbnail/1200x675/8af153799adc1462f393ed4bae80a6bf/thumb.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Tech in the classroom? Microsoft says AI and VR could help future students focus better",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2020-01-22-what-you-need-to-know-about-ai-in-2020.md",
       "title": "What You Need To Know About AI In 2020",
       "excerpt": "In 2017, when I wrote about the preconditions for AI to flourish, the adoption of AI was just beginning. Now, IDC is predicting that by 2025, at least 90% of new enterprise applications will embed AI and \"over 50% of user interface interactions will use AI-enabled computer vision,",

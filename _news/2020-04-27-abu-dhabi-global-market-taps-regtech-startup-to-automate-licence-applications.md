@@ -23,6 +23,21 @@ images:
     title: "Abu Dhabi Global Market taps regtech startup to automate licence applications"
 
 related:
+  - title: "Abu Dhabi Global Market Adds Regtech Startup to Automate Licence Applications"
+    excerpt: "Nexus partened Abu Dhabi Global Markets to pilot an AI-based system to automate the licence application process for VC fund managers entering the emirate."
+    publishedDateTime: 2020-04-27T10:29:00Z
+    webUrl: "https://www.financemagnates.com/forex/regulation/abu-dhabi-global-market-adds-regtech-startup-to-automate-licence-applications/"
+    ampWebUrl: "https://www.financemagnates.com/forex/regulation/abu-dhabi-global-market-adds-regtech-startup-to-automate-licence-applications/amp/"
+    cdnAmpWebUrl: "https://www-financemagnates-com.cdn.ampproject.org/c/s/www.financemagnates.com/forex/regulation/abu-dhabi-global-market-adds-regtech-startup-to-automate-licence-applications/amp/"
+    type: article
+    provider:
+      name: Finance Magnates
+      domain: financemagnates.com
+    quality: 39
+    images:
+      - url: "https://www.financemagnates.com/wp-content/uploads/2016/04/m134051-1024x592.jpeg"
+        width: 1024
+        height: 592
   - title: "Abu Dhabi Global Market taps regtech startup to automate license applications"
     excerpt: "Regtech startup Nexus FrontierTech has joined forces with Abu Dhabi Global Markets (ADGM) to pilot an AI-based system to automate the license application process for VC fund managers entering the emirate."
     publishedDateTime: 2020-04-26T23:46:00Z
@@ -37,6 +52,6 @@ related:
         width: 480
         height: 270
 
-secured: "P1bTkb17jqTVjiS4asre8+TrdNjUXnLMsHTi/5yipf50+CgDyYTE74n9iyiKrvcDXg4uahBmuP/2+WJULQP8cxaR3Dvg4mpZ0qanofkWN2MFct5hw/UYOTx3UipBbrTkxP73IbrUk821yTIB+fg4KLHhznYlUtJMRTOIUl3gQBS3WuslR57KJ4kAuk+zWF5jcw0HSz4BD5ZCPcj9aJHEOjjJTBInf/PkeUlrkHweU/nnkmx3go0myMnZTRuXfTqq0Pwz1366tnVuZZ2uHfuvBKc5Z/2Z0m1eRyuJVDCPC/eNCA2ImkXfaOZlPbYfr1He;Ptp7T2O27oH2O3CBkZZMuw=="
+secured: "EGbmONRhw2UIhvxKLjEKWEWBZeIYep+4Zj+TX9kK3Vm+n+4F/Tg7WdmnEU9hTwh4R2/ZwBlOA5RQB8GPlabG1/7PI2VOq9FeQ6ZvW3UIaDvm5bjz0EivIv3oRyqUXueDNqnrAoPiAFxr9jLjyeOFAR1rC/gQnz42Mww50ZPDb+wvOb84Gfg7qrnBfRugu+Gw03h3RcHt7tpJlyi+Ufq/AGyWH8ITkSdvgFWk3fOLL1NrB0ZEL1yRmWsBYYCuOEvU7SISIrUlPKtkJbej0koWwnGW9tpQbPu73/sYvxgrvaT4sDlocmSEdDwRRmUIwNh6CHIIk4NXYljb2gTdjrwGiyNthE/rEtOcaoUKXOx23nVNkQ5GmnkbXM3Sz/CwfrC2jP6sewHJ18kyGHPFaasaN1wKaZ6vjuaVQyGIMU7YfTvsnluDtbICSmhxrHA/pCcfvWdBjQUUYH0R79bnLYNuzyQjDgR5Fz/UjHaEZiTdXhk=;5a95ByBmPDpfgxvx3vJLPA=="
 ---
 

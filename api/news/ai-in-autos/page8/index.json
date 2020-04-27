@@ -2,6 +2,51 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-02-18-vote-for-the-pacific-northwests-best-innovation-at-the-geekwire-awards.md",
+      "title": "Vote for the Pacific Northwest’s best innovation at the GeekWire Awards",
+      "excerpt": "(GeekWire Photo / Kevin Lisota) The Pacific Northwest’s status as an innovation hub is well-documented: It is at the center of the cloud computing revolution, a hotspot for artificial intelligence, and it will play a role in the future of driverless cars, mobile technology, video games and much more. But the innovation in the region goes well ...",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.geekwire.com/2020/vote-pacific-northwests-best-innovation-geekwire-awards/",
+      "ampWebUrl": "https://www.geekwire.com/2020/vote-pacific-northwests-best-innovation-geekwire-awards/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/vote-pacific-northwests-best-innovation-geekwire-awards/amp/",
+      "publishedDateTime": "2020-02-17T18:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2019/08/textiosnyder-630x420.jpg",
+          "width": 630,
+          "height": 420,
+          "title": "Vote for the Pacific Northwest’s best innovation at the GeekWire Awards",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2020-02-17-teslas-biggest-problem-with-self-driving-cars-is-that-it-actually-has-to-sell-them-to-customers.md",
       "title": "Tesla's biggest problem with self-driving cars is that it actually has to sell them to customers",
       "excerpt": "Tesla is trapped, having created great products that consumers want and love, but also watching as competitors design all-new businesses.",
@@ -1258,51 +1303,6 @@
           "width": 1200,
           "height": 630,
           "title": "Nuro self-driving car gets US DOT's blessing",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-02-06-nuro-claims-a-self-driving-first-us-approval-to-deploy-toaster-styled-delivery-bots.md",
-      "title": "Nuro Claims A Self-Driving First: U.S. Approval To Deploy Toaster-Styled Delivery Bots",
-      "excerpt": "The tech startup created by two former Google engineers will deploy battery-powered R2 driverless delivery vehicles on public streets–little vans without steering wheels, pedals or side-mirrors",
-      "heat": 121,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/alanohnsman/2020/02/06/nuro-claims-a-self-driving-first-us-approval-to-deploy-toaster-styled-delivery-bots/",
-      "ampWebUrl": "https://www.forbes.com/sites/alanohnsman/2020/02/06/nuro-claims-a-self-driving-first-us-approval-to-deploy-toaster-styled-delivery-bots/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alanohnsman/2020/02/06/nuro-claims-a-self-driving-first-us-approval-to-deploy-toaster-styled-delivery-bots/amp/",
-      "publishedDateTime": "2020-02-06T12:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e3c413ba854780006b0a8ad%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "Nuro Claims A Self-Driving First: U.S. Approval To Deploy Toaster-Styled Delivery Bots",
           "attribution": null
         }
       ],

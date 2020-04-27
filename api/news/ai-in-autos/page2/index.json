@@ -2,6 +2,51 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-04-15-self-driving-startup-zoox-settles-with-tesla-over-trade-secret-theft.md",
+      "title": "Self-driving startup Zoox settles with Tesla over trade secret theft",
+      "excerpt": "It acknowledged that new hires took Tesla documents. Tesla has prevailed in a key lawsuit over trade secret theft. Self-driving car startup Zoox has settled with Tesla and acknowledged that some of its new logistics recruits “were in possession of Tesla documents” that covered shipping and warehouse processes. Zoox agreed to both pay an ...",
+      "heat": 159,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.engadget.com/zoox-settles-with-tesla-over-trade-secrets-135003450.html",
+      "ampWebUrl": "https://www.engadget.com/amp/zoox-settles-with-tesla-over-trade-secrets-135003450.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/zoox-settles-with-tesla-over-trade-secrets-135003450.html",
+      "publishedDateTime": "2020-04-15T06:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-04%2F8466feb0-7f13-11ea-bfef-587f798de2ed&client=amp-blogside-v2&signature=63a511e40e2fa13f86595a02e9e8f9bc58651366",
+          "width": 600,
+          "height": 350,
+          "title": "Self-driving startup Zoox settles with Tesla over trade secret theft",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-14-coronavirus-brightens-outlook-for-robotics-etfs.md",
       "title": "Coronavirus Brightens Outlook for Robotics ETFs",
       "excerpt": "Coronavirus cases have leaped to more than 1.86 million worldwide, with governments and business operators increasingly looking for ways to maintain operations along with curbing its spread. In such a scenario,",
@@ -1180,43 +1225,6 @@
           "width": 1630,
           "height": 952,
           "title": "AI Applications: Top 10 Real World Artificial Intelligence Applications",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-07-artificial-intelligence-driving-autonomous-vehicle-development.md",
-      "title": "Artificial intelligence driving autonomous vehicle development",
-      "excerpt": "Autonomous driving is one of the key application areas of artificial intelligence (AI). Autonomous vehicles (AV ... which eventually became Waymo in 2016. Waymo has been extensively leveraging AI to make fully autonomous driving a reality.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://ihsmarkit.com/research-analysis/artificial-intelligence-driving-autonomous-vehicle-development.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-06T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IHS Markit",
-        "domain": "ihsmarkit.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.ihsmarkit.com/www/blog/ra-autonomous-car-getty692834496-featured.jpg",
-          "width": 636,
-          "height": 370,
-          "title": "Artificial intelligence driving autonomous vehicle development",
           "attribution": null
         }
       ],

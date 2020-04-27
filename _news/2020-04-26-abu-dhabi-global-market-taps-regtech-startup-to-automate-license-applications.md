@@ -6,7 +6,7 @@ publishedDateTime: 2020-04-26T23:46:00Z
 webUrl: "https://www.finextra.com/newsarticle/35699/abu-dhabi-global-market-taps-regtech-startup-to-automate-license-applications"
 type: article
 quality: 19
-heat: 19
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,21 @@ images:
     title: "Abu Dhabi Global Market taps regtech startup to automate license applications"
 
 related:
+  - title: "Abu Dhabi Global Market Adds Regtech Startup to Automate Licence Applications"
+    excerpt: "Nexus partened Abu Dhabi Global Markets to pilot an AI-based system to automate the licence application process for VC fund managers entering the emirate."
+    publishedDateTime: 2020-04-27T10:29:00Z
+    webUrl: "https://www.financemagnates.com/forex/regulation/abu-dhabi-global-market-adds-regtech-startup-to-automate-licence-applications/"
+    ampWebUrl: "https://www.financemagnates.com/forex/regulation/abu-dhabi-global-market-adds-regtech-startup-to-automate-licence-applications/amp/"
+    cdnAmpWebUrl: "https://www-financemagnates-com.cdn.ampproject.org/c/s/www.financemagnates.com/forex/regulation/abu-dhabi-global-market-adds-regtech-startup-to-automate-licence-applications/amp/"
+    type: article
+    provider:
+      name: Finance Magnates
+      domain: financemagnates.com
+    quality: 39
+    images:
+      - url: "https://www.financemagnates.com/wp-content/uploads/2016/04/m134051-1024x592.jpeg"
+        width: 1024
+        height: 592
   - title: "Abu Dhabi Global Market taps regtech startup to automate licence applications"
     excerpt: "Regtech startup Nexus FrontierTech has joined forces with Abu Dhabi Global Markets (ADGM) to pilot an AI-based system to automate the licence application process for VC fund managers entering the emirate."
     publishedDateTime: 2020-04-27T08:05:00Z

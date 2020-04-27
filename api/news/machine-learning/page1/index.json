@@ -2,6 +2,52 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-04-27-aws-launches-human-review-service-for-machine-learning-models.md",
+      "title": "AWS launches human review service for machine learning models",
+      "excerpt": "AWS has launched a service that improves machine learning model accuracy by continuously identifying and improving low confidence predictions. Amazon Augmented Artificial Intelligence (A2I), which is now generally available,",
+      "heat": 106,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.itpro.co.uk/technology/machine-learning/355444/aws-launches-augmented-ai-service",
+      "ampWebUrl": "https://www.itpro.co.uk/technology/machine-learning/355444/aws-launches-augmented-ai-service?amp",
+      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/machine-learning/355444/aws-launches-augmented-ai-service?amp",
+      "publishedDateTime": "2020-04-27T04:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk//image/upload/v1587984726/itpro/HumanReview.jpg",
+          "width": 1000,
+          "height": 479,
+          "title": "AWS launches human review service for machine learning models",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-04-25-an-explanation-of-machine-learning-models-even-you-could-understand.md",
       "title": "An explanation of machine learning models even you could understand",
       "excerpt": "I will start out by explaining what machine learning is, along with the different types of machine learning, and then I will jump into explaining common models. I won’t go into any of the math, but I am considering doing that in another article in the future. Enjoy! Machine learning is when you load lots of data into a computer program and ...",
@@ -1272,51 +1318,6 @@
         "AI",
         "TensorFlow",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-17-microsoft-our-new-machine-learning-model-spots-critical-security-bugs-97-of-the-time.md",
-      "title": "Microsoft: Our new machine learning model spots critical security bugs 97% of the time",
-      "excerpt": "Microsoft claims a machine learning models its built for software developers can distinguish between security and non-security bugs 99% of the time. Microsoft plans to open-source the methodology behind a machine learning algorithm that it claims can distinguish between security bugs and non-security bugs with 99% accuracy. The company ...",
-      "heat": 81,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/microsoft-our-new-machine-learning-model-spots-critical-security-bugs-97-of-the-time/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/microsoft-our-new-machine-learning-model-spots-critical-security-bugs-97-of-the-time/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-our-new-machine-learning-model-spots-critical-security-bugs-97-of-the-time/",
-      "publishedDateTime": "2020-04-17T10:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/03/05/b1b4f0cd-0452-48f5-886c-d3afe0a743dd/thumbnail/1200x675/77fef6207247b1bf98a280183c42a4e5/20200304-larry-bill-coronavirus.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Microsoft: Our new machine learning model spots critical security bugs 97% of the time",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

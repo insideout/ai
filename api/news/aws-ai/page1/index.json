@@ -2,6 +2,52 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-04-27-aws-launches-human-review-service-for-machine-learning-models.md",
+      "title": "AWS launches human review service for machine learning models",
+      "excerpt": "AWS has launched a service that improves machine learning model accuracy by continuously identifying and improving low confidence predictions. Amazon Augmented Artificial Intelligence (A2I), which is now generally available,",
+      "heat": 106,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.itpro.co.uk/technology/machine-learning/355444/aws-launches-augmented-ai-service",
+      "ampWebUrl": "https://www.itpro.co.uk/technology/machine-learning/355444/aws-launches-augmented-ai-service?amp",
+      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/machine-learning/355444/aws-launches-augmented-ai-service?amp",
+      "publishedDateTime": "2020-04-27T04:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk//image/upload/v1587984726/itpro/HumanReview.jpg",
+          "width": 1000,
+          "height": 479,
+          "title": "AWS launches human review service for machine learning models",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-04-27-aws-announces-general-availability-of-amazon-augmented-artificial-intelligence.md",
       "title": "AWS Announces General Availability of Amazon Augmented Artificial Intelligence",
       "excerpt": "Amazon A2I makes it easier for developers to build and manage workflows to validate machine learning predictions with human reviewers Today, Amazon Web Service",
@@ -1242,43 +1288,6 @@
           "width": 1024,
           "height": 768,
           "title": "Security measure or Big Brother? Civil rights groups ask Amazon to stop selling its facial recognition system to law enforcement",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-08-why-your-firm-should-host-a-hackathon-and-5-ways-to-ensure-its-success.md",
-      "title": "Why your firm should host a hackathon – and 5 ways to ensure its success",
-      "excerpt": "Hackathons have become de rigueur in the tech world – Facebook, Inc. held its 50th in February – but it’s not just tech companies that can benefit from scheduling an all-day brainstorming and development session, management consultants Elizabeth ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.itbusiness.ca/news/why-your-firm-should-host-a-hackathon-and-5-ways-to-ensure-its-success/68436",
-      "ampWebUrl": "https://www.itbusiness.ca/news/why-your-firm-should-host-a-hackathon-and-5-ways-to-ensure-its-success/68436?amp=1",
-      "cdnAmpWebUrl": "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/why-your-firm-should-host-a-hackathon-and-5-ways-to-ensure-its-success/68436?amp=1",
-      "publishedDateTime": "2020-04-07T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Business",
-        "domain": "itbusiness.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.itbusiness.ca/wp-content/uploads/2016/04/Hackathons-header.jpg",
-          "width": 620,
-          "height": 250,
-          "title": "Why your firm should host a hackathon – and 5 ways to ensure its success",
           "attribution": null
         }
       ],

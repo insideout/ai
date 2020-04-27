@@ -2,6 +2,88 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-04-03-how-to-get-and-use-voice-commands-in-mount-and-blade-ii-bannerlord.md",
+      "title": "How to get and use voice commands in Mount and Blade II: Bannerlord",
+      "excerpt": "Both full and trial version users will want to test how the software works with their voice and have the speech recognition software tune to your voice. You can do this by searching for ‘speech recognition’ in your desktop’s control panel, and then choosing ‘train your computer to understand you better.’ After that, follow the steps ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.gamepur.com/guides/how-to-get-and-use-voice-commands-in-mount-and-blade-ii-bannerlord",
+      "ampWebUrl": "https://www.gamepur.com/guides/how-to-get-and-use-voice-commands-in-mount-and-blade-ii-bannerlord/amp",
+      "cdnAmpWebUrl": "https://www-gamepur-com.cdn.ampproject.org/c/s/www.gamepur.com/guides/how-to-get-and-use-voice-commands-in-mount-and-blade-ii-bannerlord/amp",
+      "publishedDateTime": "2020-04-03T10:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gaming Polls",
+        "domain": "gamepur.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://assets.gamepur.com/wp-content/uploads/2020/04/01122550/Sword-and-Shield-Mount-blade-2.jpg",
+          "width": 1917,
+          "height": 1196,
+          "title": "How to get and use voice commands in Mount and Blade II: Bannerlord",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-03-experimental-covid-19-test-attempts-to-use-your-voice-to-check-for-symptoms.md",
+      "title": "Experimental COVID-19 test attempts to use your voice to check for symptoms",
+      "excerpt": "That’s why a research team at Carnegie Mellon University developed a cheaper, more accessible way to potentially detect signs of the virus: voice detection (h/t: Futurism). The team has been working on this solution for a while, and now it has released an early version of a web app called the COVID Voice Detector. The app uses an in-house ...",
+      "heat": 72,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.androidauthority.com/experimental-coronavirus-test-voice-recognition-1102427/",
+      "ampWebUrl": "https://www.androidauthority.com/experimental-coronavirus-test-voice-recognition-1102427/amp/",
+      "cdnAmpWebUrl": "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/experimental-coronavirus-test-voice-recognition-1102427/amp/",
+      "publishedDateTime": "2020-04-03T08:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android Authority",
+        "domain": "androidauthority.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn57.androidauthority.net/wp-content/uploads/2019/10/Pixel-4-XL-back-in-hand-2-920x470.jpg",
+          "width": 920,
+          "height": 470,
+          "title": "Experimental COVID-19 test attempts to use your voice to check for symptoms",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-03-artificial-intelligence-and-natural-language-processing.md",
       "title": "Artificial Intelligence and Natural Language Processing",
       "excerpt": "To send content items to your account, please confirm that you agree to abide by our usage policies. If this is the first time you use this feature, you will be asked to authorise Cambridge Core to connect with your account. Find out more about sending ...",
@@ -1114,88 +1196,6 @@
           "width": 600,
           "height": 300,
           "title": "Alibaba Cloud Leverages AI to Tackle COVID-19",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-24-natural-language-processing-nlp-market-what-are-the-main-factors-that-contributing-towards-industry-growth.md",
-      "title": "Natural Language Processing (NLP) Market- What Are The Main Factors That Contributing Towards Industry Growth?",
-      "excerpt": "The Global Natural Language Processing (NLP) in Healthcare and Life Sciences Market was valued at USD 1.12 billion in 2016 and is projected to reach USD 6.24 billion by 2025, growing at a CAGR of 21.02% from 2017 to 2025.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market--what-are-the-main-factors-that-contributing-towards-industry-growth-2020-03-24",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-24T01:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Natural Language Processing (NLP) Market- What Are The Main Factors That Contributing Towards Industry Growth?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-24-speech-recognition-systems-have-higher-error-rates-for-black-people-finds-study.md",
-      "title": "Speech Recognition Systems Have Higher Error Rates For Black People, Finds Study",
-      "excerpt": "No, you're not just imagining it. Speech recognition systems developed by the likes of Amazon, Apple, Google, IBM, and Microsoft all have higher error rates when transcribing speech from black people than when doing so for white people. So finds a study published today in the Proceedings of the National Academy of Sciences, which notes that the ...",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://in.mashable.com/tech/12479/speech-recognition-systems-have-higher-error-rates-for-black-people-finds-study",
-      "ampWebUrl": "https://in.mashable.com/tech/12479/speech-recognition-systems-have-higher-error-rates-for-black-people-finds-study?amp=1",
-      "cdnAmpWebUrl": "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/12479/speech-recognition-systems-have-higher-error-rates-for-black-people-finds-study?amp=1",
-      "publishedDateTime": "2020-03-23T23:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://sm.mashable.com/t/mashable_in/news/s/speech-rec/speech-recognition-systems-have-higher-error-rates-for-black_hgke.620.jpg",
-          "width": 620,
-          "height": 364,
-          "title": "Speech Recognition Systems Have Higher Error Rates For Black People, Finds Study",
           "attribution": null
         }
       ],

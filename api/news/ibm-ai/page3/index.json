@@ -2,6 +2,44 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-01-28-ibm-watson-ai-xprize-announces-10-semifinalist-teams.md",
+      "title": "IBM Watson AI XPRIZE announces 10 semifinalist teams",
+      "excerpt": "The XPRIZE Foundation, which designs and runs competitions to “solve humanity’s grand challenges,” has announced the 10 semifinalist teams advancing in the IBM Watson AI XPRIZE. The four-competition is intended to demonstrate how people can collaborate with artificial intelligence to tackle pressing global problems. Sponsored by IBM ...",
+      "heat": 96,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.therobotreport.com/ibm-watson-ai-xprize-announces-10-semifinalist-teams/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-28T06:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2020/01/IBM-AI-XPRIZE-logo.jpg",
+          "width": 1440,
+          "height": 650,
+          "title": "IBM Watson AI XPRIZE announces 10 semifinalist teams",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "IBM AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2020-01-26-ibms-watson-center-pitches-ai-for-everyone-from-chefs-to-engineers.md",
       "title": "IBM’s Watson Center pitches AI for everyone, from chefs to engineers",
       "excerpt": "But IBM is betting its AI can “extract the insights” from data to help its clients stay ahead of the curve, Nebo said. For example, Watson’s AI could reveal a preference for avocado oil over ...",
