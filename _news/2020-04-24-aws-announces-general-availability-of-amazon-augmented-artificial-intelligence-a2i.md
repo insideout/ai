@@ -1,28 +1,21 @@
 ---
 category: news
 title: "AWS Announces General Availability of Amazon Augmented Artificial Intelligence (A2I)"
-excerpt: "Amazon Web Services (AWS), an Amazon.com company (NASDAQ: AMZN), announced the general availability of Amazon Augmented Artificial Intelligence"
-publishedDateTime: 2020-04-24T17:26:00Z
-webUrl: "https://www.businesswire.com/news/home/20200424005488/en/AWS-Announces-General-Availability-Amazon-Augmented-Artificial"
+excerpt: "that allow machine learning predictions from Amazon Rekognition and Amazon Textract to be human-reviewed more easily. Developers who build custom machine learning models in Amazon SageMaker (or other on-premises or cloud tools) can set up human review for ..."
+publishedDateTime: 2020-04-24T17:27:00Z
+webUrl: "https://stockhouse.com/news/press-releases/2020/04/24/aws-announces-general-availability-of-amazon-augmented-artificial-intelligence"
 type: article
-quality: 64
+quality: 42
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Stockhouse
+  domain: stockhouse.com
 
 topics:
-  - AI in Healthcare
-  - AI
   - AWS AI
-
-images:
-  - url: "https://mms.businesswire.com/media/20200424005488/en/787122/23/AWS_logo_RGB.jpg"
-    width: 1200
-    height: 627
-    title: "AWS Announces General Availability of Amazon Augmented Artificial Intelligence (A2I)"
+  - AI
 
 related:
   - title: "AWS Announces General Availability of Amazon Augmented Artificial Intelligence"
@@ -52,6 +45,6 @@ related:
         width: 1200
         height: 627
 
-secured: "fhyursIZCtBsjZjc8CNSFTKIOQwaoT2BtJH3ZGvf6vDR6haP7k+0pqZEQrgd3B7GvZu//fPECFGdugo1DfYPKc9VepVABX3kHWC1OYpMCipb6nrM4RFKCHz69wCAbRdOU/d223Bdt/mfgdjuz8ScbdkQJB8X+d5cmA1ehB9x+r8NHhQaHwLUQUz9FhA2f5u6z687TIrrgbwjIW+L1oU74L0JoCsbVuWlPerUs3x9C3llk+691QsMBXiFvUx6qcj/jItBTqpnhKZMMwzfjCr5PY9kvyxL1iUAjX7VrE0OZ4Se6J7KWGIIoOmnuCplpIC0;YXpAtqkdUMBJSR0X/jcoow=="
+secured: "8FJWUbO2+cLF3Efc3D4y4MELBsDNMIW8uyRO/Kh/qmKWM2rKSRNatR5u7rAK1q39PflzYGqz2sF15om5nxRYj+hEdFiL0Cqbjy/YI8YUafj0m6+wxwjwps60vh7RuPzPrFl4XWWRZ8jq1YwIdlBHR1zU+HLMnyPOtMYUGg1im8FmPhaRN3Y0devlRutd9aGRBKVOsTPUeQF37pw9y13ZTcNKcgppYonvR+MH5sZUxRxpdGlbqOlaAK3vv5c28NGZLxtYEWlQIcvJLq9NCJtWI7xOYeGpHP1NNqhlSmfl3YIkf9oWhzFipdWLYDQkCVJz;uh02fvSM/P0KO43uU0zoMw=="
 ---
 

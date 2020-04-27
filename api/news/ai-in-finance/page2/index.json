@@ -2,6 +2,35 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-03-18-ready-for-iso-20022-make-ai-part-of-your-migration-toolkit.md",
+      "title": "Ready for ISO 20022? Make AI part of your migration toolkit",
+      "excerpt": "Looking across key technologies in the payments space, the use of Artificial Intelligence (AI) disciplines undoubtedly sits at the top of an adoption list. Just as we saw the huge impact mobile had on the world of fintech a decade ago, AI (and especially NLP) are having and will continue to have a significant impact in global payments ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.finextra.com/blogposting/18557/ready-for-iso-20022-make-ai-part-of-your-migration-toolkit",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-18T11:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finextra",
+        "domain": "finextra.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-18-delphian-trading-launches-ai-based-institutional-trading-platform.md",
       "title": "Delphian Trading Launches AI-based Institutional Trading Platform",
       "excerpt": "Delphian Trading, a leader in predictive analytics for derivatives trading and incubated by System Soft Technologies, today announced the formal launch of its Delphian Trading platform, which provides institutional-grade,",
@@ -1066,35 +1095,6 @@
           "attribution": null
         }
       ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-03-machine-learning-25-million-students-in-the-country-to-train-on-ai-soon.md",
-      "title": "Machine Learning! 2.5 million students in the country to train on AI soon",
-      "excerpt": "Last week, NITI Aayog’s Atal Innovation Mission (AIM), in collaboration with the National Association of Software and Services Companies ... AI and machine learning touted to form the basis ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.financialexpress.com/opinion/machine-learning-2-5-million-students-in-the-country-to-train-on-ai-soon/1886957/",
-      "ampWebUrl": "https://www.financialexpress.com/opinion/machine-learning-2-5-million-students-in-the-country-to-train-on-ai-soon/1886957/lite/",
-      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/opinion/machine-learning-2-5-million-students-in-the-country-to-train-on-ai-soon/1886957/lite/",
-      "publishedDateTime": "2020-03-02T20:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Express",
-        "domain": "financialexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
       "locale": "en-us",
       "categories": [
         "news"

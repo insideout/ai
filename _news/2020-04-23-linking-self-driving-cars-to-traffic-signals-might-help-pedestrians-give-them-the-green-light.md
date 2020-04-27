@@ -1,30 +1,43 @@
 ---
 category: news
-title: "Linking Self-Driving Cars to Traffic Signals Might Help Pedestrians Give Them the Green Light"
-excerpt: "Drivers and pedestrians often use nonverbal communication, and cars without drivers can’t communicate in the same way."
-publishedDateTime: 2020-04-23T14:00:00Z
-webUrl: "https://singularityhub.com/2020/04/23/linking-self-driving-cars-to-traffic-signals-might-help-pedestrians-give-them-the-green-light/"
-ampWebUrl: "https://singularityhub.com/2020/04/23/linking-self-driving-cars-to-traffic-signals-might-help-pedestrians-give-them-the-green-light/amp/"
-cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2020/04/23/linking-self-driving-cars-to-traffic-signals-might-help-pedestrians-give-them-the-green-light/amp/"
+title: "Linking self-driving cars to traffic signals might help pedestrians give them the green light"
+excerpt: "Because pedestrians at an intersection tend to trust traffic lights more than self-driving cars, cities might be safer if cars communicated their intentions to traffic lights rather."
+publishedDateTime: 2020-04-23T19:37:00Z
+webUrl: "https://gcn.com/articles/2020/04/23/traffic-signals-avs-pedestrians.aspx"
 type: article
-quality: 33
-heat: 33
+quality: 13
+heat: 13
 published: false
 
 provider:
-  name: Singularity Hub
-  domain: singularityhub.com
+  name: GCN
+  domain: gcn.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://singularityhub.com/wp-content/uploads/2020/04/traffic-light-876044_1280.jpg"
-    width: 1068
-    height: 601
-    title: "Linking Self-Driving Cars to Traffic Signals Might Help Pedestrians Give Them the Green Light"
+  - url: "https://gcn.com/-/media/GIG/EDIT_SHARED/Cities/NYCtraffic.png"
+    width: 760
+    height: 368
+    title: "Linking self-driving cars to traffic signals might help pedestrians give them the green light"
 
-secured: "ajTAUYyk9yiPIBcefLTCcMYHS18M2jiAWm2CHROhZUbbO2+aOVPZoG0zcdSQygOfkeVecvtA8yDafJ54Fx2gC8bMPpCfOMpNEh6uqi0t+/oLFwPwptJ3IHocF4oyE2sc8HM2aC9pdCrOXFuoK0W+4f8ez91DQBcvM7lhkKh0zD+UuQNSYdaWD++FbBn+93+SuU5/2+c+mwQJLoIAkxP9jLJ7HeM2NgD4h5UwuMWH7PdGRbbojQ3J9L5cba8z9JfsNzpWvw2nwSyY6hYG3uYVKgRhG+eKrqsuwO6Gzyv2K7P7eJGIDU+KF2MgyJBW4DrV;dHRH2kQyPTGDRpbC31XX5A=="
+related:
+  - title: "We’re About To Enter An Era Of Robotics And Self-Driving Cars: But How Will We Secure Those Things?"
+    excerpt: "The era of automation is very nearly upon us. More and more, we’re seeing artificial intelligence make its way into numerous industries. Perhaps most notable of these is the automotive space. Self-driving cars are already on the road in large numbers – and that’s got a lot of people very, very nervous. Are their fears justified, ..."
+    publishedDateTime: 2020-04-23T14:21:00Z
+    webUrl: "https://www.techbooky.com/security-in-the-robots-and-and-self-driving-cars-era/"
+    type: article
+    provider:
+      name: techbooky.com
+      domain: techbooky.com
+    quality: 10
+    images:
+      - url: "https://www.techbooky.com/wp-content/uploads/2020/04/ai-robotics.jpg"
+        width: 1280
+        height: 719
+
+secured: "2Z/bYTWNPzwG+f1LctCNjkk0xwVbkckR4CecC+VUAYFl26yg8E9F79VBm+xP3OVVop/uPJ8I/zNekXr5dRcoohLfFUY4Pnnt6rzC03LQHfg2wRDTMROKtDVSMAU7MR8zSoa9qhpIiaNQsFxfYn8Jdvs6xmSDVMG07FGFhTcCkuEkIRVEiuqnMcMMyEMA8Fa7gFi55NM0VH0ISIPiwQV0BO7pPZa05f/B3iTxkmscJIIQOOKoIAvtJDYWV8PBB0m0rYmMT6EwRvp++4WX9MLBdsKyGOZIa7t9YtjgJqS/fVAgdyFP62MDfGOw+hEf2Xui;tsUikD6S7LiEUYEzXhZ5qw=="
 ---
 

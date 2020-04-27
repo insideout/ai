@@ -2,6 +2,51 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-04-27-12-ai-milestones-4-mycin-an-expert-system-for-infectious-disease-therapy.md",
+      "title": "12 AI Milestones: 4. MYCIN, An Expert System For Infectious Disease Therapy",
+      "excerpt": "MYCIN was an AI program developed at Stanford University in the early 1970s, designed to assist physicians by recommending treatments for certain infectious diseases.",
+      "heat": 102,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/gilpress/2020/04/27/12-ai-milestones-4-mycin-an-expert-system-for-infectious-disease-therapy/",
+      "ampWebUrl": "https://www.forbes.com/sites/gilpress/2020/04/27/12-ai-milestones-4-mycin-an-expert-system-for-infectious-disease-therapy/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2020/04/27/12-ai-milestones-4-mycin-an-expert-system-for-infectious-disease-therapy/amp/",
+      "publishedDateTime": "2020-04-27T06:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ea5f65911e2a700077f78af%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D579%26cropY1%3D0%26cropY2%3D325",
+          "width": 579,
+          "height": 326,
+          "title": "12 AI Milestones: 4. MYCIN, An Expert System For Infectious Disease Therapy",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-27-aws-announces-general-availability-of-amazon-augmented-artificial-intelligence.md",
       "title": "AWS Announces General Availability of Amazon Augmented Artificial Intelligence",
       "excerpt": "Amazon A2I makes it easier for developers to build and manage workflows to validate machine learning predictions with human reviewers Today, Amazon Web Service",
@@ -173,19 +218,35 @@
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.nasdaq.com/articles/have-%241000-to-invest-buy-these-2-artificial-intelligence-stocks-now-2020-04-19?time=1587323042",
-      "ampWebUrl": "https://www.nasdaq.com/articles/have-%241000-to-invest-buy-these-2-artificial-intelligence-stocks-now-2020-04-19?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/have-%241000-to-invest-buy-these-2-artificial-intelligence-stocks-now-2020-04-19?amp",
-      "publishedDateTime": "2020-04-19T13:01:00-07:00",
+      "webUrl": "https://www.fool.com/investing/2020/04/19/have-1000-to-invest-buy-these-2-artificial-intelli.aspx?source=eptcnnlnk0000002",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/04/19/have-1000-to-invest-buy-these-2-artificial-intelli.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/04/19/have-1000-to-invest-buy-these-2-artificial-intelli.aspx",
+      "publishedDateTime": "2020-04-19T16:01:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
         "publishers": null,
         "authors": null
       },
-      "images": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F568387%2Fbest-ai-stocks-best-artificial-intelligence-stocks-2020-amzn-syock-amazon-stock-nvda-stock-nvidia-stock-goog-stock-google-stock-alphabet-stock-evbg-stock-everbright-stock.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 800,
+          "title": "Have $1,000 to Invest? Buy These 2 Artificial Intelligence Stocks Now",
+          "attribution": null
+        }
+      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -1184,43 +1245,6 @@
           "width": 1200,
           "height": 630,
           "title": "Artificial Intelligence in Healthcare Market Insights By Size, Share, Future Growth And Forecast From 2019-2029",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-01-icon-group-partners-with-varian-to-advance-cancer-care-in-the-southern-hemisphere.md",
-      "title": "Icon Group Partners with Varian to Advance Cancer Care in the Southern Hemisphere",
-      "excerpt": "This artificial intelligence (AI)-driven holistic adaptive therapy solution is designed to deliver an entire adapted treatment in a typical 15-minute timeslot. Icon Cancer Centre is part of Icon ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.asiaone.com/business/icon-group-partners-varian-advance-cancer-care-southern-hemisphere",
-      "ampWebUrl": "https://www.asiaone.com/business/icon-group-partners-varian-advance-cancer-care-southern-hemisphere?amp",
-      "cdnAmpWebUrl": "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/icon-group-partners-varian-advance-cancer-care-southern-hemisphere?amp",
-      "publishedDateTime": "2020-04-01T14:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Asia One",
-        "domain": "asiaone.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Apr2020/pr-newswire_500_4_23.jpg?itok=ksaCxlcx",
-          "width": 763,
-          "height": 509,
-          "title": "Icon Group Partners with Varian to Advance Cancer Care in the Southern Hemisphere",
           "attribution": null
         }
       ],

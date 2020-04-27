@@ -7,8 +7,8 @@ webUrl: "https://www.itpro.co.uk/technology/machine-learning/355444/aws-launches
 ampWebUrl: "https://www.itpro.co.uk/technology/machine-learning/355444/aws-launches-augmented-ai-service?amp"
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/machine-learning/355444/aws-launches-augmented-ai-service?amp"
 type: article
-quality: 106
-heat: 106
+quality: 108
+heat: 108
 published: true
 
 provider:
@@ -23,6 +23,7 @@ topics:
   - AWS AI
   - AI
   - Machine Learning
+  - AI in Finance
 
 images:
   - url: "https://media.itpro.co.uk//image/upload/v1587984726/itpro/HumanReview.jpg"

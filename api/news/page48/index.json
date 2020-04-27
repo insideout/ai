@@ -2,6 +2,236 @@
   "page": 48,
   "value": [
     {
+      "path": "_news/2020-03-18-datarobot-and-intersystems-partner-to-accelerate-adoption-of-ai-in-healthcare.md",
+      "title": "DataRobot and InterSystems partner to accelerate adoption of ai in healthcare",
+      "excerpt": "DataRobot’s enterprise AI platform will augment InterSystems IntegratedML, which gives developers access to AutoML capabilities directly from SQL. This allows InterSystems IRIS and IRIS for Health customers to embed predictions within their existing applications in a simple, intuitive, and scalable way. InterSystems’ technology simplifies ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zawya.com/mena/en/press-releases/story/DataRobot_and_InterSystems_partner_to_accelerate_adoption_of_ai_in_healthcare-ZAWYA20200318071738/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-18T00:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.zawya.com/resources/img/zawya-logo-en-social.png",
+          "width": 1200,
+          "height": 878,
+          "title": "DataRobot and InterSystems partner to accelerate adoption of ai in healthcare",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-18-towards-an-ai-led-2020.md",
+      "title": "Towards an AI-led 2020",
+      "excerpt": "AI, machine learning and data science are becoming more mainstream in larger organisations in SA. Thanks to the availability of the local Azure data centres, AI has become much easier to use, and companies are able to make use of cognitive services for image recognition, text analysis and form recognition capabilities, without actually having ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.itweb.co.za/content/RgeVDqPYy6jvKJN3",
+      "ampWebUrl": "https://amp.itweb.co.za/content/RgeVDqPYy6jvKJN3",
+      "cdnAmpWebUrl": "https://amp-itweb-co-za.cdn.ampproject.org/c/s/amp.itweb.co.za/content/RgeVDqPYy6jvKJN3",
+      "publishedDateTime": "2020-03-17T23:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ITWeb",
+        "domain": "itweb.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://lh3.googleusercontent.com/m2VqDHCZXMfLcsjx3RkV92Lb7Wu3Qcw2Twp8dYkleKJDDv8AfJuTRiF1Vsn-_hPZQ1wMo8wsCLUv525q6AjUprY=w400-h289-c",
+          "width": 400,
+          "height": 289,
+          "title": "Towards an AI-led 2020",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-18-badgr-uses-deep-learning-to-plan-out-and-traverse-obstacle-free-paths.md",
+      "title": "BADGR uses deep learning to plan out and traverse obstacle-free paths",
+      "excerpt": "Projects and researches in the past have shown that deep learning is a potent technique for training robots to do specific things. To name a few, we've seen OpenAI use neural networks to train Dactyl to solve a Rubik's Cube, and an algorithm dubbed 6-DoF GraspNet that helps robots pick up arbitrary objects. Continuing the trend, researchers at ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.neowin.net/news/badgr-uses-deep-learning-to-plan-out-and-traverse-obstacle-free-paths",
+      "ampWebUrl": "https://www.neowin.net/amp/badgr-uses-deep-learning-to-plan-out-and-traverse-obstacle-free-paths/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/badgr-uses-deep-learning-to-plan-out-and-traverse-obstacle-free-paths/",
+      "publishedDateTime": "2020-03-17T23:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2020/03/1584510691_untitled-1_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": "BADGR uses deep learning to plan out and traverse obstacle-free paths",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-18-quickstart-create-ml-services-cluster-in-azure-hdinsight-using-resource-manager-template.md",
+      "title": "Quickstart: Create ML Services cluster in Azure HDInsight using Resource Manager template",
+      "excerpt": "In this quickstart, you use an Azure Resource Manager template to create an ML Services cluster in Azure HDInsight. Microsoft Machine Learning Server is available as a deployment option when you create HDInsight clusters in Azure. The cluster type that provides this option is called ML Services. This capability provides data scientists ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://docs.microsoft.com/en-us/azure/hdinsight/r-server/quickstart-resource-manager-template",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-17T22:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png",
+          "width": 400,
+          "height": 400,
+          "title": "Quickstart: Create ML Services cluster in Azure HDInsight using Resource Manager template",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-18-behringer-deepmind-6-analog-6-voice-polyphonic-synth-bundle.md",
+      "title": "Behringer DeepMind 6 Analog 6-Voice Polyphonic Synth Bundle",
+      "excerpt": "Free shipping to the the 48 Contiguous States. Hawaii and Alaska orders are welcome but may incur an additional shipping charge. Please message us for details if necessary. The standard shipping method on smaller items is USPS Priority and larger items ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://reverb.com/item/10753498-behringer-deepmind-6-analog-6-voice-polyphonic-synth-bundle",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-17T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reverb.com",
+        "domain": "reverb.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-17-not-just-video-conferencing-apps-taking-a-dive-ibm-cloud-hit-by-partial-tuesday-outage.md",
+      "title": "Not just video-conferencing apps taking a dive: IBM Cloud hit by partial Tuesday outage",
+      "excerpt": "Big Blue said customers running services hosted at its Dallas data center – including Watson AI, IBM Cloud, and DB2 – were either partially or completely down. The Dallas facility is one of 15 ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://theregister.co.uk/2020/03/17/ibm_cloud_tuesday_partial_outage",
+      "ampWebUrl": "https://www.theregister.co.uk/AMP/2020/03/17/ibm_cloud_tuesday_partial_outage/",
+      "cdnAmpWebUrl": "https://www-theregister-co-uk.cdn.ampproject.org/c/s/www.theregister.co.uk/AMP/2020/03/17/ibm_cloud_tuesday_partial_outage/",
+      "publishedDateTime": "2020-03-17T16:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Register",
+        "domain": "theregister.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://regmedia.co.uk/2018/03/01/shutterstock_ibmbuilding.jpg",
+          "width": 650,
+          "height": 434,
+          "title": "Not just video-conferencing apps taking a dive: IBM Cloud hit by partial Tuesday outage",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-17-microsoft-to-help-kubota-explore-ai-application-in-agriculture.md",
       "title": "Microsoft To Help Kubota Explore AI Application In Agriculture",
       "excerpt": "(RTTNews) - Tech giant Microsoft (MSFT) is set to help Japanese tractor and heavy equipment manufacturer Kubota with digital transformation. Both the companies have entered a multi-year strategic alliance,",
@@ -741,236 +971,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-google-try-out-this-ai-transcribe-feature-now-rolling-out-to-google-translate.md",
-      "title": "Google: Try out this AI Transcribe feature now rolling out to Google Translate",
-      "excerpt": "Google has launched its new near real-time transcription feature as part of Google Translate, which is available for eight languages. Google showed off the AI-powered feature this January and will now roll it out on Android with support transcribed translations between any of a set of eight languages, including English, French, German ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/google-try-out-this-ai-transcribe-feature-now-rolling-out-to-google-translate/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-try-out-this-ai-transcribe-feature-now-rolling-out-to-google-translate/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-try-out-this-ai-transcribe-feature-now-rolling-out-to-google-translate/",
-      "publishedDateTime": "2020-03-17T09:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2019/02/27/1db68635-40a5-437e-8b6f-ff1d3034921f/thumbnail/1200x675/474204615b3a621b6922fba361f73db8/google-cloud-updates-aipowered-speech-to-5c73e58360b2b5899fb224ab-1-feb-27-2019-17-31-20-poster.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Google: Try out this AI Transcribe feature now rolling out to Google Translate",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-hey-sparky-confused-by-data-science-governance-and-security-in-the-cloud-databricks-promises-to-ease-machine-learning-pipelines.md",
-      "title": "Hey, Sparky: Confused by data science governance and security in the cloud? Databricks promises to ease machine learning pipelines",
-      "excerpt": "Meanwhile, the new features allow customers to deploy analytics and machine learning by offering APIs for everything ... Databricks is currently available on AWS and Azure, and although plans are in place to launch on Google Cloud Platform, \"it was a ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.theregister.co.uk/2020/03/17/databricks_machine_learning_pipelines/",
-      "ampWebUrl": "https://www.theregister.co.uk/AMP/2020/03/17/databricks_machine_learning_pipelines/",
-      "cdnAmpWebUrl": "https://www-theregister-co-uk.cdn.ampproject.org/c/s/www.theregister.co.uk/AMP/2020/03/17/databricks_machine_learning_pipelines/",
-      "publishedDateTime": "2020-03-17T09:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Register",
-        "domain": "theregister.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://regmedia.co.uk/2020/03/17/shutterstock_pipeline.jpg",
-          "width": 648,
-          "height": 429,
-          "title": "Hey, Sparky: Confused by data science governance and security in the cloud? Databricks promises to ease machine learning pipelines",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-composing-new-proteins-with-artificial-intelligence.md",
-      "title": "Composing new proteins with artificial intelligence",
-      "excerpt": "The specific sounds generated, determined by the way a protein folds, can be used to train deep learning neural networks. \"These networks learn to understand the complex language folded proteins speak at multiple time scales,\" said Markus J. Buehler, from the Massachusetts Institute of Technology. \"And once the computer has been given a seed of ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.eurekalert.org/pub_releases/2020-03/aiop-cnp031220.php",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-17T08:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.eurekalert.org/multimedia/pub/web/226903_web.jpg",
-          "width": 1440,
-          "height": 1205,
-          "title": "Composing new proteins with artificial intelligence",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-scientists-use-artificial-intelligence-to-create-new-proteins-unseen-in-nature.md",
-      "title": "Scientists use artificial intelligence to create new proteins unseen in nature",
-      "excerpt": "The resulting “musical scores” which are generated depending on how a protein folds were fed into a deep learning neural network. These artificial neural networks are computational algorithms that mimic the behavior of human interconnected neurons to process and learn from large amounts of information in a similar way to how the brain ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.news-medical.net/news/20200317/Scientists-use-artificial-intelligence-to-create-new-proteins-unseen-in-nature.aspx",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20200317/Scientists-use-artificial-intelligence-to-create-new-proteins-unseen-in-nature.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200317/Scientists-use-artificial-intelligence-to-create-new-proteins-unseen-in-nature.aspx",
-      "publishedDateTime": "2020-03-17T08:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.news-medical.net/image.axd?picture=2020%2f3%2fshutterstock_1354969193.jpg",
-          "width": 1000,
-          "height": 563,
-          "title": "Scientists use artificial intelligence to create new proteins unseen in nature",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-osaro-recognized-as-top-global-ai-startup-by-cb-insights-ai-100-cnbcs-upstart-100.md",
-      "title": "OSARO Recognized as Top Global AI Startup by CB Insights' AI 100 & CNBC's Upstart 100",
-      "excerpt": "\"Each year, CNBC scans the globe looking for the 100 venture-backed start-ups that have the potential to transform industries ... Since 2015, OSARO's wider mission has been to build hardware-agnostic AI software that enables robots to function in a variety of environments and perform a diverse set of tasks. OSARO systems are compatible with ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.tmcnet.com/usubmit/-osaro-recognized-as-top-global-ai-startup-cb-/2020/03/17/9116494.htm",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-17T08:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20200317005221/en/780161/4/Osaro-Pick-heroImage_%281%29_%281%29.jpg",
-          "width": 480,
-          "height": 385,
-          "title": "OSARO Recognized as Top Global AI Startup by CB Insights' AI 100 & CNBC's Upstart 100",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-moven-and-the-saudi-digital-payments-company-stc-pay-announce-agreement-to-collaborate-on-new-fintech-banking-service.md",
-      "title": "Moven and the Saudi Digital Payments Company (STC Pay) announce Agreement to Collaborate on new Fintech Banking Service",
-      "excerpt": "Ahmed Alenazi, the CEO of STC Pay added, \"we have strived to create the best FinTech service in the Kingdom and the MENA region in Oct 2018 ... Movencorp leads banking-as-a-service innovation in AI/ML driven smart-banking technologies in order to drive financial wellness and smart day-to-day banking capabilities. Movencorp, Inc is the only ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://markets.businessinsider.com/news/stocks/moven-and-the-saudi-digital-payments-company-stc-pay-announce-agreement-to-collaborate-on-new-fintech-banking-service-1029004635",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/moven-and-the-saudi-digital-payments-company-stc-pay-announce-agreement-to-collaborate-on-new-fintech-banking-service-1029004635",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/moven-and-the-saudi-digital-payments-company-stc-pay-announce-agreement-to-collaborate-on-new-fintech-banking-service-1029004635",
-      "publishedDateTime": "2020-03-17T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }
