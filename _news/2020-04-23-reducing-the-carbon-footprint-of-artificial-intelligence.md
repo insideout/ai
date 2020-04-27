@@ -33,7 +33,7 @@ related:
     provider:
       name: Science Daily
       domain: sciencedaily.com
-    quality: 49
+    quality: 51
   - title: "New system could reduce the carbon footprint of artificial intelligence"
     excerpt: "The paper is being presented next week at the International Conference on Learning Representations. Joining Han on the paper are four undergraduate and graduate students from EECS, MIT-IBM Watson AI Lab, and Shanghai Jiao Tong University. Creating a “once-for-all” network The researchers built the system on a recent AI advance called AutoML ..."
     publishedDateTime: 2020-04-25T10:36:00Z

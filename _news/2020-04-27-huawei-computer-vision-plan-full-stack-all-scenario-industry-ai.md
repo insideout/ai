@@ -23,6 +23,6 @@ images:
     height: 566
     title: "Huawei Computer Vision Plan: Full-Stack, All-Scenario Industry AI"
 
-secured: "Ugaco3GOuESzPQGunu7+hlGrOZEibg/cmQ5qXNxGGs7tb/X2A2EFeCQVXR54fQ7RHkpvkeNE96ouxWiH7Qwyy/daLJaF3vl6jVp/AkVdBn9CUdHyyAcg3LyhcHYS/1J4GJHf+I0FweiMYFdRZ5ahxxD8ron4plvnLat0629kdSgCDeGD/59ms12MuY9vP6NQkHuZ8y/RfvP+LAm8oSDdpbOrEi2qr5RyxFn8p/l49pCgM+5MpS1envtnvGCwShfVfl4zEwUWTLP4u+A+VQ4wsW8mguI4/jCarKe2tzzREykmcE+Go8q3GVLs8cojIpPy;jX6c6wds2TR2KQLhR2YrPA=="
+secured: "OBGaajyagb3LixLf4Gf9fJVIbvf+G2LITf9Qc8ssSOT7k+VBaHkXJXuqTlFUXpqwk/eEBS/bnb/2EmpFEjqtj3bCnfRsI8UgCcTOPERFyJZcADoCqdfi1gA+zujdZ6YmutVS/gex7gcAXbmV+urZ/bsYlJjTaivAMmHvlI6aTd9dOBckXaazP7VixpTjqQApIskUPq9Bp0qPRKDcsxRtXe1dNG+jtmHGvpF1f5saDB43QfhUBa8ethsm81FaxatX+KxUAqAVCiOQ7womd6wXLD0N1XePP4Nxmj34TcBVzpSXStsBJH4bo+DGoiGJ+iU2SOBfyJJlJfWWuDCR5R+IPp01BnTqE3bG6P7vht7sssgowWUVdn8671D2p8TbOQR6zY9PVKNUmJPltPPVql15TPCjGQvEen8LmuTbtgZGM51GObv9kEWKZHdwNovWY0ZPf3w4yXY6eDKKTbA/OtT6HMoDNUFwTUkqGrET0Mhd+ns=;HBxENAJs6I5ZXKieLHFhKQ=="
 ---
 

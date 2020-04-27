@@ -33,7 +33,7 @@ related:
     provider:
       name: Science Daily
       domain: sciencedaily.com
-    quality: 49
+    quality: 51
   - title: "Reducing the carbon footprint of artificial intelligence"
     excerpt: "Artificial intelligence has become a focus of certain ethical concerns, but it also has some major sustainability issues. Last June, researchers at the University of Massachusetts at Amherst released a startling report estimating that the amount of power required for training and searching a certain neural network architecture involves the ..."
     publishedDateTime: 2020-04-23T17:44:00Z

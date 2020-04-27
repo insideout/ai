@@ -2,30 +2,37 @@
 category: news
 title: "Companies Bet on AI Cameras to Track Social Distancing, Limit Liability"
 excerpt: "Stores and workplaces eager to avoid spreading the novel coronavirus are equipping existing security cameras with artificial intelligence software that can track compliance with health guidelines including social distancing and mask-wearing."
-publishedDateTime: 2020-04-27T10:06:00Z
-webUrl: "https://www.nytimes.com/reuters/2020/04/27/technology/27reuters-health-coronavirus-surveillance-tech.html"
+publishedDateTime: 2020-04-27T10:27:00Z
+webUrl: "https://www.usnews.com/news/technology/articles/2020-04-27/companies-bet-on-ai-cameras-to-track-social-distancing-limit-liability"
 type: article
-quality: 67
-heat: 67
+quality: 47
+heat: -1
 published: false
 
 provider:
-  name: New York Times
-  domain: nytimes.com
+  name: U.S. News & World Report
+  domain: usnews.com
   images:
-    - url: "https://insideout.app/ai/assets/images/organizations/nytimes.com-50x50.jpg"
+    - url: "https://insideout.app/ai/assets/images/organizations/usnews.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - AI
 
-images:
-  - url: "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"
-    width: 1200
-    height: 630
-    title: "Companies Bet on AI Cameras to Track Social Distancing, Limit Liability"
+related:
+  - title: "FOCUS-Companies bet on AI cameras to track social distancing, limit liability"
+    excerpt: "Stores and workplaces eager to avoid spreading the novel coronavirus are equipping existing security cameras with artificial intelligence software that can track compliance with health guidelines including social distancing and mask-wearing."
+    publishedDateTime: 2020-04-27T10:28:00Z
+    webUrl: "https://www.nasdaq.com/articles/focus-companies-bet-on-ai-cameras-to-track-social-distancing-limit-liability-2020-04-27"
+    ampWebUrl: "https://www.nasdaq.com/articles/focus-companies-bet-on-ai-cameras-to-track-social-distancing-limit-liability-2020-04-27?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/focus-companies-bet-on-ai-cameras-to-track-social-distancing-limit-liability-2020-04-27?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 64
 
-secured: "8GcViMxN5PwezZ+ZOgReUMdagSFuvNF326U10t0UoABieFjHRRof845vQur4+YtoA1qO+g9QJhDo7Jv7BNMep6xwn6WpPIt7aU96zhl/GJb4anOFfkrebAGf7JcXW09DOOjgHEGakrWorbMtUxFxmpaxuAQzF3zasSacsAWJu8r1ggwtSUuAhmexAiNGjV5R4uCo3YRDchgEpBGbbiC44zzop6je94k9MXoRnrKi8XtCry0/z0kyhuMCzQQOQ8iNvjMxA42I2OXcU3LlDzVl/RbBSnPGFlQ5AONDG1EQtV4PH3l/G7vwLp8VieVcJZZP;Rb6WrBXDdPCMx2YDh3E3vA=="
+secured: "1lwSfuwMDNG4VCB6txj+wtlN43SRwjpwohr0HhyDIu7wAwEUn2VprrEVELcEjpbjdmYIFhXx7oObWU9yBtbbNU/fTgKOQxDuA9Gg/AQvwaEAHH9D1mpmI7OOv6pqeBKJJKS5xe0IoBhegtiUB4wGZuiHGYy2W58oHvSKGUumZ47H2ffi7Hmcb2POZh4I+7Z2vgWX1Zg9EjgDbCH5OoMHmv/JjteCIRLVFTS4z5gAd+JcueKxyk68ts+W00Kyuq8HNVFFm+copYrSleyubNC2LEhe7ZDfRsQfTuiBuEBFHc3EoiP4y+JkiJBbBR4K5qgc0kxDQ64qrwRdhwmV5Ws8jHqic31C3FTILcMjqaBNFabIkzvcAGPmWLTVfRo639a3KZ+J3J+ggnsr8hXShnHu1yzhGbpS6pZ7RzODHhDJ9Z7C2DpuzLUfa2Z86rYW5ffBsIVZrdhoXoCHxIncJrswbLuM3yv0CLeS4vsc6EJY5c4=;buWGrOBaOkZO9tEeOUWjIg=="
 ---
 

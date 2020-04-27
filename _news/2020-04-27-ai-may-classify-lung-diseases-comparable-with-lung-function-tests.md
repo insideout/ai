@@ -19,6 +19,17 @@ topics:
   - AI in Healthcare
   - AI
 
+related:
+  - title: "Artificial Intelligence Can Help Radiologists Diagnose Lung Disease"
+    excerpt: "Using artificial intelligence technologies, radiologists could augment their ability to objectively evaluate and treat lung disease, according to a study published in the American Journal of Roentgenology."
+    publishedDateTime: 2020-04-27T17:18:00Z
+    webUrl: "https://healthitanalytics.com/news/artificial-intelligence-can-help-radiologists-diagnose-lung-disease"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 19
+
 secured: "NkuRlZGZzz0wu/8yW74YUDHhPb9MFnJ7rMV30KiQiGTqdn4nOtB1ULIJ7npsWQykox70U58gTcHukvMGXw6L3uiqHYCCfP4ged2ji8v/BIvDWvq8tRpY+BASibsEJ4D9v9nk3gDabB/iTOnMaiVp+tkj/Z1I1G8YaErVkEFTkODcGxGMTOYmm8hN5/RFfneFeJKYNYAyk5zBwaMb9/aKUFnIHz7X1pWThIgzjNXQ562xQJ+js0C6YR/EuWs+cIY/sQjxdVV+ablNyG+gJsru2IYRODbdUcfM0koBjXupeTdqbFB17fc0RNf6OFFNZ1Kgka7jVVLClthhPECKYu0mK9fQ/GaaRdqqKra2++AKvmyWnJKmhvy6pUCwMlzDstaBQtSBgEFRgc4iuF8AdMn3iDeJNtq09fta1rdndFGy51SSDWDix5iBIn2b2ecQm3NyI4jxolt8nnmkLnSAPOSQ2hkziFIZ3cyLQELzUpdZinA=;2R57UwwAilwt6esXD1C0zQ=="
 ---
 

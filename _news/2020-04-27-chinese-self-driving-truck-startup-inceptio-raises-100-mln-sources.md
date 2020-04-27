@@ -35,6 +35,19 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200427&t=2&i=1516550136&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG3Q09T"
         width: 817
         height: 545
+  - title: "Self-driving truck startup Inceptio raises $100 million, report says"
+    excerpt: "BEIJING -- Inceptio Technology, a startup developing self-driving trucks, has raised $100 million in a new round of fundraising from logistics provider GLP, key strategic investor G7 and other investors,"
+    publishedDateTime: 2020-04-27T15:25:00Z
+    webUrl: "https://www.autonews.com/china/self-driving-truck-startup-inceptio-raises-100-million-report-says"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 39
+    images:
+      - url: "https://www.autonews.com/s3/files/styles/800x600/public/Inceptio%20self-driving%20truck.jpg"
+        width: 800
+        height: 600
 
 secured: "S/0wQXs4ZaHvLYUjxJQMULUhVeBnMLR4mf8mjPwa7wq1FZxScZ0I/NFrBSx/SdarVaR2yfzycNRj+py60EOzNN3uP12MuN3zV34Ly9BSlg93MCxLGrZqrlc/jkTpFp4QpTWncKkOfmzA6bmqTUoivfPyGvcUM7Hi/bsBKtrACCDRSl4Imih9PZvR+1e3TPCK43R+X7qpDjcsACRGXHu5WqNNIK5ug2XxM5FqftR8r4xrfXZr/p/yop3HNYYRYU1a3zl+69yEVzcvbVrblI2n3Q2W53EInCrUwRcT1LsEqJ4Sqz8O5JsHQWgYV3w0OSK+/NscCn0wjB17WnanYJNVt0Rq8zq9r2GEx3ctD2xHXHDSCbts/p1DKLCOfdBwrWJPspJv4EvN/m5dAQYXbE+2SdRGMsDUBr/qm1M8RxV7E5TAf/Fio0ugT1fTHEgmeHgSDnuz4YEPOkUDpw7gwvZht6qZMzRMk8K/zBZQcZWriLY=;8B5K6R1kiZd7eXCptLp8bg=="
 ---

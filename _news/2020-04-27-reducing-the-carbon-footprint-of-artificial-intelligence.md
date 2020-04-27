@@ -5,9 +5,9 @@ excerpt: "A new system cuts the energy required for training and running neural 
 publishedDateTime: 2020-04-27T14:23:00Z
 webUrl: "https://www.sciencedaily.com/releases/2020/04/200423143034.htm"
 type: article
-quality: 49
-heat: 49
-published: false
+quality: 51
+heat: 91
+published: true
 
 provider:
   name: Science Daily
@@ -20,6 +20,7 @@ provider:
 topics:
   - IBM AI
   - AI
+  - Machine Learning
 
 related:
   - title: "Reducing the carbon footprint of artificial intelligence"

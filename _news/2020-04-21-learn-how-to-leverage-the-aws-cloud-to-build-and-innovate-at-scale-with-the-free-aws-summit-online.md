@@ -1,11 +1,11 @@
 ---
 category: news
 title: "Learn how to leverage the AWS cloud, to build and innovate at scale with the free AWS Summit Online"
-excerpt: "From an array of insightful breakout sessions and keynotes, to deep diving into architecture and code with AWS experts, don’t miss out on this free digital summit"
-publishedDateTime: 2020-04-21T11:26:00Z
-webUrl: "https://yourstory.com/2020/04/leverage-aws-cloud-innovate-aws-summit"
-ampWebUrl: "https://yourstory.com/2020/04/leverage-aws-cloud-innovate-aws-summit/amp"
-cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/04/leverage-aws-cloud-innovate-aws-summit/amp"
+excerpt: "The AWS DeepRacer League Summit Race Compete for prizes and meet fellow machine learning enthusiasts, online. Racers will have the opportunity to join the DeepRacer online workshop and have a 1-to ..."
+publishedDateTime: 2020-04-21T11:24:00Z
+webUrl: "https://yourstory.com/2020/04/aws-cloud-innovate-summit-online"
+ampWebUrl: "https://yourstory.com/2020/04/aws-cloud-innovate-summit-online/amp"
+cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/04/aws-cloud-innovate-summit-online/amp"
 type: article
 
 provider:
@@ -17,11 +17,11 @@ topics:
   - AI
 
 images:
-  - url: "https://images.yourstory.com/cs/2/18d4ab20d08111e99775a119527191d8/FeatureImage800x400-1587467898677.png?fm=png&auto=format"
-    width: 799
-    height: 395
+  - url: "https://images.yourstory.com/cs/static/default-ys-image.jpg"
+    width: 300
+    height: 300
     title: "Learn how to leverage the AWS cloud, to build and innovate at scale with the free AWS Summit Online"
 
-secured: "h0HX6GJyP+HJXrspMTbL+BqSnSP32mlYA7FyiW59R4NBSMv837RjvSuR26FjB20/iK+3+HNAEp61h1i96y1TUVrZamHIk4doHH5lr0sVqN9JuE0hU25K8JiHMU9GZsM/IZ7SsbcFygZUpRyi1Yu+gFhZQcd+sSw5aXpApPgMM12KaavC5dyzK3jGw57YEBG/0tN8EVJi8Lq+ybzV8s1xbWyYHsCdRvHUEVEwe/YRwG74JkiHP5gCw42xZK5gC3FwSvx4z45pnbEhJ1s8xRinc3DKNgEKBo55GS0H5trQudgE67xl9MZz0eyLrxthALyH;bnipYYaf34dZnBBkw7VBKQ=="
+secured: "crk/GhXa/HEtjzM6GCgpNUqeMM/vm9P9Lpsi7zFMvu1pexP8wwkvHCxdJZqRHCQX4UO/UxM0FkNb8HyYMiwc8YsODODLf7cKRhbigiFQv7p+91MtfDIO57vPn3sEz07iyvdhooAkZbSn0I4wdfGgFVr3a8p7f4FpoM70r+nNlnfDWc9UN2IqF4AzLFXLg8KvyVrVmSOTHqxvrmVKLPQ2IKC7Ukhxv/IpwPp3T7CSWn5thZ73Wn+IZVmKnCADGikSgabrLf1NdmS8ZNqlDpZtHz5s1kuJGXmIMzdwOprhdy6HGF7TU3mYz1rwXWgWB9+O;zq6N8Zl1XrCQwC/Axc5TQg=="
 ---
 

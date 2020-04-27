@@ -360,14 +360,14 @@
     {
       "path": "_news/2020-04-21-learn-how-to-leverage-the-aws-cloud-to-build-and-innovate-at-scale-with-the-free-aws-summit-online.md",
       "title": "Learn how to leverage the AWS cloud, to build and innovate at scale with the free AWS Summit Online",
-      "excerpt": "From an array of insightful breakout sessions and keynotes, to deep diving into architecture and code with AWS experts, don’t miss out on this free digital summit",
+      "excerpt": "The AWS DeepRacer League Summit Race Compete for prizes and meet fellow machine learning enthusiasts, online. Racers will have the opportunity to join the DeepRacer online workshop and have a 1-to ...",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://yourstory.com/2020/04/leverage-aws-cloud-innovate-aws-summit",
-      "ampWebUrl": "https://yourstory.com/2020/04/leverage-aws-cloud-innovate-aws-summit/amp",
-      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/04/leverage-aws-cloud-innovate-aws-summit/amp",
-      "publishedDateTime": "2020-04-21T04:26:00-07:00",
+      "webUrl": "https://yourstory.com/2020/04/aws-cloud-innovate-summit-online",
+      "ampWebUrl": "https://yourstory.com/2020/04/aws-cloud-innovate-summit-online/amp",
+      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/04/aws-cloud-innovate-summit-online/amp",
+      "publishedDateTime": "2020-04-21T04:24:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Your Story",
@@ -378,9 +378,9 @@
       },
       "images": [
         {
-          "url": "https://images.yourstory.com/cs/2/18d4ab20d08111e99775a119527191d8/FeatureImage800x400-1587467898677.png?fm=png&auto=format",
-          "width": 799,
-          "height": 395,
+          "url": "https://images.yourstory.com/cs/static/default-ys-image.jpg",
+          "width": 300,
+          "height": 300,
           "title": "Learn how to leverage the AWS cloud, to build and innovate at scale with the free AWS Summit Online",
           "attribution": null
         }
