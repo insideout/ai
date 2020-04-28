@@ -85,11 +85,11 @@
     {
       "path": "_news/2020-04-23-time-to-think-ethically-about-ai.md",
       "title": "Time to think ethically about AI",
-      "excerpt": "Camilla Ravazzolo, the MRS EU policy manager at the MRS, writes about reframing the discussion around artificial intelligence.",
-      "heat": 74,
+      "excerpt": "Camilla Ravazzolo, EU policy manager at the MRS, writes about reframing the discussion around artificial intelligence.",
+      "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.research-live.com/article/opinion/time-to-think-ethically-about-ai/id/5066692",
+      "webUrl": "https://www.research-live.com/article/opinion/time_to_think_ethically_about_ai/id/5066692",
       "ampWebUrl": "https://www.research-live.com/amp-page.html?id=5066692&name=time-to-think-ethically-about-ai",
       "cdnAmpWebUrl": "https://www-research--live-com.cdn.ampproject.org/c/s/www.research-live.com/amp-page.html?id=5066692&name=time-to-think-ethically-about-ai",
       "publishedDateTime": "2020-04-23T04:44:00-07:00",
@@ -347,31 +347,31 @@
     {
       "path": "_news/2020-04-23-startup-reseau-goes-live-with-its-ai-summit.md",
       "title": "Startup Réseau Goes LIVE With its AI Summit",
-      "excerpt": "The online summit will cover themes and tracks across core technology and applications, where AI is playing a massive role Built on the founding pillar of #StartupsFirst, 'Startup Réseau' is an ecosystem of Enterprises, Capital, Markets, and Services – for Startups, by bringing in various types of structured interface for enabling unique ...",
+      "excerpt": "Before it's here, it's on the Bloomberg Terminal.",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.prnewswire.com/in/news-releases/startup-reseau-goes-live-with-its-ai-summit-847656852.html",
+      "webUrl": "https://www.bloomberg.com/press-releases/2020-04-23/startup-r-seau-goes-live-with-its-ai-summit",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-23T00:43:00-07:00",
+      "publishedDateTime": "2020-04-23T00:36:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg",
-          "width": 600,
-          "height": 315,
-          "title": "Startup Réseau Goes LIVE With its AI Summit",
-          "attribution": null
-        }
-      ],
+      "images": null,
       "locale": "en-us",
       "categories": [
         "news"

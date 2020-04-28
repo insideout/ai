@@ -2,51 +2,6 @@
   "page": 8,
   "value": [
     {
-      "path": "_news/2020-01-29-a-warehouse-robot-learns-to-sort-out-the-tricky-stuff.md",
-      "title": "A Warehouse Robot Learns to Sort Out the Tricky Stuff",
-      "excerpt": "At a facility near Berlin, a new kind of robot is automating tasks that until recently had been out of the reach of machines. LUDWIGSFELDE, Germany — Inside a warehouse on the outskirts of Berlin, a long line of blue crates moved down a conveyor belt,",
-      "heat": 139,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nytimes.com/2020/01/29/technology/warehouse-robot.html",
-      "ampWebUrl": "https://www.nytimes.com/2020/01/29/technology/warehouse-robot.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/01/29/technology/warehouse-robot.amp.html",
-      "publishedDateTime": "2020-01-29T01:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/01/29/autossell/29robopicker-video1/29robopicker-video1-facebookJumbo-v3.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": "A Warehouse Robot Learns to Sort Out the Tricky Stuff",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
       "path": "_news/2020-01-29-ai-powered-robot-pickers-will-be-the-next-big-work-revolution-in-warehouses.md",
       "title": "AI-powered robot pickers will be the next big work revolution in warehouses",
       "excerpt": "As it comes out of stealth today, Covariant has announced a raft of private backers, including some of the most high-profile names in AI research. They include Google’s head of AI, Jeff Dean; Facebook’s head of AI research, Yann LeCun, and one of the “godfathers of AI,” Geoffrey Hinton. As Abbeel says, the involvement of these ...",
@@ -1267,6 +1222,44 @@
       ],
       "topics": [
         "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-01-17-avra-medical-robotics-attends-jp-morgan-healthcare-conference.md",
+      "title": "AVRA Medical Robotics Attends J.P. Morgan Healthcare Conference",
+      "excerpt": "... the process of building a fully autonomous medical robotic system through the use of new technologies combining artificial intelligence, machine learning and proprietary software; is attending the 38th J.P. Morgan Healthcare Conference in San Francisco this week. The Company is represented by its CEO, Barry Cohen. Mr. Cohen has held ...",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://apnews.com/Globe Newswire/712b21a98df35f1c4468b46f8c35c4c6",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-17T14:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press News",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": "AVRA Medical Robotics Attends J.P. Morgan Healthcare Conference",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
         "AI in Robotics"
       ]
     }

@@ -182,7 +182,7 @@
       "path": "_news/2020-04-24-machine-learning-as-a-service-mlaas-market-analysis-global-industry-size-share-trends-and-forecast-2020-2026.md",
       "title": "Machine Learning as a Service (MLaaS) Market Analysis – Global Industry Size, Share, Trends and Forecast 2020 – 2026",
       "excerpt": "According to the report published by Acumen Research and Consulting, the global Machine Learning as a Service (MLaaS) market was expected to reach at US$ Mn in 2018 and is anticipated to exceed US$ Mn by 2026.",
-      "heat": 71,
+      "heat": 81,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-analysis-global-industry-size-share-trends-and-forecast-2020-2026-2020-04-24",
@@ -930,7 +930,7 @@
       "path": "_news/2020-04-23-otterais-newest-feature-offers-live-interactive-transcripts-of-your-zoom-meetings.md",
       "title": "Otter.ai’s newest feature offers live, interactive transcripts of your Zoom meetings",
       "excerpt": "Real-time voice transcription service Otter.ai is adding new functionality that will aid home school students and work-from-home employees alike. The company today is introducing an integration with Zoom in order to provide “Live Video Meeting Notes” — meaning, the ability to record and and view a live, interactive transcript directly ...",
-      "heat": 90,
+      "heat": 100,
       "tags": null,
       "type": "article",
       "webUrl": "https://techcrunch.com/2020/04/23/otter-ais-newest-feature-offers-live-interactive-transcripts-of-your-zoom-meetings/",
@@ -1049,43 +1049,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-23-amp-robotics-hits-major-ai-driven-recycling-milestone.md",
-      "title": "AMP Robotics Hits Major AI-driven Recycling Milestone",
-      "excerpt": "AMP Robotics Corp. (“AMP”), a pioneer in artificial intelligence (AI) and robotics for the recycling industry, just announced that it has processed one billion recyclables over the last 12 months. The ‘one billion’ milestone means that AMP’s technology has specifically targeted and removed one billion individual recyclable items from ...",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.waste360.com/recycling/amp-robotics-hits-major-ai-driven-recycling-milestone",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-23T07:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Waste360",
-        "domain": "waste360.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.waste360.com/sites/waste360.com/files/Untitled%20design%2010_4.png",
-          "width": 1540,
-          "height": 800,
-          "title": "AMP Robotics Hits Major AI-driven Recycling Milestone",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     },
@@ -1211,6 +1174,50 @@
           "width": 1200,
           "height": 600,
           "title": "Randori raises $20 million to spot cyberattacks with AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-23-peakai-raises-12-million-to-bolster-enterprise-ai-adoption.md",
+      "title": "Peak.AI raises $12 million to bolster enterprise AI adoption",
+      "excerpt": "Peak.AI, a startup developing AI solutions for enterprise customers, today announced that it has raised $12 million in extended series A funding. The fresh capital will fuel Peak’s growth, commercial expansion, and R&D, according to CEO Richard Potter, and will come as up to 25% of companies report experiencing a 50% failure rate in deploying ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/23/peak-ai-raises-12-million-to-bolster-enterprise-ai-adoption/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/23/peak-ai-raises-12-million-to-bolster-enterprise-ai-adoption/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/23/peak-ai-raises-12-million-to-bolster-enterprise-ai-adoption/amp/",
+      "publishedDateTime": "2020-04-23T06:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/fd634a2a-81b7-4821-95c0-f67a68309315-e1587585516260.png?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Peak.AI raises $12 million to bolster enterprise AI adoption",
           "attribution": null
         }
       ],

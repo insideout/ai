@@ -24,49 +24,34 @@ images:
     title: "New Google Research May Improve Live-Translation of Virtual Meetings"
 
 related:
-  - title: "Otter.ai releases secure, live interactive transcripts for collaboration platforms"
-    excerpt: "The new feature is available to Otter for Teams and Zoom subscribers with additional video collaboration integrations planned. Voice transcription company Otter.ai has rolled out a new Live Video Meeting Notes feature, which enables participants to open a secure, live interactive transcript directly from a video conference, or after a meeting ..."
-    publishedDateTime: 2020-04-23T12:30:00Z
-    webUrl: "https://www.techrepublic.com/article/otter-ai-releases-secure-live-interactive-transcripts-for-collaboration-platforms/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/otter-ai-releases-secure-live-interactive-transcripts-for-collaboration-platforms/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/otter-ai-releases-secure-live-interactive-transcripts-for-collaboration-platforms/"
+  - title: "Otter.ai’s newest feature offers live, interactive transcripts of your Zoom meetings"
+    excerpt: "Real-time voice transcription service Otter.ai is adding new functionality that will aid home school students and work-from-home employees alike. The company today is introducing an integration with Zoom in order to provide “Live Video Meeting Notes” — meaning, the ability to record and and view a live, interactive transcript directly ..."
+    publishedDateTime: 2020-04-23T15:10:00Z
+    webUrl: "https://techcrunch.com/2020/04/23/otter-ais-newest-feature-offers-live-interactive-transcripts-of-your-zoom-meetings/"
+    ampWebUrl: "https://techcrunch.com/2020/04/23/otter-ais-newest-feature-offers-live-interactive-transcripts-of-your-zoom-meetings/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/23/otter-ais-newest-feature-offers-live-interactive-transcripts-of-your-zoom-meetings/amp/"
     type: article
     provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 81
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 80
     images:
-      - url: "https://tr1.cbsistatic.com/hub/i/r/2020/03/24/757c78fb-3099-49b8-8845-3ab72d4964d8/thumbnail/1200x675/1cdb1f301471faa092025ad26e671b30/zoom.jpg"
-        width: 1200
-        height: 675
-  - title: "Zoom partners with Otter.ai for in-meeting transcriptions"
-    excerpt: "Otter.ai CEO and founder Sam Liang noted that the growing need for virtual meetings because ... Become a Microsoft Office 365 administrator in record time with this quick start course from PluralSight.] Those integrations are important, said Zeus Kerravala, principal analyst at ZK Research. “For Zoom, it's valuable because, although they ..."
-    publishedDateTime: 2020-04-23T15:55:00Z
-    webUrl: "https://www.computerworld.com/article/3539910/zoom-partners-with-otterai-for-in-meeting-transcriptions.html"
-    ampWebUrl: "https://www.computerworld.com/article/3539910/zoom-partners-with-otterai-for-in-meeting-transcriptions.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3539910/zoom-partners-with-otterai-for-in-meeting-transcriptions.amp.html"
+      - url: "https://techcrunch.com/wp-content/uploads/2020/04/otter-hero-screens-2.png?w=1024"
+        width: 1024
+        height: 650
+  - title: "Otter.ai Live Video Meeting Notes enables participants to highlight, share, search, and review their notes"
+    excerpt: "“As an analyst who sits in as many as 15 meetings a day, both in-person and virtually, Otter.ai has been one of my top go-to meeting apps,” said Zeus Kerravala, Principal Analyst at ZK Research. “With the new Live Video Meeting Notes capability, folks can now access and annotate real-time notes during Zoom meetings. And since you can use ..."
+    publishedDateTime: 2020-04-24T01:15:00Z
+    webUrl: "https://www.helpnetsecurity.com/2020/04/24/otter-ai-live-video-meeting-notes/"
     type: article
     provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 57
+      name: Help Net Security
+      domain: helpnetsecurity.com
+    quality: 21
     images:
-      - url: "https://images.idgesg.net/images/article/2020/04/meeting6-100837792-large.jpg"
-        width: 1200
-        height: 808
-  - title: "Otter.ai Releases Secure, Live Interactive Transcripts to Support Remote Work and Distance Learning"
-    excerpt: "View Otter.ai’s pricing plans and features. See a demo of Otter.ai Live Video Meeting Notes for Zoom, check out the Quick Start Guide, or sign up here for Otter for Teams. Otter.ai creates award-winning technologies and products that make valuable information from voice conversations instantly accessible and actionable. The Otter Voice ..."
-    publishedDateTime: 2020-04-23T14:38:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200423005274/en/Otter.ai-Releases-Secure-Live-Interactive-Transcripts-Support"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 23
-    images:
-      - url: "https://mms.businesswire.com/media/20200423005274/en/786895/23/4347043_Otter_Zoom_logo.jpg"
-        width: 1200
-        height: 627
+      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/03/12085321/insecure-rsac2020.jpg"
+        width: 304
+        height: 430
 
 secured: "uclMPTPXE1MDINBjImVUdaesDNrBxdlN1wcQRxXoYw11oyyrpRYPzjE/6XNdLEXoFInrlfeuL5iQzCsoLiJCSFaaSF1E2OynnyHPVsAWZBClnbjgNvRyCRpWhmILJkggublWM1zpD7wgmlSDAElaUzUceIQeMl32y9MBHqlp/OX8VDhJKAYXi0tKRgnZ7RvQV2tS6J6DGT4Ln6tcYRco+kXBqQ/mN3Ltq1avG5YOy4Vr7ClCdCO3I0tKA7xeVRSsSPOHszq2BeaOYx4rYwevGza8gvy/1lFqKIioV2t7+Z7ayFTzAZhg2r1d8SMp1Jg7bxJARRpy4Lh06qGavI6n5DVTHPVYcX3dkluKU2gNylXAWVOIy65J9bOHYuHE+6aYIiBBxNN/rFVJk8Aw/HMsUtg4VftbbN+5aZ7QT8k113Kus1jOiyJQ3uLGR+qgoakuo27gxbe2P/ek4I9X2Mhn2Dw34YukZcThWBxxqOGK5RI=;5grrtuHDtNJTKaTUEmSVDA=="
 ---

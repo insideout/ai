@@ -39,6 +39,19 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2020/04/otter-hero-screens-2.png?w=1024"
         width: 1024
         height: 650
+  - title: "New Google Research May Improve Live-Translation of Virtual Meetings"
+    excerpt: "According to Gartner’s Magic Quadrant for Meeting Solutions, published September 5, 2019, 80% of the vendors they profiled “have some version of meeting transcription, much of which is based on natural language processing (NLP) technology with AI.” It also identified “transcription and translation for delivering webinars, town hall ..."
+    publishedDateTime: 2020-04-24T06:44:00Z
+    webUrl: "https://slator.com/machine-translation/new-google-research-may-improve-live-translation-of-virtual-meetings/"
+    type: article
+    provider:
+      name: Slator
+      domain: slator.com
+    quality: 24
+    images:
+      - url: "https://slator.com/assets/2020/04/Google-Simultaneous-Translation-Research.png"
+        width: 600
+        height: 400
 
 secured: "/CVoHx3C85a4o/BzqN8D4fNKaJ8PqS8a8MzpduBuAKq4TQJpWe/iNXE726MMMn5y5wakX3Chd8zHYGmoBZUW1gOVlfp1THPF2gMv20beSd35RjBj/F5VStMB2dzH0g1xZlPw8YVSa8FtO729SKucdHNzNTmkGKd+epHWprikp0BIpoq3g//zHpgoWJbPMtS0EZKH08Ay3EZ8uC8YlCcbYidSE+TLUJksCvBuosViN6/e3trBCLAsafU6Rt8E+kmMD3fXuqREfJwmacgVSTDdS8anKcdsIYiv6I693MCa3n89Xz6ceH28G9kA5InoR/OnFRKZ6YYfeDla6d7K5K2TJWi+q3XQPX/+vD2nYzbz13zaIx7ZeN2POVnZxcvB+WD99ANBAgrpoho4sRk4qYhfKioVXo+3hNzBMes1fxoLLC/INp5YZ0yyY1Zfsxw7Mkm5f8OcCCyBBcfpyX4o2vLlAFQ+PP9SrSpvWmoeoh2QGzg=;IgNBX4ZlVMrJQY6upr+uyQ=="
 ---

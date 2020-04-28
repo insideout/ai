@@ -5,8 +5,8 @@ excerpt: "Global Conversational Artificial Intelligence (AI) Market, by Componen
 publishedDateTime: 2020-04-28T02:50:00Z
 webUrl: "https://www.marketwatch.com/press-release/conversational-artificial-intelligence-market-is-estimated-to-reach-a-market-value-of-1582-billion-by-2024-2020-04-27"
 type: article
-quality: 48
-heat: 48
+quality: 50
+heat: 50
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
