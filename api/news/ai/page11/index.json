@@ -2,6 +2,382 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-04-16-new-web-based-automl-tool-from-sensiml-makes-ai-for-iot-easier-than-ever.md",
+      "title": "New Web-Based AutoML Tool from SensiML Makes AI for IoT Easier than Ever",
+      "excerpt": "PORTLAND, Ore., April 16, 2020 /PRNewswire/ -- SensiML™ Corporation, a leading developer of AI tools for building intelligent IoT endpoints, has released a new web-based AutoML tool with a ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/new-web-based-automl-tool-from-sensiml-makes-ai-for-iot-easier-than-ever/article_35c486af-26f5-5532-8c78-a677135b8da5.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-16T06:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-16-project-florence-how-ai-powered-online-learning-is-training-nurses-to-fight-covid-19.md",
+      "title": "Project Florence: How AI-powered online learning is training nurses to fight COVID-19",
+      "excerpt": "SEE: Coronavirus: Critical IT policies and tools every business needs (TechRepublic Premium) The online learning tool starts with an AI-driven assessment that changes based on the knowledge level of the user. Once Project Florence has determined what a nurse or other health care practitioner needs to learn it recommends a two-day curriculum ...",
+      "heat": 80,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/article/project-florence-how-ai-powered-online-learning-is-training-nurses-to-fight-covid-19/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/project-florence-how-ai-powered-online-learning-is-training-nurses-to-fight-covid-19/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/project-florence-how-ai-powered-online-learning-is-training-nurses-to-fight-covid-19/",
+      "publishedDateTime": "2020-04-16T06:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/03/19/d5bc89b3-5b78-4960-afc0-225ccc07578a/thumbnail/1200x675/ceb60bdc175321320b105411a3ee9cf3/20200318-veronica-karen.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Project Florence: How AI-powered online learning is training nurses to fight COVID-19",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-16-conversational-ai-startup-yellow-messenger-raises-20m-series-b-from-lightspeed.md",
+      "title": "Conversational AI startup Yellow Messenger raises $20M Series B from Lightspeed",
+      "excerpt": "India’s Yellow Messenger operates a conversational AI platform used by companies including Accenture, Flipkart and Grab to communicate with employees and customers. The startup is announcing new ...",
+      "heat": 93,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/04/16/conversational-ai-startup-yellow-messenger-raises-20m-series-b-from-lightspeed/",
+      "ampWebUrl": "https://techcrunch.com/2020/04/16/conversational-ai-startup-yellow-messenger-raises-20m-series-b-from-lightspeed/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/16/conversational-ai-startup-yellow-messenger-raises-20m-series-b-from-lightspeed/amp/",
+      "publishedDateTime": "2020-04-16T06:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/04/Team-YM-Co-founders.png?w=1024",
+          "width": 1024,
+          "height": 768,
+          "title": "Conversational AI startup Yellow Messenger raises $20M Series B from Lightspeed",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-16-kebotix-raises-115-million-to-automate-lab-experiments-with-ai-and-robotics.md",
+      "title": "Kebotix raises $11.5 million to automate lab experiments with AI and robotics",
+      "excerpt": "Kebotix, a startup developing AI tools to expedite the discovery of chemicals ... Perhaps unsurprisingly, in a recent survey of 100 pharmaceutical executives, Pharma IQ found that 94% believe intelligent automation technologies like robots and AI will make an impact on lab practices within two years. “In a short period, Kebotix has managed ...",
+      "heat": 116,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/16/kebotix-raises-11-5-million-to-automate-lab-experiments-with-ai-and-robotics/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/16/kebotix-raises-11-5-million-to-automate-lab-experiments-with-ai-and-robotics/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/16/kebotix-raises-11-5-million-to-automate-lab-experiments-with-ai-and-robotics/amp/",
+      "publishedDateTime": "2020-04-16T06:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/7e0fd2ea-d4bb-4524-8980-e9a4a4bc93d3-e1586978829363.png?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Kebotix raises $11.5 million to automate lab experiments with AI and robotics",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-16-facebook-clones-itself-to-test-security-measures-by-letting-bots-roam-free.md",
+      "title": "Facebook clones itself to test security measures by letting bots roam free",
+      "excerpt": "[Read: How Facebook’s new AI system has deactivated billions of fake accounts] Facebook revealed the “web-enabled simulation” (WES) in a research paper published on Wednesday. The authors describe a virtual social network populated by bots, which “simulate real-user interactions and social behavior on the real platform infrastructure ...",
+      "heat": 92,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/04/16/facebook-clones-itself-to-test-security-measures-by-letting-bots-roam-free/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/04/16/facebook-clones-itself-to-test-security-measures-by-letting-bots-roam-free/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/04/16/facebook-clones-itself-to-test-security-measures-by-letting-bots-roam-free/amp/",
+      "publishedDateTime": "2020-04-16T06:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/04/Untitled-design-2-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "Facebook clones itself to test security measures by letting bots roam free",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-16-intel-and-udacity-announce-edge-ai-nanodegree-program-for-developers.md",
+      "title": "Intel and Udacity announce edge AI nanodegree program for developers",
+      "excerpt": "Graduates of the program will be able to accelerate computer vision and deep learning solutions within the Intel OpenVINO toolkit. Intel and Udacity announced that their Intel Edge AI for IoT Developer Nanodegree program is open for enrollment. The collaboration, announced on Thursday, aims to train developers in deep learning and computer ...",
+      "heat": 107,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/article/intel-and-udacity-announce-edge-ai-nanodegree-program-for-developers/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/intel-and-udacity-announce-edge-ai-nanodegree-program-for-developers/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/intel-and-udacity-announce-edge-ai-nanodegree-program-for-developers/",
+      "publishedDateTime": "2020-04-16T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr3.cbsistatic.com/hub/i/r/2018/11/16/0385ba0d-bb3e-4032-bc04-923383e3a7a8/thumbnail/1200x675/7bf52ee09733fde53fdfa55bd994c88b/20181116steve2teena.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Intel and Udacity announce edge AI nanodegree program for developers",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-16-roboads-develops-new-robots-to-aid-healthcare-security-staff.md",
+      "title": "RoboAds develops new robots to aid healthcare, security staff",
+      "excerpt": "UAE based Robotics startup, RoboAds Inc, has developed a new generation of telepresence robots to ... The robot utilises the latest advancements in AI, machine learning, digital signage and video analytics. It can analyse the number of visitors, age, gender and emotions. RoboAds team, the company said, is dedicated towards developing advanced ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zawya.com/mena/en/business/story/RoboAds_develops_new_robots_to_aid_healthcare_security_staff-SNG_172484541/",
+      "ampWebUrl": "https://www.zawya.com/mena/en/story/amp/SNG_172484541/",
+      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/SNG_172484541/",
+      "publishedDateTime": "2020-04-16T05:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.zawya.com/resources/img/zawya-logo-en-social.png",
+          "width": 1200,
+          "height": 878,
+          "title": "RoboAds develops new robots to aid healthcare, security staff",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-16-automotive-artificial-intelligence-market-gain-impetus-due-to-the-growing-demand-over-2027.md",
+      "title": "Automotive Artificial Intelligence Market Gain Impetus due to the Growing Demand over 2027",
+      "excerpt": "New York, April 16, 2020: The global Automotive Artificial Intelligence market is segregated on the basis of Component",
+      "heat": 92,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-gain-impetus-due-to-the-growing-demand-over-2027-2020-04-16",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-16T05:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Automotive Artificial Intelligence Market Gain Impetus due to the Growing Demand over 2027",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-16-leveraging-ai-to-improve-workflow-12-tips-for-agencies.md",
+      "title": "Leveraging AI To Improve Workflow: 12 Tips For Agencies",
+      "excerpt": "For an agency, artificial intelligence can remove a lot of the drudgery involved in the industry. However, implementing AI can be a challenge, especially when there are no set methods of doing so.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2020/04/16/leveraging-ai-to-improve-workflow-12-tips-for-agencies/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2020/04/16/leveraging-ai-to-improve-workflow-12-tips-for-agencies/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2020/04/16/leveraging-ai-to-improve-workflow-12-tips-for-agencies/amp/",
+      "publishedDateTime": "2020-04-16T04:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbesagencycouncil%2Ffiles%2F2020%2F04%2FLeveraging_AI_To_Improve_Workflow-_12_Tips_For_Agencies-1200x1015.png",
+          "width": 1200,
+          "height": 1015,
+          "title": "Leveraging AI To Improve Workflow: 12 Tips For Agencies",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-16-how-machine-learning-can-keep-sas-retail-shelves-stocked-during-covid-19.md",
       "title": "How machine learning can keep SA’s retail shelves stocked during COVID-19",
       "excerpt": "“Implementing technology with machine learning capabilities will provide retailers with the ability to run insightful analytics and augment this data with trends from other markets already dealing with this crisis. This gives them the ability to predict behaviours and stabilise supply chains,” he says. He adds this information can inform ...",
@@ -899,402 +1275,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-15-covid-19-crisis-illustrates-need-for-solid-aiml-strategy.md",
-      "title": "Covid-19 Crisis Illustrates Need for Solid AI/ML Strategy",
-      "excerpt": "AAs recently as 6 months ago, AI spending was projected to exceed $50B worldwide by 2021. A few months later the Coronavirus crisis struck across the world and may have created a whole new reason for organizing and employing AI/ML.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbesinsights/2020/04/15/covid-19-crisis-illustrates-need-for-solid-aiml-strategy/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesinsights/2020/04/15/covid-19-crisis-illustrates-need-for-solid-aiml-strategy/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesinsights/2020/04/15/covid-19-crisis-illustrates-need-for-solid-aiml-strategy/amp/",
-      "publishedDateTime": "2020-04-15T10:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbesinsights%2Ffiles%2F2020%2F04%2FAdobeStock_210908431-640.jpg",
-          "width": 640,
-          "height": 316,
-          "title": "Covid-19 Crisis Illustrates Need for Solid AI/ML Strategy",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-15-apple-facial-recognition-to-secure-more-products.md",
-      "title": "Apple facial recognition to secure more products",
-      "excerpt": "Biometrics could get another big mainstream boost as Apple facial recognition is being considered for future versions of iMac and MacBook computers. That describes at least some of the thought bouncing around in recent weeks after news broke that Apple has filed a U.S. patent application related to deploying facial recognition to a broader part ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.secureidnews.com/news-item/apple-facial-recognition-to-secure-more-products/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-15T10:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "secureidnews.com",
-        "domain": "secureidnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.secureidnews.com/wp-content/uploads/2020/04/apple-facial-recognition.png",
-          "width": 610,
-          "height": 292,
-          "title": "Apple facial recognition to secure more products",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-15-the-robot-that-can-train-your-dog-better-than-you-can.md",
-      "title": "The robot that can train your dog better than you can",
-      "excerpt": "The coronavirus pandemic has changed many routines, including those of pet guardians and their dogs and cats. Right now, that change is probably positive: Humans and animals are spending more time together as families shelter in place.",
-      "heat": 104,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnet.com/news/the-smart-robot-that-can-train-your-dog-better-than-you-can/",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/the-smart-robot-that-can-train-your-dog-better-than-you-can/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/the-smart-robot-that-can-train-your-dog-better-than-you-can/",
-      "publishedDateTime": "2020-04-15T10:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cnet2.cbsistatic.com/img/nRzGs39XDCKbcF5JE2yjhBDEasA=/2020/04/14/c094f7e6-674d-42e0-85a9-a670420da402/introducing-companionpro-mp4-00-00-29-26-still001.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": "The robot that can train your dog better than you can",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-15-using-ai-yes-health-cuts-costs-improves-adherence-for-weight-loss-and-diabetes-treatment.md",
-      "title": "Using AI, Yes Health cuts costs, improves adherence for weight loss and diabetes treatment",
-      "excerpt": "“Yes Health is proven to tackle difficult and costly chronic conditions through an AI-augmented and all-mobile solution, aligning it with our firm’s thesis in healthcare.”",
-      "heat": 77,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/04/15/using-ai-yes-health-cuts-costs-improves-adherence-for-weight-loss-and-diabetes-treatment/",
-      "ampWebUrl": "https://techcrunch.com/2020/04/15/using-ai-yes-health-cuts-costs-improves-adherence-for-weight-loss-and-diabetes-treatment/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/15/using-ai-yes-health-cuts-costs-improves-adherence-for-weight-loss-and-diabetes-treatment/amp/",
-      "publishedDateTime": "2020-04-15T10:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/04/GettyImages-1077583696.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": "Using AI, Yes Health cuts costs, improves adherence for weight loss and diabetes treatment",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-15-walking-robot-uses-neural-net-to-change-gaits.md",
-      "title": "Walking robot uses neural net to change gaits",
-      "excerpt": "Insects rapidly transition between different walking gaits, in response to external stimuli. Scientists have now created a small robot that can do the same thing, utilizing an integrated artificial neural network – the technology might ultimately find use in better-performing prostheses. Known as the NeuroPod, the 3D-printed six-legged robot ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://newatlas.com/robotics/neuropod-robot-neural-network-gait/",
-      "ampWebUrl": "https://newatlas.com/robotics/neuropod-robot-neural-network-gait/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/robotics/neuropod-robot-neural-network-gait/?amp=true",
-      "publishedDateTime": "2020-04-15T09:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/2f930f2/2147483647/strip/true/crop/1200x800+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F19%2F4d%2F886754664b47b83cf6b1800fc049%2Fneuropod-1586897755-1.jpeg",
-          "width": 1200,
-          "height": 800,
-          "title": "Walking robot uses neural net to change gaits",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-15-vulcan-capital-invests-in-mobile-sports-game-maker-nifty-games-and-computer-vision-startup-aireverie.md",
-      "title": "Vulcan Capital invests in mobile sports game maker Nifty Games and computer vision startup AI.Reverie",
-      "excerpt": "Nifty Games, a San Francisco-based startup that develops mobile sports games, announced a $12 million investment round. Founded in 2018 by gaming veterans, the company is developing “clash-style” mobile games for sports fans, similar to Clash Royale. It has licensing partnerships with the NFL and NBA, a key differentiator. “Sports games ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.geekwire.com/2020/vulcan-capital-invests-mobile-sports-game-maker-nifty-games/",
-      "ampWebUrl": "https://www.geekwire.com/2020/vulcan-capital-invests-mobile-sports-game-maker-nifty-games/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/vulcan-capital-invests-mobile-sports-game-maker-nifty-games/amp/",
-      "publishedDateTime": "2020-04-15T09:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/04/aireverie_cities-630x354.png",
-          "width": 630,
-          "height": 354,
-          "title": "Vulcan Capital invests in mobile sports game maker Nifty Games and computer vision startup AI.Reverie",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-04-15-uber-claims-its-ai-enables-driverless-cars-to-predict-traffic-movement-with-high-accuracy.md",
-      "title": "Uber claims its AI enables driverless cars to predict traffic movement with high accuracy",
-      "excerpt": "It’s well-understood that without the ability to predict the decisions other drivers on the road might make, vehicles can’t be fully autonomous. In a tragic case in point, an Uber self-driving prototype hit and killed a pedestrian in Tempe, Arizona two years ago, partly because the vehicle failed to detect and avoid the victim. ATG’s ...",
-      "heat": 95,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/15/uber-claims-its-ai-enables-driverless-cars-to-predict-traffic-movement-with-high-accuracy/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/15/uber-claims-its-ai-enables-driverless-cars-to-predict-traffic-movement-with-high-accuracy/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/15/uber-claims-its-ai-enables-driverless-cars-to-predict-traffic-movement-with-high-accuracy/amp/",
-      "publishedDateTime": "2020-04-15T08:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/06/b75020d1-894d-4cae-89e8-ac3ec2c3c419-e1572304180828.png?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Uber claims its AI enables driverless cars to predict traffic movement with high accuracy",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-15-teslas-latest-self-driving-visualization-comes-to-life-in-this-impressive-picture.md",
-      "title": "Tesla’s latest self-driving visualization comes to life in this impressive picture",
-      "excerpt": "Tesla has made some impressive progress in self-driving visualization with its latest software updates. Check out this new beautiful picture that represents that progress extremely well. In an update called “Full Self-Driving Sneak Preview” late last year, Tesla made a series of “Driving Visualization Improvements”: The driving ...",
-      "heat": 83,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://electrek.co/2020/04/15/tesla-self-driving-visualization-impressive-picture/",
-      "ampWebUrl": "https://electrek.co/2020/04/15/tesla-self-driving-visualization-impressive-picture/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/04/15/tesla-self-driving-visualization-impressive-picture/amp/",
-      "publishedDateTime": "2020-04-15T08:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://electrek.co/wp-content/uploads/sites/3/2020/04/Tesla-self-driving-visualization-hero.jpg?quality=82&strip=all&w=1000",
-          "width": 1000,
-          "height": 480,
-          "title": "Tesla’s latest self-driving visualization comes to life in this impressive picture",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-15-how-the-white-house-guidance-for-regulation-of-artificial-intelligence-invites-overregulation.md",
-      "title": "How The White House “Guidance For Regulation Of Artificial Intelligence” Invites Overregulation",
-      "excerpt": "New AI guidance from the White House meant to boost the sector will be interpreted by future administrations and policymakers in ways that advance regulatory agendas rather than free enterprise stances.",
-      "heat": 77,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/waynecrews/2020/04/15/how-the-white-house-guidance-for-regulation-of-artificial-intelligence-invites-overregulation/",
-      "ampWebUrl": "https://www.forbes.com/sites/waynecrews/2020/04/15/how-the-white-house-guidance-for-regulation-of-artificial-intelligence-invites-overregulation/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/waynecrews/2020/04/15/how-the-white-house-guidance-for-regulation-of-artificial-intelligence-invites-overregulation/amp/",
-      "publishedDateTime": "2020-04-15T08:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e97210f1048ea0006cbdbc2%2F0x0.jpg",
-          "width": 1200,
-          "height": 750,
-          "title": "How The White House “Guidance For Regulation Of Artificial Intelligence” Invites Overregulation",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

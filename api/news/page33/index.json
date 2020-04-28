@@ -2,6 +2,388 @@
   "page": 33,
   "value": [
     {
+      "path": "_news/2020-03-31-gumstix-ai-series-for-nvidia-jetson-nano-features-tensorflow-pre-integration-for-machine-learning-and-neural-networking-development.md",
+      "title": "Gumstix AI Series for NVIDIA Jetson Nano Features TensorFlow Pre-Integration for Machine Learning and Neural Networking Development",
+      "excerpt": "PRWeb/ -- Gumstix®, Inc., a leader in computing hardware for intelligent embedded applications, announced the release of four Edge AI devices designed to meet the demands of machine-learning applications moving massive data from the networks edge.",
+      "heat": 115,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/gumstix-ai-series-for-nvidia-jetson-nano-features-tensorflow-pre-integration-for-machine-learning-and-neural-networking-development-1029049304",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/gumstix-ai-series-for-nvidia-jetson-nano-features-tensorflow-pre-integration-for-machine-learning-and-neural-networking-development-1029049304",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/gumstix-ai-series-for-nvidia-jetson-nano-features-tensorflow-pre-integration-for-machine-learning-and-neural-networking-development-1029049304",
+      "publishedDateTime": "2020-03-31T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "TensorFlow",
+        "Google AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-03-31-natural-language-processing-404.md",
+      "title": "Natural Language Processing 404",
+      "excerpt": "With the release of the COVID-19 datasets which is predominantly an NLP datasets (because it is mainly textual ), one must have mastery of Natural Language Processing to mine insight from the ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/@boadziedaniel/natural-language-processing-404-8cbe88474cc1",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-31T06:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/640/1*UVA9cy_3ZsqBi2cTa4BGOw.png",
+          "width": 640,
+          "height": 426,
+          "title": "Natural Language Processing 404",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-31-natural-language-processing-nlp-market-expected-to-secure-notable-revenue-share-during-2020-2027.md",
+      "title": "Natural Language Processing (NLP) Market Expected to Secure Notable Revenue Share During 2020-2027",
+      "excerpt": "Global Natural Language Processing (NLP) Market 2020 size, share, growth, trends, consumption, production, market sales analysis by manufacturers, regions, Type and Application and forecast to 2027. The published report global Natural Language Processing (NLP) market provides a holistic overview of the current market covering the current trends.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-expected-to-secure-notable-revenue-share-during-2020-2027-2020-03-31",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-31T06:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Natural Language Processing (NLP) Market Expected to Secure Notable Revenue Share During 2020-2027",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-31-ai-lifecycle-management-startup-cnvrgio-launches-free-community-tier.md",
+      "title": "AI lifecycle management startup Cnvrg.io launches free community tier",
+      "excerpt": "Cnvrg.io, a data science startup headquartered in Jerusalem and New York, today released a community version of its machine learning automation platform designed to help enterprises manage and scale AI. CEO Yochay Ettun says the release was motivated in part by the influx of social distancing and remote work stemming from the COVID-19 pandemic ...",
+      "heat": 91,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/03/31/ai-lifecycle-management-startup-cnvrg-io-launches-free-community-tier/",
+      "ampWebUrl": "https://venturebeat.com/2020/03/31/ai-lifecycle-management-startup-cnvrg-io-launches-free-community-tier/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/31/ai-lifecycle-management-startup-cnvrg-io-launches-free-community-tier/amp/",
+      "publishedDateTime": "2020-03-31T06:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/03/big-data-shutterstock_228162115-e1573230263860.jpg?fit=1000%2C600&strip=all",
+          "width": 1000,
+          "height": 600,
+          "title": "AI lifecycle management startup Cnvrg.io launches free community tier",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-31-niantic-acquires-spatial-mapping-startup-6dai.md",
+      "title": "Niantic Acquires Spatial Mapping Startup 6D.ai",
+      "excerpt": "A machine readable 1:1 digital copy of the world, anchored exactly to it, might be the most valuable asset in computing.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/charliefink/2020/03/31/niantic-acquires-spatial-mapping-startup-6dai/",
+      "ampWebUrl": "https://www.forbes.com/sites/charliefink/2020/03/31/niantic-acquires-spatial-mapping-startup-6dai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charliefink/2020/03/31/niantic-acquires-spatial-mapping-startup-6dai/amp/",
+      "publishedDateTime": "2020-03-31T06:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e814e8a08eb0800065223a5%2F0x0.jpg%3FcropX1%3D1%26cropX2%3D1566%26cropY1%3D0%26cropY2%3D880",
+          "width": 1199,
+          "height": 674,
+          "title": "Niantic Acquires Spatial Mapping Startup 6D.ai",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-31-ai-stats-news-34-of-employees-expect-their-jobs-to-be-automated-in-3-years.md",
+      "title": "AI Stats News: 34% Of Employees Expect Their Jobs To Be Automated In 3 Years",
+      "excerpt": "Recent quantitative assessments of the impact of AI highlight the precarious nature of the future of work (long after the coronavirus pandemic ends), the continuing mixed attitudes of consumers about data privacy,",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/gilpress/2020/03/31/ai-stats-news-34-of-employees-expect-their-jobs-to-be-automated-in-3-years/",
+      "ampWebUrl": "https://www.forbes.com/sites/gilpress/2020/03/31/ai-stats-news-34-of-employees-expect-their-jobs-to-be-automated-in-3-years/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2020/03/31/ai-stats-news-34-of-employees-expect-their-jobs-to-be-automated-in-3-years/amp/",
+      "publishedDateTime": "2020-03-31T06:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e82b806cff6b00007a45dfa%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "AI Stats News: 34% Of Employees Expect Their Jobs To Be Automated In 3 Years",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-31-perceive-emerges-from-stealth-with-ergo-edge-ai-chip.md",
+      "title": "Perceive emerges from stealth with Ergo edge AI chip",
+      "excerpt": "On-device computing solutions startup Perceive emerged from stealth today with its first product: the Ergo edge processor for AI inference. CEO Steve Teig claims the chip, which is designed for consumer devices like security cameras, connected appliances, and mobile phones, delivers “breakthrough” accuracy and performance in its class.",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/03/31/perceive-emerges-from-stealth-with-ergo-edge-ai-chip/",
+      "ampWebUrl": "https://venturebeat.com/2020/03/31/perceive-emerges-from-stealth-with-ergo-edge-ai-chip/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/31/perceive-emerges-from-stealth-with-ergo-edge-ai-chip/amp/",
+      "publishedDateTime": "2020-03-31T06:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/11/big-data.GettyImages-1133714603-e1584722383408.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Perceive emerges from stealth with Ergo edge AI chip",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-31-pokemon-go-maker-niantic-acquires-3d-world-scanning-software-company-6dai.md",
+      "title": "Pokemon Go maker Niantic acquires 3D world-scanning software company 6D.ai",
+      "excerpt": "Niantic, makers of Pokemon Go and collaborators with Qualcomm on a future AR headset design, have just acquired a company that enables collaborative AR world maps to be shared. 6D.ai is a company that specializes in building out 3D world meshes that multiple share and keep building on.",
+      "heat": 85,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnet.com/news/pokemon-go-maker-niantic-acquires-3d-world-scanning-software-company-6d-ai/",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/pokemon-go-maker-niantic-acquires-3d-world-scanning-software-company-6d-ai/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/pokemon-go-maker-niantic-acquires-3d-world-scanning-software-company-6d-ai/",
+      "publishedDateTime": "2020-03-31T06:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cnet2.cbsistatic.com/img/wOD2pqt5YiE48j8erpa0ii9An9w=/756x567/2019/07/25/48f277d2-b011-4181-9cec-22c857bd0a68/screenshot-2019-07-25-at-12-12-02.png",
+          "width": 756,
+          "height": 567,
+          "title": "Pokemon Go maker Niantic acquires 3D world-scanning software company 6D.ai",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-31-europe-far-field-speech-recognition-market-is-slated-to-grow-rapidly-in-the-coming-years.md",
+      "title": "Europe Far-field Speech Recognition Market is slated to grow rapidly in the coming years",
+      "excerpt": "This research study on the Far-field Speech Recognition market enumerates details about this industry in terms of a detailed evaluation and also an in-depth assessment of this business. The Far-field Speech Recognition market has been suitably divided into important segments, as per the report. A detailed overview of the industry with respect ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cmo.com.au/mediareleases/48898/europe-far-field-speech-recognition-market-is/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-31T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "cmo.com.au",
+        "domain": "cmo.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-31-microsoft-chrome-edge-word-and-outlook-get-this-free-editor-ai-grammar-assistant.md",
       "title": "Microsoft: Chrome, Edge, Word and Outlook get this free Editor AI grammar assistant",
       "excerpt": "Microsoft has announced its answer to Grammarly and Google's recent AI updates for G Suite with the new Microsoft Editor browser extension coming to Chrome and Edge in the next few weeks. Microsoft Editor is an AI-powered tool that helps users with spelling and grammar in Word, Outlook, and any website via the browser extension. The tool is ...",
@@ -666,390 +1048,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-31-how-artificial-intelligence-will-reshape-the-contact-centre-in-2020.md",
-      "title": "How artificial intelligence will reshape the contact centre in 2020",
-      "excerpt": "GUEST OPINION by Brendan Maree, VP Asia Pacific 8x8: Artificial intelligence (AI) and machine learning (ML ... An AI-powered future When considering AI, it’s easy to focus on its use in things such as self-driving cars and drones. However its increasing deployment within contact centres is equally important. Together, AI and ML tools will ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.itwire.com/market/how-artificial-intelligence-will-reshape-the-contact-centre-in-2020.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-30T21:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ITWire",
-        "domain": "itwire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.itwire.com/media/k2/items/cache/206b256a9fe53afb209f382f04fff56a_M.jpg",
-          "width": 375,
-          "height": 450,
-          "title": "How artificial intelligence will reshape the contact centre in 2020",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-31-artificial-intelligence-cant-create-markets-on-its-own.md",
-      "title": "Artificial Intelligence Can’t Create Markets On Its Own",
-      "excerpt": "There’s plenty of consternation about artificial intelligence replacing many jobs and roles across the economic spectrum, — from salespeople to truck drivers to doctors. It’s worth mentioning, however,",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/joemckendrick/2020/03/30/artificial-intelligence-cant-create-markets-on-its-own/",
-      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2020/03/30/artificial-intelligence-cant-create-markets-on-its-own/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2020/03/30/artificial-intelligence-cant-create-markets-on-its-own/amp/",
-      "publishedDateTime": "2020-03-30T20:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1143064046%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "Artificial Intelligence Can’t Create Markets On Its Own",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-31-samsung-says-chip-factory-worker-tests-positive-for-virus-output-not-affected.md",
-      "title": "Samsung says chip factory worker tests positive for virus, output not affected",
-      "excerpt": "Chip factories have been largely unaffected by the pandemic which started in China ... The Korea Centers for Disease Control and Prevention reported 78 new cases on Monday, at least 13 of whom were people who arrived from abroad. Purchase the China AI Report 2020 brought to you by SCMP Research and enjoy a 20% discount (original price US$ ...",
-      "heat": 85,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.scmp.com/tech/gear/article/3077672/samsung-says-chip-factory-worker-tests-positive-virus-output-not-affected",
-      "ampWebUrl": "https://amp.scmp.com/tech/gear/article/3077672/samsung-says-chip-factory-worker-tests-positive-virus-output-not-affected",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/gear/article/3077672/samsung-says-chip-factory-worker-tests-positive-virus-output-not-affected",
-      "publishedDateTime": "2020-03-30T19:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/03/31/6e4808c2-72f7-11ea-ab8f-988daf8efd6f_image_hires_103108.JPG?itok=6oDRT2cN&v=1585621874",
-          "width": 1200,
-          "height": 630,
-          "title": "Samsung says chip factory worker tests positive for virus, output not affected",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-31-ai-in-fashion-market-next-big-thing-major-giants-microsoft-ibm-google-aws-sap.md",
-      "title": "AI in Fashion Market Next Big Thing | Major Giants- Microsoft, IBM, Google, AWS, SAP",
-      "excerpt": "Global AI in Fashion Market Size, Status and Forecast 2020-2026 is latest research study released by HTF MI evaluating the market, highlighting opportunities, risk side analysis, and leveraged with strategic and tactical decision-making support.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/ai-in-fashion-market-next-big-thing-major-giants--microsoft-ibm-google-aws-sap-2020-03-30",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-30T19:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "AI in Fashion Market Next Big Thing | Major Giants- Microsoft, IBM, Google, AWS, SAP",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-31-huawei-has-open-sourced-an-ai-framework-called-mindspore-to-rival-googles-tensorflow.md",
-      "title": "Huawei has open sourced an AI framework called MindSpore to rival Google’s TensorFlow",
-      "excerpt": "China’s Huawei Technologies Co. Ltd. has open sourced a framework for artificial intelligence-based application development called MindSpore, which was first revealed last year. Huawei developed MindSpore alongside partners including Imperial College London, Peking University and the University of Edinburgh, as well as a Turkish robotics ...",
-      "heat": 70,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://siliconangle.com/2020/03/30/huawei-open-sourced-ai-framework-called-mindspore-rival-googles-tensorflow/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-30T18:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/03/33049627858_9852cfe418_h.jpg",
-          "width": 1390,
-          "height": 926,
-          "title": "Huawei has open sourced an AI framework called MindSpore to rival Google’s TensorFlow",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "TensorFlow",
-        "Google AI",
-        "AI",
-        "AI in Robotics",
-        "Natural Language Processing",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-03-31-accelerating-deep-learning-insights-with-new-gpu-based-solutions.md",
-      "title": "Accelerating Deep Learning Insights with New GPU-Based Solutions",
-      "excerpt": "Deep learning, an advanced AI technique, is growing in popularity as organizations strive to operate faster and smarter than ever. Deep learning applications utilize neural networks to analyze a variety of data types, including machine signals, audio ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nextplatform.com/microsite-landing/hpe-solutions/accelerating-deep-learning-insights-new-gpu-based-solutions-2/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-30T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Platform",
-        "domain": "nextplatform.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2018/06/TNP_default-1024x1024.jpg",
-          "width": 1024,
-          "height": 1024,
-          "title": "Accelerating Deep Learning Insights with New GPU-Based Solutions",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-31-agent57-outperforming-the-human-atari-benchmark.md",
-      "title": "Agent57: Outperforming the human Atari benchmark",
-      "excerpt": "Agent57: Outperforming the Human Atari Benchmark",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://deepmind.com/blog/article/Agent57-Outperforming-the-human-Atari-benchmark",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-30T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "DeepMind",
-        "domain": "deepmind.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/deepmind.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://lh3.googleusercontent.com/nSh9GUWMWjWy1gGLXd8YWf-kqyK1VVI4-mvVihDnUkTPZYF619kUyrXfG0hH9JEZN4y0F9D5zThcQc6t_SE8SDoyaR_6N3M5GwigYLw",
-          "width": 512,
-          "height": 225,
-          "title": "Agent57: Outperforming the human Atari benchmark",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-31-aws-machine-learning-ai.md",
-      "title": "AWS Machine Learning / AI",
-      "excerpt": "In this section you will finish up with one last AI tool, Rekognition, and you'll also learn about the deeper side of machine learning with the powerful Sagemaker and Deep Learning Instances on AWS. A fully managed machine learning service is a great place ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.pluralsight.com/paths/aws-machine-learning-ai",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-30T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Pluralsight",
-        "domain": "pluralsight.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://pluralsight2.imgix.net/paths/images/aws-certified-devops-engineer-25d912e3da.png",
-          "width": 512,
-          "height": 512,
-          "title": "AWS Machine Learning / AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-30-take-your-ai-project-from-concept-to-concrete-roi.md",
-      "title": "Take your AI project from concept to concrete ROI",
-      "excerpt": "Why do so many AI projects fail before they deliver actual ROI? Learn how to go from abstract business problem to concrete AI solution. Get business analysts and data scientists working together from start to finish. Get started with this free eBook to develop AI projects with real business impact. Download now! You’ll learn:",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/03/30/take-your-ai-project-from-concept-to-concrete-roi/",
-      "ampWebUrl": "https://venturebeat.com/2020/03/30/take-your-ai-project-from-concept-to-concrete-roi/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/30/take-your-ai-project-from-concept-to-concrete-roi/amp/",
-      "publishedDateTime": "2020-03-30T14:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/03/woman-at-computer-through-glass.jpg?fit=6720%2C4480&strip=all",
-          "width": 6720,
-          "height": 4480,
-          "title": "Take your AI project from concept to concrete ROI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

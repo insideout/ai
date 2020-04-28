@@ -2,6 +2,43 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-04-01-google-deepminds-agent57-ai-bests-humans-at-beating-atari-games.md",
+      "title": "Google DeepMind’s Agent57 AI Bests Humans at Beating Atari Games",
+      "excerpt": "DeepMind’s Agent57 AI because the first tool to beat humans at all Atari games in the Arcade Learning Environment (ALE) data set. Google parent company Alphabet this week revealed its Agent57 artificial intelligence (AI) has become the first machine learning tool to beat humans across all Atari games in the Arcade Learning Environment data set.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://winbuzzer.com/2020/04/01/google-deepminds-agent57-ai-bests-humans-at-beating-atari-games-xcxwbn/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-01T09:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "winbuzzer.com",
+        "domain": "winbuzzer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://winbuzzer.com/wp-content/uploads/2020/04/Agent57-ALE-DeepMind.jpg",
+          "width": 1440,
+          "height": 634,
+          "title": "Google DeepMind’s Agent57 AI Bests Humans at Beating Atari Games",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-01-acm-prize-in-computing-awarded-to-alphago-developer.md",
       "title": "ACM Prize in Computing awarded to AlphaGo developer",
       "excerpt": "Silver is a Professor at University College London and a Principal Research Scientist at DeepMind, a Google-owned artificial intelligence company based in the United Kingdom. Silver is recognized ...",
@@ -1111,43 +1148,6 @@
         "authors": null
       },
       "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-11-researchers-criticize-opacity-of-googles-mammogram-reading-ai-study.md",
-      "title": "Researchers criticize opacity of Google's mammogram-reading AI study",
-      "excerpt": "Though a study published Jan. 1 describing the success of Google's DeepMind artificial intelligence at diagnosing breast cancer was largely met with praise and excitement, in a Feb. 28 response, a group of AI researchers criticized the study's lack of transparency. In the initial study, Google researchers found the DeepMind AI produced fewer ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.beckershospitalreview.com/artificial-intelligence/researchers-criticize-opacity-of-google-s-mammogram-reading-ai-study.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-11T11:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Becker's Hospital Review",
-        "domain": "beckershospitalreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/5.jpg",
-          "width": 400,
-          "height": 300,
-          "title": "Researchers criticize opacity of Google's mammogram-reading AI study",
-          "attribution": null
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"

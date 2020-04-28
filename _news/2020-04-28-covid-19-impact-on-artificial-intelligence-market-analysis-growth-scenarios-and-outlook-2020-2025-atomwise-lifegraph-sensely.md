@@ -5,8 +5,8 @@ excerpt: "Chicago, United States: - The report comes out as an intelligent and t
 publishedDateTime: 2020-04-28T12:11:00Z
 webUrl: "https://www.marketwatch.com/press-release/covid-19-impact-on-artificial-intelligence-market-analysis-growth-scenarios-and-outlook-2020-2025-atomwise-lifegraph-sensely-2020-04-28"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 
 topics:
   - AI
+  - IBM AI
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

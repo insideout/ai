@@ -28,6 +28,21 @@ images:
     height: 630
     title: "Machine Learning Market Size Report: Analysing Top Manufacturers, Production Cost and Growth Statistics Forecast 2026"
 
+related:
+  - title: "Voice Biometric Solutions Market: Projected For Healthy Growth Rate During The Forecast Period 2026"
+    excerpt: "According to a new market report published by Transparency Market Research, the global voice biometric solution market is expected"
+    publishedDateTime: 2020-04-28T15:39:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-biometric-solutions-market-projected-for-healthy-growth-rate-during-the-forecast-period-2026-2020-04-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 40
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+
 secured: "o13bG6YExzhZrNug+eOaZSaEI4ofd91OpdXbJqGy/FiL4LMDmo/9F+JSaiBb2mHPjNFf4uCtnKpd/9C9nqk+DguTqAi+BI269IpSraixOljjI6E6m8yjr8I5xxXV23BMRlEU4UIac1DjUXgSMRVDsPo4iyd6oiZ6qvdvQjcs59CemzL9AQJhkZQ7Z2keVuYrMVajCVaM6h7WuFhlp0LKHVBFHQcTLpt3kfAb8/K9njEMwfwNEpcuyJcBnlmNoV5uzVXPxeVGIIUuZdzt2RWz7hVrYPSGPm4n+8+HgXRWPbxVvXybMG0mKKAjm5WkoOLy;LLn7ynYsqIu61oGqJoBuhw=="
 ---
 

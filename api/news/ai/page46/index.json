@@ -2,6 +2,395 @@
   "page": 46,
   "value": [
     {
+      "path": "_news/2020-03-14-beijing-self-driving-vehicle-road-tests-topped-one-million-km-in-2019.md",
+      "title": "Beijing Self-Driving Vehicle Road Tests Topped One Million Km in 2019",
+      "excerpt": "In 2019 Beijing’s cumulative self-driving testing reached 1.04 million kilometres — an equivalent to circling earth 20 times. Search-engine giant Baidu ranked first in autonomous vehicle ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/syncedreview/beijing-self-driving-vehicle-road-tests-topped-one-million-km-in-2019-80a6fd58b774",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-14T08:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/1200/1*C35YKD4zEMMsXyzlnf0A9g.jpeg",
+          "width": 1200,
+          "height": 666,
+          "title": "Beijing Self-Driving Vehicle Road Tests Topped One Million Km in 2019",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-14-aclu-is-demanding-homeland-security-cbp-ice-and-tsa-hand-over-records-on-facial-recognition-at-the-border.md",
+      "title": "ACLU is demanding Homeland Security, CBP, ICE, and TSA hand over records on facial recognition at the border",
+      "excerpt": "Privacy advocates believe that facial recognition, in particular, can enable persistent, undetectable government surveillance on a massive scale that erodes everyone's expectations of privacy. Back in December, the American Civil Liberties Union sued Homeland Security for its 'stingray' phone surveillance program that has long been in use by US ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techspot.com/news/84393-aclu-demanding-homeland-security-cbp-ice-tsa-hand.html",
+      "ampWebUrl": "https://www.techspot.com/amp/news/84393-aclu-demanding-homeland-security-cbp-ice-tsa-hand.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/84393-aclu-demanding-homeland-security-cbp-ice-tsa-hand.html",
+      "publishedDateTime": "2020-03-14T07:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/ts3_thumbs/2019/05/2019-05-25-ts3_thumbs-5f3.jpg",
+          "width": 800,
+          "height": 560,
+          "title": "ACLU is demanding Homeland Security, CBP, ICE, and TSA hand over records on facial recognition at the border",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-14-tensorflow-quantum-joins-quantum-computing-and-machine-learning.md",
+      "title": "TensorFlow Quantum Joins Quantum Computing and Machine Learning",
+      "excerpt": "TensorFlow Quantum (TFQ) brings Google quantum computing framework Cirq and TensorFlow together to enable the creation of quantum machine learning (ML) models. We’ve used TensorFlow Quantum for hybrid quantum-classical convolutional neural networks, machine learning for quantum control, layer-wise learning for quantum neural networks ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.infoq.com/news/2020/03/google-quantum-tensorflow/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-14T04:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoQ",
+        "domain": "infoq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://res.infoq.com/news/2020/03/google-quantum-tensorflow/en/headerimage/google-quantum-tensorflow-1584182115639.jpeg",
+          "width": 2121,
+          "height": 1414,
+          "title": "TensorFlow Quantum Joins Quantum Computing and Machine Learning",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-14-ai-is-coming-for-your-most-mind-numbing-office-tasks.md",
+      "title": "AI Is Coming for Your Most Mind-Numbing Office Tasks",
+      "excerpt": "Such reservations seem unlikely to dampen believers’ enthusiasm, though. Guy Kirkwood, the chief evangelist at UiPath, says the vision is for software robots to be a lot more like the AI of science fiction, eventually taking over how they are programmed from start to finish. “The direction of travel—and we’re not there yet—is that we ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wired.com/story/ai-coming-most-mind-numbing-office-tasks/",
+      "ampWebUrl": "https://www.wired.com/story/ai-coming-most-mind-numbing-office-tasks/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ai-coming-most-mind-numbing-office-tasks/amp",
+      "publishedDateTime": "2020-03-14T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.vanityfair.com/photos/576c493744d93e6e4482bb21/master/pass/placeholder_the_scene.jpg",
+          "width": 800,
+          "height": 450,
+          "title": "AI Is Coming for Your Most Mind-Numbing Office Tasks",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-14-this-stance-detecting-ai-will-help-us-fact-check-fake-news.md",
+      "title": "This stance-detecting AI will help us fact-check fake news",
+      "excerpt": "However, while those techniques have been efficient for some tasks such as machine translation, they have had limited success on ... time- and labor-intensive data-labeling work that goes into most contemporary AI work. “The beauty of bidirectional transformer language models is that they allow very large text corpuses to be used to obtain ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/03/14/this-stance-detecting-ai-will-help-us-fact-check-fake-news-syndication/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/03/14/this-stance-detecting-ai-will-help-us-fact-check-fake-news-syndication/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/03/14/this-stance-detecting-ai-will-help-us-fact-check-fake-news-syndication/amp/",
+      "publishedDateTime": "2020-03-14T02:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/03/Copy-of-...-8-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "This stance-detecting AI will help us fact-check fake news",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-14-create-no-code-predictive-models-with-azure-machine-learning.md",
+      "title": "Create no-code predictive models with Azure Machine Learning",
+      "excerpt": "Machine learning is at the core of artificial intelligence, and many modern applications and services depend on predictive machine learning models. Learn how to use Azure Machine Learning to create and publish models without writing code. Training a machine learning model is an iterative process that requires time and compute resources.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/paths/create-no-code-predictive-models-azure-machine-learning/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-13T22:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-14-face-service-encryption-of-data-at-rest.md",
+      "title": "Face service encryption of data at rest",
+      "excerpt": "For more information about Azure Key Vault, see What is Azure Key Vault?. A new Cognitive Services resource is always encrypted using Microsoft-managed keys. It's not possible to enable customer-managed keys at the time that the resource is created. Customer-managed keys are stored in Azure Key Vault, and the key vault must be provisioned with ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://docs.microsoft.com/en-us/azure/cognitive-services/face/face-encryption-of-data-at-rest",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-13T22:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png",
+          "width": 400,
+          "height": 400,
+          "title": "Face service encryption of data at rest",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-14-language-understanding-service-encryption-of-data-at-rest.md",
+      "title": "Language Understanding service encryption of data at rest",
+      "excerpt": "E0 resources are only available for Authoring service and that the E0 tier will initially only be supported in West US Region. A new Cognitive Services resource is always encrypted using Microsoft-managed keys. It's not possible to enable customer-managed keys at the time that the resource is created. Customer-managed keys are stored in Azure ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://docs.microsoft.com/en-us/azure/cognitive-services/luis/luis-encryption-of-data-at-rest",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-13T22:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png",
+          "width": 400,
+          "height": 400,
+          "title": "Language Understanding service encryption of data at rest",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-14-learn-the-basics-of-speech-recognition.md",
+      "title": "Learn the basics of speech recognition",
+      "excerpt": "In this article, you'll learn how to use the Speech SDK in your apps and products to perform high-quality speech recognition. Tip If you haven't had a chance to complete one of our quickstarts, we encourage you to kick the tires and try speech recognition out for yourself. To call the Speech service using the Speech SDK, you need to create a ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://docs.microsoft.com/en-us/azure/cognitive-services/speech-service/speech-to-text-basics",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-13T22:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png",
+          "width": 400,
+          "height": 400,
+          "title": "Learn the basics of speech recognition",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-14-artificial-intelligence-isnt-as-smart-as-it-thinks.md",
       "title": "Artificial intelligence isn’t as smart as it thinks",
       "excerpt": "artificial intelligence appears to be taking over the world. But look past the self-driving cars and facial-recognition cameras, and you'll see that the technology is a lot less intelligent than it may at first appear. It's likely to be decades, at best, before even the smartest forms of AI can outdo humans in the complex tasks that make up ...",
@@ -832,371 +1221,6 @@
           "width": 796,
           "height": 417,
           "title": "ACLU sues US government over its use of facial recognition at airports",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-13-the-top-5-fintech-trends-for-2020.md",
-      "title": "The top 5 fintech trends for 2020",
-      "excerpt": "They're also investing in cloud technologies as part of a broader digital transformation effort (11%) and automating through AI or robotics (10%), according to the survey. Only 45% of survey respondents said they're in great shape when it comes to their ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/the-top-5-fintech-trends-for-2020/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/the-top-5-fintech-trends-for-2020/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/the-top-5-fintech-trends-for-2020/",
-      "publishedDateTime": "2020-03-13T07:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr2.cbsistatic.com/hub/i/r/2019/08/28/d05e9732-c721-4047-adb6-99e8614dce5a/thumbnail/1200x675/8924a634cce0bc6fd704a70c2f05b914/20190820-synopsys-karen.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "The top 5 fintech trends for 2020",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-13-current-ai-hardware-focus-is-misguided-says-ai-pioneer.md",
-      "title": "Current AI hardware focus is misguided, says AI pioneer",
-      "excerpt": "offered a glimpse of what Facebook is working on, and made some predictions for the future of deep-learning hardware. Le Cun is a renowned visionary in the field of AI, having been at the forefront of neural-network research in the 1980s and 1990s. As a Bell Labs researcher in the late 1980s, he worked with the earliest types of dedicated ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.embedded.com/current-ai-hardware-focus-is-misguided-says-ai-pioneer/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-13T07:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Embedded",
-        "domain": "embedded.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.embedded.com/wp-content/uploads/2020/03/img20200313102416Le-Cun-It-s-Really-Hard-to_0.jpg",
-          "width": 640,
-          "height": 426,
-          "title": "Current AI hardware focus is misguided, says AI pioneer",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-13-eigen-and-ing-target-financial-industry-with-nlp-driven-data-extraction.md",
-      "title": "Eigen and ING target financial industry with NLP-driven data extraction",
-      "excerpt": "As one of the biggest banks in the world, ING is a major partner for Eigen and should go some way toward expediting the uptake of machine learning in the financial services sector. Indeed, ING is already using Eigen’s NLP in specific areas such as loan operations and LIBOR replacement, and as part of their new partnership this will be ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/03/13/eigen-and-ing-target-financial-industry-with-nlp-driven-data-extraction/",
-      "ampWebUrl": "https://venturebeat.com/2020/03/13/eigen-and-ing-target-financial-industry-with-nlp-driven-data-extraction/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/13/eigen-and-ing-target-financial-industry-with-nlp-driven-data-extraction/amp/",
-      "publishedDateTime": "2020-03-13T07:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/03/Eigen.png?fit=1284%2C632&strip=all",
-          "width": 1284,
-          "height": 632,
-          "title": "Eigen and ING target financial industry with NLP-driven data extraction",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-13-riskalyze-fintech-report-card-february-2020.md",
-      "title": "Riskalyze Fintech Report Card: February 2020",
-      "excerpt": "What Happened: Andrew Altfest, president of a $1 billion RIA firm, launched new advisor technology at the T3 advisor conference this year. The new software promises to use AI to analyze a client’s existing situation and offer tailored recommendations. Why It Matters: It was only a couple of years ago that I was on record saying “in our ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wealthmanagement.com/technology/riskalyze-fintech-report-card-february-2020",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-13T06:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WealthManagement.com",
-        "domain": "wealthmanagement.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.wealthmanagement.com/sites/wealthmanagement.com/files/fintech-report-card-promo.jpg",
-          "width": 2000,
-          "height": 1040,
-          "title": "Riskalyze Fintech Report Card: February 2020",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-13-automated-intent-classification-using-deep-learning-in-google-sheets.md",
-      "title": "Automated Intent Classification Using Deep Learning in Google Sheets",
-      "excerpt": "Let’s move to build our intent classification service that we will call to populate keyword intents. In my previous deep learning articles, I’ve covered Ludwig, Uber’s AI toolbox. I like it a lot because it allows you to build state-of-the-art deep learning models without writing a single line of code. It is also very convenient to run in ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.searchenginejournal.com/automated-intent-classification-using-deep-learning-google-sheets/353910/",
-      "ampWebUrl": "https://www.searchenginejournal.com/automated-intent-classification-using-deep-learning-google-sheets/353910/amp/",
-      "cdnAmpWebUrl": "https://www-searchenginejournal-com.cdn.ampproject.org/c/s/www.searchenginejournal.com/automated-intent-classification-using-deep-learning-google-sheets/353910/amp/",
-      "publishedDateTime": "2020-03-13T05:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Search Engine Journal",
-        "domain": "searchenginejournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.searchenginejournal.com/wp-content/uploads/2020/03/automated-intent-classification-using-deep-learning-in-google-sheets-part-3-5e69f33f94684.png",
-          "width": 1600,
-          "height": 840,
-          "title": "Automated Intent Classification Using Deep Learning in Google Sheets",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-13-artificial-intelligence-ai-chips-market-2020-2024high-adoption-of-ai-chips-in-data-centers-to-boost-growth-technavio.md",
-      "title": "Artificial Intelligence (AI) Chips Market 2020-2024|High Adoption of AI Chips in Data Centers to Boost Growth | Technavio",
-      "excerpt": "LONDON--(BUSINESS WIRE)--Technavio has been monitoring the artificial intelligence (AI) chips market and it is poised to grow by USD 36.6 bn during 2020-2024, progressing at a CAGR of about 39% during the forecast period. The report offers an up-to-date analysis regarding the current market scenario, latest trends and drivers, and the overall ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businesswire.com/news/home/20200313005224/en/Artificial-Intelligence-AI-Chips-Market-2020-2024High-Adoption",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-13T05:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20200313005224/en/779596/23/IRTNTR30203.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": "Artificial Intelligence (AI) Chips Market 2020-2024|High Adoption of AI Chips in Data Centers to Boost Growth | Technavio",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-13-blockchain-is-a-multi-task-new-technology-that-will-drive-5g-change-global-communica-tions.md",
-      "title": "Blockchain Is A Multi-Task New Technology That Will Drive 5G, Change Global Communica-tions",
-      "excerpt": "Blockchain is a multi-tasking new technology that will drive 5G and change global communications. 5G provides quick speed, new features in Internet of Things (IoT), personal and business data and will impact everything from SmartPhones to driverless vehicles.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/blockchain-is-a-multi-task-new-technology-that-will-drive-5g-change-global-communica-tions-2020-03-13",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-13T05:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Blockchain Is A Multi-Task New Technology That Will Drive 5G, Change Global Communica-tions",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-13-seymourpowell-designs-quarter-car-private-ride-sharing-concept.md",
-      "title": "Seymourpowell designs Quarter Car private ride-sharing concept",
-      "excerpt": "Focused on offering passengers more privacy in ride-sharing services, Seymourpowell's driverless Quarter Car concept has four seats that can ... Features including digital transparent glazing displays, artificial intelligence and gestural interaction functions are designed to offer better user experience. Depending on the service provider ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.dezeen.com/2020/03/13/seymourpowell-quarter-car-concept/",
-      "ampWebUrl": "https://www.dezeen.com/2020/03/13/seymourpowell-quarter-car-concept/amp/",
-      "cdnAmpWebUrl": "https://www-dezeen-com.cdn.ampproject.org/c/s/www.dezeen.com/2020/03/13/seymourpowell-quarter-car-concept/amp/",
-      "publishedDateTime": "2020-03-13T05:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dezeen",
-        "domain": "dezeen.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://static.dezeen.com/uploads/2020/03/seymourpowell-quarter-car-concept-design_dezeen_2364_sq-1.gif",
-          "width": 852,
-          "height": 852,
-          "title": "Seymourpowell designs Quarter Car private ride-sharing concept",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-13-aclu-sues-for-government-facial-recognition-records.md",
-      "title": "ACLU Sues For Government Facial Recognition Records",
-      "excerpt": "The American Civil Liberties Union and New York Civil Liberties Union are challenging federal law enforcement’s use of facial recognition surveillance tech. A lawsuit was filed Thursday against the U.S. Department of Homeland Security (DHS), Customs and Border Protection (CBP), Immigration and Customs Enforcement (ICE), and Transportation ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.geek.com/tech/aclu-sues-for-government-facial-recognition-records-1820222/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-13T04:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Geek.com",
-        "domain": "geek.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/geek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.geek.com/wp-content/uploads/2020/03/face-detection-geraltPixabay.jpg",
-          "width": 690,
-          "height": 388,
-          "title": "ACLU Sues For Government Facial Recognition Records",
           "attribution": null
         }
       ],

@@ -26,6 +26,6 @@ images:
     height: 300
     title: "IT Science Case Study: Using AI to Quickly Resolve Enterprise IT Issues"
 
-secured: "IBW/etu6rrqd5MXQ9/Hi9HAc3CloOT3Ec0jXGvj+OGjThFJD7eWUNEtZNCRSsNx6FrXextPd1+o1yMHPDRVsvgh5LyCAvd6+iQEBPKZuir1Zx4GIuNe9QVbiH76SGwEzlsub9WsNQRZSUusbv3rRb4Y2lKlaJqBJeKqnqQhc+Eh6AJC/SokWJcH4HghMRHgtbQk7jiXsojwOIt9pFurx6HxIYYGizG7oz5cyF4ZFebPmB6xWQ0de+SYnW63gZXw4Tartz1O8xQs4mGLLOq+Y28VPua9Kf7XjGUs8Mwe9tlcaXNkV5fGaA5n6JR7OfkpF;BqSdqlpxmqLTQZX+rF6VxQ=="
+secured: "e26s+MDy0Z2t4edRs8HWz+37B0QId/3KL0cVyuBknI1pmZHlTgBsEr5Ret9euB71ZOIr/qWCO7wDj+UhiIqIZiNjTPvTpH9sGoZA41ZouC18eqDhBztsWv2wjI5J0YDOJvLUXjS0lAv9P6n9fey1bGrVM0t/0c9kPoIorrKLKf/ZrAD5+Z8bxHabfYeRz+msaCI7ugWMtIK7OSZyg0qcP60Dc8HUB7znuSweNrq0rFURH+ki56IeYDgeq8R6dYMPGUwtI2/AP5HL2pk4+u6JJDnK5JqTOqhnBL+LpQP/O/pAVhmtVhYyydCoINNdZWE+yfopHL+Y2J/wAy7tJkzSmPCAuqkLPkdbK3HL/hUYSPoWOwIGUhEj5UwZQTIFknztFOQlHxFVcZq5aCwphQwOmJg8yQg7yqc0sgIG/9yeEL8Sjl1PY1tXcQAWpqiiusi1k3604a36hKo2+OMdecIqC6IHSLqVOOgEMVYHIOMhxEQ=;nyg8L13WGjJhutDJYsWOAw=="
 ---
 

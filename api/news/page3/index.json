@@ -2,23 +2,23 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2020-04-26-uk-spies-will-need-artificial-intelligence-rusi-report.md",
-      "title": "UK spies will need artificial intelligence - Rusi report",
-      "excerpt": "UK spies will need to use artificial intelligence (AI) to counter a range of threats, an intelligence report says. Adversaries are likely to use the technology for attacks in cyberspace and on the political system,",
-      "heat": 89,
+      "path": "_news/2020-04-27-5g-wireless-networks-leading-fourth-industrial-revolution.md",
+      "title": "5G wireless networks leading fourth industrial revolution",
+      "excerpt": "Although higher data speeds will enable new use cases, including replacing existing wired broadband services, my premise is that data throughput speed is not where the true value of 5G lies. Two critical benefits introduced by 5G: Through improvements in data transmission technologies,",
+      "heat": 74,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.bbc.com/news/technology-52415775",
-      "ampWebUrl": "https://www.bbc.co.uk/news/amp/technology-52415775",
-      "cdnAmpWebUrl": "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/technology-52415775",
-      "publishedDateTime": "2020-04-26T16:09:00-07:00",
+      "webUrl": "https://www.techradar.com/nz/news/5g-wireless-networks-leading-fourth-industrial-revolution",
+      "ampWebUrl": "https://www.techradar.com/nz/amp/news/5g-wireless-networks-leading-fourth-industrial-revolution",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/5g-wireless-networks-leading-fourth-industrial-revolution",
+      "publishedDateTime": "2020-04-27T03:12:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
+        "name": "TechRadar",
+        "domain": "techradar.com",
         "images": [
           {
-            "url": "https://insideout.app/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "url": "https://insideout.app/ai/assets/images/organizations/techradar.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -30,10 +30,10 @@
       },
       "images": [
         {
-          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/12356/production/_111928547_gettyimages-881638976.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": "UK spies will need artificial intelligence - Rusi report",
+          "url": "https://cdn.mos.cms.futurecdn.net/R8QMpKF7qkxvCGZXbeJusD-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "5G wireless networks leading fourth industrial revolution",
           "attribution": null
         }
       ],
@@ -42,7 +42,349 @@
         "news"
       ],
       "topics": [
-        "AI Ethics",
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-27-how-artificial-intelligence-could-jump-start-the-luxury-sector-with-chinas-help.md",
+      "title": "How artificial intelligence could jump-start the luxury sector – with China’s help",
+      "excerpt": "Western brands such as Hermès and Louis Vuitton are looking to China to boost their sales as it recovers from the coronavirus outbreak, but many are considering how artificial intelligence can help th",
+      "heat": 81,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.scmp.com/magazines/style/news-trends/article/3081763/how-artificial-intelligence-could-jump-start-luxury",
+      "ampWebUrl": "https://amp.scmp.com/magazines/style/news-trends/article/3081763/how-artificial-intelligence-could-jump-start-luxury",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/magazines/style/news-trends/article/3081763/how-artificial-intelligence-could-jump-start-luxury",
+      "publishedDateTime": "2020-04-27T03:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_opinion/public/d8/images/methode/2020/04/27/1e57d9aa-852b-11ea-8863-2139a14b0dea_image_hires_180635.jpg?itok=FBMe-ogx&v=1587982007",
+          "width": 1200,
+          "height": 630,
+          "title": "How artificial intelligence could jump-start the luxury sector – with China’s help",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-27-vw-admits-teslas-lead-in-software-and-self-driving-in-internal-leak.md",
+      "title": "VW admits Tesla’s lead in software and self-driving in internal leak",
+      "excerpt": "Volkswagen CEO Hebert Diess has admitted that Tesla has a significant lead when it comes to software and its use in its self-driving program, according to leaked internal communications. Tesla pioneered over-the-air software updates in the auto industry.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://electrek.co/2020/04/27/vw-admits-tesla-lead-software-leak-internal/",
+      "ampWebUrl": "https://electrek.co/2020/04/27/vw-admits-tesla-lead-software-leak-internal/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/04/27/vw-admits-tesla-lead-software-leak-internal/amp/",
+      "publishedDateTime": "2020-04-27T02:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://electrek.co/wp-content/uploads/sites/3/2020/03/Tesla-matrix-hero-post-e1583107083706.jpg?quality=82&strip=all&w=1000",
+          "width": 999,
+          "height": 499,
+          "title": "VW admits Tesla’s lead in software and self-driving in internal leak",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-27-qureai-deploys-ai-radiology-software-in-the-fight-against-covid-19.md",
+      "title": "Qure.ai Deploys AI Radiology Software In The Fight Against COVID-19",
+      "excerpt": "Qure.ai, a healthtech company specializing in artificial intelligence (AI), announced the deployment of its COVID-19 progression monitoring software at Bolton NHS Foundation Trust, part of the National Health Service (NHS) in the UK.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/jamessomauroo/2020/04/27/qureai-deploys-ai-radiology-software-in-the-fight-against-covid-19/",
+      "ampWebUrl": "https://www.forbes.com/sites/jamessomauroo/2020/04/27/qureai-deploys-ai-radiology-software-in-the-fight-against-covid-19/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jamessomauroo/2020/04/27/qureai-deploys-ai-radiology-software-in-the-fight-against-covid-19/amp/",
+      "publishedDateTime": "2020-04-27T01:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1132912601%2F0x0.jpg",
+          "width": 1200,
+          "height": 672,
+          "title": "Qure.ai Deploys AI Radiology Software In The Fight Against COVID-19",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-27-chinese-self-driving-truck-startup-inceptio-raises-100-million-sources.md",
+      "title": "Chinese self-driving truck startup Inceptio raises $100 million - sources",
+      "excerpt": "China's Inceptio Technology, a startup developing self-driving trucks, has raised $100 million in its latest funding round from logistics firm GLP, its key strategic investor G7 and other investors, two sources familiar with the matter told Reuters.",
+      "heat": 108,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/uk-inceptio-autonomous-idUKKCN2290MB",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUKKCN2290MB",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKCN2290MB",
+      "publishedDateTime": "2020-04-27T00:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200427&t=2&i=1516550136&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG3Q09T",
+          "width": 817,
+          "height": 545,
+          "title": "Chinese self-driving truck startup Inceptio raises $100 million - sources",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-27-this-ai-tool-uses-machine-learning-to-detect-whether-people-are-social-distancing-properly.md",
+      "title": "This AI tool uses machine learning to detect whether people are social distancing properly",
+      "excerpt": "But when we go about our daily routines, especially when out on a grocery run or heading to the hospital, social distancing can be a challenging task to uphold. And some of us just have God awful spatial awareness in general.",
+      "heat": 77,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://sea.mashable.com/tech/10271/this-ai-tool-uses-machine-learning-to-detect-whether-people-are-social-distancing-properly",
+      "ampWebUrl": "https://sea.mashable.com/tech/10271/this-ai-tool-uses-machine-learning-to-detect-whether-people-are-social-distancing-properly?amp=1",
+      "cdnAmpWebUrl": "https://sea-mashable-com.cdn.ampproject.org/c/s/sea.mashable.com/tech/10271/this-ai-tool-uses-machine-learning-to-detect-whether-people-are-social-distancing-properly?amp=1",
+      "publishedDateTime": "2020-04-27T00:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://sm.mashable.com/t/mashable_sea/photo/default/tump5-nstfield-image-socialmediavar-1586911100_p856.620.jpg",
+          "width": 620,
+          "height": 326,
+          "title": "This AI tool uses machine learning to detect whether people are social distancing properly",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-27-aws-announces-general-availability-of-amazon-augmented-artificial-intelligence.md",
+      "title": "AWS Announces General Availability of Amazon Augmented Artificial Intelligence",
+      "excerpt": "Amazon A2I makes it easier for developers to build and manage workflows to validate machine learning predictions with human reviewers Today, Amazon Web Service",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cxotoday.com/press-release/aws-announces-general-availability-of-amazon-augmented-artificial-intelligence/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-26T22:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CXO Today",
+        "domain": "cxotoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.cxotoday.com/wp-content/uploads/2020/02/Amazon-campus-hyderabad.jpg",
+          "width": 600,
+          "height": 450,
+          "title": "AWS Announces General Availability of Amazon Augmented Artificial Intelligence",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2020-04-27-moneyball-medicine-data-driven-healthcare-transformation.md",
+      "title": "Moneyball Medicine: Data-Driven Healthcare Transformation",
+      "excerpt": "Thriving in the New Data-Driven Healthcare Market, author Harry Glorikian offers a prescription for how data and analytics will shape the future of healthcare delivery in the United States. We are all familiar with the Moneyball concept and how it transformed professional sports over the course of the past two decades – with an assist from Brad Pitt.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/ciocentral/2020/04/26/moneyball-medicine-data-driven-healthcare-transformation/",
+      "ampWebUrl": "https://www.forbes.com/sites/ciocentral/2020/04/26/moneyball-medicine-data-driven-healthcare-transformation/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ciocentral/2020/04/26/moneyball-medicine-data-driven-healthcare-transformation/amp/",
+      "publishedDateTime": "2020-04-26T17:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1185375168%2F0x0.jpg",
+          "width": 1200,
+          "height": 567,
+          "title": "Moneyball Medicine: Data-Driven Healthcare Transformation",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-27-autox-alibabas-autonavi-roll-out-robotaxis-in-shanghais-ride-hailing-services-market.md",
+      "title": "AutoX, Alibaba’s AutoNavi roll out robotaxis in Shanghai’s ride-hailing services market",
+      "excerpt": "Autonomous driving start-up AutoX is now offering its fleet of robotaxis as part of ride-hailing options on Autonavi’s Amap app, which aggregates mobility services provided by more than 40 companies in China.",
+      "heat": 81,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.scmp.com/tech/apps-social/article/3081625/autox-alibabas-autonavi-roll-out-robotaxis-shanghais-ride-hailing",
+      "ampWebUrl": "https://amp.scmp.com/tech/apps-social/article/3081625/autox-alibabas-autonavi-roll-out-robotaxis-shanghais-ride-hailing",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/apps-social/article/3081625/autox-alibabas-autonavi-roll-out-robotaxis-shanghais-ride-hailing",
+      "publishedDateTime": "2020-04-26T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/04/26/85068ffc-8611-11ea-8863-2139a14b0dea_image_hires_200054.jpg?itok=7SNEi299&v=1587902461",
+          "width": 1200,
+          "height": 630,
+          "title": "AutoX, Alibaba’s AutoNavi roll out robotaxis in Shanghai’s ride-hailing services market",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     },
@@ -745,347 +1087,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-24-iss-news-space-stations-cimon-2-ai-robot-to-revolutionise-coronavirus-social-care.md",
-      "title": "ISS news: Space station's CIMON-2 AI robot to revolutionise coronavirus social care",
-      "excerpt": "SPACE experts have revealed IBM's revolutionary Crew Interactive MObile CompanioN (CIMON-2) continues to exceed expectations aboard the International Space Station (ISS). One of the AI robot's developers has now revealed how the project can aid social care in the post-coronavirus world.",
-      "heat": 70,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.express.co.uk/news/science/1273593/iss-news-ibm-cimon2-artificial-intelligence-ai-robot-coronavirus-social-care",
-      "ampWebUrl": "https://www.express.co.uk/news/science/1273593/iss-news-ibm-cimon2-artificial-intelligence-ai-robot-coronavirus-social-care/amp",
-      "cdnAmpWebUrl": "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/news/science/1273593/iss-news-ibm-cimon2-artificial-intelligence-ai-robot-coronavirus-social-care/amp",
-      "publishedDateTime": "2020-04-24T11:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Express",
-        "domain": "express.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.images.express.co.uk/img/dynamic/151/590x/iss-news-ibm-cimon2-artificial-intelligence-ai-robot-coronavirus-social-care-1273593.jpg?r=1587753177377",
-          "width": 590,
-          "height": 350,
-          "title": "ISS news: Space station's CIMON-2 AI robot to revolutionise coronavirus social care",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-04-24-amazon-a2i-is-now-generally-available.md",
-      "title": "Amazon A2I is now generally available",
-      "excerpt": "AWS is excited to announce the general availability of Amazon Augmented AI (Amazon A2I), a new service that makes it easy to implement human reviews of machine learning (ML) predictions at scale. Amazon A2I removes the undifferentiated heavy lifting associated with building and managing expensive and",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-a2i-is-now-generally-available/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-24T11:21:40-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/04/23/Product-Page-Diagram_Textract@2x.png",
-          "width": 1200,
-          "height": 485,
-          "title": "Amazon A2I is now generally available",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-24-false-claim-covid-19-stands-for-certification-of-vaccination-identification-by-artificial-intelligence.md",
-      "title": "False claim: COVID-19 stands for Certification of Vaccination Identification by Artificial Intelligence",
-      "excerpt": "Social media users have been sharing images online that claim that COVID-19 is an abbreviation for Certificate of Vaccination Identification by Artificial Intelligence (  , ​  and  ). The posts often include a black and white photograph of a soldier and two men while the soldier checks a document.",
-      "heat": 86,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.reuters.com/article/uk-factcheck-covid-name-abbreviation-idUSKCN2262AS",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKCN2262AS",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2262AS",
-      "publishedDateTime": "2020-04-24T08:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png",
-          "width": 1200,
-          "height": 630,
-          "title": "False claim: COVID-19 stands for Certification of Vaccination Identification by Artificial Intelligence",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-24-system-reduces-the-energy-needed-for-training-running-neural-networks.md",
-      "title": "System Reduces the Energy Needed for Training, Running Neural Networks",
-      "excerpt": "Although artificial intelligence has turned out to be a spotlight of some moral concerns, it also has some significant sustainability problems. MIT researchers have developed a new automated AI system with improved computational efficiency and a much smaller carbon footprint. The researchers’ system trains one large neural network comprising ...",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.azocleantech.com/news.aspx?newsID=27202",
-      "ampWebUrl": "https://www.azocleantech.com/amp/news.aspx?newsID=27202",
-      "cdnAmpWebUrl": "https://www-azocleantech-com.cdn.ampproject.org/c/s/www.azocleantech.com/amp/news.aspx?newsID=27202",
-      "publishedDateTime": "2020-04-24T08:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Clean Tech",
-        "domain": "azocleantech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.azocleantech.com/images/news/ImageForNews_27202_15877319223121634.png",
-          "width": 639,
-          "height": 426,
-          "title": "System Reduces the Energy Needed for Training, Running Neural Networks",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-24-this-ai-wrote-such-emo-lyrics-that-humans-thought-it-was-my-chemical-romance.md",
-      "title": "This AI wrote such emo lyrics that humans thought it was My Chemical Romance",
-      "excerpt": "If you think the songs in the charts sound like they were made by machines, you’re probably wrong — an AI’s lyrics would be better. That’s according to research by ticket site TickPick, which recently tested whether people prefer artificial or human songwriters. The system composed 100 songs in each genre, which the TickPick team ...",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/04/24/this-ai-wrote-such-emo-lyrics-that-humans-thought-it-was-my-chemical-romance/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/04/24/this-ai-wrote-such-emo-lyrics-that-humans-thought-it-was-my-chemical-romance/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/04/24/this-ai-wrote-such-emo-lyrics-that-humans-thought-it-was-my-chemical-romance/amp/",
-      "publishedDateTime": "2020-04-24T07:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/04/Untitled-design-11-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "This AI wrote such emo lyrics that humans thought it was My Chemical Romance",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-24-how-ai-can-improve-it-service-management-in-a-pandemic.md",
-      "title": "How AI Can Improve IT Service Management In A Pandemic",
-      "excerpt": "The bottom line is that the AI-based approach to modernizing ITSM shows the potential to lower IT costs, reduce errors, increase user satisfaction levels while improving response times and speed.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/louiscolumbus/2020/04/24/how-ai-can-improve-it-service-management-in-a-pandemic/",
-      "ampWebUrl": "https://www.forbes.com/sites/louiscolumbus/2020/04/24/how-ai-can-improve-it-service-management-in-a-pandemic/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/04/24/how-ai-can-improve-it-service-management-in-a-pandemic/amp/",
-      "publishedDateTime": "2020-04-24T07:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ea2f1b1165a170006a5bb8f%2F0x0.jpg",
-          "width": 1200,
-          "height": 720,
-          "title": "How AI Can Improve IT Service Management In A Pandemic",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-24-insurtech-startup-axinan-closes-series-a-with-16-mn.md",
-      "title": "Insurtech Startup Axinan Closes Series A+ with $16 Mn",
-      "excerpt": "Insurtech Startup Axinan has closed its series A funding round at $16 mn ... Founded in 2016 by former chief technology officer of Grab, Wei Zhu, Igloo is a full-stack insurtech firm powered by artificial intelligence (AI) and big data that builds digital insurance products. Its product offerings range from personal to lifestyle insurance ...",
-      "heat": 72,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.entrepreneur.com/article/349775",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/349775",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/349775",
-      "publishedDateTime": "2020-04-24T07:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/20200424141717-WeiZhu-CEOandFounderofIglooedited.jpeg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": "Insurtech Startup Axinan Closes Series A+ with $16 Mn",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-24-this-neural-network-was-fed-10000-dicks-to-learn-how-to-draw-one.md",
-      "title": "This neural network was fed 10,000 dicks to learn how to draw one",
-      "excerpt": "Word on the street is artificial intelligence is out to steal your job, but we often forget about all the good things it also does for us: Like helping us draw penises. One industrious researcher took it upon themselves to feed a recurrent neural network with 10,000 dick doodles in order to teach it how to draw the human phallus — and the ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/04/24/neural-network-draw-dicks/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/04/24/neural-network-draw-dicks/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/04/24/neural-network-draw-dicks/amp/",
-      "publishedDateTime": "2020-04-24T06:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/04/dick_grid-796x452.png",
-          "width": 796,
-          "height": 452,
-          "title": "This neural network was fed 10,000 dicks to learn how to draw one",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

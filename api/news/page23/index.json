@@ -2,6 +2,403 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2020-04-07-tesla-prepares-to-increase-the-price-of-full-self-driving-again-with-new-features.md",
+      "title": "Tesla prepares to increase the price of ‘Full Self-Driving’ again with new features",
+      "excerpt": "Tesla is preparing to increase the price of its “Full Self-Driving” package again as new features are coming — keeping the promise of increasing the value. There are many things about how Tesla is approaching self-driving technology that makes it different from the rest of the auto industry. The automaker refuses to use lidar sensors and ...",
+      "heat": 118,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://electrek.co/2020/04/07/tesla-increase-price-full-self-driving-again/",
+      "ampWebUrl": "https://electrek.co/2020/04/07/tesla-increase-price-full-self-driving-again/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/04/07/tesla-increase-price-full-self-driving-again/amp/",
+      "publishedDateTime": "2020-04-07T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://electrek.co/wp-content/uploads/sites/3/2020/04/Tesla-Full-self-driving-price.jpg?quality=82&strip=all&w=1000",
+          "width": 1000,
+          "height": 449,
+          "title": "Tesla prepares to increase the price of ‘Full Self-Driving’ again with new features",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-07-artificial-intelligence-ai-market-what-are-the-main-factors-that-contributing-towards-industry-growth.md",
+      "title": "Artificial Intelligence (AI) Market - What Are The Main Factors That Contributing Towards Industry Growth?",
+      "excerpt": "Global Artificial Intelligence (AI) Market valued approximately USD 16 billion in 2016 is anticipated to grow with",
+      "heat": 76,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market---what-are-the-main-factors-that-contributing-towards-industry-growth-2020-04-07",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-07T08:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial Intelligence (AI) Market - What Are The Main Factors That Contributing Towards Industry Growth?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-07-microsoft-hires-apple-5g-chief-to-develop-new-hololens-and-ai-products.md",
+      "title": "Microsoft hires Apple 5G chief to develop new HoloLens and AI products",
+      "excerpt": "Caballero’s new position includes hardware design and technology engineering for Microsoft’s mixed reality and AI division, which he notes will include “HoloLens, Special Projects and more to come” — the sort of open-ended purview that suggests eventual involvement with many Microsoft-branded devices. During his 14 years at Apple ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/07/microsoft-hires-apple-5g-chief-to-develop-new-hololens-and-ai-products/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/07/microsoft-hires-apple-5g-chief-to-develop-new-hololens-and-ai-products/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/07/microsoft-hires-apple-5g-chief-to-develop-new-hololens-and-ai-products/amp/",
+      "publishedDateTime": "2020-04-07T08:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/12/IMG_6883D-e1579196959488.jpeg?fit=1990%2C995&strip=all",
+          "width": 1990,
+          "height": 995,
+          "title": "Microsoft hires Apple 5G chief to develop new HoloLens and AI products",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2020-04-07-sourceday-raises-125-million-for-ai-that-predicts-on-time-delivery-risk.md",
+      "title": "SourceDay raises $12.5 million for AI that predicts on-time delivery risk",
+      "excerpt": "SourceDay applies AI and machine learning to drive risk awareness of on-time deliveries and predict risk when it comes to material availability and other factors. Baird Capital led this latest funding round in SourceDay, with participation from existing investors Silverton Partners, ATX Ventures and Draper Associates. It brings the startup’s ...",
+      "heat": 96,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/07/sourceday-raises-12-5-million-for-ai-that-predicts-on-time-delivery-risk/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/07/sourceday-raises-12-5-million-for-ai-that-predicts-on-time-delivery-risk/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/07/sourceday-raises-12-5-million-for-ai-that-predicts-on-time-delivery-risk/amp/",
+      "publishedDateTime": "2020-04-07T08:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/SourceDay-Featured-Image-Navy-e1586206669976.png?fit=1198%2C601&strip=all",
+          "width": 1198,
+          "height": 601,
+          "title": "SourceDay raises $12.5 million for AI that predicts on-time delivery risk",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-07-global-self-driving-car-market-industry-analysis-product-capacity-growth-demand-and-future-forecast-period-till-2026.md",
+      "title": "Global Self-Driving Car Market Industry Analysis, Product Capacity, Growth Demand and Future Forecast Period Till 2026",
+      "excerpt": "Key players of the global Self-Driving Car market are included as given below: The major players in the market include Tesla Motors, Audi, Ford, Toyota, Google, Volvo, Nissan, Baidu, Apple ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/global-self-driving-car-market-industry-analysis-product-capacity-growth-demand-and-future-forecast-period-till-2026-2020-04-07?mod=mw_quote_news",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-07T08:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Global Self-Driving Car Market Industry Analysis, Product Capacity, Growth Demand and Future Forecast Period Till 2026",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-07-9-ai-stocks-were-leaning-on-more-and-more.md",
+      "title": "9 AI Stocks We’re Leaning on More and More",
+      "excerpt": "IBM Watson Assistant for Citizens on the IBM public cloud brings together Watson Assistant, Natural Language Processing capabilities from IBM Research, and state-of-art enterprise AI search capabilities with Watson Discovery, to understand and respond to common questions about COVID-19. It’s always great when big corporations give back to the ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://investorplace.com/2020/04/9-ai-stocks-were-leaning-on-more-and-more/",
+      "ampWebUrl": "https://investorplace.com/2020/04/9-ai-stocks-were-leaning-on-more-and-more/amp/",
+      "cdnAmpWebUrl": "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/04/9-ai-stocks-were-leaning-on-more-and-more/amp/",
+      "publishedDateTime": "2020-04-07T08:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InvestorPlace",
+        "domain": "investorplace.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://investorplace.com/wp-content/uploads/2019/07/ai1600b.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": "9 AI Stocks We’re Leaning on More and More",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-07-5-practical-reasons-to-embrace-artificial-intelligence.md",
+      "title": "5 practical reasons to embrace artificial intelligence",
+      "excerpt": "AI is about more than just robots. There are several reasons that people should accept artificial intelligence, including health care fighting the current coronavirus pandemic and empowering people with disabilities. Artificial intelligence is about more than robots. Whether someone considers themself a tech expert, or a newbie when it comes to ...",
+      "heat": 91,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/article/5-practical-reasons-to-embrace-artificial-intelligence/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/5-practical-reasons-to-embrace-artificial-intelligence/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/5-practical-reasons-to-embrace-artificial-intelligence/",
+      "publishedDateTime": "2020-04-07T08:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr3.cbsistatic.com/hub/i/r/2020/04/07/b9096b1a-0696-4267-a3f0-1ee3c61fe529/resize/1200x/ef5bf98b81cf782d65908c237d3d27b5/drone-garden.jpg",
+          "width": 1200,
+          "height": 798,
+          "title": "5 practical reasons to embrace artificial intelligence",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2020-04-07-mixmode-raises-4-million-to-help-companies-fight-ai-driven-cyberattacks.md",
+      "title": "MixMode raises $4 million to help companies fight AI-driven cyberattacks",
+      "excerpt": "The Santa Barbara-based startup is trying to leapfrog ahead of current security AI strategies by developing technology that doesn’t require any human intervention or rule-making. As bad actors turn to AI to launch new forms of attacks, the company believes such “unsupervised” AI is essential to maintaining defenses. “Large enterprises ...",
+      "heat": 96,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/07/mixmode-raises-4-million-to-help-companies-fight-ai-driven-cyberattacks/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/07/mixmode-raises-4-million-to-help-companies-fight-ai-driven-cyberattacks/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/07/mixmode-raises-4-million-to-help-companies-fight-ai-driven-cyberattacks/amp/",
+      "publishedDateTime": "2020-04-07T08:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/Screen-Shot-2020-04-06-at-10.01.02-AM-e1586253515890.png?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "MixMode raises $4 million to help companies fight AI-driven cyberattacks",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-07-autonomous-shuttles-ferry-covid-19-tests-around-florida.md",
+      "title": "Autonomous Shuttles Ferry COVID-19 Tests Around Florida",
+      "excerpt": "The Jacksonville Transportation Authority (JTA), Beep and NAVYA are ferrying COVID-19 tests around in self-driving vans. Four fully autonomous vehicles have ... traffic and staff,\" according to the non-profit medical center. \"Using artificial intelligence enables us to protect staff from exposure to this contagious virus by using cutting ...",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.entrepreneur.com/article/348874",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/348874",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/348874",
+      "publishedDateTime": "2020-04-07T07:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/20200407144650-02Uzj2HrrZtgBqdy58SfAOx-1fit-scalesize-1028x578v1586254195.jpeg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": "Autonomous Shuttles Ferry COVID-19 Tests Around Florida",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-07-deepmind-cambridge-ml-professor-asks-ai-winter-or-the-wonder-years.md",
       "title": "DeepMind Cambridge ML professor asks: ‘AI winter’ or the wonder years?",
       "excerpt": "And will the promise of AI be delivered without heavy recruitment in more ML specialists? The issues will be addressed by former Amazon ace and the first DeepMind Machine Learning Professor at Cambridge University, Neil Lawrence, in a Cambridge Network virtual lecture on April 21. The Network's first online business lecture – introduced to ...",
@@ -676,363 +1073,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-07-pixel-4-face-unlock-can-finally-require-eyes-to-be-open-in-april-update.md",
-      "title": "Pixel 4 Face Unlock can finally require eyes to be open in April update",
-      "excerpt": "The Pixel 4 may have one of the more advanced hardware in that market but it had one very peculiar misfeature. While the Pixel 4’s face recognition was proven to be quite accurate, it may have been too accurate to the extent that it can recognize and authorize faces even with their eyes closed. Although it can’t be fooled by photos ...",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.slashgear.com/pixel-4-face-unlock-can-finally-require-eyes-to-be-open-in-april-update-06615753/",
-      "ampWebUrl": "https://www.slashgear.com/pixel-4-face-unlock-can-finally-require-eyes-to-be-open-in-april-update-06615753/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/pixel-4-face-unlock-can-finally-require-eyes-to-be-open-in-april-update-06615753/amp/",
-      "publishedDateTime": "2020-04-06T19:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://scdn.slashgear.com/wp-content/uploads/2020/04/google-pixel-4-30.jpg",
-          "width": 1280,
-          "height": 800,
-          "title": "Pixel 4 Face Unlock can finally require eyes to be open in April update",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-07-automated-machine-learning-automl-market.md",
-      "title": "Automated Machine Learning (AutoML) Market",
-      "excerpt": "NEW YORK, April 6, 2020 /PRNewswire/ -- Automated Machine Learning (AutoML) Market Research Report: By Offering (Platform, Service), Deployment Type (On-Premises, Cloud), Enterprise Size (Large ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.prnewswire.com/news-releases/automated-machine-learning-automl-market-301035747.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-06T18:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg",
-          "width": 600,
-          "height": 315,
-          "title": "Automated Machine Learning (AutoML) Market",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-07-microsoft-university-of-sydney-collaborate-to-build-ai-infused-corona-chatbot.md",
-      "title": "Microsoft, University of Sydney collaborate to build AI-infused Corona chatbot",
-      "excerpt": "The University of Sydney says it has used Microsoft cognitive services to build an AI-infused bot in “double-quick time” that responds to student enquiries about COVID-19 and provides instant answers to many of their questions. According to Microsoft, the bot has been tackling between 200 and 400 individual student inquiries daily ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.itwire.com/health/microsoft,-university-of-sydney-collaborate-to-build-ai-infused-corona-chatbot.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-06T18:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ITWire",
-        "domain": "itwire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.itwire.com/media/k2/items/cache/d3fc9082cdb7c699769ec4932d2f1b6f_M.jpg",
-          "width": 375,
-          "height": 250,
-          "title": "Microsoft, University of Sydney collaborate to build AI-infused Corona chatbot",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-07-powering-the-edge-with-ai-in-an-iot-world.md",
-      "title": "Powering The Edge With AI In An IoT World",
-      "excerpt": "The edge has to be powered with more processing power. This will enable enterprises to run AI models at the edge, thereby bringing more intelligence to the edge.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/04/06/powering-the-edge-with-ai-in-an-iot-world/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/04/06/powering-the-edge-with-ai-in-an-iot-world/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/04/06/powering-the-edge-with-ai-in-an-iot-world/amp/",
-      "publishedDateTime": "2020-04-06T17:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F04%2Fa-89.jpg",
-          "width": 640,
-          "height": 640,
-          "title": "Powering The Edge With AI In An IoT World",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-04-07-4-chinese-backed-electric-car-start-ups-planning-a-run-at-tesla.md",
-      "title": "4 Chinese-backed electric-car start-ups planning a run at Tesla",
-      "excerpt": "The investment makes the Chinese giant one of Tesla's largest shareholders, and is part of Tencent's pursuit of self-driving cars and ... Chinese internet provider Baidu recently made a reportedly ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnbc.com/2017/04/07/4-chinese-backed-electric-car-start-ups-planning-a-run-at-tesla.html",
-      "ampWebUrl": "https://www.cnbc.com/amp/2017/04/07/4-chinese-backed-electric-car-start-ups-planning-a-run-at-tesla.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2017/04/07/4-chinese-backed-electric-car-start-ups-planning-a-run-at-tesla.html",
-      "publishedDateTime": "2020-04-06T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/104383570-GettyImages-630926570.jpg?v=1529474712",
-          "width": 2000,
-          "height": 1333,
-          "title": "4 Chinese-backed electric-car start-ups planning a run at Tesla",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-07-ai-applications-top-10-real-world-artificial-intelligence-applications.md",
-      "title": "AI Applications: Top 10 Real World Artificial Intelligence Applications",
-      "excerpt": "This makes Waymo cars more effective and safer. Another famous example of an autonomous vehicle is Tesla’s self-driving car. Artificial Intelligence implements computer vision, image detection and deep learning to build cars that can automatically detect ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.edureka.co/blog/artificial-intelligence-applications/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-06T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Edureka",
-        "domain": "edureka.co",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "http://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/10/Artificial-IntelligenceAI-applications.png",
-          "width": 1630,
-          "height": 952,
-          "title": "AI Applications: Top 10 Real World Artificial Intelligence Applications",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-07-artificial-intelligence-driving-autonomous-vehicle-development.md",
-      "title": "Artificial intelligence driving autonomous vehicle development",
-      "excerpt": "Autonomous driving is one of the key application areas of artificial intelligence (AI). Autonomous vehicles (AV ... which eventually became Waymo in 2016. Waymo has been extensively leveraging AI to make fully autonomous driving a reality.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://ihsmarkit.com/research-analysis/artificial-intelligence-driving-autonomous-vehicle-development.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-06T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IHS Markit",
-        "domain": "ihsmarkit.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.ihsmarkit.com/www/blog/ra-autonomous-car-getty692834496-featured.jpg",
-          "width": 636,
-          "height": 370,
-          "title": "Artificial intelligence driving autonomous vehicle development",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-07-artificial-intelligence-enables-rapid-covid-19-lung-imaging-analysis-at-uc-san-diego-health.md",
-      "title": "Artificial Intelligence Enables Rapid COVID-19 Lung Imaging Analysis at UC San Diego Health",
-      "excerpt": "The details are published in the Journal of Thoracic Imaging. Now, enabled by donated service credits provided by the AWS Diagnostic Development Initiative and the efforts of UC San Diego Health’s Clinical Research IT team, Hsiao’s AI method has been ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://health.ucsd.edu/news/releases/Pages/2020-04-07-artificial-intelligence-enables-rapid-covid-19-lung-imaging-analysis.aspx",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-06T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Scripps News",
-        "domain": "ucsd.edu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://health.ucsd.edu/news/releases/PublishingImages/covid_xray_hsiao.jpg",
-          "width": 600,
-          "height": 268,
-          "title": "Artificial Intelligence Enables Rapid COVID-19 Lung Imaging Analysis at UC San Diego Health",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-07-example-notebooks-that-show-how-to-apply-machine-learning-deep-learning-and-reinforcement-learning-in-amazon-sagemaker.md",
-      "title": "Example notebooks that show how to apply machine learning, deep learning and reinforcement learning in Amazon SageMaker",
-      "excerpt": "These examples provide quick walkthroughs to get you up and running with the labeling job workflow for Amazon SageMaker Ground Truth. These examples provide a gentle introduction to machine learning concepts as they are applied in practical use cases ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://github.com/awslabs/amazon-sagemaker-examples",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-06T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GitHub",
-        "domain": "github.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://camo.githubusercontent.com/95b6d72381a76a923718ae1d6e56b079f3307e7b/68747470733a2f2f322e67726176617461722e636f6d2f6176617461722f61646133346163383236353638393938363337633563633637653837383031333f643d68747470732533412532462532466769746875622e6769746875626173736574732e636f6d253246696d6167657325324667726176617461727325324667726176617461722d757365722d3432302e706e6726723d6726733d3634",
-          "width": 420,
-          "height": 420,
-          "title": "Example notebooks that show how to apply machine learning, deep learning and reinforcement learning in Amazon SageMaker",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

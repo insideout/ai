@@ -2,6 +2,371 @@
   "page": 47,
   "value": [
     {
+      "path": "_news/2020-03-13-the-top-5-fintech-trends-for-2020.md",
+      "title": "The top 5 fintech trends for 2020",
+      "excerpt": "They're also investing in cloud technologies as part of a broader digital transformation effort (11%) and automating through AI or robotics (10%), according to the survey. Only 45% of survey respondents said they're in great shape when it comes to their ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/article/the-top-5-fintech-trends-for-2020/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/the-top-5-fintech-trends-for-2020/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/the-top-5-fintech-trends-for-2020/",
+      "publishedDateTime": "2020-03-13T07:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr2.cbsistatic.com/hub/i/r/2019/08/28/d05e9732-c721-4047-adb6-99e8614dce5a/thumbnail/1200x675/8924a634cce0bc6fd704a70c2f05b914/20190820-synopsys-karen.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "The top 5 fintech trends for 2020",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-13-current-ai-hardware-focus-is-misguided-says-ai-pioneer.md",
+      "title": "Current AI hardware focus is misguided, says AI pioneer",
+      "excerpt": "offered a glimpse of what Facebook is working on, and made some predictions for the future of deep-learning hardware. Le Cun is a renowned visionary in the field of AI, having been at the forefront of neural-network research in the 1980s and 1990s. As a Bell Labs researcher in the late 1980s, he worked with the earliest types of dedicated ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.embedded.com/current-ai-hardware-focus-is-misguided-says-ai-pioneer/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-13T07:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Embedded",
+        "domain": "embedded.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.embedded.com/wp-content/uploads/2020/03/img20200313102416Le-Cun-It-s-Really-Hard-to_0.jpg",
+          "width": 640,
+          "height": 426,
+          "title": "Current AI hardware focus is misguided, says AI pioneer",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-13-eigen-and-ing-target-financial-industry-with-nlp-driven-data-extraction.md",
+      "title": "Eigen and ING target financial industry with NLP-driven data extraction",
+      "excerpt": "As one of the biggest banks in the world, ING is a major partner for Eigen and should go some way toward expediting the uptake of machine learning in the financial services sector. Indeed, ING is already using Eigen’s NLP in specific areas such as loan operations and LIBOR replacement, and as part of their new partnership this will be ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/03/13/eigen-and-ing-target-financial-industry-with-nlp-driven-data-extraction/",
+      "ampWebUrl": "https://venturebeat.com/2020/03/13/eigen-and-ing-target-financial-industry-with-nlp-driven-data-extraction/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/13/eigen-and-ing-target-financial-industry-with-nlp-driven-data-extraction/amp/",
+      "publishedDateTime": "2020-03-13T07:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/03/Eigen.png?fit=1284%2C632&strip=all",
+          "width": 1284,
+          "height": 632,
+          "title": "Eigen and ING target financial industry with NLP-driven data extraction",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-13-riskalyze-fintech-report-card-february-2020.md",
+      "title": "Riskalyze Fintech Report Card: February 2020",
+      "excerpt": "What Happened: Andrew Altfest, president of a $1 billion RIA firm, launched new advisor technology at the T3 advisor conference this year. The new software promises to use AI to analyze a client’s existing situation and offer tailored recommendations. Why It Matters: It was only a couple of years ago that I was on record saying “in our ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wealthmanagement.com/technology/riskalyze-fintech-report-card-february-2020",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-13T06:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WealthManagement.com",
+        "domain": "wealthmanagement.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.wealthmanagement.com/sites/wealthmanagement.com/files/fintech-report-card-promo.jpg",
+          "width": 2000,
+          "height": 1040,
+          "title": "Riskalyze Fintech Report Card: February 2020",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-13-automated-intent-classification-using-deep-learning-in-google-sheets.md",
+      "title": "Automated Intent Classification Using Deep Learning in Google Sheets",
+      "excerpt": "Let’s move to build our intent classification service that we will call to populate keyword intents. In my previous deep learning articles, I’ve covered Ludwig, Uber’s AI toolbox. I like it a lot because it allows you to build state-of-the-art deep learning models without writing a single line of code. It is also very convenient to run in ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.searchenginejournal.com/automated-intent-classification-using-deep-learning-google-sheets/353910/",
+      "ampWebUrl": "https://www.searchenginejournal.com/automated-intent-classification-using-deep-learning-google-sheets/353910/amp/",
+      "cdnAmpWebUrl": "https://www-searchenginejournal-com.cdn.ampproject.org/c/s/www.searchenginejournal.com/automated-intent-classification-using-deep-learning-google-sheets/353910/amp/",
+      "publishedDateTime": "2020-03-13T05:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Search Engine Journal",
+        "domain": "searchenginejournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.searchenginejournal.com/wp-content/uploads/2020/03/automated-intent-classification-using-deep-learning-in-google-sheets-part-3-5e69f33f94684.png",
+          "width": 1600,
+          "height": 840,
+          "title": "Automated Intent Classification Using Deep Learning in Google Sheets",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-13-artificial-intelligence-ai-chips-market-2020-2024high-adoption-of-ai-chips-in-data-centers-to-boost-growth-technavio.md",
+      "title": "Artificial Intelligence (AI) Chips Market 2020-2024|High Adoption of AI Chips in Data Centers to Boost Growth | Technavio",
+      "excerpt": "LONDON--(BUSINESS WIRE)--Technavio has been monitoring the artificial intelligence (AI) chips market and it is poised to grow by USD 36.6 bn during 2020-2024, progressing at a CAGR of about 39% during the forecast period. The report offers an up-to-date analysis regarding the current market scenario, latest trends and drivers, and the overall ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businesswire.com/news/home/20200313005224/en/Artificial-Intelligence-AI-Chips-Market-2020-2024High-Adoption",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-13T05:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20200313005224/en/779596/23/IRTNTR30203.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": "Artificial Intelligence (AI) Chips Market 2020-2024|High Adoption of AI Chips in Data Centers to Boost Growth | Technavio",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-13-blockchain-is-a-multi-task-new-technology-that-will-drive-5g-change-global-communica-tions.md",
+      "title": "Blockchain Is A Multi-Task New Technology That Will Drive 5G, Change Global Communica-tions",
+      "excerpt": "Blockchain is a multi-tasking new technology that will drive 5G and change global communications. 5G provides quick speed, new features in Internet of Things (IoT), personal and business data and will impact everything from SmartPhones to driverless vehicles.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/blockchain-is-a-multi-task-new-technology-that-will-drive-5g-change-global-communica-tions-2020-03-13",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-13T05:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Blockchain Is A Multi-Task New Technology That Will Drive 5G, Change Global Communica-tions",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-13-seymourpowell-designs-quarter-car-private-ride-sharing-concept.md",
+      "title": "Seymourpowell designs Quarter Car private ride-sharing concept",
+      "excerpt": "Focused on offering passengers more privacy in ride-sharing services, Seymourpowell's driverless Quarter Car concept has four seats that can ... Features including digital transparent glazing displays, artificial intelligence and gestural interaction functions are designed to offer better user experience. Depending on the service provider ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.dezeen.com/2020/03/13/seymourpowell-quarter-car-concept/",
+      "ampWebUrl": "https://www.dezeen.com/2020/03/13/seymourpowell-quarter-car-concept/amp/",
+      "cdnAmpWebUrl": "https://www-dezeen-com.cdn.ampproject.org/c/s/www.dezeen.com/2020/03/13/seymourpowell-quarter-car-concept/amp/",
+      "publishedDateTime": "2020-03-13T05:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dezeen",
+        "domain": "dezeen.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static.dezeen.com/uploads/2020/03/seymourpowell-quarter-car-concept-design_dezeen_2364_sq-1.gif",
+          "width": 852,
+          "height": 852,
+          "title": "Seymourpowell designs Quarter Car private ride-sharing concept",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-13-aclu-sues-for-government-facial-recognition-records.md",
+      "title": "ACLU Sues For Government Facial Recognition Records",
+      "excerpt": "The American Civil Liberties Union and New York Civil Liberties Union are challenging federal law enforcement’s use of facial recognition surveillance tech. A lawsuit was filed Thursday against the U.S. Department of Homeland Security (DHS), Customs and Border Protection (CBP), Immigration and Customs Enforcement (ICE), and Transportation ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.geek.com/tech/aclu-sues-for-government-facial-recognition-records-1820222/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-13T04:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Geek.com",
+        "domain": "geek.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/geek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.geek.com/wp-content/uploads/2020/03/face-detection-geraltPixabay.jpg",
+          "width": 690,
+          "height": 388,
+          "title": "ACLU Sues For Government Facial Recognition Records",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-13-ing-invests-in-natural-language-proccesor-eigen-technologies.md",
       "title": "ING invests in natural language proccesor Eigen Technologies",
       "excerpt": "ING has contributed EUR4.5 million to a $42 million funding round in natural language processing vendor Eigen Technologies. The investment, made through the bank’s venture capital arm ING Ventures, is part of Eigen’s Series B round announced in November 2019, which also included financing from Goldman Sachs. Eigen’s NLP technology is ...",
@@ -793,355 +1158,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-12-ibm-watson-health-to-tap-ebscos-dynamed-libraries-for-a-combined-ai-drug-information-suite.md",
-      "title": "IBM Watson Health to tap EBSCO's DynaMed libraries for a combined AI drug information suite",
-      "excerpt": "RELATED: IBM Watson Health's new manager talks about returning to basics, doubling down IBM’s Micromedex and Watson programs employ artificial intelligence and natural language processing with the goal of providing users a conversational approach for searching drug information—similar to Big Blue’s previous approaches in oncology and ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.fiercebiotech.com/medtech/ibm-watson-health-to-tap-ebsco-s-dynamed-libraries-for-a-combined-ai-drug-information-suite",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-12T13:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FierceBiotech",
-        "domain": "fiercebiotech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://qtxasset.com/fiercebiotech/1584043544/IBM_Watson.jpg/IBM_Watson.jpg?O_jG5rsopS3DHTncRsKFiffFsacRkMDY",
-          "width": 1200,
-          "height": 803,
-          "title": "IBM Watson Health to tap EBSCO's DynaMed libraries for a combined AI drug information suite",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-12-a-competitive-fintech-environment-encourages-innovative-technology.md",
-      "title": "A competitive fintech environment encourages innovative technology",
-      "excerpt": "While change is essential, it brings with it wide-ranging implications for the industry, particularly as customer needs and regulation continue to move the needle.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.bloomberg.com/professional/blog/a-competitive-fintech-environment-encourages-innovative-technology/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-12T13:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-12-just-in-defense-innovation-unit-to-sponsor-computer-vision-prize-challenge.md",
-      "title": "JUST IN: Defense Innovation Unit to Sponsor Computer Vision Prize Challenge",
-      "excerpt": "HONOLULU, Hawaii — The Pentagon’s Defense Innovation Unit is preparing to launch another industry competition to boost computer vision technology that could aid disaster relief efforts, a top official said March 11. DIU was launched in 2015 by then-Secretary of Defense Ash Carter to bridge the gap between the military and the nation’s ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nationaldefensemagazine.org/articles/2020/3/12/defense-innovation-unit-to-sponsor-computer-vision-prize-challenge",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-12T11:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "National Defense Magazine",
-        "domain": "nationaldefensemagazine.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.nationaldefensemagazine.org/-/media/sites/magazine/2020/03/istock-1172131894_web.ashx?h=500&w=878&la=en&hash=6CA3F9E7BEC57550BC7EF738EDD66F4E78DDCB88",
-          "width": 878,
-          "height": 500,
-          "title": "JUST IN: Defense Innovation Unit to Sponsor Computer Vision Prize Challenge",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-12-researchers-use-ai-to-translate-text-found-on-ancient-clay-tablets.md",
-      "title": "Researchers use AI to translate text found on ancient clay tablets",
-      "excerpt": "Read: Google now supports five new languages on Translate To build the model, they’re training it on more than 6,000 annotated images from the Persepolis Fortification Archive. This will teach the system to read tablets in the collection that have never been analyzed before. They believe the system could uncover new secrets about Achaemenid ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/03/12/researchers-use-ai-to-translate-text-found-on-ancient-clay-tablets/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/03/12/researchers-use-ai-to-translate-text-found-on-ancient-clay-tablets/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/03/12/researchers-use-ai-to-translate-text-found-on-ancient-clay-tablets/amp/",
-      "publishedDateTime": "2020-03-12T11:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/03/Untitled-design19-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "Researchers use AI to translate text found on ancient clay tablets",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-12-ai-recruitment-startup-talview-wins-the-best-ai-application-for-societal-impact-recognition-at-microsofts-ai-awards-20.md",
-      "title": "AI Recruitment Startup Talview Wins The \"Best AI Application for Societal Impact\" Recognition at Microsoft's AI Awards 2.0",
-      "excerpt": "/PRNewswire/ -- AI Recruitment startup, Talview, has received the prestigious \"Best AI Application for Societal Impact\" award in the partner category in",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.prnewswire.com/in/news-releases/ai-recruitment-startup-talview-wins-the-best-ai-application-for-societal-impact-recognition-at-microsoft-s-ai-awards-2-0-875582027.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-12T10:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1121668/Talview___Microsoft_AI_Awards.jpg?p=facebook",
-          "width": 1198,
-          "height": 628,
-          "title": "AI Recruitment Startup Talview Wins The \"Best AI Application for Societal Impact\" Recognition at Microsoft's AI Awards 2.0",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-12-ai-ethics-principles-are-laid-out-by-dod-for-all-to-see-applies-to-self-driving-cars-too.md",
-      "title": "AI Ethics Principles Are Laid Out By DoD For All To See, Applies To Self-Driving Cars Too",
-      "excerpt": "AI ethics is a hot trending topic these days. And, so it should be. With the rise of AI systems popping up here and there, and virtually everywhere, there is a rightfully emerging concern that these computer-based systems are being thrown into the world without much thought given to the societal impacts that they can produce.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/03/12/ai-ethics-principles-are-laid-out-by-dod-for-all-to-see-applies-to-self-driving-cars-too/",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/03/12/ai-ethics-principles-are-laid-out-by-dod-for-all-to-see-applies-to-self-driving-cars-too/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/03/12/ai-ethics-principles-are-laid-out-by-dod-for-all-to-see-applies-to-self-driving-cars-too/amp/",
-      "publishedDateTime": "2020-03-12T10:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e680526e1e61700080e7020%2F0x0.jpg%3FcropX1%3D339%26cropX2%3D5849%26cropY1%3D0%26cropY2%3D4133",
-          "width": 1200,
-          "height": 900,
-          "title": "AI Ethics Principles Are Laid Out By DoD For All To See, Applies To Self-Driving Cars Too",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-12-sentara-healthcare-partners-with-citiustech-to-deploy-data-platform-on-microsoft-azure.md",
-      "title": "Sentara Healthcare Partners With CitiusTech to Deploy Data Platform on Microsoft Azure",
-      "excerpt": "CitiusTech H-Scale, combined with Azure, helps customers achieve scale in healthcare data management.” CitiusTech has further enabled Sentara to leverage aggregated information and generate actionable insights by deploying artificial intelligence and machine learning models at an enterprise scale. This is expected to save approximately $3 ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businesswire.com/news/home/20200312005559/en/Sentara-Healthcare-Partners-CitiusTech-Deploy-Data-Platform",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-12T09:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20200312005559/en/779461/23/citiustech_logo.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": "Sentara Healthcare Partners With CitiusTech to Deploy Data Platform on Microsoft Azure",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-12-facebook-research-develops-ai-system-for-music-source-separation.md",
-      "title": "Facebook Research Develops AI System for Music Source Separation",
-      "excerpt": "Facebook Research recently released Demucs, a new deep-learning-powered system for music ... Accelerated by existing research in the source separation domain, research scientists began using AI to separate sounds in music in the early 2000s. Today, spectrograms generated by the short-time Fourier transform (STFT) are the centerpiece of state ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.infoq.com/news/2020/03/facebook-ai-source-separation/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-12T09:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-12-the-humanization-of-customer-experience-in-an-era-of-artificial-intelligence.md",
-      "title": "The Humanization of Customer Experience in an Era of Artificial Intelligence",
-      "excerpt": "This requires innovative solutions and making artificial intelligence a priority. 70% of companies are already using some form of AI to engage customers. 90% will be using AI within the next 24 months. Risk-averse markets such as healthcare, utilities and insurance are more than 70% of organizations are planning to make AI investments in the ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.linkedin.com/pulse/humanization-customer-experience-era-artificial-brian-solis/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-12T09:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C5612AQHHhzgKh1QPJQ/article-cover_image-shrink_720_1280/0?e=1590624000&v=beta&t=qFepTyXnx18VGXkqZJm8DEAeU-7dWL19yrdvzoBkFms",
-          "width": 1279,
-          "height": 720,
-          "title": "The Humanization of Customer Experience in an Era of Artificial Intelligence",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

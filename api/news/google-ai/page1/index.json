@@ -2,6 +2,51 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-04-28-mit-researchers-release-clevrer-to-advance-visual-reasoning-and-neurosymbolic-ai.md",
+      "title": "MIT researchers release Clevrer to advance visual reasoning and neurosymbolic AI",
+      "excerpt": "Clevrer examines AI models ability to make logical conclusions about content in a video data set using a hybrid of deep learning and symbolic AI.",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/28/mit-researchers-release-clevrer-to-advance-visual-reasoning-and-neurosymbolic-ai/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/28/mit-researchers-release-clevrer-to-advance-visual-reasoning-and-neurosymbolic-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/28/mit-researchers-release-clevrer-to-advance-visual-reasoning-and-neurosymbolic-ai/amp/",
+      "publishedDateTime": "2020-04-28T07:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/10/mit1.jpg?fit=2158%2C1619&strip=all",
+          "width": 2158,
+          "height": 1619,
+          "title": "MIT researchers release Clevrer to advance visual reasoning and neurosymbolic AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-23-googles-new-tensorflow-ai-processor-increases-speeds-by-eight-times.md",
       "title": "Google's new TensorFlow AI processor increases speeds by eight times",
       "excerpt": "New neural network AI developments from Google look set to completely revolutionise hardware. The world of computer hardware has been in something of a funk for some time. That's a deeply unwelcome, and somewhat depressing, situation for those of us who worked (or played Doom) through the white heat of the 1990s, a period when Moore's law was ...",
@@ -1225,43 +1270,6 @@
           "width": 600,
           "height": 350,
           "title": "Alphabet’s DeepMind AI is better than you at Atari games",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-01-google-deepminds-agent57-ai-bests-humans-at-beating-atari-games.md",
-      "title": "Google DeepMind’s Agent57 AI Bests Humans at Beating Atari Games",
-      "excerpt": "DeepMind’s Agent57 AI because the first tool to beat humans at all Atari games in the Arcade Learning Environment (ALE) data set. Google parent company Alphabet this week revealed its Agent57 artificial intelligence (AI) has become the first machine learning tool to beat humans across all Atari games in the Arcade Learning Environment data set.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://winbuzzer.com/2020/04/01/google-deepminds-agent57-ai-bests-humans-at-beating-atari-games-xcxwbn/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-01T09:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "winbuzzer.com",
-        "domain": "winbuzzer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://winbuzzer.com/wp-content/uploads/2020/04/Agent57-ALE-DeepMind.jpg",
-          "width": 1440,
-          "height": 634,
-          "title": "Google DeepMind’s Agent57 AI Bests Humans at Beating Atari Games",
           "attribution": null
         }
       ],

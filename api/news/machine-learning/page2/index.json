@@ -2,6 +2,51 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-04-19-does-this-7000-year-old-poop-belong-to-a-human-or-dog-machine-learning-has-the-answer.md",
+      "title": "Does This 7,000-Year-Old Poop Belong to a Human or Dog? Machine Learning Has the Answer",
+      "excerpt": "As outlined in the new paper, coproID uses machine learning software to compare ancient host DNA with DNA in modern feces, enabling it to distinguish between the two hosts in most cases. “CoproID is the first line of identification in coprolite analysis to confirm that what we’re looking for is actually human, or a dog if we’re interested ...",
+      "heat": 91,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.vice.com/en_au/article/jge7j4/does-this-7000-year-old-poop-belong-to-a-human-or-dog-machine-learning-has-the-answer",
+      "ampWebUrl": "https://www.vice.com/amp/en_au/article/jge7j4/does-this-7000-year-old-poop-belong-to-a-human-or-dog-machine-learning-has-the-answer",
+      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_au/article/jge7j4/does-this-7000-year-old-poop-belong-to-a-human-or-dog-machine-learning-has-the-answer",
+      "publishedDateTime": "2020-04-18T19:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VICE",
+        "domain": "vice.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/vice.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://video-images.vice.com/test-uploads/articles/5e98c20ac7e9d80099d6d452/lede/1587070293609-229163_web.jpeg?crop=1xw:0.8446298227320125xh;center,center",
+          "width": 1440,
+          "height": 810,
+          "title": "Does This 7,000-Year-Old Poop Belong to a Human or Dog? Machine Learning Has the Answer",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-18-widely-used-ai-machine-learning-methods-dont-work-as-claimed.md",
       "title": "Widely Used AI Machine Learning Methods Don’t Work as Claimed",
       "excerpt": "The study evaluated techniques known as “low-dimensional embeddings,” which are commonly used as input to machine learning models. This is an active area of research, with new embedding methods being developed at a rapid pace. But Seshadhri and his coauthors say all these methods share the same shortcomings. To explain why, Seshadhri used ...",
@@ -359,14 +404,14 @@
     {
       "path": "_news/2020-04-16-pentagon-needs-tools-to-test-the-limits-of-its-artificial-intelligence-projects.md",
       "title": "Pentagon Needs Tools to Test the Limits of Its Artificial Intelligence Projects",
-      "excerpt": "The Joint Artificial Intelligence Center seeks cutting-edge evaluation capabilities to assess what systems can and can’t effectively do.",
+      "excerpt": "In a request for information this week, the Pentagon’s Joint Artificial Intelligence Center, or JAIC, seeks input on cutting-edge testing and evaluation capabilities to support the “full spectrum” of the Defense Department’s emerging AI technologies, including machine learning, deep learning and neural networks. According to the ...",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.nextgov.com/emerging-tech/2020/04/pentagon-needs-tools-test-limits-its-artificial-intelligence-projects/164687/",
+      "webUrl": "https://www.nextgov.com/emerging-tech/2020/04/pentagon-needs-tools-test-limits-its-artificial-intelligence-projects/164687/?oref=ng-skybox-lander",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-16T14:43:00-07:00",
+      "publishedDateTime": "2020-04-16T14:50:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Nextgov",
@@ -381,6 +426,43 @@
           "width": 400,
           "height": 400,
           "title": "Pentagon Needs Tools to Test the Limits of Its Artificial Intelligence Projects",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-16-eight-storage-requirements-for-ai-and-deep-learning.md",
+      "title": "Eight Storage Requirements for AI and Deep Learning",
+      "excerpt": "Data is the life-blood of artificial intelligence and deep learning (AI and DL). Vast quantities of training data enhance accuracy in the search for potentially predictive relationships. This paper delivers eight specific storage requirements of AI and DL applications and why they demand the data management capabilities supplied by enterprise object storage solutions.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://virtualizationreview.com/whitepapers/2020/04/cloudian-eight-storage-requirements-for-ai-and-deep-learning.aspx?admgarea=symantec&tc=page0",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-16T10:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Virtualization Review",
+        "domain": "virtualizationreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://virtualizationreview.com/~/media/ECG/VirtualizationReview/VRlogo.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": "Eight Storage Requirements for AI and Deep Learning",
           "attribution": null
         }
       ],
@@ -491,27 +573,19 @@
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.prnewswire.com/news-releases/new-web-based-automl-tool-from-sensiml-makes-ai-for-iot-easier-than-ever-301041756.html",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/new-web-based-automl-tool-from-sensiml-makes-ai-for-iot-easier-than-ever/article_35c486af-26f5-5532-8c78-a677135b8da5.html",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-16T06:07:00-07:00",
+      "publishedDateTime": "2020-04-16T06:23:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
         "images": null,
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/891804/SensiML_Logo.jpg?p=facebook",
-          "width": 2059,
-          "height": 1079,
-          "title": "New Web-Based AutoML Tool from SensiML Makes AI for IoT Easier than Ever",
-          "attribution": null
-        }
-      ],
+      "images": null,
       "locale": "en-us",
       "categories": [
         "news"
@@ -1173,88 +1247,6 @@
         "Machine Learning",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-04-09-intel-joins-georgia-tech-in-darpa-program-to-mitigate-machine-learning-deception-attacks.md",
-      "title": "Intel Joins Georgia Tech in DARPA Program to Mitigate Machine Learning Deception Attacks",
-      "excerpt": "Intel is the prime contractor in this four-year, multimillion-dollar joint effort to improve cybersecurity defenses against deception attacks on machine learning (ML) models. This press release features multimedia. View the full release here: https://www.businesswire.com/news/home/20200409005168/en/ Intel Labs members demonstrate an example of ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://journalstar.com/lifestyles/technology/intel-joins-georgia-tech-in-darpa-program-to-mitigate-machine-learning-deception-attacks/article_114d2da4-fffd-595a-b051-2562b0a1c18a.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-09T08:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Lincoln Journal Star",
-        "domain": "journalstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/journalstar.com/content/tncms/assets/v3/editorial/f/70/f709e77e-7284-5b9a-bc01-3169b8612fca/5e8f3cee90cb5.image.jpg?crop=728%2C410%2C0%2C118&resize=728%2C410&order=crop%2Cresize",
-          "width": 728,
-          "height": 410,
-          "title": "Intel Joins Georgia Tech in DARPA Program to Mitigate Machine Learning Deception Attacks",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-09-amazons-ai-uses-meta-learning-to-accomplish-related-tasks.md",
-      "title": "Amazon’s AI uses meta learning to accomplish related tasks",
-      "excerpt": "or learning with five examples per new task. But the researchers say those baselines were complementary to their approach, and that they believe combining approaches could yield lower error rates. “In the past decade, deep-learning systems have proven remarkably successful at many artificial-intelligence tasks, but their applications tend to ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/09/amazons-ai-taps-meta-learning-techniques-to-accomplish-related-tasks/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/09/amazons-ai-taps-meta-learning-techniques-to-accomplish-related-tasks/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/09/amazons-ai-taps-meta-learning-techniques-to-accomplish-related-tasks/amp/",
-      "publishedDateTime": "2020-04-09T08:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/12/amazon-logo-reuters.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Amazon’s AI uses meta learning to accomplish related tasks",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

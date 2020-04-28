@@ -2,51 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2020-01-17-ai-weekly-meta-analysis-shows-ai-ethics-principles-emphasize-human-rights.md",
-      "title": "AI Weekly: Meta analysis shows AI ethics principles emphasize human rights",
-      "excerpt": "One of the trends that came into sharp focus in 2019 was, ironically, a woeful lack of clarity around AI ethics. The AI field at large was paying attention to ethics, creating and applying frameworks for AI research, development, policy, and law, but there was no unified approach. The committees and groups, from every sort of organization ...",
-      "heat": 112,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/01/17/ai-weekly-meta-analysis-shows-ai-ethics-principles-emphasize-human-rights/",
-      "ampWebUrl": "https://venturebeat.com/2020/01/17/ai-weekly-meta-analysis-shows-ai-ethics-principles-emphasize-human-rights/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/17/ai-weekly-meta-analysis-shows-ai-ethics-principles-emphasize-human-rights/amp/",
-      "publishedDateTime": "2020-01-17T12:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/01/ai-principles-meta-analysis.png?fit=1200%2C594&strip=all",
-          "width": 1200,
-          "height": 594,
-          "title": "AI Weekly: Meta analysis shows AI ethics principles emphasize human rights",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
       "path": "_news/2020-01-17-world-economic-forum-launches-toolkit-to-help-corporate-boards-build-ai-first-companies.md",
       "title": "World Economic Forum launches toolkit to help corporate boards build AI-first companies",
       "excerpt": "The value of building data-driven businesses with AI at their core is well known today, and business executives are rushing to implement the technology into their operations and gain a competitive advantage, but it’s not as simple as creating a data lake and creating AI models. A large number of AI companies attempting to implement more AI ...",

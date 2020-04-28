@@ -3,21 +3,17 @@ category: news
 title: "UK spies will need artificial intelligence - Rusi report"
 excerpt: "UK spies will need to use artificial intelligence (AI) to counter a range of threats, an intelligence report says. Adversaries are likely to use the technology for attacks in cyberspace and on the political system,"
 publishedDateTime: 2020-04-26T23:09:00Z
-webUrl: "https://www.bbc.com/news/technology-52415775"
+webUrl: "https://www.bbc.co.uk/news/technology-52415775"
 ampWebUrl: "https://www.bbc.co.uk/news/amp/technology-52415775"
 cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/technology-52415775"
 type: article
-quality: 89
-heat: 89
-published: true
+quality: 59
+heat: 59
+published: false
 
 provider:
   name: BBC
-  domain: bbc.com
-  images:
-    - url: "https://insideout.app/ai/assets/images/organizations/bbc.com-50x50.jpg"
-      width: 50
-      height: 50
+  domain: bbc.co.uk
 
 topics:
   - AI Ethics
@@ -29,6 +25,6 @@ images:
     height: 576
     title: "UK spies will need artificial intelligence - Rusi report"
 
-secured: "wtUgBch4gPxk5Vr8nhkkVSUgsfmiUGbQt6NPws3uVqiIil8YVZBULcLoJTXAO2+LP8Z/WMROB4wBKLaMfUxsFzASsnK7hAcg5jHQ5bNf7c0A+UYFj7h521v2/Mtjv1O/oQceXv+rmc4itptihQoLdj36NW8YfWb2+dAVur5ecT8wAWbmj7G5XDfDbGWNyuGAyw6dV3oBgXBrUnlP3kUDFqPyCFPtqDeN+xvqGR0ObsVYn1vec2bxRmgxXWz9yW5WLY4kW4DjN8zCrKoiDsgbUpcDVgruypUbyarslTuAMNWISKFq2jN4xNBXt8s62rprk510FZXnQ3gndyg5SlS1Kw/JGAQkcaPhZgiQis1d+uHj+oHB3w4cAZIBSP96xeT9n35pf0g2X62pJ+XQAPT6cwwxipXawU47ZA57xTJH+gGLKIss+RhIuJ7bdGwBW2cD/9TzAUZxJb3c5iiGOJh2yzNZBZknhqmjeDhm6ZzuYGA=;xTS6nHlWrbSqx8AGtHdi1w=="
+secured: "kyWbkQuf8NWWiLhhZRQ0Eqn7hKGarz4exjmv27pXIMsU9tZmPvc2ve/vu4j2B/XTY7hQlQjBAgDRl32s7ZN/2R/80zW1WvpJdvlWaecje5Rgr5+67ayy2aXkX+8OSvRt70RkfQu5MtwtKkWQJWlBOqkEtDF4iKBMGDtqs+J+NGwYuFKXqlWl0bMyQ6YkICdTg8a5TIEBVT39mL25HL+eXi/4Xv+KtD9Xxe8xVUAag/dGHauKaRK6l2ZmBQIEb6JcnIq9UWe13cElYILSYLv7lZRBC+iWscFLcBFZsAUaGYZSsaCTyLsetx6sxzLpsmq4;3ElLaWYQDo/Z0ReEztAmbg=="
 ---
 

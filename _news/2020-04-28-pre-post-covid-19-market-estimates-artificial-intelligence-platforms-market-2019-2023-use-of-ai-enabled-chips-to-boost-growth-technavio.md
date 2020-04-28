@@ -23,6 +23,6 @@ images:
     height: 627
     title: "Pre & Post COVID-19 Market Estimates - Artificial Intelligence Platforms Market 2019-2023 | Use of AI-Enabled Chips to Boost Growth | Technavio"
 
-secured: "7hwkyfsPywQvc4Z+rtujQFBOMo3sa68Nx2lKJfl6GXi6MwkOV1R3CKr5fiR7VOI3jK0OvWBUY0926KJ6cwZR/IpTXlQ77JKZRql7xt0g8uKbKhJKXTgJo+PhCDeWalJf0IaYWVwSQgNzUNwfs0wLnxfMs0AO8/BWjtF9WCBa5mnRj/GWtSk0qzK2BkIFHMqthbcDYWe+uEC8mxKw78Kg8ybkvIiP3Bpz4P0Yw7kmcnVBFfeizJ6OA5P358cJZQ8v7U0p0mWOtgGV2D8AUwupZ07aQFfZVq2PJapfLJFcACs5tj2rE4CTDXsMAgVZYf4a;vTy/x9io5QbZql4Q7UUXNw=="
+secured: "RGRXjmljAGo5dQu0fAvps4k4RcL9FW63zCQSY6wl9xmwgHImhkqndbmoxOtwAK6UIbYJg5QK+H9+dvcjgroifiQznSiR04ch9/gR68Qw8oZrGC1mR915SUD4oxG8rAZjjh+Tv76JpV8blE50Gg2HuSXv3ME0QP/8oqKCJD9wztUBVd5dB6MkeyHdMV405Jrg6bGgNQCyNTDPCYfM23/usOkHT7rh/Z4hPYXbZeUVct+0QIGG8ozJa3cTFBgjSlIYnfd02HwaAg+8Lnwp2DboVjnPUE4Bd6CuAJNS/JbHlpi0lVtz2FqHbfWtHmtje2m6ILM3fL4zRiTr9g1ed3nDu53hes4P3JlcZ/HVWYe/1++YxkPy+Qrs8YXPtZiKQdb+UUqSXeQWfsN/TS5/FciCwI78iXSbjg3GCD7ehBWgGZP/1VvBBGi49Rwfnr4eTDeY9Y5nVujik5RPxeWoW9BxYaNBVap01MjXVwrow21fS0Q=;FESC8OfJ4XDq9aOebRaOSA=="
 ---
 
