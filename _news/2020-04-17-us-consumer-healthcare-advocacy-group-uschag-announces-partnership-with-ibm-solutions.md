@@ -1,9 +1,9 @@
 ---
 category: news
 title: "U.S. Consumer Healthcare Advocacy Group (USCHAG) Announces Partnership with IBM Solutions"
-excerpt: "While the details of the relationship are confidential, the partnership includes elements of data acquisition, utilization of artificial intelligence (AI) and IBM's Watson capabilities to effect positive and empowering change for consumers when working with the American healthcare system. In development for over a decade and Founded in 2018 ..."
-publishedDateTime: 2020-04-17T13:09:00Z
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/u-s-consumer-healthcare-advocacy-group-uschag-announces-partnership-with-ibm-solutions/article_bd7661a1-ef09-596d-a592-242638e0c699.html"
+excerpt: "U.S. Consumer Healthcare Advocacy Group (USCHAG) is pleased to announce a formal partnership with IBM Solutions. While the details of the relationship are confidential,"
+publishedDateTime: 2020-04-17T12:33:00Z
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/u-s-consumer-healthcare-advocacy-group-uschag-announces-partnership-with-ibm-solutions/article_bd7661a1-ef09-596d-a592-242638e0c699.html"
 type: article
 
 provider:
@@ -20,6 +20,6 @@ images:
     height: 400
     title: "U.S. Consumer Healthcare Advocacy Group (USCHAG) Announces Partnership with IBM Solutions"
 
-secured: "i7YlsL7fufOPF5SmbeVImZW7d9kzDzSZB7noq3lsfheGhc/mYb6NRxsmRadiSaowUYLLIyPTOQzKoYFXKt8G2dPCKJj8zi7ykCwB+cH/sHQu4MVPaRTWvXRLHcZf7ayPsgqPCs5psipvGGJN7f+p9UIHdfkNeOeOGq+pJ5z8KIEmbVPCCJA9/2FlkPd0p7qVDsmDWE/rUARsBfYdn6qHS5gFFnc7QyZDgfNqXZFGSGlFYRDfuImtkRcU+8AgMjANqVRyVu3FFKpeOV6m9eKC16qIFgebq+fzvScHSS/PnLhk43WysM3PmVomGplmKU0o;EhpHjRhXQkNOY0i/LFQw5Q=="
+secured: "wqaUyV0bZUeqNt6vw5oIAlhbk5g4AitOFRqL6Mw6+2xG8ssG37X0J7pJ1SP+pwlimVWawOJzVHYbIruOU2ThuS9sE5BQIpIiMDbliaVLhUU+Oq4UDfTDsnPD0eAE+E0LXpXXejKF0IN+8iby/4qVgl0KOFoNGcxC57sdzr2fDmR9DrAlAX5TXw7RTa0JIFm/0AE3U5+IlC2LGfXUzqJiYz26nIK88SJQo5r/cKUsuge3b0/FpG1oOSiLdEnT75vt0vHQG6L/pN4yfrYdNd2H6dcRb6KxEIntWGZUYb65JFYBsEJ2nht9NZhHUm9taVrbTrtU1Cs2MfI/06zHA81hmG6v6q5k/Y12ORvbB20t74Xsn+1BeNH8aYM3b7lkz9h7eV/s3g6yTFXmCy6Eb2J6wAv/v6wN8WTq+3bNLYkbM/eNn02GyfkOGsD68oWS91ET51QIJflPgcQ4EqyUJiCI3I1dH7h+ibktYRb5ZMs0+y0=;eN1yWdUiGVGRhoSNdMAVKA=="
 ---
 

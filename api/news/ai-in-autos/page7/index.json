@@ -2,6 +2,43 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-03-03-robots-are-poised-to-transform-the-construction-industry.md",
+      "title": "Robots Are Poised To Transform The Construction Industry",
+      "excerpt": "Artificial intelligence already powers driverless cars, virtual assistants and autonomous warehouse robots. And now, technology entrepreneurs are using their expertise to take on the challenges of construction. Construction is among the least digitized industries in the U.S., owing to the labor-intensive and localized nature of the work.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.bisnow.com/houston/news/construction-development/robots-are-poised-to-transform-the-construction-industry-103213",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-03T12:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bisnow",
+        "domain": "bisnow.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.bisnow.net/fit?height=1200&type=jpeg&url=https%3A%2F%2Fs3.amazonaws.com%2Fcdn.bisnow.net%2Fcontent%2Fimages%2F2020%2F03%2F5e5d9d52553a3-built_robotics_software_interface.jpeg&width=1200&sign=4GS_ORXyGyz0OA9BRvWn7NdbQaexIlXCzPyL6df3RkA",
+          "width": 1200,
+          "height": 799,
+          "title": "Robots Are Poised To Transform The Construction Industry",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-03-self-driving-cars-a-far-future-in-india-but-china-expects-to-go-commercial-by-2025.md",
       "title": "Self-driving cars a far future in India, but China expects to go commercial by 2025",
       "excerpt": "A recent survey of self-driving vehicle testing published by Beijing’s Innovation Center for Mobility Intelligent (BICMI) said that 77 AVs of 12 China-based companies including Tencent ...",
@@ -1259,51 +1296,6 @@
           "width": 890,
           "height": 501,
           "title": "85 in a 35? Hackers show how easy it is to manipulate a self-driving Tesla",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-02-19-apples-priorities-are-shifting-as-iphone-sales-continue-to-sink.md",
-      "title": "Apple's priorities are shifting as iPhone sales continue to sink",
-      "excerpt": "The company poached a new executive from Google to lead its artificial intelligence efforts ... most notably Waymo, the Alphabet company that spun out of Google's self-driving car project.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnbc.com/2019/02/19/apple-shifts-priorities-to-grow-services-ai.html",
-      "ampWebUrl": "https://www.cnbc.com/amp/2019/02/19/apple-shifts-priorities-to-grow-services-ai.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2019/02/19/apple-shifts-priorities-to-grow-services-ai.html",
-      "publishedDateTime": "2020-02-18T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/102732800-GettyImages-146178359.jpg?v=1545326522",
-          "width": 3000,
-          "height": 2111,
-          "title": "Apple's priorities are shifting as iPhone sales continue to sink",
           "attribution": null
         }
       ],

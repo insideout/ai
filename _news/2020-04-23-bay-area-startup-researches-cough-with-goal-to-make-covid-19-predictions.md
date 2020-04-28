@@ -6,7 +6,7 @@ publishedDateTime: 2020-04-23T19:20:00Z
 webUrl: "https://medcitynews.com/2020/04/bay-area-startup-researches-cough-with-goal-to-make-covid-19-predictions/"
 type: article
 quality: 21
-heat: -1
+heat: 21
 published: false
 
 provider:
@@ -21,23 +21,6 @@ images:
     width: 1920
     height: 1080
     title: "Bay Area startup researches cough with goal to make Covid-19 predictions"
-
-related:
-  - title: "Doctors are using AI to triage covid-19 patients. The tools may be here to stay"
-    excerpt: "The company operates as a middleman: it licenses software from firms like Qure.ai and a Seoul-based startup called Lunit and offers the package of options to hospitals. Before the pandemic, however, it struggled to gain traction. “Customers were interested in the artificial-intelligence application for imaging,” Durand says, “but they ..."
-    publishedDateTime: 2020-04-23T14:12:00Z
-    webUrl: "https://www.technologyreview.com/2020/04/23/1000410/ai-triage-covid-19-patients-health-care/"
-    ampWebUrl: "https://www.technologyreview.com/2020/04/23/1000410/ai-triage-covid-19-patients-health-care/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2020/04/23/1000410/ai-triage-covid-19-patients-health-care/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 53
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2020/04/cropped-GettyImages-1192868131_web.jpg?w=1024"
-        width: 1024
-        height: 576
 
 secured: "yDkdd5Cx2D/sxQcUgNPvvXsfoTX3AQE+/5tnYHs3EpzVBEG6TVfzlzoCrJjBWh2quQHZQ8yNJjylzVePxDwvkeVufRpHdmdBYVoiOd/1Di2eI6xMnJC6YQS40vRDz7qZdml0bhmwUbyhbLWNe9a7JMKdcMhoeCyDmj29o7JXF8HWD86TWONONnCf1vsXvB5nUVjusHYTlH87lHR9NjW/7EzInOVEGUdZnJm4EjJinyVDFqxJ1M6sBY24MhE60IroVcJ6s6NaOwi9rHHAexz+zGFsZ+qCRGzrnOwcIMbb1yvyuyb1UTtPdS5JHUBCM7r8vB73Sh5wvroDSGXWir1hiumZHv96Mp8gR3aEy0paeoHPs0bCKjhXn0wpaOw9wXCFmHXiM4wCaeZqZBSqiRAR9HPRrBtnF2DGVqq1qPry0sVnOxUlxZet14T0qhwA5FKpNln75jvannlVcA4REqSOFwttbrYzGx9Dz09SWAm3s6s=;kslqlKzX1NeVoA2aw0pHXw=="
 ---

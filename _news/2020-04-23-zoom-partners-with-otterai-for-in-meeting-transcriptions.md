@@ -8,7 +8,7 @@ ampWebUrl: "https://www.computerworld.com/article/3539910/zoom-partners-with-ott
 cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3539910/zoom-partners-with-otterai-for-in-meeting-transcriptions.amp.html"
 type: article
 quality: 57
-heat: 67
+heat: 57
 published: false
 
 provider:
@@ -23,21 +23,6 @@ images:
     width: 1200
     height: 808
     title: "Zoom partners with Otter.ai for in-meeting transcriptions"
-
-related:
-  - title: "Otter.ai Releases Secure, Live Interactive Transcripts to Support Remote Work and Distance Learning"
-    excerpt: "View Otter.ai’s pricing plans and features. See a demo of Otter.ai Live Video Meeting Notes for Zoom, check out the Quick Start Guide, or sign up here for Otter for Teams. Otter.ai creates award-winning technologies and products that make valuable information from voice conversations instantly accessible and actionable. The Otter Voice ..."
-    publishedDateTime: 2020-04-23T14:38:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200423005274/en/Otter.ai-Releases-Secure-Live-Interactive-Transcripts-Support"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 23
-    images:
-      - url: "https://mms.businesswire.com/media/20200423005274/en/786895/23/4347043_Otter_Zoom_logo.jpg"
-        width: 1200
-        height: 627
 
 secured: "2pGJUD3zsOekwvr4sKdWsSClxhzljNGDRBws5WQMsyiYI0f6nkEr8d49V0WEoraN75e9PsEhne7rtYiCs0JdBu+yjAS/BthkNrmwD/ysZK0LkUQw2IGluEj7o01/vI4gE4bv4PVeu0qjqo08mE2zig2kWHTsN+f4DQ2pL9QlShkywDItGR8YmPJPhalYNGMlv4NMxGqn2gxOPtMGtsKZ9NnzjMZiu0pLzKMG2u4PsHK/H6sDVP0Ei9ROKd5JpsA1IQ6hmDzNHwPwC80a4ajsTdrPByCczrLI+eMi7g0V+jfJzwIsqa1MtaaBerHkRNwFNsIoGLHrOWk451vALlQtqHaJF5ydSXgvr48s+ogSv8nfexF+UllH2P9tKxMQCUVTgrb+TfQCzUSXc810xSC+44q6vpJyz1bQ1dp/s5MLH9+ZDO+cOZVEnk6dF3hud1GriU7P4RwSRFT4do1G+bvxB2ymEFS7ypOpVu84njJ7Xc0=;tuM+yqMIomW2XYWvTWdZqg=="
 ---

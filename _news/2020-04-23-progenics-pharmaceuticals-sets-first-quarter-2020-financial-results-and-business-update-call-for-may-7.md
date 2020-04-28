@@ -1,19 +1,16 @@
 ---
 category: news
 title: "Progenics Pharmaceuticals Sets First Quarter 2020 Financial Results and Business Update Call for May 7"
-excerpt: "A live webcast will be available in the Media Center of the Progenics website, , and a replay will be available there for two weeks. Progenics is an oncology company focused on the development and commercialization of innovative targeted medicines and artificial intelligence to find,"
+excerpt: "Progenics Pharmaceuticals, Inc. (NASDAQ: PGNX), an oncology company developing innovative medicines and artificial intelligence to find, fight and follow cancer, today announced that it will host a conference call and webcast to review first quarter ended March 31,"
 publishedDateTime: 2020-04-23T12:30:00Z
-webUrl: "https://markets.businessinsider.com/news/stocks/progenics-pharmaceuticals-sets-first-quarter-2020-financial-results-and-business-update-call-for-may-7-1029122524"
+webUrl: "https://www.marketwatch.com/press-release/progenics-pharmaceuticals-sets-first-quarter-2020-financial-results-and-business-update-call-for-may-7-2020-04-23"
 type: article
-quality: 18
-heat: 18
-published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: MarketWatch
+  domain: marketwatch.com
   images:
-    - url: "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -21,6 +18,12 @@ topics:
   - AI in Healthcare
   - AI
 
-secured: "BsPGvCeDNUuhmJCoT3/l0/pju86OcT29ordrB440n6lBPqQv9uJWx3NR3zq0qiTZTiiXLUyuwY1MpOKWCuHnPfKUv5s6ZPDjudyShDKBs935aGFTtgUvDPoi60qQ8YVhLv9iD+7Sj0HdaOUFUGG4ThTNPnE4f2fgFSehWBMBj4aGSiApyU3UbMmYL5CLz8haTVMRariSPBmsl0mKeQV+TUk34nvLdcxBYrNFa8M5gXwUmjE3wiSUMScv+NmOj+77x/oLKLt27d13A7ths9z+EddFbQI1ZDPfojLOMZf9wTOKBi+yToxYBOC1574GEgRm;2OzjD4dp3md2Xxgu8rBwow=="
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    title: "Progenics Pharmaceuticals Sets First Quarter 2020 Financial Results and Business Update Call for May 7"
+
+secured: "ljDeHRxxT0pMv2+lkx2TTwEtNissCo7ZKQw0z+laciW0r96e/oXa7zc0tZDrnfcMpp7sebNwZVsIyN2mwikSTOcukSryY9x1qMs+tryLUJu/sdG3q3m7WOA9b/bc8U6DzZBhJI/hg9rCH191b/P9wfmNb91rLT0Vu1sDEJ9xDUTWAiR/7EvEckVRIJsKCSPUQTUnAHnIJElPSrR2mLJ/fzedMRzD1wn+kPr61YtjOhEQBGqzXItA4+/UnoUZMBkW6+Ahm5fuK0RPed2626WOzUu1v8pIpfeQgAnkTKfDy5hkZHsgoaaFYYO8mcXyBbFe;SZI2OnPXO1mO4JNA3Vv8og=="
 ---
 

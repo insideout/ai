@@ -221,6 +221,51 @@
       ]
     },
     {
+      "path": "_news/2020-04-23-progenics-pharmaceuticals-sets-first-quarter-2020-financial-results-and-business-update-call-for-may-7.md",
+      "title": "Progenics Pharmaceuticals Sets First Quarter 2020 Financial Results and Business Update Call for May 7",
+      "excerpt": "Progenics Pharmaceuticals, Inc. (NASDAQ: PGNX), an oncology company developing innovative medicines and artificial intelligence to find, fight and follow cancer, today announced that it will host a conference call and webcast to review first quarter ended March 31,",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/progenics-pharmaceuticals-sets-first-quarter-2020-financial-results-and-business-update-call-for-may-7-2020-04-23",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-23T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Progenics Pharmaceuticals Sets First Quarter 2020 Financial Results and Business Update Call for May 7",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-21-ust-global-named-winner-at-the-microsoft-ai-awards-20-for-the-best-innovation-in-artificial-intelligence.md",
       "title": "UST Global Named Winner at the Microsoft AI Awards 2.0 for the Best Innovation in Artificial Intelligence",
       "excerpt": "UST Global, a leading digital transformation solutions company, announced that it has won the 2020 most innovative AI application award",
@@ -1209,43 +1254,6 @@
           "width": 796,
           "height": 417,
           "title": "How AI can determine which coronavirus patients require hospitalization",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-02-artificial-intelligence-can-speed-up-the-detection-of-stroke.md",
-      "title": "Artificial intelligence can speed up the detection of stroke.",
-      "excerpt": "Timely detection and accurate segmentation of acute ischemic stroke (AIS) lesions on magnetic resonance images (MRIs) are essential for the triaging patient for endovascular therapy. Lesion segmentation is a routine process where the abnormal areas within ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://infosurhoy.com/news-summary/artificial-intelligence-can-speed-up-the-detection-of-stroke/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-02T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoSur Hoy",
-        "domain": "infosurhoy.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://infosurhoy.com/wp-content/uploads/2020/04/20-artificialin.jpg",
-          "width": 453,
-          "height": 480,
-          "title": "Artificial intelligence can speed up the detection of stroke.",
           "attribution": null
         }
       ],

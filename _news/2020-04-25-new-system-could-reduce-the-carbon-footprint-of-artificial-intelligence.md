@@ -47,19 +47,6 @@ related:
       - url: "https://eurekalert.org/images/EurekAlert_StackedLogo_RGB.jpg"
         width: 900
         height: 300
-  - title: "Reducing carbon footprint of artificial intelligence"
-    excerpt: "Artificial intelligence has become a focus of certain ethical ... report estimating that the amount of power required for training and searching a certain neural network architecture involves the emissions of roughly 626,000 pounds of carbon dioxide."
-    publishedDateTime: 2020-04-23T16:18:00Z
-    webUrl: "https://www.miragenews.com/reducing-carbon-footprint-of-artificial-intelligence/"
-    type: article
-    provider:
-      name: Armed robbery in Revesby
-      domain: miragenews.com
-    quality: 39
-    images:
-      - url: "https://news.mit.edu/sites/mit.edu.newsoffice/files/styles/news_article_image_top_slideshow/public/images/2020/MIT-Energy-Efficient-AI-01_0.jpg?itok=-qaOADP2"
-        width: 639
-        height: 426
   - title: "Reducing AI’s carbon footprint"
     excerpt: "we have to figure out how to shrink AI down to size.” “The model is really compact. I am very excited to see OFA can keep pushing the boundary of efficient deep learning on edge devices,” said Chuang Gan, a researcher at the MIT-IBM Watson AI Lab and co-author of the paper. “If rapid progress in AI is to continue, we need to reduce its ..."
     publishedDateTime: 2020-04-24T07:03:00Z
