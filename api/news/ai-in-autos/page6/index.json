@@ -2,6 +2,43 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-03-15-doing-machine-learning-the-right-way.md",
+      "title": "Doing machine learning the right way",
+      "excerpt": "Madry’s research centers largely on making machine learning — a type of artificial intelligence — more accurate ... helping diagnose disease or control driverless cars. “It’s not just about trying to crack open the machine-learning black box. I want to open it up, see how it works, and pack it back up, so people can use it without ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.controleng.com/articles/doing-machine-learning-the-right-way/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-15T00:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Control Engineering",
+        "domain": "controleng.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.controleng.com/wp-content/uploads/sites/2/2020/03/MIT_AlexanderMadry_MachineLearning-2.jpg",
+          "width": 1200,
+          "height": 772,
+          "title": "Doing machine learning the right way",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-14-beijing-self-driving-vehicle-road-tests-topped-one-million-km-in-2019.md",
       "title": "Beijing Self-Driving Vehicle Road Tests Topped One Million Km in 2019",
       "excerpt": "In 2019 Beijing’s cumulative self-driving testing reached 1.04 million kilometres — an equivalent to circling earth 20 times. Search-engine giant Baidu ranked first in autonomous vehicle ...",
@@ -1095,51 +1132,6 @@
           "width": 792,
           "height": 526,
           "title": "Goodyear concept EV tire can regrow tread",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-05-americans-still-wary-of-self-driving-cars-many-worry-about-hacking.md",
-      "title": "Americans Still Wary Of Self-Driving Cars, Many Worry About Hacking",
-      "excerpt": "Half (51%) said they were interested in laws to make sure self-driving cars are safe. — 44% expressed the desire to have access to easy-to-understand information about how self-driving cars will ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/tanyamohn/2020/03/05/americans-still-wary-of-self-driving-cars-many-worry-about-hacking/",
-      "ampWebUrl": "https://www.forbes.com/sites/tanyamohn/2020/03/05/americans-still-wary-of-self-driving-cars-many-worry-about-hacking/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tanyamohn/2020/03/05/americans-still-wary-of-self-driving-cars-many-worry-about-hacking/amp/",
-      "publishedDateTime": "2020-03-05T06:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e61060ee1e617000758e8a2%2F0x0.jpg%3FcropX1%3D8%26cropX2%3D600%26cropY1%3D0%26cropY2%3D333",
-          "width": 593,
-          "height": 333,
-          "title": "Americans Still Wary Of Self-Driving Cars, Many Worry About Hacking",
           "attribution": null
         }
       ],

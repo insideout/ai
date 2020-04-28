@@ -2,6 +2,44 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-02-20-job-hunters-face-a-new-hurdle-impressing-ai.md",
+      "title": "Job hunters face a new hurdle: Impressing AI",
+      "excerpt": "Major businesses like Unilever and Ikea are turning to AI programs to sniff out suitable applicants — and predict future job performance — partly as a way to cut down on the time needed to hire employees. Supporters say the tech can help companies find better job candidates and eliminate some of the inherent bias that executives may not ...",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cbsnews.com/news/job-hunting-ai-is-judging-you-but-critics-say-its-snake-oil/",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/job-hunting-ai-is-judging-you-but-critics-say-its-snake-oil/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/job-hunting-ai-is-judging-you-but-critics-say-its-snake-oil/",
+      "publishedDateTime": "2020-02-20T06:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cbsnews3.cbsistatic.com/hub/i/r/2018/11/15/aab6f7aa-648e-4d55-8ea9-b6500aebc498/thumbnail/1200x630/e8d230a763c1ccec2da525361e857c29/hal-9000-2001-a-space-odyssey-promo.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": "Job hunters face a new hurdle: Impressing AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2020-02-20-this-college-banned-students-from-even-discussing-facial-recognition.md",
       "title": "This College Banned Students From Even Discussing Facial Recognition",
       "excerpt": "This article originally appeared on VICE US. Amidst a growing nationwide resistance to facial recognition on college campuses, school administrators at Michigan's Oakland Community College (OCC) are blocking students’ organizing efforts to prevent the technology from being adopted. Last week, the school's administrators canceled a forum event ...",
@@ -1210,51 +1248,6 @@
           "width": 2560,
           "height": 1440,
           "title": "U.S. Homeland Security has used facial recognition on over 43.7 million people",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-02-06-lawmakers-see-benefits-in-facial-recognition-at-borders-despite-concerns.md",
-      "title": "Lawmakers See Benefits in Facial Recognition at Borders, Despite Concerns",
-      "excerpt": "Several House lawmakers expressed reservations Thursday about increasing use of facial recognition to identify people entering the country, but their views didn’t sway customs officials and other House members who said it promises to make the nation safer.",
-      "heat": 168,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wsj.com/articles/lawmakers-see-benefits-in-facial-recognition-at-borders-despite-concerns-11581026462",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/lawmakers-see-benefits-in-facial-recognition-at-borders-despite-concerns-11581026462",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/lawmakers-see-benefits-in-facial-recognition-at-borders-despite-concerns-11581026462",
-      "publishedDateTime": "2020-02-06T14:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-151698/social",
-          "width": 1280,
-          "height": 640,
-          "title": "Lawmakers See Benefits in Facial Recognition at Borders, Despite Concerns",
           "attribution": null
         }
       ],

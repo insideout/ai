@@ -2,6 +2,51 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-03-05-americans-still-wary-of-self-driving-cars-many-worry-about-hacking.md",
+      "title": "Americans Still Wary Of Self-Driving Cars, Many Worry About Hacking",
+      "excerpt": "Half (51%) said they were interested in laws to make sure self-driving cars are safe. — 44% expressed the desire to have access to easy-to-understand information about how self-driving cars will ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/tanyamohn/2020/03/05/americans-still-wary-of-self-driving-cars-many-worry-about-hacking/",
+      "ampWebUrl": "https://www.forbes.com/sites/tanyamohn/2020/03/05/americans-still-wary-of-self-driving-cars-many-worry-about-hacking/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tanyamohn/2020/03/05/americans-still-wary-of-self-driving-cars-many-worry-about-hacking/amp/",
+      "publishedDateTime": "2020-03-05T06:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e61060ee1e617000758e8a2%2F0x0.jpg%3FcropX1%3D8%26cropX2%3D600%26cropY1%3D0%26cropY2%3D333",
+          "width": 593,
+          "height": 333,
+          "title": "Americans Still Wary Of Self-Driving Cars, Many Worry About Hacking",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-04-waymos-self-driving-jaguars-arrive-with-new-homegrown-tech.md",
       "title": "Waymo's Self-Driving Jaguars Arrive With New, Homegrown Tech",
       "excerpt": "If you’re in Mountain View and you spot a self-driving car, the smart money says it’s one of Waymo’s modified Chrysler Pacifica minivans. If you see an electric car, it’s most likely a Tesla.",
@@ -1251,51 +1296,6 @@
           "width": 600,
           "height": 350,
           "title": "Google parent Alphabet is pruning its 'other bets'",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-02-19-levels-and-limits-of-ai.md",
-      "title": "Levels And Limits Of AI",
-      "excerpt": "Not all AI is the same. Accelerated AI makes what you do faster. Augmented AI makes it better. And Automated AI does it for you. But when each \"level\" of AI becomes feasible is a function of the underlying problem's difficulty,",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/konstantinebuhler/2020/02/19/levels-and-limits-of-ai/",
-      "ampWebUrl": "https://www.forbes.com/sites/konstantinebuhler/2020/02/19/levels-and-limits-of-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/konstantinebuhler/2020/02/19/levels-and-limits-of-ai/amp/",
-      "publishedDateTime": "2020-02-19T08:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1141218835%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6400%26cropY1%3D663%26cropY2%3D4263",
-          "width": 1200,
-          "height": 675,
-          "title": "Levels And Limits Of AI",
           "attribution": null
         }
       ],

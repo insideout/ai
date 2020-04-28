@@ -2,6 +2,43 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-02-13-reviewing-ai-powered-contract-management-software-evisort.md",
+      "title": "Reviewing AI Powered Contract Management Software Evisort",
+      "excerpt": "This flexibility means the company has the potential to work with businesses outside of the legal industry which is new for an AI document review organization. Evisort can deal with contracts across multiple languages better than its competition by using machine learning support translation services. Machine learning allows the software to ...",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techworm.net/2020/02/review-ai-powered-contract-management-software-evisort.html",
+      "ampWebUrl": "https://www.techworm.net/2020/02/review-ai-powered-contract-management-software-evisort.html/amp",
+      "cdnAmpWebUrl": "https://www-techworm-net.cdn.ampproject.org/c/s/www.techworm.net/2020/02/review-ai-powered-contract-management-software-evisort.html/amp",
+      "publishedDateTime": "2020-02-12T19:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techworm.net",
+        "domain": "techworm.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.techworm.net/wp-content/uploads/2020/02/evisort.png",
+          "width": 1200,
+          "height": 675,
+          "title": "Reviewing AI Powered Contract Management Software Evisort",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2020-02-12-ibm-highlights-new-approach-to-infuse-knowledge-into-nlp-models.md",
       "title": "IBM highlights new approach to infuse knowledge into NLP models",
       "excerpt": "The research announced at the AAAI-20 Conference in New York gives computer systems the ability to better comprehend and infer from natural language. Researchers from the MIT-IBM Watson AI Lab, Tulane University and the University of Illinois this week unveiled research that allows a computer to more closely replicate human-based reading ...",
@@ -1296,43 +1333,6 @@
         "AI",
         "Natural Language Processing",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-01-24-im-obsessed-with-the-circle-and-its-ridiculous-voice-assistant.md",
-      "title": "I'm obsessed with 'The Circle' and its ridiculous voice assistant",
-      "excerpt": "But it's tough to ignore all the low-budget technology knowing that it's possible to up to ante. Do I expect Netflix to come back in Season 2 with voice recognition? Absolutely not. However, I do hope they find ways to make it less obvious that there is a literal human sitting in some production room trying to transcribe all the messages as ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://mashable.com/article/the-circle-voice-assistant/",
-      "ampWebUrl": "https://mashable.com/article/the-circle-voice-assistant.amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/the-circle-voice-assistant.amp",
-      "publishedDateTime": "2020-01-24T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/uploads%252Fcard%252Fimage%252F1163038%252F410aca9b-e5be-43f7-9ccd-52aa90c0bcd3.png%252Foriginal.png?signature=sjYMcDOANq8SkYAN9zv9QCyMZjM=&source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com",
-          "width": 1230,
-          "height": 1073,
-          "title": "I'm obsessed with 'The Circle' and its ridiculous voice assistant",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

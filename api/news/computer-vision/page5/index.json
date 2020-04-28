@@ -2,6 +2,43 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-03-10-concerns-raised-after-facial-recognition-software-found-to-have-racial-bias.md",
+      "title": "Concerns raised after facial recognition software found to have racial bias",
+      "excerpt": "One of the cops surreptitiously snapped a cellphone photo of the man and sent it to a crime analyst, who ran the photo through facial recognition software. The facial recognition algorithm ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.thestar.com/news/gta/2020/03/10/concerns-raised-after-facial-recognition-software-found-to-have-racial-bias.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-10T02:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Star",
+        "domain": "thestar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.thestar.com/4JWXKVT5I2IpefurhPWg37bIpGk=/1200x800/smart/filters:cb(1583942249743)/https://www.thestar.com/content/dam/thestar/news/gta/2020/03/10/concerns-raised-after-facial-recognition-software-found-to-have-racial-bias/toni_morgan3.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Concerns raised after facial recognition software found to have racial bias",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-10-looking-at-how-ai-can-improve-computer-vision.md",
       "title": "Looking at How AI Can Improve Computer Vision",
       "excerpt": "And doing so in a manner that provides noticeable improvements in productivity, efficiency and capability. The ability to blend artificial intelligence into the computer vision process could be a prime example. I recently had the opportunity to connect with Johann Beukes, vice-president of data science and analytics at Levatas to hear his insights.",
@@ -1129,44 +1166,6 @@
       ],
       "topics": [
         "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-02-20-job-hunters-face-a-new-hurdle-impressing-ai.md",
-      "title": "Job hunters face a new hurdle: Impressing AI",
-      "excerpt": "Major businesses like Unilever and Ikea are turning to AI programs to sniff out suitable applicants — and predict future job performance — partly as a way to cut down on the time needed to hire employees. Supporters say the tech can help companies find better job candidates and eliminate some of the inherent bias that executives may not ...",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cbsnews.com/news/job-hunting-ai-is-judging-you-but-critics-say-its-snake-oil/",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/job-hunting-ai-is-judging-you-but-critics-say-its-snake-oil/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/job-hunting-ai-is-judging-you-but-critics-say-its-snake-oil/",
-      "publishedDateTime": "2020-02-20T06:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cbsnews3.cbsistatic.com/hub/i/r/2018/11/15/aab6f7aa-648e-4d55-8ea9-b6500aebc498/thumbnail/1200x630/e8d230a763c1ccec2da525361e857c29/hal-9000-2001-a-space-odyssey-promo.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": "Job hunters face a new hurdle: Impressing AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics",
         "Computer Vision"
       ]
     }

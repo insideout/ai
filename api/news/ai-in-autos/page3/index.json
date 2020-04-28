@@ -2,6 +2,43 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-04-07-a-florida-lab-is-using-self-driving-vans-to-ferry-coronavirus-tests.md",
+      "title": "A Florida lab is using self-driving vans to ferry coronavirus tests",
+      "excerpt": "The Mayo Clinic in Florida is using four driverless shuttles to ferry ... and free up healthcare workers’ time. “Using artificial intelligence enables us to protect staff from exposure to ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businessinsider.com.au/mayo-clinic-autonomous-vans-coronavirus-tests-2020-4",
+      "ampWebUrl": "https://www.businessinsider.com.au/mayo-clinic-autonomous-vans-coronavirus-tests-2020-4/amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com-au.cdn.ampproject.org/c/s/www.businessinsider.com.au/mayo-clinic-autonomous-vans-coronavirus-tests-2020-4/amp",
+      "publishedDateTime": "2020-04-07T04:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider Australia",
+        "domain": "businessinsider.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.insider.com/5e8c410715ea4b198f62af02",
+          "width": 800,
+          "height": 600,
+          "title": "A Florida lab is using self-driving vans to ferry coronavirus tests",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-07-self-driving-vans-are-delivering-food-and-disinfecting-streets-in-china.md",
       "title": "Self-driving vans are delivering food and disinfecting streets in China",
       "excerpt": "Mashable is a global, multi-platform media and entertainment company. Powered by its own proprietary technology, Mashable is the go-to source for tech, digital culture and entertainment content for its dedicated and influential audience around the globe. ©2020 Mashable, Inc. All Rights Reserved. Mashable, MashBash and Mashable House are among ...",
@@ -1184,51 +1221,6 @@
           "width": 1200,
           "height": 800,
           "title": "Coming Release Of Tesla Autopilot ‘Red Light’ Auto-Stopping Could Trigger A Self-Driving Downward Spiral",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-30-tesla-self-driving-traffic-light-and-stop-sign-interaction-explained-in-leaked-manual.md",
-      "title": "Tesla self-driving traffic light and stop-sign interaction explained in leaked manual",
-      "excerpt": "Tesla is about to release a new update that will result in its Autopilot, under its Full Self-Driving package, reacting to traffic light and stop signs. We get the full explanation of how the new feature works, thanks to the leaked manual. As we reported last week, Tesla has started to push an Autopilot update with the actual ability to handle ...",
-      "heat": 107,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://electrek.co/2020/03/30/tesla-self-driving-traffic-light-stop-sign-explained-leaked-manual/",
-      "ampWebUrl": "https://electrek.co/2020/03/30/tesla-self-driving-traffic-light-stop-sign-explained-leaked-manual/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/03/30/tesla-self-driving-traffic-light-stop-sign-explained-leaked-manual/amp/",
-      "publishedDateTime": "2020-03-30T06:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://electrek.co/wp-content/uploads/sites/3/2019/12/Tesla-Self-driving-visualization.jpg?quality=82&strip=all&w=1000",
-          "width": 1000,
-          "height": 482,
-          "title": "Tesla self-driving traffic light and stop-sign interaction explained in leaked manual",
           "attribution": null
         }
       ],
