@@ -5,7 +5,7 @@
       "path": "_news/2020-04-28-mit-researchers-release-clevrer-to-advance-visual-reasoning-and-neurosymbolic-ai.md",
       "title": "MIT researchers release Clevrer to advance visual reasoning and neurosymbolic AI",
       "excerpt": "Clevrer examines AI models ability to make logical conclusions about content in a video data set using a hybrid of deep learning and symbolic AI.",
-      "heat": 84,
+      "heat": 88,
       "tags": null,
       "type": "article",
       "webUrl": "https://venturebeat.com/2020/04/28/mit-researchers-release-clevrer-to-advance-visual-reasoning-and-neurosymbolic-ai/",
@@ -43,7 +43,9 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
+        "AI",
+        "Facebook AI",
+        "IBM AI"
       ]
     },
     {

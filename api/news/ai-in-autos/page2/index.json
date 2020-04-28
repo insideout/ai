@@ -2,6 +2,51 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-04-16-chinese-av-startups-didi-and-autox-set-to-launch-robotaxi-pilot-programs-in-may.md",
+      "title": "Chinese AV startups Didi and AutoX set to launch robotaxi pilot programs in May",
+      "excerpt": "Two of China’s leading self-driving car firms Didi Chuxing and AutoX are reportedly set to launch their ... The race to be among the first to launch commercial autonomous ride-hailing cabs have been raging in China with Pony.ai and Baidu at the forefront. AutoX and Didi are aiming to become among the first to get the nod to commercialize ...",
+      "heat": 70,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.gizmochina.com/2020/04/16/chinese-av-startups-didi-and-autox-set-to-launch-robotaxi-pilot-programs-in-may/",
+      "ampWebUrl": "https://www.gizmochina.com/2020/04/16/chinese-av-startups-didi-and-autox-set-to-launch-robotaxi-pilot-programs-in-may/?amp",
+      "cdnAmpWebUrl": "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2020/04/16/chinese-av-startups-didi-and-autox-set-to-launch-robotaxi-pilot-programs-in-may/?amp",
+      "publishedDateTime": "2020-04-16T07:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2020/04/auto-x.jpg",
+          "width": 1620,
+          "height": 1080,
+          "title": "Chinese AV startups Didi and AutoX set to launch robotaxi pilot programs in May",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-15-us-self-driving-car-startup-zoox-agrees-to-settle-lawsuit-with-tesla.md",
       "title": "U.S. self-driving car startup Zoox agrees to settle lawsuit with Tesla",
       "excerpt": "Zoox Inc said on Tuesday it had settled a lawsuit with Tesla Inc after admitting that some new hires from the carmaker were in possession of certain Tesla documents when they joined the U.S. self-driving car startup.",
@@ -1196,43 +1241,6 @@
           "width": 1200,
           "height": 630,
           "title": "Self-driving cars are helping the coronavirus fight in Florida",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-07-driverless-vehicles-are-transporting-covid-19-tests-between-test-site-lab-in-florida.md",
-      "title": "Driverless vehicles are transporting COVID-19 tests between test site, lab in Florida",
-      "excerpt": "Driverless vehicles are being used in northeast ... according to the Mayo Clinic. “Using artificial intelligence enables us to protect staff from exposure to this contagious virus by using ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.sun-sentinel.com/coronavirus/fl-ne-driverless-vehicles-covid19-tests-20200407-cksqi4yfrfbb7dae57a2am23c4-story.html",
-      "ampWebUrl": "https://www.sun-sentinel.com/coronavirus/fl-ne-driverless-vehicles-covid19-tests-20200407-cksqi4yfrfbb7dae57a2am23c4-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-sun--sentinel-com.cdn.ampproject.org/c/s/www.sun-sentinel.com/coronavirus/fl-ne-driverless-vehicles-covid19-tests-20200407-cksqi4yfrfbb7dae57a2am23c4-story.html?outputType=amp",
-      "publishedDateTime": "2020-04-07T09:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Sun Sentinel",
-        "domain": "sun-sentinel.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.sun-sentinel.com/resizer/iYi9LMBDKD3GKRWmhpK920iZT7Y=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/RHUO5ROTPRBJXAVWDTN6HF24TU.JPG",
-          "width": 1200,
-          "height": 635,
-          "title": "Driverless vehicles are transporting COVID-19 tests between test site, lab in Florida",
           "attribution": null
         }
       ],

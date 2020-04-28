@@ -35,6 +35,19 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/azfamily.com/content/tncms/assets/v3/editorial/c/ab/cab72abb-9b6a-5a39-bcd0-fadc3469ea7a/5ea76b6c2c680.image.jpg?resize=1024%2C682"
         width: 1024
         height: 682
+  - title: "Tesla's latest Autopilot feature is slowing down for green lights, too"
+    excerpt: "(CNN) — Tesla has said its latest version of Autopilot, its autonomous driving software, is able to stop at traffic lights ... It's designed to gradually improve as the artificial intelligence that powers it learns from the data that's being collected as Tesla cars drive on public roads, according to a notification in Tesla vehicles when ..."
+    publishedDateTime: 2020-04-28T19:42:00Z
+    webUrl: "https://cnnphilippines.com/business/2020/4/29/Tesla-autopilot-slow-down-green-lights.html"
+    type: article
+    provider:
+      name: CNN Philippines
+      domain: cnnphilippines.com
+    quality: 39
+    images:
+      - url: "http://cnnphilippines.com/.imaging/mte/demo-cnn-new/750x450/dam/cnn/2020/4/29/Tesla-autopilot_CNNPH.JPG/jcr:content/Tesla-autopilot_CNNPH.JPG"
+        width: 750
+        height: 450
 
 secured: "5ITDfTs9ucgL7NAK4o/58qaruem37Ydf4Dz9oLa46ywqisoGcZkzSdQ8iHfUP0jHl0NjD7maB/Y3aimBaQQbFk9JWddaaZJbm8yDg9ND3a7RW8k3/z6tqgKl2nie8NZ8r7lWJFkpHUy8Pw7Lpnw3dsFkpxvzLl8NV15KBFDasMy20qOuxlhj9j2OwTTFMJJ2aZ+G6yDqNwj2kOrxZ0sxWGy069EgowuSbIGHRP97nVfFpydXBi48C66vCVkvGveIeF9vYLmV8HXBXWrtE98beOlm/828iwMIIX08ZufiI/cbY74BvbTJRn4YFJ1POSRq;3+mLtxFHoy9B9bDoXd+j8A=="
 ---

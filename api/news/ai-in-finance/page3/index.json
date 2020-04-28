@@ -2,6 +2,43 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-03-08-uk-based-fintech-finastra-to-allow-customers-to-use-conversational-ai-based-retail-banking-app.md",
+      "title": "UK-based Fintech Finastra to Allow Customers to Use Conversational AI-based Retail Banking App",
+      "excerpt": "London-based Fintech firm Finastra has revealed that its customers will be able to Active.Ai‘s conversational artificial intelligence (AI)-based retail banking app, which was integrated with the ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.crowdfundinsider.com/2020/03/158332-uk-based-fintech-finastra-to-allow-customers-to-use-conversational-ai-based-retail-banking-app/",
+      "ampWebUrl": "https://www.crowdfundinsider.com/2020/03/158332-uk-based-fintech-finastra-to-allow-customers-to-use-conversational-ai-based-retail-banking-app/amp/",
+      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/03/158332-uk-based-fintech-finastra-to-allow-customers-to-use-conversational-ai-based-retail-banking-app/amp/",
+      "publishedDateTime": "2020-03-08T09:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crowdfund Insider",
+        "domain": "crowdfundinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2019/10/Art-Deco-Statue-AI-Artificial-Intelligence-300x225.jpeg",
+          "width": 300,
+          "height": 225,
+          "title": "UK-based Fintech Finastra to Allow Customers to Use Conversational AI-based Retail Banking App",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-03-machine-learning-25-million-students-in-the-country-to-train-on-ai-soon.md",
       "title": "Machine Learning! 2.5 million students in the country to train on AI soon",
       "excerpt": "Last week, NITI Aayog’s Atal Innovation Mission (AIM), in collaboration with the National Association of Software and Services Companies ... AI and machine learning touted to form the basis ...",
@@ -1250,51 +1287,6 @@
         "AI",
         "AI in Finance",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-16-ai-in-fintech-market-big-changes-to-have-big-impact.md",
-      "title": "AI in Fintech Market - Big Changes to Have Big Impact",
-      "excerpt": "Advance Market Analytics recently introduced AI in Fintech Market study with in-depth overview, describing about the Product / Industry Scope and elaborates market outlook and status to 2025. AI in Fintech Market explores effective study on varied sections of Industry like opportunities,",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/ai-in-fintech-market---big-changes-to-have-big-impact-2020-01-16",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-16T02:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "AI in Fintech Market - Big Changes to Have Big Impact",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

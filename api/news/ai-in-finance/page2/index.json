@@ -2,6 +2,43 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-03-18-taking-inventory-of-ai-within-financial-institutions-and-fintech.md",
+      "title": "Taking Inventory of AI within Financial Institutions and Fintech",
+      "excerpt": "This article describes most of the AI activity occurring within financial institutions and fintech suppliers then compares and contrasts the two. It also identifies the challenges associated with deploying AI: “Financial services were one of the first sectors to understand the promise of the Big Data revolution, and the wave of new technology ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.paymentsjournal.com/taking-inventory-of-ai-within-financial-institutions-and-fintech/",
+      "ampWebUrl": "https://www.paymentsjournal.com/taking-inventory-of-ai-within-financial-institutions-and-fintech/amp/",
+      "cdnAmpWebUrl": "https://www-paymentsjournal-com.cdn.ampproject.org/c/s/www.paymentsjournal.com/taking-inventory-of-ai-within-financial-institutions-and-fintech/amp/",
+      "publishedDateTime": "2020-03-18T11:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PaymentsJournal",
+        "domain": "paymentsjournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.paymentsjournal.com/wp-content/uploads/2020/03/futuristic-artificial-intelligence-face-technology-background_1017-18295.jpg",
+          "width": 470,
+          "height": 328,
+          "title": "Taking Inventory of AI within Financial Institutions and Fintech",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-18-ready-for-iso-20022-make-ai-part-of-your-migration-toolkit.md",
       "title": "Ready for ISO 20022? Make AI part of your migration toolkit",
       "excerpt": "Looking across key technologies in the payments space, the use of Artificial Intelligence (AI) disciplines undoubtedly sits at the top of an adoption list. Just as we saw the huge impact mobile had on the world of fintech a decade ago, AI (and especially NLP) are having and will continue to have a significant impact in global payments ...",
@@ -1055,43 +1092,6 @@
           "width": 300,
           "height": 236,
           "title": "Showcasing MReport’s Top 25 Fintech Innovators: AI Foundry",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-08-uk-based-fintech-finastra-to-allow-customers-to-use-conversational-ai-based-retail-banking-app.md",
-      "title": "UK-based Fintech Finastra to Allow Customers to Use Conversational AI-based Retail Banking App",
-      "excerpt": "London-based Fintech firm Finastra has revealed that its customers will be able to Active.Ai‘s conversational artificial intelligence (AI)-based retail banking app, which was integrated with the ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.crowdfundinsider.com/2020/03/158332-uk-based-fintech-finastra-to-allow-customers-to-use-conversational-ai-based-retail-banking-app/",
-      "ampWebUrl": "https://www.crowdfundinsider.com/2020/03/158332-uk-based-fintech-finastra-to-allow-customers-to-use-conversational-ai-based-retail-banking-app/amp/",
-      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/03/158332-uk-based-fintech-finastra-to-allow-customers-to-use-conversational-ai-based-retail-banking-app/amp/",
-      "publishedDateTime": "2020-03-08T09:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crowdfund Insider",
-        "domain": "crowdfundinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2019/10/Art-Deco-Statue-AI-Artificial-Intelligence-300x225.jpeg",
-          "width": 300,
-          "height": 225,
-          "title": "UK-based Fintech Finastra to Allow Customers to Use Conversational AI-based Retail Banking App",
           "attribution": null
         }
       ],

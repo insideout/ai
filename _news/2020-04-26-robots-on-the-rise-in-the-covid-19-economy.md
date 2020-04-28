@@ -8,7 +8,7 @@ ampWebUrl: "https://www.dailyitem.com/business/robots-on-the-rise-in-the-covid-1
 cdnAmpWebUrl: "https://www-dailyitem-com.cdn.ampproject.org/c/s/www.dailyitem.com/business/robots-on-the-rise-in-the-covid-19-economy/article_075ae0d0-999c-5b64-8f75-9ce3466d6e9b.amp.html"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -24,6 +24,21 @@ images:
     width: 800
     height: 587
     title: "Robots on the rise in the COVID-19 economy"
+
+related:
+  - title: "Robots on the rise in the COVID-19 economy"
+    excerpt: "Refraction AI’s robot restaurant food delivery service has seen demand increase by four times since the COVID-19 crisis shut down Michigan last month, and the company’s engineers are working furiously to expand the company’s small fleet of three-wheeled REV ’bots."
+    publishedDateTime: 2020-04-28T18:12:00Z
+    webUrl: "https://www.bendbulletin.com/business/robots-on-the-rise-in-the-covid-19-economy/article_845adeae-84fa-11ea-bf8d-bfa81ab8fae2.html"
+    type: article
+    provider:
+      name: The Bulletin
+      domain: bendbulletin.com
+    quality: 39
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/bendbulletin.com/content/tncms/assets/v3/editorial/c/7c/c7c2dda4-84fa-11ea-a6f3-0f8ec6bc0a54/5ea0e416a8176.image.jpg?resize=859%2C630"
+        width: 859
+        height: 630
 
 secured: "rtgc15WcueH3BcjI3Ve8jrQeqIHpgWY/Fe9yNxxkbf6YUCHG50yXVFsPzRMkPNAeHRiG7BfqDCGKhahNRbw6fQEfQLVhkmUwOqTek7uHZISe/d4j2nKjTHzeoF0fP0mnAr0jb0d8oxhNpBtfN335OuCIsu+TZMI2jawGyRwFHgUNQgdPbep/NI+Wk05nJmRsbq7cpLf/UzMPbSqTqbZTkjmT3kqPBBMqTHHt/cOkxwEcHNPKx9oqLk6RLFaVFfG2CIrGF8b9Wivve4ExyqnVokwjmq3XvbOcUWRQLRzQKxKlv4jlEqTO5akIFFhrSShP2luPdpDumtYK48H03uo9hLwGZwcr5IVtDo5E2B6MO10wDzo0Am3YW9zA6b20PvMgLKF03vEbEtD+rppIClUPaAM1Oleyn1RnQ3PjxV80R5W8/jzGpUb6tP1/On992ZvcfC/41VyBOPsRBaizJNeWq+HZ3jejFvi21wzZ8v4Mzd0=;wMbxslxSRaTq0/rviKn55g=="
 ---

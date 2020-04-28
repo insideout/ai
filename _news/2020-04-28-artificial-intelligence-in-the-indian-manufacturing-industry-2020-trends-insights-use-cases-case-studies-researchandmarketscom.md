@@ -1,44 +1,23 @@
 ---
 category: news
 title: "Artificial Intelligence in the Indian Manufacturing Industry, 2020: Trends, Insights, Use Cases, Case Studies - ResearchAndMarkets.com"
-excerpt: "The \"Artificial Intelligence in Indian Manufacturing Industry 2020\" report has been added to ResearchAndMarkets.com's offering. Manufacturing companies in India have been digitizing their plants with advanced process controls,"
+excerpt: "The \"Artificial Intelligence in Indian Manufacturing Industry 2020\" report has been added to ResearchAndMarkets.com's offering. Manufacturing companies in"
 publishedDateTime: 2020-04-28T09:12:00Z
-webUrl: "https://www.businesswire.com/news/home/20200428005405/en/Artificial-Intelligence-Indian-Manufacturing-Industry-2020-Trends"
+webUrl: "https://www.benzinga.com/pressreleases/20/04/b15892540/artificial-intelligence-in-the-indian-manufacturing-industry-2020-trends-insights-use-cases-case-s"
+ampWebUrl: "https://amp.benzinga.com/amp/content/15892540"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15892540"
 type: article
-quality: 9
-heat: -1
+quality: 5
+heat: 5
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
-  - AI in Robotics
   - AI
-  - IBM AI
 
-images:
-  - url: "https://mms.businesswire.com/media/20200428005405/en/371054/23/ResearchAndMarkets_800px.jpg"
-    width: 1200
-    height: 627
-    title: "Artificial Intelligence in the Indian Manufacturing Industry, 2020: Trends, Insights, Use Cases, Case Studies - ResearchAndMarkets.com"
-
-related:
-  - title: "AiCure Introduces Industry's First Computer Vision Platform to Remotely Capture Digital Biomarkers in Clinical Trials"
-    excerpt: "AiCure, an AI and advanced data analytics company focused on improving clinical trials, today introduced to the market its digital"
-    publishedDateTime: 2020-04-28T13:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/aicure-introduces-industrys-first-computer-vision-platform-to-remotely-capture-digital-biomarkers-in-clinical-trials-301047942.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 31
-    images:
-      - url: "https://mma.prnewswire.com/media/1160579/AiCure_Digital_Biomarker_Video.mp4?p=medium"
-        width: 512
-        height: 288
-
-secured: "wKeTVIa78qwwwbbMkxd3nXq3qkwwCQe2Gf0aAb5/WXOqU3QfAN68M3TEeohecvFG1lQy8uBp9ojCaGynTBmXxkIAq2ZuA/T6ffA6qnC5NKxnzqRM5E5XPlNTOPd7KeoHTVd/bDCQhTdr4QZv6GnONxiz7l/04v2DJvevtVmE7ZsKYPN/zPEA1saGP1CioS76ZwUJQj1K6AM6+S8IigM1ZfD95qGS7nye+hit90f+67PBe6ke9ZEMiKrCwj4lDzTgzRYAwTB8MClspc5PkA8Wy1Tr9I8/uFm7bnbaM3WBkyhGlafQtD0TbBR9L1rR2GcxVIEKfP81TsbV6y9vKpLYAkHatu0sQaET0gT45d8bFpXXwaoqdl1ZjtMRbeusc2a4Fk89OEX62l368ulVW/TXiLg0Fj6GeU5SJxhPCdiSz9eYh8xrxyCcjW98WLmVf5hx3pglnoTVGtCCyFnrWVvF4MufyEJE1PeoZWPwWpsiwHo=;/yi7zU02Eo7UJuaMxOTG2Q=="
+secured: "iHiNlgF13ugSC9rjLTdUcX1nma2s0YU66nPKw6aO4bIPGaeYS4VRpa5koNr7QyPLIw1f2Roc/jcFavfsGoVHQiXdtepLmAJK5ID8PdF94KlNbv0OsOg+kuKX4cpXjlg7R+R5BiaIwqmhBPNpYcZD2GObJWbtROHU7SB+YVVlSAAl2PP7mDJff1Iqfw0SYLeexes3SK+WlKpbq9337+YJvOLZuBZpxYdMLN1NRF9BbEPpmX3JIYwzi0V0cNUnaUFZaFw/Ev8RiG/g48LZlkV/nhyEq0Nmp1eskowyfAchoNDZRFxYupGtvGYtZ8J3U+MH;UbUMUEi+DbEhV1l9s9XD1A=="
 ---
 

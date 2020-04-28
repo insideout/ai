@@ -2,6 +2,35 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-03-08-self-driving-cars-can-easily-mimic-human-drivers-claim-researchers.md",
+      "title": "Self-driving cars can easily mimic human drivers, claim researchers",
+      "excerpt": "With the help of an improved sight-correcting system, self-driving cars could learn just by observing human operators complete the same task, researchers have found. The team implemented imitation learning,",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.hindustantimes.com/tech/self-driving-cars-can-easily-mimic-human-drivers-claim-researchers/story-CKxP4LH2lnflsVZVIOrP2L.html",
+      "ampWebUrl": "https://m.hindustantimes.com/tech/self-driving-cars-can-easily-mimic-human-drivers-claim-researchers/story-CKxP4LH2lnflsVZVIOrP2L_amp.html",
+      "cdnAmpWebUrl": "https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/tech/self-driving-cars-can-easily-mimic-human-drivers-claim-researchers/story-CKxP4LH2lnflsVZVIOrP2L_amp.html",
+      "publishedDateTime": "2020-03-08T04:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-07-artificial-intelligence-is-making-artificial-intelligence-easier-to-build.md",
       "title": "Artificial intelligence is making artificial intelligence easier to build",
       "excerpt": "Artificial intelligence and machine learning will automate many business and life tasks, from driving trucks to piloting ships to handling customer calls ... enterprise decisions is the next great frontier for AI and machine-learning. Already, \"self-managing infrastructure is relatively common. We see this in both infrastructure as a service ...",
@@ -1244,51 +1273,6 @@
         "AI in Robotics",
         "AI in Healthcare",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-21-self-driving-car-companies-complain-california-test-data-may-mislead.md",
-      "title": "Self-driving car companies complain California test data may mislead",
-      "excerpt": "Developers of self-driving cars are amping up criticism of a California reporting requirement on test data, saying the data could mislead, as the state prepares to release the latest results for 2019.",
-      "heat": 289,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.reuters.com/article/us-autos-self-driving-california/self-driving-car-companies-complain-california-test-data-may-mislead-idUSKBN20F2F7",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN20F2F7",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN20F2F7",
-      "publishedDateTime": "2020-02-21T09:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200221&t=2&i=1493407844&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG1K1LU",
-          "width": 830,
-          "height": 545,
-          "title": "Self-driving car companies complain California test data may mislead",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

@@ -1,27 +1,21 @@
 ---
 category: news
-title: "Imec Builds World's First Spiking Neural Network-Based Chip for Radar Signal Processing"
+title: "Imec Builds World’s First Spiking Neural Network-Based Chip for Radar Signal Processing"
 excerpt: "Imec, a world-leading research and innovation hub in nanoelectronics and digital technologies, today presents the world’s first chip that processes radar signals using a spiking recurrent neural network."
-publishedDateTime: 2020-04-28T11:38:00Z
-webUrl: "https://www.design-reuse.com/news/47876/imec-spiking-neural-network-based-chip.html"
+publishedDateTime: 2020-04-28T19:00:00Z
+webUrl: "https://www.newswiretoday.com/news/172799/Imec-Builds-Worlds-First-Spiking-Neural-Network-Based-Chip-for-Radar-Signal-Processing/"
 type: article
-quality: 31
+quality: 11
 heat: -1
 published: false
 
 provider:
-  name: Design-Reuse
-  domain: design-reuse.com
+  name: Newswire Today
+  domain: newswiretoday.com
 
 topics:
   - Machine Learning
   - AI
-
-images:
-  - url: "https://www.design-reuse.com/news_img2/homepage47876/20200428b_1.jpg"
-    width: 480
-    height: 275
-    title: "Imec Builds World's First Spiking Neural Network-Based Chip for Radar Signal Processing"
 
 related:
   - title: "First spiking Neural Network-based chip for radar signal processing"
@@ -38,6 +32,6 @@ related:
         width: 375
         height: 250
 
-secured: "XA0jZ+5OoeYkrXxnVAH5gG53uq4fSa2xJw/cguejgebPbdKLrDgYs+kZAQXaTtFY8KuKMUyJZT8BINj/cuOJsZ2wiXmGDIXZr/ZbXW2WzYyUnwSaZE7aSyLU2KA9N3IWfhSYpnaT08p/pJqJiCMOo9qoRloboSRC8Ku42yTHqsXIRigAAVTTU85fOcxhbFeXqcGuoXBxghm/b2Z4pbpLSwvbOpC+WMy5S9dhOr5vaSnU3wwT8UsgXy3N68lVTXP6o4gAZc5DlIohE4BBDnbLzWHxak4S5Ih4Tx0zpMusfGJ4qZJ+3quMXYV2h/mNKLL5MkeTI7xTvi3Nw0ehQqLnlNzY69Nb7k5rs8vjVCo3broV7RBXkkbrhWJwTdci5je6uHQQpjRSyCfpMK8+jG0QkTx7h6qlzDXlEPmJgWDe4WNlotUrovr27Zd/PIyc7oiKObzRlFtgDqCiRNocHUo1qODCOp1g195yhlMVvOW8qI8=;P8yO06yvomOydYGYFqLtQQ=="
+secured: "rnWEAv4+u3jylOkKmqtiH9Qwcnw30rcu8EFsQ8WvbEO03LPgSxdaI35hZtIscZ4uDD16l4TdKPSPFU2Aem2ShureHHC0ARQ/JKeWEWLwViwAh/nZLES/4dPt7ARKNGNRo27cq0tPWgoVeqiPyXqxx1kpgTSWA03GDe0xVUa0guzTDTDC+xSAYkkW/yuDAJjjsyV8zpy9R4rVOnqj3+vm/8ALWohyDKAhLjlgQes7QKeThEK3vIbAwK1Rd5yMOnUTYuGdZvLykCBTnbmBnH/VeVVUqT/aG68pKLttd9ee47mxgvEhXhs25MnoGGBIYDf4nVgFyfyDQZycrnVIc3f5lkNcL4IyA71lZ53RLx0CtXCafqDCRvpeDKIPnV3c0AmnILkAlDGvKmgIT5QQniYc8enQSUqQnv7c3ev0Sqhv95i2bSZ0BgljRtLyMQ2Y8/ArMhN6h0dAO6aJkbN5HoFxpyC7RI38b+N+220oCD8jmro=;R1aI4+DhB+k8u2N8K0QmcA=="
 ---
 

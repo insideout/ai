@@ -8,8 +8,8 @@ ampWebUrl: "https://www.azfamily.com/news/us_world_news/teslas-latest-autopilot-
 cdnAmpWebUrl: "https://www-azfamily-com.cdn.ampproject.org/c/s/www.azfamily.com/news/us_world_news/teslas-latest-autopilot-feature-is-slowing-down-for-green-lights-too/article_eea7ffcb-074f-55ac-89cd-9c4207e7fe12.amp.html"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: AZFamily
@@ -37,6 +37,19 @@ related:
       name: Washington Post
       domain: washingtonpost.com
     quality: 39
+  - title: "Tesla's latest Autopilot feature is slowing down for green lights, too"
+    excerpt: "(CNN) — Tesla has said its latest version of Autopilot, its autonomous driving software, is able to stop at traffic lights ... It's designed to gradually improve as the artificial intelligence that powers it learns from the data that's being collected as Tesla cars drive on public roads, according to a notification in Tesla vehicles when ..."
+    publishedDateTime: 2020-04-28T19:42:00Z
+    webUrl: "https://cnnphilippines.com/business/2020/4/29/Tesla-autopilot-slow-down-green-lights.html"
+    type: article
+    provider:
+      name: CNN Philippines
+      domain: cnnphilippines.com
+    quality: 39
+    images:
+      - url: "http://cnnphilippines.com/.imaging/mte/demo-cnn-new/750x450/dam/cnn/2020/4/29/Tesla-autopilot_CNNPH.JPG/jcr:content/Tesla-autopilot_CNNPH.JPG"
+        width: 750
+        height: 450
 
 secured: "xYj3EHRBgO8gTfgPySM/mSemm292WyzZTv+920JFTnHprKILffq1er6P4c3nL7SWVx+AYhhoWdsPw2ux7yj5t1LVREcBu0sJsK8jcPvh7dmeGFCqhC5JvfPFd/3UFcZZeop16+9cPVFDowKZTO5RrnqyqnqGbZBwgqdmvOxevzhSOYPds3m5RKYxnBMbtSSjJxbVsP1LRCxqJBOKBXebGr4Bzka9o9zul+am8Seq3bYTAXTsdRch/s3Se+9HS/dJ3XrPCJNSmSChrkh17AWirncjNmJxiDdYX8NuOLI/mDYL305Dc5fFl9uCj37XF6p1iAPpNGUvXgYI06rPKyIOIVPoB0lairMa3JXBI4HXj1NMlMciehUdPvEHogAc8eGIRo+POd3qyemklz1I6gqObnYU/wJY3Wc+++27JjTD2MgJEoo1/BaO1OCfpqGlz89uT4nUygEEtG1wWVnKP0I3sBDto7ksqhHqWh1uMoAwABc=;UaseFuASRKfM5CwBUWK2iA=="
 ---

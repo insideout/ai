@@ -7,8 +7,8 @@ webUrl: "https://venturebeat.com/2020/04/28/mit-researchers-release-clevrer-to-a
 ampWebUrl: "https://venturebeat.com/2020/04/28/mit-researchers-release-clevrer-to-advance-visual-reasoning-and-neurosymbolic-ai/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/28/mit-researchers-release-clevrer-to-advance-visual-reasoning-and-neurosymbolic-ai/amp/"
 type: article
-quality: 84
-heat: 84
+quality: 88
+heat: 88
 published: true
 
 provider:
@@ -22,6 +22,8 @@ provider:
 topics:
   - Google AI
   - AI
+  - Facebook AI
+  - IBM AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2018/10/mit1.jpg?fit=2158%2C1619&strip=all"
