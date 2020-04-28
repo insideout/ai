@@ -7,7 +7,7 @@ webUrl: "https://www.law360.com/articles/1267897/self-driving-car-startup-says-t
 ampWebUrl: "https://www.law360.com/amp/articles/1267897"
 cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1267897"
 type: article
-quality: 22
+quality: 39
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 related:
   - title: "Self-Driving Car Startup Says Tesla Can't Rifle Through IP"

@@ -2,6 +2,139 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-04-28-a-sustainable-boost-to-ais-profitability-promise.md",
+      "title": "A Sustainable Boost To AI's Profitability Promise",
+      "excerpt": "In doing so, companies are subsequently given more power to enhance both profitability and sustainability in tandem. For vendors, it gives us extra leverage as we continue to fight back against the \"do-it-yourself\" trend.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/04/28/a-sustainable-boost-to-ais-profitability-promise/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/04/28/a-sustainable-boost-to-ais-profitability-promise/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/04/28/a-sustainable-boost-to-ais-profitability-promise/amp/",
+      "publishedDateTime": "2020-04-28T04:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F04%2Fa-29-2.jpg",
+          "width": 640,
+          "height": 640,
+          "title": "A Sustainable Boost To AI's Profitability Promise",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-28-innovation-ultimatum-a-futurist-looks-at-how-business-can-use-new-technology.md",
+      "title": "Innovation Ultimatum: A Futurist Looks At How Business Can Use New Technology",
+      "excerpt": "Business leaders need to look at the far horizon once in a while, but they have many urgent problems that need attention today. But all leaders need to carve out some time to ponder what’s ahead. A good approach is to read the new book,",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/billconerly/2020/04/28/innovation-ultimatum-a-futurist-looks-at-how-business-can-use-new-technology/",
+      "ampWebUrl": "https://www.forbes.com/sites/billconerly/2020/04/28/innovation-ultimatum-a-futurist-looks-at-how-business-can-use-new-technology/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/billconerly/2020/04/28/innovation-ultimatum-a-futurist-looks-at-how-business-can-use-new-technology/amp/",
+      "publishedDateTime": "2020-04-28T04:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e9f5668736d170006fee2b6%2F0x0.jpg",
+          "width": 641,
+          "height": 480,
+          "title": "Innovation Ultimatum: A Futurist Looks At How Business Can Use New Technology",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-28-artificial-intelligence-and-the-evolving-role-of-the-cio.md",
+      "title": "Artificial Intelligence And The Evolving Role Of The CIO",
+      "excerpt": "How does any company with a passion for user experience express artificial intelligence in a world where the very concept can be seen as creepy, helpful and every other opinion in the middle? As a CIO of any company, how do you live and breathe the mantra of an exemplary, customized experience coupled with sensitivity? Find The Emotion Behind ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/04/28/artificial-intelligence-and-the-evolving-role-of-the-cio/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/04/28/artificial-intelligence-and-the-evolving-role-of-the-cio/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/04/28/artificial-intelligence-and-the-evolving-role-of-the-cio/amp/",
+      "publishedDateTime": "2020-04-28T04:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F04%2Fa-20-3.jpg",
+          "width": 640,
+          "height": 640,
+          "title": "Artificial Intelligence And The Evolving Role Of The CIO",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-28-shanghai-shares-fall-before-earnings-blue-chips-start-ups-climb-on-reform.md",
       "title": "Shanghai shares fall before earnings; blue-chips, start-ups climb on reform",
       "excerpt": "CSI300 adds 0.7%, Chinext up 0.6% but Shanghai slides 0.2% * Start-up board reform positive for A-shares - Morgan Stanley * Banks to report earnings; regulator warns on wealth p",
@@ -362,7 +495,7 @@
       "path": "_news/2020-04-27-portrait-mode-on-iphone-se-relies-only-on-machine-learning.md",
       "title": "Portrait Mode on iPhone SE relies only on machine learning",
       "excerpt": "Apple's new iPhone SE is the company's first -- and thus far, only -- iPhone to solely rely on machine learning for Portrait Mode depth estimation.",
-      "heat": 74,
+      "heat": 84,
       "tags": null,
       "type": "article",
       "webUrl": "https://appleinsider.com/articles/20/04/27/portrait-mode-on-iphone-se-relies-only-on-machine-learning",
@@ -791,7 +924,7 @@
       "path": "_news/2020-04-27-reducing-the-carbon-footprint-of-artificial-intelligence.md",
       "title": "Reducing the carbon footprint of artificial intelligence",
       "excerpt": "A new system cuts the energy required for training and running neural networks. Artificial intelligence has become a focus of certain ethical concerns, but it also has some major sustainability issues.",
-      "heat": 81,
+      "heat": 71,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.sciencedaily.com/releases/2020/04/200423143034.htm",
@@ -1172,139 +1305,6 @@
           "width": 1024,
           "height": 682,
           "title": "Codota picks up $12M for an AI platform that auto-completes developers’ code",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-27-codota-raises-12-million-for-ai-that-suggests-and-autocompletes-code.md",
-      "title": "Codota raises $12 million for AI that suggests and autocompletes code",
-      "excerpt": "Codota, a startup developing a platform that suggests and autocompletes code, has raised $12 million in equity financing.",
-      "heat": 98,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/27/codota-raises-12-million-for-ai-that-suggests-and-autocompletes-code/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/27/codota-raises-12-million-for-ai-that-suggests-and-autocompletes-code/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/27/codota-raises-12-million-for-ai-that-suggests-and-autocompletes-code/amp/",
-      "publishedDateTime": "2020-04-27T04:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/1_0wIenZUkUNVutcizFB9sPA-e1587686866252.jpeg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Codota raises $12 million for AI that suggests and autocompletes code",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-27-shanghai-ride-hailers-can-now-call-for-an-autox-self-driving-taxi.md",
-      "title": "Shanghai ride-hailers can now call for an AutoX self-driving taxi",
-      "excerpt": "Autonomous driving tech company AutoX has partnered with the Alibaba Group's Amap mobility platform to offer folks in Shanghai the option to hail a ride in an AutoX RoboTaxi.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://newatlas.com/automotive/amap-autox-robotaxi-automonous-shanghai/",
-      "ampWebUrl": "https://newatlas.com/automotive/amap-autox-robotaxi-automonous-shanghai/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/automotive/amap-autox-robotaxi-automonous-shanghai/?amp=true",
-      "publishedDateTime": "2020-04-27T03:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/5ced272/2147483647/strip/true/crop/6036x4024+6+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Ff9%2F64%2F1def9f2d4b9284f3202d26fdc1df%2Fautox-amap-app.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "Shanghai ride-hailers can now call for an AutoX self-driving taxi",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-27-ai-startup-weve-removed-humans-from-business-negotiations.md",
-      "title": "AI startup: We've removed humans from business negotiations",
-      "excerpt": "But that is exactly what happened in late March this year when Estonian startup Pactum, which provides an AI-based commercial negotiation tool, was engaged by Walmart to automate negotiations with part of its global supplier network.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/ai-startup-weve-removed-humans-from-business-negotiations/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-startup-weve-removed-humans-from-business-negotiations/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-startup-weve-removed-humans-from-business-negotiations/",
-      "publishedDateTime": "2020-04-27T03:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/03/20/0cbe715a-9388-45c9-8237-a85e194778e5/thumbnail/1200x675/2f631e2f35c572488ba70aa7ff321067/carfillingupistock-900314960.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "AI startup: We've removed humans from business negotiations",
           "attribution": null
         }
       ],

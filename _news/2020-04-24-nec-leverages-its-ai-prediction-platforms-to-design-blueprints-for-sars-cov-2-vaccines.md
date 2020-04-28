@@ -8,7 +8,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20200424/NEC-leverages-its-AI-
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200424/NEC-leverages-its-AI-prediction-platforms-to-design-blueprints-for-SARS-CoV-2-vaccines.aspx"
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -23,23 +23,6 @@ images:
     width: 620
     height: 480
     title: "NEC leverages its AI prediction platforms to design blueprints for SARS-CoV-2 vaccines"
-
-related:
-  - title: "Google claims its AI can design computer chips in under 6 hours"
-    excerpt: "In a preprint paper coauthored by Google AI lead Jeff Dean, scientists at Google Research and the Google chip implementation and infrastructure team describe a learning-based approach to chip design that can learn from past experience and improve over time, becoming better at generating architectures for unseen components. They claim it ..."
-    publishedDateTime: 2020-04-23T17:35:00Z
-    webUrl: "https://venturebeat.com/2020/04/23/google-claims-its-ai-can-design-computer-chips-in-under-6-hours/"
-    ampWebUrl: "https://venturebeat.com/2020/04/23/google-claims-its-ai-can-design-computer-chips-in-under-6-hours/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/23/google-claims-its-ai-can-design-computer-chips-in-under-6-hours/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 104
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/10/google-ai-logo.jpg?fit=1200%2C600&strip=all"
-        width: 1200
-        height: 600
 
 secured: "H52Fvb0jfzZWHCEFUPio0cH7VkvFNiZve4IAwvikc/vXWR4jGGXRDm1u3BFcpQH5IXZUfQsC5Ta/4T02xxClR1WMGej82YHAVL65p4vGdz9Ui9RpGB3r1mwYn+5fNDXw9/an3g8jnkdaB+nUhFv51RctFp3CHt5bZzpw6+tItQhY61zSQdzV1ml+lyLCHC4R8KOXpxWUPrKi8PoHlFRtiWQZjVjln+PMOQHf4fDcsSjTY/n13D8EQiMN/Cu944n61REULVc7qwQY1fKJRN4OqrojtC3OCBg1ktAaa/6Cfy4RY4XLdKkjsBKioUuy7/hKiy9hzu43YxdMZzqxdGVkvY+7TiVpSR3ppjR3N6TYQO28Tm5KCzTvCEhv4KrpHJnpFwJ8V8GeS/bPb+3fk5zNzKULPgTkFvMxjqa2Sr08kRJsONXmirZR2pplakEYhJZkjv2FcJnNvAY+sVzlJFKKe8mxv0Wc0O90PPitLLLYpx8=;M+6FnhM8fd9x+xuzjPUcGA=="
 ---

@@ -30,7 +30,7 @@ related:
     provider:
       name: Law360
       domain: law360.com
-    quality: 22
+    quality: 39
 
 secured: "Q5haFQgmLxy6OKQfmZTG8gNmG7NHPKuPNrdRV1QOlpLJEMSrqFMf3hwJ80KbPsF0315fIV0o1aF3OjJpCSGkqns7fR4lou6sT82T8g/zV8VCshrEnUUd/BJ05dd53TVhgPM3dmuFV6Br3MkzEDKhPhBF9ZQS8N/QkP1yThMm796qtFBzyx9TU6B9MuWws7bW42IiKAoQtl0clKroSHalaA1j4C4kdvAgGRJg8qKADjIAbGfVbho9Q1xvyWTn2BlJkk+OyUh36l6YdhN+Bsyl5rmHXraRyfNL6YhoS6OIW/1zs9u1EiE2JvmwnEeAvEcL;D8FiuyJF0ghFhUhPuFd29g=="
 ---

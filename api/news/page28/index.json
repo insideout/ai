@@ -2,6 +2,141 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2020-04-02-amazon-and-sensetime-detail-omnisource-a-framework-that-scrapes-web-videos-to-train-ai.md",
+      "title": "Amazon and SenseTime detail OmniSource, a framework that scrapes web videos to train AI",
+      "excerpt": "Researchers at AI startup SenseTime, Amazon, and the Chinese University of Hong Kong say they’ve developed a new framework for leveraging web data — OmniSource — that notches records in the video recognition domain. By overcoming barriers between data formats like images, short videos, and long untrimmed videos and adopting good practices ...",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/02/amazon-sensetime-omnisource-framework-web-data-video-recognition/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/02/amazon-sensetime-omnisource-framework-web-data-video-recognition/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/02/amazon-sensetime-omnisource-framework-web-data-video-recognition/amp/",
+      "publishedDateTime": "2020-04-02T10:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/12/amazon-logo-reuters.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Amazon and SenseTime detail OmniSource, a framework that scrapes web videos to train AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-02-surveillance-ai-and-saving-lives-top-agenda-at-coronavirus-conference.md",
+      "title": "Surveillance, AI, and saving lives top agenda at coronavirus conference",
+      "excerpt": "The Stanford Institute of Human-Centered AI (HAI) hosted a conference to discuss applications of AI that governments ... Public health and government officials are actively considering surveillance, quick tech builds, and ways to accelerate research or gain predictive insights. Last week, WHO executive director Dr. Michael Ryan said ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/02/surveillance-ai-and-saving-lives-top-agenda-at-coronavirus-conference/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/02/surveillance-ai-and-saving-lives-top-agenda-at-coronavirus-conference/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/02/surveillance-ai-and-saving-lives-top-agenda-at-coronavirus-conference/amp/",
+      "publishedDateTime": "2020-04-02T09:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/stanford-hai-coronavirus.png?fit=1800%2C900&strip=all",
+          "width": 1800,
+          "height": 900,
+          "title": "Surveillance, AI, and saving lives top agenda at coronavirus conference",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-02-google-is-using-machine-learning-to-improve-the-quality-of-duo-calls.md",
+      "title": "Google is using machine learning to improve the quality of Duo calls",
+      "excerpt": "Google says that 99 percent of Duo calls experience packet loss: 20 percent of these lose over 3 percent of their audio, and 10 percent lose over 8 percent. That’s a lot of audio to replace. Every calling app has to deal with this packet loss somehow,",
+      "heat": 91,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.theverge.com/2020/4/2/21204375/google-duo-waveneteq-packet-loss-concealment-machine-learning-neural-network-deepmind",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/4/2/21204375/google-duo-waveneteq-packet-loss-concealment-machine-learning-neural-network-deepmind",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/4/2/21204375/google-duo-waveneteq-packet-loss-concealment-machine-learning-neural-network-deepmind",
+      "publishedDateTime": "2020-04-02T09:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/bfUl1jN9kFr54TYBhItgUvp4C4Q=/0x0:800x600/1400x933/filters:focal(336x236:464x364):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66593465/google_duo_logo_icon.0.png",
+          "width": 800,
+          "height": 600,
+          "title": "Google is using machine learning to improve the quality of Duo calls",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-02-how-ai-can-determine-which-coronavirus-patients-require-hospitalization.md",
       "title": "How AI can determine which coronavirus patients require hospitalization",
       "excerpt": "This is one area where artificial intelligence can help, experts at Jvion believe ... “Which patient could do well at home, and which patient is likely to not survive no matter what therapy is offered is one of the more difficult clinical challenges. AI can definitely help in this space.” Jvion’s AI will help identify uninfected ...",
@@ -938,133 +1073,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-02-ai-is-greedy-but-we-can-teach-it-to-share.md",
-      "title": "AI Is ‘Greedy’, But We Can Teach It To Share",
-      "excerpt": "Running Artificial Intelligence processes isn’t a lightweight computing operation. The so-called ‘data science workloads’ that AI solutions need to perform processes require more than your average laptop and,",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/adrianbridgwater/2020/04/02/ai-is-greedy-but-we-can-teach-it-to-share/",
-      "ampWebUrl": "https://www.forbes.com/sites/adrianbridgwater/2020/04/02/ai-is-greedy-but-we-can-teach-it-to-share/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2020/04/02/ai-is-greedy-but-we-can-teach-it-to-share/amp/",
-      "publishedDateTime": "2020-04-02T01:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e84b1f12b3ff900068e6813%2F0x0.jpg",
-          "width": 640,
-          "height": 449,
-          "title": "AI Is ‘Greedy’, But We Can Teach It To Share",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-02-fintech-start-up-recko-raises-42-cr-in-series-a-round.md",
-      "title": "Fintech start-up Recko raises ₹42 cr in Series A round",
-      "excerpt": "Vertex Ventures SEA and India has led a ₹42-crore ($6-million) Series A round in enterprise fintech start-up Recko, with participation from existing investor Prime Venture Partners. Recko, which enables AI-powered reconciliation of digital transactions ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.thehindubusinessline.com/info-tech/fintech-start-up-recko-raises-42-cr-in-series-a-round/article31234152.ece",
-      "ampWebUrl": "https://www.thehindubusinessline.com/info-tech/fintech-start-up-recko-raises-42-cr-in-series-a-round/article31234152.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/fintech-start-up-recko-raises-42-cr-in-series-a-round/article31234152.ece/amp/",
-      "publishedDateTime": "2020-04-02T00:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Line",
-        "domain": "thehindubusinessline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.thehindubusinessline.com/todays-paper/tp-others/tp-states/c374ux/article30591370.ece/ALTERNATES/LANDSCAPE_615/bl1817bgakrPGR8705KHD3jpgjpg",
-          "width": 615,
-          "height": 384,
-          "title": "Fintech start-up Recko raises ₹42 cr in Series A round",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-02-snowflakes-snowpro-certification-preparation-guide-how-to-pass-in-3-days.md",
-      "title": "Snowflake’s SnowPro Certification Preparation Guide — How to pass in 3 days",
-      "excerpt": "Snowflake’s SnowPro Core Certification exam was just released a few months back (late 2019). The 2 hours, 100 questions exam tests an individual’s foundational and advance knowledge of ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/weareservian/snowflakes-snowpro-certification-exam-preparation-guide-how-to-pass-in-3-days-5e5baa484c68",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-02T00:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/1200/1*xhOBQS_ddKJjYxe69rZ-Aw.png",
-          "width": 1200,
-          "height": 505,
-          "title": "Snowflake’s SnowPro Certification Preparation Guide — How to pass in 3 days",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

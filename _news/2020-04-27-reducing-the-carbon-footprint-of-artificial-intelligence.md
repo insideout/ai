@@ -6,7 +6,7 @@ publishedDateTime: 2020-04-27T14:23:00Z
 webUrl: "https://www.sciencedaily.com/releases/2020/04/200423143034.htm"
 type: article
 quality: 51
-heat: 81
+heat: 71
 published: true
 
 provider:
@@ -23,19 +23,6 @@ topics:
   - Machine Learning
 
 related:
-  - title: "Reducing the carbon footprint of artificial intelligence"
-    excerpt: "Artificial intelligence has become a focus of certain ethical concerns, but it also has some major sustainability issues. Last June, researchers at the University of Massachusetts at Amherst released a startling report estimating that the amount of power required for training and searching a certain neural network architecture involves the ..."
-    publishedDateTime: 2020-04-23T17:44:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-04/miot-rtc042320.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 41
-    images:
-      - url: "https://eurekalert.org/images/EurekAlert_StackedLogo_RGB.jpg"
-        width: 900
-        height: 300
   - title: "New system could reduce the carbon footprint of artificial intelligence"
     excerpt: "The paper is being presented next week at the International Conference on Learning Representations. Joining Han on the paper are four undergraduate and graduate students from EECS, MIT-IBM Watson AI Lab, and Shanghai Jiao Tong University. Creating a “once-for-all” network The researchers built the system on a recent AI advance called AutoML ..."
     publishedDateTime: 2020-04-25T10:36:00Z

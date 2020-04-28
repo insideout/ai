@@ -34,19 +34,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 51
-  - title: "Reducing the carbon footprint of artificial intelligence"
-    excerpt: "Artificial intelligence has become a focus of certain ethical concerns, but it also has some major sustainability issues. Last June, researchers at the University of Massachusetts at Amherst released a startling report estimating that the amount of power required for training and searching a certain neural network architecture involves the ..."
-    publishedDateTime: 2020-04-23T17:44:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-04/miot-rtc042320.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 41
-    images:
-      - url: "https://eurekalert.org/images/EurekAlert_StackedLogo_RGB.jpg"
-        width: 900
-        height: 300
   - title: "Reducing AI’s carbon footprint"
     excerpt: "we have to figure out how to shrink AI down to size.” “The model is really compact. I am very excited to see OFA can keep pushing the boundary of efficient deep learning on edge devices,” said Chuang Gan, a researcher at the MIT-IBM Watson AI Lab and co-author of the paper. “If rapid progress in AI is to continue, we need to reduce its ..."
     publishedDateTime: 2020-04-24T07:03:00Z

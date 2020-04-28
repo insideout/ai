@@ -2,6 +2,133 @@
   "page": 75,
   "value": [
     {
+      "path": "_news/2020-02-21-the-amazing-ways-goodyear-uses-artificial-intelligence-and-iot-for-digital-transformation.md",
+      "title": "The Amazing Ways Goodyear Uses Artificial Intelligence And IoT For Digital Transformation",
+      "excerpt": "Although Goodyear is a mature company, they are on the cutting edge of using today’s newest technology to propel innovation and their business in the 21st century.",
+      "heat": 130,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2020/02/21/the-amazing-ways-goodyear-uses-artificial-intelligence-and-iot-for-digital-transformation/",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2020/02/21/the-amazing-ways-goodyear-uses-artificial-intelligence-and-iot-for-digital-transformation/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2020/02/21/the-amazing-ways-goodyear-uses-artificial-intelligence-and-iot-for-digital-transformation/amp/",
+      "publishedDateTime": "2020-02-20T21:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e4f6b9f765d4500072cd7f2%2F0x0.jpg",
+          "width": 1200,
+          "height": 577,
+          "title": "The Amazing Ways Goodyear Uses Artificial Intelligence And IoT For Digital Transformation",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2020-02-21-ai-laws-are-coming.md",
+      "title": "AI Laws Are Coming",
+      "excerpt": "Adoption for AI and cognitive technologies shows no signs of slowing and governments across the world are paying attention. AI laws are coming.",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/02/20/ai-laws-are-coming/",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/02/20/ai-laws-are-coming/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/02/20/ai-laws-are-coming/amp/",
+      "publishedDateTime": "2020-02-20T20:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e4de06b7a0098000733c5d8%2F0x0.jpg",
+          "width": 710,
+          "height": 512,
+          "title": "AI Laws Are Coming",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2020-02-21-microsoft-threat-protection-an-israeli-built-ai-bundle-of-redmonds-security-services.md",
+      "title": "Microsoft Threat Protection: an Israeli-built AI bundle of Redmond's security services",
+      "excerpt": "Microsoft Threat Protection literally consists of four existing services including Microsoft Defender Advanced Threat Protection (ATP), its Windows antivirus — which these days Mac and Linux too — Office ATP, Azure ATP, and its cloud app security suite. But while Microsoft Threat Protection is a combination of those existing services ...",
+      "heat": 116,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.csoonline.com/article/3528708/microsoft-threat-protection-an-israeli-built-ai-bundle-of-redmonds-security-services.html",
+      "ampWebUrl": "https://www.csoonline.com/article/3528708/microsoft-threat-protection-an-israeli-built-ai-bundle-of-redmonds-security-services.amp.html",
+      "cdnAmpWebUrl": "https://www-csoonline-com.cdn.ampproject.org/c/s/www.csoonline.com/article/3528708/microsoft-threat-protection-an-israeli-built-ai-bundle-of-redmonds-security-services.amp.html",
+      "publishedDateTime": "2020-02-20T18:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CSOonline",
+        "domain": "csoonline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2019/12/09/06/2019-11-16t023310z_1_lynxmpefaf02a_rtroptp_4_microsoft-results-100820758-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Microsoft Threat Protection: an Israeli-built AI bundle of Redmond's security services",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-02-20-expert-advocates-robotics-training-for-pupils-teachers.md",
       "title": "Expert advocates robotics training for pupils, teachers",
       "excerpt": "It will help our economy because we need to start preparing our pupils for the future ... He said, “Whether we are ready or not, the fourth industrial revolution which is about AI robotics is about to stay. it is better we key into it and I think we have started at the right place, which is to educate the pupils in primary and secondary ...",
@@ -910,139 +1037,6 @@
       "topics": [
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-02-20-googles-android-11-heres-whats-new-for-5g-ai-and-security-plus-tougher-data-rules.md",
-      "title": "Google's Android 11: Here's what's new for 5G, AI and security, plus tougher data rules",
-      "excerpt": "There's a permissions module that standardizes user and developer access to key privacy controls on Android devices, a media provider module that improves scoped storage privacy, and a Neural Networks API module that optimizes performance for AI tasks on mobile devices.",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/googles-android-11-heres-whats-new-for-5g-ai-and-security-plus-tougher-data-rules/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/googles-android-11-heres-whats-new-for-5g-ai-and-security-plus-tougher-data-rules/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/googles-android-11-heres-whats-new-for-5g-ai-and-security-plus-tougher-data-rules/",
-      "publishedDateTime": "2020-02-20T05:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2019/11/11/20e02357-a110-4e22-bf9a-3b6763079b85/thumbnail/1200x675/237126ff8eb6572412c2e7ed55096d7b/bill-gates-i-messed-up-microsofts-chance-5dc9425d415e54000148cd05-1-nov-11-2019-13-14-17-poster.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Google's Android 11: Here's what's new for 5G, AI and security, plus tougher data rules",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-20-google-ai-will-no-longer-use-gender-labels-like-woman-or-man-on-images-of-people-to-avoid-bias.md",
-      "title": "Google AI will no longer use gender labels like 'woman' or 'man' on images of people to avoid bias",
-      "excerpt": "Google says it made the change because you can't deduce someone's gender by their appearance.",
-      "heat": 73,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businessinsider.com/google-cloud-vision-api-wont-tag-images-by-gender-2020-2",
-      "ampWebUrl": "https://www.businessinsider.com/google-cloud-vision-api-wont-tag-images-by-gender-2020-2?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-cloud-vision-api-wont-tag-images-by-gender-2020-2?amp",
-      "publishedDateTime": "2020-02-20T05:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.insider.com/5c1aab65a040ff0e71344943?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": "Google AI will no longer use gender labels like 'woman' or 'man' on images of people to avoid bias",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-20-how-artificial-intelligence-can-help-pick-the-best-depression-treatments-for-you.md",
-      "title": "How Artificial Intelligence Can Help Pick the Best Depression Treatments for You",
-      "excerpt": "But promising new research published in February in Nature Biotechnology suggests that a simple brain test, paired with insights from artificial intelligence (AI), can predict whether an antidepressant will work on a given patient. Trivedi and a team of researchers took data from a previous study in which more than 200 people with depression ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://time.com/5786081/depression-medication-treatment-artificial-intelligence/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-20T05:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Time",
-        "domain": "time.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/time.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://api.time.com/wp-content/uploads/2020/02/your_brain_knows_the_meds_you_need.jpg",
-          "width": 2400,
-          "height": 1972,
-          "title": "How Artificial Intelligence Can Help Pick the Best Depression Treatments for You",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

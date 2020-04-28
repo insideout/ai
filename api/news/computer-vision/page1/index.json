@@ -766,14 +766,14 @@
     {
       "path": "_news/2020-04-15-afp-used-clearview-ai-facial-recognition-software-to-counter-child-exploitation.md",
       "title": "AFP used Clearview AI facial recognition software to counter child exploitation",
-      "excerpt": "Seven officers have conducted searches on the Clearview AI facial recognition platform. Share. Contact. Read full article: AFP used Clearview AI facial recognition software to cou",
+      "excerpt": "In response to questions taken on notice by deputy commissioner Karl Kent, the AFP said while it did not adopt the facial recognition platform Clearview AI as an enterprise produc",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.zdnet.com/video/afp-used-clearview-ai-facial-recognition-software-to-counter-child-exploitation/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-14T20:45:00-07:00",
+      "webUrl": "https://www.zdnet.com/article/afp-used-clearview-ai-facial-recognition-software-to-counter-child-exploitation/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/afp-used-clearview-ai-facial-recognition-software-to-counter-child-exploitation/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/afp-used-clearview-ai-facial-recognition-software-to-counter-child-exploitation/",
+      "publishedDateTime": "2020-04-14T20:40:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "ZDNet",
@@ -792,9 +792,9 @@
       },
       "images": [
         {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2020/04/16/43dce3ec-8083-443a-b027-321bdeafee8c/thumbnail/770x578/a5f5db7891dc99aa2234de7b704b2e30/afp-used-clearview-ai-facial-recognition-5e97a875b3157671f8b01e1d-1-apr-16-2020-6-30-34-poster.jpg",
-          "width": 770,
-          "height": 578,
+          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/04/16/43dce3ec-8083-443a-b027-321bdeafee8c/thumbnail/1200x675/cdefb4be9dbcbf757b2c3cad0ac932ec/afp-used-clearview-ai-facial-recognition-5e97a875b3157671f8b01e1d-1-apr-16-2020-6-30-34-poster.jpg",
+          "width": 1200,
+          "height": 675,
           "title": "AFP used Clearview AI facial recognition software to counter child exploitation",
           "attribution": null
         }

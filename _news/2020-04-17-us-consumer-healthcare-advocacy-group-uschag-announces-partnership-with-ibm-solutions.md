@@ -1,9 +1,9 @@
 ---
 category: news
 title: "U.S. Consumer Healthcare Advocacy Group (USCHAG) Announces Partnership with IBM Solutions"
-excerpt: "U.S. Consumer Healthcare Advocacy Group (USCHAG) is pleased to announce a formal partnership with IBM Solutions. While the details of the relationship are confidential,"
-publishedDateTime: 2020-04-17T12:33:00Z
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/u-s-consumer-healthcare-advocacy-group-uschag-announces-partnership-with-ibm-solutions/article_bd7661a1-ef09-596d-a592-242638e0c699.html"
+excerpt: "utilization of artificial intelligence (AI) and IBM's Watson capabilities to effect positive and empowering change for consumers when working with the American healthcare system. In development for over a decade and Founded in 2018, USCHAG is a family of ..."
+publishedDateTime: 2020-04-17T13:09:00Z
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/u-s-consumer-healthcare-advocacy-group-uschag-announces-partnership-with-ibm-solutions/article_bd7661a1-ef09-596d-a592-242638e0c699.html"
 type: article
 
 provider:
@@ -20,6 +20,6 @@ images:
     height: 400
     title: "U.S. Consumer Healthcare Advocacy Group (USCHAG) Announces Partnership with IBM Solutions"
 
-secured: "wqaUyV0bZUeqNt6vw5oIAlhbk5g4AitOFRqL6Mw6+2xG8ssG37X0J7pJ1SP+pwlimVWawOJzVHYbIruOU2ThuS9sE5BQIpIiMDbliaVLhUU+Oq4UDfTDsnPD0eAE+E0LXpXXejKF0IN+8iby/4qVgl0KOFoNGcxC57sdzr2fDmR9DrAlAX5TXw7RTa0JIFm/0AE3U5+IlC2LGfXUzqJiYz26nIK88SJQo5r/cKUsuge3b0/FpG1oOSiLdEnT75vt0vHQG6L/pN4yfrYdNd2H6dcRb6KxEIntWGZUYb65JFYBsEJ2nht9NZhHUm9taVrbTrtU1Cs2MfI/06zHA81hmG6v6q5k/Y12ORvbB20t74Xsn+1BeNH8aYM3b7lkz9h7eV/s3g6yTFXmCy6Eb2J6wAv/v6wN8WTq+3bNLYkbM/eNn02GyfkOGsD68oWS91ET51QIJflPgcQ4EqyUJiCI3I1dH7h+ibktYRb5ZMs0+y0=;eN1yWdUiGVGRhoSNdMAVKA=="
+secured: "qVVG6UXSN6c/Ur9rTRnJ2PDLEYidaJZtfRkS6suAmFE8/LSmGYbU2bzffBEicTAnK/LMnDqzI0ydJMXZIcoJKErOtpHTKuOdA3XSpoGEm9Zp++NC9I/9Wui8fUjW8vzZ2qcfS+a2lE8dfxW0sr0EjrdXZOWN0M6a1jG9lSnBxPcF69yXqWdxY6gxD5zOOUYCk/ORX0GSUkjO/9lFx+8mgC4upKD5Pu78qbx9YU731gt+x70LoaNHZgcNq0Mh300kBnyaVM/nkxz6yq1OGrZ5pjOiqP1YTiqtbjQ0rBfETVQiaDcNU3Xsq3qhuw/GalM9;t50w/iTnpUune+e5CnAa4A=="
 ---
 
