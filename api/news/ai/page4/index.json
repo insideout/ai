@@ -2,6 +2,142 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-04-24-machine-learning-as-a-service-mlaas-market-analysis-global-industry-size-share-trends-and-forecast-2020-2026.md",
+      "title": "Machine Learning as a Service (MLaaS) Market Analysis – Global Industry Size, Share, Trends and Forecast 2020 – 2026",
+      "excerpt": "According to the report published by Acumen Research and Consulting, the global Machine Learning as a Service (MLaaS) market was expected to reach at US$ Mn in 2018 and is anticipated to exceed US$ Mn by 2026.",
+      "heat": 81,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-analysis-global-industry-size-share-trends-and-forecast-2020-2026-2020-04-24",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-24T03:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Machine Learning as a Service (MLaaS) Market Analysis – Global Industry Size, Share, Trends and Forecast 2020 – 2026",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-24-microsoft-office-365-how-these-azure-machine-learning-services-will-make-you-more-productive-and-efficient.md",
+      "title": "Microsoft Office 365: How these Azure machine-learning services will make you more productive and efficient",
+      "excerpt": "Office can now suggest better phrases in Word or entire replies in Outlook, design your PowerPoint slides, and coach you on presenting them. Microsoft built those features with Azure Machine Learning and big models - while keeping your Office 365 data private. The Microsoft Office clients have been getting smarter for several years: the first ...",
+      "heat": 88,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/article/microsoft-office-365-how-these-azure-machine-learning-services-will-make-you-more-productive-and-efficient/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/microsoft-office-365-how-these-azure-machine-learning-services-will-make-you-more-productive-and-efficient/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-office-365-how-these-azure-machine-learning-services-will-make-you-more-productive-and-efficient/",
+      "publishedDateTime": "2020-04-24T02:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/04/23/bd257cc5-e6b0-4817-bbcd-b95ebcdf40a3/resize/400x/529012c6be678840cc1a17dd23cb25e0/acronyms-ml.jpg",
+          "width": 400,
+          "height": 516,
+          "title": "Microsoft Office 365: How these Azure machine-learning services will make you more productive and efficient",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-04-24-xiaomi-launches-the-mijia-sweeping-robot-g1-an-affordable-cleaning-device.md",
+      "title": "Xiaomi launches the MIJIA Sweeping Robot G1, an affordable cleaning device",
+      "excerpt": "Notably, the robot also supports the Xiao AI voice assistant. It can also be linked with a smart door lock. Thus, the Xiaomi MIJIA Sweeping Robot G1 can immediately start sweeping as people start walking in. The device automatically goes to recharge once it is done with its designated task. The gadget starts from 899Yuan (roughly 127 US Dollars ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.gizmochina.com/2020/04/24/xiaomi-launches-the-mijia-sweeping-robot-g1-an-affordable-cleaning-device/",
+      "ampWebUrl": "https://www.gizmochina.com/2020/04/24/xiaomi-launches-the-mijia-sweeping-robot-g1-an-affordable-cleaning-device/?amp",
+      "cdnAmpWebUrl": "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2020/04/24/xiaomi-launches-the-mijia-sweeping-robot-g1-an-affordable-cleaning-device/?amp",
+      "publishedDateTime": "2020-04-24T00:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2020/04/s_e6443c3feee340f59542aef7dce697d6.png",
+          "width": 600,
+          "height": 428,
+          "title": "Xiaomi launches the MIJIA Sweeping Robot G1, an affordable cleaning device",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-24-google-researchers-use-deep-reinforcement-learning-for-optimizing-chip-design.md",
       "title": "Google researchers use deep reinforcement learning for optimizing chip design",
       "excerpt": "However, it is a process that takes substantial time, and efforts are being made to make it more efficient. Considering this, researchers working with Google have now looked towards machine learning to help tackle the problem. In a recent paper titled “Chip Placement with Deep Reinforcement Learning” published on arXiv, the team at Google ...",
@@ -1174,134 +1310,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-23-time-to-think-ethically-about-ai.md",
-      "title": "Time to think ethically about AI",
-      "excerpt": "Camilla Ravazzolo, the MRS EU policy manager at the MRS, writes about reframing the discussion around artificial intelligence.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.research-live.com/article/opinion/time-to-think-ethically-about-ai/id/5066692",
-      "ampWebUrl": "https://www.research-live.com/amp-page.html?id=5066692&name=time-to-think-ethically-about-ai",
-      "cdnAmpWebUrl": "https://www-research--live-com.cdn.ampproject.org/c/s/www.research-live.com/amp-page.html?id=5066692&name=time-to-think-ethically-about-ai",
-      "publishedDateTime": "2020-04-23T04:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "research",
-        "domain": "research-live.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.research-live.com/img/MRS_EM_RGB.jpg",
-          "width": 1000,
-          "height": 581,
-          "title": "Time to think ethically about AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-23-misconception-3-of-5-managing-models-is-like-managing-traditional-software.md",
-      "title": "Misconception 3 (of 5): Managing Models Is Like Managing Traditional Software",
-      "excerpt": "More recently, I covered the profound implications that AutoML will have on the enterprise and how ModelOps will be essential for managing shadow AI. This article deals with one of the most important topics in this series,",
-      "heat": 81,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/04/23/misconception-3-of-5-managing-models-is-like-managing-traditional-software/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/04/23/misconception-3-of-5-managing-models-is-like-managing-traditional-software/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/04/23/misconception-3-of-5-managing-models-is-like-managing-traditional-software/amp/",
-      "publishedDateTime": "2020-04-23T04:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F04%2Fa-53-3.jpg",
-          "width": 640,
-          "height": 640,
-          "title": "Misconception 3 (of 5): Managing Models Is Like Managing Traditional Software",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-23-bringing-machine-learning-to-finance-dont-overlook-these-three-key-considerations.md",
-      "title": "Bringing Machine Learning To Finance? Don't Overlook These Three Key Considerations",
-      "excerpt": "Harnessing the promise and power of machine learning is an exciting prospect for finance executives. Before long, planning systems will operate much like a navigation system for finance teams — a kind of Waze for business.",
-      "heat": 85,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/04/23/bringing-machine-learning-to-finance-dont-overlook-these-three-key-considerations/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/04/23/bringing-machine-learning-to-finance-dont-overlook-these-three-key-considerations/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/04/23/bringing-machine-learning-to-finance-dont-overlook-these-three-key-considerations/amp/",
-      "publishedDateTime": "2020-04-23T04:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F04%2Fa-54-3.jpg",
-          "width": 640,
-          "height": 640,
-          "title": "Bringing Machine Learning To Finance? Don't Overlook These Three Key Considerations",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

@@ -2,6 +2,178 @@
   "page": 44,
   "value": [
     {
+      "path": "_news/2020-03-23-microsofts-cloud-and-ai-services-tapped-in-coronavirus-fight.md",
+      "title": "Microsoft's Cloud and AI Services Tapped in Coronavirus Fight",
+      "excerpt": "Microsoft recently described the ways in which its artificial intelligence (AI) and machine learning offerings, as well as its Azure cloud, are being used by researchers and other public health ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://rcpmag.com/articles/2020/03/23/microsoft-cloud-ai-coronavirus-research.aspx",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-23T09:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Redmond Channel Partner",
+        "domain": "rcpmag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://rcpmag.com/-/media/ECG/redmondmag/Images/IntroImages2017/1017red_F2Ransomware.jpg",
+          "width": 647,
+          "height": 450,
+          "title": "Microsoft's Cloud and AI Services Tapped in Coronavirus Fight",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-23-ubers-enhanced-poet-creates-and-solves-ai-agent-training-challenges.md",
+      "title": "Uber’s Enhanced POET creates and solves AI agent training challenges",
+      "excerpt": "They say it produces AI agents capable of solving a range of environmental challenges, many of which can’t be solved through other means, taking a step toward AI systems that could bootstrap themselves to powerful cognitive machines. Picture enterprise AI that learns an objective without instruction beyond a vague task list, or cars that ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/03/23/uber-enhanced-poet-creates-and-solves-its-own-challenges-to-train-ai-agents/",
+      "ampWebUrl": "https://venturebeat.com/2020/03/23/uber-enhanced-poet-creates-and-solves-its-own-challenges-to-train-ai-agents/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/23/uber-enhanced-poet-creates-and-solves-its-own-challenges-to-train-ai-agents/amp/",
+      "publishedDateTime": "2020-03-23T09:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/02/GettyImages-509147578-e1584462768628.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Uber’s Enhanced POET creates and solves AI agent training challenges",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-23-ai-in-computer-vision-market-project-to-include-more-research-development-to-attain-high-valuation.md",
+      "title": "AI in Computer Vision Market Project to Include More Research & Development to Attain High Valuation",
+      "excerpt": "AI in Computer Vision Market Research Report- Forecast till 2023 Market Highlights A boom in the increasing demand",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-project-to-include-more-research-development-to-attain-high-valuation-2020-03-23",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-23T09:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "AI in Computer Vision Market Project to Include More Research & Development to Attain High Valuation",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2020-03-23-autonomous-vehicle-market-global-business-opportunities-analysis-with-trends-and-forecast-to-2027.md",
+      "title": "Autonomous Vehicle Market: Global Business Opportunities Analysis with Trends and Forecast to 2027",
+      "excerpt": "Mar 23, 2020 (Business Arrival via Comtex) -- the global autonomous vehicle market is expected to expand at a CAGR of 35.6% during the forecast period",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/autonomous-vehicle-market-global-business-opportunities-analysis-with-trends-and-forecast-to-2027-2020-03-23",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-23T08:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Autonomous Vehicle Market: Global Business Opportunities Analysis with Trends and Forecast to 2027",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-23-nvidias-dlss-20-details-better-graphics-made-easier-with-ai.md",
       "title": "NVIDIA’s DLSS 2.0 details: Better graphics made easier with AI",
       "excerpt": "DLSS 2.0 (Deep Learning Super Sampling) might be just the game-changing graphics technology we need at this strange point in history. DLSS 2.0 uses dedicated AI processors (Tensor Cores) on NVIDIA GeForce RTX graphics cards to bring boosted frame rates without the blurry textures that usually come along for the ride. While DLSS 2.0 works with ...",
@@ -858,170 +1030,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-21-artificial-intelligence-system-aimed-at-preventing-drownings.md",
-      "title": "Artificial intelligence system aimed at preventing drownings",
-      "excerpt": "The device resembles a stingray, except it doesn’t patrol the water in search of prey -- rather than threaten humans, it aims to save them.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.fresnobee.com/news/article241279376.html",
-      "ampWebUrl": "https://amp.fresnobee.com/news/article241279376.html",
-      "cdnAmpWebUrl": "https://amp-fresnobee-com.cdn.ampproject.org/c/s/amp.fresnobee.com/news/article241279376.html",
-      "publishedDateTime": "2020-03-21T00:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Fresno Bee",
-        "domain": "fresnobee.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5596404782001/9774f891-9d20-41f1-bd88-9e65e1074b3d/aa6356b5-b0c9-418b-a6aa-f925cec85dd8/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": "Artificial intelligence system aimed at preventing drownings",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-20-adaptive-biotechnologies-using-microsoft-azure-to-better-detect-covid-19.md",
-      "title": "Adaptive Biotechnologies Using Microsoft Azure To Better Detect COVID-19",
-      "excerpt": "Adaptive is using Microsoft Azure's machine learning capabilities to sift through data on the body's T-cell receptor sequences, which get generated in response to antigens in the blood. The machine learning process is used to refine a \"map\" of those sequences, which is done by \"matching trillions of T cells to the diseases they recognize,\" per ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://redmondmag.com/articles/2020/03/20/adaptive-biotechnologies-azure-covid-19.aspx",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-20T16:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Redmond Magazine",
-        "domain": "redmondmag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://redmondmag.com/-/media/ECG/visualstudiomagazine/Images/IntroImages2017/0317vsm_vogelPTypeScript.jpg",
-          "width": 647,
-          "height": 450,
-          "title": "Adaptive Biotechnologies Using Microsoft Azure To Better Detect COVID-19",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-20-translating-documents-with-amazon-translate-aws-lambda-and-the-new-batch-translate-api.md",
-      "title": "Translating documents with Amazon Translate, AWS Lambda, and the new Batch Translate API",
-      "excerpt": "With an increasing number of digital text documents shared across the world for both business and personal reasons, the need for translation capabilities becomes even more critical. There are multiple tools available online that enable people to copy/paste text and get the translated equivalent in the",
-      "heat": 95,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/translating-documents-with-amazon-translate-aws-lambda-and-the-new-batch-translate-api/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-20T16:14:05-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/02/20/batch-translation-6.gif",
-          "width": 432,
-          "height": 298,
-          "title": "Translating documents with Amazon Translate, AWS Lambda, and the new Batch Translate API",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-20-google-taps-computer-vision-to-improve-robot-manipulation-performance.md",
-      "title": "Google taps computer vision to improve robot manipulation performance",
-      "excerpt": "Affordance-based manipulation is a way to reframe a manipulation task as a computer vision task. Rather than referencing pixels to object labels, it associates pixels to the value of actions. Since the structure of computer vision models and affordance models are relatively similar, techniques from transfer learning can be applied to computer ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/03/20/googles-taps-computer-vision-to-improve-robot-manipulation-performance/",
-      "ampWebUrl": "https://venturebeat.com/2020/03/20/googles-taps-computer-vision-to-improve-robot-manipulation-performance/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/20/googles-taps-computer-vision-to-improve-robot-manipulation-performance/amp/",
-      "publishedDateTime": "2020-03-20T16:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/10/google-ai-logo.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Google taps computer vision to improve robot manipulation performance",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

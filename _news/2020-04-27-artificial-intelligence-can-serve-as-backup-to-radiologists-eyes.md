@@ -19,6 +19,15 @@ topics:
 
 related:
   - title: "Artificial intelligence could serve as backup to radiologists' eyes"
+    excerpt: "Deploying artificial intelligence could help radiologists to more accurately classify lung diseases. \"Everybody has a different trigger threshold for what they would call normal and what they would call disease,"
+    publishedDateTime: 2020-04-28T20:54:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2020/04/200427091641.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 49
+  - title: "Artificial intelligence could serve as backup to radiologists' eyes"
     excerpt: "That's where artificial intelligence and imaging could come into play. Schoepf was principal investigator in a study looking at the results of Siemens Healthineers' AI-Rad Companion as compared with traditional lung function tests."
     publishedDateTime: 2020-04-27T07:15:00Z
     webUrl: "https://medicalxpress.com/news/2020-04-artificial-intelligence-backup-radiologists-eyes.html"

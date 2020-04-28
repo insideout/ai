@@ -2,8 +2,8 @@
 category: news
 title: "Alphabet Q1 2020 Earnings Preview: What to Watch"
 excerpt: "Search giant Alphabet (NASDAQ:GOOG) (NASDAQ:GOOGL) will report its earnings after the markets close on Tuesday, April 28. It will be the first time the technology giant will address shareholders since the COVID-19 pandemic dominated the world's focus."
-publishedDateTime: 2020-04-28T12:31:00Z
-webUrl: "https://www.fool.com/investing/2020/04/28/alphabet-q1-2020-earnings-preview-what-to-watch.aspx?source=eptcnnlnk0000002"
+publishedDateTime: 2020-04-28T16:27:00Z
+webUrl: "https://www.fool.com/investing/2020/04/28/alphabet-q1-2020-earnings-preview-what-to-watch.aspx"
 ampWebUrl: "https://www.fool.com/amp/investing/2020/04/28/alphabet-q1-2020-earnings-preview-what-to-watch.aspx"
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/04/28/alphabet-q1-2020-earnings-preview-what-to-watch.aspx"
 type: article
@@ -29,6 +29,6 @@ images:
     height: 750
     title: "Alphabet Q1 2020 Earnings Preview: What to Watch"
 
-secured: "E/Yz6W3ExdwWL0GY4vbWPaZLvgrfxYkcgagY7bU16MoNfLkMzYekzS1tFSGwgiBoPT2Pp8iV7WS/+f/h++WnVqTRA+rQrErOJiNrB211yhGtX8MvoEJdhwFAvK4hffSNn+N8fT7bglaf/lJDl4PCHpXulZu2vFcz1vbk/JB9nIdH2oXXKNV2R60xYccVWROPCSTVM9E/Gx9yVvWZcvjgKOz1XqRktTp9eXaLzzKoJKX2ra0AZo9FqT0aP8eLVACvWABoHOZTIMqWFIS+CIlmuReEyOtX/n1vjmfEYsKmoEEYoxR8rJt4U49sWVLvFGsQUp51QQfkrCmMKP2/KbUERPTYP+EavTbOmMod037IL1sBqhmJ8CQ67Vy1VKU9Y7zTtvbH1dA5H1Tzyi04kqZ2wd+jUMfoHxTrMtZrubKHJmtPuMtPjWr9fAgYf77YyJ/OKKz5GzwUfRk+6I9njToOAtRadL+rOwVl8HVxLLTIB1c=;HNEmJljKNI6qFqVzyimZEg=="
+secured: "xgYxOdCtgsgMY0Ur9jll38f/61/qeFcdpIAGqIKlxclS4HQfwqL7FiFBrWLIHdUYG2cU2iXk8v6mnDU6e8N4h3L3l74L/KsaKh+4W5dT5HBTSwiezmaz0o2Ih5yMs+bsyhmXnPoHBjsUG1eV6LSCZSK8i+J6qrc1njSYVYyUSmktDvZvmCRfLCsXXfAmR+nVXH/1WPmwyo246/aNGAWhU0VTPma7iJUgvMs4zw5btDQjGmcdP8UebIxoRJ438fxDLjcqWhx1JUFlr8mHRB+Ag1rwqymTOWnT3shNVhAcuvad+9vOT11kj/eOr2r+cf8b;GL7sM+GNZFQxSZZ8gDQvvA=="
 ---
 

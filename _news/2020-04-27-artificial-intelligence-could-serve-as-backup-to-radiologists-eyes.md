@@ -8,7 +8,7 @@ ampWebUrl: "https://medicalxpress.com/news/2020-04-artificial-intelligence-backu
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-04-artificial-intelligence-backup-radiologists-eyes.amp"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -20,6 +20,15 @@ topics:
   - AI
 
 related:
+  - title: "Artificial intelligence could serve as backup to radiologists' eyes"
+    excerpt: "Deploying artificial intelligence could help radiologists to more accurately classify lung diseases. \"Everybody has a different trigger threshold for what they would call normal and what they would call disease,"
+    publishedDateTime: 2020-04-28T20:54:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2020/04/200427091641.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 49
   - title: "Artificial intelligence can serve as backup to radiologists' eyes"
     excerpt: "That's where artificial intelligence and imaging could come into play. In the study, researchers went back and looked at the chest scans and lung function tests of 141 people. Chest scans aren't currently part of the guidelines for diagnosing chronic obstructive pulmonary disease,"
     publishedDateTime: 2020-04-27T14:30:00Z

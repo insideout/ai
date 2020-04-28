@@ -2,6 +2,51 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-04-02-how-ai-can-determine-which-coronavirus-patients-require-hospitalization.md",
+      "title": "How AI can determine which coronavirus patients require hospitalization",
+      "excerpt": "This is one area where artificial intelligence can help, experts at Jvion believe ... “Which patient could do well at home, and which patient is likely to not survive no matter what therapy is offered is one of the more difficult clinical challenges. AI can definitely help in this space.” Jvion’s AI will help identify uninfected ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/04/02/ai-can-help-manage-hospital-resources-during-the-coronavirus-crisis-syndication/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/04/02/ai-can-help-manage-hospital-resources-during-the-coronavirus-crisis-syndication/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/04/02/ai-can-help-manage-hospital-resources-during-the-coronavirus-crisis-syndication/amp/",
+      "publishedDateTime": "2020-04-02T09:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/04/1-3-796x417.jpg",
+          "width": 796,
+          "height": 417,
+          "title": "How AI can determine which coronavirus patients require hospitalization",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-02-artificial-intelligence-can-speed-up-the-detection-of-stroke.md",
       "title": "Artificial intelligence can speed up the detection of stroke.",
       "excerpt": "Timely detection and accurate segmentation of acute ischemic stroke (AIS) lesions on magnetic resonance images (MRIs) are essential for the triaging patient for endovascular therapy. Lesion segmentation is a routine process where the abnormal areas within ...",
@@ -1139,35 +1184,6 @@
           "attribution": null
         }
       ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-rpa-and-artificial-intelligence-five-questions.md",
-      "title": "RPA and Artificial Intelligence – Five Questions",
-      "excerpt": "Indico CEO Tom Wilde sees a shifting landscape ahead for AI and RPA users as enterprises look to move their process automation efforts forward. Some of the major themes he’s watching include: RPA’s adoption problem;",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.globenewswire.com/news-release/2020/03/17/2001931/0/en/RPA-and-Artificial-Intelligence-Five-Questions.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-17T06:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GlobeNewswire",
-        "domain": "globenewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
       "locale": "en-us",
       "categories": [
         "news"

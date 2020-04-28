@@ -2,6 +2,139 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-04-28-zetta-venture-partners-jocelyn-goldfein-chats-about-ai-investing.md",
+      "title": "Zetta Venture Partners’ Jocelyn Goldfein chats about AI investing",
+      "excerpt": "Zetta Venture Partners, a B2B, AI-focused venture outfit, announced a new $180 million fund. As new VC funds are anecdotally a bit thinner on the ground these days — and because we’re in the midst of economic upheaval,",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/04/28/zetta-venture-partners-jocelyn-goldfein-chats-about-ai-investing/",
+      "ampWebUrl": "https://techcrunch.com/2020/04/28/zetta-venture-partners-jocelyn-goldfein-chats-about-ai-investing/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/28/zetta-venture-partners-jocelyn-goldfein-chats-about-ai-investing/amp/",
+      "publishedDateTime": "2020-04-28T14:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/01/GettyImages-1136663877.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": "Zetta Venture Partners’ Jocelyn Goldfein chats about AI investing",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-28-artificial-intelligence-ai-in-healthcare-market-progressing-at-a-cagr-of-4048-during-the-forecast-period-2020-2027.md",
+      "title": "Artificial Intelligence (Ai) In Healthcare Market progressing at a CAGR of 40.48% during the forecast period 2020-2027",
+      "excerpt": "The Artificial intelligence in the healthcare market dynamics, forces, companies and trends have been determined after conducting",
+      "heat": 85,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-progressing-at-a-cagr-of-4048-during-the-forecast-period-2020-2027-2020-04-28",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-28T14:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial Intelligence (Ai) In Healthcare Market progressing at a CAGR of 40.48% during the forecast period 2020-2027",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-28-utah-pauses-banjos-ai-surveillance-after-learning-of-owners-racist-past.md",
+      "title": "Utah pauses Banjo's AI surveillance after learning of owner's racist past",
+      "excerpt": "Utah authorities have put use of Banjo's surveillance tech on hold while they investigate for bias due to the owner's racist past.",
+      "heat": 86,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.engadget.com/utah-suspends-use-of-banjo-surveillance-205243913.html",
+      "ampWebUrl": "https://www.engadget.com/amp/utah-suspends-use-of-banjo-surveillance-205243913.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/utah-suspends-use-of-banjo-surveillance-205243913.html",
+      "publishedDateTime": "2020-04-28T13:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-04%2Fb80e43e0-8990-11ea-9bd6-0102afa04aa3&client=amp-blogside-v2&signature=712d5b10e99fcbb7f0d7b751803e5a0ee50031a9",
+          "width": 600,
+          "height": 350,
+          "title": "Utah pauses Banjo's AI surveillance after learning of owner's racist past",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-28-artificial-intelligence-cannot-be-inventors-us-patent-office-rules.md",
       "title": "Artificial Intelligence Cannot Be Inventors, US Patent Office Rules",
       "excerpt": "Last year, two relatively mundane patents—one for a shape-shifting food container and another for an emergency flashlight—posed an existential question for international patent regulations around the world: Does an inventor have to be a human?",
@@ -132,6 +265,51 @@
       ],
       "topics": [
         "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-28-alphabet-q1-2020-earnings-preview-what-to-watch.md",
+      "title": "Alphabet Q1 2020 Earnings Preview: What to Watch",
+      "excerpt": "Search giant Alphabet (NASDAQ:GOOG) (NASDAQ:GOOGL) will report its earnings after the markets close on Tuesday, April 28. It will be the first time the technology giant will address shareholders since the COVID-19 pandemic dominated the world's focus.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fool.com/investing/2020/04/28/alphabet-q1-2020-earnings-preview-what-to-watch.aspx",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/04/28/alphabet-q1-2020-earnings-preview-what-to-watch.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/04/28/alphabet-q1-2020-earnings-preview-what-to-watch.aspx",
+      "publishedDateTime": "2020-04-28T09:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F569951%2Fgoogle_meet_1max-2000x2000.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 750,
+          "title": "Alphabet Q1 2020 Earnings Preview: What to Watch",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     },
@@ -709,51 +887,6 @@
       ]
     },
     {
-      "path": "_news/2020-04-28-alphabet-q1-2020-earnings-preview-what-to-watch.md",
-      "title": "Alphabet Q1 2020 Earnings Preview: What to Watch",
-      "excerpt": "Search giant Alphabet (NASDAQ:GOOG) (NASDAQ:GOOGL) will report its earnings after the markets close on Tuesday, April 28. It will be the first time the technology giant will address shareholders since the COVID-19 pandemic dominated the world's focus.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.fool.com/investing/2020/04/28/alphabet-q1-2020-earnings-preview-what-to-watch.aspx?source=eptcnnlnk0000002",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/04/28/alphabet-q1-2020-earnings-preview-what-to-watch.aspx",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/04/28/alphabet-q1-2020-earnings-preview-what-to-watch.aspx",
-      "publishedDateTime": "2020-04-28T05:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F569951%2Fgoogle_meet_1max-2000x2000.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 750,
-          "title": "Alphabet Q1 2020 Earnings Preview: What to Watch",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-04-28-delivery-robots-arent-readywhen-they-could-be-needed-most.md",
       "title": "Delivery Robots Aren't Ready—When They Could Be Needed Most",
       "excerpt": "Sheltering in place has driven up demand for deliveries, but machines still have trouble confronting the unpredictability of the real world.",
@@ -1189,131 +1322,6 @@
           "width": 1400,
           "height": 933,
           "title": "Go read this analysis of the new iPhone SE’s AI-powered depth camera system",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-27-teslas-latest-autopilot-feature-is-slowing-down-for-green-lights-too.md",
-      "title": "Tesla's latest Autopilot feature is slowing down for green lights, too",
-      "excerpt": "Tesla has said its latest version of Autopilot, its autonomous driving software, is able to stop at traffic lights. But some Tesla drivers are learning it doesn't just stop at",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.azfamily.com/news/us_world_news/teslas-latest-autopilot-feature-is-slowing-down-for-green-lights-too/article_eea7ffcb-074f-55ac-89cd-9c4207e7fe12.html",
-      "ampWebUrl": "https://www.azfamily.com/news/us_world_news/teslas-latest-autopilot-feature-is-slowing-down-for-green-lights-too/article_eea7ffcb-074f-55ac-89cd-9c4207e7fe12.amp.html",
-      "cdnAmpWebUrl": "https://www-azfamily-com.cdn.ampproject.org/c/s/www.azfamily.com/news/us_world_news/teslas-latest-autopilot-feature-is-slowing-down-for-green-lights-too/article_eea7ffcb-074f-55ac-89cd-9c4207e7fe12.amp.html",
-      "publishedDateTime": "2020-04-27T16:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AZFamily",
-        "domain": "azfamily.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/azfamily.com/content/tncms/assets/v3/editorial/c/ab/cab72abb-9b6a-5a39-bcd0-fadc3469ea7a/5ea76b6c2c680.image.jpg?resize=1024%2C682",
-          "width": 1024,
-          "height": 682,
-          "title": "Tesla's latest Autopilot feature is slowing down for green lights, too",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-27-scientists-think-well-finally-solve-nuclear-fusion-thanks-to-cutting-edge-ai.md",
-      "title": "Scientists think we’ll finally solve nuclear fusion thanks to cutting-edge AI",
-      "excerpt": "Fusion reactors – not to be confused with common fission reactors – are the holiest of Grails when it comes to physics achievements. According to most experts, a successful fusion reactor would function as a near-unlimited source of energy.",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/04/27/scientists-think-well-finally-solve-nuclear-fusion-thanks-to-cutting-edge-ai/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/04/27/scientists-think-well-finally-solve-nuclear-fusion-thanks-to-cutting-edge-ai/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/04/27/scientists-think-well-finally-solve-nuclear-fusion-thanks-to-cutting-edge-ai/amp/",
-      "publishedDateTime": "2020-04-27T16:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/04/solarfusion-796x398.jpg",
-          "width": 796,
-          "height": 398,
-          "title": "Scientists think we’ll finally solve nuclear fusion thanks to cutting-edge AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-27-companies-equip-cameras-with-ai-to-track-social-distancing-and-mask-wearing.md",
-      "title": "Companies equip cameras with AI to track social distancing and mask-wearing",
-      "excerpt": "Stores and workplaces are equipping existing cameras with AI software that can track compliance with guidelines like social distancing and mask-wearing.",
-      "heat": 105,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/27/companies-equip-cameras-with-ai-to-track-social-distancing-and-mask-wearing/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/27/companies-equip-cameras-with-ai-to-track-social-distancing-and-mask-wearing/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/27/companies-equip-cameras-with-ai-to-track-social-distancing-and-mask-wearing/amp/",
-      "publishedDateTime": "2020-04-27T15:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/03/shutterstock_731158624-e1576819636533.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Companies equip cameras with AI to track social distancing and mask-wearing",
           "attribution": null
         }
       ],

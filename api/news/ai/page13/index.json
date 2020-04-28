@@ -2,6 +2,132 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2020-04-15-onfido-raises-100-million-to-verify-identities-with-ai.md",
+      "title": "Onfido raises $100 million to verify identities with AI",
+      "excerpt": "Onfido — which was founded in 2012 by three Oxford University graduates who observed that background checks were largely done manually and were therefore prone to human error — develops a software-as-a-service (SaaS) platform that taps AI to perform background checks on would-be employees at each stage of the hiring and recruitment process.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/15/onfido-raises-100-million-to-verify-identities-with-ai/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/15/onfido-raises-100-million-to-verify-identities-with-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/15/onfido-raises-100-million-to-verify-identities-with-ai/amp/",
+      "publishedDateTime": "2020-04-15T03:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/ONFIDO_RGB_WORDMARK_BLUE-e1586551350126.png?fit=1199%2C599&strip=all",
+          "width": 1199,
+          "height": 599,
+          "title": "Onfido raises $100 million to verify identities with AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-15-onepacs-provides-its-teleradiology-pacsrisvoice-platform-to-california-covid-specialty-hospital.md",
+      "title": "OnePacs Provides Its Teleradiology PACS/RIS/Voice Platform to California COVID Specialty Hospital",
+      "excerpt": "PALO ALTO, Calif., April 15, 2020 /PRNewswire/ -- In response to the COVID-19 pandemic, OnePacs is providing its PACS/RIS-reporting platform, with voice recognition, to the California State Department",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/onepacs-provides-its-teleradiology-pacs-ris-voice-platform-to-california-covid-specialty-hospital/article_8d979ba3-96bf-5f3d-b470-36603f52a9e5.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-15T00:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "OnePacs Provides Its Teleradiology PACS/RIS/Voice Platform to California COVID Specialty Hospital",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-15-fareye-raises-25-million-to-orchestrate-deliveries-with-ai.md",
+      "title": "FarEye raises $25 million to orchestrate deliveries with AI",
+      "excerpt": "Additionally, Serve provides delivery progress reports and a drag-and-drop, single-touch interface that lets managers update customer preferences on the fly, alongside an AI-powered chat platform that plugs into existing systems to expedite customer inquiry resolutions. According to CEO Kushal Nahata, the platform handles over 10 million ...",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/14/fareye-raises-25-million-to-orchestrate-deliveries-with-ai/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/14/fareye-raises-25-million-to-orchestrate-deliveries-with-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/14/fareye-raises-25-million-to-orchestrate-deliveries-with-ai/amp/",
+      "publishedDateTime": "2020-04-14T22:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/FarEye-Team-Picture-feature-e1586805333499.jpg?fit=1059%2C528&strip=all",
+          "width": 1059,
+          "height": 528,
+          "title": "FarEye raises $25 million to orchestrate deliveries with AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-15-jordan-etem-networks-tackles-global-challenges-head-on-with-a-convergence-of-innovations.md",
       "title": "Jordan Etem Networks Tackles Global Challenges Head-On with a Convergence of Innovations",
       "excerpt": "With a strong presence in 23 cities and regions worldwide , Jordan Etem Networks leverages computer science, advanced machine learning and artificial intelligence to unify and strengthen neural networks for breakthrough innovation and stronger communities. Jordan Etem Networks goes beyond theoretical application and has a strong and central ...",
@@ -41,14 +167,14 @@
     {
       "path": "_news/2020-04-15-afp-used-clearview-ai-facial-recognition-software-to-counter-child-exploitation.md",
       "title": "AFP used Clearview AI facial recognition software to counter child exploitation",
-      "excerpt": "In response to questions taken on notice by deputy commissioner Karl Kent, the AFP said while it did not adopt the facial recognition platform Clearview AI as an enterprise produc",
+      "excerpt": "Seven officers have conducted searches on the Clearview AI facial recognition platform. Share. Contact. Read full article: AFP used Clearview AI facial recognition software to cou",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.zdnet.com/article/afp-used-clearview-ai-facial-recognition-software-to-counter-child-exploitation/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/afp-used-clearview-ai-facial-recognition-software-to-counter-child-exploitation/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/afp-used-clearview-ai-facial-recognition-software-to-counter-child-exploitation/",
-      "publishedDateTime": "2020-04-14T20:40:00-07:00",
+      "webUrl": "https://www.zdnet.com/video/afp-used-clearview-ai-facial-recognition-software-to-counter-child-exploitation/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-14T20:45:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "ZDNet",
@@ -67,9 +193,9 @@
       },
       "images": [
         {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/04/16/43dce3ec-8083-443a-b027-321bdeafee8c/thumbnail/1200x675/cdefb4be9dbcbf757b2c3cad0ac932ec/afp-used-clearview-ai-facial-recognition-5e97a875b3157671f8b01e1d-1-apr-16-2020-6-30-34-poster.jpg",
-          "width": 1200,
-          "height": 675,
+          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2020/04/16/43dce3ec-8083-443a-b027-321bdeafee8c/thumbnail/770x578/a5f5db7891dc99aa2234de7b704b2e30/afp-used-clearview-ai-facial-recognition-5e97a875b3157671f8b01e1d-1-apr-16-2020-6-30-34-poster.jpg",
+          "width": 770,
+          "height": 578,
           "title": "AFP used Clearview AI facial recognition software to counter child exploitation",
           "attribution": null
         }
@@ -242,6 +368,35 @@
       ],
       "topics": [
         "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-14-automotive-voice-recognition-system-market-size-worth-around-us-39-bn-by-2027.md",
+      "title": "Automotive Voice Recognition System Market Size Worth Around US$ 39 Bn by 2027",
+      "excerpt": "Acumen Research and Consulting, Latest Published Report on “Automotive Voice Recognition System Market Size, Share, Growth, Trends, and Forecast, 2020 - 2027”. LOS ANGELES, April 14 ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.globenewswire.com/news-release/2020/04/14/2015959/0/en/Automotive-Voice-Recognition-System-Market-Size-Worth-Around-US-39-Bn-by-2027.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-14T13:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GlobeNewswire",
+        "domain": "globenewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
         "AI"
       ]
     },
@@ -1035,138 +1190,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-14-artificial-intelligence-evolving-by-itself.md",
-      "title": "Artificial Intelligence Evolving By Itself",
-      "excerpt": "Building an AI algorithm takes time. Take neural networks, a common type of machine learning used for translating languages and driving cars. These networks loosely mimic the structure of the brain and learn from training data by altering the strength of connections between artificial neurons. Smaller subcircuits of neurons carry out specific ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.tasnimnews.com/en/news/2020/04/14/2243550/artificial-intelligence-evolving-by-itself",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-14T03:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "تسنیم",
-        "domain": "tasnimnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-14-global-automotive-ai-market-report-2020-trends-size-share-recent-developments-player-rankings-and-forecast-to-2027.md",
-      "title": "Global Automotive AI Market Report 2020: Trends, Size, Share, Recent Developments, Player Rankings and Forecast to 2027",
-      "excerpt": "Dublin, April 14, 2020 (GLOBE NEWSWIRE) -- The \"Automotive Artificial Intelligence Market by Offering, Technology, Process, Drive, and Region - Global Forecast to 2027\" report has been added to ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.benzinga.com/pressreleases/20/04/g15794836/global-automotive-ai-market-report-2020-trends-size-share-recent-developments-player-rankings-and-",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/15794836",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15794836",
-      "publishedDateTime": "2020-04-14T02:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-14-salesforces-teresa-smetzer-ai-could-help-agencies-leverage-data-expedite-govt-service-delivery.md",
-      "title": "Salesforce’s Teresa Smetzer: AI Could Help Agencies Leverage Data, Expedite Gov’t Service Delivery",
-      "excerpt": "Agencies should collaborate with trusted industry partners that take into consideration AI ethics and data privacy as well as keep pace with latest AI developments, she noted. She also discussed how Tableau and MuleSoft capabilities could help agencies, data scientists and mission users glean insights from data. “Ultimately, government ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.govconwire.com/2020/04/salesforces-teresa-smetzer-ai-could-help-agencies-leverage-data-expedite-govt-service-delivery/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-14T02:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GovCon Wire",
-        "domain": "govconwire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://govconwire-media.s3.amazonaws.com/2020/04/14/63/f0/15/e5/fd/c0/aa/54/servletFileDownload-170.png",
-          "width": 272,
-          "height": 270,
-          "title": "Salesforce’s Teresa Smetzer: AI Could Help Agencies Leverage Data, Expedite Gov’t Service Delivery",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-14-cyberlink-faceme-ai-facial-recognition-earns-997-accuracy-rate-high-ranking-on-industry-leading-nist-leaderboard.md",
-      "title": "CyberLink FaceMe® AI Facial Recognition Earns 99.7% Accuracy Rate, High Ranking on Industry-Leading NIST Leaderboard",
-      "excerpt": "CyberLink Corp. (5203.TW), a pioneer in AI and facial recognition technologies, announced its FaceMe® AI facial recognition engine has achieved prominent ranking on the NIST FRVT 1:1 (Facial Recognition Vender Test),",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.register-herald.com/region/cyberlink-faceme-ai-facial-recognition-earns-99-7-accuracy-rate-high-ranking-on-industry-leading/article_9360a84b-308d-5ff1-b47e-3d5f834b5a79.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-14T01:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Register-Herald",
-        "domain": "register-herald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/assets/v3/editorial/b/67/b67f2373-6b7b-5ed1-b823-f80aa3577cc5/5e8b2b98c13e3.image.jpg?resize=1200%2C589",
-          "width": 1200,
-          "height": 589,
-          "title": "CyberLink FaceMe® AI Facial Recognition Earns 99.7% Accuracy Rate, High Ranking on Industry-Leading NIST Leaderboard",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

@@ -2,6 +2,43 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-01-09-facial-and-voice-recognition-in-cars-sounds-like-a-privacy-nightmare.md",
+      "title": "Facial and voice recognition in cars sounds like a privacy nightmare",
+      "excerpt": "Even pushing down on the seat triggers the car to react. To power facial or voice recognition systems, cars need to collect information on what your face or voice looks like. Geotab fleet data ...",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://mashable.com/article/facial-voice-recognition-biometric-data-ai-ces/",
+      "ampWebUrl": "https://mashable.com/article/facial-voice-recognition-biometric-data-ai-ces.amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/facial-voice-recognition-biometric-data-ai-ces.amp",
+      "publishedDateTime": "2020-01-09T06:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mondrian.mashable.com/2020%252F01%252F09%252F05%252F398230a2d9e84a0986a7acd0a7ac7861.8483c.jpg%252F1200x630.jpg?signature=FM7sSz88mzg3SnzEEsgj0xxogC8=",
+          "width": 1200,
+          "height": 630,
+          "title": "Facial and voice recognition in cars sounds like a privacy nightmare",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2020-01-09-natural-language-processing-market-industry-outlook-by-drivers-restraints-and-2020-2025.md",
       "title": "Natural Language Processing Market: Industry Outlook By Drivers, Restraints And 2020-2025",
       "excerpt": "Arcognizance.com adds Natural Language Processing Market Report Global Analysis, Growth, Trends and Opportunities Research Report Forecasting to 2025. Natural language processing (NLP) is the ability of a computer program to understand human speech as it is spoken.",

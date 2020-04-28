@@ -2,6 +2,125 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-04-27-chinese-self-driving-truck-startup-inceptio-raises-100-million-sources.md",
+      "title": "Chinese self-driving truck startup Inceptio raises $100 million - sources",
+      "excerpt": "China's Inceptio Technology, a startup developing self-driving trucks, has raised $100 million in its latest funding round from logistics firm GLP, its key strategic investor G7 and other investors, two sources familiar with the matter told Reuters.",
+      "heat": 108,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/uk-inceptio-autonomous-idUKKCN2290MB",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUKKCN2290MB",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKCN2290MB",
+      "publishedDateTime": "2020-04-27T00:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200427&t=2&i=1516550136&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG3Q09T",
+          "width": 817,
+          "height": 545,
+          "title": "Chinese self-driving truck startup Inceptio raises $100 million - sources",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-27-this-ai-tool-uses-machine-learning-to-detect-whether-people-are-social-distancing-properly.md",
+      "title": "This AI tool uses machine learning to detect whether people are social distancing properly",
+      "excerpt": "But when we go about our daily routines, especially when out on a grocery run or heading to the hospital, social distancing can be a challenging task to uphold. And some of us just have God awful spatial awareness in general.",
+      "heat": 77,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://sea.mashable.com/tech/10271/this-ai-tool-uses-machine-learning-to-detect-whether-people-are-social-distancing-properly",
+      "ampWebUrl": "https://sea.mashable.com/tech/10271/this-ai-tool-uses-machine-learning-to-detect-whether-people-are-social-distancing-properly?amp=1",
+      "cdnAmpWebUrl": "https://sea-mashable-com.cdn.ampproject.org/c/s/sea.mashable.com/tech/10271/this-ai-tool-uses-machine-learning-to-detect-whether-people-are-social-distancing-properly?amp=1",
+      "publishedDateTime": "2020-04-27T00:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://sm.mashable.com/t/mashable_sea/photo/default/tump5-nstfield-image-socialmediavar-1586911100_p856.620.jpg",
+          "width": 620,
+          "height": 326,
+          "title": "This AI tool uses machine learning to detect whether people are social distancing properly",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-27-aws-announces-general-availability-of-amazon-augmented-artificial-intelligence.md",
+      "title": "AWS Announces General Availability of Amazon Augmented Artificial Intelligence",
+      "excerpt": "Amazon A2I makes it easier for developers to build and manage workflows to validate machine learning predictions with human reviewers Today, Amazon Web Service",
+      "heat": 77,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cxotoday.com/press-release/aws-announces-general-availability-of-amazon-augmented-artificial-intelligence/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-26T22:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CXO Today",
+        "domain": "cxotoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.cxotoday.com/wp-content/uploads/2020/02/Amazon-campus-hyderabad.jpg",
+          "width": 600,
+          "height": 450,
+          "title": "AWS Announces General Availability of Amazon Augmented Artificial Intelligence",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2020-04-27-moneyball-medicine-data-driven-healthcare-transformation.md",
       "title": "Moneyball Medicine: Data-Driven Healthcare Transformation",
       "excerpt": "Thriving in the New Data-Driven Healthcare Market, author Harry Glorikian offers a prescription for how data and analytics will shape the future of healthcare delivery in the United States. We are all familiar with the Moneyball concept and how it transformed professional sports over the course of the past two decades – with an assist from Brad Pitt.",
@@ -1175,142 +1294,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-24-machine-learning-as-a-service-mlaas-market-analysis-global-industry-size-share-trends-and-forecast-2020-2026.md",
-      "title": "Machine Learning as a Service (MLaaS) Market Analysis – Global Industry Size, Share, Trends and Forecast 2020 – 2026",
-      "excerpt": "According to the report published by Acumen Research and Consulting, the global Machine Learning as a Service (MLaaS) market was expected to reach at US$ Mn in 2018 and is anticipated to exceed US$ Mn by 2026.",
-      "heat": 81,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-analysis-global-industry-size-share-trends-and-forecast-2020-2026-2020-04-24",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-24T03:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Machine Learning as a Service (MLaaS) Market Analysis – Global Industry Size, Share, Trends and Forecast 2020 – 2026",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-24-microsoft-office-365-how-these-azure-machine-learning-services-will-make-you-more-productive-and-efficient.md",
-      "title": "Microsoft Office 365: How these Azure machine-learning services will make you more productive and efficient",
-      "excerpt": "Office can now suggest better phrases in Word or entire replies in Outlook, design your PowerPoint slides, and coach you on presenting them. Microsoft built those features with Azure Machine Learning and big models - while keeping your Office 365 data private. The Microsoft Office clients have been getting smarter for several years: the first ...",
-      "heat": 88,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/microsoft-office-365-how-these-azure-machine-learning-services-will-make-you-more-productive-and-efficient/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/microsoft-office-365-how-these-azure-machine-learning-services-will-make-you-more-productive-and-efficient/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-office-365-how-these-azure-machine-learning-services-will-make-you-more-productive-and-efficient/",
-      "publishedDateTime": "2020-04-24T02:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/04/23/bd257cc5-e6b0-4817-bbcd-b95ebcdf40a3/resize/400x/529012c6be678840cc1a17dd23cb25e0/acronyms-ml.jpg",
-          "width": 400,
-          "height": 516,
-          "title": "Microsoft Office 365: How these Azure machine-learning services will make you more productive and efficient",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-04-24-xiaomi-launches-the-mijia-sweeping-robot-g1-an-affordable-cleaning-device.md",
-      "title": "Xiaomi launches the MIJIA Sweeping Robot G1, an affordable cleaning device",
-      "excerpt": "Notably, the robot also supports the Xiao AI voice assistant. It can also be linked with a smart door lock. Thus, the Xiaomi MIJIA Sweeping Robot G1 can immediately start sweeping as people start walking in. The device automatically goes to recharge once it is done with its designated task. The gadget starts from 899Yuan (roughly 127 US Dollars ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.gizmochina.com/2020/04/24/xiaomi-launches-the-mijia-sweeping-robot-g1-an-affordable-cleaning-device/",
-      "ampWebUrl": "https://www.gizmochina.com/2020/04/24/xiaomi-launches-the-mijia-sweeping-robot-g1-an-affordable-cleaning-device/?amp",
-      "cdnAmpWebUrl": "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2020/04/24/xiaomi-launches-the-mijia-sweeping-robot-g1-an-affordable-cleaning-device/?amp",
-      "publishedDateTime": "2020-04-24T00:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2020/04/s_e6443c3feee340f59542aef7dce697d6.png",
-          "width": 600,
-          "height": 428,
-          "title": "Xiaomi launches the MIJIA Sweeping Robot G1, an affordable cleaning device",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }
