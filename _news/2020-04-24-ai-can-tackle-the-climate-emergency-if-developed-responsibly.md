@@ -8,7 +8,7 @@ ampWebUrl: "https://www.upi.com/amp/Top_News/Voices/2020/04/24/AI-can-tackle-the
 cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/Voices/2020/04/24/AI-can-tackle-the-climate-emergency-if-developed-responsibly/7561587731579/"
 type: article
 quality: 59
-heat: -1
+heat: 59
 published: false
 
 provider:
@@ -24,23 +24,6 @@ images:
     width: 735
     height: 492
     title: "AI can tackle the climate emergency -- if developed responsibly"
-
-related:
-  - title: "AI can tackle the climate emergency – if developed responsibly"
-    excerpt: "Advances in robotics, artificial intelligence (AI) and internet-connected devices are creating increasingly ... need to rethink some simplistic assumptions about how AI will shape the future of our planet. It’s time to start a serious discussion about how to put AI to use for both people and planet. Using AI to analyse data from social ..."
-    publishedDateTime: 2020-04-23T07:28:00Z
-    webUrl: "https://theconversation.com/ai-can-tackle-the-climate-emergency-if-developed-responsibly-132908"
-    ampWebUrl: "https://theconversation.com/amp/ai-can-tackle-the-climate-emergency-if-developed-responsibly-132908"
-    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/ai-can-tackle-the-climate-emergency-if-developed-responsibly-132908"
-    type: article
-    provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 59
-    images:
-      - url: "https://images.theconversation.com/files/329855/original/file-20200422-47794-ih0emb.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=214&fit=crop"
-        width: 320
-        height: 214
 
 secured: "2x2JpY8Ir4k3yNbqIGIOhIZLqSp6AmYubZ1EHhN4LOLv2biVZcTsEtGVN8Xsx0Ve3kYovbOiNZ5fMZBA+23hL3B/sIb1eM5ovA1jP6py4Nuqg0fktDpwr/QG9tCc89bSRU+UfYPInSaNV6UX6HIysAaQVseVjMO3J/epCZuiFnwclxoTXgfoRNSUPTnf+GDKqUCHe7Jz+wvWvVwjlflHhHqpQoY1KRINXMKDUY5jKryvfd+Aw+LstMYl7oiTN6yKSXD3lKTGM8VJYNHR6lDrXAyFYpWmT/57ujAqTbpz2engsLbPdKdIphU4+hFLeVDSnqCzQnLv/1WlycGg5BMe+rm7GGVKzaFfPg/Pfi1zVoO6xxOHk8eVYtVBR+fn0QEIF4vUj0PZpm/4O2bAW/KXlwzxsIRYShsuSFVkhpSMsulcAqLKyhkqcZ1r0057URIqEDHfXgx6new5UKEl5ab3KPG/QexJ4XwwNBox26Cv8DQ=;GnTjfPz9XU691h5YYUC9Zg=="
 ---

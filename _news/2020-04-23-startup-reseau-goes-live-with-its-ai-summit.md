@@ -1,27 +1,22 @@
 ---
 category: news
 title: "Startup Réseau Goes LIVE With its AI Summit"
-excerpt: "The online summit will cover themes and tracks across core technology and applications, where AI is playing a massive role Built on the founding pillar of #StartupsFirst, 'Startup Réseau' is an ecosystem of Enterprises, Capital, Markets, and Services ..."
-publishedDateTime: 2020-04-23T07:43:00Z
-webUrl: "https://www.prnewswire.com/in/news-releases/startup-reseau-goes-live-with-its-ai-summit-847656852.html"
+excerpt: "Before it's here, it's on the Bloomberg Terminal."
+publishedDateTime: 2020-04-23T07:36:00Z
+webUrl: "https://www.bloomberg.com/press-releases/2020-04-23/startup-r-seau-goes-live-with-its-ai-summit"
 type: article
-quality: 37
-heat: 37
-published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Bloomberg
+  domain: bloomberg.com
+  images:
+    - url: "https://insideout.app/ai/assets/images/organizations/bloomberg.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
 
-images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
-    title: "Startup Réseau Goes LIVE With its AI Summit"
-
-secured: "oF/zW7bY81bKh7Ot0GUrCFGKyjNZSe1V/c5i61jH4hE/BbsBYZMu/NgsPnJEiVzvYlXk2YzUHpKTT/aR8p4eJj66dQn5E8etlWiOsr98TOHdmPlYtkdcgQ7egMyGh0jwZfLzTEtqpoSScQWGxnTIG1tw0QAONHwGel69vajPXmb1Cmux0oVsi9sI2bY4bHaLQIpUkztGj11ZNY2xPahEs3Y3tCnPWS+qRzqwPhG38Q5DQAA9Ntg0Z/lVlGTEiKMlI2y4rthcbzKSY4VZ3i+3A97Ij2RhEQCMpOi5aSnxj01gzPVoDmIgQ4MNvW1zNBky;0RRi/rUp3ai3ZIxitjfnwg=="
+secured: "0RBetnmgoh2u/21L08f03Avfwh+emJX6C5Os7eOUTwIv9QezjgpnKdltSYPHTnOOm2r5KVjmnTEFLBYWSH/74CiUeYjfIl1v/h0FXOB2pNjfAlr2DdxGsgwTgp0SDv1i2NiC9jPyIcubKy39LsECn7RDELaGHqt8TEhn4uvIeM6/n9Q7ExZw/HxiV+EM8rqIj0/p92tKFu41StspX3cU+22STHQGIPKkQifgDKcXY9Appm4hYHWqdxgTmsHjMJIdcjiRQKiO21KtIzzU5XlmfSiYrPq8VJhSPidtrzPFOpGYq2vIBo1jzpHedUOFGTLY;CxLdGk6DUSLpwK4OLIbhOw=="
 ---
 

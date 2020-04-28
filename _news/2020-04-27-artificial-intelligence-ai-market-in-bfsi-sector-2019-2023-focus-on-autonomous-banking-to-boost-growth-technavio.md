@@ -3,7 +3,7 @@ category: news
 title: "Artificial Intelligence (AI) Market in BFSI Sector 2019-2023 | Focus on Autonomous Banking to Boost Growth | Technavio"
 excerpt: "Technavio has announced its latest sector research report titled Global Artificial Intelligence (AI) Market in BFSI Sector 2019-2023 (Photo: Business Wire) LONDON-- ( BUSINESS WIRE )--Technavio has been monitoring the artificial intelligence (AI) market in BFSI sector and it is poised to grow by USD 11."
 publishedDateTime: 2020-04-27T21:30:00Z
-webUrl: "https://www.businesswire.com/news/home/20200427005591/en/"
+webUrl: "https://www.businesswire.com/news/home/20200427005591/en/Artificial-Intelligence-AI-Market-BFSI-Sector-2019-2023"
 type: article
 quality: 28
 heat: 28
@@ -22,6 +22,6 @@ images:
     height: 627
     title: "Artificial Intelligence (AI) Market in BFSI Sector 2019-2023 | Focus on Autonomous Banking to Boost Growth | Technavio"
 
-secured: "4PXbaLsL0QI99ojo+4Kt3eFrkIPXFRk8eCngun3XCjC2QjXNDrBjWUFHEoIChH8oaVzrXv78SbhpzdYIRKBfhjRyX8Em3PjxT/+Y0Xg6mgYbLMDtW26+ceBjZcjkJJfhVn6mxt0h7rqCAtvc4FPW3texuyt1zqvEEhq4xA4PumbIwZSnBlg3js5hasGFgD1LTYZ2n2WgIDxKQlyt3a8GqYDfQMAYSlY2+8M0LnBWDQfAFQQUU+zjAqL9/XOpAFjfL17QxbDcFNgNjuaBlPCZHdJMemyGkXgBmknLt34RQDtLqAjaCMr5gWbBUV5sM1Id;GAaTvC6q50qmAa5mkFjMJQ=="
+secured: "6sI5RJI+z9Y7lq6Hua+d9C+MPYZl5RxZZ5jwKqNBI7SN1/NMSGc5ugRhcLGnmafp4rOuTNPp6qiyOc0+cj6qwLJp3/zcV+0xaQgZwrZySpFVoy4KLKNtuNcFRcTd9yhnEDCDtZoVw8mOUUXg7hTysG95q5eAoeWoEDHi9GX4Lwh8xLz1rYqOQynFDlGcsm3z/oOJIzOsYGUYRCaPZ/vIYMr3F+A/ROfEI7JuwT9E7uqT3NXzHACoPWhSwm7HryDT+B/okCK/Z91jwH5xm/Qm0Vm97bKzhVk/qncJbSq0WsWBjfyxoqDQv1S33nBoom0z;nrOwIEohHnHUnqWux/s2Ww=="
 ---
 

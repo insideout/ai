@@ -6,7 +6,7 @@ publishedDateTime: 2020-04-23T12:00:00Z
 webUrl: "https://www.marketwatch.com/press-release/advancements-in-machine-learning-and-internet-of-things-iot-to-fuel-building-automation-and-control-system-market-growth-2020-04-23"
 type: article
 quality: 43
-heat: 43
+heat: -1
 published: false
 
 provider:
@@ -28,15 +28,15 @@ images:
     title: "Advancements in Machine Learning and Internet of Things (IoT) to Fuel Building Automation and Control System Market Growth"
 
 related:
-  - title: "Gesture Recognition Market 2020 Industry Growth, Top Scenario, SWOT Analysis, Demographic Demand And Forecast Research 2025"
-    excerpt: "The ‘Gesture Recognition Market’ research report provides a succinct analysis on the recent market trends. In addition, the report offers a thorough abstract on the statistics, market estimates and revenue forecasts,"
-    publishedDateTime: 2020-04-23T08:57:00Z
-    webUrl: "https://www.marketwatch.com/press-release/gesture-recognition-market-2020-industry-growth-top-scenario-swot-analysis-demographic-demand-and-forecast-research-2025-2020-04-23"
+  - title: "Natural Language Processing (NLP) Market to Garner Overwhelming Hike In Revenues by 2027"
+    excerpt: "According to the research held by Acumenresearchandconsulting.com, \"The global Natural Language Processing (NLP) market is expected to reach US$ XX Mn with a CAGR of XX.X% during the forecast period from 2020 to 2027\"."
+    publishedDateTime: 2020-04-23T10:52:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-to-garner-overwhelming-hike-in-revenues-by-2027-2020-04-23"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 28
+    quality: 60
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

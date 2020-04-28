@@ -28,45 +28,30 @@ images:
     title: "Artificial Intelligence In Military Market Global Scenario, Market Size, Outlook, Trend and Forecast 2020-2027"
 
 related:
-  - title: "Machine Learning as a Service (MLaaS) Market Size Overview by Rising Demands and Huge Business Opportunities 2020-2027"
-    excerpt: "According to the research held by Acumenresearchandconsulting.com, \"The global Machine Learning as a Service (MLaaS) market is expected to reach US$ XX Mn with a CAGR of XX.X% during the forecast period from 2020 to 2027\"."
-    publishedDateTime: 2020-04-23T08:20:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-size-overview-by-rising-demands-and-huge-business-opportunities-2020-2027-2020-04-23"
+  - title: "Machine Learning-Based Demand Forecasting For Fast Adaptability To Changes"
+    excerpt: "How to predict such rapidly changing demand? Demand forecasting powered with machine learning (ML) may help to make smarter decisions by providing data-driven insights. The most beautiful thing about advanced forecasting is the adoption of “what-if” scenario planning. New data storage capabilities combined with cutting-edge analytics allow ..."
+    publishedDateTime: 2020-04-23T12:05:00Z
+    webUrl: "https://retailtouchpoints.com/topics/data-analytics/ai-machine-learning/machine-learning-based-demand-forecasting-for-fast-adaptability-to-changes"
+    ampWebUrl: "https://retailtouchpoints.com/topics/data-analytics/ai-machine-learning/machine-learning-based-demand-forecasting-for-fast-adaptability-to-changes/amp"
+    cdnAmpWebUrl: "https://retailtouchpoints-com.cdn.ampproject.org/c/s/retailtouchpoints.com/topics/data-analytics/ai-machine-learning/machine-learning-based-demand-forecasting-for-fast-adaptability-to-changes/amp"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 60
+      name: Retail TouchPoints
+      domain: retailtouchpoints.com
+    quality: 57
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Natural Language Processing (NLP) Market to Garner Overwhelming Hike In Revenues by 2027"
-    excerpt: "According to the research held by Acumenresearchandconsulting.com, \"The global Natural Language Processing (NLP) market is expected to reach US$ XX Mn with a CAGR of XX.X% during the forecast period from 2020 to 2027\"."
-    publishedDateTime: 2020-04-23T10:52:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-to-garner-overwhelming-hike-in-revenues-by-2027-2020-04-23"
+      - url: "https://retailtouchpoints.com/wp-content/uploads/2020/03/retailrenaissance.jpg"
+        width: 805
+        height: 490
+  - title: "Deep learning algorithms use density-based crowd counting to track penguin populations"
+    excerpt: "Data science consulting company Gramener (Princeton, NJ, USA; www.gramener.com) partnered with the AI for Earth initiative (bit.ly/VSD-AIFE) run by Microsoft (Redmond, WA, USA; www.microsoft.com) to create a deep learning-based vision system for analyzing images from camera traps in Antarctica.. The solution requires convolutional neural ..."
+    publishedDateTime: 2020-04-23T12:44:00Z
+    webUrl: "https://www.vision-systems.com/non-factory/article/14169857/deep-learning-algorithms-use-densitybased-crowd-counting-to-track-penguin-populations"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 60
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Speech Recognition Market 2020: Software Innovations, Global Trends, Size, Share, Business Analysis, Key Updates and Key Industry Segments till 2023"
-    excerpt: "According to a new report by Market Research Future (MRFR), global speech recognition market is expected to reach USD"
-    publishedDateTime: 2020-04-23T09:51:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-recognition-market-2020-software-innovations-global-trends-size-share-business-analysis-key-updates-and-key-industry-segments-till-2023-2020-04-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 32
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      name: Vision Systems Design
+      domain: vision-systems.com
+    quality: 11
 
 secured: "Omq42fG5mDh+RYg7ga+lx4piPOiXstBPFlme53FF2PXb34V07w+9SNl4lqdjD5kSVQLpVyeO0KC3t0u3eyq0HAmgZVtouTry+HUGeocQMaIVYJRudJFCmObhPcQ8RBqa7fzDBdNlt5lyUwjqlmLARBQkw+7IyurXUlKPv/vIwi1PEK7Vjz2YHGK78tCNvBuSAy47BuNwtyJX0UAaKWv+jzvVdwwbxSpa7QXZhtOr1tcZ5btZtOWiExUXlq1I9XGYV3IsMNzH69QYJJsb/yqDdjIRYbngnoXfw+Z1dGra5In/M5e6MXlSowxwSQXRdbqb;PJPpkWYhl3EXSrZ/z3SYlw=="
 ---

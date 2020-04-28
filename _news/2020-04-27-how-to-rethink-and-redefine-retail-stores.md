@@ -23,6 +23,6 @@ images:
     height: 800
     title: "How to Rethink, and Redefine, Retail Stores"
 
-secured: "/BdBr+446Y6afb+P4xS+lY92dnUBmWiNzDKRQE2G+zfqL25UkGbKEelWLAAh2PbbObfJUGqSCNQY5/T+WYT9xXhy+tib2CdJKWveNe4lQoltZya/Bfr/NTZ3JaYZCoepvD6ptP8aMhilG/aBNQsc67ycV2c8WZsGNe6VT6MrgYa3/m+dsp7qcGiA1474XeTyOE/UkxXnxZKARJlBBfjIDB+ziCykmlTPjrid/ITO/AylyZi86qNYnKNdQCHTRpqrO8G1NRjAts6vkRRLNdlhTJ1mNknGOath/51IOdE63TMofJPm/fPKtXm1/XoGcBeL;MdLmY02Ft95YsYWLbBXW7g=="
+secured: "I9FG0sab2GLEys0p09cpr/qagtlRF4goMCGXVnccvrUFlgtM3musgvXbywLPM+Fpu7dBVEJywA9VHF59RkSXj+6PoTXdQNSzhTVC304WgY8tPdA6uJahjXjrd4OunZ1AXIzPco5OERe3Bn3IfITw5qMDkBNGby/sa1ZdSxQfFIecHVYHdePvoYFOg4u3/9Y8jVNL6dGC4N61b1hqmaqky+qkiTllOrPH4TpzEEP+U7Ges+6MwvH0nGliXnTEDGBl76w6IqakjoHcQJfsdsYAN0guBrC+ApTb4LGEo181fvAOtjgyWHhDjixKEzU1NadhSHoQR/KnmdXKViB6CWQCglWwWLTUhjXqfVjHjfQdWgcfp/PZBn8iBQznguCYTh34AWTF+JmaYN+4tDWPjJM8rqBKmFrn9iVMi0fXnlIGcorAnqQVUjxPs99HBZUjGVobYR9pW4PqQT9R5WVTO19XPt0HO8I5sc0z6HiKBVTxqwI=;CQ+t+cWBZmTv0LhHOaQv7w=="
 ---
 
