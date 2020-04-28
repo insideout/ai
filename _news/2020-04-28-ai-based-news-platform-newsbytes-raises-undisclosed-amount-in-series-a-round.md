@@ -28,6 +28,6 @@ images:
     height: 338
     title: "AI-based News Platform NewsBytes Raises Undisclosed Amount in Series A Round"
 
-secured: "2Xm+QWQtHvwcr7p4ujGS0A8ZBnLvYopm4TASIxjhaASSCnrTQUk5F4eI6QajvM7PZQYMas5IfkL7AF1hCeVQRhYS4+BJfJrAe++okjkYW0/0tAZS1tKL0e4H+ijKQcoMZkbvCiG36PxE3qT4tC9n5uQmHSF0sJ6hU+dylK6apZwEHIP+hw18tPbh2IMToqwnpg47VdmpDaRmma/wecpP6aadQdYhDGSd3Hh+Gwymer8FZaeC+kJpWSJIPlOBNPC5oJWNNrGZCI4xIm5JX+hjp9q8R9v+lQ2E0wdeeNcfK0CC1LrJsw8jP/PCmax6C+uJ;6+BeyX1FBZtV05yMTXZkKg=="
+secured: "OW89BsWjNYnIwock89nofNV08mnmcALp33a+nMOfcF/GUulU6TRHOD0pISqD3tv2hticcYIQ3c2QtPa6aTWV+YFWoMkYLU2JR+PB1XZLgM76XVXebLhu5Je6bAD1N7OPET1h3jQB/rHisvdXBj5gdY+XNbOEz/7JG55OPLqtHvj8MBmp32QtKLRZWwt3iYaaWjZqjNILtpxExP7/l+RwOpxFFazc9W8vW3tL4Fx0cLNNASuKUC8oduhLmcXs+3BCnkoKRgE2lcFn+4cwYofLf94UaDWRW76E1MkijPzhI9mbofxUFvZdAZHxFHt3STLH2FW/pUVQB1AM98RkWzNgJ8zQFtaUwmpUZJHjvNRY+hCatRa3iPcQacnxG/8R7OkFpOwMenBeuOzmJIVrDbSu+Mq7C3ApGt7E8ruQTAEfLjlXbr7SkGeAui8+gfAO4LG7/BXV9pj6Vd0M23evewlq405XWhiV2o3vysyqR9hqR/o=;Dnnune31NKoCM6FjTdVKeA=="
 ---
 

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.engadget.com/amp/google-diabetic-blindness-reallife-test
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/google-diabetic-blindness-reallife-tests-134057972.html"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -27,6 +27,23 @@ images:
     width: 600
     height: 350
     title: "Google admits its diabetic blindness AI fell short in real-life tests"
+
+related:
+  - title: "Google's AI Health Screening Tool Claimed 90 Percent Accuracy, but Failed to Deliver in Real World Tests"
+    excerpt: "Google said its AI showed a \"specialist-level accuracy\" of more than 90 percent for the detection of referable cases of diabetic retinopathy (DR). In reality, it quickly faced unforeseen challenges."
+    publishedDateTime: 2020-04-28T15:53:00Z
+    webUrl: "https://www.newsweek.com/google-artificial-intelligence-deep-learning-health-research-thailand-clinics-diabetic-retinopathy-1500692"
+    ampWebUrl: "https://www.newsweek.com/google-artificial-intelligence-deep-learning-health-research-thailand-clinics-diabetic-retinopathy-1500692?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/google-artificial-intelligence-deep-learning-health-research-thailand-clinics-diabetic-retinopathy-1500692?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 70
+    images:
+      - url: "https://d.newsweek.com/en/full/1585333/google.jpg"
+        width: 2500
+        height: 1667
 
 secured: "m6nxNBLFebUi4v0Nf6j3Z8nh4fvyOOVDVa3srNhpDvAxpX8Ex8XIjm5FdXadAW8+TOOC6uI/qc+rsks7lXGlHUTiTJzf0VG2KeJGJ78TqkaVj1GkX7MocbTgjOQkV9kKgByAw22ORV9WID8GxACzQUCO9GoE5G8LpZzXDlOlq17fM+7tjom2+ppIxyrDJCCVAoERTWwTuWu4Lmg5Rye6oIjONbZ008aNRSLrT6FKyM3NcrDwVD26AgTwZr0Xb1bHIx2tvOYZAnUDz+k/9c1LyaZaTR11xJBm6IO5e/o24oYtyjZtOoaGfEwrzRgRaJRdx/zrlDJIJlw7U6CZOSw+w9AwtrueyKBR/Ifubts7DiNv/XN1O+0bT8R2fE+WSnFRwC6EK8gpOoqQpGO39tkkk4zBKniPEuGhVnmY8Qi1gOH5xefn4GpwdokE7i72uF+i/fJzK7utxfS1+NVmRlnd/ieLFfB/YNzWrm4LGJSXhUc=;5EbFbw1USVMZRFG7DgRkPg=="
 ---

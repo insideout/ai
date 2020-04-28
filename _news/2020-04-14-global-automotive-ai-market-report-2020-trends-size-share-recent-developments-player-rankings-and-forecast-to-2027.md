@@ -2,18 +2,20 @@
 category: news
 title: "Global Automotive AI Market Report 2020: Trends, Size, Share, Recent Developments, Player Rankings and Forecast to 2027"
 excerpt: "Dublin, April 14, 2020 (GLOBE NEWSWIRE) -- The \"Automotive Artificial Intelligence Market by Offering, Technology, Process, Drive, and Region - Global Forecast to 2027\" report has been added to ..."
-publishedDateTime: 2020-04-14T09:03:00Z
-webUrl: "https://www.globenewswire.com/news-release/2020/04/14/2015421/0/en/Global-Automotive-AI-Market-Report-2020-Trends-Size-Share-Recent-Developments-Player-Rankings-and-Forecast-to-2027.html"
+publishedDateTime: 2020-04-14T09:54:00Z
+webUrl: "https://www.benzinga.com/pressreleases/20/04/g15794836/global-automotive-ai-market-report-2020-trends-size-share-recent-developments-player-rankings-and-"
+ampWebUrl: "https://amp.benzinga.com/amp/content/15794836"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15794836"
 type: article
 
 provider:
-  name: GlobeNewswire
-  domain: globenewswire.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Autos
   - AI
 
-secured: "Hjb6zG1YChN+kUjh0ohGR8cMMyK++XA4u0tudlhIT/67HzJI2vT1/hkMNqbC3KP1+iYm5Hn/Bac/qm0R4ggsBHhFa0q08cxpHN4QScc+SsNOXJGYdNPbmeDFsVbzDu7IafD//zkVCder2Dm5wX+NkcpL9xCboJ4RMneexWJCi9qh/SuEe9ynHjSTwRDUU91VEX70g9X0QdHC5fpoL9zH4u7zumFWDpTMz9+Ahzr7J1P8lNFtVuEHFksU2lWEvqJTcvoWhh7YCoT1C6R1DKMD7h+DZLSekDl7Hz35XsaZ/hxrUNEx3sZN/vdQfsaH+XSL;kpSiWE7XJ+7+nuZxWjOY1g=="
+secured: "Lj5Ds5zonxms5kh3YoyOyplLRrU4Bg8CJMrwQbeOOTXdNDkTYxennnr98dphqCcb9pR3zV00Q5GW7QUWEkVUf/DJhRDpOGcSGqJb542wg0BcqFm5+qxGca+vh8/mIMdlXJYCMAwSSbUcaKL9fRWIiHwV0jj3Nb/5GurzgIcq5q6A4fCtbUw8EYUcdOLunwp20D56qa6Kzw+rAaT9ryCIh3aZ0fUjvh5khnBa1RzXV5cdhl0FE+sfJV4Z/cAaTfd0QxXjUN1asBXHn4W6vzAwN4Cn4wVVOZCkTl9s4aGHfO4t+rh3orkc6+hOnDdyktJN;3IjrkAbvQJCo8AL5auLu8A=="
 ---
 

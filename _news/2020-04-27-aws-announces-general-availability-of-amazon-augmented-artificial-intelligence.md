@@ -6,7 +6,7 @@ publishedDateTime: 2020-04-27T05:47:00Z
 webUrl: "https://www.cxotoday.com/press-release/aws-announces-general-availability-of-amazon-augmented-artificial-intelligence/"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -25,19 +25,6 @@ images:
     title: "AWS Announces General Availability of Amazon Augmented Artificial Intelligence"
 
 related:
-  - title: "AWS Announces General Availability of Amazon Keyspaces (for Apache Cassandra)"
-    excerpt: "AWS offers over 175 fully featured services for compute, storage, databases, networking, analytics, robotics, machine learning and artificial intelligence (AI), Internet of Things (IoT), mobile, security, hybrid, virtual and augmented reality (VR and AR), media, and application development, deployment, and management from 73 Availability Zones ..."
-    publishedDateTime: 2020-04-23T23:11:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200423005964/en/AWS-Announces-General-Availability-Amazon-Keyspaces-Apache"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 51
-    images:
-      - url: "https://mms.businesswire.com/media/20200423005964/en/787134/23/AWS_logo_RGB.jpg"
-        width: 1200
-        height: 627
   - title: "AWS Announces General Availability of Amazon Augmented Artificial Intelligence (A2I)"
     excerpt: "that allow machine learning predictions from Amazon Rekognition and Amazon Textract to be human-reviewed more easily. Developers who build custom machine learning models in Amazon SageMaker (or other on-premises or cloud tools) can set up human review for ..."
     publishedDateTime: 2020-04-24T17:27:00Z
