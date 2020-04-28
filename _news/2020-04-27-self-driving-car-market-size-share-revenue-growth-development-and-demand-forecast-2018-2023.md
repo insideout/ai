@@ -6,7 +6,7 @@ publishedDateTime: 2020-04-27T05:14:00Z
 webUrl: "https://www.marketwatch.com/press-release/self-driving-car-market-size-share-revenue-growth-development-and-demand-forecast-2018-2023-2020-04-27"
 type: article
 quality: 42
-heat: 42
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,21 @@ images:
     width: 1200
     height: 630
     title: "Self-driving car market Size, Share, Revenue Growth, Development And Demand Forecast 2018-2023"
+
+related:
+  - title: "Artificial Intelligence (AI) in Healthcare Market in India Share, Revenue Growth, Development And Demand Forecast To 2023"
+    excerpt: "The adoption of artificial intelligence (AI) is reshaping the Indian healthcare market significantly. AI-enabled"
+    publishedDateTime: 2020-04-28T03:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-in-india-share-revenue-growth-development-and-demand-forecast-to-2023-2020-04-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 74
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
 
 secured: "0x0HY+h58NyaOOwcCBz8qOpxhsco1NTOGMG4D8x0dIxTwKOTdlbidKsF8/SGolq6a2bj0woKnNYsgxj4Mk4MzNiZ+XxK0IX6JumreD6O/gxgvuR/V/spy/N921oUu+pWL80L5kYkZbWIAL5w3nQVHUj99SKzd5PLc7+64WXuMI+yXNC8BtK6txarqDyrSxu8c3XPyR7EwSkknAhAHr5ijYJ7dxdXwyaOJt4SYXJ6kA1veYk7rNWTkFcCVNQFkZLgfw11OluGdK3yD44ChQPUy+j+Y5OSSU25IEZTn0fVN5AnaQ1DXTw1bpATT0HuGvTV;TJm6db4oknQ7mvIMW8e/jg=="
 ---

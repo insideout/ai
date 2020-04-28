@@ -2,30 +2,83 @@
   "page": 12,
   "value": [
     {
-      "path": "_news/2020-04-16-new-web-based-automl-tool-from-sensiml-makes-ai-for-iot-easier-than-ever.md",
-      "title": "New Web-Based AutoML Tool from SensiML Makes AI for IoT Easier than Ever",
-      "excerpt": "PORTLAND, Ore., April 16, 2020 /PRNewswire/ -- SensiML™ Corporation, a leading developer of AI tools for building intelligent IoT endpoints, has released a new web-based AutoML tool with a ...",
-      "heat": null,
+      "path": "_news/2020-04-16-chinese-av-startups-didi-and-autox-set-to-launch-robotaxi-pilot-programs-in-may.md",
+      "title": "Chinese AV startups Didi and AutoX set to launch robotaxi pilot programs in May",
+      "excerpt": "Two of China’s leading self-driving car firms Didi Chuxing and AutoX are reportedly set to launch their ... The race to be among the first to launch commercial autonomous ride-hailing cabs have been raging in China with Pony.ai and Baidu at the forefront. AutoX and Didi are aiming to become among the first to get the nod to commercialize ...",
+      "heat": 70,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/new-web-based-automl-tool-from-sensiml-makes-ai-for-iot-easier-than-ever/article_35c486af-26f5-5532-8c78-a677135b8da5.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-16T06:23:00-07:00",
+      "webUrl": "https://www.gizmochina.com/2020/04/16/chinese-av-startups-didi-and-autox-set-to-launch-robotaxi-pilot-programs-in-may/",
+      "ampWebUrl": "https://www.gizmochina.com/2020/04/16/chinese-av-startups-didi-and-autox-set-to-launch-robotaxi-pilot-programs-in-may/?amp",
+      "cdnAmpWebUrl": "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2020/04/16/chinese-av-startups-didi-and-autox-set-to-launch-robotaxi-pilot-programs-in-may/?amp",
+      "publishedDateTime": "2020-04-16T07:45:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
         "publishers": null,
         "authors": null
       },
       "images": [
         {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/c/22/c2216860-0a3c-5af2-ba20-9a5b036c0854/5e986247ecbff.image.jpg?resize=400%2C208",
-          "width": 400,
-          "height": 208,
-          "title": "New Web-Based AutoML Tool from SensiML Makes AI for IoT Easier than Ever",
+          "url": "https://www.gizmochina.com/wp-content/uploads/2020/04/auto-x.jpg",
+          "width": 1620,
+          "height": 1080,
+          "title": "Chinese AV startups Didi and AutoX set to launch robotaxi pilot programs in May",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-16-new-mit-machine-learning-model-shows-relaxing-quarantine-rules-will-spike-covid-19-cases.md",
+      "title": "New MIT machine learning model shows relaxing quarantine rules will spike COVID-19 cases",
+      "excerpt": "MIT has developed a new model of the spread of COVID-19 infection, based on publicly available data, combined with established epidemiological equations about outbreaks, and neural network-based inference. The model, described in a new report, proves accurate when trained on data spanning late January to early March in terms of anticipating the ...",
+      "heat": 80,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/04/16/new-mit-machine-learning-model-shows-relaxing-quarantine-rules-will-spike-covid-19-cases/",
+      "ampWebUrl": "https://techcrunch.com/2020/04/16/new-mit-machine-learning-model-shows-relaxing-quarantine-rules-will-spike-covid-19-cases/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/16/new-mit-machine-learning-model-shows-relaxing-quarantine-rules-will-spike-covid-19-cases/amp/",
+      "publishedDateTime": "2020-04-16T07:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/04/GettyImages-1210095941.jpg?w=1024",
+          "width": 1024,
+          "height": 668,
+          "title": "New MIT machine learning model shows relaxing quarantine rules will spike COVID-19 cases",
           "attribution": null
         }
       ],
@@ -79,6 +132,43 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-16-new-web-based-automl-tool-from-sensiml-makes-ai-for-iot-easier-than-ever.md",
+      "title": "New Web-Based AutoML Tool from SensiML Makes AI for IoT Easier than Ever",
+      "excerpt": "PORTLAND, Ore., April 16, 2020 /PRNewswire/ -- SensiML™ Corporation, a leading developer of AI tools for building intelligent IoT endpoints, has released a new web-based AutoML tool with a ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.prnewswire.com/news-releases/new-web-based-automl-tool-from-sensiml-makes-ai-for-iot-easier-than-ever-301041756.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-16T06:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/891804/SensiML_Logo.jpg?p=facebook",
+          "width": 2059,
+          "height": 1079,
+          "title": "New Web-Based AutoML Tool from SensiML Makes AI for IoT Easier than Ever",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
         "AI"
       ]
     },
@@ -968,96 +1058,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-15-us-self-driving-car-startup-zoox-agrees-to-settle-lawsuit-with-tesla.md",
-      "title": "U.S. self-driving car startup Zoox agrees to settle lawsuit with Tesla",
-      "excerpt": "Zoox Inc said on Tuesday it had settled a lawsuit with Tesla Inc after admitting that some new hires from the carmaker were in possession of certain Tesla documents when they joined the U.S. self-driving car startup.",
-      "heat": 119,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.reuters.com/article/us-tesla-lawsuit-zoox-idUSKCN21X034",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKCN21X034",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN21X034",
-      "publishedDateTime": "2020-04-15T15:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200415&t=2&i=1515214860&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG3E01H",
-          "width": 766,
-          "height": 545,
-          "title": "U.S. self-driving car startup Zoox agrees to settle lawsuit with Tesla",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-15-former-tesla-employees-brought-stolen-documents-to-self-driving-startup-zoox.md",
-      "title": "Former Tesla employees brought stolen documents to self-driving startup Zoox",
-      "excerpt": "Self-driving startup Zoox has admitted that four of its employees took confidential documents from their previous employer Tesla, according to a statement issued after the company settled a lawsuit this week over the matter.",
-      "heat": 86,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.theverge.com/2020/4/15/21222763/tesla-zoox-startup-lawsuit-settlement-autonomous-driving",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/4/15/21222763/tesla-zoox-startup-lawsuit-settlement-autonomous-driving",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/4/15/21222763/tesla-zoox-startup-lawsuit-settlement-autonomous-driving",
-      "publishedDateTime": "2020-04-15T14:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/G_UYDM3LJCM4nMdIZYyg2tT_EFM=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66659227/sokane_181116_3101_fremont_0064.0.jpg",
-          "width": 1400,
-          "height": 933,
-          "title": "Former Tesla employees brought stolen documents to self-driving startup Zoox",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

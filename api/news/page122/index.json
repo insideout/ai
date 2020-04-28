@@ -2,6 +2,88 @@
   "page": 122,
   "value": [
     {
+      "path": "_news/2020-01-04-deepmind-achieved-starcraft-ii-grandmaster-level-but-at-what-cost.md",
+      "title": "DeepMind achieved StarCraft II GrandMaster Level, but at what cost?",
+      "excerpt": "Thanks to the advancement in deep learning and reinforcement learning, DeepMind achieved groundbreaking success first in Atari, then in Go, and finally in Starcraft II. One of the major benefits ...",
+      "heat": 69,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/swlh/deepmind-achieved-starcraft-ii-grandmaster-level-but-at-what-cost-32891dd990e4",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-04T14:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/1200/1*V5bzG3H6ZKWh87AIxxv-dw.jpeg",
+          "width": 1200,
+          "height": 675,
+          "title": "DeepMind achieved StarCraft II GrandMaster Level, but at what cost?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2020-01-04-ambarella-aws-bring-ml-solutions-to-edge-applications.md",
+      "title": "Ambarella & AWS Bring ML Solutions to Edge Applications",
+      "excerpt": "Ambarella AMBA recently announced a collaboration with Amazon’s AMZN cloud computing arm, AWS, enabling customers to use Amazon SageMaker Neo cloud service to run ML models on devices based on ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nasdaq.com/articles/ambarella-aws-bring-ml-solutions-to-edge-applications-2020-01-03",
+      "ampWebUrl": "https://www.nasdaq.com/articles/ambarella-aws-bring-ml-solutions-to-edge-applications-2020-01-03?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ambarella-aws-bring-ml-solutions-to-edge-applications-2020-01-03?amp",
+      "publishedDateTime": "2020-01-03T16:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg",
+          "width": 1024,
+          "height": 512,
+          "title": "Ambarella & AWS Bring ML Solutions to Edge Applications",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-01-04-gone-today-hair-tomorrowfollica-raises-funds-to-begin-human-trial-of-baldness-treatment.md",
       "title": "Gone Today, Hair Tomorrow—Follica Raises Funds to Begin Human Trial of Baldness Treatment",
       "excerpt": "A proof of concept study involving 15 to 20 patients (Follica has no shortage of volunteers, as several hundred people sent in e-mails when word of Cotsarelis’s work reached the public ...",
@@ -993,88 +1075,6 @@
       "topics": [
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2019-12-31-will-deeptechs-fortunes-turn-in-2020.md",
-      "title": "Will Deeptech's Fortunes Turn In 2020?",
-      "excerpt": "Smartphone-based cognitive behavioral therapy is showing promise for ... and setting up AIRAWAT (Artificial Intelligence Research, Analytics and knowledge Assimilation platform), a cloud computing ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.entrepreneur.com/article/344414",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/344414",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/344414",
-      "publishedDateTime": "2019-12-31T01:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/20190109070104-shutterstock-529299211.jpeg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": "Will Deeptech's Fortunes Turn In 2020?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2019-12-30-a-reality-check-on-artificial-intelligence-are-health-care-claims-overblown.md",
-      "title": "A Reality Check On Artificial Intelligence: Are Health Care Claims Overblown?",
-      "excerpt": "That reality check could come in the form of disappointing results when AI products are ushered into the real world. Even Topol, the author of “Deep Medicine: How Artificial Intelligence Can Make Healthcare Human Again,” acknowledges that many AI products are little more than hot air. “It’s a mixed bag,” he said. Experts such as Dr ...",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://khn.org/news/a-reality-check-on-artificial-intelligence-are-health-care-claims-overblown/",
-      "ampWebUrl": "https://khn.org/news/a-reality-check-on-artificial-intelligence-are-health-care-claims-overblown/amp/",
-      "cdnAmpWebUrl": "https://khn-org.cdn.ampproject.org/c/s/khn.org/news/a-reality-check-on-artificial-intelligence-are-health-care-claims-overblown/amp/",
-      "publishedDateTime": "2019-12-30T11:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Kaiser Health News",
-        "domain": "khn.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://khn.org/wp-content/uploads/sites/2/2019/12/AI_illustration_02.jpg",
-          "width": 1350,
-          "height": 900,
-          "title": "A Reality Check On Artificial Intelligence: Are Health Care Claims Overblown?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

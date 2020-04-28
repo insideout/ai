@@ -2,6 +2,95 @@
   "page": 111,
   "value": [
     {
+      "path": "_news/2020-01-19-how-software-developers-sparked-management-transformation.md",
+      "title": "How Software Developers Sparked Management Transformation",
+      "excerpt": "20 Years Ago, The IT Department Was Often The Firm’s Worst Performing Unit. Now The Rest Of The Firm Can’t Keep Up",
+      "heat": 72,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/stevedenning/2020/01/19/how-software-developers-sparked-management-transformation/",
+      "ampWebUrl": "https://www.forbes.com/sites/stevedenning/2020/01/19/how-software-developers-sparked-management-transformation/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevedenning/2020/01/19/how-software-developers-sparked-management-transformation/amp/",
+      "publishedDateTime": "2020-01-19T15:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1198341263%2F0x0.jpg",
+          "width": 1200,
+          "height": 728,
+          "title": "How Software Developers Sparked Management Transformation",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-01-19-from-washington-state-to-washington-dc-lawmakers-rush-to-regulate-facial-recognition.md",
+      "title": "From Washington state to Washington DC, lawmakers rush to regulate facial recognition",
+      "excerpt": "Amid the start of an impeachment trial; talk of mounting hostility with Iran; new trade deals with China, Canada, and Mexico; and the final presidential debate before the start of the Democratic presidential primary season, you might’ve missed it, but it was also a momentous week for facial recognition regulation. A bipartisan group in ...",
+      "heat": 82,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/01/19/from-washington-state-to-washington-dc-lawmakers-rush-to-regulate-facial-recognition/",
+      "ampWebUrl": "https://venturebeat.com/2020/01/19/from-washington-state-to-washington-dc-lawmakers-rush-to-regulate-facial-recognition/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/19/from-washington-state-to-washington-dc-lawmakers-rush-to-regulate-facial-recognition/amp/",
+      "publishedDateTime": "2020-01-19T13:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/01/GettyImages-1181457356.jpg?fit=2215%2C1353&strip=all",
+          "width": 2215,
+          "height": 1353,
+          "title": "From Washington state to Washington DC, lawmakers rush to regulate facial recognition",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2020-01-19-lioness-ai-sex-toy-can-teach-you-about-your-orgasms.md",
       "title": "Lioness AI sex toy can teach you about your orgasms",
       "excerpt": "Lioness has been pioneering sex tech since 2017, but CES 2020 was the first time the company was allowed to exhibit its AI-enabled sex toy at one of the world’s biggest tech shows. The Consumer Technology Association backtracked on its earlier policies and allowed sex-positive sex tech companies to display their wares at CES, which took place ...",
@@ -979,95 +1068,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-17-what-can-ai-do-to-fight-global-warming.md",
-      "title": "What can AI do to fight global warming?",
-      "excerpt": "Tiernan Rays tells Karen Roby that some of the brightest minds in AI last month gathered in Vancouver to propose technology to fight global warming. Despite the brilliance of the inventions, other factors such as policy will be necessary to reduce carbon emissions swiftly. Read more: https://zd.net/373YMLj",
-      "heat": 67,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/video/what-can-ai-do-to-fight-global-warming/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-17T12:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2020/01/17/9cd53c09-594e-45b6-ad71-ffebbe7c4b06/thumbnail/770x578/06a6d9446705bfaef390a3bdbbfb492c/20200117-tiernan-karen-global.png",
-          "width": 770,
-          "height": 578,
-          "title": "What can AI do to fight global warming?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-17-ai-weekly-meta-analysis-shows-ai-ethics-principles-emphasize-human-rights.md",
-      "title": "AI Weekly: Meta analysis shows AI ethics principles emphasize human rights",
-      "excerpt": "One of the trends that came into sharp focus in 2019 was, ironically, a woeful lack of clarity around AI ethics. The AI field at large was paying attention to ethics, creating and applying frameworks for AI research, development, policy, and law, but there was no unified approach. The committees and groups, from every sort of organization ...",
-      "heat": 112,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/01/17/ai-weekly-meta-analysis-shows-ai-ethics-principles-emphasize-human-rights/",
-      "ampWebUrl": "https://venturebeat.com/2020/01/17/ai-weekly-meta-analysis-shows-ai-ethics-principles-emphasize-human-rights/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/17/ai-weekly-meta-analysis-shows-ai-ethics-principles-emphasize-human-rights/amp/",
-      "publishedDateTime": "2020-01-17T12:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/01/ai-principles-meta-analysis.png?fit=1200%2C594&strip=all",
-          "width": 1200,
-          "height": 594,
-          "title": "AI Weekly: Meta analysis shows AI ethics principles emphasize human rights",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

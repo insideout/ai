@@ -2,6 +2,80 @@
   "page": 43,
   "value": [
     {
+      "path": "_news/2020-03-17-russia-enforces-quarantines-with-deportations-jail-terms-and-face-recognition-tech.md",
+      "title": "Russia Enforces Quarantines With Deportations, Jail Terms and Face Recognition Tech",
+      "excerpt": "To enforce compliance, Moscow city authorities are using CCTV cameras equipped with facial surveillance technology to monitor individuals ordered to self-isolate. They are also carrying out daily raids in crowded places and at the residences of recent arrivals from China. “Police officers are conducting raids in hospitals, hostels ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnsnews.com/article/international/dimitri-simes/russia-enforces-quarantines-deportations-jail-terms-and-face",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-16T22:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNSNews.com",
+        "domain": "cnsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.mrc.org/U/W-ADS/2020/SupportMRC/MRCPandemicMessage_300x600.png",
+          "width": 300,
+          "height": 600,
+          "title": "Russia Enforces Quarantines With Deportations, Jail Terms and Face Recognition Tech",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-17-hdfc-life-integrates-face-speech-recognition-tech-to-promote-term-insurance-solutions.md",
+      "title": "HDFC Life integrates face & speech recognition tech to promote term insurance solutions",
+      "excerpt": "mCanvas, the experiential storytelling ad platform for small screens, has created an interactive mobile-led ad campaign for HDFC Life. Using real-time face and speech recognition technology, the rich-media ad is engaging users and enhancing the overall brand experience. This mobile-led ad, created by mCanvas first encourages users to make the ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.exchange4media.com/marketing-news/hdfc-life-integrates-face-speech-recognition-tech-to-promote-term-insurance-solutions-103346.html",
+      "ampWebUrl": "https://www.exchange4media.com/amp/marketing-news/hdfc-life-integrates-face-speech-recognition-tech-to-promote-term-insurance-solutions-103346.html",
+      "cdnAmpWebUrl": "https://www-exchange4media-com.cdn.ampproject.org/c/s/www.exchange4media.com/amp/marketing-news/hdfc-life-integrates-face-speech-recognition-tech-to-promote-term-insurance-solutions-103346.html",
+      "publishedDateTime": "2020-03-16T22:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Exchange 4 Media",
+        "domain": "exchange4media.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.exchange4media.com/news-photo/103346-HDFCLifeandmCanvas.jpg",
+          "width": 730,
+          "height": 395,
+          "title": "HDFC Life integrates face & speech recognition tech to promote term insurance solutions",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-17-yunqi-partners-and-others-inject-rmb-200-million-in-b-series-funding-round-for-robot-company-keenon.md",
       "title": "Yunqi Partners and Others Inject RMB 200 million in B series Funding Round for Robot Company Keenon",
       "excerpt": "BEIJING, March 16, 2020 /PRNewswire/ -- Robot startup Keenon recently completed a new round of financing. Source Code Capital, Walden International and Shanghai S&T were the investors in this round of funding,",
@@ -1091,72 +1165,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-16-the-amazon-athena-query-federation-sdk-allows-you-to-customize-amazon-athena-with-your-own-data-sources-and-code.md",
-      "title": "The Amazon Athena Query Federation SDK allows you to customize Amazon Athena with your own data sources and code.",
-      "excerpt": "To enable this Preview feature you need to create an Athena workgroup named AmazonAthenaPreviewFunctionality and run any queries attempting to federate to this connector, use a UDF, or SageMaker inference from that workgroup. We've written integrations with more than 20 databases, storage formats, and live APIs in order to refine this interface ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://github.com/awslabs/aws-athena-query-federation",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-16T09:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GitHub",
-        "domain": "github.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://github.com/awslabs/aws-athena-query-federation/raw/master/docs/img/athena_federation_flow.png?raw=true",
-          "width": 608,
-          "height": 552,
-          "title": "The Amazon Athena Query Federation SDK allows you to customize Amazon Athena with your own data sources and code.",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-16-the-smart-money-is-on-the-sensors.md",
-      "title": "The Smart Money Is on the Sensors",
-      "excerpt": "With a tracking module connected to the OBD II port and the integration of RFID readers, telematics use cases can be extended to identifying individual drivers and passengers through ID tag swipe. RFID technology allows businesses to, for example, keep ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.rfidjournal.com/articles/view?18461/2",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-16T08:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RFID Journal",
-        "domain": "rfidjournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

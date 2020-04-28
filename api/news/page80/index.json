@@ -2,6 +2,96 @@
   "page": 80,
   "value": [
     {
+      "path": "_news/2020-02-17-space-robotics-market-emerging-trends-and-strong-application-scope-by-2025.md",
+      "title": "Space Robotics Market Emerging Trends and Strong Application Scope by 2025",
+      "excerpt": "HTF Market Intelligence released a new research report of 150 pages on title 'Global Space Robotics Market Insights by Application, Product Type, Competitive Landscape & Regional Forecast 2025' with detailed analysis,",
+      "heat": 272,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/space-robotics-market-emerging-trends-and-strong-application-scope-by-2025-2020-02-17",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-17T08:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Space Robotics Market Emerging Trends and Strong Application Scope by 2025",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-02-17-machine-learning-is-no-place-to-move-fast-and-break-things.md",
+      "title": "Machine Learning Is No Place To “Move Fast And Break Things”",
+      "excerpt": "Machine learning systems can be massively useful, but also fail critically in unforeseen ways. We need systems engineering in synergy with experimentation and innovation.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/alexanderlavin/2020/02/17/machine-learning-is-no-place-to-move-fast-and-break-things/",
+      "ampWebUrl": "https://www.forbes.com/sites/alexanderlavin/2020/02/17/machine-learning-is-no-place-to-move-fast-and-break-things/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alexanderlavin/2020/02/17/machine-learning-is-no-place-to-move-fast-and-break-things/amp/",
+      "publishedDateTime": "2020-02-17T08:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e48aadba854780006b17705%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Machine Learning Is No Place To “Move Fast And Break Things”",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-02-17-bridging-the-gender-gap-in-ai.md",
       "title": "Bridging The Gender Gap In AI",
       "excerpt": "The first step to bridge the gender gap in AI is awareness. By understanding the nature and significance of the gender bias, we can take meaningfully steps to bridge the divide.",
@@ -914,88 +1004,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-02-15-are-robots-better-investors-than-humans.md",
-      "title": "Are Robots Better Investors Than Humans?",
-      "excerpt": "Would you entrust your money to an artificial intelligence? On one hand, that could seem like stacking risk atop risk. On the other hand, it’s unlikely that a robot would suddenly develop Bernie Madoff-ish tendencies and begin defrauding investors. If nothing else, we’re pretty sure the Three Laws of Robotics prevent financial misdeeds.",
-      "heat": 169,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.insidehook.com/daily_brief/tech/are-robots-better-investors-than-humans",
-      "ampWebUrl": "https://www.insidehook.com/daily_brief/tech/are-robots-better-investors-than-humans/amp",
-      "cdnAmpWebUrl": "https://www-insidehook-com.cdn.ampproject.org/c/s/www.insidehook.com/daily_brief/tech/are-robots-better-investors-than-humans/amp",
-      "publishedDateTime": "2020-02-15T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InsideHook",
-        "domain": "insidehook.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.insidehook.com/wp-content/uploads/2020/02/Sophia_at_the_AI_for_Good_Global_Summit_2018_27254369807.jpg?fit=1280%2C853",
-          "width": 1280,
-          "height": 853,
-          "title": "Are Robots Better Investors Than Humans?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-02-15-why-bill-gates-thinks-gene-editing-and-artificial-intelligence-could-save-the-world.md",
-      "title": "Why Bill Gates thinks gene editing and artificial intelligence could save the world",
-      "excerpt": "(GeekWire Photo / Alan Boyle) Microsoft co-founder Bill Gates has been working to improve the state of global health through his nonprofit foundation for 20 years, and today he told the nation’s premier scientific gathering that advances in artificial intelligence and gene editing could accelerate those improvements exponentially in the years ...",
-      "heat": 203,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.geekwire.com/2020/bill-gates-thinks-gene-editing-artificial-intelligence-save-world/",
-      "ampWebUrl": "https://www.geekwire.com/2020/bill-gates-thinks-gene-editing-artificial-intelligence-save-world/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/bill-gates-thinks-gene-editing-artificial-intelligence-save-world/amp/",
-      "publishedDateTime": "2020-02-14T18:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/02/200214-gates1-630x420.jpg",
-          "width": 630,
-          "height": 420,
-          "title": "Why Bill Gates thinks gene editing and artificial intelligence could save the world",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

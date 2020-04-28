@@ -28,6 +28,6 @@ images:
     height: 933
     title: "Go read this analysis of the new iPhone SE’s AI-powered depth camera system"
 
-secured: "5WYc2o/0yVpuq4fj2Kld5Xznu2MdT8SOfH9shIPi/LQE0/efVV37oM73fVvIlY8zGU4FwF1nQzfTdTZ/hIHHf5IOxrkMBZoH/iOBlMcuv37qOeiWZwRplJlnlJDCrD3riIE+EkXIT0VOH49wrFzz60PUTOjM4LYfGB7Bz5mEgd1VtvGg3BOv1K7SPNrlcknsR5ORQL14+pjekg5CROhPC+YN/u9FXB45SvI6M6ZZ3fmS6pGLlvsogVpA7xPtoCJg1WNv/xx/RANtXYrhYaz18GhcgSZkLbjoEDrgdYMupg3ZM8GKgFzPz937kRUL0NpA;j6+WXVM9VFl8vXdUJnSucA=="
+secured: "RZV4GfBXIkeHeyoQ8NT3xSqFp0OKkPhjCJYP5O5EnQxOXXQGEzjdO1jUUFEnWQDDQsWOd54+VLn6OynLNyVuz4HAlCdizWDtd7nVgsj+6vDOYMdrgW2ELW/RXr/4LqWxDCYm2kMLOPpz3rnlKMASo1HIiHrCkaaiOw/A817CqlgRrbRQhpVekeCpSRjMr6PpDAXvhHkYscVAH0/I1/vTFqscya7QGICp2iCRau2GA03IK4cLmI6BtwMJE6+CGiQxZccN1VCKqaW8cNxOM2l+8dDh0jENoASneKr2jZrFLVBetGv+rEUKw841sY9rJicga1Vk9k6mkCpLrPoyEBLR2gN6cZqXTd/1HVe+I1CCvM0M7vRaAXNEtHF6EoLS9lrJUL+g3A0v4/U12so+f32HubIj9KAvEKAVrFTECHzIQaFKxagT+FlIlaZ6iWkMhnpa9vhL3Ul7Cw3m3mywTdCqtppw3GOBl8EKh4BQAqrQqgs=;f/sIgc3Jjzyb7+Ye5zn3Aw=="
 ---
 

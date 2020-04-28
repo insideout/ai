@@ -2,6 +2,86 @@
   "page": 78,
   "value": [
     {
+      "path": "_news/2020-02-19-artificial-intelligence-raises-question-of-whos-an-inventor.md",
+      "title": "Artificial intelligence raises question of who’s an inventor",
+      "excerpt": "Artificial intelligence raises question of who’s an inventor Only humans can get patents, but computers using artificial intelligence are discovering medicines, designing golf clubs and creating video games Check out this story on detroitnews.com: https://www.detroitnews.com/story/business/2020/02/18/artificial-intelligence-inventor/111333818/",
+      "heat": 92,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.detroitnews.com/story/business/2020/02/18/artificial-intelligence-inventor/111333818/",
+      "ampWebUrl": "https://amp.detroitnews.com/amp/111333818",
+      "cdnAmpWebUrl": "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/111333818",
+      "publishedDateTime": "2020-02-18T20:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Detroit News",
+        "domain": "detroitnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/02/19/PDTN/ccfce976-dcb2-4089-bffa-5cedeae5ea61-AP20007048093657.jpg?auto=webp&crop=3413,1920,x1,y116&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": "Artificial intelligence raises question of who’s an inventor",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-19-this-phone-uses-ai-to-block-you-taking-naked-selfies.md",
+      "title": "This phone uses AI to block you taking naked selfies",
+      "excerpt": "Ever sent a nude photo to a partner before? If so, you're not the only one. Just under 50% of American adults have sent nude photos (or videos), said one 2014 study, while a survey by Cosmo found that 89% of millennial women had taken naked photos.",
+      "heat": 107,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnet.com/news/this-phone-uses-ai-to-block-you-taking-naked-selfies/",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/this-phone-uses-ai-to-block-you-taking-naked-selfies/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/this-phone-uses-ai-to-block-you-taking-naked-selfies/",
+      "publishedDateTime": "2020-02-18T19:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cnet1.cbsistatic.com/img/QiliQ1lVT-fjyYxebjYV2stM8r8=/756x567/2020/02/19/8ff3f60d-9d84-46e2-a6b1-ef42e5874c1c/screen-shot-2020-02-19-at-2-22-28-pm.png",
+          "width": 756,
+          "height": 567,
+          "title": "This phone uses AI to block you taking naked selfies",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-02-19-nasa-missed-these-11-dangerous-asteroids-but-an-ai-caught-them.md",
       "title": "NASA missed these 11 dangerous asteroids, but an AI caught them",
       "excerpt": "To see just how many possibly dangerous asteroids we’ve been missing, researchers from the Netherlands built an AI network to analyze the data and see what it could find. AMAZON'S TOP DEALS: These Amazon deals are up to 50% off, today only! As the researchers explain in a new paper published in Astronomy & Astrophysics, the computer brain was ...",
@@ -985,96 +1065,6 @@
       "topics": [
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-02-18-the-insurance-brain-ai-driven-policy-recommendations.md",
-      "title": "The Insurance Brain: AI-Driven Policy Recommendations",
-      "excerpt": "When MS&AD Insurance Group Holdings needed to create an AI-driven recommendation system for their MSI subsidiary, they turned to AutoML 2.0 to help drive results and achieve their goals.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/02/18/ai-driven-policy-recommendations/",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/02/18/ai-driven-policy-recommendations/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/02/18/ai-driven-policy-recommendations/amp/",
-      "publishedDateTime": "2020-02-18T06:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e45ae61a854780006b137d9%2F0x0.jpg%3FcropX1%3D39%26cropX2%3D839%26cropY1%3D0%26cropY2%3D450",
-          "width": 801,
-          "height": 450,
-          "title": "The Insurance Brain: AI-Driven Policy Recommendations",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-02-18-building-a-reverb-detection-system-using-machine-learning.md",
-      "title": "Building a Reverb Detection System using Machine Learning",
-      "excerpt": "Very little reverb. A lot of reverb. What we are actually trying to measure with our machine learning (ML) model is the Reverb Decay Time. This can be defined as the amount of time in seconds that it takes for a sound to fade away. The technical term for this is the RT-60 time, which is the time it takes for a sound’s pressure level to drop ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/@davidmronan/building-a-reverb-detection-system-using-machine-learning-cba02a1710bf",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-18T06:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/522/1*P4AQM-CyIb_uhNzvRAVMrw.jpeg",
-          "width": 522,
-          "height": 218,
-          "title": "Building a Reverb Detection System using Machine Learning",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

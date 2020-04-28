@@ -2,6 +2,72 @@
   "page": 42,
   "value": [
     {
+      "path": "_news/2020-03-17-machine-learning-to-scale-up-the-quantum-computer.md",
+      "title": "Machine learning to scale up the quantum computer",
+      "excerpt": "Machine learning is an emerging area of research which is revolutionizing almost every field of research, from medical science to image processing, robotics, and material design. A carefully trained machine learning algorithm can process very large data sets with enormous efficiency. One branch of machine learning is known as convolutional ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://phys.org/news/2020-03-machine-scale-quantum.html",
+      "ampWebUrl": "https://phys.org/news/2020-03-machine-scale-quantum.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-03-machine-scale-quantum.amp",
+      "publishedDateTime": "2020-03-17T07:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-17-intels-innovative-approach-to-data-encryption-could-advance-ai-and-machine-learning.md",
+      "title": "Intel’s innovative approach to data encryption could advance AI and machine learning",
+      "excerpt": "This week, theCUBE features Casimir Wierzynski as its Guest of the Week. Wierzynski is one of the leading voices in a movement for Privacy-Preserving Machine Learning, or PPML. The goal of PPML is to combine complementary technologies so that machine learning can use data for training models without sacrificing the anonymity of personal ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://siliconangle.com/2020/03/17/ntels-innovative-approach-to-data-encryption-could-advance-ai-and-machine-learning-rsac-guestoftheweek/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-17T07:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/03/Wierzynski.jpg",
+          "width": 894,
+          "height": 596,
+          "title": "Intel’s innovative approach to data encryption could advance AI and machine learning",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-17-after-test-san-diego-pd-bans-facial-recognition-app.md",
       "title": "After Test, San Diego P.D. Bans Facial Recognition App",
       "excerpt": "(TNS) — Imagine a \"search engine for faces.\" That's how a co-founder of Clearview AI has described the facial recognition app, a relatively new tool for law enforcement agencies to use to identify suspected criminals by matching photos of suspects to images and profiles online. With an internal database of more than three billion images ...",
@@ -1018,80 +1084,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-russia-enforces-quarantines-with-deportations-jail-terms-and-face-recognition-tech.md",
-      "title": "Russia Enforces Quarantines With Deportations, Jail Terms and Face Recognition Tech",
-      "excerpt": "To enforce compliance, Moscow city authorities are using CCTV cameras equipped with facial surveillance technology to monitor individuals ordered to self-isolate. They are also carrying out daily raids in crowded places and at the residences of recent arrivals from China. “Police officers are conducting raids in hospitals, hostels ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnsnews.com/article/international/dimitri-simes/russia-enforces-quarantines-deportations-jail-terms-and-face",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-16T22:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNSNews.com",
-        "domain": "cnsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.mrc.org/U/W-ADS/2020/SupportMRC/MRCPandemicMessage_300x600.png",
-          "width": 300,
-          "height": 600,
-          "title": "Russia Enforces Quarantines With Deportations, Jail Terms and Face Recognition Tech",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-hdfc-life-integrates-face-speech-recognition-tech-to-promote-term-insurance-solutions.md",
-      "title": "HDFC Life integrates face & speech recognition tech to promote term insurance solutions",
-      "excerpt": "mCanvas, the experiential storytelling ad platform for small screens, has created an interactive mobile-led ad campaign for HDFC Life. Using real-time face and speech recognition technology, the rich-media ad is engaging users and enhancing the overall brand experience. This mobile-led ad, created by mCanvas first encourages users to make the ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.exchange4media.com/marketing-news/hdfc-life-integrates-face-speech-recognition-tech-to-promote-term-insurance-solutions-103346.html",
-      "ampWebUrl": "https://www.exchange4media.com/amp/marketing-news/hdfc-life-integrates-face-speech-recognition-tech-to-promote-term-insurance-solutions-103346.html",
-      "cdnAmpWebUrl": "https://www-exchange4media-com.cdn.ampproject.org/c/s/www.exchange4media.com/amp/marketing-news/hdfc-life-integrates-face-speech-recognition-tech-to-promote-term-insurance-solutions-103346.html",
-      "publishedDateTime": "2020-03-16T22:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Exchange 4 Media",
-        "domain": "exchange4media.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.exchange4media.com/news-photo/103346-HDFCLifeandmCanvas.jpg",
-          "width": 730,
-          "height": 395,
-          "title": "HDFC Life integrates face & speech recognition tech to promote term insurance solutions",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

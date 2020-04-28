@@ -2,6 +2,96 @@
   "page": 88,
   "value": [
     {
+      "path": "_news/2020-01-23-microsoft-unveils-new-azure-service-genesys-engage.md",
+      "title": "Microsoft unveils new Azure Service, Genesys Engage",
+      "excerpt": "One of the biggest challenges is connecting the details of every interaction across all channels to ensure each customer has a seamless experience. By leveraging Microsoft’s Azure cloud and AI technologies, Genesys is helping enterprises create a seamless customer journey with Microsoft's trusted, secure and scalable platform.\" Microsoft has ...",
+      "heat": 124,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.neowin.net/news/microsoft-unveils-new-azure-service-genesys-engage",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-23T09:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2020/01/1579801417_ms-nadella-satyagenesys-ceo-bates-tony-0019-edit-1-1024x803_story.jpg",
+          "width": 760,
+          "height": 595,
+          "title": "Microsoft unveils new Azure Service, Genesys Engage",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-01-23-apple-is-quietly-expanding-its-artificial-intelligence-ecosystem.md",
+      "title": "Apple is Quietly Expanding its Artificial Intelligence Ecosystem",
+      "excerpt": "Apple (NASDAQ:AAPL) recently acquired Xnor.ai, a Seattle-based start-up that develops low-power, edge-based artificial intelligence tools. Apple didn't disclose the terms of the deal, but GeekWire claimed that the deal was worth about $200 million. Apple reportedly paid a similar amount for Turi, another Seattle-based company that specializes ...",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fool.com/investing/2020/01/23/apple-is-quietly-expanding-its-artificial-intellig.aspx",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/01/23/apple-is-quietly-expanding-its-artificial-intellig.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/01/23/apple-is-quietly-expanding-its-artificial-intellig.aspx",
+      "publishedDateTime": "2020-01-23T09:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F554243%2Fgettyimages-1037156090.jpg&w=700&op=resize",
+          "width": 700,
+          "height": 466,
+          "title": "Apple is Quietly Expanding its Artificial Intelligence Ecosystem",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2020-01-23-health-catalyst-becomes-1st-healthcare-member-of-partnership-on-ai.md",
       "title": "Health Catalyst becomes 1st healthcare member of Partnership on AI",
       "excerpt": "The Partnership on Artificial Intelligence to Benefit People and Society, founded by Amazon, Google, Microsoft and other tech giants to research and distribute best practices on the responsible use of AI, welcomed Health Catalyst as a partner on Jan. 22. The startup's addition to the coalition makes it the first solely healthcare-focused member ...",
@@ -1187,88 +1277,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-01-23-california-robotics-company-sues-business-partner-over-ai-ocean-vehicle.md",
-      "title": "California Robotics Company Sues Business Partner Over AI Ocean Vehicle",
-      "excerpt": "Los Angeles County robotics company Apium sued a maritime vehicles manufacturer for breach of contract and trade secret misappropriation in federal court Wednesday. Apium partnered with Aquabotix Technology Corp. in the competitive and fast-moving artificial intelligence space to develop robots that could swarm in the ocean, according to a ...",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.law.com/therecorder/2020/01/22/california-robotics-company-sues-business-partner-over-ai-ocean-vehicle/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-22T16:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Law",
-        "domain": "law.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.law.com/contrib/content/uploads/sites/403/2020/01/APIUM-Swarm-Robotics-Article-202001222322.jpg",
-          "width": 620,
-          "height": 372,
-          "title": "California Robotics Company Sues Business Partner Over AI Ocean Vehicle",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-01-23-twitter-tells-facial-recognition-trailblazer-to-stop-using-sites-photos.md",
-      "title": "Twitter Tells Facial Recognition Trailblazer to Stop Using Site’s Photos",
-      "excerpt": "Twitter said Clearview AI, whose app is spreading in law enforcement, was violating its policies. Lawmakers also expressed privacy concerns. A mysterious company that has licensed its powerful facial recognition technology to hundreds of law enforcement agencies is facing attacks from Capitol Hill and from at least one Silicon Valley giant.",
-      "heat": 663,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nytimes.com/2020/01/22/technology/clearview-ai-twitter-letter.html",
-      "ampWebUrl": "https://www.nytimes.com/2020/01/22/technology/clearview-ai-twitter-letter.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/01/22/technology/clearview-ai-twitter-letter.amp.html",
-      "publishedDateTime": "2020-01-22T16:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/01/22/business/22clearview/22clearview-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 549,
-          "title": "Twitter Tells Facial Recognition Trailblazer to Stop Using Site’s Photos",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

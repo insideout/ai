@@ -2,6 +2,81 @@
   "page": 49,
   "value": [
     {
+      "path": "_news/2020-03-11-intel-stock-is-poised-to-outperform-on-chip-and-ai-developments.md",
+      "title": "Intel Stock Is Poised to Outperform on Chip and AI Developments",
+      "excerpt": "Intel’s chips are proving to be popular with AI developers, and it expects its upcoming Cooper chips to “enable AI systems to be trained up to 60% faster than their predecessors.” Moreover, as I wrote in a previous article on AMD: “According to Analytics India Magazine, AI chips made by Habana are four times better than graphics ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://investorplace.com/2020/03/intel-stock-is-poised-to-outperform-on-chip-progress-and-ai-gains/",
+      "ampWebUrl": "https://investorplace.com/2020/03/intel-stock-is-poised-to-outperform-on-chip-progress-and-ai-gains/amp/",
+      "cdnAmpWebUrl": "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/03/intel-stock-is-poised-to-outperform-on-chip-progress-and-ai-gains/amp/",
+      "publishedDateTime": "2020-03-11T06:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InvestorPlace",
+        "domain": "investorplace.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://investorplace.com/wp-content/uploads/2019/10/intc1600n.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": "Intel Stock Is Poised to Outperform on Chip and AI Developments",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-11-ibm-watson-improves-ability-to-understand-the-language-of-business.md",
+      "title": "IBM Watson improves ability to understand the language of business",
+      "excerpt": "The new technologies represent the first commercialisation of key natural language processing (NLP) capabilities to come from IBM Research’s Project Debater, the only AI system capable of debating humans on complex topics. For example, a new advanced sentiment analysis feature has been developed to identify and analyse idioms and ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.information-age.com/ibm-watson-improves-ability-to-understand-language-business-123488213/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-11T06:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Information Age",
+        "domain": "information-age.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s27389.pcdn.co/wp-content/uploads/2020/03/ibm-watson-improves-ability-to-understand-language-business.jpeg",
+          "width": 1080,
+          "height": 608,
+          "title": "IBM Watson improves ability to understand the language of business",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-11-smart-machines-market-is-expected-to-witness-cagr-of-193-during-the-forecast-period-2019-2027.md",
       "title": "Smart Machines Market Is Expected To Witness CAGR Of 19.3% During The Forecast Period (2019-2027)",
       "excerpt": "Market Overview A smart machine is an intelligent device embedded with machine-to-machine technology to perform various",
@@ -1126,81 +1201,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-11-forwardx-debuts-computer-vision-amr-fleet.md",
-      "title": "ForwardX debuts computer vision AMR fleet",
-      "excerpt": "Nicholas Temple, VP of sales for ForwardX, illustrates how the company’s computer vision-based AMRs use AI and deep learning to extract insights from camera inputs. ForwardX Robotics (Booth 1207) recently launched in the Americas what it claims is the world’s only computer vision-based AMR fleet, which has already been installed in ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.scmr.com/article/forwardx_debuts_computer_vision_amr_fleet/news",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-10T17:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Supply Chain Management Review",
-        "domain": "scmr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.mmh.com/images/2020_article/forwardx2020.jpg",
-          "width": 300,
-          "height": 400,
-          "title": "ForwardX debuts computer vision AMR fleet",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-11-tensorflow-quantum-and-first-release-candidate-for-tensorflow-22.md",
-      "title": "TensorFlow Quantum and first release candidate for TensorFlow 2.2",
-      "excerpt": "The TensorFlow developers have been keeping busy this week: Not only has the first release candidate for TensorFlow 2.2 arrived, but we can now also welcome the very first release of TensorFlow Quantum. Let’s see what has been happening in the world of ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://jaxenter.com/tensorflow-quantum-and-tensorflow-2-2-rc0-169588.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-10T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "jaxenter.com",
-        "domain": "jaxenter.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://jaxenter.com/wp-content/uploads/2020/03/TensorFlow-Quantum.jpg",
-          "width": 600,
-          "height": 400,
-          "title": "TensorFlow Quantum and first release candidate for TensorFlow 2.2",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "TensorFlow",
-        "Google AI",
         "AI"
       ]
     }

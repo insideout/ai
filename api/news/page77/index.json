@@ -2,6 +2,96 @@
   "page": 77,
   "value": [
     {
+      "path": "_news/2020-02-19-these-companies-are-investing-billions-so-robots-can-perform-surgery-without-a-doctor-in-the-room.md",
+      "title": "These companies are investing billions so robots can perform surgery without a doctor in the room",
+      "excerpt": "Scientists are excited about the potential for artificial intelligence, improved connectivity, and other technological advancements to make robotic",
+      "heat": 76,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/story/these-companies-are-investing-billions-so-robots-can-perform-surgery-without-a-doctor-in-the-room-2020-02-19",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/guid/E98B2CC0-5278-11EA-B5C7-52AF3B60D99D",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/guid/E98B2CC0-5278-11EA-B5C7-52AF3B60D99D",
+      "publishedDateTime": "2020-02-19T07:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s.marketwatch.com/public/resources/images/MW-IA008_0220_b_ZH_20200210151151.jpg",
+          "width": 890,
+          "height": 501,
+          "title": "These companies are investing billions so robots can perform surgery without a doctor in the room",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-02-19-85-in-a-35-hackers-show-how-easy-it-is-to-manipulate-a-self-driving-tesla.md",
+      "title": "85 in a 35? Hackers show how easy it is to manipulate a self-driving Tesla",
+      "excerpt": "Two McAfee researchers managed to trick a 2016 Tesla into a dangerous burst of acceleration by changing a speed limit reading from 35 m.p.h to 85 m.p.h.",
+      "heat": 127,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/story/85-in-a-35-hackers-show-how-easy-it-is-to-manipulate-a-self-driving-tesla-2020-02-19",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/guid/C82D90AE-5322-11EA-9A69-DD6044AC3CC1",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/guid/C82D90AE-5322-11EA-9A69-DD6044AC3CC1",
+      "publishedDateTime": "2020-02-19T07:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s.marketwatch.com/public/resources/images/MW-IA488_tesla_ZH_20200219100228.jpg",
+          "width": 890,
+          "height": 501,
+          "title": "85 in a 35? Hackers show how easy it is to manipulate a self-driving Tesla",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2020-02-19-artificial-intelligence-makes-a-splash-in-efforts-to-protect-alaskas-ice-seals-and-beluga-whales.md",
       "title": "Artificial intelligence makes a splash in efforts to protect Alaska’s ice seals and beluga whales",
       "excerpt": "NOAA scientist Erin Moreland felt sure there was a technological solution to help her team sort through millions of aerial images of ice each year. She hit the jackpot with artificial intelligence. (Photo provided by NOAA) That better way is now here — an idea that began, unusually enough, with the view from Moreland’s Seattle office window ...",
@@ -955,86 +1045,6 @@
         "authors": null
       },
       "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-19-artificial-intelligence-raises-question-of-whos-an-inventor.md",
-      "title": "Artificial intelligence raises question of who’s an inventor",
-      "excerpt": "Artificial intelligence raises question of who’s an inventor Only humans can get patents, but computers using artificial intelligence are discovering medicines, designing golf clubs and creating video games Check out this story on detroitnews.com: https://www.detroitnews.com/story/business/2020/02/18/artificial-intelligence-inventor/111333818/",
-      "heat": 92,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.detroitnews.com/story/business/2020/02/18/artificial-intelligence-inventor/111333818/",
-      "ampWebUrl": "https://amp.detroitnews.com/amp/111333818",
-      "cdnAmpWebUrl": "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/111333818",
-      "publishedDateTime": "2020-02-18T20:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Detroit News",
-        "domain": "detroitnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/02/19/PDTN/ccfce976-dcb2-4089-bffa-5cedeae5ea61-AP20007048093657.jpg?auto=webp&crop=3413,1920,x1,y116&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": "Artificial intelligence raises question of who’s an inventor",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-19-this-phone-uses-ai-to-block-you-taking-naked-selfies.md",
-      "title": "This phone uses AI to block you taking naked selfies",
-      "excerpt": "Ever sent a nude photo to a partner before? If so, you're not the only one. Just under 50% of American adults have sent nude photos (or videos), said one 2014 study, while a survey by Cosmo found that 89% of millennial women had taken naked photos.",
-      "heat": 107,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnet.com/news/this-phone-uses-ai-to-block-you-taking-naked-selfies/",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/this-phone-uses-ai-to-block-you-taking-naked-selfies/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/this-phone-uses-ai-to-block-you-taking-naked-selfies/",
-      "publishedDateTime": "2020-02-18T19:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cnet1.cbsistatic.com/img/QiliQ1lVT-fjyYxebjYV2stM8r8=/756x567/2020/02/19/8ff3f60d-9d84-46e2-a6b1-ef42e5874c1c/screen-shot-2020-02-19-at-2-22-28-pm.png",
-          "width": 756,
-          "height": 567,
-          "title": "This phone uses AI to block you taking naked selfies",
-          "attribution": null
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"

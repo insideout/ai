@@ -2,6 +2,86 @@
   "page": 97,
   "value": [
     {
+      "path": "_news/2020-01-15-ai-should-be-used-to-foster-connections-starbucks-ceo-tells-nrf-2020-audience.md",
+      "title": "AI should be used to foster connections, Starbucks CEO tells NRF 2020 audience",
+      "excerpt": "The AI platform also predicts how many baristas are needed for the store to run effectively every 30 minutes, making it easier for stores worldwide to manage scheduling and other rote tasks. The company, the world's largest coffee retailer, is now working on a voice activated system that can take a customer's order. Instead of having a ...",
+      "heat": 83,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/article/ai-should-be-used-to-foster-connections-starbucks-ceo-tells-nrf-2020-audience/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ai-should-be-used-to-foster-connections-starbucks-ceo-tells-nrf-2020-audience/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-should-be-used-to-foster-connections-starbucks-ceo-tells-nrf-2020-audience/",
+      "publishedDateTime": "2020-01-15T09:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr3.cbsistatic.com/hub/i/r/2020/01/15/b35f2106-b5a9-4262-8937-4c515543ae80/resize/1200x/b7e608c8aaa3570f82a2ed7538cae17e/img-4789.jpg",
+          "width": 1200,
+          "height": 802,
+          "title": "AI should be used to foster connections, Starbucks CEO tells NRF 2020 audience",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-01-15-deep-fake-imagery-manipulation-poses-threat-to-society-not-just-military-us-general-warns.md",
+      "title": "'Deep fake' imagery manipulation poses threat to society not just military, US General warns",
+      "excerpt": "‘Deep fakes’ pose a major threat to elections and even world peace, a US military leader has warned. The manipulation of digital pictures to ... \"Those are areas that are of increasing concern across the whole of society, not just the US military.” The process of creating a deep fake image or video requires many pictures of a person's ...",
+      "heat": 131,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.telegraph.co.uk/news/2020/01/15/deep-fake-imagery-manipulation-poses-threat-society-not-just/",
+      "ampWebUrl": "https://www.telegraph.co.uk/news/2020/01/15/deep-fake-imagery-manipulation-poses-threat-society-not-just/amp/",
+      "cdnAmpWebUrl": "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/news/2020/01/15/deep-fake-imagery-manipulation-poses-threat-society-not-just/amp/",
+      "publishedDateTime": "2020-01-15T08:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily Telegraph",
+        "domain": "telegraph.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.telegraph.co.uk/content/dam/news/2020/01/15/TELEMMGLPICT000220631492_trans%2B%2BqVzuuqpFlyLIwiB6NTmJwUTIkwgpo3A-hR5PYllYuW8.jpeg",
+          "width": 2501,
+          "height": 1563,
+          "title": "'Deep fake' imagery manipulation poses threat to society not just military, US General warns",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-01-15-ai-can-fight-climate-change-but-theres-a-catch-optimization-doesnt-automatically-equal-emissions-reduction.md",
       "title": "AI can fight climate change but there's a catch: Optimization doesn't automatically equal emissions reduction",
       "excerpt": "The event was sponsored by Google's DeepMind, Microsoft, and ElementAI, the AI software and services firm co-founded by Yoshua Bengio, a star in the field of deep learning. Organizers were from Climate Change AI, a group of volunteer researchers from institutions around the world. What is artificial general intelligence? Everything you need ...",
@@ -1185,95 +1265,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-14-ces-2020-older-adults-embrace-ai-with-transparency.md",
-      "title": "CES 2020: Older adults embrace AI with transparency",
-      "excerpt": "Tonya Hall talks with Kari Olson, chief innovation and technology officer at Front Porch, about how older adults are beginning to understand and embrace AI.",
-      "heat": 67,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/video/ces-2020-older-adults-embrace-ai-with-transparency/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-14T06:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/01/14/8d8ebb00-3f91-4110-adc1-769ce1d616d0/thumbnail/770x578/8cdde30d9fe62b9ee966452220fe3f7f/thumb.jpg",
-          "width": 770,
-          "height": 578,
-          "title": "CES 2020: Older adults embrace AI with transparency",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-14-brave-new-world-of-retail-walmarts-robots-are-just-the-beginning.md",
-      "title": "Brave New World Of Retail: Walmart’s Robots Are Just The Beginning",
-      "excerpt": "The retail industry has decided that robots and other automated inventory systems are better than humans for certain tasks.",
-      "heat": 104,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/joanverdon/2020/01/14/brave-new-world-of-retail-walmarts-robots-are-just-the-beginning/",
-      "ampWebUrl": "https://www.forbes.com/sites/joanverdon/2020/01/14/brave-new-world-of-retail-walmarts-robots-are-just-the-beginning/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joanverdon/2020/01/14/brave-new-world-of-retail-walmarts-robots-are-just-the-beginning/amp/",
-      "publishedDateTime": "2020-01-14T04:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e1d4c40a854780006e876f0%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4032%26cropY1%3D202%26cropY2%3D2890",
-          "width": 1200,
-          "height": 800,
-          "title": "Brave New World Of Retail: Walmart’s Robots Are Just The Beginning",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

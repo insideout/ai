@@ -2,6 +2,96 @@
   "page": 96,
   "value": [
     {
+      "path": "_news/2020-01-16-2020-trending-deep-learning-ai-market-to-give-boost-to-retail-healthcare-automotive-bsfi-and-telecom-industries.md",
+      "title": "2020 Trending: Deep Learning AI Market to give boost to retail, healthcare, automotive, BSFI and telecom Industries",
+      "excerpt": "The Deep Learning AI marketis poised to grow at an excess of 30% CAGR during the forecast period from 2019-2023.In terms of investments in the field of artificial intelligence & deep learning, the U.S.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/2020-trending-deep-learning-ai-market-to-give-boost-to-retail-healthcare-automotive-bsfi-and-telecom-industries-2020-01-16",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-15T20:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "2020 Trending: Deep Learning AI Market to give boost to retail, healthcare, automotive, BSFI and telecom Industries",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-01-16-apple-acquires-xnorai-leaving-wyze-cams-blind-to-people.md",
+      "title": "Apple acquires Xnor.ai leaving Wyze cams blind to people",
+      "excerpt": "It’s no that often, however, that you hear of such an acquisition causing a different company direct problems. That’s exactly the strange situation behind Apple’s reported purchase of Seattle-based startup Xnor.ai which is apparently the real reason why Wyze is losing a key feature of its smart security cameras. Although perhaps virtually ...",
+      "heat": 147,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.slashgear.com/apple-acquires-xnor-ai-leaving-wyze-cams-blind-to-people-15606956/",
+      "ampWebUrl": "https://www.slashgear.com/apple-acquires-xnor-ai-leaving-wyze-cams-blind-to-people-15606956/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/apple-acquires-xnor-ai-leaving-wyze-cams-blind-to-people-15606956/amp/",
+      "publishedDateTime": "2020-01-15T19:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://scdn.slashgear.com/wp-content/uploads/2020/01/wyze_insert_2.jpg",
+          "width": 1280,
+          "height": 800,
+          "title": "Apple acquires Xnor.ai leaving Wyze cams blind to people",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-01-16-review-wt2-plus-earbuds-translate-across-36-languages-and-85-accents.md",
       "title": "Review: WT2 Plus earbuds translate across 36 languages and 85 accents",
       "excerpt": "Humanity has been striving for a real-life Babel fish in the form of translation technology, and the rise of deep learning in recent years has seen machine translation develop in leaps and bounds.",
@@ -1235,86 +1325,6 @@
       "topics": [
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-01-15-ai-should-be-used-to-foster-connections-starbucks-ceo-tells-nrf-2020-audience.md",
-      "title": "AI should be used to foster connections, Starbucks CEO tells NRF 2020 audience",
-      "excerpt": "The AI platform also predicts how many baristas are needed for the store to run effectively every 30 minutes, making it easier for stores worldwide to manage scheduling and other rote tasks. The company, the world's largest coffee retailer, is now working on a voice activated system that can take a customer's order. Instead of having a ...",
-      "heat": 83,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/ai-should-be-used-to-foster-connections-starbucks-ceo-tells-nrf-2020-audience/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ai-should-be-used-to-foster-connections-starbucks-ceo-tells-nrf-2020-audience/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-should-be-used-to-foster-connections-starbucks-ceo-tells-nrf-2020-audience/",
-      "publishedDateTime": "2020-01-15T09:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr3.cbsistatic.com/hub/i/r/2020/01/15/b35f2106-b5a9-4262-8937-4c515543ae80/resize/1200x/b7e608c8aaa3570f82a2ed7538cae17e/img-4789.jpg",
-          "width": 1200,
-          "height": 802,
-          "title": "AI should be used to foster connections, Starbucks CEO tells NRF 2020 audience",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-15-deep-fake-imagery-manipulation-poses-threat-to-society-not-just-military-us-general-warns.md",
-      "title": "'Deep fake' imagery manipulation poses threat to society not just military, US General warns",
-      "excerpt": "‘Deep fakes’ pose a major threat to elections and even world peace, a US military leader has warned. The manipulation of digital pictures to ... \"Those are areas that are of increasing concern across the whole of society, not just the US military.” The process of creating a deep fake image or video requires many pictures of a person's ...",
-      "heat": 131,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.telegraph.co.uk/news/2020/01/15/deep-fake-imagery-manipulation-poses-threat-society-not-just/",
-      "ampWebUrl": "https://www.telegraph.co.uk/news/2020/01/15/deep-fake-imagery-manipulation-poses-threat-society-not-just/amp/",
-      "cdnAmpWebUrl": "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/news/2020/01/15/deep-fake-imagery-manipulation-poses-threat-society-not-just/amp/",
-      "publishedDateTime": "2020-01-15T08:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Telegraph",
-        "domain": "telegraph.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.telegraph.co.uk/content/dam/news/2020/01/15/TELEMMGLPICT000220631492_trans%2B%2BqVzuuqpFlyLIwiB6NTmJwUTIkwgpo3A-hR5PYllYuW8.jpeg",
-          "width": 2501,
-          "height": 1563,
-          "title": "'Deep fake' imagery manipulation poses threat to society not just military, US General warns",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

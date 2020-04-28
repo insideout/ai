@@ -22,6 +22,6 @@ images:
     height: 627
     title: "Artificial Intelligence (AI) Market in BFSI Sector 2019-2023 | Focus on Autonomous Banking to Boost Growth | Technavio"
 
-secured: "6sI5RJI+z9Y7lq6Hua+d9C+MPYZl5RxZZ5jwKqNBI7SN1/NMSGc5ugRhcLGnmafp4rOuTNPp6qiyOc0+cj6qwLJp3/zcV+0xaQgZwrZySpFVoy4KLKNtuNcFRcTd9yhnEDCDtZoVw8mOUUXg7hTysG95q5eAoeWoEDHi9GX4Lwh8xLz1rYqOQynFDlGcsm3z/oOJIzOsYGUYRCaPZ/vIYMr3F+A/ROfEI7JuwT9E7uqT3NXzHACoPWhSwm7HryDT+B/okCK/Z91jwH5xm/Qm0Vm97bKzhVk/qncJbSq0WsWBjfyxoqDQv1S33nBoom0z;nrOwIEohHnHUnqWux/s2Ww=="
+secured: "dH3Pus2CkAl1dzd2+XL7x8prV5ja6KaPD8ryZf24kIQsO6AQG0nQ3EA/kRFiEapz0JqOgP+2mt4V4f98cMZmZ/Ze3qgPClL/qMd9dtYXW4YY8OczrHeJfVkr2LcAUqyC8n2YXrOYusEAp7buuuwDRtOd/Vy8Q/gB/Syyh2SAGQl34jOn48/HocrE/fiKLRS9wZNT/tbeHGxj992vQ47QRW/6gB98QYMHfdSunwQjmeoASR+qNwWUW6BYP3o1HG/cyIXS3dxvVaI/G8P/YNYqRdbW8i+siIRA8v0G5HbEjS55maWmPHON70khWAUuCd/FhE8gDAJPAmRYgQ1x5Nt0JiPvlgl9p4mHgm6VWbC+g2q0V70tn2iXwSJtB5wa8Qy4qtRUmDujB3fTDAKEfalTjnOObpTsq/d+1YMRsYuOAfKcsh/QQAyzbCi5IeofTl0bnQ4KjrOXBunzZ4DO+p2qie/J7HVn1sob+rngNwzzwi8=;wvJ7ahab3rvwC98kWD4n6A=="
 ---
 

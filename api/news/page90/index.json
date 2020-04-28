@@ -2,6 +2,78 @@
   "page": 90,
   "value": [
     {
+      "path": "_news/2020-02-07-first-peoples-sing-with-one-voice-this-anthem-is-not-ours-and-at-last-the-nrl-hears.md",
+      "title": "First Peoples sing with one voice: this anthem is not ours and at last the NRL hears",
+      "excerpt": "These ... lyrics have changed before, and for a song that has only been our official anthem since 1974, perhaps this might be the right time to update it. Despite Durham and Edwards’ conciliatory efforts, some will say the First Peoples of this continent have much more pressing concerns than a song. This is true, but those concerns do not ...",
+      "heat": 115,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.smh.com.au/national/first-peoples-sing-with-one-voice-this-anthem-is-not-ours-and-at-last-the-nrl-hears-20200207-p53yu7.html",
+      "ampWebUrl": "https://amp.smh.com.au/national/first-peoples-sing-with-one-voice-this-anthem-is-not-ours-and-at-last-the-nrl-hears-20200207-p53yu7.html",
+      "cdnAmpWebUrl": "https://amp-smh-com-au.cdn.ampproject.org/c/s/amp.smh.com.au/national/first-peoples-sing-with-one-voice-this-anthem-is-not-ours-and-at-last-the-nrl-hears-20200207-p53yu7.html",
+      "publishedDateTime": "2020-02-07T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Sydney Morning Herald",
+        "domain": "smh.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-07-the-rise-of-the-ai-agency-in-2020.md",
+      "title": "The Rise Of The AI Agency In 2020",
+      "excerpt": "In a world of increasing information and races to the bottom, AI is more obviously an important competitive advantage for many organizations.",
+      "heat": 117,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/07/the-rise-of-the-ai-agency-in-2020/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/07/the-rise-of-the-ai-agency-in-2020/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/02/07/the-rise-of-the-ai-agency-in-2020/amp/",
+      "publishedDateTime": "2020-02-07T04:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/711x493/https://specials-images.forbesimg.com/dam/imageserve/545163603/960x0.jpg?fit=scale",
+          "width": 711,
+          "height": 493,
+          "title": "The Rise Of The AI Agency In 2020",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-02-07-clearview-says-first-amendment-lets-it-scrape-the-internet-lawyers-disagree.md",
       "title": "Clearview says First Amendment lets it scrape the internet. Lawyers disagree",
       "excerpt": "On a CBS This Morning segment on Wednesday, Clearview AI CEO Hoan Ton-That said his company had a First Amendment right to access public data, including photos from YouTube, Facebook, Twitter, LinkedIn and Venmo. It uses those photos for a controversial database primarily used by law enforcement. (Disclosure: CBS News and CNET are owned by the ...",
@@ -972,79 +1044,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-06-see-how-neural-networks-turned-a-film-from-1896-into-4k-and-added-color.md",
-      "title": "See How Neural Networks Turned a Film From 1896 Into 4K and Added Color",
-      "excerpt": "The film shows a train pulling into the ... www.youtube.com/watch?v=3RYNThid23g Shiryaev used Topaz Labs Gigapixel AI to upscale the original 4K, then used DAIN (Depth-Aware Video Frame Interpolation) to add additional frames to raise the rate to 60 fps. You can see a version that has been colorized by DeOldify Neural Network below.",
-      "heat": 122,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://fstoppers.com/science/see-how-neural-networks-turned-film-1896-4k-and-added-color-453086",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-06T09:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fstoppers",
-        "domain": "fstoppers.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.fstoppers.com/styles/large-16-9/s3/lead/2020/02/7a9eadc562688cadbf93598dd330a69f.jpg",
-          "width": 1184,
-          "height": 670,
-          "title": "See How Neural Networks Turned a Film From 1896 Into 4K and Added Color",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-06-ai-could-help-design-better-drugs-that-dont-clash-with-other-medication.md",
-      "title": "AI could help design better drugs that don’t clash with other medication",
-      "excerpt": "The results: When the researchers tested their system on two common drug interaction data sets, it performed better than state-of-the-art results from existing AI systems. The paper is being presented at the proceedings of the Association for the Advancement of Artificial Intelligence later this week. Co-pilot: The new techniques for analyzing ...",
-      "heat": 138,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.technologyreview.com/f/615153/ai-adverse-drug-interactions-chemistry-health-care/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-06T09:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.technologyreview.com/i/images/gettyimages-76008293.jpg?sw=1200&cx=0&cy=77&cw=3000&ch=1688",
-          "width": 1200,
-          "height": 675,
-          "title": "AI could help design better drugs that don’t clash with other medication",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "IBM AI"
       ]
     }
   ],

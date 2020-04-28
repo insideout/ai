@@ -2,6 +2,80 @@
   "page": 65,
   "value": [
     {
+      "path": "_news/2020-03-03-google-cloud-hits-major-league-baseball-home-run-aws-is-out.md",
+      "title": "Google Cloud Hits Major League Baseball Home Run, AWS Is Out",
+      "excerpt": "has chosen AWS as its official provider for machine learning, artificial intelligence, and deep learning workloads. In extending its long-standing relationship, MLB will use AWS machine learning services to continue development of Statcast -- the tracking ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://virtualizationreview.com/articles/2020/03/03/mlb-gcp.aspx",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-03T14:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Virtualization Review",
+        "domain": "virtualizationreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://virtualizationreview.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/ArrowsRoadManCloudsSmall.jpg",
+          "width": 647,
+          "height": 450,
+          "title": "Google Cloud Hits Major League Baseball Home Run, AWS Is Out",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-03-robots-are-poised-to-transform-the-construction-industry.md",
+      "title": "Robots Are Poised To Transform The Construction Industry",
+      "excerpt": "Artificial intelligence already powers driverless cars, virtual assistants and autonomous warehouse robots. And now, technology entrepreneurs are using their expertise to take on the challenges of construction. Construction is among the least digitized industries in the U.S., owing to the labor-intensive and localized nature of the work.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.bisnow.com/houston/news/construction-development/robots-are-poised-to-transform-the-construction-industry-103213",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-03T12:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bisnow",
+        "domain": "bisnow.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.bisnow.net/fit?height=1200&type=jpeg&url=https%3A%2F%2Fs3.amazonaws.com%2Fcdn.bisnow.net%2Fcontent%2Fimages%2F2020%2F03%2F5e5d9d52553a3-built_robotics_software_interface.jpeg&width=1200&sign=4GS_ORXyGyz0OA9BRvWn7NdbQaexIlXCzPyL6df3RkA",
+          "width": 1200,
+          "height": 799,
+          "title": "Robots Are Poised To Transform The Construction Industry",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-03-self-driving-cars-a-far-future-in-india-but-china-expects-to-go-commercial-by-2025.md",
       "title": "Self-driving cars a far future in India, but China expects to go commercial by 2025",
       "excerpt": "A recent survey of self-driving vehicle testing published by Beijing’s Innovation Center for Mobility Intelligent (BICMI) said that 77 AVs of 12 China-based companies including Tencent ...",
@@ -946,88 +1020,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-28-cloud-machine-learning-market-is-booming-worldwide-gaining-revolution-in-eyes-of-global-exposure.md",
-      "title": "Cloud Machine Learning Market is Booming Worldwide | gaining Revolution In Eyes of Global Exposure",
-      "excerpt": "Identify Sales forecasts to help your business keep adequate inventory, create an actionable plan with latest edition released by AMA on Global Cloud Machine Learning Market to regulate the balance of demand and supply.",
-      "heat": 80,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/cloud-machine-learning-market-is-booming-worldwide-gaining-revolution-in-eyes-of-global-exposure-2020-02-28",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-28T12:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Cloud Machine Learning Market is Booming Worldwide | gaining Revolution In Eyes of Global Exposure",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-02-28-ai-model-can-distinguish-between-types-of-back-pain-by-scouring-doctors-notes.md",
-      "title": "AI model can distinguish between types of back pain by scouring doctors' notes",
-      "excerpt": "The single code for two different conditions prevents appropriate billing and therapy recommendations, including different return-to-work scenarios. The artificial intelligence model in this study, the first of its kind, could be used to improve the accuracy of coding, billing, and therapy for patients with lower back pain. The researchers used ...",
-      "heat": 75,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.news-medical.net/news/20200228/AI-model-can-distinguish-between-types-of-back-pain-by-scouring-doctors-notes.aspx",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20200228/AI-model-can-distinguish-between-types-of-back-pain-by-scouring-doctors-notes.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200228/AI-model-can-distinguish-between-types-of-back-pain-by-scouring-doctors-notes.aspx",
-      "publishedDateTime": "2020-02-28T12:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.news-medical.net/image.axd?picture=2019%2f5%2ffuturistic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": "AI model can distinguish between types of back pain by scouring doctors' notes",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

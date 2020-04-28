@@ -2,6 +2,88 @@
   "page": 67,
   "value": [
     {
+      "path": "_news/2020-02-17-80-of-chinese-banks-to-integrate-fintech-solutions-from-cloud-market-report.md",
+      "title": "80% of Chinese Banks to Integrate Fintech Solutions from Cloud Market: Report",
+      "excerpt": "China’s Fintech sector is known for quickly adopting a broad range of information technologies including cloud computing, Big Data, artificial intelligence (AI), mobile-based Internet solutions, and Internet of Things (IoT)-based applications, the IDC noted in its recent report on ongoing digital transformation efforts in China. The Chinese ...",
+      "heat": 76,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.crowdfundinsider.com/2020/02/157546-80-of-chinese-banks-to-integrate-fintech-solutions-from-cloud-market-report/",
+      "ampWebUrl": "https://www.crowdfundinsider.com/2020/02/157546-80-of-chinese-banks-to-integrate-fintech-solutions-from-cloud-market-report/amp/",
+      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/02/157546-80-of-chinese-banks-to-integrate-fintech-solutions-from-cloud-market-report/amp/",
+      "publishedDateTime": "2020-02-17T04:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crowdfund Insider",
+        "domain": "crowdfundinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2019/11/Beijing-China-2-600x599.jpeg",
+          "width": 600,
+          "height": 599,
+          "title": "80% of Chinese Banks to Integrate Fintech Solutions from Cloud Market: Report",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2020-02-17-artificial-intelligence-in-healthcare-market-overview-by-share-size-industry-players-revenue-and-product-demand-forecast-till-2029.md",
+      "title": "Artificial Intelligence in Healthcare Market Overview By Share, Size, Industry Players, Revenue And Product Demand Forecast Till 2029",
+      "excerpt": "The research study on Global Artificial Intelligence in Healthcare market 2019 presents an extensive analysis of current Artificial Intelligence in Healthcare market size, drivers, trends, opportunities,",
+      "heat": 83,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-overview-by-share-size-industry-players-revenue-and-product-demand-forecast-till-2029-2020-02-17",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-17T03:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial Intelligence in Healthcare Market Overview By Share, Size, Industry Players, Revenue And Product Demand Forecast Till 2029",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2020-02-17-please-check-your-data-a-self-driving-car-dataset-failed-to-label-hundreds-of-pedestrians-thousands-of-vehicles.md",
       "title": "Please check your data: A self-driving car dataset failed to label hundreds of pedestrians, thousands of vehicles",
       "excerpt": "Roboflow has since corrected the errors on the dataset, and issued an improved version. Standing up to patent trolls works: Mycroft AI, a startup building an open-source voice-controlled assistant for Linux-based devices, was sued for allegedly infringing a couple of patents, as we reported earlier this month. Mycroft’s CEO Joshua Montgomery ...",
@@ -1104,86 +1186,6 @@
           "width": 1200,
           "height": 600,
           "title": "PlaySight trained AI on thousands of hours of videos to understand sports",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-14-travis-bott-makes-travis-scott-like-music-lyrics-with-ai.md",
-      "title": "Travis Bott makes Travis Scott-like music, lyrics with AI",
-      "excerpt": "Why we care: The robots are coming for your playlists again, and they’re mimicking your favorite artists in music videos too. Take Travis Bott. Yes, Travis Bott. He’s an AI musician inspired by Travis Scott, the rapper, producer, and songwriter responsible for “Sicko Mode” and more. Travis Bott has a new song⁠⁠ and accompanying ...",
-      "heat": 137,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.fastcompany.com/90464062/meet-travis-bott-the-travis-scott-twin-whose-music-and-lyrics-were-created-with-ai?partner=feedburner",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-14T08:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fast Company",
-        "domain": "fastcompany.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/02/p-1-travis-scottand8217s-ai-and8216bot-twin.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": "Travis Bott makes Travis Scott-like music, lyrics with AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-14-show-me-the-money-how-ai-and-tech-can-solve-procurement-spend-challenges.md",
-      "title": "Show Me The Money: How AI And Tech Can Solve Procurement Spend Challenges",
-      "excerpt": "Fund innovation. Fund future growth. Increase savings. One of these things is not like the other, but AI can help procurement and supply chain leaders tackle their biggest spend challenges.",
-      "heat": 86,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/sap/2020/02/14/ai-in-procurement/",
-      "ampWebUrl": "https://www.forbes.com/sites/sap/2020/02/14/ai-in-procurement/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sap/2020/02/14/ai-in-procurement/amp/",
-      "publishedDateTime": "2020-02-14T08:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F170550550%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3336%26cropY1%3D175%26cropY2%3D2051",
-          "width": 1200,
-          "height": 675,
-          "title": "Show Me The Money: How AI And Tech Can Solve Procurement Spend Challenges",
           "attribution": null
         }
       ],

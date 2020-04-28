@@ -2,6 +2,86 @@
   "page": 68,
   "value": [
     {
+      "path": "_news/2020-02-14-travis-bott-makes-travis-scott-like-music-lyrics-with-ai.md",
+      "title": "Travis Bott makes Travis Scott-like music, lyrics with AI",
+      "excerpt": "Why we care: The robots are coming for your playlists again, and they’re mimicking your favorite artists in music videos too. Take Travis Bott. Yes, Travis Bott. He’s an AI musician inspired by Travis Scott, the rapper, producer, and songwriter responsible for “Sicko Mode” and more. Travis Bott has a new song⁠⁠ and accompanying ...",
+      "heat": 137,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fastcompany.com/90464062/meet-travis-bott-the-travis-scott-twin-whose-music-and-lyrics-were-created-with-ai?partner=feedburner",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-14T08:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fast Company",
+        "domain": "fastcompany.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/02/p-1-travis-scottand8217s-ai-and8216bot-twin.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Travis Bott makes Travis Scott-like music, lyrics with AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-14-show-me-the-money-how-ai-and-tech-can-solve-procurement-spend-challenges.md",
+      "title": "Show Me The Money: How AI And Tech Can Solve Procurement Spend Challenges",
+      "excerpt": "Fund innovation. Fund future growth. Increase savings. One of these things is not like the other, but AI can help procurement and supply chain leaders tackle their biggest spend challenges.",
+      "heat": 86,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/sap/2020/02/14/ai-in-procurement/",
+      "ampWebUrl": "https://www.forbes.com/sites/sap/2020/02/14/ai-in-procurement/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sap/2020/02/14/ai-in-procurement/amp/",
+      "publishedDateTime": "2020-02-14T08:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F170550550%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3336%26cropY1%3D175%26cropY2%3D2051",
+          "width": 1200,
+          "height": 675,
+          "title": "Show Me The Money: How AI And Tech Can Solve Procurement Spend Challenges",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-02-14-how-ai-can-predict-heart-attacks-and-strokes.md",
       "title": "How AI Can Predict Heart Attacks and Strokes",
       "excerpt": "Artificial intelligence is making its way into health care, and one of its first stops is making sense of all of those scans that doctors order. Already, studies have shown that AI-based tools can, in some cases, pick out abnormal growths that could be cancerous tumors better than doctors can, mainly because digesting and synthesizing huge ...",
@@ -1214,80 +1294,6 @@
       "topics": [
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-13-senators-introduce-facial-recognition-bill-proposing-moratorium-on-government-use.md",
-      "title": "Senators introduce facial recognition bill proposing moratorium on government use",
-      "excerpt": "Two Democratic senators introduced a bill on Wednesday that would place a moratorium on the use of facial recognition technology by the federal government. Sen. Jeff Merkley (D-Ore.) and Sen. Cory Booker (D-N.J.) introduced the Ethical Use of Facial Recognition Act. Besides placing a moratorium on the federal government’s use of the ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.dailydot.com/layer8/facial-recognition-moratorium-bill-merkley-booker/",
-      "ampWebUrl": "https://www.dailydot.com/layer8/facial-recognition-moratorium-bill-merkley-booker/?amp",
-      "cdnAmpWebUrl": "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/layer8/facial-recognition-moratorium-bill-merkley-booker/?amp",
-      "publishedDateTime": "2020-02-13T06:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Dot",
-        "domain": "dailydot.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.dailydot.com/wp-content/uploads/2020/02/Facial-Recognition-Bill-Congress-Merkley-Booker-1024x512.jpg",
-          "width": 1024,
-          "height": 512,
-          "title": "Senators introduce facial recognition bill proposing moratorium on government use",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-02-13-intuition-robotics-raises-36m-for-cognitive-agents-for-seniors-smart-vehicles.md",
-      "title": "Intuition Robotics raises $36M for cognitive agents for seniors, smart vehicles",
-      "excerpt": "Intuition Robotics Ltd., which has been developing cognitive agents to interact with ... as well as socially engaged. The company’s “Q” cognitive artificial intelligence product, which powers EllliQ, is available to third parties, starting with automakers. “This investment will fuel the evolution of agents from utilitarian digital ...",
-      "heat": 95,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.therobotreport.com/intuition-robotics-series-b-cognitive-agents/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-13T06:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2020/02/ElliQ_3-1024x773-1.jpg",
-          "width": 1024,
-          "height": 773,
-          "title": "Intuition Robotics raises $36M for cognitive agents for seniors, smart vehicles",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

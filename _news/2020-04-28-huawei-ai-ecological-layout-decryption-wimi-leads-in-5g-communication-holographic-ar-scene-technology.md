@@ -7,8 +7,8 @@ webUrl: "https://www.benzinga.com/pressreleases/20/04/ab15891712/huawei-ai-ecolo
 ampWebUrl: "https://amp.benzinga.com/amp/content/15891712"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15891712"
 type: article
-quality: 42
-heat: 42
+quality: 44
+heat: 44
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - AI Hardware
 
 images:
   - url: "https://i.ibb.co/BsDKGK5/3.png"

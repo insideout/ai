@@ -2,6 +2,81 @@
   "page": 50,
   "value": [
     {
+      "path": "_news/2020-03-11-forwardx-debuts-computer-vision-amr-fleet.md",
+      "title": "ForwardX debuts computer vision AMR fleet",
+      "excerpt": "Nicholas Temple, VP of sales for ForwardX, illustrates how the company’s computer vision-based AMRs use AI and deep learning to extract insights from camera inputs. ForwardX Robotics (Booth 1207) recently launched in the Americas what it claims is the world’s only computer vision-based AMR fleet, which has already been installed in ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.scmr.com/article/forwardx_debuts_computer_vision_amr_fleet/news",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-10T17:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Supply Chain Management Review",
+        "domain": "scmr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.mmh.com/images/2020_article/forwardx2020.jpg",
+          "width": 300,
+          "height": 400,
+          "title": "ForwardX debuts computer vision AMR fleet",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-11-tensorflow-quantum-and-first-release-candidate-for-tensorflow-22.md",
+      "title": "TensorFlow Quantum and first release candidate for TensorFlow 2.2",
+      "excerpt": "The TensorFlow developers have been keeping busy this week: Not only has the first release candidate for TensorFlow 2.2 arrived, but we can now also welcome the very first release of TensorFlow Quantum. Let’s see what has been happening in the world of ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://jaxenter.com/tensorflow-quantum-and-tensorflow-2-2-rc0-169588.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-10T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "jaxenter.com",
+        "domain": "jaxenter.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://jaxenter.com/wp-content/uploads/2020/03/TensorFlow-Quantum.jpg",
+          "width": 600,
+          "height": 400,
+          "title": "TensorFlow Quantum and first release candidate for TensorFlow 2.2",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "TensorFlow",
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-10-deep-learning-market-2020-2024-the-growing-application-of-deep-learning-to-boost-growth-technavio.md",
       "title": "Deep Learning Market 2020-2024 | The Growing Application of Deep Learning to Boost Growth | Technavio",
       "excerpt": "Deep Learning Market 2020-2024 | The Growing Application of Deep Learning to Boost Growth | Technavio Technavio has been monitoring the deep learning market and it is poised to grow by USD 7.2 bn during 2020-2024,",
@@ -1089,80 +1164,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-10-machine-learning-could-be-canadas-edge-in-the-global-quantum-computing-arms-race.md",
-      "title": "MACHINE LEARNING COULD BE CANADA’S EDGE IN THE GLOBAL QUANTUM COMPUTING ARMS RACE",
-      "excerpt": "Her work applies machine learning to quantum physics problems ... Recently, 1QBit was listed as Microsoft’s only software partner on Azure Quantum, which aims to bring its cloud computing software to quantum computers and make them mainstream. “It’s about getting the whole ecosystem up and standing and feeding into each other ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://betakit.com/ai-nation-quantum-machine-learning/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-10T06:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BetaKit",
-        "domain": "betakit.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.betakit.com/wp-content/uploads/2020/01/2000Q-Chip_feature-1024x680.jpg",
-          "width": 1024,
-          "height": 680,
-          "title": "MACHINE LEARNING COULD BE CANADA’S EDGE IN THE GLOBAL QUANTUM COMPUTING ARMS RACE",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-10-deep-learning-to-be-topic-for-1st-tectalk.md",
-      "title": "Deep Learning to be Topic for 1st teCTalk",
-      "excerpt": "One of your neighbors posted in Business. Click through to read what they have to say. (The views expressed in this post are the author’s own.)",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://patch.com/connecticut/hartford/deep-learning-be-topic-1st-tectalk",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-10T06:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Patch",
-        "domain": "patch.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://patch.com/img/cdn20/users/20886760/20200310/083208/styles/patch_image/public/tectalk-logo___10082846546.jpg",
-          "width": 716,
-          "height": 537,
-          "title": "Deep Learning to be Topic for 1st teCTalk",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

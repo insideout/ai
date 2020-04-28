@@ -3,17 +3,23 @@ category: news
 title: "Europe Speech Recognition Software Market will take the highest jump during 2020-2025"
 excerpt: "The global Speech Recognition Software market report offers information relating to the leading regions, competitive landscape, growth trends, and other crucial information about the growth status of the market."
 publishedDateTime: 2020-04-23T05:34:00Z
-webUrl: "https://www.arnnet.com.au/mediareleases/87429/europe-speech-recognition-software-market-will/"
+webUrl: "https://www.cmo.com.au/mediareleases/87429/europe-speech-recognition-software-market-will/"
 type: article
 
 provider:
-  name: ARN
-  domain: arnnet.com.au
+  name: cmo.com.au
+  domain: cmo.com.au
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "FSqI5hirxgArYEKH8xUHA0pG2r7a4ieb/bTwqK8fKr6g4iAPQCPXyn5n9z7DUY2FsXbrAsA6WmteH0KLiIrXtwv1laQJxK1geSLO8TDd3aJVH7uRePa5TgjsuByIe3JCUh5Qpg6q4nl6grhNh6pU3b+KjuxnWvY5DkuYhnCymxWyaswurDkVGXgLv2Vh+WdA0n/cwCsUlTyY4co7LmCHgqLpXMpj+qOny1ZBhnFQT7JB9KHJFILiWVFR3pSt8xVN/el2nmUlOU2/y0CjGaORGeA6mhCC4fpIaNhyH7t3Ke2wHM3PHruRCpn+HifEXXnG;dOTIX3/MlkrKQXOLiiq2bQ=="
+images:
+  - url: "https://demo.idg.com.au/cmo/cmo50/2019/cmo50_promo2019_5.jpg"
+    width: 600
+    height: 246
+    title: "Europe Speech Recognition Software Market will take the highest jump during 2020-2025"
+
+secured: "hb1V5BFse9InPHkXF9hLZ6UHqWbXICZ5Fl9cZwfSrpdsYkK1Of7SaD693CZXZlqKq81LlRlR4Yv1nVkmo+Xu0nVef7oj9tXKdzLbFq3Z4rtZBmcODRSPCVDBubvwgDfdqvJrZJ168WRg31TYP6eGX3hLb+X8TJV4ZEJNL6dhPSZOewwxmxfMZAxazg06KC8Ez1SGpx8PiL6m3p3bpWBYYzMefB2bTNnsapMdSOLstthmWhVDjebsolOrlUl2LpmlOr1w2Zyftj8bjOZO2oxCT1isgV/sU7m23V10xKs+AxYW3sO/6npvnJ0H4Ip7RIfi;xwCIbCU5Zurd2N0qFPLEjw=="
 ---
 

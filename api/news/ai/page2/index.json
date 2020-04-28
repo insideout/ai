@@ -2,6 +2,95 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-04-27-how-artificial-intelligence-could-jump-start-the-luxury-sector-with-chinas-help.md",
+      "title": "How artificial intelligence could jump-start the luxury sector – with China’s help",
+      "excerpt": "Western brands such as Hermès and Louis Vuitton are looking to China to boost their sales as it recovers from the coronavirus outbreak, but many are considering how artificial intelligence can help th",
+      "heat": 81,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.scmp.com/magazines/style/news-trends/article/3081763/how-artificial-intelligence-could-jump-start-luxury",
+      "ampWebUrl": "https://amp.scmp.com/magazines/style/news-trends/article/3081763/how-artificial-intelligence-could-jump-start-luxury",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/magazines/style/news-trends/article/3081763/how-artificial-intelligence-could-jump-start-luxury",
+      "publishedDateTime": "2020-04-27T03:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_opinion/public/d8/images/methode/2020/04/27/1e57d9aa-852b-11ea-8863-2139a14b0dea_image_hires_180635.jpg?itok=FBMe-ogx&v=1587982007",
+          "width": 1200,
+          "height": 630,
+          "title": "How artificial intelligence could jump-start the luxury sector – with China’s help",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-27-vw-admits-teslas-lead-in-software-and-self-driving-in-internal-leak.md",
+      "title": "VW admits Tesla’s lead in software and self-driving in internal leak",
+      "excerpt": "Volkswagen CEO Hebert Diess has admitted that Tesla has a significant lead when it comes to software and its use in its self-driving program, according to leaked internal communications. Tesla pioneered over-the-air software updates in the auto industry.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://electrek.co/2020/04/27/vw-admits-tesla-lead-software-leak-internal/",
+      "ampWebUrl": "https://electrek.co/2020/04/27/vw-admits-tesla-lead-software-leak-internal/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/04/27/vw-admits-tesla-lead-software-leak-internal/amp/",
+      "publishedDateTime": "2020-04-27T02:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://electrek.co/wp-content/uploads/sites/3/2020/03/Tesla-matrix-hero-post-e1583107083706.jpg?quality=82&strip=all&w=1000",
+          "width": 999,
+          "height": 499,
+          "title": "VW admits Tesla’s lead in software and self-driving in internal leak",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-27-qureai-deploys-ai-radiology-software-in-the-fight-against-covid-19.md",
       "title": "Qure.ai Deploys AI Radiology Software In The Fight Against COVID-19",
       "excerpt": "Qure.ai, a healthtech company specializing in artificial intelligence (AI), announced the deployment of its COVID-19 progression monitoring software at Bolton NHS Foundation Trust, part of the National Health Service (NHS) in the UK.",
@@ -879,7 +968,7 @@
       "path": "_news/2020-04-24-the-surge-of-sensationalist-covid-19-ai-research.md",
       "title": "The surge of sensationalist COVID-19 AI research",
       "excerpt": "There seems to be a tendency to hastily use imperfect and questionable data to train an AI solution for COVID-19, a dangerous trend that not only does not help any patient or physician but also damages the reputation of the AI community. Dealing with a pandemic — as significant as it is — does not suspend basic scientific principles.",
-      "heat": 99,
+      "heat": 89,
       "tags": null,
       "type": "article",
       "webUrl": "https://venturebeat.com/2020/04/24/the-surge-of-sensationalist-covid-19-ai-research/",
@@ -1198,94 +1287,6 @@
           "width": 796,
           "height": 417,
           "title": "This AI wrote such emo lyrics that humans thought it was My Chemical Romance",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-24-how-ai-can-improve-it-service-management-in-a-pandemic.md",
-      "title": "How AI Can Improve IT Service Management In A Pandemic",
-      "excerpt": "The bottom line is that the AI-based approach to modernizing ITSM shows the potential to lower IT costs, reduce errors, increase user satisfaction levels while improving response times and speed.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/louiscolumbus/2020/04/24/how-ai-can-improve-it-service-management-in-a-pandemic/",
-      "ampWebUrl": "https://www.forbes.com/sites/louiscolumbus/2020/04/24/how-ai-can-improve-it-service-management-in-a-pandemic/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/04/24/how-ai-can-improve-it-service-management-in-a-pandemic/amp/",
-      "publishedDateTime": "2020-04-24T07:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ea2f1b1165a170006a5bb8f%2F0x0.jpg",
-          "width": 1200,
-          "height": 720,
-          "title": "How AI Can Improve IT Service Management In A Pandemic",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-24-insurtech-startup-axinan-closes-series-a-with-16-mn.md",
-      "title": "Insurtech Startup Axinan Closes Series A+ with $16 Mn",
-      "excerpt": "Insurtech Startup Axinan has closed its series A funding round at $16 mn ... Founded in 2016 by former chief technology officer of Grab, Wei Zhu, Igloo is a full-stack insurtech firm powered by artificial intelligence (AI) and big data that builds digital insurance products. Its product offerings range from personal to lifestyle insurance ...",
-      "heat": 72,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.entrepreneur.com/article/349775",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/349775",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/349775",
-      "publishedDateTime": "2020-04-24T07:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/20200424141717-WeiZhu-CEOandFounderofIglooedited.jpeg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": "Insurtech Startup Axinan Closes Series A+ with $16 Mn",
           "attribution": null
         }
       ],

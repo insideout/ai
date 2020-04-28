@@ -2,6 +2,96 @@
   "page": 67,
   "value": [
     {
+      "path": "_news/2020-02-28-we-found-clearview-ais-shady-face-recognition-app.md",
+      "title": "We Found Clearview AI's Shady Face Recognition App",
+      "excerpt": "A face recognition app used by thousands of law enforcement agencies, which has drawn considerable scrutiny in past weeks over its creator’s dubious data collection methods, contains code hinting at an unreported range of potential features, based on a version of the app discovered by Gizmodo. Reporters were able to download the most recent ...",
+      "heat": 504,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://gizmodo.com/we-found-clearview-ais-shady-face-recognition-app-1841961772?rev=1582861547126",
+      "ampWebUrl": "https://gizmodo.com/we-found-clearview-ais-shady-face-recognition-app-1841961772/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/we-found-clearview-ais-shady-face-recognition-app-1841961772/amp",
+      "publishedDateTime": "2020-02-27T19:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/s--JQ99mafj--/c_scale,f_auto,fl_progressive,q_80,w_800/wsdk7maoovzoxtowgnhs.jpg",
+          "width": 800,
+          "height": 450,
+          "title": "We Found Clearview AI's Shady Face Recognition App",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2020-02-28-samsung-galaxy-note10-update-improves-face-recognition-and-full-screen-gestures.md",
+      "title": "Samsung Galaxy Note10 update improves face recognition and full-screen gestures",
+      "excerpt": "The company is rolling out a new software update for the Galaxy Note10 series carrying the version number N97xFXXU2BTB5 that improves face recognition and full-screen navigation gestures on it. Despite improving full-screen navigation gestures though ...",
+      "heat": 95,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.neowin.net/news/samsung-galaxy-note10-update-improves-face-recognition-and-full-screen-gestures",
+      "ampWebUrl": "https://www.neowin.net/amp/samsung-galaxy-note10-update-improves-face-recognition-and-full-screen-gestures/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/samsung-galaxy-note10-update-improves-face-recognition-and-full-screen-gestures/",
+      "publishedDateTime": "2020-02-27T19:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2019/08/1565208998_samsung-galaxy-note10-2_story.jpg",
+          "width": 760,
+          "height": 537,
+          "title": "Samsung Galaxy Note10 update improves face recognition and full-screen gestures",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2020-02-28-cant-define-ai-try-defining-intelligence.md",
       "title": "Can't Define AI? Try Defining Intelligence",
       "excerpt": "Turns out that the answer to the question of AI’s definition is complicated by one fact: we don’t have a precise definition of intelligence itself.",
@@ -970,97 +1060,6 @@
           "width": 2226,
           "height": 1347,
           "title": "Children With Autism Saw Their Learning and Social Skills Boosted After Playing With This AI Robot",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-02-27-how-aws-attempts-to-bring-transparency-to-automl-through-amazon-sagemaker-autopilot.md",
-      "title": "How AWS Attempts To Bring Transparency To AutoML Through Amazon SageMaker Autopilot",
-      "excerpt": "With Amazon SageMaker Autopilot, AWS has taken the first step in making AutoML solution transparent and explainable. The platform appeals to both expert data scientists and entry-level ML developers.",
-      "heat": 130,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/janakirammsv/2020/02/27/how-aws-attempts-to-bring-transparency-to-automl-through-amazon-sagemaker-autopilot/",
-      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2020/02/27/how-aws-attempts-to-bring-transparency-to-automl-through-amazon-sagemaker-autopilot/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2020/02/27/how-aws-attempts-to-bring-transparency-to-automl-through-amazon-sagemaker-autopilot/amp/",
-      "publishedDateTime": "2020-02-27T04:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e57b23b765d4500072d4e2a%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1000%26cropY1%3D48%26cropY2%3D610",
-          "width": 1000,
-          "height": 563,
-          "title": "How AWS Attempts To Bring Transparency To AutoML Through Amazon SageMaker Autopilot",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-27-misconception-2-of-5-automated-machine-learning-will-unlock-enterprise-ai.md",
-      "title": "Misconception 2 (of 5): Automated Machine Learning Will Unlock Enterprise AI",
-      "excerpt": "AutoML holds real promise and will likely play an important role in Enterprise AI, but the confusion caused by unqualified assertions about AutoML can lead to grief.",
-      "heat": 101,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/27/misconception-2-of-5-automated-machine-learning-will-unlock-enterprise-ai/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/27/misconception-2-of-5-automated-machine-learning-will-unlock-enterprise-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/02/27/misconception-2-of-5-automated-machine-learning-will-unlock-enterprise-ai/amp/",
-      "publishedDateTime": "2020-02-27T04:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/711x464/https://specials-images.forbesimg.com/dam/imageserve/973718370/960x0.jpg?fit=scale",
-          "width": 711,
-          "height": 464,
-          "title": "Misconception 2 (of 5): Automated Machine Learning Will Unlock Enterprise AI",
           "attribution": null
         }
       ],

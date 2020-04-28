@@ -2,6 +2,86 @@
   "page": 100,
   "value": [
     {
+      "path": "_news/2020-01-29-googles-next-virtual-assistant-could-chat-your-ear-off-on-just-about-any-topic.md",
+      "title": "Google’s next virtual assistant could chat your ear off on just about any topic",
+      "excerpt": "Google today shared what it has been up to, and in a published paper, details a “human-like” chatbot called Meena that can “engage in conversation on any topic.” Meena, unlike its peers such as Google’s own Assistant ... virtual human. Google’s Meena likely won’t make it to your devices anytime soon. But it’s that clear in the ...",
+      "heat": 158,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.digitaltrends.com/cool-tech/google-meena-chatbot-research/",
+      "ampWebUrl": "https://www.digitaltrends.com/cool-tech/google-meena-chatbot-research/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cool-tech/google-meena-chatbot-research/?amp",
+      "publishedDateTime": "2020-01-29T04:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-01-29-what-politicians-dont-understand-about-the-ai-debate.md",
+      "title": "What Politicians Don't Understand About The AI Debate",
+      "excerpt": "The U.S. economy continues to expand, with reports from the Bureau of Labor Statistics indicating there are more job openings in the U.S. than people to fill them. Despite this data, working Americans are very concerned about job loss due to AI and automation,",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/29/what-politicians-dont-understand-about-the-ai-debate/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/29/what-politicians-dont-understand-about-the-ai-debate/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/29/what-politicians-dont-understand-about-the-ai-debate/amp/",
+      "publishedDateTime": "2020-01-29T04:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/711x473/https://specials-images.forbesimg.com/dam/imageserve/870184586/960x0.jpg?fit=scale",
+          "width": 711,
+          "height": 473,
+          "title": "What Politicians Don't Understand About The AI Debate",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-01-29-how-traditional-companies-can-utilize-ai-and-machine-learning-to-build-better-products.md",
       "title": "How Traditional Companies Can Utilize AI And Machine Learning To Build Better Products",
       "excerpt": "The good news is that the same machine learning technologies utilized within these large organizations are offered to the general public by various providers, such as AWS, Google Cloud Platform and Azure — for a fee, of course. At AWS re:Invent 2019, there was a clear, overarching theme: machine learning. And not just machine learning ...",
@@ -974,87 +1054,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-28-yogi-raises-23m-uses-neural-networking-to-reconstruct-the-entire-customer-feedback-process.md",
-      "title": "Yogi Raises $2.3M Uses Neural Networking to Reconstruct the Entire Customer Feedback Process",
-      "excerpt": "Customer feedback ... to the Yogi platform while also adding more functionality to our product. What’s your favorite restaurant in the city? I’m all about getting my day started right, so nothing beats a Sausage, Egg, & Cheese Bagel at New York City ...",
-      "heat": 146,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.alleywatch.com/2020/01/yogi-customer-feedback-platform-neural-gautum-kanumuru/",
-      "ampWebUrl": "https://www.alleywatch.com/2020/01/yogi-customer-feedback-platform-neural-gautum-kanumuru/amp/",
-      "cdnAmpWebUrl": "https://www-alleywatch-com.cdn.ampproject.org/c/s/www.alleywatch.com/2020/01/yogi-customer-feedback-platform-neural-gautum-kanumuru/amp/",
-      "publishedDateTime": "2020-01-28T10:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "alleywatch.com",
-        "domain": "alleywatch.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.alleywatch.com/wp-content/uploads/2020/01/Gautam_Kanumuru_Yogi-300x300.jpg",
-          "width": 300,
-          "height": 300,
-          "title": "Yogi Raises $2.3M Uses Neural Networking to Reconstruct the Entire Customer Feedback Process",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-28-general-motors-to-build-cruise-origin-electric-self-driving-shuttle-electric-trucks-in-detroit.md",
-      "title": "General Motors to build Cruise Origin electric self-driving shuttle, electric trucks in Detroit",
-      "excerpt": "The facility has been earmarked to build several all-electric models, starting with a pickup in late 2021. The plant was previously the home of the discontinued Chevrolet Volt plug-in hybrid and currently produces the Cadillac CT6 and Chevrolet Impala, which will bill both end production in February. Batteries for all of the vehicles will be ...",
-      "heat": 72,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.foxnews.com/auto/general-motors-cruise-origin-driving-shuttle-detroit",
-      "ampWebUrl": "https://www.foxnews.com/auto/general-motors-cruise-origin-driving-shuttle-detroit.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/auto/general-motors-cruise-origin-driving-shuttle-detroit.amp",
-      "publishedDateTime": "2020-01-28T09:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/640/320/origin-3.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": "General Motors to build Cruise Origin electric self-driving shuttle, electric trucks in Detroit",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

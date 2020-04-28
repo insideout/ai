@@ -2,6 +2,96 @@
   "page": 85,
   "value": [
     {
+      "path": "_news/2020-01-28-artificial-intelligence-ai-in-agriculture-global-market-study-reveal-explosive-growth-potential.md",
+      "title": "Artificial Intelligence (AI) in Agriculture Global Market Study Reveal explosive growth potential",
+      "excerpt": "Unlock new opportunities in Artificial Intelligence (AI) in Agriculture Market; the latest release from HTF MI highlights the key market trends significant to the growth prospects, Let us know if any specific players or list of players needs to consider to ...",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-agriculture-global-market-study-reveal-explosive-growth-potential-2020-01-28",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-28T01:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial Intelligence (AI) in Agriculture Global Market Study Reveal explosive growth potential",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-01-28-deep-graph-library-part-2-training-on-amazon-sagemaker.md",
+      "title": "Deep Graph Library, part 2 — Training on Amazon SageMaker",
+      "excerpt": "Well, as DGL is available on Amazon SageMaker, I’ll show you in this post how to quickly and easily adapt your DGL code for SageMaker. As you probably guessed, we’re going to use script mode ...",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/@julsimon/deep-graph-library-part-2-training-on-amazon-sagemaker-54d318dfc814",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-28T01:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/891/1*Ti5TbBkB0vxxKOC5DyESHQ.png",
+          "width": 891,
+          "height": 514,
+          "title": "Deep Graph Library, part 2 — Training on Amazon SageMaker",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-01-28-pope-meets-with-microsoft-and-ibm-to-push-for-ethics-in-artificial-intelligence.md",
       "title": "Pope meets with Microsoft and IBM to push for ethics in Artificial Intelligence",
       "excerpt": "A year ago in the Vatican, the pope met with Brad Smith, president of Microsoft. Both believe Artificial Intelligence research should be based on firm ethical foundations. As a result, they will meet again at the end of February to sign the “Call for Ethics.” John Kelly III, executive vice-president of IBM, will also participate.",
@@ -1194,97 +1284,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-27-deep-learning-market-size-worth-us-564272-mn-by-2026.md",
-      "title": "Deep Learning Market Size Worth US$ 56,427.2 Mn By 2026",
-      "excerpt": "LOS ANGELES, Jan. 27, 2020 (GLOBE NEWSWIRE) -- The global deep learning market is expected to grow at a CAGR of around 51.1% over the forecast period 2019 to 2026 and reach the market value of over US$ 56,",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-size-worth-us-564272-mn-by-2026-2020-01-27",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-27T04:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Deep Learning Market Size Worth US$ 56,427.2 Mn By 2026",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-01-27-iguazio-raises-24-million-for-ai-development-and-management-tools.md",
-      "title": "Iguazio raises $24 million for AI development and management tools",
-      "excerpt": "AI adoption levels are higher than they’ve ever been in the enterprise. According to a January survey conducted by Gartner, corporate use of AI grew 270% over the past four years. But developing, deploying, and managing AI applications at scale requires a platform that supports doing so, which is what startup company Iguazio provides.",
-      "heat": 311,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/01/27/iguazio-raises-24-million-for-ai-development-and-management-tools/",
-      "ampWebUrl": "https://venturebeat.com/2020/01/27/iguazio-raises-24-million-for-ai-development-and-management-tools/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/27/iguazio-raises-24-million-for-ai-development-and-management-tools/amp/",
-      "publishedDateTime": "2020-01-27T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/01/Logo_-_updated.jpg?fit=1200%2C627&strip=all",
-          "width": 1200,
-          "height": 627,
-          "title": "Iguazio raises $24 million for AI development and management tools",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI",
-        "Machine Learning"
       ]
     }
   ],
