@@ -8,8 +8,8 @@ ampWebUrl: "https://www.nasdaq.com/articles/focus-companies-bet-on-ai-cameras-to
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/focus-companies-bet-on-ai-cameras-to-track-social-distancing-limit-liability-2020-04-27?amp"
 type: article
 quality: 64
-heat: 74
-published: true
+heat: -1
+published: false
 
 provider:
   name: Nasdaq
@@ -19,6 +19,21 @@ topics:
   - AI
 
 related:
+  - title: "Companies equip cameras with AI to track social distancing and mask-wearing"
+    excerpt: "Stores and workplaces are equipping existing cameras with AI software that can track compliance with guidelines like social distancing and mask-wearing."
+    publishedDateTime: 2020-04-27T22:52:00Z
+    webUrl: "https://venturebeat.com/2020/04/27/companies-equip-cameras-with-ai-to-track-social-distancing-and-mask-wearing/"
+    ampWebUrl: "https://venturebeat.com/2020/04/27/companies-equip-cameras-with-ai-to-track-social-distancing-and-mask-wearing/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/27/companies-equip-cameras-with-ai-to-track-social-distancing-and-mask-wearing/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 85
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2018/03/shutterstock_731158624-e1576819636533.jpg?fit=1200%2C600&strip=all"
+        width: 1200
+        height: 600
   - title: "Companies Bet on AI Cameras to Track Social Distancing, Limit Liability"
     excerpt: "Stores and workplaces eager to avoid spreading the novel coronavirus are equipping existing security cameras with artificial intelligence software that can track compliance with health guidelines including social distancing and mask-wearing."
     publishedDateTime: 2020-04-27T10:27:00Z

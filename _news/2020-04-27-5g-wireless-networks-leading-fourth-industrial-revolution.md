@@ -3,9 +3,9 @@ category: news
 title: "5G wireless networks leading fourth industrial revolution"
 excerpt: "Network providers around the globe are launching 5G networks that can connect the handful of available 5G-capable devices. Currently, very few devices are connected to these new networks, allowing providers to tout headline grabbing download speeds of 1 Gbps plus."
 publishedDateTime: 2020-04-27T10:12:00Z
-webUrl: "https://www.techradar.com/news/5g-wireless-networks-leading-fourth-industrial-revolution"
-ampWebUrl: "https://www.techradar.com/amp/news/5g-wireless-networks-leading-fourth-industrial-revolution"
-cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/5g-wireless-networks-leading-fourth-industrial-revolution"
+webUrl: "https://www.techradar.com/au/news/5g-wireless-networks-leading-fourth-industrial-revolution"
+ampWebUrl: "https://www.techradar.com/au/amp/news/5g-wireless-networks-leading-fourth-industrial-revolution"
+cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/5g-wireless-networks-leading-fourth-industrial-revolution"
 type: article
 quality: 74
 heat: 74
@@ -29,6 +29,6 @@ images:
     height: 675
     title: "5G wireless networks leading fourth industrial revolution"
 
-secured: "QMoUc8KwTGYEyF1v1TaWKK5JeAfymJOI2gjV5x2epmUUJUBJieRcb/HxT+oIzyJdnYJI8IQ8dMfxclyroZ3ypj7KxOzbcCsdNQ6qOa31Tiby8cuVxBATfw5rYmaPLikVUP+7U1UiaNRWkB/CFz9fzudZMPCAp6XOE4G2JVzfiRlE8er8eaceUPmGHFqvygp4fXcz/bTVieYw3wXG2SLC+DwN09Cu7Xaot5790IZ5oxr77RMCorJM0xCgIaCoC8KJ46190kUBHWLeRuDWJ88XHjpDx5quD0B8+GBnjBqPAmZHPCEMkEq51NZjagBizyL/;HP3GWVBTLLtFCCq0I9gThw=="
+secured: "0Hpiu9uTOBHrcptoRWxjIZ/TDEwHEVwzZA5FeA+VXji9BQxWboro8eIgRs9IH28u+dnq6jI4wpvc5Hb9IxExTpfKmcS6ckF0JC2VeQTeerdJpDPjpRIE6ku7dD1hI+9aQpw0Gqo5ax/GyGO7dFSywgwQ4SP9k4RmLm0S6XrFXaFYCs8KJyVqo1Eniegm6LB4v9okYTcaRPU2YD1QotIPz2My7hTtuVEO/yJG5609y+hBL2hecn+N4zP8ta6XxaEBE2RaO0BAAuGsKHDthfO8L4skH1MKkRZBU8RDN0ykl4ydVNdb1/5PFDkSrJDY6hORPb1csTZcnQ516Vqo32J44zxB5M0/yZoiXBTCXjri5dBTfJSwPy1b1BQl7/sUUGBVYUB+vgGXfAKg8qVdy3O3udpw2MmqcwKdyK1uy3uo1RqEvUELORXgUaQFZAT4wTQicFlf4Ny1vGKPUnbiofDXmfozzgFkqSu/Y2ddxL7nTP4=;epw4TzhTONEcBT1Lhm8KvA=="
 ---
 

@@ -23,6 +23,6 @@ images:
     height: 314
     title: "What if you could unlock your smartphone with your earbuds instead of your face?"
 
-secured: "xiJndsGvUGjrQKD/g7hUB8B0ZCJT+15wC63wWdRRlQlTZ0zzsjm4ozp+isE/gxJc5QQXOcNL5ThzxdjtRAb6Tr2SeI4LjJV8BpCwWFymEczQCYD+yyTm6gsEADp/QJe9RBpKK6R/og1Q8M577NsxVp3ouEzqX2WXErt+btSFWaeaec5TSjsF/rBnUWVzvYufp23BS5cMqywlquz1+fwJjQhC5sbqEIUpND5ADGJvX6nTpYMUy1Dn0LayKZsSGGNtlfrrxIl8v09Gye3xAL8+uoywZ1z1CIWjUob90SaD60e+AJwM22wSqNmChffhftov;5vhHR1XtNaPE/CNe7u8cJw=="
+secured: "s6soHu1/RX6OUkBG7N0UXQmYCzZ8GCAvB5uXvv9ZrzzLE7Y79o+ogHxZeA7cdPrB/Xbr1ttqnx8+Vg9m6y+eVn+zAMyy96Zk8Zbs4ifBX0/3nLs1YnSzZnWHvn/zKF2ru8oGNNR1j3t6vtWQMfDz1CuA7SA7QsrkiUAA1pgwLZMgfYbqFb8ihytUtAaF7WW3HZRGxp2oTL8rzpO8ZZglJz7YcxQteas+8uCHXhI/+jOUb1CR/pTCNZZHDX0ZndfH3W20hgJrmrhwX4pUU75UAr2fYICRP4Gtmu1u2CFlv5THREBu5aDohGr5QWqFfAND/+RvTX6rv0RYkQ+OGpvs7a/tnDGYQa8S4OYsPC2NxJ43oRpb0XzcswVhzFSvcWqDNGMUan1m6v6sj9Oz5ODC9OlMOBW2+2IGlfdiaXzBRdw2FMjpYkFkQaGGxEyCdgfVJIMLwjNqhcPXCUbw/lsCvA0v2Bx5m76tjT1XljpxvJo=;1QFlYJeQTrjPFu/0Om/J6g=="
 ---
 

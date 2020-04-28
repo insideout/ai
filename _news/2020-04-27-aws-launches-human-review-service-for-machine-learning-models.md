@@ -40,7 +40,7 @@ related:
     provider:
       name: SD Times
       domain: sdtimes.com
-    quality: 93
+    quality: 95
     images:
       - url: "https://sdtimes.com/wp-content/uploads/2020/04/Product-Page-Diagram_A2I@2x.2fe2e8e5eed05fa5045835c3f3f04e23a9245e9c-1024x377.png"
         width: 1024

@@ -1,27 +1,27 @@
 ---
 category: news
 title: "An Introduction to AI and Risk-Based Authentication"
-excerpt: "CIO.com delivers the latest tech news, analysis, how-to, blogs, and video for IT professionals. Covers apps, careers, cloud computing, data center, mobile, outsourcing, security, social media, hardware and software."
-publishedDateTime: 2020-04-27T15:02:00Z
-webUrl: "https://www.cio.com/resources/201982/an-introduction-to-ai-and-risk-based-authentication"
+excerpt: "Computerworld covers a range of technology topics, with a focus on these core areas of IT: Windows, Mobile, Apple/enterprise, Office and productivity suites, collaboration, web browsers and blockchain,"
+publishedDateTime: 2020-04-27T14:26:00Z
+webUrl: "https://www.computerworld.com/resources/201982/an-introduction-to-ai-and-risk-based-authentication"
 type: article
 quality: 37
 heat: 37
 published: false
 
 provider:
-  name: CIO
-  domain: cio.com
+  name: Computerworld
+  domain: computerworld.com
 
 topics:
   - AI
 
 images:
-  - url: "https://idge.staticworld.net/cio/CIO_logo_300x300.png"
+  - url: "https://idge.staticworld.net/ctw/computerworld-logo300x300.png"
     width: 300
     height: 300
     title: "An Introduction to AI and Risk-Based Authentication"
 
-secured: "8lYjkZLW/5ui1xCMEpS2pIvb/vpmibeRVBbnqrqb7qgfkkrmHN0TL/F3Gj7soBvg1zwTfBYljv+QqruXDdsh3AVQa+utN62odGSd+l7hnPfqdZzerUy7xnRrlHQ797UzREjAQRGUQ/PNhDRKdr+0iXqnLGm9E9xV6yzV9wdcXiPJecJWzFS01L85oH2YpinvldO0GLtFYpE3M8t8lQePh1uvxjjZ56cVx/Yuia1uRcqa1qN0U9OtDH1YKSoQZTwsY3u/VIsYYCMFXdOvvVpU3q///b+B/3o5/KfN/GV+Cf67JCTdibcqP91J1tgqI+Zch+BDdfjZdWGi2z2blC0OSs0uXRt5CZvTPfhxT2HzTrxbjJcIihAOs9Vt6BNXRZxaqAzYxa5IPMVjulgEtB/YvnfOSQWYISsdFXv7c/Sni7FQm2PPOI4JfEapOPi1OC3Mc0xtv9gwZtYt8PrMzeJFx+t8b1jsPkTE/VTpAOOPfYc=;ftqw3DYVetln/MZs3NP2Jg=="
+secured: "OxrKXnmBlMirgwKFWIYCwIGY69xHlZRjWqnXdhHJcz3XCXB/n4eQwtYSSz0BeeJ4GTdTiZg0yTj2lSaPAQ6IRAy7l9sKVIMIqzWBizpCllNkvGqSyisFrdugkYc1aBhVgiNxbsw+DuXIup833MwimhLwulwRDBBxegkX6GKfnIBY29CD4H9vKJ3Q19UahbloLkYwaqvXoIw5RPFHNIAB8G6P+4Sh1kfP8wSIc/DEQc2zOYo8wqMzq07lKHuJksS95UpGHrhnAD3cSTCeNuo2p/o7cmlwVbmVSDG+B6C4JoTehMtptlbcUDDtyu5eQTfU;Ikr1lf2oGRSAchlzeigeVg=="
 ---
 

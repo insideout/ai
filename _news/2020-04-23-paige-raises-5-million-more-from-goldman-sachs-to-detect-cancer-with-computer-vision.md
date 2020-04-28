@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/04/23/paige-raises-5-million-more-from-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/23/paige-raises-5-million-more-from-goldman-sachs-to-detect-cancer-with-computer-vision/amp/"
 type: article
 quality: 97
-heat: 109
+heat: 107
 published: true
 
 provider:
@@ -46,6 +46,6 @@ related:
         width: 1200
         height: 600
 
-secured: "Y6hcil9pbc9Ewxlzu/onRnCEGFPADDk9hH1uGGIf4GxW5tnJ8U30StVUwd+xMmj0x+rda7dHF+7JOR+YKZgj91rLnfx7fGlI5yZu8ywlH4H0OV68WYx78jEzuW2Ibp6TbQe7aA70vf2Dw/LX3x8nHwcbP7y0dViHHUllQ4t+nh22bFStvohSRwe90CQr+TY/Gb33FgfA18cOCsH/5/2SbWtQCgfRR6XIHsbHjOhFaOOkihb9A2Kgpi+f/AqvN+db/cN+zdcEZFXiQSnLgJFEN57m6QV0h1kPduze1tpuYaTqIrFXowFrqtlMlc2WPuk1QD4X/rpe91uXfKqdo87AlQ5Lzs8xWjRnEcl8ozn6W/8hQuMOfQ4vXXJUsdGmaUeX63WHhBKoYTC8drmVTFN83ATalWfmX++LqsU3ThyRMTn3eRE2moA0ZMsZif2Es1q6RDcBe16NBLiAry/eEHsvJ4h7JrFzMEZaSZQLwRttWCU=;vhlaX5P6wSgVQ06FZ5v4Mg=="
+secured: "2RAAW6ik5HrWAUmu2XSRbYM4UMYzdmFRWRqwqT2x4K8kO8EGFcBju69aU0lgj7WEjses4++GaEkeW18e5mAQM2kOlheazKn/G8QqRqI9OVyGhC8XkizlGhrj1wGZ+rh8GJ+FzjFEwyOdU3rt4u2u8ZU6dDWDxzk4VUc8Ysm028/810rOLMgi99pP3K1W+KkovXCZsjziL4UN5BShnRWhwIwZspcDJKTRVzlVXMPvhRQf9sHPM4UIiW3lCojYNHktJaamOnTCUGnuXgVvRfie2uWuJ8eOjiJLRYJ3npA3kY7+S6GAc2KZnjydBPxzRfNBrcox0TpDj2eFFvDwFgayZsU9ejzFVqR4ajCXaFlLIgr2HL9E2vHsMt8liApQWMKsUrrL3waVYH+2p2aJldAqUTGIyV30laA7ZTSeqO4g93ypp6keEDaHWoBz0e4BFcL9G8MkdUe31fWQwMWUuu2MBs84B3f3TfyH7ZgC7PFF/m4=;b11iprTY6uA5d4t7GdWh2w=="
 ---
 
