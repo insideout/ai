@@ -2,8 +2,8 @@
 category: news
 title: "Natural Language Processing (NLP) Market Share, Trend, Opportunity, Affect On Demand By COVID-19 Pandemic And Forecast 2018-2025"
 excerpt: "The Global Natural Language Processing (NLP) in Healthcare and Life Sciences Market was valued at USD 1.12 billion in"
-publishedDateTime: 2020-04-28T05:45:00Z
-webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-share-trend-opportunity-affect-on-demand-by-covid-19-pandemic-and-forecast-2018-2025-2020-04-28-11974516"
+publishedDateTime: 2020-04-28T05:14:00Z
+webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-share-trend-opportunity-affect-on-demand-by-covid-19-pandemic-and-forecast-2018-2025-2020-04-28"
 type: article
 quality: 40
 heat: 40
@@ -27,6 +27,6 @@ images:
     height: 630
     title: "Natural Language Processing (NLP) Market Share, Trend, Opportunity, Affect On Demand By COVID-19 Pandemic And Forecast 2018-2025"
 
-secured: "nrgqSrCm/bDB6RPJJX5iQYf7poUuhZhJI9mqCnmrNKiENl5Y5fpRLmVTGYTW5YaFk/aY9PDO+XcjL0G+FKQExtZZsQTU1QfNTx7emqTO75LnxvMA62mYNkU/gEeChOzAinZ3HbUdoUYSLnV8bkIm/clmnv2jXHL1oZ0R4K58qJj7/1A3bDixLg+7nP/0cGWtC/NIEFIGjR894qg49ClB7yt8I+BAwpci1rAq3sv3hE+Q6/ZRX78KHSY0enxcHPW1X4WZQe6uR68xeeXfAO7sNzsCORgAIXkJFL8oCgDmod6lQqjtiPRvS9ZYN0fpIdbk;R+d4yD3lh/SWkJgOPXMB5w=="
+secured: "xm3PZxP9NBaJQ8UbPFG4rMfB3EFY0QijFZGX4viVIBmEl67XWWBECiEzXfTD9g8mtjklOQHDVur9xj0m0XupEgz6NxJZ4OvirXPdBk99p8hSd4R+uW1Y4XmelcqPeAuSO4M13JedOGKmQ2KhpQ9p8sHR5JrD/QhtWa3O4Qvc1gfahA815Z/H2ICbzchlbVIVrA/1VKLTmJWpHa9UTkPCdksoPcpaQcz9ueIfVEYhZnnoAYxA+OpUcJocZ24ZXVgRSsG79IxE9JJmJ7nx9EHi+vJ5741PsXFMTG5MoYMQcXECi0ILWJlYJcE6JoIYipHJ;c2T0ZESKCVSTk/HlwzOpvg=="
 ---
 
