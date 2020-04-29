@@ -23,6 +23,6 @@ images:
     height: 641
     title: "The Uplift: High school seniors get recognition, a roaming beer truck, paper bag dress-up, and a quarantine engagement ring"
 
-secured: "yweHSySPLO/iV54+j4/034LXkLYcrkNXoXcP1FnmgotBI/C5YTgHrXC1r4pUnVWEyzHDMI06wngn/n7WJXecvCu9H1ihrregeVpKsvyNPQ1BwdMl/FuJu51FQFjwKXzYqnhFm6DbZJ56Ijw1RYdbP6hvIJx+Zs5v07KOxiMxX/8EqxIFCMZsyh++LNrYrT5FCCPob9CVs1ddo1OA17yPGGp9CIw7Imu3NtWxKANQ/xtZXVsMxjUtY+R582Pm156f73d+iRI0sVm2GTTB1pmfmBdWrlsSlQZ61Zh5Gy6nKbf5Pi5LBjmxZn7EHUVtKDTP;M2UxqOlUFQCd1N8CoXK66g=="
+secured: "ExBAEdr6BBZN8wflmHEPC6OzTRsqoxIx7tObC9lnFCtzOtxO7MOJ2ll1LOBxD+HbbjdnHAfpjf+H5hbbI44S9dhDq6aGYaJlY99nhz8lsKcsak2g2TnyhH/V3jms0ilMyXh0MoirmEbonz7yPhian1sNhvuDDtwmTflHVhvgQ55QbZ2U4Tf53N/U4isswgsP55PF3/NlgsRkbTCIi/UE60kf4S6GJrfhKAaPr7YYDb+ULMOIFHvyngJ8M9Px3e9j5CY4EOZZMfl5okItaxYEuns60YrXtLrbHBgsUaJoc3NL9l4QaptcCxGOzKmmmHzVVrQe4VXejWAcw1uGFttUUIYJDgSGA5sfImjdyzRl7PBXfYPenhLmtM/8aF72fUELrlcrtDvXQS0n2j+L2uvSPCPKcT47gNl7aCPrLdV3jNnk8HvY7UiTzK5yb9ca0wTRwJuVz4/2pNxUgsG23z+bafly2hrGGwukEtKm5wd1ZFU=;xacOnBvLzqmr6/5BCIrUrQ=="
 ---
 

@@ -2,52 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2020-04-10-probeat-microsoft-teams-video-calls-and-the-ethics-of-invisible-ai.md",
-      "title": "ProBeat: Microsoft Teams video calls and the ethics of invisible AI",
-      "excerpt": "Governments and companies alike have been abusing AI in a variety of ways. But even AI features clearly designed to help humans do something as basic as communicate clearly come with ethical questions for the companies and developers that build them. The discussion Aichner and I had gave me a brief glimpse into what businesses and developers ...",
-      "heat": 106,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/10/probeat-microsoft-teams-video-calls-and-the-ethics-of-invisible-ai/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/10/probeat-microsoft-teams-video-calls-and-the-ethics-of-invisible-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/10/probeat-microsoft-teams-video-calls-and-the-ethics-of-invisible-ai/amp/",
-      "publishedDateTime": "2020-04-10T10:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2016/10/microsoft_teams.png?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "ProBeat: Microsoft Teams video calls and the ethics of invisible AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
       "path": "_news/2020-04-10-startup-tenstorrent-shows-ai-is-changing-computing-and-vice-versa.md",
       "title": "Startup Tenstorrent shows AI is changing computing and vice versa",
       "excerpt": "The new chips coming out suggest, as ZDNet has reported in past, that AI is totally changing the nature of computing. It also suggests that changes in computing are going to have an effect on how artificial intelligence programs, such as deep learning neural networks, are designed. Case in point, startup Tenstorrent, founded in 2016 and ...",
@@ -1308,6 +1262,52 @@
           "width": 620,
           "height": 431,
           "title": "Microsoft expands Azure Stack Edge with NVIDIA T4 Tensor Core GPU",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2020-03-25-microsoft-expands-nvidia-t4-tensor-core-gpu-version-of-the-azure-stack-edge.md",
+      "title": "Microsoft expands NVIDIA T4 Tensor Core GPU version of the Azure Stack Edge",
+      "excerpt": "Essentially, NVIDIA T4 Tensor Core GPU is leveraged by the Azure Stack Edge in order to bring a hardware boost to machine learning (ML) workloads. Microsoft states that since its introduction, it has observed a largely positive reception to the idea, with a variety of industries looking to take advantage of the improved Azure ML capabilities.",
+      "heat": 129,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.neowin.net/news/microsoft-expands-nvidia-t4-tensor-core-gpu-version-of-the-azure-stack-edge",
+      "ampWebUrl": "https://www.neowin.net/amp/microsoft-expands-nvidia-t4-tensor-core-gpu-version-of-the-azure-stack-edge/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-expands-nvidia-t4-tensor-core-gpu-version-of-the-azure-stack-edge/",
+      "publishedDateTime": "2020-03-24T20:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2019/09/1567329620_azure-4_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": "Microsoft expands NVIDIA T4 Tensor Core GPU version of the Azure Stack Edge",
           "attribution": null
         }
       ],

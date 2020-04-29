@@ -2,6 +2,133 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-04-24-the-surge-of-sensationalist-covid-19-ai-research.md",
+      "title": "The surge of sensationalist COVID-19 AI research",
+      "excerpt": "There seems to be a tendency to hastily use imperfect and questionable data to train an AI solution for COVID-19, a dangerous trend that not only does not help any patient or physician but also damages the reputation of the AI community. Dealing with a pandemic — as significant as it is — does not suspend basic scientific principles.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/24/the-surge-of-sensationalist-covid-19-ai-research/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/24/the-surge-of-sensationalist-covid-19-ai-research/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/24/the-surge-of-sensationalist-covid-19-ai-research/amp/",
+      "publishedDateTime": "2020-04-24T14:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/coronavirus_ai.jpg?fit=2122%2C1413&strip=all",
+          "width": 2122,
+          "height": 1413,
+          "title": "The surge of sensationalist COVID-19 AI research",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2020-04-24-ai-weekly-ai-models-illustrate-the-importance-of-continued-social-distancing.md",
+      "title": "AI Weekly: AI models illustrate the importance of continued social distancing",
+      "excerpt": "Using a hybrid AI system dubbed SIRNet and several epidemiological models, which were trained on smartphone location data along with population-weighted density and other data points from the startup Safe Graph, World Health Organization, the U.S. Centers for Disease Control and Prevention, and elsewhere, the coauthors claim they managed to ...",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/24/ai-weekly-ai-models-illustrate-the-importance-of-continued-social-distancing/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/24/ai-weekly-ai-models-illustrate-the-importance-of-continued-social-distancing/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/24/ai-weekly-ai-models-illustrate-the-importance-of-continued-social-distancing/amp/",
+      "publishedDateTime": "2020-04-24T12:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/03/s3.reutersmedia.net_-e1587747290843.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "AI Weekly: AI models illustrate the importance of continued social distancing",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-24-iss-news-space-stations-cimon-2-ai-robot-to-revolutionise-coronavirus-social-care.md",
+      "title": "ISS news: Space station's CIMON-2 AI robot to revolutionise coronavirus social care",
+      "excerpt": "SPACE experts have revealed IBM's revolutionary Crew Interactive MObile CompanioN (CIMON-2) continues to exceed expectations aboard the International Space Station (ISS). One of the AI robot's developers has now revealed how the project can aid social care in the post-coronavirus world.",
+      "heat": 70,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.express.co.uk/news/science/1273593/iss-news-ibm-cimon2-artificial-intelligence-ai-robot-coronavirus-social-care",
+      "ampWebUrl": "https://www.express.co.uk/news/science/1273593/iss-news-ibm-cimon2-artificial-intelligence-ai-robot-coronavirus-social-care/amp",
+      "cdnAmpWebUrl": "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/news/science/1273593/iss-news-ibm-cimon2-artificial-intelligence-ai-robot-coronavirus-social-care/amp",
+      "publishedDateTime": "2020-04-24T11:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Express",
+        "domain": "express.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.images.express.co.uk/img/dynamic/151/590x/iss-news-ibm-cimon2-artificial-intelligence-ai-robot-coronavirus-social-care-1273593.jpg?r=1587753177377",
+          "width": 590,
+          "height": 350,
+          "title": "ISS news: Space station's CIMON-2 AI robot to revolutionise coronavirus social care",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-04-24-amazon-a2i-is-now-generally-available.md",
       "title": "Amazon A2I is now generally available",
       "excerpt": "AWS is excited to announce the general availability of Amazon Augmented AI (Amazon A2I), a new service that makes it easy to implement human reviews of machine learning (ML) predictions at scale. Amazon A2I removes the undifferentiated heavy lifting associated with building and managing expensive and",
@@ -588,6 +715,43 @@
       ]
     },
     {
+      "path": "_news/2020-04-24-united-states-speech-recognition-software-market-will-take-the-highest-jump-during-2020-2025.md",
+      "title": "United States Speech Recognition Software Market will take the highest jump during 2020-2025",
+      "excerpt": "The Speech Recognition Software Market 2020 Research Report investigates the industry thoroughly and offers a complete study on Speech Recognition Software volume, market Share, market Trends, Global Speech Recognition Software Growth aspects,",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cmo.com.au/mediareleases/88907/united-states-speech-recognition-software-market/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-23T22:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "cmo.com.au",
+        "domain": "cmo.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://demo.idg.com.au/cmo/cmo50/2019/cmo50_promo2019_5.jpg",
+          "width": 600,
+          "height": 246,
+          "title": "United States Speech Recognition Software Market will take the highest jump during 2020-2025",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-24-data-is-the-new-oil-how-shell-has-become-a-data-driven-and-ai-enabled-business.md",
       "title": "Data Is The New Oil: How Shell Has Become A Data-Driven And AI-Enabled Business",
       "excerpt": "Today, every organization must become a more data-driven business. While most understand that this is important, they might not know how to do it. Here we share insights and learning from energy-giant Shell on how to prioritize data-driven operations.",
@@ -883,184 +1047,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-23-google-claims-its-ai-can-design-computer-chips-in-under-6-hours.md",
-      "title": "Google claims its AI can design computer chips in under 6 hours",
-      "excerpt": "In a preprint paper coauthored by Google AI lead Jeff Dean, scientists at Google Research and the Google chip implementation and infrastructure team describe a learning-based approach to chip design that can learn from past experience and improve over time, becoming better at generating architectures for unseen components. They claim it ...",
-      "heat": 114,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/23/google-claims-its-ai-can-design-computer-chips-in-under-6-hours/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/23/google-claims-its-ai-can-design-computer-chips-in-under-6-hours/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/23/google-claims-its-ai-can-design-computer-chips-in-under-6-hours/amp/",
-      "publishedDateTime": "2020-04-23T10:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/10/google-ai-logo.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Google claims its AI can design computer chips in under 6 hours",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-23-ai-detects-plastics-in-the-oceans-by-analyzing-satellite-images.md",
-      "title": "AI detects plastics in the oceans by analyzing satellite images",
-      "excerpt": "An AI system has spotted plastic pollution in the sea by analyzing images from satellites orbiting the earth. The scientists behind the technique claim that it’s the first time patches of plastics in coastal waters have been detected via satellites. The system studies images collected by the European Space Agency’s Sentinel-2 ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/04/23/ai-detects-plastics-in-the-oceans-by-analyzing-satellite-images/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/04/23/ai-detects-plastics-in-the-oceans-by-analyzing-satellite-images/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/04/23/ai-detects-plastics-in-the-oceans-by-analyzing-satellite-images/amp/",
-      "publishedDateTime": "2020-04-23T10:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/04/Untitled-design-10-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "AI detects plastics in the oceans by analyzing satellite images",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-23-respecting-rights-global-network-initiative-assessment-report.md",
-      "title": "Respecting rights: Global Network Initiative assessment report",
-      "excerpt": "In their first letter to shareholders, our founders highlighted Google’s mission to “develop services that significantly improve the lives of as many people as possible.\" This vision continues to guide all of us at Google. From Search to YouTube, Gmail to Google Maps—we’ve worked to ensure that our products",
-      "heat": 94,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.blog.google/outreach-initiatives/public-policy/respecting-rights-global-network-initiative-assessment-report/",
-      "ampWebUrl": "https://blog.google/outreach-initiatives/public-policy/respecting-rights-global-network-initiative-assessment-report/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/public-policy/respecting-rights-global-network-initiative-assessment-report/amp/",
-      "publishedDateTime": "2020-04-23T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://blog.google/static/blogv2/images/google-1000x1000.png",
-          "width": 1000,
-          "height": 1000,
-          "title": "Respecting rights: Global Network Initiative assessment report",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-23-why-misleading-metaphors-are-fooling-managers-about-the-use-of-ai.md",
-      "title": "Why Misleading Metaphors Are Fooling Managers About The Use Of AI",
-      "excerpt": "But metaphors are also terrible traps for the unwary, and being misled by metaphors can have serious consequences. Enter artificial intelligence, the brain metaphor, and robots. First there is the use of the word ‘intelligence’ which is metaphorical thinking at work: very intelligent people are great at chess and now computers are too.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/londonschoolofeconomics/2020/04/23/why-misleading-metaphors-are-fooling-managers-about-the-use-of-ai/",
-      "ampWebUrl": "https://www.forbes.com/sites/londonschoolofeconomics/2020/04/23/why-misleading-metaphors-are-fooling-managers-about-the-use-of-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/londonschoolofeconomics/2020/04/23/why-misleading-metaphors-are-fooling-managers-about-the-use-of-ai/amp/",
-      "publishedDateTime": "2020-04-23T08:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fdam%2Fimageserve%2F1217820482%2F0x0.jpg%3Ffit%3Dscale",
-          "width": 1200,
-          "height": 675,
-          "title": "Why Misleading Metaphors Are Fooling Managers About The Use Of AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

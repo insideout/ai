@@ -2,6 +2,51 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-03-30-from-text-to-speech-with-polly-and-rekognition.md",
+      "title": "From text to speech with Polly and Rekognition!",
+      "excerpt": "Today, Artificial Intelligence (AI) is adding another dimension ... the text from images and transform them into audio using AWS services. The user uploads the image in S3 bucket.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/@ZamiraJaupaj/from-text-to-speech-with-polly-and-rekognition-b0e12ee072b0",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-30T06:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/679/0*ALJJyqcnrwdPJuU2",
+          "width": 679,
+          "height": 335,
+          "title": "From text to speech with Polly and Rekognition!",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-27-aws-certified-machine-learning-specialty-2020-hands-on.md",
       "title": "AWS Certified Machine Learning Specialty 2020 - Hands On!",
       "excerpt": "Course Ratings are calculated from individual students’ ratings and a variety of other signals, like age of rating and reliability, to ensure that they reflect course quality fairly and accurately.",
@@ -1114,52 +1159,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-14-washington-state-passes-landmark-facial-recognition-bill-reining-in-government-use-of-ai.md",
-      "title": "Washington state passes landmark facial recognition bill, reining in government use of AI",
-      "excerpt": "The Washington state legislature passed a bill establishing new guardrails on government use of facial recognition software. The bill cleared both chambers of the state legislature Thursday, hours before the session ended, positioning Washington as one of the first states in the nation to regulate facial recognition, a key component in the ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.geekwire.com/2020/washington-state-passes-landmark-facial-recognition-bill-reining-government-use-ai/",
-      "ampWebUrl": "https://www.geekwire.com/2020/washington-state-passes-landmark-facial-recognition-bill-reining-government-use-ai/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/washington-state-passes-landmark-facial-recognition-bill-reining-government-use-ai/amp/",
-      "publishedDateTime": "2020-03-13T18:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2019/11/legislature-630x473.jpg",
-          "width": 630,
-          "height": 473,
-          "title": "Washington state passes landmark facial recognition bill, reining in government use of AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AWS AI"
       ]
     }
   ],

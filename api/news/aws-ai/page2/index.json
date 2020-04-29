@@ -2,6 +2,43 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-04-09-orlando-police-end-test-of-amazons-real-time-facial-rekognition-system.md",
+      "title": "Orlando Police End Test Of Amazon's Real-Time Facial 'Rekognition' System",
+      "excerpt": "The city of Orlando, Fla., says it has ended a pilot program in which its police force used Amazon's real-time facial recognition — a system called \"Rekognition\" that had triggered complaints from rights and privacy groups when its use was revealed ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wgbh.org/news/national-news/2018/06/26/orlando-police-end-test-of-amazons-real-time-facial-rekognition-system",
+      "ampWebUrl": "https://www.wgbh.org/news/national-news/2018/06/26/orlando-police-end-test-of-amazons-real-time-facial-rekognition-system?_amp=true",
+      "cdnAmpWebUrl": "https://www-wgbh-org.cdn.ampproject.org/c/s/www.wgbh.org/news/national-news/2018/06/26/orlando-police-end-test-of-amazons-real-time-facial-rekognition-system?_amp=true",
+      "publishedDateTime": "2020-04-09T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WGBH",
+        "domain": "wgbh.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://wgbh.brightspotcdn.com/dims4/default/3960d7c/2147483647/strip/true/crop/1289x703+0+11/resize/990x540!/format/jpg/quality/70/?url=https%3A%2F%2Fwgbh.brightspotcdn.com%2F31%2F05%2Ff38c541872ecbe4555d2826173f0%2Forlando-traffic-cam-wide-4d242769fd25bb799656278a22eeccd635957ace.jpg",
+          "width": 990,
+          "height": 540,
+          "title": "Orlando Police End Test Of Amazon's Real-Time Facial 'Rekognition' System",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-08-using-cloudfront-to-secure-your-web-applications.md",
       "title": "Using CloudFront to secure your web applications",
       "excerpt": "Cybersecurity is a hot topic now. If you search on Google about how to protect your website, you may find many buzzwords, IDS, IPS, WAF, DDoS, Proxy, you name it. You may think protecting your ...",
@@ -1175,51 +1212,6 @@
           "width": 512,
           "height": 512,
           "title": "AWS Machine Learning / AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-30-from-text-to-speech-with-polly-and-rekognition.md",
-      "title": "From text to speech with Polly and Rekognition!",
-      "excerpt": "Today, Artificial Intelligence (AI) is adding another dimension ... the text from images and transform them into audio using AWS services. The user uploads the image in S3 bucket.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/@ZamiraJaupaj/from-text-to-speech-with-polly-and-rekognition-b0e12ee072b0",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-30T06:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/679/0*ALJJyqcnrwdPJuU2",
-          "width": 679,
-          "height": 335,
-          "title": "From text to speech with Polly and Rekognition!",
           "attribution": null
         }
       ],

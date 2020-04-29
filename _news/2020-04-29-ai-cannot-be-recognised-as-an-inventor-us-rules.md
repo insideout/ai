@@ -3,17 +3,21 @@ category: news
 title: "AI cannot be recognised as an inventor, US rules"
 excerpt: "The US Patent and Trademark Office rejected two patents where the AI system Dabus was listed as the inventor, in a ruling on Monday. US patent law had previously only specified eligible inventors had to be \"individuals\"."
 publishedDateTime: 2020-04-29T12:40:00Z
-webUrl: "https://www.bbc.co.uk/news/technology-52474250?at_custom4=242894B0-8A16-11EA-9319-4EA54744363C&at_custom1=%5Bpost+type%5D&at_campaign=64&at_custom2=twitter&at_medium=custom7&at_custom3=%40BBCTech"
+webUrl: "https://www.bbc.com/news/technology-52474250"
 ampWebUrl: "https://www.bbc.co.uk/news/amp/technology-52474250"
 cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/technology-52474250"
 type: article
-quality: 57
+quality: 87
 heat: -1
 published: false
 
 provider:
   name: BBC
-  domain: bbc.co.uk
+  domain: bbc.com
+  images:
+    - url: "https://insideout.app/ai/assets/images/organizations/bbc.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
@@ -40,6 +44,21 @@ related:
       - url: "https://video-images.vice.com/test-uploads/articles/5ea84cafc1ee6b009e334eb7/lede/1588087983745-506027963_001d37ceb7_o.jpeg?crop=1xw:0.8457589285714285xh;center,center"
         width: 2105
         height: 1184
+  - title: "US patent office rules that artificial intelligence cannot be a legal inventor"
+    excerpt: "The US Patent and Trademark Office (USPTO) has ruled that artificial intelligence systems cannot be credited as an inventor in a patent, the agency announced earlier this week. The decision came in response to two patents — one for a food container and the other for a flashing light — that were created by an AI system called DABUS."
+    publishedDateTime: 2020-04-29T16:35:00Z
+    webUrl: "https://www.theverge.com/2020/4/29/21241251/artificial-intelligence-inventor-united-states-patent-trademark-office-intellectual-property"
+    ampWebUrl: "https://www.theverge.com/platform/amp/2020/4/29/21241251/artificial-intelligence-inventor-united-states-patent-trademark-office-intellectual-property"
+    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/4/29/21241251/artificial-intelligence-inventor-united-states-patent-trademark-office-intellectual-property"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 83
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/8KaGrcOcMPTz4e2ak0DOJtOz3bY=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66726960/jbareham_170215_1460_0001_v2_3.0.jpg"
+        width: 1400
+        height: 933
   - title: "Net Lease REITs: The Perfect Investment For Deflation And Low Rates"
     excerpt: "What are inflation and deflation? And what cause them? I offer an explanation that forms the basis for the rest of the article. Five underlying economic forces"
     publishedDateTime: 2020-04-29T05:01:00Z
@@ -54,6 +73,6 @@ related:
         width: 1200
         height: 1400
 
-secured: "5f3zGkgogq9F1HuBmISYkvR/PP6vyPBWFvSeTglWCJhCpXRUfn5KN04JlF8yPLynPZBgZ3q9TWWYvmtwPB/wkRKFtQ+/Huw8yR7hxTW5+ntc5OmLVxffKILuYWBxokq1oi7o55Y+7c5CcJGBrH7rkU3yyup/bzZOlHWW1mrx40f2PAwX1cWLXx4i8wqGpRlY5+U2mr9OFjYwPDUB9cJ8WyU/Jcefz+8jFHsGMFW1IpUPf9CTgT5XpQ8GosFBt2EPhCyQNTfVH/vYadzlmREBeKdCElAt5F+9NiNxp2TivESb+pXVU5vTgt4K56MeKFAn;No5xDh6PEA4zXwpNixENEA=="
+secured: "sc69C45F9NzNYq6Xw1juRunuujQf3D52yR+x8rhuAn4ggpcPuFACQt4yEXh1Zdjh0wqHElSzdBl7+5tU+x7dqOE06hopIRINxJMkFoEyIgOsYzUi3WsgXjITBL03NzfRylJ8DBLLrj5S5SttjC77XVV0WWupD6vbzg79Vc4QV48PZ9vLGkWVhjJR52dRbDRNhh3MEJNQhYAE2e96YSk1G/Iw+LRmCr5X7tEPl1B5rkLfikp+hXDQxYfDV+6ZK5ccsN3bn5zP+2D6ydX5jvAN/5S1Jh/TX4NF1kfbFytKhdjj3L6WAYX0hbeTd/RRgL4M;oN6+MAiBDf8VWmYXU8Qpvg=="
 ---
 

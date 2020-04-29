@@ -2,6 +2,183 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-04-28-tesla-is-working-on-pay-as-you-go-subscription-to-its-self-driving-package.md",
+      "title": "Tesla is working on pay-as-you-go subscription to its self-driving package",
+      "excerpt": "Tesla is working on a pay-as-you-go subscription to its “Full Self-Driving Capability” package in order to make its features more accessible. There are several things about how Tesla is approaching self-driving technology that makes it different from the rest of the auto industry and tech companies developing the technology.",
+      "heat": 107,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://electrek.co/2020/04/28/tesla-pay-as-go-subscription-self-driving-package/",
+      "ampWebUrl": "https://electrek.co/2020/04/28/tesla-pay-as-go-subscription-self-driving-package/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/04/28/tesla-pay-as-go-subscription-self-driving-package/amp/",
+      "publishedDateTime": "2020-04-28T08:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://electrek.co/wp-content/uploads/sites/3/2017/03/model-x-key-fob-with-tesla-app-on-iphone1-e1489007287660.jpg?quality=82&strip=all&w=1000",
+          "width": 1000,
+          "height": 494,
+          "title": "Tesla is working on pay-as-you-go subscription to its self-driving package",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-28-can-ai-do-a-good-job-writing-marketing-copy.md",
+      "title": "Can AI Do A Good Job Writing Marketing Copy?",
+      "excerpt": "Parry Malm: It all started with a simple idea: the language a brand uses in its marketing is the crux of all marketing efforts. And yet there was no technology on the market that could make it better,",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/paultalbot/2020/04/28/can-ai-do-a-good-job-writing-marketing-copy/",
+      "ampWebUrl": "https://www.forbes.com/sites/paultalbot/2020/04/28/can-ai-do-a-good-job-writing-marketing-copy/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paultalbot/2020/04/28/can-ai-do-a-good-job-writing-marketing-copy/amp/",
+      "publishedDateTime": "2020-04-28T08:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ea8456d38448b000788994f%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Can AI Do A Good Job Writing Marketing Copy?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-28-ai-based-news-platform-newsbytes-raises-undisclosed-amount-in-series-a-round.md",
+      "title": "AI-based News Platform NewsBytes Raises Undisclosed Amount in Series A Round",
+      "excerpt": "Newsbyte, an AI-driven digital media startup, has raised undisclosed amount in Series A funding round led by North Base Media, a US-based global venture capital firm specialized in media. The round also saw participation from new investor JITO Angels and the company’s existing investor,",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.entrepreneur.com/article/349909",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/349909",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/349909",
+      "publishedDateTime": "2020-04-28T07:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/20200428143008-newsbytes.jpeg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": "AI-based News Platform NewsBytes Raises Undisclosed Amount in Series A Round",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-28-yoshua-bengio-attention-is-a-core-ingredient-of-consciousness-ai.md",
+      "title": "Yoshua Bengio: Attention is a core ingredient of ‘consciousness’ AI",
+      "excerpt": "During the International Conference on Learning Representations (ICLR) 2020 this week, which as a result of the pandemic took place virtually on the web, Turing Award winner and director of the Montreal Institute for Learning Algorithms Yoshua Bengio provided a glimpse into the future of AI and machine learning techniques.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/28/yoshua-bengio-attention-is-a-core-ingredient-of-consciousness-ai/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/28/yoshua-bengio-attention-is-a-core-ingredient-of-consciousness-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/28/yoshua-bengio-attention-is-a-core-ingredient-of-consciousness-ai/amp/",
+      "publishedDateTime": "2020-04-28T07:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/07/deep_learning.GettyImages-1011441152-e1588047625341.jpg?fit=1197%2C598&strip=all",
+          "width": 1197,
+          "height": 598,
+          "title": "Yoshua Bengio: Attention is a core ingredient of ‘consciousness’ AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-28-mit-researchers-release-clevrer-to-advance-visual-reasoning-and-neurosymbolic-ai.md",
       "title": "MIT researchers release Clevrer to advance visual reasoning and neurosymbolic AI",
       "excerpt": "Clevrer examines AI models ability to make logical conclusions about content in a video data set using a hybrid of deep learning and symbolic AI.",
@@ -801,51 +978,6 @@
       ]
     },
     {
-      "path": "_news/2020-04-28-intel-released-10nm-wireless-5g-base-station-chip-wimi-releases-ar-ai-vision-cloud-services.md",
-      "title": "Intel Released 10nm Wireless 5G Base Station Chip, WIMI Releases AR + AI Vision Cloud Services",
-      "excerpt": "According to foreign media reports, Intel recently launched a series of software and hardware products, including",
-      "heat": 72,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/intel-released-10nm-wireless-5g-base-station-chip-wimi-releases-ar-ai-vision-cloud-services-2020-04-27",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-27T18:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Intel Released 10nm Wireless 5G Base Station Chip, WIMI Releases AR + AI Vision Cloud Services",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-04-28-go-read-this-analysis-of-the-new-iphone-ses-ai-powered-depth-camera-system.md",
       "title": "Go read this analysis of the new iPhone SE’s AI-powered depth camera system",
       "excerpt": "For portrait photos, the iPhone SE’s camera uses machine learning to estimate depth of field, and Ben Sandofsky, one of the developers of mobile photography app Halide, took a closer look at how at how portrait photos taken by the SE’s single camera actually work.",
@@ -1174,139 +1306,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-27-france-launches-ai-voice-assistant-to-help-coronavirus-patients.md",
-      "title": "France launches AI voice assistant to help coronavirus patients",
-      "excerpt": "French researchers on Monday launched a voice assistant that can help callers suffering from potential coronavirus symptoms and direct them towards emergency services or their doctors using artificial intelligence.",
-      "heat": 97,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businessinsider.com/france-launches-ai-voice-assistant-to-help-coronavirus-patients-2020-4",
-      "ampWebUrl": "https://www.businessinsider.com/france-launches-ai-voice-assistant-to-help-coronavirus-patients-2020-4?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/france-launches-ai-voice-assistant-to-help-coronavirus-patients-2020-4?amp",
-      "publishedDateTime": "2020-04-27T10:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.insider.com/5ea70079a2fd9112812bc8d2?width=750&format=jpeg&auto=webp",
-          "width": 750,
-          "height": 500,
-          "title": "France launches AI voice assistant to help coronavirus patients",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-27-uk-spies-need-artificial-intelligence-to-fight-cyber-attacks-report-says.md",
-      "title": "UK Spies Need Artificial Intelligence to Fight Cyber Attacks, Report Says",
-      "excerpt": "A report from GCHQ says that deepfakes and Internet of Things devices could both be used to interfere in elections or attack critical national infrastructure.",
-      "heat": 86,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.pcmag.com/news/uk-spies-need-artificial-intelligence-to-fight-cyber-attacks-report-says",
-      "ampWebUrl": "https://www.pcmag.com/news/uk-spies-need-artificial-intelligence-to-fight-cyber-attacks-report-says?amp=true",
-      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/uk-spies-need-artificial-intelligence-to-fight-cyber-attacks-report-says?amp=true",
-      "publishedDateTime": "2020-04-27T10:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/05LYVRWYm6wdQpdTTJUly4S-1.fit_lim.size_1200x630.v_1587993385.jpg",
-          "width": 1026,
-          "height": 578,
-          "title": "UK Spies Need Artificial Intelligence to Fight Cyber Attacks, Report Says",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-27-coca-cola-partners-with-microsoft-to-use-its-cloud-and-ai-services.md",
-      "title": "Coca-Cola partners with Microsoft to use its cloud and AI services",
-      "excerpt": "Cola Company and Microsoft have announced a partnership that will see the beverage company leverage Microsoft's AI and cloud-based services, including Dynamics 365 and Microsoft 365.",
-      "heat": 104,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.neowin.net/news/coca-cola-partners-with-microsoft-to-use-its-cloud-and-ai-services",
-      "ampWebUrl": "https://www.neowin.net/amp/coca-cola-partners-with-microsoft-to-use-its-cloud-and-ai-services/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/coca-cola-partners-with-microsoft-to-use-its-cloud-and-ai-services/",
-      "publishedDateTime": "2020-04-27T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2020/04/1588004153_cocacola_microsoft_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": "Coca-Cola partners with Microsoft to use its cloud and AI services",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

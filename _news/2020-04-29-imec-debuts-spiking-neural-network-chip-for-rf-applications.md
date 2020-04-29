@@ -23,6 +23,6 @@ images:
     height: 439
     title: "Imec Debuts Spiking Neural Network Chip for RF Applications"
 
-secured: "cknCJwgqpaJ+MpfTO38IeqS3FevRuerBiqaNKoJ/GwBSWDls1B/GeJ9FI3tuVeT0vKhZHiM+1r7imnMOlhsGfafWnTbNomVu9kl8nh38WIluXfCo1PfF/DDMBqlTqFSVpbyDwpw1TQ9FaPR/iOgAxGXrkf7e0dyRW4+oHDeEBSdtrcQr9xERxT/tjuGZXieLRm9J2ObqP0oyxakHuLRzd/V7uxLmvIb0DCM7e3AIopdXJpojz/X92+8f++KWQnO25A48X8jcMNIzfnXd1ALnq6dAFLVWdU+bIu9T7dOhwjaEzlWHxL/PBSwknvBmZ0x2;MI+nvzDp8uqZX9HUsB+J9w=="
+secured: "sjfWw8xw9KvG9cCKKq9OQRQ0j1WcvJTeMmNsgC+tszNdKqSLFnIm2h7U67/sKS9USr1pBkIv9ppFRdlVP3TL7s5fqe34Lvi3PMF9PJm5n2JMO/NqRo0ObWKLE4bqucKGtzBS7fb+nPPRj+Rq4DI6rl7a52DD7uz+q4LZc9exQjS0dHueGwanUZp4PxO3PSZ9k9Yq5/+LBJwalPA/Q3R1E5NF5XcswjmQV/hgTtqCRfL/fA6+dl5YXGvUQ2d+iucaJugSgyo9ZOxXHfojvjMY3TesLOe+6uALSq3iWa4tUnvheckmnTp3SXHmFZ2xXYVszWBB6+qqZ1Y33Iux3drWN9wt9dlCALERj80RWQ4Aq+1ZOOG5ZAw3eSJ4OMq4+iNX6OKRUH4u58HjTea7/efNr8qxeeAzxemO8nZU8hNXw2L1IyXybxlqVKZvR6cAajqGSsKKwScAq3CGH/UV75r0Spz6HgWPirBfQLHuts14vm4=;F7F+DGk662AFQa3QwL9R+A=="
 ---
 

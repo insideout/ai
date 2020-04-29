@@ -2,6 +2,51 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-04-29-building-a-smart-garage-door-opener-with-aws-deeplens-and-amazon-rekognition.md",
+      "title": "Building a smart garage door opener with AWS DeepLens and Amazon Rekognition",
+      "excerpt": "Many industries, including retail, manufacturing, and healthcare, are adopting IoT-enabled devices and using AI or machine learning (ML) technologies to enable such devices to make human-like decisions without human intervention. You can also apply some of the use cases involving powering IoT-enabled",
+      "heat": 126,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/building-a-smart-garage-door-opener-with-aws-deeplens-and-amazon-rekognition/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-29T10:09:39-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/04/29/building-smart-garage-16.gif",
+          "width": 979,
+          "height": 571,
+          "title": "Building a smart garage door opener with AWS DeepLens and Amazon Rekognition",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-28-ml-explainability-with-amazon-sagemaker-debugger.md",
       "title": "ML Explainability with Amazon SageMaker Debugger",
       "excerpt": "Machine Learning (ML) impacts industries around the globe, from financial services industry (FSI) and manufacturing  to autonomous vehicles and space exploration. ML is no longer just an aspirational technology exclusive to academic and research institutions; it has evolved into a mainstream technology",
@@ -1230,43 +1275,6 @@
         "authors": null
       },
       "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-09-orlando-police-end-test-of-amazons-real-time-facial-rekognition-system.md",
-      "title": "Orlando Police End Test Of Amazon's Real-Time Facial 'Rekognition' System",
-      "excerpt": "The city of Orlando, Fla., says it has ended a pilot program in which its police force used Amazon's real-time facial recognition — a system called \"Rekognition\" that had triggered complaints from rights and privacy groups when its use was revealed ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wgbh.org/news/national-news/2018/06/26/orlando-police-end-test-of-amazons-real-time-facial-rekognition-system",
-      "ampWebUrl": "https://www.wgbh.org/news/national-news/2018/06/26/orlando-police-end-test-of-amazons-real-time-facial-rekognition-system?_amp=true",
-      "cdnAmpWebUrl": "https://www-wgbh-org.cdn.ampproject.org/c/s/www.wgbh.org/news/national-news/2018/06/26/orlando-police-end-test-of-amazons-real-time-facial-rekognition-system?_amp=true",
-      "publishedDateTime": "2020-04-09T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WGBH",
-        "domain": "wgbh.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://wgbh.brightspotcdn.com/dims4/default/3960d7c/2147483647/strip/true/crop/1289x703+0+11/resize/990x540!/format/jpg/quality/70/?url=https%3A%2F%2Fwgbh.brightspotcdn.com%2F31%2F05%2Ff38c541872ecbe4555d2826173f0%2Forlando-traffic-cam-wide-4d242769fd25bb799656278a22eeccd635957ace.jpg",
-          "width": 990,
-          "height": 540,
-          "title": "Orlando Police End Test Of Amazon's Real-Time Facial 'Rekognition' System",
-          "attribution": null
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"

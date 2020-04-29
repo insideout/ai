@@ -2,52 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2020-02-13-stuart-russell-will-we-choose-the-right-objective-for-ai-before-it-destroys-us-all.md",
-      "title": "Stuart Russell: Will we choose the right objective for AI before it destroys us all?",
-      "excerpt": "Also: AI on steroids: Much bigger neural nets to come with new hardware ... \"I have a heard time believing that my laptop has subjective experience,\" he said, even though it gets more intelligent all the time with faster chips and better software. Still, one has to \"concede it's possible that suitably programmed computers could have ...",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/stuart-russell-will-we-choose-the-right-objective-for-ai-before-it-destroys-us-all/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/stuart-russell-will-we-choose-the-right-objective-for-ai-before-it-destroys-us-all/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/stuart-russell-will-we-choose-the-right-objective-for-ai-before-it-destroys-us-all/",
-      "publishedDateTime": "2020-02-13T05:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/02/13/824a2dee-ba6c-4be0-a012-abbe00e0f75a/stuart-russell-feb-2020.jpg",
-          "width": 1280,
-          "height": 960,
-          "title": "Stuart Russell: Will we choose the right objective for AI before it destroys us all?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware",
-        "AI in Robotics"
-      ]
-    },
-    {
       "path": "_news/2020-02-13-xmos-unveils-xcoreai-a-powerful-chip-designed-for-ai-processing-at-the-edge.md",
       "title": "XMOS unveils Xcore.ai, a powerful chip designed for AI processing at the edge",
       "excerpt": "With seed funding from the University of Bristol enterprise fund and the Wyvern seed fund as well as Amadeus Capital Partners, DJF Espirit, and Foundation Capital, the startup set about developing processor technology ... spinning off its Graphcore division focused on server-side AI. The following three years culminated in the release of ...",
@@ -1289,6 +1243,43 @@
       "topics": [
         "AI",
         "AI in Robotics",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2020-01-22-making-siri-smarter-is-that-why-apple-bought-xnorai-9to5mac.md",
+      "title": "Making Siri smarter – is that why Apple bought Xnor.ai? - 9to5Mac",
+      "excerpt": "That cuts to Apple’s main privacy argument. We’ve long suspected that the reason why Siri lags Google Assistant and Amazon Alexa is that Apple doesn’t collect the same kind of information that those companies do and is thus at a disadvantage […] By embedding Edge AI into Apple’s own chip via the Neural Engine or a new co-processor ...",
+      "heat": 159,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://9to5mac.com/2020/01/21/make-siri-smarter/",
+      "ampWebUrl": "https://9to5mac.com/2020/01/21/make-siri-smarter/amp/",
+      "cdnAmpWebUrl": "https://9to5mac-com.cdn.ampproject.org/c/s/9to5mac.com/2020/01/21/make-siri-smarter/amp/",
+      "publishedDateTime": "2020-01-21T17:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "9to5Mac",
+        "domain": "9to5mac.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://9to5mac.com/wp-content/uploads/sites/6/2020/01/Make-Siri-smarter.jpg?quality=82&strip=all&w=1000",
+          "width": 1000,
+          "height": 500,
+          "title": "Making Siri smarter – is that why Apple bought Xnor.ai? - 9to5Mac",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
         "AI Hardware"
       ]
     }

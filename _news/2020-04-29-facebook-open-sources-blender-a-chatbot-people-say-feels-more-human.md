@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/04/29/facebook-open-sources-blender-a-c
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/29/facebook-open-sources-blender-a-chatbot-that-people-say-feels-more-human/amp/"
 type: article
 quality: 74
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -29,6 +29,23 @@ images:
     height: 600
     title: "Facebook open-sources Blender, a chatbot people say ‘feels more human’"
 
-secured: "Q/U7slgNnbjJzr6wUbBUojQOUi3XlkIgZBAahazeJAauYgeVmZ+XPnzlixOv7/etsJH3xZHbKR06uY0NDWwNs7pb4+wWnJy5Phm4pqCxWnqse5FWYwPkhGQiPKp36yF/+wMYr68Cucyb9G5JsA7i+PdGMIRuVcLnWls22unfG2Kckv1gB8hfjUpk1CvXl1QS9yu5K4bRPhg76HgXIvBoa/jRJIX/rDeVexin+LyV+igSU4Eq6TmXQQolNE7awj030QhQHN6ydxDdtHkaKlv42W9JAokCCNfyQYWxt/dRKfNam+0Z7GnyekIaC7PTpZzD;/pyLkDZekbgQRWBVWcS3iA=="
+related:
+  - title: "Facebook says its Blender chatbot 'feels more human'"
+    excerpt: "Facebook's new open-source chatbot blends personality, knowledge and empathy with the goal of being more humanlike."
+    publishedDateTime: 2020-04-29T16:37:00Z
+    webUrl: "https://www.cnet.com/news/facebook-says-its-blender-chatbot-feels-more-human/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/facebook-says-its-blender-chatbot-feels-more-human/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facebook-says-its-blender-chatbot-feels-more-human/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 74
+    images:
+      - url: "https://cnet2.cbsistatic.com/img/Kl3eL9EkMSeRH9r27UdVgj1jeIg=/756x567/2020/01/01/e6826d4a-a27d-4278-bf31-666729bde647/facebook-logo-laptop-4829.jpg"
+        width: 756
+        height: 567
+
+secured: "+BoreAZlAGgXszwWoAL4zfbKMt2Qlgs0PhDziRcFU2Q5ck45eVGKWKwkL3oyQOQjLkrphGpPYA0tGnr9SSJ9rv5IRI3ZD/GtIrYoo02HGVIn/DRRnqTSx5BKvpAP7eDdsB50Pak73wF8W9DWmjs4dOZnYScRqpud5YzHDXSQV1H9Zo78qWPF50icZc+OGehQGTkolWITM22K4kahg5psmHpop0XmVqVAPW1pqGrTc8gcTeCRzHLrjRU+4qzqJUw+wVy3R3jeqbQg1Ko9e++hHW8W+W5lmCbHNnbArq9GueNcG74vOmCt3cf+16vFDsZM7iVYc0IXwemUqeNl8E2n5poOMgeopn/jJMXDvAoG3G84fcGalWaHYOz4bEgrv59bu7RSHHFq1UAgZDePrGMIXXoISj4H4gsD+yVRqYcWuyPozpy7RHMI6qZYBQGp5Lornnj5EGbUfaCPpdkSZqfgSeEkfUiORGgjNkc9o2gaHXk=;TTIzCqfWXgZntZh9ETh5og=="
 ---
 

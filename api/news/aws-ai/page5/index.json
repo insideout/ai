@@ -2,6 +2,52 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-02-22-trillion-dollar-foes-does-amazon-web-services-reign-supreme-in-the-cloud-business.md",
+      "title": "Trillion-Dollar Foes: Does Amazon Web Services Reign Supreme in the Cloud Business?",
+      "excerpt": "AWS is dominant within Amazon as well ... If Microsoft is the victor, it would be poised to expand its global presence through the pairing of cloud services with artificial intelligence or machine learning. This could increase revenue and potentially expand its market share, perhaps even putting the company ahead of Amazon on revenue.",
+      "heat": 85,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fool.com/investing/2020/02/22/trillion-dollar-foes-does-amazon-web-services-reig.aspx",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/02/22/trillion-dollar-foes-does-amazon-web-services-reig.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/02/22/trillion-dollar-foes-does-amazon-web-services-reig.aspx",
+      "publishedDateTime": "2020-02-22T06:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F558881%2Fcloud-computing-computer-key-getty-6-2-17.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 900,
+          "title": "Trillion-Dollar Foes: Does Amazon Web Services Reign Supreme in the Cloud Business?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-02-20-vcs-warn-pumping-millions-into-an-ai-startup-you-mean-pumping-millions-into-azure-aws-or-google-cloud.md",
       "title": "VCs warn: Pumping millions into an AI startup? You mean, pumping millions into Azure, AWS or Google Cloud...",
       "excerpt": "“Anecdotally, we have seen a surprisingly consistent pattern in the financial data of AI companies, with gross margins often in the 50-60 per cent range – well below the 60-80 per cent [and above] benchmark for comparable SaaS businesses,” said Martin Casado and Matt Bornstein, venture-capitalists at Silicon Valley's venerable Andreessen ...",
@@ -1269,51 +1315,6 @@
           "width": 1024,
           "height": 682,
           "title": "German football league Bundesliga teams with AWS to improve fan experience",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-23-maximizing-nlp-model-performance-with-automatic-model-tuning-in-amazon-sagemaker.md",
-      "title": "Maximizing NLP model performance with automatic model tuning in Amazon SageMaker",
-      "excerpt": "The field of Natural Language Processing (NLP) has had many remarkable breakthroughs in the past two years. Advanced deep learning models are raising the state-of-the-art performance standards for NLP tasks. To benefit from newly published NLP models, the best approach is to apply a pre-trained language",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/maximizing-nlp-model-performance-with-automatic-model-tuning-in-amazon-sagemaker/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-23T08:25:19-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/01/21/nlp-model-tuning-3.gif",
-          "width": 800,
-          "height": 297,
-          "title": "Maximizing NLP model performance with automatic model tuning in Amazon SageMaker",
           "attribution": null
         }
       ],
