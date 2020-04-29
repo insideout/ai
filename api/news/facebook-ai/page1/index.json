@@ -2,23 +2,23 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-04-29-facebook-open-sources-blender-a-chatbot-people-say-feels-more-human.md",
-      "title": "Facebook open-sources Blender, a chatbot people say ‘feels more human’",
-      "excerpt": "Facebook's open source Blender chatbot framework achieved state-of-the-art results compared with Google's latest Meena model.",
-      "heat": 84,
+      "path": "_news/2020-04-29-do-i-sound-sick-to-you-researchers-are-building-ai-that-would-diagnose-covid-19-by-listening-to-people-talk.md",
+      "title": "Do I sound sick to you? Researchers are building AI that would diagnose COVID-19 by listening to people talk.",
+      "excerpt": "Researchers at universities including Carnegie Mellon University, Harvard, and MIT are collecting voice data to train algorithms to diagnose COVID-19.",
+      "heat": 70,
       "tags": null,
       "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/29/facebook-open-sources-blender-a-chatbot-that-people-say-feels-more-human/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/29/facebook-open-sources-blender-a-chatbot-that-people-say-feels-more-human/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/29/facebook-open-sources-blender-a-chatbot-that-people-say-feels-more-human/amp/",
-      "publishedDateTime": "2020-04-29T08:03:00-07:00",
+      "webUrl": "https://www.businessinsider.com/ai-labs-diagnose-covid-19-voice-listening-talk-2020-4",
+      "ampWebUrl": "https://www.businessinsider.com/ai-labs-diagnose-covid-19-voice-listening-talk-2020-4?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-labs-diagnose-covid-19-voice-listening-talk-2020-4?amp",
+      "publishedDateTime": "2020-04-29T14:31:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
         "images": [
           {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "url": "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -30,10 +30,55 @@
       },
       "images": [
         {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/04/Facebook-sign-F8-e1564693284989.jpg?fit=1200%2C600&strip=all",
+          "url": "https://i.insider.com/5d55bf4dcd978450f616290a?width=1200&format=jpeg",
           "width": 1200,
           "height": 600,
-          "title": "Facebook open-sources Blender, a chatbot people say ‘feels more human’",
+          "title": "Do I sound sick to you? Researchers are building AI that would diagnose COVID-19 by listening to people talk.",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-29-facebooks-teaching-ai-to-lie-like-a-human.md",
+      "title": "Facebook’s teaching AI to lie like a human",
+      "excerpt": "Because, essentially, what Facebook‘s done is taught Blender’s chatbots to lie moderately better than everyone else’s. Today we’re announcing that Facebook AI has built and open-sourced Blender, the largest-ever open-domain chatbot.",
+      "heat": 109,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/04/29/facebooks-teaching-ai-to-lie-like-a-human/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/04/29/facebooks-teaching-ai-to-lie-like-a-human/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/04/29/facebooks-teaching-ai-to-lie-like-a-human/amp/",
+      "publishedDateTime": "2020-04-29T13:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/03/robotpresident-796x417.jpg",
+          "width": 796,
+          "height": 417,
+          "title": "Facebook’s teaching AI to lie like a human",
           "attribution": null
         }
       ],
@@ -1277,51 +1322,6 @@
       "topics": [
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-31-ai-in-fashion-market-next-big-thing-major-giants-microsoft-ibm-google-aws-sap.md",
-      "title": "AI in Fashion Market Next Big Thing | Major Giants- Microsoft, IBM, Google, AWS, SAP",
-      "excerpt": "Global AI in Fashion Market Size, Status and Forecast 2020-2026 is latest research study released by HTF MI evaluating the market, highlighting opportunities, risk side analysis, and leveraged with strategic and tactical decision-making support.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/ai-in-fashion-market-next-big-thing-major-giants--microsoft-ibm-google-aws-sap-2020-03-30",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-30T19:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "AI in Fashion Market Next Big Thing | Major Giants- Microsoft, IBM, Google, AWS, SAP",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],

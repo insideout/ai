@@ -2,6 +2,132 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2020-03-31-catholic-church-tech-firms-join-call-for-transparency-in-ai.md",
+      "title": "Catholic church, tech firms join call for transparency in AI",
+      "excerpt": "The Catholic Church joined with technology companies last month to release the \"Rome Call for AI Ethics\" in what it hopes will lend meaning if not governance frameworks for the use of artificial intelligence.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.upi.com/Top_News/Voices/2020/03/31/Catholic-church-tech-firms-join-call-for-transparency-in-AI/2661585655627/",
+      "ampWebUrl": "https://www.upi.com/amp/Top_News/Voices/2020/03/31/Catholic-church-tech-firms-join-call-for-transparency-in-AI/2661585655627/",
+      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/Voices/2020/03/31/Catholic-church-tech-firms-join-call-for-transparency-in-AI/2661585655627/",
+      "publishedDateTime": "2020-03-31T05:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UPI.com",
+        "domain": "upi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdnph.upi.com/sv/ph/og/upi/2661585655627/2020/1/1acca51c47c52ff10817f3b95463593d/v1.5/Catholic-church-tech-firms-join-call-for-transparency-in-AI.jpg",
+          "width": 800,
+          "height": 533,
+          "title": "Catholic church, tech firms join call for transparency in AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-31-modelop-helps-enterprises-deploy-monitor-and-maintain-ai-models.md",
+      "title": "ModelOp helps enterprises deploy, monitor, and maintain AI models",
+      "excerpt": "ModelOp, a startup developing AI software and development services for enterprises, today announced that it has raised $6 million. It plans to use the capital to support demand for its products in a market that IDC anticipates will be worth $8 billion by 2022. The term ModelOps refers to the process of cycling analytical models from data ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/03/31/modelop-helps-enterprises-deploy-monitor-and-maintain-ai-models/",
+      "ampWebUrl": "https://venturebeat.com/2020/03/31/modelop-helps-enterprises-deploy-monitor-and-maintain-ai-models/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/31/modelop-helps-enterprises-deploy-monitor-and-maintain-ai-models/amp/",
+      "publishedDateTime": "2020-03-31T05:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/03/adc2e353-9882-4a40-a740-3c90bb34db5c-e1585076656887.png?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "ModelOp helps enterprises deploy, monitor, and maintain AI models",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-31-covid-19-mapped-azure-powered-tool-ids-the-most-vulnerable-populations.md",
+      "title": "COVID-19 mapped: Azure-powered tool IDs the most vulnerable populations",
+      "excerpt": "Read More A company called Jvion, which specializes in what it calls clinical AI, is launching a COVID Community Vulnerability Map, a public facing tool built on Microsoft Azure maps that helps healthcare providers identify the social determinants of health (SDOH) that put populations at greater risk. That information can have a significant ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/azure-powered-covid-vulnerability-map/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/azure-powered-covid-vulnerability-map/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/azure-powered-covid-vulnerability-map/",
+      "publishedDateTime": "2020-03-31T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/03/30/1f52aa7d-f4a3-4f5f-ac3d-bbdec514a86a/covid-map.png",
+          "width": 1260,
+          "height": 1004,
+          "title": "COVID-19 mapped: Azure-powered tool IDs the most vulnerable populations",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-31-machine-learning-as-a-service-mlaas-market-to-garner-overwhelming-hike-in-revenues-by-2027.md",
       "title": "Machine Learning as a Service (MLaaS) Market to Garner Overwhelming Hike In Revenues by 2027",
       "excerpt": "Global Machine Learning as a Service (MLaaS) Market 2020 size, share, growth, trends, consumption, production, market sales analysis by manufacturers, regions, Type and Application and forecast to 2027.",
@@ -917,134 +1043,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-30-microsoft-will-no-longer-make-minority-investments-in-facial-recognition-tech.md",
-      "title": "Microsoft Will No Longer Make Minority Investments in Facial Recognition Tech",
-      "excerpt": "Microsoft (NASDAQ:MSFT) is drawing a line in the sand when it comes to facial recognition technology. On Friday, the company announced it was divesting its stake in a facial recognition start-up and vowed to no longer make minority investments in the area. Through its M12 venture fund, the software giant announced over the weekend that it ...",
-      "heat": 96,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.fool.com/investing/2020/03/30/microsoft-will-no-longer-make-minority-investments.aspx",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/03/30/microsoft-will-no-longer-make-minority-investments.aspx",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/03/30/microsoft-will-no-longer-make-minority-investments.aspx",
-      "publishedDateTime": "2020-03-30T12:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F565770%2Fmicrosoft-anyvision-mf.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 800,
-          "title": "Microsoft Will No Longer Make Minority Investments in Facial Recognition Tech",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-30-microsoft-teams-up-with-leading-universities-to-tackle-coronavirus-pandemic-using-ai.md",
-      "title": "Microsoft teams up with leading universities to tackle coronavirus pandemic using AI",
-      "excerpt": "Specifically, those with successful proposals will get unlimited use of the C3 AI Suite, access to the Microsoft Azure cloud platform, and access to the Blue Waters supercomputer at the National Center for Super Computing Applications at the University of Illinois Urbana-Champaign (UIUC). To fund the institute, C3.ai will provide $57,250,000 ...",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/microsoft-teams-up-with-leading-universities-to-tackle-coronavirus-pandemic-using-ai/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/microsoft-teams-up-with-leading-universities-to-tackle-coronavirus-pandemic-using-ai/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-teams-up-with-leading-universities-to-tackle-coronavirus-pandemic-using-ai/",
-      "publishedDateTime": "2020-03-30T11:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/03/03/efb9f0b3-0ca8-4514-b481-36f1df2e8f22/thumbnail/1200x675/a5cb4c555bf6fb63345ce79fcd3d7ada/20200225-sonmez-part5-dan.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Microsoft teams up with leading universities to tackle coronavirus pandemic using AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-03-30-google-is-using-ai-to-design-ai-processors-much-faster-than-humans-can.md",
-      "title": "Google is using AI to design AI processors much faster than humans can",
-      "excerpt": "At Google, AI algorithms are even being used to design AI chips. This is not a complete design of silicon that Google is dealing with, but a subset of chip design known as placement optimization. This is a time-consuming task for humans. As explained by ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.pcgamer.com/google-is-using-ai-to-design-ai-processors-much-faster-than-humans-can/",
-      "ampWebUrl": "https://www.pcgamer.com/amp/google-is-using-ai-to-design-ai-processors-much-faster-than-humans-can/",
-      "cdnAmpWebUrl": "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/amp/google-is-using-ai-to-design-ai-processors-much-faster-than-humans-can/",
-      "publishedDateTime": "2020-03-30T11:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Gamer",
-        "domain": "pcgamer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/dw6iBNHkdr8xXjXPs7tnaW-1200-80.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": "Google is using AI to design AI processors much faster than humans can",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

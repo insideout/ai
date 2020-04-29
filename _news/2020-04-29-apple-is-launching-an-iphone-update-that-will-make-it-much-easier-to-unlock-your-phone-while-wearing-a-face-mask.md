@@ -29,6 +29,6 @@ images:
     height: 600
     title: "Apple is launching an iPhone update that will make it much easier to unlock your phone while wearing a face mask"
 
-secured: "/1xmKKebsoz4hWqwNaAtuCN5dqhzW78OwtEfHckn2cdvn70d7L/qsm+DRzWhmAW5Os9fKuWsUwp938tIkAi/i+7S8+GEL1mx05W2bckwXFMVTOpcxHAbCT/9XnrP+YRKHgxG3kZtKJYf8MTAvJ4UFTz5oUOrnACFLUmH8fGkgWN5iioDZi68XzeGc9iFPZh0WUtPhxGBdHH2dCufiJKAVGH+QgGExV0I5z6H7bCsToLbndXrj6TiJLAJFS/G5qrjN/ZVn9q+jDf9HDsmnCt8nbS9kmIJofX/1nOp09otQjhVLIDI3vRflWeBnOMyrGH7;gmBGPKSGQILQPZXYF5SjzA=="
+secured: "KsV8qafHjUxVknSjkN+CSFpkU1h5LcYKox2/bNPmIf5vo+dc0MkSMhaVA+nnXtZTF+vVDVj6lAFCJ8vb7oCNLrrgwTGvaIkYii8YVK8c7Z4tpeG2uiSqH58EzW+xuu2ahnYUbGI3C3MwDlqohMeZ3+Ki8hoClowzBkA9JH0VZ/Dcf7rp6Jq9QaH895ci0FWndFMDNJKbO9QGiLICaFLAwpDpyo4CmmthBWX5Vbs9EZqEKoz+ZORO1E/JyyxtZjqfpRK0HZBj6B1FP2WbXYekzahoM0XeNINoZz8N4Uf+udNgKqeRSrLN3FmMJsT6viVamweZF0JAW/yLM9RkomL/jlnn5tuZVlF07gihnyd/Qech6wtK9ZLVkBDzXy5Y7Kf1VHXmAEo2r7EcjuqDutkOJLF+TIeC9uvp+fnogK2UK2cmtwyvb78KIoxYA5wC99iQJUwijLgeez8Vme0myUA+mO6T7D+I7TiJ06dqd6T7Aeg=;q228XWUqHvQzU4fuN+Za3w=="
 ---
 

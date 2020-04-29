@@ -2,6 +2,131 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2020-04-09-qc-ware-wins-bpifrance-concours-dinnovation-i-nov-award-to-accelerate-quantum-machine-learning-in-france.md",
+      "title": "QC Ware Wins BPIFrance Concours d'Innovation i-Nov Award to Accelerate Quantum Machine Learning in France",
+      "excerpt": "PARIS and PALO ALTO, Calif., April 9, 2020 /PRNewswire/ -- QC Ware France, a wholly owned subsidiary of the quantum computing-as-a-service company QC Ware, today announced that it has been",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/qc-ware-wins-bpifrance-concours-dinnovation-i-nov-award-to-accelerate-quantum-machine-learning-in/article_49f2a7b0-ac6d-5606-a467-25b1e5a8a607.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-09T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/0/79/0798b1a9-ea3c-51a8-bf86-18ce8cdd6d13/5e8f31a3258fb.image.jpg?resize=400%2C271",
+          "width": 400,
+          "height": 271,
+          "title": "QC Ware Wins BPIFrance Concours d'Innovation i-Nov Award to Accelerate Quantum Machine Learning in France",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-09-open-source-ai-tool-aims-to-help-identify-coronavirus-infections.md",
+      "title": "Open-source AI tool aims to help identify coronavirus infections",
+      "excerpt": "Find a hospital taking in coronavirus cases, and you'll most likely find departments often in need of more staff and without enough testing kits. Now one Canadian AI startup is hoping to develop tools that will automatically detect COVID-19 infections from X-rays, and help guide medical professionals on how seriously the infection has taken hold.",
+      "heat": 97,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/open-source-ai-tool-aims-to-help-identify-coronavirus-infections/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/open-source-ai-tool-aims-to-help-identify-coronavirus-infections/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/open-source-ai-tool-aims-to-help-identify-coronavirus-infections/",
+      "publishedDateTime": "2020-04-09T06:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/03/13/0d3f22fd-6dcd-48d4-854e-c546e8aed8c5/thumbnail/1200x675/7142d5c50785c3a5cd999938c9268465/covid19-preparations-how-to-make-remote-5e6b66a2cf0d880001187a5b-1-mar-13-2020-12-35-53-poster.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Open-source AI tool aims to help identify coronavirus infections",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-09-google-releases-simclr-an-ai-framework-that-can-classify-images-with-limited-labeled-data.md",
+      "title": "Google releases SimCLR, an AI framework that can classify images with limited labeled data",
+      "excerpt": "A team of Google researchers recently detailed a framework called SimCLR, which improves previous approaches to self-supervised learning, a family of techniques for converting an unsupervised learning problem (i.e., a problem in which AI models train on unlabeled data) into a supervised one by creating labels from unlabeled data sets.",
+      "heat": 77,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/09/google-releases-simclr-ai-framework-learns-to-classify-images-with-limited-labeled-data/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/09/google-releases-simclr-ai-framework-learns-to-classify-images-with-limited-labeled-data/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/09/google-releases-simclr-ai-framework-learns-to-classify-images-with-limited-labeled-data/amp/",
+      "publishedDateTime": "2020-04-09T06:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/10/google-ai-logo.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Google releases SimCLR, an AI framework that can classify images with limited labeled data",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-09-nuro-earns-permit-to-test-self-driving-delivery-vehicles-in-california.md",
       "title": "Nuro Earns Permit to Test Self-Driving Delivery Vehicles in California",
       "excerpt": "Autonomous delivery vehicle maker Nuro this week received California's first permit to test a driverless, passengerless car on public roads. Eager to get started, the company hopes to get its recently unveiled R2 vehicle on the move through Silicon Valley ...",
@@ -1149,139 +1274,6 @@
           "width": 1200,
           "height": 654,
           "title": "Coronavirus crisis gives an opportunity for AI to shine",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-08-ai-and-account-based-marketing-in-a-time-of-disruption.md",
-      "title": "AI And Account Based Marketing In A Time Of Disruption",
-      "excerpt": "How is AI holding up? Has the pandemic impacted the quality of data used to feed analytic tools that help marketers create both strategic and tactical scenarios and insights? Alex Atzberger: There is more data and more need for automation and AI now than ever.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/paultalbot/2020/04/08/ai-and-account-based-marketing-in-a-time-of-disruption/",
-      "ampWebUrl": "https://www.forbes.com/sites/paultalbot/2020/04/08/ai-and-account-based-marketing-in-a-time-of-disruption/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paultalbot/2020/04/08/ai-and-account-based-marketing-in-a-time-of-disruption/amp/",
-      "publishedDateTime": "2020-04-08T10:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e8e05d52b720000076d7f52%2F0x0.jpg",
-          "width": 1199,
-          "height": 915,
-          "title": "AI And Account Based Marketing In A Time Of Disruption",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-08-china-may-forge-ahead-of-the-us-in-ai-chip-race-but-at-what-cost-to-both.md",
-      "title": "China may forge ahead of the US in AI chip race, but at what cost to both?",
-      "excerpt": "Success in artificial intelligence is not limited to data and algorithms. The third component that determines success in research and applications is advanced specialised AI chips that provide increased computing power and storage, while decreasing energy consumption. Companies that have access to leading-edge AI chips are essentially in the ...",
-      "heat": 102,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.scmp.com/comment/opinion/article/3078827/china-may-forge-ahead-us-ai-chip-race-what-cost-both",
-      "ampWebUrl": "https://amp.scmp.com/comment/opinion/article/3078827/china-may-forge-ahead-us-ai-chip-race-what-cost-both",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/comment/opinion/article/3078827/china-may-forge-ahead-us-ai-chip-race-what-cost-both",
-      "publishedDateTime": "2020-04-08T10:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_opinion/public/d8/images/methode/2020/04/09/1d2a7b84-78c2-11ea-9479-e3cad17ef2b4_image_hires_014859.JPG?itok=3BOh8Ia1&v=1586368145",
-          "width": 1200,
-          "height": 630,
-          "title": "China may forge ahead of the US in AI chip race, but at what cost to both?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-08-sports-analytics-continue-to-evolve-with-ai-enabled-insights-and-data-storytelling.md",
-      "title": "Sports Analytics Continue To Evolve With AI-Enabled Insights And Data Storytelling",
-      "excerpt": "Analytics have revolutionized the way professional sports franchises assess performance. Some of the most iconic figures in sports have recognized the importance of dats. Sportlogiq was infused with funding from Dallas Mavericks’ owner Mark Cuban to take this type of research to another level.",
-      "heat": 81,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/toddkarpovich/2020/04/08/sports-analytics-continue-to-evolve-with-ai-enabled-insights-and-data-storytelling/",
-      "ampWebUrl": "https://www.forbes.com/sites/toddkarpovich/2020/04/08/sports-analytics-continue-to-evolve-with-ai-enabled-insights-and-data-storytelling/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/toddkarpovich/2020/04/08/sports-analytics-continue-to-evolve-with-ai-enabled-insights-and-data-storytelling/amp/",
-      "publishedDateTime": "2020-04-08T08:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1206293039%2F0x0.jpg",
-          "width": 1200,
-          "height": 824,
-          "title": "Sports Analytics Continue To Evolve With AI-Enabled Insights And Data Storytelling",
           "attribution": null
         }
       ],

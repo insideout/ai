@@ -2,6 +2,80 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-03-11-global-computer-vision-in-healthcare-market-latest-innovations-drivers-restraints-challenges-and-industry-key-events-2020-2025.md",
+      "title": "Global Computer Vision in Healthcare Market: Latest Innovations, Drivers, Restraints, Challenges and Industry Key Events 2020 – 2025",
+      "excerpt": "“Computer Vision in Healthcare Market 2020-2025” Summary: – Wiseguyreports.Com Adds \"Computer Vision in Healthcare – Market Demand, Growth,",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/03/ab15524368/global-computer-vision-in-healthcare-market-latest-innovations-drivers-restraints-challenges-and-",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/15524368",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15524368",
+      "publishedDateTime": "2020-03-11T02:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.abnewswire.com/uploads/1583916027.jpeg",
+          "width": 500,
+          "height": 598,
+          "title": "Global Computer Vision in Healthcare Market: Latest Innovations, Drivers, Restraints, Challenges and Industry Key Events 2020 – 2025",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-11-three-applications-deep-learning-and-computer-vision-can-improve.md",
+      "title": "Three applications deep learning and computer vision can improve",
+      "excerpt": "You’ve probably heard about deep learning and computer vision and you’re likely aware that they have something to do with artificial intelligence. If you’re like most people, you’re not quite sure what that means. Are there practical uses for deep ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.controleng.com/articles/three-applications-that-improve-with-deep-learning-and-computer-vision/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-11T00:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Control Engineering",
+        "domain": "controleng.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.controleng.com/wp-content/uploads/sites/2/2020/03/ctlx_icon_MachineVision_Slider_01-3-3.jpg",
+          "width": 485,
+          "height": 260,
+          "title": "Three applications deep learning and computer vision can improve",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-11-forwardx-debuts-computer-vision-amr-fleet.md",
       "title": "ForwardX debuts computer vision AMR fleet",
       "excerpt": "Nicholas Temple, VP of sales for ForwardX, illustrates how the company’s computer vision-based AMRs use AI and deep learning to extract insights from camera inputs. ForwardX Robotics (Booth 1207) recently launched in the Americas what it claims is the world’s only computer vision-based AMR fleet, which has already been installed in ...",
@@ -1077,88 +1151,6 @@
         "AI",
         "Computer Vision",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-02-26-tempo-is-a-smart-home-gym-that-uses-computer-vision-to-track-your-form-in-real-time.md",
-      "title": "Tempo is a smart home gym that uses computer vision to track your form in real time",
-      "excerpt": "The computer vision also helps to count those reps and shows on-screen how many you’ve done. Tempo costs $1,995 plus a $39 monthly subscription As with most other smart fitness equipment, Tempo does come with a monthly content subscription fee of $39 on top of the equipment price of $1,995 plus tax and shipping / installation. At this time ...",
-      "heat": 93,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.theverge.com/2020/2/26/21154185/tempo-smart-home-gym-kinect-computer-vision-ai-form-correction",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/2/26/21154185/tempo-smart-home-gym-kinect-computer-vision-ai-form-correction",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/2/26/21154185/tempo-smart-home-gym-kinect-computer-vision-ai-form-correction",
-      "publishedDateTime": "2020-02-26T07:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/qh0YjAia5cjQAYRLa7AG7RV_kGQ=/0x0:2400x1600/1400x933/filters:focal(1008x608:1392x992):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66377186/02_Tempo_Bedroom.0.png",
-          "width": 1400,
-          "height": 933,
-          "title": "Tempo is a smart home gym that uses computer vision to track your form in real time",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-02-26-chinese-facial-recognition-can-now-identify-people-wearing-masks.md",
-      "title": "Chinese facial recognition can now identify people wearing masks",
-      "excerpt": "Chinese companies specialising in facial recognition have upgraded the technology to identify people wearing masks in the wake of the coronavirus outbreak. China's AI champion SenseTime, the most valuable AI startup in the world, is one of several firms ...",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-8046325/Chinese-facial-recognition-identify-people-wearing-masks.html",
-      "ampWebUrl": "https://www.dailymail.co.uk/sciencetech/article-8046325/amp/Chinese-facial-recognition-identify-people-wearing-masks.html",
-      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-8046325/amp/Chinese-facial-recognition-identify-people-wearing-masks.html",
-      "publishedDateTime": "2020-02-26T03:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mail Online",
-        "domain": "dailymail.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.dailymail.co.uk/1s/2020/02/26/11/25217416-0-image-a-20_1582715621043.jpg",
-          "width": 636,
-          "height": 382,
-          "title": "Chinese facial recognition can now identify people wearing masks",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

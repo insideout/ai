@@ -8,8 +8,8 @@ ampWebUrl: "https://venturebeat.com/2020/04/29/facebook-open-sources-blender-a-c
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/29/facebook-open-sources-blender-a-chatbot-that-people-say-feels-more-human/amp/"
 type: article
 quality: 74
-heat: 84
-published: true
+heat: -1
+published: false
 
 provider:
   name: VentureBeat
@@ -30,6 +30,21 @@ images:
     title: "Facebook open-sources Blender, a chatbot people say ‘feels more human’"
 
 related:
+  - title: "Facebook’s teaching AI to lie like a human"
+    excerpt: "Because, essentially, what Facebook‘s done is taught Blender’s chatbots to lie moderately better than everyone else’s. Today we’re announcing that Facebook AI has built and open-sourced Blender, the largest-ever open-domain chatbot."
+    publishedDateTime: 2020-04-29T20:08:00Z
+    webUrl: "https://thenextweb.com/neural/2020/04/29/facebooks-teaching-ai-to-lie-like-a-human/"
+    ampWebUrl: "https://thenextweb.com/neural/2020/04/29/facebooks-teaching-ai-to-lie-like-a-human/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/04/29/facebooks-teaching-ai-to-lie-like-a-human/amp/"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 89
+    images:
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/03/robotpresident-796x417.jpg"
+        width: 796
+        height: 417
   - title: "Facebook says its Blender chatbot 'feels more human'"
     excerpt: "Facebook's new open-source chatbot blends personality, knowledge and empathy with the goal of being more humanlike."
     publishedDateTime: 2020-04-29T16:37:00Z

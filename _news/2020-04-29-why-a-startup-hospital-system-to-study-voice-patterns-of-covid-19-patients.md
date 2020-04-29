@@ -24,6 +24,6 @@ images:
     height: 400
     title: "Why a startup, hospital system to study voice patterns of Covid-19 patients"
 
-secured: "uxLYeZH5gjJNEPquDreV75Wx8oC27JH88bRgocKijFUiV/UCPLeD6AGDcU50HpwXGCjvEwpDb08WVzHaogH3clz6qpt+oknbaMSb86eV4fznYiMLma9jcy6oiRO9t+W/BmSsXKP8yJR/JvY4l0wp0oepPuNGqOLFkqBtOeVA1L5yp4dOOjB8U+tvvX6j7f6ewyI5f9WAyv7X55o/bFjiaZY6QY98a0NLcQ8dc/4g8NpUQKKcYhdW+n5HL6yWFK/29Qkaph+wTSDl/vcDKIo9rIbrgnacan2cfvYYFEheRpiZoBOah1qTfYJ9ajEXJVRd;ceS/K9gRNqf4WUhoHv2+RA=="
+secured: "ATpVDLaMwlKq6bsN9TjQT2/4zUoJTRS1X4tBvHGSolR12Il3EFi48b8J0GQP0Nebn3SO1wzILVQNbfldVT6ya7ElOXtjoXlDN23sq5a+buwqsS+3U2UyPJgCnGfl+l8IKSxMei/Q7WOdw8DPBqp0dxV4HVbftbn7SolrVV5yjqTfQXb0xaVUIr+jXwGNysQrnUwZ7xWDUy8v+zdBZC0sB0CQbZIW0F65OuyKt4wtn1r26gllm+1A1ltxAFfxcMi9oozZjoKZmIrgfF85vUX0Cq9rtGKv3p7q0kBnd1n1Tq06FfdYZ721APuP1QHFPAlTqURYbYAseXKgJe2nacHrghPTbVx/bnJwhcY6Xv+YX8QjdC2OuJ5fM+7foR8MiLR8Sv2J0X7upBnjXxReDGsqPythEMr64kIY95a1mirNbUVs+kFEFXw87w++OdEFDnfEhiF9N/J77+JV6gLSeJDrbX7lRr3O48AqmZ8yUMCWzkY=;IHZ6/ASmjND7PWPKK9DpdA=="
 ---
 

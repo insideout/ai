@@ -2,6 +2,96 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-04-29-would-you-give-up-some-security-if-face-unlock-worked-with-a-face-mask-on.md",
+      "title": "Would you give up some security if face unlock worked with a face mask on?",
+      "excerpt": "It’s the end of April 2020, and we’re all doing our best to adjust to the new normal of social distancing and wearing face masks wherever we go. Companies around the world are pivoting their business models to create face masks for those who need them.",
+      "heat": 72,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.androidauthority.com/smartphone-face-unlock-face-id-masks-coronavirus-1113161/",
+      "ampWebUrl": "https://www.androidauthority.com/smartphone-face-unlock-face-id-masks-coronavirus-1113161/amp/",
+      "cdnAmpWebUrl": "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/smartphone-face-unlock-face-id-masks-coronavirus-1113161/amp/",
+      "publishedDateTime": "2020-04-29T13:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android Authority",
+        "domain": "androidauthority.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn57.androidauthority.net/wp-content/uploads/2020/03/Woman-wearing-facemask-1-920x470.jpg",
+          "width": 920,
+          "height": 470,
+          "title": "Would you give up some security if face unlock worked with a face mask on?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-29-roborock-s6-maxv-robot-vacuum-hands-on-ai-camera-eliminates-pet-poop-disasters.md",
+      "title": "Roborock S6 MaxV robot vacuum hands-on: AI camera eliminates pet poop disasters",
+      "excerpt": "All in all, the Roborock S6 MaxV is a superb high-end robot vacuum with obstacle avoidance and an app that is easy to configure. For $749, it could be the only robot vacuum you will ever need to buy.",
+      "heat": 95,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/product/roborock-s6-maxv-robot-vacuum/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/product/roborock-s6-maxv-robot-vacuum/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/product/roborock-s6-maxv-robot-vacuum/",
+      "publishedDateTime": "2020-04-29T11:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/04/29/c6bf9a20-fbd2-4936-a1ca-bec926067d2e/resize/1200x900/32bb8dd0f8fd50e98ba8b741c9011d30/roborock-s6-maxv-robot-vacuum-eileen-brown-zdnet.png",
+          "width": 1200,
+          "height": 532,
+          "title": "Roborock S6 MaxV robot vacuum hands-on: AI camera eliminates pet poop disasters",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2020-04-29-roborock-s6-maxv-review-the-robot-vacuum-for-pet-owners.md",
       "title": "Roborock S6 MaxV review: The robot vacuum for pet owners",
       "excerpt": "The Roborock S6 MaxV adds dual cameras and a Qualcomm chipset to its tried-and-tested mop and vacuum capabilities.",
@@ -1170,88 +1260,6 @@
           "width": 640,
           "height": 260,
           "title": "Israeli military-grade biometric facial recognition works with face masks",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-10-facial-recognition-guide-from-vpn-compare-presents-incomplete-picture.md",
-      "title": "Facial recognition guide from VPN Compare presents incomplete picture",
-      "excerpt": "As the Electronic Frontier Foundation has said, facial recognition is “one of the most pervasive surveillance technologies” across the globe. Indeed. It is an industry estimated to continued to increase with an expected worth of upwards of $15 billion by 2025. But now comes “the ultimate” handbook: Facial Recognition: An Ultimate Guide ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.biometricupdate.com/202004/facial-recognition-guide-from-vpn-compare-presents-incomplete-picture",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-10T10:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Biometric Companies",
-        "domain": "biometricupdate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/04/13160552/facial-recognition-database.jpg",
-          "width": 640,
-          "height": 260,
-          "title": "Facial recognition guide from VPN Compare presents incomplete picture",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-10-watching-a-computer-identify-objects-in-a-movie-trailer-is-entertaining-as-hell.md",
-      "title": "Watching a Computer Identify Objects in a Movie Trailer Is Entertaining as Hell",
-      "excerpt": "Strangely, it would look a lot like object recognition software. Støj, a Copenhagen coding studio, ran the trailer for The Wolf of Wall Street through an object-detection algorithm that ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://gizmodo.com/watching-an-algorithm-try-to-decode-a-movie-trailer-is-1791288059",
-      "ampWebUrl": "https://gizmodo.com/watching-an-algorithm-try-to-decode-a-movie-trailer-is-1791288059/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/watching-an-algorithm-try-to-decode-a-movie-trailer-is-1791288059/amp",
-      "publishedDateTime": "2020-04-10T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/f_auto/jsggjaht1igdkiauxrc9.jpg",
-          "width": 640,
-          "height": 304,
-          "title": "Watching a Computer Identify Objects in a Movie Trailer Is Entertaining as Hell",
           "attribution": null
         }
       ],

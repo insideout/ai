@@ -5,8 +5,8 @@ excerpt: "A profile of SoftBank founder and Vision Fund key man Masayoshi Son."
 publishedDateTime: 2020-04-28T21:46:00Z
 webUrl: "https://www.businessinsider.com/how-softbank-founder-and-vision-fund-guru-masayoshi-son-lost-his-way-2020-4?utmSource=twitter&utmContent=referral&utmTerm=topbar&referrer=twitter"
 type: article
-quality: 23
-heat: -1
+quality: 45
+heat: 45
 published: false
 
 provider:
@@ -20,6 +20,13 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - AI Hardware
+
+images:
+  - url: "https://i.insider.com/5ea742f75bd7a52d9169c9ab?width=1200&format=jpeg"
+    width: 1200
+    height: 600
+    title: "'Be a good salesman, talk a big future, mention AI, and he will probably give you money': How the Vision Fund lost its way."
 
 related:
   - title: "'Be a good salesman, talk a big future, mention AI, and he will probably give you money': How the $100 billion SoftBank Vision Fund lost its way"
@@ -36,6 +43,6 @@ related:
         width: 1200
         height: 600
 
-secured: "jSd7JRcxlQQE2QxRnXYdVmo7qwpG28suIn+zU+8ax5oVBRySmPUjKBmvu9E82JuT4a7yqGDlTVi75tMBXDUWsNYTrZ/HZyRpQK0jxvGRengBGBvMg+keMgPoNFZum5A2Iy78v9nteAytWpYijo99yCHeMPXeteOU9Z5qyxGV6UGuNb7UueADAKfCfxIZkf4YDq14vwuWiz+ss4IE8c6FbEKI03ySJIwtX2ZvK/n5dw30sXxJUmMRWj4BgVrWDkein2FXm+ZCsPAntbXy1iNXudzy4Q35nGvak/swDh+SPrgD4Lkw9Vc72abN2zVmNFANercDnpGOsOuOhK9rMfeAhZB7KImC6pSrpB21+lzHzqI686yDAcDpe9xH9y4oMO2Mf7nlBI3PCFgMh9OkL/UTgGth6NB0FTJANj3DuV80Wjv2hoWqHelhGCPSC4FS+m/e7Cl1AGU0VoNpdclRqliK/2rF4O/9l/YKbAjssHJZ218=;L9zBounwY1KssL/Nd71kaQ=="
+secured: "lGvKaJ4bh/JLVl3J6BMnbDvKAvxsiKPaaH7SEKmpuvjV8YWSjKBm4CBE5gAIFHjCaX+gyPsbAAWsEY1UNEYnUnoXpStGIjmDATfE2jJTNTDjOG52gxnn7SgmX91M01U7RPNOtlzaxgji2nnt/U1PgMLbOhCUCORaioswIjhBls2LvujlGflqMMEG0Tuj/E09q29XZerBZE++b4JmKVB5/oFrpEuV4hkQXDRQbn7Hg8ua2jyMXQDqfqdWs9O3k40ly7ewPNdu48tLe6l6UWq8EkFkjHyWb6RLRynsh+iK32QtFGUgfEg/XOeRZE3I82Rr;1GFV1O3eR02zQP/hxHTKfQ=="
 ---
 

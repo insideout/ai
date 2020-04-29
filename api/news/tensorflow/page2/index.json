@@ -1,0 +1,52 @@
+{
+  "page": 2,
+  "value": [
+    {
+      "path": "_news/2020-01-02-ai-creativity-will-bloom-in-2020-all-thanks-to-true-web-machine-learning.md",
+      "title": "AI creativity will bloom in 2020, all thanks to true web machine learning",
+      "excerpt": "TensorFlow.js is great new creative tool in the developer's arsenal. Machine learning has been trotted out as a trend to watch for many years now. But there’s good reason to talk about it in the ...",
+      "heat": 88,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/podium/2020/01/02/ai-creativity-will-bloom-in-2020-all-thanks-to-true-web-machine-learning/",
+      "ampWebUrl": "https://thenextweb.com/podium/2020/01/02/ai-creativity-will-bloom-in-2020-all-thanks-to-true-web-machine-learning/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/podium/2020/01/02/ai-creativity-will-bloom-in-2020-all-thanks-to-true-web-machine-learning/amp/",
+      "publishedDateTime": "2020-01-02T00:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2019/12/Untitled-design26-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "AI creativity will bloom in 2020, all thanks to true web machine learning",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI",
+        "TensorFlow"
+      ]
+    }
+  ],
+  "nextPage": null
+}

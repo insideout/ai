@@ -2,6 +2,124 @@
   "page": 120,
   "value": [
     {
+      "path": "_news/2020-01-14-the-case-for-a-light-hand-with-ai-and-a-hard-line-on-china.md",
+      "title": "The Case for a Light Hand With AI and a Hard Line on China",
+      "excerpt": "Last week, at the WIRED HQ at CES, I spoke with Michael Kratsios, the chief technology officer of the United States. We dug into the government’s recent regulatory framework for AI, the potential for an AI cold war with China, and whether or not the NSA is building a quantum computer. The conversation has been lightly edited for clarity.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wired.com/story/light-hand-ai-hard-line-china/",
+      "ampWebUrl": "https://www.wired.com/story/light-hand-ai-hard-line-china/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/light-hand-ai-hard-line-china/amp",
+      "publishedDateTime": "2020-01-14T07:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5e18caa890f5f5000872b7b5/master/pass/Biz-Kratsios-IMG_6970.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": "The Case for a Light Hand With AI and a Hard Line on China",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-01-14-transenterix-wants-to-use-more-ai-in-surgical-robotics-heres-how.md",
+      "title": "TransEnterix wants to use more AI in surgical robotics: Here’s how",
+      "excerpt": "TransEnterix (NYSE:TRXC) has filed a 510(k) submission to add an artificial intelligence feature to its robot-assisted surgery system in ... “I think our hope is that people will start to say this scrappy little company that’s been around for a while and is still fighting— it’s having kind of a Phoenix-like rise with some really ...",
+      "heat": 69,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.massdevice.com/transenterix-wants-to-use-more-ai-in-surgical-robotics-heres-how/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-14T06:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MassDevice",
+        "domain": "massdevice.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://4euxkl47p0vx1fmnm22vvi3p-wpengine.netdna-ssl.com/wp-content/uploads/2019/05/MDO_webAD_5-19_Vs1.jpg",
+          "width": 300,
+          "height": 250,
+          "title": "TransEnterix wants to use more AI in surgical robotics: Here’s how",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-01-14-germanys-bundesliga-to-use-amazon-web-services-artificial-intelligence.md",
+      "title": "Germany's Bundesliga To Use Amazon Web Services' Artificial Intelligence",
+      "excerpt": "In addition, the league will build a cloud-based media archive by using other AWS ML services such as Amazon Rekognition. The media archive will automatically tag specific frames from over 150,000 ...",
+      "heat": 103,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nasdaq.com/articles/germanys-bundesliga-to-use-amazon-web-services-artificial-intelligence-2020-01-14",
+      "ampWebUrl": "https://www.nasdaq.com/articles/germanys-bundesliga-to-use-amazon-web-services-artificial-intelligence-2020-01-14?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/germanys-bundesliga-to-use-amazon-web-services-artificial-intelligence-2020-01-14?amp",
+      "publishedDateTime": "2020-01-14T06:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg",
+          "width": 1024,
+          "height": 512,
+          "title": "Germany's Bundesliga To Use Amazon Web Services' Artificial Intelligence",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-01-14-keyme-plans-to-use-new-35-million-funding-round-to-build-10000-retail-locations.md",
       "title": "KeyMe Plans To Use New $35 Million Funding Round To Build 10,000+ Retail Locations",
       "excerpt": "KeyMe boasts 3,000+ kiosks in retailers like Ikea, Rite Aid and Kroger. With the announcement of a new $35 million funding round led by Brentwood Associates, CEO Greg Marsh has ambitions to go even bigger.",
@@ -923,140 +1041,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-01-13-skyqraft-a-startup-using-ai-and-drones-for-electricity-power-line-inspection-raises-505k.md",
-      "title": "Skyqraft, a startup using AI and drones for electricity power-line inspection, raises $505K",
-      "excerpt": "Skyqraft, a Swedish startup using AI and drones for electricity power-line inspection, has picked up $505,000 in early backing. Leading the round is “startup generator” and investor Antler, with participation from a number of angels, including Claes Ekström and Tomas Kåberger. Founded in March 2019 and launched that September, Skyqraft ...",
-      "heat": 77,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/01/13/skyqraft/",
-      "ampWebUrl": "https://techcrunch.com/2020/01/13/skyqraft/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/13/skyqraft/amp/",
-      "publishedDateTime": "2020-01-13T02:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/01/SkyqraftTeam.jpg?w=1024",
-          "width": 1024,
-          "height": 799,
-          "title": "Skyqraft, a startup using AI and drones for electricity power-line inspection, raises $505K",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-12-brazil-is-emerging-as-a-world-class-ai-innovation-hub.md",
-      "title": "Brazil is emerging as a world-class AI innovation hub",
-      "excerpt": "After the U.S., Brazil has the largest number of social media users on Facebook, Twitter ... and the private sector boosting investment in AI research, that skills gap will begin to close.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/01/12/brazil-is-emerging-as-a-world-class-ai-innovation-hub/",
-      "ampWebUrl": "https://venturebeat.com/2020/01/12/brazil-is-emerging-as-a-world-class-ai-innovation-hub/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/12/brazil-is-emerging-as-a-world-class-ai-innovation-hub/amp/",
-      "publishedDateTime": "2020-01-12T14:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2017/08/untitled-design11.jpg?fit=1200%2C850&strip=all",
-          "width": 1200,
-          "height": 850,
-          "title": "Brazil is emerging as a world-class AI innovation hub",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-12-how-the-police-use-facial-recognition-and-where-it-falls-short.md",
-      "title": "How the Police Use Facial Recognition, and Where It Falls Short",
-      "excerpt": "So investigators turned to one of the oldest and largest facial recognition systems in the country: a statewide program based in Pinellas County, Fla., that began almost 20 years ago, when law ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nytimes.com/2020/01/12/technology/facial-recognition-police.html",
-      "ampWebUrl": "https://www.nytimes.com/2020/01/12/technology/facial-recognition-police.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/01/12/technology/facial-recognition-police.amp.html",
-      "publishedDateTime": "2020-01-12T14:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/01/11/multimedia/11pinellas/00pinellas-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": "How the Police Use Facial Recognition, and Where It Falls Short",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

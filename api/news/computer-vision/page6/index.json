@@ -2,6 +2,88 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-02-26-tempo-is-a-smart-home-gym-that-uses-computer-vision-to-track-your-form-in-real-time.md",
+      "title": "Tempo is a smart home gym that uses computer vision to track your form in real time",
+      "excerpt": "The computer vision also helps to count those reps and shows on-screen how many you’ve done. Tempo costs $1,995 plus a $39 monthly subscription As with most other smart fitness equipment, Tempo does come with a monthly content subscription fee of $39 on top of the equipment price of $1,995 plus tax and shipping / installation. At this time ...",
+      "heat": 93,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.theverge.com/2020/2/26/21154185/tempo-smart-home-gym-kinect-computer-vision-ai-form-correction",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/2/26/21154185/tempo-smart-home-gym-kinect-computer-vision-ai-form-correction",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/2/26/21154185/tempo-smart-home-gym-kinect-computer-vision-ai-form-correction",
+      "publishedDateTime": "2020-02-26T07:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/qh0YjAia5cjQAYRLa7AG7RV_kGQ=/0x0:2400x1600/1400x933/filters:focal(1008x608:1392x992):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66377186/02_Tempo_Bedroom.0.png",
+          "width": 1400,
+          "height": 933,
+          "title": "Tempo is a smart home gym that uses computer vision to track your form in real time",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2020-02-26-chinese-facial-recognition-can-now-identify-people-wearing-masks.md",
+      "title": "Chinese facial recognition can now identify people wearing masks",
+      "excerpt": "Chinese companies specialising in facial recognition have upgraded the technology to identify people wearing masks in the wake of the coronavirus outbreak. China's AI champion SenseTime, the most valuable AI startup in the world, is one of several firms ...",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-8046325/Chinese-facial-recognition-identify-people-wearing-masks.html",
+      "ampWebUrl": "https://www.dailymail.co.uk/sciencetech/article-8046325/amp/Chinese-facial-recognition-identify-people-wearing-masks.html",
+      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-8046325/amp/Chinese-facial-recognition-identify-people-wearing-masks.html",
+      "publishedDateTime": "2020-02-26T03:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mail Online",
+        "domain": "dailymail.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.dailymail.co.uk/1s/2020/02/26/11/25217416-0-image-a-20_1582715621043.jpg",
+          "width": 636,
+          "height": 382,
+          "title": "Chinese facial recognition can now identify people wearing masks",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2020-02-24-met-police-chief-facial-recognition-technology-critics-are-ill-informed.md",
       "title": "Met police chief: facial recognition technology critics are ill-informed",
       "excerpt": "Cressida Dick defends tech after civil liberties groups raise fears over accuracy and privacy",
@@ -1142,96 +1224,6 @@
           "width": 1120,
           "height": 630,
           "title": "What Is Computer Vision?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-02-08-facebook-buys-startup-using-ai-vision-to-find-your-location-updated.md",
-      "title": "Facebook buys startup using AI vision to find your location (updated)",
-      "excerpt": "Facebook might have just acquired a key ingredient for its augmented reality glasses. TechCrunch has discovered a filing indicating that Facebook has bought Scape Technologies, a London-based startup using computer vision to determine your location beyond the capabilities of GPS alone. Its cloud-based \"Visual Positioning Service\" translates ...",
-      "heat": 149,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.engadget.com/2020/02/08/facebook-buys-computer-vision-startup-scape/",
-      "ampWebUrl": "https://www.engadget.com/amp/2020/02/08/facebook-buys-computer-vision-startup-scape/",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/02/08/facebook-buys-computer-vision-startup-scape/",
-      "publishedDateTime": "2020-02-08T09:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D1600%252C1067%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1067%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-uploaded-images%252F2020-02%252F7a46c7b0-4a8b-11ea-bbbf-1c3d171afeaf%26client%3Da1acac3e1b3290917d92%26signature%3D2d974150179ef44b8290709e15088aefd3cda7fc&client=amp-blogside-v2&signature=f00fad49113cfed9099a2e85502dd4e6422c103b",
-          "width": 600,
-          "height": 350,
-          "title": "Facebook buys startup using AI vision to find your location (updated)",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-02-08-computer-vision-in-healthcare-market-to-enjoy-explosive-growth-xilinx-ibm-google.md",
-      "title": "Computer Vision in Healthcare Market to enjoy 'explosive growth' | Xilinx, IBM, Google",
-      "excerpt": "An extensive elaboration of the Global Computer Vision in Healthcare market strategy of the industry players in the precision of import/export consumption, supply and demand. The study starts with an introduction about the company/manufacturers profiling stating strategic concept behind business using methods to assess and analyze market.",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-in-healthcare-market-to-enjoy-explosive-growth-xilinx-ibm-google-2020-02-08",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-07T23:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Computer Vision in Healthcare Market to enjoy 'explosive growth' | Xilinx, IBM, Google",
           "attribution": null
         }
       ],

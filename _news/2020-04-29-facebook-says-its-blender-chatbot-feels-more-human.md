@@ -30,6 +30,21 @@ images:
     title: "Facebook says its Blender chatbot 'feels more human'"
 
 related:
+  - title: "Facebook’s teaching AI to lie like a human"
+    excerpt: "Because, essentially, what Facebook‘s done is taught Blender’s chatbots to lie moderately better than everyone else’s. Today we’re announcing that Facebook AI has built and open-sourced Blender, the largest-ever open-domain chatbot."
+    publishedDateTime: 2020-04-29T20:08:00Z
+    webUrl: "https://thenextweb.com/neural/2020/04/29/facebooks-teaching-ai-to-lie-like-a-human/"
+    ampWebUrl: "https://thenextweb.com/neural/2020/04/29/facebooks-teaching-ai-to-lie-like-a-human/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/04/29/facebooks-teaching-ai-to-lie-like-a-human/amp/"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 89
+    images:
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/03/robotpresident-796x417.jpg"
+        width: 796
+        height: 417
   - title: "Facebook open-sources Blender, a chatbot people say ‘feels more human’"
     excerpt: "Facebook's open source Blender chatbot framework achieved state-of-the-art results compared with Google's latest Meena model."
     publishedDateTime: 2020-04-29T15:03:00Z

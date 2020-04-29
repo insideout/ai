@@ -23,6 +23,6 @@ images:
     height: 368
     title: "Confidence, scope, scalability challenge military AI"
 
-secured: "cqM7tqV8UO1TTlB3k6mDrWBb6FEpBfl6mPBcfIXMcc4mwSQYc/tP3JkEQ1oHfd/oXpHVDH+JDs/htOorlmaLvPEiOtE/fy9TEr6+xQBxGB5VTxYPUie+OpNaa1TqQsbmKBBcW5fIwfdliHULjw410CDzS0Dh1IzLkDVyy3JGS//xihebU/pXA2MtWH5MLI7t6aNYS1n2ZrHu91XGC05UIMsU1GZLLjpbYnLcWXQXJXumc/PImzswvjbtIiN6JC5RWvq0VOfI/IT9K2DwrHNp4TZLWaBoMyAtlwWxJHD5klTH+Cs3vfz/wm5miSEJYuwt;ivLoF23w0UPbu41sKHjB0w=="
+secured: "IRm+tQVXkatgvh3gvMFPMGcrwBH2lLdysHpzEYknRxELcaAckCefHo/3uFIRyCd0JA1pXTUNrU54r0kw3sDmXQ0BINpDqR/hvAtQ/Wr0EFweNkL+LjoEzvtqQfOGWDyjStloQxON59+Uv9xFTEci7mUWr2j1sTf+GM+XLN5SN/gs8GJMvJeLdbG8ckzj0/VpHMHNa9lc+LGcLiDMG7VhbxYSMewm2FavxH+9NtZ8CZP1SjsPvnIFYKDL9snQUWlAnq4LE0x5Xh0f7E20B68d6ejtQgRyEU7DfMMLtLfVWuPNEoez4wH2UQwOhbz4nQA9pTAesr+A6EmFpyhqJvdietOAyuL+gzjgkEjqgOxRfH5RJ6EnvUz1tgpAtdPlKDLOVwQ7zB/K1w8M3Nl5Tizi/vSOq237l9ZszvkhfDDaqQcW7sJbRop2/W2aLGsBpddngQft4uxhj5X+J18XVUuxtU9n24ET0AK+5/hR2Lg/RKw=;aeoB1kMcJfvBwukQ2O17lQ=="
 ---
 

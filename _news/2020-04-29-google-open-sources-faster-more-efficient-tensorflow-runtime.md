@@ -7,8 +7,8 @@ webUrl: "https://venturebeat.com/2020/04/29/google-open-sources-faster-more-effi
 ampWebUrl: "https://venturebeat.com/2020/04/29/google-open-sources-faster-more-efficient-tensorflow-runtime/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/29/google-open-sources-faster-more-efficient-tensorflow-runtime/amp/"
 type: article
-quality: 89
-heat: 89
+quality: 106
+heat: 106
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 topics:
   - Google AI
   - AI
+  - TensorFlow
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2019/06/tensorflow.jpg?fit=1200%2C600&strip=all"
@@ -29,6 +30,6 @@ images:
     height: 600
     title: "Google open-sources faster, more efficient TensorFlow runtime"
 
-secured: "HmaBiXZZWzRW/idV0mNqLwjWNI2Fj6S/uQB9Fbkq3JDGXnWDnD3m/Awj79WpUEvhIMrEc7R8fiPMu1+dXBXuCtqFcbp1pIfo/aL/J9aZH+o/eZR3SI+AM2U6uY85nYF4Ztk+YV7Si6hGeVnIgRtpKGmMh5locHeDIuZIzzCNZfXD8MWW6Ev8AZ6iej3CBodvRu+1n13wfMYfKcqv5NgRjlg+UVcrt86NBoz8D4YWh/57nq8K9hrCoTuNdhlAh3wBNGLJuBKliF77fBYNYxN3obRpsa0oRlzM7Y/+3z57FgLLaS9DjrqH8CrA4o9XX5Xe;rvcEfEQ0et05WyMuEbZo3g=="
+secured: "TLuV/q++fWqLlSHGe52wf4/hzMTyxzUaxlaUkDi9eofraAIgDJlQKD5ZQ+SBvVuSvzKUerGvb0i4+780UQ7iuKoAxEYunO8jYaAvl7NZZIWDioiKewGz45Ghplvsp6LDibtXXmoA0j0h7LL0NvdxQfYEr7Q4TaY+YDo8dFC5QVOrkzA34tkybhqudmXYQs+WuY86ajQFpDeHcRlWxQ+RbRfGrkTpyncrMw5U1+THhb23YYl06W2nkJJ+NFXCxHCF9uEuL+x1FbjwW8hSNezuJ9GH3WGKxsmkMjQ7ZwRHVt9vSQa7dJZtsagMiAsNVXe6qvBpfX8/+p5uOLSfR9yKmbIeTwrAmZuPA8NrOPRPvcwYV0yH+veJHskK08HLz1eGKY2KZRspzqU/VZcvGi5nVEgxQO/q7pBoTWMjSBz34PJSyc1sxZDRBb+kpxr63OAbMgxfqj7J4c9N+f0CuFCl2sfiCoi+D3GtsY6V2gwMksg=;iU3HApEVbknp5jzBz3YYbA=="
 ---
 

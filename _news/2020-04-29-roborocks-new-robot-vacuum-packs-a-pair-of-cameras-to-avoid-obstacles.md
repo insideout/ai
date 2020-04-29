@@ -8,8 +8,8 @@ ampWebUrl: "https://www.digitaltrends.com/home/roborock-s6-maxv-robot-vacuum-new
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/home/roborock-s6-maxv-robot-vacuum-news-release-price/?amp"
 type: article
 quality: 84
-heat: 94
-published: true
+heat: -1
+published: false
 
 provider:
   name: Digital Trends
@@ -34,7 +34,7 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 83
+    quality: 85
     images:
       - url: "https://zdnet4.cbsistatic.com/hub/i/r/2020/04/29/c6bf9a20-fbd2-4936-a1ca-bec926067d2e/resize/1200x900/32bb8dd0f8fd50e98ba8b741c9011d30/roborock-s6-maxv-robot-vacuum-eileen-brown-zdnet.png"
         width: 1200
