@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/04/27/codota-raises-12-million-for-ai-t
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/27/codota-raises-12-million-for-ai-that-suggests-and-autocompletes-code/amp/"
 type: article
 quality: 87
-heat: 98
+heat: 97
 published: true
 
 provider:

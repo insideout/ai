@@ -5,8 +5,8 @@ excerpt: "Imec, the research and innovation hub, has unveiled the world’s firs
 publishedDateTime: 2020-04-28T16:23:00Z
 webUrl: "https://www.newelectronics.co.uk/electronics-news/first-spiking-neural-network-based-chip-for-radar-signal-processing/226526/"
 type: article
-quality: 39
-heat: 39
+quality: 56
+heat: 66
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI Hardware
 
 images:
   - url: "https://www.newelectronics.co.uk/article-images/226526/imec.jpg?width=375&height=250&scale=canvas"
@@ -27,7 +28,7 @@ related:
   - title: "Imec Builds World’s First Spiking Neural Network-Based Chip for Radar Signal Processing"
     excerpt: "Imec, a world-leading research and innovation hub in nanoelectronics and digital technologies, today presents the world’s first chip that processes radar signals using a spiking recurrent neural network."
     publishedDateTime: 2020-04-28T19:00:00Z
-    webUrl: "https://www.newswiretoday.com/news/172799/Imec-Builds-Worlds-First-Spiking-Neural-Network-Based-Chip-for-Radar-Signal-Processing/"
+    webUrl: "https://www.newswiretoday.com/news/172799/"
     type: article
     provider:
       name: Newswire Today

@@ -5,8 +5,8 @@ excerpt: "The Artificial intelligence in the healthcare market dynamics, forces,
 publishedDateTime: 2020-04-28T21:12:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-progressing-at-a-cagr-of-4048-during-the-forecast-period-2020-2027-2020-04-28"
 type: article
-quality: 75
-heat: 85
+quality: 77
+heat: 87
 published: true
 
 provider:
@@ -20,6 +20,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
@@ -36,7 +37,7 @@ related:
     provider:
       name: Business Wire
       domain: businesswire.com
-    quality: 7
+    quality: 9
     images:
       - url: "https://mms.businesswire.com/media/20200428005405/en/371054/23/ResearchAndMarkets_800px.jpg"
         width: 1200

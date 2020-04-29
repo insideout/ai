@@ -8,7 +8,7 @@ ampWebUrl: "https://thenextweb.com/neural/2020/04/27/researchers-claim-this-ai-m
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/04/27/researchers-claim-this-ai-model-achieves-better-compression-rates-than-pngs/amp/"
 type: article
 quality: 85
-heat: 87
+heat: 85
 published: true
 
 provider:

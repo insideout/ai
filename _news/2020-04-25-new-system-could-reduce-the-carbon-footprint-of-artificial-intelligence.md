@@ -34,19 +34,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 51
-  - title: "Reducing AI’s carbon footprint"
-    excerpt: "we have to figure out how to shrink AI down to size.” “The model is really compact. I am very excited to see OFA can keep pushing the boundary of efficient deep learning on edge devices,” said Chuang Gan, a researcher at the MIT-IBM Watson AI Lab and co-author of the paper. “If rapid progress in AI is to continue, we need to reduce its ..."
-    publishedDateTime: 2020-04-24T07:03:00Z
-    webUrl: "https://www.controleng.com/articles/reducing-ais-carbon-footprint/"
-    type: article
-    provider:
-      name: Control Engineering
-      domain: controleng.com
-    quality: 39
-    images:
-      - url: "https://www.controleng.com/wp-content/uploads/sites/2/2020/04/CTL2004_WEB_IMG_MIT_EnergyEfficient_AI-Slider.jpg"
-        width: 645
-        height: 350
 
 secured: "UW5XLpsOWbOXg+X3Sofkly0sVMIiyDPuET2kSzIxa4x7lkilmV2PQ8M9kEHxf1arfZmcATD9yn9knZ+DJpjGONDeBVax2A9WkFB9tdJl7bZq9Oh54W3gLc7rhclIa13DAakh0EBtQyhXvVNp9Khc9XsgZ1uNKtGVYOGm8w71yiavXzHeeBix7GOVV+BRRMp/HjqfXGH55x2nX8N+X7fTEK+iYKSOZu4v3JLyKWpOgtSC0owsai6NurcfUH+w0Kzx9RLx/T6sd1wUpbuMNQAXTKQh8mDe3cbG5G+NEC1P/BI+X3fbfusfQ1iz2tTUa1KUpeP/yD29ffUwGce+OFeIyFsDluAiYj+5CHRUlTJU/ruqgzYbEq3bgTCbFdZsEKX/cAYtdG2lP3RKq30FrpW0ffLO0c2Op0yHA5Gebsp3Zok1oaT+XgOqiTOK8bsHLAnnslzdq88x+kUufICDg7sygmYLwKXG1dPdj1e3gBMzu0Y=;CFa/G/XDZbsqEppZSL/kUQ=="
 ---

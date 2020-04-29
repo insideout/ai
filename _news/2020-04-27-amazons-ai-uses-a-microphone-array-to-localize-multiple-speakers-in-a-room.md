@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/04/27/amazons-ai-uses-a-microphone-arra
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/27/amazons-ai-uses-a-microphone-array-to-localize-multiple-speakers-in-a-room/amp/"
 type: article
 quality: 85
-heat: 86
+heat: 85
 published: true
 
 provider:
