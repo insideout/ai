@@ -6,7 +6,7 @@ publishedDateTime: 2020-04-29T17:39:00Z
 webUrl: "https://sdtimes.com/ai/ibm-announces-elyra-extension-for-jupyter-notebooks/"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -27,6 +27,21 @@ images:
     height: 876
     title: "IBM announces Elyra extension for Jupyter Notebooks"
 
-secured: "U4rfPdUrObfa9UugK09dZeq9YV0SWEtOJ7bqXRr6ZPNbGAntbj3E4pDYAHCEYO4oeu0E4BG8sI1Ck54kArDl+ZTkkRQOT22y7xNosctuOvHA2fnNPV/tATBNw4fZQPthhQKUfXyaGclLCvZGjuXUgWy+qaol3P0BjRSTiwWcHM5aJsX61dknzolGFlYmC2Fqy1I78pw/KVjnql3sObazd43vjrkxYllgHy6g3IqUI44ZTJdZrPcFBdeA7TEAH96p96Zu5+057MrL/+/m+M7QZ0MFuIQOih112qSSp0Q3CR/wWa/aAZCquLXRkj9XQGgu;Zd8TUmNebOnZT4fUXak0FA=="
+related:
+  - title: "Microsoft Open Sources Java Language Extension for SQL Server"
+    excerpt: "Microsoft has open sourced the Java language extension it added to SQL Server 2019 last year. Language extensions are used in SQL Server to allow users to execute code externally for queries. The extensions leverage the Extensibility Framework API to communicate and exchange data with SQL Server."
+    publishedDateTime: 2020-04-29T19:28:00Z
+    webUrl: "https://adtmag.com/articles/2020/04/29/java-language-extension-for-sql.aspx"
+    type: article
+    provider:
+      name: adtmag.com
+      domain: adtmag.com
+    quality: 24
+    images:
+      - url: "https://adtmag.com/-/media/ECG/visualstudiomagazine/Images/IntroImages2016/0216vsm_pvogelPnetShortB.jpg"
+        width: 647
+        height: 450
+
+secured: "91KIBjmxyOVFYiDQVED2ZZtXQiwXalKYXJblOGhzXxpXt39pPXZR8OmvkPs77Kk9MTAtzdzK/PgK5pASaXBsiv0MwB4cc71RkcZmTKqSdl2TJPGMVkkA5Q2O+sKwGqdIKQbKt/N0GHBUBZeE6mkkgX0h1GTU5iMdoL9MNv8nk1LfudIGn01WpScgpSMwe7ha4+6jguBgP7lCRan8+U/oFdOEhFfwBIc0aLZxjQLLGwHk7arqu+NJExxvQBpHh2YcDkbJSeF76K7v8urCKhVOorwBJp48qv5n4aG4pXTSehwu3zZLc0MdJE5s8m1909UWi1HXiN6m7FtUQhKOgQ/q0VIai/4oTizuDIcBMOvKJHlhf9EvyG8ThJ7InQ4ImTGmQRz/85EEhNdWOudVT5zLstpL30nMH/a0HpxDRi+Z2STuiJXhhfUloI3Ckt6W5I9vl5CUXufAbFkPkdvBrT4bMC7b8Qp2OuZw3+M7GctEuWU=;blphXaueHmOl/D/RoJBDKQ=="
 ---
 

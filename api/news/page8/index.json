@@ -2,6 +2,132 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-04-22-granulate-raises-12-million-to-optimize-server-performance-with-ai.md",
+      "title": "Granulate raises $12 million to optimize server performance with AI",
+      "excerpt": "Applying AI to data center operations isn’t a new idea — IDC predicts that 50% of IT assets ... (Granulate has 14 employees, and it expects to triple its headcount to roughly 40 by 2021.) Sign up for Funding Weekly to start your week with VB's top funding stories.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/22/granulate-raises-12-million-to-optimize-server-performance-with-ai/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/22/granulate-raises-12-million-to-optimize-server-performance-with-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/22/granulate-raises-12-million-to-optimize-server-performance-with-ai/amp/",
+      "publishedDateTime": "2020-04-22T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2014/10/hp-servers-e1586902722207.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Granulate raises $12 million to optimize server performance with AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-22-optimizing-hardware-infrastructure-with-data-and-ai-granulate-scores-12-million-series-a-funding.md",
+      "title": "Optimizing hardware infrastructure with data and AI: Granulate scores $12 million Series A funding",
+      "excerpt": "Ezra and his co-founder, Tal Saiag, have a story shared by many Israeli startup founders. They met over a decade ago, and served together in one of Israel's top technological intelligence units. Ezra said that besides the fact that this enabled them to hone their problem solving and initiative taking skills, it also had some technical ...",
+      "heat": 73,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/optimizing-hardware-infrastructure-with-data-and-ai-granulate-scores-12-million-series-a-funding/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/optimizing-hardware-infrastructure-with-data-and-ai-granulate-scores-12-million-series-a-funding/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/optimizing-hardware-infrastructure-with-data-and-ai-granulate-scores-12-million-series-a-funding/",
+      "publishedDateTime": "2020-04-22T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/2020/04/22/75d52d79-fe77-48d3-b2aa-5b33a032fa72/granulate-io.jpg",
+          "width": 595,
+          "height": 418,
+          "title": "Optimizing hardware infrastructure with data and AI: Granulate scores $12 million Series A funding",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-22-auditoriaai-raises-6-million-and-introduces-smartflow-skills-to-power-the-self-driving-finance-back-office.md",
+      "title": "Auditoria.AI Raises $6 Million and Introduces SmartFlow Skills to Power the \"Self-Driving\" Finance Back Office",
+      "excerpt": "SANTA CLARA, Calif., April 22, 2020 /PRNewswire/ -- today announced SmartFlow Skills, a groundbreaking new SaaS solution that addresses the most pressing challenges of the enterprise finance back office.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/auditoria-ai-raises-6-million-and-introduces-smartflow-skills-to-power-the-self-driving-finance/article_2a4185c6-6b31-5968-b616-a1b081e1a222.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-22T06:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Auditoria.AI Raises $6 Million and Introduces SmartFlow Skills to Power the \"Self-Driving\" Finance Back Office",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-22-comet-ai-nabs-45m-for-more-efficient-machine-learning-model-management.md",
       "title": "Comet AI nabs $4.5M for more efficient machine learning model management",
       "excerpt": "To that end, Comet AI announced a $4.5 million investment today as it tries to build a more efficient machine learning platform. The money came from existing investors Trilogy Equity Partners, Two Sigma Ventures and Founder’s Co-op. Today’s investment comes on top of an earlier $2.3 million seed. “We provide a self-hosted and cloud-based ...",
@@ -964,132 +1090,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-21-low-trust-versus-high-trust-beliefs-will-impact-the-growth-of-ai-including-for-self-driving-cars.md",
-      "title": "Low-Trust Versus High-Trust Beliefs Will Impact The Growth Of AI, Including For Self-Driving Cars",
-      "excerpt": "To make things parsimonious, there are two overarching categories conventionally used when discussing trust levels, namely a citizenry of little or no trust, known as a low-trust nation or locale, versus being characterized as a high-trust nation or locale,",
-      "heat": 76,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/04/21/low-trust-versus-high-trust-beliefs-will-impact-the-growth-of-ai-including-for-self-driving-cars/",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/04/21/low-trust-versus-high-trust-beliefs-will-impact-the-growth-of-ai-including-for-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/04/21/low-trust-versus-high-trust-beliefs-will-impact-the-growth-of-ai-including-for-self-driving-cars/amp/",
-      "publishedDateTime": "2020-04-21T09:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F182201783%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5600%26cropY1%3D419%26cropY2%3D3567",
-          "width": 1200,
-          "height": 675,
-          "title": "Low-Trust Versus High-Trust Beliefs Will Impact The Growth Of AI, Including For Self-Driving Cars",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-21-ai-indicates-which-symptoms-might-be-leading-indicators-of-covid-19.md",
-      "title": "AI indicates which symptoms might be leading indicators of COVID-19",
-      "excerpt": "In a preprint paper published this week on Arxiv.org, a team of researchers from the Mayo Clinic and Nference, a startup developing tech that analyzes text from biomedical publications, report that they’ve used AI to isolate phenotypes characteristic of the coronavirus. They claim that a specific combination of cough and diarrhea, along with ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/21/ai-indicates-which-symptoms-might-be-leading-indicators-of-covid-19/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/21/ai-indicates-which-symptoms-might-be-leading-indicators-of-covid-19/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/21/ai-indicates-which-symptoms-might-be-leading-indicators-of-covid-19/amp/",
-      "publishedDateTime": "2020-04-21T09:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2016/05/diagnosis-e1585691897976.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "AI indicates which symptoms might be leading indicators of COVID-19",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-21-new-weka-ai-framework-to-accelerate-edge-to-core-to-cloud-data-pipelines.md",
-      "title": "New Weka AI framework to accelerate Edge to Core to Cloud Data Pipelines",
-      "excerpt": "WekaIO introduced Weka AI, a transformative storage solution framework underpinned by the Weka File System (WekaFS) that enables accelerated edge-to-core-to-cloud data pipelines. Weka AI is a framework of customizable reference architectures (RAs) and software development kits (SDKs) with leading technology alliances like NVIDIA,",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://insidehpc.com/2020/04/new-weka-ai-to-accelerate-edge-to-core-to-cloud-data-pipelines/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-21T08:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "insideHPC",
-        "domain": "insidehpc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://insidehpc.com/wp-content/uploads/2017/07/wekaio.jpg",
-          "width": 300,
-          "height": 300,
-          "title": "New Weka AI framework to accelerate Edge to Core to Cloud Data Pipelines",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

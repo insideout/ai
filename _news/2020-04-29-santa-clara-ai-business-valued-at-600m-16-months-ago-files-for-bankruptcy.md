@@ -24,6 +24,6 @@ images:
     height: 400
     title: "Santa Clara AI business, valued at $600M 16 months ago, files for bankruptcy"
 
-secured: "quSm9Sn+mD23sUCAulVDgTLljAvPd3ecptkw0gMAxcLqvoRXpfusKvks4OwYwzM1s8IeXZh8kpUqMH6fD/nPQRHRbNNaCRVlMKvWpwFRvNxQI12m7stJ+01+CSEzoZQ/g0yE4+11YMSjCXQBJ8zJbOSC+ds8MKG1llh8k54P1rz1vzOqsUroELrwzfT8SJsFKZD61a8vGwc+1Yti7b3BQHxD19RYTimvvnbjHpJZKhp9zKRJgFZ2KLM/TbKRXYooJXv+nKCte8LycW3N10gBYEnY42LJo8ceUUboNOAgteaEzWiaEJQYSiE3ZCEv2Yof;1OCpnDDVe78ExXs7yxVCKQ=="
+secured: "+9L+Caxv9ga3EomlLCZkXH/Lwtzhh5BEHVP0lfndXp5MtiP7ICUo/O92lsufJddr9O+DN2qUVUalVDogVcRhx4873/05YbthZ/V2KrwG1pqguEMfP0aUzbVU40CKhMnODk3YVlTQZNP2OYIbvqPAYl+pCXeqkpQjcyfl/uYy/ax/APyRFtIcSqAtCrYvzjAmxF/lXr+BFATRlewkExDFaEvGRzJIWLSBKPQleYBAO8NMHhNWl1dFv53xmd4+TXUIIlo0kXsfhGVtJbLSOP0wd/6sjQcC2EoU4Wagf65NjNngaM4ZNOaiMCBptNdzs2jpONIXdzBPXgZHOn3vMjfc2/N9RwXoxbxezUj2TdWtHNiYJ+fGTNkHFMz+qqdwm5ah1ctX7p27dHChkxoLg24bEHrWCGmES5gEDyBXgkQ5n8z9wbD5dAR7HQmei/yVFVClQGHNH5QrpMhD3r/rvA93guziN1ux6rctJ2xQ1P7br2I=;i0hLCAATM0CllH3kmz5QBg=="
 ---
 

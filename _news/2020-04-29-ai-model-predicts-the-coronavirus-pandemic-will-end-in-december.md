@@ -28,6 +28,6 @@ images:
     height: 417
     title: "AI model predicts the coronavirus pandemic will end in December"
 
-secured: "FyPfIi4FzxUdmKQdZVekwfOnKkBhXgVMPjq9TgiP2o5pfH1siewYJdNXpOxXD6gE8tOgsicwJm5Z/NKizbdYlSDB8zTX9VsIW20iDjVL32+pYEfLzrt0L6lHOU1lZihog3hKLTuMvIEYxpAcNrZYT9yZXbxEwyp/XT7ZqXV0W19+e94Zce+dp4LytmG/45uQ+Z8gw/4m5kwI0pTt82XaFGFB+afwgV0wDz4B1hZZfe73tBYbUD7b7QfiqBBARH7xZkNGohzTQ62o5pQBJbAza/baJd1wz7zJ78owxNiZB36+JzWew7qj2tceCExLiewR;Hei2h339xxtTgK2lBXVxSQ=="
+secured: "jPqpL1P+o2eFhRtAh+KKwhkSIU1oB4175RD370MFKHlEB3Y8Z+x5Xr8D6VZt+YsuE4sqfcNCrrV4Ny/3hmO27bqHCOncoN/xk/wxtUjEOCTqPC/vkRf2NF4x7N0wzKqyCzx8/iapCkqCArgLwUJf8bApCadGNz4Q/EGHWek/9RnUK1GnIIzgcof3B+zo7JVUYaiHQP2fe+EpGsGI/aCWwiC6eR5bamLhKf+4BFQi5ji62EwAzIZU/M2NCsrvO7in/bB1J/pPebBSKMYgol5WKdJq+aF4MIYIuqTJtzhyF+MxB/e9HhwNFF390dmP4tUBDUxLX7e4oHxSU76CPkNFSnTfGsj8YcjhF+DdFpxgg4c5FHYHtuZ0GzAcb0qobPUU3sEgiOCn5Xi0Lg4yXRkacGD6/2fUquofIvWkOlJEdQKtn4cVY9DugkyQZHPDe8LmIARijJWJRSXZmd1hB9KKUr72ipSo/Sb8DCWjT2XCTOA=;kee38/o5pdNeantJaIbbag=="
 ---
 

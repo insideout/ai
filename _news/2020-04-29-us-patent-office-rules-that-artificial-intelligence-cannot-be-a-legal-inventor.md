@@ -47,7 +47,7 @@ related:
   - title: "AI cannot be recognised as an inventor, US rules"
     excerpt: "The US Patent and Trademark Office rejected two patents where the AI system Dabus was listed as the inventor, in a ruling on Monday. US patent law had previously only specified eligible inventors had to be \"individuals\"."
     publishedDateTime: 2020-04-29T12:40:00Z
-    webUrl: "https://www.bbc.com/news/technology-52474250"
+    webUrl: "https://www.bbc.com/news/technology-52474250?at_custom4=242894B0-8A16-11EA-9319-4EA54744363C&at_custom1=%5Bpost+type%5D&at_campaign=64&at_custom2=twitter&at_medium=custom7"
     ampWebUrl: "https://www.bbc.co.uk/news/amp/technology-52474250"
     cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/technology-52474250"
     type: article
@@ -73,6 +73,6 @@ related:
         width: 1200
         height: 1400
 
-secured: "lseUCT6fWAnqbmbo6pSfuGE3fOuZmhpUoSneKbKO4e5FIcHV1pXx3+Xq07Pdz6WpXCWa2a8M8hfYoUjoW3TuBNy3LTQMmflaEwkqUrPOUerfcOS+l6ObQUgz2fG3J+ho6vNngsukA8pNz+LMWWZe7oPGimxqPykb7r1lnDYaSzEIpuasPf8LOevHTSnUlR5r+S3PXY+iIKVhc6Hbq4/5A+6Nlcq68hKO204mD1egBI10HVuNRKOw6NEXP+LrLLt7nW029UfRbesT7ywAo5iOJHqnFQM4LJc3KYBAA1lFlaUSBThFWvcmY+SyRAwpL0qQ;jQFGOwsQacMQLpulD65M9A=="
+secured: "Y1wvg9thpdTnfoZAWnCY5JbHRm7TOgq3HFk2S+8NaskfT0TQ0qgkhi8MnKhE2eoVNvgXBKpiX64GoH0x5MtSg6rxKaNEjTRJc0bE+zTCnLYEPZYfMtsYPzwlbBNKekYcECmlluBnQnE6uKX8jcNWX4Ja3PIr/R7aMuLXgQP6eqSMaXUAzyuitB9a0ByXm/gBPk9ZkZZKYmP6pntjHjxmx5kO4jEBgqEuiwJeRbibqchQngsfTqUxphN9zKRRYZb0UtMNAcRk8dFErDv7j6tJ4QrX3QV/qsi05s5mVfbjSO3ZzAPp98q3YgXbac7m8kqyXwJXPwFYP9Qd5qMZOYDWwAgDSiqjKixkq81FiuokejJvweFRlrQDynb9rXJJ5zJi5xRiIIMDLd8M/a2UPdzEqVv27e9HtuEZo3h1tsQ6ie8z2CKu2dggEwpYuuwU9cThtKSIpSwCzJt7XMU3hrvRaYYmhFW1WjpoTBmcro5VWVQ=;tEzTRGF/Unp+9K6VIaPREg=="
 ---
 

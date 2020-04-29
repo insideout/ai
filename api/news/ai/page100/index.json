@@ -2,6 +2,131 @@
   "page": 100,
   "value": [
     {
+      "path": "_news/2020-01-14-germanys-bundesliga-to-use-amazon-web-services-artificial-intelligence.md",
+      "title": "Germany's Bundesliga To Use Amazon Web Services' Artificial Intelligence",
+      "excerpt": "In addition, the league will build a cloud-based media archive by using other AWS ML services such as Amazon Rekognition. The media archive will automatically tag specific frames from over 150,000 ...",
+      "heat": 103,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nasdaq.com/articles/germanys-bundesliga-to-use-amazon-web-services-artificial-intelligence-2020-01-14",
+      "ampWebUrl": "https://www.nasdaq.com/articles/germanys-bundesliga-to-use-amazon-web-services-artificial-intelligence-2020-01-14?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/germanys-bundesliga-to-use-amazon-web-services-artificial-intelligence-2020-01-14?amp",
+      "publishedDateTime": "2020-01-14T06:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg",
+          "width": 1024,
+          "height": 512,
+          "title": "Germany's Bundesliga To Use Amazon Web Services' Artificial Intelligence",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-01-14-keyme-plans-to-use-new-35-million-funding-round-to-build-10000-retail-locations.md",
+      "title": "KeyMe Plans To Use New $35 Million Funding Round To Build 10,000+ Retail Locations",
+      "excerpt": "KeyMe boasts 3,000+ kiosks in retailers like Ikea, Rite Aid and Kroger. With the announcement of a new $35 million funding round led by Brentwood Associates, CEO Greg Marsh has ambitions to go even bigger.",
+      "heat": 181,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/marleycoyne/2020/01/14/keyme-plans-to-use-new-35-million-funding-round-to-build-10000-retail-locations/",
+      "ampWebUrl": "https://www.forbes.com/sites/marleycoyne/2020/01/14/keyme-plans-to-use-new-35-million-funding-round-to-build-10000-retail-locations/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/marleycoyne/2020/01/14/keyme-plans-to-use-new-35-million-funding-round-to-build-10000-retail-locations/amp/",
+      "publishedDateTime": "2020-01-14T06:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e1cff34da6d38000629847c%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "KeyMe Plans To Use New $35 Million Funding Round To Build 10,000+ Retail Locations",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-01-14-ces-2020-older-adults-embrace-ai-with-transparency.md",
+      "title": "CES 2020: Older adults embrace AI with transparency",
+      "excerpt": "Tonya Hall talks with Kari Olson, chief innovation and technology officer at Front Porch, about how older adults are beginning to understand and embrace AI.",
+      "heat": 67,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/video/ces-2020-older-adults-embrace-ai-with-transparency/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-14T06:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/01/14/8d8ebb00-3f91-4110-adc1-769ce1d616d0/thumbnail/770x578/8cdde30d9fe62b9ee966452220fe3f7f/thumb.jpg",
+          "width": 770,
+          "height": 578,
+          "title": "CES 2020: Older adults embrace AI with transparency",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-01-14-brave-new-world-of-retail-walmarts-robots-are-just-the-beginning.md",
       "title": "Brave New World Of Retail: Walmart’s Robots Are Just The Beginning",
       "excerpt": "The retail industry has decided that robots and other automated inventory systems are better than humans for certain tasks.",
@@ -1142,132 +1267,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-01-12-researchers-are-we-on-the-cusp-of-an-ai-winter.md",
-      "title": "Researchers: Are we on the cusp of an ‘AI winter’?",
-      "excerpt": "some researchers believe it would be wrong to call this new phase an AI winter. Robot Wars judge Noel Sharkey, who is also a professor of AI and robotics at Sheffield University, told the BBC that he likes the term \"AI autumn\" - and several others agree.",
-      "heat": 187,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.bbc.com/news/technology-51064369",
-      "ampWebUrl": "https://www.bbc.com/news/amp/technology-51064369",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-51064369",
-      "publishedDateTime": "2020-01-11T16:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/136BA/production/_110464597_atlas.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": "Researchers: Are we on the cusp of an ‘AI winter’?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-12-capillary-technologies-achieves-aws-retail-competency-status.md",
-      "title": "Capillary Technologies achieves AWS retail competency status",
-      "excerpt": "Boosting Innovation: Capillary has also used Amazon Rekognition to drive an effective customer engagement solution powered by smart IoT sensors deployed in the stores. The technology captures information about visitors such as how much time they spend in a ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zawya.com/mena/en/press-releases/story/Capillary_Technologies_achieves_AWS_retail_competency_status-ZAWYA20200112060923/",
-      "ampWebUrl": "https://www.zawya.com/mena/en/story/amp/ZAWYA20200112060923/",
-      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20200112060923/",
-      "publishedDateTime": "2020-01-11T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.zawya.com/resources/img/zawya-logo-en-social.png",
-          "width": 1200,
-          "height": 878,
-          "title": "Capillary Technologies achieves AWS retail competency status",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-12-self-driving-cars-take-over-ces-heres-how-big-tech-is-playing-the-market.md",
-      "title": "Self-driving cars take over CES: Here's how big tech is playing the market",
-      "excerpt": "Baidu is developing an open source platform that it hopes will become the \"Android\" of self-driving cars, dubbed Apollo. Microsoft joined Baidu's Apollo \"alliance,\" gaining a channel for sales of ...",
-      "heat": 72,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnbc.com/2018/01/12/intel-cisco-and-amazon-introduce-self-driving-car-technology-at-ces.html",
-      "ampWebUrl": "https://www.cnbc.com/amp/2018/01/12/intel-cisco-and-amazon-introduce-self-driving-car-technology-at-ces.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2018/01/12/intel-cisco-and-amazon-introduce-self-driving-car-technology-at-ces.html",
-      "publishedDateTime": "2020-01-11T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/104935725-GettyImages-902802574.jpg?v=1532563703",
-          "width": 2000,
-          "height": 1219,
-          "title": "Self-driving cars take over CES: Here's how big tech is playing the market",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

@@ -25,6 +25,6 @@ images:
     height: 521
     title: "Tesla has a Full Self-Driving subscription feature hidden in its vehicles’ source code"
 
-secured: "PE3B7ACLCxv2VjXTHKnN9y3riHCosXTklHrd/BD7+sgM6B64Drwvp9Xih78KSaaDRsjsz+Re2dpfg06KP1niztPgIhaWIF1zRrHdKIz75L+BkieJB4NfEqPy2cxhA2R1Ax77RwFpgd/fbH/wNN1P9WC+n4A5xDmIetOmeO07ZEuBuz+BjAiE37+1OwV7yCwEthMLzdS5E231x9yLHcXAq+AzzIveLIkMuCiu8a4IFoU8Z4qIbpxd3mXfGNA6uzJwdK9eaHxlsWMSHtEzh/E4YkpJBAG5DU8vS68Yak1jEa6PUjzr1lHw8t5xnLAPZwHn;4h5scz/r/pXIvzb6Lnw0nw=="
+secured: "8D+wIrRSYsUtbvincAdoDoUUpbWUY/wXecn+zMqN4M0PPH4k4nefVQgVKpk3nMj5R91bR3dql6tVql1tlMmkwnyvY9w66OO4yxuDLUOECioU7gdyFwKa3/p61ZIelpwZJRq7l0YUmECWYa89VVWxADuDWAJP2yy7OIy8pjHbzVKCwsyKS/EFJaNuswpPBHnny9KlFauq/h09sDB+OUg3orvA2hxaqIXantph+utBbTfzNTc0P9TtzOAVKNFS15M93sC73UTNNB1FV70K7xTcyY0xCvEkRFjVD/kyy8B6o3+aVV011Z8hQX0F0X2LKOirgaJwCD2vcKuo39pYwvDGO928UPRP2CK+zHkl0kwN+rV/thgDeZ93Yr3Xb0uWUhUQp1eODD/uou67okyYayFCrJKf4gcMsu8uaHKru99zLzTzueNt3JabTaQPEBIl7/cT7rPtuhSe1ML/kpuRivbS6BlQySQxCMg0iImYRveSz14=;gUOjZ5sK/WFtWVZDQQjqfg=="
 ---
 

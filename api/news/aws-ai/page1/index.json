@@ -354,9 +354,9 @@
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://yourstory.com/2020/04/from-mobility-tracking-to-self-assessment-tests-he",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
+      "webUrl": "https://yourstory.com/2020/04/tracking-self-assessment-developers-aws",
+      "ampWebUrl": "https://yourstory.com/2020/04/tracking-self-assessment-developers-aws/amp",
+      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/04/tracking-self-assessment-developers-aws/amp",
       "publishedDateTime": "2020-04-24T03:05:00-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -366,7 +366,15 @@
         "publishers": null,
         "authors": null
       },
-      "images": null,
+      "images": [
+        {
+          "url": "https://images.yourstory.com/cs/2/18d4ab20d08111e99775a119527191d8/AWScovid19-01-1587721821795.png?fm=png&auto=format",
+          "width": 800,
+          "height": 400,
+          "title": "From mobility tracking to self-assessment tests, here’s how these software developers are combating COVID-19 using AWS",
+          "attribution": null
+        }
+      ],
       "locale": "en-us",
       "categories": [
         "news"

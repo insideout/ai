@@ -2,6 +2,117 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2020-04-15-jordan-etem-networks-tackles-global-challenges-head-on-with-a-convergence-of-innovations.md",
+      "title": "Jordan Etem Networks Tackles Global Challenges Head-On with a Convergence of Innovations",
+      "excerpt": "With a strong presence in 23 cities and regions worldwide , Jordan Etem Networks leverages computer science, advanced machine learning and artificial intelligence to unify and strengthen neural networks for breakthrough innovation and stronger communities. Jordan Etem Networks goes beyond theoretical application and has a strong and central ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://menafn.com/1100024597/Jordan-Etem-Networks-Tackles-Global-Challenges-Head-On-with-a-Convergence-of-Innovations",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-14T20:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://menafn.com/updates/pr/2020-04/14/SN_96c6beb6-bimage_story.jpg",
+          "width": 696,
+          "height": 522,
+          "title": "Jordan Etem Networks Tackles Global Challenges Head-On with a Convergence of Innovations",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-15-afp-used-clearview-ai-facial-recognition-software-to-counter-child-exploitation.md",
+      "title": "AFP used Clearview AI facial recognition software to counter child exploitation",
+      "excerpt": "Seven officers have conducted searches on the Clearview AI facial recognition platform. Share. Contact. Read full article: AFP used Clearview AI facial recognition software to cou",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/video/afp-used-clearview-ai-facial-recognition-software-to-counter-child-exploitation/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-14T20:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2020/04/16/43dce3ec-8083-443a-b027-321bdeafee8c/thumbnail/770x578/a5f5db7891dc99aa2234de7b704b2e30/afp-used-clearview-ai-facial-recognition-5e97a875b3157671f8b01e1d-1-apr-16-2020-6-30-34-poster.jpg",
+          "width": 770,
+          "height": 578,
+          "title": "AFP used Clearview AI facial recognition software to counter child exploitation",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-15-behringer-deepmind-12d-desktop-12-voice-polyphonic-analog-synth-module.md",
+      "title": "Behringer DeepMind 12D Desktop 12-Voice Polyphonic Analog Synth Module",
+      "excerpt": "I will ship with tracking to the listed regions. To negotiate shipping rates to other locations, please send me a message. Taxes are charged in the following regions either by the seller, per their tax policy, or by Reverb as a Marketplace Facilitator:",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://reverb.com/item/33329886-behringer-deepmind-12d-desktop-12-voice-polyphonic-analog-synth-module",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-14T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reverb.com",
+        "domain": "reverb.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-14-brief-hansoh-pharma-atomwise-expand-strategic-partnership-for-ai-accelerated-drug-discovery.md",
       "title": "BRIEF-Hansoh Pharma, Atomwise Expand Strategic Partnership For Ai-Accelerated Drug Discovery",
       "excerpt": "Hansoh Pharmaceutical Group Co Ltd : * HANSOH PHARMA - CO, ATOMWISE ANNOUNCED EXPANSION OF THEIR STRATEGIC PARTNERSHIP FOR AI-ACCELERATED DRUG DISCOVERY Source text for Eikon: Further company coverage: Our Standards:The Thomson Reuters Trust Principles.",
@@ -1048,133 +1159,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-14-cyberlink-faceme-ai-facial-recognition-earns-997-accuracy-rate-high-ranking-on-industry-leading-nist-leaderboard.md",
-      "title": "CyberLink FaceMe® AI Facial Recognition Earns 99.7% Accuracy Rate, High Ranking on Industry-Leading NIST Leaderboard",
-      "excerpt": "CyberLink Corp. (5203.TW), a pioneer in AI and facial recognition technologies, announced its FaceMe® AI facial recognition engine has achieved prominent ranking on the NIST FRVT 1:1 (Facial Recognition Vender Test),",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.register-herald.com/region/cyberlink-faceme-ai-facial-recognition-earns-99-7-accuracy-rate-high-ranking-on-industry-leading/article_9360a84b-308d-5ff1-b47e-3d5f834b5a79.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-14T01:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Register-Herald",
-        "domain": "register-herald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/assets/v3/editorial/b/67/b67f2373-6b7b-5ed1-b823-f80aa3577cc5/5e8b2b98c13e3.image.jpg?resize=1200%2C589",
-          "width": 1200,
-          "height": 589,
-          "title": "CyberLink FaceMe® AI Facial Recognition Earns 99.7% Accuracy Rate, High Ranking on Industry-Leading NIST Leaderboard",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-14-cant-wait-for-final-fantasy-7-remake-on-pc-this-mod-ai-upscales-original-to-hd.md",
-      "title": "Can't wait for Final Fantasy 7 Remake on PC? This mod AI upscales original to HD",
-      "excerpt": "So, if you're looking for something a little more faithful, and own the PC version of the original game, feast your eyes on the Remako HD mod, an AI-powered fan-made upgrade that's just about to ... In China, Nintendo's games are available on the Nvidia Shield, with the chip maker using its neural processing techniques to give the likes of ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techradar.com/au/news/cant-wait-for-final-fantasy-7-remake-on-pc-this-mod-ai-upscales-original-to-hd",
-      "ampWebUrl": "https://www.techradar.com/au/amp/news/cant-wait-for-final-fantasy-7-remake-on-pc-this-mod-ai-upscales-original-to-hd",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/cant-wait-for-final-fantasy-7-remake-on-pc-this-mod-ai-upscales-original-to-hd",
-      "publishedDateTime": "2020-04-14T01:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/hzHvuwLmTMnaGtDNL77TLF-1200-80.jpg",
-          "width": 960,
-          "height": 540,
-          "title": "Can't wait for Final Fantasy 7 Remake on PC? This mod AI upscales original to HD",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-14-coronavirus-how-ready-is-ai-to-detect-and-prevent-pandemics.md",
-      "title": "Coronavirus: How Ready is AI to Detect and Prevent Pandemics",
-      "excerpt": "But the technological landscape has changed. Can AI, alongside machine learning, natural language processing (NLP), and robotics be called upon to detect, prevent, and manage pandemics? Bluedot, a Canadian startup used an AI-based algorithm to warn people against traveling to China due to the possibility of a flu-like outbreak. The startup ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.entrepreneur.com/article/348804",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/348804",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/348804",
-      "publishedDateTime": "2020-04-13T22:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/20200407144446-GettyImages-1185375168.jpeg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": "Coronavirus: How Ready is AI to Detect and Prevent Pandemics",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

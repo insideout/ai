@@ -2,6 +2,140 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-04-28-artificial-intelligence-and-the-evolving-role-of-the-cio.md",
+      "title": "Artificial Intelligence And The Evolving Role Of The CIO",
+      "excerpt": "How does any company with a passion for user experience express artificial intelligence in a world where the very concept can be seen as creepy, helpful and every other opinion in the middle? As a CIO of any company, how do you live and breathe the mantra of an exemplary, customized experience coupled with sensitivity? Find The Emotion Behind ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/04/28/artificial-intelligence-and-the-evolving-role-of-the-cio/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/04/28/artificial-intelligence-and-the-evolving-role-of-the-cio/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/04/28/artificial-intelligence-and-the-evolving-role-of-the-cio/amp/",
+      "publishedDateTime": "2020-04-28T04:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F04%2Fa-20-3.jpg",
+          "width": 640,
+          "height": 640,
+          "title": "Artificial Intelligence And The Evolving Role Of The CIO",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-28-shanghai-shares-fall-before-earnings-blue-chips-start-ups-climb-on-reform.md",
+      "title": "Shanghai shares fall before earnings; blue-chips, start-ups climb on reform",
+      "excerpt": "CSI300 adds 0.7%, Chinext up 0.6% but Shanghai slides 0.2% * Start-up board reform positive for A-shares - Morgan Stanley * Banks to report earnings; regulator warns on wealth p",
+      "heat": 102,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/china-stocks-close-idUSAZN00B8AI",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSAZN00B8AI",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSAZN00B8AI",
+      "publishedDateTime": "2020-04-28T00:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Shanghai shares fall before earnings; blue-chips, start-ups climb on reform",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-28-amazon-appflow-brings-serverless-ipaas-capabilities-to-aws.md",
+      "title": "Amazon AppFlow Brings Serverless IPaaS Capabilities To AWS",
+      "excerpt": "AWS announced the launch of Amazon AppFlow, a managed integration service for exchanging data between external Software as a Service (SaaS) applications and AWS services. Amazon AppFlow acts as a two-way conduit for the data flowing between SaaS applications such as Salesforce,",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/janakirammsv/2020/04/28/amazon-appflow-brings-serverless-ipaas-capabilities-to-aws/",
+      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2020/04/28/amazon-appflow-brings-serverless-ipaas-capabilities-to-aws/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2020/04/28/amazon-appflow-brings-serverless-ipaas-capabilities-to-aws/amp/",
+      "publishedDateTime": "2020-04-27T23:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ea7cd5811fa6f000658c4bd%2F0x0.jpg",
+          "width": 1000,
+          "height": 666,
+          "title": "Amazon AppFlow Brings Serverless IPaaS Capabilities To AWS",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-28-artificial-intelligence-ai-in-healthcare-market-in-india-share-revenue-growth-development-and-demand-forecast-to-2023.md",
       "title": "Artificial Intelligence (AI) in Healthcare Market in India Share, Revenue Growth, Development And Demand Forecast To 2023",
       "excerpt": "The adoption of artificial intelligence (AI) is reshaping the Indian healthcare market significantly. AI-enabled",
@@ -956,138 +1090,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-27-tips-on-introducing-artificial-intelligence-in-your-business.md",
-      "title": "Tips On Introducing Artificial Intelligence In Your Business",
-      "excerpt": "As AI continues to grow and permeate seemingly every aspect of business, it’s important to cut through the noise and focus on where AI fits in your organization and how to best implement it.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/04/27/tips-on-introducing-artificial-intelligence-in-your-business/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/04/27/tips-on-introducing-artificial-intelligence-in-your-business/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2020/04/27/tips-on-introducing-artificial-intelligence-in-your-business/amp/",
-      "publishedDateTime": "2020-04-27T04:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbesbusinesscouncil%2Ffiles%2F2020%2F04%2F433.jpg",
-          "width": 640,
-          "height": 640,
-          "title": "Tips On Introducing Artificial Intelligence In Your Business",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-27-codota-picks-up-12m-for-an-ai-platform-that-auto-completes-developers-code.md",
-      "title": "Codota picks up $12M for an AI platform that auto-completes developers’ code",
-      "excerpt": "Thanks to smartphones and their downsized keyboards, autocomplete has become a nearly ubiquitous feature of how we write these days. To save us precious seconds composing and (at least in my fat-thumbed case) correcting words,",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/04/27/codota-picks-up-12m-for-an-ai-platform-that-auto-completes-developers-code/",
-      "ampWebUrl": "https://techcrunch.com/2020/04/27/codota-picks-up-12m-for-an-ai-platform-that-auto-completes-developers-code/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/27/codota-picks-up-12m-for-an-ai-platform-that-auto-completes-developers-code/amp/",
-      "publishedDateTime": "2020-04-27T04:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/03/GettyImages-1187635203.jpg?w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": "Codota picks up $12M for an AI platform that auto-completes developers’ code",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-27-codota-raises-12-million-for-ai-that-suggests-and-autocompletes-code.md",
-      "title": "Codota raises $12 million for AI that suggests and autocompletes code",
-      "excerpt": "Codota, a startup developing a platform that suggests and autocompletes code, has raised $12 million in equity financing.",
-      "heat": 97,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/27/codota-raises-12-million-for-ai-that-suggests-and-autocompletes-code/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/27/codota-raises-12-million-for-ai-that-suggests-and-autocompletes-code/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/27/codota-raises-12-million-for-ai-that-suggests-and-autocompletes-code/amp/",
-      "publishedDateTime": "2020-04-27T04:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/1_0wIenZUkUNVutcizFB9sPA-e1587686866252.jpeg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Codota raises $12 million for AI that suggests and autocompletes code",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

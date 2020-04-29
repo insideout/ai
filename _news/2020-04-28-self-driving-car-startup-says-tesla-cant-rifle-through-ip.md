@@ -3,9 +3,11 @@ category: news
 title: "Self-Driving Car Startup Says Tesla Can't Rifle Through IP"
 excerpt: "A Chinese self-driving car startup told a California federal judge Saturday that Tesla can't rifle through its intellectual property to bolster a trade secrets suit against a former engineer accused of downloading Tesla’s Autopilot source code before joining the Chinese startup."
 publishedDateTime: 2020-04-28T00:00:00Z
-webUrl: "https://www.law360.com/articles/1267897/self-driving-car-startup-says-tesla-can-t-rifle-through-ip"
+webUrl: "https://www.law360.com/california/articles/1267897/self-driving-car-startup-says-tesla-can-t-rifle-through-ip"
+ampWebUrl: "https://www.law360.com/amp/articles/1267897"
+cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1267897"
 type: article
-quality: 19
+quality: 39
 heat: -1
 published: false
 
@@ -30,6 +32,6 @@ related:
       domain: law360.com
     quality: 39
 
-secured: "oj902Eh1+imGSr3DIh2Py88PTkXGeyb5TL8sPiP9NCnJwElRWDAsBH0kZ/6z8+Ss/OVdz9cN/zk3ed+Ke54Dbq2V8ezzDhetqfuCZiBBStnJsLzmxx0UHdxOTFoRCIZakCznF3YDpMlRNNLh0enIt9Nr/uUlJcPnInttTUqAmCAxPb2wQdbuFT1etqvmPTvyT/TCZCMi9wFDr6wTWHisXhZlKxRPQBAuZq7J+aqQfcfthD3+NTnOBp4KT2HBhjhRtLnaQ4F/Hhgb6y4PbW+zuZy9zPQbOLwfjuNDrFl1e9YqD6Kr7DbzGWkmoVn3Y+Dz;EJj+CN+PHDTluX9MkOCoGA=="
+secured: "4hGfBaPFJtxf2N/IL359C/2MoexZJ94jQhoGcgd2kBXHAVYRUXjxZu5gQJDLa3+rCrBLuOb76MESYaiA/0ySOieCGUwNZpShIl2y9N8mWrBXLhImuB3w/1nyfHvxQZyeZA21yA0XsLE6MgUrNgisVaLWlklnUE9JyKuf3iETuLoySt2z7EAm9V7swrX1M7ExQvP1kuOE8PDDTaNIgRioIptmZGa9X84n/KnT5OoAVnZocggOMjaXVGHm20jUBaeJctPIqpAk53BgoiTdOXzL8Pvcew243Yz35VkwIx1KIqYqExcA+LqjwApcFJ4h0atW;AShiDuYwaxM4UTKeEgC63Q=="
 ---
 

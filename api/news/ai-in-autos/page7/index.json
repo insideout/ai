@@ -2,6 +2,43 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-03-09-getting-there-americans-remain-leery-of-self-driving-cars.md",
+      "title": "GETTING THERE: Americans remain leery of self-driving cars",
+      "excerpt": "WHILE the push continues for a future where self-driving cars are the norm, at present we humans seem averse to sharing the road with artificial intelligence. And that’s saying a lot, given the proliferation of bad and dangerous drivers on the roads.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fredericksburg.com/news/transportation/getting-there-americans-remain-leery-of-self-driving-cars/article_ab0b9d66-c427-562a-bf29-f62c96faf7ce.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-08T19:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fredericksburg.com",
+        "domain": "fredericksburg.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/fredericksburg.com/content/tncms/assets/v3/editorial/7/f1/7f1025a4-1959-555a-9f88-89a50aa49030/5e627e4b1e8b5.image.jpg?crop=1657%2C932%2C0%2C159&resize=1120%2C630&order=crop%2Cresize",
+          "width": 1120,
+          "height": 630,
+          "title": "GETTING THERE: Americans remain leery of self-driving cars",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-08-michael-del-vecchio-discusses-how-business-accounting-is-changing-due-to-artificial-intelligence.md",
       "title": "Michael del Vecchio discusses how business accounting is changing due to artificial intelligence",
       "excerpt": "has become a mainstream expression lately, and keeping in mind that it is difficult to isolate the publicity from practical possibilities, AI is established on a strong rule. Essentially expressed, AI is one of the most exceptional ideas in framework creation and dynamic,",
@@ -1191,51 +1228,6 @@
           "width": 1200,
           "height": 600,
           "title": "MIT CSAIL’s radars map hidden features to help driverless cars navigate snowy terrain",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-02-24-this-self-driving-car-looks-under-the-road-for-a-safety-boost-in-rain-and-snow.md",
-      "title": "This self-driving car looks under the road for a safety boost in rain and snow",
-      "excerpt": "Over the past few years, autonomous vehicle technology and self-driving systems have reached new levels of sophistication and an experimental scanning system could lead to improved safety levels in poor weather. Self-driving capabilities are measured on a scale of levels 0 - 5; 0 being no automation and level 5 considered to be a true ...",
-      "heat": 235,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/this-self-driving-car-system-looks-under-the-road-for-a-safety-boost-in-rain-and-snow/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/this-self-driving-car-system-looks-under-the-road-for-a-safety-boost-in-rain-and-snow/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/this-self-driving-car-system-looks-under-the-road-for-a-safety-boost-in-rain-and-snow/",
-      "publishedDateTime": "2020-02-23T21:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2018/10/20/46764bbf-aad1-4e5a-8b0e-e5ebe4228ad9/resize/1200x900/f882f01e4412ac9465fbc91b9e0f972e/screen-shot-2018-10-20-at-15-30-54.png",
-          "width": 1200,
-          "height": 767,
-          "title": "This self-driving car looks under the road for a safety boost in rain and snow",
           "attribution": null
         }
       ],

@@ -2,6 +2,51 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-02-21-google-launches-tensorflow-library-for-optimizing-fairness-constraints.md",
+      "title": "Google launches TensorFlow library for optimizing fairness constraints",
+      "excerpt": "Google AI today released TensorFlow Constrained Optimization (TFCO), a supervised machine learning library built for training machine learning models on multiple metrics, and “optimizing inequality-constrained problems.” The library is designed to help address issues like fairness constraints and predictive parity and help machine learning ...",
+      "heat": 94,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/02/21/google-launches-tensorflow-library-for-optimizing-fairness-constraints/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-21T14:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/06/tensorflow.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Google launches TensorFlow library for optimizing fairness constraints",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2020-02-21-defeated-chess-champ-garry-kasparov-has-made-peace-with-ai.md",
       "title": "Defeated Chess Champ Garry Kasparov Has Made Peace With AI",
       "excerpt": "Most remarkably, AlphaZero uncovered new approaches to the game that dazzled chess experts. Last week, Kasparov returned to the scene of his famous Deep Blue defeat—the ballroom of a New York hotel—for a debate with AI experts organized by the Association for the Advancement of Artificial Intelligence. He met with WIRED senior writer Will ...",
@@ -1284,51 +1329,6 @@
           "width": 1200,
           "height": 600,
           "title": "Baidu details its adversarial toolbox for testing robustness of AI models",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-17-google-says-yes-to-no-code-acquires-appsheet.md",
-      "title": "Google Says Yes To No-Code, Acquires AppSheet",
-      "excerpt": "and some of its innovations fail to ever gain enough traction to survive (such as Google Wave, Google Answers and Google +).",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/adrianbridgwater/2020/01/17/google-says-yes-to-no-code-acquires-appsheet/",
-      "ampWebUrl": "https://www.forbes.com/sites/adrianbridgwater/2020/01/17/google-says-yes-to-no-code-acquires-appsheet/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2020/01/17/google-says-yes-to-no-code-acquires-appsheet/amp/",
-      "publishedDateTime": "2020-01-17T09:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/640x374/https://specials-images.forbesimg.com/imageserve/5e21d179980ca10006aaab8e/960x0.jpg?fit=scale",
-          "width": 640,
-          "height": 374,
-          "title": "Google Says Yes To No-Code, Acquires AppSheet",
           "attribution": null
         }
       ],

@@ -2,6 +2,43 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-03-17-society-50-japans-lofty-plans-face-hurdles.md",
+      "title": "Society 5.0: Japan’s lofty plans face hurdles",
+      "excerpt": "Carbon emissions are cut by driverless vehicles choosing the shortest route home. Robots take care of the elderly, using body sensors to flag up if additional human help is needed. Artificial intelligence (AI) will sift your online history and health records to build you the perfect itinerary for a city break, for example, tailored just so to ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.raconteur.net/business-innovation/society-5-0-infrastructure",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-16T18:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Raconteur",
+        "domain": "raconteur.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.raconteur.net/wp-content/uploads/2020/03/EdImage_p3.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Society 5.0: Japan’s lofty plans face hurdles",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-17-tesla-trails-waymo-cruise-and-others-in-self-driving-strategy-study-claims.md",
       "title": "Tesla trails Waymo, Cruise and others in self-driving strategy, study claims",
       "excerpt": "Tesla's position on Navigant Research's AV development leaderboard is just about at the bottom. Waymo continues to lead the pack in terms of both vision and execution, according to Navigant's leaderboard.",
@@ -1110,43 +1147,6 @@
         "authors": null
       },
       "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-09-getting-there-americans-remain-leery-of-self-driving-cars.md",
-      "title": "GETTING THERE: Americans remain leery of self-driving cars",
-      "excerpt": "WHILE the push continues for a future where self-driving cars are the norm, at present we humans seem averse to sharing the road with artificial intelligence. And that’s saying a lot, given the proliferation of bad and dangerous drivers on the roads.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.fredericksburg.com/news/transportation/getting-there-americans-remain-leery-of-self-driving-cars/article_ab0b9d66-c427-562a-bf29-f62c96faf7ce.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-08T19:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fredericksburg.com",
-        "domain": "fredericksburg.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/fredericksburg.com/content/tncms/assets/v3/editorial/7/f1/7f1025a4-1959-555a-9f88-89a50aa49030/5e627e4b1e8b5.image.jpg?crop=1657%2C932%2C0%2C159&resize=1120%2C630&order=crop%2Cresize",
-          "width": 1120,
-          "height": 630,
-          "title": "GETTING THERE: Americans remain leery of self-driving cars",
-          "attribution": null
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"

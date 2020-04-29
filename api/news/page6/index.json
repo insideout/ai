@@ -2,6 +2,132 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-04-23-mit-csail-aims-for-energy-efficiency-in-ai-model-training.md",
+      "title": "MIT CSAIL aims for energy efficiency in AI model training",
+      "excerpt": "In a newly published paper, MIT Computer Science and Artificial Intelligence Laboratory (CSAIL) researchers propose a system for training and running AI models in a way that’s more environmentally friendly than previous approaches. They claim it can cut down on the pounds of carbon emissions involved to “low triple digits” in some cases ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/23/mit-csails-ai-trains-models-in-an-energy-efficient-way/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/23/mit-csails-ai-trains-models-in-an-energy-efficient-way/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/23/mit-csails-ai-trains-models-in-an-energy-efficient-way/amp/",
+      "publishedDateTime": "2020-04-23T13:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2013/12/co2-carbon-emissions-novelo-shutterstock-e1587673753658.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "MIT CSAIL aims for energy efficiency in AI model training",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-23-you-dont-need-an-rtx-gpu-to-access-rtx-voice-after-all.md",
+      "title": "You don't need an RTX GPU to access RTX Voice, after all",
+      "excerpt": "This app claims to use AI to reduce or outright cancel microphone background noise, and it was only intended to function for RTX card owners. However, as per the usual, the internet has circumvented those limitations. A user over on the Guru3D forums discovered that RTX Voice works \"just fine\" without a pricey RTX GPU in your system.",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techspot.com/news/84962-you-dont-need-rtx-gpu-access-rtx-voice.html",
+      "ampWebUrl": "https://www.techspot.com/amp/news/84962-you-dont-need-rtx-gpu-access-rtx-voice.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/84962-you-dont-need-rtx-gpu-access-rtx-voice.html",
+      "publishedDateTime": "2020-04-23T13:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2020/04/2020-04-23-image-31.jpg",
+          "width": 1680,
+          "height": 1120,
+          "title": "You don't need an RTX GPU to access RTX Voice, after all",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-23-former-fox-cto-joins-microsoft-azures-media-and-entertainment-business.md",
+      "title": "Former Fox CTO Joins Microsoft Azure's Media and Entertainment Business",
+      "excerpt": "Hanno Basse, the former chief technology officer at 20th Century Fox, has been named CTO for Microsoft Azure Media and Entertainment. In his new role, he’s working with entertainment industry customers, partners, industry groups and vendors to create applications for Microsoft’s cloud, edge and AI technologies. His initial focus is ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.hollywoodreporter.com/behind-screen/fox-cto-joins-microsoft-azures-media-entertainment-business-1291527",
+      "ampWebUrl": "https://www.hollywoodreporter.com/amp/behind-screen/fox-cto-joins-microsoft-azures-media-entertainment-business-1291527",
+      "cdnAmpWebUrl": "https://www-hollywoodreporter-com.cdn.ampproject.org/c/s/www.hollywoodreporter.com/amp/behind-screen/fox-cto-joins-microsoft-azures-media-entertainment-business-1291527",
+      "publishedDateTime": "2020-04-23T13:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hollywood Reporter",
+        "domain": "hollywoodreporter.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn1.thr.com/sites/default/files/imagecache/768x433/2019/06/hanno_basse-getty-h_2019_.jpg",
+          "width": 768,
+          "height": 433,
+          "title": "Former Fox CTO Joins Microsoft Azure's Media and Entertainment Business",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-23-google-claims-its-ai-can-design-computer-chips-in-under-6-hours.md",
       "title": "Google claims its AI can design computer chips in under 6 hours",
       "excerpt": "In a preprint paper coauthored by Google AI lead Jeff Dean, scientists at Google Research and the Google chip implementation and infrastructure team describe a learning-based approach to chip design that can learn from past experience and improve over time, becoming better at generating architectures for unseen components. They claim it ...",
@@ -958,140 +1084,6 @@
         "Machine Learning",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2020-04-23-the-italian-ai-firm-helping-governments-fight-coronavirus-and-spot-the-next-pandemic.md",
-      "title": "The Italian AI Firm Helping Governments Fight Coronavirus — And Spot The Next Pandemic",
-      "excerpt": "Expert System, a publicly traded artificial intelligence firm based in Modena, Italy, has built a tool that will help governments prepare for future pandemics.",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/giacomotognini/2020/04/23/the-italian-ai-firm-helping-governments-fight-coronavirus---and-spot-the-next-pandemic/",
-      "ampWebUrl": "https://www.forbes.com/sites/giacomotognini/2020/04/23/the-italian-ai-firm-helping-governments-fight-coronavirus---and-spot-the-next-pandemic/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/giacomotognini/2020/04/23/the-italian-ai-firm-helping-governments-fight-coronavirus---and-spot-the-next-pandemic/amp/",
-      "publishedDateTime": "2020-04-23T04:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ea0bfa5dea8300007de94b2%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4800%26cropY1%3D245%26cropY2%3D2946",
-          "width": 1200,
-          "height": 676,
-          "title": "The Italian AI Firm Helping Governments Fight Coronavirus — And Spot The Next Pandemic",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-23-natural-language-processing-nlp-market-to-garner-overwhelming-hike-in-revenues-by-2027.md",
-      "title": "Natural Language Processing (NLP) Market to Garner Overwhelming Hike In Revenues by 2027",
-      "excerpt": "According to the research held by Acumenresearchandconsulting.com, \"The global Natural Language Processing (NLP) market is expected to reach US$ XX Mn with a CAGR of XX.X% during the forecast period from 2020 to 2027\".",
-      "heat": 70,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-to-garner-overwhelming-hike-in-revenues-by-2027-2020-04-23",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-23T03:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Natural Language Processing (NLP) Market to Garner Overwhelming Hike In Revenues by 2027",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-23-machine-learning-as-a-service-mlaas-market-size-overview-by-rising-demands-and-huge-business-opportunities-2020-2027.md",
-      "title": "Machine Learning as a Service (MLaaS) Market Size Overview by Rising Demands and Huge Business Opportunities 2020-2027",
-      "excerpt": "According to the research held by Acumenresearchandconsulting.com, \"The global Machine Learning as a Service (MLaaS) market is expected to reach US$ XX Mn with a CAGR of XX.X% during the forecast period from 2020 to 2027\".",
-      "heat": 90,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-size-overview-by-rising-demands-and-huge-business-opportunities-2020-2027-2020-04-23",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-23T01:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Machine Learning as a Service (MLaaS) Market Size Overview by Rising Demands and Huge Business Opportunities 2020-2027",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

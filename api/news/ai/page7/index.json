@@ -2,6 +2,139 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-04-22-bodhala-raises-10-million-to-optimize-companies-legal-spend-with-ai.md",
+      "title": "Bodhala raises $10 million to optimize companies’ legal spend with AI",
+      "excerpt": "Legal tech startup Bodhala this week closed a $10 million financing round, the bulk of which will be put toward product R&D and sales efforts, cofounder and CEO Raj Goyle told VentureBeat. The company’s platform taps AI and machine learning to help companies analyze and optimize legal spend — a valuable service in light of the fact that ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/22/bodhala-raises-10-million-to-optimize-companies-legal-spend-with-ai/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/22/bodhala-raises-10-million-to-optimize-companies-legal-spend-with-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/22/bodhala-raises-10-million-to-optimize-companies-legal-spend-with-ai/amp/",
+      "publishedDateTime": "2020-04-22T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/Facebook-Post-1-e1587524404244.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Bodhala raises $10 million to optimize companies’ legal spend with AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-22-maccabi-to-deploy-ai-that-identifies-patients-at-risk-of-developing-covid-19-complications.md",
+      "title": "Maccabi to deploy AI that identifies patients at risk of developing COVID-19 complications",
+      "excerpt": "An HMO developing a platform for the discovery of clinical insights from medial information, Israel’s Maccabi Healthcare Services, plans to deploy an AI system that can identify people at risk of developing COVID-19 complications. The work is being done in partnership with the Kahn-Sagol-Maccabi Research and Innovation Institute and Medial ...",
+      "heat": 77,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/22/maccabi-to-deploy-ai-that-identifies-patients-at-risk-of-developing-covid-19-complications/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/22/maccabi-to-deploy-ai-that-identifies-patients-at-risk-of-developing-covid-19-complications/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/22/maccabi-to-deploy-ai-that-identifies-patients-at-risk-of-developing-covid-19-complications/amp/",
+      "publishedDateTime": "2020-04-22T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/02/istock-701228292-e1587585848522.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Maccabi to deploy AI that identifies patients at risk of developing COVID-19 complications",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-22-consumer-lending-companies-riding-on-machine-learning-platforms-to-manage-risks.md",
+      "title": "Consumer Lending Companies Riding On Machine Learning Platforms To Manage Risks",
+      "excerpt": "The increased incidents of payment defaults, along with an alarming credit risk rate have prompted many of these firms to build risk mitigation models using machine learning (ML), so as to reduce the risk of default in a cost-effective manner, while taking smart, well-informed lending decisions in these complex times. The traditional analytical ...",
+      "heat": 105,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.entrepreneur.com/article/349633",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/349633",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/349633",
+      "publishedDateTime": "2020-04-22T03:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/20160727110527-shutterstock-391308160.jpeg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": "Consumer Lending Companies Riding On Machine Learning Platforms To Manage Risks",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-22-nvidia-rtx-voice-is-great-for-improving-sound-quality-on-video-calls-and-doesnt-actually-need-an-rtx-gpu.md",
       "title": "Nvidia RTX Voice is great for improving sound quality on video calls – and doesn’t actually need an RTX GPU",
       "excerpt": "The way it works is you download the RTX Voice beta as normal, and install the plugin, whereupon non-RTX GPU owners will be greeted by an error message stating that ... car alarms going off outside your window, and so on (and as it’s AI-powered, it should get better with time and training). Remember that RTX Voice is still in beta, although ...",
@@ -1174,131 +1307,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-21-ai-company-forgerock-raises-935-million-in-funding.md",
-      "title": "AI Company ForgeRock Raises $93.5 Million in Funding",
-      "excerpt": "Identity-authenticator sees demand jump as coronavirus creates mass shift to remote work.",
-      "heat": 77,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wsj.com/articles/ai-company-forgerock-raises-93-5-million-in-funding-11587463200",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-21T04:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-178343/social",
-          "width": 1280,
-          "height": 640,
-          "title": "AI Company ForgeRock Raises $93.5 Million in Funding",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-21-how-to-improve-the-financial-services-industry-with-artificial-intelligence-and-blockchain.md",
-      "title": "How To Improve The Financial Services Industry With Artificial Intelligence And Blockchain",
-      "excerpt": "Blockchain and artificial intelligence (AI) solve different tasks, but they can work together to improve many processes in the financial services industry, from customer service to loan application reviews and payment processing.",
-      "heat": 92,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/04/21/how-to-improve-the-financial-services-industry-with-artificial-intelligence-and-blockchain/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/04/21/how-to-improve-the-financial-services-industry-with-artificial-intelligence-and-blockchain/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/04/21/how-to-improve-the-financial-services-industry-with-artificial-intelligence-and-blockchain/amp/",
-      "publishedDateTime": "2020-04-21T04:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F04%2Fa-24-2.jpg",
-          "width": 640,
-          "height": 640,
-          "title": "How To Improve The Financial Services Industry With Artificial Intelligence And Blockchain",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-21-learn-how-to-leverage-the-aws-cloud-to-build-and-innovate-at-scale-with-the-free-aws-summit-online.md",
-      "title": "Learn how to leverage the AWS cloud, to build and innovate at scale with the free AWS Summit Online",
-      "excerpt": "The AWS DeepRacer League Summit Race Compete for prizes and meet fellow machine learning enthusiasts, online. Racers will have the opportunity to join the DeepRacer online workshop and have a 1-to ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://yourstory.com/2020/04/aws-cloud-innovate-summit-online",
-      "ampWebUrl": "https://yourstory.com/2020/04/aws-cloud-innovate-summit-online/amp",
-      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/04/aws-cloud-innovate-summit-online/amp",
-      "publishedDateTime": "2020-04-21T04:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Your Story",
-        "domain": "yourstory.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.yourstory.com/cs/static/default-ys-image.jpg",
-          "width": 300,
-          "height": 300,
-          "title": "Learn how to leverage the AWS cloud, to build and innovate at scale with the free AWS Summit Online",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

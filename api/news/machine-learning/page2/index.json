@@ -2,6 +2,51 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-04-20-microsoft-pairs-machine-learning-models-to-fight-software-bugs.md",
+      "title": "Microsoft pairs machine learning models to fight software bugs",
+      "excerpt": "Microsoft has been collecting 13 million work items and bugs since 2001, and used that data to create a machine learning model to fight software bugs. According to the company, the model distinguishes between security and non-security bugs 99% of the time and identify the high-priority bugs 97% of the time. “At Microsoft, 47,000 developers ...",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://sdtimes.com/msft/microsoft-pairs-machine-learning-models-to-fight-software-bugs/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-20T13:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SD Times",
+        "domain": "sdtimes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://sdtimes.com/wp-content/uploads/2018/10/artificial-neural-network-3501528_960_720.png",
+          "width": 960,
+          "height": 540,
+          "title": "Microsoft pairs machine learning models to fight software bugs",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-20-cognex-introduces-worlds-first-industrial-smart-camera-powered-by-deep-learning.md",
       "title": "Cognex Introduces World's First Industrial Smart Camera Powered by Deep Learning",
       "excerpt": "PRWeb/ -- Cognex Corporation, the leader in industrial machine vision, introduces the In-Sight® D900 embedded vision system. A first-of-its-kind solution, the In-Sight D900 features Cognex's ViDiTM deep learning software inside an In-Sight industrial-grade smart camera.",
@@ -737,23 +782,23 @@
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.prnewswire.com/news-releases/new-web-based-automl-tool-from-sensiml-makes-ai-for-iot-easier-than-ever-301041756.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-16T06:07:00-07:00",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/04/n15819256/new-web-based-automl-tool-from-sensiml-makes-ai-for-iot-easier-than-ever",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/15819256",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15819256",
+      "publishedDateTime": "2020-04-16T06:22:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null
       },
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/891804/SensiML_Logo.jpg?p=facebook",
-          "width": 2059,
-          "height": 1079,
+          "url": "https://mma.prnewswire.com/media/891804/SensiML_Logo.jpg",
+          "width": 400,
+          "height": 208,
           "title": "New Web-Based AutoML Tool from SensiML Makes AI for IoT Easier than Ever",
           "attribution": null
         }
@@ -1208,43 +1253,6 @@
         "Machine Learning",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-10-new-doe-program-drives-demand-for-machine-learning-programmers.md",
-      "title": "New DoE Program Drives Demand For Machine Learning Programmers",
-      "excerpt": "Machine learning is leading to numerous changes in the energy industry. The Department of Energy recently announced that it is taking steps to accelerate the integration of machine learning technology in energy research and development. The head of the Department of Energy announced that they will be investing $30 million in artificial ...",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.smartdatacollective.com/new-doe-program-drives-demand-for-machine-learning-programmers/",
-      "ampWebUrl": "https://www.smartdatacollective.com/new-doe-program-drives-demand-for-machine-learning-programmers/amp/",
-      "cdnAmpWebUrl": "https://www-smartdatacollective-com.cdn.ampproject.org/c/s/www.smartdatacollective.com/new-doe-program-drives-demand-for-machine-learning-programmers/amp/",
-      "publishedDateTime": "2020-04-10T08:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SmartData Collective",
-        "domain": "smartdatacollective.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.smartdatacollective.com/wp-content/uploads/2020/04/machine-learning-in-energy-sector.jpg",
-          "width": 1000,
-          "height": 676,
-          "title": "New DoE Program Drives Demand For Machine Learning Programmers",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

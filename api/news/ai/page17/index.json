@@ -2,6 +2,141 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2020-04-10-the-scientist-who-controlled-people-with-brain-implants.md",
+      "title": "The Scientist Who Controlled People with Brain Implants",
+      "excerpt": "(Or you can wind up mind-controlled by a psychopath. It's a mixed bag.) But in real life, one scientist made huge strides towards creating workable brain implants. In the 1950s and 1960s.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://io9.gizmodo.com/the-scientist-who-controlled-people-with-brain-implants-5871598",
+      "ampWebUrl": "https://io9.gizmodo.com/the-scientist-who-controlled-people-with-brain-implants-5871598/amp",
+      "cdnAmpWebUrl": "https://io9-gizmodo-com.cdn.ampproject.org/c/s/io9.gizmodo.com/the-scientist-who-controlled-people-with-brain-implants-5871598/amp",
+      "publishedDateTime": "2020-04-10T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "io9.gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/18lp4exxculr1jpg.jpg",
+          "width": 800,
+          "height": 450,
+          "title": "The Scientist Who Controlled People with Brain Implants",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-10-watching-a-computer-identify-objects-in-a-movie-trailer-is-entertaining-as-hell.md",
+      "title": "Watching a Computer Identify Objects in a Movie Trailer Is Entertaining as Hell",
+      "excerpt": "Strangely, it would look a lot like object recognition software. Støj, a Copenhagen coding studio, ran the trailer for The Wolf of Wall Street through an object-detection algorithm that ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://gizmodo.com/watching-an-algorithm-try-to-decode-a-movie-trailer-is-1791288059",
+      "ampWebUrl": "https://gizmodo.com/watching-an-algorithm-try-to-decode-a-movie-trailer-is-1791288059/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/watching-an-algorithm-try-to-decode-a-movie-trailer-is-1791288059/amp",
+      "publishedDateTime": "2020-04-10T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/f_auto/jsggjaht1igdkiauxrc9.jpg",
+          "width": 640,
+          "height": 304,
+          "title": "Watching a Computer Identify Objects in a Movie Trailer Is Entertaining as Hell",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-10-worlds-first-fully-bionic-mind-controlled-leg-goes-for-a-walk.md",
+      "title": "World's First Fully Bionic, Mind-Controlled Leg Goes for a Walk",
+      "excerpt": "The only difference is that one of his legs is a mind-controlled robot. Vawter is a \"test pilot\" for an Army-funded study on the latest in bionic limb technology. The leg that's been fitted to him ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://gizmodo.com/worlds-first-fully-bionic-mind-controlled-leg-goes-fo-1401152071",
+      "ampWebUrl": "https://gizmodo.com/worlds-first-fully-bionic-mind-controlled-leg-goes-fo-1401152071/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/worlds-first-fully-bionic-mind-controlled-leg-goes-fo-1401152071/amp",
+      "publishedDateTime": "2020-04-10T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/191culqr0ovixjpg.jpg",
+          "width": 800,
+          "height": 450,
+          "title": "World's First Fully Bionic, Mind-Controlled Leg Goes for a Walk",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-10-artificial-intelligence-as-a-service-aiaas-market-2019-2023-need-to-reduce-ai-cost-to-boost-growth-technavio.md",
       "title": "Artificial Intelligence-as-a-Service (AIaaS) Market 2019-2023 | Need to Reduce AI Cost to Boost Growth | Technavio",
       "excerpt": "Technavio has been monitoring the artificial intelligence-as-a-service (AIaaS) market and it is poised to grow by USD 15.14 billion during 2019-2023, progressing at a CAGR of over 48% during the forecast period.",
@@ -1101,139 +1236,6 @@
           "width": 1200,
           "height": 600,
           "title": "Google releases SimCLR, an AI framework that can classify images with limited labeled data",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-09-nuro-earns-permit-to-test-self-driving-delivery-vehicles-in-california.md",
-      "title": "Nuro Earns Permit to Test Self-Driving Delivery Vehicles in California",
-      "excerpt": "Autonomous delivery vehicle maker Nuro this week received California's first permit to test a driverless, passengerless car on public roads. Eager to get started, the company hopes to get its recently unveiled R2 vehicle on the move through Silicon Valley ...",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.pcmag.com/news/nuro-earns-permit-to-test-self-driving-delivery-vehicles-in-california",
-      "ampWebUrl": "https://www.pcmag.com/news/nuro-earns-permit-to-test-self-driving-delivery-vehicles-in-california?amp=true",
-      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/nuro-earns-permit-to-test-self-driving-delivery-vehicles-in-california?amp=true",
-      "publishedDateTime": "2020-04-09T06:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/005AXdYr3UnodeAytQQ7yfm-1.fit_lim.size_1200x630.v_1586432859.jpg",
-          "width": 1120,
-          "height": 630,
-          "title": "Nuro Earns Permit to Test Self-Driving Delivery Vehicles in California",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-09-ferrum-raises-9-million-to-prevent-medical-mistakes-with-ai.md",
-      "title": "Ferrum raises $9 million to prevent medical mistakes with AI",
-      "excerpt": "Ferrum, a startup developing an AI patient safety platform to prevent medical errors, today announced that it secured $9 million in seed funding. According to CEO Pelu Tran, who’s also a technology pioneer at the World Economic Forum, the plan is to use the capital infusion to refine the company’s product as Ferrum makes engineering ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/09/ferrum-raises-9-million-to-prevent-medical-mistakes-with-ai/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/09/ferrum-raises-9-million-to-prevent-medical-mistakes-with-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/09/ferrum-raises-9-million-to-prevent-medical-mistakes-with-ai/amp/",
-      "publishedDateTime": "2020-04-09T06:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/6508d40a-448c-44b3-bd7d-3ec135ba2e54-e1585776810679.png?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Ferrum raises $9 million to prevent medical mistakes with AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-09-will-product-designers-survive-the-ai-revolution.md",
-      "title": "Will product designers survive the AI revolution?",
-      "excerpt": "Did you know TNW Conference has a track fully dedicated to exploring new design trends this year? Check out the full ‘Sprint’ program here. “Our intelligence is what makes us human, and AI is an extension of that quality.” ― Yann LeCun The human species has performed incredible feats of ingenuity. We have created beautiful sculptures ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/04/09/will-product-designers-survive-the-ai-revolution/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/04/09/will-product-designers-survive-the-ai-revolution/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/04/09/will-product-designers-survive-the-ai-revolution/amp/",
-      "publishedDateTime": "2020-04-09T05:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/04/1-14-796x417.jpg",
-          "width": 796,
-          "height": 417,
-          "title": "Will product designers survive the AI revolution?",
           "attribution": null
         }
       ],

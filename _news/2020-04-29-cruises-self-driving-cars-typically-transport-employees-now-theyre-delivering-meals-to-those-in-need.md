@@ -29,6 +29,6 @@ images:
     height: 800
     title: "Cruise’s Self-Driving Cars Typically Transport Employees; Now They’re Delivering Meals To Those In Need"
 
-secured: "C9Z1smLn9zYxUixdDLhbPCtdcKnQM7pkltvCGiZEHgjgb2Y0DdIYEH3yf0wxmoEQv3LJjtUcaIyQRldtPicALVgLje+phgLOsNv+0KtA2fjSxbY/to/4zDaTFWz136NtW8Z/hyVI3J2PVb+kmZt3ZMSm5B7RpUi+AUR8YkoSB392cAIDlseG8tj+hP0j9/qrS4NTHr/w36neg1v1QH2W4tUelfnUHZPwhxZC2g5t0DcHN83KbNXiZ56npbLvT2OA8AaYsQuGYZueDZ+HQ9Lo/b0cvLGYTBh1gaNfKaQQqb0KmGSGbyGnWuJI2kY6KKIS;gb2hPmpc85RPksqBxJQqUA=="
+secured: "518qqEinQ8HoBnvS0rRR4sZKoIm1UoiNuLdXXBmQU7ik/+pbb/CLkJwEtm0TaKqy2hd8NOTGzzzfMxy6Nf8MA9K+oGajUch+5e8zUiHjS3KEWEn70tv1g721UvuG+gQYA+Hnlt0+jPB58rzrgwVQHW4AVG4B4Yzg0zLIzpT6IAYQMw3H4tTmbWAUkEHPrf/0Q/PXqYVpUt1Lkgtu9o7ON2tqXZwMDGLIkPANlVJ4VLg84aXMm4qiYRXbOV+kMkVi5mUwanfj8zU51pYhCrxz+uCMN3dOpcyk+VuetCnHnRSz5oAh5UO7Zp4qOa+AQv3Rwt91jlSKsrdoKc5Q6YxsJHGi7p5dCE2KVxqPUkmN/lV1azcGefBQgm3bNs6EUTBp2vxsnOqoUDVKR5H6hxR/jCU22Wh67m6/qumYe7V6YQZoNnS/Vdw3GaQHmJdHOM/5ce8Ol5D9goFl7QMPEb6hVpAt4vSdrvKuSSIvOymHYAU=;jKvwC/FReMUwtdiQdh1bDQ=="
 ---
 
