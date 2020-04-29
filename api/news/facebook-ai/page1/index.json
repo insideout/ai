@@ -2,6 +2,52 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-04-29-ai-cant-solve-this-the-coronavirus-could-be-highlighting-just-how-overhyped-the-industry-is.md",
+      "title": "AI can't solve this: The coronavirus could be highlighting just how overhyped the industry is",
+      "excerpt": "Artificial intelligence has been hailed as a monumental technology that will change the world, but coronavirus is showing that it is still in its infancy.",
+      "heat": 80,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2020/04/29/ai-has-limited-role-coronavirus-pandemic.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/04/29/ai-has-limited-role-coronavirus-pandemic.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/04/29/ai-has-limited-role-coronavirus-pandemic.html",
+      "publishedDateTime": "2020-04-28T22:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/105318044-1531141658275china_tech_surveillance_3.jpg?v=1531141775",
+          "width": 3999,
+          "height": 2666,
+          "title": "AI can't solve this: The coronavirus could be highlighting just how overhyped the industry is",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-28-now-is-the-time-for-an-economic-stimulus-in-artificial-intelligence-or-the-us-could-fall-behind.md",
       "title": "Now is the time for an economic stimulus in artificial intelligence — or the US could fall behind",
       "excerpt": "Increasing research into AI will help the US economy recover from the coronavirus pandemic and better position it for the future.",
@@ -1258,51 +1304,6 @@
           "width": 1280,
           "height": 720,
           "title": "Facebook’s Universal Music Translator",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-27-how-isps-are-using-ai-to-address-the-coronavirus-driven-surge-in-traffic.md",
-      "title": "How ISPs are using AI to address the coronavirus-driven surge in traffic",
-      "excerpt": "This month, under the strain millions of people self-quarantined by COVID-19 have placed on broadband infrastructure, Netflix, Facebook, Disney, Microsoft ... and Telstra — are employing AI and machine learning to service networks strained by the traffic surges. Others aren’t — when reached for comment, Comcast, CenturyLink, and Fiber ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/03/27/how-isps-are-using-ai-to-address-the-coronavirus-driven-surge-in-traffic/",
-      "ampWebUrl": "https://venturebeat.com/2020/03/27/how-isps-are-using-ai-to-address-the-coronavirus-driven-surge-in-traffic/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/27/how-isps-are-using-ai-to-address-the-coronavirus-driven-surge-in-traffic/amp/",
-      "publishedDateTime": "2020-03-27T06:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2017/08/untitled-design2-e1585324670149.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "How ISPs are using AI to address the coronavirus-driven surge in traffic",
           "attribution": null
         }
       ],

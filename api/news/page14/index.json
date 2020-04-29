@@ -2,6 +2,51 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2020-04-16-global-artificial-intelligence-ai-in-healthcare-market-growth-size-share-trends-status-and-forecast-2020-2027.md",
+      "title": "Global Artificial Intelligence (AI) in Healthcare Market Growth, Size, Share, Trends, Status and Forecast 2020-2027",
+      "excerpt": "A new research report titled “Global Artificial Intelligence (AI) in Healthcare market” successfully exhibits the complete scenario of the global and an individual analysis of the various regional segments.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-healthcare-market-growth-size-share-trends-status-and-forecast-2020-2027-2020-04-16",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-16T01:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Global Artificial Intelligence (AI) in Healthcare Market Growth, Size, Share, Trends, Status and Forecast 2020-2027",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2020-04-16-sdl-offers-machine-translation-free-of-charge-to-health-science-professionals.md",
       "title": "SDL Offers Machine Translation Free of Charge to Health Science Professionals",
       "excerpt": "By offering our services free of charge we’re hoping to remove any language barriers that stand in the way of understanding and give these researchers instant access to the information they need to bring an end to the pandemic.” Built using SDL’s Linguistic AI to improve the quality of translations, SDL Machine Translation instantly ...",
@@ -1034,51 +1079,6 @@
       "topics": [
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-04-15-uber-claims-its-ai-enables-driverless-cars-to-predict-traffic-movement-with-high-accuracy.md",
-      "title": "Uber claims its AI enables driverless cars to predict traffic movement with high accuracy",
-      "excerpt": "It’s well-understood that without the ability to predict the decisions other drivers on the road might make, vehicles can’t be fully autonomous. In a tragic case in point, an Uber self-driving prototype hit and killed a pedestrian in Tempe, Arizona two years ago, partly because the vehicle failed to detect and avoid the victim. ATG’s ...",
-      "heat": 95,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/15/uber-claims-its-ai-enables-driverless-cars-to-predict-traffic-movement-with-high-accuracy/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/15/uber-claims-its-ai-enables-driverless-cars-to-predict-traffic-movement-with-high-accuracy/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/15/uber-claims-its-ai-enables-driverless-cars-to-predict-traffic-movement-with-high-accuracy/amp/",
-      "publishedDateTime": "2020-04-15T08:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/06/b75020d1-894d-4cae-89e8-ac3ec2c3c419-e1572304180828.png?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Uber claims its AI enables driverless cars to predict traffic movement with high accuracy",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

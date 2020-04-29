@@ -5,7 +5,7 @@
       "path": "_news/2020-04-29-ai-cant-solve-this-the-coronavirus-could-be-highlighting-just-how-overhyped-the-industry-is.md",
       "title": "AI can't solve this: The coronavirus could be highlighting just how overhyped the industry is",
       "excerpt": "Artificial intelligence has been hailed as a monumental technology that will change the world, but coronavirus is showing that it is still in its infancy.",
-      "heat": 78,
+      "heat": 80,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.cnbc.com/2020/04/29/ai-has-limited-role-coronavirus-pandemic.html",
@@ -43,7 +43,8 @@
       ],
       "topics": [
         "AI",
-        "Google AI"
+        "Google AI",
+        "Facebook AI"
       ]
     },
     {

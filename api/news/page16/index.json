@@ -2,6 +2,51 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2020-04-14-googles-automl-zero-lets-the-machines-create-algorithms-to-avoid-human-bias.md",
+      "title": "Google’s AutoML Zero lets the machines create algorithms to avoid human bias",
+      "excerpt": "It looks like Google‘s working on some major upgrades to its autonomous machine learning development language ‘AutoML.’ According to a pre-print research paper authored by several of the big ...",
+      "heat": 86,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/04/14/googles-automl-zero-lets-the-machines-create-algorithms-to-avoid-human-bias/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/04/14/googles-automl-zero-lets-the-machines-create-algorithms-to-avoid-human-bias/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/04/14/googles-automl-zero-lets-the-machines-create-algorithms-to-avoid-human-bias/amp/",
+      "publishedDateTime": "2020-04-14T13:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2017/07/robots-796x433.jpg",
+          "width": 796,
+          "height": 433,
+          "title": "Google’s AutoML Zero lets the machines create algorithms to avoid human bias",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-14-automotive-voice-recognition-system-market-size-worth-around-us-39-bn-by-2027.md",
       "title": "Automotive Voice Recognition System Market Size Worth Around US$ 39 Bn by 2027",
       "excerpt": "Acumen Research and Consulting, Latest Published Report on “Automotive Voice Recognition System Market Size, Share, Growth, Trends, and Forecast, 2020 - 2027”. LOS ANGELES, April 14 ...",
@@ -915,43 +960,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-14-cyberlink-faceme-ai-facial-recognition-earns-997-accuracy-rate-high-ranking-on-industry-leading-nist-leaderboard.md",
-      "title": "CyberLink FaceMe® AI Facial Recognition Earns 99.7% Accuracy Rate, High Ranking on Industry-Leading NIST Leaderboard",
-      "excerpt": "CyberLink Corp. (5203.TW), a pioneer in AI and facial recognition technologies, announced its FaceMe® AI facial recognition engine has achieved prominent ranking on the NIST FRVT 1:1 (Facial Recognition Vender Test),",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.register-herald.com/region/cyberlink-faceme-ai-facial-recognition-earns-99-7-accuracy-rate-high-ranking-on-industry-leading/article_9360a84b-308d-5ff1-b47e-3d5f834b5a79.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-14T01:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Register-Herald",
-        "domain": "register-herald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/assets/v3/editorial/b/67/b67f2373-6b7b-5ed1-b823-f80aa3577cc5/5e8b2b98c13e3.image.jpg?resize=1200%2C589",
-          "width": 1200,
-          "height": 589,
-          "title": "CyberLink FaceMe® AI Facial Recognition Earns 99.7% Accuracy Rate, High Ranking on Industry-Leading NIST Leaderboard",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

@@ -2,6 +2,43 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2020-03-25-ibm-launches-an-interactive-dashboard-to-track-coronavirus-on-phone-and-the-web.md",
+      "title": "IBM launches an interactive dashboard to track coronavirus on phone and the web",
+      "excerpt": "IBM’s dashboard runs on the IBM public cloud and uses IBM Watson to access and analyze data from the World Health Organization and multiple national, state and local governments. The dashboard has the following features: An AI-enhanced interactive “Incidents Map” of COVID-19 data and stats, including confirmed cases and more by U.S. state ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://mspoweruser.com/ibm-dashboard-track-coronavirus-phone-and-online/",
+      "ampWebUrl": "https://mspoweruser.com/ibm-dashboard-track-coronavirus-phone-and-online/amp/",
+      "cdnAmpWebUrl": "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/ibm-dashboard-track-coronavirus-phone-and-online/amp/",
+      "publishedDateTime": "2020-03-25T12:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MSPoweruser",
+        "domain": "mspoweruser.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mspoweruser.com/wp-content/uploads/2020/03/IBM-Cognos-Analytics-Dashboard_County-Level-1000.png",
+          "width": 1000,
+          "height": 625,
+          "title": "IBM launches an interactive dashboard to track coronavirus on phone and the web",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-25-ai-is-searching-for-unexploded-vietnam-war-bombs-in-cambodia.md",
       "title": "AI is searching for unexploded Vietnam War bombs in Cambodia",
       "excerpt": "The system uses object recognition algorithms that detect the unique features of bomb craters, including their shapes, colors, textures, and sizes. These algorithms then scan satellite images for ...",
@@ -1159,44 +1196,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-25-self-driving-dream-eludes-yet-again-as-starsky-robotics-shuts-down.md",
-      "title": "Self-Driving Dream Eludes Yet Again As Starsky Robotics Shuts Down",
-      "excerpt": "Similarly, though, it didn’t turn out as planned. Although he still lauds his team for their efforts, he lamented that the self-driving space was overwhelmed with the unmet promise of AI to focus on a practical solution. Added to this is the recession in trucking for the past 18 months. The hardest part of building AI is how it deals with ...",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://analyticsindiamag.com/self-driving-dream-eludes-yet-again-as-starsky-robotics-shuts-down/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-25T00:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2020/03/starsky.png",
-          "width": 1600,
-          "height": 1066,
-          "title": "Self-Driving Dream Eludes Yet Again As Starsky Robotics Shuts Down",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

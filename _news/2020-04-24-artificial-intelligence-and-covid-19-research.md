@@ -6,7 +6,7 @@ publishedDateTime: 2020-04-24T22:22:00Z
 webUrl: "https://www.anchoragepress.com/news/coronavirus/artificial-intelligence-and-covid-19-research/article_b006aa88-8667-11ea-a4bd-1b8f8314d063.html"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -22,19 +22,6 @@ images:
     width: 768
     height: 576
     title: "Artificial intelligence and COVID-19 research"
-
-related:
-  - title: "Could COVID-19 Help Refine AI, Data Analytics in Healthcare?"
-    excerpt: "As the US continues to monitor the spread of coronavirus and the country starts to think about relaxing social distancing measures, healthcare leaders are examining their abilities to mitigate the impact of this outbreak now and going forward. For many organizations, this will mean implementing or enhancing artificial intelligence and data ..."
-    publishedDateTime: 2020-04-24T15:56:00Z
-    webUrl: "https://healthitanalytics.com/features/could-covid-19-help-refine-ai-data-analytics-in-healthcare"
-    ampWebUrl: "https://healthitanalytics.com/features/amp/could-covid-19-help-refine-ai-data-analytics-in-healthcare"
-    cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/features/amp/could-covid-19-help-refine-ai-data-analytics-in-healthcare"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 54
 
 secured: "jrUvGBhKY93XhLJ+R0IaLTKq80p10jBrPx2a5FkEMa0g6JMqhthOMmJFAM3IPfOSugn0xtdqtmjS918K5tj10iyXp1wcR2JPpWTnA4vyRJwMPXpVjHFUoZdFh3YSXHHGnOtwgEu4C1ZsQROFGBvhUVpdns9eIbGlQkZ/DvD0tMnNIBVRdc+e3IKCfzoTiBDt7asmW+r2F1u5hMxqmEyjtHexH9WUiBhukw3KDgfYnXQ7hhFfPuOJwGkULIcRrxv8SmCfpb1VUbgcK4RXGYto9YX2bfa/o+qIQrdgOfevk3CVUoHrB86CNCFARVD0eOfMr3xUoUWRS2GNe8LVB3KVL6tRrdeHn4tHCD1EY8jwP68wcRbwDCNdz77GH3ErPv4GLBO7qV5LjIr5QrMOKG9FgNWFVMKr9HOvwqkuTPeztELcWWfHvLGBDeXBnTuWG0dwvAIdnFZR/6ABCk/4D3jWOUbnA7ejnhfyjscumESMTtM=;uPQeeBQcU357mi5WRMtpNg=="
 ---

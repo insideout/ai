@@ -2,6 +2,51 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2020-04-08-nuro-cleared-to-test-self-driving-delivery-vehicles-in-california.md",
+      "title": "Nuro cleared to test self-driving delivery vehicles in California",
+      "excerpt": "The small driverless vehicles could help deliver goods amid the coronavirus pandemic. ns will soon see an odd, new vehicle motoring around local roads after the state cleared Nuro to test its self-driving delivery car in the state,",
+      "heat": 94,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnet.com/roadshow/news/nuro-test-self-driving-delivery-vehicles-coronavirus-california/",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/nuro-test-self-driving-delivery-vehicles-coronavirus-california/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/nuro-test-self-driving-delivery-vehicles-coronavirus-california/",
+      "publishedDateTime": "2020-04-08T14:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cnet1.cbsistatic.com/img/gh9rCPWglLqLLnPkvD6PHLBo1B4=/2020/04/08/e348bb1c-3476-4cd5-9d9b-45f1c08c60c5/ogi-nuro.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": "Nuro cleared to test self-driving delivery vehicles in California",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-08-researchers-open-source-state-of-the-art-object-tracking-ai.md",
       "title": "Researchers open-source state-of-the-art object tracking AI",
       "excerpt": "A team of Microsoft and Huazhong University researchers this week open-sourced an AI object detector — Fair Multi-Object Tracking (FairMOT) — they claim outperforms state-of-the-art models on public data sets at 30 frames per second. If productized, it could benefit industries ranging from elder care to security, and perhaps be used to ...",
@@ -1238,51 +1283,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-08-creepy-face-recognition-firm-clearview-ai-sure-has-a-lot-of-ties-to-the-far-right.md",
-      "title": "Creepy Face Recognition Firm Clearview AI Sure Has a Lot of Ties to the Far Right",
-      "excerpt": "Clearview AI, the dystopian face recognition company that claims to have amassed a database of billions of photos, signed contracts with hundreds of law enforcement agencies, and shopped its app around to the rich and powerful, has extensive links to the far right, according to a Huffington Post investigation. In fact, one of its associates ...",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://gizmodo.com/creepy-face-recognition-firm-clearview-ai-sure-has-a-lo-1842740604",
-      "ampWebUrl": "https://gizmodo.com/creepy-face-recognition-firm-clearview-ai-sure-has-a-lo-1842740604/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/creepy-face-recognition-firm-clearview-ai-sure-has-a-lo-1842740604/amp",
-      "publishedDateTime": "2020-04-07T21:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/wsdk7maoovzoxtowgnhs.jpg",
-          "width": 800,
-          "height": 450,
-          "title": "Creepy Face Recognition Firm Clearview AI Sure Has a Lot of Ties to the Far Right",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

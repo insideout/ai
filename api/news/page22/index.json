@@ -2,6 +2,43 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2020-04-08-using-nano-scale-spintronics-researchers-aim-to-build-novel-artificial-brain.md",
+      "title": "Using nano-scale spintronics, researchers aim to build novel artificial brain",
+      "excerpt": "New research project to develop AI hardware; a completely new kind of computer system that mimics how the human brain is built up. Out with CPUs and memory storage, and in with artificial neural networks that can increase computer performance by up to 100,000 times compared to modern supercomputers. Researchers from Aarhus University have just ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.eurekalert.org/pub_releases/2020-04/au-uns040820.php",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-08T06:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://eurekalert.org/multimedia/pub/web/228779_web.jpg",
+          "width": 1440,
+          "height": 2159,
+          "title": "Using nano-scale spintronics, researchers aim to build novel artificial brain",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-08-researchers-teach-robots-to-move-more-like-animals.md",
       "title": "Researchers teach robots to move more like animals",
       "excerpt": "Some of the things they’re able to do are very impressive. A group of researchers at the Berkeley Artificial Intelligence Research (BAIR) laboratory at Berkeley are trying to teach robots to move like animals. The scientists say that they have presented a framework for learning robotic locomotion skills by imitating animals. Using a reference ...",
@@ -980,51 +1017,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-07-tesla-is-hiking-the-price-of-its-semi-autonomous-full-self-driving-package-soon-in-anticipation-of-new-over-the-air-updates.md",
-      "title": "Tesla is hiking the price of its semi-autonomous 'Full Self-Driving' package soon in anticipation of new over-the-air updates",
-      "excerpt": "Driving package is not currently autonomous, but features semi-autonomous features like automated lane changes and Tesla's \"Summon.\"",
-      "heat": 77,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businessinsider.com/tesla-will-hike-price-semi-autonomous-full-self-driving-package-2020-4",
-      "ampWebUrl": "https://www.businessinsider.com/tesla-will-hike-price-semi-autonomous-full-self-driving-package-2020-4?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tesla-will-hike-price-semi-autonomous-full-self-driving-package-2020-4?amp",
-      "publishedDateTime": "2020-04-07T15:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.insider.com/5e8cc62373d0c85e5057b3d5?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": "Tesla is hiking the price of its semi-autonomous 'Full Self-Driving' package soon in anticipation of new over-the-air updates",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

@@ -2,6 +2,50 @@
   "page": 57,
   "value": [
     {
+      "path": "_news/2020-02-28-rsa-cto-outlines-pitfalls-to-avoid-when-operationalizing-ai.md",
+      "title": "RSA CTO outlines pitfalls to avoid when operationalizing AI",
+      "excerpt": "Ramzan leads technology strategy for the organization and holds more than 50 patents. He said that AI and machine learning have been part of the security world for more than a decade. The difference now is that people are talking about the tool instead of the problem. \"The focus became the mechanism for solving the problem instead of the actual ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/article/rsa-cto-outlines-pitfalls-to-avoid-when-operationalizing-ai/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/rsa-cto-outlines-pitfalls-to-avoid-when-operationalizing-ai/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/rsa-cto-outlines-pitfalls-to-avoid-when-operationalizing-ai/",
+      "publishedDateTime": "2020-02-28T07:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr3.cbsistatic.com/hub/i/r/2020/02/27/ec6f77a5-8dc5-430b-9e5a-4a21acbb2bbf/resize/1200x/1ba6e5e4b1e825599800a381001f43b9/screen-shot-2020-02-27-at-3-16-08-pm.png",
+          "width": 1200,
+          "height": 756,
+          "title": "RSA CTO outlines pitfalls to avoid when operationalizing AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-02-28-would-you-work-with-a-robot.md",
       "title": "Would You Work With A Robot?",
       "excerpt": "It’s 2035. Booting my iMac, after checking email and my favourite newsfeeds, I start iDavid, my digital assistant, I tasked yesterday with some research I need for a feature I'm doing next month for my Forbes channel.",
@@ -1255,52 +1299,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-27-artificial-intelligence-ai-hardware-and-software-history-does-rhyme.md",
-      "title": "Artificial Intelligence (AI), Hardware And Software: History Does Rhyme",
-      "excerpt": "“History does not repeat itself, but it rhymes,” is a quote attributed to Samuel Clemens (Mark Twain). The current state of artificial intelligence (AI) advancements remind me much of the 1970s and 80s in computer technology.",
-      "heat": 106,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/davidteich/2020/02/27/artificial-intelligence-ai-hardware-and-software-history-does-rhyme/",
-      "ampWebUrl": "https://www.forbes.com/sites/davidteich/2020/02/27/artificial-intelligence-ai-hardware-and-software-history-does-rhyme/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2020/02/27/artificial-intelligence-ai-hardware-and-software-history-does-rhyme/amp/",
-      "publishedDateTime": "2020-02-27T06:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e56d67f995a5b0006066e16%2F0x0.jpg",
-          "width": 876,
-          "height": 548,
-          "title": "Artificial Intelligence (AI), Hardware And Software: History Does Rhyme",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware",
-        "Machine Learning"
       ]
     }
   ],

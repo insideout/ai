@@ -26,10 +26,10 @@ images:
 related:
   - title: "Artificial Intelligence Cannot Be Inventors, US Patent Office Rules"
     excerpt: "Last year, two relatively mundane patents—one for a shape-shifting food container and another for an emergency flashlight—posed an existential question for international patent regulations around the world: Does an inventor have to be a human?"
-    publishedDateTime: 2020-04-28T18:44:00Z
-    webUrl: "https://www.vice.com/en_ca/article/akw5g4/artificial-intelligence-cannot-be-inventors-us-patent-office-rules"
-    ampWebUrl: "https://www.vice.com/amp/en_ca/article/akw5g4/artificial-intelligence-cannot-be-inventors-us-patent-office-rules"
-    cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_ca/article/akw5g4/artificial-intelligence-cannot-be-inventors-us-patent-office-rules"
+    publishedDateTime: 2020-04-28T15:46:00Z
+    webUrl: "https://www.vice.com/en_us/article/akw5g4/artificial-intelligence-cannot-be-inventors-us-patent-office-rules"
+    ampWebUrl: "https://www.vice.com/amp/en_us/article/akw5g4/artificial-intelligence-cannot-be-inventors-us-patent-office-rules"
+    cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_us/article/akw5g4/artificial-intelligence-cannot-be-inventors-us-patent-office-rules"
     type: article
     provider:
       name: VICE
@@ -40,6 +40,6 @@ related:
         width: 2105
         height: 1184
 
-secured: "Ay6spdqlvG/d03dPVrKfPSMPtovGkvM+QjICLjpG4UaXWM3/V6MuT6buV1w5JGJkN1KEGjsYUmyiZDt/sABxqbxDYimNwDRLtfZDyZVu36IM9796VDQ3aMuSF7840N2OW2F+YH1JTYXGqj2BAk/F9ZvTRwOjvDI61ixzZhBBOkqivYPj1YbM+O0xVDP2dHQjDMiNKr3k2d4OUhFMnpND7qKk0a+j2bfaxQj20oG6KxkShTQlpUTptayYkblzIhfXJt5AeNhVA6SBmwO9gQXYUnGdZ6mRXtUwE4a68nPLIYnREpzWo7VwWGDeydtf4cNE;58okJlgJ3bGpefIG5zZ+RA=="
+secured: "m7tWtCYwYXpdjpV4RexTHfPyVH4gOFDvpmOTw4p/Q57m3gJQw1Swk+jYHVA3RmtnQGo2YKML1vVVSRYSrP/MAl4qoXQSIEim21c5GMom4ZMUDoVy5Xywh1rr+MmM/ojIdo5b7AvZAs2BxBbb/xftEjKG2/j3uqdpt/Qo7Sqnmw0vOjrJnc3dYXBn2DTEeEuWfqNs7pkZUiklsTDNxd7lXRcHHdD34B/KlkJzTh5apy8OMuRAi+2v6jtKd8NhB34IaKFEwwMYx3gimW+AaQIIvH3L4cRYz8an5X6UkDdnEy7unLDNa7ZVTr1iZZF3r2VgsTOVhWIhB55wGVWtZmN0bPl0SzvH3ErRvW81KWp/eNazcCQkqIHS8Hcv48qYn/radoEHZD3lc4XSrPOEdGBTms/HOYnmQiF1ZKulCgwl89+SXKLjqaTRhJhSt6Wp1RC7L7xgML5Y+zu6U85MqPeCqwUOOntohVw29ou4j57e+A4=;/b+jpn+hulq3GV4iO/SYsA=="
 ---
 

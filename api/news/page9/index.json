@@ -2,6 +2,51 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-04-21-specification-gaming-the-flip-side-of-ai-ingenuity.md",
+      "title": "Specification gaming: the flip side of AI ingenuity",
+      "excerpt": "Specification gaming is a behaviour that satisfies the literal specification of an objective without achieving the intended outcome. We have all had experiences with specification gaming, even if not by this name. Readers may have heard the myth of King Midas and the golden touch, in which the king asks",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://deepmind.com/blog/article/Specification-gaming-the-flip-side-of-AI-ingenuity",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-20T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "DeepMind",
+        "domain": "deepmind.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/deepmind.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://lh3.googleusercontent.com/KAS2k_9qAacqcCa7dCLfruoLoBsQgh_XBQQN7NU9rhmHLlVRExiNUvLv_sTAgM2mYqD1KZ-V7oyR5HcBRBRLVRgqek3ORqJ2gVQVTO8",
+          "width": 512,
+          "height": 288,
+          "title": "Specification gaming: the flip side of AI ingenuity",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-20-new-ai-algorithm-brings-us-closer-than-ever-to-controlling-machines-with-our-minds.md",
       "title": "New AI algorithm brings us closer than ever to controlling machines with our minds",
       "excerpt": "After that, the sky’s the limit. We may one day use chips and AI to make secure mental connections with cloud computers. This would make machine such as ATMs, that merely exist to authenticate a transaction, obsolete. And who knows what kind of alien aesthetics we’ll end up with as a result of a less hands-on approach to reality once ...",
@@ -1019,51 +1064,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-20-myndyou-uses-ai-and-passive-data-to-detect-cognitive-decline-in-seniors.md",
-      "title": "MyndYou uses AI and passive data to detect cognitive decline in seniors",
-      "excerpt": "A quick glance across this landscape shows fall-detection contraptions, targeted social networks, and more. Artificial intelligence (AI) in particular is gaining a firmer foothold, with AI-powered social companions and fancy wearables designed to track all manner of activity or changes in behavior. Fledgling Israeli startup MyndYou is using AI ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/20/myndyou-uses-ai-and-passive-data-to-detect-cognitive-decline-in-seniors/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/20/myndyou-uses-ai-and-passive-data-to-detect-cognitive-decline-in-seniors/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/20/myndyou-uses-ai-and-passive-data-to-detect-cognitive-decline-in-seniors/amp/",
-      "publishedDateTime": "2020-04-20T03:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/Elderly.jpg?fit=2001%2C1000&strip=all",
-          "width": 2001,
-          "height": 1000,
-          "title": "MyndYou uses AI and passive data to detect cognitive decline in seniors",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

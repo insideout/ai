@@ -7,8 +7,8 @@ webUrl: "https://www.cnbc.com/2020/04/29/ai-has-limited-role-coronavirus-pandemi
 ampWebUrl: "https://www.cnbc.com/amp/2020/04/29/ai-has-limited-role-coronavirus-pandemic.html"
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/04/29/ai-has-limited-role-coronavirus-pandemic.html"
 type: article
-quality: 78
-heat: 78
+quality: 80
+heat: 80
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 topics:
   - AI
   - Google AI
+  - Facebook AI
 
 images:
   - url: "https://image.cnbcfm.com/api/v1/image/105318044-1531141658275china_tech_surveillance_3.jpg?v=1531141775"
