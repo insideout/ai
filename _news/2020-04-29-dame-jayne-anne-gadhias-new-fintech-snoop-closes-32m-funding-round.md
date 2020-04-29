@@ -3,10 +3,10 @@ category: news
 title: "Dame Jayne-Anne Gadhia’s new fintech Snoop closes £3.2m funding round"
 excerpt: "The fintech only launched earlier in April, a month ahead of schedule, and has already doubled its customer base."
 publishedDateTime: 2020-04-29T10:54:00Z
-webUrl: "https://www.altfi.com/article/6518_dame-jayne-anne-gadhias-new-fintech-snoop-closes-32m-funding-round-"
+webUrl: "https://www.altfi.com/article/6518_dame-jayne-anne-gadhias-new-fintech-snoop-closes-32m-funding-round"
 type: article
-quality: 24
-heat: 24
+quality: 4
+heat: 4
 published: false
 
 provider:
@@ -17,12 +17,6 @@ topics:
   - AI in Finance
   - AI
 
-images:
-  - url: "https://www.altfi.com/images/featured/dame-jayne-anne-gadhias-new-fintech-snoop-closes-32m-funding-round-.jpg"
-    width: 1200
-    height: 720
-    title: "Dame Jayne-Anne Gadhia’s new fintech Snoop closes £3.2m funding round"
-
-secured: "6XM3EU7VSwGd5OiSGd2pgeXYEsaYts7sF73dsL3HjWELcLG72Sh4blD6baFvAbLdQgO1j4kph30/nTcNRlE1Diw+CUFeQNYcn/ADaBt80wZ9mnTAZvI18mtMP0ujPBJPztu4gUFzg4c15RUIU4aNtWNY5GW+lwgEQCWFyTMMdORXWx8QlLeSmCqtQkZr1gCJifjiNAP76ac1w1jXSXtzy03uNLyAKjA9gTpVyW4hYH9l09ni43KYhXOr9V9Wxy43UAUJ1l5k91Ni1FlWUp/2ikCM0IHFb7XkTAXESCDWa4gYcDvvdy0LfuUiEJf0r8c5;JPVSRFdkD0c/UkDAJFCYWA=="
+secured: "dfNdKSO/vEUearYOcFBb8tOixRK74I6u7zGvLYjNBTlgMUVsguCkPv0hnWE0HValfMCnkSu7DS2cmdJBdFP3niUFh8rhUmTiKiZ5yRNFfelQFOUBiwqYyB6sLHVz22vYLro7QUf6Cmkh++uszHVdgQPyLafBEetMIzUucr6VKqgfkpHLvvE59IccJisEqprUKZ+FRkMvYsqkz5LiX9Za3GH6P2gANtyQ70zRhdcfBibGupTJ+378208E0ohauzWDns/pHKZeCV7rZphzxpW+G9kAAYksgefO0UzU5iElwa0fxjW1lN00Rb68btdjtSjqPAPTHWJY5cg0JRFmZMGgOfjbpZRwcIhBpOUW2kwmmrDx3+Bs89d6cIDtb18wS0FOHpDan5lMwu4WQR8a2ckKVaI7OFdPkLdTj1EhnJaWBzHZHkThQNxc5uhpXkNpZJNSZUzf+CRIbSyXH8xkS2PpBeEMxXyP3i47Y3NxEMgVgNw=;eBXknV4jhu6Ecr8CiJ3dTg=="
 ---
 

@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Google Reveals Self-Driving Tests Started In 2009"
-excerpt: "The idea of self-driving cars has been around for some time with recent testing on public roads approved by various governmental agencies. Now it turns out that some testing occurred even before the regulators were regulating."
+excerpt: "Google just released video footage from its archive of its first-generation Waymo Driver. \"Now, more than 10 years and billions of real-world and simulation miles later, we're releasing footage from our archive to share the remarkable progress made by the first generation Waymo Driver,"
 publishedDateTime: 2020-04-27T20:31:00Z
-webUrl: "https://www.mediapost.com/publications/article/350573/google-reveals-self-driving-tests-started-in-2009.html?edition=118171"
+webUrl: "https://www.mediapost.com/publications/article/350573/google-reveals-self-driving-tests-started-in-2009.html"
 type: article
-quality: 24
-heat: 24
+quality: 4
+heat: 4
 published: false
 
 provider:
@@ -17,12 +17,6 @@ topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://s3.amazonaws.com:443/media.mediapost.com/dam/cropped/2019/10/10/waymo_0Y3v4FD.jpg"
-    width: 600
-    height: 375
-    title: "Google Reveals Self-Driving Tests Started In 2009"
-
-secured: "AH5IW2MpV6f4adl7gj9J+yoo+Czz1PpaUo9Z4UVyhqFaj0N93dfIPudX3aquZVEMyCaBoVZyczqkHfXCBJnC79MdtWMF4E1JkqbzSPhYpXFvjVSVmWwvvZmUobbwOW5TyfYPkUmfLRY58jyMnbY3JtQigz8l1Ff9mW03R1rRnJR+G5WTr2LjeOYYageR7rTc8Dor96IdUXwwjyEx3sM3OPKWVjvgMsu05bDXcfrrJ/c1/gA9GLPAGQXYL6CSXTTnWTMIRBMGOVZ6eaGPPFc+Qb1C0EmgzP3/uWmwbWyfB0mwFETkK9s9ZswSXh9NdVBnP5SAwHJB2SgU1QoSiqsW3r01z/pHSLKajhwxwvfKsBawhBXLA9tht2Y/b1+Al1DUk1f2bMztX+TXVfzDYf866+eoWHYGQ0kIHFfxLwohtwql+UuZWPjZb9VW93dTGHRNyMb4aVvZqQ7vU5hiCBLRLToeqTs6Mdvw/oPeeQoWMnk=;OyPzMt3/C5YZLv/ezZGxdA=="
+secured: "xbyKF1eNYd3oVSyndMS6PJFS8D44pf+Thj1ZlnmGH2B/UTXpHxXJD1vPoS9QB4GhhCeXFwaJ72iiO7X5gSZMVlF55fHnhqdDHQXYwQq02PvgW2NDqTdyN7qtjpyVi9pVaXTIbTh8aIr68TcD3F7Eg5XtbpOrx91UwNsecZZ2XzrE3mC1aBS8dDyE98EEdH063UFsdzdgeCrbTfcJNwBhFH0aiJB6pD3IpzglgzQCd37fVKCLXYOivfj5em+swoSa0ulHk5YEB2bdXHZ5P/cMbLo3zDNSGrZWPhB3dbnvAcypQmN57Vkdf2CWAzzZCEKDEHapL7n+scTuZ7a4XFjyh7Z6BB/wAcmEeWFu56Fs6flgSZ0fWPkF3aYCk1MJXaqag/jbOQR3CEtuw289jSIAz7gP4+5Yx3byx7Tqi9/Lo9VgGlAeUajlsHIZtQh+yZvYAQfqkTbdqIAggvoadNTbQ0zElzZJ08o/HtvQrMgQCgY=;aofYYr5Ba2dkXbKPiaqe9w=="
 ---
 

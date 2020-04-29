@@ -23,6 +23,6 @@ images:
     height: 944
     title: "Facial Recognition Payment Users in China, 2018-2022 (millions and % change)"
 
-secured: "OLMm02NIOyD8wFNG0pChM5Txdjxb/K3o5Nf2MQULIDUEcg3DKJTb8MP4jFxOdjyz/fvM0ctZS47busf0JvQKyqsx6gB8DHjn8wkZN7SK6HTcATs3rofsmD37LK02gCVBVmzcAdImA1N3pbyhzRlQbbpY+hid1HXqLtfCKjA2Zk1fYtxODC6Ox0/1WYBXgGP8AwUP8/On6VObL2AFcx9+rMY0r1DWz9ECyaQPk5IaFszKYi1/JMKtm9sXD9rpSoDT8hoEq4RuPGNAL5wboveyvVP2r8sdnPYbEp5dU00RKdme5qclWWK7dYdO/40zHSOi;WAV0ScbORnTtsa0WpP0g0Q=="
+secured: "+fOiuOk1p6OywwGYa8y42KZWOYFn0zDeS/Pj34hcbX3gzwJKx06G1X9VvNgpBDX5URm4/nlze74XGoGf9yF3e3UBKLkbnIyAjBRlsQCXRyhg5qi0pv/C3swz+Wq4KADl+T8fm2v8gtWfENCLZzotG3y73fEkX5y/9w7HySjeL2534W2WZyt0jKFJz4wY3DFWFulfABzqOw5q7oojy2+4/JPNvTSpd7TU/+AIDnuTyM/6U0KqDxuf3eAgTuUOLBVKM+B/gXD7pqZBwVPt1mlXb8q9K6zngEYBE+QTmueE2tPTBI5SjB/gGOQnJFt9IngDprpHaKkoI5N43cnK+a/O1mEkxTtT2QOO3P1x7Z/CojypWfxWkC/8Dx8x2ufanus9fwp2SkP8xXLpBArSDXh2lqiGjitAmZCJnVogFzgjGa5P14g1Lxdbsreh6kDQ9Zw/xRYkuaVGezQO+AgVUNDZDLZh+2yn5ZBxTJUFu29LIxE=;uhkAgbS0y4Ej57pazSyFTg=="
 ---
 

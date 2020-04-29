@@ -28,6 +28,6 @@ images:
     height: 604
     title: "Google medical researchers humbled when AI screening tool falls short in real-life testing"
 
-secured: "FyQGUDjb7lE/LMSq8DWKp+DFlkCHjEF2SaXf6vc08LqUPQQik2sQ7awMs8DzZ9kAKMd8KvBm5seD0Lrz46CF9mWi7/d/69FgjMB1xfLHu1WIJnS/7HZbzfCgr2aA7d+UoATmOFo2MSsICq2wEiKr88d6TToOEUvOS3rx0kzgNR+g4LPdudKcBe2yyaCS1CdjVF6M+aNRq2w4oLwc6v/O7+I4rP/TK+pCicE47+OzHU1TW7HWBf8O0NofZIhuYWn6kcxXmswoMXhiy+mrZWXiIZyQMK6+/FsYTlUFMGsEH/3QbxZ1zcZ3CK/dqfqGTdt4/uDAPebP48BUa+mcWgZCY0g/FGVQCsliEPLlMfZKSd2+2Q7KdEvPG05SvjWV+gp6R6/bSfjWUZTiagL3Gq2kWpOrG3tDq7uEXromBB2jTz9adNQpFmpUWFuY/YrtzNmpRip25C/Yich3CBzZGB+cc7VVa37Qm1BSL7zeCGEMh44=;oEG7U3mJ6Jfj8b4sRHLinw=="
+secured: "pbLGyr26kMiBMm4E0Qv8pazi47hiiYOcBElffQyBgp1DgRx79R4TekHmeuF2dt0NaIadvNMC6u66TcJmCt9syXWyobN08RmmAYIML6eWWQeFwjBZ42iRlQmQjVgh5iOkpVu58Bs6z0JRWMWf0LdjBAJPNHx6rE8eA6+Q9n9AMyzQlBw3GsBVpsdDhzflJQR8Gb18pL8O+O3LQskZo1NggQE/LQjUb46k99becNo8tiEUL43pj+K/yVEK/SAQXeEiBC3U3azV4BfKEz8gdq+gakyxgqDbBfiXkGyc7FpN0sMm+6YWIAu+C+id0Eh12Bh5a9/G+r2fBRI+9ODqPpj8e/9GyN/aO9SJnMakDlfnNT3ThGhChe2dpLH83pTCUfebdIh5o9RYY0nVEZQbxRkL+g/HqvQ9duLMRXhAHEqJXcnSCUp0WvB3i48CJR4LnngJBOs81dAyl8/k+qyHfyE5jl1+DThMGlM5tc5VxiR9zt4=;vQ0plie1if7+zgMwTwDPmg=="
 ---
 
