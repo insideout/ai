@@ -2,27 +2,22 @@
 category: news
 title: "Study indicates artificial intelligence could help stem tide of school violence"
 excerpt: "By leveraging the basics of artificial intelligence technology now used to predict risk for suicide or other mental health issues, researchers developed an AI system that analyzes linguistic patterns to predict a youth's risk for committing acts of school violence."
-publishedDateTime: 2020-04-28T16:02:00Z
-webUrl: "https://www.eurekalert.org/pub_releases/2020-04/cchm-sia042720.php"
+publishedDateTime: 2020-04-28T16:25:00Z
+webUrl: "https://medicalxpress.com/news/2020-04-artificial-intelligence-stem-tide-school.html"
+ampWebUrl: "https://medicalxpress.com/news/2020-04-artificial-intelligence-stem-tide-school.amp"
+cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-04-artificial-intelligence-stem-tide-school.amp"
 type: article
-quality: 35
-heat: 35
+quality: 33
+heat: 33
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Medical Xpress
+  domain: medicalxpress.com
 
 topics:
-  - AI in Healthcare
   - AI
 
-images:
-  - url: "https://www.eurekalert.org/multimedia/pub/web/230300_web.jpg"
-    width: 1440
-    height: 615
-    title: "Study indicates artificial intelligence could help stem tide of school violence"
-
-secured: "9vbTFarbBPzeaYQ+S/E+Bz7ywXlWiEIEErttLM4RLYWjJCk6uqnFEApiSTySdYJ8IFeTeEh7162zsbwzExLjjkSUAyAZFoktcyNDa1T8UsUeBxPmTFs4Tmi/tPJF1ECO/Sm84C26A9PdahshlQTapY4Rcax85cqbjqB96DE9GigG3dyMULxoaDr2fanywk4lh4+n7pov+RlR1jzJnESeAhuSMaIZXcPm/T6i1O5C33tutYcYD8wbGIRGc5Jh5z10lEGAHs0wz4hNUiatRzLAQVpaCJBnrqyd3QLJG9lrWfrhYkOTUlZ2Q6SvlvNqvLS2;XpVGH3Z3Ust8/VHoYazzyw=="
+secured: "QuoIzBxbtBkSkpHP1mdRfIrTctyy9aOolnAdoDIhxuyhhYFj6N2LmFvt/bJUmJF+1XdCYOW51QZFWmdurH4bO5ftdEfxf5CtGtBqF/JvXVNuQWE6GuAC9X1mzn2aOWRfIgXAhUB6kk/HF5sj+djgNZHT1i492GCr9MPWNNmgrC/lWqOV2f5OuXyHV6T7SOCLYm51HF81qlRU3ombg2mGDH8bo/xVYtv6E+P9U/NjsmH8uJNwl5GJUxCts5wqRa/9EZ7FqNM37OuiDjFV/Jof4Ly39xUMOMk0fjN5JN1HvWzsCG/63GilHPlWp/HrbxTQCnxlcg6v9C5ali+xsEpnDfoaPGjePfdhSLBw24BUUPLgSp/MtA617y6ELkGox8xdrq6pj1rdGypqvPlwSANbjBabkPtkovH7zOg/GWUjC/YnkJ6hw5IMCu4TLns0J0ZrKy79fodjuvOZ7tx5haHJXR2NY/ewe7WwKxGfaDZQD4s=;iwFNMimnJiAAMi29H1tujA=="
 ---
 

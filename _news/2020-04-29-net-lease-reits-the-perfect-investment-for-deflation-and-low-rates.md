@@ -26,10 +26,10 @@ images:
 related:
   - title: "Artificial Intelligence Cannot Be Inventors, US Patent Office Rules"
     excerpt: "Last year, two relatively mundane patents—one for a shape-shifting food container and another for an emergency flashlight—posed an existential question for international patent regulations around the world: Does an inventor have to be a human?"
-    publishedDateTime: 2020-04-28T15:46:00Z
-    webUrl: "https://www.vice.com/en_us/article/akw5g4/artificial-intelligence-cannot-be-inventors-us-patent-office-rules"
-    ampWebUrl: "https://www.vice.com/amp/en_us/article/akw5g4/artificial-intelligence-cannot-be-inventors-us-patent-office-rules"
-    cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_us/article/akw5g4/artificial-intelligence-cannot-be-inventors-us-patent-office-rules"
+    publishedDateTime: 2020-04-28T18:44:00Z
+    webUrl: "https://www.vice.com/en_ca/article/akw5g4/artificial-intelligence-cannot-be-inventors-us-patent-office-rules"
+    ampWebUrl: "https://www.vice.com/amp/en_ca/article/akw5g4/artificial-intelligence-cannot-be-inventors-us-patent-office-rules"
+    cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_ca/article/akw5g4/artificial-intelligence-cannot-be-inventors-us-patent-office-rules"
     type: article
     provider:
       name: VICE

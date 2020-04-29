@@ -2,10 +2,10 @@
 category: news
 title: "Artificial Intelligence Cannot Be Inventors, US Patent Office Rules"
 excerpt: "Last year, two relatively mundane patents—one for a shape-shifting food container and another for an emergency flashlight—posed an existential question for international patent regulations around the world: Does an inventor have to be a human?"
-publishedDateTime: 2020-04-28T15:46:00Z
-webUrl: "https://www.vice.com/en_us/article/akw5g4/artificial-intelligence-cannot-be-inventors-us-patent-office-rules"
-ampWebUrl: "https://www.vice.com/amp/en_us/article/akw5g4/artificial-intelligence-cannot-be-inventors-us-patent-office-rules"
-cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_us/article/akw5g4/artificial-intelligence-cannot-be-inventors-us-patent-office-rules"
+publishedDateTime: 2020-04-28T18:44:00Z
+webUrl: "https://www.vice.com/en_ca/article/akw5g4/artificial-intelligence-cannot-be-inventors-us-patent-office-rules"
+ampWebUrl: "https://www.vice.com/amp/en_ca/article/akw5g4/artificial-intelligence-cannot-be-inventors-us-patent-office-rules"
+cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_ca/article/akw5g4/artificial-intelligence-cannot-be-inventors-us-patent-office-rules"
 type: article
 quality: 87
 heat: 97
@@ -43,6 +43,6 @@ related:
         width: 1200
         height: 1400
 
-secured: "atw13rSDjh4Bu2fDFwaDVl5SHRVD82Pmh10SnDvIfDxLWBvNuM1oOpMG1o1lyf7f367ISQguWwkidXlNegE4V0Bflxy8giFJeU/nsw6B+hbPTBw430GKvYG7GL6fpg5cpaAeLu5hxKFIhOhPrvxdtXBWOVg1fAlVmdQVtSlFsrFj6sXnmsy1ffGefwQlDM4AP4xy07WF3yGTbAtqmtV8HLVic7ldTlHwoF/wuwSvM2Y74qbV7PVttxxF8+XzinWqTJ+Yua/65I880aUu1O4ifZpBxA/4iPIontqDA6yGCYLPx1c5jdyhIpQjZSCcC8Ko;symAGqwekoLzjHps+3C67g=="
+secured: "qLFmX8B+dZzQxKYRRTV0IJdGdd/DqhdU9YNj+8xohmSCQYhuXpRPidy85VvOF7yYdghL3vWB8Us7xVOaoE3hxGtq/lwJounogGRcZ/hDQgHkd1pphFWedIZkojASFLoY96bhe0U8/4lDz2MPgD+BLtIy0prsjqJJmXh2RMj/UlrOhbUAMjiYF/Huh37Ghkm/rFhHikZTAKSC33K7FMImyoJ+ft1lUKzKdyAtFHEnH/pMuufCWizqvL3EwMhhNZDK/g35cpaWp8w5hRefrMVr6cWIUa2RftBFJjHewfsrppogGBT/VnsDHbEsBPKeXFfD;6WfrbwfO6l5PG/rnLW2IhA=="
 ---
 

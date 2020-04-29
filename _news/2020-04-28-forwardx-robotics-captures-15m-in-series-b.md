@@ -1,11 +1,11 @@
 ---
 category: news
 title: "ForwardX Robotics captures $15M in Series B"
-excerpt: "The Beijing provider of intelligent warehousing robots – and maker of a famous, AI-powered suitcase – continues its North American expansion."
+excerpt: "The Beijing provider of intelligent warehousing robots – and maker of the famous, AI-powered suitcase – continues its North American expansion."
 publishedDateTime: 2020-04-28T17:03:00Z
-webUrl: "https://www.freightwaves.com/news/forwardrobotics-raises-%2415m"
-ampWebUrl: "https://www.freightwaves.com/news/forwardrobotics-raises-%2415m/amp"
-cdnAmpWebUrl: "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/forwardrobotics-raises-%2415m/amp"
+webUrl: "https://www.freightwaves.com/news/forwardrobotics-raises-15m"
+ampWebUrl: "https://www.freightwaves.com/news/forwardrobotics-raises-15m/amp"
+cdnAmpWebUrl: "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/forwardrobotics-raises-15m/amp"
 type: article
 quality: 74
 heat: 74
@@ -25,6 +25,6 @@ images:
     height: 674
     title: "ForwardX Robotics captures $15M in Series B"
 
-secured: "YoqghxGiS4PAXVY4/8LxW7aihvfLud12vk64KoZF9EaGnE6CGZ/vkTHcKtIeD8j490rmyoVllXVBRZdPy8rdequq2vZGlAHTmZ/L9a5qpa1V1/0d9YukdglAOogzRKdwkZGyrbUhonjLFOlS4lpt7A8jxUTdzJ3xSYtf7kwNljKKC567VallJe9lnd20W+dNIvrX6KiUW6dwKS8wxHxd2Cud+dBkoHUmb4bxF/AZLwGt2Wrzy/Iy53iFMZdOXcu/fqMdQ5yZ5Inbi+wCn0cgnlUO3Z02Tw0lzAByWwOIzp8GERTHokfBUFTlXKj81Cog;sSL1KlyOio+zoyeBCEMa/A=="
+secured: "9yxnvy/5SviICvwvBVCoHVqCnbxNr1Y+AlISfrxfa616Rw04fyRB2BkTF0G2u5Wm6FC+X4mSkIVgEc6c3/BglIThN7YsJQCVQdH0U1FVems0wQRd13fqFTmYRMF321nkP89m1bEY0aixVrZWDynW4I56NI7rOsx//RnkMoh+QAmka8ay5OvOXY/2+32u035J0YMnWR0rtkQ+04UIIGoyKYdqqBjwPAYMmsCWxXWWA5lJ2c1s+nIr36Jf1Mgeydcb2165GNX0HONdn0wXAUOMdE2PpxvwZCRboXApfJI9fWtFsXT9orrOKb7SlVI6+5M9;7pIn6xp73T7RO17jxZIk8w=="
 ---
 

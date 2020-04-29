@@ -3,17 +3,21 @@ category: news
 title: "UK spies will need artificial intelligence - Rusi report"
 excerpt: "UK spies will need to use artificial intelligence (AI) to counter a range of threats, an intelligence report says. Adversaries are likely to use the technology for attacks in cyberspace and on the political system,"
 publishedDateTime: 2020-04-26T23:09:00Z
-webUrl: "https://www.bbc.co.uk/news/technology-52415775"
-ampWebUrl: "https://www.bbc.co.uk/news/amp/technology-52415775"
-cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/technology-52415775"
+webUrl: "https://www.bbc.com/news/technology-52415775"
+ampWebUrl: "https://www.bbc.com/news/amp/technology-52415775"
+cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-52415775"
 type: article
-quality: 59
-heat: 59
-published: false
+quality: 89
+heat: 89
+published: true
 
 provider:
   name: BBC
-  domain: bbc.co.uk
+  domain: bbc.com
+  images:
+    - url: "https://insideout.app/ai/assets/images/organizations/bbc.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI Ethics
@@ -25,6 +29,6 @@ images:
     height: 576
     title: "UK spies will need artificial intelligence - Rusi report"
 
-secured: "uYUr7bquvMx3e7INjFmQSNJB0S8EX7ImB8YanFI0PQbzKh/D7BnlMkUVZ8MfV4BTZKTlT6HEUmNQ0c2/elE7x4x2v7fBC0JJxKp8P2hWdtzyk8WZsM5V445EI9+pFWtIZVquyJBYwLVdY0kfi+k1Et+FrM7j+WAO6s7/DIyCZ8ly3xte+AmBJxC0SiRIpPDveP6VWw0FcVuyu7MZvrFIHeBR+8WSHLYU7okb0aAVD1CnFpXZB8TOp4TBz6U1THeUI7+V+PZI13bf5pA3I6LudHVNWViijAk1DygBaCECBqL8MiD1U7skEAfvVKduZ49likJuKlyv3fBMLjesKoi/x9jpahWmnuvYfkAuFzL38AvBdw2trFY9dkZG72WcwK7/7RzYK5ihssyxtYWmD3DB6U2ZjgYl6+mZ9krtB00zipgKxSKOzcRtjf9BVeO/qQquKt7djlZQbwDHY/KGHE6jCvb46ioveShD79sy7G2I1l8=;K0PImQAJbTTpXySUXceR6A=="
+secured: "dOc8TjUWSsz3oETaVOFyQzB2GtpQXyWAaob5ovWrgAwh+LabKTffdtA5C4xxaB8EcBu3Gsq3/pyufXXBw9CbqGb+rdqcp5oV5xeh3EMDm+FE7FSd5XpjEHNSy6oYHmLvYQAmLAlpTTcTEPIU2aBml0vsMi0Wx6CLC1wnXuc3ECMlANgaONGiRmyUwu4Ba0PY65gPsuB3eK0sO3FpMg0BzL/cxZpN0CCJPQ23Kcz3i60IzTGpP3gd/iNs3WnrWmu2V9LsSEQM7l5tqeXMFWM9oNMcMePcyIoVDY2mtgz+V95JLWb83rCk/UmxP3cCTAQB;VpAtDTSSrGkbQ8mgHX5PMA=="
 ---
 

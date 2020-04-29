@@ -22,6 +22,6 @@ images:
     height: 627
     title: "Analysis on Impact of Covid-19- Artificial Intelligence (AI) Market in Manufacturing Industry 2019-2023 | Use of Industrial IoT to Boost Growth | Technavio"
 
-secured: "Yk9CtUx4zvk9O0gAJldhJnXWDo0/O4gykPtxk7m7ixL4Yk31OD0x0YwmxK1uR5jIIf7V0nZqd5f6PO4F0KOEPpHSDMofFQEpzH7wePzZu53/gec8Wab6r1u0UUVZ2dEz6+96VX2Dw5Jtdk1eOoklRXhhYrKu0wKP4K2jAz8MfYpEJIR03nfMg5a52lNkz9d+QeQ7KlVuitI6yi3ZHGmQWPP9+x4N4a6NT1sLmZub71Tc0+9vEkwwokVHIiBSftYn6Ca7J1E5GnQ5zwL5e7NFYSCIWW/dPxmuevbDj6Y5JWP5lU/brcxDEgQuu8ESU/u8;e9JF/ZMuHhaZYDpLq1M8xg=="
+secured: "knemi+xFGizi7glfk7R/aeeD6qA6Gj1yqo1jKcb19WnXQmg/gDcLMakyDyOsegPrVHxXtGa+8ZlIBP4Ag8lWzcP6y2DZiH+nX1N7l9z3L23nrZ3Jw/O5RChhTnodoC83mhpY+TLtagC0YBmJz3ZdsPk4vAt8LuTlZTzsnQeunZwCzTcRDY7wf9VmlT//XaeOGuOcFYRdjJjVxeyTVt+GVaUmflow4/HKqzk+rfYCRWBAJfu/9Wiazp6cx2c91+t9tO2TT8To6iKpLA2EEeKeCKVRuDZgTuJHTvw+fXdah23aV1U3LEnu3rRp4G/zPD30NEzirGMlsBissyAd5L44AAyAPB307mNZT/YNNYQZZGHxsJBxWiEw5Mupg0NFaSEHo0GDJjrzGI0ntCpQngQGPlj3oPCebR08/CpZMnnAJQG4Gxy4DcrJaRLA86IPLC0lobbznsswRms7E0kMcxd1JKnSJBGhlMYSmtpMGYhSFJw=;TIeijQ3914W+rdrq6BBc2A=="
 ---
 
