@@ -5,7 +5,7 @@
       "path": "_news/2020-04-28-now-is-the-time-for-an-economic-stimulus-in-artificial-intelligence-or-the-us-could-fall-behind.md",
       "title": "Now is the time for an economic stimulus in artificial intelligence — or the US could fall behind",
       "excerpt": "Increasing research into AI will help the US economy recover from the coronavirus pandemic and better position it for the future.",
-      "heat": 76,
+      "heat": 78,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.businessinsider.com/us-should-increase-ai-research-as-part-of-coronavirus-response-2020-4",
@@ -43,7 +43,8 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
+        "AI",
+        "Facebook AI"
       ]
     },
     {

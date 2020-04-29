@@ -2,6 +2,52 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-04-28-now-is-the-time-for-an-economic-stimulus-in-artificial-intelligence-or-the-us-could-fall-behind.md",
+      "title": "Now is the time for an economic stimulus in artificial intelligence — or the US could fall behind",
+      "excerpt": "Increasing research into AI will help the US economy recover from the coronavirus pandemic and better position it for the future.",
+      "heat": 78,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businessinsider.com/us-should-increase-ai-research-as-part-of-coronavirus-response-2020-4",
+      "ampWebUrl": "https://www.businessinsider.com/us-should-increase-ai-research-as-part-of-coronavirus-response-2020-4?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/us-should-increase-ai-research-as-part-of-coronavirus-response-2020-4?amp",
+      "publishedDateTime": "2020-04-28T16:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.insider.com/5ea8575df242ab230e628669?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": "Now is the time for an economic stimulus in artificial intelligence — or the US could fall behind",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-28-mit-researchers-release-clevrer-to-advance-visual-reasoning-and-neurosymbolic-ai.md",
       "title": "MIT researchers release Clevrer to advance visual reasoning and neurosymbolic AI",
       "excerpt": "Clevrer examines AI models ability to make logical conclusions about content in a video data set using a hybrid of deep learning and symbolic AI.",
@@ -1257,43 +1303,6 @@
           "width": 1200,
           "height": 600,
           "title": "How ISPs are using AI to address the coronavirus-driven surge in traffic",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-27-the-godfathers-of-ai-just-won-this-years-turing-award.md",
-      "title": "The ‘godfathers of AI’ just won this year’s Turing Award",
-      "excerpt": "Facebook’s director of artificial intelligence research is one of three AI leaders who’ve won this year’s Turing Award, sometimes referred to as the Nobel Prize of computing. This year’s ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://bgr.com/2019/03/27/turing-award-winners-announced/",
-      "ampWebUrl": "https://bgr.com/2019/03/27/turing-award-winners-announced/amp/",
-      "cdnAmpWebUrl": "https://bgr-com.cdn.ampproject.org/c/s/bgr.com/2019/03/27/turing-award-winners-announced/amp/",
-      "publishedDateTime": "2020-03-26T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BGR",
-        "domain": "bgr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://boygeniusreport.files.wordpress.com/2018/04/data-center-corridor-aritifical-intelligence-ai.jpg?quality=98&#038;strip=all",
-          "width": 1500,
-          "height": 1001,
-          "title": "The ‘godfathers of AI’ just won this year’s Turing Award",
           "attribution": null
         }
       ],

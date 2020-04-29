@@ -8,7 +8,7 @@ ampWebUrl: "https://m.freepressjournal.in/article/sports/nba-announces-multi-yea
 cdnAmpWebUrl: "https://m-freepressjournal-in.cdn.ampproject.org/c/s/m.freepressjournal.in/article/sports/nba-announces-multi-year-partnership-with-microsoft-to-personalise-fan-experience/5201837a-0b39-41a3-9ede-49fcb87aee81"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -24,17 +24,6 @@ images:
     width: 800
     height: 365
     title: "NBA announces multi-year partnership with Microsoft to personalise fan experience"
-
-related:
-  - title: "NBA announces new multiyear partnership with Microsoft to redefine and personalize the fan experience"
-    excerpt: "The National Basketball Association (NBA) and Microsoft Corp. on Thursday announced a new multiyear alliance, which will transform the way fans experience the"
-    publishedDateTime: 2020-04-24T07:05:00Z
-    webUrl: "https://www.oneidadispatch.com/nba-announces-new-multiyear-partnership-with-microsoft-to-redefine-and-personalize-the-fan-experience/article_afcd11ea-3a50-515a-97dd-dcac5c0e470c.html"
-    type: article
-    provider:
-      name: The Oneida Daily Dispatch
-      domain: oneidadispatch.com
-    quality: 4
 
 secured: "jOoVcRG2XKtvB9KpFBHW4r4mhc8Etv9iHUKemYP9SxQarLfIq56T35rY01vP0E/hY1+ASKhTw9xxRix9+EOxdCm4PihSCSBONul/B3s9/LlFWJI0IgT0f7Z1WHvfaL08AKIcqiI1XTVZ7r5mSaSzcJBbHXFNIpvdbzYMbzCE4OoBc8U3mivz3U/XHVxiQ7vw33RBjrJ5upJROYBFfZfHd0uCAa9RuEeD22MQ1J8ml983pE9EC+C9XDrfMM//WapQ0/yjNtkhmWw/Ldqr9egmO93yNGKcN8kF9xZjFcuTy8lgn+LqjMEFgfnracGwQp8t;v2qJ7egjbVZcTaY6K3ANFw=="
 ---

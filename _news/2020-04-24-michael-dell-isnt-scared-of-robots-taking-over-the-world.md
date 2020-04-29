@@ -6,7 +6,7 @@ publishedDateTime: 2020-04-24T18:03:00Z
 webUrl: "https://www.crn.com/news/data-center/michael-dell-isn-t-scared-of-robots-taking-over-the-world-"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -22,23 +22,6 @@ images:
     width: 610
     height: 457
     title: "Michael Dell Isn’t ‘Scared Of Robots Taking Over The World’"
-
-related:
-  - title: "Meet The MBA Working With The World’s Hottest Artificial Intelligence Startups"
-    excerpt: "He’s tasked with finding the artificial intelligence startups that will shape the future, as the US head of Baidu Ventures, the AI-focused venture capital fund of Chinese technology behemoth Baidu. Every day he hears pitches from entrepreneurs that can range from a robot that folds laundry to an AI that understands the human genome and ..."
-    publishedDateTime: 2020-04-24T07:56:00Z
-    webUrl: "https://www.businessbecause.com/news/mba-degree/6871/worlds-hottest-artificial-intelligence-startups"
-    ampWebUrl: "https://amp.businessbecause.com/news/mba-degree/6871/worlds-hottest-artificial-intelligence-startups"
-    cdnAmpWebUrl: "https://amp-businessbecause-com.cdn.ampproject.org/c/s/amp.businessbecause.com/news/mba-degree/6871/worlds-hottest-artificial-intelligence-startups"
-    type: article
-    provider:
-      name: Business Because
-      domain: businessbecause.com
-    quality: 55
-    images:
-      - url: "https://www.businessbecause.com/uploads/default/news/images/1586854674.png"
-        width: 750
-        height: 468
 
 secured: "vc1XrEn1jHxSshfmkC6O5cZFnZu8UFPii/lNmd7EP/d59NlIIKFAL+46/fc5MilXdwDikC5X2p1ycTb+kl6viCR0YRLxeeGo8WHIwxNVPDWZpwZkE4W7TxRucJ1hejoPoxOBmncfDK23Q/ndcIMMN2/pF54csAW4Z/T3K3gNGMOztNzYZcOnT2C808qcN9vnU0NwmEtB+/2/MrVuozRhY5/FY1E+bbJrrhkd2OuQXwLNkfFqP2AytHt2roJ9T1p+eadmA67QU0HKLFQxeSVsjPwYlrYq56LGB/yw5ZOXY234uh8P3G0fjWi/h30tojaHN7OXXBRX3mYGwKwDKA3S16Ykni3yjRAzR05ERSNfsK52xjQtARjX6vGLyxhJQr6Eag2d7qOKJbYItr1ZuDpFZ9XWU1N6PoubQLuXMvXl+iykWYPAtlRRRzDH6CjDXuQEdUKikZ3KXz1WNy4AbeJAtfbwYuieXHg3UZKdT0Sd7hI=;USPixqjU1ZiWMx3bDDEaTA=="
 ---

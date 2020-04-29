@@ -2,6 +2,43 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-03-27-the-godfathers-of-ai-just-won-this-years-turing-award.md",
+      "title": "The ‘godfathers of AI’ just won this year’s Turing Award",
+      "excerpt": "Facebook’s director of artificial intelligence research is one of three AI leaders who’ve won this year’s Turing Award, sometimes referred to as the Nobel Prize of computing. This year’s ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://bgr.com/2019/03/27/turing-award-winners-announced/",
+      "ampWebUrl": "https://bgr.com/2019/03/27/turing-award-winners-announced/amp/",
+      "cdnAmpWebUrl": "https://bgr-com.cdn.ampproject.org/c/s/bgr.com/2019/03/27/turing-award-winners-announced/amp/",
+      "publishedDateTime": "2020-03-26T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BGR",
+        "domain": "bgr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://boygeniusreport.files.wordpress.com/2018/04/data-center-corridor-aritifical-intelligence-ai.jpg?quality=98&#038;strip=all",
+          "width": 1500,
+          "height": 1001,
+          "title": "The ‘godfathers of AI’ just won this year’s Turing Award",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-26-dubious-claims-that-ai-outperforms-doctors-pose-risk-to-millions-of-patients-study-finds.md",
       "title": "Dubious claims that AI outperforms doctors pose risk to ‘millions of patients,’ study finds",
       "excerpt": "Many of the studies claiming AI outperforms doctors when interpreting medical images are poor quality and “arguably exaggerated,” according to new research. The researchers warn that overhyping the power of these systems could lead to “inappropriate care” that poses a risk to “millions of people.” [Read: Facebook wants to get into ...",
@@ -1218,51 +1255,6 @@
       "topics": [
         "AI",
         "AI Hardware",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-20-ai-in-sports-market-2020-industry-capacity-manufacture-value-consumption-status-and-prediction-2024.md",
-      "title": "AI in Sports Market 2020 - Industry Capacity, Manufacture, Value, Consumption, Status and Prediction 2024",
-      "excerpt": "... operating in the global AI in Sports market includes 24/7.ai Inc., Amazon Inc., Apple Inc., Anodot, Facebook Inc., Fujitsu Ltd., Cisco Systems, DeepScale, Atmel Corporation, ARM Limited, Microsoft Corporation, and Micron Technology, among others. About All The Research: All The Research was formed with the aim of making market research a ...",
-      "heat": 72,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/ai-in-sports-market-2020---industry-capacity-manufacture-value-consumption-status-and-prediction-2024-2020-02-20?mod=mw_quote_news",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-20T06:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "AI in Sports Market 2020 - Industry Capacity, Manufacture, Value, Consumption, Status and Prediction 2024",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
         "Facebook AI"
       ]
     }

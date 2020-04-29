@@ -7,8 +7,8 @@ webUrl: "https://www.businessinsider.com/us-should-increase-ai-research-as-part-
 ampWebUrl: "https://www.businessinsider.com/us-should-increase-ai-research-as-part-of-coronavirus-response-2020-4?amp"
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/us-should-increase-ai-research-as-part-of-coronavirus-response-2020-4?amp"
 type: article
-quality: 76
-heat: 76
+quality: 78
+heat: 78
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - Facebook AI
 
 images:
   - url: "https://i.insider.com/5ea8575df242ab230e628669?width=1200&format=jpeg"
