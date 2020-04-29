@@ -2,6 +2,51 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-03-17-cleantech-startup-bluephin-technologies-is-on-a-mission-to-battle-the-global-problem-of-water-pollution.md",
+      "title": "Cleantech Startup BluePhin Technologies Is On A Mission To Battle The Global Problem Of Water Pollution",
+      "excerpt": "Using robotics and artificial intelligence, BluePhin has been developed to have human-like senses such ... BluePhin can also share valuable data on water or air quality to researchers and provide insights (i.e. on pH levels) to stakeholders. The startup is already at work on developing its robot’s capabilities to include liquid waste ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.entrepreneur.com/article/347691",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/347691",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/347691",
+      "publishedDateTime": "2020-03-16T20:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/20200317055958-BluePhinfounderandCEOSimranChowdhrynjnk.jpeg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": "Cleantech Startup BluePhin Technologies Is On A Mission To Battle The Global Problem Of Water Pollution",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-16-roboy-the-robot-is-fully-compliant-soft-and-huggable.md",
       "title": "Roboy the robot is fully compliant, soft, and huggable",
       "excerpt": "Pascal Kaufmann introduces us to Roboy, which represents a new generation of robots. Technology tipping points for ... 1:21 How many jobs will AI destroy and why we need to share the spoils 1:39 Coronavirus and its impact on the enterprise Windows 10 Start menu hacks Telecommuting policy How to work from home: IT pro’s guidebook to ...",
@@ -1092,35 +1137,6 @@
             "attribution": null
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-02-novel-use-of-robotics-for-neuroendovascular-procedures.md",
-      "title": "Novel use of robotics for neuroendovascular procedures",
-      "excerpt": "Surgeons at the Sidney Kimmel Medical College at Thomas Jefferson University are pioneering the use of robotics in neuroendovascular procedures, which are performed via the blood vessels of the ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medicalxpress.com/news/2020-03-robotics-neuroendovascular-procedures.html",
-      "ampWebUrl": "https://medicalxpress.com/news/2020-03-robotics-neuroendovascular-procedures.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-03-robotics-neuroendovascular-procedures.amp",
-      "publishedDateTime": "2020-03-02T13:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

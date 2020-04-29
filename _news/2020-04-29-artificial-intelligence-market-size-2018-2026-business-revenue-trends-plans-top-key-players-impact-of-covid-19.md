@@ -5,7 +5,7 @@ excerpt: "According to a new study published by Polaris Market Research the Glob
 publishedDateTime: 2020-04-29T04:34:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-size-2018-2026-business-revenue-trends-plans-top-key-players-impact-of-covid-19-2020-04-29"
 type: article
-quality: 46
+quality: 48
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Autos
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
@@ -36,7 +37,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 62
+    quality: 64
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

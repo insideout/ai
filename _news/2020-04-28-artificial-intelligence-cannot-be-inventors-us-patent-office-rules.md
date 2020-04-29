@@ -8,7 +8,7 @@ ampWebUrl: "https://www.vice.com/amp/en_ca/article/akw5g4/artificial-intelligenc
 cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_ca/article/akw5g4/artificial-intelligence-cannot-be-inventors-us-patent-office-rules"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -27,6 +27,21 @@ images:
     width: 2105
     height: 1184
     title: "Artificial Intelligence Cannot Be Inventors, US Patent Office Rules"
+
+related:
+  - title: "Net Lease REITs: The Perfect Investment For Deflation And Low Rates"
+    excerpt: "What are inflation and deflation? And what cause them? I offer an explanation that forms the basis for the rest of the article. Five underlying economic forces"
+    publishedDateTime: 2020-04-29T05:01:00Z
+    webUrl: "https://seekingalpha.com/article/4340811-net-lease-reits-perfect-investment-for-deflation-and-low-rates"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 24
+    images:
+      - url: "https://static.seekingalpha.com/uploads/2020/4/27/saupload_5da4a1aaa60cc.image.jpg"
+        width: 1200
+        height: 1400
 
 secured: "uqHabZsw8R2AYTDv29TSY2IOSy75iE8NYcdDQ1QM7VNWbL7k6DaHTXEMDqmsr7ZRqX/jWsNvOdOZlxihBmtdZg01RkX1+RKoQtCDz90tm0zhkQfd88UsF6DMmuiwX0HV++hSE+lebb0sKMuMjCwiYyEFQmv+BhYbjGmTzD5izgAZbs6BH5SflY/GwajFROh5jtB/hjqT6pNQU44Bb5lgQslGhVmtruLvce1TH1H4dHPRVG27V4lSPb4A+Axt8ZXHnMlfXppwPJDSzBQUy0rr0r2c9noZgCvUIy0RdInKpT+44XjZhL5OOh6Z4/1LVtogZwhzdc6sS9UhgvvW5uUrRnRX6bPw9gnyY0RRxI6AOvPGj5acnCX9DVKR5QW4ll1LMHNmPL0Nff9hol9jO5HS9Px1Do8v/9LVO1iRTbea4B8LKM89pfXpt+8tFa9pQIs4lhwUSX/4TORSOWVEOCRCtsOFxyA7MCHOxOFPGVkCYiI=;wkCVSBwUapBC2UUXKIe8pA=="
 ---

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.infoworld.com/article/3540415/aws-unveils-open-source-mo
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3540415/aws-unveils-open-source-model-server-for-pytorch.amp.html"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -28,21 +28,6 @@ images:
     width: 1200
     height: 800
     title: "AWS unveils open source model server for PyTorch"
-
-related:
-  - title: "SD Times Open-Source Project of the Week: TorchServe"
-    excerpt: "embeds default handlers for common application, and offers multi-model serving, model versioning for A/B testing, monitoring metrics, and RESTful endpoints for application integration. In addition, TorchServe supports all machine learning environments, such as Amazon SageMaker, container services, and Amazon Elastic Compute Cloud (EC2)."
-    publishedDateTime: 2020-04-24T13:10:00Z
-    webUrl: "https://sdtimes.com/open-source/sd-times-open-source-project-of-the-week-torchserve/"
-    type: article
-    provider:
-      name: SD Times
-      domain: sdtimes.com
-    quality: 54
-    images:
-      - url: "https://sdtimes.com/wp-content/uploads/2020/04/acetylene-1239328_640.jpg"
-        width: 640
-        height: 442
 
 secured: "liA/gcqcgvgS5eBw+Mn2ihmsy0HS+Jrqat4woJdt6b8dZeZi894COa/67+8RlTC8Lcn9C7Vo9zz1oMQfYmWWe4HX29OnvXpUFNg3zobkkfw4V20Uy3G+4ApjY4ZZxVtYWQEgwtJOE99yMYl1gLV9rc9FoBt7izK3PelL8t5mmj3w1tOO/f4AqvqiNhXmWPINHCJ6rw/lNPbVHInncJeb6dBRLuERJYmvk1sARQknjBnaF/SquWRW7fUqFyb8AT5+LhxKA1WlYtQi4IJiMbKzmVYjXYZGk5zKq77gpC1a2Rzzhs75fjbIb7GmfomKP3XW;ah0htGsU1sEfj1wzchoGmg=="
 ---

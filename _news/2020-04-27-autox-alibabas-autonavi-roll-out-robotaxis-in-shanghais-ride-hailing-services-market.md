@@ -8,7 +8,7 @@ ampWebUrl: "https://amp.scmp.com/tech/apps-social/article/3081625/autox-alibabas
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/apps-social/article/3081625/autox-alibabas-autonavi-roll-out-robotaxis-shanghais-ride-hailing"
 type: article
 quality: 81
-heat: 81
+heat: 91
 published: true
 
 provider:
@@ -28,6 +28,21 @@ images:
     width: 1200
     height: 630
     title: "AutoX, Alibaba’s AutoNavi roll out robotaxis in Shanghai’s ride-hailing services market"
+
+related:
+  - title: "AutoX rolls out self-driving robotaxis in Shanghai's ride-hailing market"
+    excerpt: "Jianxiong Xiao, founder and CEO of AutoX Inc, discusses the technology used to make its self-driving robotaxis safe and how it is navigating the competition among other Chinese players."
+    publishedDateTime: 2020-04-29T07:17:00Z
+    webUrl: "https://www.cnbc.com/video/2020/04/29/autox-rolls-out-robotaxis-in-shanghais-ride-hailing-market.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 68
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106511020-15881347523ED1-ASB-Jianxiong-042820.jpg?v=1588134750"
+        width: 1920
+        height: 1080
 
 secured: "wn5GhHe9Ox4f4sB+gV0LuKqp2mAYCIse0Rcip6KGLJead9nxbPtrqauHZXSa/o1YWmN8IL4D2peg+2cJuRk/WELZ9ZAJnhqi+ezlJSNqL8sL5rmSgo68h+PmmPTdz74RYSJUX7VerM0vRPiZA65CON5rtT0Az/is/IkBJSR0JfdjADi0NnqGCDxZnUWNQUrnMl8qrdRqGtkuXgdvxGUwn8GJFeSo40M7g3N5AbVm/CSlSCWFRWY+pUfi78yJOJLKjaaDQZxMAqVdiMs+usMJM4R5cb7zXJCzAL1/WZ0M+VWC0zHzuHWlYxNmPwnu2+5D6QNIdUHNamJ2ZKcNO4BGm5P1cyxpUrEhWgrtcgadzBm+slOSdFQt349UR49USRnDgh7GuPkSCCAdIYs+Lvnu52lim6gppJAIC3EoVRuE4idioJXde98X9wAfAZQwIr/Q50m3uwXqsijC27gHnIWX6gbkcciDPF6UV6/vjWlphkI=;6bdQYByqkaJJPsSyJgygUg=="
 ---

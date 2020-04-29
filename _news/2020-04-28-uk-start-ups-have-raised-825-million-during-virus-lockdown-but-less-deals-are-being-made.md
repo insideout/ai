@@ -28,6 +28,6 @@ images:
     height: 2952
     title: "UK start-ups have raised $825 million during virus lockdown, but less deals are being made"
 
-secured: "5Bmu5X0kGU/HesUx9eTGkoRDLuw4Du2PqN6aCHNDvZrxN6xLoMMwYzh4QTqFumSznCU1GztQ6sc1i+e2D8j2ChwDyjJbN4lpI4mMH1kEovySLIZn4/19qvdvQ2STBWlQTnA8bRrOTTfiTidejOv69aT8bwuM96+u848+vr9rNFKEu0vDjHn85+hY8op8mWeSrzfMVZq4fawm6YZ4oWiy3l0STj2OTEbW5m/ZbVIrQ5edS1tvcGbS3GTcMO8Y/+ZMAeWbVVvAjqbekWHZ2k5vj570W/MCoQ60xIbIYcfxz787fpRq0CvmfLakGAX7HO5C;xEQjylvRVVscNbBbXHxSbQ=="
+secured: "VChPd1VxQUjGg2joFMRpmo1PsfFVPuh4HLtKHDSd6EbGAWj5TlHRMY/YQ2iB/DZq9aSZXOOj8+V+sP87cQd+dDeTUb2SSK0TEm6QFyktZrLutlarVzyeZ9Gb25o7HAVeCeDDRqCScVIB9D4OqcreFM1vet3t7DI1XXFpWwXp55b9UXbdB/+O7o1EBcNne+iedACXXj7dpW6+GufNFyL8UN8+QxPeMSwIPLKFqZubcW4TVcFLE7r9CjCIW115FnWkk5JRzJ8j23JWa4lqRouLkzlcBLStoWcD7nq14yP1zHJB3DxEl5s9g6N+tPXMg5gSF3NeQmhTz+1KzALN0d9Ps2wQnEmwY9vMgpti/x8Ji+WbE3d+dFxcYnL3Z2R1+I/nSpQTfN6eTnJx5ynVAepYmXJEXAn4K2I7DLKZsT+x6D7nodjoqQ1K8iHObW4Q6Xj8YmXIONpt2BRnJzwnk8oae7Nt9RKcDgE9kCXTylD1gSc=;GIZeZ6wliDevrr2MyfRpoA=="
 ---
 

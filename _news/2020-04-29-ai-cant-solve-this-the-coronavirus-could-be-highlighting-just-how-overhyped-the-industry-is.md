@@ -7,8 +7,8 @@ webUrl: "https://www.cnbc.com/2020/04/29/ai-has-limited-role-coronavirus-pandemi
 ampWebUrl: "https://www.cnbc.com/amp/2020/04/29/ai-has-limited-role-coronavirus-pandemic.html"
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/04/29/ai-has-limited-role-coronavirus-pandemic.html"
 type: article
-quality: 76
-heat: 76
+quality: 78
+heat: 78
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 
 topics:
   - AI
+  - Google AI
 
 images:
   - url: "https://image.cnbcfm.com/api/v1/image/105318044-1531141658275china_tech_surveillance_3.jpg?v=1531141775"
@@ -28,6 +29,6 @@ images:
     height: 2666
     title: "AI can't solve this: The coronavirus could be highlighting just how overhyped the industry is"
 
-secured: "dt8KGP6SwtwUJC+jm8kmm1mDzp7o1YobitkG5upEHJpK+GjOc3cFanmNjrMpY8oXDoCVRgddDCBrxrOecGol5wKyQM8H5dwRzv30RWLP7xU0TihieBYbQo3+6VFEYcJJDvifCYc3e//8SGd98lkIRjZW1uPyrPD1qSq8ysgMjhYyfw7da2swaU5qjyPFAxLhSmunv3oavdcZzDE4ITuLxbFnOWvgzzlgc74nBsYY4a2cKBq+nRO/81+Q5jnU6zk/8uTWk6+Ccq2bIqYBMH7qg7YEhBviUcD6Esz4qj1hPHyhoEbvMa1O6l3TjmlciVAY;+1my8oe79T9yjVu9JseeaQ=="
+secured: "HeLujm0uABJIBSVFZY9fJVR2J/mQ5NKouzVGe1qm037nHXfh3Xk7s6z20lGULaLzPmR/pQqh2h2IIPkQidTj1O3u4ssRjNDKzQ+02vKb9MoQvps4OTIdhVvTOQE/fSRV3PAZty3sFfsBlprJYsFnRXTX+4KwvN0wGZ89TlYwnlzCLs1v9ILCJF8xMTv/+PxZCsxLPyUYW8GWqmhCZWTfNofkyMzvUXo1hxtVp9e2gLWq3oD5oxUjeKIG7IV4pB9PU2/XZmwqRKCauUosH2eYYOXcOnzL1548ByHL64x8E8p5VNxAa+FEyuh2+rLG6A9vHFo4tNDfYxoMDqumY+D6hFv3smMczVaTCAkK5HXIv+P1rCU4OzTNcdG2jq36yw5Ms65FPAZK2J1CaULOU++7owXAF7LxDyLFcjqN8qo1cXD77pXWOurSJd1IZ9RQldAZUddJf4pni32niuzesuL1331GUFpbD30TF6Fun7+IBWs=;4qc2wuW2oaY7ivi0IYH/4Q=="
 ---
 

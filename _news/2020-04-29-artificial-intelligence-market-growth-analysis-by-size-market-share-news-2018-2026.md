@@ -5,8 +5,8 @@ excerpt: "According to a new study published by Polaris Market Research the Glob
 publishedDateTime: 2020-04-29T04:34:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-growth-analysis-by-size-market-share-news-2018-2026-2020-04-29"
 type: article
-quality: 62
-heat: 82
+quality: 64
+heat: 84
 published: true
 
 provider:
@@ -20,6 +20,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Autos
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
@@ -36,7 +37,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 46
+    quality: 48
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
