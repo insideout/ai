@@ -353,43 +353,6 @@
       ]
     },
     {
-      "path": "_news/2020-04-24-exclusive-meet-the-scientists-reversing-robotics-by-putting-the-man-into-the-machine.md",
-      "title": "Exclusive: Meet the scientists reversing robotics by putting the man into the machine",
-      "excerpt": "Cortical Labs is not your average robotics startup. Instead of creating artificial technology that is programmed to function like the ... Probably not, if you ask Chong and Kitchen, but they also admitted it’s too early to tell. Fluid intelligence is what they’re going for right now. The more complex devices that think with these chips ...",
-      "heat": 77,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.syfy.com/syfywire/meet-the-scientists-who-are-putting-neurons-into-computers",
-      "ampWebUrl": "https://www.syfy.com/syfywire/meet-the-scientists-who-are-putting-neurons-into-computers?amp",
-      "cdnAmpWebUrl": "https://www-syfy-com.cdn.ampproject.org/c/s/www.syfy.com/syfywire/meet-the-scientists-who-are-putting-neurons-into-computers?amp",
-      "publishedDateTime": "2020-04-24T12:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Syfy",
-        "domain": "syfy.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.syfy.com/sites/syfy/files/styles/1200x680/public/2020/04/hackersmatrix_0.jpg",
-          "width": 1200,
-          "height": 680,
-          "title": "Exclusive: Meet the scientists reversing robotics by putting the man into the machine",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-04-24-ai-weekly-ai-models-illustrate-the-importance-of-continued-social-distancing.md",
       "title": "AI Weekly: AI models illustrate the importance of continued social distancing",
       "excerpt": "Using a hybrid AI system dubbed SIRNet and several epidemiological models, which were trained on smartphone location data along with population-weighted density and other data points from the startup Safe Graph, World Health Organization, the U.S. Centers for Disease Control and Prevention, and elsewhere, the coauthors claim they managed to ...",
@@ -1086,6 +1049,44 @@
       ],
       "topics": [
         "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-23-googles-new-tensorflow-ai-processor-increases-speeds-by-eight-times.md",
+      "title": "Google's new TensorFlow AI processor increases speeds by eight times",
+      "excerpt": "New neural network AI developments from Google look set to completely revolutionise hardware. The world of computer hardware has been in something of a funk for some time. That's a deeply unwelcome, and somewhat depressing, situation for those of us who worked (or played Doom) through the white heat of the 1990s, a period when Moore's law was ...",
+      "heat": 91,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.redsharknews.com/technology-computing/item/5488-google-s-new-tensorflow-ai-processor-increases-speeds-by-eight-times",
+      "ampWebUrl": "https://www.redsharknews.com/technology-computing/item/5488-google-s-new-tensorflow-ai-processor-increases-speeds-by-eight-times?hs_amp=true",
+      "cdnAmpWebUrl": "https://www-redsharknews-com.cdn.ampproject.org/c/s/www.redsharknews.com/technology-computing/item/5488-google-s-new-tensorflow-ai-processor-increases-speeds-by-eight-times?hs_amp=true",
+      "publishedDateTime": "2020-04-23T15:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "redsharknews.com",
+        "domain": "redsharknews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.redsharknews.com/hs-fs/hubfs/Imported_Blog_Media/58ae20e9f6cee7ffa44f98dc80bfb545-1.jpg?width=1280&height=720&name=58ae20e9f6cee7ffa44f98dc80bfb545-1.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Google's new TensorFlow AI processor increases speeds by eight times",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "TensorFlow",
+        "Google AI",
         "AI"
       ]
     }

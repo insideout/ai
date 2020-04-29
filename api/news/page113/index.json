@@ -2,52 +2,6 @@
   "page": 113,
   "value": [
     {
-      "path": "_news/2020-01-18-apples-latest-ai-acquisition-is-a-glimpse-into-future-devices.md",
-      "title": "Apple’s Latest AI Acquisition Is A Glimpse Into Future Devices",
-      "excerpt": "Apple's latest startup purchase is one of many, but it also gives us a glimpse into the company’s thinking when it comes to future devices.",
-      "heat": 91,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/jaymcgregor/2020/01/18/apples-latest-ai-acquisition-is-a-glimpse-into-future-devices/",
-      "ampWebUrl": "https://www.forbes.com/sites/jaymcgregor/2020/01/18/apples-latest-ai-acquisition-is-a-glimpse-into-future-devices/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jaymcgregor/2020/01/18/apples-latest-ai-acquisition-is-a-glimpse-into-future-devices/amp/",
-      "publishedDateTime": "2020-01-18T08:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F916301868%2F0x0.jpg",
-          "width": 1200,
-          "height": 802,
-          "title": "Apple’s Latest AI Acquisition Is A Glimpse Into Future Devices",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos",
-        "Natural Language Processing"
-      ]
-    },
-    {
       "path": "_news/2020-01-18-silicon-valley-event-on-machine-learning-tackles-the-latest-riddles-vexing-ai-self-driving-cars.md",
       "title": "Silicon Valley Event On Machine Learning Tackles The Latest Riddles Vexing AI Self-Driving Cars",
       "excerpt": "There’s a child’s riddle that asks you to indicate what can be held in your left hand and yet cannot be held in your right hand. Take a moment to ponder this riddle. Your first thought might be that anything that could be held in your left hand should also be able to be held in your right hand,",
@@ -1063,6 +1017,51 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-01-17-heres-what-bosch-hopes-to-learn-from-deploying-autonomous-cars-in-san-jose.md",
+      "title": "Here’s what Bosch hopes to learn from deploying autonomous cars in San Jose",
+      "excerpt": "German supplier Bosch is notably moving full speed ahead with its quest to make driverless cars a reality. Kay Stepper, Bosch’s senior vice president of automated driving, sat down with Digital Trends to talk about the state of autonomous driving in 2020, and what’s next for the artificial intelligence technology that powers the prototypes ...",
+      "heat": 72,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.digitaltrends.com/cars/bosch-state-of-self-driving-cars-2020/",
+      "ampWebUrl": "https://www.digitaltrends.com/cars/bosch-state-of-self-driving-cars-2020/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/bosch-state-of-self-driving-cars-2020/?amp",
+      "publishedDateTime": "2020-01-17T08:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://icdn2.digitaltrends.com/image/digitaltrends/bosch-daimler-autonomous-s-class-1-2-1200x630-c-ar1.91.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": "Here’s what Bosch hopes to learn from deploying autonomous cars in San Jose",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
       ]
     }
   ],

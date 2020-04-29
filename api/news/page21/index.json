@@ -2,43 +2,6 @@
   "page": 21,
   "value": [
     {
-      "path": "_news/2020-04-09-node-enables-companies-to-build-ai-into-their-applications-products-and-business-processes.md",
-      "title": "Node enables companies to build AI into their applications, products, and business processes",
-      "excerpt": "“Node has built ‘AI for the rest of us’ and is delivering self-service predictions to the market of over 100M companies and fortune 2000 that don’t have the expertise, data or available resources required to implement AI with the existing infrastructure-as-a-service and autoML tools that exist across cloud offerings.” As the first and ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.helpnetsecurity.com/2020/04/09/node-self-service-ai/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-08T19:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Help Net Security",
-        "domain": "helpnetsecurity.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://img.helpnetsecurity.com/wp-content/uploads/2020/03/12085321/insecure-rsac2020.jpg",
-          "width": 304,
-          "height": 430,
-          "title": "Node enables companies to build AI into their applications, products, and business processes",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-04-09-startup-stimulus-how-logjams-and-ethics-are-impacting-federal-loans-for-tech-companies.md",
       "title": "Startup stimulus? How logjams and ethics are impacting federal loans for tech companies",
       "excerpt": "Several startup founders attributed their experience, good or bad, to the bank facilitating the loan. Dan Wachtler, CEO of an artificial intelligence upstart called Darklight, immediately recognized that the type of bank he chose would impact his likelihood of success. Wachtler’s background working with big banks as clients informed his decision.",
@@ -1079,6 +1042,35 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-08-when-machines-design-artificial-intelligence-and-the-future-of-aesthetics.md",
+      "title": "When Machines Design: Artificial Intelligence and the Future of Aesthetics",
+      "excerpt": "In a tech report on artificial intelligence, Building Design + Construction explored how Arup had applied a neural network to a light rail design and reduced the number of utility clashes by over 90%, saving nearly 800 hours of engineering. In the same vein, the areas of site and social research that utilize artificial intelligence have been ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.archdaily.com/937051/when-machines-design-artificial-intelligence-and-the-future-of-aesthetics",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-08T04:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ArchDaily",
+        "domain": "archdaily.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
         "AI"
       ]
     }

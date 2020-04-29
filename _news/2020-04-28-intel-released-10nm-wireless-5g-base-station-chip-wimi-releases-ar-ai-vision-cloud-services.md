@@ -1,32 +1,30 @@
 ---
 category: news
 title: "Intel Released 10nm Wireless 5G Base Station Chip, WIMI Releases AR + AI Vision Cloud Services"
-excerpt: "According to foreign media reports, Intel recently launched a series of software and hardware products, including"
-publishedDateTime: 2020-04-28T01:12:00Z
-webUrl: "https://www.marketwatch.com/press-release/intel-released-10nm-wireless-5g-base-station-chip-wimi-releases-ar-ai-vision-cloud-services-2020-04-27"
+excerpt: "According to foreign media reports, Intel recently launched a series of software and hardware products, including a 10nm process of wireless 5G base station chip –"
+publishedDateTime: 2020-04-28T01:14:00Z
+webUrl: "https://www.benzinga.com/pressreleases/20/04/ab15891711/intel-released-10nm-wireless-5g-base-station-chip-wimi-releases-ar-ai-vision-cloud-services"
+ampWebUrl: "https://amp.benzinga.com/amp/content/15891711"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15891711"
 type: article
-quality: 72
-heat: 72
-published: true
+quality: 47
+heat: 47
+published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
-  - AI Hardware
+  - Computer Vision
   - AI
 
 images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
+  - url: "https://i.ibb.co/wKrcfG1/1.png"
+    width: 554
+    height: 369
     title: "Intel Released 10nm Wireless 5G Base Station Chip, WIMI Releases AR + AI Vision Cloud Services"
 
-secured: "i4MEI2pXeDJcAUd2wrdGFTtG54UYpTZkkHoJaexnBDXpFCYjpmpoU4TeAKLewaTBJOstuN1DYch8NtxuzInctNVhf+BEz8u5M9LVCnJezxPtFy4+zl9jsoff8d6hxnCr31zgfMfZpeY6Y1Pm22GtCLzFJl7p2Mno/PtrODan3ys9C2QGPV/W3U/Va0/bdb4v857/EOLSvPV0jR2nRjzkuukOVspy9WJldUWmfF/eowqpgR6cykKuwzsyOtou1OC9K9GApUj7TXHVF3Etq5ujozXYFrPnsaeLYfKbChwTCA60bFvIHy9QRJqSla+pOj5y;LNsvXZ86gi4dW/pJ/IS+HQ=="
+secured: "ouDmXi9E1tmcHzMHrLQuCl6PdarchnJ9qEbM56ewhcFwgs8wf8G2tN6E3f7XH+6XtUklu44PgPjTOfHML/fR/RHXx/x7r+/ECzs09S16K6zxxIctOJLSCP5rQfOSU7N3tzd2SPCE4l4VDYqQ/ugNxppasGhiikKg5s7jyx0iOvW+OhYZOd/L9ZZXCtWDfHgZnhrK8Wx/HXxXKucK8o3uF+CF0h41BKNKyp52QwcVTVHLn1+sRQbwnol1GXl/vIB3z6ZSEDT4t0XM7vW8VAmMfWYpBG+gxU2eYB81L3VaKLsaGfnGBI1NVGoN5TA2YtwV;TkS5suj2DMSvW1Cz9ryxaw=="
 ---
 

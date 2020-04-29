@@ -2,50 +2,6 @@
   "page": 34,
   "value": [
     {
-      "path": "_news/2020-03-31-modelop-helps-enterprises-deploy-monitor-and-maintain-ai-models.md",
-      "title": "ModelOp helps enterprises deploy, monitor, and maintain AI models",
-      "excerpt": "ModelOp, a startup developing AI software and development services for enterprises, today announced that it has raised $6 million. It plans to use the capital to support demand for its products in a market that IDC anticipates will be worth $8 billion by 2022. The term ModelOps refers to the process of cycling analytical models from data ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/03/31/modelop-helps-enterprises-deploy-monitor-and-maintain-ai-models/",
-      "ampWebUrl": "https://venturebeat.com/2020/03/31/modelop-helps-enterprises-deploy-monitor-and-maintain-ai-models/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/31/modelop-helps-enterprises-deploy-monitor-and-maintain-ai-models/amp/",
-      "publishedDateTime": "2020-03-31T05:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/03/adc2e353-9882-4a40-a740-3c90bb34db5c-e1585076656887.png?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "ModelOp helps enterprises deploy, monitor, and maintain AI models",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-03-31-covid-19-mapped-azure-powered-tool-ids-the-most-vulnerable-populations.md",
       "title": "COVID-19 mapped: Azure-powered tool IDs the most vulnerable populations",
       "excerpt": "Read More A company called Jvion, which specializes in what it calls clinical AI, is launching a COVID Community Vulnerability Map, a public facing tool built on Microsoft Azure maps that helps healthcare providers identify the social determinants of health (SDOH) that put populations at greater risk. That information can have a significant ...",
@@ -1052,6 +1008,52 @@
       "topics": [
         "Computer Vision",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-30-microsoft-teams-up-with-leading-universities-to-tackle-coronavirus-pandemic-using-ai.md",
+      "title": "Microsoft teams up with leading universities to tackle coronavirus pandemic using AI",
+      "excerpt": "Specifically, those with successful proposals will get unlimited use of the C3 AI Suite, access to the Microsoft Azure cloud platform, and access to the Blue Waters supercomputer at the National Center for Super Computing Applications at the University of Illinois Urbana-Champaign (UIUC). To fund the institute, C3.ai will provide $57,250,000 ...",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/article/microsoft-teams-up-with-leading-universities-to-tackle-coronavirus-pandemic-using-ai/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/microsoft-teams-up-with-leading-universities-to-tackle-coronavirus-pandemic-using-ai/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-teams-up-with-leading-universities-to-tackle-coronavirus-pandemic-using-ai/",
+      "publishedDateTime": "2020-03-30T11:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/03/03/efb9f0b3-0ca8-4514-b481-36f1df2e8f22/thumbnail/1200x675/a5cb4c555bf6fb63345ce79fcd3d7ada/20200225-sonmez-part5-dan.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Microsoft teams up with leading universities to tackle coronavirus pandemic using AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI Ethics"
       ]
     }
   ],

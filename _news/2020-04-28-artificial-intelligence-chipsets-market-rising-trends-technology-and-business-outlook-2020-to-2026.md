@@ -40,6 +40,19 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Artificial Intelligence In Healthcare Market Share, Trend, Opportunity, Affect On Demand By COVID-19 Pandemic And Forecast 2018-2025"
+    excerpt: "A comprehensive research report created through extensive primary research (inputs from industry experts, companies, stakeholders) and secondary research, the report aims to present the analysis of Global Artificial Intelligence in Healthcare Market."
+    publishedDateTime: 2020-04-29T03:33:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-share-trend-opportunity-affect-on-demand-by-covid-19-pandemic-and-forecast-2018-2025-2020-04-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 53
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
 
 secured: "lreCIDH6hjrfgW+6kD9zd8SI9peULHmw1NOvLkfBH1AFpw9qB12j0vQdNURDYquCbGuhcCCC2LcjhtNMCMhgXsPdiLfOJW18DcQGDPQhlLPUsA/yRFsoF57W2NNxy2M+Eg3WU+bQYdpEK5fMQqnatn5KMvNXdobqo1M3bGZUajD4utE9ySntUHFwnyB459rNekcJWsyDTKgZqv+k5W5G3SdFsOKwkerd8Y8y11bex+IJurnky2illO0oWkrcSxYYHsQl6apoiyLgbzpeLeCtos7r4vOGoNmNaUiGOb1rQar/1a+04N8uaStVTKbK+rEd;m40RReVMt7sTJisiwBl+pQ=="
 ---

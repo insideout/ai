@@ -2,43 +2,6 @@
   "page": 53,
   "value": [
     {
-      "path": "_news/2020-03-17-russia-enforces-quarantines-with-deportations-jail-terms-and-face-recognition-tech.md",
-      "title": "Russia Enforces Quarantines With Deportations, Jail Terms and Face Recognition Tech",
-      "excerpt": "To enforce compliance, Moscow city authorities are using CCTV cameras equipped with facial surveillance technology to monitor individuals ordered to self-isolate. They are also carrying out daily raids in crowded places and at the residences of recent arrivals from China. “Police officers are conducting raids in hospitals, hostels ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnsnews.com/article/international/dimitri-simes/russia-enforces-quarantines-deportations-jail-terms-and-face",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-16T22:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNSNews.com",
-        "domain": "cnsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.mrc.org/U/W-ADS/2020/SupportMRC/MRCPandemicMessage_300x600.png",
-          "width": 300,
-          "height": 600,
-          "title": "Russia Enforces Quarantines With Deportations, Jail Terms and Face Recognition Tech",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-03-17-hdfc-life-integrates-face-speech-recognition-tech-to-promote-term-insurance-solutions.md",
       "title": "HDFC Life integrates face & speech recognition tech to promote term insurance solutions",
       "excerpt": "mCanvas, the experiential storytelling ad platform for small screens, has created an interactive mobile-led ad campaign for HDFC Life. Using real-time face and speech recognition technology, the rich-media ad is engaging users and enhancing the overall brand experience. This mobile-led ad, created by mCanvas first encourages users to make the ...",
@@ -971,6 +934,51 @@
       ],
       "topics": [
         "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-16-roboy-the-robot-is-fully-compliant-soft-and-huggable.md",
+      "title": "Roboy the robot is fully compliant, soft, and huggable",
+      "excerpt": "Pascal Kaufmann introduces us to Roboy, which represents a new generation of robots. Technology tipping points for ... 1:21 How many jobs will AI destroy and why we need to share the spoils 1:39 Coronavirus and its impact on the enterprise Windows 10 Start menu hacks Telecommuting policy How to work from home: IT pro’s guidebook to ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/videos/roboy-the-robot-is-fully-compliant-soft-and-huggable/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-16T12:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/03/16/e7e28fc1-a205-412e-9fe0-76fc29086f0a/thumbnail/770x578/6562c9429e0a748d1b522ac17b0a91a6/20200224-kaufmann-dan.jpg",
+          "width": 770,
+          "height": 578,
+          "title": "Roboy the robot is fully compliant, soft, and huggable",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     }

@@ -2,51 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2020-03-27-human-compatible-a-timely-warning-on-the-future-of-ai.md",
-      "title": "Human Compatible: A timely warning on the future of AI",
-      "excerpt": "But we do know that we need to solve the control problem today, not when AI has already evolved beyond our control. But a good place to start is to rethink our approach to defining and creating artificial intelligence. Russell addresses this at the beginning of Human Compatible. Instead, Russell suggests, we should insist that AI that is ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/03/27/human-compatible-a-timely-warning-on-the-future-of-ai-syndication/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/03/27/human-compatible-a-timely-warning-on-the-future-of-ai-syndication/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/03/27/human-compatible-a-timely-warning-on-the-future-of-ai-syndication/amp/",
-      "publishedDateTime": "2020-03-27T06:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/03/Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-...-4-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "Human Compatible: A timely warning on the future of AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
       "path": "_news/2020-03-26-will-this-crisis-help-set-autonomous-ai-on-the-right-course.md",
       "title": "Will this crisis help set autonomous AI on the right course?",
       "excerpt": "There are still a lot of questions that we need to answer. But the good news is that we have started to do so. And we seem to be heading in the right direction. Bastiane Huang is a product manager at OSARO, an AI/robotics startup based in San Francisco backed by Peter Thiel and Jerry Yang’s AME Cloud. She previously worked for Amazon Alexa.",
@@ -1192,6 +1147,51 @@
           "width": 600,
           "height": 338,
           "title": "Cleantech Startup BluePhin Technologies Is On A Mission To Battle The Global Problem Of Water Pollution",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-16-roboy-the-robot-is-fully-compliant-soft-and-huggable.md",
+      "title": "Roboy the robot is fully compliant, soft, and huggable",
+      "excerpt": "Pascal Kaufmann introduces us to Roboy, which represents a new generation of robots. Technology tipping points for ... 1:21 How many jobs will AI destroy and why we need to share the spoils 1:39 Coronavirus and its impact on the enterprise Windows 10 Start menu hacks Telecommuting policy How to work from home: IT pro’s guidebook to ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/videos/roboy-the-robot-is-fully-compliant-soft-and-huggable/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-16T12:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/03/16/e7e28fc1-a205-412e-9fe0-76fc29086f0a/thumbnail/770x578/6562c9429e0a748d1b522ac17b0a91a6/20200224-kaufmann-dan.jpg",
+          "width": 770,
+          "height": 578,
+          "title": "Roboy the robot is fully compliant, soft, and huggable",
           "attribution": null
         }
       ],

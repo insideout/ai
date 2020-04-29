@@ -2,52 +2,6 @@
   "page": 76,
   "value": [
     {
-      "path": "_news/2020-02-21-defeated-chess-champ-garry-kasparov-has-made-peace-with-ai.md",
-      "title": "Defeated Chess Champ Garry Kasparov Has Made Peace With AI",
-      "excerpt": "Most remarkably, AlphaZero uncovered new approaches to the game that dazzled chess experts. Last week, Kasparov returned to the scene of his famous Deep Blue defeat—the ballroom of a New York hotel—for a debate with AI experts organized by the Association for the Advancement of Artificial Intelligence. He met with WIRED senior writer Will ...",
-      "heat": 101,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wired.com/story/defeated-chess-champ-garry-kasparov-made-peace-ai/",
-      "ampWebUrl": "https://www.wired.com/story/defeated-chess-champ-garry-kasparov-made-peace-ai/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/defeated-chess-champ-garry-kasparov-made-peace-ai/amp",
-      "publishedDateTime": "2020-02-21T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5e4c10d419656c0009fbe489/master/pass/Biz-kasparov-511682700.jpg",
-          "width": 2400,
-          "height": 1663,
-          "title": "Defeated Chess Champ Garry Kasparov Has Made Peace With AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics",
-        "Google AI"
-      ]
-    },
-    {
       "path": "_news/2020-02-21-breakingviews-bank-of-englands-ai-approach-will-toughen-up.md",
       "title": "Breakingviews - Bank of England’s AI approach will toughen up",
       "excerpt": "The Bank of England last year picked artificial-intelligence pioneer Alan Turing as the face of its new 50-pound note. It’s an apt choice given the central bank will quickly have to figure out how to ensure that the spread of smart robots throughout finance is a force for good rather than a destabilising influence.",
@@ -1051,6 +1005,51 @@
       "topics": [
         "AI",
         "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2020-02-20-ai-in-sports-market-2020-industry-capacity-manufacture-value-consumption-status-and-prediction-2024.md",
+      "title": "AI in Sports Market 2020 - Industry Capacity, Manufacture, Value, Consumption, Status and Prediction 2024",
+      "excerpt": "... operating in the global AI in Sports market includes 24/7.ai Inc., Amazon Inc., Apple Inc., Anodot, Facebook Inc., Fujitsu Ltd., Cisco Systems, DeepScale, Atmel Corporation, ARM Limited, Microsoft Corporation, and Micron Technology, among others. About All The Research: All The Research was formed with the aim of making market research a ...",
+      "heat": 72,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/ai-in-sports-market-2020---industry-capacity-manufacture-value-consumption-status-and-prediction-2024-2020-02-20?mod=mw_quote_news",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-20T06:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "AI in Sports Market 2020 - Industry Capacity, Manufacture, Value, Consumption, Status and Prediction 2024",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
       ]
     }
   ],

@@ -2,50 +2,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_news/2020-04-22-intel-is-using-ai-to-gather-real-time-data-on-coral-reef-health.md",
-      "title": "Intel is using AI to gather real-time data on coral reef health",
-      "excerpt": "Project CORaiL monitors prosthetic reefs with AI-powered video cameras. There’s no question that coral reefs are rapidly deteriorating due to overfishing, bottom trawling, warming temperatures and unsustainable coastal development. In order to help protect and restore reefs, scientists need more data, and Intel thinks it might have a solution.",
-      "heat": 98,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.engadget.com/intel-ai-monitors-coral-reef-health-152247984.html",
-      "ampWebUrl": "https://www.engadget.com/amp/intel-ai-monitors-coral-reef-health-152247984.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/intel-ai-monitors-coral-reef-health-152247984.html",
-      "publishedDateTime": "2020-04-22T08:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-04%2Ffb956480-84aa-11ea-97ce-b695cf0789e3&client=amp-blogside-v2&signature=b61893ebfaeb73766baa17712deaccb3ea747147",
-          "width": 600,
-          "height": 350,
-          "title": "Intel is using AI to gather real-time data on coral reef health",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-04-22-impact-of-covid-19-on-artificial-intelligence-market-beyond-2020.md",
       "title": "Impact of COVID-19 on Artificial Intelligence Market - Beyond 2020",
       "excerpt": "The MarketWatch News Department was not involved in the creation of the content. The global artificial intelligence market has been segmented in terms of type, application, and region. Based on type, the market has been segmented into artificial neural network, digital assistance system, embedded system, expert system and automated robotic system.",
@@ -1297,6 +1253,43 @@
           "width": 300,
           "height": 300,
           "title": "New Weka AI framework to accelerate Edge to Core to Cloud Data Pipelines",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-21-wekaio-introduces-weka-ai-to-enable-accelerated-edge-to-core-to-cloud-data-pipelines.md",
+      "title": "WekaIO Introduces Weka AI to Enable Accelerated Edge to Core to Cloud Data Pipelines",
+      "excerpt": "WekaIO™ (Weka), the innovation leader in high-performance and scalable file storage, and a NVIDIA Partner Network Solution Advisor, today introduced W",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businesswire.com/news/home/20200421005072/en/WekaIO-Introduces-Weka-AI-Enable-Accelerated-Edge",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-21T07:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20200421005072/en/782264/23/New_Weka_logo_Color.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": "WekaIO Introduces Weka AI to Enable Accelerated Edge to Core to Cloud Data Pipelines",
           "attribution": null
         }
       ],

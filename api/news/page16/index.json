@@ -2,43 +2,6 @@
   "page": 16,
   "value": [
     {
-      "path": "_news/2020-04-14-computer-vision-puts-the-focus-on-patient-monitoring.md",
-      "title": "Computer Vision Puts the Focus on Patient Monitoring",
-      "excerpt": "Network news, trend analysis, product testing and the industry’s most important blogs, all collected at the most popular network watering hole on the Internet | Network World",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.networkworld.com/resources/201324/computer-vision-puts-the-focus-on-patient-monitoring",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-14T12:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Network World",
-        "domain": "networkworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://idge.staticworld.net/nww/nww_logo_300x300.png",
-          "width": 300,
-          "height": 300,
-          "title": "Computer Vision Puts the Focus on Patient Monitoring",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-04-14-openai-launches-microscope-to-visualize-the-neurons-in-popular-machine-learning-models.md",
       "title": "OpenAI launches Microscope to visualize the neurons in popular machine learning models",
       "excerpt": "In addition to Microscope’s neuron visualizations, several works in recent years have attempted to visualize the activity of machine learning models. Introduced last fall, Facebook’s Captum uses visualizations to explain decisions made by machine learning models, while in March 2019 OpenAI and Google released the activation atlases ...",
@@ -984,6 +947,51 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-14-natural-language-processing-market-is-expected-to-grow-at-a-cagr-of-1625-during-2017-2025.md",
+      "title": "Natural Language Processing Market Is Expected To Grow At A CAGR Of 16.25% During 2017-2025",
+      "excerpt": "The Global Natural Language Processing Market was valued at USD 7.86 billion in 2016 and is projected to reach USD",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-is-expected-to-grow-at-a-cagr-of-1625-during-2017-2025-2020-04-14",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-13T21:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Natural Language Processing Market Is Expected To Grow At A CAGR Of 16.25% During 2017-2025",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
         "AI"
       ]
     }

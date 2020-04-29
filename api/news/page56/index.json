@@ -2,43 +2,6 @@
   "page": 56,
   "value": [
     {
-      "path": "_news/2020-03-14-deltec-bank-bahamas-the-role-of-fintech-in-the-banking-and-finance-sector-is-changing.md",
-      "title": "Deltec Bank, Bahamas – The Role of FinTech in the Banking and Finance Sector is Changing",
-      "excerpt": "“Deltec Bank” Deltec Bank, Bahamas – \"From robo-advisers to virtual assistants, financial services have seen massive growth.” Understanding",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.benzinga.com/pressreleases/20/03/ab15553850/deltec-bank-bahamas-the-role-of-fintech-in-the-banking-and-finance-sector-is-changing",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/15553850",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15553850",
-      "publishedDateTime": "2020-03-13T18:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.abnewswire.com/uploads/1584120198.jpeg",
-          "width": 640,
-          "height": 360,
-          "title": "Deltec Bank, Bahamas – The Role of FinTech in the Banking and Finance Sector is Changing",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-03-14-washington-state-passes-landmark-facial-recognition-bill-reining-in-government-use-of-ai.md",
       "title": "Washington state passes landmark facial recognition bill, reining in government use of AI",
       "excerpt": "The Washington state legislature passed a bill establishing new guardrails on government use of facial recognition software. The bill cleared both chambers of the state legislature Thursday, hours before the session ended, positioning Washington as one of the first states in the nation to regulate facial recognition, a key component in the ...",
@@ -1004,6 +967,51 @@
       ],
       "topics": [
         "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-13-blockchain-is-a-multi-task-new-technology-that-will-drive-5g-change-global-communica-tions.md",
+      "title": "Blockchain Is A Multi-Task New Technology That Will Drive 5G, Change Global Communica-tions",
+      "excerpt": "Blockchain is a multi-tasking new technology that will drive 5G and change global communications. 5G provides quick speed, new features in Internet of Things (IoT), personal and business data and will impact everything from SmartPhones to driverless vehicles.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/blockchain-is-a-multi-task-new-technology-that-will-drive-5g-change-global-communica-tions-2020-03-13",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-13T05:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Blockchain Is A Multi-Task New Technology That Will Drive 5G, Change Global Communica-tions",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     }

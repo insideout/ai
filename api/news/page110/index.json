@@ -2,42 +2,6 @@
   "page": 110,
   "value": [
     {
-      "path": "_news/2020-01-21-vmware-to-acquire-nyansa-for-ai-based-network-analytics.md",
-      "title": "VMware to acquire Nyansa for AI-based network analytics",
-      "excerpt": "VMware on Tuesday announced it intends to acquire Nyansa, a Palo Alto, Calif.-based firm that offers AI-based network analytics. The deal is expected to close in VMware's first quarter of FY2021. The terms of the deal were not disclosed. VMware plans to combine Nyansa Voyance, the AIOps platform for network analytics and IoT security ...",
-      "heat": 187,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/vmware-to-acquire-nyansa-for-ai-based-network-analytics/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/vmware-to-acquire-nyansa-for-ai-based-network-analytics/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/vmware-to-acquire-nyansa-for-ai-based-network-analytics/",
-      "publishedDateTime": "2020-01-21T14:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-01-21-google-temporary-ban-on-facial-recognition-tech-might-be-necessary.md",
       "title": "Google: Temporary Ban on Facial-Recognition Tech Might Be Necessary",
       "excerpt": "Google's CEO made the comments as the European Commission is considering a moratorium on using facial-recognition technologies in public spaces. The proposed ban would last for three to five years so regulators can assess the risks of the technology.",
@@ -1057,6 +1021,51 @@
       "topics": [
         "AI",
         "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2020-01-21-microsoft-disagrees-with-eu-facial-recognition-ban.md",
+      "title": "Microsoft disagrees with EU facial-recognition ban",
+      "excerpt": "Microsoft disagrees with the EU's plan to ban facial recognition, saying the only way to make the technology better is to use it. The European Commission is considering a five-year ban on facial recognition in public spaces in order to buy time to assess risks and develop legislation. The move comes as other public authorities, notably the ...",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/354588/microsoft-disagrees-with-eu-facial-recognition-ban",
+      "ampWebUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/354588/microsoft-disagrees-with-eu-facial-recognition-ban?amp",
+      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/354588/microsoft-disagrees-with-eu-facial-recognition-ban?amp",
+      "publishedDateTime": "2020-01-21T02:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk/image/upload/v1570817110/itpro/2018/12/microsoft_facial_recognition.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Microsoft disagrees with EU facial-recognition ban",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
       ]
     }
   ],

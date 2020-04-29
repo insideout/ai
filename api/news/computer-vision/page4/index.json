@@ -2,6 +2,43 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-03-17-russia-enforces-quarantines-with-deportations-jail-terms-and-face-recognition-tech.md",
+      "title": "Russia Enforces Quarantines With Deportations, Jail Terms and Face Recognition Tech",
+      "excerpt": "To enforce compliance, Moscow city authorities are using CCTV cameras equipped with facial surveillance technology to monitor individuals ordered to self-isolate. They are also carrying out daily raids in crowded places and at the residences of recent arrivals from China. “Police officers are conducting raids in hospitals, hostels ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnsnews.com/article/international/dimitri-simes/russia-enforces-quarantines-deportations-jail-terms-and-face",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-16T22:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNSNews.com",
+        "domain": "cnsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.mrc.org/U/W-ADS/2020/SupportMRC/MRCPandemicMessage_300x600.png",
+          "width": 300,
+          "height": 600,
+          "title": "Russia Enforces Quarantines With Deportations, Jail Terms and Face Recognition Tech",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-16-rsip-vision-announces-breakthrough-ai-technology-for-3d-reconstruction-of-knees-from-x-ray-images.md",
       "title": "RSIP Vision Announces Breakthrough AI technology for 3D Reconstruction of Knees from X-ray Images",
       "excerpt": "and computer vision technology, announced today a new innovative AI-based solution for 3D Reconstruction of Knees from X-ray Images. This technology provides physicians with a rich 3D modelling of each bone,",
@@ -1120,43 +1157,6 @@
           "width": 300,
           "height": 400,
           "title": "ForwardX debuts computer vision AMR fleet",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-10-the-top-7-use-cases-for-touch-screen-object-recognition.md",
-      "title": "The Top 7 Use Cases for Touch Screen Object Recognition",
-      "excerpt": "Use these examples to inspire your own brand campaigns for touchscreen object recognition and interactive displays, tables, and video walls. The recognition of objects on large-scale touch screens picks up the well-known principle of cashier systems barcodes and takes it to a new level: objects which are equipped with a special marker chip or ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://customerthink.com/the-top-7-use-cases-for-touch-screen-object-recognition/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-10T15:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CustomerThink",
-        "domain": "customerthink.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://customerthink.com/wp-content/uploads/technology-785742_1280-pixabay-technology-computer-1.jpg",
-          "width": 1280,
-          "height": 853,
-          "title": "The Top 7 Use Cases for Touch Screen Object Recognition",
           "attribution": null
         }
       ],

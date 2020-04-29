@@ -2,52 +2,6 @@
   "page": 40,
   "value": [
     {
-      "path": "_news/2020-03-26-tensorflow-deepens-its-advantages-in-the-ai-modeling-wars.md",
-      "title": "TensorFlow deepens its advantages in the AI modeling wars",
-      "excerpt": "TensorFlow remains the dominant AI modeling framework. Most AI (artificial intelligence) developers continue to use it as their primary open source tool or alongside PyTorch, in which they develop most of their ML (machine learning), deep learning, and NLP (natural language processing) models. In the most recent O’Reilly survey on AI ...",
-      "heat": 102,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.infoworld.com/article/3534474/tensorflow-deepens-its-advantages-in-the-ai-modeling-wars.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-26T03:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2018/01/compet_strategy_win_chess_advantage-100746028-large.3x2.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "TensorFlow deepens its advantages in the AI modeling wars",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "TensorFlow"
-      ]
-    },
-    {
       "path": "_news/2020-03-26-global-image-recognition-market-by-opponents-sort-product-nec-corporation-google-inc-and-attrasoft-inc.md",
       "title": "Global Image Recognition Market By Opponents, Sort, Product| NEC Corporation, Google Inc and Attrasoft Inc",
       "excerpt": "Global Image Recognition Market (Revenue and Volume), Type, Application, End-User, and Regional Analysis, Import-Export Analysis, Industry Analysis, Premium Insights, Intellectual Property Analysis, Market Attractiveness,",
@@ -1002,6 +956,43 @@
       ],
       "topics": [
         "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-25-closedloopai-announces-release-of-free-open-source-ai-based-tool-to-identify-individuals-vulnerable-to-severe-complications-of-covid-19.md",
+      "title": "ClosedLoop.ai Announces Release of Free Open Source AI-based Tool to Identify Individuals Vulnerable to Severe Complications of COVID-19",
+      "excerpt": "Further, protecting vulnerable individuals helps to protect the healthcare system, healthcare workers, first responders and other vital community resources from becoming overwhelmed The CV19 Index is being released through multiple channels and is available immediately at https://github.com/closedloop-ai/cv19index, on Amazon’s SageMaker ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businesswire.com/news/home/20200316005226/en/ClosedLoop.ai-Announces-Release-Free-Open-Source-AI-based",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-25T08:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20200316005226/en/779842/23/ClosedLoop_Logo.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": "ClosedLoop.ai Announces Release of Free Open Source AI-based Tool to Identify Individuals Vulnerable to Severe Complications of COVID-19",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
         "AI"
       ]
     }

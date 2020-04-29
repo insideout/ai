@@ -2,43 +2,6 @@
   "page": 10,
   "value": [
     {
-      "path": "_news/2020-04-20-microsoft-to-launch-azure-based-streaming-service-for-nba-league.md",
-      "title": "Microsoft to launch Azure-based streaming service for NBA League",
-      "excerpt": "As the Official Technology Partner for the NBA, Microsoft will allow NBA Digital to leverage the power of its Azure platform to give birth to a new, direct-to-consumer platform, which claims to make use of Artificial Intelligence (AI) and Machine Learning (ML). Thanks to the AI and ML, Microsoft hopes to deliver personalized game broadcasts and ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://news.thewindowsclub.com/microsoft-nba-league-99193/",
-      "ampWebUrl": "https://news.thewindowsclub.com/microsoft-nba-league-99193/amp/",
-      "cdnAmpWebUrl": "https://news-thewindowsclub-com.cdn.ampproject.org/c/s/news.thewindowsclub.com/microsoft-nba-league-99193/amp/",
-      "publishedDateTime": "2020-04-20T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TWCN Tech News",
-        "domain": "thewindowsclub.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://news.thewindowsclub.com/wp-content/uploads/2020/04/Microsoft-NBA.jpg",
-          "width": 600,
-          "height": 338,
-          "title": "Microsoft to launch Azure-based streaming service for NBA League",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-04-20-facebook-three-fintech-firms-in-talks-to-launch-mobile-payments-service-in-indonesia.md",
       "title": "Facebook, three fintech firms in talks to launch mobile payments service in Indonesia",
       "excerpt": "Facebook is working with three Indonesian digital fintech firms to apply for regulatory approval to launch mobile payments ... Sign up now and get a 10% discount (original price US$400) off the China AI Report 2020 by SCMP Research. Learn about the AI ambitions of Alibaba, Baidu & JD.com through our in-depth case studies, and explore new ...",
@@ -1062,6 +1025,51 @@
         "Machine Learning",
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-17-moscow-is-using-coronavirus-as-an-excuse-to-amp-up-its-facial-recognition-surveillance.md",
+      "title": "Moscow Is Using Coronavirus as an Excuse to Amp Up Its Facial Recognition Surveillance",
+      "excerpt": "MOSCOW –– There’s about 178,000 surveillance cameras set up all around the Russian capital, pretty much wherever you look, and some of them are already connected to facial recognition software that’s helped police arrest more than 300 people. But now the authorities are trying to bring the entire fleet of cameras into the facial ...",
+      "heat": 111,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.vice.com/en_ca/article/n7jx3b/moscow-is-using-coronavirus-as-an-excuse-to-amp-up-its-facial-recognition-surveillance",
+      "ampWebUrl": "https://www.vice.com/amp/en_ca/article/n7jx3b/moscow-is-using-coronavirus-as-an-excuse-to-amp-up-its-facial-recognition-surveillance",
+      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_ca/article/n7jx3b/moscow-is-using-coronavirus-as-an-excuse-to-amp-up-its-facial-recognition-surveillance",
+      "publishedDateTime": "2020-04-17T13:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VICE",
+        "domain": "vice.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/vice.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://video-images.vice.com/test-uploads/articles/5e9896d602fbe3009eff8090/lede/1587058510180-russiaclean.jpeg?crop=1xw:1xh;center,center",
+          "width": 1920,
+          "height": 1080,
+          "title": "Moscow Is Using Coronavirus as an Excuse to Amp Up Its Facial Recognition Surveillance",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
       ]
     }
   ],
