@@ -2,6 +2,94 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-04-17-how-to-incorporate-ai-and-ml-on-a-budget-14-tips-for-businesses.md",
+      "title": "How To Incorporate AI And ML On A Budget: 14 Tips For Businesses",
+      "excerpt": "Follow these tips to add artificial intelligence or machine learning tech to your business without breaking the bank.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/04/17/how-to-incorporate-ai-and-ml-on-a-budget-14-tips-for-businesses/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/04/17/how-to-incorporate-ai-and-ml-on-a-budget-14-tips-for-businesses/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/04/17/how-to-incorporate-ai-and-ml-on-a-budget-14-tips-for-businesses/amp/",
+      "publishedDateTime": "2020-04-17T05:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fdam%2Fimageserve%2F1216542637%2F0x0.jpg%3Ffit%3Dscale",
+          "width": 1200,
+          "height": 800,
+          "title": "How To Incorporate AI And ML On A Budget: 14 Tips For Businesses",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-17-ai-uncovers-a-potential-treatment-for-covid-19-patients.md",
+      "title": "AI Uncovers a Potential Treatment for Covid-19 Patients",
+      "excerpt": "Despite the many unknowns, he says, the pandemic demands taking any promising leads seriously. Machine Learning: Living in the Age of AI “Machine Learning: Living in the Age of AI,” examines the extraordinary ways in which people are interacting with AI today. Hobbyists and teenagers are now developing tech powered by machine learning and ...",
+      "heat": 77,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wired.com/story/ai-uncovers-potential-treatment-covid-19-patients/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-17T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5e97a9ed845a6c00080f0f21/191:100/w_1280,c_limit/business-feature-ai_drug_covid-1134490146-1177505480-v2.jpg",
+          "width": 1280,
+          "height": 670,
+          "title": "AI Uncovers a Potential Treatment for Covid-19 Patients",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-17-does-this-7000-year-old-poop-belong-to-a-human-or-dog-machine-learning-has-the-answer.md",
       "title": "Does This 7,000-Year-Old Poop Belong to a Human or Dog? Machine Learning Has the Answer",
       "excerpt": "As outlined in the new paper, coproID uses machine learning software to compare ancient host DNA with DNA in modern feces, enabling it to distinguish between the two hosts in most cases. “CoproID is the first line of identification in coprolite analysis to confirm that what we’re looking for is actually human, or a dog if we’re interested ...",
@@ -1195,87 +1283,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-16-mits-ai-suggests-that-social-distancing-works.md",
-      "title": "MIT’s AI suggests that social distancing works",
-      "excerpt": "Unlike most of the models that have so far been proposed, this one doesn’t rely on data from studies about previous outbreaks, like SARS or MERS. Instead, it taps an AI algorithm trained to capture the number of infected individuals under quarantine using the SEIR model, which groups people into classes like “susceptible,” “exposed ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/16/mits-ai-suggests-that-social-distancing-works/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/16/mits-ai-suggests-that-social-distancing-works/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/16/mits-ai-suggests-that-social-distancing-works/amp/",
-      "publishedDateTime": "2020-04-16T09:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/03/s3.reutersmedia.net_.jpg?fit=1200%2C675&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": "MIT’s AI suggests that social distancing works",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-16-ai-robotics-start-ups-leverage-tools-to-combat-covid-19.md",
-      "title": "AI, robotics start-ups leverage tools to combat Covid-19",
-      "excerpt": "As India battles to contain the spread of coronavirus, artificial intelligence and technology start-ups in the country are leveraging their tools and solutions to help those in the frontline combat the crisis. Invento Robotics, a Bengaluru-based start-up, has been re-purposing its robots — to screening and diagnostics robots — to help ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.thehindubusinessline.com/news/science/ai-robotics-start-ups-leverage-tools-to-combat-covid-19/article31358732.ece",
-      "ampWebUrl": "https://www.thehindubusinessline.com/news/science/ai-robotics-start-ups-leverage-tools-to-combat-covid-19/article31358732.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/news/science/ai-robotics-start-ups-leverage-tools-to-combat-covid-19/article31358732.ece/amp/",
-      "publishedDateTime": "2020-04-16T08:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Line",
-        "domain": "thehindubusinessline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.thehindubusinessline.com/opinion/columns/from-the-viewsroom/qtcfto/article30934970.ece/ALTERNATES/LANDSCAPE_615/BL28THINKFTV",
-          "width": 615,
-          "height": 384,
-          "title": "AI, robotics start-ups leverage tools to combat Covid-19",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

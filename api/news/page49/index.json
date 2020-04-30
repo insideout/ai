@@ -2,6 +2,96 @@
   "page": 49,
   "value": [
     {
+      "path": "_news/2020-03-19-ibms-starnet-brings-explainable-ai-to-image-classification.md",
+      "title": "IBM’s StarNet brings explainable AI to image classification",
+      "excerpt": "By extension, it could cut down on deployment time for AI projects involving classifiers, which surveys show ranges between 8 and 90 days. StarNet consists of a few-shot classifier module attached to an extractor, both of which are trained in a meta-learning fashion where episodes are randomly sampled from classes. Each episode comprises ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/03/19/ibm-starnet-explainable-image-classification/",
+      "ampWebUrl": "https://venturebeat.com/2020/03/19/ibm-starnet-explainable-image-classification/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/19/ibm-starnet-explainable-image-classification/amp/",
+      "publishedDateTime": "2020-03-19T12:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/11/ibm-keyboard-logo.png?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "IBM’s StarNet brings explainable AI to image classification",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-19-artificial-intelligence-for-edge-devices-market-detailed-analysis-and-growth-prospects-for-next-5-years.md",
+      "title": "Artificial Intelligence for Edge Devices Market Detailed analysis and growth prospects for Next 5 Years",
+      "excerpt": "Advance Market Analytics recently introduced Global Artificial Intelligence for Edge Devices Market study with in-depth overview, describing about the Product / Industry Scope and elaborates market outlook and status to 2025.",
+      "heat": 70,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-for-edge-devices-market-detailed-analysis-and-growth-prospects-for-next-5-years-2020-03-19",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-19T11:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial Intelligence for Edge Devices Market Detailed analysis and growth prospects for Next 5 Years",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2020-03-19-insights-how-ai-is-changing-jobs.md",
       "title": "Insights: How AI is Changing Jobs",
       "excerpt": "FORTUNE On-Demand",
@@ -901,88 +991,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-19-natural-language-processing-market-industry-size-share-business-strategies-major-segments-and-key-manufacturers-revenue-forecast.md",
-      "title": "Natural Language Processing Market Industry Size & Share, Business Strategies, Major Segments and Key Manufacturers Revenue Forecast",
-      "excerpt": "The global natural language processing market is expected to rise with an impressive CAGR and generate the highest revenue by 2026.Fortune Business Insights™ in its latest report published this information.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-industry-size-share-business-strategies-major-segments-and-key-manufacturers-revenue-forecast-2020-03-19",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-19T05:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Natural Language Processing Market Industry Size & Share, Business Strategies, Major Segments and Key Manufacturers Revenue Forecast",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-19-is-ices-use-of-a-maryland-facial-recognition-database-lawful.md",
-      "title": "Is ICE’s Use of a Maryland Facial Recognition Database Lawful?",
-      "excerpt": "The Washington Post reported recently that U.S. Immigration and Customs Enforcement (ICE) officials have accessed, without obtaining judicial process, a Maryland facial recognition database that contains photographs of more than 275,000 undocumented immigrants who have obtained special driver’s licenses under a 2013 state law. “It’s a bet ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.lawfareblog.com/ices-use-maryland-facial-recognition-database-lawful",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-19T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Lawfare",
-        "domain": "lawfareblog.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://lawfare.s3-us-west-2.amazonaws.com/staging/s3fs-public/1230px-Face_Recognition_3252983.png",
-          "width": 1230,
-          "height": 1024,
-          "title": "Is ICE’s Use of a Maryland Facial Recognition Database Lawful?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

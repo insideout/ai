@@ -2,6 +2,94 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-04-20-microsoft-our-ai-can-spot-security-flaws-from-just-the-titles-of-developers-bug-reports.md",
+      "title": "Microsoft: Our AI can spot security flaws from just the titles of developers' bug reports",
+      "excerpt": "Microsoft has revealed how it's applying machine learning to the challenge of correctly identifying which bug reports are actually security-related. Its goal is to correctly identify security bugs at scale using a machine-learning model to analyze just the label of bug reports. According to Microsoft, its 47,000 developers generate about ...",
+      "heat": 78,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/microsoft-our-ai-can-spot-security-flaws-from-just-the-titles-of-developers-bug-reports/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-our-ai-can-spot-security-flaws-from-just-the-titles-of-developers-bug-reports/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-our-ai-can-spot-security-flaws-from-just-the-titles-of-developers-bug-reports/",
+      "publishedDateTime": "2020-04-20T04:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2020/03/11/dcabbbb7-b82d-4967-afd8-66b2b64ff7f8/thumbnail/1200x675/d583d73263f0adcedfde77d6f345a798/ransomware-these-sophisticated-attacks-a-5e666032710b2800019be724-1-mar-11-2020-13-21-31-poster.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Microsoft: Our AI can spot security flaws from just the titles of developers' bug reports",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-20-can-artificial-intelligence-help-alleviate-travel-industry-woes.md",
+      "title": "Can Artificial Intelligence Help Alleviate Travel Industry Woes?",
+      "excerpt": "The travel industry, for instance, is uniquely vulnerable to this combination of systemic shocks. As such, operators like airlines and OTAs should take this opportunity to review and identify strategies to increase efficiency.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/04/20/can-artificial-intelligence-help-alleviate-travel-industry-woes/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/04/20/can-artificial-intelligence-help-alleviate-travel-industry-woes/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/04/20/can-artificial-intelligence-help-alleviate-travel-industry-woes/amp/",
+      "publishedDateTime": "2020-04-20T04:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F04%2Fa-14-2.jpg",
+          "width": 640,
+          "height": 640,
+          "title": "Can Artificial Intelligence Help Alleviate Travel Industry Woes?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-20-how-to-keep-our-ai-obsession-from-overcomplicating-data-projects.md",
       "title": "How To Keep Our AI Obsession From Overcomplicating Data Projects",
       "excerpt": "To work effectively, AI needs to be used in the right way for the right applications. You wouldn't use a precision laser to tailor clothing. It could work, but it would create unnecessary cost and risk with no meaningful improvement over fabric scissors.",
@@ -970,88 +1058,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-18-moscow-is-using-coronavirus-as-an-excuse-to-amp-up-its-facial-recognition-surveillance.md",
-      "title": "Moscow Is Using Coronavirus as an Excuse to Amp Up Its Facial Recognition Surveillance",
-      "excerpt": "This article originally appeared on VICE US. There’s about 178,000 surveillance cameras set up all around the Russian capital, pretty much wherever you look, and some of them are already connected to facial recognition software that’s helped police arrest more than 300 people. But now the authorities are trying to bring the entire fleet of ...",
-      "heat": 111,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.vice.com/en_uk/article/n7jx3b/moscow-is-using-coronavirus-as-an-excuse-to-amp-up-its-facial-recognition-surveillance",
-      "ampWebUrl": "https://www.vice.com/amp/en_uk/article/n7jx3b/moscow-is-using-coronavirus-as-an-excuse-to-amp-up-its-facial-recognition-surveillance",
-      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_uk/article/n7jx3b/moscow-is-using-coronavirus-as-an-excuse-to-amp-up-its-facial-recognition-surveillance",
-      "publishedDateTime": "2020-04-18T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VICE",
-        "domain": "vice.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/vice.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://video-images.vice.com/test-uploads/articles/5e9896d602fbe3009eff8090/lede/1587058510180-russiaclean.jpeg?crop=1xw:1xh;center,center",
-          "width": 1920,
-          "height": 1080,
-          "title": "Moscow Is Using Coronavirus as an Excuse to Amp Up Its Facial Recognition Surveillance",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-18-direxion-daily-robotics-artificial-intelligence-automation-index-bull-3x-shares-nysearcaubot-trading-64-higher.md",
-      "title": "Direxion Daily Robotics Artificial Intelligence & Automation Index Bull 3X Shares (NYSEARCA:UBOT) Trading 6.4% Higher",
-      "excerpt": "Direxion Daily Robotics Artificial Intelligence & Automation Index Bull 3X Shares (NYSEARCA:UBOT) shares traded up 6.4% on Friday . The stock traded as high as $6.27 and last traded at $6.16, 251,800 shares changed hands during trading. An increase of 79% from the average session volume of 140,834 shares. The stock had previously closed at $5.79.",
-      "heat": 81,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://theenterpriseleader.com/2020/04/18/direxion-daily-robotics-artificial-intelligence-automation-index-bull-3x-shares-nysearcaubot-trading-6-4-higher.html",
-      "ampWebUrl": "https://theenterpriseleader.com/2020/04/18/direxion-daily-robotics-artificial-intelligence-automation-index-bull-3x-shares-nysearcaubot-trading-6-4-higher.html/amp",
-      "cdnAmpWebUrl": "https://theenterpriseleader-com.cdn.ampproject.org/c/s/theenterpriseleader.com/2020/04/18/direxion-daily-robotics-artificial-intelligence-automation-index-bull-3x-shares-nysearcaubot-trading-6-4-higher.html/amp",
-      "publishedDateTime": "2020-04-18T02:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theenterpriseleader.com",
-        "domain": "theenterpriseleader.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.marketbeat.com/logos/generic-stocks.jpg",
-          "width": 450,
-          "height": 323,
-          "title": "Direxion Daily Robotics Artificial Intelligence & Automation Index Bull 3X Shares (NYSEARCA:UBOT) Trading 6.4% Higher",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

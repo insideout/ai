@@ -2,6 +2,80 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2020-04-07-ai-applications-top-10-real-world-artificial-intelligence-applications.md",
+      "title": "AI Applications: Top 10 Real World Artificial Intelligence Applications",
+      "excerpt": "This makes Waymo cars more effective and safer. Another famous example of an autonomous vehicle is Tesla’s self-driving car. Artificial Intelligence implements computer vision, image detection and deep learning to build cars that can automatically detect ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.edureka.co/blog/artificial-intelligence-applications/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-06T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Edureka",
+        "domain": "edureka.co",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "http://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/10/Artificial-IntelligenceAI-applications.png",
+          "width": 1630,
+          "height": 952,
+          "title": "AI Applications: Top 10 Real World Artificial Intelligence Applications",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-07-artificial-intelligence-driving-autonomous-vehicle-development.md",
+      "title": "Artificial intelligence driving autonomous vehicle development",
+      "excerpt": "Autonomous driving is one of the key application areas of artificial intelligence (AI). Autonomous vehicles (AV ... which eventually became Waymo in 2016. Waymo has been extensively leveraging AI to make fully autonomous driving a reality.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://ihsmarkit.com/research-analysis/artificial-intelligence-driving-autonomous-vehicle-development.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-06T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IHS Markit",
+        "domain": "ihsmarkit.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.ihsmarkit.com/www/blog/ra-autonomous-car-getty692834496-featured.jpg",
+          "width": 636,
+          "height": 370,
+          "title": "Artificial intelligence driving autonomous vehicle development",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-07-artificial-intelligence-enables-rapid-covid-19-lung-imaging-analysis-at-uc-san-diego-health.md",
       "title": "Artificial Intelligence Enables Rapid COVID-19 Lung Imaging Analysis at UC San Diego Health",
       "excerpt": "The details are published in the Journal of Thoracic Imaging. Now, enabled by donated service credits provided by the AWS Diagnostic Development Initiative and the efforts of UC San Diego Health’s Clinical Research IT team, Hsiao’s AI method has been ...",
@@ -966,95 +1040,6 @@
           "width": 1205,
           "height": 606,
           "title": "Stanford researchers propose AI in-home system that can monitor for coronavirus symptoms",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-06-deepminds-ai-models-transition-of-glass-from-a-liquid-to-a-solid.md",
-      "title": "DeepMind’s AI models transition of glass from a liquid to a solid",
-      "excerpt": "In a paper published in the journal Nature Physics, DeepMind researchers describe an AI system that can predict the movement of glass molecules as they transition between liquid and solid states. The techniques and trained models, which have been made available in open source, could be used to predict other qualities of interest in glass ...",
-      "heat": 104,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/06/deepminds-ai-models-transition-of-glass-from-a-liquid-to-a-solid/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/06/deepminds-ai-models-transition-of-glass-from-a-liquid-to-a-solid/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/06/deepminds-ai-models-transition-of-glass-from-a-liquid-to-a-solid/amp/",
-      "publishedDateTime": "2020-04-06T08:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/260dcb5d-b808-40f3-947f-c28e349c3da4-e1585799405647.png?fit=1198%2C600&strip=all",
-          "width": 1198,
-          "height": 600,
-          "title": "DeepMind’s AI models transition of glass from a liquid to a solid",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-06-microsofts-ai-recommends-lockdown-strategies-to-curb-coronavirus.md",
-      "title": "Microsoft’s AI recommends lockdown strategies to curb coronavirus",
-      "excerpt": "A preprint paper coauthored by researchers at Microsoft, the Indian Institute of Technology, and TCS Research (the R&D division of Tata Consultancy Services) describes an AI framework designed to help cities and regions make policy decisions about lockdowns, closures, and physical distancing in response to COVID-19. They claim that because it ...",
-      "heat": 107,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/06/microsoft-ai-lockdown-policies-curb-spread-of-coronavirus/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/06/microsoft-ai-lockdown-policies-curb-spread-of-coronavirus/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/06/microsoft-ai-lockdown-policies-curb-spread-of-coronavirus/amp/",
-      "publishedDateTime": "2020-04-06T08:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/11/microsoft-1-e1580261336710.jpg?fit=1200%2C573&strip=all",
-          "width": 1200,
-          "height": 573,
-          "title": "Microsoft’s AI recommends lockdown strategies to curb coronavirus",
           "attribution": null
         }
       ],

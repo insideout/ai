@@ -2,6 +2,88 @@
   "page": 44,
   "value": [
     {
+      "path": "_news/2020-03-18-natural-language-processing-nlp-market-overview-and-scope-global-industry-trends-share-size-and-forecast-report-by-2025.md",
+      "title": "Natural Language Processing (NLP) Market- Overview and scope, Global Industry Trends, Share, Size and Forecast Report By 2025",
+      "excerpt": "The Global Natural Language Processing (NLP) in Healthcare and Life Sciences Market was valued at USD 1.12 billion in 2016 and is projected to reach USD 6.24 billion by 2025, growing at a CAGR of 21.02% from 2017 to 2025.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market--overview-and-scope-global-industry-trends-share-size-and-forecast-report-by-2025-2020-03-18",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-18T02:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Natural Language Processing (NLP) Market- Overview and scope, Global Industry Trends, Share, Size and Forecast Report By 2025",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-18-at-aws-cloud-day-2020-in-jaipur-aws-architects-and-customers-share-their-experiences-on-aws-cloud-solutions.md",
+      "title": "At AWS Cloud Day 2020 in Jaipur, AWS architects and customers share their experiences on AWS Cloud solutions",
+      "excerpt": "On February 19, Amazon Web Services (AWS) organised the AWS Cloud Day in Jaipur. AWS solution architects, industry veterans and startups took to the stage to discuss Artificial Intelligence (AI), Machine Learning (ML), SAP, migration, cloud architecture, and how Amazon’s Cloud solutions are helping startups scale. The event was packed with ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://yourstory.com/2020/03/aws-cloud-day-jaipur-aws-architects-cloud",
+      "ampWebUrl": "https://yourstory.com/2020/03/aws-cloud-day-jaipur-aws-architects-cloud/amp",
+      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/03/aws-cloud-day-jaipur-aws-architects-cloud/amp",
+      "publishedDateTime": "2020-03-18T02:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Your Story",
+        "domain": "yourstory.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.yourstory.com/cs/2/2d86ed30-b282-11e8-b2e7-114aea10c711/1584522154228.png?fm=png&auto=format",
+          "width": 801,
+          "height": 401,
+          "title": "At AWS Cloud Day 2020 in Jaipur, AWS architects and customers share their experiences on AWS Cloud solutions",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-18-artificial-intelligence-in-healthcare-market-size-trends-2020-growth-share-regional-and-global-industry-trends-forecast-to-2026.md",
       "title": "Artificial Intelligence in Healthcare Market Size, Trends 2020 Growth, Share, Regional And Global Industry Trends Forecast To 2026",
       "excerpt": "Artificial Intelligence in Healthcare Market To Expand Rapidly at Notable CAGR as the various factors mentioned in",
@@ -1090,88 +1172,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-google-try-out-this-ai-transcribe-feature-now-rolling-out-to-google-translate.md",
-      "title": "Google: Try out this AI Transcribe feature now rolling out to Google Translate",
-      "excerpt": "Google has launched its new near real-time transcription feature as part of Google Translate, which is available for eight languages. Google showed off the AI-powered feature this January and will now roll it out on Android with support transcribed translations between any of a set of eight languages, including English, French, German ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/google-try-out-this-ai-transcribe-feature-now-rolling-out-to-google-translate/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-try-out-this-ai-transcribe-feature-now-rolling-out-to-google-translate/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-try-out-this-ai-transcribe-feature-now-rolling-out-to-google-translate/",
-      "publishedDateTime": "2020-03-17T09:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2019/02/27/1db68635-40a5-437e-8b6f-ff1d3034921f/thumbnail/1200x675/474204615b3a621b6922fba361f73db8/google-cloud-updates-aipowered-speech-to-5c73e58360b2b5899fb224ab-1-feb-27-2019-17-31-20-poster.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Google: Try out this AI Transcribe feature now rolling out to Google Translate",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-hey-sparky-confused-by-data-science-governance-and-security-in-the-cloud-databricks-promises-to-ease-machine-learning-pipelines.md",
-      "title": "Hey, Sparky: Confused by data science governance and security in the cloud? Databricks promises to ease machine learning pipelines",
-      "excerpt": "Meanwhile, the new features allow customers to deploy analytics and machine learning by offering APIs for everything ... Databricks is currently available on AWS and Azure, and although plans are in place to launch on Google Cloud Platform, \"it was a ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.theregister.co.uk/2020/03/17/databricks_machine_learning_pipelines/",
-      "ampWebUrl": "https://www.theregister.co.uk/AMP/2020/03/17/databricks_machine_learning_pipelines/",
-      "cdnAmpWebUrl": "https://www-theregister-co-uk.cdn.ampproject.org/c/s/www.theregister.co.uk/AMP/2020/03/17/databricks_machine_learning_pipelines/",
-      "publishedDateTime": "2020-03-17T09:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Register",
-        "domain": "theregister.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://regmedia.co.uk/2020/03/17/shutterstock_pipeline.jpg",
-          "width": 648,
-          "height": 429,
-          "title": "Hey, Sparky: Confused by data science governance and security in the cloud? Databricks promises to ease machine learning pipelines",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

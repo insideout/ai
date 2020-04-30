@@ -2,6 +2,43 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-03-12-sentara-healthcare-partners-with-citiustech-to-deploy-data-platform-on-microsoft-azure.md",
+      "title": "Sentara Healthcare Partners With CitiusTech to Deploy Data Platform on Microsoft Azure",
+      "excerpt": "CitiusTech H-Scale, combined with Azure, helps customers achieve scale in healthcare data management.” CitiusTech has further enabled Sentara to leverage aggregated information and generate actionable insights by deploying artificial intelligence and machine learning models at an enterprise scale. This is expected to save approximately $3 ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businesswire.com/news/home/20200312005559/en/Sentara-Healthcare-Partners-CitiusTech-Deploy-Data-Platform",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-12T09:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20200312005559/en/779461/23/citiustech_logo.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": "Sentara Healthcare Partners With CitiusTech to Deploy Data Platform on Microsoft Azure",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-12-agtech-startups-use-machine-learning-to-analyze-farm-data.md",
       "title": "Agtech Startups Use Machine Learning to Analyze Farm Data",
       "excerpt": "Startups focused on agriculture and aquaculture technology are turning to cloud-based machine-learning services to process and analyze data so they can give customers better predictions on fertilizer needs,",
@@ -1098,43 +1135,6 @@
           "width": 1200,
           "height": 630,
           "title": "Cognitive Systems Spending Market to Register a Stellar Growth Rate of CAGR of 14.6% During 2016 – 2026",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-04-cisco-microsoft-team-to-control-growing-iot-networks.md",
-      "title": "Cisco, Microsoft team to control growing IoT networks",
-      "excerpt": "Services like Microsoft Azure Stream Analytics, Microsoft Azure Machine Learning, and Microsoft Azure Notification Hub services can be used to build IoT applications for the enterprise ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.networkworld.com/article/3530373/cisco-microsoft-team-to-control-growing-iot-networks.html",
-      "ampWebUrl": "https://www.networkworld.com/article/3530373/cisco-microsoft-team-to-control-growing-iot-networks.amp.html",
-      "cdnAmpWebUrl": "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3530373/cisco-microsoft-team-to-control-growing-iot-networks.amp.html",
-      "publishedDateTime": "2020-03-03T16:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Network World",
-        "domain": "networkworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2020/01/new-microsoft-edge-logo-100827148-large.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "Cisco, Microsoft team to control growing IoT networks",
           "attribution": null
         }
       ],

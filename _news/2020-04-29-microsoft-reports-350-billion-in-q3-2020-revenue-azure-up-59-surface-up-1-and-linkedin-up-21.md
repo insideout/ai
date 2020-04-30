@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/04/29/microsoft-earnings-q3-2020/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/29/microsoft-earnings-q3-2020/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 90
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     height: 1025
     title: "Microsoft reports $35.0 billion in Q3 2020 revenue: Azure up 59%, Surface up 1%, and LinkedIn up 21%"
 
-secured: "qbUwG83veNPytCyCJ6l8bQWFutUpU6Hq3I3qgm26ox67lpSS8v0DO4JOHSM4/t7CRrdEftbRCuxzd5qPiWXC7XJxh3L3NSobMbBcN8rOcD1V9n6PP8xdzofd3oJMJFeSYnYCQtJkBqy/5euKez5pTckveSASBDDTWpehom2HpqQYBmKmzzZGxO0ZtagXIcCKQQCWOb/JilFhe8GCEtJ0+YJlqePOgGd3VApgUiizg92ztkwe015ec8Co+g94UUln6V7DUgHmqu7FO8EDogZ5aE5QZCD9pR+j0FSPMQvuBww9+XJhoAdal3EQV3HqbTO97bBLynCy6TIpEEzmvsZ/Juj+XClpO+B7ttS+djGqasIXIWtNqDSEAUvK6xFPGim7Wq943+EAwjJQHu2kY6c7aK9XfdwjkbCTIHolrSqHpeVOloq3xQG6uQ5WC39AWiZ5H9L5IP+5G9aUkZ0/xGZRXTADMgMIdIhNcg0AYraihwM=;psLYLoDRSUDa4RQqjvY3Wg=="
+secured: "ACJIUvy+bgqQ30FUeGlPzenWoZxlsVA3ruGpeXSZD2onACCQ8tw+WwqVXmse61n2SpDcGULGqFhiPDH3j8DdsuUWuTC7llOtjQ5RDko5DBc4IJSjxp87/t4F0bL4Jgy9czTM5g1G544YAO2Z6S8P+SaoKa2TBFxJcJS1oFW4Ntw+ZLUFLjWI5ry1bWbNfyZozUPM6DzgysgNqXScZISk+IilRcFOv2jvX1XoSI/nAaRGkfTLmTV+vV0mtS34DIjIs4/9Hw8kA3u3RILm6Bo7w41uFNIFbdPUy7Lx2HAIFRuincD2QYCOlZAS+pCGaFlD17rqq1YLli9jH3L3G0H5xxKwH8Xhku+wMXfui0LHdWhrPW5QIwCwBSaAgCBfFwLQpvx4PhmZD6+ti1MxH0nkhAGVl/PwLe/y4Z8RdzCZSBynB6fGwVDUZDAEptLg0+b4U+8Nn1FTNEy/hjOBAnrJDatrRYJ6cR6H4zLFVCPhKMc=;v684X0nIJJPY5Mdabuz5Tg=="
 ---
 

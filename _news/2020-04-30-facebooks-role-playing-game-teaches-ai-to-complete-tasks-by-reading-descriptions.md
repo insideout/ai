@@ -29,6 +29,6 @@ images:
     height: 600
     title: "Facebook’s role-playing game teaches AI to complete tasks by reading descriptions"
 
-secured: "aa9jLI6c9iyM3QZM2/kchQ+HUoL08TZVTlsNYtCCb7virg5ZMe7q20SFh/WeHCT5CiR4y9nw+/iF4IKWv/S/N9wv835HYihF9lQbpC62xOVPluIXMZQM34kjUDZ0C49i8PjSXBTEB5Z/wX+Zvy0jGOneQu07I4aFLALG9HsIYb9otX5WdZVeO6DUf0r4VOr63e6PyA+kfj1QUM6cvSxLLvZ+8M85n+GOQi4MRjgVvLNu4SXuusByqwko4hRlXvcL2FRCTB8cKeUUvl2X6FkVqPJlrFxTiKQXE+SJqD1sfDMeVElTxBHCQh3cue2V4hzW;+YPaml84oc5qHdFeicJGKA=="
+secured: "vLpS1Ie5o/15OC/6YEhoBKPIJBlbxFUHpDrjRjv4Ufw9+IKThDHxVkdKXvDpglXl5nmQsKvMOCLcRZhxxMjF7ImhmA4oIpRjE9hDtcM3pUUolE/iGffUEMFvVaD7BNXEz6wh++obuhVK0Sc0rgZrZmvsE79fic6KDC4jbgfRtYCKogx8BUPVy7MMOUYxVjmI0jhLC6+ChDV+Mz1HrIRCiGU8T2ppeQ6HwIAUB38q6vfifK6EFelj/RLk7p/v4YMqSu1dRiZI+L/X9z8pDrvfuSuZeiZWzM1ghCz5+roFPguSMDqhc+/Pt+2oXEFfFAmGqZ8wMZ06E+x7+Gsy9yTQHD1gnptW6sHx6Ngj+j5fFhTAx0usJl5EpoyWLQ0WdL7+8MEwJpbkj2CAytbWIPVs3kmca0uH9ZuddIjPuXnB2pOeU5q3jUkyUK1Z4n68mdNzbreotbSZ412MW/tcNAQ+MLQd1Jhw9ndCsX1XIyen3WQ=;feO4dRsE7gD8yVd/jb5fOQ=="
 ---
 

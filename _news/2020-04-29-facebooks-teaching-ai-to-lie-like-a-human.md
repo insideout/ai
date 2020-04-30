@@ -8,7 +8,7 @@ ampWebUrl: "https://thenextweb.com/neural/2020/04/29/facebooks-teaching-ai-to-li
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/04/29/facebooks-teaching-ai-to-lie-like-a-human/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 120
 published: true
 
 provider:
@@ -72,6 +72,6 @@ related:
       domain: hindustantimes.com
     quality: 31
 
-secured: "dVbg2SjsbyOCdZqyARgxUCIpE/6w9YYzn8hYSysrfjzdFE6vJeTHTT3pXPBK7u+WNJrXlDpdJQB0EUMwGmaIsQSjRXzPQXgzfhCnWyccnICiKpCNX7D/NugidFBKSlaruX5qcvUSE4IFLCCq6i8oQqGU5FYD2F7bw+RqKoXUatBeqwyeIxuE90R+S4cIUqVxnsCYuLRAtdyJU3pNWuUgtZ/4+i+uDT5R+bMTK7Vx+dEJJNTHJTnD3kDJGYyX6m5LBWqi+2vbmgCJdv9JpQ5kaCGDs3W7uXZ99ct7DbTjMn4J/V/08kx6Hk8ANHkgZHFhV0oN8uS1sd23Umy5XkpYNK27VtrnyBsezY2+jmrEl1uLWVRzA17iclSRuDCwwCkVNyHIqBRkcu0Ooc8j9vYDdv8hiosInryW3jOvAW5iMgxzLfYIjpBEkN0JAIgAULuf/tZIlfQQMvz8kbMeqn+sW61bdNoEMfTfYFf175HZu0s=;ncM1DDk+ReXY1odf4735eg=="
+secured: "kAyvWZS27QcxI8lfqduLPCn4xzUXMOZDxbpiu/tpzAjdAu7txkTLFoIZLtJ+uOctRykgP8I4FerqBNzQ9SfzbvnmLJ6GUpQddr/961g0eZBSwZvBomNDB7abZ+h+70nVSLgkGXDdUkOQFgh9O6MPQ1g9MAyUJJIY243P4LwvnfPfqYB4sGY/+Hrh/5dxpuflCwRI8Wd2jUJRbAl9CeO033u7QruG4vY75iQuiWPxuQdLymk8xoyM6p4tX03lp8J9LurmUvL5VuOYGk/vDj6HlBYzNgqNnshfm13mJ0tD9EDjZtEy+EdT4Z0WHJlofQnroy7LORbLM/JLjeaCSASeKfBFAVr+HHoST9VPCoOwlE/4gufphDcpLL+k2/kbgC9E3b72/eX9tmlh8gSJQ9d4wqh1t0nadnEjt74pZFDiFT6Usodf7+5a6dNux8tMsh74L5sfQtaYdOqj3I2v4HGbA7Z5JRlLfVIrVs6Qs+pN3a8=;15OdWJUDcntyWRwB7sXZqQ=="
 ---
 

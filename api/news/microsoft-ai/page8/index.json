@@ -2,6 +2,50 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-01-27-fueling-intelligent-energy-with-iot.md",
+      "title": "Fueling intelligent energy with IoT",
+      "excerpt": "At Microsoft, building a future that we can all thrive in is at the center of everything we do. On January 16, as part of the announcement that Microsoft will be carbon negative by 2030, we discussed how advances in human prosperity, as measured by GDP growth, are inextricably tied to the use of energy.",
+      "heat": 102,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://azure.microsoft.com/blog/fueling-intelligent-energy-with-iot/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-27T00:00:19-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/e97a92db-78b6-4875-bc47-04160885964b.png",
+          "width": 837,
+          "height": 593,
+          "title": "Fueling intelligent energy with IoT",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-01-26-microsoft-weekly-series-x-ports-patches-for-a-price-and-stories-in-the-cloud.md",
       "title": "Microsoft Weekly: Series X ports, patches for a price, and stories in the cloud",
       "excerpt": "In either video or written form, Microsoft is inviting folks to share technical content relating to interesting experiences with Azure. These can revolve around open source, apps, DevOps + infrastructure, Big Data and Distributed Systems, Machine Learning and Data Science, as well as research. Submitted stories will be vetted by a committee of ...",

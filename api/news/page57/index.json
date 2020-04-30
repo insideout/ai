@@ -2,6 +2,81 @@
   "page": 57,
   "value": [
     {
+      "path": "_news/2020-03-16-processors-best-suited-for-embedded-vision-applications.md",
+      "title": "Processors best suited for embedded vision applications",
+      "excerpt": "Plus, there’s only so much real estate inside your device. Manufacturers have had to make processors smaller and smaller so you can bring embedded vision along for the ride. Computer vision technology typically uses a central processing unit (CPU) and a graphics processing unit (GPU). Manufacturers have realized that there is a need for ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.controleng.com/articles/processors-best-suited-for-embedded-vision-applications/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-16T00:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Control Engineering",
+        "domain": "controleng.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cfemedia1.wpengine.com/wp-content/uploads/2019/07/ctlx_icon_MachineVision_Slider_01-3.jpg",
+          "width": 485,
+          "height": 260,
+          "title": "Processors best suited for embedded vision applications",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-16-tensorflow-gets-its-quantum-of-solace-lid-lifted-on-all-seeing-crime-detecting-ai-upstart-and-more.md",
+      "title": "TensorFlow gets its quantum of solace, lid lifted on 'all-seeing crime-detecting' AI upstart, and more",
+      "excerpt": "Now, the price to attend the digital conference has dropped down to $50 for students and $100 for non-students. New TensorFlow library! If you’re bored at home and ‘social distancing’ from all your friends, family, and colleagues then try this: TensorFlow’s latest library that allows you to build quantum AI models. Your brain will ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.theregister.co.uk/2020/03/16/ai_roundup_130320/",
+      "ampWebUrl": "https://www.theregister.co.uk/AMP/2020/03/16/ai_roundup_130320/",
+      "cdnAmpWebUrl": "https://www-theregister-co-uk.cdn.ampproject.org/c/s/www.theregister.co.uk/AMP/2020/03/16/ai_roundup_130320/",
+      "publishedDateTime": "2020-03-16T00:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Register",
+        "domain": "theregister.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://regmedia.co.uk/2020/03/13/oracle_bone.jpg",
+          "width": 927,
+          "height": 580,
+          "title": "TensorFlow gets its quantum of solace, lid lifted on 'all-seeing crime-detecting' AI upstart, and more",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "TensorFlow"
+      ]
+    },
+    {
       "path": "_news/2020-03-16-of-epidemics-artificial-intelligence-and-responsive-public-policy.md",
       "title": "Of epidemics, artificial intelligence and responsive public policy",
       "excerpt": "Black Twitter is breaking the internet with memes, perhaps providing palliative therapy to an otherwise depressing national development ... its deadly tracks – are largely also shaped by viral videos of machines and robots that use artificial intelligence. These machines and robots are disinfecting cities, buildings, public transport ...",
@@ -873,88 +948,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-14-this-stance-detecting-ai-will-help-us-fact-check-fake-news.md",
-      "title": "This stance-detecting AI will help us fact-check fake news",
-      "excerpt": "However, while those techniques have been efficient for some tasks such as machine translation, they have had limited success on ... time- and labor-intensive data-labeling work that goes into most contemporary AI work. “The beauty of bidirectional transformer language models is that they allow very large text corpuses to be used to obtain ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/03/14/this-stance-detecting-ai-will-help-us-fact-check-fake-news-syndication/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/03/14/this-stance-detecting-ai-will-help-us-fact-check-fake-news-syndication/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/03/14/this-stance-detecting-ai-will-help-us-fact-check-fake-news-syndication/amp/",
-      "publishedDateTime": "2020-03-14T02:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/03/Copy-of-...-8-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "This stance-detecting AI will help us fact-check fake news",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-14-create-no-code-predictive-models-with-azure-machine-learning.md",
-      "title": "Create no-code predictive models with Azure Machine Learning",
-      "excerpt": "Machine learning is at the core of artificial intelligence, and many modern applications and services depend on predictive machine learning models. Learn how to use Azure Machine Learning to create and publish models without writing code. Training a machine learning model is an iterative process that requires time and compute resources.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/paths/create-no-code-predictive-models-azure-machine-learning/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-13T22:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

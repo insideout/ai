@@ -25,6 +25,6 @@ images:
     height: 628
     title: "Working From Home, IISc Scientists Design COVID-19 Test That Pre-Screens by Voice"
 
-secured: "s27SH8GiX/4I/dVhUa2xAn3uBgYEIWuWynQOfV/we5heFZLRZzkZVr+Pzcl5FWEm8b0n1JXaKxAYrJThpnA4wkZIGRy8dQmW77OXlQTPWbOfpCcSKPU/y4QwcKxMCahXQMbNiZrbAHnUzvqbKtfpxqjlHFWjZyqhgNNgvAi/KjTDRu4EE/lkA2mlk5eF/vvoNuYGGXBYf2AVj3JeKtD5NcmwyBDKXpqH5yXR5SCh7dB/rCR2U/lumkcH3bwIrXXi7JE0k8lLhNE7iNHYtNVUjaWpEXzmEr6O+7q6vKMg8rNm1NCjVzNs3bUYoSl4V2uQ;q3cdy2V/d/b7MQwwx4Hu0g=="
+secured: "G4mhQvFX9Ob3FcyCWhWhwt+YTk54hKTJb3LssjA/1AoX7GyagGVTL/baHXT2ppqVk1vjKGMhP/ZlnTm+hCAPfC1Df/d60PSiZB8MYu4ICibeJ5Olvdn0J72w9i+CMcrveJFurhoG7lYHZmN883fGYs3u1+XuqW2bGI+vCaGrlWqpEkaPO/EuXsYrIJeaGz//zaQXRm/EyjDdPtFzZmTLt+CSgthTPWikbe0Evq+e0iccF48dmFL+vbj4jmT5/PtDj4JjZKrOZz6LpLcs2FBOOOdn0TZFamtQnZGbeQFk9rU3Ahqxmg8J51plpN15iEtCQ/m48tRK8IE0c+FCQ21axIEbJ+aqJX5Dyx4NPyfoAGXcY4Rrg9LzpqB+5dKCfW6mDbMzGiwHJoQk5s17J8V77h1ees8nJpK1SeAnrQ0XggPP5T16O1+MKiSXXVdsP0JSdTzPCGyYGMiw9sWx/TwEHGe7P6PKfcQfrqwOjofql0k=;NTZP6WIddKB5QtFujdru6w=="
 ---
 

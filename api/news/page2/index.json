@@ -2,6 +2,95 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-04-29-would-you-give-up-some-security-if-face-unlock-worked-with-a-face-mask-on.md",
+      "title": "Would you give up some security if face unlock worked with a face mask on?",
+      "excerpt": "It’s the end of April 2020, and we’re all doing our best to adjust to the new normal of social distancing and wearing face masks wherever we go. Companies around the world are pivoting their business models to create face masks for those who need them.",
+      "heat": 72,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.androidauthority.com/smartphone-face-unlock-face-id-masks-coronavirus-1113161/",
+      "ampWebUrl": "https://www.androidauthority.com/smartphone-face-unlock-face-id-masks-coronavirus-1113161/amp/",
+      "cdnAmpWebUrl": "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/smartphone-face-unlock-face-id-masks-coronavirus-1113161/amp/",
+      "publishedDateTime": "2020-04-29T13:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android Authority",
+        "domain": "androidauthority.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn57.androidauthority.net/wp-content/uploads/2020/03/Woman-wearing-facemask-1-920x470.jpg",
+          "width": 920,
+          "height": 470,
+          "title": "Would you give up some security if face unlock worked with a face mask on?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-29-googles-ai-attempts-to-predict-how-yeast-cell-genes-will-express-themselves.md",
+      "title": "Google’s AI attempts to predict how yeast cell genes will express themselves",
+      "excerpt": "Google’s work in AI and gene expression follows the publication of a study describing a “massively parallel reporter assay” (MPRA),” a framework designed to investigate DNA. The researchers claimed it could be used to create AI models that predict gene regulation for industrial and life science applications. An older work proposes a ...",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/29/googles-ai-attempts-to-predict-how-yeast-cell-genes-will-express-themselves/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/29/googles-ai-attempts-to-predict-how-yeast-cell-genes-will-express-themselves/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/29/googles-ai-attempts-to-predict-how-yeast-cell-genes-will-express-themselves/amp/",
+      "publishedDateTime": "2020-04-29T13:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/10/google-ai-logo.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Google’s AI attempts to predict how yeast cell genes will express themselves",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-29-an-ai-meme-generator-gives-us-the-absurdist-art-we-all-need.md",
       "title": "An AI Meme Generator Gives Us the Absurdist Art We All Need",
       "excerpt": "Titled, wryly, This Meme Does Not Exist, the tool is very simple: Select from one of dozens of popular memes and let the generator do the rest. Pick Dave Chappelle’s Tyrone Biggums’ Y’all Got Any More of That meme and it’ll spit out something about emails.",
@@ -49,7 +138,7 @@
       "path": "_news/2020-04-29-facebooks-teaching-ai-to-lie-like-a-human.md",
       "title": "Facebook’s teaching AI to lie like a human",
       "excerpt": "Because, essentially, what Facebook‘s done is taught Blender’s chatbots to lie moderately better than everyone else’s. Today we’re announcing that Facebook AI has built and open-sourced Blender, the largest-ever open-domain chatbot.",
-      "heat": 119,
+      "heat": 120,
       "tags": null,
       "type": "article",
       "webUrl": "https://thenextweb.com/neural/2020/04/29/facebooks-teaching-ai-to-lie-like-a-human/",
@@ -1019,88 +1108,6 @@
         "AI in Healthcare",
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-28-robots-could-complete-all-human-tasks-by-2050-claims-transhumanist-writer.md",
-      "title": "Robots could complete ‘all human tasks’ by 2050 claims transhumanist writer",
-      "excerpt": "THERE'S a 50 percent chance robots will be capable of completing \"all human tasks\" by 2050, allowing humans to move to a post-compulsory work society, according to a leading transhumanist thinker.",
-      "heat": 72,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.express.co.uk/news/science/1275130/Robots-news-artificial-intelligence-transhumanist-transhumanism-David-Wood",
-      "ampWebUrl": "https://www.express.co.uk/news/science/1275130/Robots-news-artificial-intelligence-transhumanist-transhumanism-David-Wood/amp",
-      "cdnAmpWebUrl": "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/news/science/1275130/Robots-news-artificial-intelligence-transhumanist-transhumanism-David-Wood/amp",
-      "publishedDateTime": "2020-04-28T16:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Express",
-        "domain": "express.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.images.express.co.uk/img/dynamic/151/590x/Transhumanism-1275130.jpg?r=1588113071648",
-          "width": 590,
-          "height": 350,
-          "title": "Robots could complete ‘all human tasks’ by 2050 claims transhumanist writer",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-28-pence-criticized-for-not-wearing-face-mask-at-mayo-clinic.md",
-      "title": "Pence criticized for not wearing face mask at Mayo Clinic",
-      "excerpt": "Vice President Pence came under fire for not wearing a face mask during his visit to the Mayo Clinic in Minnesota on Tuesday.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.foxnews.com/politics/pence-criticized-not-wearing-face-mask-mayo-clinic",
-      "ampWebUrl": "https://www.foxnews.com/politics/pence-criticized-not-wearing-face-mask-mayo-clinic.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-criticized-not-wearing-face-mask-mayo-clinic.amp",
-      "publishedDateTime": "2020-04-28T15:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/64516716-b4c3-47e2-bdcc-a4ff7685b5e3/3a487a03-26b2-4a59-b582-b040533a5ecc/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": "Pence criticized for not wearing face mask at Mayo Clinic",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

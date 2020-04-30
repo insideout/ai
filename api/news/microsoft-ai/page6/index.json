@@ -2,6 +2,43 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-03-04-cisco-microsoft-team-to-control-growing-iot-networks.md",
+      "title": "Cisco, Microsoft team to control growing IoT networks",
+      "excerpt": "Services like Microsoft Azure Stream Analytics, Microsoft Azure Machine Learning, and Microsoft Azure Notification Hub services can be used to build IoT applications for the enterprise ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.networkworld.com/article/3530373/cisco-microsoft-team-to-control-growing-iot-networks.html",
+      "ampWebUrl": "https://www.networkworld.com/article/3530373/cisco-microsoft-team-to-control-growing-iot-networks.amp.html",
+      "cdnAmpWebUrl": "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3530373/cisco-microsoft-team-to-control-growing-iot-networks.amp.html",
+      "publishedDateTime": "2020-03-03T16:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Network World",
+        "domain": "networkworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2020/01/new-microsoft-edge-logo-100827148-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Cisco, Microsoft team to control growing IoT networks",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-02-how-to-prepare-for-microsoft-azure-certification-ai-100-designing-and-implementing-an-azure-ai-solution.md",
       "title": "How to prepare for Microsoft Azure certification AI-100: Designing and Implementing an Azure AI Solution?",
       "excerpt": "Candidates design and implement AI apps and agents that use Microsoft Azure Cognitive Services and Azure Bot Service. Candidates can recommend solutions that use open source technologies.",
@@ -1253,51 +1290,6 @@
           "width": 300,
           "height": 225,
           "title": "Artificial intelligence makes a splash in efforts to protect Alaska’s ice seals and beluga whales",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-19-microsofts-new-dynamics-365-services-apply-ai-to-finance-and-project-operations.md",
-      "title": "Microsoft’s new Dynamics 365 services apply AI to finance and project operations",
-      "excerpt": "“Our continued investment in expanding AI capabilities across Dynamics 365 helps … organization[s] accelerate ... Customer Insights now plays nicely with Azure Synapse Analytics, allowing managers to run customer data through analytical processing pipelines and machine learning models. This in conjunction with prebuilt APIs that enable ...",
-      "heat": 149,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/02/19/microsofts-new-dynamics-365-services-apply-ai-to-finance-and-project-operations/",
-      "ampWebUrl": "https://venturebeat.com/2020/02/19/microsofts-new-dynamics-365-services-apply-ai-to-finance-and-project-operations/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/19/microsofts-new-dynamics-365-services-apply-ai-to-finance-and-project-operations/amp/",
-      "publishedDateTime": "2020-02-19T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/11/microsoft-1-e1580261336710.jpg?fit=1200%2C573&strip=all",
-          "width": 1200,
-          "height": 573,
-          "title": "Microsoft’s new Dynamics 365 services apply AI to finance and project operations",
           "attribution": null
         }
       ],

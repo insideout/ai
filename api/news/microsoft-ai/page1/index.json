@@ -2,6 +2,51 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-04-30-microsofts-windows-virtual-desktop-spring-refresh-whats-new-and-next.md",
+      "title": "Microsoft's Windows Virtual Desktop spring refresh: What's new and next",
+      "excerpt": "Microsoft is ready to roll out its 'spring refresh' of WVD, while working on a grander plan to make WVD more of a full-fledged cloud-managed desktop.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/microsofts-windows-virtual-desktop-spring-refresh-whats-new-and-next/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsofts-windows-virtual-desktop-spring-refresh-whats-new-and-next/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsofts-windows-virtual-desktop-spring-refresh-whats-new-and-next/",
+      "publishedDateTime": "2020-04-30T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/04/30/b77a0f01-6b33-4f90-b06e-94b4e3c3b85f/newwvdfeatures.jpg",
+          "width": 875,
+          "height": 557,
+          "title": "Microsoft's Windows Virtual Desktop spring refresh: What's new and next",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-30-cyber-infrastructures-7-week-azure-data-integration-migration-soln-now-available-in-the-microsoft-azure-marketplace.md",
       "title": "Cyber Infrastructure's 7-Week Azure Data Integration & Migration Soln. Now Available in the Microsoft Azure Marketplace",
       "excerpt": "Microsoft Azure customers worldwide now gain access to Cyber Infrastructure's implementation service SAN JOSE, CA,",
@@ -50,7 +95,7 @@
       "path": "_news/2020-04-29-microsoft-reports-350-billion-in-q3-2020-revenue-azure-up-59-surface-up-1-and-linkedin-up-21.md",
       "title": "Microsoft reports $35.0 billion in Q3 2020 revenue: Azure up 59%, Surface up 1%, and LinkedIn up 21%",
       "excerpt": "Microsoft today reported fiscal Q3 2020 earnings, including revenue of $35.0 billion, net income of $10.8 billion, and earnings per share of $1.40.",
-      "heat": 89,
+      "heat": 90,
       "tags": null,
       "type": "article",
       "webUrl": "https://venturebeat.com/2020/04/29/microsoft-earnings-q3-2020/",
@@ -1215,43 +1260,6 @@
         "authors": null
       },
       "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-11-wimi-hologram-cloud-nasdaqwimi-focuses-on-ai-vision-cloud-service-competing-with-google-and-microsoft.md",
-      "title": "WIMI Hologram Cloud (NASDAQ:WIMI) Focuses on AI Vision Cloud Service Competing with Google and Microsoft",
-      "excerpt": "As a global technology giant, Google and Microsoft have been working in the field of artificial intelligence for a long time. Whether it is academic achievements",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.benzinga.com/pressreleases/20/04/ab15784675/wimi-hologram-cloud-nasdaq-wimi-focuses-on-ai-vision-cloud-service-competing-with-google-and-micr",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/15784675",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15784675",
-      "publishedDateTime": "2020-04-10T18:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.ibb.co/9nGhxnZ/1.png",
-          "width": 554,
-          "height": 307,
-          "title": "WIMI Hologram Cloud (NASDAQ:WIMI) Focuses on AI Vision Cloud Service Competing with Google and Microsoft",
-          "attribution": null
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"

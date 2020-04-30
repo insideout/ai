@@ -2,6 +2,89 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-04-28-first-spiking-neural-network-based-chip-for-radar-signal-processing.md",
+      "title": "First spiking Neural Network-based chip for radar signal processing",
+      "excerpt": "Imec, the research and innovation hub, has unveiled the world’s first chip that processes radar signals using a spiking recurrent neural network. By mimicking the way groups of",
+      "heat": 76,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.newelectronics.co.uk/electronics-news/first-spiking-neural-network-based-chip-for-radar-signal-processing/226526/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-28T09:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Electronics",
+        "domain": "newelectronics.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.newelectronics.co.uk/article-images/226526/imec.jpg?width=375&height=250&scale=canvas",
+          "width": 375,
+          "height": 250,
+          "title": "First spiking Neural Network-based chip for radar signal processing",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2020-04-28-tesla-is-working-on-pay-as-you-go-subscription-to-its-self-driving-package.md",
+      "title": "Tesla is working on pay-as-you-go subscription to its self-driving package",
+      "excerpt": "Tesla is working on a pay-as-you-go subscription to its “Full Self-Driving Capability” package in order to make its features more accessible. There are several things about how Tesla is approaching self-driving technology that makes it different from the rest of the auto industry and tech companies developing the technology.",
+      "heat": 107,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://electrek.co/2020/04/28/tesla-pay-as-go-subscription-self-driving-package/",
+      "ampWebUrl": "https://electrek.co/2020/04/28/tesla-pay-as-go-subscription-self-driving-package/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/04/28/tesla-pay-as-go-subscription-self-driving-package/amp/",
+      "publishedDateTime": "2020-04-28T08:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://electrek.co/wp-content/uploads/sites/3/2017/03/model-x-key-fob-with-tesla-app-on-iphone1-e1489007287660.jpg?quality=82&strip=all&w=1000",
+          "width": 1000,
+          "height": 494,
+          "title": "Tesla is working on pay-as-you-go subscription to its self-driving package",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-28-can-ai-do-a-good-job-writing-marketing-copy.md",
       "title": "Can AI Do A Good Job Writing Marketing Copy?",
       "excerpt": "Parry Malm: It all started with a simple idea: the language a brand uses in its marketing is the crux of all marketing efforts. And yet there was no technology on the market that could make it better,",
@@ -1225,87 +1308,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-27-microsoft-strikes-5-year-cloud-deal-with-coca-cola-for-azure-microsoft-365.md",
-      "title": "Microsoft strikes 5-year cloud deal with Coca-Cola for Azure, Microsoft 365",
-      "excerpt": "Cola company have reached a deal that will see the latter use Microsoft 365, Azure, and more to power its digital operations for five years.",
-      "heat": 72,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.windowscentral.com/microsoft-strikes-5-year-cloud-deal-coca-cola-azure-microsoft-365",
-      "ampWebUrl": "https://www.windowscentral.com/microsoft-strikes-5-year-cloud-deal-coca-cola-azure-microsoft-365?amp",
-      "cdnAmpWebUrl": "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/microsoft-strikes-5-year-cloud-deal-coca-cola-azure-microsoft-365?amp",
-      "publishedDateTime": "2020-04-27T14:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Windows Central",
-        "domain": "windowscentral.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2017/09/microsoft-logo-2017-ignite2.jpg?itok=c3ocGDNm",
-          "width": 800,
-          "height": 600,
-          "title": "Microsoft strikes 5-year cloud deal with Coca-Cola for Azure, Microsoft 365",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-27-google-medical-researchers-humbled-when-ai-screening-tool-falls-short-in-real-life-testing.md",
-      "title": "Google medical researchers humbled when AI screening tool falls short in real-life testing",
-      "excerpt": "AI is frequently cited as a miracle workers in medicine, especially in screening processes, where machine learning models boast expert-level skills in detecting problems. But like so many technologies,",
-      "heat": 77,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/04/27/google-medical-researchers-humbled-when-ai-screening-tool-falls-short-in-real-life-testing/",
-      "ampWebUrl": "https://techcrunch.com/2020/04/27/google-medical-researchers-humbled-when-ai-screening-tool-falls-short-in-real-life-testing/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/27/google-medical-researchers-humbled-when-ai-screening-tool-falls-short-in-real-life-testing/amp/",
-      "publishedDateTime": "2020-04-27T14:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/04/google-dr-study.jpg?w=1024",
-          "width": 1024,
-          "height": 604,
-          "title": "Google medical researchers humbled when AI screening tool falls short in real-life testing",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -2,6 +2,87 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-04-27-microsoft-strikes-5-year-cloud-deal-with-coca-cola-for-azure-microsoft-365.md",
+      "title": "Microsoft strikes 5-year cloud deal with Coca-Cola for Azure, Microsoft 365",
+      "excerpt": "Cola company have reached a deal that will see the latter use Microsoft 365, Azure, and more to power its digital operations for five years.",
+      "heat": 72,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.windowscentral.com/microsoft-strikes-5-year-cloud-deal-coca-cola-azure-microsoft-365",
+      "ampWebUrl": "https://www.windowscentral.com/microsoft-strikes-5-year-cloud-deal-coca-cola-azure-microsoft-365?amp",
+      "cdnAmpWebUrl": "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/microsoft-strikes-5-year-cloud-deal-coca-cola-azure-microsoft-365?amp",
+      "publishedDateTime": "2020-04-27T14:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Windows Central",
+        "domain": "windowscentral.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2017/09/microsoft-logo-2017-ignite2.jpg?itok=c3ocGDNm",
+          "width": 800,
+          "height": 600,
+          "title": "Microsoft strikes 5-year cloud deal with Coca-Cola for Azure, Microsoft 365",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-27-google-medical-researchers-humbled-when-ai-screening-tool-falls-short-in-real-life-testing.md",
+      "title": "Google medical researchers humbled when AI screening tool falls short in real-life testing",
+      "excerpt": "AI is frequently cited as a miracle workers in medicine, especially in screening processes, where machine learning models boast expert-level skills in detecting problems. But like so many technologies,",
+      "heat": 77,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/04/27/google-medical-researchers-humbled-when-ai-screening-tool-falls-short-in-real-life-testing/",
+      "ampWebUrl": "https://techcrunch.com/2020/04/27/google-medical-researchers-humbled-when-ai-screening-tool-falls-short-in-real-life-testing/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/27/google-medical-researchers-humbled-when-ai-screening-tool-falls-short-in-real-life-testing/amp/",
+      "publishedDateTime": "2020-04-27T14:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/04/google-dr-study.jpg?w=1024",
+          "width": 1024,
+          "height": 604,
+          "title": "Google medical researchers humbled when AI screening tool falls short in real-life testing",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-27-france-launches-ai-voice-assistant-to-help-coronavirus-patients.md",
       "title": "France launches AI voice assistant to help coronavirus patients",
       "excerpt": "French researchers on Monday launched a voice assistant that can help callers suffering from potential coronavirus symptoms and direct them towards emergency services or their doctors using artificial intelligence.",
@@ -1239,97 +1320,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-26-microsoft-technology-chief-explains-how-ai-could-someday-help-rural-people-get-through-a-pandemic.md",
-      "title": "Microsoft technology chief explains how A.I. could someday help rural people get through a pandemic",
-      "excerpt": "Coronavirus has reached Campbell County, where Microsoft's Kevin Scott grew up. He thinks said AI could offer new economic opportunity and greater interaction.",
-      "heat": 75,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnbc.com/2020/04/26/microsoft-cto-ai-can-help-rural-people-ride-out-covid-19.html",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/04/26/microsoft-cto-ai-can-help-rural-people-ride-out-covid-19.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/04/26/microsoft-cto-ai-can-help-rural-people-ride-out-covid-19.html",
-      "publishedDateTime": "2020-04-26T06:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106503770-1587691277030handoutmicrosoftemmretreatkevinscottmarch2018.jpg?v=1587691332",
-          "width": 1800,
-          "height": 1202,
-          "title": "Microsoft technology chief explains how A.I. could someday help rural people get through a pandemic",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-26-artificial-intelligence-wont-save-us-from-coronavirus.md",
-      "title": "Artificial Intelligence Won't Save Us From Coronavirus",
-      "excerpt": "Artificial intelligence is here to save us from coronavirus. It spots new outbreaks, identifies people with fevers, diagnoses cases, prioritizes the patients most in need, reads the scientific literature,",
-      "heat": 91,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wired.com/story/artificial-intelligence-wont-save-us-from-coronavirus/",
-      "ampWebUrl": "https://www.wired.com/story/artificial-intelligence-wont-save-us-from-coronavirus/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/artificial-intelligence-wont-save-us-from-coronavirus/amp",
-      "publishedDateTime": "2020-04-26T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5ea32aceddad8f0008fac706/master/pass/OpEd-AI-1208406717.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": "Artificial Intelligence Won't Save Us From Coronavirus",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos",
-        "Facebook AI"
       ]
     }
   ],

@@ -2,6 +2,79 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2020-04-14-ai-startups-raised-69-billion-in-q1-2020-a-record-setting-pace-before-coronavirus.md",
+      "title": "AI startups raised $6.9 billion in Q1 2020, a record-setting pace before coronavirus",
+      "excerpt": "AI startups continued to outpace the overall U.S. venture capital market in the first quarter of 2020, but the coronavirus is expected to have a severe impact on funding across all sectors for the rest of the year. According to data from the National Venture Capital Association, 285 AI-related companies in the U.S. raised $6.9 billion in the ...",
+      "heat": 90,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/14/ai-startups-raised-6-9-billion-in-q1-2020-a-record-setting-pace-before-coronavirus/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/14/ai-startups-raised-6-9-billion-in-q1-2020-a-record-setting-pace-before-coronavirus/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/14/ai-startups-raised-6-9-billion-in-q1-2020-a-record-setting-pace-before-coronavirus/amp/",
+      "publishedDateTime": "2020-04-14T04:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/10/artificial_intelligence.shutterstock_673672549-e1586861549970.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "AI startups raised $6.9 billion in Q1 2020, a record-setting pace before coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-14-artificial-intelligence-evolving-by-itself.md",
+      "title": "Artificial Intelligence Evolving By Itself",
+      "excerpt": "Building an AI algorithm takes time. Take neural networks, a common type of machine learning used for translating languages and driving cars. These networks loosely mimic the structure of the brain and learn from training data by altering the strength of connections between artificial neurons. Smaller subcircuits of neurons carry out specific ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.tasnimnews.com/en/news/2020/04/14/2243550/artificial-intelligence-evolving-by-itself",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-14T03:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "تسنیم",
+        "domain": "tasnimnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-14-salesforces-teresa-smetzer-ai-could-help-agencies-leverage-data-expedite-govt-service-delivery.md",
       "title": "Salesforce’s Teresa Smetzer: AI Could Help Agencies Leverage Data, Expedite Gov’t Service Delivery",
       "excerpt": "Agencies should collaborate with trusted industry partners that take into consideration AI ethics and data privacy as well as keep pace with latest AI developments, she noted. She also discussed how Tableau and MuleSoft capabilities could help agencies, data scientists and mission users glean insights from data. “Ultimately, government ...",
@@ -953,80 +1026,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-13-siriusiq-announces-strategic-collaboration-with-rackware-enabling-rapid-adoption-of-microsoft-azure-cloud-platform.md",
-      "title": "SiriusIQ Announces Strategic Collaboration With RackWare, Enabling Rapid Adoption of Microsoft Azure Cloud Platform",
-      "excerpt": "The Cloud Correct solution delivers a new level of automation, analytics and AI using the comprehensive Microsoft Azure platform-as-a-service (PaaS) components and quickly adapts to increase the breadth of the customer's on-cloud landscape. \"With RackWare, Cloud Correct can now deliver almost instant value to any system that can benefit ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://markets.businessinsider.com/news/stocks/siriusiq-announces-strategic-collaboration-with-rackware-enabling-rapid-adoption-of-microsoft-azure-cloud-platform-1029085316",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/siriusiq-announces-strategic-collaboration-with-rackware-enabling-rapid-adoption-of-microsoft-azure-cloud-platform-1029085316",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/siriusiq-announces-strategic-collaboration-with-rackware-enabling-rapid-adoption-of-microsoft-azure-cloud-platform-1029085316",
-      "publishedDateTime": "2020-04-13T04:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-13-couple-claim-sex-robot-with-soft-scottish-accent-saved-their-marriage.md",
-      "title": "Couple claim sex robot with 'soft Scottish accent' saved their marriage",
-      "excerpt": "A couple claim that a £6,600 Scottish sex robot - who shares their bed every night - has saved their marriage. Shelly, 45, and Darris Maxie, 48, from Texas, USA, splashed out on a computerised, Artificial Intelligence sex doll, called Camila, to save their marriage after the third person in their previous poly relationship left them.",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.dailyrecord.co.uk/news/uk-world-news/couple-claim-sex-robot-soft-21857349",
-      "ampWebUrl": "https://www.dailyrecord.co.uk/news/uk-world-news/couple-claim-sex-robot-soft-21857349.amp",
-      "cdnAmpWebUrl": "https://www-dailyrecord-co-uk.cdn.ampproject.org/c/s/www.dailyrecord.co.uk/news/uk-world-news/couple-claim-sex-robot-soft-21857349.amp",
-      "publishedDateTime": "2020-04-13T02:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "dailyrecord",
-        "domain": "dailyrecord.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i2-prod.dailyrecord.co.uk/incoming/article21857352.ece/ALTERNATES/s615/1_Screen-Shot-2020-04-13-at-093812.png",
-          "width": 615,
-          "height": 409,
-          "title": "Couple claim sex robot with 'soft Scottish accent' saved their marriage",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }
