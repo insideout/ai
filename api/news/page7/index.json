@@ -2,51 +2,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_news/2020-04-23-deepminds-ai-studies-game-players-to-exploit-weaknesses-in-their-strategies.md",
-      "title": "DeepMind’s AI studies game players to exploit weaknesses in their strategies",
-      "excerpt": "In a paper published on the preprint server Arxiv.org, scientists at Alphabet’s DeepMind propose a new framework that learns an approximate best response in both imperfect information games (where players are unaware of the actions chosen by other players) and perfect information games (where each player is informed of all actions taken by ...",
-      "heat": 101,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/23/deepminds-ai-studies-game-players-to-exploit-weaknesses-in-strategies/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/23/deepminds-ai-studies-game-players-to-exploit-weaknesses-in-strategies/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/23/deepminds-ai-studies-game-players-to-exploit-weaknesses-in-strategies/amp/",
-      "publishedDateTime": "2020-04-23T08:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/260dcb5d-b808-40f3-947f-c28e349c3da4-e1585799405647.png?fit=1198%2C600&strip=all",
-          "width": 1198,
-          "height": 600,
-          "title": "DeepMind’s AI studies game players to exploit weaknesses in their strategies",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-04-23-artificial-intelligence-and-automation-top-focus-for-venture-capitalists.md",
       "title": "Artificial Intelligence And Automation Top Focus For Venture Capitalists",
       "excerpt": "As most of the workforce seemingly shifted to a remote workforce, the need for automation, technology, and tools has never been greater. How are VCs investing in AI and automation?",
@@ -1077,6 +1032,52 @@
       "topics": [
         "AI Hardware",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-22-ibms-the-weather-channel-app-using-machine-learning-to-forecast-allergy-hotspots.md",
+      "title": "IBM's The Weather Channel app using machine learning to forecast allergy hotspots",
+      "excerpt": "The Weather Channel's new tool shows a 15-day allergy forecast based on ML. IBM's The Weather Channel is now using machine learning (ML) to forecast allergy symptoms. IBM data scientists developed a new tool on The Weather Channel app and weather.com, \"Allergy Insights with Watson\" to predict your risk of allergy symptoms. Weather can also ...",
+      "heat": 86,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/article/ibms-the-weather-channel-app-using-machine-learning-to-forecast-allergy-hotspots/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ibms-the-weather-channel-app-using-machine-learning-to-forecast-allergy-hotspots/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ibms-the-weather-channel-app-using-machine-learning-to-forecast-allergy-hotspots/",
+      "publishedDateTime": "2020-04-22T13:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/04/22/d5ea3a71-463d-42a5-b5fe-e4c400a17436/resize/1200x/50457b05eac2a537f63c612f59980238/allergy-season-ahead.jpg",
+          "width": 1200,
+          "height": 801,
+          "title": "IBM's The Weather Channel app using machine learning to forecast allergy hotspots",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "IBM AI"
       ]
     }
   ],

@@ -3,9 +3,9 @@ category: news
 title: "This AI-driven meme generator delivers the avant-garde content you need"
 excerpt: "Are memes art? And are computers capabale of producing it? The answer is yes, because we've discovered this AI meme generator."
 publishedDateTime: 2020-04-29T12:33:00Z
-webUrl: "https://thenextweb.com/plugged/2020/04/29/imgflip-ai-meme-generator-distraction-lockdown/"
-ampWebUrl: "https://thenextweb.com/plugged/2020/04/29/imgflip-ai-meme-generator-distraction-lockdown/amp/"
-cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/plugged/2020/04/29/imgflip-ai-meme-generator-distraction-lockdown/amp/"
+webUrl: "https://thenextweb.com/neural/2020/04/29/imgflip-ai-meme-generator-distraction-lockdown/"
+ampWebUrl: "https://thenextweb.com/neural/2020/04/29/imgflip-ai-meme-generator-distraction-lockdown/amp/"
+cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/04/29/imgflip-ai-meme-generator-distraction-lockdown/amp/"
 type: article
 quality: 87
 heat: 87
@@ -28,6 +28,6 @@ images:
     height: 417
     title: "This AI-driven meme generator delivers the avant-garde content you need"
 
-secured: "eENhcXrcDAWrcGKyrwazxfHSFV0FD+ufyyAtZD2fWs/c5jpZPyRcUnwqWeJFlFUA1++4M13UxOgEv7J4pTOhJcv80jSwSKTpd1WVdteS7lXUOZKnXD1zwSdOyH1pebM8Vm4dK3MlVFNzW2A0WVa5iv5oNhzhkVDmY7loyiTd0yHCNg5jMqpBm09GpYEgBTekTOyX1kie+RhWh7M55RwZ8ZBX3o+dedOA9cbnhmAdWxEBhhB7RvrHecVbxvS9UA4GlmGTOjMKQZqFyFMsdwzkOI+syctFyrgHLTBxo0Cd8gP1AvKwh1oOpH3G//zgYfM/;omo+pC9k1GhUi3VDoPQkrg=="
+secured: "GDM8D0LgnBnkHHPp/TKWMh8htHbEDdAl12QZlAIdvf1erA3EMAD0qfM4OlgICfKlqBSiZ326FP1ek7pAqt9Pzo8wT6P9/hR/kdbRp1+608/bwhcCT1T+MZnpPCIhg7f4j0dZtTXgknmfv/qYs1gzVZ2ILjb4PdSxWibTpQ33Y8yl618M/vaXFgiqrjautkZ7flWMtA88+xht7EkD2Hu396bNSKf8aR18Ek25GFMYLpbPLCumdbJcJpvA3zniUTFwMFELWwtOpV1r16hRIVrGOH+nfoFtElePBEDx7QDZqapU4EpiF1b4YVbbN9gzHWB5;QQp3tVz/mZ0AXqwJiRrWMQ=="
 ---
 

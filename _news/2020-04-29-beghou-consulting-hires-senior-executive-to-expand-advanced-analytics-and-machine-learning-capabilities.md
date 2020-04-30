@@ -1,28 +1,28 @@
 ---
 category: news
 title: "Beghou Consulting hires senior executive to expand advanced analytics and machine learning capabilities"
-excerpt: "\"Janardhan is an standout leader in the life sciences industry, especially in his innovative use of advanced analytics to get in front of emerging commercial challenges,\" said Beth Beghou, founder and managing director of Beghou Consulting."
+excerpt: "Life sciences consulting firm Beghou Consulting recently hired industry veteran Janardhan Vellore to strengthen the firm's advanced"
 publishedDateTime: 2020-04-29T14:00:00Z
-webUrl: "https://markets.businessinsider.com/news/stocks/beghou-consulting-hires-senior-executive-to-expand-advanced-analytics-and-machine-learning-capabilities-1029145458"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/beghou-consulting-hires-senior-executive-to-expand-advanced-analytics-and-machine-learning-capabilities-1029145458"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/beghou-consulting-hires-senior-executive-to-expand-advanced-analytics-and-machine-learning-capabilities-1029145458"
+webUrl: "https://www.prnewswire.com/news-releases/beghou-consulting-hires-senior-executive-to-expand-advanced-analytics-and-machine-learning-capabilities-301048614.html"
 type: article
-quality: 53
-heat: 53
+quality: 23
+heat: 23
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Machine Learning
   - AI
 
-secured: "I1Kw5lPnF9a29DK3KFiZeDKVnmwI/DTvf2druyaMHmTTOoVFS4+cZQrxXNfL3j0yJH/5376qFlq4wDxNNMcwlme3UA2nrcwW9d+nrtsC3LYpwwdwyKXDabV5vRAGhXu7LPf8MEw2VVzSB3FGvAuk9eW73ZQ8OPXzwUgzmB0gKI8SM9oU/bOl+pCn5N/BE6113KiQ0QrhdxwrSeGptBB2JdwKImzT9xt6W5XEE53NRYxA4sidQeaTEdEWiqw1onZTo6GBiiedg4/a8ZQZA2MQIA5Z34PXIwYnI+rulU695diHUyl78qCfWXidnjR1fczkFApoCo0i2wlPaf4dmvINT+2W+Qywu6S0JJm9vjM1qaMWmcepNqSqxwtJgMGU2zKBIXji7SHt9GlYh223yybvMogbMg0JQrzThMGAqB9tSfvRr5OugLCBVlfAXWcy/3MBT0iSqbOQvBJxyXIsMMR2R1VPV0SbkfMvob/duMxuZck=;hM9WOzHqWblXp5xxIrg2Tg=="
+images:
+  - url: "https://mma.prnewswire.com/media/750669/Beghou_Dark_Logo.jpg?p=facebook"
+    width: 1077
+    height: 565
+    title: "Beghou Consulting hires senior executive to expand advanced analytics and machine learning capabilities"
+
+secured: "2IaiUSP/hiiYyLjm/bcXhwLZwhQmjifFamuPiIpsJCXPeaL0Ry2hz7q7Y/0e3V0eCc5F3rVGU3ou2zfHVUrpDbRbSBO5BmvWz8pz9yU6oOFQjyjBML6opDKa+zFaF7cK1wgBPxOqWDQGcqFhnosckY4rZ+toTEt3n5WyVdckKcdtLPjFg9MtDDfutFFEsjRKqIMkbEW+6h2gDSeaOYOzuLd4StUtKUth48Egb6fZdsX6ovG1SDNKgzIx/8Fn8hpxm0H+I/6GBgqt2PQlpSm42KzJIDBTJSgAPjp4voDH9qerkiUdyH84xRyzJ/fFrz56;54WE5zuNtUMNPxC51NghNQ=="
 ---
 

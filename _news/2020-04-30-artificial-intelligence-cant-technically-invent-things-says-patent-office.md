@@ -1,51 +1,30 @@
 ---
 category: news
-title: "Artificial Intelligence can't technically invent things, says patent office"
-excerpt: "Artificial intelligence is the future. If \"Westworld\" or \"Black Mirror\" are to be believed, there will soon come a day when the computers rule us all. But for now, an AI's power ends at the US Patent Office."
-publishedDateTime: 2020-04-30T08:39:00Z
-webUrl: "https://www.cnn.com/2020/04/30/us/artificial-intelligence-inventing-patent-office-trnd/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2020/04/30/us/artificial-intelligence-inventing-patent-office-trnd/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/04/30/us/artificial-intelligence-inventing-patent-office-trnd/index.html"
+title: "Artificial intelligence can’t technically invent things, says patent office"
+excerpt: "Artificial intelligence is the future. If “Westworld” or “Black Mirror” are to be believed, there will soon come a day when the computers rule us all. But for now, an"
+publishedDateTime: 2020-04-30T11:32:00Z
+webUrl: "https://fox59.com/news/national-world/artificial-intelligence-cant-technically-invent-things-says-patent-office/"
+ampWebUrl: "https://fox59.com/news/national-world/artificial-intelligence-cant-technically-invent-things-says-patent-office/amp/"
+cdnAmpWebUrl: "https://fox59-com.cdn.ampproject.org/c/s/fox59.com/news/national-world/artificial-intelligence-cant-technically-invent-things-says-patent-office/amp/"
 type: article
-quality: 87
-heat: 97
-published: true
+quality: 57
+heat: 57
+published: false
 
 provider:
-  name: CNN
-  domain: cnn.com
-  images:
-    - url: "https://insideout.app/ai/assets/images/organizations/cnn.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: FOX59 News
+  domain: fox59.com
 
 topics:
-  - Machine Learning
+  - AI in Robotics
   - AI
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/181211153659-artificial-intelligence-super-tease.jpg"
-    width: 1100
-    height: 619
-    title: "Artificial Intelligence can't technically invent things, says patent office"
+  - url: "https://fox59.com/wp-content/uploads/sites/21/2020/04/GettyImages-1176548169.jpg?w=1024&h=720&crop=1&resize=1280,720"
+    width: 1280
+    height: 720
+    title: "Artificial intelligence can’t technically invent things, says patent office"
 
-related:
-  - title: "No, an artificial intelligence can't legally invent something — only 'natural persons' can, says US patent office"
-    excerpt: "The Artificial Inventor Project argued a \"creativity machine\" should be credited as an inventor, but the patent office disagreed."
-    publishedDateTime: 2020-04-29T19:55:00Z
-    webUrl: "https://www.businessinsider.com/artificial-inteligence-cant-legally-named-inventor-us-patent-office-ruling-2020-4"
-    ampWebUrl: "https://www.businessinsider.com/artificial-inteligence-cant-legally-named-inventor-us-patent-office-ruling-2020-4?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/artificial-inteligence-cant-legally-named-inventor-us-patent-office-ruling-2020-4?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 66
-    images:
-      - url: "https://i.insider.com/5ea9ca3142278d04453dbf53?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-
-secured: "GirYFw1DuSVMzeVX10NnsBz71uV1uE8aHpAOhoUTiHTMfsNtVNPckbm8whDrToh3k5Pg7mDfHkCKQhJlTSutLq07xC679e9zJYL5stRTn6Q2YMciu4uZQSYwKtuH6E3DgaUgK0zcvLdr/Ct71JVtZEdDDqFAlAUQuc8jtOiggR0Mm7cKJSF5K2o+6X2dA12akVw5pIfwmP/6xrSOnmpWrItIHxnVytjsQ/eRsMOXMqpomEutls7giIyFKk8iXroZvMlnR8egPyy345J2IMqfOxgBzHJMmu6sgvVpH5jFx1O2jF7a8OlCPavQDdrzxrjY;DsIU0k78GHRRfvFwPRa9LA=="
+secured: "aEs7FxauEfoNJaMwXihK6IJ3tcEEc3K4opdZNFnZf1B2XbmGyINLQBOYAYDqqA4tYaFpGRoT4RrCUZCm2jZotf+qflt7ebUvKmaM3+e4eBWYbQfKsyQTs85XQ+VhTYaI7SkfpyceNH0je3eZSBs4UtdWhuQj8huyaoyrIH6ew+rchF9s13Bm+GZq9xf0UmLjMJ3/LVvesm7qi0oMXFfXjuqlBtgQ63DMqD/rRdpZhLy4GQLf4gmSD/FTWvE8YpgG728h4Ny0Qyp2eldRzWVoc3els0a6Lr+KDi9qO2+c2s+u7ReBsHnIoeoK1Nj4By/F;yKNT2YIOGGslZhWgkNoyEQ=="
 ---
 

@@ -2,6 +2,43 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-03-19-uk-based-fintech-payhawk-a-corporate-expense-management-solution-provider-secures-3-million-in-seed-funding.md",
+      "title": "UK-based Fintech Payhawk, a Corporate Expense Management Solution Provider, Secures €3 Million in Seed Funding",
+      "excerpt": "UK-based Fintech Payhawk, a corporate expense management solution provider, secures €3 million in seed funding.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.crowdfundinsider.com/2020/03/159008-uk-based-fintech-payhawk-a-corporate-expense-management-solution-provider-secures-e3-million-in-seed-funding/",
+      "ampWebUrl": "https://www.crowdfundinsider.com/2020/03/159008-uk-based-fintech-payhawk-a-corporate-expense-management-solution-provider-secures-e3-million-in-seed-funding/amp/",
+      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/03/159008-uk-based-fintech-payhawk-a-corporate-expense-management-solution-provider-secures-e3-million-in-seed-funding/amp/",
+      "publishedDateTime": "2020-03-19T04:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crowdfund Insider",
+        "domain": "crowdfundinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2020/03/Payhawk-300x228.jpg",
+          "width": 300,
+          "height": 228,
+          "title": "UK-based Fintech Payhawk, a Corporate Expense Management Solution Provider, Secures €3 Million in Seed Funding",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-19-how-machine-learning-fights-financial-fraud.md",
       "title": "How Machine Learning Fights Financial Fraud",
       "excerpt": "We have e-shops, online banking, online insurances, and tons of other online services. But there’s one more thing we have ... So companies are forced to look for new solutions to prevent, detect, and eliminate fraud. And machine learning seems to be the best answer to financial fraud. How does it work, what are the benefits, and who ...",
@@ -1055,43 +1092,6 @@
           "width": 799,
           "height": 419,
           "title": "Hazelcast Speeds Time-to-Market for Operationalization of Machine Learning in Enterprise Applications",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-10-aci-worldwide-launches-advanced-machine-learning-capability-to-dramatically-reduce-payment-fraud-for-banks-and-merchants-and-their-customers.md",
-      "title": "ACI Worldwide Launches Advanced Machine Learning Capability to Dramatically Reduce Payment Fraud for Banks and Merchants and Their Customers",
-      "excerpt": "“Traditional machine learning models in many cases are not sufficient to stop fraudsters in their ... “We are the first vendor globally to roll out the new Incremental Learning technology across the merchants, payments and financial services sectors,” commented Fabian Gloerfeld, head of Payments Intelligence, ACI Worldwide.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businesswire.com/news/home/20200309005518/en/ACI-Worldwide-Launches-Advanced-Machine-Learning-Capability",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-09T23:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20200309005518/en/408535/23/ACI_logo.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": "ACI Worldwide Launches Advanced Machine Learning Capability to Dramatically Reduce Payment Fraud for Banks and Merchants and Their Customers",
           "attribution": null
         }
       ],

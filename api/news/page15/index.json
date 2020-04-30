@@ -98,27 +98,27 @@
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://markets.businessinsider.com/news/stocks/new-web-based-automl-tool-from-sensiml-makes-ai-for-iot-easier-than-ever-1029098610",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/new-web-based-automl-tool-from-sensiml-makes-ai-for-iot-easier-than-ever-1029098610",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/new-web-based-automl-tool-from-sensiml-makes-ai-for-iot-easier-than-ever-1029098610",
-      "publishedDateTime": "2020-04-16T06:27:00-07:00",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/04/n15819256/new-web-based-automl-tool-from-sensiml-makes-ai-for-iot-easier-than-ever",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/15819256",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15819256",
+      "publishedDateTime": "2020-04-16T06:22:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
-      "images": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/891804/SensiML_Logo.jpg",
+          "width": 400,
+          "height": 208,
+          "title": "New Web-Based AutoML Tool from SensiML Makes AI for IoT Easier than Ever",
+          "attribution": null
+        }
+      ],
       "locale": "en-us",
       "categories": [
         "news"

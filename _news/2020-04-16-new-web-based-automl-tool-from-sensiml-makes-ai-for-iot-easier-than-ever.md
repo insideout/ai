@@ -2,24 +2,26 @@
 category: news
 title: "New Web-Based AutoML Tool from SensiML Makes AI for IoT Easier than Ever"
 excerpt: "PORTLAND, Ore., April 16, 2020 /PRNewswire/ -- SensiML™ Corporation, a leading developer of AI tools for building intelligent IoT endpoints, has released a new web-based AutoML tool with a ..."
-publishedDateTime: 2020-04-16T13:27:00Z
-webUrl: "https://markets.businessinsider.com/news/stocks/new-web-based-automl-tool-from-sensiml-makes-ai-for-iot-easier-than-ever-1029098610"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/new-web-based-automl-tool-from-sensiml-makes-ai-for-iot-easier-than-ever-1029098610"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/new-web-based-automl-tool-from-sensiml-makes-ai-for-iot-easier-than-ever-1029098610"
+publishedDateTime: 2020-04-16T13:22:00Z
+webUrl: "https://www.benzinga.com/pressreleases/20/04/n15819256/new-web-based-automl-tool-from-sensiml-makes-ai-for-iot-easier-than-ever"
+ampWebUrl: "https://amp.benzinga.com/amp/content/15819256"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15819256"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Machine Learning
   - AI
 
-secured: "Mdu9aFZOH4zH5hpBSGYP/mPlAnsrnOjkQb0g/95o33EJ8tjp7UTwyGIa746XmcWajZahwGNv6udZlPdOv4NT3VYJUQlKag6HSZKMPSkVShYIegP7X75j4y84Oe4QJRfkmEtn9ib+hr5zu5oo0o3L6/11Alktcu7ILUP4Z3ngzxD3qposYxWOaIRpNzk6UEdtffMIuxuOI1CsH3X1gaZUq9p/+bDDLLFMXcxfO1z3KtJ1G7zUsIAJCY1yJH1s4SFJ64pbfrkfiF8wuvd2oH5z4ATmXT1sz/8sAlKGiUguyayOYtLqKeFpNSX0Y51Ej8YN;PYnQtR1zSd7/0TMgIgOIkQ=="
+images:
+  - url: "https://mma.prnewswire.com/media/891804/SensiML_Logo.jpg"
+    width: 400
+    height: 208
+    title: "New Web-Based AutoML Tool from SensiML Makes AI for IoT Easier than Ever"
+
+secured: "Yk1SuL2y+22RLB+OSvS6TmA6ewvtU5KFHP0A6P8Xq9fK9lpzCcgZgWTItvHqk8Fsembb+XA4ox9067qNZgIj5t+gf3LoZh/8KCulrFDZ6P55SKDcfoTZBR3nVJiMSc8OdfoY879BVpe+aSO2IDYdRUMxLXsYwvnq4iNrp86lH3ra6G9ZXUvz+fKXxOq10sh+4RJjpR/+/r8r5G+e9K4yoVfk/JQM7Oe6SPKR5v7WtvI4EUg+b2S91CZ67dXfh+qwLU5ZGvK18WagZ3YE3YKlPa4/ib1Zzf53xtL+lCR71CgGcBCRlZQdJ0RyLPSt0itE;7FK6ZdwNAgURXz+tfxbZ2Q=="
 ---
 
