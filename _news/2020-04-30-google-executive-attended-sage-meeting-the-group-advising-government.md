@@ -8,7 +8,7 @@ ampWebUrl: "https://www.thelondoneconomic.com/news/google-executive-attended-sag
 cdnAmpWebUrl: "https://www-thelondoneconomic-com.cdn.ampproject.org/c/s/www.thelondoneconomic.com/news/google-executive-attended-sage-meeting-the-group-advising-government/30/04/amp/"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,51 @@ images:
     width: 1000
     height: 835
     title: "Google executive attended Sage meeting the group advising Government"
+
+related:
+  - title: "Anger as Google artificial intelligence expert is invited to secretive 'Sage' meeting"
+    excerpt: "Demis Hassabis, founder and CEO of the tech giant's DeepMind operation, sat in on a meeting of the Government's Scientific Advisory Group for Emergencies on March 18."
+    publishedDateTime: 2020-04-30T20:31:00Z
+    webUrl: "https://www.dailymail.co.uk/news/article-8275395/Anger-Google-artificial-intelligence-expert-invited-secretive-Sage-meeting.html"
+    ampWebUrl: "https://www.dailymail.co.uk/news/article-8275395/amp/Anger-Google-artificial-intelligence-expert-invited-secretive-Sage-meeting.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-8275395/amp/Anger-Google-artificial-intelligence-expert-invited-secretive-Sage-meeting.html"
+    type: article
+    provider:
+      name: Mail Online
+      domain: dailymail.co.uk
+    quality: 52
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2020/04/30/21/27857536-0-image-a-54_1588278136392.jpg"
+        width: 636
+        height: 382
+  - title: "Top Google AI expert attended Sage meeting of Government scientific advisers about coronavirus"
+    excerpt: "Demis Hassabis, the founder and chief executive of the tech giant's DeepMind operation, sat in on a meeting of Scientific Advisory Group for Emergencies (Sage)."
+    publishedDateTime: 2020-04-30T15:32:00Z
+    webUrl: "https://www.dailymail.co.uk/news/article-8274333/Top-Google-AI-expert-attended-Sage-meeting-Government-scientific-advisers-coronavirus.html"
+    ampWebUrl: "https://www.dailymail.co.uk/news/article-8274333/amp/Top-Google-AI-expert-attended-Sage-meeting-Government-scientific-advisers-coronavirus.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-8274333/amp/Top-Google-AI-expert-attended-Sage-meeting-Government-scientific-advisers-coronavirus.html"
+    type: article
+    provider:
+      name: Mail Online
+      domain: dailymail.co.uk
+    quality: 47
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2020/04/30/15/27846360-0-image-a-12_1588258192544.jpg"
+        width: 636
+        height: 382
+  - title: "Google executive attended meeting of key scientific group advising Government"
+    excerpt: "A senior Google executive responsible for its AI efforts has taken part in the Government’s coronavirus scientific advisory group for emergencies (Sage), the tech giant has conf"
+    publishedDateTime: 2020-04-30T14:32:00Z
+    webUrl: "https://www.shropshirestar.com/news/uk-news/2020/04/30/google-executive-attended-meeting-of-key-scientific-group-advising-government/"
+    type: article
+    provider:
+      name: Shropshire Star
+      domain: shropshirestar.com
+    quality: 21
+    images:
+      - url: "https://www.shropshirestar.com/resizer/qU2q6cE0DTmfIatTnsHXntGJJZ0=/1200x0/filters:quality(100)/arc-anglerfish-arc2-prod-shropshirestar-mna.s3.amazonaws.com/public/2KILEIUPPNCPVA4CR6LHKN77OI.jpg"
+        width: 1200
+        height: 900
 
 secured: "aZeLRASVcC8IwwJ4z0LtuEO5gdfpKj9/j9R6ynO2n/s3xBnWMEjb+JJm9u1qvGjD2W69FJQGo5ivE9cLl+nJK194iwomFd9tC3jstryN7i8iANTX/TU8jX2A7hahFfVQs1nD6thSfCZwKewuKuEVqZJHLEmzPXzQafPytMGPL9j8c2PIsZo1mtLAs8swFUAWx6JvWnIsU8Yw2qOWDRVeZlq3BnmKJopRksSvkl34Ak1pX/3mDvCiS3tt1yC3P4thIF0+E/nMqXI8JLiMvkLx+2xTVlF2k0UkVk0+y1juvkqUjkwewiuMaRRWbYjSY9FArSP2KucFkH4cvuS+1wB/nsKcAU2iENgNSiIsalWuhrHu/TRt1iFIOnIUgv/8grCz5yDNDQGMWA2p7fJMUJ4QvGkQ/EpM8JKv2GiF9s+EmTqC/Wn1IwIee1WfT5X3mK6jzBovLGt2vrmtdXT8nOoS7d8cccoHJ2c3lYB0eZheDG8=;3UxxyiEdsno4rAA7CuZetA=="
 ---

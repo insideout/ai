@@ -25,6 +25,6 @@ images:
     height: 2670
     title: "Google is Ruling Artificial Intelligence"
 
-secured: "/6KW2sOWx20LWa12gs6XkT54feoPo69pL8w5iNyUB4IpwScS2vqYxWz8t05rQ3saHE2u+svSiVU1pPtVpkZl/yRJ1oRL5JUli2eoNkzlOasK93g0aTl7E1VsR2GTM152/RCtjz2mhjC4oySMkj51G+lJB3xM3DC5s8kU05S2VFUR2gCrpj/y4en+G1n+FG6eJztogJC2c+XgRjHrsEQtxbEZlXf47y68SAAcdLGj/EUwLktLhUymix/D0mGd1iKay8SePGo/V+XFlMdCdWLZo6H8US/GNMF2dEuW2yIOEZVns/fWG2CQUQSO7atFh5ao;15VBx6SHyNC8H4i9w0gJlg=="
+secured: "U+APhtMwJMG8P5yjRsEziQ9toXEA6onm+e1KLgUMtm1j9hjbw9/2msPaufOz+8T1kZdNtgE4DbdgjC1Vz8oK6kIVsi8NQ2+VUyu5OAbY4Xak9yXHMI9Pj9q27iG7ZE660vwbdwCcE7So/9dXxUyo+6vrx0ZMcM5ib1ORag6aS0XTT1+0PZowC7YVSIZQte77M/HWFfyS0v1D1fhdXrmOWhWcAEWShiPHIvQqF3zh/qg9zRz6JSohDMCNkqsvrV5dw9/cD45k5/KiqnJysSeHbRP5qySVc+yt2msu2bVxvKQLGEQV+RiXxzh1fo6tBmjDzZIXCITigGzpzuo5+C9Bo38Xrp73TQwZJJgMyy/6MIRG7hGYinPVsgg/RjGHxwYzYZK9hcSMTxd/Gv5cZtBTY0VavGCCHC2YnVrxvNULpV8nFdb6XmocAH+3LXP3CRqFqwr+KYYhgOwjd6nzqiyO5ueABjD4o2qUQX8wmGepfa8=;5/yizICLbXluUcHrhRnegg=="
 ---
 

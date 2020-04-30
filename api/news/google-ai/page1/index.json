@@ -2,6 +2,43 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-04-30-anger-as-google-artificial-intelligence-expert-is-invited-to-secretive-sage-meeting.md",
+      "title": "Anger as Google artificial intelligence expert is invited to secretive 'Sage' meeting",
+      "excerpt": "Demis Hassabis, founder and CEO of the tech giant's DeepMind operation, sat in on a meeting of the Government's Scientific Advisory Group for Emergencies on March 18.",
+      "heat": 82,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.dailymail.co.uk/news/article-8275395/Anger-Google-artificial-intelligence-expert-invited-secretive-Sage-meeting.html",
+      "ampWebUrl": "https://www.dailymail.co.uk/news/article-8275395/amp/Anger-Google-artificial-intelligence-expert-invited-secretive-Sage-meeting.html",
+      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-8275395/amp/Anger-Google-artificial-intelligence-expert-invited-secretive-Sage-meeting.html",
+      "publishedDateTime": "2020-04-30T13:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mail Online",
+        "domain": "dailymail.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.dailymail.co.uk/1s/2020/04/30/21/27857536-0-image-a-54_1588278136392.jpg",
+          "width": 636,
+          "height": 382,
+          "title": "Anger as Google artificial intelligence expert is invited to secretive 'Sage' meeting",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-30-uber-ai-plays-any-atari-2600-game-with-superhuman-skill.md",
       "title": "Uber AI plays any Atari 2600 game with 'superhuman' skill",
       "excerpt": "A team of Uber AI researchers has developed a set of algorithms, Go-Explore, that reportedly beats any Atari 2600 game with s",
@@ -1247,53 +1284,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-02-train-a-deep-learning-image-classification-model-with-mlnet-and-tensorflow.md",
-      "title": "Train a deep learning image classification model with ML.NET and TensorFlow",
-      "excerpt": "Image classification takes an image as input and categorizes it into a prescribed class. This sample shows a .NET Core console application that trains a custom deep learning model using transfer learning, a pretrained image classification TensorFlow model and the ML.NET Image Classification API to classify images of concrete surfaces into one ...",
-      "heat": 101,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://docs.microsoft.com/en-us/samples/dotnet/machinelearning-samples/mlnet-image-classification-transfer-learning/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-01T22:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png",
-          "width": 400,
-          "height": 400,
-          "title": "Train a deep learning image classification model with ML.NET and TensorFlow",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "TensorFlow",
-        "Google AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

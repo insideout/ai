@@ -29,7 +29,7 @@ related:
   - title: "AI in Africa: Training bots to talk to my mum"
     excerpt: "How African researchers are using the continent's languages to help spur innovation in Artificial Intelligence."
     publishedDateTime: 2020-04-30T10:43:00Z
-    webUrl: "https://www.bbc.com/news/world-africa-52411797"
+    webUrl: "https://www.bbc.com/news/world-africa-52411797?intlink_from_url=&link_location=live-reporting-story"
     ampWebUrl: "https://www.bbc.com/news/amp/world-africa-52411797"
     cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-africa-52411797"
     type: article

@@ -2,6 +2,51 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-03-04-cognitive-systems-spending-market-to-register-a-stellar-growth-rate-of-cagr-of-146-during-2016-2026.md",
+      "title": "Cognitive Systems Spending Market to Register a Stellar Growth Rate of CAGR of 14.6% During 2016 – 2026",
+      "excerpt": "VALLEY COTTAGE, N.Y. - \"The US$ 5.49 Bn global cognitive systems spending marketwill witness a massive hike in the revenues, reaching a whopping US$ 21.46 Bn by the end of 2026. Over the 10-year assessment period 2016-2026,",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/cognitive-systems-spending-market-to-register-a-stellar-growth-rate-of-cagr-of-146-during-2016-2026-2020-03-04",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-04T05:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Cognitive Systems Spending Market to Register a Stellar Growth Rate of CAGR of 14.6% During 2016 – 2026",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-04-cisco-microsoft-team-to-control-growing-iot-networks.md",
       "title": "Cisco, Microsoft team to control growing IoT networks",
       "excerpt": "Services like Microsoft Azure Stream Analytics, Microsoft Azure Machine Learning, and Microsoft Azure Notification Hub services can be used to build IoT applications for the enterprise ...",
@@ -1245,51 +1290,6 @@
           "width": 1200,
           "height": 799,
           "title": "The top 20 IT training companies",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-19-artificial-intelligence-makes-a-splash-in-efforts-to-protect-alaskas-ice-seals-and-beluga-whales.md",
-      "title": "Artificial intelligence makes a splash in efforts to protect Alaska’s ice seals and beluga whales",
-      "excerpt": "NOAA scientist Erin Moreland felt sure there was a technological solution to help her team sort through millions of aerial images of ice each year. She hit the jackpot with artificial intelligence. (Photo provided by NOAA) That better way is now here — an idea that began, unusually enough, with the view from Moreland’s Seattle office window ...",
-      "heat": 86,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://news.microsoft.com/features/artificial-intelligence-makes-a-splash-in-efforts-to-protect-alaskas-ice-seals-and-beluga-whales/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-19T06:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/2020/02/me2-300x225.jpg",
-          "width": 300,
-          "height": 225,
-          "title": "Artificial intelligence makes a splash in efforts to protect Alaska’s ice seals and beluga whales",
           "attribution": null
         }
       ],
