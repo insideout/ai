@@ -1,11 +1,11 @@
 ---
 category: news
 title: "Face Recognition Behind a Mask"
-excerpt: "Although putting on a mask over your nose and mouth is one of the easiest ways to protect yourself and others from Coronavirus, face masks may be subtly (and not so subtly) interfering with how we perceive and recognize one another."
+excerpt: "Although putting on a mask over your nose and mouth is one of the easiest ways to protect yourself and others from Coronavirus, face masks may be subtly (and not so subtly) interf"
 publishedDateTime: 2020-04-30T15:55:00Z
-webUrl: "https://www.psychologytoday.com/za/blog/illusions-delusions-and-reality/202004/face-recognition-behind-mask"
-ampWebUrl: "https://www.psychologytoday.com/za/blog/illusions-delusions-and-reality/202004/face-recognition-behind-mask?amp"
-cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/illusions-delusions-and-reality/202004/face-recognition-behind-mask?amp"
+webUrl: "https://www.psychologytoday.com/intl/blog/illusions-delusions-and-reality/202004/face-recognition-behind-mask"
+ampWebUrl: "https://www.psychologytoday.com/intl/blog/illusions-delusions-and-reality/202004/face-recognition-behind-mask?amp"
+cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/illusions-delusions-and-reality/202004/face-recognition-behind-mask?amp"
 type: article
 quality: 39
 heat: 39
@@ -19,6 +19,6 @@ topics:
   - Computer Vision
   - AI
 
-secured: "53mLinCPCyZFZ2ydNn7uGJOnVakrl8ZL071RWxxJUe0S73WFH1vXQ0UfwiDU05tj8xeomQHvy7+313JrdB8i2e153R+4s5HpNV6lX0Sy/A36ka9LkCGyrZmMzPkOEKJdbpHKGBakKJQXzglRIbCsOwpRsmPpzagDmjXhEQA09TlCmPiSYUD3Sf4ZCYaiyYmnJK1yleU2GO3iHpPWx9Cu/FjA5Yrk6zX+MFNp8eLWn1odoEjwHYyvI4/HOczAmabK7Q2KG6NE2/gfEWSctAnc2KbCLazGyxYif5S1plBszAAeEocrsVCV+dIPGTyR3YS5q1y8bWfWFDxWFR2KWtk8X8rZNMT9ucfY7+uYoyDlnbyNBrZzkuwRB7/zMsMBEhH+4WbwVeMJm90ZegE60bNESt1LYY74+48C4w0Ld3+81z334l92zCnojGnrm7L48F2DIlJQGN8iGlpKjeUJfSvqv4o296qwFVrWLnzxEq6vlvA=;BoI4VmWfMWEZ9XweQTcdUw=="
+secured: "lCecUcvc3lUl8UBF+kx+VXbrYdjUE7TKWpfQWgDEfKCgzErx94tNUiqnBgtXwbvaUit1wK2zwMhxH6APenMepWd8nxAOtZr3NzcjjpVrxhCnI6DC/ydtw5/7BbNqYNSoZqTL47HdyRtkg+9M1MS2Z7P6GB5rT67Dvd1EdsnLSZ2yr5U9TkyB5ruQBsExWj2VixyPeSlNK3DSiS/kp354AutzRbBp8ZgoDaBybrolmDr7NGxp2Heg+8OtBHIDfGDGDYi4y3jsJ+zfHfZI7z94TSEOeVwmme66EwFO3LbpREJZGxwmwLvURlw2m1EKlQ8egqeherunF+OypHP88a8ADYz55FjFCpMlzmN3ao+O+BtriDpGMd2M1xNOmVNnhieqNcCDoa7iuxvBHom7Y4jmlYpblHJtF3v+Lks5LRbhkpW/D7HeOYDLQGbninIzPGDg9LB03k8TLflgRL7giWTArYAn9u0gd46qbpQV+xnGBfk=;tz7o1OABVHknrZnywkjvYQ=="
 ---
 

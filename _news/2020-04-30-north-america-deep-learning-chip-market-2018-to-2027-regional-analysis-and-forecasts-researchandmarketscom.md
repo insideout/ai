@@ -5,8 +5,8 @@ excerpt: "The North America deep learning chip market accounted for US$ 900.1 Mn
 publishedDateTime: 2020-04-30T12:52:00Z
 webUrl: "https://www.businesswire.com/news/home/20200430005513/en/North-America-Deep-Learning-Chip-Market-2018"
 type: article
-quality: 18
-heat: 18
+quality: 35
+heat: 35
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI Hardware
 
 images:
   - url: "https://mms.businesswire.com/media/20200430005513/en/371054/23/ResearchAndMarkets_800px.jpg"
@@ -38,6 +39,6 @@ related:
         width: 600
         height: 400
 
-secured: "QFT8eK8O2hJIh80M7JrTsz3A+NnXGK3LWCbFZQVKprZ9iNwvNOXo04W5B7GFoooceS4zvXFQ5kxt5jpISyYWwtx+IdcEAtPmJzHXNyqXu6Zof4T84vUXLnpaUniE1Ubb8gK5OgJ4UKbeiCpcstskjtHBJMKcx4rmxMVC1eLZ3c6HOPIIBqZee9Vnps0SXAYPUZo6ph/ZGbFOZk4C8PsK0DB1YWr3BBsPBC+skk8bg5rfxuVyud1DH4fcouIKat+GaDW4GkR9pgPo660gH1TXJ1lSTvzdELCbAoH9MVS48GncK3OTi6pFFtnuHUJ9AOp+;68EJ1MU75Ety1adJ1NzRGg=="
+secured: "ZVTgLFrTFk25cW0o3U0qUwN9uRa1G6v3QxFHySJjCLzWOaJn7p6Dee3rDDzB1K3EQGuHrQAXfyjRChccx1X2ccUV1QESLcnH55KQXWfXRz1gi1B79hSLZjLXrBmZLKuCClJbqebjsMYcprMhtOOSKqAHtKsFJOq1EdZ85kHvzFT/nWxGuTtQeBA4MF/ozqnoifXUswSrV8XKqSX5mGOGyofqrKrJoAEjqoXQ7j2JY2/Qq3kjgklj7mMn+wGMP3XxCZtQXHr4Gg6S0Dtie8nPTeDmsDoC++qJHOAmEvFQHIJUQBzeSlDFxso608a/1wGE6VzzH+KsVilBtzm8Hy/8bPnyKSKFJyV6K7yvjkyxJbt9m+v69XlZpBYvXludtmkaGQC6je3B1lr2hDn19FJvVqkTxXGFD8KAvMM+kGz449yBm7Lase9T+1JLyqzV39bZZKt/eNmVT0qo8BtkzgoE8PEfIVJQ3GiHGbuQxeoUHHM=;u00ZR/9cnehOvCopYUWWhA=="
 ---
 

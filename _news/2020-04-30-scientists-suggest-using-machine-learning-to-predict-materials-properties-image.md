@@ -25,19 +25,17 @@ images:
 
 related:
   - title: "Scientists suggest using machine learning to predict materials' properties"
-    excerpt: "Researchers suggested using machine learning methods to predict the properties of artificial sapphire crystals. It is a unique material widely used in microelectronics, optics and electronics. The results of the study were published in the Journal of Electronic Science and Technology and the illustration from the article hit the coverpage of the journal."
-    publishedDateTime: 2020-04-30T14:04:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-04/ptgs-ssu043020.php"
+    excerpt: "Researchers from Peter the Great St.Petersburg Polytechnic University (SPbPU) in collaboration with colleagues from Southern Federal University and Indian Institute of Technology-Madras (IIT Madras) suggested using machine learning methods to predict the properties of artificial sapphire crystals—a unique material widely used in microelectronics,"
+    publishedDateTime: 2020-04-30T16:25:00Z
+    webUrl: "https://phys.org/news/2020-04-scientists-machine-materials-properties.html"
+    ampWebUrl: "https://phys.org/news/2020-04-scientists-machine-materials-properties.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-04-scientists-machine-materials-properties.amp"
     type: article
     provider:
-      name: EurekAlert!
-      domain: eurekalert.org
+      name: Phys.org
+      domain: phys.org
     quality: 37
-    images:
-      - url: "https://eurekalert.org/multimedia/pub/web/230628_web.jpg"
-        width: 720
-        height: 480
 
-secured: "8TCfm0JLlKr/MbFblROh+OO/12ZR/LPvrFFPm641Pi6Ta/9sXfjSJmsyg8YKwWGBa9MK1BcD5I8wil5vc4ItVU3u2/m+JlWh285m7+Lnox/6Jznb07t+0RumiXXHmzxbth71W+vPzQ0KqMntTr0mV9UK85syjksyhfmTAd4z96tOfqc3KGqRhKEXOLbzjoqsqEAlyhxuMe+p5U6BVWJZjdI2DiF/u52uYhQd2wkUPDUxTYddjH+QnoVvksTYmC+7l6OqZ1pGahO8zabZmBE/c8A586PkLlFRJ6La0pp8OFuiGbtaj0MAkA0ANA2lq6uC;lZN4ZwjoKQeW28WM/jXPrg=="
+secured: "NWK5VgtBT526/G4HTWUTCXoB0eT21s4Pis/tzYAjpUTtSb/7jpANXIXDpfGVUmQ83xMvzUCv5nuIbVHvlFOmGLK/4MN3DU7j3WiNiJPmLnQxT1qyp+74SxyMZUwGUh2d+qAJ/a8XveTxsR3L6kCvQhBxbPcFpSi0YkdsOxL7TUsOebtO+H47GdGWz15efs3woH8Ely6mEvIVvzCbQcNgwCcYPUKtcoOlAcX+gLJqm2WGEUf6oYFOlydp2oAU2mlwe3vOZmhvsh0RB975JbUMVfhgexJC3R0KekWV1YM47qFKOF+M+iQSePaB83dthAK3M0ExmAI+v0aJxXXgOfOfIaQzJPnVEjzzcgT4tM3+OCBcKtvn8NOjGSlnEJS2UkkpLWMSQUqgVVGof8Si+l9OFO4AkElVCA/RS7v0E06uAgmfOCY71dB3FV1nSuPCcErEEta7nYYrEgWgXrY4OAzTcP27N2hOK35SHWzp+7dsVGs=;Wp2Y6E5qTEZqOBVHXQ2WIw=="
 ---
 

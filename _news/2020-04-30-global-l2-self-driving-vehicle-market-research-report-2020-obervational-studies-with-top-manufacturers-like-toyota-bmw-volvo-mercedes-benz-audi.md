@@ -32,7 +32,7 @@ related:
     provider:
       name: Business Wire
       domain: businesswire.com
-    quality: 18
+    quality: 35
     images:
       - url: "https://mms.businesswire.com/media/20200430005513/en/371054/23/ResearchAndMarkets_800px.jpg"
         width: 1200
