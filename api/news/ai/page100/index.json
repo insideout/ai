@@ -2,6 +2,222 @@
   "page": 100,
   "value": [
     {
+      "path": "_news/2020-01-15-machine-learning-as-a-service-market-2017-2024-with-detailed-insights-of-key-players-and-technological-innovations.md",
+      "title": "Machine Learning as a Service Market 2017-2024 With Detailed Insights of Key Players And Technological Innovations",
+      "excerpt": "Machine Learning as a Service Market Study 2017-2024 by Deployment Type (Public Cloud, Private Cloud), By End Use Application (Manufacturing, Retail, Healthcare & Life Sciences, BFSI, Travel & Hospitality,",
+      "heat": 92,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-2017-2024-with-detailed-insights-of-key-players-and-technological-innovations-2020-01-15",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-15T03:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Machine Learning as a Service Market 2017-2024 With Detailed Insights of Key Players And Technological Innovations",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-01-15-future-proof-your-tech-skills-with-the-ultimate-deep-learning-bundle.md",
+      "title": "Future-proof your tech skills with the Ultimate Deep Learning Bundle",
+      "excerpt": "Whether we like it or not, AI and deep learning are rapidly becoming part of our daily lives. So far, the rise of AI hasn’t led to toasters becoming our overlords, but there are high-paying jobs being created. You can pick up the Ultimate Deep Learning ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.androidauthority.com/ultimate-deep-learning-1073754/",
+      "ampWebUrl": "https://www.androidauthority.com/ultimate-deep-learning-1073754/amp/",
+      "cdnAmpWebUrl": "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/ultimate-deep-learning-1073754/amp/",
+      "publishedDateTime": "2020-01-15T02:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android Authority",
+        "domain": "androidauthority.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/androidauthority.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn57.androidauthority.net/wp-content/uploads/2019/11/Businessman-and-robot-shaking-hands-920x470.jpg",
+          "width": 920,
+          "height": 470,
+          "title": "Future-proof your tech skills with the Ultimate Deep Learning Bundle",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-01-15-healthcare-cognitive-computing-market-development-analysis-2019-ibm-google-microsoft.md",
+      "title": "Healthcare Cognitive Computing Market Development Analysis 2019- IBM, Google, Microsoft",
+      "excerpt": "The New report includes a detailed study of Global Healthcare Cognitive Computing Market. It is the result of a comprehensive research carried out keeping in mind the different parameters and trends dominating the global Healthcare Cognitive Computing Market.",
+      "heat": 81,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/healthcare-cognitive-computing-market-development-analysis-2019--ibm-google-microsoft-2020-01-15",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-15T00:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Healthcare Cognitive Computing Market Development Analysis 2019- IBM, Google, Microsoft",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-01-15-china-the-first-artificial-intelligence-superpower.md",
+      "title": "China – The First Artificial Intelligence Superpower",
+      "excerpt": "China combines a gigantic amount of data with talent, companies, research and capital to build the world's leading AI ecosystem.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/01/14/china-artificial-intelligence-superpower/",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/01/14/china-artificial-intelligence-superpower/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/01/14/china-artificial-intelligence-superpower/amp/",
+      "publishedDateTime": "2020-01-14T16:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e1d73c0735f8c000799cb86%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1130%26cropY1%3D198%26cropY2%3D833",
+          "width": 1130,
+          "height": 636,
+          "title": "China – The First Artificial Intelligence Superpower",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-01-14-ai-replaces-prick-test-to-detect-blood-sugar-levels.md",
+      "title": "AI replaces prick test to detect blood sugar levels",
+      "excerpt": "The novel artificial intelligence system works as well as CGMs ... the device using cohort data would not provide the same results. Hence, personalized therapy based on the system can be more effective than therapies used today. The new approach was ...",
+      "heat": 129,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.news-medical.net/news/20200114/AI-replaces-prick-test-to-detect-blood-sugar-levels.aspx",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20200114/AI-replaces-prick-test-to-detect-blood-sugar-levels.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200114/AI-replaces-prick-test-to-detect-blood-sugar-levels.aspx",
+      "publishedDateTime": "2020-01-14T13:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.news-medical.net/image.axd?picture=2020%2f1%2fleandro_ecg_63c541f952b746b48ff02d36b07911ca-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": "AI replaces prick test to detect blood sugar levels",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2020-01-14-ai-or-bs-distinguishing-artificial-intelligence-from-trade-show-hype.md",
       "title": "AI or BS: Distinguishing artificial intelligence from trade show hype",
       "excerpt": "AI wasn’t always poorly represented, though: There were some legitimate and legitimately exciting examples of artificial intelligence at CES ... lines dividing engineers from marketers obviously vary from company to company. Generally, self-driving car and taxi companies describe their vehicles’ capabilities using the Society of Automotive ...",
@@ -1040,207 +1256,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-13-raytheon-tapped-for-self-evaluating-machine-learning-system.md",
-      "title": "Raytheon tapped for self-evaluating machine learning system",
-      "excerpt": "Jan. 13 (UPI) --Raytheon Co. announced on Monday it has begun work on a machine-learning technology allowing machines to teach machines through artificial intelligence use. The $6 million contract is one of four, valued at a total of $20.9 million, between the U.S. Defense Research Projects Agency and Raytheon BBN Technologies, SRI ...",
-      "heat": 69,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.upi.com/Defense-News/2020/01/13/Raytheon-tapped-for-self-evaluating-machine-learning-system/4541578937214/",
-      "ampWebUrl": "https://www.upi.com/amp/Defense-News/2020/01/13/Raytheon-tapped-for-self-evaluating-machine-learning-system/4541578937214/",
-      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Defense-News/2020/01/13/Raytheon-tapped-for-self-evaluating-machine-learning-system/4541578937214/",
-      "publishedDateTime": "2020-01-13T10:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "UPI.com",
-        "domain": "upi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdnph.upi.com/sv/ph/og/i/4541578937214/2020/1/15789374589835/v1.5/Raytheon-tapped-for-self-evaluating-machine-learning-system.jpg",
-          "width": 800,
-          "height": 532,
-          "title": "Raytheon tapped for self-evaluating machine learning system",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-01-13-where-artificial-intelligence-will-disrupt-next.md",
-      "title": "Where Artificial Intelligence Will Disrupt Next",
-      "excerpt": "If you want to know where a technology is going, follow the patents. That’s what researchers from Stanford University and Brookings Institution recently did with artificial intelligence-related patents submitted to the US Patent and Trademark Office,",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/joemckendrick/2020/01/13/where-artificial-intelligence-will-disrupt-next/",
-      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2020/01/13/where-artificial-intelligence-will-disrupt-next/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2020/01/13/where-artificial-intelligence-will-disrupt-next/amp/",
-      "publishedDateTime": "2020-01-13T10:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/711x535/https://specials-images.forbesimg.com/imageserve/1150968776/960x0.jpg?fit=scale",
-          "width": 711,
-          "height": 535,
-          "title": "Where Artificial Intelligence Will Disrupt Next",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-13-artificial-intelligence-and-machine-learning.md",
-      "title": "Artificial Intelligence and Machine Learning",
-      "excerpt": "Intelligence has the potential to transform health care delivery and the patient experience. While artificial intelligence (AI) is still in the early stages of adoption, some organizations have started to incorporate intelligence into their clinical workflow and business operations to improve quality of care, patient satisfaction and engagement ...",
-      "heat": 76,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.aha.org/sponsored-executive-dialogues/2020-01-13-artificial-intelligence-and-machine-learning",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-13T09:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "aha.org",
-        "domain": "aha.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.aha.org/sites/default/files/2020-01/Cerner_ExecDialogue_AI_120919_Banner.jpg",
-          "width": 1500,
-          "height": 1038,
-          "title": "Artificial Intelligence and Machine Learning",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-01-13-woven-city-toyotas-living-laboratory-for-autonomous-cars-robots.md",
-      "title": "Woven City: Toyota’s ‘living laboratory’ for autonomous cars & robots",
-      "excerpt": "Many executives naively group AI into its own category with SmartCity inventions as a niche use case ... Hidden behind an out-of-place Delta Airlines lounge, I discovered a robotics startup already fulfilling aspects of the Woven City. Vancouver-based A&K Robotics displayed a proprietary autonomous mobility solution serving the ballooning ...",
-      "heat": 69,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.therobotreport.com/toyota-woven-city-living-laboratory-robots/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-13T09:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2020/01/Aerial_v002_V3_scaled.0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "Woven City: Toyota’s ‘living laboratory’ for autonomous cars & robots",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-01-13-facebook-releases-low-latency-online-speech-recognition-framework.md",
-      "title": "Facebook releases low-latency online speech recognition framework",
-      "excerpt": "Facebook AI Research (FAIR) today said it’s open-sourcing wav2letter@anywhere, a deep learning-based inference framework that achieves fast performance for online automatic speech recognition in ...",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/01/13/facebook-releases-low-latency-online-speech-recognition-framework/",
-      "ampWebUrl": "https://venturebeat.com/2020/01/13/facebook-releases-low-latency-online-speech-recognition-framework/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/13/facebook-releases-low-latency-online-speech-recognition-framework/amp/",
-      "publishedDateTime": "2020-01-13T09:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/04/Facebook-sign-F8-e1564693284989.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Facebook releases low-latency online speech recognition framework",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

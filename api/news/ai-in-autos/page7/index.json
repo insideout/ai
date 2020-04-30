@@ -2,6 +2,43 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-03-09-as-companies-race-to-develop-self-driving-cars-americans-remain-ambivalent.md",
+      "title": "As companies race to develop self-driving cars, Americans remain ambivalent",
+      "excerpt": "As companies continue working to get self-driving cars into production, acceptance of the technology remains “stuck in neutral,” according to AAA. In a study conducted by the organization ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.digitaltrends.com/cars/aaa-study-shows-acceptance-of-self-driving-cars-stuck-in-neutral/",
+      "ampWebUrl": "https://www.digitaltrends.com/cars/aaa-study-shows-acceptance-of-self-driving-cars-stuck-in-neutral/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/aaa-study-shows-acceptance-of-self-driving-cars-stuck-in-neutral/?amp",
+      "publishedDateTime": "2020-03-09T03:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-09-autonomous-and-self-driving-vehicle-news-baidu-spoofed-waymo-cmore.md",
       "title": "Autonomous and Self-Driving Vehicle News; Baidu Spoofed, Waymo & CMORE",
       "excerpt": "That’s all you need to get the sensor mixed up, report the researchers that broke into Baidu Apollo. “We showed how an attacker can suddenly halt ... which fills a crucial safety role in self-driving vehicles. In the U.S. each year, there are more than 1.5 million deer-related accidents, which cause around 200 human deaths and 10,000 ...",
@@ -1175,43 +1212,6 @@
           "width": 1200,
           "height": 800,
           "title": "Insightful New Report Is An Eye-Opening Look At How U.S. Government Is Embracing AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-02-24-china-delays-self-driving-car-deployment-goal-to-2025.md",
-      "title": "China delays self-driving car deployment goal to 2025",
-      "excerpt": "Why it matters: China backing off its ambitious plans underscores the challenging technological leap that self-driving technology has proven to be. Global auto tech giants have struggled to make autonomous cars safe for public use. The valuation of Google’s AV arm Waymo was slashed by 40% to $105 billion late last year, while General Motors ...",
-      "heat": 164,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://technode.com/2020/02/24/china-delays-self-driving-car-deployment-goal-to-2025/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-24T06:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechNode",
-        "domain": "technode.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://technode.com/wp-content/uploads/2019/01/bigstock-Smart-Car-Self-driving-Mode-V-260101189.jpg",
-          "width": 1775,
-          "height": 1080,
-          "title": "China delays self-driving car deployment goal to 2025",
           "attribution": null
         }
       ],

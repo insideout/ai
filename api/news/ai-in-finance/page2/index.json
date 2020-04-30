@@ -2,6 +2,43 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-03-19-how-machine-learning-fights-financial-fraud.md",
+      "title": "How Machine Learning Fights Financial Fraud",
+      "excerpt": "We have e-shops, online banking, online insurances, and tons of other online services. But there’s one more thing we have ... So companies are forced to look for new solutions to prevent, detect, and eliminate fraud. And machine learning seems to be the best answer to financial fraud. How does it work, what are the benefits, and who ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cpomagazine.com/cyber-security/how-machine-learning-fights-financial-fraud/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-19T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CPO Magazine",
+        "domain": "cpomagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.cpomagazine.com/wp-content/uploads/2020/03/how-machine-learning-fights-financial-fraud_1500.jpg",
+          "width": 1500,
+          "height": 860,
+          "title": "How Machine Learning Fights Financial Fraud",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-18-taking-inventory-of-ai-within-financial-institutions-and-fintech.md",
       "title": "Taking Inventory of AI within Financial Institutions and Fintech",
       "excerpt": "This article describes most of the AI activity occurring within financial institutions and fintech suppliers then compares and contrasts the two. It also identifies the challenges associated with deploying AI: “Financial services were one of the first sectors to understand the promise of the Big Data revolution, and the wave of new technology ...",
@@ -1055,43 +1092,6 @@
           "width": 1200,
           "height": 627,
           "title": "ACI Worldwide Launches Advanced Machine Learning Capability to Dramatically Reduce Payment Fraud for Banks and Merchants and Their Customers",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-09-showcasing-mreports-top-25-fintech-innovators-ai-foundry.md",
-      "title": "Showcasing MReport’s Top 25 Fintech Innovators: AI Foundry",
-      "excerpt": "After much deliberation, we are now proud to present our first annual collection of the Top 25 Fintech Innovators. In the pages that follow, you’ll get exclusive insights into the organizations and offerings that are poised to shape the mortgage industry in 2020 and beyond. Company Description: AI Foundry, an artificial intelligence (AI ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://themreport.com/daily-dose/03-09-2020/showcasing-mreports-top-25-fintech-innovators-ai-foundry",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-09T14:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theMReport",
-        "domain": "themreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://themreport.com/wp-content/uploads/2018/03/TechSavvy-300x236-1-1-300x236-1-1-300x236-1.png",
-          "width": 300,
-          "height": 236,
-          "title": "Showcasing MReport’s Top 25 Fintech Innovators: AI Foundry",
           "attribution": null
         }
       ],

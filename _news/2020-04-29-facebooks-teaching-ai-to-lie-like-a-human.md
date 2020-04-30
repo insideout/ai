@@ -8,7 +8,7 @@ ampWebUrl: "https://thenextweb.com/neural/2020/04/29/facebooks-teaching-ai-to-li
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/04/29/facebooks-teaching-ai-to-lie-like-a-human/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -60,6 +60,17 @@ related:
       - url: "https://cnet2.cbsistatic.com/img/Kl3eL9EkMSeRH9r27UdVgj1jeIg=/756x567/2020/01/01/e6826d4a-a27d-4278-bf31-666729bde647/facebook-logo-laptop-4829.jpg"
         width: 756
         height: 567
+  - title: "Facebook AI researchers develop Blender chatbot that can converse as well as humans can"
+    excerpt: "Facebook AI Research (FAIR), the artificial intelligence and machine learning division of the social networking company, has developed a new chatbot ‘Blender’ that can converse as well as humans can."
+    publishedDateTime: 2020-04-30T06:45:00Z
+    webUrl: "https://www.hindustantimes.com/tech/facebook-ai-researchers-develop-blender-chatbot-that-can-converse-as-well-as-humans-can/story-GBWEyqgAnC7JqGM2T1FgOI.html"
+    ampWebUrl: "https://m.hindustantimes.com/tech/facebook-ai-researchers-develop-blender-chatbot-that-can-converse-as-well-as-humans-can/story-GBWEyqgAnC7JqGM2T1FgOI_amp.html"
+    cdnAmpWebUrl: "https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/tech/facebook-ai-researchers-develop-blender-chatbot-that-can-converse-as-well-as-humans-can/story-GBWEyqgAnC7JqGM2T1FgOI_amp.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 31
 
 secured: "dVbg2SjsbyOCdZqyARgxUCIpE/6w9YYzn8hYSysrfjzdFE6vJeTHTT3pXPBK7u+WNJrXlDpdJQB0EUMwGmaIsQSjRXzPQXgzfhCnWyccnICiKpCNX7D/NugidFBKSlaruX5qcvUSE4IFLCCq6i8oQqGU5FYD2F7bw+RqKoXUatBeqwyeIxuE90R+S4cIUqVxnsCYuLRAtdyJU3pNWuUgtZ/4+i+uDT5R+bMTK7Vx+dEJJNTHJTnD3kDJGYyX6m5LBWqi+2vbmgCJdv9JpQ5kaCGDs3W7uXZ99ct7DbTjMn4J/V/08kx6Hk8ANHkgZHFhV0oN8uS1sd23Umy5XkpYNK27VtrnyBsezY2+jmrEl1uLWVRzA17iclSRuDCwwCkVNyHIqBRkcu0Ooc8j9vYDdv8hiosInryW3jOvAW5iMgxzLfYIjpBEkN0JAIgAULuf/tZIlfQQMvz8kbMeqn+sW61bdNoEMfTfYFf175HZu0s=;ncM1DDk+ReXY1odf4735eg=="
 ---

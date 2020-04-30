@@ -60,6 +60,17 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2019/04/Facebook-sign-F8-e1564693284989.jpg?fit=1200%2C600&strip=all"
         width: 1200
         height: 600
+  - title: "Facebook AI researchers develop Blender chatbot that can converse as well as humans can"
+    excerpt: "Facebook AI Research (FAIR), the artificial intelligence and machine learning division of the social networking company, has developed a new chatbot ‘Blender’ that can converse as well as humans can."
+    publishedDateTime: 2020-04-30T06:45:00Z
+    webUrl: "https://www.hindustantimes.com/tech/facebook-ai-researchers-develop-blender-chatbot-that-can-converse-as-well-as-humans-can/story-GBWEyqgAnC7JqGM2T1FgOI.html"
+    ampWebUrl: "https://m.hindustantimes.com/tech/facebook-ai-researchers-develop-blender-chatbot-that-can-converse-as-well-as-humans-can/story-GBWEyqgAnC7JqGM2T1FgOI_amp.html"
+    cdnAmpWebUrl: "https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/tech/facebook-ai-researchers-develop-blender-chatbot-that-can-converse-as-well-as-humans-can/story-GBWEyqgAnC7JqGM2T1FgOI_amp.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 31
 
 secured: "BoDmaRRbGPJKBaw2kQ0pUqUE49H7e8JhuvSq9e+OAq6lPH6T/ozvTLljX7iNc5giAkVDvKOKDIv7Qd9TyuIbGeO2E0BE07u5u8lWkQl2YCBCVgrutQcVbDq5SQg0JghLr3HPjytT5V3HAgun3Rhjm2MvemCLSEtEnU3gu388RdG2VXYlfoPAlaJ+rL+X4dNPEZ/8rnbrGf7Zuc4dxEupbROTbr89WUTOfsOD417MB87uEV10/svJ4yAJy0hyWCMx//RCH7WaKhEtLrkFvf16jrvKXFqA5U8FCIT5Y2WVvNwogqRyLqkjnr1lRLYSjARPMWGoEEKHsnJ+d3NlJBHuVnL/FeIVSEHRbkXRRrIaluwIHcMkYP977f5BwLuqTQlm9fHxtvqDPQklAnwGhpKv+J/u7N7wSuiec4g34kx3/DN7l40NUwgdjcfnGYdK70JpKc4qvK4njM3CWbgqswNDZwlElBBY7KCD2X0jabzkxL0=;40oe/3CylEAWCTz2yU9NpA=="
 ---

@@ -2,6 +2,51 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-04-01-self-driving-car-engineer-anthony-levandowski-files-motion-to-force-uber-into-arbitration.md",
+      "title": "Self-driving car engineer Anthony Levandowski files motion to force Uber into arbitration",
+      "excerpt": "Anthony Levandowski, the star self-driving car engineer who was at the center of a trade secrets lawsuit, has filed a motion to compel Uber into arbitration in the hopes that his former employee will have to shoulder the cost of at least part of the $179 million judgment against him. The motion to compel arbitration filed this week is part of ...",
+      "heat": 75,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/04/01/self-driving-car-engineer-anthony-levandowski-files-motion-to-force-uber-into-arbitration/",
+      "ampWebUrl": "https://techcrunch.com/2020/04/01/self-driving-car-engineer-anthony-levandowski-files-motion-to-force-uber-into-arbitration/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/01/self-driving-car-engineer-anthony-levandowski-files-motion-to-force-uber-into-arbitration/amp/",
+      "publishedDateTime": "2020-04-01T12:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/04/GettyImages-1176871826.jpeg?w=1024",
+          "width": 1024,
+          "height": 718,
+          "title": "Self-driving car engineer Anthony Levandowski files motion to force Uber into arbitration",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-01-deal-looking-for-an-exciting-cutting-edge-career-dive-into-artificial-intelligence.md",
       "title": "Deal: Looking for an exciting, cutting-edge career? Dive into Artificial Intelligence",
       "excerpt": "Artificial intelligence is just starting to break out into the mainstream through applications like self driving cars and analytical software. If you want to dive into an exciting career field ...",
@@ -1162,51 +1207,6 @@
           "width": 1200,
           "height": 800,
           "title": "MIT can now train self-driving cars in a photorealistic simulator",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-24-global-and-china-hd-map-industry-report-2019-2020.md",
-      "title": "Global and China HD Map Industry Report, 2019-2020",
-      "excerpt": "HD map industry study: the HD map market is burgeoning with the roll-out of L3 autonomous vehicles. The automakers (except Volvo, Ford and NIO that claimed a leap over L3) have set foot in L3 autonomous vehicle successively,",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/global-and-china-hd-map-industry-report-2019-2020-2020-03-24-181845139",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-24T15:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Global and China HD Map Industry Report, 2019-2020",
           "attribution": null
         }
       ],

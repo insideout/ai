@@ -2,6 +2,52 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-01-17-how-jpmorgan-and-fidelity-could-leverage-blockchain-to-modernize-financial-services.md",
+      "title": "How JPMorgan And Fidelity Could Leverage Blockchain To Modernize Financial Services",
+      "excerpt": "Large enterprises like JPMorgan, Fidelity and ICE are looking into using multi-party computations for a new breed of financial services business models. Leveraging blockchain and MPCs will lead to opening of massive opportunities for new services and products.",
+      "heat": 85,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/biserdimitrov/2020/01/16/how-jp-morgan-and-fidelity-could-leverage-blockchain-to-modernize-financial-services/",
+      "ampWebUrl": "https://www.forbes.com/sites/biserdimitrov/2020/01/16/how-jp-morgan-and-fidelity-could-leverage-blockchain-to-modernize-financial-services/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/biserdimitrov/2020/01/16/how-jp-morgan-and-fidelity-could-leverage-blockchain-to-modernize-financial-services/amp/",
+      "publishedDateTime": "2020-01-16T16:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e1fb5e2a854780006e89f78%2F0x0.jpg",
+          "width": 1200,
+          "height": 757,
+          "title": "How JPMorgan And Fidelity Could Leverage Blockchain To Modernize Financial Services",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-01-16-ai-in-fintech-market-big-changes-to-have-big-impact.md",
       "title": "AI in Fintech Market - Big Changes to Have Big Impact",
       "excerpt": "Advance Market Analytics recently introduced AI in Fintech Market study with in-depth overview, describing about the Product / Industry Scope and elaborates market outlook and status to 2025. AI in Fintech Market explores effective study on varied sections of Industry like opportunities,",
