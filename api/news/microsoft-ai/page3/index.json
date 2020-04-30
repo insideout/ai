@@ -2,6 +2,43 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-03-31-lenovo-teams-with-microsoft-azure-at-the-edge.md",
+      "title": "Lenovo Teams With Microsoft Azure At The Edge",
+      "excerpt": "At the Transform 2019 event, Lenovo introduced the ThinkSystem ES350, an edge server about the size of a notebook powered by Intel’s Xeon-D chip and Nvidia Tesla T4 GPU accelerators and aimed at workloads like machine learning inference ... The new offerings are tied closely to Microsoft’s Azure software stack for enterprises operating ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nextplatform.com/2020/03/31/lenovo-teams-with-microsoft-azure-at-the-edge/",
+      "ampWebUrl": "https://www.nextplatform.com/2020/03/31/lenovo-teams-with-microsoft-azure-at-the-edge/amp/",
+      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2020/03/31/lenovo-teams-with-microsoft-azure-at-the-edge/amp/",
+      "publishedDateTime": "2020-03-31T08:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Platform",
+        "domain": "nextplatform.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2020/03/ab_cloud-edge-1024x1024.jpg",
+          "width": 1024,
+          "height": 1024,
+          "title": "Lenovo Teams With Microsoft Azure At The Edge",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-31-microsoft-launches-edge-zones-for-azure.md",
       "title": "Microsoft launches Edge Zones for Azure",
       "excerpt": "As far as the details of the various Edge Zone versions go, the focus of Edge Zones is mostly on IoT and AI workloads, while Microsoft notes that Edge Zones with Carriers is more about low-latency online gaming, remote meetings and events, as well as smart infrastructure. Private Edge Zones, which combine private carrier networks with Azure ...",
@@ -1175,43 +1212,6 @@
           "width": 533,
           "height": 711,
           "title": "Ram Shankar Siva Kumar",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-23-microsofts-cloud-and-ai-services-tapped-in-coronavirus-fight.md",
-      "title": "Microsoft's Cloud and AI Services Tapped in Coronavirus Fight",
-      "excerpt": "Microsoft recently described the ways in which its artificial intelligence (AI) and machine learning offerings, as well as its Azure cloud, are being used by researchers and other public health ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://rcpmag.com/articles/2020/03/23/microsoft-cloud-ai-coronavirus-research.aspx",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-23T09:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Redmond Channel Partner",
-        "domain": "rcpmag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://rcpmag.com/-/media/ECG/redmondmag/Images/IntroImages2017/1017red_F2Ransomware.jpg",
-          "width": 647,
-          "height": 450,
-          "title": "Microsoft's Cloud and AI Services Tapped in Coronavirus Fight",
           "attribution": null
         }
       ],

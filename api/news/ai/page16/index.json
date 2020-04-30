@@ -2,6 +2,95 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2020-04-13-us-lawmakers-call-for-investigation-into-use-and-abuse-of-face-recognition-tech.md",
+      "title": "U.S. Lawmakers Call for Investigation Into Use and Abuse of Face Recognition Tech",
+      "excerpt": "It’s unclear, for example, which agencies have acquired Amazon’s facial recognition technology, known as Rekognition; the company’s client page only identifies one local law enforcement ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://gizmodo.com/u-s-lawmakers-call-for-investigation-into-use-and-pote-1828009886",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-13T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/n8isk5lk63i8u1mwix90.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "U.S. Lawmakers Call for Investigation Into Use and Abuse of Face Recognition Tech",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-13-artificial-intelligence-ai-market-value-growing-at-a-us-160-bn-by-2026.md",
+      "title": "Artificial Intelligence (AI) Market Value Growing at a US$ 160 Bn by 2026",
+      "excerpt": "According to the Acumen Research and Consulting, the global Artificial Intelligence (AI) market is expected to reach at US$ 160 Bn by 2026, along with the projected CAGR of 49% from 2020-2026. The published report global Artificial Intelligence (AI) market provides a holistic overview of the current market covering the current trends.",
+      "heat": 111,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-value-growing-at-a-us-160-bn-by-2026-2020-04-13",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-13T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial Intelligence (AI) Market Value Growing at a US$ 160 Bn by 2026",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-13-natural-language-processing-nlp-market-2019-2027-segments-and-supply-demand-forecast.md",
       "title": "Natural Language Processing (NLP) Market 2019-2027 / Segments and Supply Demand Forecast",
       "excerpt": "The report covers the forecast and analysis of the natural language processing (NLP) market on a global and regional",
@@ -1136,79 +1225,6 @@
           "width": 1200,
           "height": 595,
           "title": "Researchers propose Falcon, a privacy-preserving communication protocol for AI training and inference",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-10-new-doe-program-drives-demand-for-machine-learning-programmers.md",
-      "title": "New DoE Program Drives Demand For Machine Learning Programmers",
-      "excerpt": "Machine learning is leading to numerous changes in the energy industry. The Department of Energy recently announced that it is taking steps to accelerate the integration of machine learning technology in energy research and development. The head of the Department of Energy announced that they will be investing $30 million in artificial ...",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.smartdatacollective.com/new-doe-program-drives-demand-for-machine-learning-programmers/",
-      "ampWebUrl": "https://www.smartdatacollective.com/new-doe-program-drives-demand-for-machine-learning-programmers/amp/",
-      "cdnAmpWebUrl": "https://www-smartdatacollective-com.cdn.ampproject.org/c/s/www.smartdatacollective.com/new-doe-program-drives-demand-for-machine-learning-programmers/amp/",
-      "publishedDateTime": "2020-04-10T08:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SmartData Collective",
-        "domain": "smartdatacollective.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.smartdatacollective.com/wp-content/uploads/2020/04/machine-learning-in-energy-sector.jpg",
-          "width": 1000,
-          "height": 676,
-          "title": "New DoE Program Drives Demand For Machine Learning Programmers",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-10-man-creates-hilarious-ai-version-of-himself-to-take-his-spot-during-zoom-calls.md",
-      "title": "Man creates hilarious AI version of himself to take his spot during Zoom calls",
-      "excerpt": "Well, sort of. Reed created an \"AI Digital Twin\" or a Zoombot if you will, and taught it speech recognition and text-to-speech conversation. Now, the fake version of himself is able to stand-in on Zoom calls and even respond to programed questions like \"How are you?\" and \"Did you get that?\" The only problem is it's very clear the Zoombot is a bot.",
-      "heat": 83,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://mashable.com/video/zoombot-artificial-intelligence-zoom-call-video/",
-      "ampWebUrl": "https://mashable.com/video/zoombot-artificial-intelligence-zoom-call-video.amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/video/zoombot-artificial-intelligence-zoom-call-video.amp",
-      "publishedDateTime": "2020-04-10T08:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/2020%252F04%252F10%252Ff7%252F66e6a79128e74588a39814c057108215.2f239.jpg%252F1200x630.jpg?signature=65tWZn413juYIGJ9fZycU-YQfR8=",
-          "width": 1200,
-          "height": 630,
-          "title": "Man creates hilarious AI version of himself to take his spot during Zoom calls",
           "attribution": null
         }
       ],

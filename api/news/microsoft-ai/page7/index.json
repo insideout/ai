@@ -2,6 +2,44 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-02-18-esg-dell-emc-ready-solutions-for-ai-deep-learning-with-intel.md",
+      "title": "ESG: Dell EMC Ready Solutions for AI: Deep Learning with Intel",
+      "excerpt": "Organizations looking to leverage the power of AI face significant challenges, but what are the drivers behind these challenges? Document retention policy Hiring Kit: .Net developer Top cloud providers in 2020: AWS, Microsoft Azure, and Google Cloud ...",
+      "heat": 116,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/resource-library/whitepapers/esg-dell-emc-ready-solutions-for-ai-deep-learning-with-intel/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/resource-library/whitepapers/esg-dell-emc-ready-solutions-for-ai-deep-learning-with-intel/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/resource-library/whitepapers/esg-dell-emc-ready-solutions-for-ai-deep-learning-with-intel/",
+      "publishedDateTime": "2020-02-18T06:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-02-18-python-preeminent-in-oreilly-learning-platform-usage-analysis.md",
       "title": "Python \"preeminent\" in O'Reilly learning platform usage analysis",
       "excerpt": "Other growing categories on the upswing include data engineering, data science, and AI + ML, generally, and Kafka ... Among the major public cloud providers, AWS, Azure and Google Cloud Platform (GCP) come in first, second and third in platform content usage, respectively, and all three are growing. But the growth in their numbers ranks ...",
@@ -1254,51 +1292,6 @@
           "width": 760,
           "height": 428,
           "title": "Microsoft Weekly: Series X ports, patches for a price, and stories in the cloud",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-25-sentiment-analysis-and-text-mining-using-azure-cognitive-services.md",
-      "title": "Sentiment analysis and text mining using Azure Cognitive Services",
-      "excerpt": "This post provides 6 sample codes showing how Azure Microsoft Cognitive Services can used to build AI solutions to tackle opportunities like sentiment analysis and text mining.",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/@caiomsouza/sentiment-analysis-and-text-mining-using-azure-cognitive-services-6185a1d0f0b7",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-25T04:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/1200/1*eIuRRxcgZxzCMZvc4HLiiA.png",
-          "width": 1200,
-          "height": 600,
-          "title": "Sentiment analysis and text mining using Azure Cognitive Services",
           "attribution": null
         }
       ],

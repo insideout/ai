@@ -2,6 +2,43 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-04-10-using-ai-to-analyze-coronavirus-data.md",
+      "title": "Using AI to analyze coronavirus data",
+      "excerpt": "These are two, 26- petaflop machines that are bridged by the Microsoft Azure C loud. On top of that, we put the C3.ai platform and these universities, they’re in the process right now of allocating an initial, I think, $6 million in research awards to, you know, apply AI to mitigate COVID-19 pandemic. These are genome- specific medical protocols.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://federalnewsnetwork.com/artificial-intelligence/2020/04/using-ai-to-analyze-coronavirus-data/",
+      "ampWebUrl": "https://federalnewsnetwork.com/artificial-intelligence/2020/04/using-ai-to-analyze-coronavirus-data/amp/",
+      "cdnAmpWebUrl": "https://federalnewsnetwork-com.cdn.ampproject.org/c/s/federalnewsnetwork.com/artificial-intelligence/2020/04/using-ai-to-analyze-coronavirus-data/amp/",
+      "publishedDateTime": "2020-04-10T09:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "federalnewsnetwork.com",
+        "domain": "federalnewsnetwork.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://federalnewsnetwork.com/wp-content/uploads/2020/04/Virus_Outbreak_Spain_55530-1024x682.jpg",
+          "width": 1024,
+          "height": 682,
+          "title": "Using AI to analyze coronavirus data",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-10-heres-how-microsoft-teams-plans-to-use-ai-to-suppress-background-noise.md",
       "title": "Here’s how Microsoft Teams plans to use AI to suppress background noise",
       "excerpt": "And then, we see if we use a certain training set, how well does that do on the test set? So ideally yes, I would love to have a training set,” said Aichner. Other issues discussed in the VentureBeat report include building and improving a neural network. The report also looks at how data is moved between Azure and the cloud and the Edge.",
@@ -1193,43 +1230,6 @@
           "width": 400,
           "height": 400,
           "title": "Container support in Azure Cognitive Services",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-31-lenovo-teams-with-microsoft-azure-at-the-edge.md",
-      "title": "Lenovo Teams With Microsoft Azure At The Edge",
-      "excerpt": "At the Transform 2019 event, Lenovo introduced the ThinkSystem ES350, an edge server about the size of a notebook powered by Intel’s Xeon-D chip and Nvidia Tesla T4 GPU accelerators and aimed at workloads like machine learning inference ... The new offerings are tied closely to Microsoft’s Azure software stack for enterprises operating ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nextplatform.com/2020/03/31/lenovo-teams-with-microsoft-azure-at-the-edge/",
-      "ampWebUrl": "https://www.nextplatform.com/2020/03/31/lenovo-teams-with-microsoft-azure-at-the-edge/amp/",
-      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2020/03/31/lenovo-teams-with-microsoft-azure-at-the-edge/amp/",
-      "publishedDateTime": "2020-03-31T08:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Platform",
-        "domain": "nextplatform.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2020/03/ab_cloud-edge-1024x1024.jpg",
-          "width": 1024,
-          "height": 1024,
-          "title": "Lenovo Teams With Microsoft Azure At The Edge",
           "attribution": null
         }
       ],

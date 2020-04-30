@@ -2,6 +2,43 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-03-23-microsofts-cloud-and-ai-services-tapped-in-coronavirus-fight.md",
+      "title": "Microsoft's Cloud and AI Services Tapped in Coronavirus Fight",
+      "excerpt": "Microsoft recently described the ways in which its artificial intelligence (AI) and machine learning offerings, as well as its Azure cloud, are being used by researchers and other public health ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://rcpmag.com/articles/2020/03/23/microsoft-cloud-ai-coronavirus-research.aspx",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-23T09:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Redmond Channel Partner",
+        "domain": "rcpmag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://rcpmag.com/-/media/ECG/redmondmag/Images/IntroImages2017/1017red_F2Ransomware.jpg",
+          "width": 647,
+          "height": 450,
+          "title": "Microsoft's Cloud and AI Services Tapped in Coronavirus Fight",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-23-university-students-are-learning-to-collaborate.md",
       "title": "University Students Are Learning To Collaborate",
       "excerpt": "Penn State’s Nittany AI Challenge is teaching students the true meaning of collaboration in the age of Artificial Intelligence.",
@@ -1171,35 +1208,6 @@
           "attribution": null
         }
       ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-12-swiss-re-announces-ai-data-tie-up-with-microsoft.md",
-      "title": "Swiss Re Announces AI Data Tie-Up With Microsoft",
-      "excerpt": "The service would be available to insurer clients, but also used internally to aid the company’s own pricing. As part of the deal, Swiss Re said it would move its internal operating system to Microsoft’s cloud product, Azure. That would enable the reinsurer to access “advanced data processing” and artificial intelligence systems ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.law360.com/articles/1252636/swiss-re-announces-ai-data-tie-up-with-microsoft",
-      "ampWebUrl": "https://www.law360.com/amp/articles/1252636",
-      "cdnAmpWebUrl": "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1252636",
-      "publishedDateTime": "2020-03-12T06:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Law360",
-        "domain": "law360.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
       "locale": "en-us",
       "categories": [
         "news"

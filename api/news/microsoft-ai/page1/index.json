@@ -2,6 +2,51 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-04-29-microsoft-reports-350-billion-in-q3-2020-revenue-azure-up-59-surface-up-1-and-linkedin-up-21.md",
+      "title": "Microsoft reports $35.0 billion in Q3 2020 revenue: Azure up 59%, Surface up 1%, and LinkedIn up 21%",
+      "excerpt": "Microsoft today reported fiscal Q3 2020 earnings, including revenue of $35.0 billion, net income of $10.8 billion, and earnings per share of $1.40.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/29/microsoft-earnings-q3-2020/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/29/microsoft-earnings-q3-2020/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/29/microsoft-earnings-q3-2020/amp/",
+      "publishedDateTime": "2020-04-29T14:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2016/11/Microsoft.jpg?fit=2048%2C1025&strip=all",
+          "width": 2048,
+          "height": 1025,
+          "title": "Microsoft reports $35.0 billion in Q3 2020 revenue: Azure up 59%, Surface up 1%, and LinkedIn up 21%",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-29-cognitive-analytics-market-overview-with-detailed-analysis-competitive-forecast-to-2017-2026.md",
       "title": "Cognitive Analytics market Overview with Detailed Analysis, Competitive Forecast to 2017-2026",
       "excerpt": "The Cognitive Analytics market is anticipated to reach over USD 48 billion by 2026 according to a new research published",
@@ -1215,43 +1260,6 @@
         "Machine Learning",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-10-using-ai-to-analyze-coronavirus-data.md",
-      "title": "Using AI to analyze coronavirus data",
-      "excerpt": "These are two, 26- petaflop machines that are bridged by the Microsoft Azure C loud. On top of that, we put the C3.ai platform and these universities, they’re in the process right now of allocating an initial, I think, $6 million in research awards to, you know, apply AI to mitigate COVID-19 pandemic. These are genome- specific medical protocols.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://federalnewsnetwork.com/artificial-intelligence/2020/04/using-ai-to-analyze-coronavirus-data/",
-      "ampWebUrl": "https://federalnewsnetwork.com/artificial-intelligence/2020/04/using-ai-to-analyze-coronavirus-data/amp/",
-      "cdnAmpWebUrl": "https://federalnewsnetwork-com.cdn.ampproject.org/c/s/federalnewsnetwork.com/artificial-intelligence/2020/04/using-ai-to-analyze-coronavirus-data/amp/",
-      "publishedDateTime": "2020-04-10T09:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "federalnewsnetwork.com",
-        "domain": "federalnewsnetwork.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://federalnewsnetwork.com/wp-content/uploads/2020/04/Virus_Outbreak_Spain_55530-1024x682.jpg",
-          "width": 1024,
-          "height": 682,
-          "title": "Using AI to analyze coronavirus data",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

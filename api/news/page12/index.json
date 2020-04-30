@@ -2,6 +2,95 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-04-18-for-this-high-yield-stock-5g-and-artificial-intelligence-outweigh-coronavirus.md",
+      "title": "For This High-Yield Stock, 5G and Artificial Intelligence Outweigh Coronavirus",
+      "excerpt": "Leading nodes are the smallest, densest, most advanced chips, with higher power and better battery efficiency. More powerful chips are needed in all the big megatrends today, from 5G communications to artificial intelligence applications in the data center. For instance, Taiwan Semiconductor gets almost half of its revenue from smartphone chips.",
+      "heat": 83,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fool.com/investing/2020/04/18/for-this-high-yield-stock-5g-and-artificial-intell.aspx?source=eptcnnlnk0000002",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/04/18/for-this-high-yield-stock-5g-and-artificial-intell.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/04/18/for-this-high-yield-stock-5g-and-artificial-intell.aspx",
+      "publishedDateTime": "2020-04-18T15:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F568547%2Fgettyimages-474499852.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 800,
+          "title": "For This High-Yield Stock, 5G and Artificial Intelligence Outweigh Coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-18-nvidias-rtx-voice-app-uses-ai-to-improve-noise-canceling-on-rtx-powered-systems.md",
+      "title": "Nvidia's 'RTX Voice' app uses AI to improve noise canceling on RTX-powered systems",
+      "excerpt": "Of course, the average work-from-home employee probably doesn't have an RTX GPU, which is a strict requirement here. RTX Voice relies on the AI capabilities built into the cards to function, meaning gamers are much more likely to benefit from it. Even so, Nvidia is currently supporting a nice mix of apps with RTX Voice, including gaming-centric ...",
+      "heat": 83,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techspot.com/news/84881-nvidia-rtx-voice-app-uses-ai-improve-noise.html",
+      "ampWebUrl": "https://www.techspot.com/amp/news/84881-nvidia-rtx-voice-app-uses-ai-improve-noise.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/84881-nvidia-rtx-voice-app-uses-ai-improve-noise.html",
+      "publishedDateTime": "2020-04-18T14:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.techspot.com/images2/news/bigimage/2020/04/2020-04-18-image-8.jpg",
+          "width": 1680,
+          "height": 1120,
+          "title": "Nvidia's 'RTX Voice' app uses AI to improve noise canceling on RTX-powered systems",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-18-tals-ai-mandarin-teaching-app-receives-recognition-by-unesco.md",
       "title": "TAL’s AI Mandarin Teaching App Receives Recognition by UNESCO",
       "excerpt": "The project focuses on helping improve the overall literacy rate, using AI speech recognition and big data, to increase opportunities for further inclusivity and social mobility within these rural communities. In 2018, Xueersi Online School under TAL ...",
@@ -988,88 +1077,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-04-17-microsoft-to-be-ai-partner-for-nba.md",
-      "title": "Microsoft To Be AI Partner For NBA",
-      "excerpt": "Microsoft will become the official technology partner for the National Basketball Association or NBA under a new multi-year",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://markets.businessinsider.com/news/stocks/microsoft-to-be-ai-partner-for-nba-1029102857",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/Microsoft-To-Be-AI-Partner-For-NBA-1029102857",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Microsoft-To-Be-AI-Partner-For-NBA-1029102857",
-      "publishedDateTime": "2020-04-17T08:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-17-everything-you-need-to-know-about-narrow-ai.md",
-      "title": "Everything you need to know about narrow AI",
-      "excerpt": "Symbolic artificial intelligence, also known as good old-fashioned AI (GOFAI), was the ... the kinds of skills we learn by example. This is an area where deep neural networks, the structures used in deep learning algorithms, excel at. They can ingest mountains of data and develop mathematical models that represent the patterns that ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/04/19/what-is-artificial-narrow-intelligence-narrow-ai-syndication/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/04/19/what-is-artificial-narrow-intelligence-narrow-ai-syndication/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/04/19/what-is-artificial-narrow-intelligence-narrow-ai-syndication/amp/",
-      "publishedDateTime": "2020-04-17T07:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/04/1-24-796x417.jpg",
-          "width": 796,
-          "height": 417,
-          "title": "Everything you need to know about narrow AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,98 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2020-04-05-us-blocks-amazon-efforts-to-stop-shareholder-votes-on-facial-recognition.md",
+      "title": "US blocks Amazon efforts to stop shareholder votes on facial recognition",
+      "excerpt": "One proposal would require Amazon to cease offering facial recognition ... that might result from the service, known as Rekognition. Both proposals face uphill battles to receive a majority ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2019/04/05/us-blocks-amazon-efforts-to-stop-shareholder-votes-on-facial-recognition.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2019/04/05/us-blocks-amazon-efforts-to-stop-shareholder-votes-on-facial-recognition.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2019/04/05/us-blocks-amazon-efforts-to-stop-shareholder-votes-on-facial-recognition.html",
+      "publishedDateTime": "2020-04-04T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/104409576-GettyImages-522170209.jpg?v=1532563864",
+          "width": 2000,
+          "height": 1333,
+          "title": "US blocks Amazon efforts to stop shareholder votes on facial recognition",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-04-artificial-or-human-intelligence-companies-faking-ai.md",
+      "title": "Artificial Or Human Intelligence? Companies Faking AI",
+      "excerpt": "Some companies are choosing to approach these AI challenges not by scaling back their AI ambitions, but rather by using humans to do the task that they are otherwise trying to get their AI systems to",
+      "heat": 93,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/04/04/artificial-or-human-intelligence-companies-faking-ai/",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/04/04/artificial-or-human-intelligence-companies-faking-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/04/04/artificial-or-human-intelligence-companies-faking-ai/amp/",
+      "publishedDateTime": "2020-04-04T13:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1126179832%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6480%26cropY1%3D292%26cropY2%3D3936",
+          "width": 1200,
+          "height": 675,
+          "title": "Artificial Or Human Intelligence? Companies Faking AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI Ethics",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-04-04-ai-runs-smack-up-against-a-big-data-problem-in-covid-19-diagnosis.md",
       "title": "AI runs smack up against a big data problem in COVID-19 diagnosis",
       "excerpt": "The painful lack of data is evident in one particular use case for AI, the development of diagnostic tests for COVID-19 based on X-rays or on \"computed tomography\" scans of the lungs. While definitive tests for the disease are genetic tests, called \"RT-PCR,\" those tests have been in notoriously short supply in many parts of the world ...",
@@ -928,96 +1020,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-03-washington-state-passes-new-facial-recognition-legislation.md",
-      "title": "Washington state passes new facial recognition legislation",
-      "excerpt": "Microsoft has long been calling for stricter regulation of facial recognition technology, and now is revealing the progress it has made since its 2018 call for the government to publicly regulate the technology. Since their public call in 2018, a number of countries have banned or put moratoriums on the use of the technology, but none have ...",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://sdtimes.com/msft/washington-state-passes-new-facial-recognition-legislation/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-03T09:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SD Times",
-        "domain": "sdtimes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://sdtimes.com/wp-content/uploads/2020/04/blackbackground.png",
-          "width": 1920,
-          "height": 1080,
-          "title": "Washington state passes new facial recognition legislation",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-03-the-venerable-upstream-parable-helps-in-these-trying-times-and-applies-to-the-future-of-ai-self-driving-cars.md",
-      "title": "The Venerable Upstream Parable Helps In These Trying Times, And Applies To The Future Of AI Self-Driving Cars",
-      "excerpt": "Some of you might be familiar with a parable that many refer to as the Upstream Parable or alternatively the River Story. Attributed to various originating sources, some believe it was initially brought up in the 1930s by Saul Alinksy,",
-      "heat": 70,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/04/03/the-venerable-upstream-parable-helps-in-these-trying-times-and-applies-to-the-future-of-ai-self-driving-cars/",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/04/03/the-venerable-upstream-parable-helps-in-these-trying-times-and-applies-to-the-future-of-ai-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/04/03/the-venerable-upstream-parable-helps-in-these-trying-times-and-applies-to-the-future-of-ai-self-driving-cars/amp/",
-      "publishedDateTime": "2020-04-03T09:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F502060284%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D7360%26cropY1%3D385%26cropY2%3D4523",
-          "width": 1200,
-          "height": 675,
-          "title": "The Venerable Upstream Parable Helps In These Trying Times, And Applies To The Future Of AI Self-Driving Cars",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

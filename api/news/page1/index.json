@@ -270,6 +270,51 @@
       ]
     },
     {
+      "path": "_news/2020-04-29-microsoft-reports-350-billion-in-q3-2020-revenue-azure-up-59-surface-up-1-and-linkedin-up-21.md",
+      "title": "Microsoft reports $35.0 billion in Q3 2020 revenue: Azure up 59%, Surface up 1%, and LinkedIn up 21%",
+      "excerpt": "Microsoft today reported fiscal Q3 2020 earnings, including revenue of $35.0 billion, net income of $10.8 billion, and earnings per share of $1.40.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/29/microsoft-earnings-q3-2020/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/29/microsoft-earnings-q3-2020/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/29/microsoft-earnings-q3-2020/amp/",
+      "publishedDateTime": "2020-04-29T14:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2016/11/Microsoft.jpg?fit=2048%2C1025&strip=all",
+          "width": 2048,
+          "height": 1025,
+          "title": "Microsoft reports $35.0 billion in Q3 2020 revenue: Azure up 59%, Surface up 1%, and LinkedIn up 21%",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-29-would-you-give-up-some-security-if-face-unlock-worked-with-a-face-mask-on.md",
       "title": "Would you give up some security if face unlock worked with a face mask on?",
       "excerpt": "It’s the end of April 2020, and we’re all doing our best to adjust to the new normal of social distancing and wearing face masks wherever we go. Companies around the world are pivoting their business models to create face masks for those who need them.",
@@ -1060,51 +1105,6 @@
         "AI",
         "Google AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-29-yandex-deploys-autonomous-delivery-robots-in-moscows-skolkovo-district.md",
-      "title": "Yandex deploys autonomous delivery robots in Moscow’s Skolkovo district",
-      "excerpt": "Yandex today announced the launch of an autonomous delivery service in Skolkovo, Russia, powered by its Yandex.Rover robots.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/29/yandex-deploys-autonomous-delivery-robots-in-moscows-skolkovo-district/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/29/yandex-deploys-autonomous-delivery-robots-in-moscows-skolkovo-district/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/29/yandex-deploys-autonomous-delivery-robots-in-moscows-skolkovo-district/amp/",
-      "publishedDateTime": "2020-04-29T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/11/yandex_drone-e1588089973460.png?fit=750%2C375&strip=all",
-          "width": 750,
-          "height": 375,
-          "title": "Yandex deploys autonomous delivery robots in Moscow’s Skolkovo district",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

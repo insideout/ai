@@ -2,6 +2,88 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2020-04-08-3-observations-amid-the-covid-19-crisis.md",
+      "title": "3 observations amid the COVID-19 crisis",
+      "excerpt": "And today, satellite images, foot traffic and transaction data are giving us a better read on the economy amid widespread global closures and re-openings. At the same time, the natural language processing of news flow,",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nasdaq.com/articles/3-observations-amid-the-covid-19-crisis-2020-04-08",
+      "ampWebUrl": "https://www.nasdaq.com/articles/3-observations-amid-the-covid-19-crisis-2020-04-08?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-observations-amid-the-covid-19-crisis-2020-04-08?amp",
+      "publishedDateTime": "2020-04-07T23:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg?1308265199",
+          "width": 1024,
+          "height": 512,
+          "title": "3 observations amid the COVID-19 crisis",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-08-huawei-korea-to-reportedly-enter-gpu-server-market-later-this-year.md",
+      "title": "Huawei Korea to reportedly enter GPU server market later this year",
+      "excerpt": "While Huawei already is one of the very few smartphone chipset markers, the company is now planning to enter the Graphic Processing Unit aka GPU server market which is currently being dominated by NVIDIA. As per the report coming from Korea, Chinese giant Huawei will be setting up a Cloud and AI Business Group in South Korea in year.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.gizmochina.com/2020/04/08/huawei-korea-gpu-server-market/",
+      "ampWebUrl": "https://www.gizmochina.com/2020/04/08/huawei-korea-gpu-server-market/?amp",
+      "cdnAmpWebUrl": "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2020/04/08/huawei-korea-gpu-server-market/?amp",
+      "publishedDateTime": "2020-04-07T22:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2019/03/huawei-logo.jpg",
+          "width": 600,
+          "height": 450,
+          "title": "Huawei Korea to reportedly enter GPU server market later this year",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-08-creepy-face-recognition-firm-clearview-ai-sure-has-a-lot-of-ties-to-the-far-right.md",
       "title": "Creepy Face Recognition Firm Clearview AI Sure Has a Lot of Ties to the Far Right",
       "excerpt": "Clearview AI, the dystopian face recognition company that claims to have amassed a database of billions of photos, signed contracts with hundreds of law enforcement agencies, and shopped its app around to the rich and powerful, has extensive links to the far right, according to a Huffington Post investigation. In fact, one of its associates ...",
@@ -1169,95 +1251,6 @@
       "topics": [
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-04-07-sourceday-raises-125-million-for-ai-that-predicts-on-time-delivery-risk.md",
-      "title": "SourceDay raises $12.5 million for AI that predicts on-time delivery risk",
-      "excerpt": "SourceDay applies AI and machine learning to drive risk awareness of on-time deliveries and predict risk when it comes to material availability and other factors. Baird Capital led this latest funding round in SourceDay, with participation from existing investors Silverton Partners, ATX Ventures and Draper Associates. It brings the startup’s ...",
-      "heat": 96,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/07/sourceday-raises-12-5-million-for-ai-that-predicts-on-time-delivery-risk/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/07/sourceday-raises-12-5-million-for-ai-that-predicts-on-time-delivery-risk/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/07/sourceday-raises-12-5-million-for-ai-that-predicts-on-time-delivery-risk/amp/",
-      "publishedDateTime": "2020-04-07T08:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/SourceDay-Featured-Image-Navy-e1586206669976.png?fit=1198%2C601&strip=all",
-          "width": 1198,
-          "height": 601,
-          "title": "SourceDay raises $12.5 million for AI that predicts on-time delivery risk",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-07-global-self-driving-car-market-industry-analysis-product-capacity-growth-demand-and-future-forecast-period-till-2026.md",
-      "title": "Global Self-Driving Car Market Industry Analysis, Product Capacity, Growth Demand and Future Forecast Period Till 2026",
-      "excerpt": "Key players of the global Self-Driving Car market are included as given below: The major players in the market include Tesla Motors, Audi, Ford, Toyota, Google, Volvo, Nissan, Baidu, Apple ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/global-self-driving-car-market-industry-analysis-product-capacity-growth-demand-and-future-forecast-period-till-2026-2020-04-07?mod=mw_quote_news",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-07T08:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Global Self-Driving Car Market Industry Analysis, Product Capacity, Growth Demand and Future Forecast Period Till 2026",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

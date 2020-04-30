@@ -2,6 +2,95 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2020-04-13-us-lawmakers-call-for-investigation-into-use-and-abuse-of-face-recognition-tech.md",
+      "title": "U.S. Lawmakers Call for Investigation Into Use and Abuse of Face Recognition Tech",
+      "excerpt": "It’s unclear, for example, which agencies have acquired Amazon’s facial recognition technology, known as Rekognition; the company’s client page only identifies one local law enforcement ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://gizmodo.com/u-s-lawmakers-call-for-investigation-into-use-and-pote-1828009886",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-13T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/n8isk5lk63i8u1mwix90.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "U.S. Lawmakers Call for Investigation Into Use and Abuse of Face Recognition Tech",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-13-artificial-intelligence-ai-market-value-growing-at-a-us-160-bn-by-2026.md",
+      "title": "Artificial Intelligence (AI) Market Value Growing at a US$ 160 Bn by 2026",
+      "excerpt": "According to the Acumen Research and Consulting, the global Artificial Intelligence (AI) market is expected to reach at US$ 160 Bn by 2026, along with the projected CAGR of 49% from 2020-2026. The published report global Artificial Intelligence (AI) market provides a holistic overview of the current market covering the current trends.",
+      "heat": 111,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-value-growing-at-a-us-160-bn-by-2026-2020-04-13",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-13T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial Intelligence (AI) Market Value Growing at a US$ 160 Bn by 2026",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-13-natural-language-processing-nlp-market-2019-2027-segments-and-supply-demand-forecast.md",
       "title": "Natural Language Processing (NLP) Market 2019-2027 / Segments and Supply Demand Forecast",
       "excerpt": "The report covers the forecast and analysis of the natural language processing (NLP) market on a global and regional",
@@ -936,89 +1025,6 @@
         "Machine Learning",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-10-probeat-microsoft-teams-video-calls-and-the-ethics-of-invisible-ai.md",
-      "title": "ProBeat: Microsoft Teams video calls and the ethics of invisible AI",
-      "excerpt": "Governments and companies alike have been abusing AI in a variety of ways. But even AI features clearly designed to help humans do something as basic as communicate clearly come with ethical questions for the companies and developers that build them. The discussion Aichner and I had gave me a brief glimpse into what businesses and developers ...",
-      "heat": 106,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/10/probeat-microsoft-teams-video-calls-and-the-ethics-of-invisible-ai/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/10/probeat-microsoft-teams-video-calls-and-the-ethics-of-invisible-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/10/probeat-microsoft-teams-video-calls-and-the-ethics-of-invisible-ai/amp/",
-      "publishedDateTime": "2020-04-10T10:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2016/10/microsoft_teams.png?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "ProBeat: Microsoft Teams video calls and the ethics of invisible AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-04-10-facial-recognition-guide-from-vpn-compare-presents-incomplete-picture.md",
-      "title": "Facial recognition guide from VPN Compare presents incomplete picture",
-      "excerpt": "As the Electronic Frontier Foundation has said, facial recognition is “one of the most pervasive surveillance technologies” across the globe. Indeed. It is an industry estimated to continued to increase with an expected worth of upwards of $15 billion by 2025. But now comes “the ultimate” handbook: Facial Recognition: An Ultimate Guide ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.biometricupdate.com/202004/facial-recognition-guide-from-vpn-compare-presents-incomplete-picture",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-10T10:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Biometric Companies",
-        "domain": "biometricupdate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/04/13160552/facial-recognition-database.jpg",
-          "width": 640,
-          "height": 260,
-          "title": "Facial recognition guide from VPN Compare presents incomplete picture",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

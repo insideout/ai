@@ -2,6 +2,96 @@
   "page": 67,
   "value": [
     {
+      "path": "_news/2020-02-19-ai-is-top-game-changing-technology-in-healthcare-industry.md",
+      "title": "AI Is Top Game-Changing Technology In Healthcare Industry",
+      "excerpt": "Of the many ingredients that go into quality healthcare, comprehensive patient data is close to the top of the list. No one knows this more than Mayur Saxena, CEO and founder of Droice Labs. Saxena created his startup while he was pursuing his doctorate degree at Columbia University,",
+      "heat": 204,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/sap/2020/02/19/ai-is-top-game-changing-technology-in-healthcare-industry/",
+      "ampWebUrl": "https://www.forbes.com/sites/sap/2020/02/19/ai-is-top-game-changing-technology-in-healthcare-industry/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sap/2020/02/19/ai-is-top-game-changing-technology-in-healthcare-industry/amp/",
+      "publishedDateTime": "2020-02-19T06:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e42ad9ef133f400076c28a0%2F0x0.jpg",
+          "width": 500,
+          "height": 500,
+          "title": "AI Is Top Game-Changing Technology In Healthcare Industry",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2020-02-19-microsofts-new-dynamics-365-services-apply-ai-to-finance-and-project-operations.md",
+      "title": "Microsoft’s new Dynamics 365 services apply AI to finance and project operations",
+      "excerpt": "“Our continued investment in expanding AI capabilities across Dynamics 365 helps … organization[s] accelerate ... Customer Insights now plays nicely with Azure Synapse Analytics, allowing managers to run customer data through analytical processing pipelines and machine learning models. This in conjunction with prebuilt APIs that enable ...",
+      "heat": 149,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/02/19/microsofts-new-dynamics-365-services-apply-ai-to-finance-and-project-operations/",
+      "ampWebUrl": "https://venturebeat.com/2020/02/19/microsofts-new-dynamics-365-services-apply-ai-to-finance-and-project-operations/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/19/microsofts-new-dynamics-365-services-apply-ai-to-finance-and-project-operations/amp/",
+      "publishedDateTime": "2020-02-19T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/11/microsoft-1-e1580261336710.jpg?fit=1200%2C573&strip=all",
+          "width": 1200,
+          "height": 573,
+          "title": "Microsoft’s new Dynamics 365 services apply AI to finance and project operations",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-02-19-this-smartphone-sensor-can-detect-live-skin-to-halt-facial-login-spoofing.md",
       "title": "This smartphone sensor can detect live skin to halt facial login spoofing",
       "excerpt": "Apple’s Face ID is the gold standard in facial recognition tech, but it’s not one hundred percent foolproof. Highly detailed 3D printed masks can trick it. Less sophisticated 2D sensors, still found in many smartphones, can be tricked with a photo. The next generation of facial recognition technology is on the horizon, however, thanks to 3D ...",
@@ -1169,95 +1259,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-18-ai-at-the-edge-creating-coordinated-autonomy.md",
-      "title": "AI At The Edge: Creating Coordinated Autonomy",
-      "excerpt": "Today organizations have to deal with so many emergent behaviors that the notion of central control as the only coping mechanism seems to be receding as a dominant management model. Freedom must be doled out further from the centrist idea by creating goals,",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/02/18/ai-at-the-edge-creating-coordinated-autonomy/",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/02/18/ai-at-the-edge-creating-coordinated-autonomy/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/02/18/ai-at-the-edge-creating-coordinated-autonomy/amp/",
-      "publishedDateTime": "2020-02-18T11:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e4c3a71d035a50007749e3b%2F0x0.jpg",
-          "width": 800,
-          "height": 512,
-          "title": "AI At The Edge: Creating Coordinated Autonomy",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-18-the-internet-of-wild-things-technology-and-the-battle-against-biodiversity-loss-and-climate-change.md",
-      "title": "The Internet of Wild Things: Technology and the battle against biodiversity loss and climate change",
-      "excerpt": "Subsequent developments have moved the analysis of the audio captured by these canopy-mounted 'Guardian' devices to the cloud, where Google's TensorFlow machine-learning framework is used to identify sounds of illegal activity and adjust audio inputs to minimise the number of false positives. The AI system uses 'binary classifiers' to ...",
-      "heat": 75,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/the-internet-of-wild-things-technology-and-the-battle-against-biodiversity-loss-and-climate-change/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/the-internet-of-wild-things-technology-and-the-battle-against-biodiversity-loss-and-climate-change/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-internet-of-wild-things-technology-and-the-battle-against-biodiversity-loss-and-climate-change/",
-      "publishedDateTime": "2020-02-18T11:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/01/28/30cb4fae-507c-4d26-b536-81823c32cbda/instant-detect-2-system.jpg",
-          "width": 770,
-          "height": 474,
-          "title": "The Internet of Wild Things: Technology and the battle against biodiversity loss and climate change",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

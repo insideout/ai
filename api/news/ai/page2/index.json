@@ -2,6 +2,52 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-04-28-now-is-the-time-for-an-economic-stimulus-in-artificial-intelligence-or-the-us-could-fall-behind.md",
+      "title": "Now is the time for an economic stimulus in artificial intelligence — or the US could fall behind",
+      "excerpt": "Increasing research into AI will help the US economy recover from the coronavirus pandemic and better position it for the future.",
+      "heat": 78,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businessinsider.com/us-should-increase-ai-research-as-part-of-coronavirus-response-2020-4",
+      "ampWebUrl": "https://www.businessinsider.com/us-should-increase-ai-research-as-part-of-coronavirus-response-2020-4?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/us-should-increase-ai-research-as-part-of-coronavirus-response-2020-4?amp",
+      "publishedDateTime": "2020-04-28T16:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.insider.com/5ea8575df242ab230e628669?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": "Now is the time for an economic stimulus in artificial intelligence — or the US could fall behind",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-28-robots-could-complete-all-human-tasks-by-2050-claims-transhumanist-writer.md",
       "title": "Robots could complete ‘all human tasks’ by 2050 claims transhumanist writer",
       "excerpt": "THERE'S a 50 percent chance robots will be capable of completing \"all human tasks\" by 2050, allowing humans to move to a post-compulsory work society, according to a leading transhumanist thinker.",
@@ -564,7 +610,7 @@
       "path": "_news/2020-04-28-ai-based-news-platform-newsbytes-raises-undisclosed-amount-in-series-a-round.md",
       "title": "AI-based News Platform NewsBytes Raises Undisclosed Amount in Series A Round",
       "excerpt": "Newsbyte, an AI-driven digital media startup, has raised undisclosed amount in Series A funding round led by North Base Media, a US-based global venture capital firm specialized in media. The round also saw participation from new investor JITO Angels and the company’s existing investor,",
-      "heat": 84,
+      "heat": 85,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.entrepreneur.com/article/349909",
@@ -1264,51 +1310,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-28-shanghai-shares-fall-before-earnings-blue-chips-start-ups-climb-on-reform.md",
-      "title": "Shanghai shares fall before earnings; blue-chips, start-ups climb on reform",
-      "excerpt": "CSI300 adds 0.7%, Chinext up 0.6% but Shanghai slides 0.2% * Start-up board reform positive for A-shares - Morgan Stanley * Banks to report earnings; regulator warns on wealth p",
-      "heat": 102,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.reuters.com/article/china-stocks-close-idUSAZN00B8AI",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSAZN00B8AI",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSAZN00B8AI",
-      "publishedDateTime": "2020-04-28T00:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Shanghai shares fall before earnings; blue-chips, start-ups climb on reform",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

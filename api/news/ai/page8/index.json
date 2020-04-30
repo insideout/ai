@@ -2,6 +2,96 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-04-21-aws-and-facebook-launch-an-open-source-model-server-for-pytorch.md",
+      "title": "AWS and Facebook launch an open-source model server for PyTorch",
+      "excerpt": "For AWS, that’s mostly SageMaker, the company’s machine learning platform, but as Bratin Saha, AWS VP and GM for Machine Learning Services, told me, the work on PyTorch was mostly motivated by requests from the community. And while there are obviously other model servers like TensorFlow Serving and the Multi Model Server available today ...",
+      "heat": 119,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/04/21/aws-and-facebook-launch-an-open-source-model-server-for-pytorch/",
+      "ampWebUrl": "https://techcrunch.com/2020/04/21/aws-and-facebook-launch-an-open-source-model-server-for-pytorch/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/21/aws-and-facebook-launch-an-open-source-model-server-for-pytorch/amp/",
+      "publishedDateTime": "2020-04-21T09:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/04/GettyImages-175397431.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": "AWS and Facebook launch an open-source model server for PyTorch",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-21-low-trust-versus-high-trust-beliefs-will-impact-the-growth-of-ai-including-for-self-driving-cars.md",
+      "title": "Low-Trust Versus High-Trust Beliefs Will Impact The Growth Of AI, Including For Self-Driving Cars",
+      "excerpt": "To make things parsimonious, there are two overarching categories conventionally used when discussing trust levels, namely a citizenry of little or no trust, known as a low-trust nation or locale, versus being characterized as a high-trust nation or locale,",
+      "heat": 76,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/04/21/low-trust-versus-high-trust-beliefs-will-impact-the-growth-of-ai-including-for-self-driving-cars/",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/04/21/low-trust-versus-high-trust-beliefs-will-impact-the-growth-of-ai-including-for-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/04/21/low-trust-versus-high-trust-beliefs-will-impact-the-growth-of-ai-including-for-self-driving-cars/amp/",
+      "publishedDateTime": "2020-04-21T09:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F182201783%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5600%26cropY1%3D419%26cropY2%3D3567",
+          "width": 1200,
+          "height": 675,
+          "title": "Low-Trust Versus High-Trust Beliefs Will Impact The Growth Of AI, Including For Self-Driving Cars",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-21-ai-indicates-which-symptoms-might-be-leading-indicators-of-covid-19.md",
       "title": "AI indicates which symptoms might be leading indicators of COVID-19",
       "excerpt": "In a preprint paper published this week on Arxiv.org, a team of researchers from the Mayo Clinic and Nference, a startup developing tech that analyzes text from biomedical publications, report that they’ve used AI to isolate phenotypes characteristic of the coronavirus. They claim that a specific combination of cough and diarrhea, along with ...",
@@ -602,7 +692,7 @@
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.nature.com/articles/d41586-020-01128-8?sf233092553=1",
+      "webUrl": "https://www.nature.com/articles/d41586-020-01128-8",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-04-21T03:06:00-07:00",
@@ -1171,87 +1261,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-20-clearview-ai-source-code-revealed-exposing-majority-security-lapse.md",
-      "title": "Clearview AI source code revealed, exposing majority security lapse",
-      "excerpt": "Hussein also found the source code had been configured to allow anyone to register as a new user and log in to the platform. Hoan Ton-That, CEO and co-founder of Clearview AI, responded to the cybersecurity lapse, saying that it “did not expose any personally identifiable information, search history, or biometric identifiers.” He added that ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.itpro.co.uk/security/cyber-security/355374/clearview-ai-source-code-revealed-exposing-majority-security-lapse",
-      "ampWebUrl": "https://www.itpro.co.uk/security/cyber-security/355374/clearview-ai-source-code-revealed-exposing-majority-security-lapse?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/security/cyber-security/355374/clearview-ai-source-code-revealed-exposing-majority-security-lapse?amp",
-      "publishedDateTime": "2020-04-20T10:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk//image/upload/v1587403508/shutterstock_1658378527.jpg",
-          "width": 5000,
-          "height": 3051,
-          "title": "Clearview AI source code revealed, exposing majority security lapse",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-20-using-ai-to-build-better-chips.md",
-      "title": "Using AI To Build Better Chips",
-      "excerpt": "With so many startups and large semiconductor firms racing to get new AI chips to market, electronic tool and design service firms like Synopsis, Cadence and Mentor Graphics are looking for new approaches to help designers speed their time to market. Ironically, one of the approaches being taken is to use AI to help build better AI chips.",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2020/04/20/using-ai-to-build-better-chips/",
-      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2020/04/20/using-ai-to-build-better-chips/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2020/04/20/using-ai-to-build-better-chips/amp/",
-      "publishedDateTime": "2020-04-20T10:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

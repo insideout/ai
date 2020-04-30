@@ -2,6 +2,89 @@
   "page": 82,
   "value": [
     {
+      "path": "_news/2020-02-03-a-look-back-at-ten-years-of-microsoft-azure.md",
+      "title": "A Look Back At Ten Years Of Microsoft Azure",
+      "excerpt": "Microsoft Azure became generally available ... The innovations around Azure Cognitive Services, ML Services, deep integration of AI in the data platform, Azure IoT Edge and Azure Stack are aligned ...",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/janakirammsv/2020/02/03/a-look-back-at-ten-years-of-microsoft-azure/",
+      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2020/02/03/a-look-back-at-ten-years-of-microsoft-azure/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2020/02/03/a-look-back-at-ten-years-of-microsoft-azure/amp/",
+      "publishedDateTime": "2020-02-02T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e37f997a854780006b04c96%2F0x0.jpg",
+          "width": 710,
+          "height": 475,
+          "title": "A Look Back At Ten Years Of Microsoft Azure",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-02-what-are-machine-learning-and-deep-learning-in-artificial-intelligence.md",
+      "title": "What are Machine Learning and Deep Learning in Artificial Intelligence",
+      "excerpt": "They say ML is a complete science in its own right and thus, need not be called with reference to Artificial Intelligence. AI thrives on data ... For example, if the machine is a self-driving vehicle, it has to create its own scenarios on road. There is no way a programmer can program every step as he or she can’t think of all the ...",
+      "heat": 101,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.thewindowsclub.com/machine-learning-deep-learning-artificial-intelligence",
+      "ampWebUrl": "https://www.thewindowsclub.com/machine-learning-deep-learning-artificial-intelligence/amp",
+      "cdnAmpWebUrl": "https://www-thewindowsclub-com.cdn.ampproject.org/c/s/www.thewindowsclub.com/machine-learning-deep-learning-artificial-intelligence/amp",
+      "publishedDateTime": "2020-02-02T14:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TWCN Tech News",
+        "domain": "thewindowsclub.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thewindowsclub-thewindowsclubco.netdna-ssl.com/wp-content/uploads/2020/01/aivsmlvsdl.png",
+          "width": 412,
+          "height": 338,
+          "title": "What are Machine Learning and Deep Learning in Artificial Intelligence",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-02-02-could-ontario-police-start-using-facial-recognition-cameras.md",
       "title": "Could Ontario police start using facial recognition cameras?",
       "excerpt": "The Metropolitan Police Service in London, England, announced it will be using facial recognition cameras to help combat crime. Could something like this happen in Ontario? The London cameras, according to The Associated Press, will be set up within the next month to monitor potential crime hot spots for five-to-six hours at a time. The system ...",
@@ -1162,96 +1245,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-01-31-ibms-big-bet-on-cloud-computing-ai-and-open-source.md",
-      "title": "IBM's big bet on cloud computing, AI and open source",
-      "excerpt": "the company's stock price dropped over 25% and while the company has been keen to trumpet its artificial intelligence work (in the form of IBM Watson) and its reinvention as a cloud company (thanks to Red Hat) there is still plenty of work to do if IBM is to every approach its former glories. Sure, the latest earnings published by IBM earlier ...",
-      "heat": 109,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/ibms-big-bet-on-cloud-computing-ai-and-open-source/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ibms-big-bet-on-cloud-computing-ai-and-open-source/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibms-big-bet-on-cloud-computing-ai-and-open-source/",
-      "publishedDateTime": "2020-01-31T09:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2019/05/15/0f3f7afe-160c-451d-babe-17ed14a1c12a/thumbnail/1200x675/b87d99aee9c8455f3ae1be92387d7290/cloud-computing-and-ai-can-ibm-finally-c-5cd59307fe727300c4b89bff-1-may-15-2019-11-42-48-poster.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "IBM's big bet on cloud computing, AI and open source",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-31-last-day-for-early-bird-tickets-to-tc-sessions-robotics-ai-2020.md",
-      "title": "Last day for early-bird tickets to TC Sessions: Robotics + AI 2020",
-      "excerpt": "Today’s your last day to score early-bird pricing on tickets to TC Sessions: Robotics + AI 2020, which takes place on March 3. If you want to keep $150 in your wallet, beat the deadline and buy your ticket here before the clock strikes 11:59 p.m. (PT) tonight! Our one-day conference dedicated to robotics and AI — the good, the bad and the ...",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/01/31/last-day-for-early-bird-tickets-to-tc-sessions-robotics-ai-2020/",
-      "ampWebUrl": "https://techcrunch.com/2020/01/31/last-day-for-early-bird-tickets-to-tc-sessions-robotics-ai-2020/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/31/last-day-for-early-bird-tickets-to-tc-sessions-robotics-ai-2020/amp/",
-      "publishedDateTime": "2020-01-31T09:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/01/lastday_countdown.png?w=1024",
-          "width": 1024,
-          "height": 562,
-          "title": "Last day for early-bird tickets to TC Sessions: Robotics + AI 2020",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

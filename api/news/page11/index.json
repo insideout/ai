@@ -2,6 +2,88 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-04-20-the-nba-and-microsoft-plan-to-release-a-new-ai-driven-dtc-streaming-platform.md",
+      "title": "The NBA and Microsoft plan to release a new AI-driven DTC streaming platform",
+      "excerpt": "The NBA and Microsoft announced a new multiyear partnership aimed at transforming the digital fan experience through a direct-to-consumer platform.",
+      "heat": 81,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businessinsider.com/nba-microsoft-team-up-for-ai-driven-personalized-streaming-platform-2020-4",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-20T07:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.insider.com/5e6bd9bd84159f6e8f786846?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": "The NBA and Microsoft plan to release a new AI-driven DTC streaming platform",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-20-facebook-partners-up-with-researchers-to-fight-covid-19-using-ai.md",
+      "title": "Facebook Partners Up With Researchers To Fight COVID -19 Using AI",
+      "excerpt": "To that end, Facebook AI has partnered up with academic researchers and other experts on a slew of ... Facebook has also partnered up with the Mila research institute in Montreal to share predictive, causal, and decision algorithms to effectively analyze clinical data. Facebook says it’s important for public health experts to understand ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://in.mashable.com/tech/13299/facebook-partners-up-with-researchers-to-fight-covid-19-using-ai",
+      "ampWebUrl": "https://in.mashable.com/tech/13299/facebook-partners-up-with-researchers-to-fight-covid-19-using-ai?amp=1",
+      "cdnAmpWebUrl": "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/13299/facebook-partners-up-with-researchers-to-fight-covid-19-using-ai?amp=1",
+      "publishedDateTime": "2020-04-20T06:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://sm.mashable.com/t/mashable_in/news/t/the-corona/the-coronavirus-is-proving-to-be-big-business-for-facebook-n_n947.620.jpg",
+          "width": 620,
+          "height": 397,
+          "title": "Facebook Partners Up With Researchers To Fight COVID -19 Using AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-20-how-utilities-are-using-ai-to-adapt-to-electricity-demands.md",
       "title": "How utilities are using AI to adapt to electricity demands",
       "excerpt": "Some utilities are employing AI and machine learning to address the windfalls and fluctuations in energy usage resulting from COVID-19. Precise load forecasting could ensure that operations aren’t interrupted in the coming months, thereby preventing blackouts and brownouts. And they might also bolster the efficiency of utilities’ internal ...",
@@ -983,95 +1065,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-18-for-this-high-yield-stock-5g-and-artificial-intelligence-outweigh-coronavirus.md",
-      "title": "For This High-Yield Stock, 5G and Artificial Intelligence Outweigh Coronavirus",
-      "excerpt": "Leading nodes are the smallest, densest, most advanced chips, with higher power and better battery efficiency. More powerful chips are needed in all the big megatrends today, from 5G communications to artificial intelligence applications in the data center. For instance, Taiwan Semiconductor gets almost half of its revenue from smartphone chips.",
-      "heat": 83,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.fool.com/investing/2020/04/18/for-this-high-yield-stock-5g-and-artificial-intell.aspx?source=eptcnnlnk0000002",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/04/18/for-this-high-yield-stock-5g-and-artificial-intell.aspx",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/04/18/for-this-high-yield-stock-5g-and-artificial-intell.aspx",
-      "publishedDateTime": "2020-04-18T15:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F568547%2Fgettyimages-474499852.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 800,
-          "title": "For This High-Yield Stock, 5G and Artificial Intelligence Outweigh Coronavirus",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-18-nvidias-rtx-voice-app-uses-ai-to-improve-noise-canceling-on-rtx-powered-systems.md",
-      "title": "Nvidia's 'RTX Voice' app uses AI to improve noise canceling on RTX-powered systems",
-      "excerpt": "Of course, the average work-from-home employee probably doesn't have an RTX GPU, which is a strict requirement here. RTX Voice relies on the AI capabilities built into the cards to function, meaning gamers are much more likely to benefit from it. Even so, Nvidia is currently supporting a nice mix of apps with RTX Voice, including gaming-centric ...",
-      "heat": 83,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techspot.com/news/84881-nvidia-rtx-voice-app-uses-ai-improve-noise.html",
-      "ampWebUrl": "https://www.techspot.com/amp/news/84881-nvidia-rtx-voice-app-uses-ai-improve-noise.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/84881-nvidia-rtx-voice-app-uses-ai-improve-noise.html",
-      "publishedDateTime": "2020-04-18T14:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.techspot.com/images2/news/bigimage/2020/04/2020-04-18-image-8.jpg",
-          "width": 1680,
-          "height": 1120,
-          "title": "Nvidia's 'RTX Voice' app uses AI to improve noise canceling on RTX-powered systems",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }
