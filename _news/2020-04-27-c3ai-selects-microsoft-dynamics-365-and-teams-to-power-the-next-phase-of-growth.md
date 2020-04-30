@@ -1,30 +1,26 @@
 ---
 category: news
 title: "C3.ai selects Microsoft Dynamics 365 and Teams to power the next phase of growth"
-excerpt: "C3.ai's global customer experience and elevate sales performance using intelligent cloud technology.  As demand for enterprise-grade, AI applications continues to grow, so does the need for modern CRM tools to help businesses identify new leads,"
+excerpt: "C3.ai, a leading innovator in enterprise AI software for accelerating digital transformation, announced plans to collaborate with"
 publishedDateTime: 2020-04-27T16:00:00Z
-webUrl: "https://www.marketwatch.com/press-release/c3ai-selects-microsoft-dynamics-365-and-teams-to-power-the-next-phase-of-growth-2020-04-27"
+webUrl: "https://www.prnewswire.com/news-releases/c3ai-selects-microsoft-dynamics-365-and-teams-to-power-the-next-phase-of-growth-301047370.html"
 type: article
-quality: 79
-heat: 89
-published: true
+quality: 49
+heat: 49
+published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
+  - url: "https://mma.prnewswire.com/media/24227/microsoft_corp_logo226_9217jpg.jpg?p=facebook"
+    width: 2695
+    height: 1414
     title: "C3.ai selects Microsoft Dynamics 365 and Teams to power the next phase of growth"
 
 related:
@@ -38,6 +34,6 @@ related:
       domain: telecompaper.com
     quality: 34
 
-secured: "WCX68t/rxZT1ORHI8McNgdGvBTJxPJSxWuO7pCOvCMwCTpInXIiyOAagxS5zVnTiO17Uo58ui6Nv6mdaSo93JK+6Vg4h0N5kUVvhG4BgavNyEqmGQ368ddly3QHUYgLOS1fYbdTAd/q/A6xKcix2FRwNU35/EPHHtH0FOQkoSm9/Ef1Q2OUiy4Z4LTJnEI+qcpz0gMWWf7DPnAGA88mUH/OCog/lq2BRdDPn5fo0SIoFc84nWXG9y3qC2jGV4Ys4z7tDYDWtnbClxhqlQAn/2vQQ3wZyeOI2Gobw0t1ilgtlrDcK/Z79331r7XEV6U6J;1ceunea5MP4sBZLj/a0jUQ=="
+secured: "z/mBnVLg/QR8lR52rcoTIeOlmMWvxZz0Ewwi6CeS24P96qJa9ohkcSYQOiAjfMOLQzKd+5ncpFRyLgjZuu4kUDwUgLcv6V2dlSRct5DVi3IP/UJdngfrq/AE0KlLGu94VTrf9zhYs/ECPe2Ioukmj8qNDXEi5Ux71Gg5AG6A/U0H6jZFvhz97JBAqMaFdVimQKMcx7wGR9eJHZnGuCmiJCVmEht380z6rrtrTVgEjZ3JpLex7PmnbjYsMQTs4YZ9HhEmf24kzjr1VJeG4IYbMQ2Xfz/eTBizp910axlTG0aWE3iyXGfKmZWliPAqJTVR;ANM/QhDFH9HtRnA/tjC6Cg=="
 ---
 

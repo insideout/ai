@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Bankrupt AI Startup Wave Seeks $28M DIP Loan Over Protests"
-excerpt: "Silicon Valley AI startup Wave Computing, which was valued at over $200 million in 2018, has filed for Chapter 11 protection and asked a judge to approve a $27.9 million debtor-in-possession loan, spurring arguments by the U."
-publishedDateTime: 2020-04-29T20:45:00Z
-webUrl: "https://www.law360.com/articles/1268582/bankrupt-ai-startup-wave-seeks-28m-dip-loan-over-protests"
+excerpt: "Law360 (April 29, 2020, 4:39 PM EDT) -- Silicon Valley AI startup Wave Computing, which was valued at over $200 million in 2018, has filed for Chapter 11 protection and asked a judge to approve a $27.9 million debtor-in-possession loan, spurring arguments by the U.S. Trustee that the loan is inappropriately backed by a venture capital firm that ..."
+publishedDateTime: 2020-04-29T20:42:00Z
+webUrl: "https://www.law360.com/articles/1268582"
 ampWebUrl: "https://www.law360.com/amp/articles/1268582"
 cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1268582"
 type: article
@@ -18,6 +18,6 @@ provider:
 topics:
   - AI
 
-secured: "ytQN19UeQOyIeLqMtWjWkFYpA6E6ZGbR4GX0oxpw7t2F7JgtInfkFRVU3kD8mmQQV8YRZr9ZkyBSV54Hw00aQv14JBYtO8GvvEENArBMaC9J/sJz6xYOhUBWENNwyMANkuozzAbKwCt5y79hIIX0BtYWQTpaFl9KLvatkdb2qzjtR4rlAHLlOWJracb7dZoIkSTw54wXfwrlkstmuuPo+bNZKH1DQ2YCl8Wae6+eFy/AH/Q00mgXa1WXAIsZfBHvJQMMjL1kfDIV2gb4rkLjCWybLgpxK10XugRzVoaiSn4HpBijSSh2PntKxBZXcz7X;IwfDXYaCLgn5Hr83B5ax8g=="
+secured: "xhmu/hgvS4YXbuock1K+kPcoGvg3CHs4nvNInrt4siZvCHTI2mYdYnLEcPy5nuXkhz9aC6cB4cIHE1CVkTy+cjB0x131EnqUOCs8B5zl4kLJu1WQs9+0oXLpZ0MDydfcekc+7dYp3P85Mr+0CNkUBKBVdYUb6Cos0Iut2CGyP0nQdv7T9TXHNMWm5CEmq153gH1q5pi/SucotKkbd6cZGp+Qy0+kfjxpOCAQFl+XRBslxgz1iPlsm431MDNfSzivlwdbYotNFew24G1si0Fyg/qIZFJzG6+G/OYTWccjQfH5g9tyH4do4g6Bwxu/I/bd;BKGFMQ8scCXQC/lrrXIpag=="
 ---
 
