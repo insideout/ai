@@ -2,6 +2,43 @@
   "page": 49,
   "value": [
     {
+      "path": "_news/2020-03-13-artificial-intelligence-in-alzheimers-applications-2020-researchandmarketscom.md",
+      "title": "Artificial Intelligence in Alzheimer's Applications - 2020 - ResearchAndMarkets.com",
+      "excerpt": "The Report Includes: Summary Artificial intelligence (AI) is a term used to identify a scientific field that covers the creation of machines aimed at reproducing wholly or in part the intelligent behavior of human beings. These machines include computers, sensors, robots, and hypersmart devices. As shown in the figure below, the ultimate ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businesswire.com/news/home/20200313005186/en/Artificial-Intelligence-Alzheimers-Applications---2020--",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-13T04:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20200313005186/en/371054/23/ResearchAndMarkets_800px.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": "Artificial Intelligence in Alzheimer's Applications - 2020 - ResearchAndMarkets.com",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-13-ai-in-healthcare-market-exploring-future-growth-2019-2030-and-key-players-nvidia-intel-general-electric.md",
       "title": "Ai in Healthcare Market Exploring Future Growth 2019-2030 and Key Players - NVIDIA, Intel, GENERAL ELECTRIC",
       "excerpt": "AI in healthcare is used to perform complex cognitive tasks and to analyze large amounts of patient data quickly & effectively. Artificial Intelligence makes use of number of different algorithms and decision-making capabilities,",
@@ -1098,51 +1135,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-12-aclu-sues-for-records-on-facial-recognition-use-at-airports-border.md",
-      "title": "ACLU sues for records on facial recognition use at airports, border",
-      "excerpt": "The lawsuit, filed on Thursday, argues that the public has a right to know how these US agencies have been using facial recognition, citing concerns about surveillance and privacy. \"Over the ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnet.com/news/aclu-sues-for-records-on-facial-recognition-use-at-airports-border/",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/aclu-sues-for-records-on-facial-recognition-use-at-airports-border/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/aclu-sues-for-records-on-facial-recognition-use-at-airports-border/",
-      "publishedDateTime": "2020-03-12T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cnet2.cbsistatic.com/img/k89SXv9Mmf4VLv5BUGzTuxgTjOo=/756x567/2020/03/11/ad4aacfb-49cc-4708-b0ad-2eecbcb1c682/gettyimages-819622666.jpg",
-          "width": 756,
-          "height": 567,
-          "title": "ACLU sues for records on facial recognition use at airports, border",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

@@ -2,6 +2,50 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2020-04-15-10-ways-ai-can-improve-digital-transformations-success-rate.md",
+      "title": "10 Ways AI Can Improve Digital Transformation's Success Rate",
+      "excerpt": "It's important to get beyond digital transformation as purely a technical, abstract construct and see it as a must-have strategy to retain customers and attract new ones.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/louiscolumbus/2020/04/15/10-ways-ai-can-improve-digital-transformations-success-rate/",
+      "ampWebUrl": "https://www.forbes.com/sites/louiscolumbus/2020/04/15/10-ways-ai-can-improve-digital-transformations-success-rate/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/04/15/10-ways-ai-can-improve-digital-transformations-success-rate/amp/",
+      "publishedDateTime": "2020-04-15T10:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e974143892edc0006728986%2F0x0.jpg",
+          "width": 1200,
+          "height": 623,
+          "title": "10 Ways AI Can Improve Digital Transformation's Success Rate",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-15-covid-19-crisis-illustrates-need-for-solid-aiml-strategy.md",
       "title": "Covid-19 Crisis Illustrates Need for Solid AI/ML Strategy",
       "excerpt": "AAs recently as 6 months ago, AI spending was projected to exceed $50B worldwide by 2021. A few months later the Coronavirus crisis struck across the world and may have created a whole new reason for organizing and employing AI/ML.",
@@ -1025,50 +1069,6 @@
           "width": 680,
           "height": 404,
           "title": "Onfido, the AI-based ID verification platform, raises $100M led by TPG",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-15-onfido-raises-100-million-to-verify-identities-with-ai.md",
-      "title": "Onfido raises $100 million to verify identities with AI",
-      "excerpt": "Onfido — which was founded in 2012 by three Oxford University graduates who observed that background checks were largely done manually and were therefore prone to human error — develops a software-as-a-service (SaaS) platform that taps AI to perform background checks on would-be employees at each stage of the hiring and recruitment process.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/15/onfido-raises-100-million-to-verify-identities-with-ai/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/15/onfido-raises-100-million-to-verify-identities-with-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/15/onfido-raises-100-million-to-verify-identities-with-ai/amp/",
-      "publishedDateTime": "2020-04-15T03:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/ONFIDO_RGB_WORDMARK_BLUE-e1586551350126.png?fit=1199%2C599&strip=all",
-          "width": 1199,
-          "height": 599,
-          "title": "Onfido raises $100 million to verify identities with AI",
           "attribution": null
         }
       ],

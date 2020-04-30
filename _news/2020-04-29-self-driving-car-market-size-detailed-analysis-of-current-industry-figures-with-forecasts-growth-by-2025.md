@@ -6,7 +6,7 @@ publishedDateTime: 2020-04-29T11:40:00Z
 webUrl: "https://www.marketwatch.com/press-release/self-driving-car-market-size---detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2025-2020-04-29"
 type: article
 quality: 51
-heat: 51
+heat: 61
 published: false
 
 provider:
@@ -26,6 +26,17 @@ images:
     width: 1200
     height: 630
     title: "Self-Driving Car Market Size - Detailed Analysis of Current Industry Figures with Forecasts Growth By 2025"
+
+related:
+  - title: "Europe GPU for Deep Learning Market is slated to grow rapidly in the coming years"
+    excerpt: "The Global GPU for Deep Learning Market report provides a detailed analysis of the dynamic of the market with extensive focus on secondary research. The report sheds light on the current situation of the market size,"
+    publishedDateTime: 2020-04-30T02:31:00Z
+    webUrl: "https://www.arnnet.com.au/mediareleases/94593/europe-gpu-for-deep-learning-market-is-slated-to/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 14
 
 secured: "JQmgBdsDC/vqN4UCmLH+fCnmuzolrHq3/mXH9sMmVSvF5454u252uyclAHuvGaH8J4QgkXamx0Wu8ZMiJ5Um8iuXZQ+Hg1ORYq0saIL0f5IhQ9KIW16Yvh9LCZe7fFq3bSJEl0SQ05Qo4KnamcBjrMIZWSi8RWunpqa8TL19zIpjvwLAuf8fC0v5gOxU8mGKD46rKxhCPhtHsdpONWkqbMTOrLfRgB5p8A0stt+732u9WIwFMe2I3+r6iKB3PV4FpviaYUEIMKONbYaD07yBiPcJK3VbrwjZGPdRCNd9tJUv6vBpNikNDTM8/CUNbK0g;uB/WeOftTLdibWlRF6iYYA=="
 ---

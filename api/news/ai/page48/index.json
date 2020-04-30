@@ -2,6 +2,43 @@
   "page": 48,
   "value": [
     {
+      "path": "_news/2020-03-14-deltec-bank-bahamas-the-role-of-fintech-in-the-banking-and-finance-sector-is-changing.md",
+      "title": "Deltec Bank, Bahamas – The Role of FinTech in the Banking and Finance Sector is Changing",
+      "excerpt": "“Deltec Bank” Deltec Bank, Bahamas – \"From robo-advisers to virtual assistants, financial services have seen massive growth.” Understanding",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/03/ab15553850/deltec-bank-bahamas-the-role-of-fintech-in-the-banking-and-finance-sector-is-changing",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/15553850",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15553850",
+      "publishedDateTime": "2020-03-13T18:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.abnewswire.com/uploads/1584120198.jpeg",
+          "width": 640,
+          "height": 360,
+          "title": "Deltec Bank, Bahamas – The Role of FinTech in the Banking and Finance Sector is Changing",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-14-washington-state-passes-landmark-facial-recognition-bill-reining-in-government-use-of-ai.md",
       "title": "Washington state passes landmark facial recognition bill, reining in government use of AI",
       "excerpt": "The Washington state legislature passed a bill establishing new guardrails on government use of facial recognition software. The bill cleared both chambers of the state legislature Thursday, hours before the session ended, positioning Washington as one of the first states in the nation to regulate facial recognition, a key component in the ...",
@@ -1167,43 +1204,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-13-artificial-intelligence-in-alzheimers-applications-2020-researchandmarketscom.md",
-      "title": "Artificial Intelligence in Alzheimer's Applications - 2020 - ResearchAndMarkets.com",
-      "excerpt": "The Report Includes: Summary Artificial intelligence (AI) is a term used to identify a scientific field that covers the creation of machines aimed at reproducing wholly or in part the intelligent behavior of human beings. These machines include computers, sensors, robots, and hypersmart devices. As shown in the figure below, the ultimate ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businesswire.com/news/home/20200313005186/en/Artificial-Intelligence-Alzheimers-Applications---2020--",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-13T04:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20200313005186/en/371054/23/ResearchAndMarkets_800px.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": "Artificial Intelligence in Alzheimer's Applications - 2020 - ResearchAndMarkets.com",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

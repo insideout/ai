@@ -29,6 +29,21 @@ images:
     title: "Artificial Intelligence Cannot Be Inventors, US Patent Office Rules"
 
 related:
+  - title: "AI cannot be recognised as an inventor, US rules"
+    excerpt: "The US Patent and Trademark Office rejected two patents where the AI system Dabus was listed as the inventor, in a ruling on Monday. US patent law had previously only specified eligible inventors had to be \"individuals\"."
+    publishedDateTime: 2020-04-29T12:40:00Z
+    webUrl: "https://www.bbc.com/news/technology-52474250"
+    ampWebUrl: "https://www.bbc.co.uk/news/amp/technology-52474250"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/technology-52474250"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 87
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/26C2/production/_112022990_whatsubject.jpg"
+        width: 1024
+        height: 576
   - title: "US patent office rules that artificial intelligence cannot be a legal inventor"
     excerpt: "The US Patent and Trademark Office (USPTO) has ruled that artificial intelligence systems cannot be credited as an inventor in a patent, the agency announced earlier this week. The decision came in response to two patents — one for a food container and the other for a flashing light — that were created by an AI system called DABUS."
     publishedDateTime: 2020-04-29T16:35:00Z
@@ -44,21 +59,6 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/8KaGrcOcMPTz4e2ak0DOJtOz3bY=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66726960/jbareham_170215_1460_0001_v2_3.0.jpg"
         width: 1400
         height: 933
-  - title: "AI cannot be recognised as an inventor, US rules"
-    excerpt: "The US Patent and Trademark Office rejected two patents where the AI system Dabus was listed as the inventor, in a ruling on Monday. US patent law had previously only specified eligible inventors had to be \"individuals\"."
-    publishedDateTime: 2020-04-29T12:40:00Z
-    webUrl: "https://www.bbc.co.uk/news/technology-52474250"
-    ampWebUrl: "https://www.bbc.co.uk/news/amp/technology-52474250"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/technology-52474250"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 57
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/26C2/production/_112022990_whatsubject.jpg"
-        width: 1024
-        height: 576
   - title: "Net Lease REITs: The Perfect Investment For Deflation And Low Rates"
     excerpt: "What are inflation and deflation? And what cause them? I offer an explanation that forms the basis for the rest of the article. Five underlying economic forces"
     publishedDateTime: 2020-04-29T05:01:00Z

@@ -2,6 +2,44 @@
   "page": 101,
   "value": [
     {
+      "path": "_news/2020-01-13-tealium-launches-predict-solution-powered-by-machine-learning.md",
+      "title": "Tealium Launches Predict Solution Powered By Machine Learning",
+      "excerpt": "Integrated into Tealium AudienceStream, a data-first customer data platform that is designed to create highly granular, unified customer profiles from every touchpoint, Tealium Predict aims to create and activate trustworthy machine learning insights using cross-channel customer behavior data. Visitors are scored based on the likelihood to ...",
+      "heat": 61,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.demandgenreport.com/features/solution-spotlight/tealium-launches-predict-solution-powered-by-machine-learning",
+      "ampWebUrl": "https://www.demandgenreport.com/features/solution-spotlight/tealium-launches-predict-solution-powered-by-machine-learning/amp",
+      "cdnAmpWebUrl": "https://www-demandgenreport-com.cdn.ampproject.org/c/s/www.demandgenreport.com/features/solution-spotlight/tealium-launches-predict-solution-powered-by-machine-learning/amp",
+      "publishedDateTime": "2020-01-13T08:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Demand Gen Report",
+        "domain": "demandgenreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.demandgenreport.com/media/k2/items/cache/2d88ab916503b4690740bdbf348148be_XL.jpg",
+          "width": 1280,
+          "height": 766,
+          "title": "Tealium Launches Predict Solution Powered By Machine Learning",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2020-01-13-bundesliga-goes-all-in-on-aws-cites-ml-and-ai-expertise-for-archiving-as-key.md",
       "title": "Bundesliga goes all-in on AWS, cites ML and AI expertise for archiving as key",
       "excerpt": "Yet another sporting franchise is signing up with Amazon Web Services (AWS) to utilise its artificial intelligence (AI) and machine learning (ML) capabilities. The Bundesliga, Germany’s top flight football league, has announced it its going all-in on AWS ...",
@@ -1270,43 +1308,6 @@
       "topics": [
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-01-10-inside-ibm-sterling-supply-chain-suite.md",
-      "title": "Inside: IBM Sterling Supply Chain Suite",
-      "excerpt": "IBM described the introduction of its Sterling Supply Chain Suite as “an integrated supply chain suite, embedded with Watson AI and IBM Blockchain and open to developers, to help organisations make their supply chains smarter, more efficient and better able to make decisions to adjust to disruptions and opportunities in an era when ...",
-      "heat": 69,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.supplychaindigital.com/technology/inside-ibm-sterling-supply-chain-suite",
-      "ampWebUrl": "https://www.supplychaindigital.com/technology/inside-ibm-sterling-supply-chain-suite?amp",
-      "cdnAmpWebUrl": "https://www-supplychaindigital-com.cdn.ampproject.org/c/s/www.supplychaindigital.com/technology/inside-ibm-sterling-supply-chain-suite?amp",
-      "publishedDateTime": "2020-01-10T05:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Supply Chain Digital",
-        "domain": "supplychaindigital.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "http://www.supplychaindigital.com/sites/default/files/styles/slider_detail/public/topic/image/GettyImages-1088950364%20%281%29.jpg?itok=QrgtHVc6",
-          "width": 778,
-          "height": 518,
-          "title": "Inside: IBM Sterling Supply Chain Suite",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "IBM AI"
       ]
     }
   ],

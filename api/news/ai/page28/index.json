@@ -2,6 +2,50 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2020-04-01-shanghai-judicial-courts-start-to-replace-clerks-with-ai-assistants.md",
+      "title": "Shanghai judicial courts start to replace clerks with AI assistants",
+      "excerpt": "The judicial system in China is set for a hi-tech shake-up, as artificial intelligence (AI) will soon automate the traditional job performed by clerks in courtrooms across the country. That initiative started on Wednesday under a pilot programme in Shanghai, where 10 courts replaced clerks with AI assistants to transcribe case notes ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.scmp.com/tech/innovation/article/3077979/shanghai-judicial-courts-start-replace-clerks-ai-assistants",
+      "ampWebUrl": "https://amp.scmp.com/tech/innovation/article/3077979/shanghai-judicial-courts-start-replace-clerks-ai-assistants",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/innovation/article/3077979/shanghai-judicial-courts-start-replace-clerks-ai-assistants",
+      "publishedDateTime": "2020-04-01T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/04/01/4a082aa2-73ef-11ea-ab8f-988daf8efd6f_image_hires_215024.JPG?itok=j8en0PIv&v=1585749033",
+          "width": 1200,
+          "height": 630,
+          "title": "Shanghai judicial courts start to replace clerks with AI assistants",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-01-actioning-individual-customer-context-with-artificial-intelligence.md",
       "title": "Actioning Individual Customer Context With Artificial Intelligence",
       "excerpt": "The current capabilities of ML and AI allow not only the complete context of the customer to be gathered instantly, but also to serve the experience most likely to drive customers lower down the funnel.",
@@ -1221,51 +1265,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-31-self-driving-car-market-share-size-and-forecast-report-by-2023.md",
-      "title": "Self-driving Car Market Share, Size and Forecast Report By 2023",
-      "excerpt": "The report on SELF-DRIVING CAR MARKET offers a detailed analysis of the SELF-DRIVING CAR MARKET size, growth, segments, key players, growth drivers as well as the challenges faced by the industry ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/self-driving-car-market-share-size-and-forecast-report-by-2023-2020-03-31?mod=mw_quote_news",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-31T10:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Self-driving Car Market Share, Size and Forecast Report By 2023",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

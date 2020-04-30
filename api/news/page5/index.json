@@ -2,6 +2,51 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-04-26-uk-spies-will-need-artificial-intelligence-rusi-report.md",
+      "title": "UK spies will need artificial intelligence - Rusi report",
+      "excerpt": "UK spies will need to use artificial intelligence (AI) to counter a range of threats, an intelligence report says. Adversaries are likely to use the technology for attacks in cyberspace and on the political system,",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.bbc.com/news/technology-52415775",
+      "ampWebUrl": "https://www.bbc.com/news/amp/technology-52415775",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-52415775",
+      "publishedDateTime": "2020-04-26T16:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/12356/production/_111928547_gettyimages-881638976.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": "UK spies will need artificial intelligence - Rusi report",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-26-revolutionizing-the-student-experience-with-ai-an-experiment-in-voice-apps-at-arizona-state-university.md",
       "title": "Revolutionizing The Student Experience With AI: An Experiment In Voice Apps At Arizona State University",
       "excerpt": "Before the pandemic forced all learning online, one campus was ahead of the revolution on using AI to augment the learning experience.",
@@ -1033,50 +1078,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-24-terminal-taps-ai-to-help-companies-build-remote-engineering-teams.md",
-      "title": "Terminal taps AI to help companies build remote engineering teams",
-      "excerpt": "This week, Terminal announced its first acquisition, snapping up Austin, Texas-based AI-powered recruitment startup Roikoi for an undisclosed figure. This comes shortly after Terminal raised $17 million from big-name investors such as Kleiner Perkins, adding to a previous roster of investors that includes Yahoo founder Jerry Yang and Peter ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/24/terminal-taps-ai-to-help-companies-build-remote-engineering-teams/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/24/terminal-taps-ai-to-help-companies-build-remote-engineering-teams/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/24/terminal-taps-ai-to-help-companies-build-remote-engineering-teams/amp/",
-      "publishedDateTime": "2020-04-24T04:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/09/GDL-header.jpg?fit=1629%2C882&strip=all",
-          "width": 1629,
-          "height": 882,
-          "title": "Terminal taps AI to help companies build remote engineering teams",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

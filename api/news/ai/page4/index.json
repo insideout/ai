@@ -2,6 +2,50 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-04-27-ai-startup-weve-removed-humans-from-business-negotiations.md",
+      "title": "AI startup: We've removed humans from business negotiations",
+      "excerpt": "But that is exactly what happened in late March this year when Estonian startup Pactum, which provides an AI-based commercial negotiation tool, was engaged by Walmart to automate negotiations with part of its global supplier network.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/ai-startup-weve-removed-humans-from-business-negotiations/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-startup-weve-removed-humans-from-business-negotiations/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-startup-weve-removed-humans-from-business-negotiations/",
+      "publishedDateTime": "2020-04-27T03:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/03/20/0cbe715a-9388-45c9-8237-a85e194778e5/thumbnail/1200x675/2f631e2f35c572488ba70aa7ff321067/carfillingupistock-900314960.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "AI startup: We've removed humans from business negotiations",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-27-ai-in-computer-vision-market-and-region-global-forecast-to-2023-market-effect-of-covid19.md",
       "title": "AI In Computer Vision Market and Region-Global Forecast to 2023 (market Effect of COVID19)",
       "excerpt": "AI In Computer Vision Market Research Report by Component (Hardware, Software), Vertical (healthcare, security,",
@@ -1258,43 +1302,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-24-system-reduces-the-energy-needed-for-training-running-neural-networks.md",
-      "title": "System Reduces the Energy Needed for Training, Running Neural Networks",
-      "excerpt": "Although artificial intelligence has turned out to be a spotlight of some moral concerns, it also has some significant sustainability problems. MIT researchers have developed a new automated AI system with improved computational efficiency and a much smaller carbon footprint. The researchers’ system trains one large neural network comprising ...",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.azocleantech.com/news.aspx?newsID=27202",
-      "ampWebUrl": "https://www.azocleantech.com/amp/news.aspx?newsID=27202",
-      "cdnAmpWebUrl": "https://www-azocleantech-com.cdn.ampproject.org/c/s/www.azocleantech.com/amp/news.aspx?newsID=27202",
-      "publishedDateTime": "2020-04-24T08:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Clean Tech",
-        "domain": "azocleantech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.azocleantech.com/images/news/ImageForNews_27202_15877319223121634.png",
-          "width": 639,
-          "height": 426,
-          "title": "System Reduces the Energy Needed for Training, Running Neural Networks",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

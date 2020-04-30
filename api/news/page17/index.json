@@ -2,6 +2,50 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2020-04-15-onfido-raises-100-million-to-verify-identities-with-ai.md",
+      "title": "Onfido raises $100 million to verify identities with AI",
+      "excerpt": "Onfido — which was founded in 2012 by three Oxford University graduates who observed that background checks were largely done manually and were therefore prone to human error — develops a software-as-a-service (SaaS) platform that taps AI to perform background checks on would-be employees at each stage of the hiring and recruitment process.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/15/onfido-raises-100-million-to-verify-identities-with-ai/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/15/onfido-raises-100-million-to-verify-identities-with-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/15/onfido-raises-100-million-to-verify-identities-with-ai/amp/",
+      "publishedDateTime": "2020-04-15T03:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/ONFIDO_RGB_WORDMARK_BLUE-e1586551350126.png?fit=1199%2C599&strip=all",
+          "width": 1199,
+          "height": 599,
+          "title": "Onfido raises $100 million to verify identities with AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-15-onepacs-provides-its-teleradiology-pacsrisvoice-platform-to-california-covid-specialty-hospital.md",
       "title": "OnePacs Provides Its Teleradiology PACS/RIS/Voice Platform to California COVID Specialty Hospital",
       "excerpt": "PALO ALTO, Calif., April 15, 2020 /PRNewswire/ -- In response to the COVID-19 pandemic, OnePacs is providing its PACS/RIS-reporting platform, with voice recognition, to the California State Department",
@@ -932,43 +976,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-14-blurams-advanced-ai-facial-recognition-outdoor-camera-makes-people-stay-home-more-convenient.md",
-      "title": "Blurams' Advanced AI Facial Recognition Outdoor Camera Makes People Stay Home More Convenient",
-      "excerpt": "The key feature of the Blurams camera is its smart advanced AI facial recognition technology, which can remember up to 16 different individuals, more than enough for friends, family, and regular ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://markets.businessinsider.com/news/stocks/blurams-advanced-ai-facial-recognition-outdoor-camera-makes-people-stay-home-more-convenient-1029089737",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/blurams-advanced-ai-facial-recognition-outdoor-camera-makes-people-stay-home-more-convenient-1029089737",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/blurams-advanced-ai-facial-recognition-outdoor-camera-makes-people-stay-home-more-convenient-1029089737",
-      "publishedDateTime": "2020-04-14T06:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }
