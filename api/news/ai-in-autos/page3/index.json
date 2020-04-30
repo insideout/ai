@@ -2,6 +2,53 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-04-08-toward-computers-that-teach-themselves.md",
+      "title": "Toward Computers That Teach Themselves",
+      "excerpt": "Artificial intelligence seems to be everywhere, but what we are really witnessing is a supervised-learning revolution: We teach computers to see patterns, much as we teach children to read. But the future of A.",
+      "heat": 76,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nytimes.com/2020/04/08/technology/ai-computers-learning-supervised-unsupervised.html",
+      "ampWebUrl": "https://www.nytimes.com/2020/04/08/technology/ai-computers-learning-supervised-unsupervised.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/04/08/technology/ai-computers-learning-supervised-unsupervised.amp.html",
+      "publishedDateTime": "2020-04-08T02:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/04/09/business/09sp-AI-cover/09sp-AI-cover-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": "Toward Computers That Teach Themselves",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Natural Language Processing",
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-08-artificial-intelligence-ai-in-agriculture.md",
       "title": "Artificial Intelligence (AI) in Agriculture",
       "excerpt": "Artificial Intelligence has various application in agriculture ranging from rural automatons, facial acknowledgment, computerized water system frameworks, and driverless tractors. These ...",
@@ -1166,43 +1213,6 @@
           "width": 1024,
           "height": 718,
           "title": "Self-driving car engineer Anthony Levandowski files motion to force Uber into arbitration",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-01-deal-looking-for-an-exciting-cutting-edge-career-dive-into-artificial-intelligence.md",
-      "title": "Deal: Looking for an exciting, cutting-edge career? Dive into Artificial Intelligence",
-      "excerpt": "Artificial intelligence is just starting to break out into the mainstream through applications like self driving cars and analytical software. If you want to dive into an exciting career field ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://pocketnow.com/artificial-intelligence-deal",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-01T09:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pocketnow.com",
-        "domain": "pocketnow.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://pocketnow.com/wp/../files/2016/07/PN-Complete-Machine-Learning-Bundle.jpg",
-          "width": 760,
-          "height": 473,
-          "title": "Deal: Looking for an exciting, cutting-edge career? Dive into Artificial Intelligence",
           "attribution": null
         }
       ],

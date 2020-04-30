@@ -2,6 +2,52 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-04-17-how-facebook-works-for-trump.md",
+      "title": "How Facebook Works for Trump",
+      "excerpt": "In the artificial-intelligence field, this system is the opposite of self-driving cars or robots or virtual assistants: a deeply boring, basically invisible application of machine learning that is dramatically reshaping our lives not someday, but right now. Facebook wired a machine into electoral decision making. Political campaigns have ceased ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.theatlantic.com/technology/archive/2020/04/how-facebooks-ad-technology-helps-trump-win/606403/",
+      "ampWebUrl": "https://amp.theatlantic.com/amp/article/606403/",
+      "cdnAmpWebUrl": "https://amp-theatlantic-com.cdn.ampproject.org/c/s/amp.theatlantic.com/amp/article/606403/",
+      "publishedDateTime": "2020-04-17T06:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Atlantic",
+        "domain": "theatlantic.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/theatlantic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.theatlantic.com/thumbor/tUyia50nMKcThmFLEx4TGD5fU-o=/0x85:2000x1210/570x321/media/img/mt/2020/04/WebArt_IanBogost_FacebookTrump_1/original.jpg",
+          "width": 570,
+          "height": 321,
+          "title": "How Facebook Works for Trump",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-17-heres-how-you-get-everyone-to-buy-into-a-great-company-culture.md",
       "title": "Here's How You Get Everyone To Buy Into A Great Company Culture",
       "excerpt": "As a company begins to scale past 150 people, it becomes harder to create unity and keep people on the same page. Creating a healthy company culture helps attract and retain highly motivated and engaged employees.",
@@ -1228,53 +1274,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-08-toward-computers-that-teach-themselves.md",
-      "title": "Toward Computers That Teach Themselves",
-      "excerpt": "Artificial intelligence seems to be everywhere, but what we are really witnessing is a supervised-learning revolution: We teach computers to see patterns, much as we teach children to read. But the future of A.",
-      "heat": 76,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nytimes.com/2020/04/08/technology/ai-computers-learning-supervised-unsupervised.html",
-      "ampWebUrl": "https://www.nytimes.com/2020/04/08/technology/ai-computers-learning-supervised-unsupervised.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/04/08/technology/ai-computers-learning-supervised-unsupervised.amp.html",
-      "publishedDateTime": "2020-04-08T02:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/04/09/business/09sp-AI-cover/09sp-AI-cover-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": "Toward Computers That Teach Themselves",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Natural Language Processing",
-        "IBM AI"
       ]
     }
   ],

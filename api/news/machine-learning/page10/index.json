@@ -2,6 +2,51 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-02-05-deep-learning-market-analysis-and-forecast-2026.md",
+      "title": "Deep Learning Market Analysis And Forecast 2026",
+      "excerpt": "The Deep Learning Market 2020-2026 is a valuable source of insightful data for business strategists. This Deep Learning Market study provides comprehensive data on aspects of competitive intelligence,",
+      "heat": 279,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-analysis-and-forecast-2026-2020-02-04",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-04T18:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Deep Learning Market Analysis And Forecast 2026",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-02-04-ex-google-cloud-engineers-raise-8m-for-seattle-machine-learning-startup-kaskada.md",
       "title": "Ex-Google Cloud engineers raise $8M for Seattle machine learning startup Kaskada",
       "excerpt": "Kaskada CEO Davor Bonaci, CTO Ben Chambers and VP of Product Emily Kruger. (Kaskada Photo) Machine learning is all the rage in big tech, but still largely unavailable to most companies that don’t have the resources or the knowhow to build it. Seattle startup Kaskada wants to change that. The company just raised a $8 million Series A round to ...",
@@ -1224,51 +1269,6 @@
           "width": 1200,
           "height": 675,
           "title": "What are Important AI & Machine Learning Trends for 2020?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-01-22-how-machine-learning-uncovers-opportunities-for-business-optimization.md",
-      "title": "How Machine Learning Uncovers Opportunities For Business Optimization",
-      "excerpt": "With ever more data being generated across modern businesses, companies are looking for actionable intelligence to drive optimization, increase margins and avoid supply chain distributions. The sheer volume of data can make it difficult to see trends;",
-      "heat": 119,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/22/how-machine-learning-uncovers-opportunities-for-business-optimization/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/22/how-machine-learning-uncovers-opportunities-for-business-optimization/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/22/how-machine-learning-uncovers-opportunities-for-business-optimization/amp/",
-      "publishedDateTime": "2020-01-22T06:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/711x494/https://specials-images.forbesimg.com/dam/imageserve/1079012838/960x0.jpg?fit=scale",
-          "width": 711,
-          "height": 494,
-          "title": "How Machine Learning Uncovers Opportunities For Business Optimization",
           "attribution": null
         }
       ],

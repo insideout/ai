@@ -2,6 +2,223 @@
   "page": 31,
   "value": [
     {
+      "path": "_news/2020-04-02-google-were-opening-code-search-for-go-angular-dart-flutter-tensorflow-and-more.md",
+      "title": "Google: We're opening Code Search for Go, Angular, Dart, Flutter, TensorFlow and more",
+      "excerpt": "Code Search or 'CS' for open-source Google projects for now supports Angular, Bazel, Dart, ExoPlayer, Firebase SDK, Flutter, Go, gVisor, Kythe, Nomulus, Outline, and Tensorflow – which represent a small portion of Google's open-source projects, but ones that open-source communities may benefit from search being available on their respective ...",
+      "heat": 109,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/google-were-opening-code-search-for-go-angular-dart-flutter-tensorflow-and-more/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-were-opening-code-search-for-go-angular-dart-flutter-tensorflow-and-more/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-were-opening-code-search-for-go-angular-dart-flutter-tensorflow-and-more/",
+      "publishedDateTime": "2020-04-02T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/2020/04/02/923a42ea-62f9-40aa-8fe4-82a59a5454d8/cs-opensource.png",
+          "width": 2082,
+          "height": 1292,
+          "title": "Google: We're opening Code Search for Go, Angular, Dart, Flutter, TensorFlow and more",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "TensorFlow"
+      ]
+    },
+    {
+      "path": "_news/2020-04-02-why-robots-will-save-your-career-not-destroy-it.md",
+      "title": "Why Robots Will Save Your Career, Not Destroy It",
+      "excerpt": "AI, despite the challenges it poses for job seekers and the hiring process, is not a problem to be solved — it's a ray of hope.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/04/02/why-robots-will-save-your-career-not-destroy-it/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/04/02/why-robots-will-save-your-career-not-destroy-it/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/04/02/why-robots-will-save-your-career-not-destroy-it/amp/",
+      "publishedDateTime": "2020-04-02T06:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F04%2Fa-61.jpg",
+          "width": 640,
+          "height": 640,
+          "title": "Why Robots Will Save Your Career, Not Destroy It",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-02-phantom-ai-raises-22-million-to-develop-adas-products.md",
+      "title": "Phantom AI raises $22 million to develop ADAS products",
+      "excerpt": "Phantom AI, a startup developing advanced driver-assistance systems (ADAS) for cars and trucks, today announced that it has raised $22 million. CEO Hyunggi Cho says it will enable the company to expand availability of its modular, software-based platform, which lets OEMs and Tier 1 automakers select components they wish to integrate and ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/02/phantom-ai-raises-22-million-to-develop-adas-products/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/02/phantom-ai-raises-22-million-to-develop-adas-products/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/02/phantom-ai-raises-22-million-to-develop-adas-products/amp/",
+      "publishedDateTime": "2020-04-02T06:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/03/0-5-e1585160578767.jpeg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Phantom AI raises $22 million to develop ADAS products",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-02-ibm-offers-watson-assistant-for-citizens-to-provide-responses-to-covid-19-questions.md",
+      "title": "IBM Offers \"Watson Assistant for Citizens\" to Provide Responses to COVID-19 Questions",
+      "excerpt": "IBM Watson Assistant for Citizens on the IBM public cloud brings together Watson Assistant, Natural Language Processing capabilities from IBM Research, and state-of-art enterprise AI search capabilities with Watson Discovery, to understand and respond to common questions about COVID-19. \"While helping government agencies and healthcare ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.prnewswire.co.uk/news-releases/ibm-offers-watson-assistant-for-citizens-to-provide-responses-to-covid-19-questions-884893590.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-02T05:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1140577/IBM_UAMS_Virtual_Assistant_for_COVID_19.jpg?p=facebook",
+          "width": 1650,
+          "height": 864,
+          "title": "IBM Offers \"Watson Assistant for Citizens\" to Provide Responses to COVID-19 Questions",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-02-starsky-robotics-shuts-down-and-worries-everybody-else-will-also-fail-in-robotic-trucks.md",
+      "title": "Starsky Robotics Shuts Down And Worries Everybody Else Will Also Fail In Robotic Trucks",
+      "excerpt": "The Founder of Robotic Trucking startup Starsky recently provided deep details on why they shut down. Here's some examination of his key points, and whether his failure bodes badly for the whole industry.",
+      "heat": 111,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/bradtempleton/2020/04/02/starsky-robotics-shuts-down-and-worries-everybody-else-will-also-fail-in-robotic-trucks/",
+      "ampWebUrl": "https://www.forbes.com/sites/bradtempleton/2020/04/02/starsky-robotics-shuts-down-and-worries-everybody-else-will-also-fail-in-robotic-trucks/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2020/04/02/starsky-robotics-shuts-down-and-worries-everybody-else-will-also-fail-in-robotic-trucks/amp/",
+      "publishedDateTime": "2020-04-02T05:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e851f8c2b3ff900068e6e3c%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Starsky Robotics Shuts Down And Worries Everybody Else Will Also Fail In Robotic Trucks",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-02-deepminds-agent57-can-beat-average-humans-at-57-atari-games.md",
       "title": "DeepMind’s ‘Agent57’ Can Beat Average Humans At 57 Atari Games",
       "excerpt": "In a recent paper published by Google subsidiary, DeepMind has stated that the company has developed a new artificial intelligence — Agent57 designed to play and beat an average human at 57 classic Atari games, in the Arcade Learning environment. The system has been developed by combining deep reinforcement learning with an ML technique in ...",
@@ -811,215 +1028,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-01-30-under-30-asia-2020-the-startups-leveraging-ai-and-machine-learning-to-transform-businesses.md",
-      "title": "30 Under 30 Asia 2020: The Startups Leveraging AI And Machine Learning To Transform Businesses",
-      "excerpt": "Hyunsoo Kim, cofounder of Superb AI, has been selected as the featured honoree for the Enterprise Technology category of this year’s Forbes 30 Under 30 Asia list, leading a pack of several fellow honorees who founded startups based on AI.",
-      "heat": 94,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/johnkang/2020/04/01/30-under-30-asia-2020-the-startups-leveraging-ai-and-machine-learning-to-transform-businesses/",
-      "ampWebUrl": "https://www.forbes.com/sites/johnkang/2020/04/01/30-under-30-asia-2020-the-startups-leveraging-ai-and-machine-learning-to-transform-businesses/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkang/2020/04/01/30-under-30-asia-2020-the-startups-leveraging-ai-and-machine-learning-to-transform-businesses/amp/",
-      "publishedDateTime": "2020-04-01T14:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e709bc5e1e61700080f01bc%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "30 Under 30 Asia 2020: The Startups Leveraging AI And Machine Learning To Transform Businesses",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2020-04-01-levandowski-says-uber-must-pay-his-179-million-judgment-to-google.md",
-      "title": "Levandowski says Uber must pay his $179 million judgment to Google",
-      "excerpt": "Alphabet's huge legal battle with Uber over self-driving technology ended two years ago. But the engineer at the center of that fight, Anthony Levandowski, is still facing legal and financial ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://arstechnica.com/cars/2020/04/levandowski-says-uber-must-pay-his-179-million-judgment-to-google/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-01T14:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-01-icon-group-partners-with-varian-to-advance-cancer-care-in-the-southern-hemisphere.md",
-      "title": "Icon Group Partners with Varian to Advance Cancer Care in the Southern Hemisphere",
-      "excerpt": "This artificial intelligence (AI)-driven holistic adaptive therapy solution is designed to deliver an entire adapted treatment in a typical 15-minute timeslot. Icon Cancer Centre is part of Icon ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.asiaone.com/business/icon-group-partners-varian-advance-cancer-care-southern-hemisphere",
-      "ampWebUrl": "https://www.asiaone.com/business/icon-group-partners-varian-advance-cancer-care-southern-hemisphere?amp",
-      "cdnAmpWebUrl": "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/icon-group-partners-varian-advance-cancer-care-southern-hemisphere?amp",
-      "publishedDateTime": "2020-04-01T14:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Asia One",
-        "domain": "asiaone.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Apr2020/pr-newswire_500_4_23.jpg?itok=ksaCxlcx",
-          "width": 763,
-          "height": 509,
-          "title": "Icon Group Partners with Varian to Advance Cancer Care in the Southern Hemisphere",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-01-ai-supported-sales-reps-how-to-make-it-work.md",
-      "title": "AI-Supported Sales Reps: How To Make It Work",
-      "excerpt": "AI can help salespeople do more of what they do best, but most efforts to enable reps with AI fail. Here's why, and how to make it work for your organization.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/arunshastri/2020/04/01/ai-supported-sales-reps-how-to-make-it-work/",
-      "ampWebUrl": "https://www.forbes.com/sites/arunshastri/2020/04/01/ai-supported-sales-reps-how-to-make-it-work/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/arunshastri/2020/04/01/ai-supported-sales-reps-how-to-make-it-work/amp/",
-      "publishedDateTime": "2020-04-01T13:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1132912559%2F0x0.jpg",
-          "width": 1200,
-          "height": 720,
-          "title": "AI-Supported Sales Reps: How To Make It Work",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-01-an-interview-with-microsoft-president-brad-smith.md",
-      "title": "An interview with Microsoft President Brad Smith",
-      "excerpt": "The post An interview with Microsoft President Brad Smith appeared first on The AI Blog.\n",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.microsoft.com/en-us/research/blog/an-interview-with-microsoft-president-brad-smith/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-01T13:06:20-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.microsoft.com/en-us/research/uploads/prod/2020/03/Research_Podcast_Smith_Social_1200x627.png",
-          "width": 1200,
-          "height": 627,
-          "title": "An interview with Microsoft President Brad Smith",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

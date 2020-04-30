@@ -2,6 +2,51 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-01-22-how-machine-learning-uncovers-opportunities-for-business-optimization.md",
+      "title": "How Machine Learning Uncovers Opportunities For Business Optimization",
+      "excerpt": "With ever more data being generated across modern businesses, companies are looking for actionable intelligence to drive optimization, increase margins and avoid supply chain distributions. The sheer volume of data can make it difficult to see trends;",
+      "heat": 119,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/22/how-machine-learning-uncovers-opportunities-for-business-optimization/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/22/how-machine-learning-uncovers-opportunities-for-business-optimization/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/22/how-machine-learning-uncovers-opportunities-for-business-optimization/amp/",
+      "publishedDateTime": "2020-01-22T06:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/711x494/https://specials-images.forbesimg.com/dam/imageserve/1079012838/960x0.jpg?fit=scale",
+          "width": 711,
+          "height": 494,
+          "title": "How Machine Learning Uncovers Opportunities For Business Optimization",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-01-21-microsoft-makes-performance-speed-optimizations-to-onnx-machine-learning-runtime-available-to-developers.md",
       "title": "Microsoft makes performance, speed optimizations to ONNX machine-learning runtime available to developers",
       "excerpt": "Many of the deep learning models from Microsoft's Project Turing-- machine reading comprehension for the semantic search portion of Microsoft Search -- runs on the ONNX runtime, as well.",
@@ -1254,51 +1299,6 @@
         "AI",
         "Machine Learning",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-10-amazon-aims-to-democratize-deep-learning-with-new-library-autogluon.md",
-      "title": "Amazon aims to democratize deep learning with new library AutoGluon",
-      "excerpt": "“We developed AutoGluon to truly democratize machine learning, and make the power of deep learning available to all developers,” said Jonas Mueller, AWS applied scientist. According to ...",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://sdtimes.com/ai/amazon-aims-to-democratize-deep-learning-with-new-library-autogluon/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-10T08:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SD Times",
-        "domain": "sdtimes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/sdtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://sdtimes.com/wp-content/uploads/2020/01/download-1.png",
-          "width": 1440,
-          "height": 810,
-          "title": "Amazon aims to democratize deep learning with new library AutoGluon",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

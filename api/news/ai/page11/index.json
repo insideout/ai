@@ -2,6 +2,215 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-04-17-how-facebook-works-for-trump.md",
+      "title": "How Facebook Works for Trump",
+      "excerpt": "In the artificial-intelligence field, this system is the opposite of self-driving cars or robots or virtual assistants: a deeply boring, basically invisible application of machine learning that is dramatically reshaping our lives not someday, but right now. Facebook wired a machine into electoral decision making. Political campaigns have ceased ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.theatlantic.com/technology/archive/2020/04/how-facebooks-ad-technology-helps-trump-win/606403/",
+      "ampWebUrl": "https://amp.theatlantic.com/amp/article/606403/",
+      "cdnAmpWebUrl": "https://amp-theatlantic-com.cdn.ampproject.org/c/s/amp.theatlantic.com/amp/article/606403/",
+      "publishedDateTime": "2020-04-17T06:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Atlantic",
+        "domain": "theatlantic.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/theatlantic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.theatlantic.com/thumbor/tUyia50nMKcThmFLEx4TGD5fU-o=/0x85:2000x1210/570x321/media/img/mt/2020/04/WebArt_IanBogost_FacebookTrump_1/original.jpg",
+          "width": 570,
+          "height": 321,
+          "title": "How Facebook Works for Trump",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-17-ai-gets-into-the-fight-with-covid-19.md",
+      "title": "AI Gets Into The Fight With COVID-19",
+      "excerpt": "Recent surveys, studies, forecasts and other quantitative assessments of of AI highlight the role AI plays in fighting the Coronavirus, the business impact of AI, and what the American public feels about it.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/gilpress/2020/04/17/ai-gets-into-the-fight-with-covid-19/",
+      "ampWebUrl": "https://www.forbes.com/sites/gilpress/2020/04/17/ai-gets-into-the-fight-with-covid-19/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2020/04/17/ai-gets-into-the-fight-with-covid-19/amp/",
+      "publishedDateTime": "2020-04-17T06:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1213736109%2F0x0.jpg",
+          "width": 1199,
+          "height": 778,
+          "title": "AI Gets Into The Fight With COVID-19",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-17-teslas-acquisition-of-deepscale-starts-to-pay-off-with-new-ip-in-machine-learning.md",
+      "title": "Tesla’s acquisition of DeepScale starts to pay off with new IP in machine learning",
+      "excerpt": "Tesla’s acquisition of machine-learning startup DeepScale is starting to pay off, with the team hired through the acquisition starting to deliver new IP for the automaker. Late last year, it was revealed that Tesla acquired DeepScale, a Bay Area-based startup that focuses on “Deep Neural Network (DNN)” for self-driving vehicles ...",
+      "heat": 83,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://electrek.co/2020/04/17/tesla-acquisition-deepscale-new-ip-machine-learning/",
+      "ampWebUrl": "https://electrek.co/2020/04/17/tesla-acquisition-deepscale-new-ip-machine-learning/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/04/17/tesla-acquisition-deepscale-new-ip-machine-learning/amp/",
+      "publishedDateTime": "2020-04-17T06:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://electrek.co/wp-content/uploads/sites/3/2020/04/Screen-Shot-2020-04-17-at-5.50.22-AM-e1587128191319.jpg?quality=82&strip=all&w=600",
+          "width": 600,
+          "height": 301,
+          "title": "Tesla’s acquisition of DeepScale starts to pay off with new IP in machine learning",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-17-us-consumer-healthcare-advocacy-group-uschag-announces-partnership-with-ibm-solutions.md",
+      "title": "U.S. Consumer Healthcare Advocacy Group (USCHAG) Announces Partnership with IBM Solutions",
+      "excerpt": "utilization of artificial intelligence (AI) and IBM's Watson capabilities to effect positive and empowering change for consumers when working with the American healthcare system. In development for over a decade and Founded in 2018, USCHAG is a family of ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/u-s-consumer-healthcare-advocacy-group-uschag-announces-partnership-with-ibm-solutions/article_bd7661a1-ef09-596d-a592-242638e0c699.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-17T06:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-17-heres-how-you-get-everyone-to-buy-into-a-great-company-culture.md",
+      "title": "Here's How You Get Everyone To Buy Into A Great Company Culture",
+      "excerpt": "As a company begins to scale past 150 people, it becomes harder to create unity and keep people on the same page. Creating a healthy company culture helps attract and retain highly motivated and engaged employees.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2020/04/17/heres-how-you-get-everyone-to-buy-into-a-great-company-culture/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2020/04/17/heres-how-you-get-everyone-to-buy-into-a-great-company-culture/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbeshumanresourcescouncil/2020/04/17/heres-how-you-get-everyone-to-buy-into-a-great-company-culture/amp/",
+      "publishedDateTime": "2020-04-17T05:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbeshumanresourcescouncil%2Ffiles%2F2020%2F04%2Fa-5-2.jpg",
+          "width": 640,
+          "height": 640,
+          "title": "Here's How You Get Everyone To Buy Into A Great Company Culture",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-17-how-to-incorporate-ai-and-ml-on-a-budget-14-tips-for-businesses.md",
       "title": "How To Incorporate AI And ML On A Budget: 14 Tips For Businesses",
       "excerpt": "Follow these tips to add artificial intelligence or machine learning tech to your business without breaking the bank.",
@@ -732,14 +941,14 @@
     {
       "path": "_news/2020-04-16-pentagon-needs-tools-to-test-the-limits-of-its-artificial-intelligence-projects.md",
       "title": "Pentagon Needs Tools to Test the Limits of Its Artificial Intelligence Projects",
-      "excerpt": "The Joint Artificial Intelligence Center seeks cutting-edge evaluation capabilities to assess what systems can and can’t effectively do.",
+      "excerpt": "In a request for information this week, the Pentagon’s Joint Artificial Intelligence Center, or JAIC, seeks input on cutting-edge testing and evaluation capabilities to support the “full spectrum” of the Defense Department’s emerging AI technologies, including machine learning, deep learning and neural networks. According to the ...",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.nextgov.com/emerging-tech/2020/04/pentagon-needs-tools-test-limits-its-artificial-intelligence-projects/164687/",
+      "webUrl": "https://www.nextgov.com/emerging-tech/2020/04/pentagon-needs-tools-test-limits-its-artificial-intelligence-projects/164687/?oref=ng-skybox-lander",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-16T14:43:00-07:00",
+      "publishedDateTime": "2020-04-16T14:50:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Nextgov",
@@ -1076,221 +1285,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-16-ai-spots-critical-microsoft-security-bugs-97-of-the-time.md",
-      "title": "AI spots critical Microsoft security bugs 97% of the time",
-      "excerpt": "Microsoft isn’t the only tech giant using AI to weed out software bugs. Amazon’s CodeGuru service, which was partly trained on code reviews and apps developed internally at Amazon, spots issues including resource leaks and wasted CPU cycles. As for Facebook, it developed a tool called SapFix that generates fixes for bugs before sending them ...",
-      "heat": 97,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/16/ai-spots-critical-microsoft-security-bugs-97-of-the-time/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/16/ai-spots-critical-microsoft-security-bugs-97-of-the-time/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/16/ai-spots-critical-microsoft-security-bugs-97-of-the-time/amp/",
-      "publishedDateTime": "2020-04-16T10:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/11/microsoft-1-e1580261336710.jpg?fit=1200%2C573&strip=all",
-          "width": 1200,
-          "height": 573,
-          "title": "AI spots critical Microsoft security bugs 97% of the time",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-16-ibm-introduces-ground-breaking-ai-astronaut-assistant.md",
-      "title": "IBM introduces ground-breaking AI astronaut assistant",
-      "excerpt": "The latest version of the artificial intelligence-powered astronaut assistant, CIMON-2, powered by IBM Watson technologies, was both successfully launched (December 5, 2019) and deployed (February 2020), signifying CIMON-2's completion of the next step in its research on the effects of stress and isolation during long-term missions.",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/ibm-introduces-ground-breaking-ai-astronaut-assistant/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ibm-introduces-ground-breaking-ai-astronaut-assistant/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ibm-introduces-ground-breaking-ai-astronaut-assistant/",
-      "publishedDateTime": "2020-04-16T10:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr4.cbsistatic.com/hub/i/r/2019/11/21/74f82f4c-9bf0-45d0-b25b-dc531bda7522/thumbnail/1200x675/d6c68e9704c02b8e85ffd06c329c02c0/20191031-veronica-karen.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "IBM introduces ground-breaking AI astronaut assistant",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-16-eight-storage-requirements-for-ai-and-deep-learning.md",
-      "title": "Eight Storage Requirements for AI and Deep Learning",
-      "excerpt": "Data is the life-blood of artificial intelligence and deep learning (AI and DL). Vast quantities of training data enhance accuracy in the search for potentially predictive relationships. This paper delivers eight specific storage requirements of AI and DL applications and why they demand the data management capabilities supplied by enterprise object storage solutions.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://virtualizationreview.com/whitepapers/2020/04/cloudian-eight-storage-requirements-for-ai-and-deep-learning.aspx?admgarea=symantec&tc=page0",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-16T10:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Virtualization Review",
-        "domain": "virtualizationreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://virtualizationreview.com/~/media/ECG/VirtualizationReview/VRlogo.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": "Eight Storage Requirements for AI and Deep Learning",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-16-former-fbi-agent-of-25-years-explains-how-to-speed-read-body-languagenow-that-were-wearing-face-masks.md",
-      "title": "Former FBI agent of 25 years explains how to 'speed-read' body language—now that we're wearing face masks",
-      "excerpt": "Our facial expressions reflect our current emotional conditions. But now that many of us are required to wear face masks (to prevent the spread of coronavirus), detecting each other's thoughts and feelings can be tricky.",
-      "heat": 72,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnbc.com/2020/04/16/retired-fbi-agent-how-to-read-body-language-during-coronavirus-when-wearing-face-masks.html",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/04/16/retired-fbi-agent-how-to-read-body-language-during-coronavirus-when-wearing-face-masks.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/04/16/retired-fbi-agent-how-to-read-body-language-during-coronavirus-when-wearing-face-masks.html",
-      "publishedDateTime": "2020-04-16T10:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106490292-1586980001137gettyimages-1154813597.jpg?v=1586980056",
-          "width": 6720,
-          "height": 4480,
-          "title": "Former FBI agent of 25 years explains how to 'speed-read' body language—now that we're wearing face masks",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-16-mits-ai-suggests-that-social-distancing-works.md",
-      "title": "MIT’s AI suggests that social distancing works",
-      "excerpt": "Unlike most of the models that have so far been proposed, this one doesn’t rely on data from studies about previous outbreaks, like SARS or MERS. Instead, it taps an AI algorithm trained to capture the number of infected individuals under quarantine using the SEIR model, which groups people into classes like “susceptible,” “exposed ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/16/mits-ai-suggests-that-social-distancing-works/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/16/mits-ai-suggests-that-social-distancing-works/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/16/mits-ai-suggests-that-social-distancing-works/amp/",
-      "publishedDateTime": "2020-04-16T09:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/03/s3.reutersmedia.net_.jpg?fit=1200%2C675&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": "MIT’s AI suggests that social distancing works",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

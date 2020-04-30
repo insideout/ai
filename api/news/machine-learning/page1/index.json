@@ -1231,6 +1231,43 @@
       ]
     },
     {
+      "path": "_news/2020-04-21-deep-learning-takes-on-tumours.md",
+      "title": "Deep learning takes on tumours",
+      "excerpt": "The cell movements hold clues to how drugs or gene variants might affect the spread of tumours in the body, and he is tracking the nucleus of each cell in frame after frame of time-lapse microscopy films.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nature.com/articles/d41586-020-01128-8",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-21T03:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nature",
+        "domain": "nature.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.nature.com/lw1024/magazine-assets/d41586-020-01128-8/d41586-020-01128-8_17881098.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": "Deep learning takes on tumours",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-20-system-on-a-chip-takes-iot-processing-to-the-edge.md",
       "title": "System on a chip takes IoT processing to the edge",
       "excerpt": "A system on a chip (SOC) combines hardware and software, including components like a graphical processing unit (GPU), a central processing unit (CPU ... the way a human brain does and then further \"smartened\" with artificial intelligence (AI) that is made for use in the consumer, automotive, and industrial markets, it adds even more edge ...",
@@ -1274,51 +1311,6 @@
         "AI Hardware",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-04-20-microsoft-pairs-machine-learning-models-to-fight-software-bugs.md",
-      "title": "Microsoft pairs machine learning models to fight software bugs",
-      "excerpt": "Microsoft has been collecting 13 million work items and bugs since 2001, and used that data to create a machine learning model to fight software bugs. According to the company, the model distinguishes between security and non-security bugs 99% of the time and identify the high-priority bugs 97% of the time. “At Microsoft, 47,000 developers ...",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://sdtimes.com/msft/microsoft-pairs-machine-learning-models-to-fight-software-bugs/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-20T13:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SD Times",
-        "domain": "sdtimes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://sdtimes.com/wp-content/uploads/2018/10/artificial-neural-network-3501528_960_720.png",
-          "width": 960,
-          "height": 540,
-          "title": "Microsoft pairs machine learning models to fight software bugs",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,199 @@
   "page": 57,
   "value": [
     {
+      "path": "_news/2020-03-03-five-the-self-driving-startup-raises-41m-and-pivots-into-b2b-away-from-building-its-own-fleet.md",
+      "title": "Five, the self-driving startup, raises $41M and pivots into B2B, away from building its own fleet",
+      "excerpt": "That hard truth is leading to some shifts in the self-driving startup landscape. In the latest move, England’s Five (formerly known as FiveAI), one of the more ambitious companies in the space ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/03/03/five-the-self-driving-startup-raises-41m-and-pivots-into-b2b-away-from-building-its-own-fleet/",
+      "ampWebUrl": "https://techcrunch.com/2020/03/03/five-the-self-driving-startup-raises-41m-and-pivots-into-b2b-away-from-building-its-own-fleet/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/03/03/five-the-self-driving-startup-raises-41m-and-pivots-into-b2b-away-from-building-its-own-fleet/amp/",
+      "publishedDateTime": "2020-03-02T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2018/08/DSC04717.jpg?w=1024",
+          "width": 1024,
+          "height": 737,
+          "title": "Five, the self-driving startup, raises $41M and pivots into B2B, away from building its own fleet",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-02-novel-use-of-robotics-for-neuroendovascular-procedures.md",
+      "title": "Novel use of robotics for neuroendovascular procedures",
+      "excerpt": "Surgeons at the Sidney Kimmel Medical College at Thomas Jefferson University are pioneering the use of robotics in neuroendovascular procedures, which are performed via the blood vessels of the ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medicalxpress.com/news/2020-03-robotics-neuroendovascular-procedures.html",
+      "ampWebUrl": "https://medicalxpress.com/news/2020-03-robotics-neuroendovascular-procedures.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-03-robotics-neuroendovascular-procedures.amp",
+      "publishedDateTime": "2020-03-02T13:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-02-video-how-oneapi-is-revolutionizing-programming.md",
+      "title": "Video: How oneAPI Is Revolutionizing Programming",
+      "excerpt": "In this video, academics and industry experts weigh in on the potential of oneAPI, the new, unified software programming model for CPU, GPU, AI, and FPGA accelerators that delivers high compute performance for emerging specialized workloads across diverse ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://insidehpc.com/2020/03/video-how-oneapi-is-revolutionizing-programming/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-02T09:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "insideHPC",
+        "domain": "insidehpc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://insidehpc.com/wp-content/uploads/2020/02/wong.jpg",
+          "width": 1064,
+          "height": 980,
+          "title": "Video: How oneAPI Is Revolutionizing Programming",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-02-how-to-prepare-for-microsoft-azure-certification-ai-100-designing-and-implementing-an-azure-ai-solution.md",
+      "title": "How to prepare for Microsoft Azure certification AI-100: Designing and Implementing an Azure AI Solution?",
+      "excerpt": "Candidates design and implement AI apps and agents that use Microsoft Azure Cognitive Services and Azure Bot Service. Candidates can recommend solutions that use open source technologies.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/@caiomsouza/how-to-prepare-for-microsoft-azure-certification-ai-100-designing-and-implementing-an-azure-ai-af60b92b8068",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-02T08:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/1024/1*9ry80VYyy-_OEsrsqdR5Kw.png",
+          "width": 1024,
+          "height": 531,
+          "title": "How to prepare for Microsoft Azure certification AI-100: Designing and Implementing an Azure AI Solution?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-02-are-chinas-self-driving-cars-overtaking-us-peers.md",
+      "title": "Are China's self-driving cars overtaking US peers?",
+      "excerpt": "Is this proof that Baidu's self-driving car is better than Google's? Both companies say no. \"Waymo's position from the start -- and a growing industry consensus -- is that disengagements are not ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://asia.nikkei.com/Business/Automobiles/Are-China-s-self-driving-cars-overtaking-US-peers",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-02T07:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NIKKEI",
+        "domain": "nikkei.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fs3-ap-northeast-1.amazonaws.com%2Fpsh-ex-ftnikkei-3937bb4%2Fimages%2F4%2F8%2F9%2F0%2F25280984-6-eng-GB%2FCropped-1583135322apollo.png?source=nar-cms&width=1024&height=512&fit=cover&gravity=faces",
+          "width": 1024,
+          "height": 512,
+          "title": "Are China's self-driving cars overtaking US peers?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-02-key-takeaways-from-the-gartner-magic-quadrant-for-ai-developer-services.md",
       "title": "Key Takeaways From The Gartner Magic Quadrant For AI Developer Services",
       "excerpt": "Amazon’s investment in developer kits such as DeepLens, DeepRacer, DeepComposer is working in its favor. Google is one of the first to offer AI and AutoML services to developers and businesses.",
@@ -1088,233 +1281,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-02-28-salesforces-einstein-vision-language-services-will-get-named-entity-recognition.md",
-      "title": "Salesforce’s Einstein Vision & Language services will get named entity recognition",
-      "excerpt": "But Laraki notes that Salesforce’s goal isn’t necessarily to create the best natural language processing engine in the world. Rather, the idea is to tailor Einstein Vision & Language to customer relationship management and Salesforce clients’ needs. “This goal is very specific. We’re focused on solving problems in a way that drives ...",
-      "heat": 70,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/02/28/salesforces-einstein-vision-language-services-will-get-named-entity-recognition/",
-      "ampWebUrl": "https://venturebeat.com/2020/02/28/salesforces-einstein-vision-language-services-will-get-named-entity-recognition/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/28/salesforces-einstein-vision-language-services-will-get-named-entity-recognition/amp/",
-      "publishedDateTime": "2020-02-28T07:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2017/06/salesforce-tower-indianapolis-e1571779672792.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Salesforce’s Einstein Vision & Language services will get named entity recognition",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-28-this-startup-can-predict-heart-failure-over-the-phone-using-ai-and-speech-recognition.md",
-      "title": "This startup can predict heart failure over the phone using AI and speech recognition",
-      "excerpt": "Corti.ai aims to prevent thousands of heart failures across the US and Europe through the development of voice and pattern recognition technology.",
-      "heat": 117,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businessinsider.com/danish-startup-developed-technology-that-predicts-heart-failure-2018-5?amp%3Butm_medium=referral",
-      "ampWebUrl": "https://www.businessinsider.com/danish-startup-developed-technology-that-predicts-heart-failure-2018-5?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/danish-startup-developed-technology-that-predicts-heart-failure-2018-5?amp",
-      "publishedDateTime": "2020-02-28T06:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.insider.com/5e57f497fee23d668a393417?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": "This startup can predict heart failure over the phone using AI and speech recognition",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-02-28-how-we-educate-our-children-will-change-in-the-age-of-artificial-intelligence.md",
-      "title": "How We Educate Our Children Will Change In The Age Of Artificial Intelligence",
-      "excerpt": "In the age of artificial intelligence, technology has given us many online tools, apps, and robots to help us educate our children. But, as parents know, nothing beats one-on-one interaction between a parent and a child.",
-      "heat": 86,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/02/28/how-we-educate-our-children-will-change-in-the-age-of-artificial-intelligence/",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/02/28/how-we-educate-our-children-will-change-in-the-age-of-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/02/28/how-we-educate-our-children-will-change-in-the-age-of-artificial-intelligence/amp/",
-      "publishedDateTime": "2020-02-28T06:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1031377970%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "How We Educate Our Children Will Change In The Age Of Artificial Intelligence",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-02-28-forget-chessthe-real-challenge-is-teaching-ai-to-play-dd.md",
-      "title": "Forget Chess—the Real Challenge Is Teaching AI to Play D&D",
-      "excerpt": "This kind of spontaneous yet coherent storytelling is extremely difficult for artificial intelligence, even as AI has mastered more constrained board games such as chess and Go. The best text-generating AI programs too often produce confused and disjointed prose. So some researchers view spontaneous storytelling as a good test of progress ...",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wired.com/story/forget-chess-real-challenge-teaching-ai-play-dandd/",
-      "ampWebUrl": "https://www.wired.com/story/forget-chess-real-challenge-teaching-ai-play-dandd/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/forget-chess-real-challenge-teaching-ai-play-dandd/amp",
-      "publishedDateTime": "2020-02-28T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.vanityfair.com/photos/576c493744d93e6e4482bb21/master/pass/placeholder_the_scene.jpg",
-          "width": 800,
-          "height": 450,
-          "title": "Forget Chess—the Real Challenge Is Teaching AI to Play D&D",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-28-artificial-intelligence-ai-chipset-market-size-share-key-players-growth-drivers-business-opportunities-and-industry-forecast.md",
-      "title": "Artificial Intelligence (AI) Chipset Market Size, Share, Key Players, Growth Drivers, Business Opportunities, and industry Forecast",
-      "excerpt": "Market Highlights Artificial intelligence (AI) chipset are silicon-based chips that are integrated with devices",
-      "heat": 141,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipset-market-size-share-key-players-growth-drivers-business-opportunities-and-industry-forecast-2020-02-28",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-28T01:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Artificial Intelligence (AI) Chipset Market Size, Share, Key Players, Growth Drivers, Business Opportunities, and industry Forecast",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare",
-        "AI Hardware"
       ]
     }
   ],

@@ -2,6 +2,192 @@
   "page": 46,
   "value": [
     {
+      "path": "_news/2020-03-23-how-azure-machine-learning-service-powers-suggested-replies-in-outlook.md",
+      "title": "How Azure Machine Learning service powers suggested replies in Outlook ",
+      "excerpt": "Microsoft 365 applications are so commonplace that it’s easy to overlook some of the amazing capabilities that are enabled with breakthrough technologies, including artificial intelligence (AI). Microsoft Outlook is an email client that helps you work efficiently with email, calendar, contacts, tasks,",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://azure.microsoft.com/blog/how-azure-machine-learning-service-powers-suggested-replies-in-outlook/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-23T02:00:07-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/fc79bf49-2bc6-41e8-951f-4e43e946ab06.jpg",
+          "width": 999,
+          "height": 619,
+          "title": "How Azure Machine Learning service powers suggested replies in Outlook ",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-23-a-massive-opportunity-exists-to-build-picks-and-shovels-for-machine-learning.md",
+      "title": "A Massive Opportunity Exists To Build “Picks And Shovels” For Machine Learning",
+      "excerpt": "The reward for building the next generation of developer tools for machine learning will be many billions of dollars of enterprise value.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/robtoews/2020/03/22/a-massive-opportunity-exists-to-build-picks-and-shovels-for-machine-learning/",
+      "ampWebUrl": "https://www.forbes.com/sites/robtoews/2020/03/22/a-massive-opportunity-exists-to-build-picks-and-shovels-for-machine-learning/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2020/03/22/a-massive-opportunity-exists-to-build-picks-and-shovels-for-machine-learning/amp/",
+      "publishedDateTime": "2020-03-22T20:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F959488846%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4344%26cropY1%3D575%26cropY2%3D3017",
+          "width": 1200,
+          "height": 675,
+          "title": "A Massive Opportunity Exists To Build “Picks And Shovels” For Machine Learning",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-23-aws-announces-support-for-pytorch-with-amazon-elastic-inference.md",
+      "title": "AWS Announces Support for PyTorch with Amazon Elastic Inference",
+      "excerpt": "With Amazon’s announcement, PyTorch can now work with Amazon’s SageMaker and EC2 cloud services. PyTorch is the third major deep learning framework to be supported by Amazon Elastic Inference, following in the footsteps of TensorFlow and Apache MXNet.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.datanami.com/2020/03/23/aws-announces-support-for-pytorch-with-amazon-elastic-inference/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-22T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "datanami.com",
+        "domain": "datanami.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2020/03/shutterstock_1489195400.jpg",
+          "width": 1000,
+          "height": 667,
+          "title": "AWS Announces Support for PyTorch with Amazon Elastic Inference",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-23-robots-handle-the-tough-jobs.md",
+      "title": "Robots Handle The Tough Jobs",
+      "excerpt": "Robots can be a quick way to automate a shop, boost production, improve part handling, and free workers from back-breaking manual labor. Robots can be a quick way to automate a shop, boost ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.machinedesign.com/archive/article/21816290/robots-handle-the-tough-jobs",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-22T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Machine Design",
+        "domain": "machinedesign.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-23-some-math-behind-the-balloon-boy-story.md",
+      "title": "Some math behind the balloon boy story",
+      "excerpt": "In what represents a major advance in mind-controlled prosthetics for amputees ... intuitive control of the fingers on a robotic hand. To do this, the researchers had to develop a way to safely ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.machinedesign.com/home/article/21830196/some-math-behind-the-balloon-boy-story",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-22T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Machine Design",
+        "domain": "machinedesign.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-22-5-ai-policy-questions-our-presidential-candidates-must-address.md",
       "title": "5 AI policy questions our presidential candidates must address",
       "excerpt": "Our 2020 presidential candidates will be questioned about their stance on artificial intelligence (AI) policy, especially with regard to the job displacement AI could cause in manufacturing, transportation, and other industries. An over-regulation of AI could hand technical superiority to countries like China and Russia, leading to a ripple ...",
@@ -812,214 +998,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-20-levandowski-agrees-plea-deal-over-google-self-driving-car-secrets-theft.md",
-      "title": "Levandowski agrees plea deal over Google self-driving car secrets theft",
-      "excerpt": "Anthony Levandowski, the former head of Uber’s self-driving unit, has agreed to plead guilty to stealing trade secrets from his former employer Google before joining Uber and kickstarting the ride-sharing company’s self-driving car development. According to a statement from the US Department of Justice, Levandowski submitted documents on ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.worldipreview.com/news/levandowski-agrees-plea-deal-over-google-self-driving-car-secrets-theft-19463",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-20T06:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "World IP Review",
-        "domain": "worldipreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.worldipreview.com/media/image/shutterstock_1394391065_nycstock.jpg",
-          "width": 620,
-          "height": 400,
-          "title": "Levandowski agrees plea deal over Google self-driving car secrets theft",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-20-running-these-workloads-you-should-take-a-look-at-the-ibm-z15.md",
-      "title": "Running These Workloads? You Should Take A Look At The IBM Z15",
-      "excerpt": "Talk to any IT administrator about what they look for in a server platform and performance, openness, and security will top the list. Specifically, run my most demanding applications fast, enable my organization to support the range of workloads that power my modern business,",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2020/03/20/running-these-workloads-you-should-take-a-look-at-the-ibm-z15/",
-      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2020/03/20/running-these-workloads-you-should-take-a-look-at-the-ibm-z15/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2020/03/20/running-these-workloads-you-should-take-a-look-at-the-ibm-z15/amp/",
-      "publishedDateTime": "2020-03-20T06:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e73ebfb10380d0006bda89a%2F0x0.jpg",
-          "width": 800,
-          "height": 450,
-          "title": "Running These Workloads? You Should Take A Look At The IBM Z15",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-20-five-ways-ai-is-changing-the-game-of-content-marketing.md",
-      "title": "Five Ways AI Is Changing The Game Of Content Marketing",
-      "excerpt": "Can an individual keep up with the advancing of technology? Can a team of individuals stay up to date in today's digital-dominant world without the assistance of technology? Think of all the tasks that need to be performed before any piece of content goes live: keyword research,",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2020/03/20/five-ways-ai-is-changing-the-game-of-content-marketing/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2020/03/20/five-ways-ai-is-changing-the-game-of-content-marketing/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2020/03/20/five-ways-ai-is-changing-the-game-of-content-marketing/amp/",
-      "publishedDateTime": "2020-03-20T05:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbesagencycouncil%2Ffiles%2F2020%2F03%2F45.jpg",
-          "width": 640,
-          "height": 640,
-          "title": "Five Ways AI Is Changing The Game Of Content Marketing",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-20-coronavirus-scare-india-postpones-summit-on-ai-to-october.md",
-      "title": "Coronavirus scare: India postpones summit on AI to October",
-      "excerpt": "NEW DELHI: Worried about the rising number of cases of Covid-19, the Indian government RAISE--Responsible AI for Social Empowerment) 2020 summit on AI (Artificial Intelligence)--to 5-6 October.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.livemint.com/technology/tech-news/coronavirus-scare-india-postpones-summit-on-ai-to-october-11584706416259.html",
-      "ampWebUrl": "https://www.livemint.com/technology/tech-news/coronavirus-scare-india-postpones-summit-on-ai-to-october/amp-11584706416259.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/coronavirus-scare-india-postpones-summit-on-ai-to-october/amp-11584706416259.html",
-      "publishedDateTime": "2020-03-20T05:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2020/03/20/600x338/AI-kkGH--621x414@LiveMint_1584707001977.jpg",
-          "width": 600,
-          "height": 337,
-          "title": "Coronavirus scare: India postpones summit on AI to October",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-20-how-big-data-and-ai-are-turning-the-food-and-beverage-industry-on-its-head.md",
-      "title": "How Big Data And AI Are Turning The Food And Beverage Industry On Its Head",
-      "excerpt": "The answer to the next big food or flavor trend has had less to do with humans and more with the power of big data and artificial intelligence (AI).",
-      "heat": 85,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/03/20/how-big-data-and-ai-are-turning-the-food-and-beverage-industry-on-its-head/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/03/20/how-big-data-and-ai-are-turning-the-food-and-beverage-industry-on-its-head/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/03/20/how-big-data-and-ai-are-turning-the-food-and-beverage-industry-on-its-head/amp/",
-      "publishedDateTime": "2020-03-20T05:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F03%2Fa-37.jpg",
-          "width": 640,
-          "height": 640,
-          "title": "How Big Data And AI Are Turning The Food And Beverage Industry On Its Head",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

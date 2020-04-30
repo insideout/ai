@@ -2,6 +2,217 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2020-04-09-ai-predicts-where-coronavirus-cases-will-spike-next.md",
+      "title": "AI predicts where coronavirus cases will spike next",
+      "excerpt": "An AI has predicted which areas of the UK will suffer spikes in coronavirus cases next by analyzing social media posts about COVID-19. These posts suggest that outbreaks will soon hit Manchester, Liverpool, Oxfordshire, Leeds, Northamptonshire, and Luton. The system was created by Dataminr, a risk detection tech firm with a track record of ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/04/09/ai-predicts-where-coronavirus-cases-will-spike-next/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/04/09/ai-predicts-where-coronavirus-cases-will-spike-next/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/04/09/ai-predicts-where-coronavirus-cases-will-spike-next/amp/",
+      "publishedDateTime": "2020-04-09T09:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/04/Untitled-design57-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "AI predicts where coronavirus cases will spike next",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-09-how-microsoft-teams-will-use-ai-to-filter-out-typing-barking-and-other-noise-from-video-calls.md",
+      "title": "How Microsoft Teams will use AI to filter out typing, barking, and other noise from video calls",
+      "excerpt": "Last month, Microsoft announced that Teams, its competitor to Slack, Facebook’s Workplace, and Google’s Hangouts Chat ... But one feature, real-time noise suppression, stood out — Microsoft demoed how the AI minimized distracting background noise during a call. We’ve all been there. How many times have you asked someone to mute ...",
+      "heat": 98,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/09/microsoft-teams-ai-machine-learning-real-time-noise-suppression-typing/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/09/microsoft-teams-ai-machine-learning-real-time-noise-suppression-typing/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/09/microsoft-teams-ai-machine-learning-real-time-noise-suppression-typing/amp/",
+      "publishedDateTime": "2020-04-09T09:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/microsoft-teams-real-time-noise-suppression-chips.png?fit=2000%2C1000&strip=all",
+          "width": 2000,
+          "height": 1000,
+          "title": "How Microsoft Teams will use AI to filter out typing, barking, and other noise from video calls",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Microsoft AI",
+        "AI Hardware",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2020-04-09-orlando-police-end-test-of-amazons-real-time-facial-rekognition-system.md",
+      "title": "Orlando Police End Test Of Amazon's Real-Time Facial 'Rekognition' System",
+      "excerpt": "The city of Orlando, Fla., says it has ended a pilot program in which its police force used Amazon's real-time facial recognition — a system called \"Rekognition\" that had triggered complaints from rights and privacy groups when its use was revealed ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wgbh.org/news/national-news/2018/06/26/orlando-police-end-test-of-amazons-real-time-facial-rekognition-system",
+      "ampWebUrl": "https://www.wgbh.org/news/national-news/2018/06/26/orlando-police-end-test-of-amazons-real-time-facial-rekognition-system?_amp=true",
+      "cdnAmpWebUrl": "https://www-wgbh-org.cdn.ampproject.org/c/s/www.wgbh.org/news/national-news/2018/06/26/orlando-police-end-test-of-amazons-real-time-facial-rekognition-system?_amp=true",
+      "publishedDateTime": "2020-04-09T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WGBH",
+        "domain": "wgbh.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://wgbh.brightspotcdn.com/dims4/default/3960d7c/2147483647/strip/true/crop/1289x703+0+11/resize/990x540!/format/jpg/quality/70/?url=https%3A%2F%2Fwgbh.brightspotcdn.com%2F31%2F05%2Ff38c541872ecbe4555d2826173f0%2Forlando-traffic-cam-wide-4d242769fd25bb799656278a22eeccd635957ace.jpg",
+          "width": 990,
+          "height": 540,
+          "title": "Orlando Police End Test Of Amazon's Real-Time Facial 'Rekognition' System",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-09-intel-joins-georgia-tech-in-darpa-program-to-mitigate-machine-learning-deception-attacks.md",
+      "title": "Intel Joins Georgia Tech in DARPA Program to Mitigate Machine Learning Deception Attacks",
+      "excerpt": "Intel is the prime contractor in this four-year, multimillion-dollar joint effort to improve cybersecurity defenses against deception attacks on machine learning (ML) models. This press release features multimedia. View the full release here: https://www.businesswire.com/news/home/20200409005168/en/ Intel Labs members demonstrate an example of ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://journalstar.com/lifestyles/technology/intel-joins-georgia-tech-in-darpa-program-to-mitigate-machine-learning-deception-attacks/article_114d2da4-fffd-595a-b051-2562b0a1c18a.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-09T08:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Lincoln Journal Star",
+        "domain": "journalstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/journalstar.com/content/tncms/assets/v3/editorial/f/70/f709e77e-7284-5b9a-bc01-3169b8612fca/5e8f3cee90cb5.image.jpg?crop=728%2C410%2C0%2C118&resize=728%2C410&order=crop%2Cresize",
+          "width": 728,
+          "height": 410,
+          "title": "Intel Joins Georgia Tech in DARPA Program to Mitigate Machine Learning Deception Attacks",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-09-amazons-ai-uses-meta-learning-to-accomplish-related-tasks.md",
+      "title": "Amazon’s AI uses meta learning to accomplish related tasks",
+      "excerpt": "or learning with five examples per new task. But the researchers say those baselines were complementary to their approach, and that they believe combining approaches could yield lower error rates. “In the past decade, deep-learning systems have proven remarkably successful at many artificial-intelligence tasks, but their applications tend to ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/09/amazons-ai-taps-meta-learning-techniques-to-accomplish-related-tasks/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/09/amazons-ai-taps-meta-learning-techniques-to-accomplish-related-tasks/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/09/amazons-ai-taps-meta-learning-techniques-to-accomplish-related-tasks/amp/",
+      "publishedDateTime": "2020-04-09T08:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/12/amazon-logo-reuters.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Amazon’s AI uses meta learning to accomplish related tasks",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-09-qc-ware-wins-bpifrance-concours-dinnovation-i-nov-award-to-accelerate-quantum-machine-learning-in-france.md",
       "title": "QC Ware Wins BPIFrance Concours d'Innovation i-Nov Award to Accelerate Quantum Machine Learning in France",
       "excerpt": "PARIS and PALO ALTO, Calif., April 9, 2020 /PRNewswire/ -- QC Ware France, a wholly owned subsidiary of the quantum computing-as-a-service company QC Ware, today announced that it has been",
@@ -1051,229 +1262,6 @@
           "width": 1200,
           "height": 600,
           "title": "Researchers open-source state-of-the-art object tracking AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-08-using-cloudfront-to-secure-your-web-applications.md",
-      "title": "Using CloudFront to secure your web applications",
-      "excerpt": "Cybersecurity is a hot topic now. If you search on Google about how to protect your website, you may find many buzzwords, IDS, IPS, WAF, DDoS, Proxy, you name it. You may think protecting your ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/swlh/using-aws-to-secure-your-web-applications-3bd363206875",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-08T13:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/1200/1*ner-yFUzwHIG_nkxW9C29g.png",
-          "width": 1200,
-          "height": 675,
-          "title": "Using CloudFront to secure your web applications",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-08-storytelling-diversity-the-ai-edge-in-la.md",
-      "title": "Storytelling & Diversity: The AI Edge In LA",
-      "excerpt": "LA is known as the land of storytellers, but when it comes to its own story, the entertainment business is still front and center. In fact, LA has been at the core of a flourishing AI scene for decades.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/04/08/ai-edge-la/",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/04/08/ai-edge-la/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/04/08/ai-edge-la/amp/",
-      "publishedDateTime": "2020-04-08T12:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e8e1eabfc5d3f00067c5eba%2F0x0.jpg",
-          "width": 978,
-          "height": 1037,
-          "title": "Storytelling & Diversity: The AI Edge In LA",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-08-how-ai-is-helping-scientists-in-the-fight-against-covid-19-from-robots-to-predicting-the-future.md",
-      "title": "How AI is helping scientists in the fight against COVID-19, from robots to predicting the future",
-      "excerpt": "“AI is playing numerous roles, all of which are important based on where we are in the pandemic cycle,” the two told GeekWire in an email. “But what if the virus could have been contained?” Canadian health surveillance startup BlueDot was among the first in the world to identify the COVID-19 risk and accurately predict its ...",
-      "heat": 103,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.geekwire.com/2020/ai-helping-scientists-fight-covid-19-robots-predicting-future/",
-      "ampWebUrl": "https://www.geekwire.com/2020/ai-helping-scientists-fight-covid-19-robots-predicting-future/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/ai-helping-scientists-fight-covid-19-robots-predicting-future/amp/",
-      "publishedDateTime": "2020-04-08T12:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2019/02/190210-ai-630x420.jpg",
-          "width": 630,
-          "height": 420,
-          "title": "How AI is helping scientists in the fight against COVID-19, from robots to predicting the future",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-04-08-google-releases-api-to-train-smaller-faster-ai-models.md",
-      "title": "Google releases API to train smaller, faster AI models",
-      "excerpt": "The QAT API solves this by simulating low-precision computation during the AI model training process. Quantization error is introduced as noise throughout the training, which QAT API’s algorithm tries to minimize such that it learns variables more robust to quantization. A training graph leverages operations that convert floating-point ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/08/google-releases-api-to-train-smaller-faster-ai-models/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/08/google-releases-api-to-train-smaller-faster-ai-models/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/08/google-releases-api-to-train-smaller-faster-ai-models/amp/",
-      "publishedDateTime": "2020-04-08T11:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/06/tensorflow.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Google releases API to train smaller, faster AI models",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-08-coronavirus-crisis-gives-an-opportunity-for-ai-to-shine.md",
-      "title": "Coronavirus crisis gives an opportunity for AI to shine",
-      "excerpt": "SEE: Coronavirus: Critical IT policies and tools every business needs (TechRepublic Premium) It seems that artificial intelligence (AI) and machine learning (ML) have important roles to play as physicians, hospitals, pharmaceutical companies, and others directly engaged in the coronavirus fight try to find rapid therapeutic and containment answers.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/coronavirus-crisis-gives-an-opportunity-for-ai-to-shine/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/coronavirus-crisis-gives-an-opportunity-for-ai-to-shine/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/coronavirus-crisis-gives-an-opportunity-for-ai-to-shine/",
-      "publishedDateTime": "2020-04-08T11:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/04/08/0f2c7dfc-c9c7-468a-a36d-eafc5cc75256/resize/1200x/48d39f57b6e8ab042b8f7759922c32a7/istock-1204743045.jpg",
-          "width": 1200,
-          "height": 654,
-          "title": "Coronavirus crisis gives an opportunity for AI to shine",
           "attribution": null
         }
       ],

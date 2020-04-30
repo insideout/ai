@@ -2,6 +2,51 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-02-24-oracle-cloud-infrastructure-finally-gets-data-science-and-ml-services.md",
+      "title": "Oracle Cloud Infrastructure Finally Gets Data Science And ML Services",
+      "excerpt": "Even though Oracle is late to the ML PaaS party, it has unique capabilities in the form of AutoML integration with the data warehouse, model explainability, and comprehensive model management.",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/janakirammsv/2020/02/24/oracle-cloud-infrastructure-finally-gets-data-science-and-ml-services/",
+      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2020/02/24/oracle-cloud-infrastructure-finally-gets-data-science-and-ml-services/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2020/02/24/oracle-cloud-infrastructure-finally-gets-data-science-and-ml-services/amp/",
+      "publishedDateTime": "2020-02-24T01:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e53690dd378190007f41e90%2F0x0.jpg",
+          "width": 682,
+          "height": 365,
+          "title": "Oracle Cloud Infrastructure Finally Gets Data Science And ML Services",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-02-22-machine-learning-chips-market-overview-technology-details-2020.md",
       "title": "Machine Learning Chips Market Overview, Technology Details 2020",
       "excerpt": "Latest Trends Report On Global Machine Learning Chips Market 2020 with Upcoming Industry Trends, Size, Share, Top Companies Profiles, Growth Report and Forecast By 2026. Machine Learning Chips Market is a valuable source of insightful data for business strategists.",
@@ -1226,51 +1271,6 @@
         "authors": null
       },
       "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-02-14-nvidia-shares-surge-on-signs-of-a-machine-learning-boom.md",
-      "title": "Nvidia shares surge on signs of a machine learning boom",
-      "excerpt": "Nvidia stunned analysts with strong quarterly results and joined rivals Intel and Advanced Micro Devices in predicting strong demand for chips used in data centers and A.I.",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnbc.com/2020/02/14/nvidia-nvda-earnings-q4-2020.html",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/02/14/nvidia-nvda-earnings-q4-2020.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/02/14/nvidia-nvda-earnings-q4-2020.html",
-      "publishedDateTime": "2020-02-14T06:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/105398954-1534357352806rts1xdsi.jpg?v=1534357453",
-          "width": 3846,
-          "height": 2564,
-          "title": "Nvidia shares surge on signs of a machine learning boom",
-          "attribution": null
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"

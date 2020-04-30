@@ -2,6 +2,43 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-04-01-deal-looking-for-an-exciting-cutting-edge-career-dive-into-artificial-intelligence.md",
+      "title": "Deal: Looking for an exciting, cutting-edge career? Dive into Artificial Intelligence",
+      "excerpt": "Artificial intelligence is just starting to break out into the mainstream through applications like self driving cars and analytical software. If you want to dive into an exciting career field ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://pocketnow.com/artificial-intelligence-deal",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-01T09:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pocketnow.com",
+        "domain": "pocketnow.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://pocketnow.com/wp/../files/2016/07/PN-Complete-Machine-Learning-Bundle.jpg",
+          "width": 760,
+          "height": 473,
+          "title": "Deal: Looking for an exciting, cutting-edge career? Dive into Artificial Intelligence",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-01-latin-america-self-driving-car-market-overview-and-scope-industry-outlook-size-forecast-2018-2023.md",
       "title": "Latin America Self-driving Car Market Overview and scope, Industry Outlook, Size & Forecast 2018-2023",
       "excerpt": "A self-driving car, also known as the driverless car or an autonomous car or robotic car uses a combination of cameras, radars sensor, GPS system and artificial intelligence (AI) to travel between ...",
@@ -1170,51 +1207,6 @@
           "width": 1200,
           "height": 630,
           "title": "Global and China HD Map Industry Report, 2019-2020",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-24-nvidia-leads-in-self-driving-car-technology-report.md",
-      "title": "NVIDIA Leads in Self-Driving Car Technology: Report",
-      "excerpt": "A mass rollout of self-driving cars is still years away, but more than 70 companies around the world are investing heavily in the technology. These companies span legacy automakers, suppliers, start-ups, and tech giants. Every year, Navigant Research releases a report that ranks the top vendors who are developing automated vehicle (AV ...",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.fool.com/investing/2020/03/24/nvidia-leads-in-self-driving-car-technology-report.aspx",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/03/24/nvidia-leads-in-self-driving-car-technology-report.aspx",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/03/24/nvidia-leads-in-self-driving-car-technology-report.aspx",
-      "publishedDateTime": "2020-03-24T11:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F564943%2Fnvidia-self-driving-car.png&w=1200&op=resize",
-          "width": 1200,
-          "height": 631,
-          "title": "NVIDIA Leads in Self-Driving Car Technology: Report",
           "attribution": null
         }
       ],

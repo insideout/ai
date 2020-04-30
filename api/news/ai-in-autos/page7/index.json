@@ -2,6 +2,35 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-03-09-autonomous-and-self-driving-vehicle-news-baidu-spoofed-waymo-cmore.md",
+      "title": "Autonomous and Self-Driving Vehicle News; Baidu Spoofed, Waymo & CMORE",
+      "excerpt": "That’s all you need to get the sensor mixed up, report the researchers that broke into Baidu Apollo. “We showed how an attacker can suddenly halt ... which fills a crucial safety role in self-driving vehicles. In the U.S. each year, there are more than 1.5 million deer-related accidents, which cause around 200 human deaths and 10,000 ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.autoconnectedcar.com/2020/03/autonomous-and-self-driving-vehicle-news-baidu-spoofed-waymo-cmore/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-08T19:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "autoconnectedcar.com",
+        "domain": "autoconnectedcar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-09-getting-there-americans-remain-leery-of-self-driving-cars.md",
       "title": "GETTING THERE: Americans remain leery of self-driving cars",
       "excerpt": "WHILE the push continues for a future where self-driving cars are the norm, at present we humans seem averse to sharing the road with artificial intelligence. And that’s saying a lot, given the proliferation of bad and dangerous drivers on the roads.",
@@ -1183,51 +1212,6 @@
           "width": 1775,
           "height": 1080,
           "title": "China delays self-driving car deployment goal to 2025",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-02-24-mit-csails-radars-map-hidden-features-to-help-driverless-cars-navigate-snowy-terrain.md",
-      "title": "MIT CSAIL’s radars map hidden features to help driverless cars navigate snowy terrain",
-      "excerpt": "Plus, bad weather has a tendency to obscure road signage and structures that normally serve as navigational landmarks. Fortunately, researchers at MIT’s Computer Science and Artificial Intelligence Laboratory and Lincoln Laboratory are on the case. In a paper that will be published in the journal IEEE Robotics and Automation Letters later ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/02/23/mit-csails-ground-penetrating-radars-map-underground-features-to-help-driverless-cars-navigate-snowy-terrain/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-23T21:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/02/1MIT-CSAILs-car-in-the-snow-from-the-back-credit-MIT-CSAIL-e1582233935856.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "MIT CSAIL’s radars map hidden features to help driverless cars navigate snowy terrain",
           "attribution": null
         }
       ],
