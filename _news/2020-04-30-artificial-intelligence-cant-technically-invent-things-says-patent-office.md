@@ -8,7 +8,7 @@ ampWebUrl: "https://fox59.com/news/national-world/artificial-intelligence-cant-t
 cdnAmpWebUrl: "https://fox59-com.cdn.ampproject.org/c/s/fox59.com/news/national-world/artificial-intelligence-cant-technically-invent-things-says-patent-office/amp/"
 type: article
 quality: 57
-heat: 57
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,23 @@ images:
     height: 720
     title: "Artificial intelligence can’t technically invent things, says patent office"
 
-secured: "aEs7FxauEfoNJaMwXihK6IJ3tcEEc3K4opdZNFnZf1B2XbmGyINLQBOYAYDqqA4tYaFpGRoT4RrCUZCm2jZotf+qflt7ebUvKmaM3+e4eBWYbQfKsyQTs85XQ+VhTYaI7SkfpyceNH0je3eZSBs4UtdWhuQj8huyaoyrIH6ew+rchF9s13Bm+GZq9xf0UmLjMJ3/LVvesm7qi0oMXFfXjuqlBtgQ63DMqD/rRdpZhLy4GQLf4gmSD/FTWvE8YpgG728h4Ny0Qyp2eldRzWVoc3els0a6Lr+KDi9qO2+c2s+u7ReBsHnIoeoK1Nj4By/F;yKNT2YIOGGslZhWgkNoyEQ=="
+related:
+  - title: "Patent office: Artificial intelligence can’t invent things"
+    excerpt: "Artificial intelligence is the future. If “Westworld” or “Black Mirror” are to be believed, there will soon come a day when the computers rule us all. But for now, an"
+    publishedDateTime: 2020-04-30T11:36:00Z
+    webUrl: "https://cbs4indy.com/news/national-world/patent-office-artificial-intelligence-cant-invent-things/"
+    ampWebUrl: "https://cbs4indy.com/news/national-world/patent-office-artificial-intelligence-cant-invent-things/amp/"
+    cdnAmpWebUrl: "https://cbs4indy-com.cdn.ampproject.org/c/s/cbs4indy.com/news/national-world/patent-office-artificial-intelligence-cant-invent-things/amp/"
+    type: article
+    provider:
+      name: WTTV
+      domain: cbs4indy.com
+    quality: 63
+    images:
+      - url: "https://cbs4indy.com/wp-content/uploads/sites/22/2020/04/GettyImages-476176424.jpg?w=1024&h=683&crop=1&resize=1280,720"
+        width: 1280
+        height: 720
+
+secured: "hxdjM52RGMnu00JVFRUABzakinNDy72yVp3duHX3Uz+JRiXBLERTbicSwR3nXtcGvcOES34LnHySQFRiAahiP+5sWEZA9zpuLMUoF2aNYDIasDMI0FKMAESz9rkDTLob7GZ4bwfyl2dRsQj5Yt+OlLl2Bsvfa+lE/WgVfph1lOQVMRySAQYluq7XJuFGW4R6fbVJrN+zLsGGlh40Yp4VJMMCnN+fJDR6y9ZxxV+Ei74mlq055GPdwmRXSWhlXgSb8GyFfPgfG71MWP73JGsjT7is4jsaTgPYgy2UmmXdIY5XEpjUgOCyFZaK0TGuP7QW;XNlju8NHmaD9lnQiwXqNGA=="
 ---
 
