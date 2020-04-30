@@ -6,7 +6,7 @@ publishedDateTime: 2020-04-30T10:53:00Z
 webUrl: "https://www.finextra.com/blogposting/18707/data-science-amp-machine-learning-with-java"
 type: article
 quality: 41
-heat: 41
+heat: -1
 published: false
 
 provider:
@@ -33,7 +33,7 @@ related:
     provider:
       name: Finextra
       domain: finextra.com
-    quality: 24
+    quality: 41
     images:
       - url: "https://media-exp1.licdn.com/dms/image/C4E12AQEujk0HaAoU6g/article-inline_image-shrink_1500_2232/0?e=1593648000&v=beta&t=FV4ND0-T6FMddhWgOfVuiiqcoplSruzfGq0e0pI_oBQ"
         width: 1514

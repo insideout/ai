@@ -5,8 +5,8 @@ excerpt: "The blogosphere is full of descriptions about how data science and “
 publishedDateTime: 2020-04-30T14:13:00Z
 webUrl: "https://www.finextra.com/blogposting/18707/data-science-and-machine-learning-with-java"
 type: article
-quality: 24
-heat: -1
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - AI in Finance
   - AI
+  - Machine Learning
 
 images:
   - url: "https://media-exp1.licdn.com/dms/image/C4E12AQEujk0HaAoU6g/article-inline_image-shrink_1500_2232/0?e=1593648000&v=beta&t=FV4ND0-T6FMddhWgOfVuiiqcoplSruzfGq0e0pI_oBQ"
