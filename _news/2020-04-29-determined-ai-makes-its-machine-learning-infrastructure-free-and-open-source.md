@@ -7,8 +7,8 @@ webUrl: "https://techcrunch.com/2020/04/29/determined-ai-makes-its-machine-learn
 ampWebUrl: "https://techcrunch.com/2020/04/29/determined-ai-makes-its-machine-learning-infrastructure-free-and-open-source/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/29/determined-ai-makes-its-machine-learning-infrastructure-free-and-open-source/amp/"
 type: article
-quality: 84
-heat: 84
+quality: 101
+heat: 101
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://techcrunch.com/wp-content/uploads/2019/06/GettyImages-1031459542.jpg?w=1024"
@@ -28,6 +29,6 @@ images:
     height: 660
     title: "Determined AI makes its machine learning infrastructure free and open source"
 
-secured: "XadjACFvQdhO13j/M9D6HAVofD3KEhNgzPLq5qVK6v0xSYSLhYX5g0vC39iT6iHH9cLCEZ2FLs01bs6AdcWpgWYODZMFVeYtCuNCw0pa46QjHnMmrJWQSz9tHPAvO4jcgJyPfhXXOyn3jBZbUogoNO41nVCxGlT/0hxOcuHBj2uUdmcbO1udW/oRdP7n9hlS8STaWL5Sdgy/U3FP6FSF8vu+dwPJ9Xi8ADMuIltCyNoNP6V9C78goBt0RJ+2lbBqupC9csOZDTFD3kVEr80TWIyqKWp+IKl3r40JSat1ruoftyquBSSrG1NR8vZy2/k/Z2IVQxSRofmtK03cd538wcip3g0CUd8MoB8tQldYiCYefKpuEWfTXcmRpX+zcHDO+C3ASc5bKaDv3GJcf8gpUdrU8fNb9mNB6rxB324qmCG/jUMBBO6m8QpeGv0VU4YMvDJr8Udneqpt782ndvuQ0DIeAfFH0dJJuBxB+5NA2JY=;FZt0Dt9iuM1yU2lLB0w2xA=="
+secured: "Voreo3Wb3eFeFScejC+66g1QnxffzT3x2aUPM4MSeIqZPKh6w0DUOjmQh8LYAsbbiNOhI/osq1PJN+yBw7dUCKmoKbMzQWmMYhGPYsF7/Zm40j1dKM+JbFTpng3x30/a1Eoctp3YHaTMYEnsDwQ9Qc15yKMrpNJw8WgybPifonwYQHiWyGOIz/ahy9EC/6KPKauva2fGRGGdSfddUwvgOi8vUMtzH7VnVrleFWJtAp6iD0Z+FTx3+kxPja30lKBbtBC8IukriKUMHvouGLpGM2KlS/xnOzedDNXMa+MOoDFVZDLpuG4N/2n+lEMiEkngcwG6aNPSkDr0USuMRAd05dZbCdJOQjjul5rgid306vfVw/oQZuEFI5MQcQhtO3GoJrtzVXaxCCoCnUKJ90cJXEY1oZz0a/9olxkNjdkoSuBJ5pD5hPdenThz3y8hSXKKI2Zc886dc/iuq5DbRipjkyxB0iI1hMJxGD396u9BBso=;jxAIV2mlmluMebGM7JkfDA=="
 ---
 

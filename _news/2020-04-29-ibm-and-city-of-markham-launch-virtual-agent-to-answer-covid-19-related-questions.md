@@ -6,7 +6,7 @@ publishedDateTime: 2020-04-29T21:16:00Z
 webUrl: "https://www.itworldcanada.com/article/ibm-and-city-of-markham-launch-virtual-agent-to-answer-covid-19-related-questions/430044"
 type: article
 quality: 19
-heat: 19
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,19 @@ images:
     title: "IBM and City of Markham launch virtual agent to answer COVID-19-related questions"
 
 related:
+  - title: "City of Markham launches IBM virtual agent ‘Watson’ to answer COVID-19 questions"
+    excerpt: "New Artificial Intelligence (AI) service ‘critical and necessary tool’ during pandemic state of emergency: Mayor Frank Scarpitti"
+    publishedDateTime: 2020-04-30T01:14:00Z
+    webUrl: "https://www.yorkregion.com/news-story/9965172-city-of-markham-launches-ibm-virtual-agent-watson-to-answer-covid-19-questions/"
+    type: article
+    provider:
+      name: YorkRegion
+      domain: yorkregion.com
+    quality: 34
+    images:
+      - url: "https://media2.zuza.com/4/9/492df8d1-4af1-41fa-bdc1-130048ba0b7d/M_Watson04-29.jpg"
+        width: 1976
+        height: 1279
   - title: "IBM and City of Markham launch virtual agent for COVID-19 related questions"
     excerpt: "New service uses Artificial Intelligence (AI) and machine learning to provide an enhanced user experience and keep residents safe during pandemic"
     publishedDateTime: 2020-04-29T13:21:00Z

@@ -2,6 +2,43 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-04-01-googles-deepmind-agent57-ai-masters-classic-atari-games-like-pitfall-and-solaris.md",
+      "title": "Google's DeepMind Agent57 AI Masters Classic Atari Games Like Pitfall And Solaris",
+      "excerpt": "We’ve seen Alphabet/Google’s DeepMind AI crush human opponents in games like StarCraft II, but now the team is going back in time to tackle games from 4 decades ago. Dubbed Agent57, this new AI is gaining attention for learning how to play a total of – you guessed it – 57 Atari 2600 games. The DeepMind team often looks to existing games ...",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://hothardware.com/news/deepmind-agent57-ai-can-now-master-classic-atari-games-like-pitfall-and-solaris",
+      "ampWebUrl": "https://amp.hothardware.com/news/deepmind-agent57-ai-can-now-master-classic-atari-games-like-pitfall-and-solaris",
+      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/deepmind-agent57-ai-can-now-master-classic-atari-games-like-pitfall-and-solaris",
+      "publishedDateTime": "2020-04-01T12:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HotHardware",
+        "domain": "hothardware.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.hothardware.com/contentimages/newsitem/51219/content/atari_deepmind.jpg",
+          "width": 708,
+          "height": 509,
+          "title": "Google's DeepMind Agent57 AI Masters Classic Atari Games Like Pitfall And Solaris",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-01-deepminds-new-ai-can-beat-humans-at-57-atari-games.md",
       "title": "DeepMind’s new AI can beat humans at 57 Atari games",
       "excerpt": "Google subsidiary DeepMind has unveiled an AI called Agent57 that can beat the average human at 57 classic Atari games. The system achieved this feat using deep reinforcement learning, a machine learning technique that helps an AI improve its decisions by trying out different approaches and learning from its mistakes. DeepMind used the same ...",
@@ -1158,43 +1195,6 @@
         "Google AI",
         "AI",
         "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2020-03-13-week-in-review-design-low-power.md",
-      "title": "Week In Review: Design, Low Power",
-      "excerpt": "Synopsys revealed DSO.ai (Design Space Optimization AI), an autonomous AI application that searches for optimization targets in very large solution spaces of chip design, inspired by the process of DeepMind’s game-playing AlphaZero. DSO.ai engines ingest ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://semiengineering.com/week-in-review-design-low-power-85/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-13T00:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Semiconductor Engineering",
-        "domain": "semiengineering.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i0.wp.com/semiengineering.com/wp-content/uploads/2019/05/iStock-509646667-brainchip.jpg?fit=663%2C527&#038;ssl=1",
-          "width": 663,
-          "height": 527,
-          "title": "Week In Review: Design, Low Power",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
       ]
     }
   ],

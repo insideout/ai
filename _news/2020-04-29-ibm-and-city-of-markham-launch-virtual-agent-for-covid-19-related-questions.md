@@ -18,6 +18,19 @@ topics:
   - AI
 
 related:
+  - title: "City of Markham launches IBM virtual agent ‘Watson’ to answer COVID-19 questions"
+    excerpt: "New Artificial Intelligence (AI) service ‘critical and necessary tool’ during pandemic state of emergency: Mayor Frank Scarpitti"
+    publishedDateTime: 2020-04-30T01:14:00Z
+    webUrl: "https://www.yorkregion.com/news-story/9965172-city-of-markham-launches-ibm-virtual-agent-watson-to-answer-covid-19-questions/"
+    type: article
+    provider:
+      name: YorkRegion
+      domain: yorkregion.com
+    quality: 34
+    images:
+      - url: "https://media2.zuza.com/4/9/492df8d1-4af1-41fa-bdc1-130048ba0b7d/M_Watson04-29.jpg"
+        width: 1976
+        height: 1279
   - title: "IBM and City of Markham launch virtual agent to answer COVID-19-related questions"
     excerpt: "The City of Markham says it’s the first government body in Canada to leverage one of IBM’s unique AI solutions after it"
     publishedDateTime: 2020-04-29T21:16:00Z
