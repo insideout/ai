@@ -3,12 +3,12 @@ category: news
 title: "MEGVII, Iflytek Appear In Taobao Creation Festival, WIMI Develops Its AI Face Holographic Cloud Service"
 excerpt: "Taobao Festival is finally coming! In Hangzhou Boiler factory full of hard core industry wind, there are not only super hi playing methods such as artificial"
 publishedDateTime: 2020-05-01T02:07:00Z
-webUrl: "https://www.benzinga.com/pressreleases/20/04/ab15929960/megvii-iflytek-appear-in-taobao-creation-festival-wimi-develops-its-ai-face-holographic-cloud-ser"
-ampWebUrl: "https://amp.benzinga.com/amp/content/15929960"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15929960"
+webUrl: "https://www.benzinga.com/pressreleases/20/04/ab15929936/megvii-iflytek-appear-in-taobao-creation-festival-wimi-develops-its-ai-face-holographic-cloud-ser"
+ampWebUrl: "https://amp.benzinga.com/amp/content/15929936"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15929936"
 type: article
-quality: 43
-heat: 43
+quality: 45
+heat: 45
 published: false
 
 provider:
@@ -16,8 +16,9 @@ provider:
   domain: benzinga.com
 
 topics:
-  - Computer Vision
+  - Natural Language Processing
   - AI
+  - Computer Vision
 
 images:
   - url: "https://i.ibb.co/DDmnR21/1.png"
@@ -25,6 +26,6 @@ images:
     height: 267
     title: "MEGVII, Iflytek Appear In Taobao Creation Festival, WIMI Develops Its AI Face Holographic Cloud Service"
 
-secured: "dZ6tvSZZ70c6/kaz0DMqF7ixbfjqbEmG7k0TxYcikp1VBSPfAWUY6j3e1Kd6KG0PMOjvchUKqOi6YRjFh4zQnc5KFpV7noT0iqGa8iN4rF8jWqqATN0YHrIw7mVNpD1lxuQgLLS5/e+oJ9Rtlr3vw4t8ze6v6/9kkNhbkyIMmS7d1m7Lv5wO6Q1KWqEEyB1k97CNruGMKWAzBd4asn9ZD17HRLaEu5wuwLnvdQd4wQPmjJ2bJ93dnepVt7LP7uTLo57Uo4de6z0zpE7Bk8WvN5lEcdyhh4AzhqPuTb5EmCKNyjWl752emsM2ajQ3GG52;rX0BG0Ugwk4FG3gQfpeJ/A=="
+secured: "RGP7xDWGXxcW8s4pYlBNwuWc/pVYJZw2VOowL5R9GWMP9Yb2Bw+Y+MIBhAXjj7m/rV2l73TQMxVghf1YLqpZjUdLEbOa+fSNnIYUlcxJ1ijgwBVYA8sPvwwh1PWSiwaBoupKmddZHBhurj3jmHGdesfaj3QKbmjB/dxIoKFS8YSWwZmw3jjQIG0rr9NZbU0egO1TONbaKPw5exJuDQN9FLTVXuyn1+iYm04WKv/1/vbvNepSvEcDTPrQMZaQqVN6c1Xqg6VfFiI81AaELdc3oPj7M2BOEFO6ur7yac+mPR+ET1OsfV8pEgt8GNAKRjdr;A5MzGngmA6gguikUQU5BNw=="
 ---
 

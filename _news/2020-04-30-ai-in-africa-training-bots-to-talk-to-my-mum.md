@@ -32,15 +32,15 @@ images:
 related:
   - title: "AI in Africa: Teaching a bot to read my mum's texts"
     excerpt: "How African researchers are using the continent's languages to help spur innovation in Artificial Intelligence."
-    publishedDateTime: 2020-04-30T12:24:00Z
-    webUrl: "https://www.bbc.co.uk/news/world-africa-52411797"
-    ampWebUrl: "https://www.bbc.co.uk/news/amp/world-africa-52411797"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/world-africa-52411797"
+    publishedDateTime: 2020-04-30T12:47:00Z
+    webUrl: "https://www.bbc.com/news/world-africa-52411797"
+    ampWebUrl: "https://www.bbc.com/news/amp/world-africa-52411797"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-africa-52411797"
     type: article
     provider:
       name: BBC
-      domain: bbc.co.uk
-    quality: 59
+      domain: bbc.com
+    quality: 87
     images:
       - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/FD69/production/_112037846_img_20180827_082945_171.jpg"
         width: 1024

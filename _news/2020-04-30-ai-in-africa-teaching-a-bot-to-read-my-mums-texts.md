@@ -2,21 +2,24 @@
 category: news
 title: "AI in Africa: Teaching a bot to read my mum's texts"
 excerpt: "How African researchers are using the continent's languages to help spur innovation in Artificial Intelligence."
-publishedDateTime: 2020-04-30T12:24:00Z
-webUrl: "https://www.bbc.co.uk/news/world-africa-52411797"
-ampWebUrl: "https://www.bbc.co.uk/news/amp/world-africa-52411797"
-cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/world-africa-52411797"
+publishedDateTime: 2020-04-30T12:47:00Z
+webUrl: "https://www.bbc.com/news/world-africa-52411797"
+ampWebUrl: "https://www.bbc.com/news/amp/world-africa-52411797"
+cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-africa-52411797"
 type: article
-quality: 59
+quality: 87
 heat: -1
 published: false
 
 provider:
   name: BBC
-  domain: bbc.co.uk
+  domain: bbc.com
+  images:
+    - url: "https://insideout.app/ai/assets/images/organizations/bbc.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - Natural Language Processing
   - AI
 
 images:
@@ -42,6 +45,6 @@ related:
         width: 1024
         height: 576
 
-secured: "f6CB959lF/AdkrLG/oGNpO1Uvl9np0Qdkpsnfw/hFYNpyv6/YeksBR6mxnXmB1CBrHDh6An9MZfj8p83EIKFnflbNMhUYWpfuEoN5rC56hcfdTF0DxpjOnupMke60wG/Op0b0D4vCAMjd89roZ7otJbFQfRPlJve1ZEPmQb4q7wXiKs/8lcX/ijsepNskL5VfqzaS0NnRNYwj/k4ENXAsMYtSarLwIklA3nLlH9GZW9br4OJ+xFFlw67mS1v5Jv2k5nj3Chfsk/CtDNAnlbp1cJdRfWHGuT4Oa/ihPdNGw9bUVIk82J082iIz0Uo1AF1VBB06nH27ZrU9QSnOlzZhSkyReUv1IMYu1FTjmPfSR5NzuhXv37hhojS7EdqW3FHGBsgkmXiVKpxIoJNN7BVCs3qEdVvu/W21I1j23ksuEqOyT8EdqnrDlddvUZYQ1MpQ/ByZwxyPa5lNNjF2/ccl40aEWxy2JZ0s0UdiTzSX8Y=;TSN++MSKd5GSv/kpE9q6/Q=="
+secured: "sps/yN69LxQiWSYlGljkBqreZvr/N7l29u6ASeAQsuBpSvyNuNCelRzpPHhpvras0iMmxIi9QsmvqX9Iev4ZBpVuuBmyREiEy5+fP/mqGuFhEUZw1uCoA46bJ3QfTjabQR1FiIoqZdcGioxB8CU8Ze2506o0NntdQ/J0cWQaQoI5AmEKNJPgRL8blT+VLWRUsD335itJra21+AyrmAw7um/06Kz0GlTmRfpMWhrnR3ToFUGo08D/Rurux6UbdSV0gqAydV8Szg1Zas0YVmQcQ0n3rfyuzwUSu0m6Iqq7eDYEYV2iGmhjoW9Xm1IJQCkn;B5SK+Mf1IP6oQYTVbfHmow=="
 ---
 

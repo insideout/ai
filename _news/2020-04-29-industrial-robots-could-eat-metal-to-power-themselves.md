@@ -2,18 +2,18 @@
 category: news
 title: "Industrial robots could 'eat metal' to power themselves"
 excerpt: "Scavenging energy by foraging for metal could power Internet of Things electronics and robots, suggest researchers at University of Pennsylvania."
-publishedDateTime: 2020-04-29T21:41:00Z
-webUrl: "https://www.networkworld.com/article/3540194/industrial-robots-could-eat-metal-to-power-themselves.html"
-ampWebUrl: "https://www.networkworld.com/article/3540194/industrial-robots-could-eat-metal-to-power-themselves.amp.html"
-cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3540194/industrial-robots-could-eat-metal-to-power-themselves.amp.html"
+publishedDateTime: 2020-04-29T21:40:00Z
+webUrl: "https://www.itworld.com/article/3540194/industrial-robots-could-eat-metal-to-power-themselves.html"
+ampWebUrl: "https://www.itworld.com/article/3540194/industrial-robots-could-eat-metal-to-power-themselves.amp.html"
+cdnAmpWebUrl: "https://www-itworld-com.cdn.ampproject.org/c/s/www.itworld.com/article/3540194/industrial-robots-could-eat-metal-to-power-themselves.amp.html"
 type: article
 quality: 59
 heat: 59
 published: false
 
 provider:
-  name: Network World
-  domain: networkworld.com
+  name: ITworld
+  domain: itworld.com
 
 topics:
   - AI in Robotics
@@ -25,6 +25,6 @@ images:
     height: 800
     title: "Industrial robots could 'eat metal' to power themselves"
 
-secured: "QZOWkmIeeQ+yQT/hYoyvWUQ30Da5vBVk8FutU4Ts0QCuvYBEsP0jNp1VxF9/6HJrZ5Ae5HZtdtaoSL7upDsSJR3Q/si3edaB9S7xdZYjihGnTahnpYOZTwLxsqi1uPHZ4X/Z5dFImkYZDnbo6i0rO6D0GnB83Wk6Aeegw8j3gy36jMNi1kGOWvvjATZYFIOQe7Ey4h6zI9tiKwFgMVnwVWlCjMh0ZpRMxRM3lETUn2cC0/HgZ+UViVXj3SDdyWS2aUW830arrd4ElvRONkJKbVB3ZoRvPApdw9jwn1IYSKgVQT7B2Wwv4g2v7LJg7l7D;6sBbj/Q38djmTdz8jfQonA=="
+secured: "FOqFJmYFnZGMgBeP3PEBNWntQ7DqEjKOmgxth+wURY8FgXpqeuerr0VsIU9F2j9qJw22CcFcEMF9jV+moK3REIQgiv+BbPB9of6/QvDCZWHq1B6BePsThxmFwvWv0JasyhLpDz3GFJMqpRvjPaE3cetmGC7BbKFteZs3zv01kAm8rjOQthsgmmVGsiGCveMaeL4UoPMN3918Bq+rWWNjJTGWCARBWE7tdECvTzZv1p/SCIk5TUN6l1HxBboRE0JG2fvqxkXgeXWXhtpXMBwwrOfqUbhWEQvxx5xpu1WAKG3cFY9WJW2uVkGgMfaD/rFD;twvjbXpb8qhYywDCyh61NA=="
 ---
 

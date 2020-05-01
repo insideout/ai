@@ -8,7 +8,7 @@ ampWebUrl: "https://electrek.co/2020/04/30/tesla-self-driving-subscription-servi
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/04/30/tesla-self-driving-subscription-service-price/amp/"
 type: article
 quality: 81
-heat: 91
+heat: 101
 published: true
 
 provider:
@@ -30,6 +30,21 @@ images:
     title: "Tesla confirms self-driving as a subscription service but brace yourself for the price"
 
 related:
+  - title: "Tesla set to launch a Full Self-Driving subscription service this year"
+    excerpt: "Tesla is set to roll out a subscription service for its Full Self-Driving suite later this year, Elon Musk said. During the company’s Q1 2020 Earnings Call, Musk and CFO Zachary Kirkhorn briefly confirmed the introduction of a subscription program for Full Self-Driving."
+    publishedDateTime: 2020-04-30T15:27:00Z
+    webUrl: "https://www.teslarati.com/tesla-full-self-driving-subscription-release-date/"
+    ampWebUrl: "https://www.teslarati.com/tesla-full-self-driving-subscription-release-date/amp/"
+    cdnAmpWebUrl: "https://www-teslarati-com.cdn.ampproject.org/c/s/www.teslarati.com/tesla-full-self-driving-subscription-release-date/amp/"
+    type: article
+    provider:
+      name: Tesla News
+      domain: teslarati.com
+    quality: 59
+    images:
+      - url: "https://www.teslarati.com/wp-content/uploads/2019/04/tesla-fsd-demo-stop-sign-1-1024x576.jpg"
+        width: 1024
+        height: 576
   - title: "Tesla Confirms Full Self-Driving System to Arrive as Subscription Service"
     excerpt: "During a conference call following Tesla’s Q1 2020 results, CEO Elon Musk announced that the company’s Full Self-Driving System will be available as a monthly subscription service later this year. In February of last year,"
     publishedDateTime: 2020-04-30T16:13:00Z

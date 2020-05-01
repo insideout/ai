@@ -1,25 +1,21 @@
 ---
 category: news
 title: "Microsoft To Be AI Partner For NBA"
-excerpt: "Microsoft will become the official technology partner for the National Basketball Association or NBA under a new multi-year"
-publishedDateTime: 2020-04-17T15:20:00Z
-webUrl: "https://markets.businessinsider.com/news/stocks/microsoft-to-be-ai-partner-for-nba-1029102857"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/Microsoft-To-Be-AI-Partner-For-NBA-1029102857"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Microsoft-To-Be-AI-Partner-For-NBA-1029102857"
+excerpt: "Microsoft will become the official technology partner for the National Basketball Association or NBA under a new multi-year partnership between the two parties. As part of their collaboration, Microsoft will become the Official Artificial Intelligence Partner and an Official Cloud and Laptop Partner for the NBA,"
+publishedDateTime: 2020-04-17T15:33:00Z
+webUrl: "https://www.nasdaq.com/articles/microsoft-to-be-ai-partner-for-nba-2020-04-17"
+ampWebUrl: "https://www.nasdaq.com/articles/microsoft-to-be-ai-partner-for-nba-2020-04-17?amp"
+cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/microsoft-to-be-ai-partner-for-nba-2020-04-17?amp"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - Microsoft AI
   - AI
 
-secured: "pcUCHAn8dh94wOxGwydiCio9Rome2H1qVp1DWdP7vKMr7JQEBFZMeIyorDEge+t25FaNXms6XtbyIafTWrXaF1kNEINsM2pxvd74t6qOR4wj5ySm8Yf2Xdcyibdcd5joV9EtrjjnPK6mFwwGwUBpxDSlq6WQBZx7HijmD5/8zKfRwJT9zzO4vUxfViWzp6oSERrLJlBazug7mFym625xZZilJKq50YyAlIuDSI8Wzr354fhVnihFrPGbjFjO4QlmrNdi4m+RzqgxJg74UVwp7UI0kjVdsl+1JQtewQi3hDvmeyDXA2j6SrdgEFvupRxV;pEm+2zoAG6IOMl+8zcKwxw=="
+secured: "WLCLY21Rdf6qojznYpGxFoOb74CnWIEmyfhz4IvhsjszkA++afmYxXKJuJsKZ2rJ3cU/BF+exGkqalDC12h6pdXnMw5lLvVu+JNbbdAn0mJkqO4/WKbAR4dIi91L34FWD30yPApbQgOPV+XCyXd/toywxl0g5M4yxx4T9EQ1H7ZTNlTVL7D28xYHlU7r+k6bExi/OiUzeeaMzUwqw9IgIvyFDwD9kXwsY7DqlPMsoL7KruYeYKFhLCvsschk/QTRZJqytuUTK3MykbK6hwwXZwckfa3eCWruvxKK/51l5/Dv/bB5lONJhHiJe3YC9cIGgAlMIipdRM+sknsM5o0P7owCUoxqsCA2EU8EZ4MAliRYVheWyHuYgkiZ1nnvbbsODle4Ku8V6reb+YubkKrCgYRUOHxm5Hb1r0X0DTMidG4GnvG8groFKfl4gIWw3qqeOwZWAfMznw57UwoKgwOVh9g5Qp0+p3cNXEW/rf7Vy2s=;BSrFMDsJJLveio/rmeBPNw=="
 ---
 

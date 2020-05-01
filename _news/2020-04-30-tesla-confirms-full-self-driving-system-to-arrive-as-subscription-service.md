@@ -41,6 +41,21 @@ related:
       - url: "https://electrek.co/wp-content/uploads/sites/3/2019/04/Tesla-self-driving.jpg?quality=82&strip=all&w=1000"
         width: 1000
         height: 458
+  - title: "Tesla set to launch a Full Self-Driving subscription service this year"
+    excerpt: "Tesla is set to roll out a subscription service for its Full Self-Driving suite later this year, Elon Musk said. During the company’s Q1 2020 Earnings Call, Musk and CFO Zachary Kirkhorn briefly confirmed the introduction of a subscription program for Full Self-Driving."
+    publishedDateTime: 2020-04-30T15:27:00Z
+    webUrl: "https://www.teslarati.com/tesla-full-self-driving-subscription-release-date/"
+    ampWebUrl: "https://www.teslarati.com/tesla-full-self-driving-subscription-release-date/amp/"
+    cdnAmpWebUrl: "https://www-teslarati-com.cdn.ampproject.org/c/s/www.teslarati.com/tesla-full-self-driving-subscription-release-date/amp/"
+    type: article
+    provider:
+      name: Tesla News
+      domain: teslarati.com
+    quality: 59
+    images:
+      - url: "https://www.teslarati.com/wp-content/uploads/2019/04/tesla-fsd-demo-stop-sign-1-1024x576.jpg"
+        width: 1024
+        height: 576
 
 secured: "m13g3UDtb175at64KcDuO7YbnqmFCeTA94I4sZdFPABItr/Fxhcb7Cl8OZ1w5dpfoIM8ndevol8KZNDAoeiMaW006NRuwhM2usJDAK21HJEMua2yj+1ZE2Mkonf0IqB3+RYLYfZF0U/PSXRXLhesEhXXg3NjuYU4X0YeuS19jm5EAhyXUJ497MLyV/aKa4W6Rik9Po6ZeOJOTpkUzb5InYMchIx7e/y2a2tpbntdJ3eWeTTuKQzhX30T0165nqa4LUis7qCq545aJ8as8osiJBzPf1aglUtNhMMkO7IxTbpaQIUpRKOh7i02QJrb+0wjytS8diXi/hUMMcD04wm79sTsc0QVrARWuNCpMj+PjzdARmSxJNTMjSd2l+dAaYGOyALbGUw+NWQsd+kjOOR7+XMku1CsR1AvBzSBAoTOcR7diRWTIMiykTllMTkdlZjpdNfi4Rm2CEl/H2EenW2zcc8a3/ZpBf7QZqAAv9rtexo=;16w1+AsjfoQg6lwUwl8mTw=="
 ---
