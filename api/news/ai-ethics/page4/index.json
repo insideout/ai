@@ -2,6 +2,44 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-02-11-seattle-university-launches-public-course-to-bring-the-ethics-of-artificial-intelligence-to-the-masses.md",
+      "title": "Seattle University launches public course to bring the ethics of artificial intelligence to the masses",
+      "excerpt": "The future of artificial intelligence (AI) is here: self-driving cars, grocery-delivering drones and voice assistants like Alexa that control more and more of our lives, from the locks on our front doors to the temperatures of our homes. But as AI permeates into everyday life, what about the ethics and morality of the systems? For example ...",
+      "heat": 100,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.seattletimes.com/business/technology/seattle-university-launches-public-course-to-bring-the-ethics-of-artificial-intelligence-to-the-masses/",
+      "ampWebUrl": "https://www.seattletimes.com/business/technology/seattle-university-launches-public-course-to-bring-the-ethics-of-artificial-intelligence-to-the-masses/?amp=1",
+      "cdnAmpWebUrl": "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/seattle-university-launches-public-course-to-bring-the-ethics-of-artificial-intelligence-to-the-masses/?amp=1",
+      "publishedDateTime": "2020-02-11T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seattle Times",
+        "domain": "seattletimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static.seattletimes.com/wp-content/uploads/2020/01/01062020_AImetalHead_tzr_tzr_215511-780x501.jpg",
+          "width": 780,
+          "height": 501,
+          "title": "Seattle University launches public course to bring the ethics of artificial intelligence to the masses",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2020-02-11-mps-claim-ai-doesnt-need-a-new-regulator.md",
       "title": "MPs claim AI 'doesn't need' a new regulator",
       "excerpt": "There was more optimism for the work of the Office for AI, the Alan Turing Institute, the Centre for Data Ethics and Innovation (CDEI), and the Information Commissioner's Office (ICO) which he said were all \"commendable\". But on transparency and data bias, he called for practical guidance and enforceable regulation. \"We conclude that the UK ...",
@@ -1215,43 +1253,6 @@
           "width": 630,
           "height": 354,
           "title": "Can AI Systems Be Unethical? The Answer Is Yes",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-01-18-how-to-build-ethical-ai.md",
-      "title": "How to build ethical AI",
-      "excerpt": "There are serious ethical and societal issues we must confront quickly.",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thehill.com/opinion/technology/478731-how-to-build-ethical-artificial-intelligence",
-      "ampWebUrl": "https://thehill.com/opinion/technology/478731-how-to-build-ethical-artificial-intelligence?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/technology/478731-how-to-build-ethical-artificial-intelligence?amp",
-      "publishedDateTime": "2020-01-18T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/humanoid_robot_07272018_1_0.jpg",
-          "width": 980,
-          "height": 551,
-          "title": "How to build ethical AI",
           "attribution": null
         }
       ],

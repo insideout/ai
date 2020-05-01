@@ -2,6 +2,43 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-03-30-huawei-releases-computer-vision-plan-to-tackle-challenges-on-the-cutting-edge.md",
+      "title": "Huawei releases computer vision plan to tackle challenges on the cutting edge",
+      "excerpt": "March 28, 2020 - SHENZHEN, CHINA: Today, at the Huawei Developer Conference 2020 (Cloud) – HDC.Cloud, Huawei fully shared the achievements it has made in computer vision. Huawei opens up papers and algorithm code for global developers to break new ground ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.telecomtv.com/content/ai-ml/huawei-releases-computer-vision-plan-to-tackle-challenges-on-the-cutting-edge-38195/",
+      "ampWebUrl": "https://www.telecomtv.com/content/ai-ml/huawei-releases-computer-vision-plan-to-tackle-challenges-on-the-cutting-edge-38195/amp/",
+      "cdnAmpWebUrl": "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/ai-ml/huawei-releases-computer-vision-plan-to-tackle-challenges-on-the-cutting-edge-38195/amp/",
+      "publishedDateTime": "2020-03-29T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TelecomTV",
+        "domain": "telecomtv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://assets.telecomtv.com/assets/telecomtv/brand/ttv-splash.jpg?w=1200",
+          "width": 1200,
+          "height": 675,
+          "title": "Huawei releases computer vision plan to tackle challenges on the cutting edge",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-29-microsoft-divests-from-israeli-facial-recognition-firm-anyvision.md",
       "title": "Microsoft divests from Israeli facial recognition firm AnyVision",
       "excerpt": "Pro-BDS groups have hailed as a victory a decision by the US-based Microsoft company to divest from the Israeli firm AnyVision after a sustained campaign against the company for use of its facial recognition technology against Palestinians in the West Bank. “BDS Win!” tweeted the left-wing US-based NGO Jewish Voices for Peace upon hearing ...",
@@ -1164,43 +1201,6 @@
           "width": 700,
           "height": 415,
           "title": "Attendance Via Facial Recognition With Temperature Screening Now Available in India",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-after-test-san-diego-pd-bans-facial-recognition-app.md",
-      "title": "After Test, San Diego P.D. Bans Facial Recognition App",
-      "excerpt": "(TNS) — Imagine a \"search engine for faces.\" That's how a co-founder of Clearview AI has described the facial recognition app, a relatively new tool for law enforcement agencies to use to identify suspected criminals by matching photos of suspects to images and profiles online. With an internal database of more than three billion images ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.govtech.com/public-safety/After-Test-San-Diego-PD-Bans-Facial-Recognition-App.html",
-      "ampWebUrl": "https://www.govtech.com/public-safety/After-Test-San-Diego-PD-Bans-Facial-Recognition-App.html?AMP",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/After-Test-San-Diego-PD-Bans-Facial-Recognition-App.html?AMP",
-      "publishedDateTime": "2020-03-17T07:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media2.govtech.com/images/shutterstock_145677227.jpg",
-          "width": 940,
-          "height": 627,
-          "title": "After Test, San Diego P.D. Bans Facial Recognition App",
           "attribution": null
         }
       ],

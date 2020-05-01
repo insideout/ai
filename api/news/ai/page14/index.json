@@ -2,6 +2,72 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2020-04-16-sap-makes-support-experience-even-smarter-with-machine-learning-and-ai-enhancements.md",
+      "title": "SAP Makes Support Experience Even Smarter With Machine Learning and AI Enhancements",
+      "excerpt": "SAP SE today announced several updates, including the Schedule a Manager and Ask an Expert Peer services, to its Next-Generation Support approach focused",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/sap-makes-support-experience-even-smarter-with-machine-learning-and-ai-enhancements/article_90b9f14e-1c6e-50c1-bbac-899058184560.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-16T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-16-roboads-develops-new-robots-to-aid-healthcare-security-staff.md",
+      "title": "RoboAds develops new robots to aid healthcare, security staff",
+      "excerpt": "UAE based Robotics startup, RoboAds Inc, has developed a new generation of telepresence robots to ... The robot utilises the latest advancements in AI, machine learning, digital signage and video analytics. It can analyse the number of visitors, age, gender and emotions. RoboAds team, the company said, is dedicated towards developing advanced ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zawya.com/mena/en/business/story/RoboAds_develops_new_robots_to_aid_healthcare_security_staff-SNG_172484541/",
+      "ampWebUrl": "https://www.zawya.com/mena/en/story/amp/SNG_172484541/",
+      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/SNG_172484541/",
+      "publishedDateTime": "2020-04-16T05:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.zawya.com/resources/img/zawya-logo-en-social.png",
+          "width": 1200,
+          "height": 878,
+          "title": "RoboAds develops new robots to aid healthcare, security staff",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-16-automotive-artificial-intelligence-market-gain-impetus-due-to-the-growing-demand-over-2027.md",
       "title": "Automotive Artificial Intelligence Market Gain Impetus due to the Growing Demand over 2027",
       "excerpt": "New York, April 16, 2020: The global Automotive Artificial Intelligence market is segregated on the basis of Component",
@@ -1195,96 +1261,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-15-walking-robot-uses-neural-net-to-change-gaits.md",
-      "title": "Walking robot uses neural net to change gaits",
-      "excerpt": "Insects rapidly transition between different walking gaits, in response to external stimuli. Scientists have now created a small robot that can do the same thing, utilizing an integrated artificial neural network – the technology might ultimately find use in better-performing prostheses. Known as the NeuroPod, the 3D-printed six-legged robot ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://newatlas.com/robotics/neuropod-robot-neural-network-gait/",
-      "ampWebUrl": "https://newatlas.com/robotics/neuropod-robot-neural-network-gait/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/robotics/neuropod-robot-neural-network-gait/?amp=true",
-      "publishedDateTime": "2020-04-15T09:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/2f930f2/2147483647/strip/true/crop/1200x800+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F19%2F4d%2F886754664b47b83cf6b1800fc049%2Fneuropod-1586897755-1.jpeg",
-          "width": 1200,
-          "height": 800,
-          "title": "Walking robot uses neural net to change gaits",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-15-vulcan-capital-invests-in-mobile-sports-game-maker-nifty-games-and-computer-vision-startup-aireverie.md",
-      "title": "Vulcan Capital invests in mobile sports game maker Nifty Games and computer vision startup AI.Reverie",
-      "excerpt": "Nifty Games, a San Francisco-based startup that develops mobile sports games, announced a $12 million investment round. Founded in 2018 by gaming veterans, the company is developing “clash-style” mobile games for sports fans, similar to Clash Royale. It has licensing partnerships with the NFL and NBA, a key differentiator. “Sports games ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.geekwire.com/2020/vulcan-capital-invests-mobile-sports-game-maker-nifty-games/",
-      "ampWebUrl": "https://www.geekwire.com/2020/vulcan-capital-invests-mobile-sports-game-maker-nifty-games/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/vulcan-capital-invests-mobile-sports-game-maker-nifty-games/amp/",
-      "publishedDateTime": "2020-04-15T09:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/04/aireverie_cities-630x354.png",
-          "width": 630,
-          "height": 354,
-          "title": "Vulcan Capital invests in mobile sports game maker Nifty Games and computer vision startup AI.Reverie",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

@@ -2,6 +2,51 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-03-26-textios-ai-optimizes-for-inclusivity-to-help-companies-attract-more-job-applicants.md",
+      "title": "Textio’s AI optimizes for inclusivity to help companies attract more job applicants",
+      "excerpt": "For companies like Nvidia, for example, its use of Textio has led to a higher number of women job applicants. Textio uses natural language processing to color-highlight and interrupt bias communication in workplace text like job applications, LinkedIn job candidate outreach, or emails on Outlook or Gmail. Accommodation language- and ageism ...",
+      "heat": 83,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/03/26/textios-ai-optimizes-for-inclusivity-to-help-companies-attract-more-job-applicants/",
+      "ampWebUrl": "https://venturebeat.com/2020/03/26/textios-ai-optimizes-for-inclusivity-to-help-companies-attract-more-job-applicants/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/26/textios-ai-optimizes-for-inclusivity-to-help-companies-attract-more-job-applicants/amp/",
+      "publishedDateTime": "2020-03-26T08:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/03/textio-2-1.png?fit=1800%2C900&strip=all",
+          "width": 1800,
+          "height": 900,
+          "title": "Textio’s AI optimizes for inclusivity to help companies attract more job applicants",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-26-natural-language-processing-is-an-untapped-ai-tool-for-innovation.md",
       "title": "Natural Language Processing is an Untapped AI Tool for Innovation",
       "excerpt": "Lux considers natural language processing (NLP) and topic modeling the AI tools of choice. These tools have the potential to accelerate the front end of innovation across many industries ...",
@@ -1163,51 +1208,6 @@
           "width": 2000,
           "height": 1000,
           "title": "Google Translate launches Transcribe for Android in 8 languages",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-google-translates-real-time-transcription-feature-is-out-now-for-android.md",
-      "title": "Google Translate’s real time transcription feature is out now for Android",
-      "excerpt": "Google Translate’s new transcription feature, first demoed back in January, is out now for Android users as part of an update to the artificial intelligence-powered mobile app. The feature will allow you to record spoken words in one language and transform them into translated text on your phone,",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.theverge.com/2020/3/17/21182640/google-translate-transcription-android-feature-real-time-ai",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/3/17/21182640/google-translate-transcription-android-feature-real-time-ai",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/3/17/21182640/google-translate-transcription-android-feature-real-time-ai",
-      "publishedDateTime": "2020-03-17T10:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/ReCZry-1zkKGcNVoPaOLuDzeU_s=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66513218/acastro_180427_1777_0001.0.jpg",
-          "width": 1400,
-          "height": 933,
-          "title": "Google Translate’s real time transcription feature is out now for Android",
           "attribution": null
         }
       ],

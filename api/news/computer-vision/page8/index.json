@@ -2,6 +2,51 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-01-29-object-recognition-is-the-answer-heres-why.md",
+      "title": "Object Recognition Is The Answer, Here’s Why",
+      "excerpt": "More specifically, the convergence of Object Recognition, Machine Vision, and Neural Networks enables machines to see and understand what it is they are seeing. For sure, there are specific use ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/hodfleishman/2020/01/29/object-recognition-is-the-answer-heres-why/",
+      "ampWebUrl": "https://www.forbes.com/sites/hodfleishman/2020/01/29/object-recognition-is-the-answer-heres-why/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/hodfleishman/2020/01/29/object-recognition-is-the-answer-heres-why/amp/",
+      "publishedDateTime": "2020-01-29T11:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F483146942%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Object Recognition Is The Answer, Here’s Why",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2020-01-28-facial-recognition-startup-clearview-ai-is-struggling-to-address-complaints-as-its-legal-issues-mount.md",
       "title": "Facial Recognition Startup Clearview AI Is Struggling To Address Complaints As Its Legal Issues Mount",
       "excerpt": "One of Clearview AI's investors defended the company, “We do not have to be hidden to be free.” By Ryan Mac and Caroline Haskins and Logan McDonald Posted on January 28, 2020, at 3:34 p.m. ET A screenshot of Clearview's search results. Clearview AI, the facial recognition company that claims to have amassed a database of more than 3 billion ...",
@@ -1246,51 +1291,6 @@
           "width": 1050,
           "height": 549,
           "title": "The Secretive Company That Might End Privacy as We Know It",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-01-17-eu-mulls-5-year-ban-on-facial-recognition-tech-in-public-spaces.md",
-      "title": "EU mulls 5-year ban on facial recognition tech in public spaces",
-      "excerpt": "(Reuters) — The European Union is considering banning facial recognition technology in public areas for up to five years to give it time to work out how to prevent abuses, according to proposals seen by Reuters. The plan by the EU’s executive — set out in an 18-page white paper — comes amid a global debate about the systems driven by ...",
-      "heat": 339,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/01/17/eu-mulls-5-year-ban-on-facial-recognition-tech-in-public-spaces/",
-      "ampWebUrl": "https://venturebeat.com/2020/01/17/eu-mulls-5-year-ban-on-facial-recognition-tech-in-public-spaces/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/17/eu-mulls-5-year-ban-on-facial-recognition-tech-in-public-spaces/amp/",
-      "publishedDateTime": "2020-01-17T06:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/12/s1.reutersmedia.net_-e1579126395666.jpg?fit=1200%2C601&strip=all",
-          "width": 1200,
-          "height": 601,
-          "title": "EU mulls 5-year ban on facial recognition tech in public spaces",
           "attribution": null
         }
       ],

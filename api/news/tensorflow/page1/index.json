@@ -218,6 +218,44 @@
       ]
     },
     {
+      "path": "_news/2020-04-17-tensorflow-to-rtl-with-high-level-synthesis-cadence-design-systems.md",
+      "title": "TensorFlow to RTL with High-Level Synthesis — Cadence Design Systems",
+      "excerpt": "High-level synthesis (HLS) can provide a mechanism to get from AI frameworks like TensorFlow into synthesizable RTL, enabling the development of high-performance inference architectures. In this episode of Chalk Talk, Amelia Dalton chats with Dave Apte of ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.eejournal.com/chalk_talks/tensorflow-to-rtl-with-high-level-synthesis-cadence-design-systems/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-16T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electronic Engineering Journal",
+        "domain": "eejournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.eejournal.com/wp-content/uploads/2017/05/cropped-EEJ_favicon_2020-copy.png",
+          "width": 512,
+          "height": 512,
+          "title": "TensorFlow to RTL with High-Level Synthesis — Cadence Design Systems",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "TensorFlow",
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-14-googles-tensorflow-lite-model-maker-adapts-state-of-the-art-models-for-on-device-ai.md",
       "title": "Google’s TensorFlow Lite Model Maker adapts state-of-the-art models for on-device AI",
       "excerpt": "Google today announced TensorFlow Lite Model Maker, a tool that adapts state-of-the-art machine learning models to custom data sets using a technique known as transfer learning. It wraps machine learning concepts with an API that enables developers to train models in Google’s TensorFlow AI framework with only a few lines of code, and to ...",
@@ -1195,52 +1233,6 @@
           "width": 640,
           "height": 480,
           "title": "TensorFlow Quantum software combines quantum and classical machine learning",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2020-03-08-installing-the-tensorflow-object-detection-api-on-windows-10.md",
-      "title": "Installing the Tensorflow Object Detection API on Windows 10",
-      "excerpt": "In order to achieve this goal, first I have to experiment with the Tensorflow Object Detection API. I have a Windows 10 system so I will use Tensorflow in Windows environment. Let’s get started ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/@daniel.schwalm/installing-the-tensorflow-object-detection-api-on-windows-10-443750faf7b8",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-08T12:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/820/1*ubc_a9FvGl1fUwszAXYToA.png",
-          "width": 820,
-          "height": 533,
-          "title": "Installing the Tensorflow Object Detection API on Windows 10",
           "attribution": null
         }
       ],

@@ -2,6 +2,43 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-03-17-after-test-san-diego-pd-bans-facial-recognition-app.md",
+      "title": "After Test, San Diego P.D. Bans Facial Recognition App",
+      "excerpt": "(TNS) — Imagine a \"search engine for faces.\" That's how a co-founder of Clearview AI has described the facial recognition app, a relatively new tool for law enforcement agencies to use to identify suspected criminals by matching photos of suspects to images and profiles online. With an internal database of more than three billion images ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.govtech.com/public-safety/After-Test-San-Diego-PD-Bans-Facial-Recognition-App.html",
+      "ampWebUrl": "https://www.govtech.com/public-safety/After-Test-San-Diego-PD-Bans-Facial-Recognition-App.html?AMP",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/After-Test-San-Diego-PD-Bans-Facial-Recognition-App.html?AMP",
+      "publishedDateTime": "2020-03-17T07:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media2.govtech.com/images/shutterstock_145677227.jpg",
+          "width": 940,
+          "height": 627,
+          "title": "After Test, San Diego P.D. Bans Facial Recognition App",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-17-computer-vision-and-image-analysis-online-course-offered-by-microsoft.md",
       "title": "Computer Vision and Image Analysis online course offered by Microsoft",
       "excerpt": "Computer Vision is the art of distilling actionable information from images. In this hands-on course, we'll learn about Image Analysis techniques using Python packages like PIL, Scikit-Image, Open CV, and others. You'll then explore machine learning for computer vision, including deep learning techniques for image classification, object ...",
@@ -1107,51 +1144,6 @@
         "authors": null
       },
       "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-11-police-used-facial-recognition-to-arrest-over-1100-people-in-india-last-month.md",
-      "title": "Police Used Facial Recognition to Arrest Over 1,100 People in India Last Month",
-      "excerpt": "Shortly after one of the worst riots New Delhi has seen in decades, law enforcement agencies in India used facial recognition technology to identify more than 1,100 people who allegedly took part ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://gizmodo.com/police-used-face-recognition-to-arrest-over-1-100-peopl-1842277965",
-      "ampWebUrl": "https://gizmodo.com/police-used-face-recognition-to-arrest-over-1-100-peopl-1842277965/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/police-used-face-recognition-to-arrest-over-1-100-peopl-1842277965/amp",
-      "publishedDateTime": "2020-03-11T13:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/ettkddlwrqgiro3hlrjc.jpg",
-          "width": 800,
-          "height": 450,
-          "title": "Police Used Facial Recognition to Arrest Over 1,100 People in India Last Month",
-          "attribution": null
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"

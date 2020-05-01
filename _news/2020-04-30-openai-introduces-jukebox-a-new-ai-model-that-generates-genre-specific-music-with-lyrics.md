@@ -8,7 +8,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2020/4/30/21243038/openai-juke
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/4/30/21243038/openai-jukebox-model-raw-audio-lyrics-ai-generated-copyright"
 type: article
 quality: 78
-heat: 78
+heat: 88
 published: true
 
 provider:
@@ -27,6 +27,21 @@ images:
     width: 1400
     height: 933
     title: "OpenAI introduces Jukebox, a new AI model that generates genre-specific music with lyrics"
+
+related:
+  - title: "OpenAI debuts Jukebox, a machine learning framework that creates its own music"
+    excerpt: "Artificial intelligence research outfit OpenAI Inc. has published a new machine learning framework that’s able to generate its own music after being trained on raw audio. The new tool is called Jukebox,"
+    publishedDateTime: 2020-05-01T01:53:00Z
+    webUrl: "https://siliconangle.com/2020/04/30/openai-debuts-jukebox-machine-learning-framework-creates-music/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 50
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/04/guitar-756326_1280.jpg"
+        width: 1280
+        height: 850
 
 secured: "lPXZcu1bPLzfrYv49nAFAdPj2FVMmne2iWltFcHV45t6N4RyO/59WGKJX6yu9rTbD/ERMBfzhMAGiFhmbHPJ1xP4t3G9rTO9PiGA2Fy7FMEZKBvJYBlcw8bkqt4+i3bZL+V8KWUU9Ws9+eM+hpcRYyRlZfUsh4uRa9p0TQr6KEyvFxAPPcOFuRP9xmobdKZyXyJo/QpFfwvzaKCoG2P8pQAGgR0NDHP+vTRDsVrWFT0IPmD0vq6aQe6HnzgKxBkfc/QHnhB8O15kWwnuKJvVEs48CM+1H5/J3NptnQdbrrT7sBWZ0GnjzQxXP0xlYUZxxid0lnD+rJIafl3nFRQWtgqiaRaSSujQmpG9L7Huh/2aKYQZ98VQC/v5DdgV0LodX8F9Mv1ZFBF+gnMeaFo20yN+vv/IZtFeyoz7Z9Wj6lAOQEwO91nxMMz1XZWCb/kzw38qIbuIBxFl78OkhDta/ZdaajSwVajpDTVIckHNXSU=;QpihXackrpjpX0lrnYZlQw=="
 ---

@@ -2,6 +2,88 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2020-04-04-introduction-to-machine-learning-and-artificial-intelligence.md",
+      "title": "Introduction to Machine Learning and Artificial Intelligence",
+      "excerpt": "Artificial Intelligence (AI) dramatically improves the way we live ... OpenStack Summit and Google Cloud Summit. His certifications include AWS Solution Architect – Associate, Google Certified Instructor (Global), Google Cloud Architect Professional ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://e27.co/event/introduction-to-machine-learning-and-artificial-intelligence/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-03T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "E27.co",
+        "domain": "e27.co",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://e27.co/img/events/14691/K%20OH%20Seminars%202020%20AI%20Banner.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": "Introduction to Machine Learning and Artificial Intelligence",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-03-computer-vision-and-coronavirus-pandemic.md",
+      "title": "Computer Vision and CoronaVirus Pandemic",
+      "excerpt": "This technology is called “computer vision” and it is applied in many spheres of life, for example, in medicine. Computer vision is used for: Segmentation of MRI images. The layout of MRI ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/taqadam/computer-vision-and-coronavirus-pandemic-e5fb6e83f9f7",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-03T16:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/1197/0*uLVocH9TkD-9xChT.png",
+          "width": 1197,
+          "height": 1199,
+          "title": "Computer Vision and CoronaVirus Pandemic",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-03-apple-acquires-ai-startup-to-better-understand-natural-language.md",
       "title": "Apple Acquires AI Startup to Better Understand Natural Language",
       "excerpt": "Voysis provided this AI to other companies to incorporate it into their own apps and voice assistants. Read more about the startup here: Synthesizing Realistic Human Speech Just Got a Lot Easier An Apple spokesman said the company “buys smaller technology companies from time to time, and we generally do not discuss our purpose or plans.”",
@@ -968,87 +1050,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-03-royal-dutch-shell-reskills-workers-in-artificial-intelligence-as-part-of-huge-energy-transition.md",
-      "title": "Royal Dutch Shell reskills workers in artificial intelligence as part of huge energy transition",
-      "excerpt": "Royal Dutch Shell is collaborating with Udacity to digitally train its workers in artificial intelligence. This began long before the coronavirus pandemic and the company continues to use this training method. The digital workforce skilling platform may become the training method of choice for a growing number of companies who need to keep ...",
-      "heat": 75,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnbc.com/2020/04/03/royal-dutch-shell-reskills-workers-in-ai-part-of-energy-transition.html",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/04/03/royal-dutch-shell-reskills-workers-in-ai-part-of-energy-transition.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/04/03/royal-dutch-shell-reskills-workers-in-ai-part-of-energy-transition.html",
-      "publishedDateTime": "2020-04-03T07:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/103262515-GettyImages-468904608.jpg?v=1450870935",
-          "width": 4000,
-          "height": 2667,
-          "title": "Royal Dutch Shell reskills workers in artificial intelligence as part of huge energy transition",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-03-datarobot-intersystems-sign-integration-and-reseller-agreement.md",
-      "title": "DataRobot, InterSystems sign integration and reseller agreement",
-      "excerpt": "DataRobot’s enterprise AI platform will augment InterSystems’ IntegratedML, which gives developers access to AutoML capabilities directly from SQL. This allows InterSystems IRIS and IRIS for Health customers to embed predictions within their existing applications in an intuitive, scalable manner. While InterSystems’ technology simplifies ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.itweb.co.za/content/VgZeyvJo8kG7djX9",
-      "ampWebUrl": "https://amp.itweb.co.za/content/VgZeyvJo8kG7djX9",
-      "cdnAmpWebUrl": "https://amp-itweb-co-za.cdn.ampproject.org/c/s/amp.itweb.co.za/content/VgZeyvJo8kG7djX9",
-      "publishedDateTime": "2020-04-03T06:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ITWeb",
-        "domain": "itweb.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.itweb.co.za/static/pictures/2020/04/brain-test-2020.jpg",
-          "width": 816,
-          "height": 459,
-          "title": "DataRobot, InterSystems sign integration and reseller agreement",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

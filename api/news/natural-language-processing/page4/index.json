@@ -2,6 +2,51 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-03-17-google-translates-real-time-transcription-feature-is-out-now-for-android.md",
+      "title": "Google Translate’s real time transcription feature is out now for Android",
+      "excerpt": "Google Translate’s new transcription feature, first demoed back in January, is out now for Android users as part of an update to the artificial intelligence-powered mobile app. The feature will allow you to record spoken words in one language and transform them into translated text on your phone,",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.theverge.com/2020/3/17/21182640/google-translate-transcription-android-feature-real-time-ai",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/3/17/21182640/google-translate-transcription-android-feature-real-time-ai",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/3/17/21182640/google-translate-transcription-android-feature-real-time-ai",
+      "publishedDateTime": "2020-03-17T10:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/ReCZry-1zkKGcNVoPaOLuDzeU_s=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66513218/acastro_180427_1777_0001.0.jpg",
+          "width": 1400,
+          "height": 933,
+          "title": "Google Translate’s real time transcription feature is out now for Android",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-17-google-try-out-this-ai-transcribe-feature-now-rolling-out-to-google-translate.md",
       "title": "Google: Try out this AI Transcribe feature now rolling out to Google Translate",
       "excerpt": "Google has launched its new near real-time transcription feature as part of Google Translate, which is available for eight languages. Google showed off the AI-powered feature this January and will now roll it out on Android with support transcribed translations between any of a set of eight languages, including English, French, German ...",
@@ -1118,51 +1163,6 @@
           "width": 2700,
           "height": 1414,
           "title": "TransPerfect Announces Metrics Service and Additional Capabilities to Enhance Accuracy in Translation",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-10-twilio-rival-messagebird-launches-inbox-an-ai-powered-contact-center.md",
-      "title": "Twilio rival MessageBird launches Inbox, an AI-powered contact center",
-      "excerpt": "It also leans on AI and automation to anticipate what a customer might be looking for, detect sentiment and intent, translate between languages, and more. Inbox will be available for free to companies with up to five customer service agents and 500 customer contact threads — above that, it will offer customized pricing depending on the number ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/03/10/twilio-rival-messagebird-launches-inbox-an-ai-powered-contact-center/",
-      "ampWebUrl": "https://venturebeat.com/2020/03/10/twilio-rival-messagebird-launches-inbox-an-ai-powered-contact-center/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/10/twilio-rival-messagebird-launches-inbox-an-ai-powered-contact-center/amp/",
-      "publishedDateTime": "2020-03-10T09:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/03/Inbox-by-MessageBird_Press-Voice.png?fit=1866%2C925&strip=all",
-          "width": 1866,
-          "height": 925,
-          "title": "Twilio rival MessageBird launches Inbox, an AI-powered contact center",
           "attribution": null
         }
       ],

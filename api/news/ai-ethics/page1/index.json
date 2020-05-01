@@ -2,6 +2,51 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-04-30-ai-for-national-security-and-the-challenge-of-china.md",
+      "title": "AI For National Security And The Challenge Of China",
+      "excerpt": "The US and China are strategic competitors in many arenas, but none is more critical in shaping the future of the world than the competition for dominance in artificial intelligence. AI will likely determine which country wins in the economic realm and,",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/craigsmith/2020/04/30/ai-for-national-security-and-the-challenge-of-china/",
+      "ampWebUrl": "https://www.forbes.com/sites/craigsmith/2020/04/30/ai-for-national-security-and-the-challenge-of-china/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/craigsmith/2020/04/30/ai-for-national-security-and-the-challenge-of-china/amp/",
+      "publishedDateTime": "2020-04-30T16:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eab5727ed706b0007e63ad8%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1664%26cropY1%3D432%26cropY2%3D1368",
+          "width": 1199,
+          "height": 675,
+          "title": "AI For National Security And The Challenge Of China",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2020-04-26-uk-spies-will-need-artificial-intelligence-rusi-report.md",
       "title": "UK spies will need artificial intelligence - Rusi report",
       "excerpt": "UK spies will need to use artificial intelligence (AI) to counter a range of threats, an intelligence report says. Adversaries are likely to use the technology for attacks in cyberspace and on the political system,",
@@ -1260,51 +1305,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-03-30-why-ai-will-create-more-human-executives.md",
-      "title": "Why AI Will Create 'More Human' Executives",
-      "excerpt": "As AI magnifies the impact of new technology, we need CEOs who acknowledge and embrace the unique responsibility that goes with it.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/03/30/why-ai-will-create-more-human-executives/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/03/30/why-ai-will-create-more-human-executives/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/03/30/why-ai-will-create-more-human-executives/amp/",
-      "publishedDateTime": "2020-03-30T04:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F03%2Fa-8-4.jpg",
-          "width": 640,
-          "height": 640,
-          "title": "Why AI Will Create 'More Human' Executives",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI",
         "AI Ethics"
       ]

@@ -2,6 +2,44 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2020-04-17-google-unveils-tensorflow-tool-for-making-mobile-ready-models.md",
+      "title": "Google unveils TensorFlow tool for making mobile-ready models",
+      "excerpt": "Google has announced TensorFlow Lite Model Maker, a tool for converting an existing TensorFlow model to the TensorFlow Lite format used to serve predictions on lightweight hardware such as mobile devices. TensorFlow models can be quite large, and serving predictions remotely from beefy hardware capable of handling them isn’t always possible.",
+      "heat": 86,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.infoworld.com/article/3538913/google-unveils-tensorflow-tool-for-making-mobile-ready-models.html",
+      "ampWebUrl": "https://www.infoworld.com/article/3538913/google-unveils-tensorflow-tool-for-making-mobile-ready-models.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3538913/google-unveils-tensorflow-tool-for-making-mobile-ready-models.amp.html",
+      "publishedDateTime": "2020-04-17T13:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "TensorFlow"
+      ]
+    },
+    {
       "path": "_news/2020-04-17-ai-and-machine-learning-are-making-insurance-more-predictable.md",
       "title": "AI and machine learning are making insurance more predictable",
       "excerpt": "\"So much data is locked up in paper and pdf files, and it has to be manually extracted by someone. In the process, there are errors and omissions.\" If AI and machine learning can transform these troves of documents into more usable, accessible information, employees, agents, and customers will get more value from the data. To facilitate the ...",
@@ -1020,51 +1058,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-17-server-screw-up-exposes-clearviews-facial-recognition-ai-software.md",
-      "title": "Server screw-up exposes Clearview’s facial recognition AI software",
-      "excerpt": "Clearview AI is widely seen as a privacy nightmare by the public and even privacy-challenged tech giants like Google. Now, the company has shown that it can’t even take care of its own data, according to a report from TechCrunch. It managed to expose its source code to anyone with an internet connection due to a server misconfiguration ...",
-      "heat": 124,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.engadget.com/clearview-ai-source-code-security-lapse-092558647.html",
-      "ampWebUrl": "https://www.engadget.com/amp/clearview-ai-source-code-security-lapse-092558647.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/clearview-ai-source-code-security-lapse-092558647.html",
-      "publishedDateTime": "2020-04-17T02:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-04%2F28ce59d0-8081-11ea-bdfc-a85012ce4b5d&client=amp-blogside-v2&signature=f9db85aae85bfe0ff86ffd4d1d3a741e271a4252",
-          "width": 600,
-          "height": 350,
-          "title": "Server screw-up exposes Clearview’s facial recognition AI software",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

@@ -23,6 +23,6 @@ images:
     height: 457
     title: "Amid COVID-19 Pandemic, AWS Surpasses $40 Billion Run Rate"
 
-secured: "VfsKDfnF2AnSodxuO23RFdYQnfTAUEVbXn+0ONFMt2dpmC55jldc6yWoa5WW83zab5gV/l+aaZlWV+OmZfWVNOS9hm6iZ7R2LOUwfUeAFQULKDeeFz3U9pigE2xjrv3KbEQXv2pmXLDaR46aLRRNfthA6onq+FIziYHesQu2lTUphXUkohSzaLGwUUiH99Ix3dCr98aD4AXqh0QQEvU/0RXI45le7bDW2aoIGKcLzSC/pGDKhpjb/KV8Lo3lnJHnmRAF9tv+W0LTorBkCpGIDsJkscLdWP055VVQVF5rAiCMIj6LN8Rj95uQVEzrMV3U;bIAakbpu3pYCAN61GGD+lw=="
+secured: "htOPsLgE1YXxxoVqmiDuqz+wWDaUAJnjxIGFkFYg/leI2xylcgiaonA0H4Xcqn1kTlvmk+XHOOw8gY1XmL4nyup2chfyY+preGE7QAxVFh/jAG2C+6+NqAGfOYHOW5pWxDDS+RgCDGl997h6ZJSvu3Z5ktumXUQj+gNqqOlW9RT9iJz7UEF5TuqAEdJ+/HOcZzN9uJYlwL346sIVlKgU1mwW+m0Ws+llIAo8hPXR+ILQO4OCEhTUoRnKAGT22pXp8UnmieT7hixq2+lQHz9YiEgqXEzLGAlMNpktG1E+/yXW1JxUJDQxE4Mbwbi+XaaygurCYXU8pwl3pI80mqYmXiXMCTvoHTs+jLZA26qOQ7G2OGAmSChjDuoBRBXMtLBRVwfaOOlPIzocP5KewVxRm6rnXcjTJptI+7RbYZzVhiamzMdFWVHtzFynJzQ1HXi3r+WWeMYzcdruN/3f8zjtTCfRLHhkiivbnZdg23SWn+A=;p4pMYa+hNXnFCsOeKmLqmA=="
 ---
 

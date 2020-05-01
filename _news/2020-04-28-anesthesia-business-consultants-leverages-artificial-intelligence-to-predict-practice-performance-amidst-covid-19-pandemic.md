@@ -22,6 +22,6 @@ images:
     height: 450
     title: "Anesthesia Business Consultants Leverages Artificial Intelligence to Predict Practice Performance Amidst COVID-19 Pandemic"
 
-secured: "7qL4Qfu8fMOEv7CRqtos+ycHh8NS3hUBHjW1A+WeujtHbNEWJwtDosM9G4GwEJaZeKEPGCoijlcSCJXHVmL9oUAg+S41K+5hFTaM8JQiCW+ME4WNeMmk2OKfFq0/gnNC2qGpoKRclFYUx77fb2JwugLM9KOzX0XqNPweut7d/CYQVtmrkULRWUdfHwgx+l8FJDvtwj7yB91/9razZBDgEhyitCqH9QYSYtuAOxUhn4DPTUoaUXHcJcajlB+jSSFb8jxyJloWxdLYNlhqaMafIk2v1Y6Tms6byNaNTrp3vOlCE476xcN6Gy91PoOM39oA;VS+ZhR5MTtQHH1n9oNpoxw=="
+secured: "MKTmUhX8up4AsjtTmG/GH00uTE90xEVs0I5HPlZF87nbqDdXtXGe23FgDaRQIdcE/8G95ELDYgSjknBxOkmPYpQo3VfrM6QD4Bmq4EDi9kLvRQUcprnTlgBmNaF+IjHy/B1fyDzjcpbu0yd1uEWK66ubar2h/771pZvLsMsHusn3c/AS/WLlQC42EDydxUK2qT3RqKfBad5qvftGEkKr2TYvF9zTbDDwZTUuiFYO7Z9X/Rgl2388updKWmd/QbnnTcI/n+hR8uIb0T2fi+pVdwpyb7hOMCUTn94bqHpl3/9ld11kYUR/PZlLnfZFJ1To;DPbRdmR6RtIxbAZ3M2awbQ=="
 ---
 
