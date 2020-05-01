@@ -23,6 +23,6 @@ images:
     height: 430
     title: "dotData AI-FastStart: Adding AI/ML models to BI stacks and predictive analytics apps"
 
-secured: "pv7jBvb+/5NvaDUzyWiBKn4AQ0zv8WfUH9oG+8nQ6LPSIRXtNx1flROnDwu503hUJxm94ocIP2u490rk602CZa/KSsc8s8l9xkL0rClbQIqrLa4/iM53FomPEZLD2NZJ4+jc5K+iw6Pi+qKrOrgOZ1naJjc1hU+z1eDzcSgj/Onu2PJ6XVADnAhEy8IINPellg7/3U39EoZGUY8nr60EixdzxgxHx3eXGtaW/UW/DQk9GA1eBrOXUebLo9UZer9xZ+z6d/5HwK1OyOlrx8UQAuXZkD+AWY942aQaeUYbbfXMaCPW2Zca/8+ULU7dBY8K;eeq12KpStJUqz/thp/+m2w=="
+secured: "wetyqxwVYUr0MX+8VKWNSHa9cM2B8q7bFww9Lomtn/x7Q4vCMYBsxjauh6lKaTbEAp/S6EYtwYyqY0dH+VchwMPqqWvh64nAvi2tXfie+7tEXhyp7vBIm8WyFhAF9jkGRizPjK/OZfVCypMksEvcWL9a1Dh2nDJMyfLW17ep/QpyrxvITKN2JxOaOCn1a7EKWNs6ImDT3XjB846JTjXYgQ1BFkM3zzKSbDOv5iMcKjGOdSCUqd0z5JCG9O+snECQv6qNU/REahGhBFAhQqRknf8ha2HWM6qNEZkay7iKzWlERRs4leT/66rVYxVGSyfEuDI8M1DwkQFD9fg2jtOMB0w5S3mlAZ7dQjtLPe2SHrHgJdbZipZ2zhcrZqe5Kor0zi713G4+wT7fWpajFKnWS398/QCcLnS3/ISVZY6nY6cw/BC9zd2Sf9/h/nVy+ggw/V54hZzx+MyQoZz5uYH4nbNhp1Run3TOighWvvZ45Y4=;zaEyz8hblicENUJmpU1htQ=="
 ---
 

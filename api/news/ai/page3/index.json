@@ -2,6 +2,51 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-04-29-yandex-deploys-autonomous-delivery-robots-in-moscows-skolkovo-district.md",
+      "title": "Yandex deploys autonomous delivery robots in Moscow’s Skolkovo district",
+      "excerpt": "Yandex today announced the launch of an autonomous delivery service in Skolkovo, Russia, powered by its Yandex.Rover robots.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/29/yandex-deploys-autonomous-delivery-robots-in-moscows-skolkovo-district/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/29/yandex-deploys-autonomous-delivery-robots-in-moscows-skolkovo-district/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/29/yandex-deploys-autonomous-delivery-robots-in-moscows-skolkovo-district/amp/",
+      "publishedDateTime": "2020-04-29T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/11/yandex_drone-e1588089973460.png?fit=750%2C375&strip=all",
+          "width": 750,
+          "height": 375,
+          "title": "Yandex deploys autonomous delivery robots in Moscow’s Skolkovo district",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-29-ai-cant-solve-this-the-coronavirus-could-be-highlighting-just-how-overhyped-the-industry-is.md",
       "title": "AI can't solve this: The coronavirus could be highlighting just how overhyped the industry is",
       "excerpt": "Artificial intelligence has been hailed as a monumental technology that will change the world, but coronavirus is showing that it is still in its infancy.",
@@ -1259,51 +1304,6 @@
           "width": 1200,
           "height": 675,
           "title": "Misa's personal robot to be available at retail outlets in Middle East in August",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-28-delivery-robots-arent-readywhen-they-could-be-needed-most.md",
-      "title": "Delivery Robots Aren't Ready—When They Could Be Needed Most",
-      "excerpt": "Sheltering in place has driven up demand for deliveries, but machines still have trouble confronting the unpredictability of the real world.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wired.com/story/delivery-robots-arent-ready-when-needed-most/",
-      "ampWebUrl": "https://www.wired.com/story/delivery-robots-arent-ready-when-needed-most/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/delivery-robots-arent-ready-when-needed-most/amp",
-      "publishedDateTime": "2020-04-28T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5ea314d879127b00083c056b/master/pass/Transpo-3photo.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": "Delivery Robots Aren't Ready—When They Could Be Needed Most",
           "attribution": null
         }
       ],

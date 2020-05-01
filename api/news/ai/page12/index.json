@@ -2,6 +2,51 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-04-17-smarter-faq-bots-with-amazon-kendra.md",
+      "title": "Smarter FAQ bots with Amazon Kendra",
+      "excerpt": "We often have questions when making a choice about a product or service. When was the last time you found yourself at the IT help desk at work? You probably had questions like “What time does the IT Help Desk open?” or “Can I get a temporary machine while you repair my laptop?”  Quick and accurate responses",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/smarter-faq-bots-with-amazon-kendra/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-17T11:13:43-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/04/15/smarter-faq-1.gif",
+          "width": 800,
+          "height": 576,
+          "title": "Smarter FAQ bots with Amazon Kendra",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-17-ai-becomes-an-ally-in-the-fight-against-covid-19.md",
       "title": "AI Becomes An Ally In The Fight Against COVID-19",
       "excerpt": "How human ingenuity coupled with artificial intelligence is helping healthcare providers across the world respond to the pandemic.",
@@ -262,35 +307,6 @@
       ]
     },
     {
-      "path": "_news/2020-04-17-microsoft-to-be-ai-partner-for-nba.md",
-      "title": "Microsoft To Be AI Partner For NBA",
-      "excerpt": "Microsoft will become the official technology partner for the National Basketball Association or NBA under a new multi-year partnership between the two parties. As part of their collaboration, Microsoft will become the Official Artificial Intelligence Partner and an Official Cloud and Laptop Partner for the NBA,",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nasdaq.com/articles/microsoft-to-be-ai-partner-for-nba-2020-04-17",
-      "ampWebUrl": "https://www.nasdaq.com/articles/microsoft-to-be-ai-partner-for-nba-2020-04-17?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/microsoft-to-be-ai-partner-for-nba-2020-04-17?amp",
-      "publishedDateTime": "2020-04-17T08:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-04-17-ai-researchers-propose-bias-bounties-to-put-ethics-principles-into-practice.md",
       "title": "AI researchers propose ‘bias bounties’ to put ethics principles into practice",
       "excerpt": "Researchers from Google Brain, Intel, OpenAI, and top research labs in the U.S. and Europe joined forces this week to release what the group calls a toolbox for turning AI ethics principles into practice. The kit for organizations creating AI models includes the idea of paying developers for finding bias in AI, akin to the bug bounties offered ...",
@@ -333,6 +349,43 @@
       "topics": [
         "AI",
         "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2020-04-17-microsoft-to-be-ai-partner-for-nba.md",
+      "title": "Microsoft To Be AI Partner For NBA",
+      "excerpt": "Microsoft will become the official technology partner for the National Basketball Association or NBA under a new multi-year",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/microsoft-to-be-ai-partner-for-nba-1029102857",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/Microsoft-To-Be-AI-Partner-For-NBA-1029102857",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Microsoft-To-Be-AI-Partner-For-NBA-1029102857",
+      "publishedDateTime": "2020-04-17T08:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
       ]
     },
     {
@@ -1225,43 +1278,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-17-sebastian-thrun-king-of-the-geeks.md",
-      "title": "Sebastian Thrun – king of the geeks",
-      "excerpt": "Sebastian Thrun – king of the geeks In the clandestine Google X laboratory, Thrun – the guru of artificial intelligence and the man behind Google’s driverless car – is busy inventing the ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.thetimes.co.uk/article/sebastian-thrun-king-of-the-geeks-xdrks90sfqd",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-16T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Times",
-        "domain": "thetimes.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprodmigration%2Fweb%2Fbin%2F0478f394-5f6e-3dd8-8256-9ec147aff66b.jpg?crop=1500%2C1000%2C0%2C0&resize=1180",
-          "width": 1180,
-          "height": 786,
-          "title": "Sebastian Thrun – king of the geeks",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

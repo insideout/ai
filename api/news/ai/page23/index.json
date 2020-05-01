@@ -2,6 +2,96 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2020-04-07-emil-miso-robotics-launches-crowdfunding-campaign-for-autonomous-kitchen-robots.md",
+      "title": "Emil Miso Robotics launches crowdfunding campaign for autonomous kitchen robots",
+      "excerpt": "Today marks the official start of Miso Robotics‘ series C equity crowdfunding campaign ... On the software side, it benefits from improvements to Miso AI (Miso’s cloud-based platform) that expand the number of cookable food categories to over a dozen, including chicken tenders, chicken wings, tater tots, french fries and waffle fries ...",
+      "heat": 125,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/07/miso-robotics-launches-fundraising-campaign-to-develop-autonomous-kitchen-robots/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/07/miso-robotics-launches-fundraising-campaign-to-develop-autonomous-kitchen-robots/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/07/miso-robotics-launches-fundraising-campaign-to-develop-autonomous-kitchen-robots/amp/",
+      "publishedDateTime": "2020-04-07T02:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/01/FlippyROAR_IMAGE-1-e1579804235265.png?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Emil Miso Robotics launches crowdfunding campaign for autonomous kitchen robots",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-07-introducing-incremental-enrichment-in-azure-cognitive-search.md",
+      "title": "Introducing incremental enrichment in Azure Cognitive Search",
+      "excerpt": "Incremental enrichment is a new feature of Azure Cognitive Search that brings a declarative approach to indexing your data. When incremental enrichment is turned on, document enrichment is performed at the least cost, even as your skills continue to evolve. Indexers in Azure Cognitive Search add documents",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://azure.microsoft.com/blog/introducing-incremental-enrichment-in-azure-cognitive-search/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-07T02:00:45-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/11209cb0-9fc2-4d87-8210-62744f0df29a.png",
+          "width": 883,
+          "height": 462,
+          "title": "Introducing incremental enrichment in Azure Cognitive Search",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-07-deep-learning-market-2024-global-size-share-key-manufacturers-upcoming-trends-growth-and-regional-forecasts-research.md",
       "title": "Deep Learning Market 2024: Global Size, Share, Key Manufacturers, Upcoming Trends, Growth and Regional Forecasts Research",
       "excerpt": "The MarketWatch News Department was not involved in the creation of the content. Global Deep Learning Market 2020-2024. The report has been monitoring the deep learning market and it is poised to ...",
@@ -1185,87 +1275,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-06-cvg-becomes-first-us-airport-to-have-autonomous-robots-cleaning.md",
-      "title": "CVG becomes first U.S. airport to have autonomous robots cleaning",
-      "excerpt": "Cincinnati/Northern Kentucky International Airport is the first U.S. airport to use a certain type of robot to clean its floors, a practice that started earlier this year but has become even more useful given the COVID19 crisis.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.bizjournals.com/cincinnati/news/2020/04/06/cvg-becomes-first-u-s-airport-to-have-autonomous.html",
-      "ampWebUrl": "https://www.bizjournals.com/cincinnati/news/2020/04/06/cvg-becomes-first-u-s-airport-to-have-autonomous.amp.html",
-      "cdnAmpWebUrl": "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/cincinnati/news/2020/04/06/cvg-becomes-first-u-s-airport-to-have-autonomous.amp.html",
-      "publishedDateTime": "2020-04-06T09:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Business Journals",
-        "domain": "bizjournals.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.bizj.us/view/img/11642104/neocvg2*600xx3281-2187-0-0.png",
-          "width": 600,
-          "height": 399,
-          "title": "CVG becomes first U.S. airport to have autonomous robots cleaning",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-06-ibm-shares-ai-tools-to-better-understand-and-treat-covid-19.md",
-      "title": "IBM shares AI tools to better understand and treat COVID-19",
-      "excerpt": "It’s hoping to help researchers and frontline medical professionals. IBM wants to help researchers better understand and treat COVID-19. To do so, it’s putting its AI to work. It has released a series of new tools to aggregate data, help researchers explore potential therapies, advance the study of newly sequenced SARS-CoV-2 genomes and ...",
-      "heat": 97,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.engadget.com/ibm-coronavirus-ai-research-tools-162123059.html",
-      "ampWebUrl": "https://www.engadget.com/amp/ibm-coronavirus-ai-research-tools-162123059.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/ibm-coronavirus-ai-research-tools-162123059.html",
-      "publishedDateTime": "2020-04-06T09:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-04%2Fd6b014b0-781d-11ea-9feb-f34a059ca99c&client=amp-blogside-v2&signature=6996e8f7d2fdda8e7a63ace2c66b184f2ff39680",
-          "width": 600,
-          "height": 350,
-          "title": "IBM shares AI tools to better understand and treat COVID-19",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -2,6 +2,97 @@
   "page": 101,
   "value": [
     {
+      "path": "_news/2020-01-15-machine-translation-mt-market-overview-with-detailed-analysis-competitive-landscape-forecast-to-2026.md",
+      "title": "Machine Translation (MT) Market Overview with Detailed Analysis, Competitive Landscape Forecast to 2026",
+      "excerpt": "Big Market Research has added a report, titled, \"Machine Translation (MT) Market\" The report not only provides a comprehensive analysis of market overview and dynamics for the historical period, 2019-2026,",
+      "heat": 168,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/machine-translation-mt-market-overview-with-detailed-analysis-competitive-landscape-forecast-to-2026-2020-01-15",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-15T07:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Machine Translation (MT) Market Overview with Detailed Analysis, Competitive Landscape Forecast to 2026",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-01-15-machine-learning-as-a-service-mlaas-market-key-insights-based-on-product-type-end-use-and-regional-demand-till-2023.md",
+      "title": "Machine Learning as a Service (MLaaS) Market key Insights Based on Product Type, End-use and Regional Demand Till 2023",
+      "excerpt": "Jan 15, 2020 (AmericaNewsHour) -- Machine learning has become a disruptive trend in the technology industry with computers learning to accomplish tasks without being explicitly programmed. The manufacturing industry is relatively new to the concept of machine learning. Machine learning is well aligned to deal with the complexities of the ...",
+      "heat": 72,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-key-insights-based-on-product-type-end-use-and-regional-demand-till-2023-2020-01-15",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-15T07:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Machine Learning as a Service (MLaaS) Market key Insights Based on Product Type, End-use and Regional Demand Till 2023",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2020-01-15-artificial-intelligence-or-ai-here-is-how-it-is-transforming-healthcare.md",
       "title": "Artificial Intelligence or AI: Here is how it is transforming healthcare",
       "excerpt": ". AI sector has also become one of the world's highest-growth industries. ©Shutterstock. Making a breakthrough in healthcare, researchers at the University of Warwick have developed a new ...",
@@ -1183,88 +1274,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-01-14-difference-making-new-tech-makes-it-easier-than-ever.md",
-      "title": "Difference Making: New Tech Makes It Easier Than Ever",
-      "excerpt": "These innovations have made it easier than ever to turn a passion project into an impact organization. They should be incorporated into high school introduction to entrepreneurship courses so young people learn that it’s not just about getting a job;",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/tomvanderark/2020/01/14/difference-making-new-tech-makes-it-easier-than-ever/",
-      "ampWebUrl": "https://www.forbes.com/sites/tomvanderark/2020/01/14/difference-making-new-tech-makes-it-easier-than-ever/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomvanderark/2020/01/14/difference-making-new-tech-makes-it-easier-than-ever/amp/",
-      "publishedDateTime": "2020-01-14T02:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e1d7478a854780006e87835%2F0x0.jpg",
-          "width": 932,
-          "height": 520,
-          "title": "Difference Making: New Tech Makes It Easier Than Ever",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-14-amazon-cloud-clientele-strengthens-as-bundesliga-selects-aws-nasdaq.md",
-      "title": "Amazon Cloud Clientele Strengthens as Bundesliga Selects AWS | Nasdaq",
-      "excerpt": "Amazon AMZN is focused on strengthening clientele of its cloud computing arm, Amazon Web Services (AWS), to expand presence in the cloud industry.Bundesliga, the professional association football ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nasdaq.com/articles/amazon-cloud-clientele-strengthens-as-bundesliga-selects-aws-2020-01-14",
-      "ampWebUrl": "https://www.nasdaq.com/articles/amazon-cloud-clientele-strengthens-as-bundesliga-selects-aws-2020-01-14?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/amazon-cloud-clientele-strengthens-as-bundesliga-selects-aws-2020-01-14?amp",
-      "publishedDateTime": "2020-01-14T01:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg",
-          "width": 1024,
-          "height": 512,
-          "title": "Amazon Cloud Clientele Strengthens as Bundesliga Selects AWS | Nasdaq",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

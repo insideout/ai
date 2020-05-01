@@ -84,6 +84,51 @@
       ]
     },
     {
+      "path": "_news/2020-04-13-fashion-that-will-hide-you-from-face-recognition-technology.md",
+      "title": "Fashion that will hide you from face-recognition technology",
+      "excerpt": "A pair of recent papers out of Institut Eurécom discussed improvements in facial recognition in cases where the face is occluded by clothing or accessories. Object recognition systems can ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://io9.gizmodo.com/how-fashion-can-be-used-to-thwart-facial-recognition-te-1495648863",
+      "ampWebUrl": "https://io9.gizmodo.com/how-fashion-can-be-used-to-thwart-facial-recognition-te-1495648863/amp",
+      "cdnAmpWebUrl": "https://io9-gizmodo-com.cdn.ampproject.org/c/s/io9.gizmodo.com/how-fashion-can-be-used-to-thwart-facial-recognition-te-1495648863/amp",
+      "publishedDateTime": "2020-04-12T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "io9.gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/19bq4btbxr3ipjpg.jpg",
+          "width": 800,
+          "height": 400,
+          "title": "Fashion that will hide you from face-recognition technology",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-10-facial-recognition-guide-from-vpn-compare-presents-incomplete-picture.md",
       "title": "Facial recognition guide from VPN Compare presents incomplete picture",
       "excerpt": "As the Electronic Frontier Foundation has said, facial recognition is “one of the most pervasive surveillance technologies” across the globe. Indeed. It is an industry estimated to continued to increase with an expected worth of upwards of $15 billion by 2025. But now comes “the ultimate” handbook: Facial Recognition: An Ultimate Guide ...",
@@ -1180,54 +1225,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-30-huawei-open-sources-mindspore-a-framework-for-ai-app-development.md",
-      "title": "Huawei open-sources MindSpore, a framework for AI app development",
-      "excerpt": "Huawei this week announced that MindSpore, a framework for AI app development the company detailed in August 2019, is now available in open source on GitHub and Gitee. The lightweight suite is akin to Google’s TensorFlow and Facebook’s PyTorch, and it scales across devices, edge, and cloud environments, ostensibly lowering the barrier to ...",
-      "heat": 95,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/03/30/huawei-open-sources-mindspore-a-framework-for-ai-app-development/",
-      "ampWebUrl": "https://venturebeat.com/2020/03/30/huawei-open-sources-mindspore-a-framework-for-ai-app-development/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/30/huawei-open-sources-mindspore-a-framework-for-ai-app-development/amp/",
-      "publishedDateTime": "2020-03-30T08:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/03/4430f3df-d46f-46c6-9767-ec2c36d7d8ef-e1585576947747.png?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Huawei open-sources MindSpore, a framework for AI app development",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics",
-        "AI Hardware",
-        "Google AI",
-        "Computer Vision"
       ]
     }
   ],

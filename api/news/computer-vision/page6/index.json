@@ -2,6 +2,51 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-02-27-tractable-raises-25-million-for-computer-vision-that-accelerates-insurance-claims.md",
+      "title": "Tractable raises $25 million for computer vision that accelerates insurance claims",
+      "excerpt": "Tractable has raised $25 million to expand the reach of its AI- and computer vision-based platform that automates insurance claims processing. The London-based startup has developed technology that effectively eliminates the need to have a claims adjuster physically inspect a house or car after a disaster or accident in order to generate a ...",
+      "heat": 138,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/02/26/tractable-raises-25-million-for-computer-vision-that-accelerates-insurance-claims/",
+      "ampWebUrl": "https://venturebeat.com/2020/02/26/tractable-raises-25-million-for-computer-vision-that-accelerates-insurance-claims/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/26/tractable-raises-25-million-for-computer-vision-that-accelerates-insurance-claims/amp/",
+      "publishedDateTime": "2020-02-26T16:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/02/tractable-e1582748104266.png?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Tractable raises $25 million for computer vision that accelerates insurance claims",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2020-02-26-ebay-now-uses-computer-vision-to-remove-product-photo-backgrounds.md",
       "title": "eBay now uses computer vision to remove product photo backgrounds",
       "excerpt": "eBay is introducing a new computer vision-powered feature to help sellers’ listings stand out. Image Clean-up, as the tool is called, automatically removes the background from a photo so that only the item being sold appears in the image. It’s fair to assume that most people aren’t experts in Photoshop, nor do they have professional ...",
@@ -1189,52 +1234,6 @@
       "topics": [
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-02-10-deep-learning-godfathers-bengio-hinton-lecun-say-the-field-can-fix-its-flaws.md",
-      "title": "Deep learning godfathers Bengio, Hinton, LeCun say the field can fix its flaws",
-      "excerpt": "Each of the three scientists got a half hour to talk, and each one acknowledged numerous shortcomings in deep learning, things such as \"adversarial examples,\" where an object recognition system can be tricked into mis-identifying an object just by adding noise to a picture. \"There's been a lot of talk of the negatives about deep learning ...",
-      "heat": 97,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/deep-learning-godfathers-bengio-hinton-lecun-say-the-field-can-fix-its-flaws/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/deep-learning-godfathers-bengio-hinton-lecun-say-the-field-can-fix-its-flaws/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/deep-learning-godfathers-bengio-hinton-lecun-say-the-field-can-fix-its-flaws/",
-      "publishedDateTime": "2020-02-10T06:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/02/10/791c60e2-4f7e-4ab8-9ddf-688966cfe2ac/hinton-lecun-bengio-aaai20-feb-9-2020.png",
-          "width": 3151,
-          "height": 1082,
-          "title": "Deep learning godfathers Bengio, Hinton, LeCun say the field can fix its flaws",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision",
-        "Machine Learning"
       ]
     }
   ],

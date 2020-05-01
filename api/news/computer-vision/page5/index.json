@@ -2,6 +2,35 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-03-11-intels-facial-recognition-will-track-employees-and-visitors.md",
+      "title": "Intel’s Facial Recognition Will Track Employees and Visitors",
+      "excerpt": "Intel’s Portland office will begin using facial recognition to identify “high risk individuals.” The company touts the tech as being used for safety, but many are concerned about privacy and ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.governing.com/security/Intels-Facial-Recognition-Will-Track-Employees-and-Visitors.html",
+      "ampWebUrl": "https://www.governing.com/security/Intels-Facial-Recognition-Will-Track-Employees-and-Visitors.html?AMP",
+      "cdnAmpWebUrl": "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/security/Intels-Facial-Recognition-Will-Track-Employees-and-Visitors.html?AMP",
+      "publishedDateTime": "2020-03-11T14:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Governing",
+        "domain": "governing.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-11-police-used-facial-recognition-to-arrest-over-1100-people-in-india-last-month.md",
       "title": "Police Used Facial Recognition to Arrest Over 1,100 People in India Last Month",
       "excerpt": "Shortly after one of the worst riots New Delhi has seen in decades, law enforcement agencies in India used facial recognition technology to identify more than 1,100 people who allegedly took part ...",
@@ -1095,51 +1124,6 @@
           "width": 2215,
           "height": 1353,
           "title": "ICE warrantless facial recognition searches trigger Maryland bill",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-02-27-tractable-raises-25-million-for-computer-vision-that-accelerates-insurance-claims.md",
-      "title": "Tractable raises $25 million for computer vision that accelerates insurance claims",
-      "excerpt": "Tractable has raised $25 million to expand the reach of its AI- and computer vision-based platform that automates insurance claims processing. The London-based startup has developed technology that effectively eliminates the need to have a claims adjuster physically inspect a house or car after a disaster or accident in order to generate a ...",
-      "heat": 138,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/02/26/tractable-raises-25-million-for-computer-vision-that-accelerates-insurance-claims/",
-      "ampWebUrl": "https://venturebeat.com/2020/02/26/tractable-raises-25-million-for-computer-vision-that-accelerates-insurance-claims/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/26/tractable-raises-25-million-for-computer-vision-that-accelerates-insurance-claims/amp/",
-      "publishedDateTime": "2020-02-26T16:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/02/tractable-e1582748104266.png?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Tractable raises $25 million for computer vision that accelerates insurance claims",
           "attribution": null
         }
       ],

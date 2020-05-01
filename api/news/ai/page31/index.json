@@ -2,6 +2,87 @@
   "page": 31,
   "value": [
     {
+      "path": "_news/2020-03-31-catholic-church-tech-firms-join-call-for-transparency-in-ai.md",
+      "title": "Catholic church, tech firms join call for transparency in AI",
+      "excerpt": "The Catholic Church joined with technology companies last month to release the \"Rome Call for AI Ethics\" in what it hopes will lend meaning if not governance frameworks for the use of artificial intelligence.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.upi.com/Top_News/Voices/2020/03/31/Catholic-church-tech-firms-join-call-for-transparency-in-AI/2661585655627/",
+      "ampWebUrl": "https://www.upi.com/amp/Top_News/Voices/2020/03/31/Catholic-church-tech-firms-join-call-for-transparency-in-AI/2661585655627/",
+      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/Voices/2020/03/31/Catholic-church-tech-firms-join-call-for-transparency-in-AI/2661585655627/",
+      "publishedDateTime": "2020-03-31T05:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UPI.com",
+        "domain": "upi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdnph.upi.com/sv/ph/og/upi/2661585655627/2020/1/1acca51c47c52ff10817f3b95463593d/v1.5/Catholic-church-tech-firms-join-call-for-transparency-in-AI.jpg",
+          "width": 800,
+          "height": 533,
+          "title": "Catholic church, tech firms join call for transparency in AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-31-modelop-helps-enterprises-deploy-monitor-and-maintain-ai-models.md",
+      "title": "ModelOp helps enterprises deploy, monitor, and maintain AI models",
+      "excerpt": "ModelOp, a startup developing AI software and development services for enterprises, today announced that it has raised $6 million. It plans to use the capital to support demand for its products in a market that IDC anticipates will be worth $8 billion by 2022. The term ModelOps refers to the process of cycling analytical models from data ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/03/31/modelop-helps-enterprises-deploy-monitor-and-maintain-ai-models/",
+      "ampWebUrl": "https://venturebeat.com/2020/03/31/modelop-helps-enterprises-deploy-monitor-and-maintain-ai-models/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/31/modelop-helps-enterprises-deploy-monitor-and-maintain-ai-models/amp/",
+      "publishedDateTime": "2020-03-31T05:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/03/adc2e353-9882-4a40-a740-3c90bb34db5c-e1585076656887.png?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "ModelOp helps enterprises deploy, monitor, and maintain AI models",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-31-covid-19-mapped-azure-powered-tool-ids-the-most-vulnerable-populations.md",
       "title": "COVID-19 mapped: Azure-powered tool IDs the most vulnerable populations",
       "excerpt": "Read More A company called Jvion, which specializes in what it calls clinical AI, is launching a COVID Community Vulnerability Map, a public facing tool built on Microsoft Azure maps that helps healthcare providers identify the social determinants of health (SDOH) that put populations at greater risk. That information can have a significant ...",
@@ -1163,95 +1244,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-30-scientists-use-ai-system-to-translate-brain-activity-into-text.md",
-      "title": "Scientists use AI system to translate brain activity into text",
-      "excerpt": "A new AI system that converts brain activity into text could transform communication for people who can’t speak or type. The mind-reading machine uses brain implants to track what neurons do when someone speaks. An algorithm then converts the data into a string of numbers, which another system then translates into a sequence of words.",
-      "heat": 97,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/03/30/scientists-use-ai-system-to-translate-brain-activity-into-text/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/03/30/scientists-use-ai-system-to-translate-brain-activity-into-text/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/03/30/scientists-use-ai-system-to-translate-brain-activity-into-text/amp/",
-      "publishedDateTime": "2020-03-30T10:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/03/Untitled-design43-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "Scientists use AI system to translate brain activity into text",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-30-how-to-find-a-perfect-deep-learning-framework.md",
-      "title": "How to Find a Perfect Deep Learning Framework",
-      "excerpt": "Many courses and tutorials offer to guide you through building a deep learning project. Of course, from the educational point of view, it is worthwhile: try to implement a neural network from ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/sciforce/how-to-find-a-perfect-deep-learning-framework-3cc00a56334d",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-30T10:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/1200/0*L1ilYCg5mEcEQ_E2",
-          "width": 1200,
-          "height": 432,
-          "title": "How to Find a Perfect Deep Learning Framework",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

@@ -2,6 +2,51 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-04-20-microsoft-pairs-machine-learning-models-to-fight-software-bugs.md",
+      "title": "Microsoft pairs machine learning models to fight software bugs",
+      "excerpt": "Microsoft has been collecting 13 million work items and bugs since 2001, and used that data to create a machine learning model to fight software bugs. According to the company, the model distinguishes between security and non-security bugs 99% of the time and identify the high-priority bugs 97% of the time. “At Microsoft, 47,000 developers ...",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://sdtimes.com/msft/microsoft-pairs-machine-learning-models-to-fight-software-bugs/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-20T13:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SD Times",
+        "domain": "sdtimes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://sdtimes.com/wp-content/uploads/2018/10/artificial-neural-network-3501528_960_720.png",
+          "width": 960,
+          "height": 540,
+          "title": "Microsoft pairs machine learning models to fight software bugs",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-20-this-app-uses-ai-to-screen-for-covid-19-in-rural-areas-future-blink.md",
       "title": "This app uses AI to screen for COVID-19 in rural areas — Future Blink",
       "excerpt": "Mashable is a global, multi-platform media and entertainment company. Powered by its own proprietary technology, Mashable is the go-to source for tech, digital culture and entertainment content for its dedicated and influential audience around the globe. ©2020 Mashable, Inc. All Rights Reserved. Mashable, MashBash and Mashable House are among ...",
@@ -1004,52 +1049,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-20-facebook-three-fintech-firms-in-talks-to-launch-mobile-payments-service-in-indonesia.md",
-      "title": "Facebook, three fintech firms in talks to launch mobile payments service in Indonesia",
-      "excerpt": "Facebook is working with three Indonesian digital fintech firms to apply for regulatory approval to launch mobile payments ... Sign up now and get a 10% discount (original price US$400) off the China AI Report 2020 by SCMP Research. Learn about the AI ambitions of Alibaba, Baidu & JD.com through our in-depth case studies, and explore new ...",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.scmp.com/tech/big-tech/article/3080729/facebook-three-fintech-firms-talks-launch-mobile-payments-service",
-      "ampWebUrl": "https://amp.scmp.com/tech/big-tech/article/3080729/facebook-three-fintech-firms-talks-launch-mobile-payments-service",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3080729/facebook-three-fintech-firms-talks-launch-mobile-payments-service",
-      "publishedDateTime": "2020-04-20T02:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/04/20/72823e74-82e4-11ea-8863-2139a14b0dea_image_hires_181245.JPG?itok=-bpnCTHB&v=1587377576",
-          "width": 1200,
-          "height": 630,
-          "title": "Facebook, three fintech firms in talks to launch mobile payments service in Indonesia",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

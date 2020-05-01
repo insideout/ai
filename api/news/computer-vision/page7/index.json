@@ -2,6 +2,52 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-02-10-deep-learning-godfathers-bengio-hinton-lecun-say-the-field-can-fix-its-flaws.md",
+      "title": "Deep learning godfathers Bengio, Hinton, LeCun say the field can fix its flaws",
+      "excerpt": "Each of the three scientists got a half hour to talk, and each one acknowledged numerous shortcomings in deep learning, things such as \"adversarial examples,\" where an object recognition system can be tricked into mis-identifying an object just by adding noise to a picture. \"There's been a lot of talk of the negatives about deep learning ...",
+      "heat": 97,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/deep-learning-godfathers-bengio-hinton-lecun-say-the-field-can-fix-its-flaws/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/deep-learning-godfathers-bengio-hinton-lecun-say-the-field-can-fix-its-flaws/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/deep-learning-godfathers-bengio-hinton-lecun-say-the-field-can-fix-its-flaws/",
+      "publishedDateTime": "2020-02-10T06:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/02/10/791c60e2-4f7e-4ab8-9ddf-688966cfe2ac/hinton-lecun-bengio-aaai20-feb-9-2020.png",
+          "width": 3151,
+          "height": 1082,
+          "title": "Deep learning godfathers Bengio, Hinton, LeCun say the field can fix its flaws",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-02-10-tyson-takes-computer-vision-to-the-chicken-plant.md",
       "title": "Tyson Takes Computer Vision to the Chicken Plant",
       "excerpt": "The meat processor plans to expand the use of computer vision to track how much chicken moves through its plants, part of an effort to invest more in automation and artificial intelligence to cut costs and reduce waste.",
@@ -1208,51 +1254,6 @@
           "width": 1200,
           "height": 765,
           "title": "Facebook agrees to pay $550 million to end facial recognition tech lawsuit",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-01-29-facial-recognition-scanners-at-us-airports-under-scrutiny-as-philadelphia-launches-pilot-program.md",
-      "title": "Facial recognition scanners at US airports under scrutiny as Philadelphia launches pilot program",
-      "excerpt": "PHILADELPHIA – A growing number of airports across the U.S. are using facial recognition scanners. Philadelphia International Airport (PHL) is the latest to roll out the technology. “So, this is an electronic way, basically, to verify identity,” said Jeni Best, a branch manager with U.S. Customs and Border Protection (CBP). At PHL ...",
-      "heat": 111,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.foxnews.com/tech/facial-recognition-machines-airports-under-scrutiny",
-      "ampWebUrl": "https://www.foxnews.com/tech/facial-recognition-machines-airports-under-scrutiny.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/facial-recognition-machines-airports-under-scrutiny.amp",
-      "publishedDateTime": "2020-01-29T14:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media2.foxnews.com/BrightCove/694940094001/2020/01/29/694940094001_6127916599001_6127918301001-vs.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": "Facial recognition scanners at US airports under scrutiny as Philadelphia launches pilot program",
           "attribution": null
         }
       ],

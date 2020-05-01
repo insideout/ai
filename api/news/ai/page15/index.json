@@ -2,6 +2,50 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2020-04-15-using-ai-yes-health-cuts-costs-improves-adherence-for-weight-loss-and-diabetes-treatment.md",
+      "title": "Using AI, Yes Health cuts costs, improves adherence for weight loss and diabetes treatment",
+      "excerpt": "“Yes Health is proven to tackle difficult and costly chronic conditions through an AI-augmented and all-mobile solution, aligning it with our firm’s thesis in healthcare.”",
+      "heat": 77,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/04/15/using-ai-yes-health-cuts-costs-improves-adherence-for-weight-loss-and-diabetes-treatment/",
+      "ampWebUrl": "https://techcrunch.com/2020/04/15/using-ai-yes-health-cuts-costs-improves-adherence-for-weight-loss-and-diabetes-treatment/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/15/using-ai-yes-health-cuts-costs-improves-adherence-for-weight-loss-and-diabetes-treatment/amp/",
+      "publishedDateTime": "2020-04-15T10:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/04/GettyImages-1077583696.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": "Using AI, Yes Health cuts costs, improves adherence for weight loss and diabetes treatment",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-15-walking-robot-uses-neural-net-to-change-gaits.md",
       "title": "Walking robot uses neural net to change gaits",
       "excerpt": "Insects rapidly transition between different walking gaits, in response to external stimuli. Scientists have now created a small robot that can do the same thing, utilizing an integrated artificial neural network – the technology might ultimately find use in better-performing prostheses. Known as the NeuroPod, the 3D-printed six-legged robot ...",
@@ -1213,35 +1257,6 @@
       "provider": {
         "name": "GlobeNewswire",
         "domain": "globenewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-14-whats-driving-speech-recognition-market-growth-major-players.md",
-      "title": "What's Driving Speech Recognition Market Growth? Major Players",
-      "excerpt": "Speech recognition is a technology used in various devices such as smartphones cars and computers which enables the system to identify the sound of spoken words and convert them into machine readable forms It uses linguistic units for speech and",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.openpr.com/news/2009622/what-s-driving-speech-recognition-market-growth-major-players",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-14T12:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
         "images": null,
         "publishers": null,
         "authors": null

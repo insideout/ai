@@ -27,6 +27,6 @@ images:
     height: 448
     title: "Tesla’s self-driving tech will pivot to subscription service — good shit, or just shit?"
 
-secured: "gAIvIRkwAAxP8SI/+tzRCyz10eFmxCtxzK+/5VCxpoOv1lZyF7lVo/OaKcQfMFcUj5piCDMYnflruY249x8oOpOg1tl59Z5RmK5oLPkO4YWedDaxENzfqDxf8rPtxgm3dQRY5Wv2BXBvp0OM3n1AJgn23PLrngi1GjkKtiV9ywKy8oy9PoYRhlia2loiZ99ioxhoT90AAowqobBTIqWAplj0T40jv6Kv5wq11N/NOEn8B5Qcn4vpTcEe7+KlKrc9JAsSdfNv8na15OI127Kd+JpYNODnnd6b3wVGYOD+pQTnXBr2OA/Ns/U5pzI+shfj;Al+B91VlXCsmN4Wp8Pzn5g=="
+secured: "1wdiRT6/IY3XwCXYkTjGJqT+dW9lP/0vXkAI3Im/UybTmMhr8wz/LOkblj1EipXVYAqLkjQQtsXPkPthnBk/AAx9acFAdgwtHuVIdpNoRxAyIUcbE+FkrqSsvPax07n4NUlNx4mblKWYnkb5wY3nVcfCIcao9XU56fSfotIHSeKx5Z3aUPSYdPibDzg6WF1Kgy1dvvVSNMAPmUJR/Ml2FIs11+gOC0sVppfTHgEOGDd6vnkqwCs4pXDSHFVABOMJ3iOY32ptUPZrmRAMLvw8gfwYNk15HxeWoJe6H8E0eWaGKCyNUuyZt122nIZ/Xq2kSyeWscUIl0AKyZEMSKQjqbxpoFi739RFjfrFSLJW1TLYqvJH7TxbP7+2eeJ9zSqEYK9LZryLFueo84XkLG/uT7c1QlwvLiy55tcwGV937/rSZJqqXHWZXvhkNYfZX2rFECpKhhkHiOw+wwq1+2J6WtNNy+jzuGvAYS3jwbVyr84=;hu8acZDkNTK+5RVkTF0nrQ=="
 ---
 

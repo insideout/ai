@@ -2,6 +2,51 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-04-28-intel-released-10nm-wireless-5g-base-station-chip-wimi-releases-ar-ai-vision-cloud-services.md",
+      "title": "Intel Released 10nm Wireless 5G Base Station Chip, WIMI Releases AR + AI Vision Cloud Services",
+      "excerpt": "According to foreign media reports, Intel recently launched a series of software and hardware products, including",
+      "heat": 72,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/intel-released-10nm-wireless-5g-base-station-chip-wimi-releases-ar-ai-vision-cloud-services-2020-04-27",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-27T18:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Intel Released 10nm Wireless 5G Base Station Chip, WIMI Releases AR + AI Vision Cloud Services",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-28-go-read-this-analysis-of-the-new-iphone-ses-ai-powered-depth-camera-system.md",
       "title": "Go read this analysis of the new iPhone SE’s AI-powered depth camera system",
       "excerpt": "For portrait photos, the iPhone SE’s camera uses machine learning to estimate depth of field, and Ben Sandofsky, one of the developers of mobile photography app Halide, took a closer look at how at how portrait photos taken by the SE’s single camera actually work.",
@@ -1043,51 +1088,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-27-shanghai-ride-hailers-can-now-call-for-an-autox-self-driving-taxi.md",
-      "title": "Shanghai ride-hailers can now call for an AutoX self-driving taxi",
-      "excerpt": "Autonomous driving tech company AutoX has partnered with the Alibaba Group's Amap mobility platform to offer folks in Shanghai the option to hail a ride in an AutoX RoboTaxi.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://newatlas.com/automotive/amap-autox-robotaxi-automonous-shanghai/",
-      "ampWebUrl": "https://newatlas.com/automotive/amap-autox-robotaxi-automonous-shanghai/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/automotive/amap-autox-robotaxi-automonous-shanghai/?amp=true",
-      "publishedDateTime": "2020-04-27T03:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/5ced272/2147483647/strip/true/crop/6036x4024+6+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Ff9%2F64%2F1def9f2d4b9284f3202d26fdc1df%2Fautox-amap-app.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "Shanghai ride-hailers can now call for an AutoX self-driving taxi",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }
