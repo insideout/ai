@@ -1,30 +1,26 @@
 ---
 category: news
 title: "C3.ai selects Microsoft Dynamics 365 and Teams to power the next phase of growth"
-excerpt: "C3.ai's global customer experience and elevate sales performance using intelligent cloud technology.  As demand for enterprise-grade, AI applications continues to grow, so does the need for modern CRM tools to help businesses identify new leads,"
+excerpt: "C3.ai, a leading innovator in enterprise AI software for accelerating digital transformation, announced plans to collaborate with"
 publishedDateTime: 2020-04-27T16:00:00Z
-webUrl: "https://www.marketwatch.com/press-release/c3ai-selects-microsoft-dynamics-365-and-teams-to-power-the-next-phase-of-growth-2020-04-27"
+webUrl: "https://www.prnewswire.com/news-releases/c3ai-selects-microsoft-dynamics-365-and-teams-to-power-the-next-phase-of-growth-301047370.html"
 type: article
-quality: 79
-heat: 89
-published: true
+quality: 49
+heat: 49
+published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
+  - url: "https://mma.prnewswire.com/media/24227/microsoft_corp_logo226_9217jpg.jpg?p=facebook"
+    width: 2695
+    height: 1414
     title: "C3.ai selects Microsoft Dynamics 365 and Teams to power the next phase of growth"
 
 related:
@@ -38,6 +34,6 @@ related:
       domain: telecompaper.com
     quality: 34
 
-secured: "DtFBEk79MhF6/+74KJXrGVnRKgEMnjZ9kD66iNhwkFHs4og8uNcbX1Sml8mwPCK4tpw3IsZnpXyyN7jglGKswp3sk/V+RgPacKQiIYlTRBiEBnlQEcapn0Ka28VG6SrUQ3GV1LScK5uDEeL1prD1LGCnQ+JG0NcXhOdhlSbTSYUTeY7meC6XeLfPXgwLEJPIVLUnmpohB+DsEFrampXJojKY2LNyWHfNmM4ZFM53yh0jPXrm4Kz3rkNXq39TG4fP4TOnqlC1+kp/jCZHnHdKJpOwVEkESd1Jar05LQe1MOR1n4B2xNSRDER9Azw8gMV9;mDzjJQL0sCsGgjqaGo6QDw=="
+secured: "BTk/AmsfNv9jj9i0NM+8+GvuSkF7zt+dtzEpX9fHvYA4zepM+qEhDr3jgT7G01lIFIDvf2D64buZ+UXURcwr0A0DwpIT18P7uAqT7ePjskrFd5tScTPCEnowjrO8CiFvsIZVViCYdTwbVKM5iqEKLWbz98QJVsYhBVcLaTHITOf5pmgTls9USvmN0K8oKQbq9549wv5wnP1QMLZzcMyb1oeTWoM5I7+0+nTympd6WrxzbgdrkLhSnYB0ZiXD62kYB0sltJfQARXfDNwhNbMOwZrOAYYgB6dlwHqk0qXjaDlbcG9ppvFvcNqan2kGYJgI;OdDpGl494fmrT36MhX4eKA=="
 ---
 

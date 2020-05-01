@@ -23,6 +23,6 @@ images:
     height: 400
     title: "Formula One and AWS collaborate for virtual machine learning event"
 
-secured: "t6QX0kYm/AvJSr/iq6vEQWBqeM6QGSQ9azC0CHgh32DjdrINdWOhzDknH1chPwsNnyPVjzNSfYZXQRpQs3N2pYgf8M45+VqhX+AGj/t6MlLHm917g2rwk13hpEEPZC1Ox/WhwOfK96z716WCHIb6bDyf9PK9B/deGbPj5/6zb9FNn034qws2IN6Aruaif8rIEnNjIMvXlcGKlFHw6W7vSZsT38GE9UYevsK8sGLpvBeuKoMbSc88Kq+9YliqTdBEVBWjeOtjGHxvXj0Eksr1bEBolvCRxNCM4WCnZnMd/IyBL5PiVhX/fxjAeeckjwlC;AKQZ7aQp15C7nlUYM0mKEQ=="
+secured: "OCwTdDzhapzdzh3ZlrS77qc5BkdfBccMy8VvieYZ/LVGSmg0p2ut5GTpEN12vrgrb5wof23fzj2qu3dWB7YtE1nP6wGUqSX72uFnspC0OOCwpH4LjMhzXX3UFr8dbLqFqOp8rXlwRvDybWt+DlRyVA7FD3NHCGKLPvdxBaudtuj+dyP2ywqHOvuE192SoWrk8LW1BTaNIaGTEYQSHXQUesLNBgU5moyOgGOPt2UeRHRvVIoKr05dW200C/2Pw5f//QwtrF0IlfqKrooQ+ogMFiQN7zJ2wBJ4TlmfDPB9HnS++t0wmkzGnx1nqZO1gkj7+BG/BHgb4dCce8qaM+55Ux7g397N2rtH3AQyUvVIxfQxfoNKEBJSNf0TKCtKKYF/qufa/GHxPtro598BEu5cITb22PWUWggCad0ZMu+o0UoKGCn2WS+kKPmHgWB/lCAHAAKmdFCOSODA9kfrJmtCyJ+izfF1Ckz0FFe3PJMa+RY=;BKFe+uUzzA3L2E+/jCOD+Q=="
 ---
 

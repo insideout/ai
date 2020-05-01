@@ -3,17 +3,21 @@ category: news
 title: "Deezer develops AI to detect explicit song lyrics"
 excerpt: "Streaming service Deezer is developing technology to automatically detect explicit content in songs. The company has been looking into the issue because record labels often fail to identify offensive lyrics when they submit songs,"
 publishedDateTime: 2020-05-01T11:00:00Z
-webUrl: "https://www.bbc.co.uk/news/entertainment-arts-52499375?intlink_from_url=&link_location=live-reporting-story"
+webUrl: "https://www.bbc.com/news/entertainment-arts-52499375"
 ampWebUrl: "https://www.bbc.com/news/amp/entertainment-arts-52499375"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/entertainment-arts-52499375"
 type: article
-quality: 57
-heat: 57
-published: false
+quality: 87
+heat: 87
+published: true
 
 provider:
   name: BBC
-  domain: bbc.co.uk
+  domain: bbc.com
+  images:
+    - url: "https://insideout.app/ai/assets/images/organizations/bbc.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
@@ -24,6 +28,6 @@ images:
     height: 576
     title: "Deezer develops AI to detect explicit song lyrics"
 
-secured: "jNf1wvUyE8qgm6UMYxdqQEfJwQetrkK2Qr4JlJ2yukuDMFJ4a9A+s3eXN0tB9AztI6hGCT7p9BGhj8LRlpKS39h1wmSHLALOPzfOtKVHCWAXRoc3B67+XwymnPx6+yi7wvkxmAWmUgzYgQrV6dycgtloSj/80ghLDGE3jNgl2F7OvMnTp2vJUNG0wZtNc7upRet5un7csQ/W1n+mTiOqEnxfC4OGMtEOCM7E/nM87MOZX3LTh8S1ZEQnimssaya7TtBjtlQ1oAxsZSw7Hcn7iXcLsVix2BmhoVQ9Gx1CNA66pylME1VgFfrBxrL+Y2Ix;JXWTXePgDGy1lSYkDVYZ4Q=="
+secured: "1Dy9IOrB8j65BKrTQwZrBbY1rPZygz4Ydsl8+9hXxz3qUxcI7d9/KjdUtBtZ9mFAnua6L0yDSGAfJz6tgD4w3fWLSnDjPaaXQV0vVuTf4yXIHUoD/YliOnzoI67THFYUELHf64TmVUVPcyXuEj3+gEYJmnoLgPt1Elhnq7dlPbuebwZzAtqpCUOPOgQhHoD8n1EmCCs+XtDHL+MvOckvbwvIt+zMZzTtLU4lQiOwPtsQs5zxcug7J3y78yjMow159EqIJw+3DzVn3QxW5cytqHZvVrl28+g28lRAgChF2conApqMOqpQcR1r+nIPnvVt;GkxH3EJ4h4LStTc0SlugyA=="
 ---
 

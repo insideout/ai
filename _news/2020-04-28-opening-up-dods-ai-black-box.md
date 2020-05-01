@@ -3,7 +3,7 @@ category: news
 title: "Opening up DOD's AI black box"
 excerpt: "As algorithms and other AI tools become more prominent to military operations, researchers are studying better ways to visualize and communicate their decision-making."
 publishedDateTime: 2020-04-28T16:10:00Z
-webUrl: "https://fcw.com/articles/2020/04/28/dod-ai-black-box-johnson.aspx?admgarea=TC_Agencies"
+webUrl: "https://fcw.com/articles/2020/04/28/dod-ai-black-box-johnson.aspx"
 type: article
 quality: 39
 heat: 39
@@ -23,6 +23,6 @@ images:
     height: 368
     title: "Opening up DOD's AI black box"
 
-secured: "607UBxHGs/dqdphiuWzGxCF4lt7hxUlDUUg8irah8EUK1Z/sBFJFy6nvFLKjbs8bHfeV9VMy0p1FS3j2whziB/9fjoH/AxO4ZMbqUlLlOvqv1a9aoLb/JmwHSwh8HZhcUbMePHmGckyPINzDAf1LHdXe0wOfWscHt+hKhVyR0ReSdNDYA6T1kHCVEszwniumHg/OgmKmKRUNQFxLHZVfnzYykfP0Ag+NcMPNsAAVAEb+p9LnYruSU4AIXFhT7ETG1Hepry/vmgBQYJrPyzNQDLaZdd5fFp5P1rsMQeATb0I2MQ12qGedT1b9c2vMaxAwvezZiU/7ToUPtBOf6nLsWjsWF2rnPxuuUOHIQHbzbHhOX34vFbx29+eg+IjHR208jA6rqVgd1D61rxJeGOojD65tgD7i/0Gfuf97XxxatQeLsYGdRJa/ZDW0CmDHtU4nlObJGkV17gRrzgxuFAct4jkuthJEDRJp4LwnUt6sqII=;AMtDDz0PM74H5YCxSArjuQ=="
+secured: "OXGZ4oVUSJboz16mqudf87gVYKmByfWsbLZJYtbp/5UjERx2YQKVTM2SF0SI1gIshtCZzh9ASmTsDz4u59UZqPmNC1XcQsOwwQbeQB+iT3I5LYnX+TEi9f+aGtxn9y1IkZl1p9RgeLlXF6N8ZcDNrbcf00NaQjFWRoon1FLXcPEinGViVEW7J8FXMTjyYFxa+aJpt4hKIsKkNlOYYB0sobINI4en8pNz5q7e6WAtkNIOXqI4Rm8eIz2qLcTQIzXIOBpg7CYV49B+o8PIfIz1po4v3FGalidPQUIkpa+275/SNtBcg2GDrmD27js3gfI/;tyJQwCDa/AYdohMawcXoLQ=="
 ---
 
