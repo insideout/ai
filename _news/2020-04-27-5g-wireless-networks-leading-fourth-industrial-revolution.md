@@ -1,7 +1,7 @@
 ---
 category: news
 title: "5G wireless networks leading fourth industrial revolution"
-excerpt: "Network providers around the globe are launching 5G networks that can connect the handful of available 5G-capable devices. Currently, very few devices are connected to these new networks, allowing providers to tout headline grabbing download speeds of 1 Gbps plus."
+excerpt: "Driverless vehicles are rated based on their ... from the likes of Boston Dynamics in the U.S or the advances made in artificial intelligence (AI) from global players. Beyond the obvious risk ..."
 publishedDateTime: 2020-04-27T10:12:00Z
 webUrl: "https://www.techradar.com/uk/news/5g-wireless-networks-leading-fourth-industrial-revolution"
 ampWebUrl: "https://www.techradar.com/uk/amp/news/5g-wireless-networks-leading-fourth-industrial-revolution"
@@ -29,6 +29,6 @@ images:
     height: 675
     title: "5G wireless networks leading fourth industrial revolution"
 
-secured: "X7E4IEvy7mnCITVBxENSniBtQLjNt0+xbrj84SZTAo4d7vw2oc0W3Gzc3+efQIBbKWOv5Fh2KTbNluic/L/rFSvSsWOoiQ36aeF+zht1d6/kctjAaZM+XGC+91qQS+XogffXdWQyGUCqogLZk4ghEJcoQ5zGWnCz/K3Yrcs7zbIK4hx06f0P/rqNmlE4wLHgqNbFbJjc0ilGSVEwVV7x+c4CUpaN9DQ+b0J8DHAXYxefc3/YjbVKUZajcK3aEvWI1ee4ybFRlYsrAhY30BBVEBBfO1ANjblrN1nnBsr+64DO0TfsaSnLREXDMA5nO8kx;YlQOt21NrS0ajZdpY1Qbbw=="
+secured: "CwnBuxnX7UOw92FEM8Nn1BPX6DXrk8TsXZly3xyjJiMRumK+yBsTe8aGtR7a7KF/89glPQd+DNO7bCrqEpUJLdZ9uz6UXCzIXbUC6uVvPT3JBzbt/rCok2LrQl3469g6msK/SdPZXK5HOGfiUZVSmOc/KJuF4g+kr8kSX1miEkrbHs6djXtmfiDCXOaTcCmqeXZQjbufTVHqqgiL7t6W1pc4wGUBBTqxg8ZI9zkC7qTYKEZUNxvMJSBxk9EjayqxUJpK6G8KImHAUtWFj5zlHk7qkSXE6ivNwc6lmRaPfakTVH8hqm6l8eianqsxzeiu;u8VzZ2j0zKkENq0RUfprkA=="
 ---
 

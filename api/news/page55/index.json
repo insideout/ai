@@ -2,6 +2,72 @@
   "page": 55,
   "value": [
     {
+      "path": "_news/2020-03-17-rpa-and-artificial-intelligence-five-questions.md",
+      "title": "RPA and Artificial Intelligence – Five Questions",
+      "excerpt": "Indico CEO Tom Wilde sees a shifting landscape ahead for AI and RPA users as enterprises look to move their process automation efforts forward. Some of the major themes he’s watching include: RPA’s adoption problem;",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.globenewswire.com/news-release/2020/03/17/2001931/0/en/RPA-and-Artificial-Intelligence-Five-Questions.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-17T06:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GlobeNewswire",
+        "domain": "globenewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-17-computer-vision-and-image-analysis-online-course-offered-by-microsoft.md",
+      "title": "Computer Vision and Image Analysis online course offered by Microsoft",
+      "excerpt": "Computer Vision is the art of distilling actionable information from images. In this hands-on course, we'll learn about Image Analysis techniques using Python packages like PIL, Scikit-Image, Open CV, and others. You'll then explore machine learning for computer vision, including deep learning techniques for image classification, object ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.sakshieducation.com/Story.aspx?cid=0&sid=0&chid=0&tid=0&nid=261255",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-17T06:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Sakshi Education",
+        "domain": "sakshieducation.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.sakshieducation.com/images/logo.png",
+          "width": 510,
+          "height": 300,
+          "title": "Computer Vision and Image Analysis online course offered by Microsoft",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-17-runai-announces-general-availability-of-its-k8s-based-deep-learning-virtualization-platform.md",
       "title": "Run:AI Announces General Availability of Its K8s-based Deep Learning Virtualization Platform",
       "excerpt": "/PRNewswire/ -- Run:AI, a company virtualizing AI infrastructure, today announced the general availability of its deep learning virtualization platform.",
@@ -841,80 +907,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-hdfc-life-integrates-face-speech-recognition-tech-to-promote-term-insurance-solutions.md",
-      "title": "HDFC Life integrates face & speech recognition tech to promote term insurance solutions",
-      "excerpt": "mCanvas, the experiential storytelling ad platform for small screens, has created an interactive mobile-led ad campaign for HDFC Life. Using real-time face and speech recognition technology, the rich-media ad is engaging users and enhancing the overall brand experience. This mobile-led ad, created by mCanvas first encourages users to make the ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.exchange4media.com/marketing-news/hdfc-life-integrates-face-speech-recognition-tech-to-promote-term-insurance-solutions-103346.html",
-      "ampWebUrl": "https://www.exchange4media.com/amp/marketing-news/hdfc-life-integrates-face-speech-recognition-tech-to-promote-term-insurance-solutions-103346.html",
-      "cdnAmpWebUrl": "https://www-exchange4media-com.cdn.ampproject.org/c/s/www.exchange4media.com/amp/marketing-news/hdfc-life-integrates-face-speech-recognition-tech-to-promote-term-insurance-solutions-103346.html",
-      "publishedDateTime": "2020-03-16T22:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Exchange 4 Media",
-        "domain": "exchange4media.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.exchange4media.com/news-photo/103346-HDFCLifeandmCanvas.jpg",
-          "width": 730,
-          "height": 395,
-          "title": "HDFC Life integrates face & speech recognition tech to promote term insurance solutions",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-yunqi-partners-and-others-inject-rmb-200-million-in-b-series-funding-round-for-robot-company-keenon.md",
-      "title": "Yunqi Partners and Others Inject RMB 200 million in B series Funding Round for Robot Company Keenon",
-      "excerpt": "BEIJING, March 16, 2020 /PRNewswire/ -- Robot startup Keenon recently completed a new round of financing. Source Code Capital, Walden International and Shanghai S&T were the investors in this round of funding,",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://apnews.com/PR Newswire/4830f57775d28d2998428f099aece276",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-16T22:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": "Yunqi Partners and Others Inject RMB 200 million in B series Funding Round for Robot Company Keenon",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

@@ -28,6 +28,6 @@ images:
     height: 600
     title: "Google open-sources AI that searches tables to answer natural language questions"
 
-secured: "OC3CqFxYVr6n5TuhJEStoqkfhmWzNQwl2P+mdbAPMfqA+ph3ePNV7irMSSoLtQaAwPgpt7dPeTsoOPasU9u8WseiDxGDNAU40rTrLIPmaqntdOdCWjKPxJqD1+vG+yilQ0Vnxv5VV4KEWsDW0KfGP+0l9FSnlI/NCmtgidIdH6hgDYv69zZ6lcpoKe9eG9AUXyMt6noLpxdGZyhsJrQURNYgALLy9qSzFr+Xp5MwX0m6VpP0zJnSlk8+/XrUE3UPQT80ST28UbRDwoluLwBo2pcDPOYQRJtTz6HHsKg0L/OXeHDhDQEoqE+UGZIPQNIP;KCppsaP45wGDCUT1hIfidw=="
+secured: "U/8+BAv7jQ/nL1SW1RXHZfHrJE/a3g6HMwfBi1hoPeuoe6jxVqBVOOqOGYdpdja51Y4wMgWthLepadUBdZr+WE2VHRsi0dM4lQg0ncIWE06cc3Hp7ehN6LgrQlDlSlT6GAXkVzsLrEd492q5F1HGZNmsCx8ruTrtwT1+b3V66Of3fl17/nePLut2Fcs8D+X+tAKt038UpwBPTPZFPxf2pnZctwGcq2bhRxSuUgFe7NSZO6QLV7zrVaFkCiUPpYAijcC1OBZs76VbvQX5pVaRWf0AVxj6+i++VQWGN8lRb+mveaoEYzUJJ1f46fg3Q8vxe9nROf9U/zoojUvm9EZqYZAXGSMRTVq4xdcgQ7ElY7u2W+H5ILj+ld1OeLnnum/V2BYfjspvhhSOZTkZDjwROtasANzugZR+pq+yI8xGtTn/Kl88n994KX+jRQ0kM4Hub8mG/yi2SsWhO5YekNmyVINkoJ2C218LAOa6ELIv0kg=;UUCE12ookCy1tyY2FIUEfw=="
 ---
 

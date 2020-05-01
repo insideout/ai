@@ -28,6 +28,6 @@ images:
     height: 600
     title: "Google’s AI can adjust voice emotion, pitch, and speed with 30 minutes of data"
 
-secured: "oQIhDUsmWaOM2W8v29xhwhaab62q1FoDp1Mm9ICZyw2sTfLAwaAmBwGTpFfPGcA+beyoh55xsolHXQdnuMTvAfCLMwsUDzIts4ew2UHWjSUZXUTyP+ntTEVzsGxQoXlrQkW8RTViv6ysVWpws3Od12wX6nxubEq7jaXQxjAXcUU256yaAGDhFCDQPdykMnfmfXzz2l7umgdsJMSlAS7w2q39tye8kSqeLsa2+IVoUvDh27B4iua1cWoCEN+L7UjO3GZMGw0YXyAd+KwcjfNyHCoFnLVvKhPMofDlcFC1d61/0wFELKvfERBNxmoQUmeO;jWVGCIWzmtgXNLpln+UP7A=="
+secured: "XHwyi8ugCXKJ/EJaMxi8QzZz0RQd3B1mxPE59m+R0xvoOhlHEV4TBRbE2FWHyeXCLKPsynd9fkqKWEHQjf+IcfeTPEKdwaQiPErifnoo+2/oYUV75Ll5CJ4qDw6VsliaaqwKpv3I4LcKCVrsINqPWMp3hc3JQHEjS24ZnEOW7Qv+eP4wLptUmfUqWKPY62FDOFdOn43FJt813uCsEnel8trGzbcic/LtYKfZpyftGJrFJDULJ8Fv59El6k4Ij8oSnJFGZiST+DDa9Kn5M7gDjsMOq7UNqZxQLh5vVl4X+KU1CS1OptciXDSWRjFH/AdX3dXx7gsk/aTZxOvnh0eltHLyNBVwWIOjuOwFHRV7+sTrZUFY+Mw4F67i0r+/b1gYeeLQJZ5VSFjJ4GcLT31YY+bu9dZExE+9d2+HqbED9cFCHHh9IxHA0Bx9nsKigO1/FKhFyerDFELyuJuhyZzAh4dZ+rh6eIl8AvehpPW6BR4=;7XFr0iUvkplJhI+zmhijVQ=="
 ---
 

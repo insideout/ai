@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/cognitiveworld/2020/04/30/ai-hype-or-ai
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/04/30/ai-hype-or-ai-hope-when-will-ai-disrupt-the-pharmaceutical-industry/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:
@@ -28,6 +28,6 @@ images:
     height: 573
     title: "AI Hype Or AI Hope: When Will AI Disrupt The Pharmaceutical Industry?"
 
-secured: "qcIXPuT05vy4/2TtciG9z3OPXPajSvd7fcs3mtGtvvFCSwt1N7xkVDIdYxTk40QQ+oOd5fuDURLNrFLacKiFETv+AIxqc7dmByAf6qzu4AdGzXg6U/EZpV7M0Ao9zLmBVkzqJT6oVbTYV4vIjglDkA8zuE9H7ShUSswB+ymS0ZmnMbPQLjbkoDJHqMqgJDBV7S/xt69PFsX1dNnTI49JIr9YE4mWr4XOFz/cqMt7BOGvNhy9XIPQH+skmGi41/9yrG2bOu2HyWAQJcS0rp7N7IULzi/p1CYIic3HKU5QjdMFzpx8NcnGMRw3BULT+6FX;QLNTXoWr/X4G4oUH77OXJg=="
+secured: "27Id9cWyi+Jsi2UWN7tGcuVnu1baKFRlRc2Zo+EKmyR1ul+SqLJxAd6ZXqQ1ic7VLesDBz+J901MnvfkMpUu6X/3bnV3suvx9di20CNDs9VTQGfGwlbp6NRdN5kt4tN2zFHm7c0duVM20TO75TO2XA4a9N2JZKo5brsRVYs0YM0Z9kCdA4Ls9D4V3Qnn2XQjhoOn0hU/ke5zF4WKdINYnnCngW7qtCZ/0grOyK9lom2z1dNT75y67kp8iDYBqwCvMEipvWkmOMtCLI8kMOtu1R9eirhnSsYx+262Q4bP6WUsYNw0yrt9Jg5MDdgGG+Ip/UaqlH6/H16JbigNJbD269LGdeYvN95lgviyfEAGjXl4Scmx5s32ZxoAz5dK4Sq0Z5ERNUudOCs0xf4eqYhw4MoZwk7yMpNfNtjs90jQNRYMJlxm3LN4k99j1oQqwccPAX4Qey3S0EgiA62n5X8toUi1APci4zrqwc0+41FrBCA=;EQMV0+7zXC5q6oXRTW8Zug=="
 ---
 
