@@ -2,6 +2,51 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2020-04-17-this-artificial-intelligence-extracts-emotions-and-shows-what-people-are-feeling.md",
+      "title": "This Artificial Intelligence Extracts Emotions And Shows What People Are Feeling",
+      "excerpt": "Systems and Sociometrica analyze the sentiment of 63,000 social media posts each day to determine the emotional state of the internet in response to COVID-19.",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/jenniferhicks/2020/04/17/this-artificial-intelligence-extracts-emotions-and-shows-what-people-are-feeling/",
+      "ampWebUrl": "https://www.forbes.com/sites/jenniferhicks/2020/04/17/this-artificial-intelligence-extracts-emotions-and-shows-what-people-are-feeling/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jenniferhicks/2020/04/17/this-artificial-intelligence-extracts-emotions-and-shows-what-people-are-feeling/amp/",
+      "publishedDateTime": "2020-04-17T15:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e99d3447be2870006ce16f8%2F0x0.jpg",
+          "width": 1200,
+          "height": 1203,
+          "title": "This Artificial Intelligence Extracts Emotions And Shows What People Are Feeling",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-17-train-a-deep-learning-image-classification-model-in-azure-with-mlnet-model-builder.md",
       "title": "Train a deep learning image classification model in Azure with ML.NET Model Builder",
       "excerpt": "LandUseUWP: Universal Windows Platform (UWP) application that consumes the model to classify satellite map images of locations provided by the user. Eurosat: A novel dataset and deep learning benchmark for land use and land cover classification. Patrick Helber, Benjamin Bischke, Andreas Dengel, Damian Borth. IEEE Journal of Selected Topics in ...",
@@ -654,35 +699,6 @@
       ]
     },
     {
-      "path": "_news/2020-04-17-microsoft-to-be-ai-partner-for-nba.md",
-      "title": "Microsoft To Be AI Partner For NBA",
-      "excerpt": "Microsoft will become the official technology partner for the National Basketball Association or NBA under a new multi-year partnership between the two parties. As part of their collaboration, Microsoft will become the Official Artificial Intelligence Partner and an Official Cloud and Laptop Partner for the NBA,",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nasdaq.com/articles/microsoft-to-be-ai-partner-for-nba-2020-04-17",
-      "ampWebUrl": "https://www.nasdaq.com/articles/microsoft-to-be-ai-partner-for-nba-2020-04-17?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/microsoft-to-be-ai-partner-for-nba-2020-04-17?amp",
-      "publishedDateTime": "2020-04-17T08:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-04-17-ai-researchers-propose-bias-bounties-to-put-ethics-principles-into-practice.md",
       "title": "AI researchers propose ‘bias bounties’ to put ethics principles into practice",
       "excerpt": "Researchers from Google Brain, Intel, OpenAI, and top research labs in the U.S. and Europe joined forces this week to release what the group calls a toolbox for turning AI ethics principles into practice. The kit for organizations creating AI models includes the idea of paying developers for finding bias in AI, akin to the bug bounties offered ...",
@@ -725,6 +741,43 @@
       "topics": [
         "AI",
         "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2020-04-17-microsoft-to-be-ai-partner-for-nba.md",
+      "title": "Microsoft To Be AI Partner For NBA",
+      "excerpt": "Microsoft will become the official technology partner for the National Basketball Association or NBA under a new multi-year",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/microsoft-to-be-ai-partner-for-nba-1029102857",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/Microsoft-To-Be-AI-Partner-For-NBA-1029102857",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Microsoft-To-Be-AI-Partner-For-NBA-1029102857",
+      "publishedDateTime": "2020-04-17T08:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
       ]
     },
     {
@@ -1014,51 +1067,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-17-heres-how-you-get-everyone-to-buy-into-a-great-company-culture.md",
-      "title": "Here's How You Get Everyone To Buy Into A Great Company Culture",
-      "excerpt": "As a company begins to scale past 150 people, it becomes harder to create unity and keep people on the same page. Creating a healthy company culture helps attract and retain highly motivated and engaged employees.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2020/04/17/heres-how-you-get-everyone-to-buy-into-a-great-company-culture/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2020/04/17/heres-how-you-get-everyone-to-buy-into-a-great-company-culture/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbeshumanresourcescouncil/2020/04/17/heres-how-you-get-everyone-to-buy-into-a-great-company-culture/amp/",
-      "publishedDateTime": "2020-04-17T05:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbeshumanresourcescouncil%2Ffiles%2F2020%2F04%2Fa-5-2.jpg",
-          "width": 640,
-          "height": 640,
-          "title": "Here's How You Get Everyone To Buy Into A Great Company Culture",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

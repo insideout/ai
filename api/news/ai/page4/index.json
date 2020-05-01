@@ -2,6 +2,50 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-04-28-brainbox-raises-12-million-to-optimize-hvac-systems-with-ai.md",
+      "title": "BrainBox raises $12 million to optimize HVAC systems with AI",
+      "excerpt": "BrainBox, which taps AI and machine learning to optimize HVAC systems, has raised $12 million in a convertible debt round.",
+      "heat": 97,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/28/brainbox-raises-12-million-to-optimize-hvac-systems-with-ai/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/28/brainbox-raises-12-million-to-optimize-hvac-systems-with-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/28/brainbox-raises-12-million-to-optimize-hvac-systems-with-ai/amp/",
+      "publishedDateTime": "2020-04-28T06:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/Connected-Mag-BrainBox-AI-e1588018061995.jpg?fit=1199%2C599&strip=all",
+          "width": 1199,
+          "height": 599,
+          "title": "BrainBox raises $12 million to optimize HVAC systems with AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-28-natural-language-processing-market-overview-and-detailed-insights-on-upcoming-trends-till-2026.md",
       "title": "Natural Language Processing Market Overview and Detailed Insights on Upcoming Trends till 2026",
       "excerpt": "The global natural language processing market is expected to rise with an impressive CAGR and generate the highest",
@@ -1270,53 +1314,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-27-aws-launches-human-review-service-for-machine-learning-models.md",
-      "title": "AWS launches human review service for machine learning models",
-      "excerpt": "AWS has launched a service that improves machine learning model accuracy by continuously identifying and improving low confidence predictions. Amazon Augmented Artificial Intelligence (A2I), which is now generally available,",
-      "heat": 118,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.itpro.co.uk/technology/machine-learning/355444/aws-launches-augmented-ai-service",
-      "ampWebUrl": "https://www.itpro.co.uk/technology/machine-learning/355444/aws-launches-augmented-ai-service?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/machine-learning/355444/aws-launches-augmented-ai-service?amp",
-      "publishedDateTime": "2020-04-27T04:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk//image/upload/v1587984726/itpro/HumanReview.jpg",
-          "width": 1000,
-          "height": 479,
-          "title": "AWS launches human review service for machine learning models",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning",
-        "AI in Finance"
       ]
     }
   ],

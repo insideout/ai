@@ -2,18 +2,18 @@
 category: news
 title: "Industrial robots could 'eat metal' to power themselves"
 excerpt: "Scavenging energy by foraging for metal could power Internet of Things electronics and robots, suggest researchers at University of Pennsylvania."
-publishedDateTime: 2020-04-29T21:40:00Z
-webUrl: "https://www.itworld.com/article/3540194/industrial-robots-could-eat-metal-to-power-themselves.html"
-ampWebUrl: "https://www.itworld.com/article/3540194/industrial-robots-could-eat-metal-to-power-themselves.amp.html"
-cdnAmpWebUrl: "https://www-itworld-com.cdn.ampproject.org/c/s/www.itworld.com/article/3540194/industrial-robots-could-eat-metal-to-power-themselves.amp.html"
+publishedDateTime: 2020-04-29T21:41:00Z
+webUrl: "https://www.networkworld.com/article/3540194/industrial-robots-could-eat-metal-to-power-themselves.html"
+ampWebUrl: "https://www.networkworld.com/article/3540194/industrial-robots-could-eat-metal-to-power-themselves.amp.html"
+cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3540194/industrial-robots-could-eat-metal-to-power-themselves.amp.html"
 type: article
 quality: 59
 heat: 59
 published: false
 
 provider:
-  name: ITworld
-  domain: itworld.com
+  name: Network World
+  domain: networkworld.com
 
 topics:
   - AI in Robotics
@@ -25,6 +25,6 @@ images:
     height: 800
     title: "Industrial robots could 'eat metal' to power themselves"
 
-secured: "FOqFJmYFnZGMgBeP3PEBNWntQ7DqEjKOmgxth+wURY8FgXpqeuerr0VsIU9F2j9qJw22CcFcEMF9jV+moK3REIQgiv+BbPB9of6/QvDCZWHq1B6BePsThxmFwvWv0JasyhLpDz3GFJMqpRvjPaE3cetmGC7BbKFteZs3zv01kAm8rjOQthsgmmVGsiGCveMaeL4UoPMN3918Bq+rWWNjJTGWCARBWE7tdECvTzZv1p/SCIk5TUN6l1HxBboRE0JG2fvqxkXgeXWXhtpXMBwwrOfqUbhWEQvxx5xpu1WAKG3cFY9WJW2uVkGgMfaD/rFD;twvjbXpb8qhYywDCyh61NA=="
+secured: "teudtcHESEdKyqb5NaDc3RFHDm29JdlATcoG0KPq/0I60IBpCfA8Y++YrKjrixuDgGuOY8WpnhKSxSvyYUZsEBjLHWyBOo9MhAc0pDrTjYCt0cRwMgp5jwO0jLxBH85IAuXkJpqPRO6raqUhlqgw8nmPupQ8ajRRTpDIGaWUWtzg2DCJ34BtW1QIFO7+kDLcVBIqd/strR7+oeKrWWyDQsOiiBkDp8djCRJAy1L6g9xtMkU9CFDxMyMb72KkX75gbvZLVT9AOax2XO5FTwMKBiXG8c3SqK7nNsTf7Jy5pLTUOIDj70ftks21ErQEWiQi;b0xxuDIJCv4OA75fOjtm2g=="
 ---
 

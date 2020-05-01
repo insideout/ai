@@ -2,6 +2,43 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2020-04-14-salesforces-teresa-smetzer-ai-could-help-agencies-leverage-data-expedite-govt-service-delivery.md",
+      "title": "Salesforce’s Teresa Smetzer: AI Could Help Agencies Leverage Data, Expedite Gov’t Service Delivery",
+      "excerpt": "Agencies should collaborate with trusted industry partners that take into consideration AI ethics and data privacy as well as keep pace with latest AI developments, she noted. She also discussed how Tableau and MuleSoft capabilities could help agencies, data scientists and mission users glean insights from data. “Ultimately, government ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.govconwire.com/2020/04/salesforces-teresa-smetzer-ai-could-help-agencies-leverage-data-expedite-govt-service-delivery/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-14T02:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GovCon Wire",
+        "domain": "govconwire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://govconwire-media.s3.amazonaws.com/2020/04/14/63/f0/15/e5/fd/c0/aa/54/servletFileDownload-170.png",
+          "width": 272,
+          "height": 270,
+          "title": "Salesforce’s Teresa Smetzer: AI Could Help Agencies Leverage Data, Expedite Gov’t Service Delivery",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-14-global-automotive-ai-market-report-2020-trends-size-share-recent-developments-player-rankings-and-forecast-to-2027.md",
       "title": "Global Automotive AI Market Report 2020: Trends, Size, Share, Recent Developments, Player Rankings and Forecast to 2027",
       "excerpt": "Dublin, April 14, 2020 (GLOBE NEWSWIRE) -- The \"Automotive Artificial Intelligence Market by Offering, Technology, Process, Drive, and Region - Global Forecast to 2027\" report has been added to ...",
@@ -990,43 +1027,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-13-tesla-is-adding-remarkable-detail-in-its-full-self-driving-visualizations.md",
-      "title": "Tesla is adding remarkable detail in its Full Self-Driving Visualizations",
-      "excerpt": "Tesla’s mass-market cars, the Model 3 and Model Y, have already been released. The Solar Roof is finally seeing a ramp. And the release of a feature-complete version of the company’s Full Self-Driving suite seems to be drawing closer. For Tesla’s Full Self-Driving suite to be feature-complete, the electric car maker would need to master ...",
-      "heat": 73,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.teslarati.com/tesla-full-self-driving-traffic-lights-arrows-video/",
-      "ampWebUrl": "https://www.teslarati.com/tesla-full-self-driving-traffic-lights-arrows-video/amp/",
-      "cdnAmpWebUrl": "https://www-teslarati-com.cdn.ampproject.org/c/s/www.teslarati.com/tesla-full-self-driving-traffic-lights-arrows-video/amp/",
-      "publishedDateTime": "2020-04-13T00:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Tesla News",
-        "domain": "teslarati.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.teslarati.com/wp-content/uploads/2020/04/tesla-fsd-visualizations-traffic-turn-signal-1024x512.jpg",
-          "width": 1024,
-          "height": 512,
-          "title": "Tesla is adding remarkable detail in its Full Self-Driving Visualizations",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

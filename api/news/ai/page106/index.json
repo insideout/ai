@@ -2,6 +2,42 @@
   "page": 106,
   "value": [
     {
+      "path": "_news/2020-01-03-artificial-intelligence-has-come-to-medicine-are-patients-being-put-at-risk.md",
+      "title": "Artificial intelligence has come to medicine. Are patients being put at risk?",
+      "excerpt": "Health products powered by artificial intelligence are streaming into our lives, from virtual doctor apps to wearable sensors and drugstore chatbots. IBM boasted that its AI could “outthink cancer.” Others say computer systems that read X-rays will ...",
+      "heat": 64,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.latimes.com/business/story/2020-01-03/artificial-intelligence-healthcare",
+      "ampWebUrl": "https://www.latimes.com/business/story/2020-01-03/artificial-intelligence-healthcare?_amp=true",
+      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/business/story/2020-01-03/artificial-intelligence-healthcare?_amp=true",
+      "publishedDateTime": "2020-01-03T05:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Los Angeles Times",
+        "domain": "latimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://ca-times.brightspotcdn.com/dims4/default/f53d1bd/2147483647/strip/true/crop/1683x1099+136+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F69%2F4f%2F1536dd600c9278807471271271c0%2Fla-1529344662-nf9nsa98qz-snap-image",
+          "width": 320,
+          "height": 209,
+          "title": "Artificial intelligence has come to medicine. Are patients being put at risk?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-01-02-aws-cloud-journey-analyzing-to-deploying-models-with-amazon-sagemaker-ep-1.md",
       "title": "AWS Cloud Journey — Analyzing to Deploying Models with Amazon SageMaker (Ep. 1)",
       "excerpt": "So, stay tuned for those content in the future. “Amazon SageMaker is a fully managed service that provides every developer and data scientist with the ability to build, train, and deploy machine ...",
@@ -1249,50 +1285,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2019-12-26-data-science-vs-artificial-intelligence-eliminate-your-doubts.md",
-      "title": "Data Science vs Artificial Intelligence — Eliminate your Doubts",
-      "excerpt": "While Data Science makes use of Artificial Intelligence in its operations, it does not completely represent AI. In this article, we will understand the concept of Data Science vs Artificial ...",
-      "heat": 167,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/quick-code/data-science-vs-artificial-intelligence-eliminate-your-doubts-912b3b2c805",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2019-12-25T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/730/0*K2hTcclvkZAbCzkZ.jpg",
-          "width": 730,
-          "height": 365,
-          "title": "Data Science vs Artificial Intelligence — Eliminate your Doubts",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,51 @@
   "page": 105,
   "value": [
     {
+      "path": "_news/2020-01-07-waymos-autonomous-cars-have-driven-20-million-miles-on-public-roads.md",
+      "title": "Waymo’s autonomous cars have driven 20 million miles on public roads",
+      "excerpt": "The updated metric puts Waymo far ahead of rivals like Yandex and Baidu, whose cars had driven ... In late 2017, the cofounder of Cruise, GM’s self-driving unit, told investors it was on the ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/01/06/waymos-autonomous-cars-have-driven-20-million-miles-on-public-roads/",
+      "ampWebUrl": "https://venturebeat.com/2020/01/06/waymos-autonomous-cars-have-driven-20-million-miles-on-public-roads/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/06/waymos-autonomous-cars-have-driven-20-million-miles-on-public-roads/amp/",
+      "publishedDateTime": "2020-01-06T19:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/09/waymo-ipace-e1572290208222.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Waymo’s autonomous cars have driven 20 million miles on public roads",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2020-01-07-samsung-envisions-even-more-personal-consumer-tech-at-ces-2020-including-a-cute-rolling-robot.md",
       "title": "Samsung envisions even more personal consumer tech at CES 2020 -- including a cute, rolling robot",
       "excerpt": "The \"Age of Experience\" includes companion robots, AI-powered homes and smart cities ... more enjoyable and more meaningful.\" \"2020 will start a new era in tech,\" he said during his presentation.",
@@ -1238,42 +1283,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-01-03-artificial-intelligence-has-come-to-medicine-are-patients-being-put-at-risk.md",
-      "title": "Artificial intelligence has come to medicine. Are patients being put at risk?",
-      "excerpt": "Health products powered by artificial intelligence are streaming into our lives, from virtual doctor apps to wearable sensors and drugstore chatbots. IBM boasted that its AI could “outthink cancer.” Others say computer systems that read X-rays will ...",
-      "heat": 64,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.latimes.com/business/story/2020-01-03/artificial-intelligence-healthcare",
-      "ampWebUrl": "https://www.latimes.com/business/story/2020-01-03/artificial-intelligence-healthcare?_amp=true",
-      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/business/story/2020-01-03/artificial-intelligence-healthcare?_amp=true",
-      "publishedDateTime": "2020-01-03T05:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Los Angeles Times",
-        "domain": "latimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://ca-times.brightspotcdn.com/dims4/default/f53d1bd/2147483647/strip/true/crop/1683x1099+136+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F69%2F4f%2F1536dd600c9278807471271271c0%2Fla-1529344662-nf9nsa98qz-snap-image",
-          "width": 320,
-          "height": 209,
-          "title": "Artificial intelligence has come to medicine. Are patients being put at risk?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

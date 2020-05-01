@@ -2,6 +2,52 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-04-20-14-ways-aws-beats-microsoft-azure-and-google-cloud.md",
+      "title": "14 ways AWS beats Microsoft Azure and Google Cloud",
+      "excerpt": "If your shop is obsessed with mixing AI into your stack, Amazon has almost too many options to consider. There are too many to list. They begin with basic tools like SageMaker for training models to respond to your data. These tools have attracted plenty of developers and that may be why the sales literature brags that “85% of TensorFlow ...",
+      "heat": 101,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.infoworld.com/article/3321176/14-ways-aws-beats-microsoft-azure-and-google-cloud.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-20T03:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.techhive.com/images/article/2016/12/thumbs-up-multicultural-100701134-large.3x2.jpg",
+          "width": 700,
+          "height": 467,
+          "title": "14 ways AWS beats Microsoft Azure and Google Cloud",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-20-microsoft-to-launch-azure-based-streaming-service-for-nba-league.md",
       "title": "Microsoft to launch Azure-based streaming service for NBA League",
       "excerpt": "As the Official Technology Partner for the NBA, Microsoft will allow NBA Digital to leverage the power of its Azure platform to give birth to a new, direct-to-consumer platform, which claims to make use of Artificial Intelligence (AI) and Machine Learning (ML). Thanks to the AI and ML, Microsoft hopes to deliver personalized game broadcasts and ...",
@@ -1233,43 +1279,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-17-clearview-ai-exposes-source-code-to-controversial-facial-recognition-app-and-company-credentials.md",
-      "title": "Clearview AI exposes source code to controversial facial recognition app and company credentials",
-      "excerpt": "A researcher found that a misconfiguration allowed anyone to register as a new user and access the database containing Clearview's code regardless of whether they had entered password.",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-8231025/Clearview-AI-exposes-source-code-controversial-facial-recognition-app-company-credentials.html",
-      "ampWebUrl": "https://www.dailymail.co.uk/sciencetech/article-8231025/amp/Clearview-AI-exposes-source-code-controversial-facial-recognition-app-company-credentials.html",
-      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-8231025/amp/Clearview-AI-exposes-source-code-controversial-facial-recognition-app-company-credentials.html",
-      "publishedDateTime": "2020-04-17T12:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mail Online",
-        "domain": "dailymail.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.dailymail.co.uk/1s/2020/04/17/19/25231518-0-image-a-2_1587149037389.jpg",
-          "width": 636,
-          "height": 382,
-          "title": "Clearview AI exposes source code to controversial facial recognition app and company credentials",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

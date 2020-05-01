@@ -2,6 +2,44 @@
   "page": 54,
   "value": [
     {
+      "path": "_news/2020-03-11-tensorflow-quantum-and-first-release-candidate-for-tensorflow-22.md",
+      "title": "TensorFlow Quantum and first release candidate for TensorFlow 2.2",
+      "excerpt": "The TensorFlow developers have been keeping busy this week: Not only has the first release candidate for TensorFlow 2.2 arrived, but we can now also welcome the very first release of TensorFlow Quantum. Let’s see what has been happening in the world of ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://jaxenter.com/tensorflow-quantum-and-tensorflow-2-2-rc0-169588.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-10T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "jaxenter.com",
+        "domain": "jaxenter.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://jaxenter.com/wp-content/uploads/2020/03/TensorFlow-Quantum.jpg",
+          "width": 600,
+          "height": 400,
+          "title": "TensorFlow Quantum and first release candidate for TensorFlow 2.2",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "TensorFlow",
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-10-deep-learning-market-2020-2024-the-growing-application-of-deep-learning-to-boost-growth-technavio.md",
       "title": "Deep Learning Market 2020-2024 | The Growing Application of Deep Learning to Boost Growth | Technavio",
       "excerpt": "Deep Learning Market 2020-2024 | The Growing Application of Deep Learning to Boost Growth | Technavio Technavio has been monitoring the deep learning market and it is poised to grow by USD 7.2 bn during 2020-2024,",
@@ -1126,43 +1164,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-10-deep-learning-to-be-topic-for-1st-tectalk.md",
-      "title": "Deep Learning to be Topic for 1st teCTalk",
-      "excerpt": "One of your neighbors posted in Business. Click through to read what they have to say. (The views expressed in this post are the author’s own.)",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://patch.com/connecticut/hartford/deep-learning-be-topic-1st-tectalk",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-10T06:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Patch",
-        "domain": "patch.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://patch.com/img/cdn20/users/20886760/20200310/083208/styles/patch_image/public/tectalk-logo___10082846546.jpg",
-          "width": 716,
-          "height": 537,
-          "title": "Deep Learning to be Topic for 1st teCTalk",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

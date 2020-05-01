@@ -2,6 +2,51 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2020-04-01-ai-and-ml-move-into-financial-services.md",
+      "title": "AI and ML move into financial services",
+      "excerpt": "\"At the highest level, by utilizing machine learning, financial services organizations can pinpoint their most effective offerings, change how they attract and keep customers by identifying patterns in their behaviors/interactions with the institution, and [create] opportunities for engagement beyond just financial services.\" Machine learning ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/ai-and-ml-move-into-financial-services/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-and-ml-move-into-financial-services/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-and-ml-move-into-financial-services/",
+      "publishedDateTime": "2020-04-01T06:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/03/27/a57f5328-54c9-4429-a05f-165bfe54dfed/thumbnail/1200x675/cff661fe04c50b47434ccd8665b9dfc3/mastercard-keeping-humans-in-the-loop-of-5e7d26ca80c7260bd0dee6fd-1-mar-27-2020-24-01-06-poster.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "AI and ML move into financial services",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-01-healthcare-and-artificial-intelligence-how-databricks-uses-apache-spark-to-analyze-huge-data-sets.md",
       "title": "Healthcare and artificial intelligence: How Databricks uses Apache Spark to analyze huge data sets",
       "excerpt": "There is no shortage of big data sets in the healthcare world, encompassing everything from chest X-rays to drug research. Startups and established companies alike are both using artificial intelligence (AI) and machine learning to analyze these data sets and use the results to guide business strategy and treatment plans. Special Feature ...",
@@ -1005,51 +1050,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-31-pruning-machine-learning-models-with-amazon-sagemaker-debugger-and-amazon-sagemaker-experiments.md",
-      "title": "Pruning machine learning models with Amazon SageMaker Debugger and Amazon SageMaker Experiments",
-      "excerpt": "In the past decade, deep learning has advanced many different areas, such as computer vision and natural language processing. State-of-the-art models now achieve near-human performance in tasks such as image classification. Deep neural networks can achieve this because they consist of millions of parameters",
-      "heat": 77,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/pruning-machine-learning-models-with-amazon-sagemaker-debugger-and-amazon-sagemaker-experiments/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-31T16:30:39-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/03/31/pruning-models-3.gif",
-          "width": 800,
-          "height": 354,
-          "title": "Pruning machine learning models with Amazon SageMaker Debugger and Amazon SageMaker Experiments",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

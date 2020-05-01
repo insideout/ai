@@ -2,6 +2,51 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-04-24-scaling-your-ai-powered-battlesnake-with-distributed-reinforcement-learning-in-amazon-sagemaker.md",
+      "title": "Scaling your AI-powered Battlesnake with distributed reinforcement learning in Amazon SageMaker",
+      "excerpt": "Battlesnake is an AI competition in which you build AI-powered snakes. Battlesnake’s rules are similar to the traditional snakes game. Your goal is to be the last surviving snake when competing against other snakes. Developers of all levels build snakes using techniques ranging from unique heuristic-based",
+      "heat": 92,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/scaling-your-ai-powered-battlesnake-with-distributed-reinforcement-learning-in-amazon-sagemaker/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-24T16:51:54-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/03/13/battlesnake-sagemaker-14.gif",
+          "width": 600,
+          "height": 423,
+          "title": "Scaling your AI-powered Battlesnake with distributed reinforcement learning in Amazon SageMaker",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-24-silicon-valley-needs-a-new-approach-to-studying-ethics-now-more-than-ever.md",
       "title": "Silicon Valley needs a new approach to studying ethics now more than ever",
       "excerpt": "Despite several company-led ethics initiatives, including worthwhile ones to appoint chief ethics officers and Microsoft and IBM’s principles for ethical AI, the students in our class told us they had no space for open and honest conversations about tech’s behavior. If we want a more ethically knowledgeable tech industry today, we need ...",
@@ -221,23 +266,31 @@
     {
       "path": "_news/2020-04-24-aws-announces-general-availability-of-amazon-augmented-artificial-intelligence-a2i.md",
       "title": "AWS Announces General Availability of Amazon Augmented Artificial Intelligence (A2I)",
-      "excerpt": "that allow machine learning predictions from Amazon Rekognition and Amazon Textract to be human-reviewed more easily. Developers who build custom machine learning models in Amazon SageMaker (or other on-premises or cloud tools) can set up human review for ...",
+      "excerpt": "that allow machine learning predictions from Amazon Rekognition and Amazon Textract to be human-reviewed more easily. Developers who build custom machine learning models in Amazon SageMaker (or ...",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://stockhouse.com/news/press-releases/2020/04/24/aws-announces-general-availability-of-amazon-augmented-artificial-intelligence",
+      "webUrl": "https://www.businesswire.com/news/home/20200424005488/en/AWS-Announces-General-Availability-Amazon-Augmented-Artificial",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-24T10:27:00-07:00",
+      "publishedDateTime": "2020-04-24T10:25:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Stockhouse",
-        "domain": "stockhouse.com",
+        "name": "Business Wire",
+        "domain": "businesswire.com",
         "images": null,
         "publishers": null,
         "authors": null
       },
-      "images": null,
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20200424005488/en/787122/23/AWS_logo_RGB.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": "AWS Announces General Availability of Amazon Augmented Artificial Intelligence (A2I)",
+          "attribution": null
+        }
+      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -1227,51 +1280,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-23-respecting-rights-global-network-initiative-assessment-report.md",
-      "title": "Respecting rights: Global Network Initiative assessment report",
-      "excerpt": "In their first letter to shareholders, our founders highlighted Google’s mission to “develop services that significantly improve the lives of as many people as possible.\" This vision continues to guide all of us at Google. From Search to YouTube, Gmail to Google Maps—we’ve worked to ensure that our products",
-      "heat": 94,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.blog.google/outreach-initiatives/public-policy/respecting-rights-global-network-initiative-assessment-report/",
-      "ampWebUrl": "https://blog.google/outreach-initiatives/public-policy/respecting-rights-global-network-initiative-assessment-report/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/public-policy/respecting-rights-global-network-initiative-assessment-report/amp/",
-      "publishedDateTime": "2020-04-23T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://blog.google/static/blogv2/images/google-1000x1000.png",
-          "width": 1000,
-          "height": 1000,
-          "title": "Respecting rights: Global Network Initiative assessment report",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

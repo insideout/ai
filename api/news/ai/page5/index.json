@@ -2,6 +2,53 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-04-27-aws-launches-human-review-service-for-machine-learning-models.md",
+      "title": "AWS launches human review service for machine learning models",
+      "excerpt": "AWS has launched a service that improves machine learning model accuracy by continuously identifying and improving low confidence predictions. Amazon Augmented Artificial Intelligence (A2I), which is now generally available,",
+      "heat": 118,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.itpro.co.uk/technology/machine-learning/355444/aws-launches-augmented-ai-service",
+      "ampWebUrl": "https://www.itpro.co.uk/technology/machine-learning/355444/aws-launches-augmented-ai-service?amp",
+      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/machine-learning/355444/aws-launches-augmented-ai-service?amp",
+      "publishedDateTime": "2020-04-27T04:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk//image/upload/v1587984726/itpro/HumanReview.jpg",
+          "width": 1000,
+          "height": 479,
+          "title": "AWS launches human review service for machine learning models",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2020-04-27-uk-spies-must-ramp-up-use-of-ai-to-fight-new-threats-says-report.md",
       "title": "UK spies must ramp up use of AI to fight new threats, says report",
       "excerpt": "UK spies must use AI to counter cyber attacks and augment intelligence analysis, according to a new study commissioned by eavesdropping agency GCHQ",
@@ -1278,51 +1325,6 @@
       "topics": [
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2020-04-24-scaling-your-ai-powered-battlesnake-with-distributed-reinforcement-learning-in-amazon-sagemaker.md",
-      "title": "Scaling your AI-powered Battlesnake with distributed reinforcement learning in Amazon SageMaker",
-      "excerpt": "Battlesnake is an AI competition in which you build AI-powered snakes. Battlesnake’s rules are similar to the traditional snakes game. Your goal is to be the last surviving snake when competing against other snakes. Developers of all levels build snakes using techniques ranging from unique heuristic-based",
-      "heat": 92,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/scaling-your-ai-powered-battlesnake-with-distributed-reinforcement-learning-in-amazon-sagemaker/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-24T16:51:54-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/03/13/battlesnake-sagemaker-14.gif",
-          "width": 600,
-          "height": 423,
-          "title": "Scaling your AI-powered Battlesnake with distributed reinforcement learning in Amazon SageMaker",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

@@ -45,6 +45,21 @@ related:
       - url: "https://mondrian.mashable.com/2020%252F04%252F29%252F5e%252F1efeba8e0f7e467eb123699e8e9356c2.e6915.jpg%252F1200x630.jpg?signature=Hvy3PtU_wTqrmzWJ1FvBYTRijw0="
         width: 1200
         height: 630
+  - title: "Cruise can't test its self-driving cars. So it's delivering food instead."
+    excerpt: "Cruise vehicles, the self-driving electric Chevy Bolts usually spotted around San Francisco neighborhoods, are back on the road after a brief pause during the coronavirus outbreak. And now that the fleet is considered an essential service,"
+    publishedDateTime: 2020-04-30T05:09:00Z
+    webUrl: "https://sea.mashable.com/tech/10356/cruise-cant-test-its-self-driving-cars-so-its-delivering-food-instead"
+    ampWebUrl: "https://sea.mashable.com/tech/10356/cruise-cant-test-its-self-driving-cars-so-its-delivering-food-instead?amp=1"
+    cdnAmpWebUrl: "https://sea-mashable-com.cdn.ampproject.org/c/s/sea.mashable.com/tech/10356/cruise-cant-test-its-self-driving-cars-so-its-delivering-food-instead?amp=1"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 73
+    images:
+      - url: "https://sm.mashable.com/t/mashable_sea/news/c/cruise-can/cruise-cant-test-its-self-driving-cars-so-its-delivering-foo_s4qe.620.jpg"
+        width: 619
+        height: 413
 
 secured: "70MiG2Z81nw5izawGjPOqfwvVMylZNyq0CkIwq468j9CbmM/kylxrLmZezqMLcgCjmnzCaIotNEunoTm7X8s9y5Hzx+yAnLEy9bnl/aB48gVimb8LYt8RArrwY3kPDKV9eSxQWSzDbpfykhUX2WG4Z6PjE9+j0sMfuK6ZOAgAxYA6NwjhFCYGVPRczZyRiULJZ8svPMhraxJKoG272WwGnfGvwFihMAnfSJ1HLkGkJgEpJ73mRaGhskz3Urz59LWB+f/u3RyVyTS/9/yGqheWC/M/qzuwukMldip8dq+CAXIPq985nFqnMvdcqAi2vvz9B+kBjKIwBxNlKO77K6SHuiO9GA3djenh0rKQ6SweEWTpnlTBGwCK/f6VFALpe199uC1uTQ3YGxF/FJTiUzL/9/BG5INa25lgLbfVB7FOYtBXHYr1Nu5PpZrWGnVPlHRxwkq058u3+5712hWYe78ntZjTFxfSLuHiBIOPkf7GX8=;6Do+u9fw3m42uZXUC9YQhQ=="
 ---

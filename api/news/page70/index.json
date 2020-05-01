@@ -2,6 +2,51 @@
   "page": 70,
   "value": [
     {
+      "path": "_news/2020-03-03-3-top-artificial-intelligence-stocks-to-watch-in-march.md",
+      "title": "3 Top Artificial Intelligence Stocks to Watch in March",
+      "excerpt": "I like things that go \"boom.\" Sonic or otherwise, that means I tend to gravitate towards defense and aerospace stocks. But to tell the truth, over the course of a dozen years writing for The ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fool.com/investing/2020/03/03/3-top-artificial-intelligence-stocks-to-watch-in-m.aspx",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/03/03/3-top-artificial-intelligence-stocks-to-watch-in-m.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/03/03/3-top-artificial-intelligence-stocks-to-watch-in-m.aspx",
+      "publishedDateTime": "2020-03-03T06:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F560874%2Fglowing-android-head-with-the-words-artificial-intelligence.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 675,
+          "title": "3 Top Artificial Intelligence Stocks to Watch in March",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-03-mlb-swings-from-amazons-aws-to-google-cloud-for-data-and-analytics.md",
       "title": "MLB Swings From Amazon’s AWS to Google Cloud for Data and Analytics",
       "excerpt": "Major League Baseball is benching Amazon Web Services, with the league picking Google Cloud as its new data and analytics partner. Under a multiyear pact, Google Cloud becomes MLB’s official cloud",
@@ -992,50 +1037,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-02-28-how-this-ai-engineer-turned-ceo-is-reshaping-the-way-we-work-for-society-50.md",
-      "title": "How This AI Engineer-Turned CEO Is Reshaping The Way We Work For Society 5.0",
-      "excerpt": "A recent survey of over 10,000 office workers by a U. S. tech firm found respondents were wasting more than 40% of their day on repetitive data work.",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/japan/2020/02/28/how-this-ai-engineer-turned-ceo-is-reshaping-the-way-we-work-for-society-50/",
-      "ampWebUrl": "https://www.forbes.com/sites/japan/2020/02/28/how-this-ai-engineer-turned-ceo-is-reshaping-the-way-we-work-for-society-50/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/japan/2020/02/28/how-this-ai-engineer-turned-ceo-is-reshaping-the-way-we-work-for-society-50/amp/",
-      "publishedDateTime": "2020-02-28T10:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e5946917a00980007347bb4%2F0x0.jpg",
-          "width": 876,
-          "height": 586,
-          "title": "How This AI Engineer-Turned CEO Is Reshaping The Way We Work For Society 5.0",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

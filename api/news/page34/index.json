@@ -2,6 +2,52 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2020-04-01-30-under-30-asia-2020-the-startups-leveraging-ai-and-machine-learning-to-transform-businesses.md",
+      "title": "30 Under 30 Asia 2020: The Startups Leveraging AI And Machine Learning To Transform Businesses",
+      "excerpt": "Hyunsoo Kim, cofounder of Superb AI, has been selected as the featured honoree for the Enterprise Technology category of this year’s Forbes 30 Under 30 Asia list, leading a pack of several fellow honorees who founded startups based on AI.",
+      "heat": 94,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/johnkang/2020/04/01/30-under-30-asia-2020-the-startups-leveraging-ai-and-machine-learning-to-transform-businesses/",
+      "ampWebUrl": "https://www.forbes.com/sites/johnkang/2020/04/01/30-under-30-asia-2020-the-startups-leveraging-ai-and-machine-learning-to-transform-businesses/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkang/2020/04/01/30-under-30-asia-2020-the-startups-leveraging-ai-and-machine-learning-to-transform-businesses/amp/",
+      "publishedDateTime": "2020-04-01T14:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e709bc5e1e61700080f01bc%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "30 Under 30 Asia 2020: The Startups Leveraging AI And Machine Learning To Transform Businesses",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2020-04-01-levandowski-says-uber-must-pay-his-179-million-judgment-to-google.md",
       "title": "Levandowski says Uber must pay his $179 million judgment to Google",
       "excerpt": "Alphabet's huge legal battle with Uber over self-driving technology ended two years ago. But the engineer at the center of that fight, Anthony Levandowski, is still facing legal and financial ...",
@@ -1005,51 +1051,6 @@
         "AI",
         "IBM AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-04-01-ai-and-ml-move-into-financial-services.md",
-      "title": "AI and ML move into financial services",
-      "excerpt": "\"At the highest level, by utilizing machine learning, financial services organizations can pinpoint their most effective offerings, change how they attract and keep customers by identifying patterns in their behaviors/interactions with the institution, and [create] opportunities for engagement beyond just financial services.\" Machine learning ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/ai-and-ml-move-into-financial-services/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-and-ml-move-into-financial-services/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-and-ml-move-into-financial-services/",
-      "publishedDateTime": "2020-04-01T06:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/03/27/a57f5328-54c9-4429-a05f-165bfe54dfed/thumbnail/1200x675/cff661fe04c50b47434ccd8665b9dfc3/mastercard-keeping-humans-in-the-loop-of-5e7d26ca80c7260bd0dee6fd-1-mar-27-2020-24-01-06-poster.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "AI and ML move into financial services",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

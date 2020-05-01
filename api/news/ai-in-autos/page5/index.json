@@ -2,6 +2,43 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-03-25-ai-devices-are-helping-us-stay-one-step-ahead-of-covid-19.md",
+      "title": "AI Devices Are Helping Us Stay One Step Ahead of COVID-19",
+      "excerpt": "Image used courtesy of BlueDot Artificial intelligence can help to chart the course of epidemics and advise epidemiologists as to where and when the novel coronavirus will spread next. It is also implemented on MCUs, allowing the host device to make ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.allaboutcircuits.com/news/ai-devices-are-helping-us-stay-one-step-ahead-of-covid-19/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-25T11:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "All About Circuits",
+        "domain": "allaboutcircuits.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.allaboutcircuits.com/uploads/thumbnails/BlueDot_Feature.jpg",
+          "width": 800,
+          "height": 435,
+          "title": "AI Devices Are Helping Us Stay One Step Ahead of COVID-19",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-25-self-driving-dream-eludes-yet-again-as-starsky-robotics-shuts-down.md",
       "title": "Self-Driving Dream Eludes Yet Again As Starsky Robotics Shuts Down",
       "excerpt": "Similarly, though, it didn’t turn out as planned. Although he still lauds his team for their efforts, he lamented that the self-driving space was overwhelmed with the unmet promise of AI to focus on a practical solution. Added to this is the recession in trucking for the past 18 months. The hardest part of building AI is how it deals with ...",
@@ -1210,43 +1247,6 @@
           "width": 1440,
           "height": 523,
           "title": "Artificial intelligence helps prevent disruptions in fusion devices",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-18-toyota-partners-with-chinas-momenta-to-commercialize-hd-maps-for-self-driving-vehicles.md",
-      "title": "Toyota Partners With China's Momenta To Commercialize HD Maps For Self-Driving Vehicles",
-      "excerpt": "has partnered with Beijing-based artificial intelligence startup Momenta to commercialize its high definition road map for automated vehicles, the Nikkei Asian Review reported Wednesday. \"With this joint development,",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.benzinga.com/news/20/03/15575732/toyota-partners-with-chinas-momenta-to-commercialize-hd-maps-for-self-driving-vehicles",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/15575732",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15575732",
-      "publishedDateTime": "2020-03-18T01:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.benzinga.com/files/images/story/2012/toyota_0.jpeg",
-          "width": 1834,
-          "height": 2747,
-          "title": "Toyota Partners With China's Momenta To Commercialize HD Maps For Self-Driving Vehicles",
           "attribution": null
         }
       ],

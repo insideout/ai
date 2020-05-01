@@ -2,6 +2,52 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2020-04-07-5-practical-reasons-to-embrace-artificial-intelligence.md",
+      "title": "5 practical reasons to embrace artificial intelligence",
+      "excerpt": "AI is about more than just robots. There are several reasons that people should accept artificial intelligence, including health care fighting the current coronavirus pandemic and empowering people with disabilities. Artificial intelligence is about more than robots. Whether someone considers themself a tech expert, or a newbie when it comes to ...",
+      "heat": 91,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/article/5-practical-reasons-to-embrace-artificial-intelligence/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/5-practical-reasons-to-embrace-artificial-intelligence/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/5-practical-reasons-to-embrace-artificial-intelligence/",
+      "publishedDateTime": "2020-04-07T08:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr3.cbsistatic.com/hub/i/r/2020/04/07/b9096b1a-0696-4267-a3f0-1ee3c61fe529/resize/1200x/ef5bf98b81cf782d65908c237d3d27b5/drone-garden.jpg",
+          "width": 1200,
+          "height": 798,
+          "title": "5 practical reasons to embrace artificial intelligence",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2020-04-07-mixmode-raises-4-million-to-help-companies-fight-ai-driven-cyberattacks.md",
       "title": "MixMode raises $4 million to help companies fight AI-driven cyberattacks",
       "excerpt": "The Santa Barbara-based startup is trying to leapfrog ahead of current security AI strategies by developing technology that doesn’t require any human intervention or rule-making. As bad actors turn to AI to launch new forms of attacks, the company believes such “unsupervised” AI is essential to maintaining defenses. “Large enterprises ...",
@@ -1002,43 +1048,6 @@
           "width": 1630,
           "height": 952,
           "title": "AI Applications: Top 10 Real World Artificial Intelligence Applications",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-07-artificial-intelligence-driving-autonomous-vehicle-development.md",
-      "title": "Artificial intelligence driving autonomous vehicle development",
-      "excerpt": "Autonomous driving is one of the key application areas of artificial intelligence (AI). Autonomous vehicles (AV ... which eventually became Waymo in 2016. Waymo has been extensively leveraging AI to make fully autonomous driving a reality.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://ihsmarkit.com/research-analysis/artificial-intelligence-driving-autonomous-vehicle-development.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-06T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IHS Markit",
-        "domain": "ihsmarkit.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.ihsmarkit.com/www/blog/ra-autonomous-car-getty692834496-featured.jpg",
-          "width": 636,
-          "height": 370,
-          "title": "Artificial intelligence driving autonomous vehicle development",
           "attribution": null
         }
       ],

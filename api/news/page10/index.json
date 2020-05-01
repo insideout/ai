@@ -2,6 +2,52 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-04-22-impact-of-covid-19-on-artificial-intelligence-market-beyond-2020.md",
+      "title": "Impact of COVID-19 on Artificial Intelligence Market - Beyond 2020",
+      "excerpt": "The MarketWatch News Department was not involved in the creation of the content. The global artificial intelligence market has been segmented in terms of type, application, and region. Based on type, the market has been segmented into artificial neural network, digital assistance system, embedded system, expert system and automated robotic system.",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/impact-of-covid-19-on-artificial-intelligence-market---beyond-2020-2020-04-22",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-22T08:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Impact of COVID-19 on Artificial Intelligence Market - Beyond 2020",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-04-22-granulate-raises-12-million-to-optimize-server-performance-with-ai.md",
       "title": "Granulate raises $12 million to optimize server performance with AI",
       "excerpt": "Applying AI to data center operations isn’t a new idea — IDC predicts that 50% of IT assets ... (Granulate has 14 employees, and it expects to triple its headcount to roughly 40 by 2021.) Sign up for Funding Weekly to start your week with VB's top funding stories.",
@@ -1037,51 +1083,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-21-global-ai-in-fintech-market-2020-outlook-key-players-segmentation-industry-size-and-share-comprehensive-analysis-to-2025.md",
-      "title": "Global AI in Fintech Market 2020 Outlook, Key Players, Segmentation, Industry Size and Share, Comprehensive Analysis to 2025",
-      "excerpt": "Global AI in Fintech Market 2020 by Company, Regions, Type and Application, Forecast to 2025 available at MarketandResearch.biz presents the latest study on the market covering product scope, market revenue,",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/global-ai-in-fintech-market-2020-outlook-key-players-segmentation-industry-size-and-share-comprehensive-analysis-to-2025-2020-04-21?tesla=y",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-21T09:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Global AI in Fintech Market 2020 Outlook, Key Players, Segmentation, Industry Size and Share, Comprehensive Analysis to 2025",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

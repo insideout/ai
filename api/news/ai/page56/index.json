@@ -2,6 +2,51 @@
   "page": 56,
   "value": [
     {
+      "path": "_news/2020-03-09-the-role-of-human-judgment-as-a-presumed-integral-ingredient-for-achieving-true-ai.md",
+      "title": "The Role Of Human Judgment As A Presumed Integral Ingredient For Achieving True AI",
+      "excerpt": "Is the embodiment of human judgment a required ingredient in achieving true AI? It is a rather seemingly simple question to proffer, though any mindful answer is likely to be notably elongated. Here’s why.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/03/09/the-role-of-human-judgment-as-a-presumed-integral-ingredient-for-achieving-true-ai/",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/03/09/the-role-of-human-judgment-as-a-presumed-integral-ingredient-for-achieving-true-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/03/09/the-role-of-human-judgment-as-a-presumed-integral-ingredient-for-achieving-true-ai/amp/",
+      "publishedDateTime": "2020-03-09T07:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e65a45f44b78400068c4fac%2F0x0.jpg%3FcropX1%3D312%26cropX2%3D5378%26cropY1%3D0%26cropY2%3D3800",
+          "width": 1200,
+          "height": 900,
+          "title": "The Role Of Human Judgment As A Presumed Integral Ingredient For Achieving True AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-09-training-and-operationalizing-interpretable-machine-learning-models.md",
       "title": "Training and Operationalizing Interpretable Machine Learning Models",
       "excerpt": "Francesca will illustrate this workflow using Azure Machine Learning, but it can be also used with any machine learning product of your choice. The model deployment workflow should be based on the ...",
@@ -1104,51 +1149,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-07-application-of-computer-vision-in-precision-agriculture-farming.md",
-      "title": "Application of Computer Vision in Precision Agriculture & Farming",
-      "excerpt": "But now AI in agriculture is boosting this sector using the power computer vision technology, to train the machines for better productivity in agro and farming. Actually, high-labor cost and ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/vsinghbisen/application-of-computer-vision-in-precision-agriculture-farming-79b0600d5a5d",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-07T01:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/1200/1*ocyh2KDUta4JcMB-FHMFbg.jpeg",
-          "width": 1200,
-          "height": 813,
-          "title": "Application of Computer Vision in Precision Agriculture & Farming",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

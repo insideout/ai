@@ -2,6 +2,43 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2020-04-10-artificial-intelligence-as-a-service-aiaas-market-2019-2023-need-to-reduce-ai-cost-to-boost-growth-technavio.md",
+      "title": "Artificial Intelligence-as-a-Service (AIaaS) Market 2019-2023 | Need to Reduce AI Cost to Boost Growth | Technavio",
+      "excerpt": "Technavio has been monitoring the artificial intelligence-as-a-service (AIaaS) market and it is poised to grow by USD 15.14 billion during 2019-2023, progressing at a CAGR of over 48% during the forecast period.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.register-herald.com/region/artificial-intelligence-as-a-service-aiaas-market-2019-2023-need-to-reduce-ai-cost-to/article_60905b39-6f72-547d-8ec5-a2ca4ff1c12a.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-10T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Register-Herald",
+        "domain": "register-herald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/assets/v3/editorial/d/56/d56fd7d1-9b5f-510e-ab82-2929c2a90a99/5e905cb07d069.image.jpg?resize=1000%2C564",
+          "width": 1000,
+          "height": 564,
+          "title": "Artificial Intelligence-as-a-Service (AIaaS) Market 2019-2023 | Need to Reduce AI Cost to Boost Growth | Technavio",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-10-chinese-self-driving-start-up-autox-sets-up-asias-largest-robotaxi-operations-centre-in-shanghai.md",
       "title": "Chinese self-driving start-up AutoX sets up ‘Asia’s largest robotaxi operations centre’ in Shanghai",
       "excerpt": "Chinese autonomous driving start-up AutoX has launched a “gigafactory” in Shanghai, which it says is the largest data hub for self-driving car data in China and the biggest robotaxi operations centre in Asia. The 80,000 square feet Shanghai RoboTaxi Operations Center houses tools for operating a large fleet of self-driving cars, the company ...",
@@ -1205,35 +1242,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-09-global-artificial-intelligence-in-supply-chain-market-2020-to-2027-by-component-technology-application-and-by-end-user-researchandmarketscom.md",
-      "title": "Global Artificial Intelligence in Supply Chain Market (2020 to 2027) - by Component Technology, Application and by End User - ResearchAndMarkets.com",
-      "excerpt": "The \"Artificial Intelligence in Supply Chain Market by Component (Platforms, Solutions) Technology (Machine Learning, Computer Vision, Natural Language",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.benzinga.com/pressreleases/20/04/b15773783/global-artificial-intelligence-in-supply-chain-market-2020-to-2027-by-component-technology-applica",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/15773783",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15773783",
-      "publishedDateTime": "2020-04-09T04:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

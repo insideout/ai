@@ -2,6 +2,43 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2020-04-11-amazon-announces-general-availability-of-aws-deepcomposer.md",
+      "title": "Amazon Announces General Availability of AWS Deepcomposer",
+      "excerpt": "At re:Invent last year, Amazon launched AWS Deepcomposer as a preview, and it is generally available now with a few new features. These features include: Julien Simon, artificial intelligence ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.infoq.com/news/2020/04/amazon-aws-deepcomposer-ga/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-11T04:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoQ",
+        "domain": "infoq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/da4b9237bacccdf19c0760cab7aec4a8359010b0/2020/03/27/julsimon-deepcomposerga-1-1024x835.png",
+          "width": 1024,
+          "height": 835,
+          "title": "Amazon Announces General Availability of AWS Deepcomposer",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-11-enabling-financial-inclusion-in-asia.md",
       "title": "Enabling Financial Inclusion in Asia",
       "excerpt": "Fortunately, AI-enabled alternative credit scoring is upending this, creating opportunities for online lenders and fostering financial inclusion across the region ... borrowers who may otherwise be credit-worthy. Self-learning credit scoring models can continuously improve themselves via machine learning (ML) as new data feeds into the system.",
@@ -1228,43 +1265,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-10-artificial-intelligence-as-a-service-aiaas-market-2019-2023-need-to-reduce-ai-cost-to-boost-growth-technavio.md",
-      "title": "Artificial Intelligence-as-a-Service (AIaaS) Market 2019-2023 | Need to Reduce AI Cost to Boost Growth | Technavio",
-      "excerpt": "Technavio has been monitoring the artificial intelligence-as-a-service (AIaaS) market and it is poised to grow by USD 15.14 billion during 2019-2023, progressing at a CAGR of over 48% during the forecast period.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.register-herald.com/region/artificial-intelligence-as-a-service-aiaas-market-2019-2023-need-to-reduce-ai-cost-to/article_60905b39-6f72-547d-8ec5-a2ca4ff1c12a.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-10T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Register-Herald",
-        "domain": "register-herald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/assets/v3/editorial/d/56/d56fd7d1-9b5f-510e-ab82-2929c2a90a99/5e905cb07d069.image.jpg?resize=1000%2C564",
-          "width": 1000,
-          "height": 564,
-          "title": "Artificial Intelligence-as-a-Service (AIaaS) Market 2019-2023 | Need to Reduce AI Cost to Boost Growth | Technavio",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

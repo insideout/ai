@@ -2,6 +2,51 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2020-04-10-elon-musk-seemingly-used-the-superhuman-false-narrative-in-advancing-teslas-self-driving-car-ambitions.md",
+      "title": "Elon Musk Seemingly Used The Superhuman ‘False Narrative’ In Advancing Tesla’s Self-Driving Car Ambitions",
+      "excerpt": "Elon Musk sent a tweet this week referring to Tesla's self-driving tech as potentially being ... [+] \"superhuman\" which raises interesting questions about AI. Well, Elon Musk has suggested that Tesla cars outfitted with self-driving tech “can definitely be superhuman” (in his tweet on April 7, 2020), which invokes the superhuman moniker and ...",
+      "heat": 72,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/04/10/elon-musk-seemingly-used-the-superhuman-false-narrative-in-advancing-teslas-self-driving-car-ambitions/",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/04/10/elon-musk-seemingly-used-the-superhuman-false-narrative-in-advancing-teslas-self-driving-car-ambitions/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/04/10/elon-musk-seemingly-used-the-superhuman-false-narrative-in-advancing-teslas-self-driving-car-ambitions/amp/",
+      "publishedDateTime": "2020-04-09T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1096056680%2F0x0.jpg",
+          "width": 1200,
+          "height": 783,
+          "title": "Elon Musk Seemingly Used The Superhuman ‘False Narrative’ In Advancing Tesla’s Self-Driving Car Ambitions",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-10-how-do-consumers-feel-about-fashion-during-coronavirus-heres-what-ai-thinks.md",
       "title": "How Do Consumers Feel About Fashion During Coronavirus? Here’s What AI Thinks",
       "excerpt": "Cognovi Labs, an award-winning technology startup which measures the public’s emotions and quantifies consumer intent through AI-meets-behavioral-psychology ... is a powerhouse in natural language processing, which is the understanding of unstructured conversation. Most social listening technology pulls words from digital conversations ...",
@@ -1001,50 +1046,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-09-accelerating-digital-transformation-in-manufacturing.md",
-      "title": "Accelerating digital transformation in manufacturing",
-      "excerpt": "Digital transformation in manufacturing has the potential to increase annual global economic value by $4.5 trillion according to the IDC MarketScape.i With so much upside, manufacturers are looking at how technologies like IoT, machine learning, and artificial intelligence (AI) can be used to optimize",
-      "heat": 72,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://azure.microsoft.com/blog/accelerating-digital-transformation-in-manufacturing/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-09T02:00:12-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/d3ef2473-cd90-46d6-a056-b82f9ab7f3c2.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": "Accelerating digital transformation in manufacturing",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI"
       ]
     }
   ],

@@ -2,6 +2,43 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-04-17-clearview-ai-exposes-source-code-to-controversial-facial-recognition-app-and-company-credentials.md",
+      "title": "Clearview AI exposes source code to controversial facial recognition app and company credentials",
+      "excerpt": "A researcher found that a misconfiguration allowed anyone to register as a new user and access the database containing Clearview's code regardless of whether they had entered password.",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-8231025/Clearview-AI-exposes-source-code-controversial-facial-recognition-app-company-credentials.html",
+      "ampWebUrl": "https://www.dailymail.co.uk/sciencetech/article-8231025/amp/Clearview-AI-exposes-source-code-controversial-facial-recognition-app-company-credentials.html",
+      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-8231025/amp/Clearview-AI-exposes-source-code-controversial-facial-recognition-app-company-credentials.html",
+      "publishedDateTime": "2020-04-17T12:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mail Online",
+        "domain": "dailymail.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.dailymail.co.uk/1s/2020/04/17/19/25231518-0-image-a-2_1587149037389.jpg",
+          "width": 636,
+          "height": 382,
+          "title": "Clearview AI exposes source code to controversial facial recognition app and company credentials",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-17-using-amazon-textract-with-amazon-augmented-ai-for-processing-critical-documents.md",
       "title": "Using Amazon Textract with Amazon Augmented AI for processing critical documents",
       "excerpt": "Documents are a primary tool for record keeping, communication, collaboration, and transactions across many industries, including financial, medical, legal, and real estate. For example, millions of mortgage applications and hundreds of millions of tax forms are processed each year. Documents are often",
@@ -399,35 +436,6 @@
       ]
     },
     {
-      "path": "_news/2020-04-17-microsoft-to-be-ai-partner-for-nba.md",
-      "title": "Microsoft To Be AI Partner For NBA",
-      "excerpt": "Microsoft will become the official technology partner for the National Basketball Association or NBA under a new multi-year partnership between the two parties. As part of their collaboration, Microsoft will become the Official Artificial Intelligence Partner and an Official Cloud and Laptop Partner for the NBA,",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nasdaq.com/articles/microsoft-to-be-ai-partner-for-nba-2020-04-17",
-      "ampWebUrl": "https://www.nasdaq.com/articles/microsoft-to-be-ai-partner-for-nba-2020-04-17?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/microsoft-to-be-ai-partner-for-nba-2020-04-17?amp",
-      "publishedDateTime": "2020-04-17T08:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-04-17-ai-researchers-propose-bias-bounties-to-put-ethics-principles-into-practice.md",
       "title": "AI researchers propose ‘bias bounties’ to put ethics principles into practice",
       "excerpt": "Researchers from Google Brain, Intel, OpenAI, and top research labs in the U.S. and Europe joined forces this week to release what the group calls a toolbox for turning AI ethics principles into practice. The kit for organizations creating AI models includes the idea of paying developers for finding bias in AI, akin to the bug bounties offered ...",
@@ -470,6 +478,43 @@
       "topics": [
         "AI",
         "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2020-04-17-microsoft-to-be-ai-partner-for-nba.md",
+      "title": "Microsoft To Be AI Partner For NBA",
+      "excerpt": "Microsoft will become the official technology partner for the National Basketball Association or NBA under a new multi-year",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/microsoft-to-be-ai-partner-for-nba-1029102857",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/Microsoft-To-Be-AI-Partner-For-NBA-1029102857",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Microsoft-To-Be-AI-Partner-For-NBA-1029102857",
+      "publishedDateTime": "2020-04-17T08:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
       ]
     },
     {
@@ -1244,51 +1289,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-17-facebook-to-warn-users-who-liked-or-shared-coronavirus-hoaxes.md",
-      "title": "Facebook to warn users who 'liked' or ‘shared’ coronavirus hoaxes",
-      "excerpt": "Facebook says those warning labels have stopped 95 per cent of users from clicking ... Sign up now and get a 10% discount (original price US$400) off the China AI Report 2020 by SCMP Research. Learn about the AI ambitions of Alibaba, Baidu & JD.com through our in-depth case studies, and explore new applications of AI across industries.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.scmp.com/tech/big-tech/article/3080340/facebook-warn-users-who-liked-or-shared-coronavirus-hoaxes",
-      "ampWebUrl": "https://amp.scmp.com/tech/big-tech/article/3080340/facebook-warn-users-who-liked-or-shared-coronavirus-hoaxes",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3080340/facebook-warn-users-who-liked-or-shared-coronavirus-hoaxes",
-      "publishedDateTime": "2020-04-16T20:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/04/17/fdd4e9b2-8056-11ea-8736-98edddd9b5ca_image_hires_110115.JPG?itok=Bpt6gBog&v=1587092481",
-          "width": 1200,
-          "height": 630,
-          "title": "Facebook to warn users who 'liked' or ‘shared’ coronavirus hoaxes",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

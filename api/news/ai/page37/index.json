@@ -2,6 +2,35 @@
   "page": 37,
   "value": [
     {
+      "path": "_news/2020-03-25-private-sector-coalition-to-combat-covid-19-with-real-time-data.md",
+      "title": "Private Sector Coalition to Combat COVID-19 with Real-Time Data",
+      "excerpt": "Coalition members include Arcadia.io, athenahealth, Amazon Web Services (AWS), Buoy Health, CommonWell Health Alliance ... and call on the United States research community to put artificial intelligence technologies to work in answering key scientific questions about the novel coronavirus.” This new private sector coalition will aim to ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://healthitanalytics.com/news/private-sector-coalition-to-combat-covid-19-with-real-time-data",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-25T08:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics",
+        "domain": "healthitanalytics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-25-wekaio-named-winner-in-2020-artificial-intelligence-excellence-awards.md",
       "title": "WekaIO Named Winner in 2020 Artificial Intelligence Excellence Awards",
       "excerpt": "WekaFS has a clean sheet design that handles the demands of new emerging and converging workloads, including artificial intelligence (AI) and machine/deep learning (ML/DL ... paradigm-shifting technology that enables innovations in Autonomous Vehicles, Healthcare and Life Sciences, and FSI ( Financial Services Industry),” said Shailesh ...",
@@ -1194,35 +1223,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-24-the-cognitive-computing-market-size-to-grow-at-a-cagr-of-305.md",
-      "title": "The cognitive computing market size to grow at a CAGR of 30.5%",
-      "excerpt": "NEW YORK, March 24, 2020 /PRNewswire/ -- The cognitive ... are Microsoft, IBM, SAS, Google, AWS, TCS, Cisco, and Virtusa. These companies are continuously innovating their products and services ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.finanzen.net/nachricht/aktien/the-cognitive-computing-market-size-to-grow-at-a-cagr-of-30-5-8666692",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-24T12:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finanzen",
-        "domain": "finanzen.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

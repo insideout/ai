@@ -2,6 +2,43 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-04-22-commscope-brings-artificial-intelligence-and-machine-learning-to-ruckus-analytics.md",
+      "title": "Commscope brings artificial intelligence and machine learning to Ruckus Analytics",
+      "excerpt": "Built on a patented machine learning (ML) and artificial intelligence (AI) foundation, the new service accelerates troubleshooting, provides comprehensive network visibility, automatically identifies service-affecting issues, and—unique to the networking industry classifies them according to severity, enabling managed service provider and ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zawya.com/mena/en/press-releases/story/Commscope_brings_artificial_intelligence_and_machine_learning_to_Ruckus_Analytics-ZAWYA20200422073526/",
+      "ampWebUrl": "https://www.zawya.com/mena/en/story/amp/ZAWYA20200422073526/",
+      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20200422073526/",
+      "publishedDateTime": "2020-04-22T00:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.zawya.com/resources/img/zawya-logo-en-social.png",
+          "width": 1200,
+          "height": 878,
+          "title": "Commscope brings artificial intelligence and machine learning to Ruckus Analytics",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-22-how-artificial-intelligence-iot-and-big-data-can-save-the-bees.md",
       "title": "How Artificial Intelligence, IoT And Big Data Can Save The Bees",
       "excerpt": "Artificial intelligence (AI), internet of things sensors, big data analytics, and other technologies are being used to monitor and develop solutions to mitigate the global issue of declining honey bee and pollinator populations.",
@@ -1129,43 +1166,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-21-deep-learning-takes-on-tumours.md",
-      "title": "Deep learning takes on tumours",
-      "excerpt": "The cell movements hold clues to how drugs or gene variants might affect the spread of tumours in the body, and he is tracking the nucleus of each cell in frame after frame of time-lapse microscopy films.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nature.com/articles/d41586-020-01128-8",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-21T03:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nature",
-        "domain": "nature.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.nature.com/lw1024/magazine-assets/d41586-020-01128-8/d41586-020-01128-8_17881098.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": "Deep learning takes on tumours",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     },

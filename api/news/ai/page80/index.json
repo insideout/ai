@@ -2,6 +2,51 @@
   "page": 80,
   "value": [
     {
+      "path": "_news/2020-02-06-uber-gets-green-light-to-test-self-driving-cars-in-california-again.md",
+      "title": "Uber gets green light to test self-driving cars in California again",
+      "excerpt": "Uber's self-driving could be allowed roads again in California. According to report Thursday from Reuters, the ride sharing company received a permit on Wednesday from the California Department of Motor Vehicles to test the autonomous vehicles with a backup driver. Uber did not immediately respond to request for comment, but told Reuters it ...",
+      "heat": 269,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnet.com/news/uber-gets-green-light-to-test-self-driving-cars-in-california-again/",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/uber-gets-green-light-to-test-self-driving-cars-in-california-again/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/uber-gets-green-light-to-test-self-driving-cars-in-california-again/",
+      "publishedDateTime": "2020-02-06T09:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cnet4.cbsistatic.com/img/P1TSwyMIOEev0pcnkl0Asmh3kTs=/756x567/2019/08/21/f4944c4f-9607-41a7-ac58-9daaa50231e8/uber-logo-1.jpg",
+          "width": 756,
+          "height": 567,
+          "title": "Uber gets green light to test self-driving cars in California again",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2020-02-06-facebook-launches-3d-deep-learning-library-for-pytorch.md",
       "title": "Facebook launches 3D deep learning library for PyTorch",
       "excerpt": "Facebook AI Research (FAIR) today unveiled PyTorch3D, a library that enables researchers and developers to combine deep learning and 3D objects. As part of the release, Facebook is also open-sourcing Mesh R-CNN, a model introduced last year capable of rendering 3D objects from 2D shapes in images of interior spaces. PyTorch3D was inspired by ...",
@@ -1229,51 +1274,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-05-music-by-numbers-robot-conducts-human-orchestra.md",
-      "title": "Music by numbers? Robot conducts human orchestra",
-      "excerpt": "The conductor on the podium has no baton, no tailcoat and no musical score, but Android Alter 3 is kicking up a storm as it guides a symphony orchestra’s players through their paces. The robot has a humanoid face,",
-      "heat": 109,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://af.reuters.com/article/worldNews/idAFKBN1ZZ1U5",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-05T10:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200205&t=2&i=1486174307&w=1200&r=LYNXMPEG1419I",
-          "width": 1200,
-          "height": 800,
-          "title": "Music by numbers? Robot conducts human orchestra",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

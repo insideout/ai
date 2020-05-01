@@ -5,8 +5,8 @@ excerpt: "Google has now open-sourced TensorFlow Runtime (TFRT), a new runtime t
 publishedDateTime: 2020-05-01T04:32:00Z
 webUrl: "https://analyticsindiamag.com/this-is-what-google-tensorflow-is-giving-away-for-free-now/"
 type: article
-quality: 39
-heat: 39
+quality: 56
+heat: 56
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - Google AI
   - AI
+  - TensorFlow
 
 images:
   - url: "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2020/04/aim_tfds.jpg"
@@ -23,6 +24,6 @@ images:
     height: 1137
     title: "This Is What Google TensorFlow Is Giving Away For Free Now"
 
-secured: "S7XeCoiDGzd6Cr6VxpeqgUVGJ7KN5nM/TqIjEo95MnA5ERsuM2KdJeNvMaL1aUjlH/qj7u44Cl5PsAxS0XWqMBA+z6TWO18h9/9R46vDWM4qPL+lRG5laWzyRtsHy6ugT9+rWZ8tex2IVT8RDAkKwzQfmgXMvorlKweRBVt7k7JNi4a/vHSNZwFEbroNAaJCCQp/xbhUKORHzRy3OP6fD9rdiAl03xGTg0/6TLPmuHC1EvQLUbDun6nyxnkoF8URRW20bOtbVV/kuM1RejOlYmrN+OmveNyXweo/mrDIYXiCqCXfRAa/HisNSDdXfQTU;rLGSGO3VBfrhYhogGCeyNQ=="
+secured: "SrkE0Dt8eW67AHPlC7/4js5q+fK7My3ioEGIf9I2+WQXeJ2GFmlE1SZniqPG5PUZUoMB/Spgm+WjVTHAYo9tCiMKQkU8QQXR21V+LTRsypWUHXu4Ki5iHTBGZvpCTBc805yCMuTB6toE4AOOng+rOrwRWTpEIawANTXTaYToVag+++Gjj+i+PuAGPqd/aLAIFpL1RnoiG0LRAfe1230gPwyzAIDcv5mjBTzD+wED3bLR0d1rPXWeaiGgTw5uBNPnN+a7/d7M0DcetPgQPwvB34U9o7nrSPkWwbvsXeeBDYUaNg8bTspzK241itJxO0Kh0ENSbDLAYkuhrjo385owjnfsl5QxUSYH78AoS5+JxwtIfJfQNOQwIlKKKTmS9t6xCigLpGGLUBQusW/cjab06IwTnjcZbw2AdNarWYZNgiZ5WTZyIyXqsB0uZe5mpRwf28oW1d0FT8qZe5Nsb2lRCaddnAEiKalFqKDwBxX2VEw=;YwS/W0bqZ/iG874K4aENSw=="
 ---
 

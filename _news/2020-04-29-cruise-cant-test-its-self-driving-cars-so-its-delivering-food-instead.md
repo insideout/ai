@@ -8,7 +8,7 @@ ampWebUrl: "https://mashable.com/article/cruise-gm-autonomous-cars-food-delivery
 cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/cruise-gm-autonomous-cars-food-delivery.amp"
 type: article
 quality: 73
-heat: 83
+heat: 93
 published: true
 
 provider:
@@ -26,6 +26,21 @@ images:
     title: "Cruise can't test its self-driving cars. So it's delivering food instead."
 
 related:
+  - title: "Cruise can't test its self-driving cars. So it's delivering food instead."
+    excerpt: "Cruise vehicles, the self-driving electric Chevy Bolts usually spotted around San Francisco neighborhoods, are back on the road after a brief pause during the coronavirus outbreak. And now that the fleet is considered an essential service,"
+    publishedDateTime: 2020-04-30T05:09:00Z
+    webUrl: "https://sea.mashable.com/tech/10356/cruise-cant-test-its-self-driving-cars-so-its-delivering-food-instead"
+    ampWebUrl: "https://sea.mashable.com/tech/10356/cruise-cant-test-its-self-driving-cars-so-its-delivering-food-instead?amp=1"
+    cdnAmpWebUrl: "https://sea-mashable-com.cdn.ampproject.org/c/s/sea.mashable.com/tech/10356/cruise-cant-test-its-self-driving-cars-so-its-delivering-food-instead?amp=1"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 73
+    images:
+      - url: "https://sm.mashable.com/t/mashable_sea/news/c/cruise-can/cruise-cant-test-its-self-driving-cars-so-its-delivering-foo_s4qe.620.jpg"
+        width: 619
+        height: 413
   - title: "Cruise redeploys some of its self-driving cars to make food deliveries in San Francisco"
     excerpt: "Cruise, the self-driving subsidiary of General Motors, has brought some of its autonomous vehicles out of their coronavirus-imposed dormancy to make deliveries for a pair of food banks in San Francisco,"
     publishedDateTime: 2020-04-29T16:33:00Z

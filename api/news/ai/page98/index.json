@@ -2,6 +2,43 @@
   "page": 98,
   "value": [
     {
+      "path": "_news/2020-01-17-european-union-to-restrict-the-development-of-artificial-intelligence.md",
+      "title": "European Union to restrict the development of artificial intelligence",
+      "excerpt": "These rules will restrict artificial intelligence developers and ensure that these modern technologies are developed in an ethical way. The competent authority of the European Union plans to implement these new regulations in “high-risk sectors”. They include health care, transportation, and other fields. Member states in the European ...",
+      "heat": 69,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.gizchina.com/2020/01/17/european-union-to-restrict-the-development-of-artificial-intelligence/",
+      "ampWebUrl": "https://www.gizchina.com/2020/01/17/european-union-to-restrict-the-development-of-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2020/01/17/european-union-to-restrict-the-development-of-artificial-intelligence/amp/",
+      "publishedDateTime": "2020-01-17T05:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GizChina",
+        "domain": "gizchina.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.gizchina.com/wp-content/uploads/images/2019/07/EU.png",
+          "width": 788,
+          "height": 525,
+          "title": "European Union to restrict the development of artificial intelligence",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2020-01-17-i-had-a-lovely-time-in-an-ai-generated-bjork-hotel-lobby-soundscape.md",
       "title": "I had a lovely time in an AI-generated Björk hotel lobby soundscape",
       "excerpt": "I'm in that hotel lobby, listening. There's a pattern to the music. It's connected to a camera on the roof, gazing at moving clouds and birds. The composition is AI-driven. The best part is, it's invisible and it works. I stay and listen for an hour. Björk created a new AI-generated experimental ambient musical piece in collaboration with ...",
@@ -1235,50 +1272,6 @@
         "Natural Language Processing",
         "AI Hardware",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-16-how-ai-technology-will-change-the-way-we-treat-advertising-in-2020.md",
-      "title": "How AI Technology Will Change The Way We Treat Advertising In 2020",
-      "excerpt": "Very soon, marketing personalization strategies will largely depend on smart automation technologies to make each customer part of a fascinating branding experience.",
-      "heat": 117,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/16/how-ai-technology-will-change-the-way-we-treat-advertising-in-2020/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/16/how-ai-technology-will-change-the-way-we-treat-advertising-in-2020/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/16/how-ai-technology-will-change-the-way-we-treat-advertising-in-2020/amp/",
-      "publishedDateTime": "2020-01-16T10:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/dam/imageserve/973718316/960x0.jpg?fit=scale",
-          "width": 711,
-          "height": 474,
-          "title": "How AI Technology Will Change The Way We Treat Advertising In 2020",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],
