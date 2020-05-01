@@ -25,15 +25,19 @@ images:
     title: "First spiking Neural Network-based chip for radar signal processing"
 
 related:
-  - title: "Imec Builds World’s First Spiking Neural Network-Based Chip for Radar Signal Processing"
+  - title: "Imec Builds World's First Spiking Neural Network-Based Chip for Radar Signal Processing"
     excerpt: "Imec, a world-leading research and innovation hub in nanoelectronics and digital technologies, today presents the world’s first chip that processes radar signals using a spiking recurrent neural network."
-    publishedDateTime: 2020-04-28T19:00:00Z
-    webUrl: "https://www.newswiretoday.com/news/172799/Imec-Builds-Worlds-First-Spiking-Neural-Network-Based-Chip-for-Radar-Signal-Processing/"
+    publishedDateTime: 2020-04-28T11:38:00Z
+    webUrl: "https://www.design-reuse.com/news/47876/imec-spiking-neural-network-based-chip.html"
     type: article
     provider:
-      name: Newswire Today
-      domain: newswiretoday.com
-    quality: 11
+      name: Design-Reuse
+      domain: design-reuse.com
+    quality: 31
+    images:
+      - url: "https://www.design-reuse.com/news_img2/homepage47876/20200428b_1.jpg"
+        width: 480
+        height: 275
   - title: "Imec Builds World’s First Spiking Neural Network-Based Chip for Radar Signal Processing"
     excerpt: "Imec, a world-leading research and innovation hub in nanoelectronics and digital technologies, today presents the world’s first chip that processes radar signals"
     publishedDateTime: 2020-04-29T13:38:00Z

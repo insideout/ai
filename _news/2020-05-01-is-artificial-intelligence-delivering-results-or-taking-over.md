@@ -7,9 +7,9 @@ webUrl: "https://www.zawya.com/mena/en/business/story/Is_artificial_intelligence
 ampWebUrl: "https://www.zawya.com/mena/en/story/amp/SNG_173508410/"
 cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/SNG_173508410/"
 type: article
-quality: 59
-heat: 69
-published: false
+quality: 61
+heat: 71
+published: true
 
 provider:
   name: Zawya
@@ -18,6 +18,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://www.zawya.com/resources/img/zawya-logo-en-social.png"
@@ -40,6 +41,6 @@ related:
         width: 780
         height: 439
 
-secured: "4DSy4mMMKjEWHFkdkUrwjB8DVJ51LvRk9p2egxBUlPGQwMDr/MucyjFW4hSuvZ56VST9Gn/t7MvS4dpcxx+gKkBncwk5KQ/YYRGcle4OvQcHJFhBshQBELWQHeIVdwQiCFhPtb2iitjpBlusDxf2u29xAJxorGv6Jnd3+LrEIjBFLeGdnw8hivSItGHZjoCZN9q6f8jmbY942fpMr0gHvRHYvDvNG5OhSz/z5w6UM45C4A701fnbFR5Cp2pPcg5Jo/IQqqKkOSDHmSVWcF3ClRUSykZknFr/PlZugATZ9lKperinLqKJ5sR2Agn63Jmr;cmY9OVHht1yXt8stULydqA=="
+secured: "5JFv+OlUljvbWdjzf25L5XRvTFo4D2lOAm/DZl6cGcIYPq8iL34bTkeZpa766oKpwcU68SokvCGRURK0OdC2ESN1p3L8MaoRZrT2KATbqkFNFeDdpj5w3z9EsiHrQbjEzAjD3GpLwq0s4C/37kMEHOklBjOWkpgRPohXCR4BFGeEkp8bWDlalzrcS9TV4ddIwSLErs6WbEPHxc1yrSa61mc9XU7h9x7CEvMy7a0vJoj+ZjL758VojgW3SLxIEbMDtK9pVEeJeO9HXh2Osl78GfkH+3GVzqKuJYnyJnkP6uYt5C0cuOvYVTWmoUyEhgokugEC0pkFBQrRG2c1HTIQLXbtRxnqYMtBnwsBcacuXhh9g9DTGM8YDhYh9gHby997yvL577LGjjtAEchId/qz5r9EBasTOuxZ6tdagvMU9Avhk6ZKtDlPlpnU5qGqbblk8fFOlxdtHvuQxh2tDd2+3ONCKXeaRmXCsA2FWA9pdYU=;OHER7zXXsznPAUebgzztjg=="
 ---
 

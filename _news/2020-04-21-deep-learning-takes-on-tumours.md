@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Deep learning takes on tumours"
-excerpt: "AI technologies encompass several methods. One, called machine learning, uses data that have been manually preprocessed and makes predictions according to what the AI learns. Deep learning, by contrast, can identify complex patterns in raw data. It is used in self-driving cars, speech-recognition software, game-playing computers — and to spot ..."
-publishedDateTime: 2020-04-21T00:00:00Z
-webUrl: "https://www.nature.com/articles/d41586-020-01128-8?hss_channel=tw-1318985240"
+excerpt: "The cell movements hold clues to how drugs or gene variants might affect the spread of tumours in the body, and he is tracking the nucleus of each cell in frame after frame of time-lapse microscopy films."
+publishedDateTime: 2020-04-21T10:06:00Z
+webUrl: "https://www.nature.com/articles/d41586-020-01128-8"
 type: article
 
 provider:
@@ -20,6 +20,6 @@ images:
     height: 576
     title: "Deep learning takes on tumours"
 
-secured: "qBjYOs9RC1BIVRPxXb5F/yToTj2KLd1Jhkfg49imAXH4aRArdHG+ZIblmrNIJVPPt99GXqA7xDRgxdt97U/AJ5qqvZqslj5ZpuRvBHrat2Dg+cLFg8WafYSr7Zir2Xi8l1h2EwqeFr+RO44IFhMS6enwV1QoUz6LWIrsyz8JQJYCCGd7y7YGZboYdL639TMGAkcNYWTR2UPEoRADXjFaJJ6Vsy4SkkZFYX1QseX1EIem2kJgOPEd6LgEpUiQS4drLvaaeGtELybqqOZQYhJE3cVogAajKFbSBijiiZxq+wP5Yqv5cLzCKOdxYkXZjpC5;CJzH01kPjadTqBfB1Ce2/A=="
+secured: "th3D9Uz4EDuB1Up99nFdZgY20yS/0yx8UNAE5tLw04sL1168RHF4gq8E30nabcHv5dOsWS2CjrIgLki44NoSLkjdUKcrq7ccO/SzD02gJcu3CYXlf9TC15bgMkNTqlWEDTcFTZGZdMe5M2IRubwJEuRQITadeXBE0nwro9T74HzrDB4z+3LRCfeJS+YsgzQ8AkMtRy/UtwDSVDz9L+C2vS9ryo24Ve/FrUWMYZpFWnHGHxD7XZfbLuezHn7lmA+WHlP0PdDnKTPHjHKjism2a5PCgTHdlh1xMIqpfy5pn9cLy0nK6Gir/EHdTVOqtT1c;tPcr7XpJ5ogcezis41SODg=="
 ---
 

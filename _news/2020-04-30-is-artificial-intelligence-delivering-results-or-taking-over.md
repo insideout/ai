@@ -35,7 +35,7 @@ related:
     provider:
       name: Zawya
       domain: zawya.com
-    quality: 59
+    quality: 61
     images:
       - url: "https://www.zawya.com/resources/img/zawya-logo-en-social.png"
         width: 1200

@@ -2,6 +2,51 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-01-15-will-qualcomm-overtake-nvidia-in-driverless-cars.md",
+      "title": "Will Qualcomm Overtake NVIDIA in Driverless Cars?",
+      "excerpt": "Today, a growing list of companies -- including Ford, Toyota, Daimer's Mercedes-Benz, and Baidu-- have partnered with NVIDIA across various self-driving projects. NVIDIA's automotive revenue accounted for 5% of its top line last quarter. Qualcomm launched its first line of Snapdragon Automotive chipsets in early 2016. It tried to buy NXP ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fool.com/investing/2020/01/15/will-qualcomm-overtake-nvidia-in-driverless-cars.aspx",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/01/15/will-qualcomm-overtake-nvidia-in-driverless-cars.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/01/15/will-qualcomm-overtake-nvidia-in-driverless-cars.aspx",
+      "publishedDateTime": "2020-01-15T08:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F553428%2Fimage-6-a-woman-sits-in-a-driverless-car.jpg&w=700&op=resize",
+          "width": 700,
+          "height": 466,
+          "title": "Will Qualcomm Overtake NVIDIA in Driverless Cars?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2020-01-15-qualcomms-self-driving-car-made-me-never-want-to-touch-a-steering-wheel-again.md",
       "title": "Qualcomm’s self-driving car made me never want to touch a steering wheel again",
       "excerpt": "A couple of days earlier at the giant Consumer Electronics Show, Qualcomm announced a new platform for self-driving cars called Snapdragon Ride — and to showcase its powers, Qualcomm gave me a ...",
