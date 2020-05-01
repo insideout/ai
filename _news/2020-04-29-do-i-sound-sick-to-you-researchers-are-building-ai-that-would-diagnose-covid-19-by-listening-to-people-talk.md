@@ -29,6 +29,6 @@ images:
     height: 600
     title: "Do I sound sick to you? Researchers are building AI that would diagnose COVID-19 by listening to people talk."
 
-secured: "05XWfcl+hfZZRIsQVjZBSCZ34/nYHRube6kVqgFaBjrdKi7of5xG93qnGGsfRaRyl4wKg3By0W931B/BUjhpEm0224DofCGvHQxr3E/0CT+tYiv1oRpLyQx++0aCki5B5ixbx4HJ0TIK4QBC/E9sBmNi+SydqCicT5H3k3OPA7gQYFazZOGtx6MVW56QepOv+d54dnq7pJyvmte0Tfm/L+pDzmo+7gg/UQHcey97jMBLM1azlnO4uiZNgYAfPi5csJ0aLr00V9RjV+oaD6Dd5J8JFE0OhaCkaVK3uMo6kliIXTz/KyP3XVYYqRQrIyUceKi2Kn/HQ5ff5Llx9JcsAzGQI/YjKl0rJRlJVpcsvKhg2uqE2+O/LNyD/o4MyKfACY4l0osHNmDsiDRr7YABMLWZgI/2oGNG4ASPyiTh7LacjmYYJZCAsW49KTY4OtHQffaNQph1nhWdMupZL8tLcz/j49I4QYKsDpCTcQwrfT8=;C13YEjYtMI65D9YVbqLR5w=="
+secured: "WybXxHN+5YCAtmMHWxERs4KN3N9Mc3KpCz3kPGAySlnyGIZ8C7fQAh3iCnh4Kj2FXYLHtMCN6nFzYhCZuOuGuE+xKc7IXxSs4niAtJKOnKreSw3i8nASe+8AErXMyNfL+NiYBodni4+rSwN8Ka6QD77ahJqbCzY+PfrdVC+BXRtw7CBmdCNtwtUFotmYY/fkrk0EqHM64MO/gnG5bPn2+wF/uhymmLY+nIUrAqHsJjxu9JlkqmXE9OTyRkKmFZ8eynDI9MaSo+Epr+V1sOVLqMheMApJx0pEO+hkkclBwqKYoK39wEUG6//Clyvfx9HQsuCJdUU1fqY+Mld+uq9kABg7LRklovpgFZ6diSuO7RrCN5btG8j6nBSUghu51Iz4xf0moEu4/8EfcdLS2jVD+B3heJ+j/bf6sOIHyY+JWTdDKxIeeYCBx8dTS4qt/ycqme/YqMVPz3SjKtG4SEnUp1SdREIjd/wWb6C57sM6Yew=;waWlmY5aTUD2M8dNNDU8eA=="
 ---
 
