@@ -7,9 +7,9 @@ webUrl: "https://www.axios.com/refraction-ai-grocery-delivery-autonomous-ann-arb
 ampWebUrl: "https://www.axios.com/refraction-ai-grocery-delivery-autonomous-ann-arbor-611e65fa-65d7-4b30-a8d4-de1b85c720fb.html"
 cdnAmpWebUrl: "https://www-axios-com.cdn.ampproject.org/c/s/www.axios.com/refraction-ai-grocery-delivery-autonomous-ann-arbor-611e65fa-65d7-4b30-a8d4-de1b85c720fb.html"
 type: article
-quality: 57
-heat: 57
-published: false
+quality: 74
+heat: 74
+published: true
 
 provider:
   name: Axios
@@ -17,6 +17,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://images.axios.com/6e7fxp84f9oN52Lh4Z7nrPlsfyI=/2020/05/01/1588353067194.png"
@@ -24,6 +25,6 @@ images:
     height: 1080
     title: "Coronavirus helps robot delivery startup Refraction AI gain traction"
 
-secured: "pF4UiF+Uz0MjeaxHeo4wm+I+LUZ8dGC/JuxhyUkmL074ZOOFIJzsXdhEQaMpfvzP9Y1v5K5npDfyMEQrh5lDwRAeKrgvrWeVnE50RzdNJR1X3rZp6J+gpnmSo7anKE3YvNXlbhy53clAwLxJ8VxfQ08ZYrbrjOTQwLqiJi1WAjdJQS9jQ3ZOovTUjKImZ6dbsCWiH8m9ozKM8ylZoKh+ObzXCyzy8Jy+usvzvffmRzbe91PcJRhMJk7qYNtFHKpbyYsU0c+4rjSXpOTKq4D/o+WFIXHXBuNTQ69l3qBaMcB+LlZ7NxCG3HlMJ+UwBlMB;Mr1bq5ZbhF0ngwZr0w3hcQ=="
+secured: "zIozu1w0CfkhH3ugA27AJDqaD+zesisj+xiateEcqSKenxVqNCzNSN4RCYSyd1kU5vUl2dvWI9kMvjFUHMnzUUlX3aiyCwOPJGMAyAjO1XLbNLYy5VuS5NMxrlI3sjF2TY7NwtFQwEEY6js8SYXC0juhqUcUQXclR/Z/C8bEYVLaKINqWgiOC5jzO73ixjtVU2i53nxleJxXwN/bcQdDcRyEEfYL9VYTj6ffyNJ767o5dcw3a8rE6/bYnIiOdEJhwWLtVP7GLsF9MAWQuFIaLTptOf5m5k5ip64x+fyySa62rMlOX3b+vNNuKg6oFPnPt0R4HiJ4hWrmxz96a+dH9Me/FQarLZOB4QShqFZ27FOaK8NMHNS74PtXpInBsCPddFe0R2r1q0oqYkwk9q2h1+8pE3SXlTsQ39XMwIa/2xIcWwDadWrNVPMkJ6EZX2AbUDPBs+De8I8Fpu7epz+cMbntdU10/iXYjmBefQ4Ck6o=;TKSk2a/pFrlej+gvCzU4AA=="
 ---
 

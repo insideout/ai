@@ -29,6 +29,6 @@ images:
     height: 567
     title: "Apple wants to make Face ID work better with your face mask. Here's what we know"
 
-secured: "x4HbdvtEE31pqMW+6MjDRIhn/ITPr9Tdv7zmCr1RB9HkLM0Cx1VAD9Dd3UyBJNEclXyp8pqloS8pSIxYUSL1BaeVLAkq18W1nRQ2ytScjx9kZf+/fUHk9SK65tVsDljtHFonOGco69QApL/gKal0BPxWBI8YG4mwSc6kDVikalAjVnMxZHt/D5VttllBT1LAOBh9peqUWD3iURqiGwENrGPa/y2mFFom9wQ2xiHNwxfGkTAAtMtFhyiEaQ8a4mEjrL7zGCXa/1OUaB27YINCSHpRlO2tDlLluMs8MWZS68RuegWPp+pL9bYgfRY92mmt;TFkC1GkeN9oN6/IzJcbxxg=="
+secured: "zAau8Oe8q+ZQk41/HoPDQKaXtiY/n+WxoM8YVxhmbY292fLnR3JmmfOpC0rrgTiDxa4oYaG2FYt3Rh/wcxGMBPBEz2tiEoXKyG1qK5DnNgIctUn1ffTwR6cVnPm4SQO2Js57zt/fPxeVIkVBgcqvibjpFAbcgiIfhIOi8HZWiQjINDQfwqvoh+m6PgL11CZlbnxa/Tm/Gh5DmIzVON0V/4tYRFaf3WtDqC0Wnli1fOr3wKVbG2zzHJheMHZ5w5zWp7sG8fWjHlSRJpb3PqcL4Zs0x69hhaR1hjvrQeubYUxgo7pTnNrScjn0SYsujSdL/qdDe6w80JxMDfYPk8XYmOmJVm2WqmoKhYZvorG9Fzx/EAkWL5yssLCJ/eL+posaXP/uAzhNprrJglIncBcLiZNt0CrgMnw6L9EvXLFBCe72ZPMhlAl/P/TccrUFy01c5Vj8WsNRCpk1vP2P0jK6BQ6z4yjsxsbBP5+HeRlQn30=;SGOiS194o0Z/xPiesC9QdQ=="
 ---
 

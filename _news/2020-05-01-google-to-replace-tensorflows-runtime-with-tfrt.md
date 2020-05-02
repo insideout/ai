@@ -5,9 +5,9 @@ excerpt: "Google launched TFRT, a new TensorFlow runtime that aims to make it ea
 publishedDateTime: 2020-05-01T19:16:00Z
 webUrl: "https://sdtimes.com/ai/google-to-replace-tensorflows-runtime-with-tfrt/"
 type: article
-quality: 69
-heat: 69
-published: false
+quality: 86
+heat: 86
+published: true
 
 provider:
   name: SD Times
@@ -20,6 +20,7 @@ provider:
 topics:
   - Google AI
   - AI
+  - TensorFlow
 
 images:
   - url: "https://sdtimes.com/wp-content/uploads/2020/05/tfrtroleingraph.png"
@@ -27,6 +28,6 @@ images:
     height: 314
     title: "Google to replace TensorFlow’s runtime with TFRT"
 
-secured: "ThbfA841GWvc8EA1NAKQuR8MUr96mdCz1mBGrJGmXJSq/PTRAPemhAa3/hP8kcg2aVJRKQVV5H8NllGsDgjlDPpGR69RySJQH65voM89QhMWmgqD3Gt7x4utOhN3sf41blAmV/UIyBcGY/WdXzqO72bH911f2SP+TxmIxmnTK0jnllhrrl3bsB83AfGQBdPqFOKQpsacF1RAGkR2NmGP5L7AF/mf/IZUlChVn39oTaDdCovunP8wPX6lPF1OyeLAnSO/Ms9pJj6aJ3s9QYipwL+9/yVnjP+6fYjh8TB2GHuk/qtsNweNSZ4GVRXg8XBX;MWBfV3Xr8HZec0+fz7BV3Q=="
+secured: "+XeB3ETAMUgC7J86StroBiCOOouRqqSyj7FxTcw+DVCYrl2TrdAjGrGe9UkfAzK2LfQufILRfIXZCnQ140ANuGPwWCyHYL58+Ip2v8LZvJqGZreUOq47bmjZWEgl6TigWa3Jwq2MebOfUFr1UdZuJO43VV11oHWSwINQILf08HP+5XeBLGh5KM4EPy9fc70yO3rWTvTAi0mPbdd8Wbs7JAE++LwcNII5EPKwlx+f7qgfmeg22BXUh64fwT8YPVb9WaNa4vNRJNPja66QHDMxOSesoUJCfRbSTmsZt0zbshODu5XfZILEiDUft7rf5zbXQLYVRCpKLA9WobIi9CDDljTC+NCoUoovZ155o6zmnIkDtW08O2/stRgsSRPgyB5KqORk+kVLehM/hPd9fhGJ/33gyNSJbIR54IjR17BsLAfy327AOAwftZW93jHhiqOe9hN5d5Gi8qJlFp7+9HsyWWg564jiHPqnbuEsd6OQebU=;lDJq1+ph3fe/bMswvRMSiA=="
 ---
 

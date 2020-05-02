@@ -27,6 +27,6 @@ images:
     height: 260
     title: "SD Times news digest: Redis Enterprise 6.0, Facebook open sources Blender chatbot, and Rust/WinRT Public Preview"
 
-secured: "xxjqco31xr1P23YMH9RXHy6o6CaeLa+TuK3cVsiN7AuIFjyoXLtSYYAqsJcWVAVIawwG6F5UpTvFZPGU/ALeVtpPQ4APKz5BgwCBNFriau2dzPqm8p36oZbHxq0RKMZC+1FAEkc/1IBxQOmP+tN14UpyVGPF6UupkWVM/9N21fS2ugcslf6SHQMi64shnIqpsbW2wREQNO9/l1h+j6+jfYQfYyJTTNx5NEomosAofhHkfPNU6ppKHSq5+1gjyXX6mHZU2fIxhyKb9iMUM+C13J6+IAinOln/rqaoPYZDf3UCs0KC+8QOWLL7dhkn+rVO;N5uaZhkpyMKXn4xVfn4Vtg=="
+secured: "pGhb2KfWfiKOp4qyC1nzmx4x5yk5wsFGPXek5IT4UKVQvf6b1jYdxs5L9aW0QzW3JQ6MwmVGxs6k/ySear71oX5bXFgKj0Syist1So28WdoSU5+6m44rV5SQ7vTuyLHT819JR/Th6qI4Y2q/1Z923VJXC7xT95YuRQU/caiuX5LOzzxWA+M0qEuN8wS35h/3vC2wdItwPeqKPP3NNsNVVB/F3mYFVey3AbmD378RwLbtkAd+lY5OOht+IaSB+NljGHc3NbdWgZkVjOeNiYp04qx9fRirjCcqK6udtpnwNeXJopF96Uk9xeteoXZ5XS8sIPT8T3d4ta0L9VY1dVX3KtWYNzI1vKhNOeHhnrvnp4PTXHtv2IQvGygUjBLmus7ZD/YBNRZLRq/Kll9f+lpaT+cDvpHo3mwbTiQc8UPNQBGFslB7ZC3ZfSa03v62odxXNFrNPivpyfnEkIzDo6Fv1ylbMMKWloLEhKPHKxCl8vs=;z3ADspHc/aQ4yoOZF9FFgA=="
 ---
 

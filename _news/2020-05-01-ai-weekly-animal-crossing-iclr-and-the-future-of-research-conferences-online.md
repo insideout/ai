@@ -28,6 +28,6 @@ images:
     height: 900
     title: "AI Weekly: Animal Crossing, ICLR, and the future of research conferences online"
 
-secured: "RCXBbBO09OR5OMwSIo+vM4B43InA/EW568LcZbVzcpeRf50qXtIq7cU5Xya2NAz1UacXRvV+JhcRX5Gg/0ZvKci2zk54nMBrSB94hBv0Layq1qVHCnakQgUVEOTJUPqD8cinSfHw6x8NkiX6ESWGqrdG96EzLzYEWPdTO+JWnc907zrcFMvgyd+8GQE63MUQr5WQtwtvgP6JlI0wsxhlKC862NWM933OtB+AKp4fL4dRplpkb2o6KAPKdWO16J5JNq9DUvxz5+Q85O43zXbtyRdq8r8U+0+slg4HjaDuqulqUdjxALIhCwyyeVuhmDMe;P6BjpRwK/o318FvAOYYVzQ=="
+secured: "y8L9HZGBiExpEG4IYOrokTLjZVw8sgYsYqP3aAGIZC4S4dHIo2af7oaUpNwnsSGTHziQOEGx0eqLVBqySKXS30zjFgqBl12WwUlnBU7A4/gXcNRlNCcmHFaPV2568qf3kNi+v778B2V7Zt+zZ+bMTAtUTHe8Qad0Pgq5fChcXLTZsRt+Ocgdw+UeNQFduRc6klVCmrwT/hIJiZ+woQMRvwDa4WtwEDuPFJ8jeo+8AWImT8hfgBGyYw+G/x3zidyN6Z99awJG57inc3E1J4fnovabp9VDXHO1dyJ7cF6y5NOsejec00XbpgltWtytqitODVVYAjD+M5oQ+DYKyfEV7aI3gV9D6ffbqpYz9tntXTBf0SSOwoNg8clJzeZYmlD+5WToze449RKAUCcdFlQCbPV/SpMbRbQr+oE+PEsf8e4eKVxV6oBbfposdeL3EYVtcU2zQxQPbtL2elf/tBjejnP2cGPFIrg7ZxpxMlxxY0U=;XQfG/zy8bq3eHtUmsMCRyg=="
 ---
 
