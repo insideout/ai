@@ -2,6 +2,50 @@
   "page": 50,
   "value": [
     {
+      "path": "_news/2020-03-20-ai-weekly-how-data-scientists-are-helping-to-flatten-the-pandemic-curve.md",
+      "title": "AI Weekly: How data scientists are helping to flatten the pandemic curve",
+      "excerpt": "Very tricky thing to reason about. Intuition breaks down,” said Jeremy Howard in an interview with VentureBeat. Howard is the co-founder of Fast.ai, which offers free courses on deep learning, and is on the faculty at the University of San Francisco. He pointed out that there’s a long gap between an outbreak occurring and seeing the results.",
+      "heat": 86,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/03/20/ai-weekly-how-data-scientists-are-helping-to-flatten-the-pandemic-curve/",
+      "ampWebUrl": "https://venturebeat.com/2020/03/20/ai-weekly-how-data-scientists-are-helping-to-flatten-the-pandemic-curve/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/20/ai-weekly-how-data-scientists-are-helping-to-flatten-the-pandemic-curve/amp/",
+      "publishedDateTime": "2020-03-20T15:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/03/flatten-the-curve-cdc.png?fit=1200%2C608&strip=all",
+          "width": 1200,
+          "height": 608,
+          "title": "AI Weekly: How data scientists are helping to flatten the pandemic curve",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-20-7-best-computer-vision-courses-certification-2020.md",
       "title": "7 Best Computer Vision Courses & Certification [2020]",
       "excerpt": "Apart from this, you will also have the opportunity to gain hands-on experience in writing computer vision code through online labs using MATLAB and supporting toolboxes. – Chance to design ...",
@@ -959,43 +1003,6 @@
           "width": 830,
           "height": 545,
           "title": "Former Uber self-driving head Levandowski agrees to plea deal over Google secrets",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-20-former-google-self-driving-engineer-pleads-guilty-to-trade-secrets-theft.md",
-      "title": "Former Google Self-Driving Engineer Pleads Guilty to Trade Secrets Theft",
-      "excerpt": "A former engineer in Google's self-driving division who became the focus of a criminal investigation that rocked Silicon Valley has pleaded guilty to a count of trade secrets theft, NBC News reports. Anthony Levandowski admitted he downloaded thousands of proprietary files from an internal Google server in 2015 and transferred them to his ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nbcnewyork.com/news/national-international/former-google-self-driving-engineer-pleads-guilty-to-trade-secrets-theft/2335673/",
-      "ampWebUrl": "https://www.nbcnewyork.com/news/national-international/former-google-self-driving-engineer-pleads-guilty-to-trade-secrets-theft/2335673/?amp",
-      "cdnAmpWebUrl": "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/national-international/former-google-self-driving-engineer-pleads-guilty-to-trade-secrets-theft/2335673/?amp",
-      "publishedDateTime": "2020-03-19T23:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC New York",
-        "domain": "nbcnewyork.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.nbcnewyork.com/2019/09/Anthony-Levandowski.jpg?crop=0px%2C0px%2C0px%2C0px&resize=1200%2C675",
-          "width": 1200,
-          "height": 675,
-          "title": "Former Google Self-Driving Engineer Pleads Guilty to Trade Secrets Theft",
           "attribution": null
         }
       ],

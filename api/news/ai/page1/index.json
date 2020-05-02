@@ -571,7 +571,7 @@
       "path": "_news/2020-05-01-ai-weekly-animal-crossing-iclr-and-the-future-of-research-conferences-online.md",
       "title": "AI Weekly: Animal Crossing, ICLR, and the future of research conferences online",
       "excerpt": "An upcoming Animal Crossing AI workshop and ICLR this week may reshape what research conferences look like, but social experiences are still a challenge.",
-      "heat": 83,
+      "heat": 85,
       "tags": null,
       "type": "article",
       "webUrl": "https://venturebeat.com/2020/05/01/ai-weekly-animal-crossing-iclr-and-the-future-of-research-conferences-online/",
@@ -608,7 +608,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "Natural Language Processing"
       ]
     },
     {
@@ -1099,7 +1100,7 @@
       "path": "_news/2020-05-01-how-well-can-algorithms-recognize-your-masked-face.md",
       "title": "How Well Can Algorithms Recognize Your Masked Face?",
       "excerpt": "Makers of facial-recognition technology scramble to adapt to a world where people routinely cover their faces to avoid spreading disease.",
-      "heat": 74,
+      "heat": 75,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.wired.com/story/algorithms-recognize-masked-face/",
@@ -1189,7 +1190,7 @@
       "path": "_news/2020-05-01-fueling-driverless-navigation-with-ai.md",
       "title": "Fueling driverless navigation with AI",
       "excerpt": "When navigation comes into play, AI can help to give drivers the very best directions, despite the complexity of the route.  Pierluigi Casale is Group Data Scientist at TomTom. Powerful, accurate maps can be created by deep learning models,",
-      "heat": 104,
+      "heat": 105,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.techradar.com/uk/news/fueling-driverless-navigation-with-ai",

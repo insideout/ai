@@ -2,6 +2,51 @@
   "page": 107,
   "value": [
     {
+      "path": "_news/2020-01-28-google-brings-cross-platform-ai-pipeline-framework-mediapipe-to-the-web.md",
+      "title": "Google brings cross-platform AI pipeline framework MediaPipe to the web",
+      "excerpt": "TensorFlow Lite inference isn’t supported, and the graph’s computations must be run on a single processor thread. A lack of compute shaders — routines compiled for high-throughput ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/01/28/google-brings-cross-platform-ai-pipeline-framework-mediapipe-to-the-web/",
+      "ampWebUrl": "https://venturebeat.com/2020/01/28/google-brings-cross-platform-ai-pipeline-framework-mediapipe-to-the-web/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/28/google-brings-cross-platform-ai-pipeline-framework-mediapipe-to-the-web/amp/",
+      "publishedDateTime": "2020-01-28T12:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/10/google-ai-logo.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Google brings cross-platform AI pipeline framework MediaPipe to the web",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2020-01-28-googles-ai-powers-real-time-orca-tracking-in-vancouver-bay.md",
       "title": "Google’s AI powers real-time orca tracking in Vancouver Bay",
       "excerpt": "Google AI today shared that it’s created a model for detecting an endangered species of orca whales in the Salish Sea, a waterway between the United States and Canada. Underwater microphones situated at a dozen points in the Salish Sea that includes the state of Washington and Vancouver Bay are used to alert officials when a Southern Resident ...",
@@ -1003,43 +1048,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-28-miso-robotics-puts-flippy-on-a-rail-for-new-kitchen-concept.md",
-      "title": "Miso Robotics puts Flippy on a rail for new kitchen concept",
-      "excerpt": "Miso Robotics ... team was also working with the AI algorithm to understand the differences in cooking times for different food types and adapt accordingly so orders and food can be ready at the same time. For example, if one “steak” is ordered medium, and one is ordered medium-well, the system knows to start the medium-well item first ...",
-      "heat": 109,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.therobotreport.com/miso-robotics-puts-flippy-on-a-rail-for-new-kitchen-concept/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-28T03:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2020/01/FlippyROAR_IMAGE.png",
-          "width": 1425,
-          "height": 887,
-          "title": "Miso Robotics puts Flippy on a rail for new kitchen concept",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

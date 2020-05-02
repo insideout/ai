@@ -2,23 +2,23 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2020-04-30-ai-in-africa-training-bots-to-talk-to-my-mum.md",
-      "title": "AI in Africa: Training bots to talk to my mum",
-      "excerpt": "How African researchers are using the continent's languages to help spur innovation in Artificial Intelligence.",
-      "heat": 99,
+      "path": "_news/2020-04-30-artificial-intelligence-cant-technically-invent-things-says-patent-office.md",
+      "title": "Artificial Intelligence can't technically invent things, says patent office",
+      "excerpt": "Artificial intelligence is the future. If \"Westworld\" or \"Black Mirror\" are to be believed, there will soon come a day when the computers rule us all. But for now, an AI's power ends at the US Patent Office.",
+      "heat": 107,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.bbc.com/news/world-africa-52411797?intlink_from_url=&link_location=live-reporting-story",
-      "ampWebUrl": "https://www.bbc.com/news/amp/world-africa-52411797",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-africa-52411797",
-      "publishedDateTime": "2020-04-30T03:43:00-07:00",
+      "webUrl": "https://www.cnn.com/2020/04/30/us/artificial-intelligence-inventing-patent-office-trnd/index.html",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/04/30/us/artificial-intelligence-inventing-patent-office-trnd/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/04/30/us/artificial-intelligence-inventing-patent-office-trnd/index.html",
+      "publishedDateTime": "2020-04-30T01:39:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
+        "name": "CNN",
+        "domain": "cnn.com",
         "images": [
           {
-            "url": "https://insideout.app/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "url": "https://insideout.app/ai/assets/images/organizations/cnn.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -30,10 +30,10 @@
       },
       "images": [
         {
-          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/FD69/production/_112037846_img_20180827_082945_171.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": "AI in Africa: Training bots to talk to my mum",
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/181211153659-artificial-intelligence-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": "Artificial Intelligence can't technically invent things, says patent office",
           "attribution": null
         }
       ],
@@ -42,8 +42,8 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "Natural Language Processing"
+        "Machine Learning",
+        "AI"
       ]
     },
     {

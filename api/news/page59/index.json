@@ -2,6 +2,44 @@
   "page": 59,
   "value": [
     {
+      "path": "_news/2020-03-16-a-look-at-the-tensorflow-ecosystem-in-2020.md",
+      "title": "A look at the TensorFlow ecosystem in 2020",
+      "excerpt": "TensorFlow Dev Summit 2020 took place last week and gave an overview of everything that’s been going on in the world of the machine learning library. While we have been covering TensorFlow, TensorFlow.js, and the recently open sourced TensorFlow Quantum, you may not yet have heard of TF Hub, TFX or TF Lite, so let’s see what they are all about.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://jaxenter.com/tensorflow-2020-169727.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-16T05:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "jaxenter.com",
+        "domain": "jaxenter.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://jaxenter.com/wp-content/uploads/2020/02/MLC_MUN20_Webbanner_Smartblock_550x214_56305_v1.jpg",
+          "width": 550,
+          "height": 214,
+          "title": "A look at the TensorFlow ecosystem in 2020",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "TensorFlow"
+      ]
+    },
+    {
       "path": "_news/2020-03-16-closedloopai-announces-release-of-free-open-source-ai-based-tool-to-identify-individuals-vulnerable-to-severe-complications-of-covid-19.md",
       "title": "ClosedLoop.ai Announces Release of Free Open Source AI-based Tool to Identify Individuals Vulnerable to Severe Complications of COVID-19",
       "excerpt": "on Amazon's SageMaker platform, and via ClosedLoop's HIPAA compliant hosted platform. The CV19 Index is available for use through any of these methods at no cost ClosedLoop has created a forum at ...",
@@ -877,43 +915,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-15-doing-machine-learning-the-right-way.md",
-      "title": "Doing machine learning the right way",
-      "excerpt": "Madry’s research centers largely on making machine learning — a type of artificial intelligence — more accurate ... helping diagnose disease or control driverless cars. “It’s not just about trying to crack open the machine-learning black box. I want to open it up, see how it works, and pack it back up, so people can use it without ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.controleng.com/articles/doing-machine-learning-the-right-way/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-15T00:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Control Engineering",
-        "domain": "controleng.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.controleng.com/wp-content/uploads/sites/2/2020/03/MIT_AlexanderMadry_MachineLearning-2.jpg",
-          "width": 1200,
-          "height": 772,
-          "title": "Doing machine learning the right way",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

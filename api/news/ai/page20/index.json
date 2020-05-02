@@ -2,6 +2,51 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2020-04-10-lee-sedol-loses-final-go-match-making-it-a-4-1-victory-for-googles-ai.md",
+      "title": "Lee Sedol Loses Final Go Match Making It a 4-1 Victory for Google's AI",
+      "excerpt": "Google Deepmind’s Demis Hassabis put the odds ... has stomped to victory for a fourth time against Go world champion Lee Sedol. That makes it a resounding victory for the AI, which has won ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://gizmodo.com/lee-sedol-loses-final-go-match-making-it-a-4-1-victory-1764954190",
+      "ampWebUrl": "https://gizmodo.com/lee-sedol-loses-final-go-match-making-it-a-4-1-victory-1764954190/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/lee-sedol-loses-final-go-match-making-it-a-4-1-victory-1764954190/amp",
+      "publishedDateTime": "2020-04-10T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/aqwd9etxb05pn19wqid9.jpg",
+          "width": 800,
+          "height": 362,
+          "title": "Lee Sedol Loses Final Go Match Making It a 4-1 Victory for Google's AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-10-new-documents-show-amazons-face-scanning-tech-for-cops-was-a-headache-from-the-start.md",
       "title": "New Documents Show Amazon's Face-Scanning Tech for Cops Was a Headache From the Start",
       "excerpt": "2649 purchased by readersG/O Media may get a commission Earlier this year, Amazon’s facial recognition tech Rekognition—which can scan photos and videos and match them against databases of ...",
@@ -1201,50 +1246,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-09-open-source-ai-tool-aims-to-help-identify-coronavirus-infections.md",
-      "title": "Open-source AI tool aims to help identify coronavirus infections",
-      "excerpt": "Find a hospital taking in coronavirus cases, and you'll most likely find departments often in need of more staff and without enough testing kits. Now one Canadian AI startup is hoping to develop tools that will automatically detect COVID-19 infections from X-rays, and help guide medical professionals on how seriously the infection has taken hold.",
-      "heat": 97,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/open-source-ai-tool-aims-to-help-identify-coronavirus-infections/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/open-source-ai-tool-aims-to-help-identify-coronavirus-infections/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/open-source-ai-tool-aims-to-help-identify-coronavirus-infections/",
-      "publishedDateTime": "2020-04-09T06:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/03/13/0d3f22fd-6dcd-48d4-854e-c546e8aed8c5/thumbnail/1200x675/7142d5c50785c3a5cd999938c9268465/covid19-preparations-how-to-make-remote-5e6b66a2cf0d880001187a5b-1-mar-13-2020-12-35-53-poster.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Open-source AI tool aims to help identify coronavirus infections",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

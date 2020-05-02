@@ -2,6 +2,43 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2020-04-14-computer-vision-ai-safeguard-atms.md",
+      "title": "Computer Vision & AI Safeguard ATMs",
+      "excerpt": "Computerworld covers a range of technology topics, with a focus on these core areas of IT: Windows, Mobile, Apple/enterprise, Office and productivity suites, collaboration, web browsers and blockchain,",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.computerworld.com/resources/201314/computer-vision-ai-safeguard-atms",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-14T08:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computerworld",
+        "domain": "computerworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://idge.staticworld.net/ctw/computerworld-logo300x300.png",
+          "width": 300,
+          "height": 300,
+          "title": "Computer Vision & AI Safeguard ATMs",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-14-abaco-systems-partners-with-deepsig-to-demonstrate-integrated-ai-based-electronic-warfare-solution.md",
       "title": "Abaco Systems Partners with DeepSig to Demonstrate Integrated AI-based Electronic Warfare Solution",
       "excerpt": "Artificial intelligence-based applications are a key focus for us at Abaco, and this partnership with DeepSig allows us to show prospective customers a complete, integrated, hardware and software solution that is rugged and ready to deploy,",
@@ -965,43 +1002,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-13-driverless-vehicle-technology-advances-amid-pandemic-commercialization-pace-accelerated.md",
-      "title": "Driverless vehicle technology advances amid pandemic, commercialization pace accelerated",
-      "excerpt": "Prior to the national guideline, Chinese cities including Beijing and Shanghai have announced local guidelines for self-driving tests, while Baidu already has approval to test self-driving vehicles on city streets. A McKinsey report from last year suggested autonomous vehicles could, at some point, take over most of the automotive market in China.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.globaltimes.cn/content/1186047.shtml",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-13T10:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Global Times",
-        "domain": "globaltimes.cn",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.globaltimes.cn/Portals/0/attachment/2020/2020-04-14/53ef8931-f304-451b-bdd7-cd82e32c20f0.jpeg",
-          "width": 500,
-          "height": 300,
-          "title": "Driverless vehicle technology advances amid pandemic, commercialization pace accelerated",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

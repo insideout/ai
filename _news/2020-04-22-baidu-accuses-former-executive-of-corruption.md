@@ -1,11 +1,11 @@
 ---
 category: news
 title: "Baidu Accuses Former Executive of Corruption"
-excerpt: "Baidu, China’s leading online search group, has reported a former executive to the police. It accuses him of corruption. Wei Fang, a former VP at the company, was investigated by Baidu’s"
-publishedDateTime: 2020-04-22T14:32:00Z
-webUrl: "https://variety.com/2020/biz/asia/baidu-former-executive-corruption-allegations-1234587072/"
-ampWebUrl: "https://variety.com/2020/biz/asia/baidu-former-executive-corruption-allegations-1234587072/amp/"
-cdnAmpWebUrl: "https://variety-com.cdn.ampproject.org/c/s/variety.com/2020/biz/asia/baidu-former-executive-corruption-allegations-1234587072/amp/"
+excerpt: "Often considered as part of a triumvirate of leading tech companies in China, alongside Alibaba and Tencent, Baidu’s activities stretch from search and maps to AI and self-driving cars."
+publishedDateTime: 2020-04-22T13:34:00Z
+webUrl: "https://variety.com/2020/biz/news/baidu-former-executive-corruption-allegations-1234587072/"
+ampWebUrl: "https://variety.com/2020/biz/news/baidu-former-executive-corruption-allegations-1234587072/amp/"
+cdnAmpWebUrl: "https://variety-com.cdn.ampproject.org/c/s/variety.com/2020/biz/news/baidu-former-executive-corruption-allegations-1234587072/amp/"
 type: article
 
 provider:
@@ -22,6 +22,6 @@ images:
     height: 576
     title: "Baidu Accuses Former Executive of Corruption"
 
-secured: "4mlqYGf0zOkAiUUTt8u/W7XyMeif9KdzX/hU5cVsnScRA0zrzWCSBWmeNIrsNg6f0tto+5uqRL/GL7mFgN6cD1RHVIU1ZS6zxiZQCHo7mMvhX8XHYLvtf/nW9FqaybFj+7MeAMWyCR+F38nFHjyxcWBnBcC69BIW9NUXbNpJRMlgVcn+PMUksw5iqXFiaCkgs3+sW74F0WqaABldod02f4dZRVCiwwEPSCP7U1dku28Vcf9QSwN/wFjTH/OBp1fAXEQZ8YW4nwhIbVyGLN/NpI+h2jEXrZY+HSSjhnZ2mslCmLnbkJaHcSLm0s82g5PP;lH8djj3xf7r3gEYZNbzp1Q=="
+secured: "tvVGXKPLydGLGijsTKyhGs6M+h+Du8InKGXPMnyxDrRPdXfi0wdEGB8JfabJj0k7MrMfyhlS1qeYTtaSrn4x34yO2QMhOpXBklvR2ch51Crcy+QzPTENizJBpJNesksgd+DoHwlfN0p07XjKuU3/epSjo6SvvC37Ucl7qeplINEajFEn575h5cpf4wVA3g3IX8D9cOG9CzLrcYd2QlqsW6VhMXQzOHo33CQUPUIA9aayWoF7JJwvMj9z3PLWsQ/mjYpaQTiQZMrHWaDuaUjiH7J5dK5b8rjo0at9J21pH6X+gartr5Wg+NKAzjQEFUDB;oUb7DRe1rbkDEz1R4yxsyw=="
 ---
 

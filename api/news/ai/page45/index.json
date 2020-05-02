@@ -2,6 +2,43 @@
   "page": 45,
   "value": [
     {
+      "path": "_news/2020-03-18-composing-new-proteins-with-artificial-intelligence.md",
+      "title": "Composing new proteins with artificial intelligence",
+      "excerpt": "The specific sounds generated, determined by the way a protein folds, can be used to train deep learning neural networks. “These networks learn to understand the complex language folded proteins speak at multiple time scales,” said Markus J.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://sciencebulletin.org/composing-new-proteins-with-artificial-intelligence/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-18T09:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Bulletin",
+        "domain": "sciencebulletin.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://sciencebulletin.org/wp-content/uploads/2020/03/Composing-new-proteins-with-artificial-intelligence.jpg",
+          "width": 1536,
+          "height": 1286,
+          "title": "Composing new proteins with artificial intelligence",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-18-ibm-and-microsoft-sign-rome-call-for-ai-ethics-what-happens-next.md",
       "title": "IBM and Microsoft Sign 'Rome Call for AI Ethics': What Happens Next?",
       "excerpt": "On Feb. 28, representatives from the Pontifical Academy for Life, Microsoft, IBM, FAO (UN Food and Agriculture Organization) and the Italian government signed the \"Rome Call for AI Ethics,\" a document developed to support an ethical approach to artificial intelligence. Founded in 1994, the Pontifical Academy is dedicated to study and inform on ...",
@@ -1128,51 +1165,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-18-artificial-intelligence-in-healthcare-market-size-trends-2020-growth-share-regional-and-global-industry-trends-forecast-to-2026.md",
-      "title": "Artificial Intelligence in Healthcare Market Size, Trends 2020 Growth, Share, Regional And Global Industry Trends Forecast To 2026",
-      "excerpt": "Artificial Intelligence in Healthcare Market To Expand Rapidly at Notable CAGR as the various factors mentioned in",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-size-trends-2020-growth-share-regional-and-global-industry-trends-forecast-to-2026-2020-03-18",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-18T01:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Artificial Intelligence in Healthcare Market Size, Trends 2020 Growth, Share, Regional And Global Industry Trends Forecast To 2026",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

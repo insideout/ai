@@ -2,6 +2,51 @@
   "page": 82,
   "value": [
     {
+      "path": "_news/2020-02-20-how-artificial-intelligence-can-help-pick-the-best-depression-treatments-for-you.md",
+      "title": "How Artificial Intelligence Can Help Pick the Best Depression Treatments for You",
+      "excerpt": "But promising new research published in February in Nature Biotechnology suggests that a simple brain test, paired with insights from artificial intelligence (AI), can predict whether an antidepressant will work on a given patient. Trivedi and a team of researchers took data from a previous study in which more than 200 people with depression ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://time.com/5786081/depression-medication-treatment-artificial-intelligence/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-20T05:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Time",
+        "domain": "time.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/time.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://api.time.com/wp-content/uploads/2020/02/your_brain_knows_the_meds_you_need.jpg",
+          "width": 2400,
+          "height": 1972,
+          "title": "How Artificial Intelligence Can Help Pick the Best Depression Treatments for You",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2020-02-20-5-clever-google-maps-tricks-to-see-more-than-just-whats-on-the-map.md",
       "title": "5 clever Google Maps tricks to see more than just what's on the map",
       "excerpt": "Google Maps crowdsources more than just traffic data -- get real-time information on your destination, including wait times, operating hours and more. I open the Google Maps app on my phone practically every day,",
@@ -1026,43 +1071,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-19-eu-puts-up-ai-and-data-strategies-with-an-ethical-twist.md",
-      "title": "EU puts up AI and data strategies with an ethical twist",
-      "excerpt": "The European Union (EU) has launched strategies for artificial intelligence (AI) and the “data economy”, with ethics and transparency as watchwords. It has also presented what it calls the “human-centric development of AI” as critical to “fighting climate change”. The European Commission (EC) said in a statement that it favours a ...",
-      "heat": 94,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.computerweekly.com/news/252478825/EU-puts-up-AI-and-data-strategies-with-an-ethical-twist",
-      "ampWebUrl": "https://www.computerweekly.com/news/252478825/EU-puts-up-AI-and-data-strategies-with-an-ethical-twist?amp=1",
-      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252478825/EU-puts-up-AI-and-data-strategies-with-an-ethical-twist?amp=1",
-      "publishedDateTime": "2020-02-19T09:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computer Weekly",
-        "domain": "computerweekly.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.ttgtmedia.com/visuals/German/EU-european-flags-fotolia.jpg",
-          "width": 1200,
-          "height": 400,
-          "title": "EU puts up AI and data strategies with an ethical twist",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],
