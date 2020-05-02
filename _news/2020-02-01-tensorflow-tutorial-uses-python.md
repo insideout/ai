@@ -16,6 +16,7 @@ provider:
 topics:
   - AI
   - Google AI
+  - TensorFlow
 
 images:
   - url: "https://hackaday.com/wp-content/uploads/2020/02/astra_thumb.jpg?w=600&#038;h=600"

@@ -2,6 +2,89 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-03-27-transperfect-uses-ai-to-enhance-translation-services.md",
+      "title": "TransPerfect uses AI to enhance translation services",
+      "excerpt": "The service introduces intelligent translation quality alerts powered via AI, which route translation to expert human language review when cadence, flow, and terminological equivalencies approach standard deviation limits of target language representation. These new capabilities supplement and advance the company’s existing ISO-certified ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.kmworld.com/Articles/News/News/TransPerfect-uses-AI-to-enhance-translation-services-139974.aspx",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-27T08:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KMWorld Magazine",
+        "domain": "kmworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.kmworld.com/images/subscribe_magazines_km.png",
+          "width": 772,
+          "height": 594,
+          "title": "TransPerfect uses AI to enhance translation services",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-27-return-on-artificial-intelligence-the-challenge-and-the-opportunity.md",
+      "title": "Return On Artificial Intelligence: The Challenge And The Opportunity",
+      "excerpt": "Companies need more returns on their artificial intelligence initiatives. There are several ways to achieve it.",
+      "heat": 91,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/tomdavenport/2020/03/27/return-on-artificial-intelligence-the-challenge-and-the-opportunity/",
+      "ampWebUrl": "https://www.forbes.com/sites/tomdavenport/2020/03/27/return-on-artificial-intelligence-the-challenge-and-the-opportunity/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomdavenport/2020/03/27/return-on-artificial-intelligence-the-challenge-and-the-opportunity/amp/",
+      "publishedDateTime": "2020-03-27T07:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e7e04e4adc0d70006ccbd3a%2F0x0.jpg",
+          "width": 980,
+          "height": 980,
+          "title": "Return On Artificial Intelligence: The Challenge And The Opportunity",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2020-03-26-textios-ai-optimizes-for-inclusivity-to-help-companies-attract-more-job-applicants.md",
       "title": "Textio’s AI optimizes for inclusivity to help companies attract more job applicants",
       "excerpt": "For companies like Nvidia, for example, its use of Textio has led to a higher number of women job applicants. Textio uses natural language processing to color-highlight and interrupt bias communication in workplace text like job applications, LinkedIn job candidate outreach, or emails on Outlook or Gmail. Accommodation language- and ageism ...",
@@ -1134,80 +1217,6 @@
           "width": 1200,
           "height": 600,
           "title": "This voice- and motion-activated trash can keeps my hands free of germs as it collects my garbage",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-four-ways-ai-can-positively-impact-pharmaceutical-development.md",
-      "title": "Four Ways AI Can Positively Impact Pharmaceutical Development",
-      "excerpt": "This capability can be helpful for more common treatments like medication for depression or new drugs with little or no formal history. Audio Listening and Language Translation AI can help screen the myriad of audio files from call centers, which can help identify adverse events that may be mentioned in unrelated contexts. For example ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://insidebigdata.com/2020/03/16/four-ways-ai-can-positively-impact-pharmaceutical-development/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-17T13:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "insidebigdata.com",
-        "domain": "insidebigdata.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-google-translate-launches-transcribe-for-android-in-8-languages.md",
-      "title": "Google Translate launches Transcribe for Android in 8 languages",
-      "excerpt": "Transcribe will begin by rolling out support for eight languages in the coming days: English, French, German, Hindi, Portuguese, Russian, Spanish and Thai. With Transcribe, Translate is now capable of translating classroom or conference lectures with no time limits, whereas before speech-to-text AI in Translate lasted no longer than a word ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/03/17/google-translate-launches-transcribe-for-android-in-8-languages/",
-      "ampWebUrl": "https://venturebeat.com/2020/03/17/google-translate-launches-transcribe-for-android-in-8-languages/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/17/google-translate-launches-transcribe-for-android-in-8-languages/amp/",
-      "publishedDateTime": "2020-03-17T10:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/09/google-logo-offices-london.jpg?fit=2000%2C1000&strip=all",
-          "width": 2000,
-          "height": 1000,
-          "title": "Google Translate launches Transcribe for Android in 8 languages",
           "attribution": null
         }
       ],

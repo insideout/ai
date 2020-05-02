@@ -8,7 +8,7 @@ ampWebUrl: "https://www.businessinsider.com/ai-labs-diagnose-covid-19-voice-list
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-labs-diagnose-covid-19-voice-listening-talk-2020-4?amp"
 type: article
 quality: 70
-heat: 71
+heat: 70
 published: true
 
 provider:

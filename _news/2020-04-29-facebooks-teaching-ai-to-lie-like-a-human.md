@@ -8,7 +8,7 @@ ampWebUrl: "https://thenextweb.com/neural/2020/04/29/facebooks-teaching-ai-to-li
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/04/29/facebooks-teaching-ai-to-lie-like-a-human/amp/"
 type: article
 quality: 89
-heat: 120
+heat: 119
 published: true
 
 provider:

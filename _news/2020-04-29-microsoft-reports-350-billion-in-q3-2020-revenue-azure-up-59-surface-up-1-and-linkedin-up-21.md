@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/04/29/microsoft-earnings-q3-2020/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/29/microsoft-earnings-q3-2020/amp/"
 type: article
 quality: 89
-heat: 90
+heat: 89
 published: true
 
 provider:

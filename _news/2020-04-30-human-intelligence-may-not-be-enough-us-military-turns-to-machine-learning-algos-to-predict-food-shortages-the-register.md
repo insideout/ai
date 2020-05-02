@@ -7,8 +7,8 @@ webUrl: "https://www.theregister.co.uk/2020/04/30/us_military_ai/"
 ampWebUrl: "https://www.theregister.co.uk/AMP/2020/04/30/us_military_ai/"
 cdnAmpWebUrl: "https://www-theregister-co-uk.cdn.ampproject.org/c/s/www.theregister.co.uk/AMP/2020/04/30/us_military_ai/"
 type: article
-quality: 18
-heat: 18
+quality: 20
+heat: 20
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 topics:
   - AWS AI
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://regmedia.co.uk/2020/04/30/coronavirus_shopping.jpg"

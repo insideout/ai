@@ -8,7 +8,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/349909"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/349909"
 type: article
 quality: 84
-heat: 85
+heat: 84
 published: true
 
 provider:

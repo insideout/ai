@@ -57,16 +57,16 @@ related:
         width: 636
         height: 382
   - title: "Google executive attended meeting of key scientific group advising Government"
-    excerpt: "Google says Mr Hassabis was invited by t, Sir Patrick Vallance, who leads the group, which has been advising the Government on its respon"
-    publishedDateTime: 2020-04-30T15:01:00Z
-    webUrl: "https://www.theargus.co.uk/news/national/18417819.google-executive-attended-meeting-key-scientific-group-advising-government/"
+    excerpt: "Demis Hassabis is the co–founder of DeepMind, Google’s London-based artificial intelligence arm, which it acquired in 2014. The British artificial intelligence researcher was present for one ..."
+    publishedDateTime: 2020-04-30T14:35:00Z
+    webUrl: "https://www.thetelegraphandargus.co.uk/news/national/18417819.google-executive-attended-meeting-key-scientific-group-advising-government/"
     type: article
     provider:
-      name: The Argus
-      domain: theargus.co.uk
+      name: Telegraph & Argus
+      domain: thetelegraphandargus.co.uk
     quality: 21
     images:
-      - url: "https://www.theargus.co.uk/resources/images/11319113/"
+      - url: "https://www.thetelegraphandargus.co.uk/resources/images/11319113/"
         width: 2168
         height: 1445
 

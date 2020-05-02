@@ -18,6 +18,7 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://www.redsharknews.com/hs-fs/hubfs/Imported_Blog_Media/3cebee5fba2c4faded01d968852d12e5-1.jpg?width=650&height=366&name=3cebee5fba2c4faded01d968852d12e5-1.jpg"
