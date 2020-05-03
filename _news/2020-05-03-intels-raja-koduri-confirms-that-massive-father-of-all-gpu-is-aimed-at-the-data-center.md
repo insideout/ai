@@ -29,6 +29,6 @@ images:
     height: 1140
     title: "Intel's Raja Koduri confirms that massive 'father of all' GPU is aimed at the data center"
 
-secured: "HqTjuv+0OXe0w+/sXJByR/vENu48uOIs0vmj748F+G690Lq3G1PCsdG0ZpF8yaCq/lt6g67Cl9C1ygQ/8P4DQP9hlNDRPbSBwkayBV24d39F5tUhTI9VdRZ0yOcCZczlpb3Ep4KFNHvrPPVB/nUSk5AVJ4tUQoCmmxfP+h57xNdJZ9zbKfTRm8zA250gmmso27p1hqAlEH2RKlqlf+tgU6LDkfxNLsE084JJnkqaP5Y9ZD8+6Txya9KNDQkPhvq3SDKF9njjQYme3k0jnoYY3TWzfdZj2sXYKDaiGYeElAY4V2vwRbsyailc/MiAEX9P;9OgoaW2htAvlcwzsQxHdOw=="
+secured: "KxCwaZUjOmxHLqCGV4ge5HVv/243sp/A40DbjPR/K0/6PPx3TiA4OmKn5cv8LpcrZgTAMi1tXNSXp9bwxlrcWjtH2KF7A6UcqHtp8LlKUKKdHbufEOgq1U0iLsZpwfW9Xe0WYrXMbT/CBP4i09cGzccwsioRxJ3nM2wPhAx8aK3OgSdh1kahppgNhyjsVAJYeT3lq8MHsE1oPAM2cpjaxOvV+sjq+C77ovUD8GcONY59HLMEtWoDzwusmvkSXMl+LcTjG0XZArn+oybbVsCDamsZ27bhWUcrShNmQkGEIic6EnshTQ0vQuwQOQG2XBuEpIzKTn9jaqepGSz8ST+EJDFQO3c2NHXBRk52uCm2Hn2s80C3D6S+GoCEs8eQMr7NxXqWK3jfd2nVderJP2/xHqiu+f9xV/wVAgcSPmP7MaRUlUhnL3Lcupuyf52f5yEOEF38us8T/uwwUQBRnbOOV3Wg6UeOjebZJdkbPqptO6o=;feToeKBb9cUfNdLIs+Ut6Q=="
 ---
 

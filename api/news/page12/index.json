@@ -48,6 +48,43 @@
       ]
     },
     {
+      "path": "_news/2020-04-22-baidu-accuses-former-executive-of-corruption.md",
+      "title": "Baidu Accuses Former Executive of Corruption",
+      "excerpt": "Baidu, China’s leading online search group, has reported a former executive to the police. It accuses him of corruption. Wei Fang, a former VP at the company, was investigated by Baidu’s",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://variety.com/2020/biz/asia/baidu-former-executive-corruption-allegations-1234587072/",
+      "ampWebUrl": "https://variety.com/2020/biz/asia/baidu-former-executive-corruption-allegations-1234587072/amp/",
+      "cdnAmpWebUrl": "https://variety-com.cdn.ampproject.org/c/s/variety.com/2020/biz/asia/baidu-former-executive-corruption-allegations-1234587072/amp/",
+      "publishedDateTime": "2020-04-22T07:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Variety",
+        "domain": "variety.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://pmcvariety.files.wordpress.com/2016/02/baidu-logo.jpg?w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": "Baidu Accuses Former Executive of Corruption",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-22-granulate-raises-12-million-to-optimize-server-performance-with-ai.md",
       "title": "Granulate raises $12 million to optimize server performance with AI",
       "excerpt": "Applying AI to data center operations isn’t a new idea — IDC predicts that 50% of IT assets ... (Granulate has 14 employees, and it expects to triple its headcount to roughly 40 by 2021.) Sign up for Funding Weekly to start your week with VB's top funding stories.",
@@ -161,43 +198,6 @@
           "width": 1280,
           "height": 720,
           "title": "Auditoria.AI Raises $6 Million and Introduces SmartFlow Skills to Power the \"Self-Driving\" Finance Back Office",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-22-baidu-accuses-former-executive-of-corruption.md",
-      "title": "Baidu Accuses Former Executive of Corruption",
-      "excerpt": "Often considered as part of a triumvirate of leading tech companies in China, alongside Alibaba and Tencent, Baidu’s activities stretch from search and maps to AI and self-driving cars.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://variety.com/2020/biz/news/baidu-former-executive-corruption-allegations-1234587072/",
-      "ampWebUrl": "https://variety.com/2020/biz/news/baidu-former-executive-corruption-allegations-1234587072/amp/",
-      "cdnAmpWebUrl": "https://variety-com.cdn.ampproject.org/c/s/variety.com/2020/biz/news/baidu-former-executive-corruption-allegations-1234587072/amp/",
-      "publishedDateTime": "2020-04-22T06:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Variety",
-        "domain": "variety.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://pmcvariety.files.wordpress.com/2016/02/baidu-logo.jpg?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": "Baidu Accuses Former Executive of Corruption",
           "attribution": null
         }
       ],

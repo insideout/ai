@@ -1,11 +1,11 @@
 ---
 category: news
 title: "Baidu Accuses Former Executive of Corruption"
-excerpt: "Often considered as part of a triumvirate of leading tech companies in China, alongside Alibaba and Tencent, Baidu’s activities stretch from search and maps to AI and self-driving cars."
-publishedDateTime: 2020-04-22T13:34:00Z
-webUrl: "https://variety.com/2020/biz/news/baidu-former-executive-corruption-allegations-1234587072/"
-ampWebUrl: "https://variety.com/2020/biz/news/baidu-former-executive-corruption-allegations-1234587072/amp/"
-cdnAmpWebUrl: "https://variety-com.cdn.ampproject.org/c/s/variety.com/2020/biz/news/baidu-former-executive-corruption-allegations-1234587072/amp/"
+excerpt: "Baidu, China’s leading online search group, has reported a former executive to the police. It accuses him of corruption. Wei Fang, a former VP at the company, was investigated by Baidu’s"
+publishedDateTime: 2020-04-22T14:32:00Z
+webUrl: "https://variety.com/2020/biz/asia/baidu-former-executive-corruption-allegations-1234587072/"
+ampWebUrl: "https://variety.com/2020/biz/asia/baidu-former-executive-corruption-allegations-1234587072/amp/"
+cdnAmpWebUrl: "https://variety-com.cdn.ampproject.org/c/s/variety.com/2020/biz/asia/baidu-former-executive-corruption-allegations-1234587072/amp/"
 type: article
 
 provider:
@@ -22,6 +22,6 @@ images:
     height: 576
     title: "Baidu Accuses Former Executive of Corruption"
 
-secured: "AlboFyHqt99yt2OpONZPvCAqoXABuP4bcii82LgpdccT4XDsEqIyuJTGVD3qpqGB18yjlfUf39JOj7qDGPbTZXZI2qluD/kcfyoaCFoGe3F8RvqH7v/16+DT+r1dihoa7gcjC2J0SdgpjW4nkkjNrQM3aBD5oy/BSc72oMIX+mh52PsNjhbj77ZBS4lrmwlDHXvd4lW9sU5WCVi+VY47uM86BCVLOYYRwwXNrWmCvauU4D/l9sudO0hU2bOvlwrtl59JiEhrzc1B1kbY+2fDGq434BG+StxCuCOpu041IFGMur2GKLZPE+z4w4v21KmM;ksxZxinKhEeVIE9zqll9+g=="
+secured: "3+NJiww1BGFgjnJLA1wUmpE9GgeDsPtT9HYgmnRRLTjqrRQEYJwvhPaQP6/iuBweM/FJtSyBIXtC86HKuVYXA3BA4KGLjhUcQRRep1hre4n0bXafy3MXFI8k823W8m6k6Se1FfLIQcY5H+nUakk1WXiYrL7Jd827pSaCmJ1JVAFvNKJg2Gd6AbJFZO6dUtCUI3P3grQ/jnnfDMoSeoww7Ae1Z2CbKD8jrN+3Jt/L0aQvK5SnARtMAqaTxeqATzCMr7HI9ykDySJFMOVR+kHadEIRGWbZv5F0w5koJq2s91qeWvVrXi/Al/Q8AzEPVVIn;nU+/wXfkbf9eSiZUxKy4nw=="
 ---
 
