@@ -1268,38 +1268,30 @@
       ]
     },
     {
-      "path": "_news/2020-04-30-ai-in-africa-training-bots-to-talk-to-my-mum.md",
-      "title": "AI in Africa: Training bots to talk to my mum",
-      "excerpt": "How African researchers are using the continent's languages to help spur innovation in Artificial Intelligence.",
-      "heat": 99,
+      "path": "_news/2020-04-30-patent-office-artificial-intelligence-cant-invent-things.md",
+      "title": "Patent office: Artificial intelligence can’t invent things",
+      "excerpt": "Artificial intelligence is the future. If “Westworld” or “Black Mirror” are to be believed, there will soon come a day when the computers rule us all. But for now, an",
+      "heat": 73,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.bbc.com/news/world-africa-52411797?intlink_from_url=&link_location=live-reporting-story",
-      "ampWebUrl": "https://www.bbc.com/news/amp/world-africa-52411797",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-africa-52411797",
-      "publishedDateTime": "2020-04-30T03:43:00-07:00",
+      "webUrl": "https://cbs4indy.com/news/national-world/patent-office-artificial-intelligence-cant-invent-things/",
+      "ampWebUrl": "https://cbs4indy.com/news/national-world/patent-office-artificial-intelligence-cant-invent-things/amp/",
+      "cdnAmpWebUrl": "https://cbs4indy-com.cdn.ampproject.org/c/s/cbs4indy.com/news/national-world/patent-office-artificial-intelligence-cant-invent-things/amp/",
+      "publishedDateTime": "2020-04-30T04:36:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
+        "name": "WTTV",
+        "domain": "cbs4indy.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
       "images": [
         {
-          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/FD69/production/_112037846_img_20180827_082945_171.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": "AI in Africa: Training bots to talk to my mum",
+          "url": "https://cbs4indy.com/wp-content/uploads/sites/22/2020/04/GettyImages-476176424.jpg?w=1024&h=683&crop=1&resize=1280,720",
+          "width": 1280,
+          "height": 720,
+          "title": "Patent office: Artificial intelligence can’t invent things",
           "attribution": null
         }
       ],
@@ -1308,8 +1300,10 @@
         "news"
       ],
       "topics": [
+        "Facebook AI",
         "AI",
-        "Natural Language Processing"
+        "Machine Learning",
+        "AI in Robotics"
       ]
     }
   ],

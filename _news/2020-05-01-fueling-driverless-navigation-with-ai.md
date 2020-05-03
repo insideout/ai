@@ -3,12 +3,12 @@ category: news
 title: "Fueling driverless navigation with AI"
 excerpt: "When navigation comes into play, AI can help to give drivers the very best directions, despite the complexity of the route.  Pierluigi Casale is Group Data Scientist at TomTom. Powerful, accurate maps can be created by deep learning models,"
 publishedDateTime: 2020-05-01T10:21:00Z
-webUrl: "https://www.techradar.com/uk/news/fueling-driverless-navigation-with-ai"
-ampWebUrl: "https://www.techradar.com/uk/amp/news/fueling-driverless-navigation-with-ai"
-cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/uk/amp/news/fueling-driverless-navigation-with-ai"
+webUrl: "https://www.techradar.com/sg/news/fueling-driverless-navigation-with-ai"
+ampWebUrl: "https://www.techradar.com/sg/amp/news/fueling-driverless-navigation-with-ai"
+cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/sg/amp/news/fueling-driverless-navigation-with-ai"
 type: article
 quality: 104
-heat: 105
+heat: 104
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     height: 545
     title: "Fueling driverless navigation with AI"
 
-secured: "X/n5pLCCeHnEbN/djVoSEVezhszGcoZ/RVXrV4AlxEXoaPfyNkovzmSJYya9aWm+40TqXhhNXVGwddTCrnCBqd+fL8Yl1ChwENGmxhViTS7AUqLge7VSjYySfido1CtkunzzXi4KGkoW6t3Y+F7j0xrXJN+/3dajy8BLJ9Qq56+k2fz9q9/OBjaWi4sg5LNbUa9ka5qWC2TtN8sEAYXNs1Pg0LdPFVCVbdDHBbL5rh1ARDXf5+bnSXgyl/GVqN+XXLHIUrCmB1F7PXDx/wA/nmC2QNrndyy96TObXwPDHSPVUEXhRbQvb7uwyueMcSVKR1FxOkDG0xoYLXSXE6sXaHUcw/UiSm/5eNvIkFVX0jnWCVprjBlSPRMQUaNshdKbuFhw2ywkUzsKGOpd4iyaFCLysob7EqyfnaUA3/1L4KzQ25EHi6KXsKuRNhyRLDkyMtBkhfK9r3CLxAlkc/jFLsT4R+iBkuUadpf/mN5PKCY=;MERZQPHVPXiWEBkSqWQCiQ=="
+secured: "sdMuqvabE7m8p5L6pnGAvTIBuxM9qspSE0Jrcz/7M6bRzL/Ulm/6GjXsDkHOSktkbq5MLietMCbGs3uCtEPD7ybUxm2D5NW4kAu7xrY8K9m5ok+iaQp8WhkJn6gi7V8R0Cl+R4o3YwSZQYFIOkPBkDKmnvSbfFKSp+nCUs4EUeyZhE5MkVsFQOELF7D8K2L9vwL3tgjBx/8Iv8GBO+TPSSyp9vnGBvIAEssVrQXF9QkZtUoBnw6kxJB1N7tPDnk4ZHUCNtL56MWcRqnzAl4j4NBPHmlpx3uPIyZYZnDqgbJhAM5ZQBlLuTHL7GE7HHeJ;pCOH/uREvJWK8+NhBY7PDQ=="
 ---
 
