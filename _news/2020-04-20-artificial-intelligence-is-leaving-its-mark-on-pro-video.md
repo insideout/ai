@@ -4,6 +4,8 @@ title: "Artificial Intelligence Is Leaving Its Mark on Pro Video"
 excerpt: "According to the Gartner Hype Cycle, several critical components of what we collectively call “artificial intelligence” (AI)—namely neural networks, machine learning, computer vision and natural language processing—have passed the “peak of inflated expectations.” The next stop on Gartner’s cycle? A looming “trough of ..."
 publishedDateTime: 2020-04-20T12:35:00Z
 webUrl: "https://www.tvtechnology.com/news/artificial-intelligence-is-leaving-its-mark-on-pro-video"
+ampWebUrl: "https://www.tvtechnology.com/amp/news/artificial-intelligence-is-leaving-its-mark-on-pro-video"
+cdnAmpWebUrl: "https://www-tvtechnology-com.cdn.ampproject.org/c/s/www.tvtechnology.com/amp/news/artificial-intelligence-is-leaving-its-mark-on-pro-video"
 type: article
 quality: 41
 heat: 41
@@ -17,6 +19,7 @@ topics:
   - AI
   - Machine Learning
   - Natural Language Processing
+  - AI in Robotics
 
 images:
   - url: "https://cdn.mos.cms.futurecdn.net/jrqymKEf2S6dAHHMr8aCaP-1200-80.jpg"

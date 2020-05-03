@@ -5,8 +5,8 @@ excerpt: "Artificial intelligence (AI), as we have seen in the past, is already 
 publishedDateTime: 2020-04-30T13:22:00Z
 webUrl: "https://www.cmswire.com/information-management/a-look-at-the-downsides-of-artificial-intelligence/"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://www.cmswire.com/-/media/7521b9dddc5e4cdb9e7bb982e7cd17db.ashx"

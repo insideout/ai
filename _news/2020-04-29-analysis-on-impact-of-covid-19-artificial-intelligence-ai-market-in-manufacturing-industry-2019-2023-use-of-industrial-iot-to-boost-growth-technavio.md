@@ -5,8 +5,8 @@ excerpt: "The artificial intelligence (AI) market in manufacturing industry is p
 publishedDateTime: 2020-04-29T08:00:00Z
 webUrl: "https://www.businesswire.com/news/home/20200429005020/en/Analysis-Impact-Covid-19--Artificial-Intelligence-AI-Market"
 type: article
-quality: 10
-heat: 10
+quality: 12
+heat: 12
 published: false
 
 provider:
@@ -15,6 +15,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://mms.businesswire.com/media/20200429005020/en/787905/23/IRTNTR32119.jpg"

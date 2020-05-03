@@ -6,7 +6,7 @@ publishedDateTime: 2020-04-28T21:00:00Z
 webUrl: "https://www.ttnews.com/articles/self-driving-startups-work-through-health-crisis"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -22,23 +22,6 @@ images:
     width: 470
     height: 246
     title: "Self-Driving Startups Work Through Health Crisis"
-
-related:
-  - title: "Tesla is working on pay-as-you-go subscription to its self-driving package"
-    excerpt: "Tesla is working on a pay-as-you-go subscription to its “Full Self-Driving Capability” package in order to make its features more accessible. There are several things about how Tesla is approaching self-driving technology that makes it different from the rest of the auto industry and tech companies developing the technology."
-    publishedDateTime: 2020-04-28T15:52:00Z
-    webUrl: "https://electrek.co/2020/04/28/tesla-pay-as-go-subscription-self-driving-package/"
-    ampWebUrl: "https://electrek.co/2020/04/28/tesla-pay-as-go-subscription-self-driving-package/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/04/28/tesla-pay-as-go-subscription-self-driving-package/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 87
-    images:
-      - url: "https://electrek.co/wp-content/uploads/sites/3/2017/03/model-x-key-fob-with-tesla-app-on-iphone1-e1489007287660.jpg?quality=82&strip=all&w=1000"
-        width: 1000
-        height: 494
 
 secured: "BCdX3RWwjQf2jCH1/2sGmk2nRlJK6vHc3Y009l4p7kM0bLe/s7ivxCWJ96pNwONGg5IJvEPDDIgMS3Y1L02G4RNy+ltxC8vUxeYY4AN1rrsEKQq0hsvv+qMG8eHjabhybAtiL3p03TqOjrh23kEYaW6NGZcnMI1vXy905vENMhkatzmJowfM3/2Bpf/K5PD8UQbxDsacQ0EbExfkq4Loi/A9sjqtWHUyiFCH9TOvzr6rSq2QldGBRzfaEJU56TQCMwkL6dojB6hDqL0E7ZxtIp7m2b4iV1FajnAMh5748o4jKQQCCFf0s13SM+F8SUYBW9uOcFAc/HlcPEAV66moIHvIF3eAq55R9OXeHotFcV9X+ii9OljI7A8/ErWNx6F36Ywp23qOoFY1ogMCFHzCyy2yu3LOoIZusCu+jjzqojOe2vrBpoBH+LqfBlWP/Q3N0muUbFXlPQy/emG3vcLIk6vqA3erNlIoKVraxOWPJFw=;X2B4TngS3SMC9/5DsGoVVQ=="
 ---
