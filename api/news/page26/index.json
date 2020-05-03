@@ -2,50 +2,6 @@
   "page": 26,
   "value": [
     {
-      "path": "_news/2020-04-08-after-coronavirus-ai-could-be-central-to-our-new-normal.md",
-      "title": "After coronavirus, AI could be central to our new normal",
-      "excerpt": "The current COVID-19 crisis could provide a similar inflection point for AI applications. While the implications of AI continue to be debated on the world stage, the rapid onset of a global health crisis and concomitant recession will accelerate its impact. Times of crisis bring rapid change. Efforts to harness AI technologies to discover new ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/08/after-coronavirus-ai-could-be-central-to-our-new-normal/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/08/after-coronavirus-ai-could-be-central-to-our-new-normal/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/08/after-coronavirus-ai-could-be-central-to-our-new-normal/amp/",
-      "publishedDateTime": "2020-04-08T15:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/03/edge.jpg?fit=2120%2C1414&strip=all",
-          "width": 2120,
-          "height": 1414,
-          "title": "After coronavirus, AI could be central to our new normal",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-04-08-google-cloud-launches-new-ai-chatbot-for-covid-19-information.md",
       "title": "Google Cloud launches new AI chatbot for COVID-19 information",
       "excerpt": "Delivered Daily Artificial intelligence and machine learning are continuing to take a front-row seat in fighting COVID-19, with Google Cloud launching an AI chatbot on Wednesday. The chatbot, which it calls the Rapid Response Virtual Agent program, will provide information to battle the COVID-19 pandemic, as announced in a Google blog.",
@@ -1091,6 +1047,43 @@
       "topics": [
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2020-04-08-insights-on-the-worldwide-automated-machine-learning-market-2020-to-2030-growing-healthcare-industry-presents-opportunities-researchandmarketscom.md",
+      "title": "Insights on the Worldwide Automated Machine Learning Market (2020 to 2030) - Growing Healthcare Industry Presents Opportunities - ResearchAndMarkets.com",
+      "excerpt": "The global automated machine learning (AutoML) market generated the revenue of $269.6 million in 2019, and is expected to reach $14,511.9 million by 2030, advancing at a CAGR of 43.7% during the forecast period (2020-2030). The cloud category under the ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businesswire.com/news/home/20200408005248/en/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-08T01:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20200408005248/en/371054/23/ResearchAndMarkets_800px.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": "Insights on the Worldwide Automated Machine Learning Market (2020 to 2030) - Growing Healthcare Industry Presents Opportunities - ResearchAndMarkets.com",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     }
   ],

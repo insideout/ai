@@ -2,43 +2,6 @@
   "page": 87,
   "value": [
     {
-      "path": "_news/2020-02-16-these-custom-masks-may-not-beat-face-id-but-they-could-do-some-good.md",
-      "title": "These custom masks may not beat Face ID, but they could do some good",
-      "excerpt": "Baskin's viral tweet links to what appears to be a half-serious website that claims these masks can \"work with facial recognition software.\" That's not proven, though; Baskin even admitted on Twitter that she's testing the facial recognition claim. But the site also notes that these $40 masks \"are still in development.\" You might've heard ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://mashable.com/article/face-id-respirator-masks-resting-risk-face/",
-      "ampWebUrl": "https://mashable.com/article/face-id-respirator-masks-resting-risk-face.amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/face-id-respirator-masks-resting-risk-face.amp",
-      "publishedDateTime": "2020-02-16T15:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/2020%252F02%252F16%252F6d%252F2ecec0d02057407d895f43033b507547.b8a0a.jpg%252F1200x630.jpg?signature=v7L41m66b07-2EZTH4i5SqFM4xI=",
-          "width": 1200,
-          "height": 630,
-          "title": "These custom masks may not beat Face ID, but they could do some good",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
       "path": "_news/2020-02-16-eu-fights-for-purpose-in-grand-plan-for-tech-ai-rules.md",
       "title": "EU Fights For ‘Purpose’ in Grand Plan for Tech, AI Rules",
       "excerpt": "China might have data and the U.S. might have money, but Europe has purpose. That’s the message European Union tech czar Margrethe Vestager aims to convey on Wednesday when she unveils plans to help the bloc compete with the U.",
@@ -1025,6 +988,51 @@
       "topics": [
         "AI",
         "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2020-02-14-nvidia-shares-surge-on-signs-of-a-machine-learning-boom.md",
+      "title": "Nvidia shares surge on signs of a machine learning boom",
+      "excerpt": "Nvidia stunned analysts with strong quarterly results and joined rivals Intel and Advanced Micro Devices in predicting strong demand for chips used in data centers and A.I.",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2020/02/14/nvidia-nvda-earnings-q4-2020.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/02/14/nvidia-nvda-earnings-q4-2020.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/02/14/nvidia-nvda-earnings-q4-2020.html",
+      "publishedDateTime": "2020-02-14T06:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/105398954-1534357352806rts1xdsi.jpg?v=1534357453",
+          "width": 3846,
+          "height": 2564,
+          "title": "Nvidia shares surge on signs of a machine learning boom",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
       ]
     }
   ],

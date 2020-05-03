@@ -2,52 +2,6 @@
   "page": 55,
   "value": [
     {
-      "path": "_news/2020-03-11-how-ibm-turns-flashy-ai-projects-like-a-robot-that-can-debate-humans-into-commercial-products-for-enterprises.md",
-      "title": "How IBM turns flashy AI projects like a robot that can debate humans into commercial products for enterprises",
-      "excerpt": "The tech giant is introducing applications based on \"Project Debater\" that can autonomously cluster similar documents and understand idioms.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businessinsider.com/how-ibm-turns-research-like-project-debater-into-enterprise-products-2020-3",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-10T21:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.insider.com/5e67b491e4f9fe389623a166?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": "How IBM turns flashy AI projects like a robot that can debate humans into commercial products for enterprises",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
       "path": "_news/2020-03-11-how-ibm-watsons-new-natural-language-processing-capabilities-helps-business-users.md",
       "title": "How IBM Watson's new natural language processing capabilities helps business users",
       "excerpt": "IBM reports that Watson is ready to take on the most challenging aspects of the English language. New natural language processing (NLP) capabilities will be added to the artificial intelligence platform later this year to allow businesses to identify and analyze some of the most challenging aspects of human language. IBM has been developing ...",
@@ -1215,6 +1169,35 @@
       ],
       "topics": [
         "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-10-artificial-intelligence-in-education-market-insights-potential-business-strategies-mergers-and-acquisitions-revenue-analysis-by-2025.md",
+      "title": "Artificial Intelligence in Education Market Insights, Potential Business Strategies, Mergers and Acquisitions, Revenue Analysis by 2025",
+      "excerpt": "New York March 10 2020 The global Artificial Intelligence in Education market report scope includes detailed study covering underlying factors influencing the industry trends The global Artificial Intelligence in Education market is expected to exceed more than US 4 Billion",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.openpr.com/news/1960878/artificial-intelligence-in-education-market-insights",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-10T08:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
         "AI"
       ]
     }

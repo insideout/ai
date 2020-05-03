@@ -569,44 +569,6 @@
       ]
     },
     {
-      "path": "_news/2020-04-28-first-spiking-neural-network-based-chip-for-radar-signal-processing.md",
-      "title": "First spiking Neural Network-based chip for radar signal processing",
-      "excerpt": "Imec, the research and innovation hub, has unveiled the world’s first chip that processes radar signals using a spiking recurrent neural network. By mimicking the way groups of",
-      "heat": 76,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.newelectronics.co.uk/electronics-news/first-spiking-neural-network-based-chip-for-radar-signal-processing/226526/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-28T09:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Electronics",
-        "domain": "newelectronics.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.newelectronics.co.uk/article-images/226526/imec.jpg?width=375&height=250&scale=canvas",
-          "width": 375,
-          "height": 250,
-          "title": "First spiking Neural Network-based chip for radar signal processing",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
       "path": "_news/2020-04-28-tesla-is-working-on-pay-as-you-go-subscription-to-its-self-driving-package.md",
       "title": "Tesla is working on pay-as-you-go subscription to its self-driving package",
       "excerpt": "Tesla is working on a pay-as-you-go subscription to its “Full Self-Driving Capability” package in order to make its features more accessible. There are several things about how Tesla is approaching self-driving technology that makes it different from the rest of the auto industry and tech companies developing the technology.",
@@ -1086,6 +1048,51 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-28-natural-language-processing-market-overview-and-detailed-insights-on-upcoming-trends-till-2026.md",
+      "title": "Natural Language Processing Market Overview and Detailed Insights on Upcoming Trends till 2026",
+      "excerpt": "The global natural language processing market is expected to rise with an impressive CAGR and generate the highest",
+      "heat": 72,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-overview-and-detailed-insights-on-upcoming-trends-till-2026-2020-04-28",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-28T05:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Natural Language Processing Market Overview and Detailed Insights on Upcoming Trends till 2026",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
         "AI"
       ]
     }
