@@ -2,6 +2,51 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-04-29-ruha-benjamin-on-deep-learning-computational-depth-without-sociological-depth-is-superficial-learning.md",
+      "title": "Ruha Benjamin on deep learning: Computational depth without sociological depth is ‘superficial learning’",
+      "excerpt": "Ruja Benjamin urged engineers to consider historic and sociological factors when building deep learning systems in her keynote address at ICLR.",
+      "heat": 72,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/29/ruha-benjamin-on-deep-learning-computational-depth-without-sociological-depth-is-superficial-learning/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/29/ruha-benjamin-on-deep-learning-computational-depth-without-sociological-depth-is-superficial-learning/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/29/ruha-benjamin-on-deep-learning-computational-depth-without-sociological-depth-is-superficial-learning/amp/",
+      "publishedDateTime": "2020-04-29T07:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/Screen-Shot-2020-04-28-at-2.02.27-PM.png?fit=1423%2C803&strip=all",
+          "width": 1423,
+          "height": 803,
+          "title": "Ruha Benjamin on deep learning: Computational depth without sociological depth is ‘superficial learning’",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-29-ai-cannot-be-recognised-as-an-inventor-us-rules.md",
       "title": "AI cannot be recognised as an inventor, US rules",
       "excerpt": "The US Patent and Trademark Office rejected two patents where the AI system Dabus was listed as the inventor, in a ruling on Monday. US patent law had previously only specified eligible inventors had to be \"individuals\".",
@@ -1051,51 +1096,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-28-tesla-is-working-on-pay-as-you-go-subscription-to-its-self-driving-package.md",
-      "title": "Tesla is working on pay-as-you-go subscription to its self-driving package",
-      "excerpt": "Tesla is working on a pay-as-you-go subscription to its “Full Self-Driving Capability” package in order to make its features more accessible. There are several things about how Tesla is approaching self-driving technology that makes it different from the rest of the auto industry and tech companies developing the technology.",
-      "heat": 97,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://electrek.co/2020/04/28/tesla-pay-as-go-subscription-self-driving-package/",
-      "ampWebUrl": "https://electrek.co/2020/04/28/tesla-pay-as-go-subscription-self-driving-package/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/04/28/tesla-pay-as-go-subscription-self-driving-package/amp/",
-      "publishedDateTime": "2020-04-28T08:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://electrek.co/wp-content/uploads/sites/3/2017/03/model-x-key-fob-with-tesla-app-on-iphone1-e1489007287660.jpg?quality=82&strip=all&w=1000",
-          "width": 1000,
-          "height": 494,
-          "title": "Tesla is working on pay-as-you-go subscription to its self-driving package",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

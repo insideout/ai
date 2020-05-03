@@ -2,6 +2,51 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-04-21-global-ai-in-fintech-market-2020-outlook-key-players-segmentation-industry-size-and-share-comprehensive-analysis-to-2025.md",
+      "title": "Global AI in Fintech Market 2020 Outlook, Key Players, Segmentation, Industry Size and Share, Comprehensive Analysis to 2025",
+      "excerpt": "Global AI in Fintech Market 2020 by Company, Regions, Type and Application, Forecast to 2025 available at MarketandResearch.biz presents the latest study on the market covering product scope, market revenue,",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/global-ai-in-fintech-market-2020-outlook-key-players-segmentation-industry-size-and-share-comprehensive-analysis-to-2025-2020-04-21?tesla=y",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-21T09:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Global AI in Fintech Market 2020 Outlook, Key Players, Segmentation, Industry Size and Share, Comprehensive Analysis to 2025",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-21-why-covid-natures-code-cracking-machine-intelligence.md",
       "title": "Why COVID? Nature’s Code Cracking Machine Intelligence",
       "excerpt": "Viruses don’t just attack the human body. They attack all the systems we’ve built to sustain modern life. As our systems have evolved, so too have our viruses. Today, we have COVID-19, and if we aren’t careful,",
@@ -1225,51 +1270,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-20-allergy-insights-with-watson-uses-ai-to-predict-allergy-symptom-risk.md",
-      "title": "Allergy Insights with Watson uses AI to predict allergy symptom risk",
-      "excerpt": "IBM today announced a new tool that taps AI to predict when allergy symptoms are likely to flare up. It’s called Allergy Insights with Watson, and it’s available in The Weather Channel app for iOS and Android ahead of a launch on the web. In addition to a 15-day forecast that predicts allergy symptom risk (e.g., high, moderate, low ...",
-      "heat": 104,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/20/allergy-insights-with-watson-uses-ai-to-predict-allergy-symptom-risk/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/20/allergy-insights-with-watson-uses-ai-to-predict-allergy-symptom-risk/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/20/allergy-insights-with-watson-uses-ai-to-predict-allergy-symptom-risk/amp/",
-      "publishedDateTime": "2020-04-20T12:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/11/ibm-keyboard-logo.png?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Allergy Insights with Watson uses AI to predict allergy symptom risk",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "IBM AI"
       ]
     }
   ],

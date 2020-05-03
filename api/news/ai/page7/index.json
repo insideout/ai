@@ -2,6 +2,51 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-04-27-vw-admits-teslas-lead-in-software-and-self-driving-in-internal-leak.md",
+      "title": "VW admits Tesla’s lead in software and self-driving in internal leak",
+      "excerpt": "Volkswagen CEO Hebert Diess has admitted that Tesla has a significant lead when it comes to software and its use in its self-driving program, according to leaked internal communications. Tesla pioneered over-the-air software updates in the auto industry.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://electrek.co/2020/04/27/vw-admits-tesla-lead-software-leak-internal/",
+      "ampWebUrl": "https://electrek.co/2020/04/27/vw-admits-tesla-lead-software-leak-internal/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/04/27/vw-admits-tesla-lead-software-leak-internal/amp/",
+      "publishedDateTime": "2020-04-27T02:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://electrek.co/wp-content/uploads/sites/3/2020/03/Tesla-matrix-hero-post-e1583107083706.jpg?quality=82&strip=all&w=1000",
+          "width": 999,
+          "height": 499,
+          "title": "VW admits Tesla’s lead in software and self-driving in internal leak",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-27-qureai-deploys-ai-radiology-software-in-the-fight-against-covid-19.md",
       "title": "Qure.ai Deploys AI Radiology Software In The Fight Against COVID-19",
       "excerpt": "Qure.ai, a healthtech company specializing in artificial intelligence (AI), announced the deployment of its COVID-19 progression monitoring software at Bolton NHS Foundation Trust, part of the National Health Service (NHS) in the UK.",
@@ -1241,50 +1286,6 @@
           "width": 1200,
           "height": 720,
           "title": "How AI Can Improve IT Service Management In A Pandemic",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-24-insurtech-startup-axinan-closes-series-a-with-16-mn.md",
-      "title": "Insurtech Startup Axinan Closes Series A+ with $16 Mn",
-      "excerpt": "Insurtech Startup Axinan has closed its series A funding round at $16 mn ... Founded in 2016 by former chief technology officer of Grab, Wei Zhu, Igloo is a full-stack insurtech firm powered by artificial intelligence (AI) and big data that builds digital insurance products. Its product offerings range from personal to lifestyle insurance ...",
-      "heat": 72,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.entrepreneur.com/article/349775",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/349775",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/349775",
-      "publishedDateTime": "2020-04-24T07:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/20200424141717-WeiZhu-CEOandFounderofIglooedited.jpeg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": "Insurtech Startup Axinan Closes Series A+ with $16 Mn",
           "attribution": null
         }
       ],

@@ -2,6 +2,51 @@
   "page": 70,
   "value": [
     {
+      "path": "_news/2020-02-19-levels-and-limits-of-ai.md",
+      "title": "Levels And Limits Of AI",
+      "excerpt": "Not all AI is the same. Accelerated AI makes what you do faster. Augmented AI makes it better. And Automated AI does it for you. But when each \"level\" of AI becomes feasible is a function of the underlying problem's difficulty,",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/konstantinebuhler/2020/02/19/levels-and-limits-of-ai/",
+      "ampWebUrl": "https://www.forbes.com/sites/konstantinebuhler/2020/02/19/levels-and-limits-of-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/konstantinebuhler/2020/02/19/levels-and-limits-of-ai/amp/",
+      "publishedDateTime": "2020-02-19T08:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1141218835%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6400%26cropY1%3D663%26cropY2%3D4263",
+          "width": 1200,
+          "height": 675,
+          "title": "Levels And Limits Of AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2020-02-19-grok-combines-machine-learning-and-the-human-brain-to-build-smarter-aiops.md",
       "title": "Grok combines Machine Learning and the Human Brain to build smarter AIOps",
       "excerpt": "A few weeks ago I wrote a piece here about Moogsoft which has been making waves in the service assurance space by applying artificial intelligence and machine learning to the arcane task of keeping on keeping critical IT up and running and lessening the business impact of service interruptions. It’s a hot area for startups and I’ve since ...",
@@ -1204,51 +1249,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-19-apples-priorities-are-shifting-as-iphone-sales-continue-to-sink.md",
-      "title": "Apple's priorities are shifting as iPhone sales continue to sink",
-      "excerpt": "The company poached a new executive from Google to lead its artificial intelligence efforts ... most notably Waymo, the Alphabet company that spun out of Google's self-driving car project.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnbc.com/2019/02/19/apple-shifts-priorities-to-grow-services-ai.html",
-      "ampWebUrl": "https://www.cnbc.com/amp/2019/02/19/apple-shifts-priorities-to-grow-services-ai.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2019/02/19/apple-shifts-priorities-to-grow-services-ai.html",
-      "publishedDateTime": "2020-02-18T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/102732800-GettyImages-146178359.jpg?v=1545326522",
-          "width": 3000,
-          "height": 2111,
-          "title": "Apple's priorities are shifting as iPhone sales continue to sink",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

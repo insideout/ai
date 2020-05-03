@@ -2,6 +2,50 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2020-04-14-ai-startups-raised-69-billion-in-q1-2020-a-record-setting-pace-before-coronavirus.md",
+      "title": "AI startups raised $6.9 billion in Q1 2020, a record-setting pace before coronavirus",
+      "excerpt": "AI startups continued to outpace the overall U.S. venture capital market in the first quarter of 2020, but the coronavirus is expected to have a severe impact on funding across all sectors for the rest of the year. According to data from the National Venture Capital Association, 285 AI-related companies in the U.S. raised $6.9 billion in the ...",
+      "heat": 90,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/14/ai-startups-raised-6-9-billion-in-q1-2020-a-record-setting-pace-before-coronavirus/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/14/ai-startups-raised-6-9-billion-in-q1-2020-a-record-setting-pace-before-coronavirus/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/14/ai-startups-raised-6-9-billion-in-q1-2020-a-record-setting-pace-before-coronavirus/amp/",
+      "publishedDateTime": "2020-04-14T04:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/10/artificial_intelligence.shutterstock_673672549-e1586861549970.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "AI startups raised $6.9 billion in Q1 2020, a record-setting pace before coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-14-artificial-intelligence-evolving-by-itself.md",
       "title": "Artificial Intelligence Evolving By Itself",
       "excerpt": "Building an AI algorithm takes time. Take neural networks, a common type of machine learning used for translating languages and driving cars. These networks loosely mimic the structure of the brain and learn from training data by altering the strength of connections between artificial neurons. Smaller subcircuits of neurons carry out specific ...",
@@ -951,50 +995,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-13-artificial-intelligence-ai-market-value-growing-at-a-us-160-bn-by-2026.md",
-      "title": "Artificial Intelligence (AI) Market Value Growing at a US$ 160 Bn by 2026",
-      "excerpt": "According to the Acumen Research and Consulting, the global Artificial Intelligence (AI) market is expected to reach at US$ 160 Bn by 2026, along with the projected CAGR of 49% from 2020-2026. The published report global Artificial Intelligence (AI) market provides a holistic overview of the current market covering the current trends.",
-      "heat": 111,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-value-growing-at-a-us-160-bn-by-2026-2020-04-13",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-13T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Artificial Intelligence (AI) Market Value Growing at a US$ 160 Bn by 2026",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

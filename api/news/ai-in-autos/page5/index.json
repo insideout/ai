@@ -2,6 +2,51 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-03-27-theres-a-baby-sea-lion-on-highway-101-what-would-a-self-driving-car-do.md",
+      "title": "There’s A Baby Sea Lion On Highway 101, What Would A Self-Driving Car Do?",
+      "excerpt": "There was a bit of extra excitement in the San Francisco Bay Area traffic last year when a baby sea lion decided it was time to checkout rush hour activities and so wandered or waddled onto the hectic and perilous Highway 101 (a similar occurrence happened a few years ago in northward Mendocino County).",
+      "heat": 73,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/03/27/theres--a-baby-sea-lion-on-highway-101-what-would-a-self-driving-car-do/",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/03/27/theres--a-baby-sea-lion-on-highway-101-what-would-a-self-driving-car-do/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/03/27/theres--a-baby-sea-lion-on-highway-101-what-would-a-self-driving-car-do/amp/",
+      "publishedDateTime": "2020-03-27T08:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2Fe341b8d42ae9446faa5a1f4a0bce99aa%2F0x0.jpg",
+          "width": 1200,
+          "height": 762,
+          "title": "There’s A Baby Sea Lion On Highway 101, What Would A Self-Driving Car Do?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-27-global-and-china-hd-map-industry-report-2019-2020-market-burgeoning-with-the-roll-out-of-l3-autonomous-vehicles-researchandmarketscom.md",
       "title": "Global and China HD Map Industry Report, 2019-2020 - Market Burgeoning with the Roll-out of L3 Autonomous Vehicles - ResearchAndMarkets.com",
       "excerpt": "It can be seen from the use of HD map in automakers' L3 self-driving cars to be soon mass-produced that the map leaders like Amap, Baidu Map, NavInfo and eMapgo stay ahead in HD map application. In addition to HD map services for third parties, more companies applied in 2019 to be the eligible providers of electronic navigation mapping with ...",
@@ -1192,43 +1237,6 @@
           "width": 600,
           "height": 350,
           "title": "Uber's former self-driving lead pleads guilty to stealing from Google",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-20-the-impactful-role-of-ai-in-mobile-app-development.md",
-      "title": "The Impactful Role of AI in Mobile App Development",
-      "excerpt": "driverless, earth-moving vehicles. The perks aren’t just limited to this, it enables clients to see machine data and observe framework on their iOS and Android mobile phones or tablets. The growth curve of AI in mobile app development According to Statista, by the year 2025, the growth of the Artificial Intelligence (AI) software market ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://yourstory.com/mystory/impactful-role-ai-mobile-app-development",
-      "ampWebUrl": "https://yourstory.com/mystory/impactful-role-ai-mobile-app-development/amp",
-      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/mystory/impactful-role-ai-mobile-app-development/amp",
-      "publishedDateTime": "2020-03-19T17:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Your Story",
-        "domain": "yourstory.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://lh3.googleusercontent.com/a-/AOh14GhpNN87cfKPOxK5gBMpO01Xq87Dw_O39FUU8GJevA",
-          "width": 512,
-          "height": 512,
-          "title": "The Impactful Role of AI in Mobile App Development",
           "attribution": null
         }
       ],

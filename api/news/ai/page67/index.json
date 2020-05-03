@@ -2,6 +2,43 @@
   "page": 67,
   "value": [
     {
+      "path": "_news/2020-02-24-fg-to-include-robotics-ai-in-school-curriculum.md",
+      "title": "FG to include robotics, AI in school curriculum",
+      "excerpt": "The Federal Ministry of Education has said it will work on the inclusion of coding, robotics and artificial intelligence in the country’s school curricula so as to take pupils to the 21st Century technology and educational standards. The Minister of State for Education, Chukwuemeka Nwajiuba, stated this in Abuja at the 2019/2020 Nigeria ...",
+      "heat": 109,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://punchng.com/fg-to-include-robotics-ai-in-school-curriculum/",
+      "ampWebUrl": "https://punchng.com/fg-to-include-robotics-ai-in-school-curriculum/amp/",
+      "cdnAmpWebUrl": "https://punchng-com.cdn.ampproject.org/c/s/punchng.com/fg-to-include-robotics-ai-in-school-curriculum/amp/",
+      "publishedDateTime": "2020-02-23T16:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Punch Newspapers",
+        "domain": "punchng.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.punchng.com/wp-content/uploads/2019/11/01205241/Chukwuemeka-Nwajiuba.jpg",
+          "width": 700,
+          "height": 417,
+          "title": "FG to include robotics, AI in school curriculum",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-02-24-over-1700-students-competing-in-artificial-intelligence-and-robot-competitions.md",
       "title": "Over 1,700 students competing in artificial intelligence and robot competitions",
       "excerpt": "ABU DHABI - H.H. Sheikh Khalid bin Mohamed bin Zayed Al Nahyan, Chairman of Abu Dhabi Executive Office, opened the activities of the 6th national championship of the series of artificial intelligence, AI, and robot competitions 2020, organised by the Ministry of Education at the Abu Dhabi National Exhibition Centre, ADNEC. Held under the ...",
@@ -1248,52 +1285,6 @@
       "topics": [
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2020-02-21-ai-in-logistics-and-supply-chain-with-detailed-overview-and-opportunity-assessment.md",
-      "title": "AI in Logistics and Supply Chain With Detailed Overview and Opportunity Assessment",
-      "excerpt": "The on-going evolution of technologies like artificial intelligence (AI) and machine learning (ML) brings in disruption and innovation in the AI Logistics and Supply Chain Ecosystem. AI is transforming global logistics and supply chain management.",
-      "heat": 85,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/ai-in-logistics-and-supply-chain-with-detailed-overview-and-opportunity-assessment-2020-02-21",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-21T03:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "AI in Logistics and Supply Chain With Detailed Overview and Opportunity Assessment",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos",
-        "AI in Robotics"
       ]
     }
   ],

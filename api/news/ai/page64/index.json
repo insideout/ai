@@ -2,6 +2,43 @@
   "page": 64,
   "value": [
     {
+      "path": "_news/2020-02-26-chinese-facial-recognition-can-now-identify-people-wearing-masks.md",
+      "title": "Chinese facial recognition can now identify people wearing masks",
+      "excerpt": "Chinese companies specialising in facial recognition have upgraded the technology to identify people wearing masks in the wake of the coronavirus outbreak. China's AI champion SenseTime, the most valuable AI startup in the world, is one of several firms ...",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-8046325/Chinese-facial-recognition-identify-people-wearing-masks.html",
+      "ampWebUrl": "https://www.dailymail.co.uk/sciencetech/article-8046325/amp/Chinese-facial-recognition-identify-people-wearing-masks.html",
+      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-8046325/amp/Chinese-facial-recognition-identify-people-wearing-masks.html",
+      "publishedDateTime": "2020-02-26T03:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mail Online",
+        "domain": "dailymail.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.dailymail.co.uk/1s/2020/02/26/11/25217416-0-image-a-20_1582715621043.jpg",
+          "width": 636,
+          "height": 382,
+          "title": "Chinese facial recognition can now identify people wearing masks",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2020-02-26-nvidia-dlss-in-2020-stunning-results.md",
       "title": "Nvidia DLSS in 2020: Stunning Results",
       "excerpt": "This AI algorithm also leveraged a new feature on RTX Turing GPUs: the tensor cores. While these cores are most likely included on the GPU to make it also suitable for data center and workstation use cases, Nvidia found a way to use this hardware feature for gaming. Later, Nvidia decided to ditch the tensor cores for their cheaper Turing GPUs ...",
@@ -1238,51 +1275,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-02-25-carscom-cto-boosts-staff-cloud-skills-in-move-to-amazon-web-services.md",
-      "title": "Cars.com CTO Boosts Staff Cloud Skills in Move to Amazon Web Services",
-      "excerpt": "The transition, which began in March of last year, is aimed in part at speeding up the matchmaking process between cars and buyers on its website, which hosts a daily average of some 4 million cars from 19,",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wsj.com/articles/cars-com-cto-boosts-staff-cloud-skills-in-move-to-amazon-web-services-11582632002",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/cars-com-cto-boosts-staff-cloud-skills-in-move-to-amazon-web-services-11582632002",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/cars-com-cto-boosts-staff-cloud-skills-in-move-to-amazon-web-services-11582632002",
-      "publishedDateTime": "2020-02-25T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-157258/social",
-          "width": 1280,
-          "height": 640,
-          "title": "Cars.com CTO Boosts Staff Cloud Skills in Move to Amazon Web Services",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

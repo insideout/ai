@@ -174,6 +174,35 @@
       ]
     },
     {
+      "path": "_news/2020-04-29-self-driving-vehicles-get-in-on-the-delivery-scene-amid-covid-19.md",
+      "title": "Self-driving vehicles get in on the delivery scene amid COVID-19",
+      "excerpt": "SAN FRANCISCO, April 29 (Reuters) - Self-driving cars, trucks, sidewalk robots and shuttles are rolling out of the labs and parking garage",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nasdaq.com/articles/self-driving-vehicles-get-in-on-the-delivery-scene-amid-covid-19-2020-04-29",
+      "ampWebUrl": "https://www.nasdaq.com/articles/self-driving-vehicles-get-in-on-the-delivery-scene-amid-covid-19-2020-04-29?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/self-driving-vehicles-get-in-on-the-delivery-scene-amid-covid-19-2020-04-29?amp",
+      "publishedDateTime": "2020-04-29T09:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-29-cognitive-analytics-market-overview-with-detailed-analysis-competitive-forecast-to-2017-2026.md",
       "title": "Cognitive Analytics market Overview with Detailed Analysis, Competitive Forecast to 2017-2026",
       "excerpt": "The Cognitive Analytics market is anticipated to reach over USD 48 billion by 2026 according to a new research published",
@@ -1279,43 +1308,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-28-forwardx-robotics-captures-15m-in-series-b.md",
-      "title": "ForwardX Robotics captures $15M in Series B",
-      "excerpt": "The Beijing provider of intelligent warehousing robots – and maker of the famous, AI-powered suitcase – continues its North American expansion.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.freightwaves.com/news/forwardrobotics-raises-15m",
-      "ampWebUrl": "https://www.freightwaves.com/news/forwardrobotics-raises-15m/amp",
-      "cdnAmpWebUrl": "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/forwardrobotics-raises-15m/amp",
-      "publishedDateTime": "2020-04-28T10:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "freightwaves.com",
-        "domain": "freightwaves.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://s29755.pcdn.co/wp-content/uploads/2020/04/ForwardX-1.jpg",
-          "width": 1200,
-          "height": 674,
-          "title": "ForwardX Robotics captures $15M in Series B",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

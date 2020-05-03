@@ -2,6 +2,51 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2020-04-15-afp-used-clearview-ai-facial-recognition-software-to-counter-child-exploitation.md",
+      "title": "AFP used Clearview AI facial recognition software to counter child exploitation",
+      "excerpt": "Seven officers have conducted searches on the Clearview AI facial recognition platform. Share. Contact. Read full article: AFP used Clearview AI facial recognition software to cou",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/video/afp-used-clearview-ai-facial-recognition-software-to-counter-child-exploitation/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-14T20:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2020/04/16/43dce3ec-8083-443a-b027-321bdeafee8c/thumbnail/770x578/a5f5db7891dc99aa2234de7b704b2e30/afp-used-clearview-ai-facial-recognition-5e97a875b3157671f8b01e1d-1-apr-16-2020-6-30-34-poster.jpg",
+          "width": 770,
+          "height": 578,
+          "title": "AFP used Clearview AI facial recognition software to counter child exploitation",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-15-behringer-deepmind-12d-desktop-12-voice-polyphonic-analog-synth-module.md",
       "title": "Behringer DeepMind 12D Desktop 12-Voice Polyphonic Analog Synth Module",
       "excerpt": "I will ship with tracking to the listed regions. To negotiate shipping rates to other locations, please send me a message. Taxes are charged in the following regions either by the seller, per their tax policy, or by Reverb as a Marketplace Facilitator:",
@@ -938,50 +983,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-14-ai-startups-raised-69-billion-in-q1-2020-a-record-setting-pace-before-coronavirus.md",
-      "title": "AI startups raised $6.9 billion in Q1 2020, a record-setting pace before coronavirus",
-      "excerpt": "AI startups continued to outpace the overall U.S. venture capital market in the first quarter of 2020, but the coronavirus is expected to have a severe impact on funding across all sectors for the rest of the year. According to data from the National Venture Capital Association, 285 AI-related companies in the U.S. raised $6.9 billion in the ...",
-      "heat": 90,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/14/ai-startups-raised-6-9-billion-in-q1-2020-a-record-setting-pace-before-coronavirus/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/14/ai-startups-raised-6-9-billion-in-q1-2020-a-record-setting-pace-before-coronavirus/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/14/ai-startups-raised-6-9-billion-in-q1-2020-a-record-setting-pace-before-coronavirus/amp/",
-      "publishedDateTime": "2020-04-14T04:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/10/artificial_intelligence.shutterstock_673672549-e1586861549970.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "AI startups raised $6.9 billion in Q1 2020, a record-setting pace before coronavirus",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

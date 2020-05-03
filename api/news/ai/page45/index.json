@@ -2,6 +2,51 @@
   "page": 45,
   "value": [
     {
+      "path": "_news/2020-03-19-transforming-surgery-with-data-ai-and-cloud.md",
+      "title": "Transforming surgery with data, AI, and cloud",
+      "excerpt": "In the future, there are plans to deploy Azure SQL Database, Azure Storage, and Azure App Services to realize a serverless environment. And later, AI technologies such as Microsoft Cognitive Services and Azure Machine Learning will be applied. Dr. Takeshita’s specialty is gastrointestinal surgery. With the database in place, he sees an ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://news.microsoft.com/apac/features/transforming-surgery-with-data-ai-and-cloud/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-18T21:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/43/2020/03/hero-1600x758.jpg",
+          "width": 1600,
+          "height": 758,
+          "title": "Transforming surgery with data, AI, and cloud",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-19-self-driving-car-companies-suspend-testing-on-coronavirus-concerns.md",
       "title": "Self-driving car companies suspend testing on coronavirus concerns",
       "excerpt": "Major self-driving car companies have suspended their ... Other companies to have ceased testing include Pony.ai, Baidu Inc., Zoox Inc., Nuro Inc. and Yandex NV. One notable exception is the ...",
@@ -1096,43 +1141,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-18-specialized-processors-accelerate-endpoint-ai-workloads.md",
-      "title": "Specialized processors accelerate endpoint AI workloads",
-      "excerpt": "(Image: Texas Instruments Inc.) Nvidia’s well-known Jetson Nano is a small but powerful graphics processing unit (GPU) module for AI applications in endpoint devices. Built on the same Maxwell architecture as larger members of the Jetson family (AGX Xavier and TX2), the GPU on the Nano module has 128 cores and is capable of 0.5 TFLOPS ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.embedded.com/specialized-processors-accelerate-endpoint-ai-workloads/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-18T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Embedded",
-        "domain": "embedded.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.embedded.com/wp-content/uploads/2020/03/img20200318091424Top-10-processors-for-AI-acceler_0.jpg?resize=1024,576",
-          "width": 1024,
-          "height": 576,
-          "title": "Specialized processors accelerate endpoint AI workloads",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

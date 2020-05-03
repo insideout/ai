@@ -2,6 +2,51 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-01-02-3-things-that-sent-baidu-stock-soaring-to-start-2020.md",
+      "title": "3 Things That Sent Baidu Stock Soaring to Start 2020",
+      "excerpt": "Baidu's Apollo self-driving car program is gearing up. Image source: Baidu. Word emerged on Tuesday that Baidu had been granted a license to test its Apollo driverless cars in Beijing, one of the ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fool.com/investing/2020/01/02/3-things-sent-baidu-stock-soaring-to-start-2020.aspx",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/01/02/3-things-sent-baidu-stock-soaring-to-start-2020.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/01/02/3-things-sent-baidu-stock-soaring-to-start-2020.aspx",
+      "publishedDateTime": "2020-01-02T12:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F552284%2Fbaidu-self-driving-car-fleet.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 675,
+          "title": "3 Things That Sent Baidu Stock Soaring to Start 2020",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2019-12-30-ai-in-2020-how-use-cases-will-drive-artificial-intelligence-deployments.md",
       "title": "AI in 2020: How use cases will drive artificial intelligence deployments",
       "excerpt": "Learn why predictions about artificial intelligence trends include ... cost savings across the automotive OEM supply chain, and self-driving technology is projected to be a $556 billion market ...",

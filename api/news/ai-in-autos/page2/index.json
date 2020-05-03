@@ -2,6 +2,51 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-04-22-americans-remain-super-skeptical-of-evs-self-driving-cars.md",
+      "title": "Americans remain super skeptical of EVs, self-driving cars",
+      "excerpt": "JD Power's latest survey shows confidence in both electric cars and self-driving technology started to fall even before the coronavirus pandemic.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnet.com/roadshow/news/ev-self-driving-survey-skeptical-americans/",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/ev-self-driving-survey-skeptical-americans/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ev-self-driving-survey-skeptical-americans/",
+      "publishedDateTime": "2020-04-22T09:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cnet1.cbsistatic.com/img/2Gr2Oyn5xtHNf_PXRKKOiPtjivU=/2018/06/07/ba35851f-811f-48c2-9c8b-65cbba20aaae/2018-chevrolet-bolt-ev-charging-port-ogi.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": "Americans remain super skeptical of EVs, self-driving cars",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-22-baidu-accuses-former-executive-of-corruption.md",
       "title": "Baidu Accuses Former Executive of Corruption",
       "excerpt": "Baidu, China’s leading online search group, has reported a former executive to the police. It accuses him of corruption. Wei Fang, a former VP at the company, was investigated by Baidu’s",
@@ -1185,43 +1230,6 @@
           "width": 1200,
           "height": 630,
           "title": "North America Self-driving Car Market Overview and scope, Market Size, Future Outlook of the Market 2018-2023",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-13-driverless-vehicle-technology-advances-amid-pandemic-commercialization-pace-accelerated.md",
-      "title": "Driverless vehicle technology advances amid pandemic, commercialization pace accelerated",
-      "excerpt": "Prior to the national guideline, Chinese cities including Beijing and Shanghai have announced local guidelines for self-driving tests, while Baidu already has approval to test self-driving vehicles on city streets. A McKinsey report from last year suggested autonomous vehicles could, at some point, take over most of the automotive market in China.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.globaltimes.cn/content/1186047.shtml",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-13T10:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Global Times",
-        "domain": "globaltimes.cn",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.globaltimes.cn/Portals/0/attachment/2020/2020-04-14/53ef8931-f304-451b-bdd7-cd82e32c20f0.jpeg",
-          "width": 500,
-          "height": 300,
-          "title": "Driverless vehicle technology advances amid pandemic, commercialization pace accelerated",
           "attribution": null
         }
       ],

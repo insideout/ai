@@ -2,6 +2,43 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-01-21-4-stocks-to-gain-as-artificial-intelligence-simplifies-life-nasdaq.md",
+      "title": "4 Stocks to Gain as Artificial Intelligence Simplifies Life | Nasdaq",
+      "excerpt": "Since its invention in 1955, Artificial Intelligence (AI) has constantly been studied by several researchers and many big firms have invested billions each year just to accomplish one goal ...",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nasdaq.com/articles/4-stocks-to-gain-as-artificial-intelligence-simplifies-life-2020-01-21",
+      "ampWebUrl": "https://www.nasdaq.com/articles/4-stocks-to-gain-as-artificial-intelligence-simplifies-life-2020-01-21?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/4-stocks-to-gain-as-artificial-intelligence-simplifies-life-2020-01-21?amp",
+      "publishedDateTime": "2020-01-21T00:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg",
+          "width": 1024,
+          "height": 512,
+          "title": "4 Stocks to Gain as Artificial Intelligence Simplifies Life | Nasdaq",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2020-01-20-artificial-intelligence-needs-to-be-regulated-alphabet-ceo-pichai.md",
       "title": "Artificial intelligence needs to be regulated: Alphabet CEO Pichai",
       "excerpt": "Alphabet Inc.’s chief executive officer urged the U.S. and European Union to coordinate regulatory approaches on artificial intelligence ... self-driving car unit, Waymo. The Google chief ...",
@@ -1264,51 +1301,6 @@
           "width": 700,
           "height": 525,
           "title": "Why Baidu Is a Better AI Stock Than Google",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-01-02-3-things-that-sent-baidu-stock-soaring-to-start-2020.md",
-      "title": "3 Things That Sent Baidu Stock Soaring to Start 2020",
-      "excerpt": "Baidu's Apollo self-driving car program is gearing up. Image source: Baidu. Word emerged on Tuesday that Baidu had been granted a license to test its Apollo driverless cars in Beijing, one of the ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.fool.com/investing/2020/01/02/3-things-sent-baidu-stock-soaring-to-start-2020.aspx",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/01/02/3-things-sent-baidu-stock-soaring-to-start-2020.aspx",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/01/02/3-things-sent-baidu-stock-soaring-to-start-2020.aspx",
-      "publishedDateTime": "2020-01-02T12:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F552284%2Fbaidu-self-driving-car-fleet.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 675,
-          "title": "3 Things That Sent Baidu Stock Soaring to Start 2020",
           "attribution": null
         }
       ],

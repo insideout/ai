@@ -2,6 +2,43 @@
   "page": 48,
   "value": [
     {
+      "path": "_news/2020-03-17-computer-vision-and-image-analysis-online-course-offered-by-microsoft.md",
+      "title": "Computer Vision and Image Analysis online course offered by Microsoft",
+      "excerpt": "Computer Vision is the art of distilling actionable information from images. In this hands-on course, we'll learn about Image Analysis techniques using Python packages like PIL, Scikit-Image, Open CV, and others. You'll then explore machine learning for computer vision, including deep learning techniques for image classification, object ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.sakshieducation.com/Story.aspx?cid=0&sid=0&chid=0&tid=0&nid=261255",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-17T06:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Sakshi Education",
+        "domain": "sakshieducation.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.sakshieducation.com/images/logo.png",
+          "width": 510,
+          "height": 300,
+          "title": "Computer Vision and Image Analysis online course offered by Microsoft",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-17-runai-announces-general-availability-of-its-k8s-based-deep-learning-virtualization-platform.md",
       "title": "Run:AI Announces General Availability of Its K8s-based Deep Learning Virtualization Platform",
       "excerpt": "/PRNewswire/ -- Run:AI, a company virtualizing AI infrastructure, today announced the general availability of its deep learning virtualization platform.",
@@ -1071,43 +1108,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-can-deep-learning-predict-coma-outcome.md",
-      "title": "Can Deep Learning Predict Coma Outcome?",
-      "excerpt": "This research is part of a growing body of literature and applications of AI into the healthcare system. For example, deep learning systems are currently used within medicine to classify certain types of injuries and interpreting X-ray images. Several other studies have noted the importance of using EEG data to complement clinical evaluation in ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.news-medical.net/health/Can-Deep-Learning-Predict-Coma-Outcome.aspx",
-      "ampWebUrl": "https://www.news-medical.net/amp/health/Can-Deep-Learning-Predict-Coma-Outcome.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/health/Can-Deep-Learning-Predict-Coma-Outcome.aspx",
-      "publishedDateTime": "2020-03-16T20:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.news-medical.net/image.axd?picture=2020%2f3%2fshutterstock_500494666_31de6d7102654c25898e235271aed01a-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": "Can Deep Learning Predict Coma Outcome?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

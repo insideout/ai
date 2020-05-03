@@ -2,6 +2,43 @@
   "page": 85,
   "value": [
     {
+      "path": "_news/2020-02-03-3-top-artificial-intelligence-stocks-to-watch-in-february.md",
+      "title": "3 Top Artificial Intelligence Stocks to Watch in February",
+      "excerpt": "Though artificial intelligence (AI) has been a hot topic among technologists for quite some time, it's only in recent years that semiconductor, software, and cloud capabilities have gotten to the point where companies are now deploying AI on a wider basis.",
+      "heat": 119,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-watch-in-february-2020-02-03",
+      "ampWebUrl": "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-watch-in-february-2020-02-03?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-watch-in-february-2020-02-03?amp",
+      "publishedDateTime": "2020-02-03T05:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg",
+          "width": 1024,
+          "height": 512,
+          "title": "3 Top Artificial Intelligence Stocks to Watch in February",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2020-02-03-elon-musk-announced-hes-hosting-a-super-fun-ai-party-hackathon-at-his-house-next-month.md",
       "title": "Elon Musk announced he's hosting a \"super fun AI party\" hackathon at his house next month",
       "excerpt": "The announcement appears to be part of a wider drive to bolster Tesla's autonomous driving division, responsible for its Autopilot feature.",
@@ -1210,51 +1247,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-01-31-why-amazons-ring-and-facial-recognition-technology-are-a-clear-and-present-danger-to-society.md",
-      "title": "Why Amazon’s Ring and facial recognition technology are a clear and present danger to society",
-      "excerpt": "Many countries today are struggling to find the proper balance between useful facial recognition and connected-camera technologies and those that threaten our privacy. We’re here to make it easy: Public-facing facial recognition or connected home-security camera systems that offer access to law enforcement are dangerous and should be banned ...",
-      "heat": 108,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/artificial-intelligence/2020/01/31/why-amazons-ring-and-facial-recognition-technology-are-a-clear-and-present-danger-to-society/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-31T14:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/01/Surveillance-hed-796x419.jpg",
-          "width": 796,
-          "height": 419,
-          "title": "Why Amazon’s Ring and facial recognition technology are a clear and present danger to society",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

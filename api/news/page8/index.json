@@ -2,6 +2,51 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-04-27-shanghai-ride-hailers-can-now-call-for-an-autox-self-driving-taxi.md",
+      "title": "Shanghai ride-hailers can now call for an AutoX self-driving taxi",
+      "excerpt": "Autonomous driving tech company AutoX has partnered with the Alibaba Group's Amap mobility platform to offer folks in Shanghai the option to hail a ride in an AutoX RoboTaxi.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://newatlas.com/automotive/amap-autox-robotaxi-automonous-shanghai/",
+      "ampWebUrl": "https://newatlas.com/automotive/amap-autox-robotaxi-automonous-shanghai/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/automotive/amap-autox-robotaxi-automonous-shanghai/?amp=true",
+      "publishedDateTime": "2020-04-27T03:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/5ced272/2147483647/strip/true/crop/6036x4024+6+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Ff9%2F64%2F1def9f2d4b9284f3202d26fdc1df%2Fautox-amap-app.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Shanghai ride-hailers can now call for an AutoX self-driving taxi",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-27-ai-startup-weve-removed-humans-from-business-negotiations.md",
       "title": "AI startup: We've removed humans from business negotiations",
       "excerpt": "But that is exactly what happened in late March this year when Estonian startup Pactum, which provides an AI-based commercial negotiation tool, was engaged by Walmart to automate negotiations with part of its global supplier network.",
@@ -1034,51 +1079,6 @@
       "topics": [
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2020-04-24-scaling-your-ai-powered-battlesnake-with-distributed-reinforcement-learning-in-amazon-sagemaker.md",
-      "title": "Scaling your AI-powered Battlesnake with distributed reinforcement learning in Amazon SageMaker",
-      "excerpt": "Battlesnake is an AI competition in which you build AI-powered snakes. Battlesnake’s rules are similar to the traditional snakes game. Your goal is to be the last surviving snake when competing against other snakes. Developers of all levels build snakes using techniques ranging from unique heuristic-based",
-      "heat": 92,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/scaling-your-ai-powered-battlesnake-with-distributed-reinforcement-learning-in-amazon-sagemaker/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-24T16:51:54-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/03/13/battlesnake-sagemaker-14.gif",
-          "width": 600,
-          "height": 423,
-          "title": "Scaling your AI-powered Battlesnake with distributed reinforcement learning in Amazon SageMaker",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

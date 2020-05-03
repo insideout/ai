@@ -2,6 +2,51 @@
   "page": 36,
   "value": [
     {
+      "path": "_news/2020-03-27-responding-to-covid-19-with-ai-and-machine-learning.md",
+      "title": "Responding to COVID-19 with AI and machine learning",
+      "excerpt": "I’m Mihaela van der Schaar, and I’m the University of Cambridge’s John Humphrey Plummer Professor of AI and machine learning in Medicine. I’m also a Turing Fellow, and Chancellor’s Professor at UCLA. Today I published a perspective paper on COVID-19. The paper is co-authored with members of the Cambridge Centre for AI in Medicine ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.linkedin.com/pulse/responding-covid-19-ai-machine-learning-mihaela-van-der-schaar/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-27T15:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C5612AQH69hdyhFprRQ/article-cover_image-shrink_720_1280/0?e=1591228800&v=beta&t=v-amgkHXhOSfGfjH5-Q0F0Sn5oP8f4zegbC1XCaZdCk",
+          "width": 1080,
+          "height": 720,
+          "title": "Responding to COVID-19 with AI and machine learning",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-27-these-machine-learning-enhanced-clips-might-be-our-only-chance-of-seeing-hd-star-trek-voyager-any-time-soon.md",
       "title": "These Machine Learning-Enhanced Clips Might Be Our Only Chance of Seeing HD Star Trek: Voyager Any Time Soon",
       "excerpt": "While there have been attempts both officially and unofficially before—What We Left Behind, the expansive, loving crowdfunded documentary for Deep Space Nine produced by former co-showrunner Ira Steven Behr, for example, managed to produce new HD clips of the show as part of its runtime, and fans had previously turned to machine learning to ...",
@@ -1188,43 +1233,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-26-uc-berkeley-covid-19-first-target-of-new-ai-research-consortium.md",
-      "title": "UC Berkeley: COVID-19 First Target Of New AI Research Consortium",
-      "excerpt": "A core value in its activities is a commitment to open-source dissemination of the results for the public good.\"",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://patch.com/california/berkeley/uc-berkeley-covid-19-first-target-new-ai-research-consortium",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-26T15:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Patch",
-        "domain": "patch.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.patchcdn.com/assets/layout/logo-patch-800x600.png",
-          "width": 800,
-          "height": 600,
-          "title": "UC Berkeley: COVID-19 First Target Of New AI Research Consortium",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

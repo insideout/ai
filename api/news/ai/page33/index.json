@@ -2,6 +2,51 @@
   "page": 33,
   "value": [
     {
+      "path": "_news/2020-03-31-machine-learning-as-a-service-mlaas-market-to-garner-overwhelming-hike-in-revenues-by-2027.md",
+      "title": "Machine Learning as a Service (MLaaS) Market to Garner Overwhelming Hike In Revenues by 2027",
+      "excerpt": "Global Machine Learning as a Service (MLaaS) Market 2020 size, share, growth, trends, consumption, production, market sales analysis by manufacturers, regions, Type and Application and forecast to 2027.",
+      "heat": 83,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-to-garner-overwhelming-hike-in-revenues-by-2027-2020-03-31",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-31T04:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Machine Learning as a Service (MLaaS) Market to Garner Overwhelming Hike In Revenues by 2027",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-31-oneconnects-gamma-lab-wins-fintech-team-of-the-year-award-at-the-asset-for-two-consecutive-years.md",
       "title": "OneConnect’s Gamma Lab Wins FinTech Team of the Year Award at The Asset for Two Consecutive Years",
       "excerpt": "(“OneConnect” or the “Company”) (NYSE: OCFT)”, a leading technology-as-a-service platform serving financial institutions in China, is pleased to announce that its artificial intelligence research institute,",
@@ -1199,51 +1244,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-30-global-computer-vision-market-2020-industry-status-segment-analysis-key-players-business-growth-and-forecast-to-2025.md",
-      "title": "Global Computer Vision Market 2020 Industry Status, Segment Analysis, Key Players, Business Growth and Forecast to 2025",
-      "excerpt": "MarketsandResearch.biz is releasing the latest insights through extensive research titled Global Computer Vision Market 2020 by Manufacturers, Countries, Type and Application, Forecast to 2025 which provides a comprehensive researched abstract of the key players with considerable shareholdings at a global level regarding demand,",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/global-computer-vision-market-2020-industry-status-segment-analysis-key-players-business-growth-and-forecast-to-2025-2020-03-30",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-30T09:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Global Computer Vision Market 2020 Industry Status, Segment Analysis, Key Players, Business Growth and Forecast to 2025",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

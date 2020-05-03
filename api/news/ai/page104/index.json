@@ -2,6 +2,51 @@
   "page": 104,
   "value": [
     {
+      "path": "_news/2020-01-14-lg-hones-focus-on-ai-car-platforms-with-cerence-and-luxoft.md",
+      "title": "LG hones focus on AI car platforms with Cerence and Luxoft",
+      "excerpt": "The South Korean electronics maker has also extended its partnership with Microsoft as part of plans to move further into the commercial space. LG said it will leverage Microsoft Azure and AI services to enhance its management systems to enable its Building Energy Control (BECON) system to manage and control heating, ventilation, and air ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/lg-hones-focus-on-ai-car-platforms-with-cerence-and-luxoft/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/lg-hones-focus-on-ai-car-platforms-with-cerence-and-luxoft/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/lg-hones-focus-on-ai-car-platforms-with-cerence-and-luxoft/",
+      "publishedDateTime": "2020-01-13T18:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/01/14/fa1a0cb0-0104-41aa-b836-0541476b2854/lg-cerence-partnership.jpg",
+          "width": 3000,
+          "height": 1997,
+          "title": "LG hones focus on AI car platforms with Cerence and Luxoft",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-01-13-ag-tech-startup-small-robot-is-seeking-700000-on-crowdcube-to-continue-development-of-autonomous-robot-ai-software.md",
       "title": "Ag-Tech Startup Small Robot Is Seeking £700,000 on Crowdcube to Continue Development of Autonomous Robot & AI Software",
       "excerpt": "using an autonomous robot and their AI software to deliver a weed map to paying customers. “Imagine a world in which we could use swarms of lightweight, smart machines to replace tractors and ...",
@@ -1221,51 +1266,6 @@
           "width": 1920,
           "height": 1152,
           "title": "China tests world’s first high-speed driverless bullet train at a speed of 350 km successfully",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-01-11-robotaxis-will-be-available-as-soon-as-2022-self-driving-tech-supplier-mobileye-ceo-says.md",
-      "title": "Robotaxis will be available as soon as 2022, self-driving tech supplier Mobileye CEO says",
-      "excerpt": "Self-driving cars will start with fleet operators before general use due to regulatory and cost constraints “that you cannot put on a consumer,” he said in a “Mad Money” interview. “If more cars will be autonomous,",
-      "heat": 100,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnbc.com/2020/01/10/self-driving-tech-developer-mobileye-ceo-robotaxis-will-come-in-2022.html",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/01/10/self-driving-tech-developer-mobileye-ceo-robotaxis-will-come-in-2022.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/01/10/self-driving-tech-developer-mobileye-ceo-robotaxis-will-come-in-2022.html",
-      "publishedDateTime": "2020-01-10T20:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106331425-1578694177734shashua_amnon_mm_20200110_img_1027.jpg?v=1578694283",
-          "width": 5795,
-          "height": 3863,
-          "title": "Robotaxis will be available as soon as 2022, self-driving tech supplier Mobileye CEO says",
           "attribution": null
         }
       ],

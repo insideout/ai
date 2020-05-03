@@ -94,14 +94,14 @@
     {
       "path": "_news/2020-05-01-fueling-driverless-navigation-with-ai.md",
       "title": "Fueling driverless navigation with AI",
-      "excerpt": "When navigation comes into play, AI can help to give drivers the very best directions, despite the complexity of the route.  Pierluigi Casale is Group Data Scientist at TomTom. Powerful, accurate maps can be created by deep learning models,",
-      "heat": 105,
+      "excerpt": "Generally, Artificial Intelligence (AI) helps to make products and procedures more efficient, but it also handles intricate tasks that can’t be easily managed by humans. When navigation comes ...",
+      "heat": 104,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.techradar.com/uk/news/fueling-driverless-navigation-with-ai",
-      "ampWebUrl": "https://www.techradar.com/uk/amp/news/fueling-driverless-navigation-with-ai",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/uk/amp/news/fueling-driverless-navigation-with-ai",
-      "publishedDateTime": "2020-05-01T03:21:00-07:00",
+      "webUrl": "https://www.techradar.com/news/fueling-driverless-navigation-with-ai",
+      "ampWebUrl": "https://www.techradar.com/amp/news/fueling-driverless-navigation-with-ai",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/fueling-driverless-navigation-with-ai",
+      "publishedDateTime": "2020-05-01T03:20:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TechRadar",
@@ -382,6 +382,35 @@
           "attribution": null
         }
       ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-29-self-driving-vehicles-get-in-on-the-delivery-scene-amid-covid-19.md",
+      "title": "Self-driving vehicles get in on the delivery scene amid COVID-19",
+      "excerpt": "SAN FRANCISCO, April 29 (Reuters) - Self-driving cars, trucks, sidewalk robots and shuttles are rolling out of the labs and parking garage",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nasdaq.com/articles/self-driving-vehicles-get-in-on-the-delivery-scene-amid-covid-19-2020-04-29",
+      "ampWebUrl": "https://www.nasdaq.com/articles/self-driving-vehicles-get-in-on-the-delivery-scene-amid-covid-19-2020-04-29?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/self-driving-vehicles-get-in-on-the-delivery-scene-amid-covid-19-2020-04-29?amp",
+      "publishedDateTime": "2020-04-29T09:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
       "locale": "en-us",
       "categories": [
         "news"
@@ -1257,51 +1286,6 @@
           "width": 1200,
           "height": 959,
           "title": "Cruise Commits To Delivering The Holy Grail: Self-Driving EVs Powered Entirely By Renewable Energy",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-22-americans-remain-super-skeptical-of-evs-self-driving-cars.md",
-      "title": "Americans remain super skeptical of EVs, self-driving cars",
-      "excerpt": "JD Power's latest survey shows confidence in both electric cars and self-driving technology started to fall even before the coronavirus pandemic.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnet.com/roadshow/news/ev-self-driving-survey-skeptical-americans/",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/ev-self-driving-survey-skeptical-americans/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ev-self-driving-survey-skeptical-americans/",
-      "publishedDateTime": "2020-04-22T09:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cnet1.cbsistatic.com/img/2Gr2Oyn5xtHNf_PXRKKOiPtjivU=/2018/06/07/ba35851f-811f-48c2-9c8b-65cbba20aaae/2018-chevrolet-bolt-ev-charging-port-ogi.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": "Americans remain super skeptical of EVs, self-driving cars",
           "attribution": null
         }
       ],

@@ -2,6 +2,51 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2020-04-05-us-blocks-amazon-efforts-to-stop-shareholder-votes-on-facial-recognition.md",
+      "title": "US blocks Amazon efforts to stop shareholder votes on facial recognition",
+      "excerpt": "One proposal would require Amazon to cease offering facial recognition ... that might result from the service, known as Rekognition. Both proposals face uphill battles to receive a majority ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2019/04/05/us-blocks-amazon-efforts-to-stop-shareholder-votes-on-facial-recognition.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2019/04/05/us-blocks-amazon-efforts-to-stop-shareholder-votes-on-facial-recognition.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2019/04/05/us-blocks-amazon-efforts-to-stop-shareholder-votes-on-facial-recognition.html",
+      "publishedDateTime": "2020-04-04T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/104409576-GettyImages-522170209.jpg?v=1532563864",
+          "width": 2000,
+          "height": 1333,
+          "title": "US blocks Amazon efforts to stop shareholder votes on facial recognition",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-04-artificial-or-human-intelligence-companies-faking-ai.md",
       "title": "Artificial Or Human Intelligence? Companies Faking AI",
       "excerpt": "Some companies are choosing to approach these AI challenges not by scaling back their AI ambitions, but rather by using humans to do the task that they are otherwise trying to get their AI systems to",
@@ -975,51 +1020,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-03-washington-state-passes-new-facial-recognition-legislation.md",
-      "title": "Washington state passes new facial recognition legislation",
-      "excerpt": "Microsoft has long been calling for stricter regulation of facial recognition technology, and now is revealing the progress it has made since its 2018 call for the government to publicly regulate the technology. Since their public call in 2018, a number of countries have banned or put moratoriums on the use of the technology, but none have ...",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://sdtimes.com/msft/washington-state-passes-new-facial-recognition-legislation/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-03T09:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SD Times",
-        "domain": "sdtimes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://sdtimes.com/wp-content/uploads/2020/04/blackbackground.png",
-          "width": 1920,
-          "height": 1080,
-          "title": "Washington state passes new facial recognition legislation",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

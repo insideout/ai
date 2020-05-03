@@ -2,6 +2,44 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2020-04-10-deltec-bank-bahamas-says-machine-learning-will-transform-the-banking-sector.md",
+      "title": "Deltec Bank, Bahamas says Machine Learning Will Transform the Banking Sector",
+      "excerpt": "Innovation” Machine Learning Uses Three Structures to Produce Improvements – Deltec Bank Machine learning is a prerequisite feature",
+      "heat": 83,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/04/ab15784506/deltec-bank-bahamas-says-machine-learning-will-transform-the-banking-sector",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/15784506",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15784506",
+      "publishedDateTime": "2020-04-10T15:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.abnewswire.com/uploads/7d1cdecfaa1f9896ac0a4752d6ed7d1c.jpg",
+          "width": 600,
+          "height": 352,
+          "title": "Deltec Bank, Bahamas says Machine Learning Will Transform the Banking Sector",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2020-04-10-ai-training-helps-remote-controlled-buggy-negotiate-rugged-terrain.md",
       "title": "AI training helps remote-controlled buggy negotiate rugged terrain",
       "excerpt": "The work is preliminary, but it might hold promise for autonomous vehicle companies that rely chiefly on camera footage to train their navigational AI. U.K.-based Wayve is in that camp, as are Tesla, Mobileye, and Comma.ai. The researchers’ work combines elements of model-free and model-based AI training methods into a single graph to ...",
@@ -1214,50 +1252,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-10-artificial-intelligence-a-new-genre-of-music.md",
-      "title": "Artificial Intelligence: A New Genre of Music",
-      "excerpt": "they all sing one same song today. And that is the song of AI. Artificial Intelligence has widely gained popularity in the music tech industry in the recent few years. The reasons behind this rise in the uptake of AI in core music streaming application tech is because of some obvious, and yet some other not-so-obvious reasons: Each artist held ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.entrepreneur.com/article/349030",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/349030",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/349030",
-      "publishedDateTime": "2020-04-09T21:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/20150722213730-jazz-music-musicians-orchestra.jpeg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": "Artificial Intelligence: A New Genre of Music",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

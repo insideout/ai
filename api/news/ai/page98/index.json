@@ -2,6 +2,44 @@
   "page": 98,
   "value": [
     {
+      "path": "_news/2020-01-20-ai-chipset-market-is-expanding-due-to-adoption-of-industrial-automation.md",
+      "title": "AI Chipset Market is Expanding Due to Adoption of Industrial Automation",
+      "excerpt": "Chipset Market: By Component, [Hardware (Processors, CPU, GPU, ASIC, FPGA, Memory and Network) and Software). By Technology [ (Machine Learning, Natural Language Processing, and Others (Deep Learning and Computer Vision)] – Forecast Till 2023 Artificial Intelligence Chipset Market Research Report- Forecast till 2023 A white box server can be referred to as the computer framework in large data centers.",
+      "heat": 106,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/01/ab15149083/ai-chipset-market-is-expanding-due-to-adoption-of-industrial-automation",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/15149083",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15149083",
+      "publishedDateTime": "2020-01-20T03:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.abnewswire.com/uploads/1579519636.jpeg",
+          "width": 417,
+          "height": 455,
+          "title": "AI Chipset Market is Expanding Due to Adoption of Industrial Automation",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2020-01-20-the-3-as-of-ai-a-way-out-avlbl-fr-rl-and-autmtd-dn.md",
       "title": "The 3 A’s of AI: A Way Out Avаіlаblе fоr Rеаl and Autоmаtеd Dесіѕіоnѕ",
       "excerpt": "Although thеrе are several factors driving thе adoption оf artificial іntеllіgеnсе, thе mоѕt іmроrtаnt оnе іѕ іtѕ capability to make real and аutоmаtеd decisions. This is driven by the 3A’s of AI: Aѕѕіѕtеd,",
@@ -1244,51 +1282,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-17-amazon-web-services-enlists-ai-to-help-nasa-get-ahead-of-solar-superstorms.md",
-      "title": "Amazon Web Services enlists AI to help NASA get ahead of solar superstorms",
-      "excerpt": "That’s the upshot of a project that has NASA working with AWS Professional Services and the Amazon Machine Learning Solutions Lab to learn more about the early warning signs of a solar superstorm, with the aid of artificial intelligence. Solar storms occur when disturbances on the sun’s surface throw off a blasts of radiation and eruptions ...",
-      "heat": 102,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.geekwire.com/2020/amazon-web-services-enlists-ai-help-nasa-get-ahead-solar-superstorms/",
-      "ampWebUrl": "https://www.geekwire.com/2020/amazon-web-services-enlists-ai-help-nasa-get-ahead-solar-superstorms/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/amazon-web-services-enlists-ai-help-nasa-get-ahead-solar-superstorms/amp/",
-      "publishedDateTime": "2020-01-17T14:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2017/09/170906-sun-flare-630x505.jpg",
-          "width": 630,
-          "height": 505,
-          "title": "Amazon Web Services enlists AI to help NASA get ahead of solar superstorms",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

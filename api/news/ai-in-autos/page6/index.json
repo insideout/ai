@@ -2,6 +2,43 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-03-20-the-impactful-role-of-ai-in-mobile-app-development.md",
+      "title": "The Impactful Role of AI in Mobile App Development",
+      "excerpt": "driverless, earth-moving vehicles. The perks aren’t just limited to this, it enables clients to see machine data and observe framework on their iOS and Android mobile phones or tablets. The growth curve of AI in mobile app development According to Statista, by the year 2025, the growth of the Artificial Intelligence (AI) software market ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://yourstory.com/mystory/impactful-role-ai-mobile-app-development",
+      "ampWebUrl": "https://yourstory.com/mystory/impactful-role-ai-mobile-app-development/amp",
+      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/mystory/impactful-role-ai-mobile-app-development/amp",
+      "publishedDateTime": "2020-03-19T17:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Your Story",
+        "domain": "yourstory.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://lh3.googleusercontent.com/a-/AOh14GhpNN87cfKPOxK5gBMpO01Xq87Dw_O39FUU8GJevA",
+          "width": 512,
+          "height": 512,
+          "title": "The Impactful Role of AI in Mobile App Development",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-19-artificial-intelligence-for-edge-devices-market-detailed-analysis-and-growth-prospects-for-next-5-years.md",
       "title": "Artificial Intelligence for Edge Devices Market Detailed analysis and growth prospects for Next 5 Years",
       "excerpt": "Advance Market Analytics recently introduced Global Artificial Intelligence for Edge Devices Market study with in-depth overview, describing about the Product / Industry Scope and elaborates market outlook and status to 2025.",
@@ -1117,43 +1154,6 @@
           "width": 750,
           "height": 500,
           "title": "Farewell to the old assembly line: Automation is changing manufacturing processes in the automotive industry",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-12-ai-is-failing-women-that-needs-to-change.md",
-      "title": "AI is Failing Women. That Needs to Change.",
-      "excerpt": "From robots and voice recognition to smart fridges and driverless cars – artificial intelligence is becoming widespread – but will these advancements meet the requirements of both men and women? Without diversity, the answer is no, writes Shawn Tan, CEO of AI ecosystem builder Skymind Global Ventures. Women and men don’t hold the same ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cbronline.com/opinion/ai-is-failing-women",
-      "ampWebUrl": "https://www.cbronline.com/opinion/ai-is-failing-women/amp/",
-      "cdnAmpWebUrl": "https://www-cbronline-com.cdn.ampproject.org/c/s/www.cbronline.com/opinion/ai-is-failing-women/amp/",
-      "publishedDateTime": "2020-03-12T03:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computer Business Review",
-        "domain": "cbronline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.cbronline.com/wp-content/uploads/2020/03/miguel-bruna-TzVN0xQhWaQ-unsplash-1024x587.jpg",
-          "width": 1024,
-          "height": 587,
-          "title": "AI is Failing Women. That Needs to Change.",
           "attribution": null
         }
       ],
