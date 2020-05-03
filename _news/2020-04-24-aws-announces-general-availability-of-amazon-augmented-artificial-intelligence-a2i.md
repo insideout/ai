@@ -1,29 +1,25 @@
 ---
 category: news
 title: "AWS Announces General Availability of Amazon Augmented Artificial Intelligence (A2I)"
-excerpt: "that allow machine learning predictions from Amazon Rekognition and Amazon Textract to be human-reviewed more easily. Developers who build custom machine learning models in Amazon SageMaker (or ..."
-publishedDateTime: 2020-04-24T14:17:00Z
-webUrl: "https://www.marketwatch.com/press-release/aws-announces-general-availability-of-amazon-augmented-artificial-intelligence-a2i-2020-04-24"
+excerpt: "Amazon Web Services (AWS), an Amazon.com company (NASDAQ: AMZN), announced the general availability of Amazon Augmented Artificial Intelligence"
+publishedDateTime: 2020-04-24T17:26:00Z
+webUrl: "https://www.businesswire.com/news/home/20200424005488/en/AWS-Announces-General-Availability-Amazon-Augmented-Artificial"
 type: article
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+  - url: "https://mms.businesswire.com/media/20200424005488/en/787122/23/AWS_logo_RGB.jpg"
     width: 1200
-    height: 630
+    height: 627
     title: "AWS Announces General Availability of Amazon Augmented Artificial Intelligence (A2I)"
 
-secured: "jnST7IUKTWS5UDU5g2idGHPyOH1h9ramJqGFk0ll92fBYjYhik56kuzjlPrhO1cDfHcMgIiFJvA44zyAyt0Xsj0XXwRqGzmVl/wj2lm6l/sRoh0oSjS5/mcbDRoBlFyDDOZM/o9DdH5AlF6lc/y7Lp8g0symWNiUCBg2zPfg52Gtrz6wFrwdHZF/RAUxYb7zKD5frp/W982Aq/ghi6RYDzaQSte1112d97liI3rF96RdfI20gkKeqE+2pljGDWWfeRU+TNz1y07YHH1n4mxiV6K82houQIRGmIcvrC4qgXySgX38jk2U6YhBBJOG3n4H;hArLOyU3TBvbuWcOZCToTQ=="
+secured: "zkPY1Xw9ada1y9B5dA8DhPbs5z3WHzuZaF0gyEsBTbGWqZHzR3ksTMP3LhktbVjHFdF1q9X0F2ECmHEQGmbf52hfwg7mak/sYVQXZ1X1HwTpaqKAXxeQs7APnw6QvVEtp9kI4V3TJmXgYH6Zn0HYDy/N7PhWTuwXB00ksuEpOaXTp37U3jBn4jyQFEqygP7dMgfsEKHBx/C6nlbBMKrRgPLWsPLUb2tojvgNFl9lNobZ9rQXyoQfKef0TGbjVKXnSpgICVzMTM7139Jip4TwG5kU/B379vUC8N+HoGa6pP5y80V9rIV4m1dBOcGgBe8p;O9dYSAlwLMx1m+Qd6ySyNA=="
 ---
 
