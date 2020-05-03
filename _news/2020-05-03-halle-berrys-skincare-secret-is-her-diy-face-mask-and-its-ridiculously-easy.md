@@ -23,6 +23,6 @@ images:
     height: 682
     title: "Halle Berry’s Skincare Secret Is Her DIY Face Mask and It’s Ridiculously Easy"
 
-secured: "Tb5T0PegHmZjw942/7eQmvQfipRLWPZfZeVtVhfWa4OctxHkftCJxxShr4LcQUxadgexsTd+dDOjG0bvjqMv5BKB1A2HawzRSdYeZ0ggLgCZ5gGZaSzx7y0gVCy0SjqFDp9ze4IfZkNHEcCPXFP9YWPTEaWtoZH0P/2MPzwvF+q+iQBN5U++0gGbbnOGX8/jPiwIZcB+ZgLsCikGcitMop/yrzEodIfqFaYrpdrHiPWygKkuWdrCD2P9L5L7h6BSWvjRr6KxjEvBJiQG3lZqiRlZmEaIEsr8loj9xlk6JvuAPZ1eEss/KTli3EbtCq/t;ZNPCW8HYq+FX6QIRkdTTdw=="
+secured: "AcVbrzhhx+AEjkRphYzVCU2UZlHLtM844KieoC9h/w0vr0kFDbNaGmwPBwZKmOvgRhZ4w0c32Mrk4+YGTR3xyuRZnybrydf+EFMnfVaOq9voiLkixFYQqUoySn2hadTtImxxZGyHp5m9aHjnUOBmSBtqMDlKgS6+8Itgskh9KMUsHqXIbzrAw96HAUkTPQh0K1KaNUZVgiHFD4+YukjOCQbcsr5p1M7aWbbNq9jkHJWrVz33S8TXHA5G8fGadvsDPnan+mASbCqx2M0E/36b9BOTRqvq1RnyvyIEcAHHnaVzs3I+c8Vlh+wwjM63Ui9bQJIeeN96J5Wc0sKaOP8TJxX2xmPa+cekL6rpU5FxdfpM9SXkMcU1kl0PAcQ5b98fbC9nvHfbhLo/vbW9kZM8E6Yp3QMkckEjFK2J67/2pVQh+gJpSDs15ZqoJb4uECCNxZRA55dPB/8NWKGaMI+QGeByFGWTOv+QXWd+dOKRFiw=;kh6QXchxxAhLiz3F4+V3eA=="
 ---
 

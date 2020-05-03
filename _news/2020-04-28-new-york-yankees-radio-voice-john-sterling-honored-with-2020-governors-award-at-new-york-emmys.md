@@ -20,6 +20,6 @@ images:
     height: 600
     title: "New York Yankees Radio Voice John Sterling Honored With 2020 Governor's Award At New York Emmys"
 
-secured: "4GrS6hbF+BfYMX+ktwwMLkH8icc0k/phfwFiyiQfVeCm+d3UEPK8LHJ/03ewV12nVqHLWGHHmiuIg3aJl9PfBCbT1/Jw4wEP0IHiXV346nCpEo+SVExU95sHwng1Lt/W+2uZvgmjM513feiftfwaHGUac0ZS6wJHADIrlmZTBedC9ozjBxXbyy16eokDj+ob1x5D3C/DramoaLHaEvLmzYs1uAmtWUHiE4fBBo1t9s2FmsWFShm6R8hwLZGOHxuF2F0rvgoSImpaIABjmVmuOeUlfMBnUoqm+ABprbcDTuMpP6CBkTRnuQ6ChJ5kjMEj;6NOpNJ4/9v3MQ9nK31eftQ=="
+secured: "Dz4vAHKDAEdoDZpXGyySo34WlVzgs+pGssvZ1GjyaOZYVwDvt38OsVHil+1ktwLxw7TpK1suxzKTzWgSxos6RPwj7EFt4/MN9YuDPiCnUmrqUwWO7pqc7k8wDMwGxpC4oKak4CZ2iXXeMzEehW1zRc75YcYocqZLO4pqRsG3yuUaIWgzWI55iqAZhLNIA9Ak+kueNNifKU4ALOGWdIgvCW52wfbSeo0NuZvGTEbVQgwFbtwVdDt10iZ8Z+0cveo/HVT+RyLeW7Gd8fmh1ouB0G77SMMxo/+AER+Eh00MEwV35U4z/BTNfZl3grieaerk5tVyXpvaNL70vFH55THlw879dK1Gv3hEib+CyVaQrkx2eb57BIWRI6teJENcws/4d5/EFg2Qw+38eNKmw+vmm4ZtE/CrRVnDi1ucrmmMWGlpXm4IUX35+GsMPooS/aOzrQ6H78+36WOCTGIVjB6J+GaZktd0pDeSu1rO+JH4RTU=;yIiQD67DMtw2sCw+D9fU5Q=="
 ---
 

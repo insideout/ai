@@ -8,7 +8,7 @@ ampWebUrl: "https://amp.theatlantic.com/amp/article/611050/"
 cdnAmpWebUrl: "https://amp-theatlantic-com.cdn.ampproject.org/c/s/amp.theatlantic.com/amp/article/611050/"
 type: article
 quality: 74
-heat: 74
+heat: 75
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     height: 321
     title: "The Easy Questions That Stump Computers"
 
-secured: "jlkhf+2WWWeDr7g5R5WA23//cT7+OBTex7eeMOLegYoRO5p0JTOPpC8blvrkiwlD1OlyEI/SB66tEZj9+YsX/e+dqWQohQik28JLakH8hURhGIA+sj0nSPGQqHxj0XzMhX4jYgH4SzmV64EV/eM/FzKEUsXGGF6nnad+ok1OoCoi2vZrPmAO+gvvK7TqCZchLzjBlNyYv4Gi9J9rbptq4MwVpbm0tTPOQFl2nr2nXD+jJbFuFoCQ/ZP7PMXLB94gTw2PODhqGRVPvbfDaPFarKuwWboZSHsk0YXna4qBFvrrbk5bB8KRB591lu9Z2A7L;y8n0XjtRrjHGVQepl24uig=="
+secured: "+te66Tyh+SQZWHrUoxzRkBR1xAWLqY+PUGBXo+DtEMjYK0jMNcZkAtfQ3gvLAUuBlklJlKi0nstI3n+IZnHgKN15/zrt/cxDLaeRMqSgcxkMdjLo7/yaJcbENFl0Vk9BOhFjtwVx3F5CH4QqPgtc1zqCJwmBOONut7U3h4eKlgB61PZRrgQlaUvk3YI9AgAy/axVzJg7dBv70yoCTqhzWsvp6ej+fWQfG+nTzz8rQxuzFhh9tBMTf5KpTHp/V28t9bgybcXU9E/yg7eZvfI9PoXrWXjYGnx1amlGAgCIZSVB35PkRQwmHrvkKvFliNLzXWE9gHW9mg+WDhLS5zDYC0hCour2Z6atb4C+RhBJPWLW/vUlMGk2kUPgR8R9+/8fPHmcUMmTdhovotQU17HeUG/TmYVfpkf56JHMMgoPLvsbwuGYPV6uA/jJDJLrnzrkp+UAh8jyZCpIQ+9AfwL3u2lmD9WlHAsTSfW9FunU30Q=;3BqCmzHMoBeyvwHMIOltYg=="
 ---
 

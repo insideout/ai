@@ -8,7 +8,7 @@ ampWebUrl: "https://thenextweb.com/neural/2020/05/01/drug-discovery-might-be-the
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/05/01/drug-discovery-might-be-the-best-use-of-ai-to-tackle-the-pandemic/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:
@@ -28,6 +28,6 @@ images:
     height: 417
     title: "Drug discovery might be the best use of AI to tackle the pandemic"
 
-secured: "8ImDT5swizf9+oNS0aDBdtwn1MtCzlDibJRvWliGgUNkhYK5nedCzMvj3JTsFBRhZZNY6lJAUezq14ZMA3MFNw74aZCIlEu6zVPk18ngUX5aAKgznQnVYLaVzBFKcxuIliI/AohdHxj72xg7QmnPJMJOkyL6srCKqRMwTzDdIp93zbVd/o8fcBwGyBj89FUcFRaoZuioA4/SqLqlIreLF6P8J1cgYHuNrsOFBwrVnHqZ/3OS0+X1iYbVpfiLor7K/VhjGZDv2DpcNUYSnXbANHXgm5Bs5Lo7TKDcntQJrBrkoo75uwT9MQ7p/jKLjuTxfHCjX+JSdIyzQ1p1I6cpF0A1XlAsnfZrbHbpI4L4TFkvdcGaNE7MAcT0SdhGs6e2GHrTH0hkBXzQ4uGu44TEYYti/cA6ykObULj8+8jm4STnKNOnhpWCEBBJLB0S9EMsZqnPgzjpBAwpQZ88mUrlcjHfi3FOOc9qC+PlQIdoEPk=;vdiew6hjwvjrGxGIvvekhw=="
+secured: "tYA/PWr9+eiDtNIewRSy+2f2Z2T0qbj6dn78AuXUHF1YdPVof/kCk/VCnBKV8l0kTKzAFn+BV/0SPWEabR0E+dy44HxYzogTZBpIMNvEFfyDj28WNESEiDqrHoHE7OKCXHhmBpIcRWdifinS7LhCFl7j3UVqfsvhovt8ElM0+edZvSIKfyOVMnVrzDAK5k1yVsmQchGW6gSQiN6M8HzVdKfvAIMKDKHUB0RMPPxA1fW/fFzpep9uutX6jprCb7XVEMrWa1pyd7xLdOqHg1ePEdXH8MhZR8OgFDD/NRx95FrYMq5NHcKtvLgFEi4irgzvO2wFIFvZ9juBx1iF6/ah4XzGr27Yndwtp4Gzl4FMQLHJ+MQM7vRW0/6aaBQ/BuNPvmDxpfPbpKufZaFwK1GWIW53o53NcAEGxcUkYLLblGXkCsoPT7l/8PxltS2sMXTxNILJ+ixdacLJw4qsQ0nBUAvEyOAionH3WIV5w+SpxIE=;jYnIOLFWgMclTKIjH+7k4w=="
 ---
 
