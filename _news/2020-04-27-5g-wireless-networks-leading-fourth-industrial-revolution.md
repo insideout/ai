@@ -1,15 +1,12 @@
 ---
 category: news
 title: "5G wireless networks leading fourth industrial revolution"
-excerpt: "Driverless vehicles are rated based on their ... from the likes of Boston Dynamics in the U.S or the advances made in artificial intelligence (AI) from global players. Beyond the obvious risk ..."
+excerpt: "Network providers around the globe are launching 5G networks that can connect the handful of available 5G-capable devices. Currently, very few devices are connected to these new networks, allowing providers to tout headline grabbing download speeds of 1 Gbps plus."
 publishedDateTime: 2020-04-27T10:12:00Z
-webUrl: "https://www.techradar.com/uk/news/5g-wireless-networks-leading-fourth-industrial-revolution"
-ampWebUrl: "https://www.techradar.com/uk/amp/news/5g-wireless-networks-leading-fourth-industrial-revolution"
-cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/uk/amp/news/5g-wireless-networks-leading-fourth-industrial-revolution"
+webUrl: "https://www.techradar.com/news/5g-wireless-networks-leading-fourth-industrial-revolution"
+ampWebUrl: "https://www.techradar.com/amp/news/5g-wireless-networks-leading-fourth-industrial-revolution"
+cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/5g-wireless-networks-leading-fourth-industrial-revolution"
 type: article
-quality: 74
-heat: 74
-published: true
 
 provider:
   name: TechRadar
@@ -29,6 +26,6 @@ images:
     height: 675
     title: "5G wireless networks leading fourth industrial revolution"
 
-secured: "rxZoln9FxEXuedk8D5flkl2+LyA68su+lguTnOjMiuRlJzCgs56qj3BvEMK+vu/UI6RB85w7JPVlz7vzKiOSz2lbvx9ATDG1xP9Oo+vZa5Sx3P7AOBC0PrpAR/sL64iEnYjkcmSecUB5gphOkPwfJd41M6pMoTzZQYG/JwyFflJ4Fl2TyFOSdIFLFZV9WNZ0XQebJVlDxJjFT9+VfZ5nk8aYYQrHz0bHer9yfczJ9LX6KPipGGneSxYNchXGU4taVATyfrWT/t2tGHwe5ETtEGwY9hW6sudOuI28CJ7jRZm03wqlF471br+OewfUxamnRzFSCsxBMteQQ7J+Nnfja4Tsf/kHyTgPV7Z0xZ9VaolA21HcIGQo21bcxwR+ckIezgM5LJ95tYBxuxIAri4jyOs2Imi1dJEy03Ugf6KAqZA3MWKyGI+3NF05hRfM7LFkqykg1sC7LmbA4U1vR01R0mTUNErTPldxcZo7amVgmQ0=;A15ePzOv3/CBAdNmnzTSaA=="
+secured: "YCTQF3GurA7b3gs6BkTmIyV+rs0TnZtPTDmVD75sdu/oyKxhxk1ALYHUFL1OUmWkhqCJjS3N30razThbMIWh92DIQH0tKJEDMZZ1o8l9UyltvRhL+Yx4oor9ufW5mNcqsmfW+1CQUQ/rpG+w9REXZmbX9IRlruHqn37Rql/mvdtRXHpgYshCTmowt9pi7uhbSdxJWPMxk06KJ3VeB1fD7tzpy39BHXXI9vXtPWf1jMaL/Ed6s+My37CU4thEqFQZBL2RERzC7j1WMlAUoP9AZehrEPjPMSxIzKCHxwzZHl5VOohzDUz0x/rTvbgBv0cz;c/ThpfaRNxcU4duwSZOYXQ=="
 ---
 

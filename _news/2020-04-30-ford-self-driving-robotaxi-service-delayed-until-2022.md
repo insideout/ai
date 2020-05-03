@@ -8,8 +8,8 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/ford-robotaxi-self-driving-flee
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ford-robotaxi-self-driving-fleet-delayed-2022/"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 84
+published: true
 
 provider:
   name: CNET
@@ -30,21 +30,19 @@ images:
     title: "Ford self-driving robotaxi service delayed until 2022"
 
 related:
-  - title: "Ford delays self-driving taxis to 2022"
-    excerpt: "Ford is putting the future of autonomous driving on hold until 2022 as it grapples with the COVID-19 pandemic."
-    publishedDateTime: 2020-04-28T23:26:00Z
-    webUrl: "https://www.engadget.com/ford-delays-self-driving-taxis-to-2022-231030762.html"
-    ampWebUrl: "https://www.engadget.com/amp/ford-delays-self-driving-taxis-to-2022-231030762.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/ford-delays-self-driving-taxis-to-2022-231030762.html"
+  - title: "Ford Postpones Self-Driving Vehicle Service Until 2022"
+    excerpt: "Chuck Martin , Staff Writer, Yesterday ; The global pandemic is taking its toll on the development of self-driving vehicles. Ford is now pushing the launch of its self-driving"
+    publishedDateTime: 2020-04-29T21:38:00Z
+    webUrl: "https://www.mediapost.com/publications/article/350712/ford-postpones-self-driving-vehicle-service-until.html"
     type: article
     provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 74
+      name: MediaPost
+      domain: mediapost.com
+    quality: 24
     images:
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-04%2Ffaaa14f0-899e-11ea-afdf-5a87c7809954&client=amp-blogside-v2&signature=0b6f392a8bccfb903035225147ea3a24dd7fe351"
+      - url: "https://s3.amazonaws.com:443/media.mediapost.com/dam/cropped/2020/04/29/fordautonomic_T7gy3Wf.jpg"
         width: 600
-        height: 350
+        height: 375
 
 secured: "bdsvF/dh4wNL9vGsV7HyuU79pIu0Xpw1NqD2gbnQc56CBrq5mh5Gc49KuDAXniks+r4lQBr9DND7HABtcrJIKjAZlRHFYGkqj+CUC/WO5EZaS9U4PqWstk+iC6kC9VgNi4AfPQEyHBjVMTcWmzlHlMZWxd238hRLGwGqgVZYE9IDNUq3KagjeQXJvFGU39Zce7659USvmHqpLfg+ICYO/I1TF+e6+jCHWMpXj/rE0Sdd+cc8FS4i5WZAhCAGGcKtGSqKgvIkB+NkhcMg6lF4e7X1O2ZFzzg4sYqX/85YidRu7EneAocgz2Dizm7N0u9PjQpFLR8DIGLwONWibs/Bl+H7XdErvAMUIjHNVsIa9aRzgbIqezB4tnImp/8br6vVHF7MtSbFBXmk3douM0oLBcXykLgcc0cjiYe7QXKXZXqyILlsgTvIdjZEPJtSHzfLAeR3wxVx2ocm98N9dRUyL6yL2P36cKMi3+taDhbIB/o=;pOkPZ9E/vEhyn7fNVr48oA=="
 ---

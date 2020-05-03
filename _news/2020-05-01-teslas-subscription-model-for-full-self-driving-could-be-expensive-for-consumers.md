@@ -6,7 +6,7 @@ publishedDateTime: 2020-05-01T23:19:00Z
 webUrl: "https://www.consumerreports.org/autonomous-driving/teslas-subscription-model-for-full-self-driving-could-be-expensive-for-consumers/"
 type: article
 quality: 14
-heat: -1
+heat: 14
 published: false
 
 provider:
@@ -16,21 +16,6 @@ provider:
 topics:
   - AI in Autos
   - AI
-
-related:
-  - title: "Tesla Source Code Reveals A Subscription Model For Its Self-Driving Car"
-    excerpt: "A few weeks back it was announced that Tesla was planning on increasing the price of its eventual Full Self-Driving Package. A dig through the source code has now revealed that a pay-as-you-go subscription service is also in the works -- and it's a damn good"
-    publishedDateTime: 2020-04-28T23:28:00Z
-    webUrl: "https://www.gizmodo.com.au/2020/04/tesla-self-driving-subscription-model/"
-    type: article
-    provider:
-      name: Gizmodo Australia
-      domain: gizmodo.com.au
-    quality: 39
-    images:
-      - url: "https://edge.alluremedia.com.au/m/g/2019/06/tesla-model-3-sunset.jpg"
-        width: 1280
-        height: 720
 
 secured: "xQ4F9VuCCWmY/N7IGt3ok/TrWarSVieeLNS70li68mR7uNzW7CvolykafgUUsUtZGeAeWb9JH+v9nHESEJSZX7nOETfIN8tO+YmFkMiiYqm45+LiMP/3UchyypFCl0yH7Cq0udzW1qHZVYfq4/pfOZST/Kg7Xm3gs8LOVgvSfmc8j6NYoUErm+GszNgS0hoNtcC74bv7ABPDqAG0B+Fg+btHXhU6fujjJe+4FIUkBxXCR0sYLzckPDQFp3p7G5i5VsoW7//Cr9or+CE1adwmUv55WY12QAnBbZFLkOvuNGeunAbBtJULweAWWRNFMt5igr7zmOoWXhIr7Kd9h8Nei523PImgTwm5+qeqp403sHlg7GawGN0nl1HKQ5+9RnIzyfG9iONWKNbDrBZzRb8suHaBp15XKad4m5SiBGkwVGyrlvBph2mx/05Hu67uFuQFJnZ5aU/ID4tM2HaB6otSLxkn205hlrZxNnDjXPjxmz8=;uXVy95TuX5AISbebgAdEEQ=="
 ---
