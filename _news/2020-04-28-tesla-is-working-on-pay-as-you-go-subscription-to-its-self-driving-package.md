@@ -8,7 +8,7 @@ ampWebUrl: "https://electrek.co/2020/04/28/tesla-pay-as-go-subscription-self-dri
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/04/28/tesla-pay-as-go-subscription-self-driving-package/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,21 +30,6 @@ images:
     title: "Tesla is working on pay-as-you-go subscription to its self-driving package"
 
 related:
-  - title: "Audi abandons self-driving plans for current flagship"
-    excerpt: "Audi is abandoning plans to upgrade its flagship A8 sedan with Level 3 autonomous driving, blaming patchy legislation rather than technological shortcomings for the decision. Announced back in"
-    publishedDateTime: 2020-04-28T14:14:00Z
-    webUrl: "https://www.slashgear.com/audi-a8-traffic-jam-pilot-level-3-cancelled-tech-self-driving-legislations-28618493/"
-    ampWebUrl: "https://www.slashgear.com/audi-a8-traffic-jam-pilot-level-3-cancelled-tech-self-driving-legislations-28618493/amp/"
-    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/audi-a8-traffic-jam-pilot-level-3-cancelled-tech-self-driving-legislations-28618493/amp/"
-    type: article
-    provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 74
-    images:
-      - url: "https://scdn.slashgear.com/wp-content/uploads/2020/04/audi-traffic-assist-pilot-1.jpg"
-        width: 1680
-        height: 1120
   - title: "Self-Driving Startups Work Through Health Crisis"
     excerpt: "Just like the rest of the industry, trucking companies working to commercialize autonomous heavy-duty trucks are adapting to the uncertainties and disruptions caused by the coronavirus."
     publishedDateTime: 2020-04-28T21:00:00Z

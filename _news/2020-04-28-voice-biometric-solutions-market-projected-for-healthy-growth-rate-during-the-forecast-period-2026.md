@@ -41,19 +41,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Artificial Intelligence in Agriculture Market Worth $4.0 Billion by 2026 - Exclusive Report by MarketsandMarkets™"
-    excerpt: "According to the new market research report \"Artificial Intelligence in Agriculture Market by Technology (Machine Learning, Computer"
-    publishedDateTime: 2020-04-28T13:30:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-in-agriculture-market-worth-4-0-billion-by-2026--exclusive-report-by-marketsandmarkets-301048222.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 18
-    images:
-      - url: "https://mma.prnewswire.com/media/660509/MarketsandMarkets_Logo.jpg?p=facebook"
-        width: 666
-        height: 350
 
 secured: "zQOikEJEHvZqs4R/m1piZ1wmnkRDlT1hH51vsqCk25G32/Bsdko4niyUrF3qoUiCe/Hpx5iJpCuS+ZPU8TULJUbMQMne4guufDVlhdcatXccFh5JqoLflWpIw24jlmZwwf62hCLwwLSFnH3+9R2q1iZWOR22xXnCTE2dEeU/7lLDyZ6sFVM/UuVdbG2X6PV0m7CzRscaC8/7zCYTD0CrB5cLcD0fEf9hSScCRhmVWs3yjTeD1K0tDU88iePiMPAlywo1hxqemySq1R31iOJHBye40RX2lPPIp9EDqp11q4YnmhIvF5v07AjcBeLPX5tT;hFnSA0EB8ImRXAgSBANAdg=="
 ---
