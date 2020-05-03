@@ -5,8 +5,8 @@ excerpt: "(U.S.), are the leading providers of neural network software in the gl
 publishedDateTime: 2020-05-02T02:16:00Z
 webUrl: "https://www.marketwatch.com/press-release/neural-network-software-marketproduct-application-regiongrowth-trends-and-forecast-to-2023-2020-05-01"
 type: article
-quality: 56
-heat: 56
+quality: 58
+heat: 58
 published: false
 
 provider:
@@ -20,6 +20,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Autos
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

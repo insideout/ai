@@ -28,6 +28,6 @@ images:
     height: 400
     title: "Use automated ML in an Azure Machine Learning pipeline in Python"
 
-secured: "nVGQOII1vPMnCqYLCKM0AcQ1RUk+GqT+HEvn35GI+9xgt4qdTxi0gRTBaQJRCTRbYo4iJb44XpNZ3pB/YhpoR8Vij2CHKPQkZ/ybNqi2ht/R4Cv7lMYUiuqcjHPKKhqckBb890nN6/dbIba4dyD4NHALddS9VpRYLHpk6ybQNp5qgZKYLHyNzJfVL/vGuw58JbIiF9ThJxOoBajNnrpB7czbWwfzCVr/1Qy9hk4dzelhyIORaImu8RyYDVW+ECKPMlO63bHlzWtgLBylEUvnlRqn46biDAwutAI6EjASb1hfJy3zRomntdDod2uiU+ob;63zTkMzBc+gOiFm8+Unnew=="
+secured: "u/YCo9ZsYQ+GOkWgkN9Eye6kDHIL23NM4aA3VLHK7QaYVzy9XAjW1RAwpB8k5qXzt24uIOQu/TCW2jsN78kp6fD8h4/n0lU6B1HYcyGqveicCyjIR0xMQy93rNMg1BXIuNbSPAzAFJkYM2JyWJ+Izm/YJOPFf1xNpkEJ9ZEx7CBkR03eLYpxLM7LWGEDozUG1VTGAY+iKEiUcDVlwAFXu/Qp/HmZ+PLSyE/6+fmgn9ttGT9oDkxwxMHAMkm2cq1gDlZzc8q2YKa9BjbbZJuuiy2nOFtmA7GgDAAsipxSv80B3z6AffceqHrp5pjSOGVb;htnuun+KLGJ9JHZ4RWuY1w=="
 ---
 

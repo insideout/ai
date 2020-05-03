@@ -2,6 +2,236 @@
   "page": 47,
   "value": [
     {
+      "path": "_news/2020-03-17-artificial-intelligence-helps-prevent-disruptions-in-fusion-devices.md",
+      "title": "Artificial intelligence helps prevent disruptions in fusion devices",
+      "excerpt": "An international team of scientists led by a graduate student at the U.S. Department of Energy's (DOE) Princeton Plasma Physics Laboratory (PPPL) has demonstrated the use of Artificial Intelligence (AI), the same computing concept that will empower self-driving cars, to predict and avoid disruptions -- the sudden release of energy stored in the ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.eurekalert.org/pub_releases/2020-03/dppl-aih031720.php",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-17T12:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.eurekalert.org/multimedia/pub/web/227200_web.jpg",
+          "width": 1440,
+          "height": 523,
+          "title": "Artificial intelligence helps prevent disruptions in fusion devices",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-17-the-army-will-soon-be-able-to-command-robot-tanks-with-artificial-intelligence.md",
+      "title": "The Army Will Soon Be Able to Command Robot Tanks With Artificial Intelligence",
+      "excerpt": "Smaller robots such as IED-clearing PackBots have been in existence for more than a ... machine interface are reinforced by an interesting 2015 essay in the “International Journal of Advanced Research in Artificial Intelligence,” which points to networking, command and control and an ability to integrate with existing technologies as ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://nationalinterest.org/blog/buzz/army-will-soon-be-able-command-robot-tanks-artificial-intelligence-133932",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-17T12:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The National Interest",
+        "domain": "nationalinterest.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://nationalinterest.org/sites/default/files/main_images/A49%20%281%29_0.jpg",
+          "width": 1305,
+          "height": 835,
+          "title": "The Army Will Soon Be Able to Command Robot Tanks With Artificial Intelligence",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-17-azure-admins-cold-sweat-likely-caused-by-a-isolated-power-problems-that-browned-out-west-central-usa-region.md",
+      "title": "Azure admins' cold sweat likely caused by a 'isolated' power problems that browned out West Central USA region",
+      "excerpt": "That upgrade from Java 8 to 11 you've been putting off? UK fintech types at Revolut 'quite happy' after a year in production As if the world doesn't have enough to worry about right now, Azure users with resources running in the Microsoft cloud's Central West USA region have just enjoyed an outage. The problem took out virtual machines and SQL ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.theregister.co.uk/2020/03/15/azure_outage_west_central_usa/",
+      "ampWebUrl": "https://www.theregister.co.uk/AMP/2020/03/15/azure_outage_west_central_usa/",
+      "cdnAmpWebUrl": "https://www-theregister-co-uk.cdn.ampproject.org/c/s/www.theregister.co.uk/AMP/2020/03/15/azure_outage_west_central_usa/",
+      "publishedDateTime": "2020-03-17T12:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Register",
+        "domain": "theregister.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://regmedia.co.uk/2018/09/13/shutterstock_panic.jpg",
+          "width": 648,
+          "height": 432,
+          "title": "Azure admins' cold sweat likely caused by a 'isolated' power problems that browned out West Central USA region",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-17-artificial-intelligence-for-the-diagnosis-of-diabetic-retinopathy-an-interview-with-michael-d-abramoff-md-phd.md",
+      "title": "Artificial Intelligence for the Diagnosis of Diabetic Retinopathy: An Interview With Michael D. Abramoff, MD, PhD",
+      "excerpt": "Michael D. Abramoff, MD, PhD, is the Robert C. Watzke, MD Professor of ophthalmology and visual sciences at the University of Iowa Carver College of Medicine. He is also a professor of electrical and computer engineering and a professor of biomedical engineering at the University of Iowa.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.ajmc.com/newsroom/artificial-intelligence-for-the-diagnosis-of-diabetic-retinopathy-an-interview-with-michael-d-abramoff-md-phd",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-17T11:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The American Journal of Managed Care",
+        "domain": "ajmc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://hraresearch.s3.amazonaws.com/_media/_core/ajmc-twitter-logo.jpg",
+          "width": 1667,
+          "height": 1667,
+          "title": "Artificial Intelligence for the Diagnosis of Diabetic Retinopathy: An Interview With Michael D. Abramoff, MD, PhD",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-17-javascript-face-detection-with-face-apijs.md",
+      "title": "JavaScript Face Detection with face-api.js",
+      "excerpt": "The face-api.js JavaScript module implements convolutional neural networks to solve for face detection and recognition of faces and face landmarks. The face-api.js leverages TensorFlow.js and is optimized for the desktop and mobile web. As explained by face-api.js creator Vincent Mühler, face recognition with deep learning is a detailed ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.infoq.com/news/2020/03/face-api-js/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-17T11:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoQ",
+        "domain": "infoq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://res.infoq.com/news/2020/03/face-api-js/en/headerimage/faceapi-1584401193144.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": "JavaScript Face Detection with face-api.js",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-17-google-translate-launches-transcribe-for-android-in-8-languages.md",
+      "title": "Google Translate launches Transcribe for Android in 8 languages",
+      "excerpt": "Transcribe will begin by rolling out support for eight languages in the coming days: English, French, German, Hindi, Portuguese, Russian, Spanish and Thai. With Transcribe, Translate is now capable of translating classroom or conference lectures with no time limits, whereas before speech-to-text AI in Translate lasted no longer than a word ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/03/17/google-translate-launches-transcribe-for-android-in-8-languages/",
+      "ampWebUrl": "https://venturebeat.com/2020/03/17/google-translate-launches-transcribe-for-android-in-8-languages/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/17/google-translate-launches-transcribe-for-android-in-8-languages/amp/",
+      "publishedDateTime": "2020-03-17T10:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/09/google-logo-offices-london.jpg?fit=2000%2C1000&strip=all",
+          "width": 2000,
+          "height": 1000,
+          "title": "Google Translate launches Transcribe for Android in 8 languages",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-17-google-translates-real-time-transcription-feature-is-out-now-for-android.md",
       "title": "Google Translate’s real time transcription feature is out now for Android",
       "excerpt": "Google Translate’s new transcription feature, first demoed back in January, is out now for Android users as part of an update to the artificial intelligence-powered mobile app. The feature will allow you to record spoken words in one language and transform them into translated text on your phone,",
@@ -902,212 +1132,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-with-painted-faces-artists-fight-facial-recognition-tech.md",
-      "title": "With painted faces, artists fight facial recognition tech",
-      "excerpt": "As night falls in London, Georgina Rowlands and Anna Hart start applying makeup. Instead of lipstick and eyeliner, they’re covering their faces with geometric shapes. Rowlands has long narrow blue triangles and thin white rectangles criss-crossing her face.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.pressofatlanticcity.com/business/ap/with-painted-faces-artists-fight-facial-recognition-tech/article_02a8e5a7-fbb9-5373-b709-0ea722c0406b.html",
-      "ampWebUrl": "https://www.pressofatlanticcity.com/business/with-painted-faces-artists-fight-facial-recognition-tech/article_02a8e5a7-fbb9-5373-b709-0ea722c0406b.amp.html",
-      "cdnAmpWebUrl": "https://www-pressofatlanticcity-com.cdn.ampproject.org/c/s/www.pressofatlanticcity.com/business/with-painted-faces-artists-fight-facial-recognition-tech/article_02a8e5a7-fbb9-5373-b709-0ea722c0406b.amp.html",
-      "publishedDateTime": "2020-03-17T03:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Press of Atlantic City",
-        "domain": "pressofatlanticcity.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/pressofatlanticcity.com/content/tncms/assets/v3/editorial/b/75/b75ab181-5b9b-5c17-bb85-ed0894c739a1/5e42e53a5ff29.image.jpg?resize=1024%2C738",
-          "width": 1024,
-          "height": 738,
-          "title": "With painted faces, artists fight facial recognition tech",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-mccs-azure-based-ai-solution-detects-eerie-silence.md",
-      "title": "MCC’s Azure-based AI solution detects eerie silence",
-      "excerpt": "After two years of careful design and another two of intense deployment and ongoing refinement, a sophisticated Azure-based AI solution at the Melbourne Cricket Club (MCC) is possibly feeling a little confused by an entirely new and unexpected sound triggered after teams score or players are dismissed on the field: crickets. As the coronavirus ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cio.com/article/3532277/mcc-s-azure-based-ai-solution-detects-eerie-silence.html",
-      "ampWebUrl": "https://www.cio.com/article/3532277/mcc-s-azure-based-ai-solution-detects-eerie-silence.amp.html",
-      "cdnAmpWebUrl": "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/3532277/mcc-s-azure-based-ai-solution-detects-eerie-silence.amp.html",
-      "publishedDateTime": "2020-03-17T03:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CIO",
-        "domain": "cio.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2020/03/cio-street-sign-cricket-ground-by-ctrphotos-gettyimages-516114501-100835591-large.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "MCC’s Azure-based AI solution detects eerie silence",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-why-sd-wans-need-artificial-intelligence.md",
-      "title": "Why SD-WANs Need Artificial Intelligence",
-      "excerpt": "A driver still needs to be present. That is, until fully autonomous vehicles become a reality. Self-driving cars will rely on understanding road rules and use artificial intelligence (AI) to make decisions without drivers. Data will be constantly fed into the automobile, so as conditions change, so too will the AI-based decisions. The same is ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.networkworld.com/article/3532473/why-sd-wans-need-artificial-intelligence.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-17T03:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Network World",
-        "domain": "networkworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2020/03/istock-1051617224-100835456-large.3x2.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "Why SD-WANs Need Artificial Intelligence",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-knives-out-tech-tackles-violent-crime.md",
-      "title": "Knives out: tech tackles violent crime",
-      "excerpt": "“This means that in a crowded environment like a train station or shopping centre, video-recognition systems that are enhanced by AI-powered threat-object recognition software can be used to identify and flag forbidden objects such as knives,” he says.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://eandt.theiet.org/content/articles/2020/03/knives-out-tech-tackles-violent-crime/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-17T03:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IET",
-        "domain": "theiet.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://eandt.theiet.org/media/10910/gettyimages-175224409-2048x2048_440107723754523852.jpg?crop=0.0000000000000013895057943753,0.27276577721304568,0,0.22691656077932973&cropmode=percentage&width=1200&height=450&rnd=132288417420000000",
-          "width": 1200,
-          "height": 450,
-          "title": "Knives out: tech tackles violent crime",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-venture-capitalist-tim-draper-bitcoin-decentralization-and-artificial-intelligence-could-transform-global-industries.md",
-      "title": "Venture Capitalist Tim Draper: Bitcoin, decentralization and artificial intelligence could transform global industries",
-      "excerpt": "WELCOME We use cookies to enhance your experience like remembering your Time Zone. We have updated our privacy policy please check our Terms&Conditions Accept and Continue Industries that could be transformed using decentralization,",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.fxstreet.com/cryptocurrencies/news/venture-capitalist-tim-draper-bitcoin-decentralization-and-artificial-intelligence-could-transform-global-industries-202003170949",
-      "ampWebUrl": "https://www.fxstreet.com/amp/cryptocurrencies/news/venture-capitalist-tim-draper-bitcoin-decentralization-and-artificial-intelligence-could-transform-global-industries-202003170949",
-      "cdnAmpWebUrl": "https://www-fxstreet-com.cdn.ampproject.org/c/s/www.fxstreet.com/amp/cryptocurrencies/news/venture-capitalist-tim-draper-bitcoin-decentralization-and-artificial-intelligence-could-transform-global-industries-202003170949",
-      "publishedDateTime": "2020-03-17T02:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FXStreet",
-        "domain": "fxstreet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-natural-language-processing-market-growth-opportunity-size-share-and-forecast-2019-2025.md",
-      "title": "Natural Language Processing Market Growth, Opportunity, Size, Share and Forecast 2019-2025",
-      "excerpt": "Natural Language Processing (NLP) market is growing tremendously owing to growing applications in artificial intelligence and machine learning technology. NLP technology supports computer to ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.openpr.com/news/1970701/natural-language-processing-market-growth-opportunity-size",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-17T02:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

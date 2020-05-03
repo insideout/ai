@@ -28,6 +28,6 @@ images:
     height: 600
     title: "LinkedIn’s AI generates candidate screening questions from job postings"
 
-secured: "lsgp/mSbqdIcMhL4JcIAH+AgiEs2xgD/oLqrumvPMYQu1XPTAyr/ReoBMICfIxDaYMWbM12OHNAykDWyNeDmLkiSg9yOGXrqvlmOIFrLYXfYmBXrtvF0pl+xM8zq6uFBXTn8gL61JCYFeIzsBqr8wGMLEEbVtHQ4N8jYgiZxBmhwkj761gki8gA28mrcUz7Ry/joEixlYSAheRhCyS4xWQQxOG1UpCFh0ROnNax5Ni842fZM2jP2acflAL1rhU6vnOcMsfV7PFz5HjgzEPdclU26GOSlSmVtUzHKVYt+TVhMbemcJWjnHcwl3sLz9ptC;+0JsIL5kFjbMvgZ0qxYtnA=="
+secured: "8jYY7JdIi3S+tk+ERdBCtCIpGrbAiVLC1B8O0JbBnHLOVqHoFkMA9oSNzTQK000nevWiHTZX8O/1c+hecKgnmfYHx742NS3fasbDv3WAIIcih2urechXKIPeymYRRc2vEQXJhHL+Piky3ssrBI3niV6N+4BKHErvzpkb0WovIUGFnv13tYzNloyjTRYyFPQefSG/TS56WYRCYfnZbHnYHj8YiOtCOrIEO2lBppHzVIxojeB6cJx5g2tq95tip2OCTuwXu9iHDUbtBLjEP9+h7FXQ76NcvkRaSpv8eKcSPA9uCETMVgfXIgnbIl5Bijq/;Lol5ikYPtz2fytO95ns1EA=="
 ---
 

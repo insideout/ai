@@ -1,26 +1,19 @@
 ---
 category: news
 title: "AWS Announces General Availability of Amazon Augmented Artificial Intelligence (A2I)"
-excerpt: "Amazon Web Services (AWS), an Amazon.com company (NASDAQ: AMZN), announced the general availability of Amazon Augmented Artificial Intelligence"
-publishedDateTime: 2020-04-24T17:26:00Z
-webUrl: "https://www.businesswire.com/news/home/20200424005488/en/AWS-Announces-General-Availability-Amazon-Augmented-Artificial"
+excerpt: "that allow machine learning predictions from Amazon Rekognition and Amazon Textract to be human-reviewed more easily. Developers who build custom machine learning models in Amazon SageMaker (or other on-premises or cloud tools) can set up human review for ..."
+publishedDateTime: 2020-04-24T17:27:00Z
+webUrl: "https://stockhouse.com/news/press-releases/2020/04/24/aws-announces-general-availability-of-amazon-augmented-artificial-intelligence"
 type: article
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Stockhouse
+  domain: stockhouse.com
 
 topics:
   - AWS AI
   - AI
-  - AI in Healthcare
 
-images:
-  - url: "https://mms.businesswire.com/media/20200424005488/en/787122/23/AWS_logo_RGB.jpg"
-    width: 1200
-    height: 627
-    title: "AWS Announces General Availability of Amazon Augmented Artificial Intelligence (A2I)"
-
-secured: "GSeuJVH0KGY8+0rfEacdsijS6U1yPZzHPjHa831+tHhBzxTNEoL6fsH4yRkRBG6+22bsejLZ2VyAvo4a+HDYeIMJeStHFwufjiJcF1OPCRTfwQfDYT8uFBGpptwPPnONrlaWF5hsJSPMyFEN/VQhE+aqS2j8K+ApNClR+HjY82FC/NzHrEkMht66KgqYkMEGe1MCwJ8El9IZmFsz1Lds/zHdCV7dS+d2KNhg/TvJkyA3j5Wi5fT1259ms6KckG1ZATAXi+2V3OS4mmoF4wZh18du0L4qhOG4KduKYypGwFaJMUzRuzi/A/l6vrmJ4iNZ;SkRX3GDzWgz1uB/DKcZzCQ=="
+secured: "s5G5cry4l2xCMHaMsp5uUNwTghMOJd2yhlCFjSuIvAtrv1AHpUOts6n2zz5Cmn2Q/GzeICAh61N6T4wuZN5C3fKh3WylytCa43OWDowXZfy0X+cEMePSW7Aa6aTKk9Pgf6VhtKy+W1lTHNKAtOMNJzyOyqI44KlHJYhqEbpX3lJMe0MyijXs0zexwsd8Pk4nhmeWUD84n5nx2zA6YsfdJVrQ1lkGJFieW1IFhL9CiJKut+iIJ//aecQgsr7OKzLJ6HPB74X7XNF65WaDXjF6ptNFZGYSJSHrNknfkNlTi6HDfNQM+Pmj1XVmJpNH+PSH;bL+q4plMk2ByxXiEeWDxYg=="
 ---
 
