@@ -1,26 +1,29 @@
 ---
 category: news
 title: "AWS Announces General Availability of Amazon Augmented Artificial Intelligence (A2I)"
-excerpt: "Amazon Web Services (AWS), an Amazon.com company (NASDAQ: AMZN), announced the general availability of Amazon Augmented Artificial Intelligence"
-publishedDateTime: 2020-04-24T17:26:00Z
-webUrl: "https://www.businesswire.com/news/home/20200424005488/en/AWS-Announces-General-Availability-Amazon-Augmented-Artificial"
+excerpt: "that allow machine learning predictions from Amazon Rekognition and Amazon Textract to be human-reviewed more easily. Developers who build custom machine learning models in Amazon SageMaker (or ..."
+publishedDateTime: 2020-04-24T14:17:00Z
+webUrl: "https://www.marketwatch.com/press-release/aws-announces-general-availability-of-amazon-augmented-artificial-intelligence-a2i-2020-04-24"
 type: article
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI in Healthcare
-  - AI
   - AWS AI
+  - AI
 
 images:
-  - url: "https://mms.businesswire.com/media/20200424005488/en/787122/23/AWS_logo_RGB.jpg"
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
-    height: 627
+    height: 630
     title: "AWS Announces General Availability of Amazon Augmented Artificial Intelligence (A2I)"
 
-secured: "+dkoewMN/LlX9zZWRNCL1NTnNrf7YOmehwEZikH/iiOxMf0UTf4lLvtUtZ/bm6R0zCm16CWweCxqikurdeiKix6NiGG25LrjM85ObuB7c8M8kkjrGJCiaBDeR4CDNURpXaSXhRCLgyw+1QtkYLbDCOcbcmv0jsW9+7jYHWt1vMhJjg7GsmKS5PVLivVrAISA0D0y6CraxiDKdqT0gvmFmAYqZpE51nitM7Yhmgt9RqlL8sbEI1nUYwgwq6CW9bZXM6wOLMgXHQoTl8EyGJdQcA6pWm3qXi85M7zApDUo94/OYCpBNIq2c/Ayu7BfaC7B;U66mvV5If1TlO3fzSh+2Bg=="
+secured: "jnST7IUKTWS5UDU5g2idGHPyOH1h9ramJqGFk0ll92fBYjYhik56kuzjlPrhO1cDfHcMgIiFJvA44zyAyt0Xsj0XXwRqGzmVl/wj2lm6l/sRoh0oSjS5/mcbDRoBlFyDDOZM/o9DdH5AlF6lc/y7Lp8g0symWNiUCBg2zPfg52Gtrz6wFrwdHZF/RAUxYb7zKD5frp/W982Aq/ghi6RYDzaQSte1112d97liI3rF96RdfI20gkKeqE+2pljGDWWfeRU+TNz1y07YHH1n4mxiV6K82houQIRGmIcvrC4qgXySgX38jk2U6YhBBJOG3n4H;hArLOyU3TBvbuWcOZCToTQ=="
 ---
 

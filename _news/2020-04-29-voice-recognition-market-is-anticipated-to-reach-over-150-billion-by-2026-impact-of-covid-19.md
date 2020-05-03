@@ -28,6 +28,19 @@ images:
     title: "Voice Recognition Market is anticipated to reach over $150 billion by 2026 , Impact of COVID-19"
 
 related:
+  - title: "Voice Biometric Solutions Market: Projected For Healthy Growth Rate During The Forecast Period 2026"
+    excerpt: "According to a new market report published by Transparency Market Research, the global voice biometric solution market is expected"
+    publishedDateTime: 2020-04-28T15:39:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-biometric-solutions-market-projected-for-healthy-growth-rate-during-the-forecast-period-2026-2020-04-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 40
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
   - title: "Artificial Intelligence in Agriculture Market Worth $4.0 Billion by 2026 - Exclusive Report by MarketsandMarkets™"
     excerpt: "According to the new market research report \"Artificial Intelligence in Agriculture Market by Technology (Machine Learning, Computer"
     publishedDateTime: 2020-04-28T13:30:00Z

@@ -37,6 +37,19 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Voice Biometric Solutions Market: Projected For Healthy Growth Rate During The Forecast Period 2026"
+    excerpt: "According to a new market report published by Transparency Market Research, the global voice biometric solution market is expected"
+    publishedDateTime: 2020-04-28T15:39:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-biometric-solutions-market-projected-for-healthy-growth-rate-during-the-forecast-period-2026-2020-04-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 40
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
 
 secured: "TqE1lN59GlwiVRIE4FC64lti/B8Qmba235/0KGa8e97r71guVVti/TWybZsJBv0pxs6brjlEwIpZfad9vKsZs4III/McFWjnyYywerm9RcCH5H2v/taVcUviumYdhg0WnwOQzsf0JG2cV/0zGyNk1jmFuiTnAhJ8tFuJTAVLr0sCrScAb6jK9QBYvGE+xbLQhwUV7XHs10MLjNtrc5hgX1+pS8yU+CmTAv4PuaeqMNI9gbJpSEg4H46VpwjahigF9JraYKXPokLZ5/ddf5vakGvCBv2vzek5ky+nTAT8cJIKlo8qY8SAQ5upZ1reyzaMj6bgYxuwg3wFQidnPgS2UvC/ECjxB2ppezEabjZRKjZOtnMO/VmsQJOkwy1J85jYOnaPGjty1gvzYGmBtClVfN+ZQcEOV17/E6y/Lz5HP/OBzRgdf4jmEV3cL/BHCSumQF64ygG8b2oianNUe2vwSCsbCMD1kShmglkkaBIdfy0=;08OsZIhb/7b+ClomrR5T/A=="
 ---

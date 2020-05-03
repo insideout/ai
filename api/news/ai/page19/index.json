@@ -2,6 +2,125 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2020-04-13-3m-funding-for-coronavirus-research.md",
+      "title": "$3m funding for coronavirus research",
+      "excerpt": "ARTIFICIAL intelligence software to improve coronavirus diagnosis around the world and other critical research will be fast-tracked under new Federal Government funding. Health Minister Greg Hunt ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.couriermail.com.au/coronavirus/3m-funding-for-coronavirus-research/news-story/065b5118cd43dce48a17e4c9840d96a9",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-12T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Courier-Mail",
+        "domain": "couriermail.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-13-chinese-tech-titan-baidu-acquires-us-start-up-to-boost-driverless-car-efforts.md",
+      "title": "Chinese tech titan Baidu acquires US start-up to boost driverless car efforts",
+      "excerpt": "The company's latest move follows a series of ventures into artificial intelligence ... Google - which introduced its own driverless car, Waymo, back in 2009. It also opens a window of opportunity ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2017/04/13/chinese-tech-titan-baidu-acquires-us-start-up-to-boost-driverless-car-efforts.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2017/04/13/chinese-tech-titan-baidu-acquires-us-start-up-to-boost-driverless-car-efforts.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2017/04/13/chinese-tech-titan-baidu-acquires-us-start-up-to-boost-driverless-car-efforts.html",
+      "publishedDateTime": "2020-04-12T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/102789256-182034207.jpg?v=1529468820",
+          "width": 2000,
+          "height": 1333,
+          "title": "Chinese tech titan Baidu acquires US start-up to boost driverless car efforts",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-13-fashion-that-will-hide-you-from-face-recognition-technology.md",
+      "title": "Fashion that will hide you from face-recognition technology",
+      "excerpt": "A pair of recent papers out of Institut Eurécom discussed improvements in facial recognition in cases where the face is occluded by clothing or accessories. Object recognition systems can ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://io9.gizmodo.com/how-fashion-can-be-used-to-thwart-facial-recognition-te-1495648863",
+      "ampWebUrl": "https://io9.gizmodo.com/how-fashion-can-be-used-to-thwart-facial-recognition-te-1495648863/amp",
+      "cdnAmpWebUrl": "https://io9-gizmodo-com.cdn.ampproject.org/c/s/io9.gizmodo.com/how-fashion-can-be-used-to-thwart-facial-recognition-te-1495648863/amp",
+      "publishedDateTime": "2020-04-12T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "io9.gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/19bq4btbxr3ipjpg.jpg",
+          "width": 800,
+          "height": 400,
+          "title": "Fashion that will hide you from face-recognition technology",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-12-how-to-reduce-the-unemployment-gap-with-ai.md",
       "title": "How To Reduce The Unemployment Gap With AI",
       "excerpt": "McKinsey & Company's recent article, A new AI-powered network, is helping workers displaced by the coronavirus crisis provides context around the scope of challenges involved in closing the unemployment gap.",
@@ -1114,141 +1233,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-10-amazon-workers-demand-jeff-bezos-cancel-face-recognition-contracts-with-law-enforcement.md",
-      "title": "Amazon Workers Demand Jeff Bezos Cancel Face Recognition Contracts With Law Enforcement",
-      "excerpt": "Earlier this week, several Amazon shareholders called on the company to stop selling Rekognition to the police. That backlash has now spread among employees as well. “Our company should not be ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://gizmodo.com/amazon-workers-demand-jeff-bezos-cancel-face-recognitio-1827037509",
-      "ampWebUrl": "https://gizmodo.com/amazon-workers-demand-jeff-bezos-cancel-face-recognitio-1827037509/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/amazon-workers-demand-jeff-bezos-cancel-face-recognitio-1827037509/amp",
-      "publishedDateTime": "2020-04-10T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/jisipsq6ktedkeynkmhh.jpg",
-          "width": 800,
-          "height": 449,
-          "title": "Amazon Workers Demand Jeff Bezos Cancel Face Recognition Contracts With Law Enforcement",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-10-facebook-guess-well-disclose-the-whole-face-recognition-thing-since-we-have-to.md",
-      "title": "Facebook: Guess We'll Disclose the Whole Face Recognition Thing (Since We Have To)",
-      "excerpt": "an applied research lead of Facebook AI. Instead, everyone will now have the face recognition setting that the company initially rolled out to some users in 2017, and which the company has claimed ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://gizmodo.com/facebook-guess-well-disclose-the-whole-face-recognitio-1837850800",
-      "ampWebUrl": "https://gizmodo.com/facebook-guess-well-disclose-the-whole-face-recognitio-1837850800/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/facebook-guess-well-disclose-the-whole-face-recognitio-1837850800/amp",
-      "publishedDateTime": "2020-04-10T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/culuy8aqdwfivc2vvfsb.jpg",
-          "width": 800,
-          "height": 448,
-          "title": "Facebook: Guess We'll Disclose the Whole Face Recognition Thing (Since We Have To)",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-10-ignore-elon-musk-and-mark-zuckerbergs-war-over-killer-robots-the-real-challenge-is-already-here.md",
-      "title": "Ignore Elon Musk and Mark Zuckerberg's War Over Killer Robots, the Real Challenge Is Already Here",
-      "excerpt": "Tech giants Elon Musk and Mark Zuckeberg have been engaged in a very public, somewhat silly and self-indulgent battle over artificial intelligence ... he thinks the Facebook head just doesn ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://gizmodo.com/ignore-elon-musk-and-mark-zuckerbergs-war-over-killer-r-1797249927",
-      "ampWebUrl": "https://gizmodo.com/ignore-elon-musk-and-mark-zuckerbergs-war-over-killer-r-1797249927/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/ignore-elon-musk-and-mark-zuckerbergs-war-over-killer-r-1797249927/amp",
-      "publishedDateTime": "2020-04-10T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/k068hm9apd1dbdpxluss.jpg",
-          "width": 800,
-          "height": 450,
-          "title": "Ignore Elon Musk and Mark Zuckerberg's War Over Killer Robots, the Real Challenge Is Already Here",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

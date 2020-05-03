@@ -3,12 +3,12 @@ category: news
 title: "Fueling driverless navigation with AI"
 excerpt: "When navigation comes into play, AI can help to give drivers the very best directions, despite the complexity of the route.  Pierluigi Casale is Group Data Scientist at TomTom. Powerful, accurate maps can be created by deep learning models,"
 publishedDateTime: 2020-05-01T10:21:00Z
-webUrl: "https://www.techradar.com/sg/news/fueling-driverless-navigation-with-ai"
-ampWebUrl: "https://www.techradar.com/sg/amp/news/fueling-driverless-navigation-with-ai"
-cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/sg/amp/news/fueling-driverless-navigation-with-ai"
+webUrl: "https://www.techradar.com/uk/news/fueling-driverless-navigation-with-ai"
+ampWebUrl: "https://www.techradar.com/uk/amp/news/fueling-driverless-navigation-with-ai"
+cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/uk/amp/news/fueling-driverless-navigation-with-ai"
 type: article
 quality: 104
-heat: 104
+heat: 105
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     height: 545
     title: "Fueling driverless navigation with AI"
 
-secured: "sdMuqvabE7m8p5L6pnGAvTIBuxM9qspSE0Jrcz/7M6bRzL/Ulm/6GjXsDkHOSktkbq5MLietMCbGs3uCtEPD7ybUxm2D5NW4kAu7xrY8K9m5ok+iaQp8WhkJn6gi7V8R0Cl+R4o3YwSZQYFIOkPBkDKmnvSbfFKSp+nCUs4EUeyZhE5MkVsFQOELF7D8K2L9vwL3tgjBx/8Iv8GBO+TPSSyp9vnGBvIAEssVrQXF9QkZtUoBnw6kxJB1N7tPDnk4ZHUCNtL56MWcRqnzAl4j4NBPHmlpx3uPIyZYZnDqgbJhAM5ZQBlLuTHL7GE7HHeJ;pCOH/uREvJWK8+NhBY7PDQ=="
+secured: "ldKUzj2L+jHuKSaVIJHLIb8GxSDbv8bC+VleG4I8+AMl6Lt8DrDm59fRn/U7K+fFpJrrKxCoa8ZJs42lYfhv+FB830viq7dID+Ch7BV2Il+il0JxzQcyTNCkzhQsHbPe0EdLjdJVMmqi+oC2ux3VjgBGajRxJmk1iAFTK5a4PO5HCNcrVIz2gz+lcY1r14GMonY1H5qT0eMdbg2kn2SGLGBejTQTIWuAjSalFY20o1+J1OxDsC22TujISthk8IJo6oGmHA/X2iJFaKE9R6Libn3EjQ+fSZVEGBpAecUydGZbBYZ5i30w7QDC8hDXrs+f;ptIqHpvb1A39L216h121vA=="
 ---
 
