@@ -1,11 +1,11 @@
 ---
 category: news
 title: "Intel teases enthusiast gaming Xe GPU with 'tens of billions of transistors'"
-excerpt: "Judging by the fact Raja Koduri refers to the chip as the \"baap of all\", a term the Intel India team have been using in reference to the Intel Xe HP architecture, it sure looks a lot like Intel's prototype enthusiast and workstation GPU."
+excerpt: "It's more likely an Intel Xe GPU set to release in 2021, and it's just been teased by the Intel Odyssey team and Intel chief architect Raja Koduri on Twitter as a good fit for \"battle-fielding and b-floating\"."
 publishedDateTime: 2020-05-01T16:32:00Z
-webUrl: "https://www.pcgamer.com/intel-xe-hp-gpu-prototype/"
-ampWebUrl: "https://www.pcgamer.com/amp/intel-xe-hp-gpu-prototype/"
-cdnAmpWebUrl: "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/amp/intel-xe-hp-gpu-prototype/"
+webUrl: "https://www.pcgamer.com/au/intel-xe-hp-gpu-prototype/"
+ampWebUrl: "https://www.pcgamer.com/au/amp/intel-xe-hp-gpu-prototype/"
+cdnAmpWebUrl: "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/au/amp/intel-xe-hp-gpu-prototype/"
 type: article
 quality: 56
 heat: 56
@@ -25,6 +25,6 @@ images:
     height: 675
     title: "Intel teases enthusiast gaming Xe GPU with 'tens of billions of transistors'"
 
-secured: "b+evhgxp5AAwr7DN/vwRbSv8WrHhhBDFiL99NNA7h2k6HiWmMOyp3MA9NC1xFrWAh0mHq20V2rmU0WBMO4qgJJMULEc688WjS05GIOsoWsOjNFAHYukrTSBLAWrdSfvR0CXUW0FXx3CRG84jtpifm/AjFBE41v5m9LXsOuyf0RdB8x6afyNMCHThuzyBIBlKRiVslrNdAVzVUXcL59oNzuCX3VybeUpHk+fYeh0HK2M5P+Clgzz6D/IknY/e51QwiS9fxBggxeaALJrPzwkOiNJOq7dvyP7DI7kNg/8yYZ9peCa035zeEBIAVdIjPPEiYnGzk82ajJM4uPnsxH6ZYnUGWez+oBSfI3TZ1K4dSaZYBTzcyn85PDyg5PyQQQ4nn2/tZktV0bJPr0goTY5tiEy/ZG4OMMyWy23rogPAd1a+yVveVc2AQe9G2xGRBSFVhN1MDc5GINOTqVPQwwJD0RjDORhecJIUtOCZZcbhzEI=;/wIeE6QXs9F7r7Yx2dFE2A=="
+secured: "VCdCWEyOfX2RifjQIYs8LjUqWBg/6U9OgOjxkKQ9D6WDn2Fv/ctBOAbO/bQT1VZ5c7ntRKbSzeC8I3iCjmYNDjV11V0r115HMyrGEyH/exOIIHBgO2xEUlWQ3KDNMZK1pQNeZLgtXGMgLNzv5gm6kOXaqQaHD947MTDAuMtcDTDGIYgvX7OLIRdJpnRHVL05FnZ0EZ7em/aVpQI/ISSjs9t3PLPvcNwcb4SlYhQoqGZy7jB054tz5y1VZmrXQGHXvl+n6F8wJwM3u/tDrv+0CPUctt6pUIKgXzn8i9OkBfF0Bc70wI0qZQ4evyNcjO3o;1a5LnpORky+wg+T9ZHyTgA=="
 ---
 

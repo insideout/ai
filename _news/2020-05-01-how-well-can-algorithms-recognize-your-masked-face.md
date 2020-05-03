@@ -8,7 +8,7 @@ ampWebUrl: "https://www.wired.com/story/algorithms-recognize-masked-face/amp"
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/algorithms-recognize-masked-face/amp"
 type: article
 quality: 74
-heat: 75
+heat: 85
 published: true
 
 provider:
@@ -29,6 +29,17 @@ images:
     height: 1600
     title: "How Well Can Algorithms Recognize Your Masked Face?"
 
-secured: "cBoufPz26pDOQJ+dCAOq5PYArkhHrbb2exnwZa5NdDTTadOTAAn+wmL2fRapNyIsmwNT/0qT4LD18H83u5Pa6Nq+N4l42OEwN4H281RWE0QDOCij5owS7FILz5smolSVhdNaIbkICFLHpEsLmL+8rKw7AS9uulLqMoGOkjQG8vxjrGSq7bKoCd3l52GFDH9r/lF8MttcRLTbHGdUmu3wPDNc3UG5x0vSE3P3E2QRw4C35qlyqfmBvs7VCx1Sitd3JhVjZ67mj4xI/+piQ3D4AdhKIIZYET1EXOAdES9uk9Vbg0gAH1UhV2qLXt2sF9/JMpbIt1KYYsHf9nVXaLtJxjqePJPQM3UE1arvlEkjyhQQfSnixy4fj2BNyFjoBwV2X2NJqo4wueV0IDUJtBrzQr3orATwc60Tyb935wGQLTNSxjMCfrKOc+Dq12kHVtf5L6KEbbDm1dNgYYulcOpg1OPidVH2j4NKnx/MEts6kTw=;X8fVkxLI/Sve9Z0+CpZiQg=="
+related:
+  - title: "How well can algorithms recognize your masked face?"
+    excerpt: "His engineers are testing their technology on masked faces and are hurriedly gathering images of masked faces to tune their machine-learning algorithms for pandemic times. Facial recognition has become more widespread and accurate in recent years,"
+    publishedDateTime: 2020-05-03T10:55:00Z
+    webUrl: "https://arstechnica.com/tech-policy/2020/05/how-well-can-algorithms-recognize-your-masked-face/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 34
+
+secured: "p8GnoZENyDAs2h7/k3l+ce0HYQt2JHW43aZAkaaMeOzVUvRE1J3bybtV+av3tQ9B7z/F4B+bHOksfS12iQiCYugePjTXadpBDgCSih11rULmvMufajCxen9bmN6uIGuCgQ+ORjV5HgJZUdnVo6ZJpS6/87pK0KE87BOM6PKQfHgFP3UYBDVuLbfSGerNOUnWZNXSJiSn8WBrHtZ1IyZoPM2opK5AjWHuCn/6/PWxMRiyL5NBRH+MZYesYyX2hWG98lfeFLG6+w9prhjRAKeWPQGiBWaqHnHZFGFYsJXfh024rMJlx9+ONM83OEYDEPeNcHZGojDRCSwyYDDfJEO/PsqV42asxw3sJUqBwwKajmfbkmrgWGxOikfWfxZvLCBo6L+SQpCzauDDdfyiEoi4ql4PBYCad0uc/eV9i3A2+1tlI4zAiqU8fimbi2S8bRcJlMeoUc+A+9SCTa7WPcs1AMzfowr6/kwY0dOpZwkaVek=;6qn5GyU8gMGz6XgXaZXnxQ=="
 ---
 
