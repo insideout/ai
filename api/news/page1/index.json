@@ -2,6 +2,51 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-05-04-enterprise-artificial-intelligence-market-overview-with-detailed-analysis-competitive-landscape-forecast-2018-2023.md",
+      "title": "Enterprise Artificial Intelligence Market Overview with Detailed Analysis, Competitive landscape, Forecast 2018-2023",
+      "excerpt": "Enterprises hold a prominent market value considering their services and solution created for different functions and business uses. These enterprises largely deploy technologies such as machine learning,",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/enterprise-artificial-intelligence-market-overview-with-detailed-analysis-competitive-landscape-forecast-2018-2023-2020-05-03",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-03T17:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Enterprise Artificial Intelligence Market Overview with Detailed Analysis, Competitive landscape, Forecast 2018-2023",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-03-tech-in-latin-america-an-entrepreneurs-guide-to-aprils-startup-news.md",
       "title": "Tech in Latin America: An entrepreneur’s guide to April’s startup news",
       "excerpt": "Conrad lives in Medellin & NYC and profiles startup ecosystems during his travels. He is a Global Mentor at 500",
@@ -1049,51 +1094,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-05-01-the-ai-eye-coca-cola-makes-5-year-agreement-with-microsoft.md",
-      "title": "The AI Eye: Coca-Cola Makes 5-Year Agreement with Microsoft",
-      "excerpt": "Watching stock news, deal tracker and advancements in artificial intelligence Coca-Cola ( NYSE:KO) has announced a five-year agreement with Microsoft ( NasdaqGS:MSFT ), wherein it will leverage the latter's Azure,",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/the-ai-eye-coca-cola-makes-5-year-agreement-with-microsoft-2020-05-01",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-01T10:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "The AI Eye: Coca-Cola Makes 5-Year Agreement with Microsoft",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

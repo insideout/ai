@@ -2,6 +2,51 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-04-06-ibm-research-releases-a-new-set-of-cloud-and-artificial-intelligence-based-covid-19-resources.md",
+      "title": "IBM Research releases a new set of cloud- and artificial intelligence-based COVID-19 resources",
+      "excerpt": "IBM Research is making multiple free resources available to help healthcare researchers, doctors, and scientists around the world accelerate COVID-19 drug discovery. The resources can help with gathering insights, to applying the latest virus genomic information and identifying potential targets for treatments, to creating new drug molecule ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/article/ibm-research-releases-a-new-set-of-cloud-and-artificial-intelligence-based-covid-19-resources/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ibm-research-releases-a-new-set-of-cloud-and-artificial-intelligence-based-covid-19-resources/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ibm-research-releases-a-new-set-of-cloud-and-artificial-intelligence-based-covid-19-resources/",
+      "publishedDateTime": "2020-04-06T10:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/03/30/9d77cb26-0bf8-4a88-9914-3b3b1476683a/thumbnail/1200x675/e399bd4202906ef1cb6b7a5fac192bd4/20200324-scott-karen-3d-tr-1.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "IBM Research releases a new set of cloud- and artificial intelligence-based COVID-19 resources",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-06-coronavirus-could-be-catalyst-for-healthcare-ai-advances.md",
       "title": "Coronavirus Could Be Catalyst for Healthcare, AI Advances",
       "excerpt": "Just as the U.S. government significantly invested to put Neil Armstrong and others on the moon by 1969 – $200 billion in today’s dollars by his estimate – Scott said similar funding in artificial intelligence technology could be a difference-maker for our nation’s battered health care system. Scott, 48, whose new book about AI will be ...",
@@ -1155,44 +1200,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-18-canon-medicals-3t-mr-system-receives-fda-clearance-for-artificial-intelligence-based-image-reconstruction-technology.md",
-      "title": "Canon Medical’s 3T MR System Receives FDA Clearance for Artificial Intelligence-Based Image Reconstruction Technology",
-      "excerpt": "AiCE was trained using vast amounts of high-quality image data, and features a deep learning neural network that can reduce noise and boost signal to quickly deliver sharp, clear and distinct images, further opening doors for advancements in MR imaging. Capabilities include: “AiCE utilizes a next generation approach to MR image reconstruction ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businesswire.com/news/home/20200318005103/en/Canon-Medical’s-3T-System-Receives-FDA-Clearance",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-18T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20200318005103/en/706033/23/3724089_3724081_Canon_Medical_Systems_Corpration_USA_Red_logo_RGB.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": "Canon Medical’s 3T MR System Receives FDA Clearance for Artificial Intelligence-Based Image Reconstruction Technology",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],
