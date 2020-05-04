@@ -2,6 +2,141 @@
   "page": 69,
   "value": [
     {
+      "path": "_news/2020-02-21-how-much-worth-natural-language-processing-market-will-generate-by-2026.md",
+      "title": "How much Worth Natural Language Processing Market will Generate by 2026?",
+      "excerpt": "Feb 21, 2020 (The Expresswire) -- Top Players in Natural Language Processing Market are 3M Company, Adobe Systems Inc., Amazon Web Services Inc., Apple Inc., Google (Alphabet Inc.), Hewlett-Packard Enterprise Company, Intel Corporation, International Business Machine (IBM) Corporation , Microsoft Corporation, SAS Institute Inc The overall ...",
+      "heat": 78,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/how-much-worth-natural-language-processing-market-will-generate-by-2026-2020-02-21",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-21T00:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "How much Worth Natural Language Processing Market will Generate by 2026?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-02-21-microsoft-launches-entrepreneurship-program-targeted-at-social-entrepreneurs.md",
+      "title": "Microsoft launches entrepreneurship program targeted at social entrepreneurs",
+      "excerpt": "Under the program, which will be available in 140 countries, qualifying social enterprises will receive access to free Microsoft cloud technologies, including up to $120,000 in Azure credits, along with technical ... and Zindi's web platform has been created to host machine learning and AI competitions online in Africa.",
+      "heat": 106,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/microsoft-launches-entrepreneurship-program-targeted-at-social-entrepreneurs/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-launches-entrepreneurship-program-targeted-at-social-entrepreneurs/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-launches-entrepreneurship-program-targeted-at-social-entrepreneurs/",
+      "publishedDateTime": "2020-02-21T00:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2018/01/14/0b007dc5-ca44-4699-930c-7831748aa020/thumbnail/1200x675/747f01070b6fac97c0eed9500191a237/samsung-logo-ces.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Microsoft launches entrepreneurship program targeted at social entrepreneurs",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-21-artificial-intelligence-ai-market-latest-advancements-and-technology-growth-2020-to-2026.md",
+      "title": "Artificial Intelligence (AI) Market Latest Advancements and Technology Growth 2020 to 2026",
+      "excerpt": "Global Artificial Intelligence (AI) Market research report published by market insight reports explores the current outlook in global and key regions from the perspective of Major Players, Countries,",
+      "heat": 184,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-latest-advancements-and-technology-growth-2020-to-2026-2020-02-21",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-20T23:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial Intelligence (AI) Market Latest Advancements and Technology Growth 2020 to 2026",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2020-02-21-the-amazing-ways-goodyear-uses-artificial-intelligence-and-iot-for-digital-transformation.md",
       "title": "The Amazing Ways Goodyear Uses Artificial Intelligence And IoT For Digital Transformation",
       "excerpt": "Although Goodyear is a mature company, they are on the cutting edge of using today’s newest technology to propel innovation and their business in the 21st century.",
@@ -1125,133 +1260,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-20-how-artificial-intelligence-can-help-pick-the-best-depression-treatments-for-you.md",
-      "title": "How Artificial Intelligence Can Help Pick the Best Depression Treatments for You",
-      "excerpt": "But promising new research published in February in Nature Biotechnology suggests that a simple brain test, paired with insights from artificial intelligence (AI), can predict whether an antidepressant will work on a given patient. Trivedi and a team of researchers took data from a previous study in which more than 200 people with depression ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://time.com/5786081/depression-medication-treatment-artificial-intelligence/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-20T05:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Time",
-        "domain": "time.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/time.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://api.time.com/wp-content/uploads/2020/02/your_brain_knows_the_meds_you_need.jpg",
-          "width": 2400,
-          "height": 1972,
-          "title": "How Artificial Intelligence Can Help Pick the Best Depression Treatments for You",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-02-20-5-clever-google-maps-tricks-to-see-more-than-just-whats-on-the-map.md",
-      "title": "5 clever Google Maps tricks to see more than just what's on the map",
-      "excerpt": "Google Maps crowdsources more than just traffic data -- get real-time information on your destination, including wait times, operating hours and more. I open the Google Maps app on my phone practically every day,",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnet.com/how-to/5-clever-google-maps-tricks-to-see-more-than-just-whats-on-the-map/",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/5-clever-google-maps-tricks-to-see-more-than-just-whats-on-the-map/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/5-clever-google-maps-tricks-to-see-more-than-just-whats-on-the-map/",
-      "publishedDateTime": "2020-02-20T05:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cnet4.cbsistatic.com/img/pifVUy5Lk2fZIkaFloP9-u8fG4I=/756x567/2019/12/04/6a025761-b652-4ce9-a80c-65319a3f1ca6/google-maps-logo-phone-3831.jpg",
-          "width": 756,
-          "height": 567,
-          "title": "5 clever Google Maps tricks to see more than just what's on the map",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-02-20-patients-with-type-2-diabetes-who-decline-insulin-therapy-had-worse-blood-sugar-control.md",
-      "title": "Patients with type 2 diabetes who decline insulin therapy had worse blood sugar control",
-      "excerpt": "Given the consequences of uncontrolled blood sugar levels, Turchin and colleagues set out to better understand why insulin therapy initiation is frequently delayed. The team used natural language processing -- an artificial intelligence tool that can scan through large amounts of data to pull out key phrases -- to comb through clinical ...",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.news-medical.net/news/20200220/Patients-with-type-2-diabetes-who-decline-insulin-therapy-had-worse-blood-sugar-control.aspx",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20200220/Patients-with-type-2-diabetes-who-decline-insulin-therapy-had-worse-blood-sugar-control.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200220/Patients-with-type-2-diabetes-who-decline-insulin-therapy-had-worse-blood-sugar-control.aspx",
-      "publishedDateTime": "2020-02-20T04:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.news-medical.net/image.axd?picture=2014%2f7%2fBlood_glucose-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": "Patients with type 2 diabetes who decline insulin therapy had worse blood sugar control",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

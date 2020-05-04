@@ -2,6 +2,139 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-05-04-a-critical-review-of-star-wars-ai.md",
+      "title": "A critical review of Star Wars AI",
+      "excerpt": "Spoiler Alert! This article has spoilers for just about the entire Star Wars universe. Read at your own risk! When it comes to fictional portrayals of artificial intelligence technology, the Star Trek universe stands head and shoulders above all others.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/05/04/a-critical-review-of-star-wars-ai/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/05/04/a-critical-review-of-star-wars-ai/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/05/04/a-critical-review-of-star-wars-ai/amp/",
+      "publishedDateTime": "2020-05-04T12:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2017/08/Sphero-Star-wars-r2-d2-bb-9e-796x424.jpg",
+          "width": 796,
+          "height": 424,
+          "title": "A critical review of Star Wars AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-04-covid-19-how-universities-made-the-pivot-to-e-learning.md",
+      "title": "COVID-19: How universities made the pivot to e-learning",
+      "excerpt": "One Rhode Island university has transitioned nearly seamlessly into remote learning. Here's how they did it safely and effectively.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/article/covid-19-how-universities-made-the-pivot-to-e-learning/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/covid-19-how-universities-made-the-pivot-to-e-learning/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/covid-19-how-universities-made-the-pivot-to-e-learning/",
+      "publishedDateTime": "2020-05-04T12:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/05/04/3b314e67-8a80-43eb-9c3b-044b9e74526e/thumbnail/1200x675/44abc715eefb0ea033f4e25b30ac2d56/20200428-salveuni-karen.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "COVID-19: How universities made the pivot to e-learning",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-04-look-out-alibaba-jdcom-is-expanding-its-cloud-and-ai-presence.md",
+      "title": "Look Out Alibaba, JD.com Is Expanding Its Cloud and AI Presence",
+      "excerpt": "JD.com , China's largest direct retailer and second-largest e-commerce company, recently partnered with Cloudflare to strengthen its cloud and AI business. Cloudflare, which secur",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fool.com/investing/2020/05/04/look-out-alibaba-jdcom-is-expanding-cloud-and-ai.aspx?source=eptcnnlnk0000002",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/05/04/look-out-alibaba-jdcom-is-expanding-cloud-and-ai.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/04/look-out-alibaba-jdcom-is-expanding-cloud-and-ai.aspx",
+      "publishedDateTime": "2020-05-04T09:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F570933%2Fgettyimages-1159763195.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 675,
+          "title": "Look Out Alibaba, JD.com Is Expanding Its Cloud and AI Presence",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-04-intel-acquires-urban-mobility-startup-moovit-for-900-million.md",
       "title": "Intel acquires urban mobility startup Moovit for $900 million",
       "excerpt": "Intel has confirmed that it's buying urban mobility startup Moovit, in a deal worth $900 million. Rumors of the impending acquisition first emerged on Sunday.",
@@ -81,6 +214,43 @@
           "attribution": null
         }
       ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-04-microsoft-our-new-free-python-programming-language-courses-are-for-novice-ai-developers.md",
+      "title": "Microsoft: Our new free Python programming language courses are for novice AI developers",
+      "excerpt": "Microsoft's two new video series target beginner developers interested in using Python for machine-learning programs.",
+      "heat": 75,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/microsoft-our-new-free-python-programming-language-courses-are-for-novice-ai-developers/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-our-new-free-python-programming-language-courses-are-for-novice-ai-developers/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-our-new-free-python-programming-language-courses-are-for-novice-ai-developers/",
+      "publishedDateTime": "2020-05-04T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
       "locale": "en-us",
       "categories": [
         "news"
@@ -345,50 +515,6 @@
           "width": 1211,
           "height": 640,
           "title": "AI Software Gets Mixed Reviews for Tackling Coronavirus",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-04-look-out-alibaba-jdcom-is-expanding-its-cloud-and-ai-presence.md",
-      "title": "Look Out Alibaba, JD.com Is Expanding Its Cloud and AI Presence",
-      "excerpt": "JD.com , China's largest direct retailer and second-largest e-commerce company, recently partnered with Cloudflare to strengthen its cloud and AI business. Cloudflare, which secur",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.fool.com/investing/2020/05/04/look-out-alibaba-jdcom-is-expanding-cloud-and-ai.aspx",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/05/04/look-out-alibaba-jdcom-is-expanding-cloud-and-ai.aspx",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/04/look-out-alibaba-jdcom-is-expanding-cloud-and-ai.aspx",
-      "publishedDateTime": "2020-05-04T05:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F570933%2Fgettyimages-1159763195.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 675,
-          "title": "Look Out Alibaba, JD.com Is Expanding Its Cloud and AI Presence",
           "attribution": null
         }
       ],
@@ -979,139 +1105,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-03-watch-this-ai-algorithm-change-humans-into-animorphs.md",
-      "title": "Watch This AI Algorithm Change Humans into Animorphs",
-      "excerpt": "AI researcher Xander Steenbrugge used machine learning generative models to turn people into animals and back again.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.vice.com/en_au/article/884wek/ai-algorithm-turns-humans-into-animals",
-      "ampWebUrl": "https://www.vice.com/amp/en_au/article/884wek/ai-algorithm-turns-humans-into-animals",
-      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_au/article/884wek/ai-algorithm-turns-humans-into-animals",
-      "publishedDateTime": "2020-05-02T18:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VICE",
-        "domain": "vice.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/vice.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://video-images.vice.com/test-uploads/articles/5eab0bb5d93a90009b14b3f2/lede/1588269690157-Screen-Shot-2020-04-30-at-20037-PM.png?crop=0.8434xw:0.9986xh;0.081xw,0.0014xh",
-          "width": 2488,
-          "height": 1398,
-          "title": "Watch This AI Algorithm Change Humans into Animorphs",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-03-masked-or-not-mike-pence-keeps-the-peace-with-a-poker-face.md",
-      "title": "Masked or Not, Mike Pence Keeps the Peace With a Poker Face",
-      "excerpt": "Task forces and vice presidents don’t get to decide things,” said Tim Pawlenty, the former Minnesota governor.",
-      "heat": 77,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nytimes.com/2020/05/02/us/politics/coronavirus-mike-pence.html",
-      "ampWebUrl": "https://www.nytimes.com/2020/05/02/us/politics/coronavirus-mike-pence.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/05/02/us/politics/coronavirus-mike-pence.amp.html",
-      "publishedDateTime": "2020-05-02T17:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/05/03/us/03dc-virus-pence-image1/03dc-virus-pence-image1-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": "Masked or Not, Mike Pence Keeps the Peace With a Poker Face",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-02-tectonai-snags-20-million-to-solve-ais-data-problem.md",
-      "title": "Tecton.ai Snags $20 Million To Solve AI’s Data Problem",
-      "excerpt": "While the COVID-19 pandemic has halted many venture fundings, Tecton.ai has been able to buck the trend. This week the company announced a $20 million investment from Andreessen Horowitz and Sequoia (last year there was a $5 million angel round).",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/tomtaulli/2020/05/02/tectonai-snags-20-million-to-solve-ais-data-problem/",
-      "ampWebUrl": "https://www.forbes.com/sites/tomtaulli/2020/05/02/tectonai-snags-20-million-to-solve-ais-data-problem/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2020/05/02/tectonai-snags-20-million-to-solve-ais-data-problem/amp/",
-      "publishedDateTime": "2020-05-02T12:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eadc484240a4f00063e7dd1%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6000%26cropY1%3D410%26cropY2%3D3785",
-          "width": 1200,
-          "height": 675,
-          "title": "Tecton.ai Snags $20 Million To Solve AI’s Data Problem",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

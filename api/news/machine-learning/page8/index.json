@@ -2,6 +2,51 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-02-25-tnw-announces-neural-a-blog-for-human-centric-ai-news-and-analysis.md",
+      "title": "TNW announces Neural: A blog for human-centric AI news and analysis",
+      "excerpt": "Let’s build this Neural network together. We’ll have more exciting news to share about Neural in the coming days and weeks. In the meantime, check out our cool new Neural site here. Fun facts: the Neural font was developed with the help of an artificial neural network and the color scheme was chosen because it’s just awesome.",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/02/25/tnw-announces-neural-a-blog-for-human-centric-ai-news-and-analysis/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/02/25/tnw-announces-neural-a-blog-for-human-centric-ai-news-and-analysis/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/02/25/tnw-announces-neural-a-blog-for-human-centric-ai-news-and-analysis/amp/",
+      "publishedDateTime": "2020-02-25T09:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2017/07/robots-796x433.jpg",
+          "width": 796,
+          "height": 433,
+          "title": "TNW announces Neural: A blog for human-centric AI news and analysis",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-02-25-openais-jeff-clune-on-deep-learnings-achilles-heel-and-a-faster-path-to-agi.md",
       "title": "OpenAI’s Jeff Clune on deep learning’s Achilles’ heel and a faster path to AGI",
       "excerpt": "ANML scales catastrophic forgetting reduction to a deep learning model with 6 million parameters. It also expands upon OML, a model that was introduced by Martha White and Khurram Javed at NeurIPS 2019 and is capable of completing up to 200 tasks without catastrophic forgetting. But Clune said ANML differs from OML because his team realized ...",
@@ -1239,51 +1284,6 @@
           "width": 801,
           "height": 450,
           "title": "The Insurance Brain: AI-Driven Policy Recommendations",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-02-18-building-a-reverb-detection-system-using-machine-learning.md",
-      "title": "Building a Reverb Detection System using Machine Learning",
-      "excerpt": "Very little reverb. A lot of reverb. What we are actually trying to measure with our machine learning (ML) model is the Reverb Decay Time. This can be defined as the amount of time in seconds that it takes for a sound to fade away. The technical term for this is the RT-60 time, which is the time it takes for a sound’s pressure level to drop ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/@davidmronan/building-a-reverb-detection-system-using-machine-learning-cba02a1710bf",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-18T06:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/522/1*P4AQM-CyIb_uhNzvRAVMrw.jpeg",
-          "width": 522,
-          "height": 218,
-          "title": "Building a Reverb Detection System using Machine Learning",
           "attribution": null
         }
       ],

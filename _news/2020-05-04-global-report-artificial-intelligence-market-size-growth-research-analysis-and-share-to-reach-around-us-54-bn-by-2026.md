@@ -5,8 +5,8 @@ excerpt: "Global artificial intelligence market Size, Share is estimated to amas
 publishedDateTime: 2020-05-04T16:46:00Z
 webUrl: "https://www.marketwatch.com/press-release/global-report-artificial-intelligence-market-size-growth-research-analysis-and-share-to-reach-around-us-54-bn-by-2026-2020-05-04"
 type: article
-quality: 42
-heat: 42
+quality: 44
+heat: 44
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

@@ -2,6 +2,44 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-03-25-stuck-at-home-why-not-let-an-edgy-gpu-boosted-slice-of-azure-keep-you-company.md",
+      "title": "Stuck at home? Why not let an edgy, GPU-boosted slice of Azure keep you company?",
+      "excerpt": "The purpose of Azure Stack Edge is to shunt processing out of the cloud to where the local ... The expansion includes the incarnation with the Nvidia T4 Tensor Core GPU, which will allow those with machine learning needs to benefit from the hardware acceleration afforded by the exotic chippery. Naturally, Microsoft is cock-a-hoop about its ...",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.theregister.co.uk/2020/03/25/azure_stack_edge_gpu/",
+      "ampWebUrl": "https://www.theregister.co.uk/AMP/2020/03/25/azure_stack_edge_gpu/",
+      "cdnAmpWebUrl": "https://www-theregister-co-uk.cdn.ampproject.org/c/s/www.theregister.co.uk/AMP/2020/03/25/azure_stack_edge_gpu/",
+      "publishedDateTime": "2020-03-25T08:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Register",
+        "domain": "theregister.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://regmedia.co.uk/2019/05/30/lonely.jpg",
+          "width": 1000,
+          "height": 667,
+          "title": "Stuck at home? Why not let an edgy, GPU-boosted slice of Azure keep you company?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2020-03-25-microsoft-expands-azure-stack-edge-with-nvidia-t4-tensor-core-gpu.md",
       "title": "Microsoft expands Azure Stack Edge with NVIDIA T4 Tensor Core GPU",
       "excerpt": "Writing in the company bog, Vole says NVIDIA T4 Tensor Core GPU is used by the Azure Stack Edge in order to bring a hardware boost to machine learning (ML) workloads. In the blog Vole states that since its introduction, it has observed a largely positive reception to the idea, with a variety of industries looking to take advantage of the ...",
@@ -1132,51 +1170,6 @@
         "authors": null
       },
       "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-15-azure-machine-learning-services-mlops.md",
-      "title": "Azure Machine Learning Services — MLOps",
-      "excerpt": "Azure machine learning services has end to end data science lifecycle process. Which means we can develop the model and then package it up for production. Then we can create model file and deploy ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/@balabala76/azure-machine-learning-services-mlops-c0fde346a8ff",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-15T09:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/1200/1*MEoUfeWtl3VmgU9Dafei_w.jpeg",
-          "width": 1200,
-          "height": 897,
-          "title": "Azure Machine Learning Services — MLOps",
-          "attribution": null
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"

@@ -2,6 +2,141 @@
   "page": 79,
   "value": [
     {
+      "path": "_news/2020-02-25-carscom-cto-boosts-staff-cloud-skills-in-move-to-amazon-web-services.md",
+      "title": "Cars.com CTO Boosts Staff Cloud Skills in Move to Amazon Web Services",
+      "excerpt": "The transition, which began in March of last year, is aimed in part at speeding up the matchmaking process between cars and buyers on its website, which hosts a daily average of some 4 million cars from 19,",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wsj.com/articles/cars-com-cto-boosts-staff-cloud-skills-in-move-to-amazon-web-services-11582632002",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/cars-com-cto-boosts-staff-cloud-skills-in-move-to-amazon-web-services-11582632002",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/cars-com-cto-boosts-staff-cloud-skills-in-move-to-amazon-web-services-11582632002",
+      "publishedDateTime": "2020-02-25T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-157258/social",
+          "width": 1280,
+          "height": 640,
+          "title": "Cars.com CTO Boosts Staff Cloud Skills in Move to Amazon Web Services",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-25-argo-ais-ceo-explains-why-its-fleet-of-self-driving-taxis-wont-be-all-electric-at-first.md",
+      "title": "Argo AI’s CEO explains why its fleet of self-driving taxis won’t be all-electric (at first)",
+      "excerpt": "One of the burning questions facing self-driving carmakers is whether it makes sense to go all-electric. Some companies, like GM-owned Cruise, are all in on battery-electric vehicles, seeing both self-driving and all-electric as the future. Others are keeping one foot in the present, like how Waymo is building a fleet that includes both all ...",
+      "heat": 109,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.theverge.com/2020/2/25/21147747/argo-ai-ceo-bryan-salesky-self-dring-cars-ev-vergecast-interview",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/2/25/21147747/argo-ai-ceo-bryan-salesky-self-dring-cars-ev-vergecast-interview",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/2/25/21147747/argo-ai-ceo-bryan-salesky-self-dring-cars-ev-vergecast-interview",
+      "publishedDateTime": "2020-02-25T08:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/tO1S8XmDnOkpDrYgzJ6CoQj1k8U=/0x0:4000x2523/1400x933/filters:focal(1680x942:2320x1582):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66371456/1155294584.jpg.0.jpg",
+          "width": 1400,
+          "height": 933,
+          "title": "Argo AI’s CEO explains why its fleet of self-driving taxis won’t be all-electric (at first)",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2020-02-25-ripcord-raises-45-million-to-digitize-paper-records-with-robotics-and-ai.md",
+      "title": "Ripcord raises $45 million to digitize paper records with robotics and AI",
+      "excerpt": "In search of a solution five years ago, three entrepreneurs — NASA veteran Kim Lembo, former Apple senior engineering scientist Alex Fielding, and Kevin Hall — cofounded Ripcord, a startup developing a portfolio of robots that can digitize paper records. Fresh off a series B funding round, the Hayward, California-based company today ...",
+      "heat": 198,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/02/25/ripcord-raises-45-million-to-digitize-paper-records-with-robotics-and-ai/",
+      "ampWebUrl": "https://venturebeat.com/2020/02/25/ripcord-raises-45-million-to-digitize-paper-records-with-robotics-and-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/25/ripcord-raises-45-million-to-digitize-paper-records-with-robotics-and-ai/amp/",
+      "publishedDateTime": "2020-02-25T08:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2017/03/ripcord-free-your-records-e1582319474923.jpg?fit=1199%2C599&strip=all",
+          "width": 1199,
+          "height": 599,
+          "title": "Ripcord raises $45 million to digitize paper records with robotics and AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-02-25-amazon-pilots-ai-powered-customer-support-agents.md",
       "title": "Amazon pilots AI-powered customer support agents",
       "excerpt": "Might AI help improve customer service for the millions of people who shop on Amazon.com? Amazon intends to find out. In a blog post, the Seattle tech giant revealed that it’s testing two AI-based systems to handle incoming shopper inquiries. One fields requests from customers automatically and without human intervention, while the other ...",
@@ -945,141 +1080,6 @@
         "AI",
         "Microsoft AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-02-24-mlops-the-machine-learning-assembly-line.md",
-      "title": "MLOps: The Machine Learning Assembly Line",
-      "excerpt": "There’s another practice that’s following a similar trajectory in data science today: MLOps. A portmanteau of two abbreviations (‘ML’ for ‘machine learning’ and ‘Ops’ for ‘operations’), the concept is akin to DevOps, i.e., a pipeline from developer to product. As with assembly lines, the goal of MLOps isn’t making ...",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/acerta/mlops-the-machine-learning-assembly-line-d78fa080f9f0",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-24T15:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/1200/1*BsEr0YI152lB6cFjEhVEfQ.jpeg",
-          "width": 1200,
-          "height": 750,
-          "title": "MLOps: The Machine Learning Assembly Line",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-02-24-over-view-of-machine-learning-and-its-applications.md",
-      "title": "Over View of Machine Learning and its Applications",
-      "excerpt": "The Machine learning is a field of computer science evolved after studying the patterns and statistics of accumulative data, the data engineers / developers with help of specific algorithms for different data pattern sort out the features differences while as we already know before machine learning financial experts use statistical approaches ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/@sajjadhussain_11869/over-view-of-machine-learning-and-its-applications-bca25464669e",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-24T15:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/1200/1*hVCDF0_dOqDcwpXLGduZGg.jpeg",
-          "width": 1200,
-          "height": 899,
-          "title": "Over View of Machine Learning and its Applications",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-02-24-clever-browser-tool-erases-people-from-live-webcam-feeds-in-real-time.md",
-      "title": "Clever Browser Tool Erases People From Live Webcam Feeds in Real Time",
-      "excerpt": "Mayes is a Google web engineer who developed his Disappearing-People tool using Javascript and TensorFlow, which is Google’s free, open source software library that allows the terrifying potential of artificial intelligence and deep learning to be applied to less terrifying applications. In this case, the neural network works to determine ...",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://gizmodo.com/clever-browser-tool-erases-people-from-live-webcam-feed-1841886899",
-      "ampWebUrl": "https://gizmodo.com/clever-browser-tool-erases-people-from-live-webcam-feed-1841886899/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/clever-browser-tool-erases-people-from-live-webcam-feed-1841886899/amp",
-      "publishedDateTime": "2020-02-24T15:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/s--kY9EtKmN--/c_scale,f_auto,fl_progressive,q_80,w_800/rn8juxshvtinyw3oh5te.jpg",
-          "width": 800,
-          "height": 450,
-          "title": "Clever Browser Tool Erases People From Live Webcam Feeds in Real Time",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

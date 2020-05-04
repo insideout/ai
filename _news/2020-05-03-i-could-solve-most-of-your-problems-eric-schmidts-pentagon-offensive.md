@@ -2,8 +2,8 @@
 category: news
 title: "‘I could solve most of your problems’: Eric Schmidt’s Pentagon offensive"
 excerpt: "The former Google CEO has reinvented himself as the prime liaison between Silicon Valley and the military-industrial complex."
-publishedDateTime: 2020-05-03T23:55:00Z
-webUrl: "https://www.bizjournals.com/washington/news/2020/05/03/i-could-solve-most-of-your-problems-eric-schmidt.html"
+publishedDateTime: 2020-05-03T21:51:00Z
+webUrl: "https://www.bizjournals.com/sanjose/news/2020/05/03/i-could-solve-most-of-your-problems-eric-schmidt.html"
 type: article
 quality: 23
 heat: -1
@@ -40,6 +40,6 @@ related:
         width: 1050
         height: 550
 
-secured: "A7Wjbq9qJzZ6u33aIApEKevmqDvKePUhgXXHSDkCN6X9lLtVU+nKYfJYJM7/4SQcmk07HFbvaNQMk5oYvgZ0UkVcGgQF28RdB0wXE8QHE/3wPTdhGIH8ZsLNy4RP9byjjOsnVwsH/i12+JX3X6djwTxRgJxwuT4R1PK7V8mTgKPcR11cfCbg3wVRIXSq9Z7/orq2yDlD0GVm7s+h8OQnFplwEs0pyYYK97CsMEc8lapuq8QthaqyLMdRf9Nrz2+pJvFDsl6bpZj3Fmc3mhY3Vj9GDlB6SIXZY6BvrfglxOmuvjTSCEioU9/g9NDt3kwb;jnrikkocma3ckYSeGGsfuA=="
+secured: "EKNk/R0bl2Nn1DrF4R6gZM56Jad6k17yFcnN1gercgXBCRdUdZKsIC9+bQLia/xGepDgZr4/GROQWDnHBo3SvzxamTtlR22baobHIYxhPvXPjq5lfMLHBsUqs4G6QEJPDDClA6Mrwg0oueD5sgoyD0eYV2z35fwuGhb0H48kByAk99Qi+0Upa/zHzop/7hWOgJZ1HkW6/55YklKLkw+INKJttKSfAdgdmNC8MbgoNF/C+gNuwxuixAMxSc/+Si4MfBjQxT5gzB2xASDXQ8FNTSgQPdnB0tqVujMUTyFP7icv9cHd+ZKtyTGo/vs54JNW;gOVIj4SCa5pqDoJ6pdbVUw=="
 ---
 

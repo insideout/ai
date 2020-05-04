@@ -2,6 +2,51 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-03-09-training-and-operationalizing-interpretable-machine-learning-models.md",
+      "title": "Training and Operationalizing Interpretable Machine Learning Models",
+      "excerpt": "Francesca will illustrate this workflow using Azure Machine Learning, but it can be also used with any machine learning product of your choice. The model deployment workflow should be based on the ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/@ODSC/training-and-operationalizing-interpretable-machine-learning-models-822866d77a5b",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-09T06:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/640/0*NAQ3Wm3Hn7-yQU-b.png",
+          "width": 640,
+          "height": 300,
+          "title": "Training and Operationalizing Interpretable Machine Learning Models",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-06-the-epam-cloud-pipeline-released-in-the-microsoft-azure-marketplace.md",
       "title": "The EPAM Cloud Pipeline Released in the Microsoft Azure Marketplace",
       "excerpt": "NEWTOWN, Pa., March 5, 2020 /PRNewswire/ -- EPAM Systems, Inc. (NYSE: EPAM), a leading global provider of digital platform engineering and software development solutions, today announced that the EPAM",
@@ -1227,51 +1272,6 @@
         "Microsoft AI",
         "Facebook AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-02-20-aera-launches-cognitive-business-brain-operating-system.md",
-      "title": "Aera Launches Cognitive ‘Business Brain’ Operating System",
-      "excerpt": "The software industry is pushing to extend the definition of the operating system that started with software built for mainframes in the 1950s and then into the PC revolution in the 1980s - it now explains the use of AI-driven business operational software.",
-      "heat": 109,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/adrianbridgwater/2020/02/20/aera-launches-cognitive-business-brain-operating-system/",
-      "ampWebUrl": "https://www.forbes.com/sites/adrianbridgwater/2020/02/20/aera-launches-cognitive-business-brain-operating-system/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2020/02/20/aera-launches-cognitive-business-brain-operating-system/amp/",
-      "publishedDateTime": "2020-02-20T06:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e4e8413d378190007f3e652%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D960%26cropY1%3D12%26cropY2%3D552",
-          "width": 960,
-          "height": 541,
-          "title": "Aera Launches Cognitive ‘Business Brain’ Operating System",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

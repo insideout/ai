@@ -2,6 +2,132 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2020-04-06-mit-researchers-use-ai-to-turn-the-coronavirus-into-a-haunting-melody.md",
+      "title": "MIT researchers use AI to turn the coronavirus into a haunting melody",
+      "excerpt": "An AI system that turns the coronavirus‘ structure into music could help scientists spot details about COVID-19 that a microscope would miss. The AI-generated tune is an audible representation of the coronavirus’ “spike” proteins, which spread the infection by poking out of the virus and binding to human cells. These spikes make the ...",
+      "heat": 97,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/04/06/mit-researchers-use-ai-to-turn-the-coronavirus-into-a-haunting-melody/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/04/06/mit-researchers-use-ai-to-turn-the-coronavirus-into-a-haunting-melody/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/04/06/mit-researchers-use-ai-to-turn-the-coronavirus-into-a-haunting-melody/amp/",
+      "publishedDateTime": "2020-04-06T10:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/04/Untitled-design52-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "MIT researchers use AI to turn the coronavirus into a haunting melody",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-06-ibms-ai-classifies-seizures-with-984-accuracy-using-eeg-data.md",
+      "title": "IBM’s AI classifies seizures with 98.4% accuracy using EEG data",
+      "excerpt": "In a paper published on the preprint server Arxiv.org this week, IBM researchers describe SeizureNet, a machine learning framework that learns the features of seizures to classify various types. They say that it achieves state-of-the-art classification accuracy on a popular data set, and that it helps to improve the classification accuracy of ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/06/ibm-ai-eeg-data-classify-seizures-98-4-accuracy/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/06/ibm-ai-eeg-data-classify-seizures-98-4-accuracy/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/06/ibm-ai-eeg-data-classify-seizures-98-4-accuracy/amp/",
+      "publishedDateTime": "2020-04-06T09:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/02/shutterstock_400845934-e1572448996720.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "IBM’s AI classifies seizures with 98.4% accuracy using EEG data",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-06-cvg-becomes-first-us-airport-to-have-autonomous-robots-cleaning.md",
+      "title": "CVG becomes first U.S. airport to have autonomous robots cleaning",
+      "excerpt": "Cincinnati/Northern Kentucky International Airport is the first U.S. airport to use a certain type of robot to clean its floors, a practice that started earlier this year but has become even more useful given the COVID19 crisis.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.bizjournals.com/cincinnati/news/2020/04/06/cvg-becomes-first-u-s-airport-to-have-autonomous.html",
+      "ampWebUrl": "https://www.bizjournals.com/cincinnati/news/2020/04/06/cvg-becomes-first-u-s-airport-to-have-autonomous.amp.html",
+      "cdnAmpWebUrl": "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/cincinnati/news/2020/04/06/cvg-becomes-first-u-s-airport-to-have-autonomous.amp.html",
+      "publishedDateTime": "2020-04-06T09:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Business Journals",
+        "domain": "bizjournals.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.bizj.us/view/img/11642104/neocvg2*600xx3281-2187-0-0.png",
+          "width": 600,
+          "height": 399,
+          "title": "CVG becomes first U.S. airport to have autonomous robots cleaning",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-06-ibm-shares-ai-tools-to-better-understand-and-treat-covid-19.md",
       "title": "IBM shares AI tools to better understand and treat COVID-19",
       "excerpt": "It’s hoping to help researchers and frontline medical professionals. IBM wants to help researchers better understand and treat COVID-19. To do so, it’s putting its AI to work. It has released a series of new tools to aggregate data, help researchers explore potential therapies, advance the study of newly sequenced SARS-CoV-2 genomes and ...",
@@ -893,124 +1019,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-05-natural-language-processing-for-structuring-clinical-text-data-on-depression-using-uk-cris.md",
-      "title": "Natural language processing for structuring clinical text data on depression using UK-CRIS",
-      "excerpt": "Natural language processing (NLP) methods can be used to automatically extract clinically relevant information. Objective Our aim is to use natural language processing (NLP) to capture real-world data on individuals with depression from the Clinical Record Interactive Search (CRIS) clinical text to foster the use of electronic healthcare data ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://ebmh.bmj.com/content/23/1/21",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-05T06:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BMJ",
-        "domain": "bmj.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-05-3-top-artificial-intelligence-stocks-to-buy-in-april.md",
-      "title": "3 Top Artificial Intelligence Stocks to Buy in April",
-      "excerpt": "These include teleworking, e-commerce, and automation. At the center of all these is artificial intelligence, in which machines process vast data sets, learning to \"react\" to incoming information without human intervention. Thus, the terrible downturn may have opened up long-term opportunities in stocks at the center of future AI applications.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.fool.com/investing/2020/04/05/3-top-artificial-intelligence-stocks-to-buy-in-apr.aspx",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/04/05/3-top-artificial-intelligence-stocks-to-buy-in-apr.aspx",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/04/05/3-top-artificial-intelligence-stocks-to-buy-in-apr.aspx",
-      "publishedDateTime": "2020-04-05T05:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F566674%2Fgettyimages-1145585734.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 750,
-          "title": "3 Top Artificial Intelligence Stocks to Buy in April",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-05-self-supervised-learning-is-the-future-of-ai.md",
-      "title": "Self-supervised learning is the future of AI",
-      "excerpt": "Despite the huge contributions of deep learning to the field of artificial intelligence, there’s something very wrong with it: It requires huge amounts of data. This is one thing that both the ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/04/05/self-supervised-learning-is-the-future-of-ai-syndication/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/04/05/self-supervised-learning-is-the-future-of-ai-syndication/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/04/05/self-supervised-learning-is-the-future-of-ai-syndication/amp/",
-      "publishedDateTime": "2020-04-04T22:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/10/4-human-caused-biases-we-need-to-fix-for-machine-learning1-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "Self-supervised learning is the future of AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

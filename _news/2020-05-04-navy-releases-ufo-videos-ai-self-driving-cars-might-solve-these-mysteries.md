@@ -29,6 +29,6 @@ images:
     height: 900
     title: "Navy Releases UFO Videos, AI Self-Driving Cars Might Solve These Mysteries"
 
-secured: "9rQSrd0EV4nqeXshY4Q40TC1YiSNdpZP4hO294Undj3xc8dV9qXxF67EeHurk8e8HwRmZFOgOkwuoJe5ec8A97gPieO+dE1eSPKV9aMpU2pR++ImP4wnxMqcSaJ1tQ55wCfo59kfxJn8Ob5Q+fRRJ13m+9OfHa/KHMKQhg+JtTQ6cVm8sPdKqwUkRikMWZz4989NmHAqeUszRomEzlbdcrOY+6B58J10XtVFhVD6TTwsyzcmaFayXZ0L9FjBVr6KxX6I8jq507Ey4KaqduKpVlES2R7XGdPv0ohazmU0fn6u795lhitab+gEIOv5d28V;InrFV9vKiBfcCHWCOmRJ4w=="
+secured: "ju8vt9eTcxRHrmeNMj+dzREt/hc1fq/amSU3WK7wPIPgZvwPQtlNCghRGNN9spCIqBz9JxhZmUM9hfe4FcQAmWXWDwm1qRYUr/4OsB1jhv2hVqTm+TzoPAWVl8/jxhchRU2qDepYP4YerOesv+KT/HivJ1eP3VC0NcYjWHjpdQF4hDMBOPplz2IGkXN04bFHQlgGRQeONyj3RtVQRa+0AEN99cXv2Ufy+mVAGfM4UpZbdZDNV5PlcUXPM3bqgcFtzHhRGQw94i9MIpwf54+LQ9SSZpWVx0sdHvP+SVC/iEzBVjjZje3pVMgXuHzDwTim+wlcx+D5/qmbL0tFfJvv0UH3t4MA09496tllAK/ZfSduxYO/nu/phs5mfmYv8o3exc/G7bAQxPVG6iEy0Flb8yVKYKRTzwqHDV7m/R4cE64hd5ocZCx5CO1uhbbStgC8XROJzeZ6BbiK9gz99GROiLNsj/7sKPKXuiatxhu38uQ=;RxxboQfiPNQODU/R+AGMRQ=="
 ---
 
