@@ -29,6 +29,6 @@ images:
     height: 1125
     title: "The rise of the robot"
 
-secured: "xHMmQS2cY4yASfWwy+ZoLG7+cWgds6OIS2h859bvXRQGCgntqfmMPL6uNcssgfaZUqKKr7MtDHULx2SuX/3KYdgDNpHu0yxmU7cQMqByUsYyJV9alRhOvA0Xn/R5YwP1d//uoRmW3GZdVicNzdRDgAzTTXsS6QlM0P9syRmHWDRC8mMnDgSBUeCsDHZY6sLWxPWjyVnQARJybxPCEj5CjeoDWGVibKsQKZsq8v+6KYaa6S4PfeQOxU2MPhGn+bzyr3DRPldmTyT278BV8jwphp4t+q4pg2SgTbuLSx3miNVQuE9XWdax30qyqS7W3aty;qmEcE4EdoscifAe6WqVzQA=="
+secured: "O1Mj18lGz7N2tIxRBHM0/c7Kr6V1M3A3FvLBq+CYiqu/HPypnzaGfjtUqgkfn7QzSZKoNmM0LXHleP0/+8TqQeO3sejfayMTIpmR3tRqPBcPDLpp/gY4VGYGiO2yoc/yuOulPyNLiJU2OR9iuryJqmwvBKcuffJ3tScM8gNlQCJO21x55eYA1NJ5RVHBF0XcDADt0Uo3pKDND5FgxqzXUFIx0nIWYYq6iztfZ23b69gC3qDDYrU6H6/FydC80EawPnQb7NmoB198+yez9BYjhhNsOj/HPG/P+GxxkAUkTtzyeTRkkwJefe8AsY8bcaVV;audpXOEw2dS8TmqwyaqnaA=="
 ---
 

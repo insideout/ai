@@ -7,8 +7,8 @@ webUrl: "https://meaww.com/artificial-intelligence-replace-songwriters-tickpick-
 ampWebUrl: "https://meaww.com/amp/artificial-intelligence-replace-songwriters-tickpick-study-pop-rap-country-hip-hop"
 cdnAmpWebUrl: "https://meaww-com.cdn.ampproject.org/c/s/meaww.com/amp/artificial-intelligence-replace-songwriters-tickpick-study-pop-rap-country-hip-hop"
 type: article
-quality: 57
-heat: 57
+quality: 59
+heat: 59
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI Hardware
 
 images:
   - url: "https://cheesecake.articleassets.meaww.com/435960/uploads/35e9c7e0-8dd7-11ea-b829-4ba55b12dabc_800_420.jpeg"
@@ -25,6 +26,6 @@ images:
     height: 420
     title: "Can Artificial Intelligence replace songwriters in the future? Study on AI lyrics suggests it is possible"
 
-secured: "5wm0r7Kx8FegJKfiidpKkUumb21BbvSEPzw6uZpZNqLtZ6sCCO5yGOTycZbnEuORSjg+4B/FVytOVlgcNDA+GrpKyl6w96Ili6K9sbPg+sOftkKSLlNjFJy6WZFt6uSvVhBWjCSZWQc+8KusYm/LGP97pCKkARPp3N7Q6WAZ/nMnq5zxGvZgigfBHwYAI2h9RMQjMtxOCNQbzUJuk0Wm2kF9jsdUL2jfxXJG4/DGYyVrLrV92FhOmHZ3ZR2TzOspV8IGFzKYDQTV4VQEQEELXNqFtkPeVYwlaShtsq4WTCVGE78KpC1zH2Y1B2ZE/etu;lAe/qhiKKX1LM/AjGHykjw=="
+secured: "VkXLcl2tiorX2y/dB+NzrCUvAu26AUNzrzj9l0DxOua4OdQB5N62V+iXETHh6gsixVgtEZKdsqA1/JIj7jhoXGlXqmLR/aOHPfoj9sX7uMLAz8tQ0WH55fxBmRPFvGOtDzKxc9WpRP7qSbqAhQYscNkASK8pb0diBJEePOvAP2JYkiA1P1CsINNiDE6fmVcV3FgoHvMaQpSOtx+hdjuAiGT+ymGHYq5c0KZq8ZLupM+xIVIkZkRK4t/D1mg0NCi92wzVM120CcLsI1Lo30Hm5QAfV6ybHDUKdHVFmrlmGb+0ltpF3PPz4DDKcA524UsGpYl5Au+f5LdP5U/Ob4AWB25elJk1peNmHB9WsnOWuWCUiS1oq4dgoKo4nUOaPl2QADL1mpsubf+WHx+Ag5pS/g9VB9HqyYFShDu6A4jMmNYFUmbMHPT3KD0PFBVemLODn11JwasUPn9qAsLohEham6/8/5Jo8JcVxuiCZa9TC3I=;quqBPYTtrROfNYgJ61NyTA=="
 ---
 

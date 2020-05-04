@@ -7,8 +7,8 @@ webUrl: "https://abcnews.go.com/International/russia-facial-recognition-police-c
 ampWebUrl: "https://abcnews.go.com/amp/International/russia-facial-recognition-police-coronavirus-lockdown/story?id=70299736"
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/russia-facial-recognition-police-coronavirus-lockdown/story?id=70299736"
 type: article
-quality: 58
-heat: 58
+quality: 60
+heat: 60
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://s.abcnews.com/images/International/moscow-phone-pass-nc-jc-200424_hpMain_16x9_992.jpg"

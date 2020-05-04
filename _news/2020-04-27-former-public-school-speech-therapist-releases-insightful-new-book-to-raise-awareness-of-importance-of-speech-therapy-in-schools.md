@@ -1,11 +1,11 @@
 ---
 category: news
 title: "Former Public School Speech Therapist Releases Insightful New Book to Raise Awareness of Importance of Speech Therapy in Schools"
-excerpt: "Author W. Ray reflects on her time as a public school speech therapist including the ups and downs of the position and how rewarding, humorous and challenging it can be"
+excerpt: "With school campuses around the world closed due to the COVID-19 pandemic, making sure children have access to free"
 publishedDateTime: 2020-04-27T10:30:00Z
-webUrl: "https://www.benzinga.com/pressreleases/20/04/p15882309/former-public-school-speech-therapist-releases-insightful-new-book-to-raise-awareness-of-importanc"
-ampWebUrl: "https://amp.benzinga.com/amp/content/15882309"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15882309"
+webUrl: "https://www.benzinga.com/pressreleases/20/04/n15882294/former-public-school-speech-therapist-releases-insightful-new-book-to-raise-awareness-of-importanc"
+ampWebUrl: "https://amp.benzinga.com/amp/content/15882294"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15882294"
 type: article
 
 provider:
@@ -16,6 +16,6 @@ topics:
   - Natural Language Processing
   - AI
 
-secured: "8U7eSmBMJUMZinx81efJklN6sRQVnzOEkY/l9y3sqUkf6fdDx4eTzIQZIAcrBGzKSMIMQkFdlTR2fp40Br2pyv5OUaTR0nHbz6q1SpqgcUZ6057vXEEl7hUxJ+iVscBHBFHHFbeNcBfyizDGP7ZL46gDTMns5Gj0oPc+9kETJfHrdxG0v3xEW24wzuLN9U3q+D9NbciwQPZG9PcT5OhGH2/hbbIfLt7LVynHhUy7kLzuen4yCm7xrGKq5/Mxec8c2vqfumQheI9xap3WFp6tBQexVOg9+OiV2hiV7Ua6ANxcFXyj8puWK9zeehH/QzyJ;S69/io5CjvJNXZeN/89QTA=="
+secured: "mscgCU2vK1pjj7FAGkJXZWm4qHc/VIlUJ9GcjD7Sa58s1sa6Xv0iaKsI7pkGdQWcrkZAPeGzTN4C1mcYVjTLNda7HnM8zn22CsSsWmtZMtXNrhgS20krZHOv8T/0kkz16dxDns13Ga9EAHAM70xzkZkX5+/lMpKKFG8yC1uUz/mqBEWfxvYeoNVhMY3irEnRAwSkMxfanHljZLaACQjN5LQLfdVFpcm+WrVykaFHuCfNrvO3dWz6zXBF89Y8JSrG5s3hcfRW32TkP7mXNZ7vbXOZpQHEDttww8TxwZMqFnqanBI5t+0+ktKuaOt0vhow;sTquFbZeGgd39T0hGp1Hfg=="
 ---
 

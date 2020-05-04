@@ -2,10 +2,10 @@
 category: news
 title: "Fueling driverless navigation with AI"
 excerpt: "Generally, Artificial Intelligence (AI) helps to make products and procedures more efficient, but it also handles intricate tasks that can’t be easily managed by humans. When navigation comes ..."
-publishedDateTime: 2020-05-01T10:23:00Z
-webUrl: "https://www.techradar.com/nz/news/fueling-driverless-navigation-with-ai"
-ampWebUrl: "https://www.techradar.com/nz/amp/news/fueling-driverless-navigation-with-ai"
-cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/fueling-driverless-navigation-with-ai"
+publishedDateTime: 2020-05-01T10:20:00Z
+webUrl: "https://www.techradar.com/news/fueling-driverless-navigation-with-ai"
+ampWebUrl: "https://www.techradar.com/amp/news/fueling-driverless-navigation-with-ai"
+cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/fueling-driverless-navigation-with-ai"
 type: article
 quality: 104
 heat: 104
@@ -29,6 +29,6 @@ images:
     height: 545
     title: "Fueling driverless navigation with AI"
 
-secured: "W/0MNr0rLe8zeEBftHi6PjBd/Rv2G3wMpYD+Id3x76Q7ty52dQbH4um9ia6LhcWrQZnv45o2Q0iLkyLcqi9WlbDeo/surudrvW4kiJ+yY4HgFdeso1dYC9cAomOZSLonKdEr0DNhELrn+Y8KHu3H/l8wjXVjMru3pfDfqCOWXIe/QMpSROmqQKC4pZ8/UtV/xScBMzqpxsXDX86ii+omojxdQIWFDZyVE9DnKBSK9hpesvl8wdxQrxwzj5Eez/Y0dsGO1ivu5K/GQMl+N1M0UswFJ4zhwK1KmBW8hHSn5WDsh1GAJMPwxWjdbCuZxH0/;ZwzmvkUb+X7YVgNe1dMUDw=="
+secured: "6gf/jzacK36EILAFKEaZUJkV9JEfgXDThgEvDv2c88EuYAQsdzLhfOAkOQO/xohGPb8/FIrK30gl7AX+UQO7z64iocCbAd47wD6eQzYlS4eLZ5cZ1sKPmgtotx4JTuD3Mil/XhfKPK73QGeTP17GlDOtITz77TxPazGHkYevbhmIArXzXo8tF47F+c2/zNmKt8yHm0YTxhNJaIW0XDgEUF6nT2uscgrsfcuxHiaz8pZ7hXJ03OLtBnzt9fi1WyIPoGMqVfVAGFvhiDOdOab04tWe2ilBNu7kXFLD4IlstbdcTAPIyHU0RiGR+sFWAbGP;Gz+D/77IgEXUd4ux9zOwHg=="
 ---
 

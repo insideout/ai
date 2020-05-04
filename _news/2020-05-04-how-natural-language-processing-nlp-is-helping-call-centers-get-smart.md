@@ -8,7 +8,7 @@ ampWebUrl: "https://www.clickz.com/how-natural-language-processing-nlp-is-helpin
 cdnAmpWebUrl: "https://www-clickz-com.cdn.ampproject.org/c/s/www.clickz.com/how-natural-language-processing-nlp-is-helping-call-centers-get-smart/261352/amp/"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,21 @@ images:
     height: 408
     title: "How Natural Language Processing (NLP) is helping call centers get smart"
 
-secured: "+tj7RXrPRuyKntvVh3Ih/8UtvMQe7Fk+lzBuDyxdu3WiS34cyYcoUpU1jW323vUR1hG1L9Kx9coVXb3glUxJm64+89NKBga4UHU8CTdGhNWeeO3R3IcX15kzI4kvRSk5g/smA69aKM0rqsLtYPP6IokxFMhu56W3BZjBT4mxMqint75/Z8kC/iHKm3dTEuFs4JgnK2GY+29cCeWE6YpRSZ5jl9NVWNRm33IkbRZ2KNP4+OD2uBniiIPvVHE24MXFx8qByTKn9EVL7a2qje8FlMjScuv3gWR7rEJ7lY/YYGJ0WO+MxFGwdy9xvaI2FiD+;dlhD6yjpGd7lHkQZot7e+A=="
+related:
+  - title: "Q&A: Ashling Kearns, VP EMEA marketing, Salesforce: Why AI can help marketers now"
+    excerpt: "Artificial intelligence, as well as more general automation technologies, is impacting marketing in a significant way. The promise of getting more analysis done on marketing data – as well as gleaning greater insights from it – is an irresistible one."
+    publishedDateTime: 2020-05-04T10:59:00Z
+    webUrl: "https://marketingtechnews.net/news/2020/may/04/qa-ashling-kearns-vp-emea-marketing-salesforce-why-ai-can-help-marketers-now/"
+    type: article
+    provider:
+      name: marketingtechnews.net
+      domain: marketingtechnews.net
+    quality: 32
+    images:
+      - url: "https://marketingtechnews.net/wp-content/uploads/sites/6/2020/05/ashling.png"
+        width: 1574
+        height: 1135
+
+secured: "9P9Z4uj+4igVApvUariiy0HwwVPjrFeJqzGlNEjViLMBBFWIh7CxcWHA1qKKZh11GCaNXBQucX+xFgMcClnwyTgo9F/DijFY/2BDbjzuNxyAqJyA6dwyDTXznr2NclZ0MwmIJsmKBfAxC4WYsakH/UrBV9v0E+9qW/L+heXbKZ3Cke9bRFTDdexXZ51qofoinGpZbCc8pNZiyE7jvzPykF+9Gv6gSWEwjKz1LOUoK9hCZRXDc8ZX59x9N0waytxJmizrm6ZuQXRGoVaF2YZite7UAyLzOwXyBMySFd/1M5z/wCLLFB/wAgmGvJh1zNZuyAt5U/3SzzSqxdftcVSrUxOiiivHdswvcwAF89eAQ5Mxo4oJWKpnqRKc1en0cXN7CJXXbMNdO0283lu0arSBHq6IiGgO4Fyc6R89ucW7AhpiY6s6kzOC+iNVwNBQP4eSXIO0t2FYdUEO2UZT9KPNwMtvrhNesO94tnK5d4HP/R0=;kyhN6mZ6ARPE4z4W7sx6xA=="
 ---
 
