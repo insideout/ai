@@ -2,6 +2,201 @@
   "page": 105,
   "value": [
     {
+      "path": "_news/2020-01-13-artificial-intelligence-and-machine-learning.md",
+      "title": "Artificial Intelligence and Machine Learning",
+      "excerpt": "Intelligence has the potential to transform health care delivery and the patient experience. While artificial intelligence (AI) is still in the early stages of adoption, some organizations have started to incorporate intelligence into their clinical workflow and business operations to improve quality of care, patient satisfaction and engagement ...",
+      "heat": 76,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.aha.org/sponsored-executive-dialogues/2020-01-13-artificial-intelligence-and-machine-learning",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-13T09:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "aha.org",
+        "domain": "aha.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.aha.org/sites/default/files/2020-01/Cerner_ExecDialogue_AI_120919_Banner.jpg",
+          "width": 1500,
+          "height": 1038,
+          "title": "Artificial Intelligence and Machine Learning",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-01-13-woven-city-toyotas-living-laboratory-for-autonomous-cars-robots.md",
+      "title": "Woven City: Toyota’s ‘living laboratory’ for autonomous cars & robots",
+      "excerpt": "Many executives naively group AI into its own category with SmartCity inventions as a niche use case ... Hidden behind an out-of-place Delta Airlines lounge, I discovered a robotics startup already fulfilling aspects of the Woven City. Vancouver-based A&K Robotics displayed a proprietary autonomous mobility solution serving the ballooning ...",
+      "heat": 69,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.therobotreport.com/toyota-woven-city-living-laboratory-robots/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-13T09:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2020/01/Aerial_v002_V3_scaled.0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Woven City: Toyota’s ‘living laboratory’ for autonomous cars & robots",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-01-13-facebook-releases-low-latency-online-speech-recognition-framework.md",
+      "title": "Facebook releases low-latency online speech recognition framework",
+      "excerpt": "Facebook AI Research (FAIR) today said it’s open-sourcing wav2letter@anywhere, a deep learning-based inference framework that achieves fast performance for online automatic speech recognition in ...",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/01/13/facebook-releases-low-latency-online-speech-recognition-framework/",
+      "ampWebUrl": "https://venturebeat.com/2020/01/13/facebook-releases-low-latency-online-speech-recognition-framework/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/13/facebook-releases-low-latency-online-speech-recognition-framework/amp/",
+      "publishedDateTime": "2020-01-13T09:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/04/Facebook-sign-F8-e1564693284989.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Facebook releases low-latency online speech recognition framework",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-01-13-tealium-launches-predict-solution-powered-by-machine-learning.md",
+      "title": "Tealium Launches Predict Solution Powered By Machine Learning",
+      "excerpt": "Integrated into Tealium AudienceStream, a data-first customer data platform that is designed to create highly granular, unified customer profiles from every touchpoint, Tealium Predict aims to create and activate trustworthy machine learning insights using cross-channel customer behavior data. Visitors are scored based on the likelihood to ...",
+      "heat": 61,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.demandgenreport.com/features/solution-spotlight/tealium-launches-predict-solution-powered-by-machine-learning",
+      "ampWebUrl": "https://www.demandgenreport.com/features/solution-spotlight/tealium-launches-predict-solution-powered-by-machine-learning/amp",
+      "cdnAmpWebUrl": "https://www-demandgenreport-com.cdn.ampproject.org/c/s/www.demandgenreport.com/features/solution-spotlight/tealium-launches-predict-solution-powered-by-machine-learning/amp",
+      "publishedDateTime": "2020-01-13T08:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Demand Gen Report",
+        "domain": "demandgenreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.demandgenreport.com/media/k2/items/cache/2d88ab916503b4690740bdbf348148be_XL.jpg",
+          "width": 1280,
+          "height": 766,
+          "title": "Tealium Launches Predict Solution Powered By Machine Learning",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2020-01-13-bundesliga-goes-all-in-on-aws-cites-ml-and-ai-expertise-for-archiving-as-key.md",
+      "title": "Bundesliga goes all-in on AWS, cites ML and AI expertise for archiving as key",
+      "excerpt": "Yet another sporting franchise is signing up with Amazon Web Services (AWS) to utilise its artificial intelligence (AI) and machine learning (ML) capabilities. The Bundesliga, Germany’s top flight football league, has announced it its going all-in on AWS ...",
+      "heat": 61,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cloudcomputing-news.net/news/2020/jan/13/bundesliga-goes-all-aws-cites-ml-and-ai-expertise-archiving-key/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-13T07:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cloud Computing",
+        "domain": "cloudcomputing-news.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.cloudcomputing-news.net/media/img/news/bundesliga.jpg.600x600_q96.png",
+          "width": 600,
+          "height": 378,
+          "title": "Bundesliga goes all-in on AWS, cites ML and AI expertise for archiving as key",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-01-13-leading-ai-luminary-has-an-idea-to-ensure-humans-remain-in-control.md",
       "title": "Leading AI Luminary Has An Idea To Ensure Humans Remain In Control",
       "excerpt": "Professor of Computer Science at the University of California, Berkeley and an Adjunct Professor of Neurological Surgery at the University of California, San Francisco, Stuart Russell, has written the most read text book on AI.",
@@ -1098,223 +1293,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-01-10-amazon-aims-to-democratize-deep-learning-with-new-library-autogluon.md",
-      "title": "Amazon aims to democratize deep learning with new library AutoGluon",
-      "excerpt": "“We developed AutoGluon to truly democratize machine learning, and make the power of deep learning available to all developers,” said Jonas Mueller, AWS applied scientist. According to ...",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://sdtimes.com/ai/amazon-aims-to-democratize-deep-learning-with-new-library-autogluon/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-10T08:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SD Times",
-        "domain": "sdtimes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/sdtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://sdtimes.com/wp-content/uploads/2020/01/download-1.png",
-          "width": 1440,
-          "height": 810,
-          "title": "Amazon aims to democratize deep learning with new library AutoGluon",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-01-10-neons-artificial-human-is-a-scary-glimpse-of-the-future-thats-mostly-still-hype.md",
-      "title": "Neon's 'artificial human' is a scary glimpse of the future that's (mostly) still hype",
-      "excerpt": "We've grown accustomed to asking virtual assistants like Siri and Alexa to do small tasks for us and provide basic information. But if the CEO of a Samsung-backed startup has his way, \"artificial humans\" will become your teachers,",
-      "heat": 77,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnn.com/2020/01/10/tech/samsung-neon/index.html",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/01/10/tech/samsung-neon/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/01/10/tech/samsung-neon/index.html",
-      "publishedDateTime": "2020-01-10T06:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200108142447-samsung-neon-ai-avatars-ces-2020-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": "Neon's 'artificial human' is a scary glimpse of the future that's (mostly) still hype",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-01-10-facial-recognition-could-take-over-one-convenience-at-a-time.md",
-      "title": "Facial recognition could take over, one 'convenience' at a time",
-      "excerpt": "At Konami's headquarters in Las Vegas, its facial recognition powered cameras tracked me around the room. Konami Gaming, a slot machine maker, wants to weave facial recognition into its one-armed ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnet.com/news/at-ces-facial-recognition-creeps-into-everything/",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/at-ces-facial-recognition-creeps-into-everything/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/at-ces-facial-recognition-creeps-into-everything/",
-      "publishedDateTime": "2020-01-10T05:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cnet2.cbsistatic.com/img/uaRm5OAms8fCwmdAuA8E0T1el5Y=/84x196:886x647/756x567/2020/01/09/2ceae564-fb98-44ef-9558-2ef64c137f25/facial-recognition-homepage-promo-crop.png",
-          "width": 756,
-          "height": 567,
-          "title": "Facial recognition could take over, one 'convenience' at a time",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-01-10-inside-ibm-sterling-supply-chain-suite.md",
-      "title": "Inside: IBM Sterling Supply Chain Suite",
-      "excerpt": "IBM described the introduction of its Sterling Supply Chain Suite as “an integrated supply chain suite, embedded with Watson AI and IBM Blockchain and open to developers, to help organisations make their supply chains smarter, more efficient and better able to make decisions to adjust to disruptions and opportunities in an era when ...",
-      "heat": 69,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.supplychaindigital.com/technology/inside-ibm-sterling-supply-chain-suite",
-      "ampWebUrl": "https://www.supplychaindigital.com/technology/inside-ibm-sterling-supply-chain-suite?amp",
-      "cdnAmpWebUrl": "https://www-supplychaindigital-com.cdn.ampproject.org/c/s/www.supplychaindigital.com/technology/inside-ibm-sterling-supply-chain-suite?amp",
-      "publishedDateTime": "2020-01-10T05:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Supply Chain Digital",
-        "domain": "supplychaindigital.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "http://www.supplychaindigital.com/sites/default/files/styles/slider_detail/public/topic/image/GettyImages-1088950364%20%281%29.jpg?itok=QrgtHVc6",
-          "width": 778,
-          "height": 518,
-          "title": "Inside: IBM Sterling Supply Chain Suite",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-10-the-top-3-tech-stocks-to-watch-in-2020.md",
-      "title": "The Top 3 Tech Stocks to Watch in 2020",
-      "excerpt": "From Google to Apple, every big-name tech company is putting forth resources to make its next breakthrough. We hear about a lot of products on the news, such as self-driving cars and robot nannies, but where exactly should we be putting our money?",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/the-top-3-tech-stocks-to-watch-in-2020-2020-01-10",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-10T05:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "The Top 3 Tech Stocks to Watch in 2020",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

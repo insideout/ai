@@ -29,6 +29,6 @@ images:
     height: 563
     title: "How Should Your Business Get Started With AI? Begin With Why"
 
-secured: "7WFhDrydENJRA/GDFPbwbFUpBS56yPz1jqJXGMWer2bMZQbwPDVh3Mu5pHAsL9jUVg/BNCiG75JalNYWuIXOR++di0yv+NbW/Y+VI3YdNbULKK57e2YjTVt/p5j2wSHcLpCOcvLb7K2uljMQ1bNTLtdfnAainSDOGRhJYz0/oKwPeAbA25g0TwWPRUeVCUJZLLHIpvfop0khuMBmltO7yjnRN8iZHE/kWzOZI0YWy/p88z8VquG7DAUJ/KacczHqpfwGKWnY4vo6Xs+u6EM94NIcUDuqO4FDS6kHsJR1gTN4+e4ewaIQ2hIqQ7qeGVIW;CaUwT+lt3WqNuK7TTE4P+g=="
+secured: "TIedb2SulCxyvE+mruytpjezAFWHfRDAYmxToLC4VuKqUDxduQftdQ3sRAEEgkeuMfRHPNUUFfc5DzRNzkCN47NcpCVck+phr8+VXhm1TasexfEo2InnA0b99SyCqNOSDEiWTavPG16acWtWyD5RINmzdyP/byc3yOOLQpbKB0ONcV1BgvmjLPoCYEpjRCg6OMU7d2cbNgbn+wgv8Weltks1QtGpLAXbQusYpLgUgNrqcp3KF5OqSX94Rk5BVCkKCbBa3QdGm6KO3L0DO6wvDt0f9bihtw7JQUxkhSE2OfBUt/oqt9H4n/41LZhJ8CSv4V/0bWTbqqr4RA/mM+AJ7OEW3wLcz/PbVOT2qcldKEwK1b+UWQrgXnKvyE0/8nZ3yjjAGX0U2sa0wkTZ+SzjGPI4FIUvWw9WtlXQ6qrgvjudsRqrGQr4DdCBmJVUouo93Cfi7ThK2IBnGmWtB+y/C+9cvws7aXZ5xRIDYEywlyA=;bN3BQs40Nr6BQj8uxWnuFg=="
 ---
 

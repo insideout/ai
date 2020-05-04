@@ -24,6 +24,6 @@ images:
     height: 601
     title: "This ‘Once-For-All’ Neural Network Could Slash AI’s Carbon Footprint"
 
-secured: "Ty295kQ13ccRBZpAIKA1JOnILPpyIZF8zkgNbaIKpn50FwxV5nsZ68BRsgyj6VHqfIsev+48eAqn1hrA9m5bQ99mA0EBojjbnjt6jUZpKNP5UqYYyza7iWnFvtLWPzOznNXtHSndM3miv+UBF1Psv93dvK5/Swmy2YFoitSMvdvLd+JK3yHQ5lglgJKhm9LzzyJDVjuuEQ+81xyB3jGeZ15A5/X+7pP3czLPYTYVr6e21gVkooV5ZFAwAnZe/CDIfP9jq1U8UW8c+BkjGHVcgoVPZlI8zUh8VrKGbwO1n5tEyGrYDrXjYkowk4HlH3A/;sFJHIvr8cl/4B9PY1+Ynfg=="
+secured: "umSziWekb7FkGxcMnk5YGgx9baqPKZ99dHYNpEbHxjgGwfNb1jxb9XoCtLx+YP9xtXE1wIPKw+pmf8eyHzP+ydfKf5DDDU9COgtQhDuD8wWAc683/y0F4P2IiwaGWKWMFzVSiJRyDRQ46LOveLCWXQTYFHGzQcJ9HumvSn/IAd+5J/h4atdjjLHkUKlmJKN9mBCkZhER9yaFfc4TrN5L2PTVRKh2cfwShtJPwFSruwDdjOA1883WNUYDO4BJdLrrVpWwAhzdOkvyyzBhTKOZeHuukZzlMnxr09VlD7mN/PkHrZkPg14qwC3sSI6zrqDGqgORbX45/zyYgGt4ZkYfRQ0eQKOeIOjj0/S+CRPAc8gYy8Zh/eNjA7TKEFodKji0mKL8bgtZI+CTedXQWWQv5h2Mdv7snomqfam+BkPi+1LD6+HiL1NW6zFAn4HLH7Ph5wCnBgzs2v0t+1DlQZ1Zve4tIFIYHFdaO8zHBYnMHJ4=;jfbAuLP3UUQvBh1/KGog7A=="
 ---
 

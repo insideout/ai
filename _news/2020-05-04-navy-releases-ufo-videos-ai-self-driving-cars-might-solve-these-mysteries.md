@@ -7,9 +7,9 @@ webUrl: "https://www.forbes.com/sites/lanceeliot/2020/05/04/navy-releases-ufo-vi
 ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/05/04/navy-releases-ufo-videos-ai-self-driving-cars-might-solve-these-mysteries/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/05/04/navy-releases-ufo-videos-ai-self-driving-cars-might-solve-these-mysteries/amp/"
 type: article
-quality: 65
-heat: 65
-published: false
+quality: 87
+heat: 87
+published: true
 
 provider:
   name: Forbes
@@ -21,7 +21,14 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
-secured: "ID+X2Tl0Rbm2hY1vLJP7rO8BXy0IoQ7FnBcaptFkfKA2INlstlKfQzZM5tMwYCKncRgfzk/u4tKNBL+HDuOSvXN0Mw09P7R8E/832Y6nH+LdUW8Pe8Sb1IJNVN5xyqxtC5B+LgiFqlHEo2sQR/j5SIRkCWY37awkM9A3QiRWC74FprjHk+/O+31v03YdjJG+6awEkDJ6Nr/ZcC+djdnCB1q7yh9gD0spQlbXECXRM5NkG05nK0Co27hSv+3BeEkOCNkzPRMRD5IVtUv7t0lx+aORsnBPJdau4Y/ynoN5EGbWIo7N+bfNeI7g37K6zJ0th6qHyngQkoN5SGShW6kU3GfFK1bs78kSpkgvF8jKvIEdQJpq91ZcyI1JApJu3DK5nYSmtOMQLGqMkON8nO/qqNk0jCLxaVeSaCjVtRi1SjnXA3PwAIKXubGXF3MN1dUYT7g3W8a9a0dNxHWQTMjiImMS8lYbkNgzfu8fMI9+8T8=;rEaBC6RDthRmmVIhqB1/Rw=="
+images:
+  - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F140238060%2F0x0.jpg%3FcropX1%3D416%26cropX2%3D4838%26cropY1%3D0%26cropY2%3D3318"
+    width: 1200
+    height: 900
+    title: "Navy Releases UFO Videos, AI Self-Driving Cars Might Solve These Mysteries"
+
+secured: "9rQSrd0EV4nqeXshY4Q40TC1YiSNdpZP4hO294Undj3xc8dV9qXxF67EeHurk8e8HwRmZFOgOkwuoJe5ec8A97gPieO+dE1eSPKV9aMpU2pR++ImP4wnxMqcSaJ1tQ55wCfo59kfxJn8Ob5Q+fRRJ13m+9OfHa/KHMKQhg+JtTQ6cVm8sPdKqwUkRikMWZz4989NmHAqeUszRomEzlbdcrOY+6B58J10XtVFhVD6TTwsyzcmaFayXZ0L9FjBVr6KxX6I8jq507Ey4KaqduKpVlES2R7XGdPv0ohazmU0fn6u795lhitab+gEIOv5d28V;InrFV9vKiBfcCHWCOmRJ4w=="
 ---
 
