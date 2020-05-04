@@ -2,6 +2,131 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-04-27-uco-musical-theatre-program-receives-national-recognition.md",
+      "title": "UCO musical theatre program receives national recognition",
+      "excerpt": "A local musical theatre program has received national recognition. The University of Central Oklahoma’s musical theatre program was recently recognized by the",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://kfor.com/news/local/uco-musical-theatre-program-receives-national-recognition/",
+      "ampWebUrl": "https://kfor.com/news/local/uco-musical-theatre-program-receives-national-recognition/amp/",
+      "cdnAmpWebUrl": "https://kfor-com.cdn.ampproject.org/c/s/kfor.com/news/local/uco-musical-theatre-program-receives-national-recognition/amp/",
+      "publishedDateTime": "2020-04-27T10:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Oklahoma's News",
+        "domain": "kfor.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://kfor.com/wp-content/uploads/sites/3/2017/09/uco.jpeg?w=1280&h=720&crop=1",
+          "width": 1280,
+          "height": 720,
+          "title": "UCO musical theatre program receives national recognition",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-27-france-launches-ai-voice-assistant-to-help-coronavirus-patients.md",
+      "title": "France launches AI voice assistant to help coronavirus patients",
+      "excerpt": "French researchers on Monday launched a voice assistant that can help callers suffering from potential coronavirus symptoms and direct them towards emergency services or their doctors using artificial intelligence.",
+      "heat": 97,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businessinsider.com/france-launches-ai-voice-assistant-to-help-coronavirus-patients-2020-4",
+      "ampWebUrl": "https://www.businessinsider.com/france-launches-ai-voice-assistant-to-help-coronavirus-patients-2020-4?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/france-launches-ai-voice-assistant-to-help-coronavirus-patients-2020-4?amp",
+      "publishedDateTime": "2020-04-27T10:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.insider.com/5ea70079a2fd9112812bc8d2?width=750&format=jpeg&auto=webp",
+          "width": 750,
+          "height": 500,
+          "title": "France launches AI voice assistant to help coronavirus patients",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-27-uk-spies-need-artificial-intelligence-to-fight-cyber-attacks-report-says.md",
+      "title": "UK Spies Need Artificial Intelligence to Fight Cyber Attacks, Report Says",
+      "excerpt": "A report from GCHQ says that deepfakes and Internet of Things devices could both be used to interfere in elections or attack critical national infrastructure.",
+      "heat": 86,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.pcmag.com/news/uk-spies-need-artificial-intelligence-to-fight-cyber-attacks-report-says",
+      "ampWebUrl": "https://www.pcmag.com/news/uk-spies-need-artificial-intelligence-to-fight-cyber-attacks-report-says?amp=true",
+      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/uk-spies-need-artificial-intelligence-to-fight-cyber-attacks-report-says?amp=true",
+      "publishedDateTime": "2020-04-27T10:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/05LYVRWYm6wdQpdTTJUly4S-1.fit_lim.size_1200x630.v_1587993385.jpg",
+          "width": 1026,
+          "height": 578,
+          "title": "UK Spies Need Artificial Intelligence to Fight Cyber Attacks, Report Says",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-27-coca-cola-partners-with-microsoft-to-use-its-cloud-and-ai-services.md",
       "title": "Coca-Cola partners with Microsoft to use its cloud and AI services",
       "excerpt": "Cola Company and Microsoft have announced a partnership that will see the beverage company leverage Microsoft's AI and cloud-based services, including Dynamics 365 and Microsoft 365.",
@@ -582,6 +707,35 @@
       ]
     },
     {
+      "path": "_news/2020-04-27-logical-clocks-launches-hopsworksai-the-worlds-first-artificial-intelligence-cloud-platform-with-a-feature-store.md",
+      "title": "Logical Clocks Launches Hopsworks.ai: The World's First Artificial Intelligence Cloud Platform with a Feature Store",
+      "excerpt": "Logical Clocks, the enterprise behind Hopsworks - the first data platform for designing and operating machine learning",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/04/g15882661/logical-clocks-launches-hopsworks-ai-the-worlds-first-artificial-intelligence-cloud-platform-with-",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/15882661",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15882661",
+      "publishedDateTime": "2020-04-27T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-27-shanghai-ride-hailers-can-now-call-for-an-autox-self-driving-taxi.md",
       "title": "Shanghai ride-hailers can now call for an AutoX self-driving taxi",
       "excerpt": "Autonomous driving tech company AutoX has partnered with the Alibaba Group's Amap mobility platform to offer folks in Shanghai the option to hail a ride in an AutoX RoboTaxi.",
@@ -919,169 +1073,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-27-chinese-self-driving-truck-startup-inceptio-raises-100-million-sources.md",
-      "title": "Chinese self-driving truck startup Inceptio raises $100 million - sources",
-      "excerpt": "China's Inceptio Technology, a startup developing self-driving trucks, has raised $100 million in its latest funding round from logistics firm GLP, its key strategic investor G7 and other investors, two sources familiar with the matter told Reuters.",
-      "heat": 118,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.reuters.com/article/uk-inceptio-autonomous-idUKKCN2290MB",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUKKCN2290MB",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKCN2290MB",
-      "publishedDateTime": "2020-04-27T00:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200427&t=2&i=1516550136&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG3Q09T",
-          "width": 817,
-          "height": 545,
-          "title": "Chinese self-driving truck startup Inceptio raises $100 million - sources",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-27-this-ai-tool-uses-machine-learning-to-detect-whether-people-are-social-distancing-properly.md",
-      "title": "This AI tool uses machine learning to detect whether people are social distancing properly",
-      "excerpt": "But when we go about our daily routines, especially when out on a grocery run or heading to the hospital, social distancing can be a challenging task to uphold. And some of us just have God awful spatial awareness in general.",
-      "heat": 77,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://sea.mashable.com/tech/10271/this-ai-tool-uses-machine-learning-to-detect-whether-people-are-social-distancing-properly",
-      "ampWebUrl": "https://sea.mashable.com/tech/10271/this-ai-tool-uses-machine-learning-to-detect-whether-people-are-social-distancing-properly?amp=1",
-      "cdnAmpWebUrl": "https://sea-mashable-com.cdn.ampproject.org/c/s/sea.mashable.com/tech/10271/this-ai-tool-uses-machine-learning-to-detect-whether-people-are-social-distancing-properly?amp=1",
-      "publishedDateTime": "2020-04-27T00:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://sm.mashable.com/t/mashable_sea/photo/default/tump5-nstfield-image-socialmediavar-1586911100_p856.620.jpg",
-          "width": 620,
-          "height": 326,
-          "title": "This AI tool uses machine learning to detect whether people are social distancing properly",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-27-asia-pacific-speech-recognition-software-market-overview-and-scope-2020-to-2025.md",
-      "title": "Asia-Pacific Speech Recognition Software Market Overview and Scope 2020 to 2025",
-      "excerpt": "\"The Global Speech Recognition Software Market 2020 Research Report investigates the industry thoroughly and offers a complete study on Speech Recognition Software volume, market Share, market Trends,",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cmo.com.au/mediareleases/90946/asia-pacific-speech-recognition-software-market/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-26T23:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "cmo.com.au",
-        "domain": "cmo.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://demo.idg.com.au/cmo/cmo50/2019/cmo50_promo2019_5.jpg",
-          "width": 600,
-          "height": 246,
-          "title": "Asia-Pacific Speech Recognition Software Market Overview and Scope 2020 to 2025",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-27-moneyball-medicine-data-driven-healthcare-transformation.md",
-      "title": "Moneyball Medicine: Data-Driven Healthcare Transformation",
-      "excerpt": "Thriving in the New Data-Driven Healthcare Market, author Harry Glorikian offers a prescription for how data and analytics will shape the future of healthcare delivery in the United States. We are all familiar with the Moneyball concept and how it transformed professional sports over the course of the past two decades – with an assist from Brad Pitt.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/ciocentral/2020/04/26/moneyball-medicine-data-driven-healthcare-transformation/",
-      "ampWebUrl": "https://www.forbes.com/sites/ciocentral/2020/04/26/moneyball-medicine-data-driven-healthcare-transformation/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ciocentral/2020/04/26/moneyball-medicine-data-driven-healthcare-transformation/amp/",
-      "publishedDateTime": "2020-04-26T17:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1185375168%2F0x0.jpg",
-          "width": 1200,
-          "height": 567,
-          "title": "Moneyball Medicine: Data-Driven Healthcare Transformation",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

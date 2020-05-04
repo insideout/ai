@@ -53,6 +53,19 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Deep Learning Market Research Report:Forecast till 2023 , Influence of COVID-19 on Global Trends"
+    excerpt: "Global Deep Learning Market Research Report: by Component (Hardware, Software, Services), Application (Image Recognition, Data Mining, Signal Recognition), End User (Security, Manufacturing, BFSI, Healthcare,"
+    publishedDateTime: 2020-05-04T15:45:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-research-reportforecast-till-2023-influence-of-covid-19-on-global-trends-2020-05-04"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 58
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
 
 secured: "7i5bMI/BKqr9VDndY+fP3JAyBlgtK+Jz4MpRxKUarQCKwOqluWeQetRWBo9fOKz2UTjTV+GTpIAbeLWtM/o0rDPMRN2R5yJj2lh3Mvb6kOjxdHhWSDGhwL0qig4xkKuP/scQirDu9cmVhIIDBsQyQpq3XzzQkQc96x2Hd/nK3D5BhzanoWmAgL/KpinMgphr+N3xNUsMopYJn0vgC6u0/MXkHavSe7Ot9e3InSW2Kxe1hx66w3AM6skttkE0ejaepgLbfIDe4hQPn/l5m9ddCXmxrqk/tCKFe/ANr55q0gZVt4xn3z79LgcHsd6VIe1S;TXp9kIgA78DXLs+YPbLK6g=="
 ---

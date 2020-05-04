@@ -40,6 +40,19 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Deep Learning Market Research Report:Forecast till 2023 , Influence of COVID-19 on Global Trends"
+    excerpt: "Global Deep Learning Market Research Report: by Component (Hardware, Software, Services), Application (Image Recognition, Data Mining, Signal Recognition), End User (Security, Manufacturing, BFSI, Healthcare,"
+    publishedDateTime: 2020-05-04T15:45:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-research-reportforecast-till-2023-influence-of-covid-19-on-global-trends-2020-05-04"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 58
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
   - title: "AI in Transportation Market: Analysis: By Key Players, Applications, Growth Trends, Region & Segment Forecast To 2026"
     excerpt: "The demand within the global market for AI in transportation has been rising on account of advancements in the field of automation technologies. Artificial intelligence has become one of the most sought-after technologies across the globe which has given an impetus to the growth of the global market for AI in transportation."
     publishedDateTime: 2020-05-04T11:30:00Z

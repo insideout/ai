@@ -2,6 +2,43 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-04-11-amazon-announces-general-availability-of-aws-deepcomposer.md",
+      "title": "Amazon Announces General Availability of AWS Deepcomposer",
+      "excerpt": "At re:Invent last year, Amazon launched AWS Deepcomposer as a preview, and it is generally available now with a few new features. These features include: Julien Simon, artificial intelligence ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.infoq.com/news/2020/04/amazon-aws-deepcomposer-ga/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-11T04:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoQ",
+        "domain": "infoq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/da4b9237bacccdf19c0760cab7aec4a8359010b0/2020/03/27/julsimon-deepcomposerga-1-1024x835.png",
+          "width": 1024,
+          "height": 835,
+          "title": "Amazon Announces General Availability of AWS Deepcomposer",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-10-amazon-workers-demand-jeff-bezos-cancel-face-recognition-contracts-with-law-enforcement.md",
       "title": "Amazon Workers Demand Jeff Bezos Cancel Face Recognition Contracts With Law Enforcement",
       "excerpt": "Earlier this week, several Amazon shareholders called on the company to stop selling Rekognition to the police. That backlash has now spread among employees as well. “Our company should not be ...",
@@ -1161,43 +1198,6 @@
         "authors": null
       },
       "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-01-this-support-code-is-used-for-making-machine-learning-frameworks-eg-mxnet-tensorflow-run-on-amazon-sagemaker.md",
-      "title": "This support code is used for making machine learning frameworks (e.g. MXNet, TensorFlow) run on Amazon SageMaker.",
-      "excerpt": "SageMaker Containers gives you tools to create SageMaker-compatible Docker containers, and has additional tools for letting you create Frameworks (SageMaker-compatible Docker containers that can run arbitrary Python or shell scripts).",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://github.com/aws/sagemaker-containers",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-31T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GitHub",
-        "domain": "github.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://camo.githubusercontent.com/50f1dd680303dc0933b75b712d90b22cf235c403/68747470733a2f2f302e67726176617461722e636f6d2f6176617461722f33356561353162616631666537663031343261643566393530383535646465303f643d68747470732533412532462532466769746875622e6769746875626173736574732e636f6d253246696d6167657325324667726176617461727325324667726176617461722d757365722d3432302e706e6726723d6726733d3634",
-          "width": 420,
-          "height": 420,
-          "title": "This support code is used for making machine learning frameworks (e.g. MXNet, TensorFlow) run on Amazon SageMaker.",
-          "attribution": null
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"

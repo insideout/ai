@@ -1,54 +1,23 @@
 ---
 category: news
-title: "Self-driving vehicles get in on the delivery scene amid COVID-19"
-excerpt: "SAN FRANCISCO, April 29 (Reuters) - Self-driving cars, trucks, sidewalk robots and shuttles are rolling out of the labs and parking garage"
-publishedDateTime: 2020-04-29T16:50:00Z
-webUrl: "https://www.nasdaq.com/articles/self-driving-vehicles-get-in-on-the-delivery-scene-amid-covid-19-2020-04-29"
-ampWebUrl: "https://www.nasdaq.com/articles/self-driving-vehicles-get-in-on-the-delivery-scene-amid-covid-19-2020-04-29?amp"
-cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/self-driving-vehicles-get-in-on-the-delivery-scene-amid-covid-19-2020-04-29?amp"
+title: "Self-Driving Vehicles Get in on the Delivery Scene Amid COVID-19"
+excerpt: "Since mid-April, the cars of General Motors Co's self-driving unit Cruise have flashed a \"SF COVID-19 Response\" sign on their windshields as they deliver food from SF-Marin Food B"
+publishedDateTime: 2020-04-29T16:52:00Z
+webUrl: "https://www.usnews.com/news/technology/articles/2020-04-29/self-driving-vehicles-get-in-on-the-delivery-scene-amid-covid-19"
 type: article
-quality: 54
-heat: 74
-published: true
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: U.S. News & World Report
+  domain: usnews.com
+  images:
+    - url: "https://insideout.app/ai/assets/images/organizations/usnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
 
-related:
-  - title: "Self-driving vehicles get in on the delivery scene amid COVID-19"
-    excerpt: "Self-driving cars, trucks, rolling out of the labs onto American streets to help deliver groceries, meals, and medical supplies."
-    publishedDateTime: 2020-04-30T04:41:00Z
-    webUrl: "https://www.standardmedia.co.ke/article/2001369648/self-driving-vehicles-get-in-on-the-delivery-scene-amid-covid-19"
-    ampWebUrl: "https://www.standardmedia.co.ke/mobile/amp/article/2001369648/self-driving-vehicles-get-in-on-the-delivery-scene-amid-covid-19"
-    cdnAmpWebUrl: "https://www-standardmedia-co-ke.cdn.ampproject.org/c/s/www.standardmedia.co.ke/mobile/amp/article/2001369648/self-driving-vehicles-get-in-on-the-delivery-scene-amid-covid-19"
-    type: article
-    provider:
-      name: The Standard Digital
-      domain: standardmedia.co.ke
-    quality: 44
-    images:
-      - url: "https://www.standardmedia.co.ke/images/thursday/selfdriving_vehicle5eaa5bb1afeef.jpg"
-        width: 640
-        height: 426
-  - title: "Self-driving vehicles get in on the delivery scene amid COVID-19"
-    excerpt: "Self-driving cars, trucks, sidewalk robots and shuttles are rolling out of the labs and parking garages and onto American streets to help deliver groceries, meals, and medical supplies. Although self-driving car companies have paused on-road testing in the U."
-    publishedDateTime: 2020-05-03T21:00:00Z
-    webUrl: "https://japantoday.com/category/tech/self-driving-vehicles-get-in-on-the-delivery-scene-amid-covid-19"
-    type: article
-    provider:
-      name: Japan Today
-      domain: japantoday.com
-    quality: 24
-    images:
-      - url: "https://injapan.scdn7.secure.raxcdn.com/app/uploads/2017/09/20728766_1544633632269161_1607214437966247907_o-700x466.jpg"
-        width: 700
-        height: 466
-
-secured: "DOYtqGAMtmNSw+stICztnWMCuFXH8vtaZ7+A8IAII0jgESqkLt6kBlU0fGlB+OQ3hb5HdMj6bMCkuzrpvW2TPo8/Mgup9EGUHS7qEi4aIrKZW9gRmix6mmdqYnl0w7pAgUT1hPfSLYwRN6+8PfI9OflMgD5CvSq4UaPL6pejXo4Kq3ELpo5f11Rc9TzSURyQsX1B0Q6JFfmfiBDj8Jh98kEa/QiNpRTP6FTAD3OceIhPUUByK+3dHkH1jWgQLlRTcrjf10zgfCYWxUZvwLAtK4hC8mOP9z77MTex7+9RfrTSDEW4Cd8xkLXkreH4qfiJsoJEjeLpPwlaB3P0FSICe9X9sAo0qa1qlrgu96P/mwQYwWTlMH0/IjD58njbUsqQ4xDLfQVvNgDClDO0cLFo7uHAGEOSHlcRdFSiitzScbSSLf4cX9dCLwTFuWfLuaJ7wC4qljboaIjC5hu5o8Z5ozp922ahrxNrqpQ02om9YnU=;vb6imqYEXozvCkDmpBDP4g=="
+secured: "JXgVkwqV7GVocpLwMJ5oRM/mTnd9ef2sVN8jGRDjXN0XhYM1oxs7s5xBFBchta4Yrc2mTf7kTwiIi5gMMmZAmdr/fewkc/yNpGqjAMCFBSkOcP8YXxmNY7NmE2kj/20lQ87a4823VFpxKCdN3TbR/qa0sI55ObheAsiYmY+EtBj2oORyX0SGAGxQSpDxD0kG2iuyqbNKD8mP7eyRHNRbV8UubgC73wiSWt2KfhUMH0/DU15BhwOgpfRIsC97Xv/XL1rTqby4rlbVh6oIKR3P/TxuNQ7nfUjM3jBMei+dGEXVIuQX4V/z91rctH7sD97C;olq3WiQOuUkU7uGIuk1J4w=="
 ---
 

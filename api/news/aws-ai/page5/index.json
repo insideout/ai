@@ -2,6 +2,52 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-02-26-computer-vision-custom-model-which-ai-provider-to-choose.md",
+      "title": "Computer vision & custom model : Which AI provider to choose",
+      "excerpt": "For Amazon, on the other hand, the task is much more complicated: accessing their new Amazon Rekognition Custom Label service remains a mystery. We used a direct link to this service to access it.",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/@aicompare/computer-vision-custom-model-which-ai-provider-to-choose-4e9f5eaf3ea",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-26T11:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/800/0*cvfgJkOH2vyvAo9f.jpg",
+          "width": 800,
+          "height": 400,
+          "title": "Computer vision & custom model : Which AI provider to choose",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2020-02-26-cloud-suppliers-share-of-iot-data-and-analytics-revenues-to-top-56-billion-by-2026.md",
       "title": "Cloud suppliers' share of IoT data and analytics revenues to top $56 billion by 2026",
       "excerpt": "SEE: Special report: Harnessing IoT in the enterprise (free PDF) (TechRepublic Premium) The report found that most cloud vendor revenue is derived from the storage, orchestration and streaming of data in addition to generic analytical tools like AWS Sagemaker and Microsoft Azure Notebooks. Many cloud vendors are also leveraging partnerships ...",
@@ -1262,51 +1308,6 @@
           "width": 800,
           "height": 450,
           "title": "Getting Started with AWS Deepracer (2020 edition)",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-28-building-a-business-intelligence-dashboard-for-your-amazon-lex-bots.md",
-      "title": "Building a business intelligence dashboard for your Amazon Lex bots",
-      "excerpt": "You’ve rolled out a conversational interface powered by Amazon Lex, with a goal of improving the user experience for your customers. Now you want to track how well it’s working. Are your customers finding it helpful? How are they using it? Do they like it enough to come back? How can you analyze their",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/building-a-business-intelligence-dashboard-for-your-amazon-lex-bots/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-28T14:55:31-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/01/27/bi-lex-1.gif",
-          "width": 800,
-          "height": 428,
-          "title": "Building a business intelligence dashboard for your Amazon Lex bots",
           "attribution": null
         }
       ],

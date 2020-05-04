@@ -25,6 +25,6 @@ images:
     height: 337
     title: "ICMR Incorporates IBM Watson To Process COVID-19 Data To Improve Response Rate"
 
-secured: "bHYB3B3YjD5H/gSYBAwLZWsz1wklef1tHszEjD6BP0Y2Sut/tGUVlovsja7chs6LH52HnaJiA5d5VbeS3Zxm1IoN7VAirVdl0tdjqOVqSpwkrGq7ZM7xuNI/xqW/dzClT1RvkBJZ7Zqgd4ZTiSw4Zd2vJQnsh2kkQTEz5ZDE/AAiD5mfOe76hj89EfiQeXGIIcaU10J/Rf/9VKvIb1iDw+XN6h1Syd8/tnJ9otrWA/ZUmkJgzTC2t9yrVwcUvdqkbIBJk0+sroQaerP9DFp6XxJerm8my3qYTWGxhO5w5a6NRpcWGTZ9Z7Pn7R5d85Ij;amsMOJofAhP21ewyVkuMuA=="
+secured: "nWTx+XP/fo8vhUcNIpdL4RmsGRhTd/NFGhxGiUE8QqTXMyD+JFBn9BDSdezQpK9sDeJAhKl/Dhf6OaK7lDy+fBQZ77QuMUlQnIDIvnm5rz8RIcEneBRoXjb7KyniinhVIO4sdgDN5AUTlmWU4yRbtfLNoyBBCmmCLrLFUkn8AItDuEMGPlyPLShL1Ii+3yROjS9aUK4vybH+EMYg/g+G8bJpB1/YhaViJ3JTQxWkr5+Q0mPKW62miScZOIJC1eb6L5IxHiF27dQtWr4WeT1quegHK0prgiYMRKGwnFhETXy/cwoJtAMtY+0uT0wrGt+F9v4Jd4W9clKoc4vcr0ER7QV9XZVZADO/uXxSNLZSnBxacqE+cL5Fnp5W2ftr/mImux40SlW637SB7f+ukbvJlHKS3IeGqZvnwyGq7VxhRpMzMVAsivTcx+4ynSnkOzVuKylJH47R9uGF+PQB4uMut72gIScg4vwd2QOG/cRjlww=;rYJOnAD9ib/FogeBdewvRg=="
 ---
 

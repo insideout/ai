@@ -29,6 +29,6 @@ images:
     height: 1208
     title: "Data storage and AI are driving the evolution of autonomous cars"
 
-secured: "p1K3OgijP3Be6IvOVry8T/WtdiBb1+hgr4HR9nO2JitsDfHRaHoO9uUOSj8G9xrPdfZ1OLoJocvQmlIZnH6mTjdUrTvude6wd684aerTLzvE2VKJH3Tdhf0xH+P25sLOJu2/zhRL6zXowVjmXFByaWTMh9heNUx3k7jAS+HvyKgA8hRVBJl+dcwJRKgOMSGn//TsQ9esqATovfXgYKdHS1wJHPaPsIUiVzASDknImAG6XJGJxXZ5c5vqTxYPjUT/cCINdwJBfygrqWC8XjYLI5nHf8pMhZSGjY7BFGoSRApoK0nrlGuyS2mXMflHUipz;yDv5NYGpg7/kNs7PyG4P6w=="
+secured: "70+wQrGMT6Nl/sgXryKl8W6SZ2Z0rImMqgeYwWJZDbd/WDRQHv6lJZWzZxg34+KfUdaq4opS0n9oslR1i/qUG6ptQMmT+Mt5T/PE2zP+RLu4+nUEa7fOj12BvfJeiK3YHdRcycHeB/2c21vIbxU0IG8j1Wi9NF3SBLJwFi9ejbh85jRoR3HJ7Aru0+4mDVP52A7tNcqMtzNZVJhrBMIe7pc36B/pv938IIbkCGqD7jCw8lmcHyVeX/89MTZc9ckHIMlEKOwkKqTUsXoPWcGQm1udqfqQ84SlYo828qMYVioMjHdVXgQY6SVW/IqlxM3850oCm8eg4XoQzJdFE7R0Cuq1kkS8MagtrQyPli+tEDagEwyXxOX4MtWFGyFkL7/XAeoRltlcd/Fd+X/aVE5dqO6A0zq+orx14yQOBSvFyoSAzVn/QtgN+iaXiz/BfSax1LvQovN/TxgxIOk+kul8Mc4ln5ysxpdUN4lJwMXyL6w=;J77oJ1yw3/hUO59BzPxz5Q=="
 ---
 

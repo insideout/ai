@@ -3,9 +3,9 @@ category: news
 title: "MEGVII, Iflytek Appear In Taobao Creation Festival, WIMI Develops Its AI Face Holographic Cloud Service"
 excerpt: "Taobao Festival is finally coming! In Hangzhou Boiler factory full of hard core industry wind, there are not only super hi playing methods such as artificial"
 publishedDateTime: 2020-05-01T02:07:00Z
-webUrl: "https://www.benzinga.com/pressreleases/20/04/ab15929960/megvii-iflytek-appear-in-taobao-creation-festival-wimi-develops-its-ai-face-holographic-cloud-ser"
-ampWebUrl: "https://amp.benzinga.com/amp/content/15929960"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15929960"
+webUrl: "https://www.benzinga.com/pressreleases/20/04/ab15929936/megvii-iflytek-appear-in-taobao-creation-festival-wimi-develops-its-ai-face-holographic-cloud-ser"
+ampWebUrl: "https://amp.benzinga.com/amp/content/15929936"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15929936"
 type: article
 quality: 43
 heat: 43
@@ -25,6 +25,6 @@ images:
     height: 267
     title: "MEGVII, Iflytek Appear In Taobao Creation Festival, WIMI Develops Its AI Face Holographic Cloud Service"
 
-secured: "Tcrt2TyH9R14aRhpRErxm0CjeKo4hAn/unBasMOVPveXzXUZQDQvNkELPHpPCJeAUaOzz3b4QVopCg9lyC1FviXpd/gV4DmK7mHQCgk7UwWbaLiXLjxZU99WcTlDY61zjtKz0jmqSQ3Gz+CdzLh+c8Ja4y1GwfLzPaif+4OsM6IkU/uzXxEXMmycshfR98U78jebRPmfEPXQAa/ZNDdV/zD+FXQbfU01dXdXG+eGsmDf9PprAig95b82zQpErTcu+dtKKTSi8g04ni/F7JCOQ6iEiHZHUIOZTCH+lZUz8XIWbnvYKzLvddHYk4F3MhLX;VfCUHgfIZSaqd70CNdkIIg=="
+secured: "H4QHe1IjNcZXhIn1DU/R0zgCWTbvAZi4XDOoCi4cXkc6gKfqtn7jB9p+7MffQP8bt8GgfigYKlQG8l6C4DKUyGigav1Xsm3PGpEJxtIkxmqTUjiSM/2c2SHRp9rrwS/s+Y0VKAUljBxU7ceP1qaQOd4AmA7SOHqDkvizA5z4KQniNVyseI7m7vKwU/PLEcxtFhPMAH4Yo7RINZ6pl5Zq7qzRl0tAwAVQBRzgd6tGo+f3AFMNa71LiS6ADMXSa6sbY5Ud1pAzQBu6NYYl0GCDl42tajCxtI6ZNOd7sg8cby8clhmqpZYRyIZ3sWbn7bg6;VgwNc6sG/qZc9Lwx86IC7w=="
 ---
 

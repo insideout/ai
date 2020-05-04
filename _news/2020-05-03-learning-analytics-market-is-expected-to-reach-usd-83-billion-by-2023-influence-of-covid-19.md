@@ -27,21 +27,6 @@ images:
     height: 630
     title: "Learning Analytics Market is expected to reach USD 8.3 billion by 2023, Influence of COVID-19"
 
-related:
-  - title: "Learning Analytics Market ,Industry Size, Growth, Current Trends, Competitive Landscape Forecasts till 2023"
-    excerpt: "Learning analytics has evolved from different branch of science such as psychology, statistics, information science, sociology, data mining, and machine learning, to interpret data gathered during learning,"
-    publishedDateTime: 2020-05-03T14:53:00Z
-    webUrl: "https://www.marketwatch.com/press-release/learning-analytics-market-industry-size-growth-current-trends-competitive-landscape-forecasts-till-2023-2020-05-03"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 36
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-
 secured: "6Rzz+gYuQaRtjcBa48QJs65jfzwPXdm9Tu3/3+jZfTD5Aelp1zrYaI7aJpPq8iU/s4sUQYs2N6H9xERxL669UsKRZEnISzfZxszXs75/aewtxiMpNXanJz2GrQBC/fYZfII0BeU4N0Sqn0gTOkszfBRA8yliFXogR3jlDYdrGhJdu3Bqj9seXQXRbbBHAQVEitUX3yG+wNiIsiO9E7VPHUa+kVwFBoKRNlIN4H9JuzI9xZSl9Kac7UclBJtxPbwJ20ggSvFy4f01Uz0HnEh3mzo/yGBzeq6Wutc3aCaHgD1rS58Cp2aj8F58aSREPt5o;3HvxPF69QNWX7HFkH6tvdA=="
 ---
 

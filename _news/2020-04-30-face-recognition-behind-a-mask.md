@@ -3,12 +3,10 @@ category: news
 title: "Face Recognition Behind a Mask"
 excerpt: "Although putting on a mask over your nose and mouth is one of the easiest ways to protect yourself and others from Coronavirus, face masks may be subtly (and not so subtly) interf"
 publishedDateTime: 2020-04-30T15:55:00Z
-webUrl: "https://www.psychologytoday.com/intl/blog/illusions-delusions-and-reality/202004/face-recognition-behind-mask"
-ampWebUrl: "https://www.psychologytoday.com/intl/blog/illusions-delusions-and-reality/202004/face-recognition-behind-mask?amp"
-cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/illusions-delusions-and-reality/202004/face-recognition-behind-mask?amp"
+webUrl: "https://www.psychologytoday.com/us/blog/illusions-delusions-and-reality/202004/face-recognition-behind-mask"
 type: article
-quality: 39
-heat: 39
+quality: 19
+heat: 19
 published: false
 
 provider:
@@ -19,6 +17,6 @@ topics:
   - Computer Vision
   - AI
 
-secured: "YmIr69EDXZOMVsU1GtYsC19ArqDfTqJlhuNqIMoJhed2oCIcB6LxrwpydY2OF2ABWc70Uj4JKRy8ZpTmXe9Rv/HgLUX+4smHGOsFRlxNjPi8HV9ILmxQvvSOjMbPm8wsxbhKgE8mz0iY6+pk7bLOiusymH1PwDzyvy7FSnPswpKYB3R1MSbplfglmuU881KQ+u6i4AOXVN+3MX4q1/yUM7zIemRsrJLWAoF0ElnU748p9ar/AqOi5gZHk2cpABSgq9oiuTlfGxwAwCo0aK3UcjemmtEFnaC9Y1dS6HgIs/xSRQ/YfHQYwc0mY31r4oWKdEuBoedmZFjf3pUTQUZ1quy0Hl83SVKxhyOpHWIEmMyv4kp10+7A4128sgBlAj8wGCrHZ7hzV2dRYv58oHnhMLMm3ZVay4mNx6tE2iCLvNKDTuagziPsm4WCubupnN+rBWsxcABryNE36EoY0N7cyiK7UqtB+ljoQoh6n9Gk8u4=;0wwWBC0d+hbtvEeX8LgTkA=="
+secured: "9zu9ZkcBJWbeQX3vjE1ofLLUhMhTbAkGB/ezvlSSoVAHD3bEawZYDlPc5L2zLjqpWKoEalMiWurjHp5Ypwyhi+GHFoGjjHFbtGEQVU9iYPDLnT8ZlyD+nv3OkqK+ShPUypVFQq3KrHW09/mPYQHxyPSfjtOOFJ0xiIMCn3pxqyoA8PGdGNIdE6DVG3H2QSdKd4c4t4SrMJ+fUZS+VMNI+pJp07tVQBwnpk0nhnm6u6TgOuneIT6pdQrexeTWHor/l6nU8ou12Cey4MfFNUX8RyBe1K9SOagrEul/CKhMgSx4YOwM6Dy0dsO3CkBcywJomDkAqHxIAQbH2WNByh3Da93RQWsloxVQWKyS4cgCtutVzweMdhk45qrnZjtzH3ehmlyD+3ihm2O4lQgAxUtlqZ8bRXNmabbd2tSkPGoggQquVjJK6C6ml1K7Ef+HUXo8aYYPDQhSWj2jNp4+OSnFRpzEOgcFpAB7LgZZo113rkY=;FBehz2ZV9SFkJN+xho26nQ=="
 ---
 
