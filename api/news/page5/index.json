@@ -2,6 +2,51 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-04-29-facebook-releases-its-blender-chatbot-as-an-open-source-project.md",
+      "title": "Facebook releases its 'Blender' chatbot as an open-source project",
+      "excerpt": "Facebook has spent years training its Blender chatbot on 9.4 billion conversational parameters. Now the company is releasing it as an open-source project.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.engadget.com/facebook-chatbot-ai-open-source-blender-150001320.html",
+      "ampWebUrl": "https://www.engadget.com/amp/facebook-chatbot-ai-open-source-blender-150001320.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/facebook-chatbot-ai-open-source-blender-150001320.html",
+      "publishedDateTime": "2020-04-29T08:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-04%2Fec52bd10-8991-11ea-bfbf-a5d10e9a9f52&client=amp-blogside-v2&signature=1b5c7c9ee001fd626753b341ba8ee569497eef1c",
+          "width": 600,
+          "height": 350,
+          "title": "Facebook releases its 'Blender' chatbot as an open-source project",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-29-ruha-benjamin-on-deep-learning-computational-depth-without-sociological-depth-is-superficial-learning.md",
       "title": "Ruha Benjamin on deep learning: Computational depth without sociological depth is ‘superficial learning’",
       "excerpt": "Ruja Benjamin urged engineers to consider historic and sociological factors when building deep learning systems in her keynote address at ICLR.",
@@ -1052,50 +1097,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-28-googles-ai-health-screening-tool-claimed-90-percent-accuracy-but-failed-to-deliver-in-real-world-tests.md",
-      "title": "Google's AI Health Screening Tool Claimed 90 Percent Accuracy, but Failed to Deliver in Real World Tests",
-      "excerpt": "Google said its AI showed a \"specialist-level accuracy\" of more than 90 percent for the detection of referable cases of diabetic retinopathy (DR). In reality, it quickly faced unforeseen challenges.",
-      "heat": 70,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.newsweek.com/google-artificial-intelligence-deep-learning-health-research-thailand-clinics-diabetic-retinopathy-1500692",
-      "ampWebUrl": "https://www.newsweek.com/google-artificial-intelligence-deep-learning-health-research-thailand-clinics-diabetic-retinopathy-1500692?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/google-artificial-intelligence-deep-learning-health-research-thailand-clinics-diabetic-retinopathy-1500692?amp=1",
-      "publishedDateTime": "2020-04-28T08:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1585333/google.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": "Google's AI Health Screening Tool Claimed 90 Percent Accuracy, but Failed to Deliver in Real World Tests",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

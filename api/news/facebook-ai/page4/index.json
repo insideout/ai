@@ -2,6 +2,97 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-02-05-artificial-intelligence-software-market-to-witness-huge-growth-by-2025.md",
+      "title": "Artificial Intelligence Software Market to Witness Huge Growth by 2025",
+      "excerpt": "A New Syndicate Global Artificial Intelligence Software Market Study is added in HTF MI database compiled covering key business segments and wider geographical scope to get deep dive analysed market data.",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-software-market-to-witness-huge-growth-by-2025-2020-02-05",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-05T00:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial Intelligence Software Market to Witness Huge Growth by 2025",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-04-robot-nutrition-ai-drug-discovery-and-neuro-rehabilitation-11-of-the-most-exciting-healthcare-startups-in-europe.md",
+      "title": "Robot nutrition, AI drug discovery, and neuro-rehabilitation: 11 of the most exciting healthcare startups in Europe",
+      "excerpt": "From robot chefs to smart patches that analyze your sleeping habits, here are 11 of the most exciting health tech companies in Europe.",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businessinsider.com/11-exciting-healthcare-startups-in-europe-2020-1",
+      "ampWebUrl": "https://www.businessinsider.com/11-exciting-healthcare-startups-in-europe-2020-1?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/11-exciting-healthcare-startups-in-europe-2020-1?amp",
+      "publishedDateTime": "2020-02-04T01:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.insider.com/5e32f5e524306a1e385a2fb7?width=1200&format=jpeg",
+          "width": 1000,
+          "height": 500,
+          "title": "Robot nutrition, AI drug discovery, and neuro-rehabilitation: 11 of the most exciting healthcare startups in Europe",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-02-04-uk-urged-to-regulate-how-tech-giants-like-facebook-and-google-target-you-with-content.md",
       "title": "UK urged to regulate how tech giants like Facebook and Google target you with content",
       "excerpt": "The U.K.'s AI advisor has called for regulation on how social media firms target users with posts, videos and ads.",
@@ -1247,88 +1338,6 @@
           "width": 997,
           "height": 1201,
           "title": "Samsung Prepares Neon AI for CES Debut",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2019-12-22-facebook-says-group-used-ai-generated-faces-to-push-pro-trump-messages.md",
-      "title": "Facebook says group used AI-generated faces to push pro-Trump messages",
-      "excerpt": "Facebook Inc has taken down a well-financed ... Researchers from New York-based Graphika and the Digitial Forensics Research Lab, an arm of the Washington-based Atlantic Council, said it was ...",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.livemint.com/technology/tech-news/facebook-says-group-used-ai-generated-faces-to-push-pro-trump-messages-11577018518743.html",
-      "ampWebUrl": "https://www.livemint.com/technology/tech-news/facebook-says-group-used-ai-generated-faces-to-push-pro-trump-messages/amp-11577018518743.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/facebook-says-group-used-ai-generated-faces-to-push-pro-trump-messages/amp-11577018518743.html",
-      "publishedDateTime": "2019-12-22T04:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2019/12/22/600x338/2019-09-10T150809Z_1_LYNXNPEF891DD_RTROPTP_3_FACEBOOK-MICROSOFT-DEEPFAKES_1568203372371_1577018802874.JPG",
-          "width": 600,
-          "height": 337,
-          "title": "Facebook says group used AI-generated faces to push pro-Trump messages",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2019-12-21-facebook-twitter-remove-ai-powered-fake-accounts-with-pro-trump-messages.md",
-      "title": "Facebook, Twitter Remove AI-Powered Fake Accounts With Pro-Trump Messages",
-      "excerpt": "Facebook and Twitter have taken down a global network of fake accounts used in a coordinated campaign to push pro-Trump political messages, including some that used artificial intelligence tools to try to mask the behavior,",
-      "heat": 88,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wsj.com/articles/facebook-twitter-remove-ai-powered-fake-accounts-with-pro-trump-messages-11576873453",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/facebook-twitter-remove-ai-powered-fake-accounts-with-pro-trump-messages-11576873453",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/facebook-twitter-remove-ai-powered-fake-accounts-with-pro-trump-messages-11576873453",
-      "publishedDateTime": "2019-12-20T20:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-138654/social",
-          "width": 1280,
-          "height": 640,
-          "title": "Facebook, Twitter Remove AI-Powered Fake Accounts With Pro-Trump Messages",
           "attribution": null
         }
       ],

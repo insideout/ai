@@ -8,7 +8,7 @@ ampWebUrl: "https://www.wired.com/story/algorithms-recognize-masked-face/amp"
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/algorithms-recognize-masked-face/amp"
 type: article
 quality: 74
-heat: 85
+heat: 84
 published: true
 
 provider:

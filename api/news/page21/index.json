@@ -2,6 +2,43 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2020-04-15-jordan-etem-networks-tackles-global-challenges-head-on-with-a-convergence-of-innovations.md",
+      "title": "Jordan Etem Networks Tackles Global Challenges Head-On with a Convergence of Innovations",
+      "excerpt": "With a strong presence in 23 cities and regions worldwide , Jordan Etem Networks leverages computer science, advanced machine learning and artificial intelligence to unify and strengthen neural networks for breakthrough innovation and stronger communities. Jordan Etem Networks goes beyond theoretical application and has a strong and central ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://menafn.com/1100024597/Jordan-Etem-Networks-Tackles-Global-Challenges-Head-On-with-a-Convergence-of-Innovations",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-14T20:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://menafn.com/updates/pr/2020-04/14/SN_96c6beb6-bimage_story.jpg",
+          "width": 696,
+          "height": 522,
+          "title": "Jordan Etem Networks Tackles Global Challenges Head-On with a Convergence of Innovations",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-15-afp-used-clearview-ai-facial-recognition-software-to-counter-child-exploitation.md",
       "title": "AFP used Clearview AI facial recognition software to counter child exploitation",
       "excerpt": "Seven officers have conducted searches on the Clearview AI facial recognition platform. Share. Contact. Read full article: AFP used Clearview AI facial recognition software to cou",
@@ -938,51 +975,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-14-a-closer-look-at-microsoft-azure-synapse-analytics.md",
-      "title": "A closer look at Microsoft Azure Synapse Analytics",
-      "excerpt": "Then came AI, which depending on whether it's machine learning or deep learning, has diverging resource requirements. So, bringing the data warehouse together with the data lake is no mean feat. Azure Synapse has attacked the workload issue with a cloud-native architecture that builds on the separation of compute from storage in SQL Data ...",
-      "heat": 104,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/a-closer-look-at-microsoft-azure-synapse-analytics/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/a-closer-look-at-microsoft-azure-synapse-analytics/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/a-closer-look-at-microsoft-azure-synapse-analytics/",
-      "publishedDateTime": "2020-04-14T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/04/09/ceef9f66-5c03-441e-b01b-07f3d706125b/thumbnail/1200x675/f59cb62c717acfcb85d3f3b1f0d107d5/coronavirus.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "A closer look at Microsoft Azure Synapse Analytics",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

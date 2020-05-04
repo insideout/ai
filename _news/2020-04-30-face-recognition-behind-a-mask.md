@@ -3,12 +3,10 @@ category: news
 title: "Face Recognition Behind a Mask"
 excerpt: "Although putting on a mask over your nose and mouth is one of the easiest ways to protect yourself and others from Coronavirus, face masks may be subtly (and not so subtly) interf"
 publishedDateTime: 2020-04-30T15:55:00Z
-webUrl: "https://www.psychologytoday.com/intl/blog/illusions-delusions-and-reality/202004/face-recognition-behind-mask"
-ampWebUrl: "https://www.psychologytoday.com/intl/blog/illusions-delusions-and-reality/202004/face-recognition-behind-mask?amp"
-cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/illusions-delusions-and-reality/202004/face-recognition-behind-mask?amp"
+webUrl: "https://www.psychologytoday.com/us/blog/illusions-delusions-and-reality/202004/face-recognition-behind-mask"
 type: article
-quality: 41
-heat: 41
+quality: 19
+heat: 19
 published: false
 
 provider:
@@ -16,10 +14,9 @@ provider:
   domain: psychologytoday.com
 
 topics:
-  - Natural Language Processing
-  - AI
   - Computer Vision
+  - AI
 
-secured: "DmEMhG/JZhUIgz+cFeQdvsgEQPn6LNbpsD8utZSkr1HOj2cyWsRNft57kusNfN9bHxceTi3atGN1LjDsoZa2GZjDfeTCaBtQIIyKWjL5pipsnaz9mfP6nMHVyg3S/iY3DL99W9KqqYKz5NO1pTrQpP7zfJ5m6SNDxeCsjNyzlduRt973gJumxGCVQjN5BxLLLKZ7J8PqkcKelhjR3zksX0i26yU7d+t2cjNnSKJWDZduaJ8kOL1iYCDjtoMxCK088N+q0gw7N5PqLFxIZ2Dmq2gVhmE39T6CgUUc/FOrWGmwbuhuTqulL4oaNXkYpynw+a9Zh/4rRWTUIHL0NbMMxj7gwQgR6eYZ0uvW3lt8d6InDW5yMoQxx1p/liXkw+L0sru+Hfl/62mShoAn25nr00J6wRZ7Y1tX1Sv/YOBmJSN8VMuGkEebeGCYsL6tBjO3ENJZ9lpubUEN/OHM0pdGfG0+RPyUsO9E6soiM/VMWEY=;FV59s19n8t34s2/pcg9JtA=="
+secured: "eQ1KriXEQcEEzAmqfqGBeaBvk3Wq62qGGs670nr29Zk5Pad4+Ao6wd7x6F27Z6z14IEVWuf3bhjtQDkwclIYJIhCBcDgno/Sa88Z823ZWMWhIzusWQdqtXcEh7CfbzmHnkZyTPSooAQ1o0gpxbS7Q1WTbCx7vskpg9lW3X16pF3O69O3BwrAcU9z0gJqHn0pp5aqt8BzTDLpV2gJjy0oozdQot5aDDgvSL2xn0YHJaf7aE3PcaDDEgNXXy1P7pTNPtCV0IgIRb5hKHGgxk+BNye6rwNJ7QY979iNIC+RGjXaXU8CgmWtk9AeruOz1rxAefewbfjJfJ2TtSMQNFeCqO0cka5nKsuPONwRGFwVjPT0iHaXRZpE9Qe1oTCkaRHmqV5pS5f9BxAsAIllEetD9c8jvusC3DdeQbWkR0sYDsvdex1TAXImgkpSORi65Uhvqh/5GGozco1P/rg6N4U5J0H1RWQYTLI5TsOr1qY7ulY=;/dpUw3dLpLFF0A0TnJC6OA=="
 ---
 

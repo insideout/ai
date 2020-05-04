@@ -2,6 +2,50 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2020-04-20-how-to-keep-our-ai-obsession-from-overcomplicating-data-projects.md",
+      "title": "How To Keep Our AI Obsession From Overcomplicating Data Projects",
+      "excerpt": "To work effectively, AI needs to be used in the right way for the right applications. You wouldn't use a precision laser to tailor clothing. It could work, but it would create unnecessary cost and risk with no meaningful improvement over fabric scissors.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/04/20/how-to-keep-our-ai-obsession-from-overcomplicating-data-projects/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/04/20/how-to-keep-our-ai-obsession-from-overcomplicating-data-projects/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/04/20/how-to-keep-our-ai-obsession-from-overcomplicating-data-projects/amp/",
+      "publishedDateTime": "2020-04-20T04:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F04%2Fa-4-2.jpg",
+          "width": 640,
+          "height": 640,
+          "title": "How To Keep Our AI Obsession From Overcomplicating Data Projects",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-20-myndyou-uses-ai-and-passive-data-to-detect-cognitive-decline-in-seniors.md",
       "title": "MyndYou uses AI and passive data to detect cognitive decline in seniors",
       "excerpt": "A quick glance across this landscape shows fall-detection contraptions, targeted social networks, and more. Artificial intelligence (AI) in particular is gaining a firmer foothold, with AI-powered social companions and fancy wearables designed to track all manner of activity or changes in behavior. Fledgling Israeli startup MyndYou is using AI ...",
@@ -1009,52 +1053,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-18-ai-weekly-when-to-ship-or-shelve-a-coronavirus-solution.md",
-      "title": "AI Weekly: When to ship or shelve a coronavirus solution",
-      "excerpt": "Those debates certainly carry over to the kind of AI being deployed right now, and the important question of when a company should ship or shelve a coronavirus solution. A lot of AI is being deployed in the pandemic to save lives and someday soon help us resume daily lives, much of which you’ve been able to read about here. But they aren’t ...",
-      "heat": 91,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/17/ai-weekly-when-to-ship-or-shelve-a-coronavirus-solution/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/17/ai-weekly-when-to-ship-or-shelve-a-coronavirus-solution/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/17/ai-weekly-when-to-ship-or-shelve-a-coronavirus-solution/amp/",
-      "publishedDateTime": "2020-04-17T17:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/GettyImages-1214233667.jpg?fit=1800%2C900&strip=all",
-          "width": 1800,
-          "height": 900,
-          "title": "AI Weekly: When to ship or shelve a coronavirus solution",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics",
-        "Facebook AI"
       ]
     }
   ],

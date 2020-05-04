@@ -2,6 +2,51 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-04-30-index-and-credo-lead-a-275m-seed-in-anti-fraud-tech-resistant-ai.md",
+      "title": "Index and Credo lead a $2.75M seed in anti-fraud tech, Resistant AI",
+      "excerpt": "Prague based Resistant AI has nabbed a $2.75M seed round. The security startup’s machine learning technology is designed to be deployed on top of AI systems used for financial decision making to protect customers in markets such as financial services and ecommerce from attacks such as",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/04/30/index-and-credo-lead-a-2-75m-seed-in-anti-fraud-tech-resistant-ai/",
+      "ampWebUrl": "https://techcrunch.com/2020/04/30/index-and-credo-lead-a-2-75m-seed-in-anti-fraud-tech-resistant-ai/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/30/index-and-credo-lead-a-2-75m-seed-in-anti-fraud-tech-resistant-ai/amp/",
+      "publishedDateTime": "2020-04-30T00:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/04/64BD2795-BB78-4834-AD77-F7E951E9BD85-2.jpeg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": "Index and Credo lead a $2.75M seed in anti-fraud tech, Resistant AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-30-this-ai-generates-absurdist-memes-that-are-funnier-than-what-most-real-humans-create.md",
       "title": "This AI generates absurdist memes that are funnier than what most real humans create",
       "excerpt": "This Meme Does Not Exist can create new captions for some of the most popular meme templates at the click of your mouse.",
@@ -1041,51 +1086,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-04-29-facebook-releases-its-blender-chatbot-as-an-open-source-project.md",
-      "title": "Facebook releases its 'Blender' chatbot as an open-source project",
-      "excerpt": "Facebook has spent years training its Blender chatbot on 9.4 billion conversational parameters. Now the company is releasing it as an open-source project.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.engadget.com/facebook-chatbot-ai-open-source-blender-150001320.html",
-      "ampWebUrl": "https://www.engadget.com/amp/facebook-chatbot-ai-open-source-blender-150001320.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/facebook-chatbot-ai-open-source-blender-150001320.html",
-      "publishedDateTime": "2020-04-29T08:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-04%2Fec52bd10-8991-11ea-bfbf-a5d10e9a9f52&client=amp-blogside-v2&signature=1b5c7c9ee001fd626753b341ba8ee569497eef1c",
-          "width": 600,
-          "height": 350,
-          "title": "Facebook releases its 'Blender' chatbot as an open-source project",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],

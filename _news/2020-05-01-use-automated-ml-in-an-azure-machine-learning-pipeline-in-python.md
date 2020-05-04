@@ -6,7 +6,7 @@ publishedDateTime: 2020-05-01T05:23:00Z
 webUrl: "https://docs.microsoft.com/en-us/azure/machine-learning/how-to-use-automlstep-in-pipelines"
 type: article
 quality: 71
-heat: 72
+heat: 71
 published: true
 
 provider:

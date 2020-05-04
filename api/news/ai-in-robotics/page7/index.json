@@ -2,6 +2,52 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-02-13-fiddler-labs-sri-and-berkeley-experts-open-up-the-black-box-of-machine-learning-at-tc-sessions-roboticsai.md",
+      "title": "Fiddler Labs, SRI and Berkeley experts open up the black box of machine learning at TC Sessions: Robotics+AI",
+      "excerpt": "As AI permeates the home, work, and public life, it’s increasingly important to be able to understand why and how it makes its decisions. Explainable AI isn’t just a matter of hitting a switch, though; Experts from UC Berkeley, SRI, and Fiddler Labs will discuss how we should go about it on stage at TC Sessions: Robotics+AI on March 3. What ...",
+      "heat": 117,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/02/12/fiddler-labs-sri-and-berkeley-experts-open-up-the-black-box-of-machine-learning-at-tc-sessions-roboticsai/",
+      "ampWebUrl": "https://techcrunch.com/2020/02/12/fiddler-labs-sri-and-berkeley-experts-open-up-the-black-box-of-machine-learning-at-tc-sessions-roboticsai/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/12/fiddler-labs-sri-and-berkeley-experts-open-up-the-black-box-of-machine-learning-at-tc-sessions-roboticsai/amp/",
+      "publishedDateTime": "2020-02-12T20:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/02/fiddler_images.png?w=1024",
+          "width": 1024,
+          "height": 558,
+          "title": "Fiddler Labs, SRI and Berkeley experts open up the black box of machine learning at TC Sessions: Robotics+AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-02-12-this-startup-is-building-infrastructure-for-the-first-factory-in-space.md",
       "title": "This Startup Is Building Infrastructure For The First Factory In Space",
       "excerpt": "In the quest to build bigger things in space, one Colorado-based company is readying for an epic construction demonstration mission. Blue Canyon Technologies will provide the spacecraft vehicle infrastructure supporting a “factory” that will 3D-print solar arrays in space.",
@@ -1214,51 +1260,6 @@
       "topics": [
         "AI",
         "Microsoft AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-02-03-what-robotics-biggest-raises-tell-us-about-the-industrys-future.md",
-      "title": "What robotics’ biggest raises tell us about the industry’s future",
-      "excerpt": "It is, perhaps, an arbitrary distinction that has more to do with the way we categorize technologies — placing them in automotive or mobility, as opposed to robotics. Artificial intelligence ...",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/02/03/what-robotics-biggest-raises-tell-us-about-the-industrys-future/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-03T08:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/01/GettyImages-459796142.jpg?w=601",
-          "width": 601,
-          "height": 399,
-          "title": "What robotics’ biggest raises tell us about the industry’s future",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
         "AI in Robotics"
       ]
     }

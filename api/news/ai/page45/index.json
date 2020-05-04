@@ -2,6 +2,80 @@
   "page": 45,
   "value": [
     {
+      "path": "_news/2020-03-19-natural-language-processing-and-recognition-2020-global-trends-opportunities-market-size-share-status-swot-analysis-and-forecast-to-2026.md",
+      "title": "Natural Language Processing and Recognition 2020 Global Trends, Opportunities, Market Size, Share, Status, SWOT Analysis and Forecast to 2026",
+      "excerpt": "“Natural Language Processing and Recognition Market” WiseGuyRerports.com Presents \"Global Natural Language Processing and Recognition Market Size, Status",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/03/ab15587838/natural-language-processing-and-recognition-2020-global-trends-opportunities-market-size-share-st",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/15587838",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15587838",
+      "publishedDateTime": "2020-03-18T23:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.abnewswire.com/uploads/1584599499.jpeg",
+          "width": 720,
+          "height": 300,
+          "title": "Natural Language Processing and Recognition 2020 Global Trends, Opportunities, Market Size, Share, Status, SWOT Analysis and Forecast to 2026",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-19-scientists-linked-artificial-and-biological-neurons-in-a-network-and-it-worked.md",
+      "title": "Scientists linked artificial and biological neurons in a network — and it worked",
+      "excerpt": "Scientists have linked up two silicon-based artificial neurons with a biological one across multiple countries into a fully-functional network. Using standard internet protocols, they established a chain of communication whereby an artificial neuron ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.themandarin.com.au/127951-scientists-linked-artificial-and-biological-neurons-in-a-network-and-it-worked/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-18T22:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Mandarin",
+        "domain": "themandarin.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.themandarin.com.au/content/uploads/2020/03/neurons.jpg",
+          "width": 795,
+          "height": 530,
+          "title": "Scientists linked artificial and biological neurons in a network — and it worked",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-19-transforming-surgery-with-data-ai-and-cloud.md",
       "title": "Transforming surgery with data, AI, and cloud",
       "excerpt": "In the future, there are plans to deploy Azure SQL Database, Azure Storage, and Azure App Services to realize a serverless environment. And later, AI technologies such as Microsoft Cognitive Services and Azure Machine Learning will be applied. Dr. Takeshita’s specialty is gastrointestinal surgery. With the database in place, he sees an ...",
@@ -1059,88 +1133,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-18-a-chinese-firm-claims-it-has-built-facial-recognition-tech-that-identifies-people-wearing-masks-with-95-accuracy.md",
-      "title": "A Chinese firm claims it has built facial recognition tech that identifies people wearing masks with 95% accuracy",
-      "excerpt": "People have foiled facial recognition technologies by wearing masks during the coronavirus outbreak.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businessinsider.com/chinese-company-claims-its-facial-recognition-95-accurate-masks-2020-3",
-      "ampWebUrl": "https://www.businessinsider.com/chinese-company-claims-its-facial-recognition-95-accurate-masks-2020-3?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chinese-company-claims-its-facial-recognition-95-accurate-masks-2020-3?amp",
-      "publishedDateTime": "2020-03-18T06:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.insider.com/5e5cf6c9fee23d6b777b3ed4?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": "A Chinese firm claims it has built facial recognition tech that identifies people wearing masks with 95% accuracy",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-18-how-china-built-facial-recognition-for-people-wearing-masks.md",
-      "title": "How China built facial recognition for people wearing masks",
-      "excerpt": "Hanwang, the facial-recognition company that has placed 2 million of its cameras at entrance gates across the world, started preparing for the coronavirus in early January. Huang Lei, the company’s chief technical officer, said that even before the new virus was widely known about, he had begun to get requests from hospitals at the centre of ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://arstechnica.com/tech-policy/2020/03/how-china-built-facial-recognition-for-people-wearing-masks/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-18T06:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

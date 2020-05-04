@@ -24,6 +24,6 @@ images:
     height: 588
     title: "\"New Artificial Intelligence Tools Will Revolutionize the Visual Effects Industry!\""
 
-secured: "8XmvAvutWcAKMvhW+RFSqlocFP2csMdynbZqPr+SeohRhXB/iLzzg6qZeICtK48z2QaJsH25MENuQKKoKMi+26EDfXTf6uqnqaflcFQexLl2+snYgQ206syXtq+F6Pec0Mb5Af4WLR+TiCBTwx1WH0+yNQyDtUtac2whWvgFNvjjHzpRjgo/mCFIPqCSm+ENRPS3q0yDaqjZR8xYW4+cV9cuHmeK+fUcizfzQjFMJ1VOFjCXi63rKIldFN0gqAdsobi+gAaKuAFrCrpgFfVxogwTFE0NzDmUwMGgNlhoYO7Bg8Rx6QqGovnOdfF+glbm;vqjPuv82hCks3AdlNfA5Vw=="
+secured: "/C96Vvxt3smKC+oYoCUzv2dfDPkt1++1NVSvcqpP8YLdp23XqhTt7uVnr2wikxPDUFjrj+eLZSpwmBi1abd8TBUTqb3R3/wIE81JFt3maoVGmd4ceImHWMTfC3rX5P1vjwkaKO1JmDs6jajzpqY0B+Jk6cxwayOql1z5ET9o5Zh7+wha2c7Jevs+X7tF63HZWPYkubsPRK+VNLhq7by5yuF6rpwyYPZOa5mvVeLREncF/XIHpzyH9PhzAiWPuu/S9NzoUhMhO7WtdYH4twYRPhDjJYAR+7382QQ/mO/p3KU6tu15L2oSL9mWWEUU4rIiAg0cWIW+wtNFO1qfzhCnMUNvhG3MCnTQGjUYCVef4nnYp+ePA+E0OhpvMIkvrmiVWqCZRm9nS6umnZn/V2uGPC1uNeR6xlmKvdrPVc+yiyj4FulEFuM6KxpNplE5tWz4gsUMjmqAPRj/8MICS7zrmo98C75/ZGn35I72BMvr/vY=;73AexS5gY1Nc6ESZMn9CbA=="
 ---
 

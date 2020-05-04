@@ -2,6 +2,95 @@
   "page": 62,
   "value": [
     {
+      "path": "_news/2020-02-28-robots-and-their-masters-take-over-nuclear-plant-for-darpas-subterranean-challenge.md",
+      "title": "Robots and their masters take over nuclear plant for DARPA’s Subterranean Challenge",
+      "excerpt": "This special series explores the evolving relationship between humans and machines, examining the ways that robots, artificial intelligence and automation are impacting our work ... “And that confidence might be just what they need to go start a company, or create a lab, or address real problems that need additional attention.”",
+      "heat": 83,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.geekwire.com/2020/robots-masters-take-nuclear-plant-darpas-subterranean-challenge/",
+      "ampWebUrl": "https://www.geekwire.com/2020/robots-masters-take-nuclear-plant-darpas-subterranean-challenge/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/robots-masters-take-nuclear-plant-darpas-subterranean-challenge/amp/",
+      "publishedDateTime": "2020-02-27T16:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/02/200225-subt-csiro2-630x449.jpg",
+          "width": 630,
+          "height": 449,
+          "title": "Robots and their masters take over nuclear plant for DARPA’s Subterranean Challenge",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-02-27-docusign-acquires-seal-software-for-188m-to-enhance-its-ai-chops.md",
+      "title": "DocuSign acquires Seal Software for $188M to enhance its AI chops",
+      "excerpt": "These companies use Seal for its contract management tools, but also for its analytics, discovery and data extraction services. And it’s these AI smarts the company developed over time to help businesses analyze their contracts that made DocuSign acquire the company. This can help them significantly reduce their time for legal reviews ...",
+      "heat": 137,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/02/27/docusign-acquires-seal-software-for-188m-to-enhance-its-ai-chops/",
+      "ampWebUrl": "https://techcrunch.com/2020/02/27/docusign-acquires-seal-software-for-188m-to-enhance-its-ai-chops/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/27/docusign-acquires-seal-software-for-188m-to-enhance-its-ai-chops/amp/",
+      "publishedDateTime": "2020-02-27T15:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/02/GettyImages-82570218.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": "DocuSign acquires Seal Software for $188M to enhance its AI chops",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-02-27-intel-uses-ai-to-find-new-customers-in-specific-industries.md",
       "title": "Intel uses AI to find new customers in specific industries",
       "excerpt": "How does Intel, which expects the market opportunity for AI hardware to grow from $2.5 billion in 2017 to $10 billion in 2022, find new customer opportunities? With AI, of course. In a blog post today, Intel detailed a tool its IT Advanced Analytics team developed internally to mine millions of public business pages and extract actionable ...",
@@ -1179,96 +1268,6 @@
           "width": 1200,
           "height": 676,
           "title": "Simplifying Conversational AI, One Interaction At A Time",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-26-researchers-apply-developmental-psychology-to-ai-model-that-predicts-object-relationships.md",
-      "title": "Researchers apply developmental psychology to AI model that predicts object relationships",
-      "excerpt": "Inspired by this, a team of researchers hailing from the MIT-IBM Watson AI Lab, MIT’s Computer Science and Artificial Intelligence Laboratory, Alphabet’s DeepMind, and Harvard University sought to simplify the problem of visual recognition by introducing a benchmark — CoLlision Events for Video REpresentation and Reasoning (CLEVRER ...",
-      "heat": 92,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/02/26/researchers-apply-developmental-psychology-to-ai-model-that-predicts-object-relationships/",
-      "ampWebUrl": "https://venturebeat.com/2020/02/26/researchers-apply-developmental-psychology-to-ai-model-that-predicts-object-relationships/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/26/researchers-apply-developmental-psychology-to-ai-model-that-predicts-object-relationships/amp/",
-      "publishedDateTime": "2020-02-26T15:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/10/GettyImages-1073802514-e1582219406331.jpg?fit=1200%2C608&strip=all",
-          "width": 1200,
-          "height": 608,
-          "title": "Researchers apply developmental psychology to AI model that predicts object relationships",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "IBM AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-26-is-ai-enabled-voice-cloning-the-next-big-security-scam.md",
-      "title": "Is AI-Enabled Voice Cloning the Next Big Security Scam?",
-      "excerpt": "A company that specializes in detecting voice fraud is sounding the alarm over an emerging threat. With the help of AI-powered software, cybercriminals are starting to clone people’s voices to commit scams, according to Vijay Balasubramaniyan, CEO of ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.pcmag.com/news/is-ai-enabled-voice-cloning-the-next-big-security-scam",
-      "ampWebUrl": "https://www.pcmag.com/news/is-ai-enabled-voice-cloning-the-next-big-security-scam?amp=true",
-      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/is-ai-enabled-voice-cloning-the-next-big-security-scam?amp=true",
-      "publishedDateTime": "2020-02-26T15:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/00qALkcUOsHsCITmseFIx8j-1.fit_lim.size_1200x630.v_1582752685.jpg",
-          "width": 1119,
-          "height": 630,
-          "title": "Is AI-Enabled Voice Cloning the Next Big Security Scam?",
           "attribution": null
         }
       ],

@@ -2,6 +2,95 @@
   "page": 42,
   "value": [
     {
+      "path": "_news/2020-03-30-star-trek-voyager-gets-an-unofficial-4k-remaster-thanks-to-ai.md",
+      "title": "'Star Trek: Voyager' gets an unofficial 4K remaster thanks to AI",
+      "excerpt": "You won't forget that the show was made for tube TVs given the aspect ratio, but the AI is surprisingly effective -- it produces something you probably wouldn't mind watching on an idle afternoon if you're a Star Trek devotee. The effort is time-consuming at about six hours for an episode, and the necessary software is both expensive and tricky ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.engadget.com/2020-03-29-star-trek-voyager-4k-unofficial-ai-remaster.html",
+      "ampWebUrl": "https://www.engadget.com/amp/2020-03-29-star-trek-voyager-4k-unofficial-ai-remaster.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020-03-29-star-trek-voyager-4k-unofficial-ai-remaster.html",
+      "publishedDateTime": "2020-03-29T20:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D2917%252C1945%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1067%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2020-03%252F58b51930-7213-11ea-baff-d5511b899659%26client%3Da1acac3e1b3290917d92%26signature%3Dd228aae84390dea235728c38be873d772c46b03a&client=amp-blogside-v2&signature=e5e99794ff3100e08542506b05337f770a1b003d",
+          "width": 600,
+          "height": 350,
+          "title": "'Star Trek: Voyager' gets an unofficial 4K remaster thanks to AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-30-how-artificial-intelligence-is-helping-fight-the-covid-19-pandemic.md",
+      "title": "How Artificial Intelligence Is Helping Fight The COVID-19 Pandemic",
+      "excerpt": "Related: We're In This Together: Business Resources, Offers, And More For MENA Entrepreneurs To Get Through The Coronavirus Pandemic As research details emerge, the data pool grows exponentially, beyond the capacity of human intelligence alone to handle ... 2. VIRTUAL HEALTHCARE ASSISTANTS (CHATBOTS) The number of COVID-19 cases has shown ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.entrepreneur.com/article/348368",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/348368",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/348368",
+      "publishedDateTime": "2020-03-29T20:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/20180508043336-shutterstock-618326639.jpeg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": "How Artificial Intelligence Is Helping Fight The COVID-19 Pandemic",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-30-nobleai-completes-contributions-to-tensorflow-googles-open-source-framework-for-deep-learning.md",
       "title": "Noble.AI completes contributions to TensorFlow, Google’s open-source framework for deep learning",
       "excerpt": "Noble.AI, whose artificial intelligence (AI) software is purpose-built for engineers, scientists, and researchers and enables them to innovate and make discoveries faster, announced that it had completed contributions to TensorFlow, the world’s most popular open-source framework for deep learning created by Google. “Part of Noble’s ...",
@@ -941,96 +1030,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-28-microsoft-gives-clean-chit-to-israeli-facial-recognition-startup-on-its-work.md",
-      "title": "Microsoft gives clean chit to Israeli facial recognition startup on its work",
-      "excerpt": "March 27 (Reuters) - Microsoft Corp said on Friday a probe found that an Israeli facial recognition startup it funded is not enabling a mass surveillance program in the West Bank as reported by some media outlets. AnyVision, based outside Tel Aviv, has come under scrutiny following reports by Haaretz’s TheMarker business newspaper and NBC ...",
-      "heat": 96,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.reuters.com/article/microsoft-anyvision/microsoft-gives-clean-chit-to-israeli-facial-recognition-startup-on-its-work-idUSL4N2BK4O4",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL4N2BK4O4",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL4N2BK4O4",
-      "publishedDateTime": "2020-03-27T17:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Microsoft gives clean chit to Israeli facial recognition startup on its work",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-28-tesla-deal-boosts-chinese-presence-in-us-auto-tech.md",
-      "title": "Tesla deal boosts Chinese presence in US auto tech",
-      "excerpt": "Baidu has invested in Nio, as well as in Uber and Velodyne, a California maker of laser-based lidar sensors for self-driving cars. Alibaba's mobility investments include Didi and Lyft. As Tesla is ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnbc.com/2017/03/28/messaging-app-parent-tencent-takes-stake-in-tesla.html",
-      "ampWebUrl": "https://www.cnbc.com/amp/2017/03/28/messaging-app-parent-tencent-takes-stake-in-tesla.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2017/03/28/messaging-app-parent-tencent-takes-stake-in-tesla.html",
-      "publishedDateTime": "2020-03-27T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/104329942-IMG_5438.JPG?v=1491839432",
-          "width": 1445,
-          "height": 964,
-          "title": "Tesla deal boosts Chinese presence in US auto tech",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

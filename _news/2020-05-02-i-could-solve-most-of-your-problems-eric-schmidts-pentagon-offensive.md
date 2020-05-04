@@ -8,7 +8,7 @@ ampWebUrl: "https://www.nytimes.com/2020/05/02/technology/eric-schmidt-pentagon-
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/05/02/technology/eric-schmidt-pentagon-google.amp.html"
 type: article
 quality: 73
-heat: 73
+heat: 83
 published: true
 
 provider:
@@ -28,6 +28,21 @@ images:
     width: 1050
     height: 550
     title: "‘I Could Solve Most of Your Problems’: Eric Schmidt’s Pentagon Offensive"
+
+related:
+  - title: "‘I could solve most of your problems’: Eric Schmidt’s Pentagon offensive"
+    excerpt: "The former Google CEO has reinvented himself as the prime liaison between Silicon Valley and the military-industrial complex."
+    publishedDateTime: 2020-05-03T23:55:00Z
+    webUrl: "https://www.bizjournals.com/washington/news/2020/05/03/i-could-solve-most-of-your-problems-eric-schmidt.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 23
+    images:
+      - url: "https://media.bizj.us/view/img/11656585/tech-military-liason-0*1200xx4924-2770-0-257.jpg"
+        width: 1200
+        height: 675
 
 secured: "jYcdJFCfFFfVgy2ibOr9T0JqDOPeh7LE78xibF23jfNl4zY11t4SB8nlMCnS+eTRVy6+GJ65nLhZBNBKPGmVP9PGV1zrr/pLDhrPytG+cDHICukR7nwn105EwbC1N7vfXjGSBqsDEBPTWqcHSj9bjguPW56pl2TGkmmQRIUo5A5Pt8P4IXm/kavoW2E3wD0M/c1icOOOjhlYoARGQKIZoygLUM3hZ7pL0P9rwZhymXHhLzN+6QK+Btgo4LkTpWK9daLQtGWZ1y7NYhGSlv86wWzQd6OmL29DjtppIqm8ENN0AKnA1u19sQ9LCFUbMRG9cAme0NWNsGUsmS0LpPRdl3fTwU5QPBwc4HnhX9/SUSwJtmktcw2HL9vtOXBBhrmso1GZiFzydG6a1SoyfbERFYoOEw7Vi1UdACvvCmPXUFGLCJcSj9K+EC5BMVcIzPyNwzv8jwlcaPnX/TJrjrsGTpFp8MmaaACdA/kaPeJe3MA=;JRJUKTJj5zKQZsaL3eWFjA=="
 ---

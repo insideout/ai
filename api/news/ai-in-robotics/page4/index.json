@@ -2,6 +2,43 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-03-21-artificial-intelligence-system-aimed-at-preventing-drownings.md",
+      "title": "Artificial intelligence system aimed at preventing drownings",
+      "excerpt": "The device resembles a stingray, except it doesn’t patrol the water in search of prey -- rather than threaten humans, it aims to save them.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fresnobee.com/news/article241279376.html",
+      "ampWebUrl": "https://amp.fresnobee.com/news/article241279376.html",
+      "cdnAmpWebUrl": "https://amp-fresnobee-com.cdn.ampproject.org/c/s/amp.fresnobee.com/news/article241279376.html",
+      "publishedDateTime": "2020-03-21T00:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Fresno Bee",
+        "domain": "fresnobee.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5596404782001/9774f891-9d20-41f1-bd88-9e65e1074b3d/aa6356b5-b0c9-418b-a6aa-f925cec85dd8/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Artificial intelligence system aimed at preventing drownings",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-19-starsky-robotics-co-founder-on-self-driving-truck-shutdown.md",
       "title": "Starsky Robotics co-founder on self-driving truck shutdown",
       "excerpt": "The autonomous trucking startup was founded in 2015 and raised about ... re instead seeing exponential increases in the cost to improve AI systems — supervised ML seems to follow an S-Curve.” Seltz-Axmacher said a $20 million Series B fell apart in November 2019. Starsky Robotics then furloughed most of its employees and began working ...",
@@ -1144,43 +1181,6 @@
           "width": 736,
           "height": 414,
           "title": "Artificial intelligence, image-guided robotics for automatic blood draw",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-06-its-like-you-have-a-hand-again-a-major-breakthrough-in-robotic-limb-technology.md",
-      "title": "'It's like you have a hand again' — A major breakthrough in robotic limb technology",
-      "excerpt": "They're claiming it as a major advance in mind-controlled prosthetics ... \"It's just been really hard to do because the physics is not in your favour.\" While the robotic technology in prosthetic hands has come a long way in recent years, the way ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cbc.ca/radio/quirks/mar-7-new-technology-gives-amputees-a-hand-a-big-dam-proposal-your-dog-s-heat-sensitive-nose-and-more-1.5486967/it-s-like-you-have-a-hand-again-a-major-breakthrough-in-robotic-limb-technology-1.5486974",
-      "ampWebUrl": "https://www.cbc.ca/amp/1.5486974",
-      "cdnAmpWebUrl": "https://www-cbc-ca.cdn.ampproject.org/c/s/www.cbc.ca/amp/1.5486974",
-      "publishedDateTime": "2020-03-06T13:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBC.ca",
-        "domain": "www.cbc.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.cbc.ca/1.5488452.1583513963!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/mind-control-prosthesis-university-of-michigan.jpg",
-          "width": 620,
-          "height": 349,
-          "title": "'It's like you have a hand again' — A major breakthrough in robotic limb technology",
           "attribution": null
         }
       ],

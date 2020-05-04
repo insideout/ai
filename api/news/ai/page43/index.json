@@ -2,6 +2,80 @@
   "page": 43,
   "value": [
     {
+      "path": "_news/2020-03-20-alibaba-cloud-offers-ai-based-solutions-to-help-combat-coronavirus.md",
+      "title": "Alibaba Cloud offers AI-based solutions to help combat coronavirus",
+      "excerpt": "The tool offers video conferencing and real-time AI translation into 11 languages: Arabic, Bahasa, Chinese, English, French, Japanese, Russian, Spanish, Thai, Turkish, and Vietnamese. Another tool, the Epidemic Prediction Solution, models epidemic characteristics of the disease in different geographies, estimating the scale, peak and duration ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.itproportal.com/news/alibaba-cloud-offers-ai-based-cloud-solutions-to-help-combat-the-coronavirus/",
+      "ampWebUrl": "https://www.itproportal.com/amp/news/alibaba-cloud-offers-ai-based-cloud-solutions-to-help-combat-the-coronavirus/",
+      "cdnAmpWebUrl": "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/news/alibaba-cloud-offers-ai-based-cloud-solutions-to-help-combat-the-coronavirus/",
+      "publishedDateTime": "2020-03-20T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro Portal",
+        "domain": "itproportal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/uKk6nHdDTVitzef6wAnKYV-1200-80.jpg",
+          "width": 800,
+          "height": 450,
+          "title": "Alibaba Cloud offers AI-based solutions to help combat coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-20-analysis-on-north-americas-deep-learning-chipset-industry-2019-2025-anticipating-a-cagr-of-354.md",
+      "title": "Analysis on North America's Deep Learning Chipset Industry, 2019-2025: Anticipating a CAGR of 35.4%",
+      "excerpt": "DUBLIN, March 20, 2020 /PRNewswire/ -- The \"North America Deep Learning Chipset Market, by Type, by Technology, by End User, by Country, Industry Analysis and Forecast, 2019 - 2025\" report has ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.prnewswire.com/news-releases/analysis-on-north-americas-deep-learning-chipset-industry-2019-2025-anticipating-a-cagr-of-35-4-301026901.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-20T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "http://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook",
+          "width": 800,
+          "height": 419,
+          "title": "Analysis on North America's Deep Learning Chipset Industry, 2019-2025: Anticipating a CAGR of 35.4%",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-20-watch-the-nokia-bond-campaign-trailer-the-only-gadget-youll-ever-need.md",
       "title": "Watch the Nokia-Bond campaign trailer: “The Only Gadget You’ll Ever Need",
       "excerpt": "HMD has now posted its official campaign trailer for the Nokia-James Bond movie “No time to die” collaboration on YouTube. The movie is coming to cinemas in November. Read more about the Nokia-James Bond collaboration here. Check out our new campaign trailer featuring @LashanaLynch as agent Nomi. We are the proud technology partner of the ...",
@@ -1145,79 +1219,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-03-19-fairy-tail-rpgs-story-trailer-reveals-gildarts.md",
-      "title": "Fairy Tail RPG's Story Trailer Reveals Gildarts",
-      "excerpt": "The official PlayStation YouTube channel began streaming a story trailer for KOEI Tecmo Games and Gust's Fairy Tail role-playing game on Thursday. The video reveals the new playable character Gildarts. KOEI Tecmo America and Gust also revealed details fo the game's new Eclipse arc. The arc centers on the “Project Eclipse” experiment \"that ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.youtube.com/watch?v=8tq1C8spV_g",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-19T07:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Anime News Network",
-        "domain": "animenewsnetwork.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/8tq1C8spV_g/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": "Fairy Tail RPG's Story Trailer Reveals Gildarts",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-19-ai-models-could-struggle-to-handle-the-market-downturn.md",
-      "title": "AI models could struggle to handle the market downturn",
-      "excerpt": "However, these models introduce significant fair lending risk, reputational risk and credit risk. Many newly established fintech and nonbanks entering the credit market late in the cycle favor the use of AI and ML underwriting methods that focus on thin file and near-prime borrowers. Additionally, established banks face pressure to grow.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.americanbanker.com/opinion/ai-models-could-struggle-to-handle-the-market-downturn",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-19T07:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "American Banker",
-        "domain": "americanbanker.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://arizent.brightspotcdn.com/dims4/default/c11ac70/2147483647/strip/true/crop/4368x2293+0+309/resize/1200x630!/quality/90/?url=https%3A%2F%2Farizent.brightspotcdn.com%2F67%2Fa7%2F4ae3a940490ba684093d832a2c74%2Fhousing-market-10635702-adobe.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": "AI models could struggle to handle the market downturn",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],
