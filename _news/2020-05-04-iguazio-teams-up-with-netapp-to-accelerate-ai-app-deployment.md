@@ -36,6 +36,15 @@ related:
       - url: "https://mms.businesswire.com/media/20200504005011/en/788500/23/Iguazio_logo_light_png.jpg"
         width: 1200
         height: 627
+  - title: "Iguazio, NetApp collaborate to accelerate deployment of AI applications"
+    excerpt: "Iguazio entered a strategic partnership with NetApp that provides enterprises with a platform for developing, deploying and managing AI applications at scale and in real-time on top of the ONTAP AI framework."
+    publishedDateTime: 2020-05-04T12:04:00Z
+    webUrl: "https://www.telecompaper.com/news/iguazio-netapp-collaborate-to-accelerate-deployment-of-ai-applications--1337110"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 19
 
 secured: "zORcYQ9pWoi18EmkIHnw9VPKmHFdgggP9XEAJGXdBaUFuRZpfxpbTQEPagSpIgut4zqV9QWDXZk/7yiwYvVncKSR1OJpbBwnF1A23CbZEJs7UFLJS/TsXLspWRFm5T5GY0DdW83GNIrBum/vzvyB5WNbCGFssXJg/gtA3ZZ33j3t88fpkv59bKGbm9uV+pOJKRWuggJhRY0ADWom/YBo8ty7edZUDXr2Xarsqm9xXCGX9yM580TgebgLXYmSht/R50pFCvlJf5xNVzC7OzwPcyKfkLThgfmgCeTFyNo8pbYrGlxZBi38z9mgUZq6zPUZ;NOF1zmUSrS6lWZfQ/LQObA=="
 ---

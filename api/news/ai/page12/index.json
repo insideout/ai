@@ -2,6 +2,169 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-04-21-artificial-intelligence-how-machine-learning-jobs-are-giving-refugees-a-future-in-tech.md",
+      "title": "Artificial intelligence: How machine-learning jobs are giving refugees a future in tech",
+      "excerpt": "Humans in the Loop is a social enterprise founded in 2017. It helps refugees from conflict zones like Syria, Iraq, and Afghanistan settle in the country by acquiring digital skills that they can use for working on artificial-intelligence and machine-learning-related projects. SEE: How to implement AI and machine learning (ZDNet special report ...",
+      "heat": 81,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/artificial-intelligence-how-machine-learning-jobs-are-giving-refugees-a-future-in-tech/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/artificial-intelligence-how-machine-learning-jobs-are-giving-refugees-a-future-in-tech/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/artificial-intelligence-how-machine-learning-jobs-are-giving-refugees-a-future-in-tech/",
+      "publishedDateTime": "2020-04-21T03:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2020/03/27/5b741f04-5703-4a2a-b76b-d785d75d14d2/thumbnail/1200x675/e45cf779a0407789e919a9781db17a1f/istock-1130569495.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Artificial intelligence: How machine-learning jobs are giving refugees a future in tech",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-21-ust-global-named-winner-at-the-microsoft-ai-awards-20-for-the-best-innovation-in-artificial-intelligence.md",
+      "title": "UST Global named winner at the Microsoft AI Awards 2.0 for the Best Innovation in Artificial Intelligence",
+      "excerpt": "UST Global, a leading digital transformation solutions company, announced that it has won the 2020 most innovative AI application award for societal impact from Microsoft. UST",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://indiaeducationdiary.in/ust-global-named-winner-at-the-microsoft-ai-awards-2-0-for-the-best-innovation-in-artificial-intelligence/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-21T03:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Education Diary",
+        "domain": "indiaeducationdiary.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i2.wp.com/indiaeducationdiary.in/wp-content/uploads/2020/04/Krishna-Sudheendra-CEO-UST-Global-recieving-the-award-from-Jean-Philippe-Courtois-EVP-and-President-Global-Sales-Marketing-and-Operations-Microsoft-Corporation.jpg?fit=1000%2C1058&ssl=1",
+          "width": 1000,
+          "height": 1058,
+          "title": "UST Global named winner at the Microsoft AI Awards 2.0 for the Best Innovation in Artificial Intelligence",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-21-deep-learning-takes-on-tumours.md",
+      "title": "Deep learning takes on tumours",
+      "excerpt": "The cell movements hold clues to how drugs or gene variants might affect the spread of tumours in the body, and he is tracking the nucleus of each cell in frame after frame of time-lapse microscopy films.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nature.com/articles/d41586-020-01128-8",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-21T03:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nature",
+        "domain": "nature.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.nature.com/lw1024/magazine-assets/d41586-020-01128-8/d41586-020-01128-8_17881098.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": "Deep learning takes on tumours",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-21-checking-ai-bias-is-a-job-for-the-humans.md",
+      "title": "Checking AI bias is a job for the humans",
+      "excerpt": "One of the primary problems with artificial intelligence (AI) is the “artificial” part. The other is the “intelligence.” While we like to pretend that we’re setting robotic intelligences free from our human biases and other shortcomings, in reality we often transfer our failings into the AI, one dataset at a time. Hannah Davis ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.infoworld.com/article/3537968/checking-ai-bias-is-a-job-for-the-humans.html",
+      "ampWebUrl": "https://www.infoworld.com/article/3537968/checking-ai-bias-is-a-job-for-the-humans.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3537968/checking-ai-bias-is-a-job-for-the-humans.amp.html",
+      "publishedDateTime": "2020-04-21T03:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2018/02/artificial_intelligence_ai_virtual_assistant_automation_thinkstock_643956998-100749919-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Checking AI bias is a job for the humans",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-21-ibm-fenergo-join-forces-to-fight-financial-crime.md",
       "title": "IBM & Fenergo Join Forces to Fight Financial Crime",
       "excerpt": "Fenergo, the leading provider of digital transformation, customer journey and client lifecycle management (CLM) solutions for",
@@ -129,13 +292,13 @@
     {
       "path": "_news/2020-04-21-transcosmos-releases-automated-call-answering-service-with-the-power-of-speech-recognition-intent-inference-algorithms.md",
       "title": "transcosmos releases \"Automated Call Answering Service\" with the power of speech recognition & intent inference algorithms",
-      "excerpt": "Helps businesses further utilize call logs for marketing whilst reducing call agents' workload TOKYO (PRWEB) transcosmos inc. released an \"automated",
+      "excerpt": "PRWeb/ -- transcosmos inc. released an \"automated call answering service\" that utilizes \"BEDORE Voice Conversation,\" a",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.benzinga.com/pressreleases/20/04/p15845152/transcosmos-releases-automated-call-answering-service-with-the-power-of-speech-recognition-intent-",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/15845152",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15845152",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/04/n15845146/transcosmos-releases-automated-call-answering-service-with-the-power-of-speech-recognition-intent-",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/15845146",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15845146",
       "publishedDateTime": "2020-04-21T00:05:00-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -1086,183 +1249,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-20-microsoft-our-ai-can-spot-security-flaws-from-just-the-titles-of-developers-bug-reports.md",
-      "title": "Microsoft: Our AI can spot security flaws from just the titles of developers' bug reports",
-      "excerpt": "Microsoft has revealed how it's applying machine learning to the challenge of correctly identifying which bug reports are actually security-related. Its goal is to correctly identify security bugs at scale using a machine-learning model to analyze just the label of bug reports. According to Microsoft, its 47,000 developers generate about ...",
-      "heat": 78,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/microsoft-our-ai-can-spot-security-flaws-from-just-the-titles-of-developers-bug-reports/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-our-ai-can-spot-security-flaws-from-just-the-titles-of-developers-bug-reports/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-our-ai-can-spot-security-flaws-from-just-the-titles-of-developers-bug-reports/",
-      "publishedDateTime": "2020-04-20T04:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2020/03/11/dcabbbb7-b82d-4967-afd8-66b2b64ff7f8/thumbnail/1200x675/d583d73263f0adcedfde77d6f345a798/ransomware-these-sophisticated-attacks-a-5e666032710b2800019be724-1-mar-11-2020-13-21-31-poster.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Microsoft: Our AI can spot security flaws from just the titles of developers' bug reports",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-20-can-artificial-intelligence-help-alleviate-travel-industry-woes.md",
-      "title": "Can Artificial Intelligence Help Alleviate Travel Industry Woes?",
-      "excerpt": "The travel industry, for instance, is uniquely vulnerable to this combination of systemic shocks. As such, operators like airlines and OTAs should take this opportunity to review and identify strategies to increase efficiency.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/04/20/can-artificial-intelligence-help-alleviate-travel-industry-woes/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/04/20/can-artificial-intelligence-help-alleviate-travel-industry-woes/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/04/20/can-artificial-intelligence-help-alleviate-travel-industry-woes/amp/",
-      "publishedDateTime": "2020-04-20T04:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F04%2Fa-14-2.jpg",
-          "width": 640,
-          "height": 640,
-          "title": "Can Artificial Intelligence Help Alleviate Travel Industry Woes?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-20-how-to-keep-our-ai-obsession-from-overcomplicating-data-projects.md",
-      "title": "How To Keep Our AI Obsession From Overcomplicating Data Projects",
-      "excerpt": "To work effectively, AI needs to be used in the right way for the right applications. You wouldn't use a precision laser to tailor clothing. It could work, but it would create unnecessary cost and risk with no meaningful improvement over fabric scissors.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/04/20/how-to-keep-our-ai-obsession-from-overcomplicating-data-projects/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/04/20/how-to-keep-our-ai-obsession-from-overcomplicating-data-projects/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/04/20/how-to-keep-our-ai-obsession-from-overcomplicating-data-projects/amp/",
-      "publishedDateTime": "2020-04-20T04:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F04%2Fa-4-2.jpg",
-          "width": 640,
-          "height": 640,
-          "title": "How To Keep Our AI Obsession From Overcomplicating Data Projects",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-20-myndyou-uses-ai-and-passive-data-to-detect-cognitive-decline-in-seniors.md",
-      "title": "MyndYou uses AI and passive data to detect cognitive decline in seniors",
-      "excerpt": "A quick glance across this landscape shows fall-detection contraptions, targeted social networks, and more. Artificial intelligence (AI) in particular is gaining a firmer foothold, with AI-powered social companions and fancy wearables designed to track all manner of activity or changes in behavior. Fledgling Israeli startup MyndYou is using AI ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/20/myndyou-uses-ai-and-passive-data-to-detect-cognitive-decline-in-seniors/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/20/myndyou-uses-ai-and-passive-data-to-detect-cognitive-decline-in-seniors/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/20/myndyou-uses-ai-and-passive-data-to-detect-cognitive-decline-in-seniors/amp/",
-      "publishedDateTime": "2020-04-20T03:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/Elderly.jpg?fit=2001%2C1000&strip=all",
-          "width": 2001,
-          "height": 1000,
-          "title": "MyndYou uses AI and passive data to detect cognitive decline in seniors",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

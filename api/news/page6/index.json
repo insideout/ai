@@ -2,6 +2,179 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-04-28-ford-delays-self-driving-taxis-to-2022.md",
+      "title": "Ford delays self-driving taxis to 2022",
+      "excerpt": "Ford is putting the future of autonomous driving on hold until 2022 as it grapples with the COVID-19 pandemic.",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.engadget.com/ford-delays-self-driving-taxis-to-2022-231030762.html",
+      "ampWebUrl": "https://www.engadget.com/amp/ford-delays-self-driving-taxis-to-2022-231030762.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/ford-delays-self-driving-taxis-to-2022-231030762.html",
+      "publishedDateTime": "2020-04-28T16:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-04%2Ffaaa14f0-899e-11ea-afdf-5a87c7809954&client=amp-blogside-v2&signature=0b6f392a8bccfb903035225147ea3a24dd7fe351",
+          "width": 600,
+          "height": 350,
+          "title": "Ford delays self-driving taxis to 2022",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-28-now-is-the-time-for-an-economic-stimulus-in-artificial-intelligence-or-the-us-could-fall-behind.md",
+      "title": "Now is the time for an economic stimulus in artificial intelligence — or the US could fall behind",
+      "excerpt": "Increasing research into AI will help the US economy recover from the coronavirus pandemic and better position it for the future.",
+      "heat": 78,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businessinsider.com/us-should-increase-ai-research-as-part-of-coronavirus-response-2020-4",
+      "ampWebUrl": "https://www.businessinsider.com/us-should-increase-ai-research-as-part-of-coronavirus-response-2020-4?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/us-should-increase-ai-research-as-part-of-coronavirus-response-2020-4?amp",
+      "publishedDateTime": "2020-04-28T16:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.insider.com/5ea8575df242ab230e628669?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": "Now is the time for an economic stimulus in artificial intelligence — or the US could fall behind",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-28-robots-could-complete-all-human-tasks-by-2050-claims-transhumanist-writer.md",
+      "title": "Robots could complete ‘all human tasks’ by 2050 claims transhumanist writer",
+      "excerpt": "THERE'S a 50 percent chance robots will be capable of completing \"all human tasks\" by 2050, allowing humans to move to a post-compulsory work society, according to a leading transhumanist thinker.",
+      "heat": 72,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.express.co.uk/news/science/1275130/Robots-news-artificial-intelligence-transhumanist-transhumanism-David-Wood",
+      "ampWebUrl": "https://www.express.co.uk/news/science/1275130/Robots-news-artificial-intelligence-transhumanist-transhumanism-David-Wood/amp",
+      "cdnAmpWebUrl": "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/news/science/1275130/Robots-news-artificial-intelligence-transhumanist-transhumanism-David-Wood/amp",
+      "publishedDateTime": "2020-04-28T16:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Express",
+        "domain": "express.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.images.express.co.uk/img/dynamic/151/590x/Transhumanism-1275130.jpg?r=1588113071648",
+          "width": 590,
+          "height": 350,
+          "title": "Robots could complete ‘all human tasks’ by 2050 claims transhumanist writer",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-28-pence-criticized-for-not-wearing-face-mask-at-mayo-clinic.md",
+      "title": "Pence criticized for not wearing face mask at Mayo Clinic",
+      "excerpt": "Vice President Pence came under fire for not wearing a face mask during his visit to the Mayo Clinic in Minnesota on Tuesday.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.foxnews.com/politics/pence-criticized-not-wearing-face-mask-mayo-clinic",
+      "ampWebUrl": "https://www.foxnews.com/politics/pence-criticized-not-wearing-face-mask-mayo-clinic.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-criticized-not-wearing-face-mask-mayo-clinic.amp",
+      "publishedDateTime": "2020-04-28T15:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/64516716-b4c3-47e2-bdcc-a4ff7685b5e3/3a487a03-26b2-4a59-b582-b040533a5ecc/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Pence criticized for not wearing face mask at Mayo Clinic",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-28-zetta-venture-partners-jocelyn-goldfein-chats-about-ai-investing.md",
       "title": "Zetta Venture Partners’ Jocelyn Goldfein chats about AI investing",
       "excerpt": "Zetta Venture Partners, a B2B, AI-focused venture outfit, announced a new $180 million fund. As new VC funds are anecdotally a bit thinner on the ground these days — and because we’re in the midst of economic upheaval,",
@@ -920,185 +1093,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-28-misas-personal-robot-to-be-available-at-retail-outlets-in-middle-east-in-august.md",
-      "title": "Misa's personal robot to be available at retail outlets in Middle East in August",
-      "excerpt": "Personal robots are going to play bigger roles in our homes due to the rise of artificial intelligence (AI) technologies such as machine learning, computer vision, natural language processing and gesture controls.",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techradar.com/news/misas-personal-robot-to-be-available-at-retail-outlets-in-middle-east-in-august",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-28T05:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/8XcArsWKPyaHuSCT55g2uH-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Misa's personal robot to be available at retail outlets in Middle East in August",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-28-delivery-robots-arent-readywhen-they-could-be-needed-most.md",
-      "title": "Delivery Robots Aren't Ready—When They Could Be Needed Most",
-      "excerpt": "Sheltering in place has driven up demand for deliveries, but machines still have trouble confronting the unpredictability of the real world.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wired.com/story/delivery-robots-arent-ready-when-needed-most/",
-      "ampWebUrl": "https://www.wired.com/story/delivery-robots-arent-ready-when-needed-most/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/delivery-robots-arent-ready-when-needed-most/amp",
-      "publishedDateTime": "2020-04-28T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5ea314d879127b00083c056b/master/pass/Transpo-3photo.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": "Delivery Robots Aren't Ready—When They Could Be Needed Most",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-28-a-sustainable-boost-to-ais-profitability-promise.md",
-      "title": "A Sustainable Boost To AI's Profitability Promise",
-      "excerpt": "In doing so, companies are subsequently given more power to enhance both profitability and sustainability in tandem. For vendors, it gives us extra leverage as we continue to fight back against the \"do-it-yourself\" trend.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/04/28/a-sustainable-boost-to-ais-profitability-promise/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/04/28/a-sustainable-boost-to-ais-profitability-promise/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/04/28/a-sustainable-boost-to-ais-profitability-promise/amp/",
-      "publishedDateTime": "2020-04-28T04:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F04%2Fa-29-2.jpg",
-          "width": 640,
-          "height": 640,
-          "title": "A Sustainable Boost To AI's Profitability Promise",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-28-innovation-ultimatum-a-futurist-looks-at-how-business-can-use-new-technology.md",
-      "title": "Innovation Ultimatum: A Futurist Looks At How Business Can Use New Technology",
-      "excerpt": "Business leaders need to look at the far horizon once in a while, but they have many urgent problems that need attention today. But all leaders need to carve out some time to ponder what’s ahead. A good approach is to read the new book,",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/billconerly/2020/04/28/innovation-ultimatum-a-futurist-looks-at-how-business-can-use-new-technology/",
-      "ampWebUrl": "https://www.forbes.com/sites/billconerly/2020/04/28/innovation-ultimatum-a-futurist-looks-at-how-business-can-use-new-technology/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/billconerly/2020/04/28/innovation-ultimatum-a-futurist-looks-at-how-business-can-use-new-technology/amp/",
-      "publishedDateTime": "2020-04-28T04:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e9f5668736d170006fee2b6%2F0x0.jpg",
-          "width": 641,
-          "height": 480,
-          "title": "Innovation Ultimatum: A Futurist Looks At How Business Can Use New Technology",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

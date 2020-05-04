@@ -5,8 +5,8 @@ excerpt: "Artificial Intelligence in Healthcare Market 2020 Global Industry Anal
 publishedDateTime: 2020-05-04T10:06:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-2020-global-industry-analysis-to-2026-2020-05-04"
 type: article
-quality: 78
-heat: 98
+quality: 80
+heat: 100
 published: true
 
 provider:
@@ -20,6 +20,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
@@ -55,6 +56,6 @@ related:
         width: 1200
         height: 630
 
-secured: "j/hmD6G6e3exL0Gx2E3WuYwmcG9FMKAC9G1SimtVsETiR/7xjGwtXX0eT4IXacZ4bR3YyFZLYroiyN5Apeo8GSbsQtZc2fgidWYUDvw1S8UlWG7upbKRWcoR/HGSLV9cVvR5kMw9sEBn2lTFSgWBw3PtrXuZTiSg3/52jdD4MBEJdSGN3U6b19fpauGjhmDAODcu79Q2+60mTJxXBCqP6TSoWxBQ2+1Z02Sn5p8sz45Ie/xB/4zaTklwCFpmavlyQYHRHuuWNFdpnpwIUfEN5jEe7EILao33GAvTVTqeBwc+zqKV3Cm2iIDdp54jVkwL;jpDvcBZrAx8JLeoiUZIRUA=="
+secured: "HYFXjckPCX0oqObnpBEZYiwXcIiCV7Yy97SMGAGeB5eseqA9hS7uPIE1T9JvDAPfbg3Fxcsd2o8GIMx3qtWaq6N2/OonqnTwmd0JSAcBLuzkC51xjG1rtilmq+9VG1p8Mu1hzwEukmfLUyPIBf8YnICvII4eFKVWDdzTqoCrTF0kaj2kOWtiUsD+iBbJWO1tmzTCkr1yNWZZoSWbLl8mILzjxnSDyDxzANXz4m8fjED/+MN741pruFrbKsU0koTLu3CEMn14ifN9HK2OF/yjh9Dlo5V1Bwy7+lJVVe4lYB81yfbM+LLZZa1oUGGPsgAO;LC+2wIErM2tkuE9sSeB5ew=="
 ---
 

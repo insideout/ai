@@ -2,6 +2,43 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-02-14-nvidia-spikes-as-demand-spikes-for-chips-used-in-ai-applications.md",
+      "title": "Nvidia Spikes As Demand Spikes For Chips Used In AI Applications",
+      "excerpt": "Thursday night, the graphics chip company posted better-than-expected fourth quarter results ... “Cloud vendors should see a step up in spend and clearly Nvidia has a combination of AI drivers layering in on top of this market improvement,” he writes. “On the competitive front, there still appears little competition.”",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.barrons.com/articles/nvidia-spikes-as-demand-spikes-for-chips-used-in-ai-applications-51581701337",
+      "ampWebUrl": "https://www.barrons.com/amp/articles/nvidia-spikes-as-demand-spikes-for-chips-used-in-ai-applications-51581701337",
+      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/nvidia-spikes-as-demand-spikes-for-chips-used-in-ai-applications-51581701337",
+      "publishedDateTime": "2020-02-14T09:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Barron's",
+        "domain": "barrons.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.barrons.com/im-154652/social",
+          "width": 1280,
+          "height": 640,
+          "title": "Nvidia Spikes As Demand Spikes For Chips Used In AI Applications",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2020-02-14-nvidia-posts-killer-q4-earnings-driven-by-profitable-data-center-gpu-demand.md",
       "title": "NVIDIA Posts Killer Q4 Earnings Driven By Profitable Data Center GPU Demand",
       "excerpt": "Shares of Silicon Valley machine learning and gaming chip giant NVIDIA have spiked in early morning trading, as the company posted stellar fiscal Q4 results for the period ending in January 2020 after the bell yesterday.",
@@ -1234,51 +1271,6 @@
           "width": 1200,
           "height": 675,
           "title": "AI in manufacturing is stalled by lack of data infrastructure and internal buy-in",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-01-23-kneron-raises-40-million-to-grow-edge-ai-chip-design-operations.md",
-      "title": "Kneron raises $40 million to grow edge AI chip design operations",
-      "excerpt": "Edge AI startup Kneron today said it’s raised $40 million led by Horizon Ventures. The funding will be used to grow Kneron’s algorithms made especially for on-device machine learning and semiconductor design operations. Kneron released the KL520, a chip made especially for deployment of AI on devices like smart home or IoT devices last year ...",
-      "heat": 264,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/01/23/kneron-raises-40-million-to-grow-edge-ai-chip-design-operations/",
-      "ampWebUrl": "https://venturebeat.com/2020/01/23/kneron-raises-40-million-to-grow-edge-ai-chip-design-operations/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/23/kneron-raises-40-million-to-grow-edge-ai-chip-design-operations/amp/",
-      "publishedDateTime": "2020-01-23T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/01/Kneron_KL520.jpg?fit=1618%2C909&strip=all",
-          "width": 1618,
-          "height": 909,
-          "title": "Kneron raises $40 million to grow edge AI chip design operations",
           "attribution": null
         }
       ],

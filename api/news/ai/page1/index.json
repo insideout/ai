@@ -2,10 +2,187 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-05-04-ai-software-gets-mixed-reviews-for-tackling-coronavirus.md",
+      "title": "AI Software Gets Mixed Reviews for Tackling Coronavirus",
+      "excerpt": "Faced with a burgeoning number of Covid-19 patients, hospitals are turning to artificial intelligence to help with diagnoses and assessments. So far, the results are mixed.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wsj.com/articles/ai-software-gets-mixed-reviews-for-tackling-coronavirus-11588597013",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/ai-software-gets-mixed-reviews-for-tackling-coronavirus-11588597013",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ai-software-gets-mixed-reviews-for-tackling-coronavirus-11588597013",
+      "publishedDateTime": "2020-05-04T06:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-182965/social",
+          "width": 1211,
+          "height": 640,
+          "title": "AI Software Gets Mixed Reviews for Tackling Coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-04-look-out-alibaba-jdcom-is-expanding-its-cloud-and-ai-presence.md",
+      "title": "Look Out Alibaba, JD.com Is Expanding Its Cloud and AI Presence",
+      "excerpt": "JD.com , China's largest direct retailer and second-largest e-commerce company, recently partnered with Cloudflare to strengthen its cloud and AI business. Cloudflare, which secur",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fool.com/investing/2020/05/04/look-out-alibaba-jdcom-is-expanding-cloud-and-ai.aspx",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/05/04/look-out-alibaba-jdcom-is-expanding-cloud-and-ai.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/04/look-out-alibaba-jdcom-is-expanding-cloud-and-ai.aspx",
+      "publishedDateTime": "2020-05-04T05:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F570933%2Fgettyimages-1159763195.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 675,
+          "title": "Look Out Alibaba, JD.com Is Expanding Its Cloud and AI Presence",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-04-data-storage-and-ai-are-driving-the-evolution-of-autonomous-cars.md",
+      "title": "Data storage and AI are driving the evolution of autonomous cars",
+      "excerpt": "The future of connected and fully autonomous vehicles depends on the ability of tech companies to deliver state-of-the-art, high-endurance storage.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/05/04/data-storage-and-ai-are-driving-the-evolution-of-autonomous-cars/",
+      "ampWebUrl": "https://venturebeat.com/2020/05/04/data-storage-and-ai-are-driving-the-evolution-of-autonomous-cars/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/04/data-storage-and-ai-are-driving-the-evolution-of-autonomous-cars/amp/",
+      "publishedDateTime": "2020-05-04T05:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/autonomous-vehicles.GettyImages-1148108337.jpg?fit=2262%2C1208&strip=all",
+          "width": 2262,
+          "height": 1208,
+          "title": "Data storage and AI are driving the evolution of autonomous cars",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-04-11-strategic-ways-to-leverage-ai-for-better-sales-results.md",
+      "title": "11 Strategic Ways To Leverage AI For Better Sales Results",
+      "excerpt": "With the incorporation of AI in sales, teams are now becoming increasingly able to predict and quickly meet sales goals.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/05/04/11-strategic-ways-to-leverage-ai-for-better-sales-results/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/05/04/11-strategic-ways-to-leverage-ai-for-better-sales-results/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/05/04/11-strategic-ways-to-leverage-ai-for-better-sales-results/amp/",
+      "publishedDateTime": "2020-05-04T05:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbesbusinessdevelopmentcouncil%2Ffiles%2F2020%2F04%2F11_Strategic_Ways_To_Leverage_AI_For_Better_Sales_Results-1200x1015.png",
+          "width": 1200,
+          "height": 1015,
+          "title": "11 Strategic Ways To Leverage AI For Better Sales Results",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-04-artificial-intelligence-in-healthcare-market-2020-global-industry-analysis-to-2026.md",
       "title": "Artificial Intelligence in Healthcare Market 2020 Global Industry Analysis To 2026",
       "excerpt": "Artificial Intelligence in Healthcare Market 2020 Global Industry Analysis by historic, current, and forecast market information. Upcoming Artificial Intelligence in Healthcare Global Market Trends and the impact of COVID-19 on market also discussed in this report.",
-      "heat": 98,
+      "heat": 100,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-2020-global-industry-analysis-to-2026-2020-05-04",
@@ -43,7 +220,8 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
+        "AI",
+        "AI in Robotics"
       ]
     },
     {
@@ -1146,178 +1324,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-01-linkedins-ai-generates-candidate-screening-questions-from-job-postings.md",
-      "title": "LinkedIn’s AI generates candidate screening questions from job postings",
-      "excerpt": "LinkedIn is using AI to automatically generate candidate screening questions from the text of its over 20 million job postings.",
-      "heat": 88,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/05/01/linkedins-ai-generates-candidate-screening-questions-from-job-postings/",
-      "ampWebUrl": "https://venturebeat.com/2020/05/01/linkedins-ai-generates-candidate-screening-questions-from-job-postings/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/01/linkedins-ai-generates-candidate-screening-questions-from-job-postings/amp/",
-      "publishedDateTime": "2020-05-01T12:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2015/10/LinkedIn-sign-Sylvain-Kalache-Flickr-e1588110833221.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "LinkedIn’s AI generates candidate screening questions from job postings",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-01-google-to-replace-tensorflows-runtime-with-tfrt.md",
-      "title": "Google to replace TensorFlow’s runtime with TFRT",
-      "excerpt": "Google launched TFRT, a new TensorFlow runtime that aims to make it easy to build and deploy ML models across many different devices.",
-      "heat": 86,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://sdtimes.com/ai/google-to-replace-tensorflows-runtime-with-tfrt/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-01T12:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SD Times",
-        "domain": "sdtimes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://sdtimes.com/wp-content/uploads/2020/05/tfrtroleingraph.png",
-          "width": 646,
-          "height": 314,
-          "title": "Google to replace TensorFlow’s runtime with TFRT",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2020-05-01-ai-weekly-animal-crossing-iclr-and-the-future-of-research-conferences-online.md",
-      "title": "AI Weekly: Animal Crossing, ICLR, and the future of research conferences online",
-      "excerpt": "An upcoming Animal Crossing AI workshop and ICLR this week may reshape what research conferences look like, but social experiences are still a challenge.",
-      "heat": 85,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/05/01/ai-weekly-animal-crossing-iclr-and-the-future-of-research-conferences-online/",
-      "ampWebUrl": "https://venturebeat.com/2020/05/01/ai-weekly-animal-crossing-iclr-and-the-future-of-research-conferences-online/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/01/ai-weekly-animal-crossing-iclr-and-the-future-of-research-conferences-online/amp/",
-      "publishedDateTime": "2020-05-01T11:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/animal-crossing.png?fit=1800%2C900&strip=all",
-          "width": 1800,
-          "height": 900,
-          "title": "AI Weekly: Animal Crossing, ICLR, and the future of research conferences online",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-05-01-coronavirus-helps-robot-delivery-startup-refraction-ai-gain-traction.md",
-      "title": "Coronavirus helps robot delivery startup Refraction AI gain traction",
-      "excerpt": "Refraction AI, a robot delivery startup in Ann Arbor, Mich., was having trouble gaining traction before the pandemic — and now, it's racing to capitalize on our stay-at-home mentality. Why it matters: In the midst of the pain and suffering from a crisis,",
-      "heat": 75,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.axios.com/refraction-ai-grocery-delivery-autonomous-ann-arbor-611e65fa-65d7-4b30-a8d4-de1b85c720fb.html",
-      "ampWebUrl": "https://www.axios.com/refraction-ai-grocery-delivery-autonomous-ann-arbor-611e65fa-65d7-4b30-a8d4-de1b85c720fb.html",
-      "cdnAmpWebUrl": "https://www-axios-com.cdn.ampproject.org/c/s/www.axios.com/refraction-ai-grocery-delivery-autonomous-ann-arbor-611e65fa-65d7-4b30-a8d4-de1b85c720fb.html",
-      "publishedDateTime": "2020-05-01T11:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Axios",
-        "domain": "axios.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.axios.com/6e7fxp84f9oN52Lh4Z7nrPlsfyI=/2020/05/01/1588353067194.png",
-          "width": 1920,
-          "height": 1080,
-          "title": "Coronavirus helps robot delivery startup Refraction AI gain traction",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

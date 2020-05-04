@@ -2,6 +2,155 @@
   "page": 58,
   "value": [
     {
+      "path": "_news/2020-03-09-showcasing-mreports-top-25-fintech-innovators-ai-foundry.md",
+      "title": "Showcasing MReport’s Top 25 Fintech Innovators: AI Foundry",
+      "excerpt": "After much deliberation, we are now proud to present our first annual collection of the Top 25 Fintech Innovators. In the pages that follow, you’ll get exclusive insights into the organizations and offerings that are poised to shape the mortgage industry in 2020 and beyond. Company Description: AI Foundry, an artificial intelligence (AI ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://themreport.com/daily-dose/03-09-2020/showcasing-mreports-top-25-fintech-innovators-ai-foundry",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-09T14:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theMReport",
+        "domain": "themreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://themreport.com/wp-content/uploads/2018/03/TechSavvy-300x236-1-1-300x236-1-1-300x236-1.png",
+          "width": 300,
+          "height": 236,
+          "title": "Showcasing MReport’s Top 25 Fintech Innovators: AI Foundry",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-09-googles-new-tensorflow-quantum-tool-lets-developers-build-quantum-ai-models.md",
+      "title": "Google’s new TensorFlow Quantum tool lets developers build quantum AI models",
+      "excerpt": "Google LLC today open-sourced TensorFlow Quantum, an extension to TensorFlow that enables developers to build artificial intelligence models for quantum computers. Quantum computing is still in an early stage, but the technology is maturing rapidly. IBM Corp. is doubling the processing power of its quantum chips every year, while Honeywell ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://siliconangle.com/2020/03/09/googles-new-tensorflow-quantum-tool-lets-developers-build-quantum-ai-models/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-09T14:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/03/quantum.png",
+          "width": 718,
+          "height": 400,
+          "title": "Google’s new TensorFlow Quantum tool lets developers build quantum AI models",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "TensorFlow"
+      ]
+    },
+    {
+      "path": "_news/2020-03-09-marylands-face-recognition-system-is-one-of-the-most-invasive-in-the-nation-commentary.md",
+      "title": "Maryland’s face recognition system is one of the most invasive in the nation | COMMENTARY",
+      "excerpt": "Her photo was posted on news channels and all over the internet. The mistake was the result of faulty face recognition technology, which Sri Lankan authorities had used to search for suspects.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.baltimoresun.com/opinion/op-ed/bs-ed-op-0310-face-recognition-20200309-hg6jkfav2fdz3ccs55bvqjtnmu-story.html",
+      "ampWebUrl": "https://www.baltimoresun.com/opinion/op-ed/bs-ed-op-0310-face-recognition-20200309-hg6jkfav2fdz3ccs55bvqjtnmu-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/opinion/op-ed/bs-ed-op-0310-face-recognition-20200309-hg6jkfav2fdz3ccs55bvqjtnmu-story.html?outputType=amp",
+      "publishedDateTime": "2020-03-09T12:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Baltimore Sun",
+        "domain": "baltimoresun.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.baltimoresun.com/resizer/zb8KR6IkgmyW3Mbc5y-UnmfoZT8=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/RDVQ7TGPVBGWPMTQZ7CQYBBEVE.jpg",
+          "width": 1200,
+          "height": 814,
+          "title": "Maryland’s face recognition system is one of the most invasive in the nation | COMMENTARY",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-09-amazon-wants-other-retailers-to-go-cashierless-with-its-just-walk-out-technology.md",
+      "title": "Amazon Wants Other Retailers to Go Cashierless With Its Just Walk Out Technology",
+      "excerpt": "Jay Stanley, senior policy analyst for the ACLU, which has previously expressed concerns about Amazon technology like Rekognition, said the ecommerce giant’s ability to retain data in ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.adweek.com/retail/amazon-wants-other-retailers-to-go-cashierless-with-its-just-walk-out-technology/",
+      "ampWebUrl": "https://www.adweek.com/retail/amazon-wants-other-retailers-to-go-cashierless-with-its-just-walk-out-technology/amp/",
+      "cdnAmpWebUrl": "https://www-adweek-com.cdn.ampproject.org/c/s/www.adweek.com/retail/amazon-wants-other-retailers-to-go-cashierless-with-its-just-walk-out-technology/amp/",
+      "publishedDateTime": "2020-03-09T12:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Adweek",
+        "domain": "adweek.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.adweek.com/wp-content/uploads/2020/03/nike-app-free-hed-page-2020-640x360.png",
+          "width": 640,
+          "height": 360,
+          "title": "Amazon Wants Other Retailers to Go Cashierless With Its Just Walk Out Technology",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-09-facebook-ais-other-play-algorithm-could-improve-autonomous-vehicle-performance.md",
       "title": "Facebook AI’s ‘other-play’ algorithm could improve autonomous vehicle performance",
       "excerpt": "A team of Facebook AI Research researchers recently developed an algorithm — other-play (OP) — that constructs strategies that achieve high returns with agents that weren’t trained with other agents (a form of zero-shot coordination). If the claims pan out, the work could greatly improve the performance of autonomous cars, which leverage ...",
@@ -964,170 +1113,6 @@
         "Google AI",
         "AI",
         "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2020-03-08-how-does-carticaai-change-the-world-of-artificial-intelligence.md",
-      "title": "How does Cartica.AI change the world of Artificial Intelligence?",
-      "excerpt": "So if traffic signs are partly covered, dirty or bended, trucks have a odd load, pedestrians are particularly small or tall or they wear different clothing, that is a problem for traditional neural networks. As a solution more cases have to been taught as an attempt to cover mostly all possible edge cases. Traditional deep learning requires ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.linkedin.com/pulse/how-does-carticaai-change-world-artificial-dr-karl-thomas-neumann",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-08T10:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C5612AQHbGmNc02j0JQ/article-cover_image-shrink_600_2000/0?e=1590624000&v=beta&t=0IFQyP9TYpTYIIzH8YNV3ZBzBQbHIq_vhRDZUatx9ug",
-          "width": 485,
-          "height": 390,
-          "title": "How does Cartica.AI change the world of Artificial Intelligence?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-08-uk-based-fintech-finastra-to-allow-customers-to-use-conversational-ai-based-retail-banking-app.md",
-      "title": "UK-based Fintech Finastra to Allow Customers to Use Conversational AI-based Retail Banking App",
-      "excerpt": "London-based Fintech firm Finastra has revealed that its customers will be able to Active.Ai‘s conversational artificial intelligence (AI)-based retail banking app, which was integrated with the ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.crowdfundinsider.com/2020/03/158332-uk-based-fintech-finastra-to-allow-customers-to-use-conversational-ai-based-retail-banking-app/",
-      "ampWebUrl": "https://www.crowdfundinsider.com/2020/03/158332-uk-based-fintech-finastra-to-allow-customers-to-use-conversational-ai-based-retail-banking-app/amp/",
-      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/03/158332-uk-based-fintech-finastra-to-allow-customers-to-use-conversational-ai-based-retail-banking-app/amp/",
-      "publishedDateTime": "2020-03-08T09:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crowdfund Insider",
-        "domain": "crowdfundinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2019/10/Art-Deco-Statue-AI-Artificial-Intelligence-300x225.jpeg",
-          "width": 300,
-          "height": 225,
-          "title": "UK-based Fintech Finastra to Allow Customers to Use Conversational AI-based Retail Banking App",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-08-facial-recognition-technology-is-getting-out-of-control.md",
-      "title": "Facial recognition technology is getting out of control",
-      "excerpt": "Facial recognition is a more pressing concern than aerial surveillance. Thanks to technology like that developed by Clearview, anyone who has uploaded photos of themselves to social media is ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businessinsider.com/facial-recognition-technology-getting-out-of-control-needs-regulation-2020-3",
-      "ampWebUrl": "https://www.businessinsider.com/facial-recognition-technology-getting-out-of-control-needs-regulation-2020-3?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/facial-recognition-technology-getting-out-of-control-needs-regulation-2020-3?amp",
-      "publishedDateTime": "2020-03-08T08:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.insider.com/5e62a399fee23d57f8269b25?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": "Facial recognition technology is getting out of control",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-08-tucson-tech-artificial-intelligence-tech-developed-locally-looks-to-change-the-game.md",
-      "title": "Tucson Tech: Artificial intelligence tech developed locally looks to change the game",
-      "excerpt": "A Tucson avionics startup working to bring artificial intelligence to cockpits is one example of how the Old Pueblo is jumping on the AI development train.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://tucson.com/business/tucson-tech-artificial-intelligence-tech-developed-locally-looks-to-change/article_51cad541-d40a-5d56-a3e6-a1e5d9b0d957.html",
-      "ampWebUrl": "https://tucson.com/business/tucson-tech-artificial-intelligence-tech-developed-locally-looks-to-change/article_51cad541-d40a-5d56-a3e6-a1e5d9b0d957.amp.html",
-      "cdnAmpWebUrl": "https://tucson-com.cdn.ampproject.org/c/s/tucson.com/business/tucson-tech-artificial-intelligence-tech-developed-locally-looks-to-change/article_51cad541-d40a-5d56-a3e6-a1e5d9b0d957.amp.html",
-      "publishedDateTime": "2020-03-08T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Arizona Daily Star",
-        "domain": "tucson.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/tucson.com/content/tncms/assets/v3/editorial/9/ea/9ea46bb3-c5fe-5b34-80a0-ddb58b4f239e/5e5ff45fa24e6.image.jpg?resize=1024%2C715",
-          "width": 1024,
-          "height": 715,
-          "title": "Tucson Tech: Artificial intelligence tech developed locally looks to change the game",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

@@ -8,7 +8,7 @@ ampWebUrl: "https://m.hindustantimes.com/tech/facebook-ai-researchers-develop-bl
 cdnAmpWebUrl: "https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/tech/facebook-ai-researchers-develop-blender-chatbot-that-can-converse-as-well-as-humans-can/story-GBWEyqgAnC7JqGM2T1FgOI_amp.html"
 type: article
 quality: 31
-heat: -1
+heat: 31
 published: false
 
 provider:
@@ -18,23 +18,6 @@ provider:
 topics:
   - Facebook AI
   - AI
-
-related:
-  - title: "Facebook’s teaching AI to lie like a human"
-    excerpt: "Because, essentially, what Facebook‘s done is taught Blender’s chatbots to lie moderately better than everyone else’s. Today we’re announcing that Facebook AI has built and open-sourced Blender, the largest-ever open-domain chatbot."
-    publishedDateTime: 2020-04-29T20:08:00Z
-    webUrl: "https://thenextweb.com/neural/2020/04/29/facebooks-teaching-ai-to-lie-like-a-human/"
-    ampWebUrl: "https://thenextweb.com/neural/2020/04/29/facebooks-teaching-ai-to-lie-like-a-human/amp/"
-    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/04/29/facebooks-teaching-ai-to-lie-like-a-human/amp/"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 89
-    images:
-      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/03/robotpresident-796x417.jpg"
-        width: 796
-        height: 417
 
 secured: "BseRznyVuIpYdCj2dYCd06xUzhTeoifcFwjXdYmpb7GnDeElZnv3nmsNbV3S7n7Y0BkyFmRiCm6tHGEi1caOEITUK9ZhDTUi1R3xv87j5c/2WFafLvP7Qko9YsJK+g7o5fxQv3zgZMvNgQqESLmgOd6sTkn+4cZdoZIFKO1Nuy8uwyeRzaF7/BQXHQCpSWjNnAwBnraA0Gy76+kama9IuXlhnaENb942vFhqehDVFJmQHpTvs0WQqgj1gR7eUFh2YGA/ZTEY8V810tHst3lqRGbCQOHYfJ7ximzcLT0J/Q1adJ/4deH9RnEeiwGkShfjN7TZHgZ/J/asSgAypmto39muMHgW8Wp2tzBz35uFZh8yoAAL5gmUJuTD/Wl+LSPsrrHCF3qGN5zHZSnD+8b6jHDJIlY3KfYLqgta1MXVMdlmV4eoetsTwgEjGOj86qLhcuwJglsNQYIImHUwpQ62lXW9RPYgWvNnehlnEBDLmz0=;ZHEPqOi39/TvAD7otJgUkw=="
 ---

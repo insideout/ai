@@ -2,6 +2,177 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-04-23-artificial-intelligence-can-take-banks-to-the-next-level.md",
+      "title": "Artificial intelligence can take banks to the next level",
+      "excerpt": "This struggle with customer service is ongoing for financial institutions. But it's an area in which artificial intelligence (AI), and its ability to work with unstructured data like voice and images, can help. \"There are two things that artificial intelligence does really well,\" said Ameek Singh, vice president of IBM's Watson applications and ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/article/artificial-intelligence-can-take-banks-to-the-next-level/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/artificial-intelligence-can-take-banks-to-the-next-level/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/artificial-intelligence-can-take-banks-to-the-next-level/",
+      "publishedDateTime": "2020-04-23T08:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr3.cbsistatic.com/hub/i/r/2020/04/23/e7141a30-003c-4e34-ad1d-6cc7c76daf90/resize/1200x/331adc6fa5179da2d9e9d3f835c07f81/woman-clerk-in-a-bank-flat-vector-vector-id483987118-1.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Artificial intelligence can take banks to the next level",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-23-omnipresence-launches-cxmnowio-for-life-sciences-in-the-microsoft-azure-marketplace.md",
+      "title": "Omnipresence Launches CXMnow.io for Life Sciences in the Microsoft Azure Marketplace",
+      "excerpt": "CXMnow.io in the Azure Marketplace today, an online store providing applications and services for use on Microsoft Azure. The customer experience management (CXM) technology allows life sciences organizations with certain well-defined business needs to sign up online for a built-for-purpose customer engagement capability to use in their commercial or medical operations.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/omnipresence-launches-cxmnow-io-for-life-sciences-in-the-microsoft-azure-marketplace-1029123493",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/omnipresence-launches-cxmnow-io-for-life-sciences-in-the-microsoft-azure-marketplace-1029123493",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/omnipresence-launches-cxmnow-io-for-life-sciences-in-the-microsoft-azure-marketplace-1029123493",
+      "publishedDateTime": "2020-04-23T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-23-this-ai-camera-can-help-restaurants-show-that-their-food-is-safe-from-covid-19.md",
+      "title": "This AI Camera Can Help Restaurants Show That Their Food Is Safe From Covid-19",
+      "excerpt": "If a restaurant like Emilie’s were to use Dragontail’s AI camera technology, it could help them show customers what they’re doing in the kitchen, says CEO Levanol.",
+      "heat": 83,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/jennysplitter/2020/04/23/this-ai-camera-can-help-restaurants-show-that-their-food-is-safe-from-covid-19/",
+      "ampWebUrl": "https://www.forbes.com/sites/jennysplitter/2020/04/23/this-ai-camera-can-help-restaurants-show-that-their-food-is-safe-from-covid-19/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jennysplitter/2020/04/23/this-ai-camera-can-help-restaurants-show-that-their-food-is-safe-from-covid-19/amp/",
+      "publishedDateTime": "2020-04-23T07:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ea18f0ef0b8cf000629757b%2F0x0.jpg",
+          "width": 1199,
+          "height": 673,
+          "title": "This AI Camera Can Help Restaurants Show That Their Food Is Safe From Covid-19",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-23-robots-ai-and-the-road-to-a-fully-autonomous-construction-industry.md",
+      "title": "Robots, AI, and the road to a fully autonomous construction industry",
+      "excerpt": "That might’ve seemed like an absurd thing to say back when autonomous driving first entered the collective imagination and companies established their intention to solve AI’s grand autonomous vehicle challenge. But Waymo now takes billions from outside investors, and the delay of major initiatives like GM’s Cruise and taxi service and ...",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/23/robots-ai-and-the-road-to-a-fully-autonomous-construction-industry/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/23/robots-ai-and-the-road-to-a-fully-autonomous-construction-industry/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/23/robots-ai-and-the-road-to-a-fully-autonomous-construction-industry/amp/",
+      "publishedDateTime": "2020-04-23T06:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/09/built-robotics.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Robots, AI, and the road to a fully autonomous construction industry",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-04-23-randori-raises-20-million-to-spot-cyberattacks-with-ai.md",
       "title": "Randori raises $20 million to spot cyberattacks with AI",
       "excerpt": "Cybersecurity startup Randori today announced that it secured $20 million in equity financing ... Randori tells VentureBeat that it uses AI classification models to prioritize the targets attackers are most interested in, as well as affiliation mechanisms that make up a confidence engine responsible for analyzing information gleaned from ...",
@@ -891,187 +1062,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-22-amazon-launches-aws-appflow-a-new-service-for-managing-saas-data-flows.md",
-      "title": "Amazon launches AWS AppFlow, a new service for managing SaaS data flows",
-      "excerpt": "Also: Top cloud providers in 2020: AWS, Microsoft Azure, and Google Cloud, hybrid, SaaS players Separately, AWS announced that EC2 Inf1 instances are now available to run on SageMaker, its fully-managed machine learning service. First announced at re:Invent 2019, Inf1 are machine learning inference instances powered by Inferentia, the company ...",
-      "heat": 101,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/amazon-launches-aws-appflow-a-new-service-for-managing-saas-data-flows/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/amazon-launches-aws-appflow-a-new-service-for-managing-saas-data-flows/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amazon-launches-aws-appflow-a-new-service-for-managing-saas-data-flows/",
-      "publishedDateTime": "2020-04-22T13:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/04/09/ab9e0888-b6d3-49aa-b2a8-f1a05c32a4e8/thumbnail/1200x675/9b782c2f5cb1d3486646cc8285213ee2/zoom-logo.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Amazon launches AWS AppFlow, a new service for managing SaaS data flows",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2020-04-22-researchers-say-deep-learning-will-power-5g-and-6g-cognitive-radios.md",
-      "title": "Researchers say deep learning will power 5G and 6G ‘cognitive radios’",
-      "excerpt": "That’s where deep learning comes in. The researchers hope to use machine learning techniques embedded within the wireless devices’ hardware to improve frequency utilization, such that the devices can develop AI-optimized spectrum usage strategies by themselves. Early studies suggest that deep learning models average 20% higher ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/22/researchers-say-deep-learning-will-power-5g-and-6g-cognitive-radios/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/22/researchers-say-deep-learning-will-power-5g-and-6g-cognitive-radios/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/22/researchers-say-deep-learning-will-power-5g-and-6g-cognitive-radios/amp/",
-      "publishedDateTime": "2020-04-22T12:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/01/Internet-of-things-e1587584864398.jpg?fit=2309%2C1154&strip=all",
-          "width": 2309,
-          "height": 1154,
-          "title": "Researchers say deep learning will power 5G and 6G ‘cognitive radios’",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-22-cruise-commits-to-delivering-the-holy-grail-self-driving-evs-powered-entirely-by-renewable-energy.md",
-      "title": "Cruise Commits To Delivering The Holy Grail: Self-Driving EVs Powered Entirely By Renewable Energy",
-      "excerpt": "Now power these self-driving EVs with locally produced renewable energy, and you’ve created a blameless transportation system. That’s essentially what self-driving start-up Cruise has done. But achieving carbon neutrality is just the first step—the next is becoming carbon negative.",
-      "heat": 75,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/lianeyvkoff/2020/04/22/cruise-commits-to-delivering-the-holy-grail-self-driving-evs-powered-entirely-by-renewable-energy/",
-      "ampWebUrl": "https://www.forbes.com/sites/lianeyvkoff/2020/04/22/cruise-commits-to-delivering-the-holy-grail-self-driving-evs-powered-entirely-by-renewable-energy/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lianeyvkoff/2020/04/22/cruise-commits-to-delivering-the-holy-grail-self-driving-evs-powered-entirely-by-renewable-energy/amp/",
-      "publishedDateTime": "2020-04-22T12:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ea09585dea8300007de92b9%2F0x0.jpg",
-          "width": 1200,
-          "height": 959,
-          "title": "Cruise Commits To Delivering The Holy Grail: Self-Driving EVs Powered Entirely By Renewable Energy",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-22-google-clouds-fully-managed-anthos-is-now-generally-available-for-aws.md",
-      "title": "Google Cloud’s fully managed Anthos is now generally available for AWS",
-      "excerpt": "But support for Azure will come later this year and the company already has a number of preview customers for it. In addition, Anthos will also come to bare metal servers in the future. Looking even further ahead, Manor also noted that better support for machine learning workloads is on the way. Many businesses, after all, want to be able to ...",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/04/22/google-clouds-fully-managed-anthos-is-now-generally-available-for-aws/",
-      "ampWebUrl": "https://techcrunch.com/2020/04/22/google-clouds-fully-managed-anthos-is-now-generally-available-for-aws/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/22/google-clouds-fully-managed-anthos-is-now-generally-available-for-aws/amp/",
-      "publishedDateTime": "2020-04-22T12:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/04/GOOGLENEXT_2019_0409_091100-0355_ALIVECOVE.max-2200x2200-1.png?w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": "Google Cloud’s fully managed Anthos is now generally available for AWS",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

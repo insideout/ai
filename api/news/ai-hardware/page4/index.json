@@ -2,6 +2,43 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-03-11-intel-stock-is-poised-to-outperform-on-chip-and-ai-developments.md",
+      "title": "Intel Stock Is Poised to Outperform on Chip and AI Developments",
+      "excerpt": "Intel’s chips are proving to be popular with AI developers, and it expects its upcoming Cooper chips to “enable AI systems to be trained up to 60% faster than their predecessors.” Moreover, as I wrote in a previous article on AMD: “According to Analytics India Magazine, AI chips made by Habana are four times better than graphics ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://investorplace.com/2020/03/intel-stock-is-poised-to-outperform-on-chip-progress-and-ai-gains/",
+      "ampWebUrl": "https://investorplace.com/2020/03/intel-stock-is-poised-to-outperform-on-chip-progress-and-ai-gains/amp/",
+      "cdnAmpWebUrl": "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/03/intel-stock-is-poised-to-outperform-on-chip-progress-and-ai-gains/amp/",
+      "publishedDateTime": "2020-03-11T06:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InvestorPlace",
+        "domain": "investorplace.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://investorplace.com/wp-content/uploads/2019/10/intc1600n.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": "Intel Stock Is Poised to Outperform on Chip and AI Developments",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-11-ai-startup-accuses-facebook-of-stealing-code-designed-to-speed-up-machine-learning-models-on-ordinary-cpus.md",
       "title": "AI startup accuses Facebook of stealing code designed to speed up machine learning models on ordinary CPUs",
       "excerpt": "Neural Magic, founded in 2017 by Nir Shavit and Alex Matveev, describes itself as a \"no-hardware AI\" company. Instead of relying on GPU chips that are able to crunch through matrix maths operations to run machine-learning models quickly, the Boston-based upstart employs nifty software tricks to achieve similar speeds on CPUs. Court documents ...",
@@ -1236,43 +1273,6 @@
         "AI",
         "AI Hardware",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-14-nvidia-spikes-as-demand-spikes-for-chips-used-in-ai-applications.md",
-      "title": "Nvidia Spikes As Demand Spikes For Chips Used In AI Applications",
-      "excerpt": "Thursday night, the graphics chip company posted better-than-expected fourth quarter results ... “Cloud vendors should see a step up in spend and clearly Nvidia has a combination of AI drivers layering in on top of this market improvement,” he writes. “On the competitive front, there still appears little competition.”",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.barrons.com/articles/nvidia-spikes-as-demand-spikes-for-chips-used-in-ai-applications-51581701337",
-      "ampWebUrl": "https://www.barrons.com/amp/articles/nvidia-spikes-as-demand-spikes-for-chips-used-in-ai-applications-51581701337",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/nvidia-spikes-as-demand-spikes-for-chips-used-in-ai-applications-51581701337",
-      "publishedDateTime": "2020-02-14T09:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.barrons.com/im-154652/social",
-          "width": 1280,
-          "height": 640,
-          "title": "Nvidia Spikes As Demand Spikes For Chips Used In AI Applications",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

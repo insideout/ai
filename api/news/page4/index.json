@@ -2,6 +2,184 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-04-30-tesla-confirms-self-driving-as-a-subscription-service-but-brace-yourself-for-the-price.md",
+      "title": "Tesla confirms self-driving as a subscription service but brace yourself for the price",
+      "excerpt": "Driving package (FSD) as a subscription service, but you should brace yourself for the price. We reported earlier this week that Tesla is working on a pay-as-you-go subscription for its self-driving package based on some code that leaked in Tesla’s in-app purchase system.",
+      "heat": 101,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://electrek.co/2020/04/30/tesla-self-driving-subscription-service-price/",
+      "ampWebUrl": "https://electrek.co/2020/04/30/tesla-self-driving-subscription-service-price/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/04/30/tesla-self-driving-subscription-service-price/amp/",
+      "publishedDateTime": "2020-04-30T06:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://electrek.co/wp-content/uploads/sites/3/2019/04/Tesla-self-driving.jpg?quality=82&strip=all&w=1000",
+          "width": 1000,
+          "height": 458,
+          "title": "Tesla confirms self-driving as a subscription service but brace yourself for the price",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-30-linkedins-ai-gives-job-candidates-feedback-on-their-interview-answers.md",
+      "title": "LinkedIn’s AI gives job candidates feedback on their interview answers",
+      "excerpt": "LinkedIn today launched a new AI feature that provides helpful feedback to members on their answers to job interview questions.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/30/linkedins-ai-gives-job-candidates-feedback-on-their-interview-answers/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/30/linkedins-ai-gives-job-candidates-feedback-on-their-interview-answers/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/30/linkedins-ai-gives-job-candidates-feedback-on-their-interview-answers/amp/",
+      "publishedDateTime": "2020-04-30T06:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2015/10/LinkedIn-sign-Sylvain-Kalache-Flickr-e1588110833221.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "LinkedIn’s AI gives job candidates feedback on their interview answers",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-30-duolingos-ai-drives-its-english-proficiency-tests.md",
+      "title": "Duolingo’s AI drives its English proficiency tests",
+      "excerpt": "Duolingo tapped AI and machine learning to create a cheaper, faster English proficiency test that the company claims is on par with proctored exams.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/30/duolingos-english-test-ai-serve-and-score-questions/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/30/duolingos-english-test-ai-serve-and-score-questions/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/30/duolingos-english-test-ai-serve-and-score-questions/amp/",
+      "publishedDateTime": "2020-04-30T06:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2015/06/duolingo_logo.png?fit=1000%2C600&strip=all",
+          "width": 1000,
+          "height": 600,
+          "title": "Duolingo’s AI drives its English proficiency tests",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-30-microsofts-windows-virtual-desktop-spring-refresh-whats-new-and-next.md",
+      "title": "Microsoft's Windows Virtual Desktop spring refresh: What's new and next",
+      "excerpt": "Microsoft is ready to roll out its 'spring refresh' of WVD, while working on a grander plan to make WVD more of a full-fledged cloud-managed desktop.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/microsofts-windows-virtual-desktop-spring-refresh-whats-new-and-next/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsofts-windows-virtual-desktop-spring-refresh-whats-new-and-next/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsofts-windows-virtual-desktop-spring-refresh-whats-new-and-next/",
+      "publishedDateTime": "2020-04-30T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/04/30/b77a0f01-6b33-4f90-b06e-94b4e3c3b85f/newwvdfeatures.jpg",
+          "width": 875,
+          "height": 557,
+          "title": "Microsoft's Windows Virtual Desktop spring refresh: What's new and next",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-30-australian-businesses-lead-in-ai-deployment-but-bias-challenges-still-exist-genpact.md",
       "title": "Australian businesses lead in AI deployment but bias challenges still exist: Genpact",
       "excerpt": "Australians still fear AI bias and that algorithms can make decisions that affect them without their knowledge, a new report has found.",
@@ -135,45 +313,6 @@
       ]
     },
     {
-      "path": "_news/2020-04-30-patent-office-artificial-intelligence-cant-invent-things.md",
-      "title": "Patent office: Artificial intelligence can’t invent things",
-      "excerpt": "Artificial intelligence is the future. If “Westworld” or “Black Mirror” are to be believed, there will soon come a day when the computers rule us all. But for now, an",
-      "heat": 73,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cbs4indy.com/news/national-world/patent-office-artificial-intelligence-cant-invent-things/",
-      "ampWebUrl": "https://cbs4indy.com/news/national-world/patent-office-artificial-intelligence-cant-invent-things/amp/",
-      "cdnAmpWebUrl": "https://cbs4indy-com.cdn.ampproject.org/c/s/cbs4indy.com/news/national-world/patent-office-artificial-intelligence-cant-invent-things/amp/",
-      "publishedDateTime": "2020-04-30T04:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WTTV",
-        "domain": "cbs4indy.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cbs4indy.com/wp-content/uploads/sites/22/2020/04/GettyImages-476176424.jpg?w=1024&h=683&crop=1&resize=1280,720",
-          "width": 1280,
-          "height": 720,
-          "title": "Patent office: Artificial intelligence can’t invent things",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Machine Learning",
-        "AI in Robotics"
-      ]
-    },
-    {
       "path": "_news/2020-04-30-ai-in-africa-training-bots-to-talk-to-my-mum.md",
       "title": "AI in Africa: Training bots to talk to my mum",
       "excerpt": "How African researchers are using the continent's languages to help spur innovation in Artificial Intelligence.",
@@ -216,6 +355,51 @@
       "topics": [
         "AI",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-04-30-artificial-intelligence-cant-technically-invent-things-says-patent-office.md",
+      "title": "Artificial Intelligence can't technically invent things, says patent office",
+      "excerpt": "Artificial intelligence is the future. If \"Westworld\" or \"Black Mirror\" are to be believed, there will soon come a day when the computers rule us all. But for now, an AI's power ends at the US Patent Office.",
+      "heat": 97,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnn.com/2020/04/30/us/artificial-intelligence-inventing-patent-office-trnd/index.html",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/04/30/us/artificial-intelligence-inventing-patent-office-trnd/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/04/30/us/artificial-intelligence-inventing-patent-office-trnd/index.html",
+      "publishedDateTime": "2020-04-30T01:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/181211153659-artificial-intelligence-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": "Artificial Intelligence can't technically invent things, says patent office",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     },
     {
@@ -921,177 +1105,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-29-facebooks-teaching-ai-to-lie-like-a-human.md",
-      "title": "Facebook’s teaching AI to lie like a human",
-      "excerpt": "Because, essentially, what Facebook‘s done is taught Blender’s chatbots to lie moderately better than everyone else’s. Today we’re announcing that Facebook AI has built and open-sourced Blender, the largest-ever open-domain chatbot.",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/04/29/facebooks-teaching-ai-to-lie-like-a-human/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/04/29/facebooks-teaching-ai-to-lie-like-a-human/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/04/29/facebooks-teaching-ai-to-lie-like-a-human/amp/",
-      "publishedDateTime": "2020-04-29T13:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/03/robotpresident-796x417.jpg",
-          "width": 796,
-          "height": 417,
-          "title": "Facebook’s teaching AI to lie like a human",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-29-tectonai-emerges-from-stealth-to-solve-machine-learning-pipeline-challenges.md",
-      "title": "Tecton.ai emerges from stealth to solve machine learning pipeline challenges",
-      "excerpt": "Tecton.ai is a data platform for machine learning that lets data scientists transform raw data into production-ready features.",
-      "heat": 81,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://sdtimes.com/ai/tecton-ai-emerges-from-stealth-to-solve-machine-learning-pipeline-challenges/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-29T12:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SD Times",
-        "domain": "sdtimes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://sdtimes.com/wp-content/uploads/2020/04/tecton-hero-1180px@2x-1024x357.png",
-          "width": 1024,
-          "height": 357,
-          "title": "Tecton.ai emerges from stealth to solve machine learning pipeline challenges",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-04-29-the-ai-meme-generator-is-better-at-making-memes-than-humans.md",
-      "title": "The AI meme generator is better at making memes than humans",
-      "excerpt": "Internet users have used the Imgflip meme generator to create their own memes for the better part of a decade. Now, the site is generating its own memes, using the help of artificial intelligence. Harkening back to AI-generated feet pictures and AI-generated faces,",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://mashable.com/article/ai-meme-generator/",
-      "ampWebUrl": "https://mashable.com/article/ai-meme-generator.amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/ai-meme-generator.amp",
-      "publishedDateTime": "2020-04-29T11:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/2020%252F04%252F29%252Fe6%252Ffccff94954e94c1197cd695c0359290d.89652.png%252F1200x630.png?signature=iB3J6jwGoxGkoaY0JIFKbiybHEs=",
-          "width": 1200,
-          "height": 630,
-          "title": "The AI meme generator is better at making memes than humans",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-29-roborock-s6-maxv-robot-vacuum-hands-on-ai-camera-eliminates-pet-poop-disasters.md",
-      "title": "Roborock S6 MaxV robot vacuum hands-on: AI camera eliminates pet poop disasters",
-      "excerpt": "All in all, the Roborock S6 MaxV is a superb high-end robot vacuum with obstacle avoidance and an app that is easy to configure. For $749, it could be the only robot vacuum you will ever need to buy.",
-      "heat": 85,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/product/roborock-s6-maxv-robot-vacuum/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/product/roborock-s6-maxv-robot-vacuum/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/product/roborock-s6-maxv-robot-vacuum/",
-      "publishedDateTime": "2020-04-29T11:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/04/29/c6bf9a20-fbd2-4936-a1ca-bec926067d2e/resize/1200x900/32bb8dd0f8fd50e98ba8b741c9011d30/roborock-s6-maxv-robot-vacuum-eileen-brown-zdnet.png",
-          "width": 1200,
-          "height": 532,
-          "title": "Roborock S6 MaxV robot vacuum hands-on: AI camera eliminates pet poop disasters",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

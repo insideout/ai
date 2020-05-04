@@ -2,6 +2,178 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2020-04-07-tenstorrent-reveals-grayskull-an-all-in-one-system-that-accelerates-ai-model-training.md",
+      "title": "Tenstorrent reveals Grayskull, an all-in-one system that accelerates AI model training",
+      "excerpt": "Tenstorrent, an AI and machine learning hardware startup based in Toronto, Canada, today emerged from stealth with over $34 million in financing and an all-in-one computer system dubbed Grayskull. Cofounder and CEO Ljubisa Bajic, a former Nvidia senior architect who previously served as director of integrated circuit design at AMD, claims that ...",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/07/tenstorrent-reveals-grayskull-an-all-in-one-system-that-accelerates-ai-model-training/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/07/tenstorrent-reveals-grayskull-an-all-in-one-system-that-accelerates-ai-model-training/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/07/tenstorrent-reveals-grayskull-an-all-in-one-system-that-accelerates-ai-model-training/amp/",
+      "publishedDateTime": "2020-04-07T06:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/11/big-data.GettyImages-1133714603-e1584722383408.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Tenstorrent reveals Grayskull, an all-in-one system that accelerates AI model training",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2020-04-07-honor-confirms-the-kirin-985-soc-features-and-ai-benchmark-ranking-revealed.md",
+      "title": "Honor confirms the Kirin 985 SoC, features and AI benchmark ranking revealed!",
+      "excerpt": "Between October last year and now, Huawei‘s Hisilicon chip department has released two high-end chipsets ... In a Weibo post today, the Honor VP shared the latest AI benchmark ranking with the Kirin 985 in the third spot. The chipset has ahead of it, only the Kirin 990 which is in the first spot and the MediaTek Dimensity 1000 in the second ...",
+      "heat": 86,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.gizmochina.com/2020/04/07/honor-confirms-the-kirin-985-soc-features-and-ai-benchmark-ranking-revealed/",
+      "ampWebUrl": "https://www.gizmochina.com/2020/04/07/honor-confirms-the-kirin-985-soc-features-and-ai-benchmark-ranking-revealed/?amp",
+      "cdnAmpWebUrl": "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2020/04/07/honor-confirms-the-kirin-985-soc-features-and-ai-benchmark-ranking-revealed/?amp",
+      "publishedDateTime": "2020-04-07T06:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2020/04/kirin-985.jpg",
+          "width": 600,
+          "height": 337,
+          "title": "Honor confirms the Kirin 985 SoC, features and AI benchmark ranking revealed!",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-07-intel-pledges-50m-to-help-fight-covid-19.md",
+      "title": "Intel pledges $50m to help fight COVID-19",
+      "excerpt": "The University of Sydney has used Microsoft cognitive services to build the \"AI-infused bot\" that has been tackling between 200 and 400 individual student inquiries daily. Microsoft said each student is typically asking two to three questions. It said the bot provides the most appropriate answer to the question and, where necessary, directs the ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/intel-pledges-50m-to-help-fight-covid-19/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/intel-pledges-50m-to-help-fight-covid-19/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/intel-pledges-50m-to-help-fight-covid-19/",
+      "publishedDateTime": "2020-04-07T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/04/15/d734a519-076b-4e3d-8bfe-63dde72da3b4/thumbnail/1200x675/c14f1f558417c2eb9f6962e04f2a29df/thumb.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Intel pledges $50m to help fight COVID-19",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-07-cambridge-quantum-computing-performs-the-worlds-first-quantum-natural-language-processing-experiment.md",
+      "title": "Cambridge Quantum Computing Performs the World's First Quantum Natural Language Processing Experiment",
+      "excerpt": "This is the first time that natural language processing has been executed on a quantum computer. Furthermore, by achieving the results without relying on quantum RAM, CQC scientists have created a ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.prnewswire.co.uk/news-releases/cambridge-quantum-computing-performs-the-world-s-first-quantum-natural-language-processing-experiment-855433841.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-07T05:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.prnewswire.co.uk/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg",
+          "width": 600,
+          "height": 315,
+          "title": "Cambridge Quantum Computing Performs the World's First Quantum Natural Language Processing Experiment",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-07-glassbox-raises-40-million-to-track-customer-journeys-with-ai.md",
       "title": "Glassbox raises $40 million to track customer journeys with AI",
       "excerpt": "“Our aim is to improve functionality and keep up with trends and patterns, enabling enterprises to deliver the best possible customer experience which we achieve through our proprietary technology, harnessing AI to great effect.” Glassbox’s investments in AI and machine learning manifest in its customer behavior and churn ...",
@@ -869,186 +1041,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-06-laptops-with-big-graphics-cards-are-surging-for-reasons-that-arent-obvious.md",
-      "title": "Laptops With Big Graphics Cards Are Surging For Reasons That Aren’t Obvious",
-      "excerpt": "It increases the output resolution and extends the battery life. DLSS 2.0 uses dedicated AI processors called Tensor cores. Max-Q Dynamic boost showing the power shift on an RTX 2080 Super laptop, 90W GPU power limit, ... [+] Witcher 3, Max settings, Core i7, 16GB of RAM. Not all laptops will support Max-Q GPUs, but for those laptops that do ...",
-      "heat": 72,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2020/04/06/laptops-with-big-graphics-cards-are-surging-for-reasons-that-arent-obvious/?ss=consumertech",
-      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2020/04/06/laptops-with-big-graphics-cards-are-surging-for-reasons-that-arent-obvious/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2020/04/06/laptops-with-big-graphics-cards-are-surging-for-reasons-that-arent-obvious/amp/",
-      "publishedDateTime": "2020-04-06T16:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e8b4260e2bb0400064288b7%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1432%26cropY1%3D0%26cropY2%3D619",
-          "width": 1200,
-          "height": 519,
-          "title": "Laptops With Big Graphics Cards Are Surging For Reasons That Aren’t Obvious",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-06-perceive-exits-stealth-with-super-efficient-machine-learning-chip-for-smarter-devices.md",
-      "title": "Perceive Exits Stealth With Super Efficient Machine Learning Chip For Smarter Devices",
-      "excerpt": "Running today’s advanced neural networks has been significantly beyond the reach of many small and battery-powered devices.",
-      "heat": 82,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/tiriasresearch/2020/04/06/perceive-exits-stealth-with-super-efficient-machine-learning-chip-for-smarter-devices/",
-      "ampWebUrl": "https://www.forbes.com/sites/tiriasresearch/2020/04/06/perceive-exits-stealth-with-super-efficient-machine-learning-chip-for-smarter-devices/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2020/04/06/perceive-exits-stealth-with-super-efficient-machine-learning-chip-for-smarter-devices/amp/",
-      "publishedDateTime": "2020-04-06T16:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e8b6257c095010007bffe6f%2F0x0.jpg",
-          "width": 1200,
-          "height": 726,
-          "title": "Perceive Exits Stealth With Super Efficient Machine Learning Chip For Smarter Devices",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-06-self-driving-shuttles-are-ferrying-covid-19-tests-at-a-florida-clinic.md",
-      "title": "Self-driving shuttles are ferrying COVID-19 tests at a Florida clinic",
-      "excerpt": "The Mayo Clinic, Jacksonville Transportation Authority, Navya and Beep are using completely self-driving shuttles to carry COVID-19 tests from a drive-thru location to the Mayo Clinic campus. The move theoretically minimizes exposure to the virus and frees up medical staff for taking care of patients. Four of the shuttles have been running on ...",
-      "heat": 94,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.engadget.com/self-driving-shuttles-carry-covid-19-tests-231758913.html",
-      "ampWebUrl": "https://www.engadget.com/amp/self-driving-shuttles-carry-covid-19-tests-231758913.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/self-driving-shuttles-carry-covid-19-tests-231758913.html",
-      "publishedDateTime": "2020-04-06T16:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-04%2F0c02dee0-7846-11ea-b8bf-f3044bd00a09&client=amp-blogside-v2&signature=a72c97577cedbadfc7ea704869a8c0dfad812c97",
-          "width": 600,
-          "height": 350,
-          "title": "Self-driving shuttles are ferrying COVID-19 tests at a Florida clinic",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-06-ground-penetrating-radar-gpr-sensors-will-be-useful-for-ai-self-driving-cars-but-not-likely-to-strike-gold.md",
-      "title": "Ground-Penetrating Radar (GPR) Sensors Will Be Useful For AI Self-Driving Cars, But Not Likely To Strike Gold",
-      "excerpt": "Recent news reports have heralded the latest research on sensors and suggested that such devices will revolutionize the advent of AI-based true self-driving cars. Though it certainly will be exciting to potentially have GPR added into the mix of sensors used for achieving driverless cars,",
-      "heat": 70,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/04/06/ground-penetrating-radar-gpr-sensors-will-be-useful-for-ai-self-driving-cars-but-not-likely-to-strike-gold/",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/04/06/ground-penetrating-radar-gpr-sensors-will-be-useful-for-ai-self-driving-cars-but-not-likely-to-strike-gold/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/04/06/ground-penetrating-radar-gpr-sensors-will-be-useful-for-ai-self-driving-cars-but-not-likely-to-strike-gold/amp/",
-      "publishedDateTime": "2020-04-06T16:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1066670684%2F0x0.jpg%3FcropX1%3D1816%26cropX2%3D5712%26cropY1%3D0%26cropY2%3D2600",
-          "width": 1200,
-          "height": 801,
-          "title": "Ground-Penetrating Radar (GPR) Sensors Will Be Useful For AI Self-Driving Cars, But Not Likely To Strike Gold",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

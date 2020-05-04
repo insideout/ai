@@ -27,6 +27,6 @@ images:
     height: 630
     title: "Learn how to select ML instances on the fly in Amazon SageMaker Studio"
 
-secured: "OZmPfE+kB61io/6l4xoFun5tA0GraoPryz1Rx79wCG+TZEakN0VHrgIgYdZ7ZTpEK3j1qK7qhhLsEmUQri25Q+y5hQnZUgInGmNF1Ov8KtZV2qDUklbK7J0HO4h5c9NXIvLLwOIQ8x/TxBCJjjtRi9CewFDizS3zvJelOwHKNTat6pPkuGlD/WDEyQNK8gihVXLNdxWt0xH3HkgxPhbuuEIr9xUilFQVpOXsU/aYQ/xiGB+ErOPJ/R4dtWTZLVkZwTj5vsDCkr/JpgjGWFH2O1rHprICuQI6R+RNg2H1FzPv/5mD3MmeYJzZv6qvT7GFSeeqlO+wX5o67Fo/A5JArA==;JHL+R2YnD9vfYS5z0vTvfQ=="
+secured: "iqTG9m46jvmEkP18M+Wsl/t/RBem7tGb0HLiTn6DXzJMVMzCZ812EVFnKYH1gq7GIvqKOa7chuRKcLSBH+SxQkQZbL+Q7nSAOFOQujYuutPnlrEGkdRqQNZ18BRCMEPSRGNZq1IuNgWBFDH34btu+qltOlvtqTQZECHD2765egkMe4nQwvENDKSPaQ7JQzolx0sf0ZuFCPIuWwL6gSdhN42Hs4zipv4QoFgQ3zLN7rv5qkvb12JLYG39si+klL9Ckwqfi0S+lh+Zh+wz4O0u2o0WkYlnJzY7O2VeICD2tSMWONu2b7dI9kRryEA1dePux2I4fBm4ZogTRKEZ+BYjgA==;iZXo1cHsq0908BWRr/2eqg=="
 ---
 

@@ -2,6 +2,43 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-03-25-next-generation-of-ai-processors-featured-at-linley-spring-processor-conference.md",
+      "title": "Next-Generation of AI Processors Featured at Linley Spring Processor Conference",
+      "excerpt": "The Linley Group Principal Analyst, Linley Gwennap, will present “The Next Generation of AI Processors.” “The virtual format allows us to deliver ... and conferences focused on advanced technologies for chip and system design. The Linley Group is the publisher of the noted Microprocessor Report, a weekly publication.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businesswire.com/news/home/20200325005079/en/Next-Generation-AI-Processors-Featured-Linley-Spring-Processor",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-25T06:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20200325005079/en/708301/23/Linley_logo_lrg.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": "Next-Generation of AI Processors Featured at Linley Spring Processor Conference",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-25-microsoft-expands-azure-stack-edge-with-nvidia-t4-tensor-core-gpu.md",
       "title": "Microsoft expands Azure Stack Edge with NVIDIA T4 Tensor Core GPU",
       "excerpt": "Writing in the company bog, Vole says NVIDIA T4 Tensor Core GPU is used by the Azure Stack Edge in order to bring a hardware boost to machine learning (ML) workloads. In the blog Vole states that since its introduction, it has observed a largely positive reception to the idea, with a variety of industries looking to take advantage of the ...",
@@ -1131,43 +1168,6 @@
           "width": 1024,
           "height": 512,
           "title": "Chip Progress, AI Gains Leave Intel Stock Poised to Outperform",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-11-intel-stock-is-poised-to-outperform-on-chip-and-ai-developments.md",
-      "title": "Intel Stock Is Poised to Outperform on Chip and AI Developments",
-      "excerpt": "Intel’s chips are proving to be popular with AI developers, and it expects its upcoming Cooper chips to “enable AI systems to be trained up to 60% faster than their predecessors.” Moreover, as I wrote in a previous article on AMD: “According to Analytics India Magazine, AI chips made by Habana are four times better than graphics ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://investorplace.com/2020/03/intel-stock-is-poised-to-outperform-on-chip-progress-and-ai-gains/",
-      "ampWebUrl": "https://investorplace.com/2020/03/intel-stock-is-poised-to-outperform-on-chip-progress-and-ai-gains/amp/",
-      "cdnAmpWebUrl": "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/03/intel-stock-is-poised-to-outperform-on-chip-progress-and-ai-gains/amp/",
-      "publishedDateTime": "2020-03-11T06:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InvestorPlace",
-        "domain": "investorplace.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://investorplace.com/wp-content/uploads/2019/10/intc1600n.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": "Intel Stock Is Poised to Outperform on Chip and AI Developments",
           "attribution": null
         }
       ],

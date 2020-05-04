@@ -2,6 +2,51 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-01-23-kneron-raises-40-million-to-grow-edge-ai-chip-design-operations.md",
+      "title": "Kneron raises $40 million to grow edge AI chip design operations",
+      "excerpt": "Edge AI startup Kneron today said it’s raised $40 million led by Horizon Ventures. The funding will be used to grow Kneron’s algorithms made especially for on-device machine learning and semiconductor design operations. Kneron released the KL520, a chip made especially for deployment of AI on devices like smart home or IoT devices last year ...",
+      "heat": 264,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/01/23/kneron-raises-40-million-to-grow-edge-ai-chip-design-operations/",
+      "ampWebUrl": "https://venturebeat.com/2020/01/23/kneron-raises-40-million-to-grow-edge-ai-chip-design-operations/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/23/kneron-raises-40-million-to-grow-edge-ai-chip-design-operations/amp/",
+      "publishedDateTime": "2020-01-23T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/01/Kneron_KL520.jpg?fit=1618%2C909&strip=all",
+          "width": 1618,
+          "height": 909,
+          "title": "Kneron raises $40 million to grow edge AI chip design operations",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2020-01-22-ai-startups-raised-record-266-billion-globally-in-2019.md",
       "title": "AI startups raised record $26.6 billion globally in 2019",
       "excerpt": "Global venture capital increased 20% in 2019, while acquisitions jumped 24.8% from the previous year. According to a new report from CB Insights, AI companies raised $26.58 billion across 2,235 deals in 2019, up from 1,940 deals the previous year that totaled $22.148 billion. The 2019 numbers included 10 rounds of more than $100 million that ...",
