@@ -23,6 +23,19 @@ images:
     title: "Iguazio teams up with NetApp to accelerate AI app deployment"
 
 related:
+  - title: "NetApp, Iguazio Build Joint Tech To Accelerate AI Deployments"
+    excerpt: "The joint offering is aimed at building the high-speed pipeline between the storage and analysis of data to improve the performance of AI and improve governance around the applications, said Asaf Somekh, CEO of the New York and Israel company. \"In the enterprise, there's a lot of hype around AI, but a lot in inefficiencies,\" Somekh told CRN."
+    publishedDateTime: 2020-05-04T21:56:00Z
+    webUrl: "https://www.crn.com/news/storage/netapp-iguazio-build-joint-tech-to-accelerate-ai-deployments"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 37
+    images:
+      - url: "https://www.crn.com/resources/025d-0f548a8212a1-c28387816a78-1000/big-data-virtualization-.jpg"
+        width: 609
+        height: 456
   - title: "Iguazio and NetApp Collaborate to Accelerate Deployment of AI Applications"
     excerpt: "Data science startup Iguazio announces a strategic partnership with NetApp to simplify data science and bring AI to the masses"
     publishedDateTime: 2020-05-04T11:18:00Z

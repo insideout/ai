@@ -2,6 +2,96 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-05-04-moxie-is-a-technically-impressive-childhood-robot-from-irobots-former-cto.md",
+      "title": "Moxie is a technically impressive childhood robot from iRobot’s former CTO",
+      "excerpt": "To this day, the Roomba remains the one successful mainstream home robotic. It was a feat iRobot achieved after a decade or so of throwing concepts against the wall, ultimately achieving success through a combination of outward-facing simplicity and under-the-hood sophistication.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/05/04/moxie-is-a-technically-impressive-childhood-robot-from-irobots-former-cto/",
+      "ampWebUrl": "https://techcrunch.com/2020/05/04/moxie-is-a-technically-impressive-childhood-robot-from-irobots-former-cto/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/04/moxie-is-a-technically-impressive-childhood-robot-from-irobots-former-cto/amp/",
+      "publishedDateTime": "2020-05-04T14:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/05/moxie.jpg?w=990",
+          "width": 990,
+          "height": 811,
+          "title": "Moxie is a technically impressive childhood robot from iRobot’s former CTO",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-04-intel-buys-moovit-because-self-driving-cars-cant-be-everywhere.md",
+      "title": "Intel buys Moovit (because self-driving cars can’t be everywhere)",
+      "excerpt": "Intel has acquired Moovit, splashing out around $900 million on the public transit planning app, with plans to integrate it into what until now has been the chip-maker’s autonomous car",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.slashgear.com/intel-buys-moovit-because-self-driving-cars-cant-be-everywhere-04619208/",
+      "ampWebUrl": "https://www.slashgear.com/intel-buys-moovit-because-self-driving-cars-cant-be-everywhere-04619208/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/intel-buys-moovit-because-self-driving-cars-cant-be-everywhere-04619208/amp/",
+      "publishedDateTime": "2020-05-04T13:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://scdn.slashgear.com/wp-content/uploads/2020/05/intel-mobileye-self-driving-car-prototype-1.jpg",
+          "width": 1680,
+          "height": 946,
+          "title": "Intel buys Moovit (because self-driving cars can’t be everywhere)",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-04-a-critical-review-of-star-wars-ai.md",
       "title": "A critical review of Star Wars AI",
       "excerpt": "Spoiler Alert! This article has spoilers for just about the entire Star Wars universe. Read at your own risk! When it comes to fictional portrayals of artificial intelligence technology, the Star Trek universe stands head and shoulders above all others.",
@@ -1016,95 +1106,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-03-adidas-is-using-ai-and-3d-printing-to-cope-with-a-plunge-in-sales-during-the-coronavirus-pandemic.md",
-      "title": "Adidas is using AI and 3D printing to cope with a plunge in sales during the coronavirus pandemic",
-      "excerpt": "German sportswear giant Adidas plans to bolster its lagging performance by shifting strategy to focus on its digital platform.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businessinsider.com/adidas-ai-3d-printing-coronavirus-sales-plunge-2020-4",
-      "ampWebUrl": "https://www.businessinsider.com/adidas-ai-3d-printing-coronavirus-sales-plunge-2020-4?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/adidas-ai-3d-printing-coronavirus-sales-plunge-2020-4?amp",
-      "publishedDateTime": "2020-05-03T04:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.insider.com/5eaaeae442278d66c5040b96?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": "Adidas is using AI and 3D printing to cope with a plunge in sales during the coronavirus pandemic",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-03-computer-vision-market-share-scope-revenue-trade-analysis-trends-drivers-2018-2023.md",
-      "title": "Computer Vision Market Share, Scope, Revenue, Trade Analysis, Trends, Drivers 2018-2023",
-      "excerpt": "The computer vision technology landscape continues to undergo relentless transformation, concurrently creating new application opportunities. In 2017, the global market for comput",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-market-share-scope-revenue-trade-analysis-trends-drivers-2018-2023-2020-05-03",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-03T02:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Computer Vision Market Share, Scope, Revenue, Trade Analysis, Trends, Drivers 2018-2023",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

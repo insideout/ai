@@ -25,6 +25,6 @@ images:
     height: 423
     title: "NVIDIA DGX A100 May Rock Up To 16 Ampere GA100 GPUs For Deep Learning Dominance"
 
-secured: "9erzdNzyzqOsJIyMHbogtrbsKsIiP/46Nhwrd9d0MAq/k9+sjm5ldxOmrHD5faaXRUz+qZf4o0jMij+ZPhBApobpt0/CuFUfwjkvVvfyljRuUIxsNuAqGx7DrIJht5mO7Zmut+gbq+jpyNDaxR7f6rSZ5i/rM39ObyiqVmEwFRP+3oWq1eGI9OYWc1hR8KZZL6zM3zWXtsOqM3bCfInicEJuxlStimm5Q4KZYQE3ekUJEw469jUIeNRxVWvcblJh7AnIg51emob0WIEhCUN+TB/wgBdHpsCmpFSJT3kfPoKJoWuJv4YF5Hqtbse/bsyZ;zbTFXQHSv2tlKEsqH7tLhQ=="
+secured: "U/7BPVbJSPLagZquVq86QP8lvli1ntdgzNW7cNZV7OYQWJMNA9/tyixkk/pGp+1zF5FtrvLzNQAMxql/QU5FL6L0Tb5VRP77eV4xUNVL40lcaRPCCbLmUDCGaAYZyBuLl/rIDafdC0d1e+yeE5Ph75OVtaitft+hjq0GCQDP/kz18w7SQ9R0sQ4DwWVD4Dcr9dgLsylFZztnz45PegK9KkuOu2dwguxuXFc9Qm6BuBlFrThwYQ5jFe6df/1YtNWkLEH3fsBHFja8jMxluBKBCy85r2S+kfuMnMRg9Nbrgdf1awG/5tVxOIbIQ6TKgsxLIF4ImWH86k801/jVmsEz4G3QReFmXvcf1EdI4+4i6aXtCIL/6m/Dqr9f2A7iBNz4N6NQH3LmZJuLC4XoRekrDXQJa1YnCxV6gfuy9SOBGyVfdk40fTN6XMrCkvfwl7nLZpvFNbDcUY2fgEfvHykHu5xpt0WQQ9dleWIHSpA7wAc=;tUGx1E+/JqizbiWhHcgABQ=="
 ---
 

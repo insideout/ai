@@ -2,6 +2,43 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-04-07-ai-applications-top-10-real-world-artificial-intelligence-applications.md",
+      "title": "AI Applications: Top 10 Real World Artificial Intelligence Applications",
+      "excerpt": "This makes Waymo cars more effective and safer. Another famous example of an autonomous vehicle is Tesla’s self-driving car. Artificial Intelligence implements computer vision, image detection and deep learning to build cars that can automatically detect ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.edureka.co/blog/artificial-intelligence-applications/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-06T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Edureka",
+        "domain": "edureka.co",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "http://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/10/Artificial-IntelligenceAI-applications.png",
+          "width": 1630,
+          "height": 952,
+          "title": "AI Applications: Top 10 Real World Artificial Intelligence Applications",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-07-artificial-intelligence-driving-autonomous-vehicle-development.md",
       "title": "Artificial intelligence driving autonomous vehicle development",
       "excerpt": "Autonomous driving is one of the key application areas of artificial intelligence (AI). Autonomous vehicles (AV ... which eventually became Waymo in 2016. Waymo has been extensively leveraging AI to make fully autonomous driving a reality.",
@@ -1174,35 +1211,6 @@
       "provider": {
         "name": "CNBC Africa",
         "domain": "cnbcafrica.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-30-artificial-intelligence-revolution-will-make-many-jobs-obsolete.md",
-      "title": "Artificial Intelligence Revolution Will Make Many Jobs Obsolete",
-      "excerpt": "From personal digital assistants to self-driving cars, artificial intelligence is quickly gaining ground with the technology promising increased productivity, efficiency and safety. Kiet Do reports.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://sanfrancisco.cbslocal.com/video/3756432-artificial-intelligence-revolution-will-make-many-jobs-obsolete/",
-      "ampWebUrl": "https://sanfrancisco.cbslocal.com/video/3756432-artificial-intelligence-revolution-will-make-many-jobs-obsolete/amp/",
-      "cdnAmpWebUrl": "https://sanfrancisco-cbslocal-com.cdn.ampproject.org/c/s/sanfrancisco.cbslocal.com/video/3756432-artificial-intelligence-revolution-will-make-many-jobs-obsolete/amp/",
-      "publishedDateTime": "2020-03-29T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS SF BayArea",
-        "domain": "cbslocal.com",
         "images": null,
         "publishers": null,
         "authors": null

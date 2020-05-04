@@ -28,6 +28,6 @@ images:
     height: 585
     title: "This AI is creating some surprisingly good bops based on music by Katy Perry and Kanye West — listen to some of the best"
 
-secured: "+Xx2esM5jgd2G3W6qsRXU/ZhoDe6Z36EoDHCo0iB4Ymzg5lNIwU48ehKepyJ4u6LVp8WybZMORpJh3Y/+QST35jPERdv59QjgfDylVoHgze0DTPLbOliirslJWKlVUtEHZoYbSFivWkQyymw2JV+JkfxNK8tltbEsItsqlB15/2FuSPSjyk6PBP4ErqJkwlYiksGBcQzYWUKoB6Tbsy8D4Y1IzBi5kXA50+7nlcDuwjo4y3E7SYrDMlK/vWgouwQKULaheYozDuvC5HoOEugWWosQ36FRJjt2GD9lgWD54YDi3aUHJ2DHBL25ykn6X56;Scx+niYkz7VtTGZjbYdq1g=="
+secured: "M7md0WIJY4iSTqXW2qSE1H3lDuu2UlBAOHOzLs4XNDFp16KI9G6qYKfpwyhNLN/QOZ1igbXC/UPcn58gnMq+2SSVbt41C/hyehiHnoQhSt8ykVv7YJAfHBWeoKG5Sndy3NmFixdz5tyxFVSHG/5eVUODi5MZigHoIl2lJRoc7c5sXcwBhwGnEg6FmE9sfEKN/DTB/RGqlLOYS8GbTzkIpzJ+xqBCNDMhf1XAOlJH2lI4OUwwQILypcMktu2cKV6iAQyNDJaJd8V8MGTSa0kLedy0st5nNCFkSquaybaUFJistG0is5HERE7XIzrLveMH/D8pkCPY6ACj9VXMIZ7/J6YM47fegRdgA6/6UAJdFkgqp6tSgsnQuvsu0Qqn2QPMij7jikjlQZUZZSkv6c9obUgIgaZzfzoZPgrg7htunguKNcpjlRd/CIIay/M4Y+QsCXT3aSIu19c1XZ2VVycGCvI1M3K/k8gyMzhh0ECms+Q=;Eo42euMtBoF2mFMnx8JuoQ=="
 ---
 

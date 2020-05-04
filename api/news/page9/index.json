@@ -2,6 +2,88 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-04-27-logical-clocks-launches-hopsworksai-the-worlds-first-artificial-intelligence-cloud-platform-with-a-feature-store.md",
+      "title": "Logical Clocks Launches Hopsworks.ai: The World’s First Artificial Intelligence Cloud Platform with a Feature Store",
+      "excerpt": "With Hopsworks.ai, Logical Clocks brings to the cloud the open-source and award-winning Hopsworks platform. For companies, this translates into reduced time and costs to bring new machine learning models to production,",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/logical-clocks-launches-hopsworks-ai-the-world-s-first-artificial-intelligence-cloud-platform-with-a-feature-store-1029132183",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-27T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-27-shanghai-ride-hailers-can-now-call-for-an-autox-self-driving-taxi.md",
+      "title": "Shanghai ride-hailers can now call for an AutoX self-driving taxi",
+      "excerpt": "Autonomous driving tech company AutoX has partnered with the Alibaba Group's Amap mobility platform to offer folks in Shanghai the option to hail a ride in an AutoX RoboTaxi.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://newatlas.com/automotive/amap-autox-robotaxi-automonous-shanghai/",
+      "ampWebUrl": "https://newatlas.com/automotive/amap-autox-robotaxi-automonous-shanghai/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/automotive/amap-autox-robotaxi-automonous-shanghai/?amp=true",
+      "publishedDateTime": "2020-04-27T03:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/5ced272/2147483647/strip/true/crop/6036x4024+6+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Ff9%2F64%2F1def9f2d4b9284f3202d26fdc1df%2Fautox-amap-app.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Shanghai ride-hailers can now call for an AutoX self-driving taxi",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-27-ai-startup-weve-removed-humans-from-business-negotiations.md",
       "title": "AI startup: We've removed humans from business negotiations",
       "excerpt": "But that is exactly what happened in late March this year when Estonian startup Pactum, which provides an AI-based commercial negotiation tool, was engaged by Walmart to automate negotiations with part of its global supplier network.",
@@ -981,96 +1063,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-25-aws-unveils-open-source-model-server-for-pytorch.md",
-      "title": "AWS unveils open source model server for PyTorch",
-      "excerpt": "Model versioning for A/B testing. Metrics for monitoring. RESTful endpoints for application integration. Any deployment environment can be supported by TorchServe, including Kubernetes, Amazon SageMaker, Amazon EKS, and Amazon EC2. TorchServe requires Java 11 on Ubuntu Linux or MacOS. Detailed installation instructions can be found on GitHub.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.infoworld.com/article/3540415/aws-unveils-open-source-model-server-for-pytorch.html",
-      "ampWebUrl": "https://www.infoworld.com/article/3540415/aws-unveils-open-source-model-server-for-pytorch.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3540415/aws-unveils-open-source-model-server-for-pytorch.amp.html",
-      "publishedDateTime": "2020-04-24T17:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2019/07/automation_iot_machine-learning_process_ai_artificial-intelligence-by-zapp2photo-getty-100802298-large.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "AWS unveils open source model server for PyTorch",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-24-artificial-intelligence-ai-in-fintech-2020-professional-in-depth-analysis-and-forecast-to-2026.md",
-      "title": "Artificial Intelligence (AI) In Fintech 2020 Professional In-Depth Analysis and Forecast to 2026",
-      "excerpt": "A new research study has been presented by Market Research Intellect offering a comprehensive analysis on the Global",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-2020-professional-in-depth-analysis-and-forecast-to-2026-2020-04-24",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-24T16:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Artificial Intelligence (AI) In Fintech 2020 Professional In-Depth Analysis and Forecast to 2026",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

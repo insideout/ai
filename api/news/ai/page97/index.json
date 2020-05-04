@@ -2,6 +2,94 @@
   "page": 97,
   "value": [
     {
+      "path": "_news/2020-01-22-theres-nowhere-to-hide-anymore-this-ai-can-see-around-corners.md",
+      "title": "There's nowhere to hide anymore: This AI can see around corners",
+      "excerpt": "Hiding behind a wall might not be practical for much longer thanks to new technology that uses artificial intelligence to see and even read around corners. A team of researchers from Princeton, Stanford, Rice and Southern Methodist universities devised a system that uses powerful lasers similar to a laser pointer. The beam is bounced off a ...",
+      "heat": 97,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnet.com/news/sorry-theres-nowhere-to-hide-this-ai-can-see-around-corners/",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/sorry-theres-nowhere-to-hide-this-ai-can-see-around-corners/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/sorry-theres-nowhere-to-hide-this-ai-can-see-around-corners/",
+      "publishedDateTime": "2020-01-21T21:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cnet3.cbsistatic.com/img/exUfnlVhyXneSn2qZmf2J9UfJ-k=/756x567/2020/01/09/e0e4d486-f8d6-46bd-b260-426ee82d8d3f/rs-show-ces-2020-sld-laser-lights-holdingstill.jpg",
+          "width": 756,
+          "height": 567,
+          "title": "There's nowhere to hide anymore: This AI can see around corners",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-01-22-singapore-releases-latest-ai-framework-edition-to-improve-governance-and-trust.md",
+      "title": "Singapore releases latest AI Framework edition to improve governance and trust",
+      "excerpt": "Almost a year to the day since the Singapore government released its first edition of the Model AI Governance Framework, a second edition has been announced at the 2020 World Economic Forum (WEF), aimed at improving consumer trust on the use and governance of artificial intelligence (AI). The updated version [PDF] of the Model AI Governance ...",
+      "heat": 103,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/singapore-releases-latest-ai-framework-edition-to-improve-governance-and-trust/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/singapore-releases-latest-ai-framework-edition-to-improve-governance-and-trust/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/singapore-releases-latest-ai-framework-edition-to-improve-governance-and-trust/",
+      "publishedDateTime": "2020-01-21T20:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/2020/01/22/0d371627-35ec-44a9-83fe-7238305ce185/singapore-model-ai-governance-framework-second-edition-compendium-of-use-cases-pdf1.png",
+          "width": 913,
+          "height": 582,
+          "title": "Singapore releases latest AI Framework edition to improve governance and trust",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-01-22-ibm-announces-partnership-with-williams-ai-startup-at-davos.md",
       "title": "IBM announces partnership with will.i.am's AI startup at Davos",
       "excerpt": "will.i.am's tech company, I.AM+, and IBM have created a global partnership to ensure enterprise-level security for customer data as AI adoption speeds up and pushes further into the mainstream. Human-like conversational experiences are at the forefront of I.AM's Omega AI platform, and speed and security are priorities for its worldwide ...",
@@ -1183,96 +1271,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-21-ai-the-topic-that-got-sidelined-in-the-british-election.md",
-      "title": "AI: the topic that got sidelined in the British election",
-      "excerpt": "... Generation Artificial Intelligence Plan”, revealing its ambition to create an AI industry worth 1 trillion RM by 2030. Perhaps the most comprehensive of all, the plan involves a suite of initiatives that span R&D, talent development, regulations, ethics and security. Closer to home, France announced its own AI plan in 2018. Designed to ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techradar.com/nz/news/ai-the-topic-that-got-sidelined-in-the-british-election",
-      "ampWebUrl": "https://www.techradar.com/nz/amp/news/ai-the-topic-that-got-sidelined-in-the-british-election",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/ai-the-topic-that-got-sidelined-in-the-british-election",
-      "publishedDateTime": "2020-01-21T02:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/XRZnyNZVHb27CjWT9rGzg7-1200-80.jpg",
-          "width": 970,
-          "height": 545,
-          "title": "AI: the topic that got sidelined in the British election",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-01-21-microsoft-disagrees-with-eu-facial-recognition-ban.md",
-      "title": "Microsoft disagrees with EU facial-recognition ban",
-      "excerpt": "Microsoft disagrees with the EU's plan to ban facial recognition, saying the only way to make the technology better is to use it. The European Commission is considering a five-year ban on facial recognition in public spaces in order to buy time to assess risks and develop legislation. The move comes as other public authorities, notably the ...",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/354588/microsoft-disagrees-with-eu-facial-recognition-ban",
-      "ampWebUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/354588/microsoft-disagrees-with-eu-facial-recognition-ban?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/354588/microsoft-disagrees-with-eu-facial-recognition-ban?amp",
-      "publishedDateTime": "2020-01-21T02:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/v1570817110/itpro/2018/12/microsoft_facial_recognition.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": "Microsoft disagrees with EU facial-recognition ban",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
       ]
     }
   ],
