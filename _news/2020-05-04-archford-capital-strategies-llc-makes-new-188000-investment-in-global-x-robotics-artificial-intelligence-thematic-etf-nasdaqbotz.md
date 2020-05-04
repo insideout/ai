@@ -25,6 +25,6 @@ images:
     height: 323
     title: "Archford Capital Strategies LLC Makes New $188,000 Investment in Global X Robotics & Artificial Intelligence Thematic ETF (NASDAQ:BOTZ)"
 
-secured: "SHYxhmLEwfui3A1ckFIP41F2Qj5OzzdgbHVBtJ/ImTE4HPHQupJX1ecY9y268ReU+KyZ5HIcp3j1VpVuPP+OQ5YXS5R58YjRbtyttUdH22m+mqr8ESwqW9hSfCnwZGeOvRUWIXT24tEvqQr2p6HpH9T9ffoq4oslkjS88YzJZbWqgExRfKe0m7yd1OEEdcVIN/Z90a5MlUFqCpu7po+BN1KHbfoVbv9Rg9W+2TLs3a+oXxMYaGetKz24ohOulmS01Mpe4Y3OIaxjYNSuMxSRZBj21ls6YwWPTj90EIJ+iCdbWw3QCmpC6U3+PS7hnl55;70FEJq7I0+1+oy4opgqSOA=="
+secured: "TasM/pJBLtFG+pXBAAf8U5bvjsXpyR50ka4Dl/0f2G79piiEVlxj0gciHBxD46zfgWGPzw+NFxsdRCKa1xM4lHlVuaMih86jaSv6y5FiaIZhiYkKPw5eC7lY1ZesR1wXGswRC1PNka9bgw1lV/6mMU+yaYMl8UPtma9WUpj+uY4DlrO7Gts8JpU4v78ZURKelWAcOWCXKppicfJJ5tSA2ZymsFb0AEuPnaXX1suw8Pem59UdGlFLCcsJF7H7hwxcuIDp5SnYF+jENnRCLrw7HRiNqHGD2Gr559i0F2fzZvUqYO/r0ma5ASzM2J94Bk2Jp57T40bCDVcITsgZXD6eQgxGygun36fW3j6fLrLvqaEq8YYR9oSJ4Qgoe4xQqZFuf3d1+MB+k9j1B+PkcN0aO6MqP+gP2WhsHaTZFIJJhXEkiR5YLYrp3q3YAprfu+M+HDhMsTqQ5dviuRsm1jt/lLAUz3IpEq0c4HaZNxL9ICo=;xzn7YIX5PznNHgYQ5AApaw=="
 ---
 
