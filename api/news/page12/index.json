@@ -2,43 +2,6 @@
   "page": 12,
   "value": [
     {
-      "path": "_news/2020-04-22-bank-chatbots-work-coronavirus-into-the-conversation.md",
-      "title": "Bank chatbots work coronavirus into the conversation",
-      "excerpt": "In late January the team at Kasisto, the company behind the conversational artificial-intelligence platform Kai ... a top-10 bank in the U.S., as well as one international client. IBM’s Watson Assistant can also be trained to answer basic questions ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.americanbanker.com/news/bank-chatbots-work-coronavirus-into-the-conversation",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-22T10:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "American Banker",
-        "domain": "americanbanker.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://arizent.brightspotcdn.com/dims4/default/2d869c5/2147483647/strip/true/crop/1500x788+0+28/resize/1200x630!/quality/90/?url=https%3A%2F%2Farizent.brightspotcdn.com%2F20%2Fc5%2Ff809be494763b98fe2c7389bddec%2Fadobestock-226771742.jpeg",
-          "width": 1200,
-          "height": 630,
-          "title": "Bank chatbots work coronavirus into the conversation",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-04-22-facebooks-climate-conversation-map-reveals-reactions-to-environmental-news.md",
       "title": "Facebook’s Climate Conversation Map reveals reactions to environmental news",
       "excerpt": "It’s available by request to research partners and nonprofits following a preview last year ... “We look forward to seeing how different organizations use these maps to inform the climate debate and deliver new resources.” Facebook’s work in AI and mapping comes after the social network shared to the OpenStreetMap community the Map ...",
@@ -1083,6 +1046,43 @@
       ],
       "topics": [
         "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-22-commscope-brings-artificial-intelligence-and-machine-learning-to-ruckus-analytics.md",
+      "title": "Commscope brings artificial intelligence and machine learning to Ruckus Analytics",
+      "excerpt": "Built on a patented machine learning (ML) and artificial intelligence (AI) foundation, the new service accelerates troubleshooting, provides comprehensive network visibility, automatically identifies service-affecting issues, and—unique to the networking industry classifies them according to severity, enabling managed service provider and ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zawya.com/mena/en/press-releases/story/Commscope_brings_artificial_intelligence_and_machine_learning_to_Ruckus_Analytics-ZAWYA20200422073526/",
+      "ampWebUrl": "https://www.zawya.com/mena/en/story/amp/ZAWYA20200422073526/",
+      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20200422073526/",
+      "publishedDateTime": "2020-04-22T00:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.zawya.com/resources/img/zawya-logo-en-social.png",
+          "width": 1200,
+          "height": 878,
+          "title": "Commscope brings artificial intelligence and machine learning to Ruckus Analytics",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
         "AI"
       ]
     }

@@ -2,35 +2,6 @@
   "page": 35,
   "value": [
     {
-      "path": "_news/2020-03-30-global-cognitive-solution-market-2020-2026-microsoft-cisco-amazoncom-ibm-hpe.md",
-      "title": "Global Cognitive Solution Market 2020-2026 Microsoft, Cisco, Amazon.com, IBM, HPE",
-      "excerpt": "The Global Cognitive Solution Market research 2020-2026 is a specialized and in-depth study of industry with a focus on the global market trend. The Cognitive Solution report aims to provide an ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.openpr.com/news/1989878/global-cognitive-solution-market-2020-2026-microsoft-cisco",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-30T02:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-03-30-fintech-company-payby-launches-mobile-payment-services-in-the-uae.md",
       "title": "Fintech Company PayBy launches Mobile Payment Services in the UAE",
       "excerpt": "PayBy is a fintech company with world-class payment infrastructure that provides a fast, secure, AI-powered, one-stop payment solution. The company is committed to offering unified and inclusive financial services for everyday work and life, connecting with people around the world. PayBy collaborates with a variety of leading institutions ...",
@@ -1227,6 +1198,50 @@
       ],
       "topics": [
         "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-28-ipad-trackpad-support-is-just-the-start-of-ios-134s-great-features.md",
+      "title": "iPad trackpad support is just the start of iOS 13.4's great features",
+      "excerpt": "Apple released the latest iPhone and iPad software update with iOS 13.4 and iPadOS 13.4. It adds new features that let you use the trackpad to control the iPad, share iCloud files and make new Memoji,",
+      "heat": 72,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnet.com/how-to/ipad-trackpad-support-is-just-the-start-of-ios-13-4s-great-features/",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/ipad-trackpad-support-is-just-the-start-of-ios-13-4s-great-features/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ipad-trackpad-support-is-just-the-start-of-ios-13-4s-great-features/",
+      "publishedDateTime": "2020-03-28T05:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cnet4.cbsistatic.com/img/XqDWvrZY6CVOCKok-tNg7jlqgi4=/756x567/2019/09/19/58acf163-3d55-4bdb-8353-4fc0dd83527d/memoji-stickers.jpg",
+          "width": 756,
+          "height": 567,
+          "title": "iPad trackpad support is just the start of iOS 13.4's great features",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     }

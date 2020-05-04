@@ -2,51 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2020-04-14-artificial-intelligence-that-can-evolve-on-its-own-is-being-tested-by-google-scientists.md",
-      "title": "Artificial Intelligence That Can Evolve on Its Own Is Being Tested by Google Scientists",
-      "excerpt": "It's extremely exciting to see if it can turn up any algorithms that we haven't even thought of yet, the impact of which to our daily lives may be enormous,\" one computer expert told Newsweek.",
-      "heat": 81,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.newsweek.com/google-brain-artificial-intelligence-machine-learning-research-evolution-automl-zero-1497781",
-      "ampWebUrl": "https://www.newsweek.com/google-brain-artificial-intelligence-machine-learning-research-evolution-automl-zero-1497781?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/google-brain-artificial-intelligence-machine-learning-research-evolution-automl-zero-1497781?amp=1",
-      "publishedDateTime": "2020-04-14T09:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1581468/stock-math-equations.jpg",
-          "width": 2100,
-          "height": 1428,
-          "title": "Artificial Intelligence That Can Evolve on Its Own Is Being Tested by Google Scientists",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-04-14-artificial-intelligence-evolving-by-itself.md",
       "title": "Artificial Intelligence Evolving By Itself",
       "excerpt": "Building an AI algorithm takes time. Take neural networks, a common type of machine learning used for translating languages and driving cars. These networks loosely mimic the structure of the brain and learn from training data by altering the strength of connections between artificial neurons. Smaller subcircuits of neurons carry out specific ...",
@@ -1205,6 +1160,43 @@
           "width": 1200,
           "height": 600,
           "title": "IBM’s AI classifies seizures with 98.4% accuracy using EEG data",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-06-artificial-intelligence-that-can-diagnose-covid-19-using-x-rays-could-help-identify-cases-of-coronavirus-more-quickly-and-predict-outcomes-for-patients-computer-programmers-claim.md",
+      "title": "Artificial Intelligence that can diagnose COVID-19 using X-RAYS could help identify cases of coronavirus more quickly and predict outcomes for patients, computer programmers claim",
+      "excerpt": "Developers at the Oxford-based data-visualisation company, Zegami, have created a machine learning model that can diagnose the virus from the images.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-8191549/Artificial-Intelligence-help-diagnose-COVID-19-using-X-RAYS.html",
+      "ampWebUrl": "https://www.dailymail.co.uk/sciencetech/article-8191549/amp/Artificial-Intelligence-help-diagnose-COVID-19-using-X-RAYS.html",
+      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-8191549/amp/Artificial-Intelligence-help-diagnose-COVID-19-using-X-RAYS.html",
+      "publishedDateTime": "2020-04-06T05:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mail Online",
+        "domain": "dailymail.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.dailymail.co.uk/1s/2020/04/06/12/26862700-0-image-a-6_1586171210666.jpg",
+          "width": 636,
+          "height": 382,
+          "title": "Artificial Intelligence that can diagnose COVID-19 using X-RAYS could help identify cases of coronavirus more quickly and predict outcomes for patients, computer programmers claim",
           "attribution": null
         }
       ],

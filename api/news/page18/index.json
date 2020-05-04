@@ -2,44 +2,6 @@
   "page": 18,
   "value": [
     {
-      "path": "_news/2020-04-17-tensorflow-to-rtl-with-high-level-synthesis-cadence-design-systems.md",
-      "title": "TensorFlow to RTL with High-Level Synthesis — Cadence Design Systems",
-      "excerpt": "High-level synthesis (HLS) can provide a mechanism to get from AI frameworks like TensorFlow into synthesizable RTL, enabling the development of high-performance inference architectures. In this episode of Chalk Talk, Amelia Dalton chats with Dave Apte of ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.eejournal.com/chalk_talks/tensorflow-to-rtl-with-high-level-synthesis-cadence-design-systems/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-16T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electronic Engineering Journal",
-        "domain": "eejournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.eejournal.com/wp-content/uploads/2017/05/cropped-EEJ_favicon_2020-copy.png",
-          "width": 512,
-          "height": 512,
-          "title": "TensorFlow to RTL with High-Level Synthesis — Cadence Design Systems",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "TensorFlow",
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-04-16-toyota-backed-ponyai-to-offer-autonomous-delivery-service-in-california.md",
       "title": "Toyota-backed Pony.ai to offer autonomous delivery service in California",
       "excerpt": "Toyota-backed self driving company Pony.ai said on Friday it would provide an autonomous delivery service to residents of Irvine, California, as demand for online orders surges because of the coronavirus lockdown.",
@@ -1070,6 +1032,50 @@
       ],
       "topics": [
         "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-16-project-florence-how-ai-powered-online-learning-is-training-nurses-to-fight-covid-19.md",
+      "title": "Project Florence: How AI-powered online learning is training nurses to fight COVID-19",
+      "excerpt": "SEE: Coronavirus: Critical IT policies and tools every business needs (TechRepublic Premium) The online learning tool starts with an AI-driven assessment that changes based on the knowledge level of the user. Once Project Florence has determined what a nurse or other health care practitioner needs to learn it recommends a two-day curriculum ...",
+      "heat": 80,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/article/project-florence-how-ai-powered-online-learning-is-training-nurses-to-fight-covid-19/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/project-florence-how-ai-powered-online-learning-is-training-nurses-to-fight-covid-19/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/project-florence-how-ai-powered-online-learning-is-training-nurses-to-fight-covid-19/",
+      "publishedDateTime": "2020-04-16T06:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/03/19/d5bc89b3-5b78-4960-afc0-225ccc07578a/thumbnail/1200x675/ceb60bdc175321320b105411a3ee9cf3/20200318-veronica-karen.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Project Florence: How AI-powered online learning is training nurses to fight COVID-19",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     }

@@ -2,43 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2020-04-22-commscope-brings-artificial-intelligence-and-machine-learning-to-ruckus-analytics.md",
-      "title": "Commscope brings artificial intelligence and machine learning to Ruckus Analytics",
-      "excerpt": "Built on a patented machine learning (ML) and artificial intelligence (AI) foundation, the new service accelerates troubleshooting, provides comprehensive network visibility, automatically identifies service-affecting issues, and—unique to the networking industry classifies them according to severity, enabling managed service provider and ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zawya.com/mena/en/press-releases/story/Commscope_brings_artificial_intelligence_and_machine_learning_to_Ruckus_Analytics-ZAWYA20200422073526/",
-      "ampWebUrl": "https://www.zawya.com/mena/en/story/amp/ZAWYA20200422073526/",
-      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20200422073526/",
-      "publishedDateTime": "2020-04-22T00:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.zawya.com/resources/img/zawya-logo-en-social.png",
-          "width": 1200,
-          "height": 878,
-          "title": "Commscope brings artificial intelligence and machine learning to Ruckus Analytics",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-04-21-why-covid-natures-code-cracking-machine-intelligence.md",
       "title": "Why COVID? Nature’s Code Cracking Machine Intelligence",
       "excerpt": "Viruses don’t just attack the human body. They attack all the systems we’ve built to sustain modern life. As our systems have evolved, so too have our viruses. Today, we have COVID-19, and if we aren’t careful,",
@@ -1264,6 +1227,51 @@
           "width": 1234,
           "height": 659,
           "title": "OpenAI launches Microscope to visualize the neurons in popular machine learning models",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-14-artificial-intelligence-that-can-evolve-on-its-own-is-being-tested-by-google-scientists.md",
+      "title": "Artificial Intelligence That Can Evolve on Its Own Is Being Tested by Google Scientists",
+      "excerpt": "It's extremely exciting to see if it can turn up any algorithms that we haven't even thought of yet, the impact of which to our daily lives may be enormous,\" one computer expert told Newsweek.",
+      "heat": 81,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.newsweek.com/google-brain-artificial-intelligence-machine-learning-research-evolution-automl-zero-1497781",
+      "ampWebUrl": "https://www.newsweek.com/google-brain-artificial-intelligence-machine-learning-research-evolution-automl-zero-1497781?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/google-brain-artificial-intelligence-machine-learning-research-evolution-automl-zero-1497781?amp=1",
+      "publishedDateTime": "2020-04-14T09:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1581468/stock-math-equations.jpg",
+          "width": 2100,
+          "height": 1428,
+          "title": "Artificial Intelligence That Can Evolve on Its Own Is Being Tested by Google Scientists",
           "attribution": null
         }
       ],

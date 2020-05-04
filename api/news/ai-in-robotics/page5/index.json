@@ -2,43 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2020-03-10-artificial-intelligence-drives-new-industrial-inspection-drones.md",
-      "title": "Artificial Intelligence Drives New Industrial Inspection Drones",
-      "excerpt": "Jameson Huckaba of Digital Aerolus explains the technology behind and capabilities of the company's Aertos industrial inspection drones during the Tech Crunch Robotics+AI 2020 event.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.automationworld.com/factory/plant-maintenance/video/21120855/artificial-intelligence-drives-new-industrial-inspection-drones",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-10T06:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Automation World",
-        "domain": "automationworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://img.automationworld.com/files/base/pmmi/all/image/2020/03/IMG_0453.5e6696b198bf7.png?auto=format&fit=max&w=1200",
-          "width": 1200,
-          "height": 900,
-          "title": "Artificial Intelligence Drives New Industrial Inspection Drones",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-03-10-artificial-intelligence-image-guided-robotics-for-automatic-blood-draw.md",
       "title": "Artificial intelligence, image-guided robotics for automatic blood draw",
       "excerpt": "Rutgers University engineers have created a tabletop device that combines a robot, artificial intelligence (AI), and near-infrared and ultrasound imaging to draw blood or insert catheters for fluid and drug delivery. Research results, published in the journal Nature Machine Intelligence, suggest medical robots could reduce injuries, improve ...",
@@ -1172,6 +1135,43 @@
           "width": 711,
           "height": 474,
           "title": "How To Deploy Robotics Responsibly",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-02-24-applications-of-photodetectors-in-robotics.md",
+      "title": "Applications of Photodetectors in Robotics",
+      "excerpt": "For now, security robots aren’t able to adequately replace a human security guard ... In 2017, the US Department of Defense launched Project Maven, an initiative to leverage artificial intelligence to classify and analyze massive amounts of surveillance video. The project has been working on AI software that can flag people, vehicles ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.azorobotics.com/Article.aspx?ArticleID=345",
+      "ampWebUrl": "https://www.azorobotics.com/amp/article.aspx?ArticleID=345",
+      "cdnAmpWebUrl": "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/article.aspx?ArticleID=345",
+      "publishedDateTime": "2020-02-24T07:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Azorobotics",
+        "domain": "azorobotics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.azorobotics.com/images/Article_Images/ImageForArticle_345_15825385749239338.png",
+          "width": 950,
+          "height": 713,
+          "title": "Applications of Photodetectors in Robotics",
           "attribution": null
         }
       ],

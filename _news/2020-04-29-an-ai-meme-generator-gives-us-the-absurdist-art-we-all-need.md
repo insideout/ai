@@ -8,7 +8,7 @@ ampWebUrl: "https://www.wired.com/story/ai-meme-generator-coronavirus/amp"
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ai-meme-generator-coronavirus/amp"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -27,23 +27,6 @@ images:
     width: 2400
     height: 1600
     title: "An AI Meme Generator Gives Us the Absurdist Art We All Need"
-
-related:
-  - title: "This artificial intelligence's absurdist memes are funnier than what most real humans create"
-    excerpt: "This Meme Does Not Exist can create new captions for some of the most popular meme templates at the click of your mouse."
-    publishedDateTime: 2020-04-29T16:53:00Z
-    webUrl: "https://www.businessinsider.com/memes-artificial-intelligence-technology-deepfake-imgflip-meme-does-not-exist-2020-4"
-    ampWebUrl: "https://www.businessinsider.com/memes-artificial-intelligence-technology-deepfake-imgflip-meme-does-not-exist-2020-4?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/memes-artificial-intelligence-technology-deepfake-imgflip-meme-does-not-exist-2020-4?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 78
-    images:
-      - url: "https://i.insider.com/5ea98910a34b3c06461a5317?width=1200&format=jpeg"
-        width: 1200
-        height: 600
 
 secured: "wVnqy171gSae/vlHTNO+7LHp2lPpaFt222KsPNRy4e3tVGcSwo8kzQL41w4pXctcj42XAqx6YVhxndpQxFda/beBduB80sSBGjgNUGoj/f3gUdy+GmuF1uSuBxHwSu/AgEtlQuHWIq/8UBamuO1cue4Q0v4ideHmO3R38jZ5hyU2FI7rp9GetYW/NeLTE5ECks/PallSCrg09wFztVCd4/USuTdaPgnIumcHsdLSVCBW1NkNWtbierfnkPWP86iXBG92eRu2Tv9Uqitj0mL8zDTPM+0v+9nCkuvf6eB68rR1e1Bwc3EporIr3OsWn0GMXW2066HH0ykH8lHcEdsLz4Shb30i9x2OOTZnWol0EtvuGBcQ7qVobMS9B2ax+4HDAilFlIIjSOzFrJvJNSETNlgVN6uqeBL6zJwCpnoUP4H9qUENwLWyraXuuv11Ap0v/PJj1dd6Cn6JuwPimd8yL81X2zB9XNS5oLOwuIKdmME=;Obxdx/lKZTsC/75DQTTZ3A=="
 ---

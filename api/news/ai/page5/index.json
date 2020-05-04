@@ -2,52 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2020-04-28-now-is-the-time-for-an-economic-stimulus-in-artificial-intelligence-or-the-us-could-fall-behind.md",
-      "title": "Now is the time for an economic stimulus in artificial intelligence — or the US could fall behind",
-      "excerpt": "Increasing research into AI will help the US economy recover from the coronavirus pandemic and better position it for the future.",
-      "heat": 78,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businessinsider.com/us-should-increase-ai-research-as-part-of-coronavirus-response-2020-4",
-      "ampWebUrl": "https://www.businessinsider.com/us-should-increase-ai-research-as-part-of-coronavirus-response-2020-4?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/us-should-increase-ai-research-as-part-of-coronavirus-response-2020-4?amp",
-      "publishedDateTime": "2020-04-28T16:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.insider.com/5ea8575df242ab230e628669?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": "Now is the time for an economic stimulus in artificial intelligence — or the US could fall behind",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
       "path": "_news/2020-04-28-robots-could-complete-all-human-tasks-by-2050-claims-transhumanist-writer.md",
       "title": "Robots could complete ‘all human tasks’ by 2050 claims transhumanist writer",
       "excerpt": "THERE'S a 50 percent chance robots will be capable of completing \"all human tasks\" by 2050, allowing humans to move to a post-compulsory work society, according to a leading transhumanist thinker.",
@@ -1316,6 +1270,43 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-28-2020-iphone-ses-portrait-mode-solely-relies-on-machine-learning.md",
+      "title": "2020 iPhone SE’s Portrait Mode Solely Relies On Machine Learning",
+      "excerpt": "Developers behind the camera app Halide reveal how the new iPhone SE is able to capture photos in Portrait Mode simply using the single camera and machine learning.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.ibtimes.com/2020-iphone-ses-portrait-mode-solely-relies-machine-learning-2966313",
+      "ampWebUrl": "https://www.ibtimes.com/2020-iphone-ses-portrait-mode-solely-relies-machine-learning-2966313?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/2020-iphone-ses-portrait-mode-solely-relies-machine-learning-2966313?amp=1",
+      "publishedDateTime": "2020-04-28T03:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/04/16/2020-iphone-se.jpg",
+          "width": 1200,
+          "height": 733,
+          "title": "2020 iPhone SE’s Portrait Mode Solely Relies On Machine Learning",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
         "AI"
       ]
     }

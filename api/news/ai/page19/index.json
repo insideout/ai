@@ -2,43 +2,6 @@
   "page": 19,
   "value": [
     {
-      "path": "_news/2020-04-14-covid-19-software-firms-sharpen-focus-on-ai-big-data-as-it-spending-drops.md",
-      "title": "Covid-19: Software firms sharpen focus on AI, big data as IT spending drops",
-      "excerpt": "IBM has made its AI platform ‘Watson Assistant for Citizens’ on the public cloud available free of charge for at least 90 days. It helps citizens understand and respond to common questions ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.livemint.com/industry/infotech/covid-19-software-vendors-focus-on-big-data-ai-despite-fall-in-it-spending-11586770804359.html",
-      "ampWebUrl": "https://www.livemint.com/industry/infotech/covid-19-software-vendors-focus-on-big-data-ai-despite-fall-in-it-spending/amp-11586770804359.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/industry/infotech/covid-19-software-vendors-focus-on-big-data-ai-despite-fall-in-it-spending/amp-11586770804359.html",
-      "publishedDateTime": "2020-04-13T18:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2020/04/13/600x338/app-k7pD--621x414@LiveMint_1586773073646.jpg",
-          "width": 600,
-          "height": 337,
-          "title": "Covid-19: Software firms sharpen focus on AI, big data as IT spending drops",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-04-14-googles-project-loon-internet-balloons-headed-for-indonesia-ahead-of-a-global-spread.md",
       "title": "Google’s Project Loon internet balloons headed for Indonesia ahead of a global spread",
       "excerpt": "But arguably the most well-known X initiatives are Google Glass and driverless cars, with Project Wing or Loon nowhere near as aggressively plugged in the media of late. The latter may however ...",
@@ -1220,6 +1183,43 @@
       "topics": [
         "AI",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2020-04-12-facebook-ai-model-beats-google-runs-5-times-faster-on-gpus.md",
+      "title": "Facebook AI model beats Google, runs 5 times faster on GPUs",
+      "excerpt": "San Francisco, April 12 (IANS) A team from Facebook AI Research (FAIR) has developed a novel low-dimensional design space called 'RegNet' that outperforms traditional available models like from ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.sify.com/finance/facebook-ai-model-beats-google-runs-5-times-faster-on-gpus-news-topnews-uemnughaiccgj.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-12T05:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Sify.com",
+        "domain": "sify.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "http://iansphoto.in/web/photoimages_new/400/2019/06/14/684aa667a3f557cbb11694f40b087d8b.jpg",
+          "width": 400,
+          "height": 251,
+          "title": "Facebook AI model beats Google, runs 5 times faster on GPUs",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
       ]
     }
   ],

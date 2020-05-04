@@ -8,7 +8,7 @@ ampWebUrl: "https://www.standardmedia.co.ke/mobile/amp/article/2001369648/self-d
 cdnAmpWebUrl: "https://www-standardmedia-co-ke.cdn.ampproject.org/c/s/www.standardmedia.co.ke/mobile/amp/article/2001369648/self-driving-vehicles-get-in-on-the-delivery-scene-amid-covid-19"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -26,17 +26,6 @@ images:
     title: "Self-driving vehicles get in on the delivery scene amid COVID-19"
 
 related:
-  - title: "Self-driving vehicles get in on the delivery scene amid COVID-19"
-    excerpt: "SAN FRANCISCO, April 29 (Reuters) - Self-driving cars, trucks, sidewalk robots and shuttles are rolling out of the labs and parking garage"
-    publishedDateTime: 2020-04-29T16:50:00Z
-    webUrl: "https://www.nasdaq.com/articles/self-driving-vehicles-get-in-on-the-delivery-scene-amid-covid-19-2020-04-29"
-    ampWebUrl: "https://www.nasdaq.com/articles/self-driving-vehicles-get-in-on-the-delivery-scene-amid-covid-19-2020-04-29?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/self-driving-vehicles-get-in-on-the-delivery-scene-amid-covid-19-2020-04-29?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 54
   - title: "Self-driving vehicles get in on the delivery scene amid COVID-19"
     excerpt: "Self-driving cars, trucks, sidewalk robots and shuttles are rolling out of the labs and parking garages and onto American streets to help deliver groceries, meals, and medical supplies. Although self-driving car companies have paused on-road testing in the U."
     publishedDateTime: 2020-05-03T21:00:00Z

@@ -25,17 +25,6 @@ images:
 
 related:
   - title: "Self-driving vehicles get in on the delivery scene amid COVID-19"
-    excerpt: "SAN FRANCISCO, April 29 (Reuters) - Self-driving cars, trucks, sidewalk robots and shuttles are rolling out of the labs and parking garage"
-    publishedDateTime: 2020-04-29T16:50:00Z
-    webUrl: "https://www.nasdaq.com/articles/self-driving-vehicles-get-in-on-the-delivery-scene-amid-covid-19-2020-04-29"
-    ampWebUrl: "https://www.nasdaq.com/articles/self-driving-vehicles-get-in-on-the-delivery-scene-amid-covid-19-2020-04-29?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/self-driving-vehicles-get-in-on-the-delivery-scene-amid-covid-19-2020-04-29?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 54
-  - title: "Self-driving vehicles get in on the delivery scene amid COVID-19"
     excerpt: "Self-driving cars, trucks, rolling out of the labs onto American streets to help deliver groceries, meals, and medical supplies."
     publishedDateTime: 2020-04-30T04:41:00Z
     webUrl: "https://www.standardmedia.co.ke/article/2001369648/self-driving-vehicles-get-in-on-the-delivery-scene-amid-covid-19"

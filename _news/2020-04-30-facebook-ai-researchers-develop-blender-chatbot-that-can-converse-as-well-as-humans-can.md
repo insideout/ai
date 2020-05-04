@@ -35,36 +35,6 @@ related:
       - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/03/robotpresident-796x417.jpg"
         width: 796
         height: 417
-  - title: "Facebook open-sources Blender, a chatbot people say ‘feels more human’"
-    excerpt: "Facebook's open source Blender chatbot framework achieved state-of-the-art results compared with Google's latest Meena model."
-    publishedDateTime: 2020-04-29T15:03:00Z
-    webUrl: "https://venturebeat.com/2020/04/29/facebook-open-sources-blender-a-chatbot-that-people-say-feels-more-human/"
-    ampWebUrl: "https://venturebeat.com/2020/04/29/facebook-open-sources-blender-a-chatbot-that-people-say-feels-more-human/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/29/facebook-open-sources-blender-a-chatbot-that-people-say-feels-more-human/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 74
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/04/Facebook-sign-F8-e1564693284989.jpg?fit=1200%2C600&strip=all"
-        width: 1200
-        height: 600
-  - title: "Facebook says its Blender chatbot 'feels more human'"
-    excerpt: "Facebook's new open-source chatbot blends personality, knowledge and empathy with the goal of being more humanlike."
-    publishedDateTime: 2020-04-29T16:37:00Z
-    webUrl: "https://www.cnet.com/news/facebook-says-its-blender-chatbot-feels-more-human/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/facebook-says-its-blender-chatbot-feels-more-human/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facebook-says-its-blender-chatbot-feels-more-human/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 74
-    images:
-      - url: "https://cnet2.cbsistatic.com/img/Kl3eL9EkMSeRH9r27UdVgj1jeIg=/756x567/2020/01/01/e6826d4a-a27d-4278-bf31-666729bde647/facebook-logo-laptop-4829.jpg"
-        width: 756
-        height: 567
 
 secured: "BseRznyVuIpYdCj2dYCd06xUzhTeoifcFwjXdYmpb7GnDeElZnv3nmsNbV3S7n7Y0BkyFmRiCm6tHGEi1caOEITUK9ZhDTUi1R3xv87j5c/2WFafLvP7Qko9YsJK+g7o5fxQv3zgZMvNgQqESLmgOd6sTkn+4cZdoZIFKO1Nuy8uwyeRzaF7/BQXHQCpSWjNnAwBnraA0Gy76+kama9IuXlhnaENb942vFhqehDVFJmQHpTvs0WQqgj1gR7eUFh2YGA/ZTEY8V810tHst3lqRGbCQOHYfJ7ximzcLT0J/Q1adJ/4deH9RnEeiwGkShfjN7TZHgZ/J/asSgAypmto39muMHgW8Wp2tzBz35uFZh8yoAAL5gmUJuTD/Wl+LSPsrrHCF3qGN5zHZSnD+8b6jHDJIlY3KfYLqgta1MXVMdlmV4eoetsTwgEjGOj86qLhcuwJglsNQYIImHUwpQ62lXW9RPYgWvNnehlnEBDLmz0=;ZHEPqOi39/TvAD7otJgUkw=="
 ---

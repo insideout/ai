@@ -8,7 +8,7 @@ ampWebUrl: "https://mashable.com/article/cruise-gm-autonomous-cars-food-delivery
 cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/cruise-gm-autonomous-cars-food-delivery.amp"
 type: article
 quality: 73
-heat: 93
+heat: 83
 published: true
 
 provider:
@@ -41,21 +41,6 @@ related:
       - url: "https://sm.mashable.com/t/mashable_sea/news/c/cruise-can/cruise-cant-test-its-self-driving-cars-so-its-delivering-foo_s4qe.620.jpg"
         width: 619
         height: 413
-  - title: "Cruise redeploys some of its self-driving cars to make food deliveries in San Francisco"
-    excerpt: "Cruise, the self-driving subsidiary of General Motors, has brought some of its autonomous vehicles out of their coronavirus-imposed dormancy to make deliveries for a pair of food banks in San Francisco,"
-    publishedDateTime: 2020-04-29T16:33:00Z
-    webUrl: "https://www.theverge.com/2020/4/29/21241122/cruise-self-driving-car-deliveries-food-banks-sf"
-    ampWebUrl: "https://www.theverge.com/platform/amp/2020/4/29/21241122/cruise-self-driving-car-deliveries-food-banks-sf"
-    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/4/29/21241122/cruise-self-driving-car-deliveries-food-banks-sf"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 66
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/_VAzYsFDlK0z4gELCLIcOKKvf8Q=/0x0:3300x2200/1400x933/filters:focal(1386x836:1914x1364):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66726947/SFM_Food_Bank_1.0.jpg"
-        width: 1400
-        height: 933
 
 secured: "dFR2wdSIpkb8QR4zPo+A2dvgbSSOo+Vol3NotFv4wV1xaIAIuTdUyXDuWQ4ZynG3s13Rgq8DouFP48iMnksHy5uq+Z929L05w1i7mDK3X6xmXkQNuBTjesKuCg50v8FgGRp0yhFCX6xOKBTd0LpP5U9f4p72kPl3g/+4rhVMZRUIOE9bgL33p6ZFHFXHTN05lcrEg0yUdvzL+IVZXV870e+xE98SiZ1S7GFZNIhYdyd+s2X500wmWwlZo6Lt6GFV5wIOa+RqmdATTE7KslgCjkQNn0Qak0mU+GkNphOKw+pWfFwaTzsAs9+Scxqu9yE7a+O9z7OpSGSDlaQcgA4wQ2MITOuMDaHlMlx6VtjshAtjenYTChm5O1YCqsPTwCngxx1/LL3X9aI/e9pRWM7qlCj1NZQXlA5JNbIvFbVX5sjLYfq5VLOxZ66CwrHS/ziwYZ2CLkU+g+v/x3WC1DVRnlgQVWja2PKw7cVyDyjWEyk=;0PRbxmt+0zzwn86UMzlq/g=="
 ---

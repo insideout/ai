@@ -8,7 +8,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/product/roborock-s6-maxv-robot-vacu
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/product/roborock-s6-maxv-robot-vacuum/"
 type: article
 quality: 85
-heat: 95
+heat: 85
 published: true
 
 provider:
@@ -28,19 +28,6 @@ images:
     width: 1200
     height: 532
     title: "Roborock S6 MaxV robot vacuum hands-on: AI camera eliminates pet poop disasters"
-
-related:
-  - title: "Roborock’s new robot vacuum packs a pair of cameras to avoid obstacles"
-    excerpt: "Robot vacuum maker Roborock debuts its new S6 MaxV vacuum with a Qualcomm processor on board and stereo cameras for optimal obstacle avoidance while cleaning."
-    publishedDateTime: 2020-04-29T15:15:00Z
-    webUrl: "https://www.digitaltrends.com/home/roborock-s6-maxv-robot-vacuum-news-release-price/"
-    ampWebUrl: "https://www.digitaltrends.com/home/roborock-s6-maxv-robot-vacuum-news-release-price/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/home/roborock-s6-maxv-robot-vacuum-news-release-price/?amp"
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 84
 
 secured: "+aq8KZUSEEwnU0107MnCFxX3hFLMtjFlpx7MXrEgZnPAqghdpDcYBxZDL1iiV1jGC13z5K7dgN4KSrG2Tw9+1SoLEtk7T8QLdfjj66TkFG0ovyaqXP6r4s49Ls0AXeF2gFyWFkqyJ/H2Mtf9AgnGdzOuNpHOtEfyeOUJ9cYSnOu8PkRjU2GrC7S8y/ZaMX/GRNXy8htKHW+BM5EGDCF6ITm4s3PJHiSGqJGyJ0FTJeLrHdf5HRA2BznRt4Ht5nxs6znzfbqxOAKtmIiMkK3WzZeQkYuayS2eigJqNTN35hcbQYga+AN5p84JY+BYeLXoNtam4FEL+4xwTvA4W5mHgKXq4auhvCr0Jc15+ps0UOj37z1q32ds08aMYwS12ldYOtZIIx0owyyqFZS1kSGDHGew8136xbkB8A+LmzLjgYvluIZKPIb5e7wFSBN4Qg9IfeWZ1hPYn9OBGRnzvnLDKnOvfVbAI8tbFKPAz1Jioco=;kEOE222GLU1ovJxPudKUQw=="
 ---

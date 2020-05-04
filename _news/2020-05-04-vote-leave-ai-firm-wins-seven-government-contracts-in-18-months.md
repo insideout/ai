@@ -7,8 +7,8 @@ webUrl: "https://www.theguardian.com/world/2020/may/04/vote-leave-ai-firm-wins-s
 ampWebUrl: "https://amp.theguardian.com/world/2020/may/04/vote-leave-ai-firm-wins-seven-government-contracts-in-18-months"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2020/may/04/vote-leave-ai-firm-wins-seven-government-contracts-in-18-months"
 type: article
-quality: 57
-heat: 57
+quality: 59
+heat: 59
 published: false
 
 provider:
@@ -21,6 +21,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://i.guim.co.uk/img/media/4b3eb0c345a214a126d04fcc528a547fd800e213/322_21_2002_1201/master/2002.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=4d2a3f885d7e374816ed895d6bd33b9c"
@@ -28,6 +29,6 @@ images:
     height: 360
     title: "Vote Leave AI firm wins seven government contracts in 18 months"
 
-secured: "v+RO53syvEDTya9y8K3m17DvZPNS4xYBTUJzCfhHgutR576k3S/7zSmDCZYFGQJ1FKt8j872iCawa0zVTPxHyrtA9CMfvvWgfHQrZ+EQsTGtxEwVqt8KgNPy1oIHp0BMMRcsUWhFYjuzmF+bXnbMI2r3NAIH1TfpPBpeQo3cWS3xdHRsvLrRkF2+wQTvbZG5AOodbSNeSFvkOTt1gzIUIAC/8vFE1lJT8i5F3te68jtLOjGeLy9PT82UUJije0lTgT70WTvlugLUk9CsGbJgDWBGOuc2wNFlHX1T1ZYNpMmUpc0OnAu5/kZCB9zRXhJC;axvwd5+nmAAw5eUUd25nsQ=="
+secured: "1QDJkRLzWPrxeXNrJi+LncFTshZKrl9zzo6ZAFIO+qcCrYykVA1Z/zFGDerFap0B4bmqv145lYPYZe5M5DMLx0AoONqc7u2V+vcV2BMEZoHyTXGgHYG7wvRrAlkw+84EJvr+Fd3/e3bSISiiLY2MnNOPnFORy4scPYxkvRfuIyWcvlEDSrSuUeVhWAVS+LGNBYTZ3h1pYksQsJ314OrzeHYO5R03o+ySwGk0IzIg7Rx5uWMu+s+VYBLvVLKt6HWAhvcWSdZy0W/ERQ2Bit+YwaTNk08HotMCA+iM7EyfvJHQmfxSyxLkMY7LTfAUr6cch6TE15PEYf3fDV1IGjo5QyjdvrIicHFK3UbvGImN/p5emc2ztJdtWVtct3kubFUVmMSGz6D/OYY5M+JJY9pHhr/kBGFnhi5crZMTLotLKVl6aPjFxGdqi6QuWSkk0GryJxCVrXs1FwmZV0w79C0SsSEfHgXRkdqaTvS+Nx/u3r0=;qFaBlKUI2Ke2frxGuQwmig=="
 ---
 

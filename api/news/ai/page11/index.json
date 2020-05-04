@@ -2,51 +2,6 @@
   "page": 11,
   "value": [
     {
-      "path": "_news/2020-04-22-how-artificial-intelligence-iot-and-big-data-can-save-the-bees.md",
-      "title": "How Artificial Intelligence, IoT And Big Data Can Save The Bees",
-      "excerpt": "Artificial intelligence (AI), internet of things sensors, big data analytics, and other technologies are being used to monitor and develop solutions to mitigate the global issue of declining honey bee and pollinator populations.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2020/04/22/how-artificial-intelligence-iot-and-big-data-can-save-the-bees/",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2020/04/22/how-artificial-intelligence-iot-and-big-data-can-save-the-bees/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2020/04/22/how-artificial-intelligence-iot-and-big-data-can-save-the-bees/amp/",
-      "publishedDateTime": "2020-04-21T21:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e9fc586dea8300007de8a08%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "How Artificial Intelligence, IoT And Big Data Can Save The Bees",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
       "path": "_news/2020-04-22-intels-project-corail-monitors-coral-reef-health-with-ai.md",
       "title": "Intel’s Project Corail monitors coral reef health with AI",
       "excerpt": "To commemorate Earth Day, Intel — in partnership with Accenture and Sulubaaï Environmental Foundation, a Philippine-based nonprofit dedicated to protecting Palawan’s natural resources — detailed Project Corail, an AI-powered platform that monitors and analyzes the resiliency of coral reefs. Since its launch in May 2019, it’s collected ...",
@@ -1284,6 +1239,50 @@
           "width": 1200,
           "height": 630,
           "title": "AI in Pharmaceutical Market 2020 Industry Analysis, Segment & Forecast Up to 2026",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-21-shanghais-free-trade-zone-will-accelerate-digital-infrastructure-push-with-5g-iot-and-ai-tech.md",
+      "title": "Shanghai’s free-trade zone will accelerate digital infrastructure push with 5G, IoT and AI tech",
+      "excerpt": "China’s top economic planner, the National Development and Reform Commission (NDRC), said on Monday that “new infrastructure” included foundational information technologies such as 5G, IoT, the industrial internet, cloud computing and blockchain, AI and big data applications, as well as supportive facilities for scientific and technology ...",
+      "heat": 75,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.scmp.com/tech/policy/article/3080852/shanghais-free-trade-zone-will-accelerate-digital-infrastructure-push",
+      "ampWebUrl": "https://amp.scmp.com/tech/policy/article/3080852/shanghais-free-trade-zone-will-accelerate-digital-infrastructure-push",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/policy/article/3080852/shanghais-free-trade-zone-will-accelerate-digital-infrastructure-push",
+      "publishedDateTime": "2020-04-21T00:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/04/21/dd3d36d2-839e-11ea-8863-2139a14b0dea_image_hires_151022.JPG?itok=r99QrLgh&v=1587453031",
+          "width": 1200,
+          "height": 630,
+          "title": "Shanghai’s free-trade zone will accelerate digital infrastructure push with 5G, IoT and AI tech",
           "attribution": null
         }
       ],

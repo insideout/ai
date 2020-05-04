@@ -2,51 +2,6 @@
   "page": 38,
   "value": [
     {
-      "path": "_news/2020-04-01-enterprise-artificial-intelligence-along-with-telehealth-and-teleconferences-can-help-in-fighting-covid-19.md",
-      "title": "Enterprise Artificial Intelligence Along With Telehealth And Teleconferences Can Help In Fighting COVID-19",
-      "excerpt": "In the fight against COVID-19, enterprise artificial intelligence (AI) is not getting the same attention as teleconferencing and telehealth technologies. A massive shift to working from home to avoid spreading the virus means virtual collaboration companies like Zoom Video Communications are in the headlines. The same dynamic is playing out in ...",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.entrepreneur.com/article/348557",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/348557",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/348557",
-      "publishedDateTime": "2020-04-01T02:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/20190416142211-shutterstock-1168340332.jpeg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": "Enterprise Artificial Intelligence Along With Telehealth And Teleconferences Can Help In Fighting COVID-19",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
       "path": "_news/2020-04-01-how-deepmotion-uses-ai-to-create-believable-characters.md",
       "title": "How DeepMotion uses AI to create believable characters",
       "excerpt": "As an engineer, He wanted to find an efficient way to create more lifelike animations, and he was convinced that advanced physics simulation and AI could solve that problem. So in 2014, He struck out on his own to start DeepMotion. The goal of the San Mateo, California-based company is to provide developers with powerful software development ...",
@@ -1067,6 +1022,51 @@
       "topics": [
         "AI in Autos",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-31-modelops-is-the-key-to-enterprise-ai.md",
+      "title": "ModelOps Is The Key To Enterprise AI",
+      "excerpt": "ModelOps is a capability that focuses on getting models into 24/7 production. It’s a capability that must be owned by the CIO’s organization or the technology center of a large organization. In 2018,",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/03/31/modelops-is-the-key-to-enterprise-ai/",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/03/31/modelops-is-the-key-to-enterprise-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/03/31/modelops-is-the-key-to-enterprise-ai/amp/",
+      "publishedDateTime": "2020-03-31T09:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e836f72a547180006512144%2F0x0.jpg",
+          "width": 1200,
+          "height": 692,
+          "title": "ModelOps Is The Key To Enterprise AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
       ]
     }
   ],

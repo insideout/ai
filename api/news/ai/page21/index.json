@@ -2,51 +2,6 @@
   "page": 21,
   "value": [
     {
-      "path": "_news/2020-04-10-the-scientist-who-controlled-people-with-brain-implants.md",
-      "title": "The Scientist Who Controlled People with Brain Implants",
-      "excerpt": "(Or you can wind up mind-controlled by a psychopath. It's a mixed bag.) But in real life, one scientist made huge strides towards creating workable brain implants. In the 1950s and 1960s.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://io9.gizmodo.com/the-scientist-who-controlled-people-with-brain-implants-5871598",
-      "ampWebUrl": "https://io9.gizmodo.com/the-scientist-who-controlled-people-with-brain-implants-5871598/amp",
-      "cdnAmpWebUrl": "https://io9-gizmodo-com.cdn.ampproject.org/c/s/io9.gizmodo.com/the-scientist-who-controlled-people-with-brain-implants-5871598/amp",
-      "publishedDateTime": "2020-04-10T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "io9.gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/18lp4exxculr1jpg.jpg",
-          "width": 800,
-          "height": 450,
-          "title": "The Scientist Who Controlled People with Brain Implants",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-04-10-watching-a-computer-identify-objects-in-a-movie-trailer-is-entertaining-as-hell.md",
       "title": "Watching a Computer Identify Objects in a Movie Trailer Is Entertaining as Hell",
       "excerpt": "Strangely, it would look a lot like object recognition software. Støj, a Copenhagen coding studio, ran the trailer for The Wolf of Wall Street through an object-detection algorithm that ...",
@@ -1244,6 +1199,51 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-09-nuro-earns-permit-to-test-self-driving-delivery-vehicles-in-california.md",
+      "title": "Nuro Earns Permit to Test Self-Driving Delivery Vehicles in California",
+      "excerpt": "Autonomous delivery vehicle maker Nuro this week received California's first permit to test a driverless, passengerless car on public roads. Eager to get started, the company hopes to get its recently unveiled R2 vehicle on the move through Silicon Valley ...",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.pcmag.com/news/nuro-earns-permit-to-test-self-driving-delivery-vehicles-in-california",
+      "ampWebUrl": "https://www.pcmag.com/news/nuro-earns-permit-to-test-self-driving-delivery-vehicles-in-california?amp=true",
+      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/nuro-earns-permit-to-test-self-driving-delivery-vehicles-in-california?amp=true",
+      "publishedDateTime": "2020-04-09T06:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/005AXdYr3UnodeAytQQ7yfm-1.fit_lim.size_1200x630.v_1586432859.jpg",
+          "width": 1120,
+          "height": 630,
+          "title": "Nuro Earns Permit to Test Self-Driving Delivery Vehicles in California",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     }

@@ -2,50 +2,6 @@
   "page": 80,
   "value": [
     {
-      "path": "_news/2020-02-24-googles-ai-detects-adversarial-attacks-against-image-classifiers.md",
-      "title": "Google’s AI detects adversarial attacks against image classifiers",
-      "excerpt": "Defenses against adversarial attacks, which in the context of AI refer to techniques that fool models through malicious input, are increasingly being broken by “defense-aware” attacks. In fact, most state-of-the-art methods claiming to detect adversarial attacks have been counteracted shortly after their publication. To break the cycle ...",
-      "heat": 167,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/02/24/googles-ai-detects-adversarial-attacks-against-image-classifiers/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-24T08:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/02/4d7874af-b02e-40f1-8c6a-51d9d85f4d09-e1582563235661.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 774,
-          "title": "Google’s AI detects adversarial attacks against image classifiers",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-02-24-5-reasons-to-choose-pytorch-for-deep-learning.md",
       "title": "5 reasons to choose PyTorch for deep learning",
       "excerpt": "While the fast.ai course uses fast.ai’s own library that provides further abstractions on top of PyTorch (making it even easier to get to grips with deep learning), the course also delves deep into the fundamentals, building a PyTorch-like library from scratch, which will give you a thorough understanding of how the internals of PyTorch ...",
@@ -1044,6 +1000,51 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-22-heres-why-the-ai-at-the-wheel-of-a-self-driving-car-might-be-male-female-gender-fluid-or-gender-neutral.md",
+      "title": "Here’s Why The AI At The Wheel Of A Self-Driving Car Might Be Male, Female, Gender-Fluid, Or Gender-Neutral",
+      "excerpt": "Do you think that men are better drivers than women, or do you believe that women are better drivers than men? Seems like most of us have an opinion on the matter, one way or another. In a stereotypical manner,",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/02/22/heres-why-the-ai-at-the-wheel-of-a-self-driving-car-might-be-male-female-gender-fluid-or-gender-neutral/",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/02/22/heres-why-the-ai-at-the-wheel-of-a-self-driving-car-might-be-male-female-gender-fluid-or-gender-neutral/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/02/22/heres-why-the-ai-at-the-wheel-of-a-self-driving-car-might-be-male-female-gender-fluid-or-gender-neutral/amp/",
+      "publishedDateTime": "2020-02-22T07:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1042124056%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5472%26cropY1%3D277%26cropY2%3D3355",
+          "width": 1200,
+          "height": 675,
+          "title": "Here’s Why The AI At The Wheel Of A Self-Driving Car Might Be Male, Female, Gender-Fluid, Or Gender-Neutral",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
       ]
     }
   ],
