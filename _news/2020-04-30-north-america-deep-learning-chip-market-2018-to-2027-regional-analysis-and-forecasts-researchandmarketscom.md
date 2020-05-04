@@ -6,7 +6,7 @@ publishedDateTime: 2020-04-30T12:52:00Z
 webUrl: "https://www.businesswire.com/news/home/20200430005513/en/North-America-Deep-Learning-Chip-Market-2018"
 type: article
 quality: 35
-heat: 35
+heat: -1
 published: false
 
 provider:
@@ -25,19 +25,19 @@ images:
     title: "North America Deep Learning Chip Market (2018 to 2027) - Regional Analysis and Forecasts - ResearchAndMarkets.com"
 
 related:
-  - title: "Global L2 Self-driving Vehicle Market Research Report 2020 Obervational Studies with Top Manufacturers like Toyota, BMW, Volvo, Mercedes-Benz, Audi"
-    excerpt: "The L2 Self-driving Vehicle Market was estimated to be worth USD XXX billion in 2017 and is projected to reach USD XXX billion by the end of 2023, growing at a CAGR of XX% over the forecast period of 2018-2023."
-    publishedDateTime: 2020-04-30T07:02:00Z
-    webUrl: "https://galusaustralis.com/2020/04/617621/global-l2-self-driving-vehicle-market-research-report-2020-obervational-studies-with-top-manufacturers-like-toyota-bmw-volvo-mercedes-benz-audi/"
+  - title: "Artificial Intelligence Chipsets Market (2019 to 2025) – Regional Analysis and Forecasts by Treatment Type, End User and Country"
+    excerpt: "The Artificial Intelligence Chipsets Market is expected to exceed more than US$ 59 Billion by 2025 at a CAGR of 36% in the given forecast period. The report covers detailed competitive outlook including the market share and company profiles of the key participants operating in the global market."
+    publishedDateTime: 2020-05-04T06:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-2019-to-2025-regional-analysis-and-forecasts-by-treatment-type-end-user-and-country-2020-05-04"
     type: article
     provider:
-      name: galusaustralis.com
-      domain: galusaustralis.com
-    quality: 0
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 40
     images:
-      - url: "https://galusaustralis.com/wp-content/uploads/2020/04/market-research-reports-12.jpg"
-        width: 600
-        height: 400
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
 
 secured: "ZVTgLFrTFk25cW0o3U0qUwN9uRa1G6v3QxFHySJjCLzWOaJn7p6Dee3rDDzB1K3EQGuHrQAXfyjRChccx1X2ccUV1QESLcnH55KQXWfXRz1gi1B79hSLZjLXrBmZLKuCClJbqebjsMYcprMhtOOSKqAHtKsFJOq1EdZ85kHvzFT/nWxGuTtQeBA4MF/ozqnoifXUswSrV8XKqSX5mGOGyofqrKrJoAEjqoXQ7j2JY2/Qq3kjgklj7mMn+wGMP3XxCZtQXHr4Gg6S0Dtie8nPTeDmsDoC++qJHOAmEvFQHIJUQBzeSlDFxso608a/1wGE6VzzH+KsVilBtzm8Hy/8bPnyKSKFJyV6K7yvjkyxJbt9m+v69XlZpBYvXludtmkaGQC6je3B1lr2hDn19FJvVqkTxXGFD8KAvMM+kGz449yBm7Lase9T+1JLyqzV39bZZKt/eNmVT0qo8BtkzgoE8PEfIVJQ3GiHGbuQxeoUHHM=;u00ZR/9cnehOvCopYUWWhA=="
 ---

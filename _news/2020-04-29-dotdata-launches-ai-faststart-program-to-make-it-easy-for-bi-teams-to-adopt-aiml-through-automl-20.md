@@ -7,9 +7,6 @@ webUrl: "https://www.benzinga.com/pressreleases/20/04/n15911575/dotdata-launches
 ampWebUrl: "https://amp.benzinga.com/amp/content/15911575"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15911575"
 type: article
-quality: 39
-heat: 39
-published: false
 
 provider:
   name: Benzinga.com
@@ -19,6 +16,6 @@ topics:
   - Machine Learning
   - AI
 
-secured: "iCdu0aM/Hlx1J+bodvemmhWEZJm0TGAwlKWx7QaqFIo4TYdOD7JmLE9KuK4VErwTfFkwLvVX09Z4M3h4HuWqaIXOePOQKTD3R75ElgG17bgVpAbyGVwrphTWut26XllAM5K1v1X317f9Iqr3UiEsvz+hb8pEbmQc5gTK04vs0wSyipypaNHgq4pkAq3/mDrcRCKIQ1kQm+cvMI1BOC7Wm9JaImbboSz1E+hzfogfyOID7sx+JSJQwDlDP4u7S4Tm49zK5DtqNwQgCPSQ6CWkG8kTGz+s2CZeMhEFtiIvY4cRS4D69g8pYY3AeEA3y02K;T/2ezP7ZGHzbFavgXe8nnA=="
+secured: "4iRe3LIdUvp6hVw7JcgyhM8afLCS+bIf4aJ7QDpOU5y5U8esoNks3g6oHelooV29bsIU1T91yd5HxIKiFfTDWwGqmLF6bulqPD/E3T+OtL57IDYuDvaLpCqy/iOl0nvVWVxVN6HUTnCm7TTcFdGjlmhXP+HxmkYmCa+qXAAJMz5sjftPndUnb5hQSkdkRfoxhp4portc+ixYFoedc58mNeKm6AB8RTT0cl+9uif+3J6qFIZ344KDXn1uL29r8Fll/UoN95TsuoH7p1sh8pvvQ3WUkdkPUOSkBs6Vmf9ZMskn0NoN2vbOhT5m76SyrFeV;nxLe8lUBf2c7nRYkbf5Obg=="
 ---
 

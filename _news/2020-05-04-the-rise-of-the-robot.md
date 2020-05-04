@@ -8,7 +8,7 @@ ampWebUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/355510
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/355510/the-rise-of-the-robot?amp"
 type: article
 quality: 89
-heat: 89
+heat: 90
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     height: 1125
     title: "The rise of the robot"
 
-secured: "VC3vU14X7B8nsEXPh/5SsxLUxLlkKBySSEjOMTqIY0b+AsI7mZCYBeEzWt8crKP6k8aH2wfPVJy/Cn5ettlXzc/1FWg7eHXyWhkdusqu3mkH3yYHYIjYIpXRgDrnT4Bk5NHr0VCaNPvVUdkNfwsujtQ1oYpy66dMyO0L6wbxrrrrqDTRaWxLJxjzstVlVMiyoHzSvX68rashMgE3KC//M10gHTgpVt2zGS8FI7vQkkrhwZQQ5bMbe+OtQAvE7N8lDbeDixGDRK/dj2b5/geyKIWtZRQNDvGHWXxjdOErIDjTrTxswWRF9a2tBVUjLQqW;rKIvtCBGYUTOMKjsdHQ4hA=="
+secured: "TNeQvnb78mK7Knt6rF1MbhDjmblBBiKqjY06zmvOO6fnd2A2/xkqTQzwLuuJ4XzmZQnVWRhpBMt1oApm/U42v33RHMyJb3VIxcDvDW+koTHv8XfHEp2SpI5ks/sSnniu7JDcL8ljVTzmmdFbbiGr+CcHEv7csfGxjwz7IkLutLX/zlvGa4gSAKawhiVhinSKYX4RFtiwwoKjVms5vkxPhE4nuvgoDiJBZdoFBXi9V87cE3hlN9LljkFRXjg1EMSsOUu+0V7Y+UXcmP13pu/5+9pR0j8q4WxEA1GObmTfH2PRTnJfI3OCo7xzu8C1FfWW;FgbCSf3YKB/kKY8GK1lbEA=="
 ---
 

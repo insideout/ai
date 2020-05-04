@@ -29,6 +29,6 @@ images:
     height: 743
     title: "Here Are The Top 10 Technology Trends Of The 4th Industrial Revolution"
 
-secured: "rMWq84cbMmLkGbJXzIBQKrCmmHEWpS2nbxnxo1+51cOKhLbnjd4mBIQXZcloA28dC8wbR8yRQncvuhaXeIGSr8+nAFp7ORJH0zqwGhpCkhgEJR9PX3yNnFRaWwLYmMSr8SkjDDWV5+isFGPkK9WN3mwc2KpcOT90auAoIz1aEDBAaYGP6AKM/buWZaAwwHuLIlI9Kdz5cbJKkP1+Fj5hBF3murD2BcG4uh10TKwDOl+xoqgT2g4xzH289nqI5+AD+IKq2WiC4rQO49zNik9JUOWx59L0XLE9FaOWn+A7FqITVVZMNIqdnn9sDWhKvOGB;SVlKgPApPa0b6y67kkVbWQ=="
+secured: "DY+AkOSJNOlxpyqaPkRiNleMpO2stunOW3oZdmNPxqdVt0avzzKTfy5QZEpA/hZcw6bxVY+/2ytMooV1/ZMwEjOlOwU3q+RSe2S78TEis/+6+We+xuW/ya0iNlCkaUoheQIgEI2wnk3AeKyX3D/RPP7vTMX9T3eHH9zjtPSDlJV1aUBvWVqQlRzQj10400z/bf8t4UPrkJK432VERGPYwRcOyMCV5n+yXa+euVUYQ6ELhppP+DlyIwXs+8G2cmeHUbqootpYR+5nJqivzGJ3ho1o+/CLZalgWw9TEvIDXMw4/3JBJ/w/GWroPwAgCJRbWlf8NvLvtQEM3UNy7fVTTPwY21HbLEGlLMllvco5mZeZ0c2Kbwoy6tLE28GYYQ79CoRSc4hC2jrAtk/GvudnJkD0+l3/t6OC1FgDMl5vlT0uVAbKgi41ZcmCbFX+pCFTuT2dhKkR7PPz/JRg/BF6hYGYzoAYg7MSAhJxB6ONwZk=;jv4Mkqu0LtIDWwbSMGT+kg=="
 ---
 
