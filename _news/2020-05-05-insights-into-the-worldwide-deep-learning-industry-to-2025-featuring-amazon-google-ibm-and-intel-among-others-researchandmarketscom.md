@@ -5,7 +5,7 @@ excerpt: "Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 
 publishedDateTime: 2020-05-05T12:13:00Z
 webUrl: "https://www.businesswire.com/news/home/20200505005562/en/Insights-Worldwide-Deep-Learning-Industry-2025--"
 type: article
-quality: 0
+quality: 7
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - Machine Learning
 
 images:
   - url: "https://mms.businesswire.com/media/20200505005562/en/371054/23/ResearchAndMarkets_800px.jpg"
@@ -64,6 +65,6 @@ related:
         width: 1200
         height: 630
 
-secured: "em4ibEVmhGOB048wHjzJFZ/XvGO9T6g6GEJ4MVwsKCAPUdKbjZ2JQgHWGIcuI2qmhHVjxTg0Ejl1An/70aZYBMVc0SiUc19hriEdiyIuE1/FhnmDUiQC5kuHh3Uemk+hZeBFvDQtoS31RRfvK72/6/rdK1hGwxatyqrhf9/286mwAo0RFuUPEY78NAJ06LNfFSu7HoqS1U/95iHW5PjDj5zSna34/0zGdDJEHqgtEE9jom8syxZ8BcpjKeAMBIdDCA+16AZB9Nyv46jsCgdgOg6tEBTY5dPW2Y8RiPRr7sDavKB2/yPDdAkq76co0Z/p;EfQcKfv254N3870UvDO/mg=="
+secured: "9cECHxsCKm4kLJJMKVBncDxNqHuRkuuZTfE+QQn2WTY//wVKvXpLyXWdysSuGvW3sbp37bHP64SR6NcW4v4BvmLHtoCdfa70Kji+B8llW+h4e1gJWNCzye/jnvs1ZgufUFe27synGj7N+QF741PHvLr99C3BbVcfGKJvr6tR3FyOofhXXED3y4s4hQFDurGzxsOdNrnGo1Tsgf948Auu+uI+gpgIS3RCfO68OTqvOXgJAhwPPbI8WFJqLX4NbO0IAJ+US3ypgCCg/1Rsy7CM28mxY2lUxB+BPLUAYBSgNIR4rlrMsKNPSNbkazcsSTXxk+WPiy9phpIbN3ZTd6VlqZOXcnoTyf9QI78CzxKLXfuSrtgoRtCIDnM4et+1FvlgH6EnLu83+CaLt7Pp3lIYjuN17N5xdaGveBPt+qeBrBB6FO9JfvgdV+eIfcxSfPFK5MUjJtBl6bSQDHVcs6ELg8M5OqPvjMar7UyJfPMRTto=;cVqza9OmjCYCC2DJIDw4xQ=="
 ---
 

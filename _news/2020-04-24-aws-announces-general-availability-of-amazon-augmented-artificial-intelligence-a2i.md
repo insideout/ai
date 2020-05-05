@@ -1,29 +1,25 @@
 ---
 category: news
 title: "AWS Announces General Availability of Amazon Augmented Artificial Intelligence (A2I)"
-excerpt: "that allow machine learning predictions from Amazon Rekognition and Amazon Textract to be human-reviewed more easily. Developers who build custom machine learning models in Amazon SageMaker (or ..."
-publishedDateTime: 2020-04-24T14:17:00Z
-webUrl: "https://www.marketwatch.com/press-release/aws-announces-general-availability-of-amazon-augmented-artificial-intelligence-a2i-2020-04-24"
+excerpt: "Amazon Web Services (AWS), an Amazon.com company (NASDAQ: AMZN), announced the general availability of Amazon Augmented Artificial Intelligence"
+publishedDateTime: 2020-04-24T17:26:00Z
+webUrl: "https://www.businesswire.com/news/home/20200424005488/en/AWS-Announces-General-Availability-Amazon-Augmented-Artificial"
 type: article
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+  - url: "https://mms.businesswire.com/media/20200424005488/en/787122/23/AWS_logo_RGB.jpg"
     width: 1200
-    height: 630
+    height: 627
     title: "AWS Announces General Availability of Amazon Augmented Artificial Intelligence (A2I)"
 
-secured: "IXk9vunPZEXRxeMNunJ/IQMGeaDf+KJ3GUyJfgs0mO9nu5U7D3Z7iNNECqsG54ivWb8U9zaiT/vCV8iQgSbMb/HdUow/F0AuWZUDrE1X8StoB3ftuqcyNEsY5S9ECCEkT8pDX98U4+5HSiNDHXqcCcfXTALFpVju4mcBtJvEIpMCJjitCQKzLWIVcLLfhN893sfYayECoLc7sFnlOSCANur4eALq7aCfK3RxyAfW11KdlxTd2gHCtgiuEKEPx2aZCaD89SeIy9QsvN+fZ5Z7GYyBgqCkblfVSg5UJA2uupaeZLwxtvxIRp5aUOLvTvHO;kbWkUbrbp7wY8cN5Ll877Q=="
+secured: "15+btMitR2FQh1DuCMUXCd0OMpHViJjQ/SYTeXrsSTDR2iG2BImR+g40YoSPgCrbYKD2oyIms4sgp4Oc0Dl9HtzSER/muhI0GaEuWrcndcq/0vEdJpKoVeUSn2+vE4Gf3BIDZD2UA7oLZx5VZ6JcqbqwgJqGFTfJtl+kpMvyooPNlb6zN+m9WcbBAEIuzAmwttQL64BDt/830DYw+xPLeBG+XmozRuJSkgXuD3i9Ni2Un1tzBJYHWsIY59Hti4F36T4+9Noel1G99rYrYcmDMHGlGnvMTaLgDgte++K+33MTS/baVP+h4F7YyQTHwcIi;WjBRdImc3wG4JaYzPzjvIA=="
 ---
 

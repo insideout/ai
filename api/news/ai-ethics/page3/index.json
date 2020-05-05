@@ -2,6 +2,43 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-03-10-ai-education-and-ethics-who-should-profit-from-learning.md",
+      "title": "AI, education and ethics: who should profit from learning?",
+      "excerpt": "“AI will be introduced into classrooms, introduced into education ... “It is challenging to implement this,” Mr Minevich adds. “It comes down to privacy and ethics.” According to Mr Riese of Up Learn, constant data collection would represent an improvement on the current means of assessing students, by drawing on hundreds of hours ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.ft.com/content/8d79405c-02ba-11e9-bf0f-53b8511afd73",
+      "ampWebUrl": "https://amp.ft.com/content/8d79405c-02ba-11e9-bf0f-53b8511afd73",
+      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/8d79405c-02ba-11e9-bf0f-53b8511afd73",
+      "publishedDateTime": "2020-03-09T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Times",
+        "domain": "ft.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2Fb20e8b5e-5ef6-11ea-ac5e-df00963c20e6?source=google-amp&fit=scale-down&width=500",
+          "width": 500,
+          "height": 281,
+          "title": "AI, education and ethics: who should profit from learning?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-02-28-ai-ethics-backed-by-pope-and-tech-giants-in-new-plan.md",
       "title": "AI ethics backed by Pope and tech giants in new plan",
       "excerpt": "The Roman Catholic Church has joined up with IBM and Microsoft to work on the ethics of artificial intelligence. Leaders from the two tech giants met senior church officials in Rome, and agreed to collaborate on \"human-centred\" ways of designing AI. Microsoft president Brad Smith admitted some people may \"think of us as strange bedfellows\" at ...",
@@ -1234,51 +1271,6 @@
           "width": 1200,
           "height": 800,
           "title": "92% of tech insiders have a strong appetite for AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-02-11-the-ai-revolution-is-here-a-podcast-and-interview-with-nate-yohannes.md",
-      "title": "The AI Revolution Is Here - A Podcast And Interview With Nate Yohannes",
-      "excerpt": "Nate’s perspective on AI being built for everybody on the planet is birthed from one of the most unique foundations possible. He’s the offspring of a revolutionary who stepped on a landmine in 1978 fighting for democracy on the Horn of Africa,",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbesinsights/2020/02/11/the-ai-revolution-is-herea-podcast-and-interview-with-nate-yohannes/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesinsights/2020/02/11/the-ai-revolution-is-herea-podcast-and-interview-with-nate-yohannes/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesinsights/2020/02/11/the-ai-revolution-is-herea-podcast-and-interview-with-nate-yohannes/amp/",
-      "publishedDateTime": "2020-02-11T10:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e3d6e478b6cf300071e2656%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "The AI Revolution Is Here - A Podcast And Interview With Nate Yohannes",
           "attribution": null
         }
       ],

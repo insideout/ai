@@ -6,8 +6,8 @@ publishedDateTime: 2020-05-04T16:31:00Z
 webUrl: "https://hitconsultant.net/2020/05/04/the-impending-artificial-intelligence-revolution-in-healthcare/"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: HIT Consultant
@@ -24,6 +24,19 @@ images:
     title: "The Impending Artificial Intelligence Revolution in Healthcare"
 
 related:
+  - title: "Innovaccer Named in a Recent Gartner Report 'Healthcare Technology Innovations for Identifying and Managing COVID-19 Patients'"
+    excerpt: "PRNewswire/ -- Innovaccer Inc., a leading San Francisco-based healthcare technology company, was named in a recent Gartner report titled \"Healthcare Technology Innovations for Identifying and"
+    publishedDateTime: 2020-05-04T20:53:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/innovaccer-named-in-a-recent-gartner-report-healthcare-technology-innovations-for-identifying-and-managing-covid/article_ab216e95-57fc-57d6-8f2c-029833d81e83.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 11
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+        width: 1280
+        height: 720
   - title: "Innovaccer Named in a Recent Gartner Report 'Healthcare Technology Innovations for Identifying and Managing COVID-19 Patients'"
     excerpt: "Innovaccer is a leading San Francisco-based healthcare technology company committed to making a powerful and enduring difference in the way care is delivered. The company leverages artificial intelligence and analytics to automate routine workflows and reduce manual overhead to facilitate more patient-centered care. Its KLAS-recognized products ..."
     publishedDateTime: 2020-05-05T05:24:00Z

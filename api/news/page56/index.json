@@ -2,6 +2,281 @@
   "page": 56,
   "value": [
     {
+      "path": "_news/2020-03-19-natural-language-processing-market-industry-size-share-business-strategies-major-segments-and-key-manufacturers-revenue-forecast.md",
+      "title": "Natural Language Processing Market Industry Size & Share, Business Strategies, Major Segments and Key Manufacturers Revenue Forecast",
+      "excerpt": "The global natural language processing market is expected to rise with an impressive CAGR and generate the highest revenue by 2026.Fortune Business Insights™ in its latest report published this information.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-industry-size-share-business-strategies-major-segments-and-key-manufacturers-revenue-forecast-2020-03-19",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-19T05:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Natural Language Processing Market Industry Size & Share, Business Strategies, Major Segments and Key Manufacturers Revenue Forecast",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-19-is-ices-use-of-a-maryland-facial-recognition-database-lawful.md",
+      "title": "Is ICE’s Use of a Maryland Facial Recognition Database Lawful?",
+      "excerpt": "The Washington Post reported recently that U.S. Immigration and Customs Enforcement (ICE) officials have accessed, without obtaining judicial process, a Maryland facial recognition database that contains photographs of more than 275,000 undocumented immigrants who have obtained special driver’s licenses under a 2013 state law. “It’s a bet ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.lawfareblog.com/ices-use-maryland-facial-recognition-database-lawful",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-19T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Lawfare",
+        "domain": "lawfareblog.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://lawfare.s3-us-west-2.amazonaws.com/staging/s3fs-public/1230px-Face_Recognition_3252983.png",
+          "width": 1230,
+          "height": 1024,
+          "title": "Is ICE’s Use of a Maryland Facial Recognition Database Lawful?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-19-uk-based-fintech-payhawk-a-corporate-expense-management-solution-provider-secures-3-million-in-seed-funding.md",
+      "title": "UK-based Fintech Payhawk, a Corporate Expense Management Solution Provider, Secures €3 Million in Seed Funding",
+      "excerpt": "UK-based Fintech Payhawk, a corporate expense management solution provider, secures €3 million in seed funding.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.crowdfundinsider.com/2020/03/159008-uk-based-fintech-payhawk-a-corporate-expense-management-solution-provider-secures-e3-million-in-seed-funding/",
+      "ampWebUrl": "https://www.crowdfundinsider.com/2020/03/159008-uk-based-fintech-payhawk-a-corporate-expense-management-solution-provider-secures-e3-million-in-seed-funding/amp/",
+      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/03/159008-uk-based-fintech-payhawk-a-corporate-expense-management-solution-provider-secures-e3-million-in-seed-funding/amp/",
+      "publishedDateTime": "2020-03-19T04:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crowdfund Insider",
+        "domain": "crowdfundinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2020/03/Payhawk-300x228.jpg",
+          "width": 300,
+          "height": 228,
+          "title": "UK-based Fintech Payhawk, a Corporate Expense Management Solution Provider, Secures €3 Million in Seed Funding",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-19-artificial-intelligence-advanced-machine-learning-market-growth-and-key-industry-players-2020-analysis-and-forecasts-to-2026.md",
+      "title": "Artificial Intelligence & Advanced Machine Learning Market Growth and key Industry Players 2020 Analysis and Forecasts to 2026",
+      "excerpt": "According to BlueWeave Consulting, The global Artificial Intelligence market & Advanced Machine has reached USD 29.8 Billion in 2019 and projected to reach USD 281.24 Billion by 2026 and anticipated to grow with CAGR of 37.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-advanced-machine-learning-market-growth-and-key-industry-players-2020-analysis-and-forecasts-to-2026-2020-03-19",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-19T04:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial Intelligence & Advanced Machine Learning Market Growth and key Industry Players 2020 Analysis and Forecasts to 2026",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-19-bioxcel-therapeutics-provides-an-update-on-its-ongoing-phase-3-serenity-trials.md",
+      "title": "BioXcel Therapeutics Provides an Update on its Ongoing Phase 3 SERENITY Trials",
+      "excerpt": "A non-invasive therapy that causes rapid symptom relief and de-escalates agitation may be ... About BioXcel Therapeutics, Inc.: BioXcel Therapeutics, Inc. is a clinical-stage biopharmaceutical company utilizing artificial intelligence to identify improved therapies in neuroscience and immuno-oncology. BTI's drug re-innovation approach leverages ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.tmcnet.com/usubmit/-bioxcel-therapeutics-provides-an-update-its-ongoing-phase-/2020/03/19/9117710.htm",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-19T04:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg",
+          "width": 252,
+          "height": 335,
+          "title": "BioXcel Therapeutics Provides an Update on its Ongoing Phase 3 SERENITY Trials",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-19-google-translate-now-enables-you-to-transcribe-speech.md",
+      "title": "Google Translate now enables you to transcribe speech",
+      "excerpt": "... transcribe speech in real time - meaning that if you're at an event and someone starts speaking in another language, you can understand what's going on. A key point is that it's not going to replace translation services like Otter.ai for chunks of text yet. For example, it won't deal fully with multiple speaker conversations and enable you ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.pocket-lint.com/apps/news/google/151499-google-translate-now-enables-you-to-transcribe-speech",
+      "ampWebUrl": "https://www.pocket-lint.com/apps/news/google/151499-google-translate-now-enables-you-to-transcribe-speech.amphtml",
+      "cdnAmpWebUrl": "https://www-pocket--lint-com.cdn.ampproject.org/c/s/www.pocket-lint.com/apps/news/google/151499-google-translate-now-enables-you-to-transcribe-speech.amphtml",
+      "publishedDateTime": "2020-03-19T04:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Pocket-lint",
+        "domain": "pocket-lint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.pocket-lint.com/r/s/1200x630/assets/images/151499-apps-news-google-translate-now-enables-you-to-transcribe-speech-image1-hdvtbcdk05.jpg",
+          "width": 945,
+          "height": 630,
+          "title": "Google Translate now enables you to transcribe speech",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-19-how-machine-learning-fights-financial-fraud.md",
+      "title": "How Machine Learning Fights Financial Fraud",
+      "excerpt": "We have e-shops, online banking, online insurances, and tons of other online services. But there’s one more thing we have ... So companies are forced to look for new solutions to prevent, detect, and eliminate fraud. And machine learning seems to be the best answer to financial fraud. How does it work, what are the benefits, and who ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cpomagazine.com/cyber-security/how-machine-learning-fights-financial-fraud/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-19T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CPO Magazine",
+        "domain": "cpomagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.cpomagazine.com/wp-content/uploads/2020/03/how-machine-learning-fights-financial-fraud_1500.jpg",
+          "width": 1500,
+          "height": 860,
+          "title": "How Machine Learning Fights Financial Fraud",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-19-hybrid-ai-systems-are-quietly-solving-the-problems-of-deep-learning.md",
       "title": "Hybrid AI systems are quietly solving the problems of deep learning",
       "excerpt": "Deep learning, the main innovation that has renewed interest in artificial intelligence in the past years, has helped solve many critical problems in computer vision, natural language processing, and speech recognition. However, as the deep learning matures and moves from hype peak to its trough of disillusionment, it is becoming clear that it ...",
@@ -693,266 +968,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-18-ibm-working-on-greater-business-use-of-natural-language-processing.md",
-      "title": "IBM Working on Greater Business Use of Natural Language Processing",
-      "excerpt": "IBM today at an online event outlined a plan to bring to market new natural language processing (NLP) technology that will help computers better understand human communication and companies better communicate with their customers. The company is working on commercial applications of the NLP technology developed as part of IBM Research's Project ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=139833",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-18T13:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Destination CRM",
-        "domain": "destinationcrm.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://dzceab466r34n.cloudfront.net/Images/TopStoryImages/116673-Top-Story-AI-ORG.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": "IBM Working on Greater Business Use of Natural Language Processing",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-18-deep-learning-changes-scientific-research-finds-antibiotic-for-multi-resistant-bacteria.md",
-      "title": "Deep learning changes scientific research, finds antibiotic for multi-resistant bacteria",
-      "excerpt": "Scientists at MIT and Harvard’s Broad Institute and MIT’s CSAIL built a deep learning network that can acquire a broad representation of molecular structure and thereby discover novel antibiotics.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/video/mits-deep-learning-found-an-antibiotic-for-a-germ-nothing-else-could-kill/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-18T12:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/03/20/a054429e-8520-4d0a-9fcc-055da9056537/thumbnail/370x278/ef50d64ea8facf64a4639d9a1183f872/apple-updates-its-macbook-air-with-more-5e7371a2daf32b2d76d61158-1-mar-20-2020-15-12-55-poster.jpg",
-          "width": 370,
-          "height": 278,
-          "title": "Deep learning changes scientific research, finds antibiotic for multi-resistant bacteria",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-18-azure-netapp-files-become-hipaa-compliant.md",
-      "title": "Azure NetApp files become HIPAA compliant",
-      "excerpt": "In March 2018, Microsoft released automation for HIPAA/HITRUST compliance in the form of its new Azure Security and Compliance Blueprint for HIPAA/HITRUST – Health Data & AI. Azure Blueprints by Microsoft are resources to help build and launch cloud-powered applications that comply with stringent regulations and standards. Included in the ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.itworldcanada.com/article/azure-netapp-files-become-hipaa-compliant/428632",
-      "ampWebUrl": "https://www.itworldcanada.com/article/azure-netapp-files-become-hipaa-compliant/428632?amp=1",
-      "cdnAmpWebUrl": "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/azure-netapp-files-become-hipaa-compliant/428632?amp=1",
-      "publishedDateTime": "2020-03-18T12:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT World Canada",
-        "domain": "itworldcanada.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.itworldcanada.com/wp-content/uploads/2020/03/GettyImages-1127091365-620x250.jpg",
-          "width": 620,
-          "height": 250,
-          "title": "Azure NetApp files become HIPAA compliant",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-18-machine-learning-pushes-quantum-computing-forward.md",
-      "title": "Machine learning pushes quantum computing forward",
-      "excerpt": "Researchers have created a machine learning framework to precisely locate atom-sized quantum bits in silicon. It’s a crucial step for building a large-scale silicon quantum computer, the researchers report. Here, Muhammad Usman and Lloyd Hollenberg of the University of Melbourne explain their research and what it means for the future of ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.futurity.org/quantum-computers-machine-learning-2309802/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-18T12:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Futurity News",
-        "domain": "futurity.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.futurity.org/wp/wp-content/uploads/2020/03/quantum-computers-machine-learning_1600.jpg",
-          "width": 1600,
-          "height": 915,
-          "title": "Machine learning pushes quantum computing forward",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-18-artificial-intelligence-embedded-system-for-edge-ai-computing-and-deep-learning-applications.md",
-      "title": "Artificial Intelligence Embedded System for Edge AI Computing and Deep Learning Applications",
-      "excerpt": "The fanless embedded system employs an NVIDIA Jetson TX2 module which has a 64-bit ARM A57 processor; NVIDIA Pascal GPU with 256 CUDA cores; and 8 GB of 128-bit LPDDR4 memory ... with the NVIDIA Jetson platform and minimize what they need to do to develop AI-related applications.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.automationworld.com/products/product/21121944/axiomtek-artificial-intelligence-embedded-system-for-edge-ai-computing-and-deep-learning-applications",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-18T11:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Automation World",
-        "domain": "automationworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://img.automationworld.com/files/base/pmmi/all/image/2020/03/2003np_axiomtek1.5e6bba9286ba2.png?auto=format&fit=max&w=1200",
-          "width": 574,
-          "height": 549,
-          "title": "Artificial Intelligence Embedded System for Edge AI Computing and Deep Learning Applications",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-18-taking-inventory-of-ai-within-financial-institutions-and-fintech.md",
-      "title": "Taking Inventory of AI within Financial Institutions and Fintech",
-      "excerpt": "This article describes most of the AI activity occurring within financial institutions and fintech suppliers then compares and contrasts the two. It also identifies the challenges associated with deploying AI: “Financial services were one of the first sectors to understand the promise of the Big Data revolution, and the wave of new technology ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.paymentsjournal.com/taking-inventory-of-ai-within-financial-institutions-and-fintech/",
-      "ampWebUrl": "https://www.paymentsjournal.com/taking-inventory-of-ai-within-financial-institutions-and-fintech/amp/",
-      "cdnAmpWebUrl": "https://www-paymentsjournal-com.cdn.ampproject.org/c/s/www.paymentsjournal.com/taking-inventory-of-ai-within-financial-institutions-and-fintech/amp/",
-      "publishedDateTime": "2020-03-18T11:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PaymentsJournal",
-        "domain": "paymentsjournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.paymentsjournal.com/wp-content/uploads/2020/03/futuristic-artificial-intelligence-face-technology-background_1017-18295.jpg",
-          "width": 470,
-          "height": 328,
-          "title": "Taking Inventory of AI within Financial Institutions and Fintech",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-18-domo-shines-a-light-on-dark-data-with-new-augmented-capabilities-in-the-business-cloud.md",
-      "title": "Domo Shines a Light on Dark Data with New Augmented Capabilities in the Business Cloud",
-      "excerpt": "Domopalooza LIVE & On-Demand – March 18, 2020 – Today Domo (NASDAQ:DOMO) announced it is making it even easier to get BI leverage at cloud scale in record time through new augmented capabilities in the Domo Business Cloud.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.benzinga.com/pressreleases/20/03/g15583687/domo-shines-a-light-on-dark-data-with-new-augmented-capabilities-in-the-business-cloud",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/15583687",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15583687",
-      "publishedDateTime": "2020-03-18T11:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

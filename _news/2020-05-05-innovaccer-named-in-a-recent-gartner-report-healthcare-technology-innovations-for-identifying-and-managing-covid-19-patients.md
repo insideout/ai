@@ -31,6 +31,19 @@ related:
       - url: "https://wrm5sysfkg-flywheel.netdna-ssl.com/wp-content/uploads/2020/02/Harjinder-Pic.jpeg"
         width: 320
         height: 212
+  - title: "Innovaccer Named in a Recent Gartner Report 'Healthcare Technology Innovations for Identifying and Managing COVID-19 Patients'"
+    excerpt: "PRNewswire/ -- Innovaccer Inc., a leading San Francisco-based healthcare technology company, was named in a recent Gartner report titled \"Healthcare Technology Innovations for Identifying and"
+    publishedDateTime: 2020-05-04T20:53:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/innovaccer-named-in-a-recent-gartner-report-healthcare-technology-innovations-for-identifying-and-managing-covid/article_ab216e95-57fc-57d6-8f2c-029833d81e83.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 11
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+        width: 1280
+        height: 720
 
 secured: "nIdPVUaTHmI1/yzW3zvdUHizvwswN4bzCBBdo53nxCmAN2m3+DRPGRZz0f3uxGl4fDCqXeKrZ0ygiGVJcgMpjnlkFvBRiNv+QxvJRlQxnCpHnAPkueADcvYwGHW2NHydfM2eFuQH0gvhp6fomt4rHRe9oQAHWzQ8Er/+C+V/ZDdLdlIrl7qK/7aNywagQMsFj30K4A07iUsF/H5TeArOrxnSVOkVmhjYDi82KC8lqsEKOiptANyrl57CiWdiJ4gJoVN78szMNwCdEjbVJBDWh+kAh1VrjiaJ8NGB/63VmEZ+d26weC+ZHrRjjQxsZrXV;Vs3Xoadkd1MFxmEgXUSvww=="
 ---

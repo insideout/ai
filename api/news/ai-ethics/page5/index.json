@@ -2,6 +2,43 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-01-20-can-ai-systems-be-unethical-the-answer-is-yes.md",
+      "title": "Can AI Systems Be Unethical? The Answer Is Yes",
+      "excerpt": "To avoid biased outcomes, data sets need to be neutralized in a manner that these biases disappear, or are at least minimised as much as possible. Tony Fish, visiting lecturer for AI and Ethics at LSE, said, “if we teach our kids morality then why not teach the machines? However there is a problem here—we are trying to build the moral ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.huffingtonpost.in/entry/artificial-intelligence-systems-unethical-human-bias_in_5e256b92c5b673621f78de5a",
+      "ampWebUrl": "https://m.huffingtonpost.in/amp/entry/artificial-intelligence-systems-unethical-human-bias_in_5e256b92c5b673621f78de5a/",
+      "cdnAmpWebUrl": "https://m-huffingtonpost-in.cdn.ampproject.org/c/s/m.huffingtonpost.in/amp/entry/artificial-intelligence-systems-unethical-human-bias_in_5e256b92c5b673621f78de5a/",
+      "publishedDateTime": "2020-01-20T03:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HuffPost India",
+        "domain": "huffingtonpost.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://img.huffingtonpost.com/asset/5e256c2c2400005100dd1232.jpeg?cache=Ggd6J1zlka&ops=scalefit_630_noupscale",
+          "width": 630,
+          "height": 354,
+          "title": "Can AI Systems Be Unethical? The Answer Is Yes",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2020-01-18-how-to-build-ethical-ai.md",
       "title": "How to build ethical AI",
       "excerpt": "There are serious ethical and societal issues we must confront quickly.",
