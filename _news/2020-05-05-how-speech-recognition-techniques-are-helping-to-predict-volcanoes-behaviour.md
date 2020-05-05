@@ -23,6 +23,6 @@ images:
     height: 630
     title: "How speech recognition techniques are helping to predict volcanoes’ behaviour"
 
-secured: "S2Z53FTbyLFNk4WEwqZih9e80ZRzZK9OqlowNMEDUp22an8i5kiaczaw/7aOpMQDPbtnoa2GtZwTaYUT3l+jmXtPeYflev/vS0yixlxzng+MpAdNXYI8+/EuM/QRtOVGO4XuJVuqleOP1BahhOvPAUJD2rwcewvpv/dj/un6vhPak9/dI+deiMEhY2E5Ky3zoHHMS35IaXHfxst2Tdpwe5AXlOFp1fPjCFogTExJs9JaPKFRvSmxr+8fupl6wOkaDQMFYrbJhaiC17nO+2+GhKRC+fsCwAPI7ekMmZ04bReBYATBQU+kEWlyAyYVAcht;rwIy/tI127wqD6bnxhLAxQ=="
+secured: "xSr/GMv1jhCNUHstFYworjn0GoxL+vWyEg1RChlHmCB/l/E5QE6ROhewkJZZ6ll0LXg1joo1A1hSDNAJQCrToQ/5TK8tiLFr9DbucVPL6sPL+Bz4y7yLZbFggVampzqgZoK/nr07n6VYp5xkLX7ZbJZboImqAaZp4583LgiBDvDwtu/m7VK+eiHGarzCul5LoHkXnkpBoerQXMS3hwt/K90gySYUu7TMrFe4r+oDlNoAcSiqct0e1x4MGfm4XwpmmlI7m0mGUxkaZBAlSz8c+3bSY/mEH2eMcDbpCZMpxac84m/kMESZau4HktlxY8n8ZjzBHGWep6JYfCIROSCmYK1daMaBUsC/6+j7BYHdW7pfWIEf/yAsWeexMbka52FFAuJxBRYPYXOewT1CoKr1yJ/dABdGf4oAdeIEjvmvfXUPeFOOUkZ0p2X1KUj6Q+KV0FYuLuBqfw0Tdnhey5dV0vApL6F633UZIImrnP6z/zU=;L14mzZurJ0+tJ9xmkWX6lw=="
 ---
 
