@@ -23,6 +23,6 @@ images:
     height: 630
     title: "Motorola Launches 'Safe Schools,' Bundling Video, Data, Analytics and Voice"
 
-secured: "h3KN1bjvm2c8oL8F+aqFcwH9wZZB5yUDTDhUDOqKnk07FI0wMvMx9gP15ZxqAXkTV9Y6hIW0V7aMTZasI0wdXCAXds0OYQJJdn6eEGwXoQFdxRp9ZWVlZPNboK8r8qS/AI9YDjBCJZTYph3EyyE5aViwNBaW4Ml8be2Gpn+oZ2uldqeDZ9AuowT2T2HSh2n1xZEIovPmGWK/M0YQNqdfzpXPzFAw6cwLGCtuGvE6kBC8Krl/mg2IM58sRTYojOcWYwF0nApCBKB9JPib1U4aJYaX5rodSgQ5DVLsYogl438I9lc0BJvI1ngajHBcb76q;EQNkI2ncfIgdl8omPUbzsw=="
+secured: "n3yUXp43GhQr+YkcPxPymN0pvLgCpExKCVlpJkGvlhpjHSTvrvOritPZUebpCCO62tXnqtknkXIUZ1ha9yHKTt43iqc87fKQ4u761SyoMtyFqldeF6adScLncQHUl/9cGBVYozSGlesG9acM2bQLMcrZoisIpXffGLpACmrcsdv8c6SkQDrLkLeOhRM/X3B7/l0RTESfr6OEKDnmWjZcHZsbpQMuKUY8ZEeb6xqnzce76ztngdfja3sfhSzeRLTZyg7YA59MCKnysGg10+DZIqRdmoK3mNgC7Xjhn9z7+brPaB2eeUQvhqf127yy+c6u;rC6hIPc/Td3cJzF8FCEGAA=="
 ---
 

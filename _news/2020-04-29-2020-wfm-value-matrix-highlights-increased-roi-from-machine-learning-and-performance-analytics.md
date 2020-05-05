@@ -1,25 +1,25 @@
 ---
 category: news
 title: "2020 WFM Value Matrix Highlights Increased ROI from Machine Learning and Performance Analytics"
-excerpt: "Nucleus Research today released the 2020 WFM Technology Value Matrix, its assessment of the Workforce Management (WFM) market. For the report, Nucleus"
-publishedDateTime: 2020-04-29T17:52:00Z
-webUrl: "https://www.businesswire.com/news/home/20200429005471/en/2020-WFM-Matrix-Highlights-Increased-ROI-Machine"
+excerpt: "Nucleus Research today released the 2020 WFM Technology Value Matrix, its assessment of the Workforce Management (WFM) market. For the report, Nucleus evaluated WFM vendors based on their products’ usability,"
+publishedDateTime: 2020-04-29T14:11:00Z
+webUrl: "https://apnews.com/Business Wire/4c5e1c6be9c84125bbe231ca706a3324"
 type: article
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://mms.businesswire.com/media/20200429005471/en/731239/23/nucleus-research-vector-logo_%281%29.jpg"
-    width: 1200
-    height: 627
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     title: "2020 WFM Value Matrix Highlights Increased ROI from Machine Learning and Performance Analytics"
 
-secured: "Vk6oDI7z+MtlhgxUjFb7UIRYBv5OrbmOe8I8x+zcgGIFrqf0ah0PHhvxLAPmxIv27+FlB/kKqDpxvUecpspaDUjnp6iZnCKThEGs7IFR4h4GXZYy0B3QVY09Gv/vlxLgGp6VNFIqKjUJk0kMG8G/NIjHhZLEOdCYyTyiqfDqRy4Olxgi/dvIXdNeFEpwvT8MNw6c5xL2d9IPqVYwh2Tn//7I29HuyOIGc+hiB+s0KRQi0vnWME4gbQ0W3Yn7aK/iHY98ygkPqM/ATV2PK5PTlG09Hx/+t067gMT2hxmNIXlV5LhK3pPdq7tpYMkR7u55;UCWPOtW0z604uRbg+Kcakg=="
+secured: "j2W59OBlIcHyKVcEKXZEQvdb+m16985A3IezQl0I80ShWXU9WDlgdJya+cdVwveQCVakAKWRG7Yt4ZZoXzBwHBmFH6Jk1kKHa6RbzorCA6p8tWEV7vg0C6xBQU5eyz7OVVio7f/iVqV08BQI1oSwWFLp4AumlJOjJxj1nOQE91P4Qobu9OAl1o0HLW9HtIcgiIhfhxGCKujv/WJKndqy5dCYUPonqUShjCeCg5qzgXTOW0anWs+ptzKREaZzRlxva+uBVbzzQh5ZnUNdWgqFFP7H7OAt66zEyl1Pfa+DXeq/PsIKuLHBXG8X9j9F0RMp;fSWP0aejN5yRopWNCeyAPQ=="
 ---
 

@@ -28,15 +28,15 @@ images:
     title: "Learning Analytics Market ,Industry Size, Growth, Current Trends, Competitive Landscape Forecasts till 2023"
 
 related:
-  - title: "Deep Learning Market Size, Growth, Current Trends, Competitive Landscape and Forecasts till 2023"
-    excerpt: "Global Deep Learning Market Research Report: by Component (Hardware, Software, Services), Application (Image Recognition, Data Mining, Signal Recognition), End User (Security, Manufacturing, BFSI, Healthcare,"
-    publishedDateTime: 2020-05-04T15:45:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-size-growth-current-trends-competitive-landscape-and-forecasts-till-2023-2020-05-04"
+  - title: "Learning Analytics Market is expected to reach USD 8.3 billion by 2023, Influence of COVID-19"
+    excerpt: "Learning analytics has evolved from different branch of science such as psychology, statistics, information science, sociology, data mining, and machine learning, to interpret data gathered during learning,"
+    publishedDateTime: 2020-05-03T14:53:00Z
+    webUrl: "https://www.marketwatch.com/press-release/learning-analytics-market-is-expected-to-reach-usd-83-billion-by-2023-influence-of-covid-19-2020-05-03?mod=mw_quote_news"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 58
+    quality: 43
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

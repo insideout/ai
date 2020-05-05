@@ -24,6 +24,6 @@ images:
     height: 450
     title: "This startup by San Francisco-based founders uses AI to find the right hires for corporates"
 
-secured: "D1rFA7w/vzVglFycFL/LQOYd2gKUwbzg+tudzYrALln9h8KVrAnJGVgFNKmGSkyHrGSl+ef87jYM+DFOQzdzn1lKbq3tNOexbXfoDACYHg3yC9p/+lWIklhfRXc6lT56oduoTewa1wfbrv5XZ72/cAOoJjJAizA2KkvCv/2YVJbrRMrVl8pY7onka34tYLKoMdGWFYcYY65XIql2N/aOvuE6zFMiz2TAercm4Hokaly0dxeya/F++TA4WCCVMIeHKGBJViiN2XOVYR5xEmybpigmj1JGD6uqzNl+wxJNPhNr7/HMC0Rzwg6R6VmzdNTl;IF0pHSG61Vs+ADsroNv0dw=="
+secured: "u4l5QJsR7jwEyvNKFDSt92T6UQOy/TVfuai05ApuCrNYxajI+lS3EJ0TLYryph2UVaVRGcN8ndOMcfRnBelt+3TPhIJ+AzrtPxYNnzyHGIjDaMDOvMSkkc+uhl8ZXBvgENQkfaoUsylEG1j2mQAioc4kHwaB3nu6RfRElWWJFFDtKN1mdINZRjq1R2/f/Fc0R68dvREWPjomHANkKqdo3eMMEZwMUBVHfZz/NFkfbkrrCZDvT4BVFWI3zXTS0CpYXm+r3aNrtWjIjDf9Ouq8Hy+4cDntAwCB19THgXEHgngJoGal0RWj7ZviHAQdL+6pdv3BIq1RG9QZKg2Yuw+o0cC08pCyYWU0staFiRNWn/ROBC/ACCkd6ubaoIEDDhnVqZskzKnlivplfhDKVKxV3EUwQWAqdJ8WZXMaDr2hvJwKle5Y0crWftKLmAMQiORYP7qxG8J6p8IpgLRGdH7ap8Jb0iaa2A3eScoXDJ++uWM=;sAjGXHjcdrlrrVyqSRb1jg=="
 ---
 

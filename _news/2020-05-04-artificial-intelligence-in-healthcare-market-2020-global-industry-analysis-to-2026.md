@@ -6,7 +6,7 @@ publishedDateTime: 2020-05-04T10:06:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-2020-global-industry-analysis-to-2026-2020-05-04"
 type: article
 quality: 80
-heat: 110
+heat: 120
 published: true
 
 provider:
@@ -29,6 +29,19 @@ images:
     title: "Artificial Intelligence in Healthcare Market 2020 Global Industry Analysis To 2026"
 
 related:
+  - title: "Artificial Intelligence In Healthcare Market Growth, Analysis and Advancement Outlook 2020 to 2026"
+    excerpt: "The Artificial Intelligence In Healthcare Market report provides a detailed analysis of global market size, regional"
+    publishedDateTime: 2020-05-05T05:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-growth-analysis-and-advancement-outlook-2020-to-2026-2020-05-05"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 70
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
   - title: "Artificial Intelligence (AI) Chipset Market Overview, Industry Trends and Growing Opportunities Till 2026"
     excerpt: "The report provides rational insights along with historical and forecast data to aid in better understanding of"
     publishedDateTime: 2020-05-04T10:38:00Z

@@ -56,19 +56,6 @@ related:
       - url: "https://i.dailymail.co.uk/1s/2020/04/30/15/27846360-0-image-a-12_1588258192544.jpg"
         width: 636
         height: 382
-  - title: "Google executive attended meeting of key scientific group advising Government"
-    excerpt: "Demis Hassabis is the co–founder of DeepMind, Google’s London-based artificial intelligence arm, which it acquired in 2014. The British artificial intelligence researcher was present for one ..."
-    publishedDateTime: 2020-04-30T14:35:00Z
-    webUrl: "https://www.thetelegraphandargus.co.uk/news/national/18417819.google-executive-attended-meeting-key-scientific-group-advising-government/"
-    type: article
-    provider:
-      name: Telegraph & Argus
-      domain: thetelegraphandargus.co.uk
-    quality: 21
-    images:
-      - url: "https://www.thetelegraphandargus.co.uk/resources/images/11319113/"
-        width: 2168
-        height: 1445
 
 secured: "aZeLRASVcC8IwwJ4z0LtuEO5gdfpKj9/j9R6ynO2n/s3xBnWMEjb+JJm9u1qvGjD2W69FJQGo5ivE9cLl+nJK194iwomFd9tC3jstryN7i8iANTX/TU8jX2A7hahFfVQs1nD6thSfCZwKewuKuEVqZJHLEmzPXzQafPytMGPL9j8c2PIsZo1mtLAs8swFUAWx6JvWnIsU8Yw2qOWDRVeZlq3BnmKJopRksSvkl34Ak1pX/3mDvCiS3tt1yC3P4thIF0+E/nMqXI8JLiMvkLx+2xTVlF2k0UkVk0+y1juvkqUjkwewiuMaRRWbYjSY9FArSP2KucFkH4cvuS+1wB/nsKcAU2iENgNSiIsalWuhrHu/TRt1iFIOnIUgv/8grCz5yDNDQGMWA2p7fJMUJ4QvGkQ/EpM8JKv2GiF9s+EmTqC/Wn1IwIee1WfT5X3mK6jzBovLGt2vrmtdXT8nOoS7d8cccoHJ2c3lYB0eZheDG8=;3UxxyiEdsno4rAA7CuZetA=="
 ---

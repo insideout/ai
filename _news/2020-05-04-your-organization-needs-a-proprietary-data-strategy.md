@@ -23,6 +23,6 @@ images:
     height: 675
     title: "Your Organization Needs a Proprietary Data Strategy"
 
-secured: "hE/ZL6i3xMeEWW1UFEm8e+xemgdZK+kAJtjXffKfZrMqxKcRowmQRUJIFFkF6N3b6Ds8dmnkualTrffaUjMkocQcFbTM7hXZYkqLgmEMQI0gHoeHmG96d+Xy1Jk1mLlEwoeu2AmLMj1e2Pzvxyeb/VRJ08UrKhpQP+fwd+gvJCSvX5yYCBYCs+ygWcnmpfk1fhADwsLIzDjOxDMgh7ltkzIH/k6dOSOG4WECkrTNO/TfARO7LVJUAyvYYE+Rghz3fjtkatuwBx0KShjN/2klPzJjIEWairMcwAoA2vSWXVB97RcL0J/dMMkhyZnF1Hb1R6QEj/WBRdCZTH+3iZGs5NJd+evFstgX1kyacqOvy8ZUM0mTpIFjD6+YWpmq5kTHlyXPGv7IHpHtWN1ku5C7tSUstojNb594Ur0ZxKnK6U8HRIK9xexGrGMD5yatK9lGzm2EMhlujsUQK/dw8C4sKI9cKIwGkUHJL7BG/ZyhyoY=;Jqt5dNUf+BaPd19NBy4ZsA=="
+secured: "doYer9jk2ucKtp56BXF+odD3Kc9pUf+83kO/Yr+NlEZ4nuyRdi1z5K6QZOvQZ/16mDR3n1wRGVMnCVUMebvJfsUWUpiKdEWeCbx1Ck+8MxEiOztm4FUi6WDkSjV+XDdyJ+t3Ff2kw4/SabiQ7XHFgyRl/Uy7u99ZjuljTww7RcbWHGFCpSQSIHetcyRowr0SzYBdW7ECkOooJ2+JrxyClDe/7Mb1buC5AJaYqHtFpZ4YHVDCtVPSP8AWjt71o+QgZcejRwq9Owm7b2cp4HVXVIEKob7sGquUpC4FMMWyUDdp/WRs2r480B3WcqGhuJCe;7vyAvCH3LeTCM0/uuTtIsQ=="
 ---
 

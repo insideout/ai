@@ -40,6 +40,19 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Artificial Intelligence In Healthcare Market Growth, Analysis and Advancement Outlook 2020 to 2026"
+    excerpt: "The Artificial Intelligence In Healthcare Market report provides a detailed analysis of global market size, regional"
+    publishedDateTime: 2020-05-05T05:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-growth-analysis-and-advancement-outlook-2020-to-2026-2020-05-05"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 70
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
   - title: "Deep Learning Market Research Report:Forecast till 2023 , Influence of COVID-19 on Global Trends"
     excerpt: "Global Deep Learning Market Research Report: by Component (Hardware, Software, Services), Application (Image Recognition, Data Mining, Signal Recognition), End User (Security, Manufacturing, BFSI, Healthcare,"
     publishedDateTime: 2020-05-04T15:45:00Z

@@ -7,9 +7,6 @@ webUrl: "https://fox59.com/news/national-world/artificial-intelligence-cant-tech
 ampWebUrl: "https://fox59.com/news/national-world/artificial-intelligence-cant-technically-invent-things-says-patent-office/amp/"
 cdnAmpWebUrl: "https://fox59-com.cdn.ampproject.org/c/s/fox59.com/news/national-world/artificial-intelligence-cant-technically-invent-things-says-patent-office/amp/"
 type: article
-quality: 57
-heat: -1
-published: false
 
 provider:
   name: FOX59 News
@@ -25,38 +22,6 @@ images:
     height: 720
     title: "Artificial intelligence can’t technically invent things, says patent office"
 
-related:
-  - title: "Patent office: Artificial intelligence can’t invent things"
-    excerpt: "Artificial intelligence is the future. If “Westworld” or “Black Mirror” are to be believed, there will soon come a day when the computers rule us all. But for now, an"
-    publishedDateTime: 2020-04-30T11:36:00Z
-    webUrl: "https://cbs4indy.com/news/national-world/patent-office-artificial-intelligence-cant-invent-things/"
-    ampWebUrl: "https://cbs4indy.com/news/national-world/patent-office-artificial-intelligence-cant-invent-things/amp/"
-    cdnAmpWebUrl: "https://cbs4indy-com.cdn.ampproject.org/c/s/cbs4indy.com/news/national-world/patent-office-artificial-intelligence-cant-invent-things/amp/"
-    type: article
-    provider:
-      name: WTTV
-      domain: cbs4indy.com
-    quality: 63
-    images:
-      - url: "https://cbs4indy.com/wp-content/uploads/sites/22/2020/04/GettyImages-476176424.jpg?w=1024&h=683&crop=1&resize=1280,720"
-        width: 1280
-        height: 720
-  - title: "An artificial intelligence system cannot invent something, says US Patent Office ruling"
-    excerpt: "Patents are granted only to “natural persons” and will not be issued to AI-made creations. The US Patent Office has published a new ruling saying that its"
-    publishedDateTime: 2020-05-04T09:00:00Z
-    webUrl: "https://www.qrcodepress.com/an-artificial-intelligence-system-cannot-invent-something-says-us-patent-office-ruling/8537851/"
-    ampWebUrl: "https://www.qrcodepress.com/an-artificial-intelligence-system-cannot-invent-something-says-us-patent-office-ruling/8537851/amp/"
-    cdnAmpWebUrl: "https://www-qrcodepress-com.cdn.ampproject.org/c/s/www.qrcodepress.com/an-artificial-intelligence-system-cannot-invent-something-says-us-patent-office-ruling/8537851/amp/"
-    type: article
-    provider:
-      name: QR Code Press
-      domain: qrcodepress.com
-    quality: 49
-    images:
-      - url: "http://www.qrcodepress.com/wp-content/uploads/2020/05/Artificial-intelligence-system-Robot-with-Computer.jpg"
-        width: 886
-        height: 460
-
-secured: "3ek3iHb7dNPg4g77LTrIzdaxywquq9JkBTrNzdKZhzS5M9FkdJkCqH7vMCWRnClxyFXUhr6//qLYxkBpM+qb+wqeR51S77riGNipndK+10WJ4pgpdye+31VUIYlrCtdaa8Zg5YoLEnw3mGkmQpoosagr/RkPe4FzFAsKuSaShT+MPSmJuHpe4vmDYueJZkrJGyyNY7nCbuYmLovQW/6p+SJid/U2QV4KypUByTjUn1FKZ4h5njvmBNUSuzudUYbj9FIn7xF8b6foeG3dS5fiwtqEN047pt87RbZVrY9wkXlX6s2DexGvtRDdnoAnHx8Q;l7IQc6fuuEo7xtIVJgDqiA=="
+secured: "JJC41wgeyf9ibOqC3tzLncABIPJYWfEAUKRXHgcic35+TNKWuAPfjh7qFjKPUPE9cYu6FpNnox7p9PId5ejeVUpk49v6xV42yJwx1Bcgvb+SVERirr5KTtXl8fsvDh7qxx527cOPdjA531xCbfuV7ikXsSrOmNc15bFbOO4cPH08FXpq+u+F0k+iYjE7hD2pjSCRdKNmFe/mFCRIQgW4L21W1hCOzseZlmh0Y1YgyMcvq2dgSuLGV30uimU0Xem50Yiha8El7q2nwmQqY1mNhn7NEFxTRYtwSsoN97BGvukn7Dyh0RgUmO3tIsJApatN;vish2wp8iIHkLvKl4MObrA=="
 ---
 
