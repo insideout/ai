@@ -2,50 +2,6 @@
   "page": 42,
   "value": [
     {
-      "path": "_news/2020-03-30-microsoft-365-bundles-office-365-with-ai-and-cloud-powered-features.md",
-      "title": "Microsoft 365 bundles Office 365 with AI and cloud-powered features",
-      "excerpt": "Microsoft today announced that on April 21, Office 365 will become Microsoft 365, or “the subscription for your life.” The new suite takes Office 365 and adds “new AI, rich content and templates, and cloud-powered experiences.” On April 21, Microsoft 365 Personal and Microsoft 365 Family subscriptions (up to six people) will replace ...",
-      "heat": 97,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/03/30/microsoft-365-bundles-office-365-with-ai-and-cloud-powered-features/",
-      "ampWebUrl": "https://venturebeat.com/2020/03/30/microsoft-365-bundles-office-365-with-ai-and-cloud-powered-features/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/30/microsoft-365-bundles-office-365-with-ai-and-cloud-powered-features/amp/",
-      "publishedDateTime": "2020-03-30T08:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/03/microsoft-365-for-consumers.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Microsoft 365 bundles Office 365 with AI and cloud-powered features",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-03-30-new-ai-tools-help-writers-be-more-clear-concise-and-inclusive-in-office-and-across-the-web.md",
       "title": "New AI tools help writers be more clear, concise and inclusive in Office and across the web",
       "excerpt": "The post New AI tools help writers be more clear, concise and inclusive in Office and across the web appeared first on The AI Blog.\n",
@@ -1034,6 +990,50 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-30-star-trek-voyager-receives-a-4k-remaster-courtesy-of-an-ai-based-software.md",
+      "title": "Star Trek: Voyager receives a 4K remaster courtesy of an AI-based software",
+      "excerpt": "The video was remastered to 4K from a DVD source using Gigapixel AI from Topaz Labs, and the episode above had ... with Richard claiming that it took him around six hours to process the work from start to finish. As stated before, five episodes have ...",
+      "heat": 85,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.neowin.net/news/star-trek-voyager-receives-a-4k-remaster-courtesy-of-an-ai-based-software",
+      "ampWebUrl": "https://www.neowin.net/amp/star-trek-voyager-receives-a-4k-remaster-courtesy-of-an-ai-based-software/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/star-trek-voyager-receives-a-4k-remaster-courtesy-of-an-ai-based-software/",
+      "publishedDateTime": "2020-03-29T22:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2020/03/1585544391_kch5d8x_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": "Star Trek: Voyager receives a 4K remaster courtesy of an AI-based software",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     }

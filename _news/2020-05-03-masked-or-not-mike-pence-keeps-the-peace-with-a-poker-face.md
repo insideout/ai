@@ -8,7 +8,7 @@ ampWebUrl: "https://www.nytimes.com/2020/05/02/us/politics/coronavirus-mike-penc
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/05/02/us/politics/coronavirus-mike-pence.amp.html"
 type: article
 quality: 74
-heat: 77
+heat: 74
 published: true
 
 provider:

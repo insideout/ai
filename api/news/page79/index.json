@@ -2,51 +2,6 @@
   "page": 79,
   "value": [
     {
-      "path": "_news/2020-02-25-zoho-full-stack-operating-system-and-data-protector.md",
-      "title": "Zoho: Full stack, operating system, and data protector",
-      "excerpt": "Following the ongoing cloud (r)evolution, AI, voice, UX/UI and macro trends such as digital transformation and the rise of the cognitive enterprise are ... Zoho's app services, data centers and proprietary layers of its full stack position the company against the likes of Microsoft, Google, IBM and Oracle. And, since Zoho's full stack includes ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/zoho-full-stack-operating-system-and-data-protector/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/zoho-full-stack-operating-system-and-data-protector/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/zoho-full-stack-operating-system-and-data-protector/",
-      "publishedDateTime": "2020-02-25T09:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/02/24/43e6dbde-98b9-41a7-aa32-e4bb4d160600/zoho-stack.png",
-          "width": 975,
-          "height": 590,
-          "title": "Zoho: Full stack, operating system, and data protector",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
       "path": "_news/2020-02-25-tnw-announces-neural-a-blog-for-human-centric-ai-news-and-analysis.md",
       "title": "TNW announces Neural: A blog for human-centric AI news and analysis",
       "excerpt": "Let’s build this Neural network together. We’ll have more exciting news to share about Neural in the coming days and weeks. In the meantime, check out our cool new Neural site here. Fun facts: the Neural font was developed with the help of an artificial neural network and the color scheme was chosen because it’s just awesome.",
@@ -1079,6 +1034,51 @@
       "topics": [
         "AI",
         "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-24-we-should-learn-how-to-collaborate-with-robots-before-it-will-be-too-late.md",
+      "title": "We should learn how to collaborate with robots before it will be too late!",
+      "excerpt": "Much has been said about how automation processes can render a large number of jobs obsolete. After all, the opportunities for technologies involving robotics and artificial intelligence have grown exponentially, and workers around the world have been anxious about how this new era of automation can affect their careers. The concerns of ...",
+      "heat": 77,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/tech-cult-heartbeat/you-must-learn-how-to-collaborate-with-robots-before-its-too-late-fed039aec0eb",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-24T15:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/1200/0*p91_g07JY33ibncb.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "We should learn how to collaborate with robots before it will be too late!",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
       ]
     }
   ],

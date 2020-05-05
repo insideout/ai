@@ -2,43 +2,6 @@
   "page": 19,
   "value": [
     {
-      "path": "_news/2020-04-16-pentagon-needs-tools-to-test-the-limits-of-its-artificial-intelligence-projects.md",
-      "title": "Pentagon Needs Tools to Test the Limits of Its Artificial Intelligence Projects",
-      "excerpt": "The Joint Artificial Intelligence Center seeks cutting-edge evaluation capabilities to assess what systems can and can’t effectively do.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nextgov.com/emerging-tech/2020/04/pentagon-needs-tools-test-limits-its-artificial-intelligence-projects/164687/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-16T14:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nextgov",
-        "domain": "nextgov.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.nextgov.com/media/img/upload/2020/04/16/NGai20200416/open-graph.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Pentagon Needs Tools to Test the Limits of Its Artificial Intelligence Projects",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-04-16-new-web-based-automl-tool-from-sensiml-makes-ai-for-iot-easier-than-ever.md",
       "title": "New Web-Based AutoML Tool from SensiML Makes AI for IoT Easier than Ever",
       "excerpt": "SensiML(TM) Corporation, a leading developer of AI tools for building intelligent IoT endpoints, has released a new web-based AutoML tool with a simple",
@@ -1084,6 +1047,35 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-16-sap-makes-support-experience-even-smarter-with-machine-learning-and-ai-enhancements.md",
+      "title": "SAP Makes Support Experience Even Smarter With Machine Learning and AI Enhancements",
+      "excerpt": "SAP SE today announced several updates, including the Schedule a Manager and Ask an Expert Peer services, to its Next-Generation Support approach focused",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/sap-makes-support-experience-even-smarter-with-machine-learning-and-ai-enhancements/article_90b9f14e-1c6e-50c1-bbac-899058184560.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-16T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
         "AI"
       ]
     }

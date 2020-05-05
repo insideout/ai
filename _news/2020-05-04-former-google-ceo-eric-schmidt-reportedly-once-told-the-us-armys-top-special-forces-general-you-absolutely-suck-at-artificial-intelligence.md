@@ -7,8 +7,8 @@ webUrl: "https://www.businessinsider.com/google-ex-ceo-eric-schmidt-us-army-suck
 ampWebUrl: "https://www.businessinsider.com/google-ex-ceo-eric-schmidt-us-army-suck-artificial-intelligence-2020-5?amp"
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-ex-ceo-eric-schmidt-us-army-suck-artificial-intelligence-2020-5?amp"
 type: article
-quality: 52
-heat: 52
+quality: 54
+heat: 54
 published: false
 
 provider:
@@ -21,6 +21,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://i.insider.com/5eb052f7204ad308c95c3765?width=1200&format=jpeg"
@@ -28,6 +29,6 @@ images:
     height: 600
     title: "Former Google CEO Eric Schmidt reportedly once told the US Army's top special forces general 'you absolutely suck' at artificial intelligence"
 
-secured: "dzpa0gXV/BNVhbINB1OX7RTbC7JTDXv4Sp+vq/54zdf8fdpm/vo2+sFyXwzBPAAFR0hC63CgE9zyJmkKD63SU+EeGk8gzMSbbI57MXD2/cN9VRYOa1XpeA7nm+EKpGbliP1cJMoRrvaTNvjhDAep5+SADe+sJh0wU0e/vzJm+tqHGKnw9fSTV9C+X2yogKkJkK+kuJdIRAw2SZ2WGpHmd2i+jLIFOUi3cI434/2tp+rdPJqMog0QnfMSCsk4qyY/FcxiVg0/xwUk2jHuL2Wr9LqE8VNUtKMYGJn3AsBa6lC0qQDH0B9kd0+LZavUR0wK;ITdgcwMDgO4rM03zC8UOVw=="
+secured: "EJYkIYpg1peVO3GHyMsk1MVSMAExN0Ph6uzY5KiZ3SJ1KUklC0u34z44oOmkPbGlO0SGJ0ra7mQ15h43phy3anZSK08ZL5mWXewLzoALgrpKnPrL9oMvT53Bfo13vak770OfO+I9LlrAJP+v3dh5hUznOz0teYUoB3WFbAXAR5QvAo3/sxjrRUyDM6BYH+qB1zz8Tl4ZWr7gVU4WZYOuBvmYIemOtcd7GnpmvNFtTt6bfJ6r2LqzDNFmGicIq/UJJirtIIEUc3NtMKee/yT/ZC9TcoDDJjt09T4n73dmJ3n6xtPPdE4doMwpHd7oNpFQeDD/I3JJEHCk3kAK89qf2g4GoXeiKfdClWQCmuV9TPlbiKCa8rIpWdSKwmm7a6NOVmE4Z/43zd8zIxpUEWtrLc4/3PbzCnNzgex6mfkF0CbbnzTVZ79vjvRRmVpV60R6JpU/ozeVwoFKXW0TTaws1Ik8xEgujCDK+c/4V08IvD0=;sFr8p/oHOm/6LKCnQibRbg=="
 ---
 

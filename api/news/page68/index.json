@@ -2,43 +2,6 @@
   "page": 68,
   "value": [
     {
-      "path": "_news/2020-03-11-forwardx-debuts-computer-vision-amr-fleet.md",
-      "title": "ForwardX debuts computer vision AMR fleet",
-      "excerpt": "Nicholas Temple, VP of sales for ForwardX, illustrates how the company’s computer vision-based AMRs use AI and deep learning to extract insights from camera inputs. ForwardX Robotics (Booth 1207) recently launched in the Americas what it claims is the world’s only computer vision-based AMR fleet, which has already been installed in ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.scmr.com/article/forwardx_debuts_computer_vision_amr_fleet/news",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-10T17:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Supply Chain Management Review",
-        "domain": "scmr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.mmh.com/images/2020_article/forwardx2020.jpg",
-          "width": 300,
-          "height": 400,
-          "title": "ForwardX debuts computer vision AMR fleet",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-03-11-tensorflow-quantum-and-first-release-candidate-for-tensorflow-22.md",
       "title": "TensorFlow Quantum and first release candidate for TensorFlow 2.2",
       "excerpt": "The TensorFlow developers have been keeping busy this week: Not only has the first release candidate for TensorFlow 2.2 arrived, but we can now also welcome the very first release of TensorFlow Quantum. Let’s see what has been happening in the world of ...",
@@ -979,6 +942,35 @@
       ],
       "topics": [
         "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-10-deep-learning-electrocardiogram-devices-found-to-be-susceptible-to-adversarial-attack.md",
+      "title": "Deep learning electrocardiogram devices found to be susceptible to adversarial attack",
+      "excerpt": "A team of researchers from New York University and NYU Langone Health has found that deep learning electrocardiogram devices can be susceptible to adversarial attacks. In their paper published in the journal Nature Medicine, the group describes how they developed an attack approach and tested it with electrocardiogram devices. Over the past ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medicalxpress.com/news/2020-03-deep-electrocardiogram-devices-susceptible-adversarial.html",
+      "ampWebUrl": "https://medicalxpress.com/news/2020-03-deep-electrocardiogram-devices-susceptible-adversarial.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-03-deep-electrocardiogram-devices-susceptible-adversarial.amp",
+      "publishedDateTime": "2020-03-10T07:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
         "AI"
       ]
     }

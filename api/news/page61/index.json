@@ -2,35 +2,6 @@
   "page": 61,
   "value": [
     {
-      "path": "_news/2020-03-16-closedloopai-announces-release-of-free-open-source-ai-based-tool-to-identify-individuals-vulnerable-to-severe-complications-of-covid-19.md",
-      "title": "ClosedLoop.ai Announces Release of Free Open Source AI-based Tool to Identify Individuals Vulnerable to Severe Complications of COVID-19",
-      "excerpt": "on Amazon's SageMaker platform, and via ClosedLoop's HIPAA compliant hosted platform. The CV19 Index is available for use through any of these methods at no cost ClosedLoop has created a forum at ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.benzinga.com/pressreleases/20/03/b15556274/closedloop-ai-announces-release-of-free-open-source-ai-based-tool-to-identify-individuals-vulnerab",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/15556274",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15556274",
-      "publishedDateTime": "2020-03-16T04:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-03-16-ibm-tackles-human-language-through-ai.md",
       "title": "IBM Tackles Human Language Through AI",
       "excerpt": "Rob Thomas, GM of IBM Data and AI was quoted saying, “A language is a tool for expressing thought and opinion as much as it is a tool for information.” This has been the motto of IBM with its recent announcement of bringing Project Debater and integrating it into Watson. Marketing Technology News: Xandr AT&T Partners with AMC Networks ...",
@@ -914,6 +885,35 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-15-port-of-seattle-moves-toward-implementing-facial-recognition.md",
+      "title": "Port of Seattle moves toward implementing facial recognition",
+      "excerpt": "Over protests from civil-liberties groups, the Port of Seattle Commission voted Tuesday to purchase and install facial-recognition cameras at Seattle-Tacoma International Airport’s international departure gates.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://journalstar.com/business/national-and-international/port-of-seattle-moves-toward-implementing-facial-recognition/article_b36dbdd4-c0e1-5629-90ad-2a500ff97241.html",
+      "ampWebUrl": "https://journalstar.com/business/national-and-international/port-of-seattle-moves-toward-implementing-facial-recognition/article_b36dbdd4-c0e1-5629-90ad-2a500ff97241.amp.html",
+      "cdnAmpWebUrl": "https://journalstar-com.cdn.ampproject.org/c/s/journalstar.com/business/national-and-international/port-of-seattle-moves-toward-implementing-facial-recognition/article_b36dbdd4-c0e1-5629-90ad-2a500ff97241.amp.html",
+      "publishedDateTime": "2020-03-14T17:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Lincoln Journal Star",
+        "domain": "journalstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
         "AI"
       ]
     }

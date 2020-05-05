@@ -2,50 +2,6 @@
   "page": 29,
   "value": [
     {
-      "path": "_news/2020-04-08-mybuddyai-a-virtual-tutor-for-kids-learning-english-raises-1-million-seed-round.md",
-      "title": "MyBuddy.ai, a virtual tutor for kids learning English, raises $1 million seed round",
-      "excerpt": "MyBuddy.ai, a startup that develops virtual tools to help kids learn English, announced today that it has raised $1 million in seed funding from LETA Capital. The capital will be used to expand into new markets and develop new features including mini-classes about health. The San Francisco-based company’s app features a AI-based virtual tutor ...",
-      "heat": 81,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/04/07/mybuddy-ai-a-virtual-tutor-for-kids-learning-english-raises-1-million-seed-round/",
-      "ampWebUrl": "https://techcrunch.com/2020/04/07/mybuddy-ai-a-virtual-tutor-for-kids-learning-english-raises-1-million-seed-round/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/07/mybuddy-ai-a-virtual-tutor-for-kids-learning-english-raises-1-million-seed-round/amp/",
-      "publishedDateTime": "2020-04-07T23:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/04/GettyImages-740526807.jpg?w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": "MyBuddy.ai, a virtual tutor for kids learning English, raises $1 million seed round",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-04-08-3-observations-amid-the-covid-19-crisis.md",
       "title": "3 observations amid the COVID-19 crisis",
       "excerpt": "And today, satellite images, foot traffic and transaction data are giving us a better read on the economy amid widespread global closures and re-openings. At the same time, the natural language processing of news flow,",
@@ -1031,6 +987,51 @@
       ],
       "topics": [
         "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-07-tenstorrent-launches-ai-chip-with-conditional-execution.md",
+      "title": "Tenstorrent Launches AI Chip With Conditional Execution",
+      "excerpt": "Analyst Karl Freund gives his take on the Cambrian Explosion of new AI chips and how the bar will continue to creep higher. The latest entrant to emerge from Stealth is Canada’s Tenstorrent, who has some aggressive optimizations that make them stand out in the crowd.",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/moorinsights/2020/04/07/tenstorrent-launches-ai-chip-with-conditional-execution/",
+      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2020/04/07/tenstorrent-launches-ai-chip-with-conditional-execution/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2020/04/07/tenstorrent-launches-ai-chip-with-conditional-execution/amp/",
+      "publishedDateTime": "2020-04-07T10:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e8cacf5e9952f0006c612e3%2F0x0.jpg",
+          "width": 563,
+          "height": 291,
+          "title": "Tenstorrent Launches AI Chip With Conditional Execution",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
         "AI"
       ]
     }

@@ -6,7 +6,7 @@ publishedDateTime: 2020-05-01T22:23:50Z
 webUrl: "https://aws.amazon.com/blogs/machine-learning/learn-how-to-select-ml-instances-on-the-fly-in-amazon-sagemaker-studio/"
 type: article
 quality: 89
-heat: 90
+heat: 89
 published: true
 
 provider:

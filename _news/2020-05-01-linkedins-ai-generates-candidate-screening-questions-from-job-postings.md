@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/05/01/linkedins-ai-generates-candidate-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/01/linkedins-ai-generates-candidate-screening-questions-from-job-postings/amp/"
 type: article
 quality: 87
-heat: 88
+heat: 87
 published: true
 
 provider:

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.axios.com/refraction-ai-grocery-delivery-autonomous-ann-
 cdnAmpWebUrl: "https://www-axios-com.cdn.ampproject.org/c/s/www.axios.com/refraction-ai-grocery-delivery-autonomous-ann-arbor-611e65fa-65d7-4b30-a8d4-de1b85c720fb.html"
 type: article
 quality: 74
-heat: 75
+heat: 74
 published: true
 
 provider:

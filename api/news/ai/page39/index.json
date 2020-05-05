@@ -2,35 +2,6 @@
   "page": 39,
   "value": [
     {
-      "path": "_news/2020-03-26-image-recognition-market-size-worth-1094-billion-by-2027-cagr-188-grand-view-research-inc.md",
-      "title": "Image Recognition Market Size Worth $109.4 Billion by 2027 | CAGR: 18.8%: Grand View Research, Inc.",
-      "excerpt": "The global image recognition market size is expected to reach USD 109.4 billion by 2027, according to a new report by Grand",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.benzinga.com/pressreleases/20/03/n15669680/image-recognition-market-size-worth-109-4-billion-by-2027-cagr-18-8-grand-view-research-inc",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/15669680",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15669680",
-      "publishedDateTime": "2020-03-26T01:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-03-26-coronavirus-pandemic-deep-tech-startups-pitch-in-with-chatbots-machine-learning.md",
       "title": "Coronavirus pandemic | Deep tech startups pitch in with chatbots, machine learning",
       "excerpt": "From powering the MyGov Covid19 chatbot to helping airlines deal with waves of cancellation request, AI startups step up their game",
@@ -1188,6 +1159,44 @@
       "topics": [
         "AI",
         "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2020-03-25-how-to-run-tensorflowjs-on-a-serverless-platform-reusing-models.md",
+      "title": "How to run Tensorflow.js on a serverless platform : reusing models",
+      "excerpt": "In a previous article, we introduced neural networks and TensorFlow framework basics. Today, we present how to convert models developed with Python TensorFlow for use with TensorFlow.js ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/warpjs/how-to-run-tensorflow-js-on-a-serverless-platform-cbdfe9e733b7",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-25T04:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "TensorFlow"
       ]
     }
   ],

@@ -50,7 +50,7 @@
       "path": "_news/2020-05-04-intel-buys-moovit-because-self-driving-cars-cant-be-everywhere.md",
       "title": "Intel buys Moovit (because self-driving cars can’t be everywhere)",
       "excerpt": "Intel has acquired Moovit, splashing out around $900 million on the public transit planning app, with plans to integrate it into what until now has been the chip-maker’s autonomous car",
-      "heat": 84,
+      "heat": 85,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.slashgear.com/intel-buys-moovit-because-self-driving-cars-cant-be-everywhere-04619208/",
@@ -88,50 +88,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-04-a-critical-review-of-star-wars-ai.md",
-      "title": "A critical review of Star Wars AI",
-      "excerpt": "Spoiler Alert! This article has spoilers for just about the entire Star Wars universe. Read at your own risk! When it comes to fictional portrayals of artificial intelligence technology, the Star Trek universe stands head and shoulders above all others.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/05/04/a-critical-review-of-star-wars-ai/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/05/04/a-critical-review-of-star-wars-ai/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/05/04/a-critical-review-of-star-wars-ai/amp/",
-      "publishedDateTime": "2020-05-04T12:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2017/08/Sphero-Star-wars-r2-d2-bb-9e-796x424.jpg",
-          "width": 796,
-          "height": 424,
-          "title": "A critical review of Star Wars AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     },
@@ -1068,7 +1024,7 @@
       "path": "_news/2020-05-03-the-easy-questions-that-stump-computers.md",
       "title": "The Easy Questions That Stump Computers",
       "excerpt": "Computers do. It’s no wonder that commonsense reasoning emerged as a primary concern of AI research in 1958 (in a paper titled “Programs With Common Sense”), not long after the field of AI was born. “In general,",
-      "heat": 75,
+      "heat": 74,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.theatlantic.com/technology/archive/2020/05/computers-common-sense/611050/",
@@ -1106,6 +1062,50 @@
       ],
       "topics": [
         "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-03-adidas-is-using-ai-and-3d-printing-to-cope-with-a-plunge-in-sales-during-the-coronavirus-pandemic.md",
+      "title": "Adidas is using AI and 3D printing to cope with a plunge in sales during the coronavirus pandemic",
+      "excerpt": "German sportswear giant Adidas plans to bolster its lagging performance by shifting strategy to focus on its digital platform.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businessinsider.com/adidas-ai-3d-printing-coronavirus-sales-plunge-2020-4",
+      "ampWebUrl": "https://www.businessinsider.com/adidas-ai-3d-printing-coronavirus-sales-plunge-2020-4?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/adidas-ai-3d-printing-coronavirus-sales-plunge-2020-4?amp",
+      "publishedDateTime": "2020-05-03T04:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.insider.com/5eaaeae442278d66c5040b96?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": "Adidas is using AI and 3D printing to cope with a plunge in sales during the coronavirus pandemic",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     }

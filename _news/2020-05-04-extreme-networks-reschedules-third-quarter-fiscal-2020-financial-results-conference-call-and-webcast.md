@@ -1,28 +1,28 @@
 ---
 category: news
 title: "Extreme Networks Reschedules Third Quarter Fiscal 2020 Financial Results Conference Call and Webcast"
-excerpt: "Extreme Networks, Inc. (Nasdaq: EXTR), a cloud-driven networking company, today rescheduled it plans to release financial results for its third fiscal quarter"
+excerpt: "PRNewswire/ -- Extreme Networks, Inc. (Nasdaq: EXTR), a cloud-driven networking company, today rescheduled it plans to release financial results for its"
 publishedDateTime: 2020-05-04T11:05:00Z
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/extreme-networks-reschedules-third-quarter-fiscal-2020-financial-results-conference-call-and-webcast/article_0e5c3708-42e0-5f4f-a617-87fb070635b8.html"
+webUrl: "https://www.prnewswire.com/news-releases/extreme-networks-reschedules-third-quarter-fiscal-2020-financial-results-conference-call-and-webcast-301051574.html"
 type: article
 quality: 9
 heat: 9
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/8/3a/83af44f5-0ae0-58c7-8e66-64a2b59c9fce/5eaffd1588a88.image.jpg?resize=400%2C400"
-    width: 400
-    height: 400
+  - url: "https://mma.prnewswire.com/media/378309/extreme_networks_logo.jpg?p=facebook"
+    width: 1000
+    height: 524
     title: "Extreme Networks Reschedules Third Quarter Fiscal 2020 Financial Results Conference Call and Webcast"
 
-secured: "mZXArHYNDW6xNh1aopSTFlw8P8KW/RyCKgCIXCvhhgJ9McDGlKrP632rZv5CLODfUof4Jqzk7dfM/Gu9wwsHX3mAjogft7Tt2Q8Aysoa/MyAYS/ExvFL3r2dDuZxAfxW2Cm0x7eUBv71PUSwtYBJ3Zoi/5p6mfu3WlHFQsJyyFlfy6c1lGCaxfEdcY0REisZGUrl3BdUw6951LsVfua6rmaKl625StjOF8ZzVVVEi2L/yNbJ7pwav/jyQTvc+Hp3qrKU6LxkjWkS/eVda3P0YWHVZ3+coo4V6l4zembqEx5fkEswQzbjwTLNVFcHpHOw;XSCZ3Zp0TwHDZ7XKekzFXA=="
+secured: "1mIztkdPWvkyVczlKS4271DO0VNWkmervz4tuaYR1bF+Gz6R1aNajMplNWhGEO7pj7FQJ7pXZHJQKot5MzfT/g0tcs4/VrE13RIvNQW7Ezj6vcg/o5z7/NQoD31mDcoT+MbtCe8uCe/o//bhFke9aATxvH+tHs+J83E57xGzrziK2XOXhd3U9Go77QWpiAsSc0U9DhgvNf0+t227NW/9jXzxhTJn3mSEbrfWJ3e22Cuz6rsTP7JPuD9MlgVKvvsO7MgF490YvzVP+E9Pxkl7ORTKCc633Vx7tBk3bs4AE27czZstE81Cc8SyLGXCsNxB;8IsUuS1JhwbAWL59F02kXw=="
 ---
 

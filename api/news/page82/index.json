@@ -2,50 +2,6 @@
   "page": 82,
   "value": [
     {
-      "path": "_news/2020-02-21-ai-nightmares-in-the-uncanny-valley.md",
-      "title": "AI Nightmares In The Uncanny Valley",
-      "excerpt": "San Francisco's de Young museum looks at what it means to be human in the age of AI with its newest exhibition, Uncanny Valley, presented by the Andy Warhol Foundation, Charles Schwab, Chronicle Book's founder Nion McEvoy,",
-      "heat": 97,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/martineparis/2020/02/21/dirty-data-predictive-policing-and-other-ai-nightmares-in-the-uncanny-valley/",
-      "ampWebUrl": "https://www.forbes.com/sites/martineparis/2020/02/21/dirty-data-predictive-policing-and-other-ai-nightmares-in-the-uncanny-valley/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martineparis/2020/02/21/dirty-data-predictive-policing-and-other-ai-nightmares-in-the-uncanny-valley/amp/",
-      "publishedDateTime": "2020-02-21T14:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e4f28a0765d4500072cd574%2F0x0.jpg",
-          "width": 968,
-          "height": 632,
-          "title": "AI Nightmares In The Uncanny Valley",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-02-21-google-launches-tensorflow-library-for-optimizing-fairness-constraints.md",
       "title": "Google launches TensorFlow library for optimizing fairness constraints",
       "excerpt": "Google AI today released TensorFlow Constrained Optimization (TFCO), a supervised machine learning library built for training machine learning models on multiple metrics, and “optimizing inequality-constrained problems.” The library is designed to help address issues like fairness constraints and predictive parity and help machine learning ...",
@@ -1079,6 +1035,35 @@
       "topics": [
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-20-expert-advocates-robotics-training-for-pupils-teachers.md",
+      "title": "Expert advocates robotics training for pupils, teachers",
+      "excerpt": "It will help our economy because we need to start preparing our pupils for the future ... He said, “Whether we are ready or not, the fourth industrial revolution which is about AI robotics is about to stay. it is better we key into it and I think we have started at the right place, which is to educate the pupils in primary and secondary ...",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://punchng.com/expert-advocates-robotics-training-for-pupils-teachers/",
+      "ampWebUrl": "https://punchng.com/expert-advocates-robotics-training-for-pupils-teachers/amp/",
+      "cdnAmpWebUrl": "https://punchng-com.cdn.ampproject.org/c/s/punchng.com/expert-advocates-robotics-training-for-pupils-teachers/amp/",
+      "publishedDateTime": "2020-02-20T15:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Punch Newspapers",
+        "domain": "punchng.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
       ]
     }
   ],

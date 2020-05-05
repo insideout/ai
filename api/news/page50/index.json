@@ -2,51 +2,6 @@
   "page": 50,
   "value": [
     {
-      "path": "_news/2020-03-24-miso-robotics-deploys-ai-screening-devices-to-detect-signs-of-fever-at-restaurants.md",
-      "title": "Miso Robotics deploys AI screening devices to detect signs of fever at restaurants",
-      "excerpt": "Miso Robotics, a startup developing robots that can perform basic cooking tasks in commercial kitchens ... can boost productivity by working with humans as opposed to wholly replacing them. Miso AI, Miso’s eponymous cloud-based platform, orchestrates the prep of over a dozen food items, including chicken tenders, chicken wings, tater ...",
-      "heat": 123,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/03/24/miso-robotics-deploys-ai-screening-devices-to-detect-coronavirus-covid-19-fever/",
-      "ampWebUrl": "https://venturebeat.com/2020/03/24/miso-robotics-deploys-ai-screening-devices-to-detect-coronavirus-covid-19-fever/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/24/miso-robotics-deploys-ai-screening-devices-to-detect-coronavirus-covid-19-fever/amp/",
-      "publishedDateTime": "2020-03-24T02:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/01/FlippyROAR_IMAGE-1-e1579804235265.png?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Miso Robotics deploys AI screening devices to detect signs of fever at restaurants",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-03-24-natural-language-processing-nlp-market-what-are-the-main-factors-that-contributing-towards-industry-growth.md",
       "title": "Natural Language Processing (NLP) Market- What Are The Main Factors That Contributing Towards Industry Growth?",
       "excerpt": "The Global Natural Language Processing (NLP) in Healthcare and Life Sciences Market was valued at USD 1.12 billion in 2016 and is projected to reach USD 6.24 billion by 2025, growing at a CAGR of 21.02% from 2017 to 2025.",
@@ -1071,6 +1026,51 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-23-university-students-are-learning-to-collaborate.md",
+      "title": "University Students Are Learning To Collaborate",
+      "excerpt": "Penn State’s Nittany AI Challenge is teaching students the true meaning of collaboration in the age of Artificial Intelligence.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/03/23/university-students-are-learning-to-collaborate/",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/03/23/university-students-are-learning-to-collaborate/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/03/23/university-students-are-learning-to-collaborate/amp/",
+      "publishedDateTime": "2020-03-23T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e7528552a573300068fe6fb%2F0x0.jpg",
+          "width": 1000,
+          "height": 668,
+          "title": "University Students Are Learning To Collaborate",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
         "AI"
       ]
     }

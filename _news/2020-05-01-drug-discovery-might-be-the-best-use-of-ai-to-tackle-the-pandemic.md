@@ -8,7 +8,7 @@ ampWebUrl: "https://thenextweb.com/neural/2020/05/01/drug-discovery-might-be-the
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/05/01/drug-discovery-might-be-the-best-use-of-ai-to-tackle-the-pandemic/amp/"
 type: article
 quality: 87
-heat: 88
+heat: 87
 published: true
 
 provider:

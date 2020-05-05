@@ -2,44 +2,6 @@
   "page": 63,
   "value": [
     {
-      "path": "_news/2020-03-13-the-evolution-of-artificial-intelligence-and-future-of-national-security.md",
-      "title": "The Evolution of Artificial Intelligence and Future of National Security",
-      "excerpt": "Artificial intelligence is all the rage these days. In the popular media, regular cyber systems seem almost passe, as writers focus on AI and conjure up images of everything from real-life Terminator robots to more benign companions. In intelligence circles, China’s uses of closed-circuit television, facial recognition technology, and other ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://nationalinterest.org/feature/evolution-artificial-intelligence-and-future-national-security-133032",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-13T13:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The National Interest",
-        "domain": "nationalinterest.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://nationalinterest.org/sites/default/files/main_images/2019-12-23T111943Z_1_LYNXMPEFBM0MR_RTROPTP_4_CHINA-INTERNET.JPG.jpg",
-          "width": 1386,
-          "height": 924,
-          "title": "The Evolution of Artificial Intelligence and Future of National Security",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
       "path": "_news/2020-03-13-robotics-vs-artificial-intelligence-what-is-the-difference.md",
       "title": "Robotics Vs. Artificial Intelligence: What is the difference?",
       "excerpt": "We answer this fundamental question. Robotics and artificial intelligence serve very different purposes. However, people often get them mixed up. A lot of people wonder if robotics is a subset of ...",
@@ -1013,6 +975,44 @@
       "topics": [
         "Computer Vision",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-13-tensorflowjs-now-has-a-webassembly-backend.md",
+      "title": "TensorFlow.js now has a WebAssembly backend",
+      "excerpt": "Faster machine learning in the browser: TensorFlow.js combines ML and JavaScript, and now the open source library works with a brand-new WebAssembly backend! It offers an alternative to the WebGL backend to provide benefits in certain use cases.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://jaxenter.com/tensorflow-js-webassembly-169654.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-13T03:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "jaxenter.com",
+        "domain": "jaxenter.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://jaxenter.com/wp-content/uploads/2020/03/TensorFlow-WebAssembly.jpg",
+          "width": 600,
+          "height": 400,
+          "title": "TensorFlow.js now has a WebAssembly backend",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "TensorFlow"
       ]
     }
   ],

@@ -8,7 +8,7 @@ ampWebUrl: "https://amp.theatlantic.com/amp/article/611050/"
 cdnAmpWebUrl: "https://amp-theatlantic-com.cdn.ampproject.org/c/s/amp.theatlantic.com/amp/article/611050/"
 type: article
 quality: 74
-heat: 75
+heat: 74
 published: true
 
 provider:

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.techspot.com/amp/news/85073-intel-tweets-photo-biggest-w
 cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/85073-intel-tweets-photo-biggest-weirdest-gpu-ever-made.html"
 type: article
 quality: 89
-heat: 89
+heat: 90
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     height: 1110
     title: "Intel tweets a photo of the biggest and weirdest GPU ever made"
 
-secured: "YHnMBgvjuZju9S7MMRJ4N6Mtl3qT4/TEU4bJqFJggVDMfabQen6JBsEakC49xm3Q9EjQw17Tqb9W8TWTX64+RH9Yd3tDAu/N0U9927FLpJrafgKHWcsde9uMBjNudJyyLL2Pfak8V9r52HTtVx1bRXsIk1/GMfSvoSMN9VVyo5N2KpOOQZvIPm5vUAcv3Y5GyO7gCAIcZtSsk0ejOWwuYN+FHp2D2TLd3bX786EzCTO2V6PIraZLQjXyIlx0blKTlhWzAoUAxvEX7UCnP6H/K02cHE3FW9hfvCojbq+M/NuMyGpByg1n7lK8yKolpNL96EUdQ3O5whmMTOfBEDqMRPzMxKo6NFhuukA6PiDnIyVuA7WuD1+X/ACI8HjUels3Ink5Liy7cpdH9wJhCnAnCUC3gg4g+SCMII6Fsu4nqq5MCoZGDw3/5eaCOd9OaxWRHQcjTc8jbOIph7uVh050s6VVcqK9lFsoRx/W7LBQbxI=;/ASKZaPubqBzJtggNITUJg=="
+secured: "w6c5CZLYlxX9iXrvhtopiFgQUX3WJB/Rpt7Q0YNJMLGzZ+7+bpaEaDg54V/zclgVhlK1h5aAB4IuT9wRu/Eh/X2GClWYUFLaj1w5wEJf0OFYTaE0fKCVpCVHjBiSdIihtEBxUEtQ5l4TwaLsVHCWCQ8Z6uh26v3qINaEDJO9pW22pDjOHp7EbO/6pEZ9AD+rxN1UlfP2xiCcOwXnSq/Dnh2hIhdA0lF/pJ/BL4A6d4deKKhNOPGF9PXlllCKpVrEL3sZkSXw8wqQhWYyDnqB4P4+veT8YqzW9Ih7rCkN7j0DUDilDOZ8mSS6rVPw8Kcdit5msJNJt9YAbd3rjmvwVb8bYODbHJPyaBDJSOFlbyqcFGPd6KuF4inRtZStd8Oo+R+kie9wsmvi9V7He6G7ivXbI49ULbtmGGbrzdEeI30IIZrKrHcN3YWRDmdYWPTgg37xUADh3saqmXZ/W8YaHvL9My/yIRzGV2u6iIElbnQ=;l+ItSHbfa1Gg9fmsCiHRgQ=="
 ---
 
