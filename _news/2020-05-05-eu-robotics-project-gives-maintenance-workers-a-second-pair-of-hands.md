@@ -29,6 +29,6 @@ images:
     height: 647
     title: "EU robotics project gives maintenance workers a ‘second pair of hands’"
 
-secured: "a9p8/AQRIsdruCZqM1Ex4SRg/YzXAA3q1X2DdWM3sgcapa//pI+6L9BO7NoNm8T4gm0d/vmS+ccK2gDs1NxgwBI19aX7+P/byegghLf78Jn0/ff2jxEmF/px4Dl2Z7ijxMczPr2C+NNTni8UI0zmaSLLvNFn26Z+TcJtLvpwGL32sjLbZW3NgSC19J9hjsKaa83IuH9dQcryy7f6yxQsM8h6aaxjxE+dxKc7W/IRPJ7BojnyWr5/IWI9FKbPoJQzWPSeZcT5ktLuRrQ9KLDxeK/K7F8L7/UsHRCwW8j1gpfmac+CnCefVyH4BVleW2Nv;lJCDBH6ILEehrVipcRSGJA=="
+secured: "hPvSubBhOttiBMXUaxY+vbIXUOMjId2MqA3JT6pJRaGCvUPa9KNxKI5UxxyiYTbgRC4pm1dwJAbXV43PC7eCqGuLcn7fQgmKanTXBU6Jgp0gh4+6jQaqR+TrBKrxqScyAy04dUrCeg4Cn5jqvl445sDIoLMSCikdjIGsVvdml++jHa5J7wBA4xYnKbRpsNOxPHTXazsyCLxmlQxS8dB/kV6dfUlhNQ+RRMg0oRbux/i4w6pf8ZEnSJdFeB/RrE/DhJRurWNBGrR29AD8QmtzIIqXP/14qYOgFxW9mZogmWmHQKwafbSpqF5b7YtokebzSks1YPRp1zeSfCbFCIYeajCe0OcEyo+LNdEQ3ncYweSQOJRD44SUYRtL9dHAlklW/qatWz1k0TMBkPqr2hNh8RR09+9RJWbyuljv8pCrekG13UDNM3ZT+eOAN1umlF24UuG4RMr5RHHoXAy35nYQSsFTNfEqwVJwiAvQOfZ/aGg=;u0m6LGE60t4cxOtpEtuNyw=="
 ---
 

@@ -25,6 +25,6 @@ images:
     height: 667
     title: "Proof-of-concept open-source app can cut'n'paste from reality straight into Photoshop using a neural network"
 
-secured: "7c5KzpOHmkVsltwXADnM/XhXYcki8nU4ww+wH43sVm7ehI5bh/BjtCmZgHG4Zbn5sOO7kuF0Y91AyvnqCsCCmco5rumKyqPeX+iifd+IgNHlCjVDtfGh5uOCLasKl/lobQw4witCAk/ZkzkK2+Ofe/06hFMILjUiE/QP0pf4i2mefaEFf8pgp952xr50i/FPekxlmnBNZEdbevs2lBHQc/TiecBPoit59I/edb+F+1q186mzMamSDL+7Vu2CQlyWZYPRaau+PTkufo0WitVTpH/lAgXWRLNcA43A74F9KcwHyO9xRx9p2eCbqddbN+pw;55ftk0S8QDnaTKVNZUd8Iw=="
+secured: "G0zO2GjDLR8kqL8GBWMEEw5eGU9zTnOAIAw5qqaY3HmWxGQUsY5czcw6sk7b9riM6An7SXHdUShf6+DAcGba5D2vBPLW19gGCqOHrsefYUdVCcsBC+XiffD7mMAYsZ/RBIyxAezDhjC2qOhiR3IATxrb/LwYNDGgBItO+i+rMM/ZB1nCHURP2G21tN4MpNatLCasQDTH8Fagxnq+4wI+1CEnS+oJ8pS5LetFWpk2ncPBbssSmWLZoefkNuxkjvc+6mYxghQf6JCuXTyxU/TYaFNmzk2wr+vncMKaFT/wucP5RZeZ9kyMmWdzkB4XNhTctl9LVroNxWAxjO2BQ2u3kPTr4uxxza6wUYyi1wRTg9utdWbDznUED/g+ilH1d/D2C/a3WmNkTasBI6pagaDHkyGOAIBpOvs+MJUMEo/GHo4xTsOLHRu6gvS4/xEshW9nZEiIhC8d7Yz8S0LDVBEs9qViVCMAYPV9aqvkpgBY6R8=;t44U92hubrXFgCUFeGBlOQ=="
 ---
 

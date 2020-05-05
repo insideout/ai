@@ -7,8 +7,8 @@ webUrl: "https://www.wired.com/story/relentless-startup-fast-tracking-fords-self
 ampWebUrl: "https://www.wired.com/story/relentless-startup-fast-tracking-fords-self-driving-cars/amp"
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/relentless-startup-fast-tracking-fords-self-driving-cars/amp"
 type: article
-quality: 72
-heat: 72
+quality: 76
+heat: 76
 published: true
 
 provider:
@@ -21,6 +21,8 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
+  - AI in Robotics
 
 images:
   - url: "https://media.wired.com/photos/5eb0b525d1f9c7765dcdadbe/master/pass/Backchannel-Argo-Selesky_6564.jpg"
@@ -28,6 +30,6 @@ images:
     height: 1600
     title: "The Relentless Startup Fast-Tracking Ford’s Self-Driving Cars"
 
-secured: "0qawlsegIDz9oeAK8zvbLsYgVkOoWzl0IMfujIrJ/uB54hxUt2f2yX6P9OmZtLeA0iRDYbB2TqL+7bcmyIuUcPBAnQk7kgBU7vUUvpLhVAtbB8EK+ICGW202tZwLvO640XLxQEFdnJi+BkWEbSX/JDJhydBom/YzIR7jnbfhi6zewLEPiDi5tDJ6aoYpmjw990GVXS73ydespymkGYSfsONj9uiZBbh2Tj+MZ6RdvlmMKH0qQuuOeA9Ty1RkVMYp0l0UKirN/IJ69VvUeQKSj1gi7VzIf74XId/U4I4nQM+2/+BlzBEU/MLmvQGOdX6c;Ui8iJ84REXp0XT0ujUmvfw=="
+secured: "LPjInhfcXLlQK0l2EK16I621N4+pCUFoD215KHMPyXfo2V9LtIyUobvbBHyjC4X99mH75k2y/Dtltuo2YnybTLeKE6p/6QKyLa43ntnc17eFr9W5jrx6XN3dMIUUps/oiFv/i9C3NjRB9T7lex7B5Dfo0J3VX0CRhU2Mwi0GTtfl8/PhOC3Cpd00RHRTkB7XuuDRFAuONRiaRWJz90MScoCdFTcF504ONh3cQtkWEAklRgxqjU8mmFhpTwGULrElsQKg21IbtJ6Resbq32F79LqYa/H3mP+3f3PF3L+H1mryI2WlCdoJqIgzNF6agUWTbfCUyS/Tw2xk8jiWafUzNcYzvtitw7rD9sgLRATAMj7m44OQHqGWC5TQ5c4Q+1zSNLBJhdEQxP2ywQxo0fUeWWqmq1uV27b4bWO1V/NZRhriHHCkRu5uRCvIQy7IGO0bXHISSpxsZBcqa74ka869yJx8fVzVO+ZnPl11AQdBOXI=;RdVRSq9BRkz4QHbioABO/g=="
 ---
 

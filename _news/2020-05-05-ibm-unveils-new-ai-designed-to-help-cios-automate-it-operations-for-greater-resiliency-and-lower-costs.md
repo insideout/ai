@@ -50,6 +50,6 @@ related:
       domain: zdnet.com
     quality: 72
 
-secured: "TVvkFkq+lEmoLCIdBYMl55EHKxeaK1CZKbxDT8sdDbNXdmnrfdUzzzkW8oTh1+JDh/y0i8ccqbAfGy6h08v0QQ+BdSea2+PT2epLZ9xC1bgUHeD5ObJH7EL4YOfJIEaGcVZG61zMOQFVV8jJ+8NXlymVvLn7vg0Q2JO5v7Agxliid3L1bbNstUGE5tHjZMXZVHfjihktjGKvID/oJIPWRoZ3eAmvMHtCEdMEC9CvXsKcxLBgQI+uYJqKqf1Sq6laFeJCqQcDhZx8Rc7jxDsb0k4/8KLCAlGFPFa1TN7ZOyMM99kVEzyGawPiqJQw3nYx;xeKgzXo+KCaDyejAud+ySw=="
+secured: "jK+dsk6mTRNhmW/2UeX4CSscocgdo97iOtUXcA/SDWLfd7xlYLaJBk/75Yx+lWFxJ547gs2tCyctyk4VLh/hGKQHHRle/YiiAJVbgPd5xGvkzB+X87FXrBjosmkBhcHXVreVZ2MlbKGnlGnxVCYGUSiZSrFIeDJEoREbXl8A3dqTVREfyooC1oRDLKUMCBIdn/Glxz8KFQIZXtyX4qT2qyLKJKvSY6AGPbPHjIqZ/Z5Cn6YTy+cTRrZyTUUrroLl2p5X8EU0YoU3jM1E0tDyof8oHBhE6s8Ojxwz1lMp6tS4Er7fMi2gWgr2ZVkEu+gq;hQMWut9mYXx0Xkvf9HEyAQ=="
 ---
 
