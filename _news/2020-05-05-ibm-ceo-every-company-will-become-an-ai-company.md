@@ -3,9 +3,9 @@ category: news
 title: "IBM CEO: 'Every company will become an AI company'"
 excerpt: "In his first keynote since taking the reins last month, IBM CEO Arvind Krishna doubled down on the firm’s commitment to artificial intelligence (AI) as a foundational technology for the future. At the company’s virtual Think Digital event,"
 publishedDateTime: 2020-05-05T17:03:00Z
-webUrl: "https://www.techradar.com/au/news/ibm-ceo-every-company-will-become-an-ai-company"
-ampWebUrl: "https://www.techradar.com/au/amp/news/ibm-ceo-every-company-will-become-an-ai-company"
-cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/ibm-ceo-every-company-will-become-an-ai-company"
+webUrl: "https://www.techradar.com/news/ibm-ceo-every-company-will-become-an-ai-company"
+ampWebUrl: "https://www.techradar.com/amp/news/ibm-ceo-every-company-will-become-an-ai-company"
+cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/ibm-ceo-every-company-will-become-an-ai-company"
 type: article
 quality: 89
 heat: 99
@@ -40,12 +40,12 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 87
+    quality: 89
     images:
       - url: "https://zdnet3.cbsistatic.com/hub/i/2020/05/05/61a2f05e-fe78-4f50-9c91-368e63cfd3fc/ibm-krishna.png"
         width: 708
         height: 534
 
-secured: "k7FhHRONViS5GXZB6q1lZAaNr58loX6aOGkLBtzu/mZ7cFCfbWAhJAzaRJrFS7C470COP7qDYD9Yaql5LbDtWOQXo/xOk2coRsXx13mx0ajDmAfEM9cQQUmW7vmh5yLxXIE7tgsc5wDr20kLsiyYu2kruEyvKHF/6hBY25Z2bT+jjfTGLxq3ftWd2gNQD14nm2T0bL563e+qLd97gjZefM1cq0jvtZwdoHTCgWINyJdKo6aYIvwala2RU2chI3/Q60yKe4ntDVkOJZHN/a32/F+ysroIbbwsTTmxb/tNKkM5j+kwqer7fS2Lpr5uR+mN;injWSN15v5tr9QMkexjjjQ=="
+secured: "AQK5qPXAD/tSvNQxIj8GaMhcQNoS/itXfLY7mU720u7D3xbVjxlK3h9CTOD0dkdg//61d6A/BnRaHNMBhTDvKfxAtNIyE9ZEWdkywKu4dysdmPG2CxfIfcUh/K00sW6HakKo8GOm9T/1KR1MuupViAw9t3Q79ddtAyGyGBgEKqTP6a1lQ+yaHaidYFm5v66DFHTcI9tsl7hHORwOFV+FJXfMXEBWP+ikt+7LIDxdv/LfFRhYZpisERH83x/hDlLKb0Qacz/G7l3pN2xch5a9HzF5zaz/P301s6ggwXfFGYyvNKv7T+MsyJQXLvhsoRkm;VVZJteDQUkSZhTYy51a8lQ=="
 ---
 

@@ -25,6 +25,6 @@ images:
     height: 576
     title: "Freedom of Speech Award laureate Darvinson Rojas: 'What we need is more journalists on the streets'"
 
-secured: "POlJlq4JM/MT4imLPAFVNPtWAxTwo47f6mO9GBYTWQCRuXuj0475K7EiGg1AIcXrYnFIrUFShUx+0qua7OwTeIzKtPlGyiIc4gR1qD9Zf14dzn0LF/6xKd3uoWi3GcpS2uXObUei7EnyhrAeyXW8R64EixLykxoJv2VE7RlyvyXD9uovKMmQipQC2zfsD2s+NL+9J1xPFjBkaktPHCMf+X4KZLdP04VZSVKYcmZpG9FXa32oXLCHpCvkKyaXTcvh4zH/SjE14PmQ2rPLzwjZEQ6zPeA5xdrkiUKYfrcG/twrcnCW8RYVhwJYPX7DEAya;8EjH5Dp39OVa3mByimmkTg=="
+secured: "Aj98Xa0WpIBxRegQCbkqcxzzcp+EpM0q/LSRPLja3RNfDPDsvLSczvLOW9vLrHdAyXVe7A6+Qp3T+y2vDx56w7aSTjXVlmd2v1hlfdDE4sXn6FZKiCw+RpN/bRkc6V6uwfIB/e7K0xqoLQeB30rru/w6/6B6Gd3fTM0Tbdcuib3/xwM5kP5ChT7ZPmkoAQL6zs178yTynUng2BqxyROAu9/6uQCuJl1zu0wIN18EZGehZ3KmjsF05gKv7kDSvBN8qvi9b7yv2i9sXxHeyodxOTsfgtkJe0fjzwXFNTtHqU9TC5y2rYg/3eQMhpBVNeUSx9R+XvOWh0g5e3Yw24YuK+7fc4A3mL7qFl3w+ciNDKvTvSWLZAspIaOzvpl9jdGFUQDyIC8mAXcTCqFTOXUA+uYbpNT6x5oX21tN+gBgcM+TZTVToqdFwJk0/a8FBzd+QlVwlR9j+Zp5m+GfboHTOhwx/zBxp9aRrANe/vPP9lY=;V1VJmInYFIzP+LpDlI3W9g=="
 ---
 

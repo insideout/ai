@@ -2,6 +2,95 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-05-05-australian-military-gets-first-drone-that-can-fly-with-artificial-intelligence.md",
+      "title": "Australian military gets first drone that can fly with artificial intelligence",
+      "excerpt": "Boeing has presented the Australian Air Force with a prototype of a jet-powered drone that they hope will one day fly alongside manned warplanes.",
+      "heat": 93,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnn.com/2020/05/05/asia/australia-loyal-wingman-drone-intl-hnk/index.html",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/05/05/asia/australia-loyal-wingman-drone-intl-hnk/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/05/05/asia/australia-loyal-wingman-drone-intl-hnk/index.html",
+      "publishedDateTime": "2020-05-04T22:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200505095706-boeing-australia-loyal-wingman-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": "Australian military gets first drone that can fly with artificial intelligence",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-05-deep-learning-chip-market-size-to-accrue-58317-million-by-2025.md",
+      "title": "Deep Learning Chip Market Size to accrue $ 5831.7 million by 2025",
+      "excerpt": "Growth forecast report \" Deep Learning Chip Market size by Product Type (Data Mining, Image Recognition, Signal Recognition",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-chip-market-size-to-accrue-58317-million-by-2025-2020-05-05",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-04T22:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Deep Learning Chip Market Size to accrue $ 5831.7 million by 2025",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-05-omilia-raises-20m-to-use-conversational-ai-for-customer-support.md",
       "title": "Omilia raises $20M to use conversational AI for customer support",
       "excerpt": "Omilia, a company headquartered in Greece that has built a conversational AI for customer support, has raised $20 million in its first ever funding round, having been bootstrapped since 2002. Backing comes from Grafton Capital and will be used to invest in further growth,",
@@ -997,95 +1086,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-04-navy-releases-ufo-videos-ai-self-driving-cars-might-solve-these-mysteries.md",
-      "title": "Navy Releases UFO Videos, AI Self-Driving Cars Might Solve These Mysteries",
-      "excerpt": "The stated reason for the Department of Defense (DoD) opting to release the videos consisted of wanting to set the record straight about the authenticity of the videos, doing so because the videos had prior been surreptitiously leaked,",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/05/04/navy-releases-ufo-videos-ai-self-driving-cars-might-solve-these-mysteries/",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/05/04/navy-releases-ufo-videos-ai-self-driving-cars-might-solve-these-mysteries/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/05/04/navy-releases-ufo-videos-ai-self-driving-cars-might-solve-these-mysteries/amp/",
-      "publishedDateTime": "2020-05-04T08:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F140238060%2F0x0.jpg%3FcropX1%3D416%26cropX2%3D4838%26cropY1%3D0%26cropY2%3D3318",
-          "width": 1200,
-          "height": 900,
-          "title": "Navy Releases UFO Videos, AI Self-Driving Cars Might Solve These Mysteries",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-05-04-theres-more-to-usability-in-ai-and-iot-than-you-think.md",
-      "title": "There's more to usability in AI and IoT than you think",
-      "excerpt": "You think your app is usable, but there are more things you should think about before launch. Here are five key questions to ask yourself about your AI or IoT project.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/theres-more-to-usability-in-ai-and-iot-than-you-think/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/theres-more-to-usability-in-ai-and-iot-than-you-think/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/theres-more-to-usability-in-ai-and-iot-than-you-think/",
-      "publishedDateTime": "2020-05-04T08:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/02/03/ec657806-e8cc-4b44-9b4e-2b9f1eb7583c/thumbnail/1200x675/c0eadaba26f5c428f78e4dc438118cea/20200131-menezes-bill.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "There's more to usability in AI and IoT than you think",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

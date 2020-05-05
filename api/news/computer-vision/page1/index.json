@@ -174,6 +174,35 @@
       ]
     },
     {
+      "path": "_news/2020-04-30-face-recognition-behind-a-mask.md",
+      "title": "Face Recognition Behind a Mask",
+      "excerpt": "Although putting on a mask over your nose and mouth is one of the easiest ways to protect yourself and others from Coronavirus, face masks may be subtly (and not so subtly) interf",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.psychologytoday.com/us/blog/illusions-delusions-and-reality/202004/face-recognition-behind-mask",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-30T08:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Psychology Today",
+        "domain": "psychologytoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-30-with-ios-135-public-beta-2-face-id-can-recognize-when-youre-wearing-a-mask.md",
       "title": "With IOS 13.5 Public Beta 2, Face ID Can Recognize When You're Wearing A Mask",
       "excerpt": "The iOS 13.4.5 Public Beta cycle had been anything but normal. First, developers got the beta a week before Public Beta testers (that usually only happens when a brand-new version of iOS is released).",
@@ -477,43 +506,6 @@
           "width": 1200,
           "height": 800,
           "title": "Apple iPhone 12: How This Security Feature Could Solve The Face Mask Problem",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-28-intel-released-10nm-wireless-5g-base-station-chip-wimi-releases-ar-ai-vision-cloud-services.md",
-      "title": "Intel Released 10nm Wireless 5G Base Station Chip, WIMI Releases AR + AI Vision Cloud Services",
-      "excerpt": "According to foreign media reports, Intel recently launched a series of software and hardware products, including a 10nm process of wireless 5G base station chip –",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.benzinga.com/pressreleases/20/04/ab15891711/intel-released-10nm-wireless-5g-base-station-chip-wimi-releases-ar-ai-vision-cloud-services",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/15891711",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15891711",
-      "publishedDateTime": "2020-04-27T18:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.ibb.co/wKrcfG1/1.png",
-          "width": 554,
-          "height": 369,
-          "title": "Intel Released 10nm Wireless 5G Base Station Chip, WIMI Releases AR + AI Vision Cloud Services",
           "attribution": null
         }
       ],

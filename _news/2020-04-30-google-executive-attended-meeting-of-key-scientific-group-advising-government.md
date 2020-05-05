@@ -1,25 +1,25 @@
 ---
 category: news
 title: "Google executive attended meeting of key scientific group advising Government"
-excerpt: "Demis Hassabis is the co–founder of DeepMind, Google’s London-based artificial intelligence arm, which it acquired in 2014. The British artificial intelligence researcher was present for one ..."
-publishedDateTime: 2020-04-30T14:35:00Z
-webUrl: "https://www.thetelegraphandargus.co.uk/news/national/18417819.google-executive-attended-meeting-key-scientific-group-advising-government/"
+excerpt: "A senior Google executive responsible for its AI efforts has taken part in the Government’s coronavirus scientific advisory group for emergencies (Sage), the tech giant has confirmed. Demis Hassabis is the co–founder of DeepMind,"
+publishedDateTime: 2020-04-30T15:27:00Z
+webUrl: "https://www.thisislocallondon.co.uk/news/national/18417819.google-executive-attended-meeting-key-scientific-group-advising-government/"
 type: article
 
 provider:
-  name: Telegraph & Argus
-  domain: thetelegraphandargus.co.uk
+  name: This is Local London
+  domain: thisislocallondon.co.uk
 
 topics:
   - Google AI
   - AI
 
 images:
-  - url: "https://www.thetelegraphandargus.co.uk/resources/images/11319113/"
+  - url: "https://www.thisislocallondon.co.uk/resources/images/11319113/"
     width: 2168
     height: 1445
     title: "Google executive attended meeting of key scientific group advising Government"
 
-secured: "+h1O9wtyNgJArr8x1bOD0EgjDoC0P7qSRLzHV+YM23IW3mAQoh39ed8F4HJOn6YeMfUJfbjg/jsYSGbsZn/5LAH4dz4TrTdBl0dJpVflhwyY/YEiLA4Egl5bC8Bpsrh65h/F5ilHQdaBS+ZDnvGgwG0ddqpEybKAsvYpwemKIsOXZiNTQhfa7F6swiK1Igp8g//m1RI58qEtHUKvko8XDIXvddG6/ecsyjwSiXau+wFIlZJpcVeC6EfhpixcNmEO/beZ2K91aOZ2h07ZYej1Wx+x0azzQxO2GVE7PmuYkFxTzqj3z7/PzgqT8oj5Eq+2;cAbR7zThjcDPy6iacg/KBQ=="
+secured: "UfusAqzjOYm0l/A+9KlLjI7B0WCQ5EAlKrJN1J878n9pZUmSr5ssx4ijHRPEwQ9JdrCmCHciAjCBCsAKG6WwUdXE3ZD7lZd9HikicnWsF7BOYc2ED8JJO4uMtarYsbn0tbOn2mQ8q9IL9QaH7eiCFtpv4fWO9oS+uwhoroCLs+63FlJA27gQ9he4wtLkNK8BQMjpRUm+vo5wtPSabOSHoUyjmCA6w0b4w2Xn/PTKRaKgxbU9sarQvfN2Tgl+esFcxeHoNc3VWwNKKMy7YjOk+EQU0T+ZDQHVz4VyjNiot1wafMVOi/+UTrkX3nMtBqCD;cgcSig5wv5dKXhux1fNJKw=="
 ---
 

@@ -2,6 +2,88 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2020-04-18-widely-used-ai-machine-learning-methods-dont-work-as-claimed.md",
+      "title": "Widely Used AI Machine Learning Methods Don’t Work as Claimed",
+      "excerpt": "The study evaluated techniques known as “low-dimensional embeddings,” which are commonly used as input to machine learning models. This is an active area of research, with new embedding methods being developed at a rapid pace. But Seshadhri and his coauthors say all these methods share the same shortcomings. To explain why, Seshadhri used ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://scitechdaily.com/widely-used-ai-machine-learning-methods-dont-work-as-claimed/",
+      "ampWebUrl": "https://scitechdaily.com/widely-used-ai-machine-learning-methods-dont-work-as-claimed/amp/",
+      "cdnAmpWebUrl": "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/widely-used-ai-machine-learning-methods-dont-work-as-claimed/amp/",
+      "publishedDateTime": "2020-04-18T11:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SciTech Daily",
+        "domain": "scitechdaily.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://scitechdaily.com/images/AI-Machine-Learning-Artist-Illustration-777x518.jpg",
+          "width": 777,
+          "height": 518,
+          "title": "Widely Used AI Machine Learning Methods Don’t Work as Claimed",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-18-moscow-is-using-coronavirus-as-an-excuse-to-amp-up-its-facial-recognition-surveillance.md",
+      "title": "Moscow Is Using Coronavirus as an Excuse to Amp Up Its Facial Recognition Surveillance",
+      "excerpt": "This article originally appeared on VICE US. There’s about 178,000 surveillance cameras set up all around the Russian capital, pretty much wherever you look, and some of them are already connected to facial recognition software that’s helped police arrest more than 300 people. But now the authorities are trying to bring the entire fleet of ...",
+      "heat": 111,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.vice.com/en_uk/article/n7jx3b/moscow-is-using-coronavirus-as-an-excuse-to-amp-up-its-facial-recognition-surveillance",
+      "ampWebUrl": "https://www.vice.com/amp/en_uk/article/n7jx3b/moscow-is-using-coronavirus-as-an-excuse-to-amp-up-its-facial-recognition-surveillance",
+      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_uk/article/n7jx3b/moscow-is-using-coronavirus-as-an-excuse-to-amp-up-its-facial-recognition-surveillance",
+      "publishedDateTime": "2020-04-18T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VICE",
+        "domain": "vice.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/vice.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://video-images.vice.com/test-uploads/articles/5e9896d602fbe3009eff8090/lede/1587058510180-russiaclean.jpeg?crop=1xw:1xh;center,center",
+          "width": 1920,
+          "height": 1080,
+          "title": "Moscow Is Using Coronavirus as an Excuse to Amp Up Its Facial Recognition Surveillance",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-18-direxion-daily-robotics-artificial-intelligence-automation-index-bull-3x-shares-nysearcaubot-trading-64-higher.md",
       "title": "Direxion Daily Robotics Artificial Intelligence & Automation Index Bull 3X Shares (NYSEARCA:UBOT) Trading 6.4% Higher",
       "excerpt": "Direxion Daily Robotics Artificial Intelligence & Automation Index Bull 3X Shares (NYSEARCA:UBOT) shares traded up 6.4% on Friday . The stock traded as high as $6.27 and last traded at $6.16, 251,800 shares changed hands during trading. An increase of 79% from the average session volume of 140,834 shares. The stock had previously closed at $5.79.",
@@ -971,87 +1053,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-17-everything-you-need-to-know-about-narrow-ai.md",
-      "title": "Everything you need to know about narrow AI",
-      "excerpt": "Symbolic artificial intelligence, also known as good old-fashioned AI (GOFAI), was the ... the kinds of skills we learn by example. This is an area where deep neural networks, the structures used in deep learning algorithms, excel at. They can ingest mountains of data and develop mathematical models that represent the patterns that ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/04/19/what-is-artificial-narrow-intelligence-narrow-ai-syndication/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/04/19/what-is-artificial-narrow-intelligence-narrow-ai-syndication/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/04/19/what-is-artificial-narrow-intelligence-narrow-ai-syndication/amp/",
-      "publishedDateTime": "2020-04-17T07:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/04/1-24-796x417.jpg",
-          "width": 796,
-          "height": 417,
-          "title": "Everything you need to know about narrow AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-17-maker-villages-start-up-launch-ai-drone-to-combat-covid-19.md",
-      "title": "Maker Village’s start-up launch AI-drone to combat Covid-19",
-      "excerpt": "A start-up at Maker Village Kochi has developed a AI-enabled drone to monitor body temperature, supply essential commodities and spray disinfectants. The Garud has been designed and engineered by AI Aerial Dynamics at the Maker Village, which is India’s largest electronic hardware incubator and ESDM facility. The indigenously-made drone is ...",
-      "heat": 77,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.thehindubusinessline.com/news/maker-villages-start-up-launch-ai-drone-to-combat-covid-19/article31368638.ece",
-      "ampWebUrl": "https://www.thehindubusinessline.com/news/maker-villages-start-up-launch-ai-drone-to-combat-covid-19/article31368638.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/news/maker-villages-start-up-launch-ai-drone-to-combat-covid-19/article31368638.ece/amp/",
-      "publishedDateTime": "2020-04-17T07:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Line",
-        "domain": "thehindubusinessline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.thehindubusinessline.com/static/theme/default/base/img/og-image.jpg",
-          "width": 300,
-          "height": 300,
-          "title": "Maker Village’s start-up launch AI-drone to combat Covid-19",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

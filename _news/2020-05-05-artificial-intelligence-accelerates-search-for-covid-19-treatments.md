@@ -18,6 +18,21 @@ topics:
   - AI
 
 related:
+  - title: "This AI tool identifies the most promising COVID-19 research"
+    excerpt: "An AI tool that scans reams of scientific literature for promising COVID-19 research could speed up the search for a coronavirus vaccine"
+    publishedDateTime: 2020-05-05T18:15:00Z
+    webUrl: "https://thenextweb.com/neural/2020/05/05/this-ai-tool-identifies-the-most-promising-covid-19-research/"
+    ampWebUrl: "https://thenextweb.com/neural/2020/05/05/this-ai-tool-identifies-the-most-promising-covid-19-research/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/05/05/this-ai-tool-identifies-the-most-promising-covid-19-research/amp/"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 87
+    images:
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/Untitled-design-26-796x417.png"
+        width: 796
+        height: 417
   - title: "Google's AI-powered search tool helps scientists scour coronavirus research"
     excerpt: "For the most up-to-date news and information about the coronavirus pandemic, visit the WHO website. Google has launched a new search tool that aims to make it easier for scientists and researchers to uncover information related to the coronavirus."
     publishedDateTime: 2020-05-05T14:52:00Z

@@ -400,6 +400,51 @@
       ]
     },
     {
+      "path": "_news/2020-04-28-intel-released-10nm-wireless-5g-base-station-chip-wimi-releases-ar-ai-vision-cloud-services.md",
+      "title": "Intel Released 10nm Wireless 5G Base Station Chip, WIMI Releases AR + AI Vision Cloud Services",
+      "excerpt": "According to foreign media reports, Intel recently launched a series of software and hardware products, including",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/intel-released-10nm-wireless-5g-base-station-chip-wimi-releases-ar-ai-vision-cloud-services-2020-04-27",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-27T18:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Intel Released 10nm Wireless 5G Base Station Chip, WIMI Releases AR + AI Vision Cloud Services",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-26-nvidias-rtx-voice-uses-ai-and-gpus-to-eliminate-noise-from-your-video-conferences.md",
       "title": "NVIDIA’s RTX Voice Uses AI And GPUs To Eliminate Noise From Your Video Conferences",
       "excerpt": "Whether it be someone typing away on a clicky keyboard, or someone’s kids, pets, or television constantly droning on in the background, interfering with the speaker, background noise just plain stinks.",
@@ -1257,51 +1302,6 @@
           "width": 1200,
           "height": 770,
           "title": "Samsung and Xilinx partner on chips for 5G networks",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-15-gigabyte-aero-17-review-a-gorgeous-4k-laptop-that-finally-makes-sense.md",
-      "title": "Gigabyte Aero 17 review: A gorgeous 4K laptop that finally makes sense",
-      "excerpt": "For our testing, we didn’t rely on Gigabyte’s “AI” feature, which references an AI database for guidance on how hard it can push loads. Instead we set the laptop to its “gaming” fan threshold and set the GPU and CPU settings to their maximum setting. We don’t believe this to be an overclock, but it’s also hard to say because the ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.pcworld.com/article/3537520/gigabyte-aero-17-review.html",
-      "ampWebUrl": "https://www.pcworld.com/article/3537520/gigabyte-aero-17-review.amp.html",
-      "cdnAmpWebUrl": "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/3537520/gigabyte-aero-17-review.amp.html",
-      "publishedDateTime": "2020-04-15T06:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC World",
-        "domain": "pcworld.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/pcworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2020/04/aero_17_lid-100838518-large.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "Gigabyte Aero 17 review: A gorgeous 4K laptop that finally makes sense",
           "attribution": null
         }
       ],

@@ -2,43 +2,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_news/2020-02-16-linking-sense-of-touch-to-facial-movement-inches-robots-toward-feeling-pain.md",
-      "title": "Linking sense of touch to facial movement inches robots toward ‘feeling’ pain",
-      "excerpt": "Such touchy-feely robots are still far off, but advances in robotic touch-sensing are bringing that possibility closer to reality. Sensors embedded in soft, artificial skin that can detect both a gentle touch and a painful thump have been hooked up to a robot that can then signal emotions, Minoru Asada reported February 15 at the annual meeting ...",
-      "heat": 101,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.sciencenews.org/article/robots-feel-pain-artificial-intelligence",
-      "ampWebUrl": "https://www.sciencenews.org/article/robots-feel-pain-artificial-intelligence/amp",
-      "cdnAmpWebUrl": "https://www-sciencenews-org.cdn.ampproject.org/c/s/www.sciencenews.org/article/robots-feel-pain-artificial-intelligence/amp",
-      "publishedDateTime": "2020-02-16T14:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science News",
-        "domain": "sciencenews.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.sciencenews.org/wp-content/uploads/2020/02/021420_ls_robot_feat.jpg",
-          "width": 1030,
-          "height": 580,
-          "title": "Linking sense of touch to facial movement inches robots toward ‘feeling’ pain",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
       "path": "_news/2020-02-16-built-robotics-to-unveil-autonomous-construction-equipment-at-trade-show.md",
       "title": "Built Robotics to unveil autonomous construction equipment at trade show",
       "excerpt": "The company’s technology transforms existing construction equipment — including excavators, bulldozers, and skid steers — into fully autonomous robots. Built said its artificial intelligence guidance systems can be installed on existing equipment from any manufacturer, while still maintaining complete manual operation capabilities.",
@@ -1252,6 +1215,43 @@
           "width": 1200,
           "height": 800,
           "title": "Music by numbers? Robot conducts human orchestra",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-02-06-music-by-numbers-robot-conducts-human-orchestra-in-sharjah.md",
+      "title": "Music by numbers? Robot conducts human orchestra in Sharjah",
+      "excerpt": "For Shibuya, a composer from Japan, the role of robots in our everyday lives may well be increasing, but it is up to us to decide how artificial intelligence might add to the human experience, and humans and androids create art together. \"This work is a metaphor of the relations between humans and technology. Sometimes the android will get ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://english.manoramaonline.com/business/gadgets/2020/02/06/music-by-numbers-robot-conducts-human-orchestra.html",
+      "ampWebUrl": "https://english.manoramaonline.com/business/gadgets/2020/02/06/music-by-numbers-robot-conducts-human-orchestra.amp.html",
+      "cdnAmpWebUrl": "https://english-manoramaonline-com.cdn.ampproject.org/c/s/english.manoramaonline.com/business/gadgets/2020/02/06/music-by-numbers-robot-conducts-human-orchestra.amp.html",
+      "publishedDateTime": "2020-02-05T20:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Manorama Online",
+        "domain": "manoramaonline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://img.manoramaonline.com/content/dam/mm/en/business/gadgets/images/2020/2/6/humanoid-music2.jpg",
+          "width": 845,
+          "height": 440,
+          "title": "Music by numbers? Robot conducts human orchestra in Sharjah",
           "attribution": null
         }
       ],

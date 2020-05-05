@@ -2,6 +2,87 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2020-04-21-how-to-improve-the-financial-services-industry-with-artificial-intelligence-and-blockchain.md",
+      "title": "How To Improve The Financial Services Industry With Artificial Intelligence And Blockchain",
+      "excerpt": "Blockchain and artificial intelligence (AI) solve different tasks, but they can work together to improve many processes in the financial services industry, from customer service to loan application reviews and payment processing.",
+      "heat": 92,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/04/21/how-to-improve-the-financial-services-industry-with-artificial-intelligence-and-blockchain/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/04/21/how-to-improve-the-financial-services-industry-with-artificial-intelligence-and-blockchain/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/04/21/how-to-improve-the-financial-services-industry-with-artificial-intelligence-and-blockchain/amp/",
+      "publishedDateTime": "2020-04-21T04:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F04%2Fa-24-2.jpg",
+          "width": 640,
+          "height": 640,
+          "title": "How To Improve The Financial Services Industry With Artificial Intelligence And Blockchain",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-21-learn-how-to-leverage-the-aws-cloud-to-build-and-innovate-at-scale-with-the-free-aws-summit-online.md",
+      "title": "Learn how to leverage the AWS cloud, to build and innovate at scale with the free AWS Summit Online",
+      "excerpt": "The AWS DeepRacer League Summit Race Compete for prizes and meet fellow machine learning enthusiasts, online. Racers will have the opportunity to join the DeepRacer online workshop and have a 1-to ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://yourstory.com/2020/04/aws-cloud-innovate-summit-online",
+      "ampWebUrl": "https://yourstory.com/2020/04/aws-cloud-innovate-summit-online/amp",
+      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/04/aws-cloud-innovate-summit-online/amp",
+      "publishedDateTime": "2020-04-21T04:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Your Story",
+        "domain": "yourstory.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.yourstory.com/cs/static/default-ys-image.jpg",
+          "width": 300,
+          "height": 300,
+          "title": "Learn how to leverage the AWS cloud, to build and innovate at scale with the free AWS Summit Online",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-21-artificial-intelligence-how-machine-learning-jobs-are-giving-refugees-a-future-in-tech.md",
       "title": "Artificial intelligence: How machine-learning jobs are giving refugees a future in tech",
       "excerpt": "Humans in the Loop is a social enterprise founded in 2017. It helps refugees from conflict zones like Syria, Iraq, and Afghanistan settle in the country by acquiring digital skills that they can use for working on artificial-intelligence and machine-learning-related projects. SEE: How to implement AI and machine learning (ZDNet special report ...",
@@ -80,6 +161,43 @@
       ],
       "topics": [
         "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-21-deep-learning-takes-on-tumours.md",
+      "title": "Deep learning takes on tumours",
+      "excerpt": "The cell movements hold clues to how drugs or gene variants might affect the spread of tumours in the body, and he is tracking the nucleus of each cell in frame after frame of time-lapse microscopy films.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nature.com/articles/d41586-020-01128-8?sf233092553=1",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-21T03:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nature",
+        "domain": "nature.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.nature.com/lw1024/magazine-assets/d41586-020-01128-8/d41586-020-01128-8_17881098.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": "Deep learning takes on tumours",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
         "AI"
       ]
     },
@@ -278,43 +396,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-21-deep-learning-takes-on-tumours.md",
-      "title": "Deep learning takes on tumours",
-      "excerpt": "AI technologies encompass several methods. One, called machine learning, uses data that have been manually preprocessed and makes predictions according to what the AI learns. Deep learning, by contrast, can identify complex patterns in raw data. It is used in self-driving cars, speech-recognition software, game-playing computers — and to spot ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nature.com/articles/d41586-020-01128-8?hss_channel=tw-1318985240",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-20T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nature",
-        "domain": "nature.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.nature.com/lw1024/magazine-assets/d41586-020-01128-8/d41586-020-01128-8_17881098.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": "Deep learning takes on tumours",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     },
@@ -1160,87 +1241,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-20-facebook-partners-up-with-researchers-to-fight-covid-19-using-ai.md",
-      "title": "Facebook Partners Up With Researchers To Fight COVID -19 Using AI",
-      "excerpt": "To that end, Facebook AI has partnered up with academic researchers and other experts on a slew of ... Facebook has also partnered up with the Mila research institute in Montreal to share predictive, causal, and decision algorithms to effectively analyze clinical data. Facebook says it’s important for public health experts to understand ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://in.mashable.com/tech/13299/facebook-partners-up-with-researchers-to-fight-covid-19-using-ai",
-      "ampWebUrl": "https://in.mashable.com/tech/13299/facebook-partners-up-with-researchers-to-fight-covid-19-using-ai?amp=1",
-      "cdnAmpWebUrl": "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/13299/facebook-partners-up-with-researchers-to-fight-covid-19-using-ai?amp=1",
-      "publishedDateTime": "2020-04-20T06:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://sm.mashable.com/t/mashable_in/news/t/the-corona/the-coronavirus-is-proving-to-be-big-business-for-facebook-n_n947.620.jpg",
-          "width": 620,
-          "height": 397,
-          "title": "Facebook Partners Up With Researchers To Fight COVID -19 Using AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-20-how-utilities-are-using-ai-to-adapt-to-electricity-demands.md",
-      "title": "How utilities are using AI to adapt to electricity demands",
-      "excerpt": "Some utilities are employing AI and machine learning to address the windfalls and fluctuations in energy usage resulting from COVID-19. Precise load forecasting could ensure that operations aren’t interrupted in the coming months, thereby preventing blackouts and brownouts. And they might also bolster the efficiency of utilities’ internal ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/20/utilities-energy-usage-covid-19-ai-machine-learning/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/20/utilities-energy-usage-covid-19-ai-machine-learning/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/20/utilities-energy-usage-covid-19-ai-machine-learning/amp/",
-      "publishedDateTime": "2020-04-20T06:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/6cd663ee-b571-428e-8665-0dadb7cbc371-e1587321011520.png?fit=1202%2C598&strip=all",
-          "width": 1202,
-          "height": 598,
-          "title": "How utilities are using AI to adapt to electricity demands",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

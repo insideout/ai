@@ -2,6 +2,94 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2020-04-20-brief-unlearnai-closes-12-mln-series-a-to-advance-the-use-of-digital-twins-in-clinical-trials.md",
+      "title": "BRIEF-Unlearn.Ai Closes $12 Mln Series A To Advance The Use Of Digital Twins In Clinical Trials",
+      "excerpt": "UNLEARN.AI CLOSES $12M SERIES A TO ADVANCE THE USE OF DIGITAL TWINS IN CLINICAL TRIALS * UNLEARN.AI - CLOSED A $12 MILLION SERIES A FINANCING. FINANCING ROU",
+      "heat": 75,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/brief-unlearnai-closes-12-mln-series-a-t-idUSASA00L44",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSASA00L44",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSASA00L44",
+      "publishedDateTime": "2020-04-20T05:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png",
+          "width": 1200,
+          "height": 630,
+          "title": "BRIEF-Unlearn.Ai Closes $12 Mln Series A To Advance The Use Of Digital Twins In Clinical Trials",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-20-microsoft-our-ai-can-spot-security-flaws-from-just-the-titles-of-developers-bug-reports.md",
+      "title": "Microsoft: Our AI can spot security flaws from just the titles of developers' bug reports",
+      "excerpt": "Microsoft has revealed how it's applying machine learning to the challenge of correctly identifying which bug reports are actually security-related. Its goal is to correctly identify security bugs at scale using a machine-learning model to analyze just the label of bug reports. According to Microsoft, its 47,000 developers generate about ...",
+      "heat": 78,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/microsoft-our-ai-can-spot-security-flaws-from-just-the-titles-of-developers-bug-reports/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-our-ai-can-spot-security-flaws-from-just-the-titles-of-developers-bug-reports/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-our-ai-can-spot-security-flaws-from-just-the-titles-of-developers-bug-reports/",
+      "publishedDateTime": "2020-04-20T04:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2020/03/11/dcabbbb7-b82d-4967-afd8-66b2b64ff7f8/thumbnail/1200x675/d583d73263f0adcedfde77d6f345a798/ransomware-these-sophisticated-attacks-a-5e666032710b2800019be724-1-mar-11-2020-13-21-31-poster.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Microsoft: Our AI can spot security flaws from just the titles of developers' bug reports",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-20-can-artificial-intelligence-help-alleviate-travel-industry-woes.md",
       "title": "Can Artificial Intelligence Help Alleviate Travel Industry Woes?",
       "excerpt": "The travel industry, for instance, is uniquely vulnerable to this combination of systemic shocks. As such, operators like airlines and OTAs should take this opportunity to review and identify strategies to increase efficiency.",
@@ -977,88 +1065,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-18-widely-used-ai-machine-learning-methods-dont-work-as-claimed.md",
-      "title": "Widely Used AI Machine Learning Methods Don’t Work as Claimed",
-      "excerpt": "The study evaluated techniques known as “low-dimensional embeddings,” which are commonly used as input to machine learning models. This is an active area of research, with new embedding methods being developed at a rapid pace. But Seshadhri and his coauthors say all these methods share the same shortcomings. To explain why, Seshadhri used ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://scitechdaily.com/widely-used-ai-machine-learning-methods-dont-work-as-claimed/",
-      "ampWebUrl": "https://scitechdaily.com/widely-used-ai-machine-learning-methods-dont-work-as-claimed/amp/",
-      "cdnAmpWebUrl": "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/widely-used-ai-machine-learning-methods-dont-work-as-claimed/amp/",
-      "publishedDateTime": "2020-04-18T11:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SciTech Daily",
-        "domain": "scitechdaily.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://scitechdaily.com/images/AI-Machine-Learning-Artist-Illustration-777x518.jpg",
-          "width": 777,
-          "height": 518,
-          "title": "Widely Used AI Machine Learning Methods Don’t Work as Claimed",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-18-moscow-is-using-coronavirus-as-an-excuse-to-amp-up-its-facial-recognition-surveillance.md",
-      "title": "Moscow Is Using Coronavirus as an Excuse to Amp Up Its Facial Recognition Surveillance",
-      "excerpt": "This article originally appeared on VICE US. There’s about 178,000 surveillance cameras set up all around the Russian capital, pretty much wherever you look, and some of them are already connected to facial recognition software that’s helped police arrest more than 300 people. But now the authorities are trying to bring the entire fleet of ...",
-      "heat": 111,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.vice.com/en_uk/article/n7jx3b/moscow-is-using-coronavirus-as-an-excuse-to-amp-up-its-facial-recognition-surveillance",
-      "ampWebUrl": "https://www.vice.com/amp/en_uk/article/n7jx3b/moscow-is-using-coronavirus-as-an-excuse-to-amp-up-its-facial-recognition-surveillance",
-      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_uk/article/n7jx3b/moscow-is-using-coronavirus-as-an-excuse-to-amp-up-its-facial-recognition-surveillance",
-      "publishedDateTime": "2020-04-18T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VICE",
-        "domain": "vice.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/vice.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://video-images.vice.com/test-uploads/articles/5e9896d602fbe3009eff8090/lede/1587058510180-russiaclean.jpeg?crop=1xw:1xh;center,center",
-          "width": 1920,
-          "height": 1080,
-          "title": "Moscow Is Using Coronavirus as an Excuse to Amp Up Its Facial Recognition Surveillance",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

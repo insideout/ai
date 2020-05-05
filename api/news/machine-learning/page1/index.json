@@ -314,6 +314,51 @@
       ]
     },
     {
+      "path": "_news/2020-04-30-artificial-intelligence-cant-technically-invent-things-says-patent-office.md",
+      "title": "Artificial Intelligence can't technically invent things, says patent office",
+      "excerpt": "Artificial intelligence is the future. If \"Westworld\" or \"Black Mirror\" are to be believed, there will soon come a day when the computers rule us all. But for now, an AI's power ends at the US Patent Office.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnn.com/2020/04/30/us/artificial-intelligence-inventing-patent-office-trnd/index.html",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/04/30/us/artificial-intelligence-inventing-patent-office-trnd/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/04/30/us/artificial-intelligence-inventing-patent-office-trnd/index.html",
+      "publishedDateTime": "2020-04-30T01:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/181211153659-artificial-intelligence-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": "Artificial Intelligence can't technically invent things, says patent office",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-29-tectonai-emerges-from-stealth-to-solve-machine-learning-pipeline-challenges.md",
       "title": "Tecton.ai emerges from stealth to solve machine learning pipeline challenges",
       "excerpt": "Tecton.ai is a data platform for machine learning that lets data scientists transform raw data into production-ready features.",
@@ -1259,52 +1304,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-22-ibms-the-weather-channel-app-using-machine-learning-to-forecast-allergy-hotspots.md",
-      "title": "IBM's The Weather Channel app using machine learning to forecast allergy hotspots",
-      "excerpt": "The Weather Channel's new tool shows a 15-day allergy forecast based on ML. IBM's The Weather Channel is now using machine learning (ML) to forecast allergy symptoms. IBM data scientists developed a new tool on The Weather Channel app and weather.com, \"Allergy Insights with Watson\" to predict your risk of allergy symptoms. Weather can also ...",
-      "heat": 86,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/ibms-the-weather-channel-app-using-machine-learning-to-forecast-allergy-hotspots/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ibms-the-weather-channel-app-using-machine-learning-to-forecast-allergy-hotspots/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ibms-the-weather-channel-app-using-machine-learning-to-forecast-allergy-hotspots/",
-      "publishedDateTime": "2020-04-22T13:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/04/22/d5ea3a71-463d-42a5-b5fe-e4c400a17436/resize/1200x/50457b05eac2a537f63c612f59980238/allergy-season-ahead.jpg",
-          "width": 1200,
-          "height": 801,
-          "title": "IBM's The Weather Channel app using machine learning to forecast allergy hotspots",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "IBM AI"
       ]
     }
   ],

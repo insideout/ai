@@ -2,6 +2,97 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2020-04-18-ai-weekly-when-to-ship-or-shelve-a-coronavirus-solution.md",
+      "title": "AI Weekly: When to ship or shelve a coronavirus solution",
+      "excerpt": "Those debates certainly carry over to the kind of AI being deployed right now, and the important question of when a company should ship or shelve a coronavirus solution. A lot of AI is being deployed in the pandemic to save lives and someday soon help us resume daily lives, much of which you’ve been able to read about here. But they aren’t ...",
+      "heat": 91,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/17/ai-weekly-when-to-ship-or-shelve-a-coronavirus-solution/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/17/ai-weekly-when-to-ship-or-shelve-a-coronavirus-solution/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/17/ai-weekly-when-to-ship-or-shelve-a-coronavirus-solution/amp/",
+      "publishedDateTime": "2020-04-17T17:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/GettyImages-1214233667.jpg?fit=1800%2C900&strip=all",
+          "width": 1800,
+          "height": 900,
+          "title": "AI Weekly: When to ship or shelve a coronavirus solution",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-17-san-francisco-orders-residents-to-wear-face-masks.md",
+      "title": "San Francisco Orders Residents To Wear Face Masks",
+      "excerpt": "The city joins New York and Los Angeles County in mandating residents and essential workers wear face masks outside their homes.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/rachelsandler/2020/04/17/san-francisco-orders-residents-to-wear-face-masks/",
+      "ampWebUrl": "https://www.forbes.com/sites/rachelsandler/2020/04/17/san-francisco-orders-residents-to-wear-face-masks/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rachelsandler/2020/04/17/san-francisco-orders-residents-to-wear-face-masks/amp/",
+      "publishedDateTime": "2020-04-17T15:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F630811497%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5534%26cropY1%3D300%26cropY2%3D3413",
+          "width": 1200,
+          "height": 675,
+          "title": "San Francisco Orders Residents To Wear Face Masks",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-17-this-artificial-intelligence-extracts-emotions-and-shows-what-people-are-feeling.md",
       "title": "This Artificial Intelligence Extracts Emotions And Shows What People Are Feeling",
       "excerpt": "Systems and Sociometrica analyze the sentiment of 63,000 social media posts each day to determine the emotional state of the internet in response to COVID-19.",
@@ -1193,95 +1284,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-17-ai-uncovers-a-potential-treatment-for-covid-19-patients.md",
-      "title": "AI Uncovers a Potential Treatment for Covid-19 Patients",
-      "excerpt": "Despite the many unknowns, he says, the pandemic demands taking any promising leads seriously. Machine Learning: Living in the Age of AI “Machine Learning: Living in the Age of AI,” examines the extraordinary ways in which people are interacting with AI today. Hobbyists and teenagers are now developing tech powered by machine learning and ...",
-      "heat": 77,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wired.com/story/ai-uncovers-potential-treatment-covid-19-patients/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-17T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5e97a9ed845a6c00080f0f21/191:100/w_1280,c_limit/business-feature-ai_drug_covid-1134490146-1177505480-v2.jpg",
-          "width": 1280,
-          "height": 670,
-          "title": "AI Uncovers a Potential Treatment for Covid-19 Patients",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-17-does-this-7000-year-old-poop-belong-to-a-human-or-dog-machine-learning-has-the-answer.md",
-      "title": "Does This 7,000-Year-Old Poop Belong to a Human or Dog? Machine Learning Has the Answer",
-      "excerpt": "As outlined in the new paper, coproID uses machine learning software to compare ancient host DNA with DNA in modern feces, enabling it to distinguish between the two hosts in most cases. “CoproID is the first line of identification in coprolite analysis to confirm that what we’re looking for is actually human, or a dog if we’re interested ...",
-      "heat": 101,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.vice.com/en_us/article/jge7j4/does-this-7000-year-old-poop-belong-to-a-human-or-dog-machine-learning-has-the-answer",
-      "ampWebUrl": "https://www.vice.com/amp/en_us/article/jge7j4/does-this-7000-year-old-poop-belong-to-a-human-or-dog-machine-learning-has-the-answer",
-      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_us/article/jge7j4/does-this-7000-year-old-poop-belong-to-a-human-or-dog-machine-learning-has-the-answer",
-      "publishedDateTime": "2020-04-17T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VICE",
-        "domain": "vice.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/vice.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://video-images.vice.com/test-uploads/articles/5e98c20ac7e9d80099d6d452/lede/1587070293609-229163_web.jpeg?crop=1xw:0.8446298227320125xh;center,center",
-          "width": 1440,
-          "height": 810,
-          "title": "Does This 7,000-Year-Old Poop Belong to a Human or Dog? Machine Learning Has the Answer",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

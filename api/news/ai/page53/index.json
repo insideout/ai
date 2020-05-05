@@ -2,6 +2,72 @@
   "page": 53,
   "value": [
     {
+      "path": "_news/2020-03-16-behringer-deepmind-6-polyphonic-analog-synthesizer-cable-kit.md",
+      "title": "Behringer DeepMind 6 Polyphonic Analog Synthesizer CABLE KIT",
+      "excerpt": "***Please note, many of the products we sell are shipped in the manufacturer box. These boxes will often have images, model numbers, and other text that indicate the contents inside. UPS Ground Shipping Most orders are shipped within 1 business day via UPS ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://reverb.com/item/13643979-behringer-deepmind-6-polyphonic-analog-synthesizer-cable-kit",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-15T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reverb.com",
+        "domain": "reverb.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-16-beijing-tide-pharmaceutical-and-insilico-medicine-enter-into-an-agreement-for-cancer-therapy.md",
+      "title": "Beijing Tide Pharmaceutical and Insilico Medicine enter into an agreement for cancer therapy",
+      "excerpt": "BEIJING and HONG KONG, CHINA, March 17, 2020 (9 AM Beijing time) - Beijing Tide Pharmaceutical Co., Ltd. (Tide), a subsidiary of Sino Biopharmaceutical Limited, and Insilico Medicine, an artificial intelligence company developing end-to-end drug discovery pipelines, announced today that they are entering a collaboration, applying artificial ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.eurekalert.org/pub_releases/2020-03/im-btp031620.php",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-15T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.eurekalert.org/multimedia/pub/web/227125_web.jpg",
+          "width": 1440,
+          "height": 1440,
+          "title": "Beijing Tide Pharmaceutical and Insilico Medicine enter into an agreement for cancer therapy",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-16-bmw-says-large-scale-production-of-self-driving-cars-likely-in-next-decade.md",
       "title": "BMW says large-scale production of self-driving cars likely in next decade",
       "excerpt": "BMW and Chinese search giant Baidu are working on a joint project to produce a self-driving car for the Chinese market. The car is said to be in development since 2013, but no launch date has been ...",
@@ -1109,88 +1175,6 @@
         "Computer Vision",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-14-nypd-says-it-plans-to-use-facial-recognition-technology.md",
-      "title": "NYPD says it plans to use facial recognition technology",
-      "excerpt": "The NYPD on Friday said it plans to use emerging facial recognition technology in limited circumstances for “legitimate law enforcement purposes.” In announcing the policy Friday, NYPD Commissioner Dermot Shea outlined what he called six limited circumstances where the digital programs would be used to help develop leads to solve crimes.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.newsday.com/news/new-york/nypd-facial-recognition-technology-1.43047575",
-      "ampWebUrl": "https://www.newsday.com/amp/news/new-york/nypd-facial-recognition-technology-1.43047575",
-      "cdnAmpWebUrl": "https://www-newsday-com.cdn.ampproject.org/c/s/www.newsday.com/amp/news/new-york/nypd-facial-recognition-technology-1.43047575",
-      "publishedDateTime": "2020-03-13T17:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsday",
-        "domain": "newsday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.newsday.com/polopoly_fs/1.43047839.1584146943!/httpImage/image.jpg_gen/derivatives/landscape_1280/image.jpg",
-          "width": 1280,
-          "height": 719,
-          "title": "NYPD says it plans to use facial recognition technology",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-14-ai-can-detect-corona-virus-from-ct-scans-in-just-20-seconds.md",
-      "title": "AI can detect Corona virus from CT scans in just 20 seconds",
-      "excerpt": "Chinese tech company Alibaba, says its AI can detect Corona virus from CT scans in just 20 seconds. It takes doctors around 20 mins to do the same. The model has an accuracy of around 96%. The diagnosis algorithm was developed by Alibaba's research institute Damo Academy. Researchers at the academy said they had trained the AI model with sample ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.linkedin.com/pulse/ai-can-detect-corona-virus-from-ct-scans-just-20-seconds-alan-brown/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-13T17:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4D12AQGrEHprOlem7Q/article-cover_image-shrink_720_1280/0?e=1590624000&v=beta&t=VCPInLfR_pD5-rvXfrBh0UFfdTtHwNzswxK4BNKriAA",
-          "width": 1080,
-          "height": 720,
-          "title": "AI can detect Corona virus from CT scans in just 20 seconds",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

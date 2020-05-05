@@ -2,6 +2,51 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-02-26-machine-learning-artificial-intelligence-virtual-reality-and-retailers.md",
+      "title": "Machine Learning, Artificial Intelligence, Virtual Reality And Retailers",
+      "excerpt": "These technologies are very quickly making the transition from novelties to be marveled at to fixtures that will define many of the activities that comprise our daily lives. But how does this translate for retailers?",
+      "heat": 118,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/26/machine-learning-artificial-intelligence-virtual-reality-and-retailers/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/26/machine-learning-artificial-intelligence-virtual-reality-and-retailers/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/02/26/machine-learning-artificial-intelligence-virtual-reality-and-retailers/amp/",
+      "publishedDateTime": "2020-02-26T04:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/dam/imageserve/1034313794/960x0.jpg?fit=scale",
+          "width": 711,
+          "height": 474,
+          "title": "Machine Learning, Artificial Intelligence, Virtual Reality And Retailers",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-02-25-gmail-is-catching-more-malicious-attachments-with-deep-learning.md",
       "title": "Gmail Is Catching More Malicious Attachments With Deep Learning",
       "excerpt": "And it's working. At the RSA security conference in San Francisco on Tuesday, Google's security and anti-abuse research lead Elie Bursztein will present findings on how the new deep learning scanner for documents is faring against the 300 billion attachments it has to process each week. It's challenging to tell the difference between legitimate ...",
@@ -1246,54 +1291,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-02-18-how-ai-therapists-and-machine-learning-could-be-the-answer-to-affordable-mental-health-care.md",
-      "title": "How AI ‘therapists’ and machine learning could be the answer to affordable mental health care",
-      "excerpt": "People reveal more personal and intimate details to human-like apps and bots that can ‘sense’ emotions and concerns.",
-      "heat": 149,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/story/how-ai-therapists-could-shrink-the-cost-of-mental-health-2020-02-18",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/guid/9588DA02-525D-11EA-B5C7-52AF3B60D99D",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/guid/9588DA02-525D-11EA-B5C7-52AF3B60D99D",
-      "publishedDateTime": "2020-02-18T12:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://s.marketwatch.com/public/resources/images/MW-HZ996_0220_b_ZH_20200210144803.jpg",
-          "width": 890,
-          "height": 501,
-          "title": "How AI ‘therapists’ and machine learning could be the answer to affordable mental health care",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare",
-        "AI Ethics",
-        "Machine Learning",
-        "AI in Finance"
       ]
     }
   ],

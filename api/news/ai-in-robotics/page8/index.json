@@ -2,43 +2,6 @@
   "page": 8,
   "value": [
     {
-      "path": "_news/2020-02-06-music-by-numbers-robot-conducts-human-orchestra-in-sharjah.md",
-      "title": "Music by numbers? Robot conducts human orchestra in Sharjah",
-      "excerpt": "For Shibuya, a composer from Japan, the role of robots in our everyday lives may well be increasing, but it is up to us to decide how artificial intelligence might add to the human experience, and humans and androids create art together. \"This work is a metaphor of the relations between humans and technology. Sometimes the android will get ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://english.manoramaonline.com/business/gadgets/2020/02/06/music-by-numbers-robot-conducts-human-orchestra.html",
-      "ampWebUrl": "https://english.manoramaonline.com/business/gadgets/2020/02/06/music-by-numbers-robot-conducts-human-orchestra.amp.html",
-      "cdnAmpWebUrl": "https://english-manoramaonline-com.cdn.ampproject.org/c/s/english.manoramaonline.com/business/gadgets/2020/02/06/music-by-numbers-robot-conducts-human-orchestra.amp.html",
-      "publishedDateTime": "2020-02-05T20:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Manorama Online",
-        "domain": "manoramaonline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://img.manoramaonline.com/content/dam/mm/en/business/gadgets/images/2020/2/6/humanoid-music2.jpg",
-          "width": 845,
-          "height": 440,
-          "title": "Music by numbers? Robot conducts human orchestra in Sharjah",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
       "path": "_news/2020-02-05-music-by-numbers-robot-conducts-human-orchestra.md",
       "title": "Music by numbers? Robot conducts human orchestra",
       "excerpt": "The conductor on the podium has no baton, no tailcoat and no musical score, but Android Alter 3 is kicking up a storm as it guides a symphony orchestra’s players through their paces. The robot has a humanoid face,",
@@ -1243,6 +1206,51 @@
           "width": 900,
           "height": 563,
           "title": "Disruptive Opportunities: Can developing AI and robotics stabilise the Naira?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-01-28-new-dog-in-town-a-k9-robot-for-construction-and-more.md",
+      "title": "New dog in town? A K9 robot for construction and more",
+      "excerpt": "\"What we wanted to do was find a way of bringing intelligence into the real world, so [we're] aiming to build a robotics body for the artificial intelligence revolution that we've all seen coming,\" said Dr. Charles Galambos, CTO and co-founder at React Robotics. \"DogBot is about opening the way to robots that really understand the world and ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/new-dog-in-town-a-k9-robot-for-construction-and-more/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/new-dog-in-town-a-k9-robot-for-construction-and-more/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/new-dog-in-town-a-k9-robot-for-construction-and-more/",
+      "publishedDateTime": "2020-01-28T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/01/28/bc6eb458-84b2-472e-a0d2-0d9ce8088096/dogbot.jpg",
+          "width": 3936,
+          "height": 2624,
+          "title": "New dog in town? A K9 robot for construction and more",
           "attribution": null
         }
       ],

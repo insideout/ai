@@ -2,6 +2,87 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-04-27-teslas-latest-autopilot-feature-is-slowing-down-for-green-lights-too.md",
+      "title": "Tesla's latest Autopilot feature is slowing down for green lights, too",
+      "excerpt": "Tesla has said its latest version of Autopilot, its autonomous driving software, is able to stop at traffic lights. But some Tesla drivers are learning it doesn't just stop at",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.azfamily.com/news/us_world_news/teslas-latest-autopilot-feature-is-slowing-down-for-green-lights-too/article_eea7ffcb-074f-55ac-89cd-9c4207e7fe12.html",
+      "ampWebUrl": "https://www.azfamily.com/news/us_world_news/teslas-latest-autopilot-feature-is-slowing-down-for-green-lights-too/article_eea7ffcb-074f-55ac-89cd-9c4207e7fe12.amp.html",
+      "cdnAmpWebUrl": "https://www-azfamily-com.cdn.ampproject.org/c/s/www.azfamily.com/news/us_world_news/teslas-latest-autopilot-feature-is-slowing-down-for-green-lights-too/article_eea7ffcb-074f-55ac-89cd-9c4207e7fe12.amp.html",
+      "publishedDateTime": "2020-04-27T16:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AZFamily",
+        "domain": "azfamily.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/azfamily.com/content/tncms/assets/v3/editorial/c/ab/cab72abb-9b6a-5a39-bcd0-fadc3469ea7a/5ea76b6c2c680.image.jpg?resize=1024%2C682",
+          "width": 1024,
+          "height": 682,
+          "title": "Tesla's latest Autopilot feature is slowing down for green lights, too",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-27-scientists-think-well-finally-solve-nuclear-fusion-thanks-to-cutting-edge-ai.md",
+      "title": "Scientists think we’ll finally solve nuclear fusion thanks to cutting-edge AI",
+      "excerpt": "Fusion reactors – not to be confused with common fission reactors – are the holiest of Grails when it comes to physics achievements. According to most experts, a successful fusion reactor would function as a near-unlimited source of energy.",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/04/27/scientists-think-well-finally-solve-nuclear-fusion-thanks-to-cutting-edge-ai/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/04/27/scientists-think-well-finally-solve-nuclear-fusion-thanks-to-cutting-edge-ai/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/04/27/scientists-think-well-finally-solve-nuclear-fusion-thanks-to-cutting-edge-ai/amp/",
+      "publishedDateTime": "2020-04-27T16:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/04/solarfusion-796x398.jpg",
+          "width": 796,
+          "height": 398,
+          "title": "Scientists think we’ll finally solve nuclear fusion thanks to cutting-edge AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-27-companies-equip-cameras-with-ai-to-track-social-distancing-and-mask-wearing.md",
       "title": "Companies equip cameras with AI to track social distancing and mask-wearing",
       "excerpt": "Stores and workplaces are equipping existing cameras with AI software that can track compliance with guidelines like social distancing and mask-wearing.",
@@ -992,95 +1073,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-27-ai-startup-weve-removed-humans-from-business-negotiations.md",
-      "title": "AI startup: We've removed humans from business negotiations",
-      "excerpt": "But that is exactly what happened in late March this year when Estonian startup Pactum, which provides an AI-based commercial negotiation tool, was engaged by Walmart to automate negotiations with part of its global supplier network.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/ai-startup-weve-removed-humans-from-business-negotiations/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-startup-weve-removed-humans-from-business-negotiations/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-startup-weve-removed-humans-from-business-negotiations/",
-      "publishedDateTime": "2020-04-27T03:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/03/20/0cbe715a-9388-45c9-8237-a85e194778e5/thumbnail/1200x675/2f631e2f35c572488ba70aa7ff321067/carfillingupistock-900314960.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "AI startup: We've removed humans from business negotiations",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-27-ai-in-computer-vision-market-research-report-share-growth-opportunity-and-forecast-2023.md",
-      "title": "AI In Computer Vision Market Research Report Share, Growth, Opportunity And Forecast-2023",
-      "excerpt": "AI In Computer Vision Market Research Report by Component (Hardware, Software), Vertical (healthcare, security,",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-research-report-share-growth-opportunity-and-forecast-2023-2020-05-05",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-27T03:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "AI In Computer Vision Market Research Report Share, Growth, Opportunity And Forecast-2023",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

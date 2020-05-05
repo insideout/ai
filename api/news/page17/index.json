@@ -2,30 +2,38 @@
   "page": 17,
   "value": [
     {
-      "path": "_news/2020-04-21-deep-learning-takes-on-tumours.md",
-      "title": "Deep learning takes on tumours",
-      "excerpt": "AI technologies encompass several methods. One, called machine learning, uses data that have been manually preprocessed and makes predictions according to what the AI learns. Deep learning, by contrast, can identify complex patterns in raw data. It is used in self-driving cars, speech-recognition software, game-playing computers — and to spot ...",
-      "heat": null,
+      "path": "_news/2020-04-21-ai-in-pharmaceutical-market-2020-industry-analysis-segment-forecast-up-to-2026.md",
+      "title": "AI in Pharmaceutical Market 2020 Industry Analysis, Segment & Forecast Up to 2026",
+      "excerpt": "Global AI in Pharmaceutical Industry New Study On “AI in Pharmaceutical Market 2020 Global Market Opportunities,",
+      "heat": 72,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.nature.com/articles/d41586-020-01128-8?hss_channel=tw-1318985240",
+      "webUrl": "https://www.marketwatch.com/press-release/ai-in-pharmaceutical-market-2020-industry-analysis-segment-forecast-up-to-2026-2020-04-21",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-20T17:00:00-07:00",
+      "publishedDateTime": "2020-04-21T00:45:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Nature",
-        "domain": "nature.com",
-        "images": null,
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
         "publishers": null,
         "authors": null
       },
       "images": [
         {
-          "url": "https://media.nature.com/lw1024/magazine-assets/d41586-020-01128-8/d41586-020-01128-8_17881098.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": "Deep learning takes on tumours",
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "AI in Pharmaceutical Market 2020 Industry Analysis, Segment & Forecast Up to 2026",
           "attribution": null
         }
       ],
@@ -34,7 +42,79 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-21-shanghais-free-trade-zone-will-accelerate-digital-infrastructure-push-with-5g-iot-and-ai-tech.md",
+      "title": "Shanghai’s free-trade zone will accelerate digital infrastructure push with 5G, IoT and AI tech",
+      "excerpt": "China’s top economic planner, the National Development and Reform Commission (NDRC), said on Monday that “new infrastructure” included foundational information technologies such as 5G, IoT, the industrial internet, cloud computing and blockchain, AI and big data applications, as well as supportive facilities for scientific and technology ...",
+      "heat": 75,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.scmp.com/tech/policy/article/3080852/shanghais-free-trade-zone-will-accelerate-digital-infrastructure-push",
+      "ampWebUrl": "https://amp.scmp.com/tech/policy/article/3080852/shanghais-free-trade-zone-will-accelerate-digital-infrastructure-push",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/policy/article/3080852/shanghais-free-trade-zone-will-accelerate-digital-infrastructure-push",
+      "publishedDateTime": "2020-04-21T00:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/04/21/dd3d36d2-839e-11ea-8863-2139a14b0dea_image_hires_151022.JPG?itok=r99QrLgh&v=1587453031",
+          "width": 1200,
+          "height": 630,
+          "title": "Shanghai’s free-trade zone will accelerate digital infrastructure push with 5G, IoT and AI tech",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-21-transcosmos-releases-automated-call-answering-service-with-the-power-of-speech-recognition-intent-inference-algorithms.md",
+      "title": "transcosmos releases \"Automated Call Answering Service\" with the power of speech recognition & intent inference algorithms",
+      "excerpt": "PRWeb/ -- transcosmos inc. released an \"automated call answering service\" that utilizes \"BEDORE Voice Conversation,\" a",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/04/n15845146/transcosmos-releases-automated-call-answering-service-with-the-power-of-speech-recognition-intent-",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/15845146",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15845146",
+      "publishedDateTime": "2020-04-21T00:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
         "AI"
       ]
     },
@@ -953,94 +1033,6 @@
           "width": 1202,
           "height": 598,
           "title": "How utilities are using AI to adapt to electricity demands",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-20-brief-unlearnai-closes-12-mln-series-a-to-advance-the-use-of-digital-twins-in-clinical-trials.md",
-      "title": "BRIEF-Unlearn.Ai Closes $12 Mln Series A To Advance The Use Of Digital Twins In Clinical Trials",
-      "excerpt": "UNLEARN.AI CLOSES $12M SERIES A TO ADVANCE THE USE OF DIGITAL TWINS IN CLINICAL TRIALS * UNLEARN.AI - CLOSED A $12 MILLION SERIES A FINANCING. FINANCING ROU",
-      "heat": 75,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.reuters.com/article/brief-unlearnai-closes-12-mln-series-a-t-idUSASA00L44",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSASA00L44",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSASA00L44",
-      "publishedDateTime": "2020-04-20T05:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png",
-          "width": 1200,
-          "height": 630,
-          "title": "BRIEF-Unlearn.Ai Closes $12 Mln Series A To Advance The Use Of Digital Twins In Clinical Trials",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-20-microsoft-our-ai-can-spot-security-flaws-from-just-the-titles-of-developers-bug-reports.md",
-      "title": "Microsoft: Our AI can spot security flaws from just the titles of developers' bug reports",
-      "excerpt": "Microsoft has revealed how it's applying machine learning to the challenge of correctly identifying which bug reports are actually security-related. Its goal is to correctly identify security bugs at scale using a machine-learning model to analyze just the label of bug reports. According to Microsoft, its 47,000 developers generate about ...",
-      "heat": 78,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/microsoft-our-ai-can-spot-security-flaws-from-just-the-titles-of-developers-bug-reports/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-our-ai-can-spot-security-flaws-from-just-the-titles-of-developers-bug-reports/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-our-ai-can-spot-security-flaws-from-just-the-titles-of-developers-bug-reports/",
-      "publishedDateTime": "2020-04-20T04:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2020/03/11/dcabbbb7-b82d-4967-afd8-66b2b64ff7f8/thumbnail/1200x675/d583d73263f0adcedfde77d6f345a798/ransomware-these-sophisticated-attacks-a-5e666032710b2800019be724-1-mar-11-2020-13-21-31-poster.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Microsoft: Our AI can spot security flaws from just the titles of developers' bug reports",
           "attribution": null
         }
       ],

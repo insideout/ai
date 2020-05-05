@@ -24,6 +24,6 @@ images:
     height: 525
     title: "The 14 Largest Global Startup Funding Rounds of April 2020"
 
-secured: "ecFm/hV6a5cFwAdQCAAs6CcfHpbCv4Sw+KVR+lf1bTGsoIXsN3ZhQhtE9zbevgdPWG50B5MuK+jpwGpEs7r0CdyP7hKDzCmEeL+lkaBnbO+G2+8S+r+0qv8j1+/qiEntF1NMjpdTLOzfOyD8GETxL8//2ABc5/HXQjx5VwknqmHUnOzccrjg1A9nFtj56MMlUkkW2H6OCQDQ7GvQvWSd5d87V7BnCi27N/6GD3h2pNRwiQTEmtkqStj2O3HtSpcd9NanFI0dO37GqsNk0qhz3cOmlqHQae8e4/DZVx873m9zT6Vd7TFAWgTVc1poKfuv;pN5g3llwNhdAKScL/MNW8Q=="
+secured: "qXL++yVK3JMettOVK2YZDXYpCK/Zib65fKH6Rhm40bTQMN2Zq/qoQflia+agOFZWd7boumU11vOe6dskmmUsDB2UHBF/pLLGI/ObA8l0ct816nlvoOITR1+Vd+gqmCpD2Uqk8b0n99Dcc0l+4wuu3p/9NAbCDDvF/SvbGc/vJcf4yXpcvKBty85v25QULRpLPNLldcTqMYnBbal849dsGAEH2KAzKSSM9HrMQ+OFwytAV3pPBLGl6EKbHw85KcmBLlBuUeOlsTfIue0x9pV5j6LHfSXsQGEkfyFNgm5S1EXG/FXAtLX7TGfnqiWqVvzgIdtkzdW++XgM0qAeONldKYx3WsoVbW/AQ4WcGBi4WBWkCbtMy/JIeFiqrN+5SVH3PhGqmqa5w/S29WclU7dYn9brgzd+kFi2Ou1EI/FnsA8lQHUBxJN2JKhboGCo9MqCqEJriIE9QnatopiRX0sbCLHnJjTAWnPqqZjnvj6cYH8=;fk3HGc63I+FX0siuMwBtTA=="
 ---
 

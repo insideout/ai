@@ -2,51 +2,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_news/2020-02-25-brief-abb-announces-partnership-with-ai-start-up.md",
-      "title": "BRIEF-ABB Announces Partnership with AI Start-Up",
-      "excerpt": "Our Standards:The Thomson Reuters Trust Principles.",
-      "heat": 119,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.reuters.com/article/brief-abb-announces-partnership-with-ai-idUSFWN2AO19Q",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSFWN2AO19Q",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSFWN2AO19Q",
-      "publishedDateTime": "2020-02-25T03:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png",
-          "width": 1200,
-          "height": 630,
-          "title": "BRIEF-ABB Announces Partnership with AI Start-Up",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
       "path": "_news/2020-02-24-we-should-learn-how-to-collaborate-with-robots-before-it-will-be-too-late.md",
       "title": "We should learn how to collaborate with robots before it will be too late!",
       "excerpt": "Much has been said about how automation processes can render a large number of jobs obsolete. After all, the opportunities for technologies involving robotics and artificial intelligence have grown exponentially, and workers around the world have been anxious about how this new era of automation can affect their careers. The concerns of ...",
@@ -1232,6 +1187,43 @@
           "width": 1156,
           "height": 867,
           "title": "Costa Group turns to AI 'maths robot' to improve berry yield predictions",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-02-16-linking-sense-of-touch-to-facial-movement-inches-robots-toward-feeling-pain.md",
+      "title": "Linking sense of touch to facial movement inches robots toward ‘feeling’ pain",
+      "excerpt": "Such touchy-feely robots are still far off, but advances in robotic touch-sensing are bringing that possibility closer to reality. Sensors embedded in soft, artificial skin that can detect both a gentle touch and a painful thump have been hooked up to a robot that can then signal emotions, Minoru Asada reported February 15 at the annual meeting ...",
+      "heat": 101,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.sciencenews.org/article/robots-feel-pain-artificial-intelligence",
+      "ampWebUrl": "https://www.sciencenews.org/article/robots-feel-pain-artificial-intelligence/amp",
+      "cdnAmpWebUrl": "https://www-sciencenews-org.cdn.ampproject.org/c/s/www.sciencenews.org/article/robots-feel-pain-artificial-intelligence/amp",
+      "publishedDateTime": "2020-02-16T14:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science News",
+        "domain": "sciencenews.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.sciencenews.org/wp-content/uploads/2020/02/021420_ls_robot_feat.jpg",
+          "width": 1030,
+          "height": 580,
+          "title": "Linking sense of touch to facial movement inches robots toward ‘feeling’ pain",
           "attribution": null
         }
       ],

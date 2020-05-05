@@ -1,27 +1,29 @@
 ---
 category: news
 title: "Intel Released 10nm Wireless 5G Base Station Chip, WIMI Releases AR + AI Vision Cloud Services"
-excerpt: "According to foreign media reports, Intel recently launched a series of software and hardware products, including a 10nm process of wireless 5G base station chip –"
-publishedDateTime: 2020-04-28T01:14:00Z
-webUrl: "https://www.benzinga.com/pressreleases/20/04/ab15891711/intel-released-10nm-wireless-5g-base-station-chip-wimi-releases-ar-ai-vision-cloud-services"
-ampWebUrl: "https://amp.benzinga.com/amp/content/15891711"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15891711"
+excerpt: "According to foreign media reports, Intel recently launched a series of software and hardware products, including"
+publishedDateTime: 2020-04-28T01:12:00Z
+webUrl: "https://www.marketwatch.com/press-release/intel-released-10nm-wireless-5g-base-station-chip-wimi-releases-ar-ai-vision-cloud-services-2020-04-27"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - Computer Vision
+  - AI Hardware
   - AI
 
 images:
-  - url: "https://i.ibb.co/wKrcfG1/1.png"
-    width: 554
-    height: 369
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
     title: "Intel Released 10nm Wireless 5G Base Station Chip, WIMI Releases AR + AI Vision Cloud Services"
 
-secured: "QPi0adKeefJT6ReTmk9JPofN1IcIHiO8524yZBChb1sdG2hWtYc/fPlGGB5wROnDo3ly/GWiTbZXfBCm23cUGvLdk/pVIBYqkb9aeDW64f64nepo8DuIi949jhfQTQa2XH6PVffeaGwK+hPSfXYtyLjw2cjIExkR8gAwn5/RMIk32R7JwWR46dnFIwfen4tcVJcNpkMAY+MUdmjyPAEUb1sM5A8hBc6frLhs4JC+94GD00r7lIXI+Wzfad8fnOz8UwEwa5asOedggSz+fI7/fvYrS5zj2Q4XEdFQ8y/rhuGJxzcTeb9Cz3dSIXDmzLqI;1rVDoosUw9JwzHunA2j8XA=="
+secured: "lyKCw2RYBFrl41waUrVjR3o4JOqt/xDI5ytRloYzgqosfdT4t3YhEdxpU+fYc1MwoF60oOKGAflikp7hJdxAXSTCKxwTT/8JNASgslzj4V4p9MOSiQ68jV1zlwV6Y8AOaXEyzXwFHeAehxfZDKOYJGXzUoUS4ikfu7Yb3YI3i1PmxkpL9CxD9VrMSqhCl5aXRVx67sRjKPK13gyKO1vhaqYcg5Cq+EH5J1MF5IEuRzcgTTtmfdqI6di4ePVYEA+OCmCoFULPuS1xYTbTjAF4qan3aaMhz3ialvH2SZVJs3k/kAKBffE4zpExkgbFtoRt;NDNy7RpDkqJ40+D3IbSS8w=="
 ---
 

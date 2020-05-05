@@ -2,6 +2,80 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2020-04-13-siriusiq-announces-strategic-collaboration-with-rackware-enabling-rapid-adoption-of-microsoft-azure-cloud-platform.md",
+      "title": "SiriusIQ Announces Strategic Collaboration With RackWare, Enabling Rapid Adoption of Microsoft Azure Cloud Platform",
+      "excerpt": "The Cloud Correct solution delivers a new level of automation, analytics and AI using the comprehensive Microsoft Azure platform-as-a-service (PaaS) components and quickly adapts to increase the breadth of the customer's on-cloud landscape. \"With RackWare, Cloud Correct can now deliver almost instant value to any system that can benefit ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/siriusiq-announces-strategic-collaboration-with-rackware-enabling-rapid-adoption-of-microsoft-azure-cloud-platform-1029085316",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/siriusiq-announces-strategic-collaboration-with-rackware-enabling-rapid-adoption-of-microsoft-azure-cloud-platform-1029085316",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/siriusiq-announces-strategic-collaboration-with-rackware-enabling-rapid-adoption-of-microsoft-azure-cloud-platform-1029085316",
+      "publishedDateTime": "2020-04-13T04:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-13-couple-claim-sex-robot-with-soft-scottish-accent-saved-their-marriage.md",
+      "title": "Couple claim sex robot with 'soft Scottish accent' saved their marriage",
+      "excerpt": "A couple claim that a £6,600 Scottish sex robot - who shares their bed every night - has saved their marriage. Shelly, 45, and Darris Maxie, 48, from Texas, USA, splashed out on a computerised, Artificial Intelligence sex doll, called Camila, to save their marriage after the third person in their previous poly relationship left them.",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.dailyrecord.co.uk/news/uk-world-news/couple-claim-sex-robot-soft-21857349",
+      "ampWebUrl": "https://www.dailyrecord.co.uk/news/uk-world-news/couple-claim-sex-robot-soft-21857349.amp",
+      "cdnAmpWebUrl": "https://www-dailyrecord-co-uk.cdn.ampproject.org/c/s/www.dailyrecord.co.uk/news/uk-world-news/couple-claim-sex-robot-soft-21857349.amp",
+      "publishedDateTime": "2020-04-13T02:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "dailyrecord",
+        "domain": "dailyrecord.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i2-prod.dailyrecord.co.uk/incoming/article21857352.ece/ALTERNATES/s615/1_Screen-Shot-2020-04-13-at-093812.png",
+          "width": 615,
+          "height": 409,
+          "title": "Couple claim sex robot with 'soft Scottish accent' saved their marriage",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-13-tesla-is-adding-remarkable-detail-in-its-full-self-driving-visualizations.md",
       "title": "Tesla is adding remarkable detail in its Full Self-Driving Visualizations",
       "excerpt": "Tesla’s mass-market cars, the Model 3 and Model Y, have already been released. The Solar Roof is finally seeing a ramp. And the release of a feature-complete version of the company’s Full Self-Driving suite seems to be drawing closer. For Tesla’s Full Self-Driving suite to be feature-complete, the electric car maker would need to master ...",
@@ -1144,87 +1218,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-10-man-creates-hilarious-ai-version-of-himself-to-take-his-spot-during-zoom-calls.md",
-      "title": "Man creates hilarious AI version of himself to take his spot during Zoom calls",
-      "excerpt": "Well, sort of. Reed created an \"AI Digital Twin\" or a Zoombot if you will, and taught it speech recognition and text-to-speech conversation. Now, the fake version of himself is able to stand-in on Zoom calls and even respond to programed questions like \"How are you?\" and \"Did you get that?\" The only problem is it's very clear the Zoombot is a bot.",
-      "heat": 83,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://mashable.com/video/zoombot-artificial-intelligence-zoom-call-video/",
-      "ampWebUrl": "https://mashable.com/video/zoombot-artificial-intelligence-zoom-call-video.amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/video/zoombot-artificial-intelligence-zoom-call-video.amp",
-      "publishedDateTime": "2020-04-10T08:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/2020%252F04%252F10%252Ff7%252F66e6a79128e74588a39814c057108215.2f239.jpg%252F1200x630.jpg?signature=65tWZn413juYIGJ9fZycU-YQfR8=",
-          "width": 1200,
-          "height": 630,
-          "title": "Man creates hilarious AI version of himself to take his spot during Zoom calls",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-10-facebook-proposes-3d-navigation-task-for-training-autonomous-robots.md",
-      "title": "Facebook proposes 3D navigation task for training autonomous robots",
-      "excerpt": "“Crucially, VLN-CE … provides the [research] community with a testbed where these sort ... In 2018, the company open-sourced AI that can navigate New York City streets with 360-degree images. More recently, a Facebook team published a paper describing a system that learns how to get around an office by watching videos.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/10/facebook-proposes-3d-navigation-task-for-training-autonomous-robots/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/10/facebook-proposes-3d-navigation-task-for-training-autonomous-robots/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/10/facebook-proposes-3d-navigation-task-for-training-autonomous-robots/amp/",
-      "publishedDateTime": "2020-04-10T08:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/05/facebook-ai.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Facebook proposes 3D navigation task for training autonomous robots",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

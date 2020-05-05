@@ -2,6 +2,45 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-03-30-nobleai-completes-contributions-to-tensorflow-googles-open-source-framework-for-deep-learning.md",
+      "title": "Noble.AI completes contributions to TensorFlow, Google’s open-source framework for deep learning",
+      "excerpt": "Noble.AI, whose artificial intelligence (AI) software is purpose-built for engineers, scientists, and researchers and enables them to innovate and make discoveries faster, announced that it had completed contributions to TensorFlow, the world’s most popular open-source framework for deep learning created by Google. “Part of Noble’s ...",
+      "heat": 75,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.helpnetsecurity.com/2020/03/30/noble-ai-tensorflow/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-29T17:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Help Net Security",
+        "domain": "helpnetsecurity.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://img.helpnetsecurity.com/wp-content/uploads/2020/03/12085321/insecure-rsac2020.jpg",
+          "width": 304,
+          "height": 430,
+          "title": "Noble.AI completes contributions to TensorFlow, Google’s open-source framework for deep learning",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Machine Learning",
+        "TensorFlow"
+      ]
+    },
+    {
       "path": "_news/2020-03-29-nvidias-deep-learning-super-sampling-dlss-20-technology-is-the-real-deal.md",
       "title": "NVIDIA’s Deep Learning Super Sampling (DLSS) 2.0 Technology Is The Real Deal",
       "excerpt": "DLSS 2.0 improves upon the original release in just about every way. Game developers are still required to implement the technology into their games, but they no longer have to provide game-specific assets to NVIDIA to train the AI model.",
@@ -1181,43 +1220,6 @@
           "width": 645,
           "height": 315,
           "title": "Synergy Emergence in Deep Reinforcement Motor Learning (image)",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-19-synergy-emergence-in-deep-reinforcement-motor-learning.md",
-      "title": "Synergy emergence in deep reinforcement motor learning",
-      "excerpt": "Now, researchers at Tohoku University have observed a similar concept in robotic agents using deep reinforcement learning (DRL) algorithms. DRL allows robotic agents to learn the best action possible in their virtual environment. It allows complex robotic tasks to be solved whilst minimalising manual operations and achieving peak performance.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.eurekalert.org/pub_releases/2020-03/tu-sei031920.php",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-19T06:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://eurekalert.org/multimedia_ml/pub/web/10686_web.jpg",
-          "width": 645,
-          "height": 315,
-          "title": "Synergy emergence in deep reinforcement motor learning",
           "attribution": null
         }
       ],

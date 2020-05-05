@@ -7,7 +7,7 @@ webUrl: "https://www.zdnet.com/article/ibm-ceo-krishna-every-company-will-be-an-
 ampWebUrl: "https://www.zdnet.com/google-amp/article/ibm-ceo-krishna-every-company-will-be-an-ai-company/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-ceo-krishna-every-company-will-be-an-ai-company/"
 type: article
-quality: 87
+quality: 89
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
 
 topics:
   - AI
+  - IBM AI
 
 images:
   - url: "https://zdnet3.cbsistatic.com/hub/i/2020/05/05/61a2f05e-fe78-4f50-9c91-368e63cfd3fc/ibm-krishna.png"
@@ -32,9 +33,9 @@ related:
   - title: "IBM CEO: 'Every company will become an AI company'"
     excerpt: "In his first keynote since taking the reins last month, IBM CEO Arvind Krishna doubled down on the firm’s commitment to artificial intelligence (AI) as a foundational technology for the future. At the company’s virtual Think Digital event,"
     publishedDateTime: 2020-05-05T17:03:00Z
-    webUrl: "https://www.techradar.com/au/news/ibm-ceo-every-company-will-become-an-ai-company"
-    ampWebUrl: "https://www.techradar.com/au/amp/news/ibm-ceo-every-company-will-become-an-ai-company"
-    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/ibm-ceo-every-company-will-become-an-ai-company"
+    webUrl: "https://www.techradar.com/news/ibm-ceo-every-company-will-become-an-ai-company"
+    ampWebUrl: "https://www.techradar.com/amp/news/ibm-ceo-every-company-will-become-an-ai-company"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/ibm-ceo-every-company-will-become-an-ai-company"
     type: article
     provider:
       name: TechRadar
@@ -45,6 +46,6 @@ related:
         width: 970
         height: 545
 
-secured: "YzpOq5azOWg0mxSPVU24hvK1ncy1RqDvBsZxfwB9v0XNE72XdQkfTdZ6Jv0Yzo5r7L8EkZsGhKVFtXg+D7fI+7IPBaNs0Fqo1MHAoIGalQlCElwjl549ceg2dcqExnGo19w7JuyKXAhrq+KJSHip6JJLPyHo01p8bou3FlfFCcK2smyjgIOTV1a0e9vTKWBJNcsyNwHunp8naU+fND7DFO0XJQOEb3ujLQtnzEqGpMsdkRcFtWHIWZXsafwxUPGl2ovhK8woCUHr19u8dLMFQAoXtH44ViJbd4hWy41X+QZJ3gEXJdtYUIaTK3uzHnip;1P76ROl/x6fxlvliHaF8Uw=="
+secured: "cRouxad5xgj1nGbpE7HYCMargLBSrN2mnWT9qwA7P5Fq3n80tgEiQa1ennc7FH3NgwtA0dEhtmvO1wSXj3KIPoxDHhViiQ+YGRlZJMTjfRflKiSWWXIeLCXAmNwKr37oIuxeU3XC2y1UMzYkCGAu7GUpFGCYQr3DagGiKsJXEj5SL+6iIQe54EUNwpSIsIbGPilC8RNLlv2L9/WOWwmti2PIFbltpcfBntKbz3xMdOexG5+BrfsYu/0VDUASFOXbjwbO35MJUNsNWiPyN1pXDzB5aeSGEIlfJys2QPP86w4OXsGup6Kdb9ZgT800G+jzMtKEi7grOSKBJX2cqsWXb1T0sk1eRrm67LhG8625jR3NFdwfQ8jaxQ4ywbYwVKCG9dbF6Smb1gFBwLw5X/lNcK+P7Tghdw4LfTUa6z39fdAseIJl3NJC4CKc3CLub9iqfUAXi/VQJBz9o/o9pdUg5Io050JJj7w5c48081Qb1+Y=;NzM6LHeS1nojJ6jPJH4cdQ=="
 ---
 

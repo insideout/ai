@@ -2,6 +2,88 @@
   "page": 65,
   "value": [
     {
+      "path": "_news/2020-03-13-the-aclu-is-suing-government-agencies-over-dystopian-facial-recognition-programs.md",
+      "title": "The ACLU is suing government agencies over 'dystopian' facial recognition programs",
+      "excerpt": "Thursday, the American Civil Liberties Union sued multiple government agencies for information on their facial recognition programs and how they are being used at airports and by Border Patrol. Facial recognition has expanded rapidly over the past few years, but a lack of clarity around the technology’s rollout has led to increasing concerns ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.mic.com/p/the-aclu-is-suing-government-agencies-over-dystopian-facial-recognition-programs-22621097",
+      "ampWebUrl": "https://www.mic.com/p/the-aclu-is-suing-government-agencies-over-dystopian-facial-recognition-programs-22621097/amp",
+      "cdnAmpWebUrl": "https://www-mic-com.cdn.ampproject.org/c/s/www.mic.com/p/the-aclu-is-suing-government-agencies-over-dystopian-facial-recognition-programs-22621097/amp",
+      "publishedDateTime": "2020-03-13T15:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mic",
+        "domain": "mic.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://imgix.bustle.com/uploads/getty/2020/3/13/f99cf8db-dd80-4ba8-9281-761c39585a48-getty-1087948100.jpg?w=1200&h=630&q=70&fit=crop&crop=faces&fm=jpg",
+          "width": 1200,
+          "height": 630,
+          "title": "The ACLU is suing government agencies over 'dystopian' facial recognition programs",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-13-glisten-uses-computer-vision-to-break-down-product-photos-to-their-most-important-parts.md",
+      "title": "Glisten uses computer vision to break down product photos to their most important parts",
+      "excerpt": "Glisten is a new startup enabling just that by using computer vision to understand and list the most important aspects of the products in any photo. Now, you may think this already exists.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/03/13/glisten-uses-computer-vision-to-break-down-fashion-photos-to-their-styles-and-parts/",
+      "ampWebUrl": "https://techcrunch.com/2020/03/13/glisten-uses-computer-vision-to-break-down-fashion-photos-to-their-styles-and-parts/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/03/13/glisten-uses-computer-vision-to-break-down-fashion-photos-to-their-styles-and-parts/amp/",
+      "publishedDateTime": "2020-03-13T14:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/03/glisten-header.jpg?w=1024",
+          "width": 1024,
+          "height": 608,
+          "title": "Glisten uses computer vision to break down product photos to their most important parts",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-13-the-evolution-of-artificial-intelligence-and-future-of-national-security.md",
       "title": "The Evolution of Artificial Intelligence and Future of National Security",
       "excerpt": "Artificial intelligence is all the rage these days. In the popular media, regular cyber systems seem almost passe, as writers focus on AI and conjure up images of everything from real-life Terminator robots to more benign companions. In intelligence circles, China’s uses of closed-circuit television, facial recognition technology, and other ...",
@@ -939,80 +1021,6 @@
         "AWS AI",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-03-13-unity-technologies-acquires-artomatix.md",
-      "title": "Unity Technologies acquires Artomatix",
-      "excerpt": "award-winning software company that uses AI and neural networks to streamline 3D artistic workflows in the entertainment industry has been acquired by Unity Technologies. Used by 3D artists worldwide across gaming, entertainment, industrial, and design industries, Artomatix’s flagship product, ArtEngine, uses artificial intelligence to help ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techcentral.ie/unity-technologies-acquires-artomatix/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-13T04:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mozilla",
-        "domain": "techcentral.ie",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.techcentral.ie/wp-content/uploads/2014/01/Mergers_Size.jpg",
-          "width": 620,
-          "height": 350,
-          "title": "Unity Technologies acquires Artomatix",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-13-facial-recognition-merely-a-lead-and-not-proof-of-someones-involvement-in-crime-says-new-nypd-policy.md",
-      "title": "Facial recognition ‘merely a lead’ and not proof of someone’s involvement in crime, says new NYPD policy",
-      "excerpt": "Cops can use facial recognition software to identify criminal suspects — but any match is “merely a lead” and not probable cause that someone is connected to a crime, NYPD Commissioner Dermot Shea said Friday. “It is our responsibility to ensure investigators are equipped with effective technologies to bring justice to New Yorkers who ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nydailynews.com/new-york/nyc-crime/ny-nypd-facial-recognition-rules-20200313-5gvkzrh6ubfmvi67he2vzjrm64-story.html",
-      "ampWebUrl": "https://www.nydailynews.com/new-york/nyc-crime/ny-nypd-facial-recognition-rules-20200313-5gvkzrh6ubfmvi67he2vzjrm64-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/new-york/nyc-crime/ny-nypd-facial-recognition-rules-20200313-5gvkzrh6ubfmvi67he2vzjrm64-story.html?outputType=amp",
-      "publishedDateTime": "2020-03-13T03:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Daily News",
-        "domain": "nydailynews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.nydailynews.com/resizer/zSmItPl11VfSZK_HlthWE4t6ueI=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/TRO2XAVMCJDFDHJMTP7WVOQS3E.jpg",
-          "width": 1200,
-          "height": 799,
-          "title": "Facial recognition ‘merely a lead’ and not proof of someone’s involvement in crime, says new NYPD policy",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

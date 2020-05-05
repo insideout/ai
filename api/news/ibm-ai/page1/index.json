@@ -2,6 +2,51 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-05-05-dow-jones-news-ibm-to-launch-new-cloud-ai-products-microsofts-next-xbox-could-face-problems.md",
+      "title": "Dow Jones News: IBM to Launch New Cloud, AI Products; Microsoft's Next Xbox Could Face Problems",
+      "excerpt": "IBM is using its Think conference to roll out new products, and Microsoft will need to contend with game delays and a sluggish economy when it launches a new game console later this year.",
+      "heat": 78,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fool.com/investing/2020/05/05/dow-jones-news-ibm-to-launch-new-cloud-ai-products.aspx",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/05/05/dow-jones-news-ibm-to-launch-new-cloud-ai-products.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/05/dow-jones-news-ibm-to-launch-new-cloud-ai-products.aspx",
+      "publishedDateTime": "2020-05-05T11:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F571750%2Fcloud-computing-blue-background.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 675,
+          "title": "Dow Jones News: IBM to Launch New Cloud, AI Products; Microsoft's Next Xbox Could Face Problems",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-05-ai-hybrid-cloud-and-5g-dominate-ibm-think-digital-keynote.md",
       "title": "AI, hybrid cloud and 5G dominate IBM Think digital keynote",
       "excerpt": "Standing in front of a blue digital background, IBM CEO Arvind Krishna welcomed viewers to the virtual IBM Think conference on Tuesday. Originally set to be held in San Francisco",
@@ -98,9 +143,9 @@
       "heat": 99,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.techradar.com/au/news/ibm-ceo-every-company-will-become-an-ai-company",
-      "ampWebUrl": "https://www.techradar.com/au/amp/news/ibm-ceo-every-company-will-become-an-ai-company",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/ibm-ceo-every-company-will-become-an-ai-company",
+      "webUrl": "https://www.techradar.com/news/ibm-ceo-every-company-will-become-an-ai-company",
+      "ampWebUrl": "https://www.techradar.com/amp/news/ibm-ceo-every-company-will-become-an-ai-company",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/ibm-ceo-every-company-will-become-an-ai-company",
       "publishedDateTime": "2020-05-05T10:03:00-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -1231,51 +1276,6 @@
         "IBM AI",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-04-03-ibm-makes-ai-tools-and-resources-available-to-coronavirus-researchers.md",
-      "title": "IBM makes AI tools and resources available to coronavirus researchers",
-      "excerpt": "Lastly, IBM says it trained an AI search system on the COVID-19 Open Research Dataset ... The freely available tool extracts embedded text, tables, and graphics to answer specific queries from vetted researchers. Watson Assistant for Citizens’ debut comes after IBM made available a map on The Weather Channel to track the spread of COVID ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/03/ibm-makes-ai-tools-and-resources-available-to-coronavirus-researchers/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/03/ibm-makes-ai-tools-and-resources-available-to-coronavirus-researchers/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/03/ibm-makes-ai-tools-and-resources-available-to-coronavirus-researchers/amp/",
-      "publishedDateTime": "2020-04-03T10:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/11/ibm-keyboard-logo.png?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "IBM makes AI tools and resources available to coronavirus researchers",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
       ]
     }
   ],

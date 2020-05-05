@@ -8,8 +8,8 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/googles-ai-powered-search-tool-
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/googles-ai-powered-search-tool-helps-scientists-scour-coronavirus-research/"
 type: article
 quality: 85
-heat: 105
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNET
@@ -29,6 +29,21 @@ images:
     title: "Google's AI-powered search tool helps scientists scour coronavirus research"
 
 related:
+  - title: "This AI tool identifies the most promising COVID-19 research"
+    excerpt: "An AI tool that scans reams of scientific literature for promising COVID-19 research could speed up the search for a coronavirus vaccine"
+    publishedDateTime: 2020-05-05T18:15:00Z
+    webUrl: "https://thenextweb.com/neural/2020/05/05/this-ai-tool-identifies-the-most-promising-covid-19-research/"
+    ampWebUrl: "https://thenextweb.com/neural/2020/05/05/this-ai-tool-identifies-the-most-promising-covid-19-research/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/05/05/this-ai-tool-identifies-the-most-promising-covid-19-research/amp/"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 87
+    images:
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/Untitled-design-26-796x417.png"
+        width: 796
+        height: 417
   - title: "Google’s new AI-powered search tool helps researchers with coronavirus queries"
     excerpt: "Google‘s AI team has released a new tool to help researchers traverse through a trove of coronavirus papers, journals, and articles. The COVID-19 research explorer tool is a sem"
     publishedDateTime: 2020-05-05T08:27:00Z
