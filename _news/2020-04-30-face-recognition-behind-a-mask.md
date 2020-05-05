@@ -3,10 +3,12 @@ category: news
 title: "Face Recognition Behind a Mask"
 excerpt: "Although putting on a mask over your nose and mouth is one of the easiest ways to protect yourself and others from Coronavirus, face masks may be subtly (and not so subtly) interf"
 publishedDateTime: 2020-04-30T15:55:00Z
-webUrl: "https://www.psychologytoday.com/us/blog/illusions-delusions-and-reality/202004/face-recognition-behind-mask"
+webUrl: "https://www.psychologytoday.com/intl/blog/illusions-delusions-and-reality/202004/face-recognition-behind-mask"
+ampWebUrl: "https://www.psychologytoday.com/intl/blog/illusions-delusions-and-reality/202004/face-recognition-behind-mask?amp"
+cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/illusions-delusions-and-reality/202004/face-recognition-behind-mask?amp"
 type: article
-quality: 19
-heat: 19
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -17,6 +19,6 @@ topics:
   - Computer Vision
   - AI
 
-secured: "xZWAjg1zK5DtICmMhaxOzr1dcGFVmM6blese0Eo9l6mP3txhILm1DYuRvSxdPl1MAFKdoKiHkZ+AC5parvjkI16607eEJbHNEQzH5z/9h8o20rlK2KDhPpEHVyJlnxXDnTRjArTpINJ+apOXjMtJWiI7AF17HGGmdXfAl3J/7R88heZLTKN0aE+S6e9vEoUAzSgGal6maNfTjeBhyOcIgznBpwVfFGsh9tLAImdxwG7SfBNEmYvFx8lI/H2v3CtFfVmrEqe0Lk85UXTxASHj7DVi4tZY40W9u8y/vca+7w0gX/d+8J1jQgaTOzakVuUFXhWa6Fog6v0tK+xTk6erqhDudwXuxb2HoTR7d+Vf2VtRgISLReo598zVyYD4NRxFeiUpzDmCYLAA/08Hncop4Xn2OGZXN49QPIyp+ebqZZwD0gJLiMi9WbMDN/JhbNVFMW1HoDTx9NLvvUcYvm0tlAYzCfpMf67dZdGhsxOrAw0=;XJNG0CVZcaZ6OYHCN7wurA=="
+secured: "6ghjZ81N3889JSlbB2ouTPRA0TPg8oYg84shBAYT8UcQ2PaUc2EJpabPuxt/wiiLrdf85oLkBh452827sInGw9yLUZb11EHyR2yXDF+PTLY/K2NVF09B66FxcCG6JGk43GzOw96/yvflE7zTyJDiH9UcehsGShlTmaZJdYAPiWvtdFcYAHYWrbdBW6+kOkSy8paFaVVuW3q8wXfa1Dd48LmOW0iVFTNImz09KhtbKtDAbh8KVBv85izgxKuShaiBsvSssCu5AWkxAoq95E9tXoLPgFWdyWxE4ul0JnDmNNwyl1l5hGsop74MXK12SPZAxw0bs09Lz3j0SX+63kV+oWo9E7Fiy2MuncsRvAGbJDCqbDOspHurX35ah/49t9lS3xyajPQXBfw/nWm6j91ooY1wXrY9rwPHFszMCYMVyqz3S6EbNvzLC+2t+q+097UjYxs04sdkz9JBVnj8WlJUwfvIotXJmamYKWwS+nv7+xw=;O+ZsRIC7fp1AJkc4nyUbAQ=="
 ---
 

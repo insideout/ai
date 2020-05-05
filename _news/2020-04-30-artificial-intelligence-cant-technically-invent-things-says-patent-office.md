@@ -1,62 +1,31 @@
 ---
 category: news
-title: "Artificial intelligence can’t technically invent things, says patent office"
-excerpt: "Artificial intelligence is the future. If “Westworld” or “Black Mirror” are to be believed, there will soon come a day when the computers rule us all. But for now, an"
-publishedDateTime: 2020-04-30T11:32:00Z
-webUrl: "https://fox59.com/news/national-world/artificial-intelligence-cant-technically-invent-things-says-patent-office/"
-ampWebUrl: "https://fox59.com/news/national-world/artificial-intelligence-cant-technically-invent-things-says-patent-office/amp/"
-cdnAmpWebUrl: "https://fox59-com.cdn.ampproject.org/c/s/fox59.com/news/national-world/artificial-intelligence-cant-technically-invent-things-says-patent-office/amp/"
+title: "Artificial Intelligence can't technically invent things, says patent office"
+excerpt: "Artificial intelligence is the future. If \"Westworld\" or \"Black Mirror\" are to be believed, there will soon come a day when the computers rule us all. But for now, an AI's power ends at the US Patent Office."
+publishedDateTime: 2020-04-30T08:39:00Z
+webUrl: "https://www.cnn.com/2020/04/30/us/artificial-intelligence-inventing-patent-office-trnd/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2020/04/30/us/artificial-intelligence-inventing-patent-office-trnd/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/04/30/us/artificial-intelligence-inventing-patent-office-trnd/index.html"
 type: article
-quality: 57
-heat: -1
-published: false
 
 provider:
-  name: FOX59 News
-  domain: fox59.com
+  name: CNN
+  domain: cnn.com
+  images:
+    - url: "https://insideout.app/ai/assets/images/organizations/cnn.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI in Robotics
+  - Machine Learning
   - AI
 
 images:
-  - url: "https://fox59.com/wp-content/uploads/sites/21/2020/04/GettyImages-1176548169.jpg?w=1024&h=720&crop=1&resize=1280,720"
-    width: 1280
-    height: 720
-    title: "Artificial intelligence can’t technically invent things, says patent office"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/181211153659-artificial-intelligence-super-tease.jpg"
+    width: 1100
+    height: 619
+    title: "Artificial Intelligence can't technically invent things, says patent office"
 
-related:
-  - title: "Patent office: Artificial intelligence can’t invent things"
-    excerpt: "Artificial intelligence is the future. If “Westworld” or “Black Mirror” are to be believed, there will soon come a day when the computers rule us all. But for now, an"
-    publishedDateTime: 2020-04-30T11:36:00Z
-    webUrl: "https://cbs4indy.com/news/national-world/patent-office-artificial-intelligence-cant-invent-things/"
-    ampWebUrl: "https://cbs4indy.com/news/national-world/patent-office-artificial-intelligence-cant-invent-things/amp/"
-    cdnAmpWebUrl: "https://cbs4indy-com.cdn.ampproject.org/c/s/cbs4indy.com/news/national-world/patent-office-artificial-intelligence-cant-invent-things/amp/"
-    type: article
-    provider:
-      name: WTTV
-      domain: cbs4indy.com
-    quality: 63
-    images:
-      - url: "https://cbs4indy.com/wp-content/uploads/sites/22/2020/04/GettyImages-476176424.jpg?w=1024&h=683&crop=1&resize=1280,720"
-        width: 1280
-        height: 720
-  - title: "An artificial intelligence system cannot invent something, says US Patent Office ruling"
-    excerpt: "Patents are granted only to “natural persons” and will not be issued to AI-made creations. The US Patent Office has published a new ruling saying that its"
-    publishedDateTime: 2020-05-04T09:00:00Z
-    webUrl: "https://www.qrcodepress.com/an-artificial-intelligence-system-cannot-invent-something-says-us-patent-office-ruling/8537851/"
-    ampWebUrl: "https://www.qrcodepress.com/an-artificial-intelligence-system-cannot-invent-something-says-us-patent-office-ruling/8537851/amp/"
-    cdnAmpWebUrl: "https://www-qrcodepress-com.cdn.ampproject.org/c/s/www.qrcodepress.com/an-artificial-intelligence-system-cannot-invent-something-says-us-patent-office-ruling/8537851/amp/"
-    type: article
-    provider:
-      name: QR Code Press
-      domain: qrcodepress.com
-    quality: 49
-    images:
-      - url: "http://www.qrcodepress.com/wp-content/uploads/2020/05/Artificial-intelligence-system-Robot-with-Computer.jpg"
-        width: 886
-        height: 460
-
-secured: "/gCvx+WSC/k7hV59RL0WML0AbkeU6ojI1UIEtKLUNMQ8QscFhKb9a0OcW5CJSXCDtFRqiLfwmhKhZEG7kGGbPZ3umnsRlT0OumBUblr24dmN7nNzlZ/V+PGu5a3dnBf3vCvgz32o7TwLfH1gaBNQ8dWnTomafL04p9rRqG6+E7l+RsIGA/xuaxJFl2FyFeniCGu6OwVQo7U5tFWrgJy7F19VdM7Dudz77c4QKLCiwIvBMXF+iGL2/7dAgtaooRZqzUWhkOHJMIrH0Qf7iPEqG780SyOqc6KvyUR8C+/24ukWjr4VuLAIaY+YxRbe5VUS;FyKd3gUXLU0SEQ9FcGG6CA=="
+secured: "AUycYGbiTO0D/3rqlzhd5y0wkS4VFVIV7NcEqfhd1kYmzClRB4eU8AG8vnO5uVu5xeCOQd2LQLo2ehPgaEnBFz8vjZMmlZCj5MHmigVLo7GmC6AnFKyyyEIyQJuRIfWRgXN0bSgZ6S8IW4GZ6p78oPjjoJVY/mfL54hc+64JbAjwz1flbx5M4aTXBEIrIZ80KgNwWfwgh3R8nLzJdjM+79OTYXiXDXKrkUUDgwJiqvPYaMZ/fSTVmw/tABlHV0m3kSKVQI1Z4hh0zxtK66FUDuV+BejDWV/Op0ar8Ive+koDjD8bCbHzNdhDfGckusTW;z59Vm7qvLMaJNzf5E8VlJQ=="
 ---
 
