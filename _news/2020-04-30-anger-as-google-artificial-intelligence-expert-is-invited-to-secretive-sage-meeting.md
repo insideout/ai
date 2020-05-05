@@ -8,8 +8,8 @@ ampWebUrl: "https://www.dailymail.co.uk/news/article-8275395/amp/Anger-Google-ar
 cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-8275395/amp/Anger-Google-artificial-intelligence-expert-invited-secretive-Sage-meeting.html"
 type: article
 quality: 52
-heat: 72
-published: true
+heat: 62
+published: false
 
 provider:
   name: Mail Online
@@ -26,21 +26,6 @@ images:
     title: "Anger as Google artificial intelligence expert is invited to secretive 'Sage' meeting"
 
 related:
-  - title: "Top Google AI expert attended Sage meeting of Government scientific advisers about coronavirus"
-    excerpt: "Demis Hassabis, the founder and chief executive of the tech giant's DeepMind operation, sat in on a meeting of Scientific Advisory Group for Emergencies (Sage)."
-    publishedDateTime: 2020-04-30T15:32:00Z
-    webUrl: "https://www.dailymail.co.uk/news/article-8274333/Top-Google-AI-expert-attended-Sage-meeting-Government-scientific-advisers-coronavirus.html"
-    ampWebUrl: "https://www.dailymail.co.uk/news/article-8274333/amp/Top-Google-AI-expert-attended-Sage-meeting-Government-scientific-advisers-coronavirus.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-8274333/amp/Top-Google-AI-expert-attended-Sage-meeting-Government-scientific-advisers-coronavirus.html"
-    type: article
-    provider:
-      name: Mail Online
-      domain: dailymail.co.uk
-    quality: 47
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2020/04/30/15/27846360-0-image-a-12_1588258192544.jpg"
-        width: 636
-        height: 382
   - title: "Google executive attended Sage meeting the group advising Government"
     excerpt: "The London Economic |Demis Hassabis, co–founder of Google’s DeepMind division, was present for a meeting on March 18.| News"
     publishedDateTime: 2020-04-30T17:33:00Z

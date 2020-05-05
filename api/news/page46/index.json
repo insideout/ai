@@ -2,6 +2,43 @@
   "page": 46,
   "value": [
     {
+      "path": "_news/2020-03-27-ransomware-against-the-machine-how-adversaries-are-learning-to-disrupt-industrial-production-by-targeting-it-and-ot.md",
+      "title": "Ransomware against the machine: how adversaries are learning to disrupt industrial production by targeting IT and OT",
+      "excerpt": "This has caused insufficient or late supply of end products or services, representing long-term financial losses in the form of missed ... for example human-machine interfaces (HMIs), supervisory control and data acquisition (SCADA) software, and ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.continuitycentral.com/index.php/news/technology/5008-ransomware-against-the-machine-how-adversaries-are-learning-to-disrupt-industrial-production-by-targeting-it-and-ot",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-27T06:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "continuitycentral.com",
+        "domain": "continuitycentral.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.continuitycentral.com/images/banners/IRMCC270x600.jpg",
+          "width": 270,
+          "height": 670,
+          "title": "Ransomware against the machine: how adversaries are learning to disrupt industrial production by targeting IT and OT",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-27-human-compatible-a-timely-warning-on-the-future-of-ai.md",
       "title": "Human Compatible: A timely warning on the future of AI",
       "excerpt": "But we do know that we need to solve the control problem today, not when AI has already evolved beyond our control. But a good place to start is to rethink our approach to defining and creating artificial intelligence. Russell addresses this at the beginning of Human Compatible. Instead, Russell suggests, we should insist that AI that is ...",
@@ -980,51 +1017,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-26-tesla-model-y-is-equipped-with-a-radar-heater-to-weather-proof-autopilotself-driving.md",
-      "title": "Tesla Model Y is equipped with a radar heater to weather-proof Autopilot/Self-Driving",
-      "excerpt": "Tesla Model Y wiring schematics reveal that the electric SUV is equipped with a radar heater to weather-proof Autopilot and its future self-driving capability. One of the most common arguments against self-driving is that a computer won’t be able to handle different weather conditions as well as humans, like heavy snow. Not only is driving ...",
-      "heat": 82,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://electrek.co/2020/03/26/tesla-model-y-radar-heater-weather-proof-autopilot-self-driving/",
-      "ampWebUrl": "https://electrek.co/2020/03/26/tesla-model-y-radar-heater-weather-proof-autopilot-self-driving/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/03/26/tesla-model-y-radar-heater-weather-proof-autopilot-self-driving/amp/",
-      "publishedDateTime": "2020-03-26T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://electrek.co/wp-content/uploads/sites/3/2020/03/IMG_0440-1-e1579703019623.jpg?quality=82&strip=all&w=1000",
-          "width": 1000,
-          "height": 483,
-          "title": "Tesla Model Y is equipped with a radar heater to weather-proof Autopilot/Self-Driving",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

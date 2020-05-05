@@ -2,6 +2,51 @@
   "page": 116,
   "value": [
     {
+      "path": "_news/2020-01-22-at-davos-alphabets-ceo-calls-healthcare-the-major-ai-opportunity.md",
+      "title": "At Davos, Alphabet's CEO Calls Healthcare the Major AI Opportunity",
+      "excerpt": "shared some upbeat thoughts on how AI and healthcare could intersect. \"Cancer [is] often missed and the difference in outcome is profound,\" he said, according to Reuters. \"In lung cancer, for example, five experts agree this way and five agree the other way. We know we can use artificial intelligence to make it better.\" Two years ago at ...",
+      "heat": 134,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fool.com/investing/2020/01/22/at-davos-alphabets-ceo-calls-healthcare-the-major.aspx",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/01/22/at-davos-alphabets-ceo-calls-healthcare-the-major.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/01/22/at-davos-alphabets-ceo-calls-healthcare-the-major.aspx",
+      "publishedDateTime": "2020-01-22T14:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F554275%2Fgettyimages-1132912559.jpg&w=700&op=resize",
+          "width": 700,
+          "height": 420,
+          "title": "At Davos, Alphabet's CEO Calls Healthcare the Major AI Opportunity",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2020-01-22-air-new-zealand-using-computer-vision-ai.md",
       "title": "Air New Zealand using computer vision AI",
       "excerpt": "Air New Zealand is trialling the latest in computer vision artificial intelligence (AI) in its search for innovative ways to continually improve aircraft turn times and better on-time performance. The new technology, made available through a partnership with leading technology start-up Assaia and alongside Auckland Airport, uses computer vision ...",
@@ -1010,51 +1055,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-22-simulation-preparing-autonomous-vehicles-for-the-road.md",
-      "title": "Simulation: Preparing Autonomous Vehicles For The Road",
-      "excerpt": "Heikki Laine is VP of Product and Marketing at Cognata, a company that specializes in simulated testing for autonomous cars. Google, Apple, Baidu and automakers globally are currently working on ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/22/simulation-preparing-autonomous-vehicles-for-the-road/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/22/simulation-preparing-autonomous-vehicles-for-the-road/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/22/simulation-preparing-autonomous-vehicles-for-the-road/amp/",
-      "publishedDateTime": "2020-01-22T04:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F01%2Fa-41-2.jpg",
-          "width": 640,
-          "height": 640,
-          "title": "Simulation: Preparing Autonomous Vehicles For The Road",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

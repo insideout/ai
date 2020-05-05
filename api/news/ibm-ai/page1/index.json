@@ -39,23 +39,23 @@
       ]
     },
     {
-      "path": "_news/2020-05-05-ibm-unveils-ai-and-edge-solutions-based-on-open-source-technologies-from-red-hat.md",
-      "title": "IBM unveils AI and edge solutions based on open-source technologies from Red Hat",
-      "excerpt": "IBM unveiled new AI and edge computing solutions to help businesses navigate the uncertainty of today’s business environment and automate IT operations for greater control, efficiency and business continuity.",
-      "heat": 74,
+      "path": "_news/2020-05-05-smart-serendipity-in-ibm-ai-for-operations.md",
+      "title": "Smart Serendipity In IBM AI For Operations",
+      "excerpt": "Now that CIOs are being forced to automate an more of their IT infrastructures as a necessity (rather than a nice to have), it is perhaps a realization that IBM’s branding elves were being quite subtle when they thought to think of Think as means of championing IBM’s Watson line of AI products.",
+      "heat": 111,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.techradar.com/news/ibm-unveils-ai-and-edge-solutions-based-on-red-hats-open-source-technologies",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-04T21:36:00-07:00",
+      "webUrl": "https://www.forbes.com/sites/adrianbridgwater/2020/05/05/smart-serendipity-in-ibm-ai-for-operations/",
+      "ampWebUrl": "https://www.forbes.com/sites/adrianbridgwater/2020/05/05/smart-serendipity-in-ibm-ai-for-operations/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2020/05/05/smart-serendipity-in-ibm-ai-for-operations/amp/",
+      "publishedDateTime": "2020-05-04T21:38:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
+        "name": "Forbes",
+        "domain": "forbes.com",
         "images": [
           {
-            "url": "https://insideout.app/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -67,10 +67,10 @@
       },
       "images": [
         {
-          "url": "https://cdn.mos.cms.futurecdn.net/yVA5FFJtGqcgQcviheBYV4-1200-80.jpg",
-          "width": 970,
-          "height": 545,
-          "title": "IBM unveils AI and edge solutions based on open-source technologies from Red Hat",
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eaffad6ed706b0007e65517%2F0x0.jpg",
+          "width": 640,
+          "height": 332,
+          "title": "Smart Serendipity In IBM AI For Operations",
           "attribution": null
         }
       ],
@@ -79,8 +79,9 @@
         "news"
       ],
       "topics": [
-        "IBM AI",
-        "AI"
+        "AI in Autos",
+        "AI",
+        "IBM AI"
       ]
     },
     {
@@ -254,43 +255,6 @@
           "attribution": null
         }
       ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-05-ibm-launches-watson-aiops-series-of-automation-tools-for-it-operations-5g-and-edge-offerings.md",
-      "title": "IBM launches Watson AIOps, series of automation tools for IT operations, 5G and edge offerings",
-      "excerpt": "IBM is launching Watson AIOps, a suite that uses artificial intelligence to automate IT infrastructure as part of a broader roll out of automation tools. At its Think Digital 2020",
-      "heat": 82,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/ibm-launches-watson-aiops-series-of-automation-tools-for-it-operations-5g-and-edge-offerings/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ibm-launches-watson-aiops-series-of-automation-tools-for-it-operations-5g-and-edge-offerings/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-launches-watson-aiops-series-of-automation-tools-for-it-operations-5g-and-edge-offerings/",
-      "publishedDateTime": "2020-05-04T21:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
       "locale": "en-us",
       "categories": [
         "news"
@@ -1250,6 +1214,51 @@
           "width": 1650,
           "height": 864,
           "title": "IBM Offers \"Watson Assistant for Citizens\" to Provide Responses to COVID-19 Questions",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-02-ibms-watson-assistant-for-citizens-answers-coronavirus-questions-by-phone-or-text.md",
+      "title": "IBM’s Watson Assistant for Citizens answers coronavirus questions by phone or text",
+      "excerpt": "IBM today announced the launch of Watson Assistant for Citizens, a new chatbot solution available to government agencies, health care institutions, and academic organizations free of charge for 90 days. The hope is that by tapping AI technologies like natural language processing, it’ll triage residents looking for guidance on COVID-19 ...",
+      "heat": 83,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/01/ibms-watson-assistant-for-citizens-answers-coronavirus-questions-by-phone-or-text/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/01/ibms-watson-assistant-for-citizens-answers-coronavirus-questions-by-phone-or-text/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/01/ibms-watson-assistant-for-citizens-answers-coronavirus-questions-by-phone-or-text/amp/",
+      "publishedDateTime": "2020-04-01T22:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/09/5e486ff8-b51f-4396-9568-06fa29fec85c-e1573767177142.png?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "IBM’s Watson Assistant for Citizens answers coronavirus questions by phone or text",
           "attribution": null
         }
       ],

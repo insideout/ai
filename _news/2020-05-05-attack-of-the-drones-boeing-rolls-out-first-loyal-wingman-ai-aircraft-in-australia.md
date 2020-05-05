@@ -32,7 +32,7 @@ related:
   - title: "Australian military gets first drone that can fly with artificial intelligence"
     excerpt: "Boeing has presented the Australian Air Force with a prototype of a jet-powered drone that they hope will one day fly alongside manned warplanes."
     publishedDateTime: 2020-05-05T05:41:00Z
-    webUrl: "https://edition.cnn.com/2020/05/05/asia/australia-loyal-wingman-drone-intl-hnk/index.html"
+    webUrl: "https://www.cnn.com/2020/05/05/asia/australia-loyal-wingman-drone-intl-hnk/index.html"
     ampWebUrl: "https://amp.cnn.com/cnn/2020/05/05/asia/australia-loyal-wingman-drone-intl-hnk/index.html"
     cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/05/05/asia/australia-loyal-wingman-drone-intl-hnk/index.html"
     type: article

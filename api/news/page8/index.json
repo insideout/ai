@@ -2,6 +2,50 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-04-28-ai-based-news-platform-newsbytes-raises-undisclosed-amount-in-series-a-round.md",
+      "title": "AI-based News Platform NewsBytes Raises Undisclosed Amount in Series A Round",
+      "excerpt": "Newsbyte, an AI-driven digital media startup, has raised undisclosed amount in Series A funding round led by North Base Media, a US-based global venture capital firm specialized in media. The round also saw participation from new investor JITO Angels and the company’s existing investor,",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.entrepreneur.com/article/349909",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/349909",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/349909",
+      "publishedDateTime": "2020-04-28T07:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/20200428143008-newsbytes.jpeg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": "AI-based News Platform NewsBytes Raises Undisclosed Amount in Series A Round",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-28-yoshua-bengio-attention-is-a-core-ingredient-of-consciousness-ai.md",
       "title": "Yoshua Bengio: Attention is a core ingredient of ‘consciousness’ AI",
       "excerpt": "During the International Conference on Learning Representations (ICLR) 2020 this week, which as a result of the pandemic took place virtually on the web, Turing Award winner and director of the Montreal Institute for Learning Algorithms Yoshua Bengio provided a glimpse into the future of AI and machine learning techniques.",
@@ -1049,43 +1093,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-27-teslas-latest-autopilot-feature-is-slowing-down-for-green-lights-too.md",
-      "title": "Tesla's latest Autopilot feature is slowing down for green lights, too",
-      "excerpt": "Tesla has said its latest version of Autopilot, its autonomous driving software, is able to stop at traffic lights. But some Tesla drivers are learning it doesn't just stop at",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.azfamily.com/news/us_world_news/teslas-latest-autopilot-feature-is-slowing-down-for-green-lights-too/article_eea7ffcb-074f-55ac-89cd-9c4207e7fe12.html",
-      "ampWebUrl": "https://www.azfamily.com/news/us_world_news/teslas-latest-autopilot-feature-is-slowing-down-for-green-lights-too/article_eea7ffcb-074f-55ac-89cd-9c4207e7fe12.amp.html",
-      "cdnAmpWebUrl": "https://www-azfamily-com.cdn.ampproject.org/c/s/www.azfamily.com/news/us_world_news/teslas-latest-autopilot-feature-is-slowing-down-for-green-lights-too/article_eea7ffcb-074f-55ac-89cd-9c4207e7fe12.amp.html",
-      "publishedDateTime": "2020-04-27T16:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AZFamily",
-        "domain": "azfamily.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/azfamily.com/content/tncms/assets/v3/editorial/c/ab/cab72abb-9b6a-5a39-bcd0-fadc3469ea7a/5ea76b6c2c680.image.jpg?resize=1024%2C682",
-          "width": 1024,
-          "height": 682,
-          "title": "Tesla's latest Autopilot feature is slowing down for green lights, too",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

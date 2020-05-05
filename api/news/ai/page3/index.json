@@ -2,6 +2,43 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-05-01-coronavirus-helps-robot-delivery-startup-refraction-ai-gain-traction.md",
+      "title": "Coronavirus helps robot delivery startup Refraction AI gain traction",
+      "excerpt": "Refraction AI, a robot delivery startup in Ann Arbor, Mich., was having trouble gaining traction before the pandemic — and now, it's racing to capitalize on our stay-at-home mentality. Why it matters: In the midst of the pain and suffering from a crisis,",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.axios.com/refraction-ai-grocery-delivery-autonomous-ann-arbor-611e65fa-65d7-4b30-a8d4-de1b85c720fb.html",
+      "ampWebUrl": "https://www.axios.com/refraction-ai-grocery-delivery-autonomous-ann-arbor-611e65fa-65d7-4b30-a8d4-de1b85c720fb.html",
+      "cdnAmpWebUrl": "https://www-axios-com.cdn.ampproject.org/c/s/www.axios.com/refraction-ai-grocery-delivery-autonomous-ann-arbor-611e65fa-65d7-4b30-a8d4-de1b85c720fb.html",
+      "publishedDateTime": "2020-05-01T11:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Axios",
+        "domain": "axios.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.axios.com/6e7fxp84f9oN52Lh4Z7nrPlsfyI=/2020/05/01/1588353067194.png",
+          "width": 1920,
+          "height": 1080,
+          "title": "Coronavirus helps robot delivery startup Refraction AI gain traction",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-05-01-the-ai-eye-coca-cola-makes-5-year-agreement-with-microsoft.md",
       "title": "The AI Eye: Coca-Cola Makes 5-Year Agreement with Microsoft",
       "excerpt": "Watching stock news, deal tracker and advancements in artificial intelligence Coca-Cola ( NYSE:KO) has announced a five-year agreement with Microsoft ( NasdaqGS:MSFT ), wherein it will leverage the latter's Azure,",
@@ -1191,43 +1228,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-30-anger-as-google-artificial-intelligence-expert-is-invited-to-secretive-sage-meeting.md",
-      "title": "Anger as Google artificial intelligence expert is invited to secretive 'Sage' meeting",
-      "excerpt": "Demis Hassabis, founder and CEO of the tech giant's DeepMind operation, sat in on a meeting of the Government's Scientific Advisory Group for Emergencies on March 18.",
-      "heat": 72,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.dailymail.co.uk/news/article-8275395/Anger-Google-artificial-intelligence-expert-invited-secretive-Sage-meeting.html",
-      "ampWebUrl": "https://www.dailymail.co.uk/news/article-8275395/amp/Anger-Google-artificial-intelligence-expert-invited-secretive-Sage-meeting.html",
-      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-8275395/amp/Anger-Google-artificial-intelligence-expert-invited-secretive-Sage-meeting.html",
-      "publishedDateTime": "2020-04-30T13:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mail Online",
-        "domain": "dailymail.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.dailymail.co.uk/1s/2020/04/30/21/27857536-0-image-a-54_1588278136392.jpg",
-          "width": 636,
-          "height": 382,
-          "title": "Anger as Google artificial intelligence expert is invited to secretive 'Sage' meeting",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     },

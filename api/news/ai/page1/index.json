@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-05-05-googles-new-ai-powered-search-tool-helps-researchers-with-coronavirus-queries.md",
+      "title": "Google’s new AI-powered search tool helps researchers with coronavirus queries",
+      "excerpt": "Google‘s AI team has released a new tool to help researchers traverse through a trove of coronavirus papers, journals, and articles. The COVID-19 research explorer tool is a sem",
+      "heat": 83,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/05/05/googles-new-ai-powered-search-tool-helps-researchers-with-coronavirus-queries/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/05/05/googles-new-ai-powered-search-tool-helps-researchers-with-coronavirus-queries/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/05/05/googles-new-ai-powered-search-tool-helps-researchers-with-coronavirus-queries/amp/",
+      "publishedDateTime": "2020-05-05T01:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/Google-coronavirus-search-tool-796x418.jpg",
+          "width": 796,
+          "height": 418,
+          "title": "Google’s new AI-powered search tool helps researchers with coronavirus queries",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-05-ibm-rolls-out-watson-aiops-that-helps-enterprises-automate-it-operations.md",
       "title": "IBM rolls out Watson AIOps that helps enterprises automate IT operations",
       "excerpt": "IBM has launched Watson AIOps, a new offering that uses AI to automate how enterprises self-detect, diagnose and respond to IT anomalies in real time.Watson AIOps enables organisations to introduce au",
@@ -90,7 +134,7 @@
       "heat": 93,
       "tags": null,
       "type": "article",
-      "webUrl": "https://edition.cnn.com/2020/05/05/asia/australia-loyal-wingman-drone-intl-hnk/index.html",
+      "webUrl": "https://www.cnn.com/2020/05/05/asia/australia-loyal-wingman-drone-intl-hnk/index.html",
       "ampWebUrl": "https://amp.cnn.com/cnn/2020/05/05/asia/australia-loyal-wingman-drone-intl-hnk/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/05/05/asia/australia-loyal-wingman-drone-intl-hnk/index.html",
       "publishedDateTime": "2020-05-04T22:41:00-07:00",
@@ -255,23 +299,23 @@
       ]
     },
     {
-      "path": "_news/2020-05-05-ibm-unveils-ai-and-edge-solutions-based-on-open-source-technologies-from-red-hat.md",
-      "title": "IBM unveils AI and edge solutions based on open-source technologies from Red Hat",
-      "excerpt": "IBM unveiled new AI and edge computing solutions to help businesses navigate the uncertainty of today’s business environment and automate IT operations for greater control, efficiency and business continuity.",
-      "heat": 74,
+      "path": "_news/2020-05-05-smart-serendipity-in-ibm-ai-for-operations.md",
+      "title": "Smart Serendipity In IBM AI For Operations",
+      "excerpt": "Now that CIOs are being forced to automate an more of their IT infrastructures as a necessity (rather than a nice to have), it is perhaps a realization that IBM’s branding elves were being quite subtle when they thought to think of Think as means of championing IBM’s Watson line of AI products.",
+      "heat": 111,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.techradar.com/news/ibm-unveils-ai-and-edge-solutions-based-on-red-hats-open-source-technologies",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-04T21:36:00-07:00",
+      "webUrl": "https://www.forbes.com/sites/adrianbridgwater/2020/05/05/smart-serendipity-in-ibm-ai-for-operations/",
+      "ampWebUrl": "https://www.forbes.com/sites/adrianbridgwater/2020/05/05/smart-serendipity-in-ibm-ai-for-operations/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2020/05/05/smart-serendipity-in-ibm-ai-for-operations/amp/",
+      "publishedDateTime": "2020-05-04T21:38:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
+        "name": "Forbes",
+        "domain": "forbes.com",
         "images": [
           {
-            "url": "https://insideout.app/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -283,10 +327,10 @@
       },
       "images": [
         {
-          "url": "https://cdn.mos.cms.futurecdn.net/yVA5FFJtGqcgQcviheBYV4-1200-80.jpg",
-          "width": 970,
-          "height": 545,
-          "title": "IBM unveils AI and edge solutions based on open-source technologies from Red Hat",
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eaffad6ed706b0007e65517%2F0x0.jpg",
+          "width": 640,
+          "height": 332,
+          "title": "Smart Serendipity In IBM AI For Operations",
           "attribution": null
         }
       ],
@@ -295,8 +339,9 @@
         "news"
       ],
       "topics": [
-        "IBM AI",
-        "AI"
+        "AI in Autos",
+        "AI",
+        "IBM AI"
       ]
     },
     {
@@ -470,43 +515,6 @@
           "attribution": null
         }
       ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-05-ibm-launches-watson-aiops-series-of-automation-tools-for-it-operations-5g-and-edge-offerings.md",
-      "title": "IBM launches Watson AIOps, series of automation tools for IT operations, 5G and edge offerings",
-      "excerpt": "IBM is launching Watson AIOps, a suite that uses artificial intelligence to automate IT infrastructure as part of a broader roll out of automation tools. At its Think Digital 2020",
-      "heat": 82,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/ibm-launches-watson-aiops-series-of-automation-tools-for-it-operations-5g-and-edge-offerings/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ibm-launches-watson-aiops-series-of-automation-tools-for-it-operations-5g-and-edge-offerings/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-launches-watson-aiops-series-of-automation-tools-for-it-operations-5g-and-edge-offerings/",
-      "publishedDateTime": "2020-05-04T21:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
       "locale": "en-us",
       "categories": [
         "news"
@@ -692,6 +700,44 @@
       "topics": [
         "AI in Robotics",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-04-lets-make-a-deal-with-our-robot-overlords.md",
+      "title": "Let’s Make a Deal With Our Robot Overlords",
+      "excerpt": "Granted, that’s not what happened in the 2008 financial crisis, when the government primarily rescued the banks — but that experience could also be invoked to demand a better deal this time around. So this crisis brings with it an opening for collective action.",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.bloomberg.com/opinion/articles/2020-05-04/coronavirus-economy-let-s-make-a-deal-with-our-robot-overlords",
+      "ampWebUrl": "https://www.bloomberg.com/amp/opinion/articles/2020-05-04/coronavirus-economy-let-s-make-a-deal-with-our-robot-overlords",
+      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/opinion/articles/2020-05-04/coronavirus-economy-let-s-make-a-deal-with-our-robot-overlords",
+      "publishedDateTime": "2020-05-04T14:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
       ]
     },
     {
@@ -1262,50 +1308,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-04-11-strategic-ways-to-leverage-ai-for-better-sales-results.md",
-      "title": "11 Strategic Ways To Leverage AI For Better Sales Results",
-      "excerpt": "With the incorporation of AI in sales, teams are now becoming increasingly able to predict and quickly meet sales goals.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/05/04/11-strategic-ways-to-leverage-ai-for-better-sales-results/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/05/04/11-strategic-ways-to-leverage-ai-for-better-sales-results/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/05/04/11-strategic-ways-to-leverage-ai-for-better-sales-results/amp/",
-      "publishedDateTime": "2020-05-04T05:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbesbusinessdevelopmentcouncil%2Ffiles%2F2020%2F04%2F11_Strategic_Ways_To_Leverage_AI_For_Better_Sales_Results-1200x1015.png",
-          "width": 1200,
-          "height": 1015,
-          "title": "11 Strategic Ways To Leverage AI For Better Sales Results",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

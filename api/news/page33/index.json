@@ -2,6 +2,50 @@
   "page": 33,
   "value": [
     {
+      "path": "_news/2020-04-06-mit-researchers-use-ai-to-turn-the-coronavirus-into-a-haunting-melody.md",
+      "title": "MIT researchers use AI to turn the coronavirus into a haunting melody",
+      "excerpt": "An AI system that turns the coronavirus‘ structure into music could help scientists spot details about COVID-19 that a microscope would miss. The AI-generated tune is an audible representation of the coronavirus’ “spike” proteins, which spread the infection by poking out of the virus and binding to human cells. These spikes make the ...",
+      "heat": 97,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/04/06/mit-researchers-use-ai-to-turn-the-coronavirus-into-a-haunting-melody/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/04/06/mit-researchers-use-ai-to-turn-the-coronavirus-into-a-haunting-melody/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/04/06/mit-researchers-use-ai-to-turn-the-coronavirus-into-a-haunting-melody/amp/",
+      "publishedDateTime": "2020-04-06T10:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/04/Untitled-design52-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "MIT researchers use AI to turn the coronavirus into a haunting melody",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-06-ibms-ai-classifies-seizures-with-984-accuracy-using-eeg-data.md",
       "title": "IBM’s AI classifies seizures with 98.4% accuracy using EEG data",
       "excerpt": "In a paper published on the preprint server Arxiv.org this week, IBM researchers describe SeizureNet, a machine learning framework that learns the features of seizures to classify various types. They say that it achieves state-of-the-art classification accuracy on a popular data set, and that it helps to improve the classification accuracy of ...",
@@ -975,35 +1019,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-05-natural-language-processing-for-structuring-clinical-text-data-on-depression-using-uk-cris.md",
-      "title": "Natural language processing for structuring clinical text data on depression using UK-CRIS",
-      "excerpt": "Natural language processing (NLP) methods can be used to automatically extract clinically relevant information. Objective Our aim is to use natural language processing (NLP) to capture real-world data on individuals with depression from the Clinical Record Interactive Search (CRIS) clinical text to foster the use of electronic healthcare data ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://ebmh.bmj.com/content/23/1/21",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-05T06:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BMJ",
-        "domain": "bmj.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }
