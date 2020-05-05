@@ -2,6 +2,176 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2020-04-03-waymos-halts-self-driving-car-fleet-due-to-coronavirus.md",
+      "title": "Waymo's halts self-driving car fleet due to coronavirus",
+      "excerpt": "Following news Waymo's curtailed its fleet of self-driving car prototypes in California and Arizona, the company has grounded its entire fleet amid the coronavirus outbreak in the",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnet.com/roadshow/news/waymo-self-driving-car-operations-suspended-coronavirus/",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/waymo-self-driving-car-operations-suspended-coronavirus/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/waymo-self-driving-car-operations-suspended-coronavirus/",
+      "publishedDateTime": "2020-04-03T12:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cnet2.cbsistatic.com/img/Wn062NivEwbawPD0C1zzO0xkK3E=/2019/12/05/458deeb0-e5a7-42e8-8be3-7f24819fc3a7/ogi-waymo.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": "Waymo's halts self-driving car fleet due to coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-03-reprogramming-the-american-dream-microsoft-cto-returns-to-rural-roots-to-find-the-future-of-ai.md",
+      "title": "‘Reprogramming the American Dream’: Microsoft CTO returns to rural roots to find the future of AI",
+      "excerpt": "Kevin Scott is Microsoft’s chief technology officer, its executive vice president of AI and Research, and the author, with Greg Shaw, of the new book, “Reprogramming the American Dream: From Rural America to Silicon Valley, Making AI Serve Us All.” Scott, who joined Microsoft with its acquisition of LinkedIn, goes back to his roots in ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.geekwire.com/2020/reprogramming-american-dream-microsofts-cto-returns-rural-roots-find-future-ai/",
+      "ampWebUrl": "https://www.geekwire.com/2020/reprogramming-american-dream-microsofts-cto-returns-rural-roots-find-future-ai/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/reprogramming-american-dream-microsofts-cto-returns-rural-roots-find-future-ai/amp/",
+      "publishedDateTime": "2020-04-03T12:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/04/kevinscott-1-630x441.png",
+          "width": 630,
+          "height": 441,
+          "title": "‘Reprogramming the American Dream’: Microsoft CTO returns to rural roots to find the future of AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-03-this-week-in-xr-niantic-nabs-6dai-strivrs-big-raise-vr-sites-snarled-with-traffic.md",
+      "title": "This Week In XR: Niantic Nabs 6D.ai, Strivr’s Big Raise, VR Sites Snarled With Traffic",
+      "excerpt": "Matt Miesnieks, co-founder of 6D.ai, acquired by Niantic this week, told us they “just got in under the wire.” It could be good for the soul to drive less, prepare one’s own food, and clean one’s own home.",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/charliefink/2020/04/03/this-week-in-xr-niantic-nabs-6dai-strivrs-big-raise-vr-sites-snarled-with-traffic/",
+      "ampWebUrl": "https://www.forbes.com/sites/charliefink/2020/04/03/this-week-in-xr-niantic-nabs-6dai-strivrs-big-raise-vr-sites-snarled-with-traffic/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charliefink/2020/04/03/this-week-in-xr-niantic-nabs-6dai-strivrs-big-raise-vr-sites-snarled-with-traffic/amp/",
+      "publishedDateTime": "2020-04-03T11:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e878166b0a4e4000746b68c%2F0x0.jpg%3FcropX1%3D1%26cropX2%3D1566%26cropY1%3D0%26cropY2%3D879",
+          "width": 1199,
+          "height": 674,
+          "title": "This Week In XR: Niantic Nabs 6D.ai, Strivr’s Big Raise, VR Sites Snarled With Traffic",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-03-algorithmic-justice-league-highlights-automatic-speech-recognition-bias-report.md",
+      "title": "Algorithmic Justice League highlights automatic speech recognition bias report",
+      "excerpt": "The Algorithmic Justice League has released a spoken word and visual project called “Voicing Erasure” to protest the demographic discrepancies or “bias” identified in popular speech recognition systems on the market, following its recent study of algorithmic bias, AI, and technology, writes VentureBeat. The Algorithmic Justice League ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.biometricupdate.com/202004/algorithmic-justice-league-highlights-automatic-speech-recognition-bias-report",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-03T11:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Biometric Companies",
+        "domain": "biometricupdate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/01/09162857/voice-biometrics-large2.jpg",
+          "width": 900,
+          "height": 499,
+          "title": "Algorithmic Justice League highlights automatic speech recognition bias report",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-03-a-conversation-with-kevin-scott-author-of-reprogramming-the-american-dream.md",
       "title": "A conversation with Kevin Scott, author of “Reprogramming the American Dream”",
       "excerpt": "The post A conversation with Kevin Scott, author of “Reprogramming the American Dream” appeared first on The AI Blog.\n",
@@ -882,171 +1052,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-03-short-sellers-circle-virus-sinners-amazons-looming-shareholder-battle-businesses-fight-for-prisoner-releases.md",
-      "title": "Short sellers circle virus sinners; Amazon’s looming shareholder battle; Businesses fight for prisoner releases",
-      "excerpt": "For the second year in a row, Amazon shareholders will vote on the company’s facial identification technology, known as Rekognition, after the SEC rejected Amazon’s request to block the proposal.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.ft.com/content/03355c3c-52d1-42da-8218-90524d458d93",
-      "ampWebUrl": "https://amp.ft.com/content/03355c3c-52d1-42da-8218-90524d458d93",
-      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/03355c3c-52d1-42da-8218-90524d458d93",
-      "publishedDateTime": "2020-04-03T03:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Times",
-        "domain": "ft.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F9710438e-340f-49b5-a662-c23e1639cae0.jpg?source=google-amp&fit=scale-down&width=500",
-          "width": 500,
-          "height": 281,
-          "title": "Short sellers circle virus sinners; Amazon’s looming shareholder battle; Businesses fight for prisoner releases",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-03-machine-learning-as-a-service-market-emerging-trends-global-industry-forecast-to-2025.md",
-      "title": "Machine Learning as a Service Market Emerging Trends & Global Industry Forecast to 2025",
-      "excerpt": "New York, April 03, 2020: The Machine Learning as a Service Market is expected to exceed more than US$ 7500 Million by",
-      "heat": 73,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-emerging-trends-global-industry-forecast-to-2025-2020-04-03",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-03T00:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Machine Learning as a Service Market Emerging Trends & Global Industry Forecast to 2025",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-04-03-this-ai-startup-rents-out-robots-that-can-do-human-jobs-amid-the-coronavirus-pandemic.md",
-      "title": "This AI Startup Rents Out Robots That Can Do Human Jobs Amid The Coronavirus Pandemic",
-      "excerpt": "Vicarious, an AI software company, is training a growing fleet of industrial robots to carry out manufacturing jobs that only could only be performed by human beings until now. Their fleet is imbued with a \"layer general intelligence\" that allows them to ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://in.mashable.com/tech/12852/this-ai-startup-rents-out-robots-that-can-do-human-jobs-amid-the-coronavirus-pandemic",
-      "ampWebUrl": "https://in.mashable.com/tech/12852/this-ai-startup-rents-out-robots-that-can-do-human-jobs-amid-the-coronavirus-pandemic?amp=1",
-      "cdnAmpWebUrl": "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/12852/this-ai-startup-rents-out-robots-that-can-do-human-jobs-amid-the-coronavirus-pandemic?amp=1",
-      "publishedDateTime": "2020-04-03T00:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://sm.mashable.com/t/mashable_in/feature/t/this-ai-st/this-ai-startup-rents-out-robots-that-can-do-human-jobs-amid_wgfw.620.jpg",
-          "width": 620,
-          "height": 348,
-          "title": "This AI Startup Rents Out Robots That Can Do Human Jobs Amid The Coronavirus Pandemic",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-03-deep-learning-market-to-witness-a-pronounce-growth-during-2020-to-2025.md",
-      "title": "Deep Learning Market to Witness a Pronounce Growth during 2020 to 2025",
-      "excerpt": "Apr 03, 2020 (Heraldkeepers) -- New York, April 03, 2020: The Deep Learning Market is expected to exceed more than US$ 18 Billion by 2024 at a CAGR of 42% in the given forecast period. Deep ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-to-witness-a-pronounce-growth-during-2020-to-2025-2020-04-03?mod=mw_quote_news",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-02T23:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Deep Learning Market to Witness a Pronounce Growth during 2020 to 2025",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

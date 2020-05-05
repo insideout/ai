@@ -2,6 +2,170 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2020-04-17-sebastian-thrun-king-of-the-geeks.md",
+      "title": "Sebastian Thrun – king of the geeks",
+      "excerpt": "Sebastian Thrun – king of the geeks In the clandestine Google X laboratory, Thrun – the guru of artificial intelligence and the man behind Google’s driverless car – is busy inventing the ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.thetimes.co.uk/article/sebastian-thrun-king-of-the-geeks-xdrks90sfqd",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-16T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Times",
+        "domain": "thetimes.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprodmigration%2Fweb%2Fbin%2F0478f394-5f6e-3dd8-8256-9ec147aff66b.jpg?crop=1500%2C1000%2C0%2C0&resize=1180",
+          "width": 1180,
+          "height": 786,
+          "title": "Sebastian Thrun – king of the geeks",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-17-tensorflow-to-rtl-with-high-level-synthesis-cadence-design-systems.md",
+      "title": "TensorFlow to RTL with High-Level Synthesis — Cadence Design Systems",
+      "excerpt": "High-level synthesis (HLS) can provide a mechanism to get from AI frameworks like TensorFlow into synthesizable RTL, enabling the development of high-performance inference architectures. In this episode of Chalk Talk, Amelia Dalton chats with Dave Apte of ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.eejournal.com/chalk_talks/tensorflow-to-rtl-with-high-level-synthesis-cadence-design-systems/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-16T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electronic Engineering Journal",
+        "domain": "eejournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.eejournal.com/wp-content/uploads/2017/05/cropped-EEJ_favicon_2020-copy.png",
+          "width": 512,
+          "height": 512,
+          "title": "TensorFlow to RTL with High-Level Synthesis — Cadence Design Systems",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "TensorFlow",
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-16-toyota-backed-ponyai-to-offer-autonomous-delivery-service-in-california.md",
+      "title": "Toyota-backed Pony.ai to offer autonomous delivery service in California",
+      "excerpt": "Toyota-backed self driving company Pony.ai said on Friday it would provide an autonomous delivery service to residents of Irvine, California, as demand for online orders surges because of the coronavirus lockdown.",
+      "heat": 86,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-pony-ai-idUSKBN21Y3GK",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN21Y3GK",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN21Y3GK",
+      "publishedDateTime": "2020-04-16T16:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200416&t=2&i=1515404415&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG3F2IJ",
+          "width": 821,
+          "height": 545,
+          "title": "Toyota-backed Pony.ai to offer autonomous delivery service in California",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-16-ponyai-partners-with-yamibuy-on-autonomous-deliveries.md",
+      "title": "Pony.ai partners with Yamibuy on autonomous deliveries",
+      "excerpt": "Self-driving startup Pony.ai today announced that it’s collaborating with Yamibuy ... as well as reduce the risk of infection in the course of deliveries. Former Baidu chief architect James Peng cofounded Pony.ai in 2016 with Tiancheng Lou, who worked at Google X’s autonomous car project before it was spun off into Waymo.",
+      "heat": 119,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/16/pony-ai-partners-with-yamibuy-to-autonomously-deliver-goods-to-irvine-customers/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/16/pony-ai-partners-with-yamibuy-to-autonomously-deliver-goods-to-irvine-customers/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/16/pony-ai-partners-with-yamibuy-to-autonomously-deliver-goods-to-irvine-customers/amp/",
+      "publishedDateTime": "2020-04-16T16:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/Photo2-e1587077842271.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Pony.ai partners with Yamibuy on autonomous deliveries",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-16-autonomous-driving-startup-ponyai-takes-on-last-mile-delivery.md",
       "title": "Autonomous-Driving Startup Pony.ai Takes On Last-Mile Delivery",
       "excerpt": "With autonomous-vehicle companies parked by Covid-19, Pony.ai has teamed up with Los Angeles-based e-commerce site Yamibuy to deliver packages and groceries in the city of Irvine. Yamibuy specializes in Asian foods and home goods.",
@@ -898,184 +1062,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-16-new-mit-machine-learning-model-shows-relaxing-quarantine-rules-will-spike-covid-19-cases.md",
-      "title": "New MIT machine learning model shows relaxing quarantine rules will spike COVID-19 cases",
-      "excerpt": "MIT has developed a new model of the spread of COVID-19 infection, based on publicly available data, combined with established epidemiological equations about outbreaks, and neural network-based inference. The model, described in a new report, proves accurate when trained on data spanning late January to early March in terms of anticipating the ...",
-      "heat": 80,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/04/16/new-mit-machine-learning-model-shows-relaxing-quarantine-rules-will-spike-covid-19-cases/",
-      "ampWebUrl": "https://techcrunch.com/2020/04/16/new-mit-machine-learning-model-shows-relaxing-quarantine-rules-will-spike-covid-19-cases/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/16/new-mit-machine-learning-model-shows-relaxing-quarantine-rules-will-spike-covid-19-cases/amp/",
-      "publishedDateTime": "2020-04-16T07:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/04/GettyImages-1210095941.jpg?w=1024",
-          "width": 1024,
-          "height": 668,
-          "title": "New MIT machine learning model shows relaxing quarantine rules will spike COVID-19 cases",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-16-project-florence-how-ai-powered-online-learning-is-training-nurses-to-fight-covid-19.md",
-      "title": "Project Florence: How AI-powered online learning is training nurses to fight COVID-19",
-      "excerpt": "SEE: Coronavirus: Critical IT policies and tools every business needs (TechRepublic Premium) The online learning tool starts with an AI-driven assessment that changes based on the knowledge level of the user. Once Project Florence has determined what a nurse or other health care practitioner needs to learn it recommends a two-day curriculum ...",
-      "heat": 80,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/project-florence-how-ai-powered-online-learning-is-training-nurses-to-fight-covid-19/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/project-florence-how-ai-powered-online-learning-is-training-nurses-to-fight-covid-19/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/project-florence-how-ai-powered-online-learning-is-training-nurses-to-fight-covid-19/",
-      "publishedDateTime": "2020-04-16T06:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/03/19/d5bc89b3-5b78-4960-afc0-225ccc07578a/thumbnail/1200x675/ceb60bdc175321320b105411a3ee9cf3/20200318-veronica-karen.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Project Florence: How AI-powered online learning is training nurses to fight COVID-19",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-16-conversational-ai-startup-yellow-messenger-raises-20m-series-b-from-lightspeed.md",
-      "title": "Conversational AI startup Yellow Messenger raises $20M Series B from Lightspeed",
-      "excerpt": "India’s Yellow Messenger operates a conversational AI platform used by companies including Accenture, Flipkart and Grab to communicate with employees and customers. The startup is announcing new ...",
-      "heat": 93,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/04/16/conversational-ai-startup-yellow-messenger-raises-20m-series-b-from-lightspeed/",
-      "ampWebUrl": "https://techcrunch.com/2020/04/16/conversational-ai-startup-yellow-messenger-raises-20m-series-b-from-lightspeed/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/16/conversational-ai-startup-yellow-messenger-raises-20m-series-b-from-lightspeed/amp/",
-      "publishedDateTime": "2020-04-16T06:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/04/Team-YM-Co-founders.png?w=1024",
-          "width": 1024,
-          "height": 768,
-          "title": "Conversational AI startup Yellow Messenger raises $20M Series B from Lightspeed",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-16-kebotix-raises-115-million-to-automate-lab-experiments-with-ai-and-robotics.md",
-      "title": "Kebotix raises $11.5 million to automate lab experiments with AI and robotics",
-      "excerpt": "Kebotix, a startup developing AI tools to expedite the discovery of chemicals ... Perhaps unsurprisingly, in a recent survey of 100 pharmaceutical executives, Pharma IQ found that 94% believe intelligent automation technologies like robots and AI will make an impact on lab practices within two years. “In a short period, Kebotix has managed ...",
-      "heat": 116,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/16/kebotix-raises-11-5-million-to-automate-lab-experiments-with-ai-and-robotics/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/16/kebotix-raises-11-5-million-to-automate-lab-experiments-with-ai-and-robotics/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/16/kebotix-raises-11-5-million-to-automate-lab-experiments-with-ai-and-robotics/amp/",
-      "publishedDateTime": "2020-04-16T06:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/7e0fd2ea-d4bb-4524-8980-e9a4a4bc93d3-e1586978829363.png?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Kebotix raises $11.5 million to automate lab experiments with AI and robotics",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

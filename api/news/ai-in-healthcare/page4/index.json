@@ -2,6 +2,43 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-02-20-patients-with-type-2-diabetes-who-decline-insulin-therapy-had-worse-blood-sugar-control.md",
+      "title": "Patients with type 2 diabetes who decline insulin therapy had worse blood sugar control",
+      "excerpt": "Given the consequences of uncontrolled blood sugar levels, Turchin and colleagues set out to better understand why insulin therapy initiation is frequently delayed. The team used natural language processing -- an artificial intelligence tool that can scan through large amounts of data to pull out key phrases -- to comb through clinical ...",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.news-medical.net/news/20200220/Patients-with-type-2-diabetes-who-decline-insulin-therapy-had-worse-blood-sugar-control.aspx",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20200220/Patients-with-type-2-diabetes-who-decline-insulin-therapy-had-worse-blood-sugar-control.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200220/Patients-with-type-2-diabetes-who-decline-insulin-therapy-had-worse-blood-sugar-control.aspx",
+      "publishedDateTime": "2020-02-20T04:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.news-medical.net/image.axd?picture=2014%2f7%2fBlood_glucose-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": "Patients with type 2 diabetes who decline insulin therapy had worse blood sugar control",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2020-02-19-high-risk-artificial-intelligence-to-be-certified-tested-and-controlled-commission-says.md",
       "title": "High-risk Artificial Intelligence to be ‘certified, tested and controlled,’ Commission says",
       "excerpt": "Commission President Ursula von der Leyen praised Europe’s efforts in the field of Artificial Intelligence thus far, saying that such technologies can be of vital use in a number of sectors including in healthcare, agriculture and energy, and can also ...",
@@ -1246,43 +1283,6 @@
           "width": 632,
           "height": 356,
           "title": "Artificial Intelligence In Healthcare Market Worth $27.6 Billion By 2025:: Meticulous Research®",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-01-28-ai-can-help-cancer-patients-start-radiation-therapy-sooner.md",
-      "title": "AI can help cancer patients start radiation therapy sooner",
-      "excerpt": "Artificial intelligence can help cancer patients start their radiation therapy sooner - and thereby decrease the odds of the cancer spreading - by instantly translating complex clinical data into an optimal plan of attack. Patients typically must wait several days to a week to begin therapy while doctors manually develop treatment plans.",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.news-medical.net/news/20200127/AI-can-help-cancer-patients-start-radiation-therapy-sooner.aspx",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20200127/AI-can-help-cancer-patients-start-radiation-therapy-sooner.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200127/AI-can-help-cancer-patients-start-radiation-therapy-sooner.aspx",
-      "publishedDateTime": "2020-01-27T18:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.news-medical.net/image.axd?picture=2014%2f7%2fRadiation_Therapy-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": "AI can help cancer patients start radiation therapy sooner",
           "attribution": null
         }
       ],

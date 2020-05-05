@@ -2,6 +2,43 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2019-12-26-artificial-intelligence-can-now-track-down-blood-cancer.md",
+      "title": "Artificial intelligence can now track down blood cancer",
+      "excerpt": "Artificial intelligence tracks down acute myeloid leukaemia ... This approach could support conventional diagnostics and accelerate therapy of the disease. \"Some studies have been carried out ...",
+      "heat": 69,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.asianage.com/life/health/261219/artificial-intelligence-can-now-track-down-blood-cancer.html",
+      "ampWebUrl": "https://www.asianage.com/amp/life/health/261219/artificial-intelligence-can-now-track-down-blood-cancer.html",
+      "cdnAmpWebUrl": "https://www-asianage-com.cdn.ampproject.org/c/s/www.asianage.com/amp/life/health/261219/artificial-intelligence-can-now-track-down-blood-cancer.html",
+      "publishedDateTime": "2019-12-26T03:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Asian Age",
+        "domain": "asianage.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s3.ap-southeast-1.amazonaws.com/images.asianage.com/images/aa-Cover-vdtd739nmbtme80k0vq815q6o3-20191226110829.Medi.jpeg",
+          "width": 800,
+          "height": 448,
+          "title": "Artificial intelligence can now track down blood cancer",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2019-12-23-artificial-intelligence-that-tracks-down-leukemia-discovered.md",
       "title": "Artificial Intelligence That Tracks Down Leukemia Discovered",
       "excerpt": "Artificial intelligence is a much-discussed topic in ... Possibly, the diagnosis would then happen earlier than it does now and therapy could start earlier.\"",

@@ -1,25 +1,19 @@
 ---
 category: news
 title: "$15.9 Bn Automotive AI Market by Offering, Technology, Process, Drive and Region - Global Forecast to 2027 - ResearchAndMarkets.com"
-excerpt: "DUBLIN--(BUSINESS WIRE)--The \"Automotive Artificial Intelligence Market by Offering, Technology, Process, Drive, and Region - Global Forecast to 2027\" report has been added to ResearchAndMarkets ..."
-publishedDateTime: 2020-04-14T13:11:00Z
-webUrl: "https://www.businesswire.com/news/home/20200414005526/en/"
+excerpt: "The \"Automotive Artificial Intelligence Market by Offering, Technology, Process, Drive, and Region - Global Forecast to 2027\" report has been added to ResearchAndMarkets.com's offering."
+publishedDateTime: 2020-04-14T13:06:00Z
+webUrl: "https://www.oaoa.com/news/business/article_4d5365d7-c914-5286-a4ec-0eec6cd17410.html"
 type: article
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Odessa American
+  domain: oaoa.com
 
 topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://mms.businesswire.com/media/20200414005526/en/371054/23/ResearchAndMarkets_800px.jpg"
-    width: 1200
-    height: 627
-    title: "$15.9 Bn Automotive AI Market by Offering, Technology, Process, Drive and Region - Global Forecast to 2027 - ResearchAndMarkets.com"
-
-secured: "q497hhb+aUgOEOcebSZ/o0R38sbBZy0jx6oqJNfGBVEHCEhlQteAXtR8OuZKoNL+7AV26s/VPsBr2qDHg9gOwue8sVWTNoOgkwUim8N2vHgLL/fD85TQYLf/dbkKQeXzrYJnMcDDWoPs3TRYa325E5taQYqDf7MQ8yi4QJ4KItZF2KB2TvXPGWV0ONBdLLnoj261I2hGR52mStbXH0fDoCk2WJrHLVGIS/hd+GF9fzGYiuclzZC1Yv5NFvPmHUVy+SMSSxjUAruymmQMGzmYWv6YEv4QNPnyzZXMdjvOOiT5aTMhnghx1CWnM7bdqpeP;qOXmEzi6M0eaEorwjut7bQ=="
+secured: "2VE7M4NWqf9ESd+DdxxQMc2p6RzfNyGM/3ynB+8CunOgNQFUORUe5qdi5MfsOciXPaA32GPN4n1ZV8zovIbbftxbnHFq/3IPJI60XKqvjxww+bh3RNIUrn4U2XK0AFt6BSQcJht74sPU1RK8E1qq6ZO0KT5uMVV3JmZ9qGcGZSpQvBfEhSfK4CYVSva8kre2oRHsBZJHPI4iRXvzs2g3xynEmO6LFvqz+GnY2fiNbv1RASvkBH1qznij/y/tdU0g4sZaT2fwDlE2U7Q9F7UIWrqfmDU7u3NroIrdbsbhVbAwkWssaqmMJES7fYj/vnnN;7ZRTVCLJ6/bmIEBgx/pyOA=="
 ---
 

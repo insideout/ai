@@ -2,6 +2,52 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-02-26-ai-growth-spurts-hardware-is-cool-again-part-1-of-3.md",
+      "title": "AI Growth Spurts — Hardware is cool again (Part 1 of 3)",
+      "excerpt": "the visionaries are making the frameworks accessible to every company in the world with scalable Enterprise grade ML platforms such as Amazon SageMaker, Google AI platform, etc. Below is an image ...",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/@saarthi/ai-growth-spurts-hardware-is-cool-again-part-1-of-3-df4c31b995a2",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-26T11:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/395/0*BBtx9QcpsGVIgtSq",
+          "width": 395,
+          "height": 271,
+          "title": "AI Growth Spurts — Hardware is cool again (Part 1 of 3)",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2020-02-26-computer-vision-custom-model-which-ai-provider-to-choose.md",
       "title": "Computer vision & custom model : Which AI provider to choose",
       "excerpt": "For Amazon, on the other hand, the task is much more complicated: accessing their new Amazon Rekognition Custom Label service remains a mystery. We used a direct link to this service to access it.",
@@ -1263,51 +1309,6 @@
           "width": 1200,
           "height": 630,
           "title": "Amazon-made Rekognition software now able to detect fear",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-29-getting-started-with-aws-deepracer-2020-edition.md",
-      "title": "Getting Started with AWS Deepracer (2020 edition)",
-      "excerpt": "Since the last time, I wrote a blog on how to win at Deepracer? a LOT has changed on the Deepracer Console. You could read that to know the very basics of Deepracer and Reinforcement Learning.",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/vaibhav-malpanis-blog/getting-started-with-deepracer-2020-edition-a7896dd07c48",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-29T07:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/800/0*70d1mypOZTlJ0xsF.jpg",
-          "width": 800,
-          "height": 450,
-          "title": "Getting Started with AWS Deepracer (2020 edition)",
           "attribution": null
         }
       ],

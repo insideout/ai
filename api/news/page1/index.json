@@ -2,6 +2,95 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-05-05-ar-experiment-uses-ai-to-cut-and-paste-real-world-things-into-photoshop.md",
+      "title": "AR experiment uses AI to cut and paste real-world things into Photoshop",
+      "excerpt": "Augmented or mixed reality experiences often involve placing virtual objects alongside real-world things as seen through glasses or on phone screens. Doing the reverse, that is, placing real-world",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.slashgear.com/ar-experiment-uses-ai-to-cut-and-paste-real-world-things-into-photoshop-04619244/",
+      "ampWebUrl": "https://www.slashgear.com/ar-experiment-uses-ai-to-cut-and-paste-real-world-things-into-photoshop-04619244/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/ar-experiment-uses-ai-to-cut-and-paste-real-world-things-into-photoshop-04619244/amp/",
+      "publishedDateTime": "2020-05-04T20:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://scdn.slashgear.com/wp-content/uploads/2020/05/ar-cut-paste.jpg",
+          "width": 1280,
+          "height": 800,
+          "title": "AR experiment uses AI to cut and paste real-world things into Photoshop",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-05-artificial-intelligence-ai-in-marketing-market-trends-market-share-growth-opportunity-and-2023.md",
+      "title": "Artificial Intelligence (AI) in Marketing Market- Trends, market Share, Growth, Opportunity And 2023",
+      "excerpt": "Artificial Intelligence in Marketing Market Research Report, by Application (Ad Optimization, Content Curation),",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-marketing-market--trends-market-share-growth-opportunity-and-2023-2020-05-04",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-04T19:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial Intelligence (AI) in Marketing Market- Trends, market Share, Growth, Opportunity And 2023",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-05-attack-of-the-drones-boeing-rolls-out-first-loyal-wingman-ai-aircraft-in-australia.md",
       "title": "Attack of the drones: Boeing rolls out first ‘Loyal Wingman’ AI aircraft in Australia",
       "excerpt": "A Boeing-led team has presented the Royal Australian Air Force with its first “Loyal Wingman” aircraft, an AI-equipped drone that’s designed to fly in coordination with crewed military airplanes.",
@@ -1016,95 +1105,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-03-tech-in-latin-america-an-entrepreneurs-guide-to-aprils-startup-news.md",
-      "title": "Tech in Latin America: An entrepreneur’s guide to April’s startup news",
-      "excerpt": "Conrad lives in Medellin & NYC and profiles startup ecosystems during his travels. He is a Global Mentor at 500",
-      "heat": 72,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/podium/2020/05/03/tech-in-latin-america-an-entrepreneurs-guide-to-aprils-startup-news/",
-      "ampWebUrl": "https://thenextweb.com/podium/2020/05/03/tech-in-latin-america-an-entrepreneurs-guide-to-aprils-startup-news/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/podium/2020/05/03/tech-in-latin-america-an-entrepreneurs-guide-to-aprils-startup-news/amp/",
-      "publishedDateTime": "2020-05-03T15:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/93375883_3166416773370956_1945378279644987392_o-796x530.jpg",
-          "width": 796,
-          "height": 530,
-          "title": "Tech in Latin America: An entrepreneur’s guide to April’s startup news",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-03-intels-raja-koduri-confirms-that-massive-father-of-all-gpu-is-aimed-at-the-data-center.md",
-      "title": "Intel's Raja Koduri confirms that massive 'father of all' GPU is aimed at the data center",
-      "excerpt": "Intel tweeted a photo teasing a massive and mysterious GPU on Friday, and in doing so, lit the internet aflame with speculation. Early on, pretty much everyone settled on it being a form of Intel's upcoming Xe HP or",
-      "heat": 95,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techspot.com/news/85076-intel-raja-koduri-confirms-massive-father-all-gpu.html",
-      "ampWebUrl": "https://www.techspot.com/amp/news/85076-intel-raja-koduri-confirms-massive-father-all-gpu.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/85076-intel-raja-koduri-confirms-massive-father-all-gpu.html",
-      "publishedDateTime": "2020-05-03T10:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://static.techspot.com/articles-info/1898/images/2019-08-22-image.jpg",
-          "width": 2200,
-          "height": 1140,
-          "title": "Intel's Raja Koduri confirms that massive 'father of all' GPU is aimed at the data center",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

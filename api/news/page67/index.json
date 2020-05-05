@@ -2,6 +2,163 @@
   "page": 67,
   "value": [
     {
+      "path": "_news/2020-03-11-ai-provider-releases-social-determinants-of-health-tool.md",
+      "title": "AI provider releases social determinants of health tool",
+      "excerpt": "Jvion leveraged its own AI along with Microsoft Azure Maps to empower providers and health systems to address underserved populations. Jvion's social determinants of health platform also offers individualized interventions to aid in aligning community benefits more effectively. The platform is based on de-identified patient information.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.beckershospitalreview.com/artificial-intelligence/ai-provider-releases-social-determinants-of-health-tool.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-11T07:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Becker's Hospital Review",
+        "domain": "beckershospitalreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/3.jpg",
+          "width": 400,
+          "height": 300,
+          "title": "AI provider releases social determinants of health tool",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-11-intel-stock-is-poised-to-outperform-on-chip-and-ai-developments.md",
+      "title": "Intel Stock Is Poised to Outperform on Chip and AI Developments",
+      "excerpt": "Intel’s chips are proving to be popular with AI developers, and it expects its upcoming Cooper chips to “enable AI systems to be trained up to 60% faster than their predecessors.” Moreover, as I wrote in a previous article on AMD: “According to Analytics India Magazine, AI chips made by Habana are four times better than graphics ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://investorplace.com/2020/03/intel-stock-is-poised-to-outperform-on-chip-progress-and-ai-gains/",
+      "ampWebUrl": "https://investorplace.com/2020/03/intel-stock-is-poised-to-outperform-on-chip-progress-and-ai-gains/amp/",
+      "cdnAmpWebUrl": "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/03/intel-stock-is-poised-to-outperform-on-chip-progress-and-ai-gains/amp/",
+      "publishedDateTime": "2020-03-11T06:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InvestorPlace",
+        "domain": "investorplace.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://investorplace.com/wp-content/uploads/2019/10/intc1600n.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": "Intel Stock Is Poised to Outperform on Chip and AI Developments",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-11-ibm-watson-improves-ability-to-understand-the-language-of-business.md",
+      "title": "IBM Watson improves ability to understand the language of business",
+      "excerpt": "The new technologies represent the first commercialisation of key natural language processing (NLP) capabilities to come from IBM Research’s Project Debater, the only AI system capable of debating humans on complex topics. For example, a new advanced sentiment analysis feature has been developed to identify and analyse idioms and ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.information-age.com/ibm-watson-improves-ability-to-understand-language-business-123488213/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-11T06:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Information Age",
+        "domain": "information-age.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s27389.pcdn.co/wp-content/uploads/2020/03/ibm-watson-improves-ability-to-understand-language-business.jpeg",
+          "width": 1080,
+          "height": 608,
+          "title": "IBM Watson improves ability to understand the language of business",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-11-smart-machines-market-is-expected-to-witness-cagr-of-193-during-the-forecast-period-2019-2027.md",
+      "title": "Smart Machines Market Is Expected To Witness CAGR Of 19.3% During The Forecast Period (2019-2027)",
+      "excerpt": "Market Overview A smart machine is an intelligent device embedded with machine-to-machine technology to perform various",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/smart-machines-market-is-expected-to-witness-cagr-of-193-during-the-forecast-period-2019-2027-2020-03-11",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-11T06:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Smart Machines Market Is Expected To Witness CAGR Of 19.3% During The Forecast Period (2019-2027)",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-11-machine-learning-market-growth-factors-product-types-and-application-by-regions-analysis-and-forecast-by-2026.md",
       "title": "Machine Learning Market Growth Factors, Product Types and Application by Regions Analysis and Forecast by 2026",
       "excerpt": "Market Analysis: In accordance with the study held by Acumen Research, the Machine Learning Market size is projected to reach US$ 76.8 Bn by 2026 with a CAGR of 40.1% from 2019 to 2026. The report provides analysis of global Machine Learning Market for the period 2015-2026,",
@@ -826,180 +983,6 @@
         "IBM AI",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-03-11-how-ibm-watsons-new-natural-language-processing-capabilities-helps-business-users.md",
-      "title": "How IBM Watson's new natural language processing capabilities helps business users",
-      "excerpt": "IBM reports that Watson is ready to take on the most challenging aspects of the English language. New natural language processing (NLP) capabilities will be added to the artificial intelligence platform later this year to allow businesses to identify and analyze some of the most challenging aspects of human language. IBM has been developing ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/how-ibm-watsons-new-natural-language-processing-capabilities-helps-business-users/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/how-ibm-watsons-new-natural-language-processing-capabilities-helps-business-users/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-ibm-watsons-new-natural-language-processing-capabilities-helps-business-users/",
-      "publishedDateTime": "2020-03-10T21:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/03/10/d48ad02c-9a8d-41ce-9baf-ec8d046158b5/resize/1200x/11580c597b4bb6158ad17bab6a2a0b59/screen-shot-2020-03-10-at-10-31-22-am.png",
-          "width": 1200,
-          "height": 782,
-          "title": "How IBM Watson's new natural language processing capabilities helps business users",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-03-11-ibm-is-bringing-project-debater-to-watson.md",
-      "title": "IBM is bringing Project Debater to Watson",
-      "excerpt": "and Watson Discovery. This is the first commercialization of Project Debater since IBM Research introduced the AI capable of maintaining debate with human champions in June 2018. In its first match, which took place for an audience of reporters and investors at offices in San Francisco, Project Debater argued against Israel International Debate ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/03/10/ibm-is-bringing-project-debater-to-watson/",
-      "ampWebUrl": "https://venturebeat.com/2020/03/10/ibm-is-bringing-project-debater-to-watson/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/10/ibm-is-bringing-project-debater-to-watson/amp/",
-      "publishedDateTime": "2020-03-10T21:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/06/Project-Debater-with-human-professional.jpg?fit=1200%2C800&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": "IBM is bringing Project Debater to Watson",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-11-ibm-enhances-watsons-natural-language-understanding-capabilities.md",
-      "title": "IBM enhances Watson’s natural language understanding capabilities",
-      "excerpt": "IBM Corp. said today it has made some big improvements to the natural language processing capabilities of its IBM Watson platform. The new capabilities, which were born out of IBM Research’s Project Debater, will help Watson understand and analyze some of the most challenging aspects of English language with greater clarity than before ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://siliconangle.com/2020/03/11/ibm-enhances-watsons-natural-language-understanding-capabilities/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-10T21:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/03/13623054195_149c8b9839_k.jpg",
-          "width": 2048,
-          "height": 1500,
-          "title": "IBM enhances Watson’s natural language understanding capabilities",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-11-ibm-debater-ai-tech-now-is-a-service-any-customer-can-use.md",
-      "title": "IBM Debater AI tech now is a service any customer can use",
-      "excerpt": "The AI technology can spot trends in mountains of data like tweets, blog posts and podcasts. In 2018, IBM debuted technology called IBM Debater that used artificial intelligence technology to read lots of documents and take on a human in a competitive debate about issues like whether we should subsidize preschools.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnet.com/news/ibm-debater-ai-tech-now-is-a-service-any-customer-can-use/",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/ibm-debater-ai-tech-now-is-a-service-any-customer-can-use/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ibm-debater-ai-tech-now-is-a-service-any-customer-can-use/",
-      "publishedDateTime": "2020-03-10T21:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cnet1.cbsistatic.com/img/hEhpukwOIHukWLUhEshLD-AKc68=/756x567/2019/02/12/3d6faefe-fd11-4541-9d75-66f2aa327f37/20190211-ibm-debater-monolith-01.jpg",
-          "width": 756,
-          "height": 567,
-          "title": "IBM Debater AI tech now is a service any customer can use",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
       ]
     }
   ],

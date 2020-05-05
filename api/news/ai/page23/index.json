@@ -2,6 +2,165 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2020-04-09-global-artificial-intelligence-in-supply-chain-market-2020-to-2027-by-component-technology-application-and-by-end-user-researchandmarketscom.md",
+      "title": "Global Artificial Intelligence in Supply Chain Market (2020 to 2027) - by Component Technology, Application and by End User - ResearchAndMarkets.com",
+      "excerpt": "The \"Artificial Intelligence in Supply Chain Market by Component (Platforms, Solutions) Technology (Machine Learning, Computer Vision, Natural Language",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/04/b15773783/global-artificial-intelligence-in-supply-chain-market-2020-to-2027-by-component-technology-applica",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/15773783",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15773783",
+      "publishedDateTime": "2020-04-09T04:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-09-ai-and-the-coronavirus-fight-how-artificial-intelligence-is-taking-on-covid-19.md",
+      "title": "AI and the coronavirus fight: How artificial intelligence is taking on COVID-19",
+      "excerpt": "As the COVID-19 coronavirus outbreak continues to spread across the globe, companies and researchers are looking to use artificial intelligence as a way of addressing the ... turning COVID-Net from a technical implementation to a system that can be used by healthcare workers. It's also now developing a neural network for risk-stratifying ...",
+      "heat": 164,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/ai-and-the-coronavirus-fight-how-artificial-intelligence-is-taking-on-covid-19/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-and-the-coronavirus-fight-how-artificial-intelligence-is-taking-on-covid-19/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-and-the-coronavirus-fight-how-artificial-intelligence-is-taking-on-covid-19/",
+      "publishedDateTime": "2020-04-09T04:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2020/03/13/7e404fac-4532-4237-8f10-91e709d6b15b/thumbnail/1200x675/80e3fc902fe3c9d6aba28b44aa664ac0/20200313-tiernan-karen-corona.png",
+          "width": 1200,
+          "height": 675,
+          "title": "AI and the coronavirus fight: How artificial intelligence is taking on COVID-19",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Machine Learning",
+        "AI in Autos",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-09-fmi-updates-medical-bionic-implants-and-exoskeletons-market-forecast-and-analysis-as-corona-virus-outbreak-disturbs-investment-plans.md",
+      "title": "FMI Updates Medical Bionic Implants And Exoskeletons Market Forecast and Analysis as Corona Virus Outbreak Disturbs Investment Plans",
+      "excerpt": "Advancement in new robotics technology (mind-controlled bionic limbs & exoskeletons) coupled with 3D printing is also positively impacting the growth of the market. Download the sample copy of ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/fmi-updates-medical-bionic-implants-and-exoskeletons-market-forecast-and-analysis-as-corona-virus-outbreak-disturbs-investment-plans-2020-04-09",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-09T03:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "FMI Updates Medical Bionic Implants And Exoskeletons Market Forecast and Analysis as Corona Virus Outbreak Disturbs Investment Plans",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-09-robots-deliver-food-and-relief-to-uw-students-still-on-campus-during-covid-19-pandemic.md",
+      "title": "Robots deliver food — and relief — to UW students still on campus during COVID-19 pandemic",
+      "excerpt": "Students wary of coming into contact with COVID-19 at the dining hall can instead dispatch a robot to deliver food to their dorm.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://madison.com/wsj/news/local/education/university/robots-deliver-food-and-relief-to-uw-students-still-on-campus-during-covid-19-pandemic/article_cdd8a9f4-a2aa-542d-a226-02afa13dc3ef.html",
+      "ampWebUrl": "https://madison.com/news/local/education/university/robots-deliver-food-and-relief-to-uw-students-still-on-campus-during-covid-19-pandemic/article_cdd8a9f4-a2aa-542d-a226-02afa13dc3ef.amp.html",
+      "cdnAmpWebUrl": "https://madison-com.cdn.ampproject.org/c/s/madison.com/news/local/education/university/robots-deliver-food-and-relief-to-uw-students-still-on-campus-during-covid-19-pandemic/article_cdd8a9f4-a2aa-542d-a226-02afa13dc3ef.amp.html",
+      "publishedDateTime": "2020-04-09T03:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Madison.com",
+        "domain": "madison.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/3/fb/3fb77a79-7fe7-5882-84b1-de4944452c4c/5e8e28945f28f.image.jpg?resize=1024%2C701",
+          "width": 1024,
+          "height": 701,
+          "title": "Robots deliver food — and relief — to UW students still on campus during COVID-19 pandemic",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-09-singapore-dangles-70m-package-to-help-fintech-fsi-firms-drive-digital-efforts.md",
       "title": "Singapore dangles $70M package to help fintech, FSI firms drive digital efforts",
       "excerpt": "essential as it adopts new technologies such as AI, as well as more funding support for deep-tech startups and SMBs. Read More Funded by the country's Financial Sector Development Fund, the SG$125 million package focused on three components comprising workforce training and manpower costs, digitalisation and operational resilience, and fintech ...",
@@ -1132,176 +1291,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-08-builderai-launches-pre-packaged-apps-for-small-businesses-hit-by-covid-19.md",
-      "title": "Builder.ai launches pre-packaged apps for small businesses hit by COVID-19",
-      "excerpt": "Last year Builder.ai raised one of Europe’s largest Series A investments at $29.5 million, led by Lakestar and Jungle Ventures, with participation from SoftBank’s DeepCore. The company’s platform, which allows for the fast-build of software and apps, has been used to create products for BBC, DiditFor, Manscore and ZikTruck. It’s now ...",
-      "heat": 85,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/04/08/builder-ai-launches-pre-packaged-apps-for-small-businesses-hit-by-covid-19/",
-      "ampWebUrl": "https://techcrunch.com/2020/04/08/builder-ai-launches-pre-packaged-apps-for-small-businesses-hit-by-covid-19/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/08/builder-ai-launches-pre-packaged-apps-for-small-businesses-hit-by-covid-19/amp/",
-      "publishedDateTime": "2020-04-08T07:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/04/builder-studio-store.jpg?w=1024",
-          "width": 1024,
-          "height": 575,
-          "title": "Builder.ai launches pre-packaged apps for small businesses hit by COVID-19",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-08-using-nano-scale-spintronics-researchers-aim-to-build-novel-artificial-brain.md",
-      "title": "Using nano-scale spintronics, researchers aim to build novel artificial brain",
-      "excerpt": "New research project to develop AI hardware; a completely new kind of computer system that mimics how the human brain is built up. Out with CPUs and memory storage, and in with artificial neural networks that can increase computer performance by up to 100,000 times compared to modern supercomputers. Researchers from Aarhus University have just ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.eurekalert.org/pub_releases/2020-04/au-uns040820.php",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-08T06:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://eurekalert.org/multimedia/pub/web/228779_web.jpg",
-          "width": 1440,
-          "height": 2159,
-          "title": "Using nano-scale spintronics, researchers aim to build novel artificial brain",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-08-researchers-teach-robots-to-move-more-like-animals.md",
-      "title": "Researchers teach robots to move more like animals",
-      "excerpt": "Some of the things they’re able to do are very impressive. A group of researchers at the Berkeley Artificial Intelligence Research (BAIR) laboratory at Berkeley are trying to teach robots to move like animals. The scientists say that they have presented a framework for learning robotic locomotion skills by imitating animals. Using a reference ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.slashgear.com/researchers-teach-robots-to-move-more-like-animals-08615942/",
-      "ampWebUrl": "https://www.slashgear.com/researchers-teach-robots-to-move-more-like-animals-08615942/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/researchers-teach-robots-to-move-more-like-animals-08615942/amp/",
-      "publishedDateTime": "2020-04-08T06:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://scdn.slashgear.com/wp-content/uploads/2020/04/robot-motion.jpg",
-          "width": 1280,
-          "height": 608,
-          "title": "Researchers teach robots to move more like animals",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-08-coreldraw-graphics-suite-2020-review-faster-with-more-ai-and-added-collaboration.md",
-      "title": "CorelDRAW Graphics Suite 2020 review: Faster, with more AI and added collaboration",
-      "excerpt": "Since moving to annual updates, CorelDRAW has been getting one or two strong features in each release. In the 2020 release, which costs £299 a year or £599 as a one-time purchase, that includes using machine learning to improve several features. This isn't an attempt to deliver automatic designs, but to make designers more productive. Expert ...",
-      "heat": 81,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/product/coreldraw-graphics-suite-2020/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/product/coreldraw-graphics-suite-2020/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/product/coreldraw-graphics-suite-2020/",
-      "publishedDateTime": "2020-04-08T04:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/04/08/a05bd86c-08f6-40c9-93cc-b4cfbf01484d/coreldraw-gs-2020-powertrace.jpg",
-          "width": 770,
-          "height": 500,
-          "title": "CorelDRAW Graphics Suite 2020 review: Faster, with more AI and added collaboration",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

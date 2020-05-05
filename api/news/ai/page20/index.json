@@ -2,6 +2,162 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2020-04-14-self-driving-vehicles-many-challenges-remain-for-autonomous-navigation.md",
+      "title": "Self-driving vehicles: Many challenges remain for autonomous navigation",
+      "excerpt": "Like Waymo’s test vehicles, they would be designed for comparatively ... That will require improvements in sensors and in artificial intelligence, and in our understanding of their limits, particularly AI’s weakness at dealing with the unexpected.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.laserfocusworld.com/test-measurement/article/14169619/selfdriving-vehicles-many-challenges-remain-for-autonomous-navigation",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-13T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "laserfocusworld.com",
+        "domain": "laserfocusworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-13-north-america-self-driving-car-market-overview-and-scope-market-size-future-outlook-of-the-market-2018-2023.md",
+      "title": "North America Self-driving Car Market Overview and scope, Market Size, Future Outlook of the Market 2018-2023",
+      "excerpt": "A self-driving car also known as the driverless car or an autonomous car or a robotic car uses a combination of cameras, radars sensor, GPS system and artificial intelligence (AI) to travel ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/north-america-self-driving-car-market-overview-and-scope-market-size-future-outlook-of-the-market-2018-2023-2020-04-13",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-13T16:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "North America Self-driving Car Market Overview and scope, Market Size, Future Outlook of the Market 2018-2023",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-13-robots-emerge-as-useful-tools-in-fight-against-coronavirus.md",
+      "title": "Robots Emerge as Useful Tools in Fight Against Coronavirus",
+      "excerpt": "Robots in the futureRobotics has come a long way since that Ebola outbreak. Computer vision has gotten better, sensing capabilities have improved, and artificial intelligence has gotten smarter. All this translates into more potential for putting robots to good use. Today, investing in robotics development is a lot like investing in a large ...",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.govtech.com/products/Robots-Emerge-as-Useful-Tools-in-Fight-Against-Coronavirus.html",
+      "ampWebUrl": "https://www.govtech.com/products/Robots-Emerge-as-Useful-Tools-in-Fight-Against-Coronavirus.html?AMP",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/Robots-Emerge-as-Useful-Tools-in-Fight-Against-Coronavirus.html?AMP",
+      "publishedDateTime": "2020-04-13T15:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media2.govtech.com/images/shutterstock_611607041.jpg",
+          "width": 1148,
+          "height": 630,
+          "title": "Robots Emerge as Useful Tools in Fight Against Coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-13-hainan-rolls-out-face-scanning-machines-for-public-services-as-china-pushes-digital-infrastructure.md",
+      "title": "Hainan rolls out face-scanning machines for public services as China pushes digital infrastructure",
+      "excerpt": "A new 24-hour service is within reach with a face scan – in China. Authorities in the southern, island province of Hainan have launched facial recognition-backed public services, enabling citizens to attend to government-related matters without having to queue up for manual assistance during office hours. A total of 350 “public ...",
+      "heat": 75,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.scmp.com/tech/article/3079624/hainan-rolls-out-face-scanning-machines-public-services-china-pushes-digital",
+      "ampWebUrl": "https://amp.scmp.com/tech/article/3079624/hainan-rolls-out-face-scanning-machines-public-services-china-pushes-digital",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/article/3079624/hainan-rolls-out-face-scanning-machines-public-services-china-pushes-digital",
+      "publishedDateTime": "2020-04-13T14:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/04/13/107abe84-7d50-11ea-8736-98edddd9b5ca_image_hires_180925.JPG?itok=eGFvmZt-&v=1586772572",
+          "width": 1200,
+          "height": 630,
+          "title": "Hainan rolls out face-scanning machines for public services as China pushes digital infrastructure",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-13-huawei-said-to-be-eyeing-the-server-gpu-market-first-chips-to-arrive-later-this-year.md",
       "title": "Huawei said to be eyeing the server GPU market, first chips to arrive later this year",
       "excerpt": "And, best of all, it comes with PCIe 4.0, HCCS, and RoCE interface support. It would make sense for Huawei to move into GPUs for high-performance computing for scenarios that require general-purpose capabilities as opposed to AI chips which are mostly tailored for training neural networks in deep learning applications. We also know the Chinese ...",
@@ -1064,176 +1220,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-11-amazon-announces-general-availability-of-aws-deepcomposer.md",
-      "title": "Amazon Announces General Availability of AWS Deepcomposer",
-      "excerpt": "At re:Invent last year, Amazon launched AWS Deepcomposer as a preview, and it is generally available now with a few new features. These features include: Julien Simon, artificial intelligence ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.infoq.com/news/2020/04/amazon-aws-deepcomposer-ga/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-11T04:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/da4b9237bacccdf19c0760cab7aec4a8359010b0/2020/03/27/julsimon-deepcomposerga-1-1024x835.png",
-          "width": 1024,
-          "height": 835,
-          "title": "Amazon Announces General Availability of AWS Deepcomposer",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-11-enabling-financial-inclusion-in-asia.md",
-      "title": "Enabling Financial Inclusion in Asia",
-      "excerpt": "Fortunately, AI-enabled alternative credit scoring is upending this, creating opportunities for online lenders and fostering financial inclusion across the region ... borrowers who may otherwise be credit-worthy. Self-learning credit scoring models can continuously improve themselves via machine learning (ML) as new data feeds into the system.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.entrepreneur.com/article/349064",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/349064",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/349064",
-      "publishedDateTime": "2020-04-11T00:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/20181029051457-rsz-shutterstock-512201887.jpeg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": "Enabling Financial Inclusion in Asia",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-11-ai-in-the-enterprise-reality-or-myth.md",
-      "title": "AI In The Enterprise: Reality Or Myth?",
-      "excerpt": "It's estimated that enterprise AI usage has increased 270% since 2015. This has coincided with a massive spike in investment, with the enterprise AI industry expected to grow to $6.1 billion by 2022.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/04/09/ai-in-the-enterprise-reality-or-myth/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/04/09/ai-in-the-enterprise-reality-or-myth/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/04/09/ai-in-the-enterprise-reality-or-myth/amp/",
-      "publishedDateTime": "2020-04-10T23:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F04%2Fa-32.jpg",
-          "width": 640,
-          "height": 640,
-          "title": "AI In The Enterprise: Reality Or Myth?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-11-dont-turn-your-marketing-function-over-to-ai-just-yet.md",
-      "title": "Don't Turn Your Marketing Function Over To AI Just Yet",
-      "excerpt": "Lacking human insight, artificial intelligence will be limited when it comes to helping marketers open the black box of market prediction.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/hbsworkingknowledge/2020/04/10/dont-turn-your-marketing-function-over-to-ai-just-yet/",
-      "ampWebUrl": "https://www.forbes.com/sites/hbsworkingknowledge/2020/04/10/dont-turn-your-marketing-function-over-to-ai-just-yet/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/hbsworkingknowledge/2020/04/10/dont-turn-your-marketing-function-over-to-ai-just-yet/amp/",
-      "publishedDateTime": "2020-04-10T22:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e6937527d6f2600068f3b2d%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Don't Turn Your Marketing Function Over To AI Just Yet",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

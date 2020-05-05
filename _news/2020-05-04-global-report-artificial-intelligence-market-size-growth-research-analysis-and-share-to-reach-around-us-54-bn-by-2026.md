@@ -27,6 +27,21 @@ images:
     height: 630
     title: "Global Report: Artificial Intelligence Market Size, Growth Research Analysis and Share to reach around US $54 Bn by 2026"
 
+related:
+  - title: "Analysis on New Product Launches in Covid-19 Related Markets-Global Vision Processing Unit Market 2020-2024 | Growing Adoption of Deep Learning and AI to Boost Market Growth ..."
+    excerpt: "Technavio has announced its latest market research report titled Global Vision Processing Unit Market 2020-2024 (Graphic: Business Wire) LONDON-- ( BUSINESS WIRE )--The vision processing unit market is expected to grow by USD 892."
+    publishedDateTime: 2020-05-05T00:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200504005524/en/Analysis-New-Product-Launches-Covid-19-Related-Markets-Global"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 1
+    images:
+      - url: "https://mms.businesswire.com/media/20200504005524/en/789195/23/IRTNTR43075.jpg"
+        width: 1200
+        height: 627
+
 secured: "+Y50CCneH1yjXIe3AoayBzI5RrBI9ZRAbO1IG75Z+BWvebZK5hzcwSKVK6Y2P0C+mJlke2TIqNn9Xj1cYKv7QxwZeKd3VMjHSOVBNogrURyMlGVyxEC5aX5S09bhlGAykplOX/gdtssnHmO0uOqbCb3FlKswqeXl2zSn48eoyXrExvj2LpzgujZRkt3GT/+z26ygs2kIkRPl7JgW95BHLqGYBA9jeJdAXK3Mzru2N97deDx1D5mJ+mlEu3eIx6TE00bNi3I8VaRTCTnYgEWsRNSa2SrfrhKWylnAolaBBc3b8sAc74ehOGIVpZSm4yh7;2/yZpD9Ab5jmpVlU1KHyoQ=="
 ---
 

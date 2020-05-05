@@ -2,6 +2,185 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2020-04-19-does-this-7000-year-old-poop-belong-to-a-human-or-dog-machine-learning-has-the-answer.md",
+      "title": "Does This 7,000-Year-Old Poop Belong to a Human or Dog? Machine Learning Has the Answer",
+      "excerpt": "As outlined in the new paper, coproID uses machine learning software to compare ancient host DNA with DNA in modern feces, enabling it to distinguish between the two hosts in most cases. “CoproID is the first line of identification in coprolite analysis to confirm that what we’re looking for is actually human, or a dog if we’re interested ...",
+      "heat": 91,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.vice.com/en_au/article/jge7j4/does-this-7000-year-old-poop-belong-to-a-human-or-dog-machine-learning-has-the-answer",
+      "ampWebUrl": "https://www.vice.com/amp/en_au/article/jge7j4/does-this-7000-year-old-poop-belong-to-a-human-or-dog-machine-learning-has-the-answer",
+      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_au/article/jge7j4/does-this-7000-year-old-poop-belong-to-a-human-or-dog-machine-learning-has-the-answer",
+      "publishedDateTime": "2020-04-18T19:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VICE",
+        "domain": "vice.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/vice.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://video-images.vice.com/test-uploads/articles/5e98c20ac7e9d80099d6d452/lede/1587070293609-229163_web.jpeg?crop=1xw:0.8446298227320125xh;center,center",
+          "width": 1440,
+          "height": 810,
+          "title": "Does This 7,000-Year-Old Poop Belong to a Human or Dog? Machine Learning Has the Answer",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-19-uber-says-engineer-is-on-his-own-for-us180-million-legal-award-to-google.md",
+      "title": "Uber says engineer is on his own for US$180 million legal award to Google",
+      "excerpt": "engineering documents and software related to self-driving cars. Sign up now and get a 10% discount (original price US$400) off the China AI Report 2020 by SCMP Research. Learn about the AI ambitions of Alibaba, Baidu & JD.com through our in-depth case studies, and explore new applications of AI across industries. The report also includes ...",
+      "heat": 73,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.scmp.com/tech/big-tech/article/3080573/uber-says-engineer-his-own-us180-million-legal-award-google",
+      "ampWebUrl": "https://amp.scmp.com/tech/big-tech/article/3080573/uber-says-engineer-his-own-us180-million-legal-award-google",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3080573/uber-says-engineer-his-own-us180-million-legal-award-google",
+      "publishedDateTime": "2020-04-18T17:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/04/19/7f0db3be-81ca-11ea-8736-98edddd9b5ca_image_hires_080326.JPG?itok=xt1FJcBB&v=1587254613",
+          "width": 1200,
+          "height": 630,
+          "title": "Uber says engineer is on his own for US$180 million legal award to Google",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-18-for-this-high-yield-stock-5g-and-artificial-intelligence-outweigh-coronavirus.md",
+      "title": "For This High-Yield Stock, 5G and Artificial Intelligence Outweigh Coronavirus",
+      "excerpt": "Leading nodes are the smallest, densest, most advanced chips, with higher power and better battery efficiency. More powerful chips are needed in all the big megatrends today, from 5G communications to artificial intelligence applications in the data center. For instance, Taiwan Semiconductor gets almost half of its revenue from smartphone chips.",
+      "heat": 83,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fool.com/investing/2020/04/18/for-this-high-yield-stock-5g-and-artificial-intell.aspx?source=eptcnnlnk0000002",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/04/18/for-this-high-yield-stock-5g-and-artificial-intell.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/04/18/for-this-high-yield-stock-5g-and-artificial-intell.aspx",
+      "publishedDateTime": "2020-04-18T15:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F568547%2Fgettyimages-474499852.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 800,
+          "title": "For This High-Yield Stock, 5G and Artificial Intelligence Outweigh Coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-18-nvidias-rtx-voice-app-uses-ai-to-improve-noise-canceling-on-rtx-powered-systems.md",
+      "title": "Nvidia's 'RTX Voice' app uses AI to improve noise canceling on RTX-powered systems",
+      "excerpt": "Of course, the average work-from-home employee probably doesn't have an RTX GPU, which is a strict requirement here. RTX Voice relies on the AI capabilities built into the cards to function, meaning gamers are much more likely to benefit from it. Even so, Nvidia is currently supporting a nice mix of apps with RTX Voice, including gaming-centric ...",
+      "heat": 83,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techspot.com/news/84881-nvidia-rtx-voice-app-uses-ai-improve-noise.html",
+      "ampWebUrl": "https://www.techspot.com/amp/news/84881-nvidia-rtx-voice-app-uses-ai-improve-noise.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/84881-nvidia-rtx-voice-app-uses-ai-improve-noise.html",
+      "publishedDateTime": "2020-04-18T14:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.techspot.com/images2/news/bigimage/2020/04/2020-04-18-image-8.jpg",
+          "width": 1680,
+          "height": 1120,
+          "title": "Nvidia's 'RTX Voice' app uses AI to improve noise canceling on RTX-powered systems",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-18-tals-ai-mandarin-teaching-app-receives-recognition-by-unesco.md",
       "title": "TAL’s AI Mandarin Teaching App Receives Recognition by UNESCO",
       "excerpt": "The project focuses on helping improve the overall literacy rate, using AI speech recognition and big data, to increase opportunities for further inclusivity and social mobility within these rural communities. In 2018, Xueersi Online School under TAL ...",
@@ -891,169 +1070,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-17-ai-could-save-the-world-if-it-doesnt-ruin-the-environment-first.md",
-      "title": "AI Could Save the World, If It Doesn’t Ruin the Environment First",
-      "excerpt": "Cerebras is one of a handful of companies that are creating specialized hardware for AI algorithms. Last year, it came out of stealth with the release of the CS-1, a huge processor with 1.2 trillion transistors, 18 gigabytes of on-chip memory, and 400,000 processing cores. Effectively, this allows the CS-1, the largest computer chip ever made ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://uk.pcmag.com/artificial-intelligence-2/125690/ai-could-save-the-world-if-it-doesnt-ruin-the-environment-first",
-      "ampWebUrl": "https://uk.pcmag.com/artificial-intelligence-2/125690/ai-could-save-the-world-if-it-doesnt-ruin-the-environment-first?amp=1",
-      "cdnAmpWebUrl": "https://uk-pcmag-com.cdn.ampproject.org/c/s/uk.pcmag.com/artificial-intelligence-2/125690/ai-could-save-the-world-if-it-doesnt-ruin-the-environment-first?amp=1",
-      "publishedDateTime": "2020-04-17T09:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://sm.pcmag.com/t/pcmag_uk/news/a/ai-could-s/ai-could-save-the-world-if-it-doesnt-ruin-the-environment-fi_khzt.620.jpg",
-          "width": 620,
-          "height": 349,
-          "title": "AI Could Save the World, If It Doesn’t Ruin the Environment First",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-17-us-consumer-healthcare-advocacy-group-uschag-announces-partnership-with-ibm-solutions.md",
-      "title": "U.S. Consumer Healthcare Advocacy Group (USCHAG) Announces Partnership with IBM Solutions",
-      "excerpt": "U.S. Consumer Healthcare Advocacy Group (USCHAG) is pleased to announce a formal partnership with IBM Solutions.  While the details of",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.benzinga.com/pressreleases/20/04/n15831873/u-s-consumer-healthcare-advocacy-group-uschag-announces-partnership-with-ibm-solutions",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/15831873",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15831873",
-      "publishedDateTime": "2020-04-17T09:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-17-language-may-help-ai-navigate-new-environments.md",
-      "title": "Language may help AI navigate new environments",
-      "excerpt": "In a new study published this week on the preprint server Arxiv.org, scientists at the University of Toronto and the Vector Institute, an independent nonprofit dedicated to advancing AI, propose BabyAI++, a platform to study whether descriptive texts help AI to generalize across dynamic environments. Both it and several baseline models will ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/17/language-may-help-ai-navigate-new-environments/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/17/language-may-help-ai-navigate-new-environments/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/17/language-may-help-ai-navigate-new-environments/amp/",
-      "publishedDateTime": "2020-04-17T08:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/10/GettyImages-1073802514-e1582219406331.jpg?fit=1200%2C608&strip=all",
-          "width": 1200,
-          "height": 608,
-          "title": "Language may help AI navigate new environments",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-17-ai-researchers-propose-bias-bounties-to-put-ethics-principles-into-practice.md",
-      "title": "AI researchers propose ‘bias bounties’ to put ethics principles into practice",
-      "excerpt": "Researchers from Google Brain, Intel, OpenAI, and top research labs in the U.S. and Europe joined forces this week to release what the group calls a toolbox for turning AI ethics principles into practice. The kit for organizations creating AI models includes the idea of paying developers for finding bias in AI, akin to the bug bounties offered ...",
-      "heat": 101,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/17/ai-researchers-propose-bias-bounties-to-put-ethics-principles-into-practice/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/17/ai-researchers-propose-bias-bounties-to-put-ethics-principles-into-practice/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/17/ai-researchers-propose-bias-bounties-to-put-ethics-principles-into-practice/amp/",
-      "publishedDateTime": "2020-04-17T08:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/GettyImages-1199708189.jpg?fit=1800%2C900&strip=all",
-          "width": 1800,
-          "height": 900,
-          "title": "AI researchers propose ‘bias bounties’ to put ethics principles into practice",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],
