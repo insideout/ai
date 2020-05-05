@@ -7,8 +7,8 @@ webUrl: "https://singularityhub.com/2020/05/05/biological-to-artificial-and-back
 ampWebUrl: "https://singularityhub.com/2020/05/05/biological-to-artificial-and-back-a-core-ai-algorithm-may-work-in-the-brain/amp/"
 cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2020/05/05/biological-to-artificial-and-back-a-core-ai-algorithm-may-work-in-the-brain/amp/"
 type: article
-quality: 56
-heat: 56
+quality: 58
+heat: 58
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Machine Learning
 
 images:
   - url: "https://singularityhub.com/wp-content/uploads/2020/05/brain-neuroscience-deep-learning-backprop-2-1.jpg"
@@ -25,6 +26,6 @@ images:
     height: 601
     title: "Biological to Artificial and Back: A Core AI Algorithm May Work in the Brain"
 
-secured: "YFBhk7x2rxdfujYZsgtfK2MaXADr6JePAYvR15/Hcn8oBfppG0eTOY1cSoyxDsD+h31m2vl4b4H3x4+Faq6qm9Zc4PmSnuMNBZRRszg3BRmTUiWp31nZZougRYjXkBghUyNCi2Lf44ori8T5SzRdkcjjFaF+S7Z6/N0B47QN+v/G79ymNU1KK/6+0QgSN+kTMIH+6yY9ifEh2RgwQZoFtiNU9FLCFuye2l/x+Tb+bSw8EqfTxSTgzXu2ZRh3qHV1bxwRX2qkydLymnwSkHXvp/2B2HCas7eFap8aLtIHdUgwD2Dn4uofNSJW75eaTr88;KZEtSG7I8Wjo/35O+TjC9A=="
+secured: "j+vUTeR8VzNgMlorPn8G11R7lZA7oY2EhSsSxjoXx3t8VNhlgIdSTWTHgyrl0t4gNiBRnuUt1Pwvwp8+Iupv05SbXVS6UgGa1iX172oR6/UEKr80pzKAEwUTlCh1z/4TTxsTlCTdRAIM6iZptiFPGSEbjwPE/r7pudv6jXnKeJhWlrIcTEMKB8wQgX6qgxYFvfWojTGhWoSRc7N/VGkad6KSzzNgR6llOHpDe4kHg1/EC7ABmJN9Q6BDAug3Eag1MikEcBbCPuTlnmbM3MGIKu9i5OWsXcfrzed7xmkT6VSinowprr9LSeK61B8gDqc6zVxC+zS//RUnQ3Ug9G48slNO4NfZnkqGL9MH2W2PlCTKC7GTig7C+C1lsRTgt1gS1tFRrwtsOxE6QH+CGbeWK8mLB0n0dFi8xE74uRPlpGyTS/afwGisDA2KMCSC6wy0Lj/BsTuIdecqsIWnGac6gID++VT/sSlXMtDKVrccucY=;7RUYYqWlbBGYf9s2BfeYqw=="
 ---
 

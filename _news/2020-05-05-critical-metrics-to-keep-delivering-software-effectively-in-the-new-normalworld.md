@@ -23,6 +23,6 @@ images:
     height: 630
     title: "Critical Metrics to Keep Delivering Software Effectively in the New Normal’World"
 
-secured: "AT6Tby0YR2rktOd+t4eErLHzHj5+nIP2Ier7AsbJJpLFmbhCCUtZ1eDdEyeNMSFWSl9lHFWGppXJfUGFsIIfBY1FyqW2SoL2o13LRs5KSvWEIkfkA3O/VH5M1k2Uh2pYGVAAI4atfAdKisOfQIPAe1UhjwJAjdYEUSbw0XRiJ97CEZe173niw22gXhyVgMrT/RbSMbnkqgyQ+2mY7tbvsudRg8FoA1+JQX9uElvJAeCnUgdGZt6rNHXoCiXl7jI+kOU5zw7D/odWORLptXfK+SuexDfxpw1OMz0OFGUZO87SpF2RuXF6mXjEpD8XL6k7;/1anAL6JfDafYjynktXzOQ=="
+secured: "kZ1xidtitcX1scEo0YjXYt6Zpx2eDxgiXb9+NWgCG1nsS8Er/GqppexzsVOzYPTi7fZ/n2nxMl/V+pn0aNt6xq7eXm9JUFFxCSpfnJJEA2W9R0ehb4+WJIdQTpMs0tCAxyOafLIiBCOQJYHnWowurfJZCvDeVZYCsrRWoSF8QHv+Tfj8pr+2ODkzMMH9p2zBji5XJY/yoNOF0n/4qQBIuKTDelZtpLJx8faCySv93//f2QFjR/67uqV/wDa/Y4Y4MdEStoMl2LjQBQKAbN0HEP+ouLMcwfKzlm+XKoJejX2Tlg09m3Kgbg59FroqLcn5E5YinU3Zh6weHPlaNQbo2MWTXAA4q6izIndTw20lIHEbOrm6pMLaGrQHZNNNc7T2UbeEACzrG6//1caBQ/GchBAJrMlGL04CKrWr8K1mzAPf22/NesbzzVMe3WEOiWPZdX9znWExDaVuUg4nKWfu6jWZYIDbGk8HjO0LJ2Qa1XM=;XoPWIfX7QXi+U6PKn2SHnA=="
 ---
 

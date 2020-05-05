@@ -23,6 +23,6 @@ images:
     height: 627
     title: "Global Service Robotics Market 2020-2025: COVID-19 Impact Assessment - ResearchAndMarkets.com"
 
-secured: "C+HlOQba1hAMPt9j0BUs1nOaRMiquQPGlxBLBp9PLFpabSlIiYUpHqPlgfkIfqqKicqTl0icOLuDdh0X+x+p+lIrzJ5IKrLoEuJtRymyoKb1tDl8LhyGQHGT/nTrXmgiiSuHCviLe14lV5PUfTvxpXZLElhFMz7WVwcFjpC75D4F7V6JBcMkXNOxafH1rcl3G4gqCpSGFmtLVyfUGUkR5q9gYMjpHJrCpxchgqqxZ1kPK4wHEW8FIAzDiTQ5mVpLTK/d2zm1+B8qTAyL1NrsasbJg095VaH1bcQqfoo9I1doyls5ZutVGtbapzhVDf8z;Id8IPwUiA/hGHA3wC2DGyA=="
+secured: "s3ZUk2DHuiqROhzJZ82yHaZDtBmFUeK7I1ubQis7zdu+2feNcPQ7maH/1Lznd9o39ayIsgvAGn4/EMskzGzn7Lxjv3LaUUybkRL0+Qq/BGXnpaXUrz4eXjv6RmKzFWN7Pc0b8AJyTh8mE8ja/HBSZ37MQGHQVYCuwz+5UdbK4Fsy3pqShuhPe6zisHBFIQmT7aZJ8hcp6og7MYVnshYT3MmlQH/wJzR/K8epug/xH1HLX+3P41zjnjrIVdFSTLDQjVVyB+xk0H8h0LNMaTJG3C2YiW5+Ea2462ewSGXceXY9uWUsk4AL5xgZGAIICMnOknbnDEG+M0BMJq2qvVDJ4PSB/ak+0extAks6bDWHOuuCohhp64FWqYzKLzGnkhF0jJhALiW8U2Cu6a0kS/0uvJgkgfF4ixv/G5lznWIs5tHHHpzVG6MoS0k3XJAwCjR++WokrHNTgF7/JWeGgmaOq+/f6Ltv838Y2qWb2LnMcq0=;N5Q9inTHCs1bsC7Qst9HzQ=="
 ---
 
