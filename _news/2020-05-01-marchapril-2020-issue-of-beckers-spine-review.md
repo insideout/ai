@@ -1,9 +1,9 @@
 ---
 category: news
 title: "March/April 2020 Issue of Becker's Spine Review"
-excerpt: "Current Issue of Becker's Spine Review; California orthopedic surgeon shot, killed at his practice; CMS removes 6 spinal procedures from inpatient-only list; Dr. Sanjay Gupta: 9 E"
+excerpt: "Current Issue of Becker's Spine Review; California orthopedic surgeon shot, killed at his practice; Dr. Sanjay Gupta: 9 Emory physicians test positive for COVID-19, 20 more expect"
 publishedDateTime: 2020-05-01T22:32:00Z
-webUrl: "https://www.beckersspine.com/beckers-orthopedic-and-spine-review/item/48978-march-april-2020-issue-of-becker-s-spine-review"
+webUrl: "https://www.beckersspine.com/beckers-orthopedic-and-spine-review/item/48978-48978-march-april-2020-issue-of-becker-s-spine-review.html"
 type: article
 quality: 24
 heat: 24
@@ -23,6 +23,6 @@ images:
     height: 607
     title: "March/April 2020 Issue of Becker's Spine Review"
 
-secured: "E2Rzi+FdbHnMOy8MDX47aRSXVeMvpHkgGb1cCBuD3OGaYsVp1xpLEuMmVulvO6b6TQaT8x/nzAAycCgwEw0inZLy8CaStlnYKv8u4G2GXQqpVHiHy2w+KQb9WRKdacjwt5qwzgyN5g3SCuonSURtvCG3kykGTYSnwWcBPN3iPRsxxPvsDvr1cKiHp65cXYDnLDNhJFXuJUdIPIyIludSJL7+anHd0gEwZkorN7a4ENIL5FYoDPMOdd3A0nZ6eU1IRaLx1qiXb/N9/7ZG/IUkRQk1v2BR841Ez6Pzrce88Y5Ro53vccOxmYMPAUM6b+Bs;QJiuYvma7Lg5v3YbGU3BWw=="
+secured: "RXvYeN/TFtPYkAwSJ/kSYnmaiMUF07U0t/4trTIa7EW5cQMWzQfkdQGRnR6Ucc/Qbk3rNZP4y9jvKmjDAGHLj5WKhwKgw+KG0tKzW4kExh06j/qmWRLfsvGTpnnd/q3wQ+vNfrzslCBSncjWrIOTjnPyCh5tFpL6swJl932//m2teAc98iewY2Jghs5/k+scJH47gBh0n5hE3WGBVdeO2abkUbTmvwSKYP7naLidJpJHXNkslF/CCTfbsmYktPrmWQOlVIsP5nPsQw76KeT5a0x62racMr/sK4pI1jmZ1LgLQdqLzd6oeFvD6NZWKmsw;GRVRLo78tlR1XOeyhsIUsg=="
 ---
 

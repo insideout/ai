@@ -5,8 +5,8 @@ excerpt: "Point Roberts, WA and Vancouver, BC - May 5, 2020 (Investorideas.com N
 publishedDateTime: 2020-05-05T17:13:00Z
 webUrl: "https://www.marketwatch.com/press-release/the-ai-eye-episode-343-intel-acquires-maas-firm-moovit-and-ibm-unveils-watson-aiops-2020-05-05"
 type: article
-quality: 77
-heat: 77
+quality: 79
+heat: 79
 published: true
 
 provider:
@@ -20,6 +20,7 @@ provider:
 topics:
   - IBM AI
   - AI
+  - AI in Autos
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
