@@ -37,6 +37,19 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Global Machine Learning as a Service Market 2020 Key Performance, Top Players, Segmentation, Future Plans and Forecast to 2026"
+    excerpt: "Global Machine Learning as a Service Market 2020 by Company, Regions, Type and Application, Forecast to 2026 equipped with market data from 2015 to 2026. The report comprises the past, current, and projection size of the market."
+    publishedDateTime: 2020-05-06T14:55:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-machine-learning-as-a-service-market-2020-key-performance-top-players-segmentation-future-plans-and-forecast-to-2026-2020-05-06"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 41
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
 
 secured: "v2IpGtd5/B+eGPVYc9U/Ek2ZvdctaObKaZCvbAlK1e4Gf5crMZnPBUNBxhiyitjeRAEww5eFoRkM4OdEvoT5CKfa9MbK7GF1yHBHFMgIDCMY5BXtKxP4QtQiyGlXUnBDNYY4OGNc9AINxassWRkyR1A9PpdGX/ZVCYWDaxYWh4DA/r8B/es83kCexVLMb1Jiv0LGpUbnQ/6cYgJkp5huXBc+Bjfz5Isi2GkiuTBibq9rGeSaQVYgy8l92VWxUHV8Hhq15lU1XUrgJ+fIzlfqliy53nV3IZWKYkOh9LiujgVS2pSsg9ZkXqP3FyElUDs83QUuydaLfoIzrBXvu9X8CiZI+9dq0iwtN4QpwiWjv2pveE6O7SKtxZyIMjD4inSJEWuAkGtivfR0drK4bfXvMOQ1cIUk/PQWQQ+6jNcgltAs2ZJH9qUbeq7yGIhWV1mmmENLKkwoJ5ER6uicMFCJPiTNNRQwCZCLWK5qzw5Zo4Y=;q074Vj3Rgp/1foMPJ8ku3Q=="
 ---

@@ -5,8 +5,8 @@ excerpt: "These days AI is a big buzzword. While it rises in popularity, the con
 publishedDateTime: 2020-05-04T12:05:00Z
 webUrl: "https://www.infoq.com/articles/ai-test-automation/"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -15,6 +15,7 @@ provider:
 
 topics:
   - AI
+  - Google AI
 
 images:
   - url: "https://res.infoq.com/articles/ai-test-automation/en/headerimage/ai-test-automation-h-1588323699366.jpg"
