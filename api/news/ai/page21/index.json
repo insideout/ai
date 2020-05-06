@@ -2,6 +2,87 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2020-04-14-how-ai-helps-scientists-find-reliable-coronavirus-research.md",
+      "title": "How AI helps scientists find reliable coronavirus research",
+      "excerpt": "This is where the artificial intelligence community enters the scene. Among other efforts to help fight the coronavirus pandemic, AI researchers are fast busy developing tools that will help medical scientists navigate the fast-growing corpus of literature surrounding coronavirus. Read: [Researchers want your voice to train coronavirus ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/04/14/how-ai-helps-scientists-find-reliable-coronavirus-research/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/04/14/how-ai-helps-scientists-find-reliable-coronavirus-research/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/04/14/how-ai-helps-scientists-find-reliable-coronavirus-research/amp/",
+      "publishedDateTime": "2020-04-14T09:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/04/1-20-796x417.jpg",
+          "width": 796,
+          "height": 417,
+          "title": "How AI helps scientists find reliable coronavirus research",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-14-computer-vision-ai-safeguard-atms.md",
+      "title": "Computer Vision & AI Safeguard ATMs",
+      "excerpt": "Computerworld covers a range of technology topics, with a focus on these core areas of IT: Windows, Mobile, Apple/enterprise, Office and productivity suites, collaboration, web browsers and blockchain,",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.computerworld.com/resources/201314/computer-vision-ai-safeguard-atms",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-14T08:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computerworld",
+        "domain": "computerworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://idge.staticworld.net/ctw/computerworld-logo300x300.png",
+          "width": 300,
+          "height": 300,
+          "title": "Computer Vision & AI Safeguard ATMs",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-14-abaco-systems-partners-with-deepsig-to-demonstrate-integrated-ai-based-electronic-warfare-solution.md",
       "title": "Abaco Systems Partners with DeepSig to Demonstrate Integrated AI-based Electronic Warfare Solution",
       "excerpt": "Artificial intelligence-based applications are a key focus for us at Abaco, and this partnership with DeepSig allows us to show prospective customers a complete, integrated, hardware and software solution that is rugged and ready to deploy,",
@@ -1097,95 +1178,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-13-growth-of-global-artificial-intelligence-ai-in-retail-market-report-till-2024.md",
-      "title": "Growth of Global Artificial Intelligence (AI) in Retail Market Report Till 2024",
-      "excerpt": "Market Study Report LLC adds new research on Artificial Intelligence (AI) in Retail market, which is a detailed analysis of",
-      "heat": 80,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/growth-of-global-artificial-intelligence-ai-in-retail-market-report-till-2024-2020-04-13",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-13T08:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Growth of Global Artificial Intelligence (AI) in Retail Market Report Till 2024",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-13-facebooks-ai-teaches-robots-to-navigate-environments-using-less-data.md",
-      "title": "Facebook’s AI teaches robots to navigate environments using less data",
-      "excerpt": "In a recent paper published on the preprint server Arxiv.org, researchers at Carnegie Mellon, Facebook, and the University of Illinois Urbana-Champaign propose Active Neural Simultaneous Localization and Mapping (SLAM), a hierarchical approach for teaching AI agents to explore environments. They say that it leverages the strength of both ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/13/facebooks-ai-teaches-robots-to-navigate-environments-using-less-data/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/13/facebooks-ai-teaches-robots-to-navigate-environments-using-less-data/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/13/facebooks-ai-teaches-robots-to-navigate-environments-using-less-data/amp/",
-      "publishedDateTime": "2020-04-13T08:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/05/facebook-ai.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Facebook’s AI teaches robots to navigate environments using less data",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

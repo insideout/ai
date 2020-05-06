@@ -25,6 +25,6 @@ images:
     height: 860
     title: "Amazon Ring Tests the Waters for Facial Recognition, Leaks Reveal"
 
-secured: "njqnvLVN3sbuGEUBPaLZ7+T/6ByETMDhe+fMrSDgq9nJVq18+vcyX8bMJVSKNcID1WdmJzyLN7bmbFacSZdonKuW5ZZYFOK2BFPKYgwFJeLdlCAebZQW1+QtEkj2OjIlHhKk70g0pkkTlyQ4j/SNOR+VPJ+t4B7x6xumw8gfpOt1CTIrg2+rQoT2XywMX6DGnBLoE+4X/Atoqs80BMJXGLbuM26AbSu65MzBOpOJnMVR6HT6AvxK2BXZ8GKLRiPKl8rAzGaYTV+w+1KwTCOQCpvUTQ2c+N1yJdaPzkCov/kKnT9JTfLZoxR7WAuum6CW;mAfG90qmfqUQx/gRN8CraQ=="
+secured: "UhjTfpw5rGR2bEXqSzaJgbGMSjb4tlyUmAy1i5btPAPanTi/YdHepSrD6WdCr8vyTFciLZlRbGE494n7qtkjbzj6Wq8T1R4AwqOIDwLAJ3manv0m1EWLinMcCVzeRdCVbqhsdXWy5EMbAWgFRHnDdris155JrJ6lsXI7ABY/pot3HOU5G3B/Qpj7ud75cBTzvlp+5VvsIKqI4POHCQRjO99XtltiWTWA4ryBwapb9BQF8QNusaIr+OO5z1qKsGMvIL7zvNkPA3bDvYn+GXn1mjoRV5d4rH8q2oK7IfF73S+Yf7UwuIOdqb208cIWc4y+m9ypsaujtm5YTPim6aBO2CtWWpJTeJFvf4+kZ1ANtm+5hcCxgnYUESgMn7nZo6hGP/6/ZE8Q1iJ0wFBkf9n82iTf+gQYxUAVDvuRXXo25G4TjUdgTxwkFGeDvIXbYrl+8Iv1QwBxLOTf+nRDTeVfUGI2R27+iIzKxHwBYj05/4k=;KSsbWOBOzDz/Z5f4ZyouUw=="
 ---
 

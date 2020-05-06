@@ -2,6 +2,94 @@
   "page": 70,
   "value": [
     {
+      "path": "_news/2020-02-23-this-technique-uses-ai-to-fool-other-ais.md",
+      "title": "This Technique Uses AI to Fool Other AIs",
+      "excerpt": "Research shows how AI programs that parse and analyze text can be confused and deceived by carefully crafted phrases. A sentence that seems straightforward to you or me may have a strange ability to deceive an AI algorithm. Jin and colleagues devised an algorithm called TextFooler capable of deceiving an AI system without changing the meaning ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wired.com/story/technique-uses-ai-fool-other-ais/",
+      "ampWebUrl": "https://www.wired.com/story/technique-uses-ai-fool-other-ais/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/technique-uses-ai-fool-other-ais/amp",
+      "publishedDateTime": "2020-02-23T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5e509f9235982c0009f6eb56/master/pass/5e509f7e6b2364000910b4d9_business-deceptive_ai_text-1140942135_autoxauto_00001.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": "This Technique Uses AI to Fool Other AIs",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-22-the-case-against-ai-ux-and-coding-bootcamps.md",
+      "title": "The Case Against AI, UX, And Coding Bootcamps",
+      "excerpt": "By the year 2028, the technology industry will predictably experience a 21% rise in demand for software engineering talent, compared to a 5% growth rate for all other occupations. Traditional universities,",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/aswinpranam/2020/02/22/the-case-against-ai-ux-and-coding-bootcamps/",
+      "ampWebUrl": "https://www.forbes.com/sites/aswinpranam/2020/02/22/the-case-against-ai-ux-and-coding-bootcamps/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aswinpranam/2020/02/22/the-case-against-ai-ux-and-coding-bootcamps/amp/",
+      "publishedDateTime": "2020-02-22T14:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/711x525/https://specials-images.forbesimg.com/imageserve/1005771222/960x0.jpg?fit=scale",
+          "width": 711,
+          "height": 525,
+          "title": "The Case Against AI, UX, And Coding Bootcamps",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-02-22-hbo-hbo-max-are-heading-to-youtube-tv.md",
       "title": "HBO, HBO Max Are Heading To YouTube TV",
       "excerpt": "Google's live TV streaming platform will soon let users sign up for HBO, Cinemax, and HBO Max. WarnerMedia announced a distribution agreement that'll enhance YouTube TV with linear and on-demand content from the premium services.",
@@ -1222,96 +1310,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-21-artificial-intelligence-ai-market-latest-advancements-and-technology-growth-2020-to-2026.md",
-      "title": "Artificial Intelligence (AI) Market Latest Advancements and Technology Growth 2020 to 2026",
-      "excerpt": "Global Artificial Intelligence (AI) Market research report published by market insight reports explores the current outlook in global and key regions from the perspective of Major Players, Countries,",
-      "heat": 184,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-latest-advancements-and-technology-growth-2020-to-2026-2020-02-21",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-20T23:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Artificial Intelligence (AI) Market Latest Advancements and Technology Growth 2020 to 2026",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-21-the-amazing-ways-goodyear-uses-artificial-intelligence-and-iot-for-digital-transformation.md",
-      "title": "The Amazing Ways Goodyear Uses Artificial Intelligence And IoT For Digital Transformation",
-      "excerpt": "Although Goodyear is a mature company, they are on the cutting edge of using today’s newest technology to propel innovation and their business in the 21st century.",
-      "heat": 130,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2020/02/21/the-amazing-ways-goodyear-uses-artificial-intelligence-and-iot-for-digital-transformation/",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2020/02/21/the-amazing-ways-goodyear-uses-artificial-intelligence-and-iot-for-digital-transformation/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2020/02/21/the-amazing-ways-goodyear-uses-artificial-intelligence-and-iot-for-digital-transformation/amp/",
-      "publishedDateTime": "2020-02-20T21:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e4f6b9f765d4500072cd7f2%2F0x0.jpg",
-          "width": 1200,
-          "height": 577,
-          "title": "The Amazing Ways Goodyear Uses Artificial Intelligence And IoT For Digital Transformation",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

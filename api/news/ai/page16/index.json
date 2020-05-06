@@ -2,6 +2,51 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2020-04-18-nvidias-rtx-voice-app-uses-ai-to-improve-noise-canceling-on-rtx-powered-systems.md",
+      "title": "Nvidia's 'RTX Voice' app uses AI to improve noise canceling on RTX-powered systems",
+      "excerpt": "Of course, the average work-from-home employee probably doesn't have an RTX GPU, which is a strict requirement here. RTX Voice relies on the AI capabilities built into the cards to function, meaning gamers are much more likely to benefit from it. Even so, Nvidia is currently supporting a nice mix of apps with RTX Voice, including gaming-centric ...",
+      "heat": 83,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techspot.com/news/84881-nvidia-rtx-voice-app-uses-ai-improve-noise.html",
+      "ampWebUrl": "https://www.techspot.com/amp/news/84881-nvidia-rtx-voice-app-uses-ai-improve-noise.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/84881-nvidia-rtx-voice-app-uses-ai-improve-noise.html",
+      "publishedDateTime": "2020-04-18T14:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.techspot.com/images2/news/bigimage/2020/04/2020-04-18-image-8.jpg",
+          "width": 1680,
+          "height": 1120,
+          "title": "Nvidia's 'RTX Voice' app uses AI to improve noise canceling on RTX-powered systems",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-18-tals-ai-mandarin-teaching-app-receives-recognition-by-unesco.md",
       "title": "TAL’s AI Mandarin Teaching App Receives Recognition by UNESCO",
       "excerpt": "The project focuses on helping improve the overall literacy rate, using AI speech recognition and big data, to increase opportunities for further inclusivity and social mobility within these rural communities. In 2018, Xueersi Online School under TAL ...",
@@ -1217,52 +1262,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-17-how-facebook-works-for-trump.md",
-      "title": "How Facebook Works for Trump",
-      "excerpt": "In the artificial-intelligence field, this system is the opposite of self-driving cars or robots or virtual assistants: a deeply boring, basically invisible application of machine learning that is dramatically reshaping our lives not someday, but right now. Facebook wired a machine into electoral decision making. Political campaigns have ceased ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.theatlantic.com/technology/archive/2020/04/how-facebooks-ad-technology-helps-trump-win/606403/",
-      "ampWebUrl": "https://amp.theatlantic.com/amp/article/606403/",
-      "cdnAmpWebUrl": "https://amp-theatlantic-com.cdn.ampproject.org/c/s/amp.theatlantic.com/amp/article/606403/",
-      "publishedDateTime": "2020-04-17T06:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Atlantic",
-        "domain": "theatlantic.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/theatlantic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.theatlantic.com/thumbor/tUyia50nMKcThmFLEx4TGD5fU-o=/0x85:2000x1210/570x321/media/img/mt/2020/04/WebArt_IanBogost_FacebookTrump_1/original.jpg",
-          "width": 570,
-          "height": 321,
-          "title": "How Facebook Works for Trump",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

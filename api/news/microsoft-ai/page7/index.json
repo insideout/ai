@@ -2,6 +2,43 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-02-21-microsoft-threat-protection-an-israeli-built-ai-bundle-of-redmonds-security-services.md",
+      "title": "Microsoft Threat Protection: an Israeli-built AI bundle of Redmond's security services",
+      "excerpt": "Microsoft Threat Protection literally consists of four existing services including Microsoft Defender Advanced Threat Protection (ATP), its Windows antivirus — which these days Mac and Linux too — Office ATP, Azure ATP, and its cloud app security suite. But while Microsoft Threat Protection is a combination of those existing services ...",
+      "heat": 116,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.csoonline.com/article/3528708/microsoft-threat-protection-an-israeli-built-ai-bundle-of-redmonds-security-services.html",
+      "ampWebUrl": "https://www.csoonline.com/article/3528708/microsoft-threat-protection-an-israeli-built-ai-bundle-of-redmonds-security-services.amp.html",
+      "cdnAmpWebUrl": "https://www-csoonline-com.cdn.ampproject.org/c/s/www.csoonline.com/article/3528708/microsoft-threat-protection-an-israeli-built-ai-bundle-of-redmonds-security-services.amp.html",
+      "publishedDateTime": "2020-02-20T18:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CSOonline",
+        "domain": "csoonline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2019/12/09/06/2019-11-16t023310z_1_lynxmpefaf02a_rtroptp_4_microsoft-results-100820758-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Microsoft Threat Protection: an Israeli-built AI bundle of Redmond's security services",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-02-20-cybermdx-announces-integration-with-microsoft-azure-security-center-for-iot.md",
       "title": "CyberMDX Announces Integration With Microsoft Azure Security Center for IoT",
       "excerpt": "/PRNewswire/ -- CyberMDX, a leading provider of medical cyber security solution, delivering asset visibility and threat prevention for medical devices",
@@ -1248,51 +1285,6 @@
         "AI",
         "Microsoft AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-02-03-microsoft-azure-cloud-migration-3-success-stories.md",
-      "title": "Microsoft Azure cloud migration: 3 success stories",
-      "excerpt": "“Also, Azure has made it easier for us to continue our work using AI, machine learning, and other data-driven strategies to serve our customers better,” Thadani says. The data migration effort presented some technical challenges, due to the table sizes and data type compatibility between legacy warehouse platforms and SQL Server, Thadani say",
-      "heat": 134,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.infoworld.com/article/3518812/microsoft-azure-cloud-migration-3-success-stories.html",
-      "ampWebUrl": "https://www.infoworld.com/article/3518812/microsoft-azure-cloud-migration-3-success-stories.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3518812/microsoft-azure-cloud-migration-3-success-stories.amp.html",
-      "publishedDateTime": "2020-02-03T03:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2017/11/cloudmigrationpath-100743295-large.jpg",
-          "width": 1200,
-          "height": 771,
-          "title": "Microsoft Azure cloud migration: 3 success stories",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

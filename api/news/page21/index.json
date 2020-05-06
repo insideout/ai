@@ -2,6 +2,43 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2020-04-17-sebastian-thrun-king-of-the-geeks.md",
+      "title": "Sebastian Thrun – king of the geeks",
+      "excerpt": "Sebastian Thrun – king of the geeks In the clandestine Google X laboratory, Thrun – the guru of artificial intelligence and the man behind Google’s driverless car – is busy inventing the ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.thetimes.co.uk/article/sebastian-thrun-king-of-the-geeks-xdrks90sfqd",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-16T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Times",
+        "domain": "thetimes.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprodmigration%2Fweb%2Fbin%2F0478f394-5f6e-3dd8-8256-9ec147aff66b.jpg?crop=1500%2C1000%2C0%2C0&resize=1180",
+          "width": 1180,
+          "height": 786,
+          "title": "Sebastian Thrun – king of the geeks",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-17-tensorflow-to-rtl-with-high-level-synthesis-cadence-design-systems.md",
       "title": "TensorFlow to RTL with High-Level Synthesis — Cadence Design Systems",
       "excerpt": "High-level synthesis (HLS) can provide a mechanism to get from AI frameworks like TensorFlow into synthesizable RTL, enabling the development of high-performance inference architectures. In this episode of Chalk Talk, Amelia Dalton chats with Dave Apte of ...",
@@ -1017,51 +1054,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-16-chinese-av-startups-didi-and-autox-set-to-launch-robotaxi-pilot-programs-in-may.md",
-      "title": "Chinese AV startups Didi and AutoX set to launch robotaxi pilot programs in May",
-      "excerpt": "Two of China’s leading self-driving car firms Didi Chuxing and AutoX are reportedly set to launch their ... The race to be among the first to launch commercial autonomous ride-hailing cabs have been raging in China with Pony.ai and Baidu at the forefront. AutoX and Didi are aiming to become among the first to get the nod to commercialize ...",
-      "heat": 70,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.gizmochina.com/2020/04/16/chinese-av-startups-didi-and-autox-set-to-launch-robotaxi-pilot-programs-in-may/",
-      "ampWebUrl": "https://www.gizmochina.com/2020/04/16/chinese-av-startups-didi-and-autox-set-to-launch-robotaxi-pilot-programs-in-may/?amp",
-      "cdnAmpWebUrl": "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2020/04/16/chinese-av-startups-didi-and-autox-set-to-launch-robotaxi-pilot-programs-in-may/?amp",
-      "publishedDateTime": "2020-04-16T07:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2020/04/auto-x.jpg",
-          "width": 1620,
-          "height": 1080,
-          "title": "Chinese AV startups Didi and AutoX set to launch robotaxi pilot programs in May",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

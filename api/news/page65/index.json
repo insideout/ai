@@ -2,6 +2,88 @@
   "page": 65,
   "value": [
     {
+      "path": "_news/2020-03-14-nypd-says-it-plans-to-use-facial-recognition-technology.md",
+      "title": "NYPD says it plans to use facial recognition technology",
+      "excerpt": "The NYPD on Friday said it plans to use emerging facial recognition technology in limited circumstances for “legitimate law enforcement purposes.” In announcing the policy Friday, NYPD Commissioner Dermot Shea outlined what he called six limited circumstances where the digital programs would be used to help develop leads to solve crimes.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.newsday.com/news/new-york/nypd-facial-recognition-technology-1.43047575",
+      "ampWebUrl": "https://www.newsday.com/amp/news/new-york/nypd-facial-recognition-technology-1.43047575",
+      "cdnAmpWebUrl": "https://www-newsday-com.cdn.ampproject.org/c/s/www.newsday.com/amp/news/new-york/nypd-facial-recognition-technology-1.43047575",
+      "publishedDateTime": "2020-03-13T17:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsday",
+        "domain": "newsday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.newsday.com/polopoly_fs/1.43047839.1584146943!/httpImage/image.jpg_gen/derivatives/landscape_1280/image.jpg",
+          "width": 1280,
+          "height": 719,
+          "title": "NYPD says it plans to use facial recognition technology",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-14-ai-can-detect-corona-virus-from-ct-scans-in-just-20-seconds.md",
+      "title": "AI can detect Corona virus from CT scans in just 20 seconds",
+      "excerpt": "Chinese tech company Alibaba, says its AI can detect Corona virus from CT scans in just 20 seconds. It takes doctors around 20 mins to do the same. The model has an accuracy of around 96%. The diagnosis algorithm was developed by Alibaba's research institute Damo Academy. Researchers at the academy said they had trained the AI model with sample ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.linkedin.com/pulse/ai-can-detect-corona-virus-from-ct-scans-just-20-seconds-alan-brown/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-13T17:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4D12AQGrEHprOlem7Q/article-cover_image-shrink_720_1280/0?e=1590624000&v=beta&t=VCPInLfR_pD5-rvXfrBh0UFfdTtHwNzswxK4BNKriAA",
+          "width": 1080,
+          "height": 720,
+          "title": "AI can detect Corona virus from CT scans in just 20 seconds",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-14-driverless-trucks-being-tested-right-now-on-public-roads.md",
       "title": "Driverless trucks being tested right now on public roads",
       "excerpt": "(CBS News) — Few are aware that driverless 18-wheelers are already on the road ... cameras and radar devices affixed to the rig feed data to the artificial intelligence-driven supercomputer that controls the truck. Price says his product is superior to others. “Our system can see farther than any other autonomous system in the world.",
@@ -921,88 +1003,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-13-aclu-sues-for-government-facial-recognition-records.md",
-      "title": "ACLU Sues For Government Facial Recognition Records",
-      "excerpt": "The American Civil Liberties Union and New York Civil Liberties Union are challenging federal law enforcement’s use of facial recognition surveillance tech. A lawsuit was filed Thursday against the U.S. Department of Homeland Security (DHS), Customs and Border Protection (CBP), Immigration and Customs Enforcement (ICE), and Transportation ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.geek.com/tech/aclu-sues-for-government-facial-recognition-records-1820222/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-13T04:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Geek.com",
-        "domain": "geek.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/geek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.geek.com/wp-content/uploads/2020/03/face-detection-geraltPixabay.jpg",
-          "width": 690,
-          "height": 388,
-          "title": "ACLU Sues For Government Facial Recognition Records",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-13-ing-invests-in-natural-language-proccesor-eigen-technologies.md",
-      "title": "ING invests in natural language proccesor Eigen Technologies",
-      "excerpt": "ING has contributed EUR4.5 million to a $42 million funding round in natural language processing vendor Eigen Technologies. The investment, made through the bank’s venture capital arm ING Ventures, is part of Eigen’s Series B round announced in November 2019, which also included financing from Goldman Sachs. Eigen’s NLP technology is ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.finextra.com/newsarticle/35454/ing-invests-in-natural-language-proccesor-eigen-technologies",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-13T04:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finextra",
-        "domain": "finextra.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.finextra.com/finextra-images/top_pics/xl/ing.jpeg",
-          "width": 480,
-          "height": 270,
-          "title": "ING invests in natural language proccesor Eigen Technologies",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

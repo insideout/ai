@@ -2,6 +2,43 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-04-26-marshalls-speech-and-hearing-center-awarded-grant-from-parkinson-voice-project.md",
+      "title": "Marshall’s Speech and Hearing Center awarded grant from Parkinson Voice Project",
+      "excerpt": "The Marshall University Speech and Hearing Center (MUSHC) has been awarded its third grant from the Parkinson Voice Project in recognition of their ongoing SPEAK OUT! & LOUD",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.herald-dispatch.com/features_entertainment/marshall-s-speech-and-hearing-center-awarded-grant-from-parkinson-voice-project/article_df71843a-8c1d-5bbd-84f5-865f57700228.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-25T21:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Herald-Dispatch",
+        "domain": "herald-dispatch.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/herald-dispatch.com/content/tncms/assets/v3/editorial/6/e2/6e2c4b3d-433b-544d-97de-8e6f2902f1ef/5ea3578b52923.image.jpg?resize=945%2C630",
+          "width": 945,
+          "height": 630,
+          "title": "Marshall’s Speech and Hearing Center awarded grant from Parkinson Voice Project",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-26-nvidias-rtx-voice-uses-ai-and-gpus-to-eliminate-noise-from-your-video-conferences.md",
       "title": "NVIDIA’s RTX Voice Uses AI And GPUs To Eliminate Noise From Your Video Conferences",
       "excerpt": "Whether it be someone typing away on a clicky keyboard, or someone’s kids, pets, or television constantly droning on in the background, interfering with the speaker, background noise just plain stinks.",
@@ -1243,51 +1280,6 @@
       "topics": [
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-04-24-you-dont-need-an-geforce-rtx-gpu-to-access-rtx-voice-after-all.md",
-      "title": "You don't need an GeForce RTX GPU to access RTX Voice, after all",
-      "excerpt": "This app claims to use AI to reduce or outright cancel microphone background noise, and it was only intended to function for RTX card owners. However, as per the usual, the internet has circumvented those limitations. A user over on the Guru3D forums discovered that RTX Voice works \"just fine\" without a pricey RTX GPU in your system.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techspot.com/news/84962-you-dont-need-rtx-gpu-access-rtx-voice.html",
-      "ampWebUrl": "https://www.techspot.com/amp/news/84962-you-dont-need-rtx-gpu-access-rtx-voice.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/84962-you-dont-need-rtx-gpu-access-rtx-voice.html",
-      "publishedDateTime": "2020-04-23T21:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2020/04/2020-04-23-image-31.jpg",
-          "width": 1680,
-          "height": 1120,
-          "title": "You don't need an GeForce RTX GPU to access RTX Voice, after all",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

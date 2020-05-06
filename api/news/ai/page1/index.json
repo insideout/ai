@@ -50,7 +50,7 @@
       "path": "_news/2020-05-05-the-future-of-deep-reinforcement-learning-our-contemporary-ai-superhero.md",
       "title": "The future of deep-reinforcement learning, our contemporary AI superhero",
       "excerpt": "AI algorithms for deep-reinforcement learning have demonstrated the ability to learn at very high levels in constrained domains.",
-      "heat": 90,
+      "heat": 92,
       "tags": null,
       "type": "article",
       "webUrl": "https://techcrunch.com/2020/05/05/the-future-of-deep-reinforcement-learning-our-contemporary-ai-superhero/",
@@ -89,7 +89,8 @@
       "topics": [
         "AI in Finance",
         "AI",
-        "AI in Robotics"
+        "AI in Robotics",
+        "Machine Learning"
       ]
     },
     {

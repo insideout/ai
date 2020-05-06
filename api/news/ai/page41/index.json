@@ -2,6 +2,88 @@
   "page": 41,
   "value": [
     {
+      "path": "_news/2020-03-26-ai-revolutionizing-the-museum-experience-at-the-smithsonian.md",
+      "title": "AI Revolutionizing The Museum Experience At The Smithsonian",
+      "excerpt": "(Disclosure: I’m a host of the AI Today podcast). SoftBank Robotics Pepper robot(Photo by Joan Cros/NurPhoto via Getty Images ... interactions that people seem to have with Pepper is when they first approach the bot, they typically start off standing further away because they aren't exactly sure how to interact. However, since Pepper is ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/03/26/ai-revolutionizing-the-museum-experience-at-the-smithsonian/",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/03/26/ai-revolutionizing-the-museum-experience-at-the-smithsonian/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/03/26/ai-revolutionizing-the-museum-experience-at-the-smithsonian/amp/",
+      "publishedDateTime": "2020-03-25T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1127839788%2F0x0.jpg",
+          "width": 1200,
+          "height": 1803,
+          "title": "AI Revolutionizing The Museum Experience At The Smithsonian",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-26-microsoft-announces-several-new-azure-products-for-hybrid-computing.md",
+      "title": "Microsoft announces several new Azure products for hybrid computing",
+      "excerpt": "This will allow for data processing at the edge and acceleration of the workload of Machine Learning through a Field Programmable Gate Array which is powered by Azure Machine Learning and Intel ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.itworldcanada.com/article/microsoft-announces-several-new-azure-products-for-hybrid-computing/416336",
+      "ampWebUrl": "https://www.itworldcanada.com/article/microsoft-announces-several-new-azure-products-for-hybrid-computing/416336?amp=1",
+      "cdnAmpWebUrl": "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/microsoft-announces-several-new-azure-products-for-hybrid-computing/416336?amp=1",
+      "publishedDateTime": "2020-03-25T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT World Canada",
+        "domain": "itworldcanada.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.itworldcanada.com/wp-content/uploads/2017/04/azure_01-620x250.jpg",
+          "width": 620,
+          "height": 250,
+          "title": "Microsoft announces several new Azure products for hybrid computing",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-25-mastercard-keeping-humans-in-the-loop-of-ai-fraud-and-risk-related-decisions.md",
       "title": "Mastercard keeping humans in the loop of AI fraud and risk-related decisions",
       "excerpt": "While artificial intelligence (AI), machine learning (ML), and automated machine-driven processes are increasingly important in providing better cybersecurity, as well as fraud and risk management, in the financial services sector, Mastercard believes there will still be a place to keep a human in the loop. \"We do believe that humans will ...",
@@ -1128,88 +1210,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-25-artificial-intelligence-machine-learning-and-deep-learning-whats-the-difference.md",
-      "title": "Artificial Intelligence, Machine Learning And Deep Learning: What's The Difference?",
-      "excerpt": "In recent years, however, major improvements to artificial intelligence (AI), machine learning and deep learning capabilities have given rise to impressive new tools capable of analyzing video with minimal input from security personnel. As companies look to invest in these new technologies, it’s important to establish a baseline understanding ...",
-      "heat": 113,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/03/25/artificial-intelligence-machine-learning-and-deep-learning-whats-the-difference/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/03/25/artificial-intelligence-machine-learning-and-deep-learning-whats-the-difference/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/03/25/artificial-intelligence-machine-learning-and-deep-learning-whats-the-difference/amp/",
-      "publishedDateTime": "2020-03-25T04:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F03%2Fa-17-1.jpg",
-          "width": 640,
-          "height": 640,
-          "title": "Artificial Intelligence, Machine Learning And Deep Learning: What's The Difference?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-25-how-autism-researchers-are-applying-machine-learning-techniques.md",
-      "title": "How autism researchers are applying machine-learning techniques",
-      "excerpt": "From identifying a new antibiotic to generating the first-ever image of a black hole, machine learning is changing how scientists approach questions in many fields. Autism researchers are being equally creative, using machine-learning methods to improve ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.spectrumnews.org/news/how-autism-researchers-are-applying-machine-learning-techniques/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-25T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Spectrum",
-        "domain": "spectrumnews.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://s3.amazonaws.com/spectrumnews-web-assets/wp-content/uploads/2020/03/23142010/20200325-MachineLearnV2-8441.jpg",
-          "width": 844,
-          "height": 570,
-          "title": "How autism researchers are applying machine-learning techniques",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

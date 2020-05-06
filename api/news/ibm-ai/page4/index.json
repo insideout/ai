@@ -1,0 +1,43 @@
+{
+  "page": 4,
+  "value": [
+    {
+      "path": "_news/2020-01-07-ibms-watson-uses-ai-to-optimize-commercial-creative.md",
+      "title": "IBM’s Watson Uses AI to Optimize Commercial Creative",
+      "excerpt": "IBM launched a new product, Advertising Accelerator with Watson, which uses artificial intelligence to predict which creative elements will result in the highest engagement and conversion for a targeted audience. IBM said the product, introduced at CES In ...",
+      "heat": 94,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.broadcastingcable.com/news/ibms-watson-uses-ai-to-optimize-commercial-creative",
+      "ampWebUrl": "https://www.broadcastingcable.com/.amp/news/ibms-watson-uses-ai-to-optimize-commercial-creative",
+      "cdnAmpWebUrl": "https://www-broadcastingcable-com.cdn.ampproject.org/c/s/www.broadcastingcable.com/.amp/news/ibms-watson-uses-ai-to-optimize-commercial-creative",
+      "publishedDateTime": "2020-01-07T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Broadcasting & Cable",
+        "domain": "broadcastingcable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.broadcastingcable.com/.image/c_fit%2Ccs_srgb%2Cq_auto:good%2Cw_620/MTY5NTIxMDI2MTIyNjU1MDA5/ibm-watson.png",
+          "width": 619,
+          "height": 556,
+          "title": "IBM’s Watson Uses AI to Optimize Commercial Creative",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "IBM AI"
+      ]
+    }
+  ],
+  "nextPage": null
+}

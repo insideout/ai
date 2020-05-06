@@ -2,6 +2,51 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2020-04-24-google-researchers-use-deep-reinforcement-learning-for-optimizing-chip-design.md",
+      "title": "Google researchers use deep reinforcement learning for optimizing chip design",
+      "excerpt": "However, it is a process that takes substantial time, and efforts are being made to make it more efficient. Considering this, researchers working with Google have now looked towards machine learning to help tackle the problem. In a recent paper titled “Chip Placement with Deep Reinforcement Learning” published on arXiv, the team at Google ...",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.neowin.net/news/google-researchers-use-deep-reinforcement-learning-for-optimizing-chip-design",
+      "ampWebUrl": "https://www.neowin.net/amp/google-researchers-use-deep-reinforcement-learning-for-optimizing-chip-design/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/google-researchers-use-deep-reinforcement-learning-for-optimizing-chip-design/",
+      "publishedDateTime": "2020-04-23T23:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2020/04/1587706306_sharedscreenshot_story.jpg",
+          "width": 760,
+          "height": 421,
+          "title": "Google researchers use deep reinforcement learning for optimizing chip design",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-24-united-states-speech-recognition-software-market-will-take-the-highest-jump-during-2020-2025.md",
       "title": "United States Speech Recognition Software Market will take the highest jump during 2020-2025",
       "excerpt": "The Speech Recognition Software Market 2020 Research Report investigates the industry thoroughly and offers a complete study on Speech Recognition Software volume, market Share, market Trends, Global Speech Recognition Software Growth aspects,",
@@ -1031,51 +1076,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-23-progenics-pharmaceuticals-sets-first-quarter-2020-financial-results-and-business-update-call-for-may-7.md",
-      "title": "Progenics Pharmaceuticals Sets First Quarter 2020 Financial Results and Business Update Call for May 7",
-      "excerpt": "Progenics Pharmaceuticals, Inc. (NASDAQ: PGNX), an oncology company developing innovative medicines and artificial intelligence to find, fight and follow cancer, today announced that it will host a conference call and webcast to review first quarter ended March 31,",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/progenics-pharmaceuticals-sets-first-quarter-2020-financial-results-and-business-update-call-for-may-7-2020-04-23",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-23T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Progenics Pharmaceuticals Sets First Quarter 2020 Financial Results and Business Update Call for May 7",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

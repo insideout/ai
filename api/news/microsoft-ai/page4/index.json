@@ -2,6 +2,43 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-03-26-amds-processors-to-power-microsoft-azure-virtual-machines.md",
+      "title": "AMD's Processors to Power Microsoft Azure Virtual Machines",
+      "excerpt": "AMD recently announced that its second generation EPYC processors and Radeon Instinct MI25 GPUs have been adopted by Microsoft’s MSFT Azure division to power its NVv4 virtual machines (VMs). AMD’s hardware will enable Azure to provide customers with a cloud based virtual desktop capable of handling memory and graphics intensive as well as high-performance computing workloads.",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nasdaq.com/articles/amds-processors-to-power-microsoft-azure-virtual-machines-2020-03-26",
+      "ampWebUrl": "https://www.nasdaq.com/articles/amds-processors-to-power-microsoft-azure-virtual-machines-2020-03-26?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/amds-processors-to-power-microsoft-azure-virtual-machines-2020-03-26?amp",
+      "publishedDateTime": "2020-03-26T07:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg?1371717012",
+          "width": 1024,
+          "height": 512,
+          "title": "AMD's Processors to Power Microsoft Azure Virtual Machines",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-26-insights-on-the-worldwide-cognitive-computing-market-to-2025-featuring-google-microsoft-ibm-sas-among-others-researchandmarketscom.md",
       "title": "Insights on the Worldwide Cognitive Computing Market to 2025 - Featuring Google, Microsoft, IBM & SAS Among Others - ResearchAndMarkets.com",
       "excerpt": "The key players in the cognitive computing market are Microsoft, IBM, SAS, Google, AWS, TCS, Cisco, and Virtusa. These companies are continuously innovating their products and services to overcome ...",
@@ -1138,43 +1175,6 @@
           "width": 673,
           "height": 600,
           "title": "Nvidia researchers use AI to teach robots how to hand objects to humans",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-16-ibms-6-dividend-yield-should-set-a-floor-under-the-stock.md",
-      "title": "IBM's 6% Dividend Yield Should Set a Floor Under the Stock",
-      "excerpt": "Last quarter, only two of IBM's core businesses -- cloud & cognitive software and systems -- posted annual revenue growth. Revenue from its other three business units (global technology services, global business services ... Teresa Kersten, an employee of LinkedIn, a Microsoft subsidiary, is a member of The Motley Fool's board of directors.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nasdaq.com/articles/ibms-6-dividend-yield-should-set-a-floor-under-the-stock-2020-03-16",
-      "ampWebUrl": "https://www.nasdaq.com/articles/ibms-6-dividend-yield-should-set-a-floor-under-the-stock-2020-03-16?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ibms-6-dividend-yield-should-set-a-floor-under-the-stock-2020-03-16?amp",
-      "publishedDateTime": "2020-03-16T09:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg?2014824675",
-          "width": 1024,
-          "height": 512,
-          "title": "IBM's 6% Dividend Yield Should Set a Floor Under the Stock",
           "attribution": null
         }
       ],

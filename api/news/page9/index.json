@@ -2,6 +2,51 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-04-28-at-35-cagr-artificial-intelligence-ai-chips-market-size-set-to-register-19080-million-usd-by-2025.md",
+      "title": "At 35% CAGR, Artificial Intelligence (AI) Chips Market Size Set to Register 19080 million USD by 2025",
+      "excerpt": "Market Study Report LLC has added a new report on Artificial Intelligence (AI) Chips market that provides a comprehensive review",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/at-35-cagr-artificial-intelligence-ai-chips-market-size-set-to-register-19080-million-usd-by-2025-2020-04-28",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-28T09:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "At 35% CAGR, Artificial Intelligence (AI) Chips Market Size Set to Register 19080 million USD by 2025",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-28-alphabet-q1-2020-earnings-preview-what-to-watch.md",
       "title": "Alphabet Q1 2020 Earnings Preview: What to Watch",
       "excerpt": "Search giant Alphabet (NASDAQ:GOOG) (NASDAQ:GOOGL) will report its earnings after the markets close on Tuesday, April 28. It will be the first time the technology giant will address shareholders since the COVID-19 pandemic dominated the world's focus.",
@@ -1047,51 +1092,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-28-apple-iphone-12-how-this-security-feature-could-solve-the-face-mask-problem.md",
-      "title": "Apple iPhone 12: How This Security Feature Could Solve The Face Mask Problem",
-      "excerpt": "You try to open your iPhone using Face ID, but your face mask gets in the way. Apple iPhones use depth perception to detect your face for Face ID, so many of the tricks don’t work. It’s frustrating for many Apple fans,",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/kateoflahertyuk/2020/04/27/apple-iphone-12-this-new-security-feature-could-solve-the-face-mask-problem/",
-      "ampWebUrl": "https://www.forbes.com/sites/kateoflahertyuk/2020/04/27/apple-iphone-12-this-new-security-feature-could-solve-the-face-mask-problem/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kateoflahertyuk/2020/04/27/apple-iphone-12-this-new-security-feature-could-solve-the-face-mask-problem/amp/",
-      "publishedDateTime": "2020-04-27T23:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e43ce58f133f400076c3c67%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "Apple iPhone 12: How This Security Feature Could Solve The Face Mask Problem",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

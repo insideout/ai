@@ -2,6 +2,51 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-04-25-global-military-artificial-intelligence-ai-market-2020-industry-growth-top-players-segmentation-and-forecast-to-2025.md",
+      "title": "Global Military Artificial Intelligence (AI) Market 2020 Industry Growth, Top Players, Segmentation and Forecast to 2025",
+      "excerpt": "This new report titled Global Military Artificial Intelligence (AI) Market Growth (Status and Outlook) 2020-2025 has been added by MarketandResearch.biz to provide a detailed analysis of the market covering market trends,",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/global-military-artificial-intelligence-ai-market-2020-industry-growth-top-players-segmentation-and-forecast-to-2025-2020-04-25",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-25T11:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Global Military Artificial Intelligence (AI) Market 2020 Industry Growth, Top Players, Segmentation and Forecast to 2025",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2020-04-25-an-explanation-of-machine-learning-models-even-you-could-understand.md",
       "title": "An explanation of machine learning models even you could understand",
       "excerpt": "I will start out by explaining what machine learning is, along with the different types of machine learning, and then I will jump into explaining common models. I won’t go into any of the math, but I am considering doing that in another article in the future. Enjoy! Machine learning is when you load lots of data into a computer program and ...",
@@ -1025,51 +1070,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-24-google-researchers-use-deep-reinforcement-learning-for-optimizing-chip-design.md",
-      "title": "Google researchers use deep reinforcement learning for optimizing chip design",
-      "excerpt": "However, it is a process that takes substantial time, and efforts are being made to make it more efficient. Considering this, researchers working with Google have now looked towards machine learning to help tackle the problem. In a recent paper titled “Chip Placement with Deep Reinforcement Learning” published on arXiv, the team at Google ...",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.neowin.net/news/google-researchers-use-deep-reinforcement-learning-for-optimizing-chip-design",
-      "ampWebUrl": "https://www.neowin.net/amp/google-researchers-use-deep-reinforcement-learning-for-optimizing-chip-design/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/google-researchers-use-deep-reinforcement-learning-for-optimizing-chip-design/",
-      "publishedDateTime": "2020-04-23T23:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2020/04/1587706306_sharedscreenshot_story.jpg",
-          "width": 760,
-          "height": 421,
-          "title": "Google researchers use deep reinforcement learning for optimizing chip design",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

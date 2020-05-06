@@ -2,6 +2,80 @@
   "page": 59,
   "value": [
     {
+      "path": "_news/2020-03-10-toradex-collaborates-with-amazon-web-services-and-nxp-to-release-apalis-ai-vision-starter-kit-for-the-imx-8-applications-processor.md",
+      "title": "Toradex Collaborates with Amazon Web Services and NXP to Release Apalis AI Vision Starter Kit for the i.MX 8 Applications Processor",
+      "excerpt": "The cloud stack is deployed directly from the device in just a few steps via AWS CloudFormation as a dedicated AWS instance. AWS enabled the NXP i.MX 8 applications processor as a target for Amazon SageMaker Neo. Amazon SageMaker Neo allows developers to optimize a ML model for a certain device. Lastly, a trained and optimized model is included ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.embedded-computing.com/news/toradex-collaborates-with-amazon-web-services-and-nxp-to-release-apalis-ai-vision-starter-kit-for-the-i-mx-8-applications-processor",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-10T11:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Embedded Computing Design",
+        "domain": "embedded-computing.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "http://share.opsy.st/5e67d3c91f0cd-76219803_toradex_aws_nxp.jpg",
+          "width": 5000,
+          "height": 1934,
+          "title": "Toradex Collaborates with Amazon Web Services and NXP to Release Apalis AI Vision Starter Kit for the i.MX 8 Applications Processor",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-10-the-new-privacy-rules-why-its-time-to-talk-ethics-in-an-ai-age.md",
+      "title": "The new privacy rules: Why it’s time to talk ethics in an AI age",
+      "excerpt": "AI was so transformative because of the huge amount of data it was able to process at speed, changing and shaping everything we do. She continued: “The reason why we’re talking so much about ethics in AI is over the last few years we have seen the best of technology – but also the worst.” AI was already being used to detect cancer and ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.research-live.com/article/news/the-new-privacy-rules-why-its-time-to-talk-ethics-in-an-ai-age/id/5066342",
+      "ampWebUrl": "https://www.research-live.com/amp-page.html?id=5066342&name=the-new-privacy-rules-why-its-time-to-talk-ethics-in-an-ai-age",
+      "cdnAmpWebUrl": "https://www-research--live-com.cdn.ampproject.org/c/s/www.research-live.com/amp-page.html?id=5066342&name=the-new-privacy-rules-why-its-time-to-talk-ethics-in-an-ai-age",
+      "publishedDateTime": "2020-03-10T11:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "research",
+        "domain": "research-live.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.research-live.com/img/MRS_EM_RGB.jpg",
+          "width": 1000,
+          "height": 581,
+          "title": "The new privacy rules: Why it’s time to talk ethics in an AI age",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-10-agriculture-cameras-tire-changes-and-drive-throughs-here-are-our-robotics-pitch-off-winners.md",
       "title": "Agriculture, cameras, tire changes and drive-throughs: Here are our robotics pitch-off winners",
       "excerpt": "We tried something new at last week’s TC Sessions: Robotics + AI. For the first time ever, we incorporated a pitch-off into the event. With a site as embedded in the startup world, it made sense to find a way to give some stage time to some early-stage startups. On Monday night, I was joined by Aaron Jacobson (NEA), Jennifer Roberts (Grit ...",
@@ -1058,73 +1132,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-10-concerns-raised-after-facial-recognition-software-found-to-have-racial-bias.md",
-      "title": "Concerns raised after facial recognition software found to have racial bias",
-      "excerpt": "One of the cops surreptitiously snapped a cellphone photo of the man and sent it to a crime analyst, who ran the photo through facial recognition software. The facial recognition algorithm ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.thestar.com/news/gta/2020/03/10/concerns-raised-after-facial-recognition-software-found-to-have-racial-bias.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-10T02:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Star",
-        "domain": "thestar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.thestar.com/4JWXKVT5I2IpefurhPWg37bIpGk=/1200x800/smart/filters:cb(1583942249743)/https://www.thestar.com/content/dam/thestar/news/gta/2020/03/10/concerns-raised-after-facial-recognition-software-found-to-have-racial-bias/toni_morgan3.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "Concerns raised after facial recognition software found to have racial bias",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-10-looking-at-how-ai-can-improve-computer-vision.md",
-      "title": "Looking at How AI Can Improve Computer Vision",
-      "excerpt": "And doing so in a manner that provides noticeable improvements in productivity, efficiency and capability. The ability to blend artificial intelligence into the computer vision process could be a prime example. I recently had the opportunity to connect with Johann Beukes, vice-president of data science and analytics at Levatas to hear his insights.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.industryweek.com/technology-and-iiot/article/21125741/looking-at-how-ai-can-improve-computer-vision",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-10T02:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IndustryWeek",
-        "domain": "industryweek.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

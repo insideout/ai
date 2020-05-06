@@ -2,6 +2,86 @@
   "page": 97,
   "value": [
     {
+      "path": "_news/2020-01-23-accelerating-learning-through-ai-at-cerego-and-techstyle.md",
+      "title": "Accelerating Learning Through AI At Cerego And TechStyle",
+      "excerpt": "Cerego, an AI-based learning management system, helps fashion retailer TechStyle accelerate learning for call center agents.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/tomdavenport/2020/01/23/accelerating-learning-through-ai-at-cerego-and-techstyle/",
+      "ampWebUrl": "https://www.forbes.com/sites/tomdavenport/2020/01/23/accelerating-learning-through-ai-at-cerego-and-techstyle/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomdavenport/2020/01/23/accelerating-learning-through-ai-at-cerego-and-techstyle/amp/",
+      "publishedDateTime": "2020-01-23T08:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-01-23-heres-why-taco-bell-added-artificial-intelligence-technology-to-its-mobile-app.md",
+      "title": "Here's Why Taco Bell Added Artificial Intelligence Technology To Its Mobile App",
+      "excerpt": "Taco Bell announced a partnership with artificial intelligence company Certona last week to create a more personalized experience for its mobile app users, of which there are 5 million.",
+      "heat": 183,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/aliciakelso/2020/01/23/heres-why-taco-bell-added-artificial-intelligence-technology-to-its-mobile-app/",
+      "ampWebUrl": "https://www.forbes.com/sites/aliciakelso/2020/01/23/heres-why-taco-bell-added-artificial-intelligence-technology-to-its-mobile-app/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aliciakelso/2020/01/23/heres-why-taco-bell-added-artificial-intelligence-technology-to-its-mobile-app/amp/",
+      "publishedDateTime": "2020-01-23T07:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F923115808%2F0x0.jpg",
+          "width": 1200,
+          "height": 801,
+          "title": "Here's Why Taco Bell Added Artificial Intelligence Technology To Its Mobile App",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-01-23-can-ai-drive-education-forward.md",
       "title": "Can AI Drive Education Forward?",
       "excerpt": "Teachers are asked to incorporate more technology in the classroom but they are not necessarily given the time to learn and make the most out of it.",
@@ -1201,96 +1281,6 @@
       "topics": [
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-01-22-how-ai-supports-and-accelerates-healthcare.md",
-      "title": "How AI Supports And Accelerates Healthcare",
-      "excerpt": "AI is currently most adept at helping to improve and accelerate workflows for researchers and healthcare professionals.",
-      "heat": 124,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/22/how-ai-supports-and-accelerates-healthcare/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/22/how-ai-supports-and-accelerates-healthcare/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/22/how-ai-supports-and-accelerates-healthcare/amp/",
-      "publishedDateTime": "2020-01-22T09:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/711x446/https://specials-images.forbesimg.com/dam/imageserve/1147479249/960x0.jpg?fit=scale",
-          "width": 711,
-          "height": 446,
-          "title": "How AI Supports And Accelerates Healthcare",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-01-22-tech-in-the-classroom-microsoft-says-ai-and-vr-could-help-future-students-focus-better.md",
-      "title": "Tech in the classroom? Microsoft says AI and VR could help future students focus better",
-      "excerpt": "while AI-powered speech recognition and translation tools let students hear what is being said in their native language. Anthony Salcito, the vice president of Microsoft Education, said at the conference: \"We need to recognize the need to embrace a hybrid intelligence to be able to achieve more. With new technology, we will have to think ...",
-      "heat": 81,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/tech-in-the-classroom-microsoft-says-ai-and-vr-could-help-future-students-focus-better/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/tech-in-the-classroom-microsoft-says-ai-and-vr-could-help-future-students-focus-better/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/tech-in-the-classroom-microsoft-says-ai-and-vr-could-help-future-students-focus-better/",
-      "publishedDateTime": "2020-01-22T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2019/12/02/40cd7c2c-f3c9-4ab1-a8e0-7e2ad0a0e566/thumbnail/1200x675/8af153799adc1462f393ed4bae80a6bf/thumb.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Tech in the classroom? Microsoft says AI and VR could help future students focus better",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

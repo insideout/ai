@@ -2,6 +2,96 @@
   "page": 105,
   "value": [
     {
+      "path": "_news/2020-01-16-announcing-the-agenda-for-robotics-ai-march-3-at-uc-berkeley.md",
+      "title": "Announcing the agenda for Robotics + AI — March 3 at UC Berkeley",
+      "excerpt": "We’re bringing TC Sessions: Robotics + AI back to UC Berkeley on March 3, and we’re excited to announce our jam ... Student tickets are just $50 and can be purchased here. Got a startup? Book a startup exhibitor package today and demo your company in front of 1,000+ attendees. Each table comes with four attendee tickets, so you can divide ...",
+      "heat": 229,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/01/14/announcing-the-agenda-for-robotics-ai-march-3-at-ucberkeley/",
+      "ampWebUrl": "https://techcrunch.com/2020/01/14/announcing-the-agenda-for-robotics-ai-march-3-at-ucberkeley/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/14/announcing-the-agenda-for-robotics-ai-march-3-at-ucberkeley/amp/",
+      "publishedDateTime": "2020-01-15T16:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/01/header_agenda.png?w=1024",
+          "width": 1024,
+          "height": 558,
+          "title": "Announcing the agenda for Robotics + AI — March 3 at UC Berkeley",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-01-16-what-is-machine-learning-why-its-matters-and-how-does-it-works.md",
+      "title": "What is Machine Learning? Why its Matters and how does it works?",
+      "excerpt": "Machine learning is an application of artificial intelligence (AI) that provides systems the ability to automatically learn and improve from experience without being explicitly programmed. Machine learning focuses on the development of computer programs that can access data and use it learn for themselves. The process of learning begins with ...",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/swlh/what-is-machine-learning-why-its-matters-and-how-does-it-works-846055a676d4",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-15T16:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/1200/1*YaCKYPDAZ31OA5OgTT3tjA.jpeg",
+          "width": 600,
+          "height": 256,
+          "title": "What is Machine Learning? Why its Matters and how does it works?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-01-16-how-deepmind-is-unlocking-the-secrets-of-dopamine-and-protein-folding-with-ai.md",
       "title": "How DeepMind is unlocking the secrets of dopamine and protein folding with AI",
       "excerpt": "Demis Hassabis founded DeepMind with the goal of unlocking answers to some of the world’s toughest questions by recreating intelligence itself. His ambition remains just that — an ambition ...",
@@ -1219,96 +1309,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-01-15-future-proof-your-tech-skills-with-the-ultimate-deep-learning-bundle.md",
-      "title": "Future-proof your tech skills with the Ultimate Deep Learning Bundle",
-      "excerpt": "Whether we like it or not, AI and deep learning are rapidly becoming part of our daily lives. So far, the rise of AI hasn’t led to toasters becoming our overlords, but there are high-paying jobs being created. You can pick up the Ultimate Deep Learning ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.androidauthority.com/ultimate-deep-learning-1073754/",
-      "ampWebUrl": "https://www.androidauthority.com/ultimate-deep-learning-1073754/amp/",
-      "cdnAmpWebUrl": "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/ultimate-deep-learning-1073754/amp/",
-      "publishedDateTime": "2020-01-15T02:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Authority",
-        "domain": "androidauthority.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/androidauthority.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn57.androidauthority.net/wp-content/uploads/2019/11/Businessman-and-robot-shaking-hands-920x470.jpg",
-          "width": 920,
-          "height": 470,
-          "title": "Future-proof your tech skills with the Ultimate Deep Learning Bundle",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-01-15-healthcare-cognitive-computing-market-development-analysis-2019-ibm-google-microsoft.md",
-      "title": "Healthcare Cognitive Computing Market Development Analysis 2019- IBM, Google, Microsoft",
-      "excerpt": "The New report includes a detailed study of Global Healthcare Cognitive Computing Market. It is the result of a comprehensive research carried out keeping in mind the different parameters and trends dominating the global Healthcare Cognitive Computing Market.",
-      "heat": 81,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/healthcare-cognitive-computing-market-development-analysis-2019--ibm-google-microsoft-2020-01-15",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-15T00:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Healthcare Cognitive Computing Market Development Analysis 2019- IBM, Google, Microsoft",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

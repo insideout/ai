@@ -2,6 +2,95 @@
   "page": 88,
   "value": [
     {
+      "path": "_news/2020-02-03-artificial-intelligence-ai-in-fintech-market-future-development-trends-revenue-and-key-manufacturers-analysis.md",
+      "title": "Artificial Intelligence (AI) in Fintech Market: Future Development, Trends, Revenue and Key Manufacturers Analysis",
+      "excerpt": "The Leading Distributor of Market Research Reports, DeepResearchReports.com published latest report on \"Global Artificial Intelligence (AI) in Fintech Industry Report\". Artificial Intelligence (AI) in Fintech Market segment by Application.",
+      "heat": 82,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-future-development-trends-revenue-and-key-manufacturers-analysis-2020-02-03",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-03T01:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial Intelligence (AI) in Fintech Market: Future Development, Trends, Revenue and Key Manufacturers Analysis",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2020-02-03-ai-formulated-medicine-to-be-tested-on-humans-for-the-first-time.md",
+      "title": "AI-formulated medicine to be tested on humans for the first time",
+      "excerpt": "A drug designed entirely by artificial intelligence is about to enter clinical human trials for the first time. The drug, which is intended to treat obsessive-compulsive disorder, was discovered using AI systems from Oxford-based biotech company Exscientia. While it would usually take around four and a half years to get a drug to this stage of ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.engadget.com/2020/02/03/ai-formulated-medicine-tested-humans-trial-first/",
+      "ampWebUrl": "https://www.engadget.com/amp/2020/02/03/ai-formulated-medicine-tested-humans-trial-first/",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/02/03/ai-formulated-medicine-tested-humans-trial-first/",
+      "publishedDateTime": "2020-02-03T01:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D6294%252C3923%252C639%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C997%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2019-10%252F27840430-f413-11e9-bdfc-1e60bbd37912%26client%3Da1acac3e1b3290917d92%26signature%3D79d1e8cd28bb5cdf1601ea05d7226f489d22eb6c&client=amp-blogside-v2&signature=5c83968906b4c6d0967bda40cb3845b8a7ec6b23",
+          "width": 600,
+          "height": 350,
+          "title": "AI-formulated medicine to be tested on humans for the first time",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-02-03-victoria-to-use-ai-to-detect-heart-attacks-on-emergency-calls.md",
       "title": "Victoria to use AI to detect heart attacks on emergency calls",
       "excerpt": "Triple zero call operators could soon have artificial intelligence (AI) alert them to callers who suffer from a heart attack. The Victorian government announced on Sunday it was kicking in AU$1.36 million towards the Artificial Intelligence in Cardiac Arrest project, which will be developed by Monash University and Ambulance Victoria.",
@@ -1148,86 +1237,6 @@
           "width": 1400,
           "height": 1050,
           "title": "Would you take a drug discovered by artificial intelligence?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-31-google-open-sources-lasertagger-an-ai-model-that-speeds-up-text-generation.md",
-      "title": "Google open-sources LaserTagger, an AI model that speeds up text generation",
-      "excerpt": "Sequence-to-sequence AI models, which were introduced by Google in 2014, aim to map fixed-length input (usually text) with a fixed-length output where the length of the input and output might differ. They’re used in text-generating tasks including summarization, grammatical error correction, and sentence fusion, and recent architectural ...",
-      "heat": 95,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/01/31/google-open-sources-lasertagger-an-ai-model-that-speeds-up-text-generation/",
-      "ampWebUrl": "https://venturebeat.com/2020/01/31/google-open-sources-lasertagger-an-ai-model-that-speeds-up-text-generation/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/31/google-open-sources-lasertagger-an-ai-model-that-speeds-up-text-generation/amp/",
-      "publishedDateTime": "2020-01-31T12:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/10/google-ai-logo.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Google open-sources LaserTagger, an AI model that speeds up text generation",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-31-do-you-know-the-2-categories-of-fintech.md",
-      "title": "Do you know the 2 categories of fintech?",
-      "excerpt": "Click to share on Twitter (Opens in new window ... fintech categories was $12.9 billion over 513 deals according to CB Insights. That’s already past the $12.5 billion in funding from all ...",
-      "heat": 122,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.housingwire.com/articles/do-you-know-the-2-categories-of-fintech/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-31T11:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HousingWire",
-        "domain": "housingwire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.housingwire.com/wp-content/uploads/2020/01/AdobeStock_289776048.jpeg",
-          "width": 1010,
-          "height": 371,
-          "title": "Do you know the 2 categories of fintech?",
           "attribution": null
         }
       ],

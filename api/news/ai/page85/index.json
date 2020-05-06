@@ -2,6 +2,95 @@
   "page": 85,
   "value": [
     {
+      "path": "_news/2020-02-06-will-advancements-in-tech-make-homo-sapiens-go-extinct.md",
+      "title": "Will Advancements In Tech Make Homo Sapiens Go Extinct?",
+      "excerpt": "Very recently Johns Hopkins Applied Physics Lab developed a mind-controlled robotic arm. It has granted new life and leverage to a man who had lost his arm to cancer in 2005. This has been a huge ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/06/will-advancements-in-tech-make-homo-sapiens-go-extinct/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/06/will-advancements-in-tech-make-homo-sapiens-go-extinct/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/02/06/will-advancements-in-tech-make-homo-sapiens-go-extinct/amp/",
+      "publishedDateTime": "2020-02-06T04:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F02%2Fa-42.jpg",
+          "width": 640,
+          "height": 640,
+          "title": "Will Advancements In Tech Make Homo Sapiens Go Extinct?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-02-06-artificial-intelligence-tool-created-to-predict-the-structure-of-the-universe-and-unlock-the-mysteries-of-dark-energy.md",
+      "title": "Artificial Intelligence Tool Created to Predict the Structure of the Universe and Unlock the Mysteries of Dark Energy",
+      "excerpt": "The AI tool could play a role in studying the nature of dark energy and dark matter, which seems to make up a large amount of the universe but remains an enigma, researchers said.",
+      "heat": 164,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.newsweek.com/artificial-intelligence-dark-emulator-universe-structure-dark-energy-dark-matter-research-1486033",
+      "ampWebUrl": "https://www.newsweek.com/artificial-intelligence-dark-emulator-universe-structure-dark-energy-dark-matter-research-1486033?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/artificial-intelligence-dark-emulator-universe-structure-dark-energy-dark-matter-research-1486033?amp=1",
+      "publishedDateTime": "2020-02-06T03:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1565487/milky-ways-galactic-centre.jpg",
+          "width": 2500,
+          "height": 1679,
+          "title": "Artificial Intelligence Tool Created to Predict the Structure of the Universe and Unlock the Mysteries of Dark Energy",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-02-06-is-clearview-ais-facial-recognition-legal-we-need-to-figure-it-out-soon.md",
       "title": "Is Clearview AI’s facial recognition legal? We need to figure it out soon",
       "excerpt": "“What’s required to properly govern Clearview AI and so much else is a thoroughgoing reexamination of what private and public mean that shifts the key debates in law, ethics, design, and even everyday expectations. In short, it’s long overdue to acknowledge that people can have legitimate privacy interests in publicly shared information.",
@@ -1160,86 +1249,6 @@
           "width": 1200,
           "height": 600,
           "title": "A new device uses AI to identify fake pairs of Nike and Adidas sneakers in seconds. Here's how the authentication technology works.",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-05-an-algorithm-that-can-spot-cause-and-effect-could-supercharge-medical-ai.md",
-      "title": "An algorithm that can spot cause and effect could supercharge medical AI",
-      "excerpt": "Several other companies—including Ada and Your.MD—also offer diagnosis-by-chatbot but Babylon Health has singled itself out for criticism in part because of the overblown claims it makes for its AI. For example, in 2018 the company announced that its AI could diagnose medical conditions better than a human doctor. A study in The Lancet a ...",
-      "heat": 156,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.technologyreview.com/s/615141/an-algorithm-that-can-spot-cause-and-effect-could-supercharge-medical-ai/",
-      "ampWebUrl": "https://www.technologyreview.com/s/615141/an-algorithm-that-can-spot-cause-and-effect-could-supercharge-medical-ai/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/s/615141/an-algorithm-that-can-spot-cause-and-effect-could-supercharge-medical-ai/amp/",
-      "publishedDateTime": "2020-02-05T04:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.technologyreview.com/i/images/pills_1.jpg?sw=600&cx=1&cy=54&cw=1079&ch=607",
-          "width": 600,
-          "height": 337,
-          "title": "An algorithm that can spot cause and effect could supercharge medical AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-05-youtuber-uses-neural-networks-to-upscale-1896-short-film-to-4k-60-fps.md",
-      "title": "YouTuber uses neural networks to upscale 1896 short film to 4K 60 fps",
-      "excerpt": "Today, many companies use something called neural ... experiment of turning the famous Lumière Brothers' 1896 short clip \"Arrival of a Train at La Ciotat\" into a 4K, 60 fps video that looks ...",
-      "heat": 172,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techspot.com/news/83867-youtuber-uses-neural-networks-upscale-1896-short-film.html",
-      "ampWebUrl": "https://www.techspot.com/amp/news/83867-youtuber-uses-neural-networks-upscale-1896-short-film.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/83867-youtuber-uses-neural-networks-upscale-1896-short-film.html",
-      "publishedDateTime": "2020-02-05T02:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/ts3_thumbs/2019/07/2019-07-16-ts3_thumbs-789.jpg",
-          "width": 800,
-          "height": 560,
-          "title": "YouTuber uses neural networks to upscale 1896 short film to 4K 60 fps",
           "attribution": null
         }
       ],

@@ -2,6 +2,96 @@
   "page": 78,
   "value": [
     {
+      "path": "_news/2020-02-13-intuition-robotics-raises-36-million-to-bring-ai-companions-to-everyone.md",
+      "title": "Intuition Robotics raises $36 million to bring AI companions to everyone",
+      "excerpt": "Israeli robotics startup Intuition Robotics has raised $36 million in a series B round of funding co-led by Sparx Group and OurCrowd, with participation from Samsung Next, Toyota AI Ventures, Bloomberg Beta, iRobot, Sompo Holdings, Union Tech Ventures, Happiness Capital, and Capital Point. Founded in 2015, Intuition Robotics is creating what ...",
+      "heat": 298,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/02/13/intuition-robotics-raises-36-million-to-bring-ai-companions-to-everyone/",
+      "ampWebUrl": "https://venturebeat.com/2020/02/13/intuition-robotics-raises-36-million-to-bring-ai-companions-to-everyone/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/13/intuition-robotics-raises-36-million-to-bring-ai-companions-to-everyone/amp/",
+      "publishedDateTime": "2020-02-13T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2017/07/still_002.png?fit=1270%2C748&strip=all",
+          "width": 1270,
+          "height": 748,
+          "title": "Intuition Robotics raises $36 million to bring AI companions to everyone",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-02-13-senate-bill-would-place-a-moratorium-on-feds-using-facial-recognition.md",
+      "title": "Senate bill would place a moratorium on feds using facial recognition",
+      "excerpt": "First, a 13 member commission would try to establish some guidelines on its use. Facial recognition is being used by more agencies than ever, even as its accuracy and impact remain unclear. Several local governments have already taken steps to stop law enforcement from using it in various ways, and a bill introduced by two US senators seeks to ...",
+      "heat": 119,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.engadget.com/2020/02/13/ethical-use-of-ai-act-facial-recognition/",
+      "ampWebUrl": "https://www.engadget.com/amp/2020/02/13/ethical-use-of-ai-act-facial-recognition/",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/02/13/ethical-use-of-ai-act-facial-recognition/",
+      "publishedDateTime": "2020-02-12T23:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D3750%252C2199%252C0%252C87%26quality%3D85%26format%3Djpg%26resize%3D1600%252C938%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2020-02%252F13cdbc50-4e28-11ea-af76-05ffda135652%26client%3Da1acac3e1b3290917d92%26signature%3D0481885756e5df58466c02a0c4b77093553bc031&client=amp-blogside-v2&signature=f8f6c4395bba8a560c86317e4de100dad55191c3",
+          "width": 600,
+          "height": 350,
+          "title": "Senate bill would place a moratorium on feds using facial recognition",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2020-02-13-esteban-granero-aiming-to-bring-artificial-intelligence-into-football.md",
       "title": "Esteban Granero aiming to bring artificial intelligence into football",
       "excerpt": "But it is as a pioneer in artificial intelligence that the 32-year-old hopes to make his most lasting impression on football. For the last five years, at the same time as representing Real Sociedad, Espanyol and Marbella FC as a player, Granero, who previously had a spell in the Premier League with QPR, has been working as the founder and CEO ...",
@@ -1201,98 +1291,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-02-12-lyft-touts-benefits-of-self-driving-cars-but-warns-of-second-order-effects.md",
-      "title": "Lyft touts benefits of self-driving cars, but warns of ‘second order’ effects",
-      "excerpt": "Autonomous cars will prove critical to the future of cities, according to Raj Kapoor, Lyft’s chief strategy officer and head of business for self-driving. But he added that riders may need to adjust their expectations and warned of unintended “second order” effects of the burgeoning driverless car industry. Kapoor was speaking at the Move ...",
-      "heat": 81,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/02/12/lyft-touts-benefits-of-self-driving-cars-but-warns-of-second-order-effects/",
-      "ampWebUrl": "https://venturebeat.com/2020/02/12/lyft-touts-benefits-of-self-driving-cars-but-warns-of-second-order-effects/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/12/lyft-touts-benefits-of-self-driving-cars-but-warns-of-second-order-effects/amp/",
-      "publishedDateTime": "2020-02-12T02:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/02/Raj.jpg?fit=2286%2C1247&strip=all",
-          "width": 2286,
-          "height": 1247,
-          "title": "Lyft touts benefits of self-driving cars, but warns of ‘second order’ effects",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-02-12-how-to-teach-artificial-intelligence.md",
-      "title": "How To Teach Artificial Intelligence",
-      "excerpt": "Every high school graduate should have an appreciation of how AI is reshaping the economy and the career landscape—and the option of educational pathways that lead to college and meaningful high wage work.",
-      "heat": 93,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/tomvanderark/2020/02/12/how-to-teach-artificial-intelligence/",
-      "ampWebUrl": "https://www.forbes.com/sites/tomvanderark/2020/02/12/how-to-teach-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomvanderark/2020/02/12/how-to-teach-artificial-intelligence/amp/",
-      "publishedDateTime": "2020-02-12T02:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/711x572/https://specials-images.forbesimg.com/imageserve/5e4280f7298c2a00065f7857/960x0.jpg?fit=scale",
-          "width": 711,
-          "height": 572,
-          "title": "How To Teach Artificial Intelligence",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics",
-        "AI in Healthcare",
-        "AWS AI"
       ]
     }
   ],

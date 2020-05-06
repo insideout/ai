@@ -2,6 +2,96 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2020-04-07-powering-the-edge-with-ai-in-an-iot-world.md",
+      "title": "Powering The Edge With AI In An IoT World",
+      "excerpt": "The edge has to be powered with more processing power. This will enable enterprises to run AI models at the edge, thereby bringing more intelligence to the edge.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/04/06/powering-the-edge-with-ai-in-an-iot-world/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/04/06/powering-the-edge-with-ai-in-an-iot-world/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/04/06/powering-the-edge-with-ai-in-an-iot-world/amp/",
+      "publishedDateTime": "2020-04-06T17:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F04%2Fa-89.jpg",
+          "width": 640,
+          "height": 640,
+          "title": "Powering The Edge With AI In An IoT World",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2020-04-07-4-chinese-backed-electric-car-start-ups-planning-a-run-at-tesla.md",
+      "title": "4 Chinese-backed electric-car start-ups planning a run at Tesla",
+      "excerpt": "The investment makes the Chinese giant one of Tesla's largest shareholders, and is part of Tencent's pursuit of self-driving cars and ... Chinese internet provider Baidu recently made a reportedly ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2017/04/07/4-chinese-backed-electric-car-start-ups-planning-a-run-at-tesla.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2017/04/07/4-chinese-backed-electric-car-start-ups-planning-a-run-at-tesla.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2017/04/07/4-chinese-backed-electric-car-start-ups-planning-a-run-at-tesla.html",
+      "publishedDateTime": "2020-04-06T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/104383570-GettyImages-630926570.jpg?v=1529474712",
+          "width": 2000,
+          "height": 1333,
+          "title": "4 Chinese-backed electric-car start-ups planning a run at Tesla",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-07-ai-applications-top-10-real-world-artificial-intelligence-applications.md",
       "title": "AI Applications: Top 10 Real World Artificial Intelligence Applications",
       "excerpt": "This makes Waymo cars more effective and safer. Another famous example of an autonomous vehicle is Tesla’s self-driving car. Artificial Intelligence implements computer vision, image detection and deep learning to build cars that can automatically detect ...",
@@ -1181,87 +1271,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-06-why-ai-startups-economics-will-likely-improve-over-time.md",
-      "title": "Why AI startups’ economics will likely improve over time",
-      "excerpt": "Hello and welcome back to our regular morning look at private companies, public markets and the gray space in between. If you can recall February, we dug into the question of AI startup gross margins. Venture shop a16z had published an interesting blog on the subject, arguing that it may be the case that AI-focused startups will enjoy strong ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/04/06/why-ai-startups-economics-will-likely-improve-over-time/",
-      "ampWebUrl": "https://techcrunch.com/2020/04/06/why-ai-startups-economics-will-likely-improve-over-time/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/06/why-ai-startups-economics-will-likely-improve-over-time/amp/",
-      "publishedDateTime": "2020-04-06T07:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/06/argo-ai-detroit.jpg?w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": "Why AI startups’ economics will likely improve over time",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-06-ai-blockchain-transforming-the-banking-sector.md",
-      "title": "AI & Blockchain: Transforming the banking sector",
-      "excerpt": "In recent times, there has been a lot of interest towards companies that provide AI & Blockchain based solutions and platforms in the BFSI domain. The advent of the bitcoin led to the recognition of blockchain as a transparent payment and documentation mechanism.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.moneycontrol.com/news/technology/fintech-ai-blockchain-transforming-the-banking-sector-5113561.html",
-      "ampWebUrl": "https://www.moneycontrol.com/news/technology/fintech-ai-blockchain-transforming-the-banking-sector-5113561.html/amp",
-      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/fintech-ai-blockchain-transforming-the-banking-sector-5113561.html/amp",
-      "publishedDateTime": "2020-04-06T07:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "moneycontrol.com",
-        "domain": "moneycontrol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://static-news.moneycontrol.com/static-mcnews/2017/12/Rubique_Digital-payment_cover-378x213.jpg",
-          "width": 378,
-          "height": 213,
-          "title": "AI & Blockchain: Transforming the banking sector",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

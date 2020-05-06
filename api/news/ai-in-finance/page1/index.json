@@ -5,7 +5,7 @@
       "path": "_news/2020-05-05-the-future-of-deep-reinforcement-learning-our-contemporary-ai-superhero.md",
       "title": "The future of deep-reinforcement learning, our contemporary AI superhero",
       "excerpt": "AI algorithms for deep-reinforcement learning have demonstrated the ability to learn at very high levels in constrained domains.",
-      "heat": 90,
+      "heat": 92,
       "tags": null,
       "type": "article",
       "webUrl": "https://techcrunch.com/2020/05/05/the-future-of-deep-reinforcement-learning-our-contemporary-ai-superhero/",
@@ -44,7 +44,54 @@
       "topics": [
         "AI in Finance",
         "AI",
-        "AI in Robotics"
+        "AI in Robotics",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-05-02-money-in-the-hands-of-ai-how-fintech-and-banks-are-banking-on-ai-for-cybersecurity.md",
+      "title": "Money in the Hands of AI: How Fintech and Banks are Banking on AI for Cybersecurity",
+      "excerpt": "Trusting AI to keep the banks safe can be a good or bad thing. It all depends on who wins -- villains or heroes. We'll discover",
+      "heat": 80,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/money-in-the-hands-of-ai-how-fintech-and-banks-are-banking-on-ai-for-cybersecurity-2020-05-02",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-02T06:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Money in the Hands of AI: How Fintech and Banks are Banking on AI for Cybersecurity",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "IBM AI"
       ]
     },
     {
@@ -1218,43 +1265,6 @@
           "width": 1200,
           "height": 630,
           "title": "AI in Fintech Market Growth Analysis By Size, Share, News, Demand, Opportunity During 2020-2025",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-26-coronavirus-pandemic-deep-tech-startups-pitch-in-with-chatbots-machine-learning.md",
-      "title": "Coronavirus pandemic | Deep tech startups pitch in with chatbots, machine learning",
-      "excerpt": "From powering the MyGov Covid19 chatbot to helping airlines deal with waves of cancellation request, AI startups step up their game",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.moneycontrol.com/news/business/startup/coronavirus-pandemic-deep-tech-startups-pitch-in-with-chatbots-machine-learning-5075071.html",
-      "ampWebUrl": "https://www.moneycontrol.com/news/business/startup/coronavirus-pandemic-deep-tech-startups-pitch-in-with-chatbots-machine-learning-5075071.html/amp",
-      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/startup/coronavirus-pandemic-deep-tech-startups-pitch-in-with-chatbots-machine-learning-5075071.html/amp",
-      "publishedDateTime": "2020-03-26T00:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "moneycontrol.com",
-        "domain": "moneycontrol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://static-news.moneycontrol.com/static-mcnews/2018/03/Amazon-1-378x213.jpg",
-          "width": 378,
-          "height": 213,
-          "title": "Coronavirus pandemic | Deep tech startups pitch in with chatbots, machine learning",
           "attribution": null
         }
       ],

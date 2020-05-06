@@ -2,6 +2,43 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2020-04-22-auditoriaai-raises-6-million-and-introduces-smartflow-skills-to-power-the-self-driving-finance-back-office.md",
+      "title": "Auditoria.AI Raises $6 Million and Introduces SmartFlow Skills to Power the \"Self-Driving\" Finance Back Office",
+      "excerpt": "SANTA CLARA, Calif., April 22, 2020 /PRNewswire/ -- today announced SmartFlow Skills, a groundbreaking new SaaS solution that addresses the most pressing challenges of the enterprise finance back office.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/auditoria-ai-raises-6-million-and-introduces-smartflow-skills-to-power-the-self-driving-finance/article_2a4185c6-6b31-5968-b616-a1b081e1a222.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-22T06:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Auditoria.AI Raises $6 Million and Introduces SmartFlow Skills to Power the \"Self-Driving\" Finance Back Office",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-22-comet-ai-nabs-45m-for-more-efficient-machine-learning-model-management.md",
       "title": "Comet AI nabs $4.5M for more efficient machine learning model management",
       "excerpt": "To that end, Comet AI announced a $4.5 million investment today as it tries to build a more efficient machine learning platform. The money came from existing investors Trilogy Equity Partners, Two Sigma Ventures and Founder’s Co-op. Today’s investment comes on top of an earlier $2.3 million seed. “We provide a self-hosted and cloud-based ...",
@@ -1256,50 +1293,6 @@
           "width": 796,
           "height": 417,
           "title": "Microsoft Word’s AI wants to rewrite your crappy sentences",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-21-efficient-ai-how-to-position-your-rd-spend-in-a-downturn.md",
-      "title": "Efficient AI: How To Position Your R&D Spend In A Downturn",
-      "excerpt": "A recession ahead will mark the first time corporations will have to learn to manage their AI spend during a downtown. Many companies are unsure how to position research and development (R&D) spend when their core business models are threatened.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/theyec/2020/04/21/efficient-ai-how-to-position-your-rd-spend-in-a-downturn/",
-      "ampWebUrl": "https://www.forbes.com/sites/theyec/2020/04/21/efficient-ai-how-to-position-your-rd-spend-in-a-downturn/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2020/04/21/efficient-ai-how-to-position-your-rd-spend-in-a-downturn/amp/",
-      "publishedDateTime": "2020-04-21T05:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Ftheyec%2Ffiles%2F2020%2F04%2Fa-13-3.jpg",
-          "width": 640,
-          "height": 640,
-          "title": "Efficient AI: How To Position Your R&D Spend In A Downturn",
           "attribution": null
         }
       ],

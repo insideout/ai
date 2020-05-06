@@ -2,6 +2,43 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-03-16-ibms-6-dividend-yield-should-set-a-floor-under-the-stock.md",
+      "title": "IBM's 6% Dividend Yield Should Set a Floor Under the Stock",
+      "excerpt": "Last quarter, only two of IBM's core businesses -- cloud & cognitive software and systems -- posted annual revenue growth. Revenue from its other three business units (global technology services, global business services ... Teresa Kersten, an employee of LinkedIn, a Microsoft subsidiary, is a member of The Motley Fool's board of directors.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nasdaq.com/articles/ibms-6-dividend-yield-should-set-a-floor-under-the-stock-2020-03-16",
+      "ampWebUrl": "https://www.nasdaq.com/articles/ibms-6-dividend-yield-should-set-a-floor-under-the-stock-2020-03-16?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ibms-6-dividend-yield-should-set-a-floor-under-the-stock-2020-03-16?amp",
+      "publishedDateTime": "2020-03-16T09:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg?2014824675",
+          "width": 1024,
+          "height": 512,
+          "title": "IBM's 6% Dividend Yield Should Set a Floor Under the Stock",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-16-cognitive-computing-technology-market-by-offering-solutionsservices-technology-deployment-type-applications-forecasts-to-2023.md",
       "title": "Cognitive Computing Technology Market By Offering (Solutions,Services), Technology, Deployment Type, Applications Forecasts To 2023",
       "excerpt": "This report analyzes the global cognitive computing technology market by technology (NLP, machine learning, automated reasoning), deployment (cloud, on-premise), organization size (SME, large enterprise), end-user (BFSI, retail, aerospace & defense); it also studies the top manufacturers in the market. • Microsoft Corporation (U.S ...",
@@ -1089,43 +1126,6 @@
           "width": 2508,
           "height": 1672,
           "title": "AI recruitment start-up recognised at Microsoft’s AI Awards 2.0",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-10-ai-recruitment-startup-talview-wins-the-best-ai-application-for-societal-impact-recognition-at-microsofts-ai-awards-20.md",
-      "title": "AI Recruitment Startup Talview Wins The \"Best AI Application for Societal Impact\" Recognition at Microsoft's AI Awards 2.0",
-      "excerpt": "MUMBAI, India, March 9, 2020 /PRNewswire/ -- AI Recruitment startup, Talview, has received the prestigious \"Best AI Application for Societal Impact\" award in the partner category in the Microsoft ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.prnewswire.com/in/news-releases/ai-recruitment-startup-talview-wins-the-best-ai-application-for-societal-impact-recognition-at-microsoft-s-ai-awards-2-0-895565156.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-09T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1121668/Talview___Microsoft_AI_Awards.jpg?p=facebook",
-          "width": 1198,
-          "height": 628,
-          "title": "AI Recruitment Startup Talview Wins The \"Best AI Application for Societal Impact\" Recognition at Microsoft's AI Awards 2.0",
           "attribution": null
         }
       ],

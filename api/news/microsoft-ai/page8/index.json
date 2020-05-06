@@ -2,6 +2,51 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-02-03-microsoft-azure-cloud-migration-3-success-stories.md",
+      "title": "Microsoft Azure cloud migration: 3 success stories",
+      "excerpt": "“Also, Azure has made it easier for us to continue our work using AI, machine learning, and other data-driven strategies to serve our customers better,” Thadani says. The data migration effort presented some technical challenges, due to the table sizes and data type compatibility between legacy warehouse platforms and SQL Server, Thadani say",
+      "heat": 134,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.infoworld.com/article/3518812/microsoft-azure-cloud-migration-3-success-stories.html",
+      "ampWebUrl": "https://www.infoworld.com/article/3518812/microsoft-azure-cloud-migration-3-success-stories.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3518812/microsoft-azure-cloud-migration-3-success-stories.amp.html",
+      "publishedDateTime": "2020-02-03T03:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2017/11/cloudmigrationpath-100743295-large.jpg",
+          "width": 1200,
+          "height": 771,
+          "title": "Microsoft Azure cloud migration: 3 success stories",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-02-03-a-look-back-at-ten-years-of-microsoft-azure.md",
       "title": "A Look Back At Ten Years Of Microsoft Azure",
       "excerpt": "Microsoft Azure became generally available ... The innovations around Azure Cognitive Services, ML Services, deep integration of AI in the data platform, Azure IoT Edge and Azure Stack are aligned ...",
@@ -1281,43 +1326,6 @@
       "topics": [
         "AI",
         "AWS AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-09-microsoft-announces-canadian-azure-availability-zone-and-azure-expressroute-in-vancouver.md",
-      "title": "Microsoft announces Canadian Azure Availability Zone, and Azure ExpressRoute in Vancouver",
-      "excerpt": "Azure ExpressRoutes, a service that provides a private connection between an organization ... Users will be able to enter questions about the city’s services and receive immediate answers in a conversational format. Ottawa will begin piloting its new 311 AI chatbot in the first quarter of 2020. Sanders also said the city is experimenting ...",
-      "heat": 80,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.itworldcanada.com/article/microsoft-announces-new-azure-availability-zone-and-azure-expressroute-in-vancouver/425868",
-      "ampWebUrl": "https://www.itworldcanada.com/article/microsoft-announces-new-azure-availability-zone-and-azure-expressroute-in-vancouver/425868?amp=1",
-      "cdnAmpWebUrl": "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/microsoft-announces-new-azure-availability-zone-and-azure-expressroute-in-vancouver/425868?amp=1",
-      "publishedDateTime": "2020-01-09T13:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT World Canada",
-        "domain": "itworldcanada.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.itworldcanada.com/wp-content/uploads/2020/01/Microsoft-envision-alysa-e1578600806775-620x250.jpg",
-          "width": 620,
-          "height": 250,
-          "title": "Microsoft announces Canadian Azure Availability Zone, and Azure ExpressRoute in Vancouver",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
         "Microsoft AI"
       ]
     }

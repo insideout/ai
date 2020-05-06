@@ -2,6 +2,52 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-04-21-mit-work-raises-a-question-can-robots-be-teammates-with-humans-rather-than-slaves.md",
+      "title": "MIT work raises a question: Can robots be teammates with humans rather than slaves?",
+      "excerpt": "A \"three-finger gripper\" is attached to it, made by startup Robotiq, based in Lévis ... and said that specifying the correct objective is \"both challenging and critical to design of AI systems.\" Also: Watching YouTube videos may someday let robots copy humans The challenge is that a machine system in some sense has to infer what a human's ...",
+      "heat": 100,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/mit-work-raises-a-question-can-robots-be-teammates-with-humans-rather-than-slaves/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/mit-work-raises-a-question-can-robots-be-teammates-with-humans-rather-than-slaves/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/mit-work-raises-a-question-can-robots-be-teammates-with-humans-rather-than-slaves/",
+      "publishedDateTime": "2020-04-21T12:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/2020/04/21/419e6f8d-c2b4-42cf-85aa-2e6a9ce085f2/mit-robot-arm-collaborates-via-dialogue.png",
+          "width": 1412,
+          "height": 1056,
+          "title": "MIT work raises a question: Can robots be teammates with humans rather than slaves?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-20-starsky-robotics-failure-offers-a-sobering-look-at-the-state-of-ai.md",
       "title": "Starsky Robotics Failure Offers a Sobering Look at the State of AI",
       "excerpt": "Autonomous trucking company Starsky Robotics has closed its doors after failing to secure additional funding in late 2019. Anyone that follows the AI industry or the autonomous vehicle space knows that not every startup was going to make it to the finish line. But the demise of one of the pioneering companies of the autonomous trucking space ...",
@@ -1164,43 +1210,6 @@
           "width": 1280,
           "height": 608,
           "title": "Researchers teach robots to move more like animals",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-08-strategic-elements-turns-primary-focus-to-robotics-ai-and-automation.md",
-      "title": "Strategic Elements turns primary focus to robotics, AI and automation",
-      "excerpt": "SOR’s fully-owned artificial intelligence and robotics company Stealth Technologies is working with Honeywell to build experimental autonomous robotic vehicles. Strategic Elements Ltd (ASX:SOR) is increasing its focus on opportunities in robotics, artificial intelligence (AI) and automation, which are likely to see a big increase in ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.proactiveinvestors.com.au/companies/news/916869/strategic-elements-turns-primary-focus-to-robotics-ai-and-automation-916869.html",
-      "ampWebUrl": "https://www.proactiveinvestors.com.au/companies/amp/news/916869",
-      "cdnAmpWebUrl": "https://www-proactiveinvestors-com-au.cdn.ampproject.org/c/s/www.proactiveinvestors.com.au/companies/amp/news/916869",
-      "publishedDateTime": "2020-04-07T20:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Proactiveinvestors UK",
-        "domain": "proactiveinvestors.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.proactiveinvestors.com.au/thumbs/upload/News/Image/2020_04/1200z740_1586306954_2020-04-08-10-49-14_db8c3de50fe04b48ce8d305771eaa76f.jpg",
-          "width": 1200,
-          "height": 740,
-          "title": "Strategic Elements turns primary focus to robotics, AI and automation",
           "attribution": null
         }
       ],

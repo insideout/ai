@@ -2,6 +2,43 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2020-04-20-rsip-vision-launches-a-pioneering-ai-suite-providing-optimal-solutions-to-key-tasks-in-lung-surgery.md",
+      "title": "RSIP Vision Launches a Pioneering AI Suite Providing Optimal Solutions to Key Tasks in Lung Surgery",
+      "excerpt": "SILICON VALLEY, Calif., April 20, 2020 /PRNewswire/ -- RSIP Vision, a global leader in artificial intelligence (AI) and computer vision technology, announced today a new innovative AI-based suite of m",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/rsip-vision-launches-a-pioneering-ai-suite-providing-optimal-solutions-to-key-tasks-in-lung/article_969a06df-ac77-52f8-b8ec-7edfe462e80a.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-20T09:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/9/9a/99a67bba-74e1-5907-b0c4-b6be6666bca3/5e9dd1fbaaefd.image.jpg?resize=400%2C349",
+          "width": 400,
+          "height": 349,
+          "title": "RSIP Vision Launches a Pioneering AI Suite Providing Optimal Solutions to Key Tasks in Lung Surgery",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-20-natural-language-processing-nlp-in-healthcare-and-life-sciences-market-worth-37-billion-by-2025-exclusive-report-by-marketsandmarkets.md",
       "title": "Natural Language Processing (NLP) in Healthcare and Life Sciences Market Worth $3.7 billion by 2025 - Exclusive Report by MarketsandMarkets™",
       "excerpt": "The major growth factors of the market include the rising urge of predictive analytics to reduce risks and improve significant health concerns, and growing demand for improving Electronic Health ...",
@@ -1234,51 +1271,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-18-nvidias-rtx-voice-app-uses-ai-to-improve-noise-canceling-on-rtx-powered-systems.md",
-      "title": "Nvidia's 'RTX Voice' app uses AI to improve noise canceling on RTX-powered systems",
-      "excerpt": "Of course, the average work-from-home employee probably doesn't have an RTX GPU, which is a strict requirement here. RTX Voice relies on the AI capabilities built into the cards to function, meaning gamers are much more likely to benefit from it. Even so, Nvidia is currently supporting a nice mix of apps with RTX Voice, including gaming-centric ...",
-      "heat": 83,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techspot.com/news/84881-nvidia-rtx-voice-app-uses-ai-improve-noise.html",
-      "ampWebUrl": "https://www.techspot.com/amp/news/84881-nvidia-rtx-voice-app-uses-ai-improve-noise.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/84881-nvidia-rtx-voice-app-uses-ai-improve-noise.html",
-      "publishedDateTime": "2020-04-18T14:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.techspot.com/images2/news/bigimage/2020/04/2020-04-18-image-8.jpg",
-          "width": 1680,
-          "height": 1120,
-          "title": "Nvidia's 'RTX Voice' app uses AI to improve noise canceling on RTX-powered systems",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

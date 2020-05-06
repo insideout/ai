@@ -2,6 +2,87 @@
   "page": 81,
   "value": [
     {
+      "path": "_news/2020-02-25-microsoft-to-open-azure-regions-in-spain-expands-telefonica-relationship.md",
+      "title": "Microsoft to open Azure regions in Spain, expands Telefonica relationship",
+      "excerpt": "In February 2019, Telefonica and Microsoft announced a partnership via which Telefonica would use Azure and Microsoft AI services as a base for its own AI-powered networking technology. The pair said they would be working together to identify AI, blockchain, 5G and edge computing opportunities. Today, the pair said they'd be working together on ...",
+      "heat": 118,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/microsoft-to-open-azure-regions-in-spain-expands-telefonica-relationship/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-to-open-azure-regions-in-spain-expands-telefonica-relationship/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-to-open-azure-regions-in-spain-expands-telefonica-relationship/",
+      "publishedDateTime": "2020-02-25T10:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-25-securitiai-named-most-innovative-startup-at-rsa.md",
+      "title": "Securiti.ai named most innovative startup at RSA",
+      "excerpt": "Securiti.ai, a company that uses AI to help companies ... entrepreneurs and security professionals chose a most innovative startup at RSA, a security conference happening this week in San Francisco.",
+      "heat": 97,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/02/25/securiti-ai-named-most-innovative-startup-at-rsa/",
+      "ampWebUrl": "https://venturebeat.com/2020/02/25/securiti-ai-named-most-innovative-startup-at-rsa/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/25/securiti-ai-named-most-innovative-startup-at-rsa/amp/",
+      "publishedDateTime": "2020-02-25T10:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/02/securit-rsa.jpg?fit=1800%2C900&strip=all",
+          "width": 1800,
+          "height": 900,
+          "title": "Securiti.ai named most innovative startup at RSA",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-02-25-new-juul-patent-application-hints-at-ai-powered-vape-to-help-users-quit-nicotine.md",
       "title": "New Juul patent application hints at AI-powered vape to help users quit nicotine",
       "excerpt": "Juul has applied for a patent regarding a device, supposedly powered by artificial intelligence, that the company says could help users quit nicotine by restricting daily consumption and gradually weaning them off the product. The e-cigarette company applied for the patent last summer, and the application was recently made public, according to ...",
@@ -997,97 +1078,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-25-graphcore-the-ai-chipmaker-raises-another-150m-at-a-195b-valuation.md",
-      "title": "Graphcore, the AI chipmaker, raises another $150M at a $1.95B valuation",
-      "excerpt": "The UK has a strong history when it comes to chips and processors, but the global chip market has seen some ups and downs ... hardware and corresponding Poplar software — which is designed specifically for the kind of simultaneous, intensive calculations demanded of AI applications innovators create next generation machine intelligence ...",
-      "heat": 136,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/02/24/graphcore-the-ai-chipmaker-raises-another-150m-at-a-1-95b-valuation/",
-      "ampWebUrl": "https://techcrunch.com/2020/02/24/graphcore-the-ai-chipmaker-raises-another-150m-at-a-1-95b-valuation/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/24/graphcore-the-ai-chipmaker-raises-another-150m-at-a-1-95b-valuation/amp/",
-      "publishedDateTime": "2020-02-25T03:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2018/12/Graphcore-server-chassis.jpg?w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": "Graphcore, the AI chipmaker, raises another $150M at a $1.95B valuation",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-25-brief-abb-announces-partnership-with-ai-start-up.md",
-      "title": "BRIEF-ABB Announces Partnership with AI Start-Up",
-      "excerpt": "Our Standards:The Thomson Reuters Trust Principles.",
-      "heat": 119,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.reuters.com/article/brief-abb-announces-partnership-with-ai-idUSFWN2AO19Q",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSFWN2AO19Q",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSFWN2AO19Q",
-      "publishedDateTime": "2020-02-25T03:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png",
-          "width": 1200,
-          "height": 630,
-          "title": "BRIEF-ABB Announces Partnership with AI Start-Up",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

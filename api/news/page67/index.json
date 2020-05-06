@@ -2,6 +2,88 @@
   "page": 67,
   "value": [
     {
+      "path": "_news/2020-03-12-researchers-use-ai-to-translate-text-found-on-ancient-clay-tablets.md",
+      "title": "Researchers use AI to translate text found on ancient clay tablets",
+      "excerpt": "Read: Google now supports five new languages on Translate To build the model, they’re training it on more than 6,000 annotated images from the Persepolis Fortification Archive. This will teach the system to read tablets in the collection that have never been analyzed before. They believe the system could uncover new secrets about Achaemenid ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/03/12/researchers-use-ai-to-translate-text-found-on-ancient-clay-tablets/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/03/12/researchers-use-ai-to-translate-text-found-on-ancient-clay-tablets/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/03/12/researchers-use-ai-to-translate-text-found-on-ancient-clay-tablets/amp/",
+      "publishedDateTime": "2020-03-12T11:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/03/Untitled-design19-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "Researchers use AI to translate text found on ancient clay tablets",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-12-ai-recruitment-startup-talview-wins-the-best-ai-application-for-societal-impact-recognition-at-microsofts-ai-awards-20.md",
+      "title": "AI Recruitment Startup Talview Wins The \"Best AI Application for Societal Impact\" Recognition at Microsoft's AI Awards 2.0",
+      "excerpt": "/PRNewswire/ -- AI Recruitment startup, Talview, has received the prestigious \"Best AI Application for Societal Impact\" award in the partner category in",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.prnewswire.com/in/news-releases/ai-recruitment-startup-talview-wins-the-best-ai-application-for-societal-impact-recognition-at-microsoft-s-ai-awards-2-0-875582027.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-12T10:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1121668/Talview___Microsoft_AI_Awards.jpg?p=facebook",
+          "width": 1198,
+          "height": 628,
+          "title": "AI Recruitment Startup Talview Wins The \"Best AI Application for Societal Impact\" Recognition at Microsoft's AI Awards 2.0",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-12-ai-ethics-principles-are-laid-out-by-dod-for-all-to-see-applies-to-self-driving-cars-too.md",
       "title": "AI Ethics Principles Are Laid Out By DoD For All To See, Applies To Self-Driving Cars Too",
       "excerpt": "AI ethics is a hot trending topic these days. And, so it should be. With the rise of AI systems popping up here and there, and virtually everywhere, there is a rightfully emerging concern that these computer-based systems are being thrown into the world without much thought given to the societal impacts that they can produce.",
@@ -844,72 +926,6 @@
         "AWS AI",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-03-12-behringer-deepmind-6-37-key-6-voice-polyphonic-analog-synth.md",
-      "title": "Behringer DeepMind 6 37-Key 6-Voice Polyphonic Analog Synth",
-      "excerpt": "This item is sold As-Described and cannot be returned unless it arrives in a condition different from how it was described or photographed. Items must be returned in original, as-shipped condition with all original packaging.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://reverb.com/item/32842704-behringer-deepmind-6-37-key-6-voice-polyphonic-analog-synth",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-12T02:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reverb.com",
-        "domain": "reverb.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-12-scottish-tech-firms-using-artificial-intelligence-to-protect-natural-environment.md",
-      "title": "Scottish tech firms using artificial intelligence to protect natural environment",
-      "excerpt": "Bishopbriggs-based tech firm Red Star AI is working to improve the diagnosis and treatment of diabetes patients, predicting risk of hospitalisation and non-response to standard therapies, by using forms of AI called Natural Language Processing and Machine Learning to analyse the discharge letters and clinical notes of 110,000 historic diabetes ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.heraldscotland.com/news/18300268.scottish-tech-firms-using-artificial-intelligence-protect-natural-environment/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-12T02:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "heraldscotland.com",
-        "domain": "heraldscotland.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.heraldscotland.com/resources/images/11144105/",
-          "width": 2400,
-          "height": 1597,
-          "title": "Scottish tech firms using artificial intelligence to protect natural environment",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],
