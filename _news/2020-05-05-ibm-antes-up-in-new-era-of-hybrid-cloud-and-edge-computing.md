@@ -23,6 +23,6 @@ images:
     height: 383
     title: "IBM antes up in new era of hybrid cloud and edge computing"
 
-secured: "JlD+s4oA+2C0KaOwdpukx4APAv7HAMmRy197n9gTmcgVTwqPdlil74X5gT0lw/T6IOpsLeFakO8JGwsgxIlAf0MKi2VS58YGt+Raoq9ajfoYrTkFOx9gtz7jAPYFp+0U0TaUv/8AOFAfTXLE066CXRmRW8LWRwa6nT9nHki2+UNf1f0oPDeAc0jjb1z/CZPgB5TvXN5C+r9GbANc4Pe1/qWLeUTMbCVNI8lw5A1J2XRa7/ocW1Led8h/a+6j1kRvbQkgqOoxa1hfOgBsNdIw13i/44Wn+QUQyge1jx+wuxAgffpmrNujlHtGVcuKq11u;ITX5MecbvkdOYwEIXIFZ8A=="
+secured: "+gzbuqBOx1GLjkaQKOsjo118VpkrjhW6b7mosLjVVz0Eg2/kav6rB5H/78sokOWudOvqpqra7SguUlDUQYosERjwtjXiMIveWLno8yFaojtNy0RVKwqFAgeRE3PiZX+r1VGC1IE8Tth/6ypStdZRESsnbqQgfRwkPmM5e18+fk0JmD42skGx88W20MW29AMvDslFI7pU+UzXUQQspFC547yQMnUX+2t5dGjpOAOzzJJX0uW+G2FJMNXyoq2nOrqn7gBRubK8KWLJAjUeQYRKV1aL41ycSw/eToAcdRGcBLslxXj+fpFpJri51+4vy9QPwLzUNGTrA1ImEErq5u0p+A41ANJ/gCsswFtht/g/69/kTPuyXGdeogOAIaUcxnkOk1IB/zvMLdJLfwgZ+rzqNVbpcwy/CpHSC2rMXRS4a/qpl50+fhzM/ca3d3Xb/xdHvXN5jJEXMqUuQz6n0DCzR0XLBC/ygVnnYEJx1DmtdMo=;73gdxB1sDhLEOuZmo3nzrg=="
 ---
 

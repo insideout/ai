@@ -8,7 +8,7 @@ ampWebUrl: "https://www.techspot.com/amp/news/85073-intel-tweets-photo-biggest-w
 cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/85073-intel-tweets-photo-biggest-weirdest-gpu-ever-made.html"
 type: article
 quality: 89
-heat: 90
+heat: 89
 published: true
 
 provider:

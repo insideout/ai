@@ -8,7 +8,7 @@ ampWebUrl: "https://www.slashgear.com/intel-buys-moovit-because-self-driving-car
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/intel-buys-moovit-because-self-driving-cars-cant-be-everywhere-04619208/amp/"
 type: article
 quality: 74
-heat: 85
+heat: 84
 published: true
 
 provider:

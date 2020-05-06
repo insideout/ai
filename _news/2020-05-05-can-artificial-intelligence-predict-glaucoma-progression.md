@@ -5,8 +5,8 @@ excerpt: "A new test, supported by an artificial intelligence (AI) algorithm, ca
 publishedDateTime: 2020-05-05T20:03:00Z
 webUrl: "https://www.ajmc.com/newsroom/can-artificial-intelligence-predict-glaucoma-progression-"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://hraresearch.s3.amazonaws.com/_media/_core/ajmc-twitter-logo.jpg"
