@@ -22,6 +22,6 @@ images:
     height: 355
     title: "Tech startup to use AI, AR for immersive 2022 FIFA World Cup fan experience"
 
-secured: "YyuKxq3mlzFZjNG2UhicOfcMaNY4mKM78DtaAwiE/6FcDz9eWdN1uL4PxqyZsmrVdHTh6p+7FwKS7SOLAZOobDPHHqz4Wac3dGUSVhVWBTd+V1YDZNFaWZU9uX5m4daTjTg79Q4bFnlTYzOQI/tjPrKNC3D5ag0EaP1kfds8HtFXcB09Gn+tOk7K6Dl7RaSXOglkPF1CEbb8REyFckLlSRTnlCTHT46kanVpuaHwglN+ZM16IVh6FUgjzipw6EC6z63z9nl47cBvF/H5ZYkrw8c0rCwwOhJuJNBbPeEKPAV4z7nBsXpB1N8Qdl2zstgx;iDyQKOJje64tgib6aRFIIA=="
+secured: "xSdz73zRgq1keAt/jemZKDZG10T55v3K+ns7cdlS1F5qpiXu2bQW+YmFEucXsh6leprkioS0XtYQ0jeM19vGiRl+hD9I4G2VsMsuaHHiZRGf/Y8BjAjCJEoialA7dHkfrISQ+wxwjhDDZ2o8XhJ5Go68hR9Q0OxGwMqICxgE/0d7w198jYcTek7qeT2nQFE51GdKLd+mzCw+T7XYwPDF750FhH7qLKAxJns56I7L/NTl/brEQlgjxwhUxleG1trBA5PtxnH/LoudY/uSp5CLKqulKyJ55ZXquNZGr0IzszL1VSUEGouiFOABgH6EW6ycMsCVl/qc4yOi6VcDSWrzT/BsXcYF03oDGkgQgQbMMCzzMWAM5Ej9Ry2OuDx0rMzwuMj+e3lPOSpSb1fcnrOF8eyR+ZYvylaKD0HO37DVg+ed2UVZ+HXan8INP7CpsbrLM/X8vYKZ5YyO5mlcsw9psp/O4OWIKnHy+PqB8Y5EVGY=;tGydApJNXda8py3t/PB0cQ=="
 ---
 

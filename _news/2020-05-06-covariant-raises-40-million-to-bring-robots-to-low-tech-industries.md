@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/05/06/covariant-raises-40-million-to-br
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/06/covariant-raises-40-million-to-bring-robots-to-low-tech-industries/amp/"
 type: article
 quality: 104
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -30,6 +30,19 @@ images:
     title: "Covariant raises $40 million to bring robots to low-tech industries"
 
 related:
+  - title: "Covariant Raises $40 Million in Series B Funding to Bring AI Robotics to New Industries"
+    excerpt: "Covariant, a leading AI Robotics company, today announced that it has raised $40 million in Series B funding, bringing its total funding to"
+    publishedDateTime: 2020-05-06T13:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/covariant-raises-40-million-in-series-b-funding-to-bring-ai-robotics-to-new-industries-301053756.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 61
+    images:
+      - url: "https://mma.prnewswire.com/media/1083489/Covariant_Logo.jpg?p=facebook"
+        width: 2695
+        height: 1414
   - title: "Covariant raises $40 million funding to provide artificial intelligence for warehouse robots"
     excerpt: "Backing follows partnerships with ABB, Knapp, as firm plans to handle complex tasks in picking, placing, and unloading."
     publishedDateTime: 2020-05-06T19:06:00Z
@@ -38,7 +51,7 @@ related:
     provider:
       name: DC Velocity
       domain: dcvelocity.com
-    quality: 43
+    quality: 60
     images:
       - url: "https://www.dcvelocity.com/ext/resources/images/articles/2020/202005/Covariant-robot-at-a-KNAPP-powered-warehouse-Obeta-credit-Magnus-Petterson.jpg?height=635&t=1588791228&width=1200"
         width: 4275

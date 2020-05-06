@@ -2,8 +2,8 @@
 category: news
 title: "Run:AI Creates First Fractional GPU Sharing for Kubernetes Deep Learning Workloads"
 excerpt: "AI, a company virtualizing AI infrastructure, today released the first fractional GPU sharing system for deep learning workloads"
-publishedDateTime: 2020-05-06T13:00:00Z
-webUrl: "https://www.prnewswire.com/news-releases/runai-creates-first-fractional-gpu-sharing-for-kubernetes-deep-learning-workloads-301053864.html"
+publishedDateTime: 2020-05-06T20:00:00Z
+webUrl: "https://www.prnewswire.com/il/news-releases/runai-creates-first-fractional-gpu-sharing-for-kubernetes-deep-learning-workloads-301053864.html"
 type: article
 quality: 33
 heat: 33
@@ -23,6 +23,6 @@ images:
     height: 315
     title: "Run:AI Creates First Fractional GPU Sharing for Kubernetes Deep Learning Workloads"
 
-secured: "BGqk/a3OneAMiVB95v2HUdF9b2Fz8s11jkqDdvCGk4oHP6hErG1FAzcrA4F3WR1E7VWZwhDUdCu8QUEPIY8i2mz51EJRwAzIE6h+gckTxktbM4mPv9myyJ2e+EQrZwbTQto3LVmWJBk47vvakH8mdyzlbABqW+Sx8WxA8ZqP5/N1yxL9QC1YyePT8J0tXBCLX90oh6H7AEdV4Qhu7I/zu7gp3am/4lj1w8vIiyrtFBskRabLt50gUdbUNr8qmcejLGb9TQ5Q3as3wlY1SgZlESpXY5OSaqN/uUNZeoNEix+KFxsMuD9ORacpzQN8dwr3;nL8x2RWGXOJflrq+OJ7+sA=="
+secured: "GGfZba0bRoQL9uy/R0YIiWaJ/b6xFBVxrEI/LsiXP6dSyYWAVf6fekqafKfbs10BTQnnA+AXB2MtWBmkYGYaLbcBVG8N/ycEMplhguaOJAmF06+C7jr7QV0ybnJCuoWxvhDqxuTKSjoPGj3bjlMfbIotNqesLMQgEpwvspEzmBoCAfVPD2qeEdE7w76CbzxmVb0cHl6Yloqxbvj5sf4BXENmY4hvTE9xN79OBSK1viXO4xnss9PBo2xNBcu5fepSOi7bw+FoJOn4rjbmOwtknnYbwxFCUmqPA+QJeNoM6L3I/THlb34WgZtIy2vRwujh;HHrkC0VY4pBmQX98azSIOA=="
 ---
 

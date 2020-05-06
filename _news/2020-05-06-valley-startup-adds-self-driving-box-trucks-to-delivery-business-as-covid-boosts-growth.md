@@ -25,6 +25,6 @@ images:
     height: 400
     title: "Valley startup adds self-driving box trucks to delivery business as Covid boosts growth"
 
-secured: "40c7MM8c/A3vp21XXWAZoj9PagrgX5T3XkQHiYzltdVSKcEQoJABJPyIdHQZasmn2U2tDHQaDPyB+QfddsHY+2FrJlF4FBEAq6+ZRs6sCpoN/XmJcbp+b/u2BCHa4D/npLuOvuYhd2JEzm9M5iFAeYqzybRU4Bb8RLMKQ14c0p3Yto0yz3KrIarO+u1dF/MwE0r2gj4nb1JQv5ZG3Bqu3PCkbvqzn2SJLRl1E2Yb8GVh8zp+Utygh0st7B0ifUUiyZ1R/4Ups6cxrJTbdMz5ETZ82+pfjLEiqm2iaTQCFSpTjzadGCvpCkOEFhcumFGE;phehCfsiZKtWmJ7Dz2KxkA=="
+secured: "f1CSumNh+9FMSWfWRvV+Wdm+a1Sxgo2GyKWgN6zZVSwhk6NxdG3IzJvFWN16eizmhPLnK+54KpvuxGZWsjAo4U7oOYNCsgAgvVinxT08J/jaPVn5Q7o29+J42ARwj2rIUk5I6zcyiVGu9UZOTlZj7Gt63fIbwgz3vJFPJCRfNqcumXBfN1n1GEHCX65qlyuSiOPvQ1Qu7O9f+YfDwdJclrxARLtiqD5bkwVzwnKkFfucqFljp5sr4+3cYLWKVY8l/wHEG3lVR/9NBYLUiRdNhYJsf1/5biHh1LEyDF6Ja3YU6WHAE8KEEVZIicypZzle2cUAglj2wdwhNgTsoMTedIi+v64qSmJlhnmNPVN31zcwvqu2tF2+d3Aun+dYzVQjcwr/JQX3Qs2jeKk1n9K8JXnv8o9eMsdedmuKB27+xr2XDwxaNek+Z5OABVb04Jk654rJFxFDQ7eB/OuJm1b87gD6C0RyNRjz2PDN9oPymLc=;Pf9X+PMJNfT/98vRcQ91fw=="
 ---
 

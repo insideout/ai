@@ -8,7 +8,7 @@ ampWebUrl: "https://techcrunch.com/2020/05/06/runai-brings-virtualization-to-gpu
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/06/runai-brings-virtualization-to-gpus-running-kubernetes-workloads/amp/"
 type: article
 quality: 104
-heat: 104
+heat: 105
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     height: 348
     title: "Run:AI brings virtualization to GPUs running Kubernetes workloads"
 
-secured: "wpIrY2/jQGZgumqf2XiXQIOXdiR69PVFbyBbZVMHKnbclZ0ap+Zyxk9nr9ay9iZrnklKNiiuq+L799c2ihW8AIcSAC88CmNew3vx07O8McT3VzaDYh6jBLvWyGPWmAcLostEgHVb95AvMGHH5AlMGk6ObizBCBEUIGnc1O+ZEW1AySXnCpB3VSIFu1i+xExWHhkTe+roPAB0zlzMGBXnOsRRVvpZDeQKOkGFDp/rtfc100JD6R4dJg0UYIvWpgqX0VMlC6HZVJ0ty+IMUxgQSXWrArPm3ZBjrz5dCeCbLqquh1Q6skcqVOUoJF8Zvo8+;BCyL8e3ZIgLQHf6TVmLTIw=="
+secured: "lNGPs5LfSMtYnejE6usMK7UnUR1BFubhfJemT0jNSwCqYElWpUQRgFRQivTN6S+NiFpJmOmOmMXc0fI/hPZchiKcQlYsQXkmxo3PU0DmA+jHwKyl5wp8dyLatPK2RRIfHOcx0A/ZWcfFVZF7rd9WNLwYU7fDTAb5JghVNUc/eNLWNq3S/UYpTOXDuE6cyk3nJkz9h5SQg2Z7c7n9u4/O9drF/dxDbccZ9h4V/+1vzKt5/mAA8m7hof5KM8XmI8mIRQR1xCOALbicph0mLYZGQjuDbi06MzKBVNV9AW9pQOyilkVyy07S5ZEFSb5F+jtw;z2Htd9+/CVYYd6QENfLQ/A=="
 ---
 
