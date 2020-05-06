@@ -2,6 +2,43 @@
   "page": 57,
   "value": [
     {
+      "path": "_news/2020-03-12-intel-starts-using-facial-recognition-technology-to-id-workers-visitors.md",
+      "title": "Intel starts using facial recognition technology to ID workers, visitors",
+      "excerpt": "This may be the largest implementation of facial recognition in the workplace anywhere in the country. Intel has 20,000 employees in Oregon and roughly 50,000 nationwide. It comes as public ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.oregonlive.com/silicon-forest/2020/03/intel-starts-using-facial-recognition-technology-to-scan-workers-visitors.html",
+      "ampWebUrl": "https://www.oregonlive.com/silicon-forest/2020/03/intel-starts-using-facial-recognition-technology-to-scan-workers-visitors.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/silicon-forest/2020/03/intel-starts-using-facial-recognition-technology-to-scan-workers-visitors.html?outputType=amp",
+      "publishedDateTime": "2020-03-11T21:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Oregonian",
+        "domain": "oregonlive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/BAIVJF6SGVCARACVWYB77KNGYA.jpg",
+          "width": 3022,
+          "height": 2014,
+          "title": "Intel starts using facial recognition technology to ID workers, visitors",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-12-video-analytics-isr-and-intelligent-video-surveillance-americas-market-to-experience-significant-growth-during-the-forecast-period-in-2020.md",
       "title": "Video Analytics, ISR And Intelligent Video Surveillance Americas Market To Experience Significant Growth During The Forecast Period In 2020",
       "excerpt": "Mar 12, 2020 (AmericaNewsHour) -- By the end of 2014, the North America & Latin America markets for Object Recognition, Video Analytics, Intelligent Video Surveillance & ISR products and services ...",
@@ -1119,51 +1156,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-11-heres-why-im-campaigning-against-facial-recognition-in-schools.md",
-      "title": "Here's Why I'm Campaigning Against Facial Recognition in Schools",
-      "excerpt": "She currently serves on the board of directors of Students for Sensible Drug Policy and has coordinated campus organizing for the campaign to ban facial recognition. You can find her on Twitter at ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.vice.com/en_us/article/z3bgpj/heres-why-im-campaigning-against-facial-recognition-in-schools",
-      "ampWebUrl": "https://www.vice.com/amp/en_us/article/z3bgpj/heres-why-im-campaigning-against-facial-recognition-in-schools",
-      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_us/article/z3bgpj/heres-why-im-campaigning-against-facial-recognition-in-schools",
-      "publishedDateTime": "2020-03-11T04:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VICE",
-        "domain": "vice.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/vice.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://video-images.vice.com/test-uploads/articles/5e6802bca5a797009d94acce/lede/1583876911969-University-of-North-Georgia-Brooke-Trogdon-They_Them.jpeg?crop=1xw:0.7487xh;0xw,0.078xh",
-          "width": 2016,
-          "height": 1132,
-          "title": "Here's Why I'm Campaigning Against Facial Recognition in Schools",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }
