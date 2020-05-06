@@ -2,6 +2,52 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-02-22-trillion-dollar-foes-does-amazon-web-services-reign-supreme-in-the-cloud-business.md",
+      "title": "Trillion-Dollar Foes: Does Amazon Web Services Reign Supreme in the Cloud Business?",
+      "excerpt": "AWS is dominant within Amazon as well ... If Microsoft is the victor, it would be poised to expand its global presence through the pairing of cloud services with artificial intelligence or machine learning. This could increase revenue and potentially expand its market share, perhaps even putting the company ahead of Amazon on revenue.",
+      "heat": 85,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fool.com/investing/2020/02/22/trillion-dollar-foes-does-amazon-web-services-reig.aspx",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/02/22/trillion-dollar-foes-does-amazon-web-services-reig.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/02/22/trillion-dollar-foes-does-amazon-web-services-reig.aspx",
+      "publishedDateTime": "2020-02-22T06:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F558881%2Fcloud-computing-computer-key-getty-6-2-17.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 900,
+          "title": "Trillion-Dollar Foes: Does Amazon Web Services Reign Supreme in the Cloud Business?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-02-21-microsoft-launches-entrepreneurship-program-targeted-at-social-entrepreneurs.md",
       "title": "Microsoft launches entrepreneurship program targeted at social entrepreneurs",
       "excerpt": "Under the program, which will be available in 140 countries, qualifying social enterprises will receive access to free Microsoft cloud technologies, including up to $120,000 in Azure credits, along with technical ... and Zindi's web platform has been created to host machine learning and AI competitions online in Africa.",
@@ -1245,43 +1291,6 @@
           "width": 1200,
           "height": 675,
           "title": "Are Brighter Days Ahead for IBM?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-03-microsoft-looks-to-expand-into-ai-as-cloud-computing-drives-q2-results.md",
-      "title": "Microsoft looks to expand into AI as cloud computing drives Q2 results",
-      "excerpt": "while adding that Microsoft also plans to develop more AI capabilities in Azure. “Cognitive Services, now integrated with Azure Data Lake, enables customers to use industry-leading AI capabilities to easily analyze images, text, emotions, and sentiments at petabyte scale.” Mandy is a lineup editor at CTV News. A former staffer at IT World ...",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.itworldcanada.com/article/microsoft-looks-to-expand-into-ai-as-cloud-computing-drives-q2-results/390316",
-      "ampWebUrl": "https://www.itworldcanada.com/article/microsoft-looks-to-expand-into-ai-as-cloud-computing-drives-q2-results/390316?amp=1",
-      "cdnAmpWebUrl": "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/microsoft-looks-to-expand-into-ai-as-cloud-computing-drives-q2-results/390316?amp=1",
-      "publishedDateTime": "2020-02-03T12:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT World Canada",
-        "domain": "itworldcanada.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.itworldcanada.com/wp-content/uploads/2016/03/249A0332-1-620x250.jpg",
-          "width": 620,
-          "height": 250,
-          "title": "Microsoft looks to expand into AI as cloud computing drives Q2 results",
           "attribution": null
         }
       ],

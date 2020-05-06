@@ -2,6 +2,51 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-05-06-chinese-chip-maker-smics-us3-billion-shanghai-listing-is-a-hedge-to-reduce-companys-reliance-on-us-technology.md",
+      "title": "Chinese chip maker SMIC’s US$3 billion Shanghai listing is a hedge to reduce company’s reliance on US technology",
+      "excerpt": "SMIC, which announced its plan to delist from New York last year, is one of several chip companies that embody Beijing’s hope of creating a self-reliant and world-class semiconductor industry.",
+      "heat": 83,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.scmp.com/business/companies/article/3083208/chinese-chipmaker-smics-us3-billion-shanghai-listing-hedge",
+      "ampWebUrl": "https://amp.scmp.com/business/companies/article/3083208/chinese-chipmaker-smics-us3-billion-shanghai-listing-hedge",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/business/companies/article/3083208/chinese-chipmaker-smics-us3-billion-shanghai-listing-hedge",
+      "publishedDateTime": "2020-05-06T06:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/05/06/e1cf8a26-8f9a-11ea-a674-527cfdef49ee_image_hires_211839.JPG?itok=ETHgRewO&v=1588771125",
+          "width": 1200,
+          "height": 630,
+          "title": "Chinese chip maker SMIC’s US$3 billion Shanghai listing is a hedge to reduce company’s reliance on US technology",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-06-national-lab-taps-ai-machine-with-massive-chip-to-fight-coronavirus.md",
       "title": "National Lab Taps AI Machine With Massive Chip to Fight Coronavirus",
       "excerpt": "Argonne National Laboratory is using the CS-1 computer, from AI chip startup Cerebras Systems, to run learning models aimed at discovering compounds that can be used in existing or new drugs to help create a vaccine or treatments.",
@@ -1242,51 +1287,6 @@
           "width": 600,
           "height": 298,
           "title": "HiSense F50 5G debuts with Unisoc chip for 2,199 Yuan (~$310) in China",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-19-nvidias-mellanox-acquistion-finally-gets-okd-by-chinese-regulators.md",
-      "title": "NVIDIA's Mellanox Acquistion Finally Gets OK'd by Chinese Regulators",
-      "excerpt": "Given the potential for its technology over the next decade to power data centers, edge network computing, AI, and more, the GPU design leader remains one of my core portfolio holdings.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.fool.com/investing/2020/04/19/nvidia-mellanox-finally-okd-by-chinese-regulators.aspx?source=iedfolrf0000001",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/04/19/nvidia-mellanox-finally-okd-by-chinese-regulators.aspx",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/04/19/nvidia-mellanox-finally-okd-by-chinese-regulators.aspx",
-      "publishedDateTime": "2020-04-19T13:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F568360%2Fcloud-computing-getty-6217.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 800,
-          "title": "NVIDIA's Mellanox Acquistion Finally Gets OK'd by Chinese Regulators",
           "attribution": null
         }
       ],

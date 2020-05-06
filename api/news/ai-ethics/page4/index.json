@@ -2,6 +2,51 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-02-17-how-salesforce-makes-decisions-on-ethics-and-social-issues.md",
+      "title": "How Salesforce Makes Decisions on Ethics and Social Issues",
+      "excerpt": "Paula Goldman joined Salesforce.com Inc. early last year as chief ethical and humane use officer, a new role tasked with developing a framework for making decisions on complicated political issues.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wsj.com/articles/how-salesforce-makes-decisions-on-ethics-and-social-issues-11581955201",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/how-salesforce-makes-decisions-on-ethics-and-social-issues-11581955201",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/how-salesforce-makes-decisions-on-ethics-and-social-issues-11581955201",
+      "publishedDateTime": "2020-02-17T09:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-154936/social",
+          "width": 1280,
+          "height": 640,
+          "title": "How Salesforce Makes Decisions on Ethics and Social Issues",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2020-02-13-92-of-tech-insiders-have-a-strong-appetite-for-ai.md",
       "title": "92% of tech insiders have a strong appetite for AI",
       "excerpt": "are in favor of some level of government involvement in AI. Many organizations are poised for that push. Ethics are an issue that can't be ignored, either, and 88% of the tech insiders say companies need to implement an AI ethics policy to help govern AI work. There are some barriers to furthering the adoption of AI, but business insiders vow ...",
@@ -1216,51 +1261,6 @@
           "width": 970,
           "height": 545,
           "title": "AI: the topic that got sidelined in the British election",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-01-21-ibm-unveils-policy-lab-advocates-precision-regulation-of-ai.md",
-      "title": "IBM unveils Policy Lab, advocates ‘precision regulation’ of AI",
-      "excerpt": "IBM advocates for the appointment of AI ethics officials to guarantee compliance with providers’ and owners’ expectations. They’d be accountable for internal guidance and compliance mechanisms like AI ethics boards, which would oversee risk assessments and harm mitigation strategies, and for improving public acceptance and trust of ...",
-      "heat": 109,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/01/21/ibm-unveils-policy-lab-advocates-precision-regulation-of-ai/",
-      "ampWebUrl": "https://venturebeat.com/2020/01/21/ibm-unveils-policy-lab-advocates-precision-regulation-of-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/21/ibm-unveils-policy-lab-advocates-precision-regulation-of-ai/amp/",
-      "publishedDateTime": "2020-01-21T02:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/11/ibm-keyboard-logo.png?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "IBM unveils Policy Lab, advocates ‘precision regulation’ of AI",
           "attribution": null
         }
       ],

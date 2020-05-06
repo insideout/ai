@@ -2,6 +2,593 @@
   "page": 116,
   "value": [
     {
+      "path": "_news/2020-01-24-washington-state-wants-to-regulate-artificial-intelligence-as-microsoft-lobbies-for-new-rules.md",
+      "title": "Washington state wants to regulate artificial intelligence, as Microsoft lobbies for new rules",
+      "excerpt": "Washington state could become a pioneer in regulating artificial intelligence if lawmakers, and homegrown tech giant Microsoft, get their way. A series of bills introduced this legislative session seek to blaze a trail for this new frontier of technological innovation. The legislation focuses on biometric screening and digital profiling.",
+      "heat": 205,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.geekwire.com/2020/washington-state-wants-regulate-artificial-intelligence-microsoft-lobbies-new-rules/",
+      "ampWebUrl": "https://www.geekwire.com/2020/washington-state-wants-regulate-artificial-intelligence-microsoft-lobbies-new-rules/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/washington-state-wants-regulate-artificial-intelligence-microsoft-lobbies-new-rules/amp/",
+      "publishedDateTime": "2020-01-24T10:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2017/03/statecapitol-630x417.jpg",
+          "width": 630,
+          "height": 417,
+          "title": "Washington state wants to regulate artificial intelligence, as Microsoft lobbies for new rules",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-01-24-facial-recognition-startup-fends-off-accuracy-doubts-and-legal-claims-after-nyt-report.md",
+      "title": "Facial recognition startup fends off accuracy doubts and legal claims after NYT report",
+      "excerpt": "Clearview AI, an artificial intelligence firm providing facial recognition technology to US law enforcement, may be overstating how effective its services are in catching terrorist suspects and preventing attacks, according to a report from BuzzFeed News. Clearview falsely claimed it helped the NYPD catch a terrorism suspect last year “The ...",
+      "heat": 146,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.theverge.com/2020/1/24/21079354/clearview-ai-nypd-terrorism-suspect-false-claims-facial-recognition",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/1/24/21079354/clearview-ai-nypd-terrorism-suspect-false-claims-facial-recognition",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/1/24/21079354/clearview-ai-nypd-terrorism-suspect-false-claims-facial-recognition",
+      "publishedDateTime": "2020-01-24T09:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/k9hv7Ppucrt9N28vjV1wId2fmbQ=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66161809/acastro_180730_1777_facial_recognition_0002.0.jpg",
+          "width": 1400,
+          "height": 933,
+          "title": "Facial recognition startup fends off accuracy doubts and legal claims after NYT report",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2020-01-24-docomo-says-6g-will-bring-ai-everywhere-deliver-extreme-performance.md",
+      "title": "Docomo says 6G will bring AI everywhere, deliver ‘extreme’ performance",
+      "excerpt": "As one of the earliest cellular pioneers, Japanese carrier NTT Docomo today weighed in with predictions on what 6G will look like in 2030, and they’re intriguing: 6G will bring AI everywhere, and transform 5G’s “best effort” performance standards into guarantees of hyper-fast speeds. Docomo has an expansive view of AI’s role in the ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/01/24/docomo-says-6g-will-bring-ai-everywhere-deliver-extreme-performance/",
+      "ampWebUrl": "https://venturebeat.com/2020/01/24/docomo-says-6g-will-bring-ai-everywhere-deliver-extreme-performance/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/24/docomo-says-6g-will-bring-ai-everywhere-deliver-extreme-performance/amp/",
+      "publishedDateTime": "2020-01-24T08:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/01/docomo6gh.jpg?fit=2000%2C1000&strip=all",
+          "width": 2000,
+          "height": 1000,
+          "title": "Docomo says 6G will bring AI everywhere, deliver ‘extreme’ performance",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-01-24-how-artificial-intelligence-is-progressing-in-mental-healthcare.md",
+      "title": "How Artificial Intelligence is progressing in mental healthcare",
+      "excerpt": "Over the years, Artificial Intelligence (AI) tools have been used to fill gaps in mental health care: be it the diagnosis or detection of the early signs of mental health issues. Now, researchers ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.livemint.com/mint-lounge/features/how-artificial-intelligence-is-progressing-in-mental-healthcare-11579878039985.html",
+      "ampWebUrl": "https://www.livemint.com/mint-lounge/features/how-artificial-intelligence-is-progressing-in-mental-healthcare/amp-11579878039985.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/mint-lounge/features/how-artificial-intelligence-is-progressing-in-mental-healthcare/amp-11579878039985.html",
+      "publishedDateTime": "2020-01-24T07:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.livemint.com/img/2020/01/24/600x338/Asset_1579878227723.jpg",
+          "width": 600,
+          "height": 337,
+          "title": "How Artificial Intelligence is progressing in mental healthcare",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2020-01-24-the-impact-of-ai-bay-area-experts-discuss-the-meaning-of-artificial-intelligence-and-how-it-will-affect-the-economy-and-society.md",
+      "title": "The impact of AI: Bay Area experts discuss the meaning of Artificial Intelligence and how it will affect the economy and society",
+      "excerpt": "At a Dec. 9 forum hosted by the San Francisco Business Times, three panelists discussed how businesses can leverage AI to drive innovation, the impact AI will have on the economy and on society, and the meaning of artificial intelligence itself.",
+      "heat": 127,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.bizjournals.com/sanfrancisco/news/2020/01/24/the-impact-of-ai-bay-area-experts-discuss-the.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-24T07:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Business Journals",
+        "domain": "bizjournals.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.bizj.us/view/img/11583703/tableofexperts-webfeature-group*1200xx1186-667-7-0.jpg",
+          "width": 1186,
+          "height": 667,
+          "title": "The impact of AI: Bay Area experts discuss the meaning of Artificial Intelligence and how it will affect the economy and society",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2020-01-24-london-police-deploy-real-time-facial-recognition-cameras.md",
+      "title": "London police deploy real-time facial recognition cameras",
+      "excerpt": "(Reuters) — British police are to start operational use of live facial recognition cameras in London, despite warnings over privacy from rights groups and concerns expressed by the government’s own surveillance watchdog. “The use of live facial recognition technology will be intelligence-led and deployed to specific locations in London ...",
+      "heat": 729,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/01/24/london-police-deploy-real-time-facial-recognition-cameras/",
+      "ampWebUrl": "https://venturebeat.com/2020/01/24/london-police-deploy-real-time-facial-recognition-cameras/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/24/london-police-deploy-real-time-facial-recognition-cameras/amp/",
+      "publishedDateTime": "2020-01-24T06:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/10/GettyImages-1074319518-e1579876576621.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "London police deploy real-time facial recognition cameras",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2020-01-24-heres-what-we-learned-by-teaching-an-ai-to-write-super-bowl-ads.md",
+      "title": "Here’s What We Learned by Teaching an AI to Write Super Bowl Ads",
+      "excerpt": "Super Bowl ads, the bot’s creators decided to touch base on how it’s going, what we’ve all learned and where this project seems to hint that AI is headed, at least in the realm of creativity. Here’s the conversation between Adweek emerging tech reporter Patrick Kulp and creative and innovation editor David Griner: David Griner ...",
+      "heat": 127,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.adweek.com/creativity/heres-what-we-learned-by-teaching-an-ai-to-write-super-bowl-ads/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-24T05:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Adweek",
+        "domain": "adweek.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-01-24-facial-recognition-in-schools-even-supporters-say-it-wont-stop-shootings.md",
+      "title": "Facial recognition in schools: Even supporters say it won't stop shootings",
+      "excerpt": "After a shooting at a high school in Parkland, Florida left 17 people dead, RealNetworks decided to make its facial recognition technology available for free to schools across the US and Canada. If school officials could detect strangers on their campuses, they might be able to stop shooters before they got to a classroom. Anxious to keep ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnet.com/features/facial-recognition-in-schools-even-supporters-say-it-wont-stop-shootings/",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/facial-recognition-in-schools-even-supporters-say-it-wont-stop-shootings/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facial-recognition-in-schools-even-supporters-say-it-wont-stop-shootings/",
+      "publishedDateTime": "2020-01-24T05:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cnet4.cbsistatic.com/img/Cp3ZyJq8RKtk8eR3n6q8cPewnYM=/756x567/2019/03/28/4cdf26ed-f398-47c4-9495-b22006b4e019/facial-recognition-seq-00-04-33-00-still001.png",
+          "width": 756,
+          "height": 567,
+          "title": "Facial recognition in schools: Even supporters say it won't stop shootings",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2020-01-24-get-ready-for-the-emergence-of-ai-as-a-service.md",
+      "title": "Get ready for the emergence of AI-as-a-Service",
+      "excerpt": "A new “_” as a service model is ... case managers, or financial advisors. In the case of a claims adjuster, for example, they could use an AI-based solution to run a query to predict claim costs or perform text mining on the vast amount of claim notes. Layering insights for better outcomes Machine learning technologies, when integrated ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/podium/2020/01/24/get-ready-for-the-emergence-of-ai-as-a-service/",
+      "ampWebUrl": "https://thenextweb.com/podium/2020/01/24/get-ready-for-the-emergence-of-ai-as-a-service/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/podium/2020/01/24/get-ready-for-the-emergence-of-ai-as-a-service/amp/",
+      "publishedDateTime": "2020-01-24T03:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/01/Untitled-design43-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "Get ready for the emergence of AI-as-a-Service",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2020-01-24-im-obsessed-with-the-circle-and-its-ridiculous-voice-assistant.md",
+      "title": "I'm obsessed with 'The Circle' and its ridiculous voice assistant",
+      "excerpt": "But it's tough to ignore all the low-budget technology knowing that it's possible to up to ante. Do I expect Netflix to come back in Season 2 with voice recognition? Absolutely not. However, I do hope they find ways to make it less obvious that there is a literal human sitting in some production room trying to transcribe all the messages as ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://mashable.com/article/the-circle-voice-assistant/",
+      "ampWebUrl": "https://mashable.com/article/the-circle-voice-assistant.amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/the-circle-voice-assistant.amp",
+      "publishedDateTime": "2020-01-24T03:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mondrian.mashable.com/uploads%252Fcard%252Fimage%252F1163038%252F410aca9b-e5be-43f7-9ccd-52aa90c0bcd3.png%252Foriginal.png?signature=sjYMcDOANq8SkYAN9zv9QCyMZjM=&source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com",
+          "width": 1230,
+          "height": 1073,
+          "title": "I'm obsessed with 'The Circle' and its ridiculous voice assistant",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-01-24-with-3d-printed-custom-shoes-and-butler-robots-technology-is-reshaping-hospitality.md",
+      "title": "With 3D-printed custom shoes and butler robots, technology is reshaping hospitality",
+      "excerpt": "At an Aloft hotel in Cupertino, you might be served tea by a robot butler quaintly named Botlr ... “Companies that don’t embrace technology as an enabler will disappear,” said Dilip Puri. Artificial Intelligence will allow guest experience to become so much better. Chatbots are already making the booking experience easier.",
+      "heat": 83,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://qz.com/india/1790645/blockchain-bots-reshaping-indian-hotels-marriott-taj-itc/",
+      "ampWebUrl": "https://qz.com/india/1790645/blockchain-bots-reshaping-indian-hotels-marriott-taj-itc/amp/",
+      "cdnAmpWebUrl": "https://qz-com.cdn.ampproject.org/c/s/qz.com/india/1790645/blockchain-bots-reshaping-indian-hotels-marriott-taj-itc/amp/",
+      "publishedDateTime": "2020-01-23T22:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Quartz",
+        "domain": "qz.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/qz.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cms.qz.com/wp-content/uploads/2020/01/hotel-e1579842060851.jpg?quality=75&strip=all&w=1400",
+          "width": 1400,
+          "height": 787,
+          "title": "With 3D-printed custom shoes and butler robots, technology is reshaping hospitality",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-01-24-waymos-self-driving-minivans-and-big-rigs-arrive-in-two-more-states.md",
+      "title": "Waymo’s self-driving minivans and big rigs arrive in two more states",
+      "excerpt": "Waymo, one of the leaders in autonomous-vehicle technology, is taking its self-driving cars and trucks to more states for testing on public roads. From this week, its driverless vehicles will be heading to Texas and New Mexico for the first time as Waymo ...",
+      "heat": 299,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.digitaltrends.com/cars/waymos-self-driving-minivans-and-big-rigs-arrive-in-two-more-states/",
+      "ampWebUrl": "https://www.digitaltrends.com/cars/waymos-self-driving-minivans-and-big-rigs-arrive-in-two-more-states/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/waymos-self-driving-minivans-and-big-rigs-arrive-in-two-more-states/?amp",
+      "publishedDateTime": "2020-01-23T22:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://icdn3.digitaltrends.com/image/digitaltrends/waymo-autonomous-truck-2-1200x630-c-ar1.91.jpg",
+          "width": 720,
+          "height": 376,
+          "title": "Waymo’s self-driving minivans and big rigs arrive in two more states",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2020-01-24-facebook-messenger-may-soon-use-face-recognition-to-lock-the-app.md",
+      "title": "Facebook Messenger may soon use face recognition to lock the app",
+      "excerpt": "Perhaps more importantly, the text suggests that face recognition details will not be stored on Facebook’s servers. Whether it will implement its own technology or use Android’s and iOS’s facilities isn’t yet clear. And whether it will indeed do as it says will be a whole different matter entirely.",
+      "heat": 129,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.slashgear.com/facebook-messenger-may-soon-use-face-recognition-to-lock-the-app-24607595/",
+      "ampWebUrl": "https://www.slashgear.com/facebook-messenger-may-soon-use-face-recognition-to-lock-the-app-24607595/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/facebook-messenger-may-soon-use-face-recognition-to-lock-the-app-24607595/amp/",
+      "publishedDateTime": "2020-01-23T21:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://scdn.slashgear.com/wp-content/uploads/2020/01/messenger.jpg",
+          "width": 1280,
+          "height": 800,
+          "title": "Facebook Messenger may soon use face recognition to lock the app",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2020-01-24-ai-adoption-survey-shows-surprising-results.md",
+      "title": "AI Adoption Survey Shows Surprising Results",
+      "excerpt": "There are still clouds on the horizon that prevent widespread adoption of AI that focus on matters not specific to AI technology, but rather on data, team, and ROI issues which must be addressed",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/01/23/ai-adoption-survey-shows-surprising-results/",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/01/23/ai-adoption-survey-shows-surprising-results/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/01/23/ai-adoption-survey-shows-surprising-results/amp/",
+      "publishedDateTime": "2020-01-23T20:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e29cadc805ab800067c8152%2F0x0.jpg",
+          "width": 600,
+          "height": 371,
+          "title": "AI Adoption Survey Shows Surprising Results",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-01-24-artificial-intelligence-works-its-way-into-supply-chains.md",
       "title": "Artificial intelligence works its way into supply chains",
       "excerpt": "Adding artificial intelligence to supply chains is delivering tangible benefits for companies putting it in place. Recent research out of McKinsey finds 61% of executives report decreased costs and 53% report increased revenues as a direct result of introducing artificial intelligence into their supply chains. More than one-third report a ...",
@@ -467,602 +1054,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-01-23-uber-prepares-to-test-its-self-driving-cars-in-washington-dc.md",
-      "title": "Uber prepares to test its self-driving cars in Washington, DC",
-      "excerpt": "Washington, DC (CNN)Uber is laying the groundwork to bring its self-driving cars to the nation's capital. The ridesharing company said Thursday that it will begin mapping the streets of Washington DC.",
-      "heat": 334,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://edition.cnn.com/2020/01/23/tech/uber-self-driving-cars-washington-dc/index.html",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/01/23/tech/uber-self-driving-cars-washington-dc/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/01/23/tech/uber-self-driving-cars-washington-dc/index.html",
-      "publishedDateTime": "2020-01-23T10:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/180323165308-uber-self-driving-cars-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": "Uber prepares to test its self-driving cars in Washington, DC",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-01-23-microsoft-unveils-new-azure-service-genesys-engage.md",
-      "title": "Microsoft unveils new Azure Service, Genesys Engage",
-      "excerpt": "One of the biggest challenges is connecting the details of every interaction across all channels to ensure each customer has a seamless experience. By leveraging Microsoft’s Azure cloud and AI technologies, Genesys is helping enterprises create a seamless customer journey with Microsoft's trusted, secure and scalable platform.\" Microsoft has ...",
-      "heat": 124,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.neowin.net/news/microsoft-unveils-new-azure-service-genesys-engage",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-23T09:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2020/01/1579801417_ms-nadella-satyagenesys-ceo-bates-tony-0019-edit-1-1024x803_story.jpg",
-          "width": 760,
-          "height": 595,
-          "title": "Microsoft unveils new Azure Service, Genesys Engage",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-23-apple-is-quietly-expanding-its-artificial-intelligence-ecosystem.md",
-      "title": "Apple is Quietly Expanding its Artificial Intelligence Ecosystem",
-      "excerpt": "Apple (NASDAQ:AAPL) recently acquired Xnor.ai, a Seattle-based start-up that develops low-power, edge-based artificial intelligence tools. Apple didn't disclose the terms of the deal, but GeekWire claimed that the deal was worth about $200 million. Apple reportedly paid a similar amount for Turi, another Seattle-based company that specializes ...",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.fool.com/investing/2020/01/23/apple-is-quietly-expanding-its-artificial-intellig.aspx",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/01/23/apple-is-quietly-expanding-its-artificial-intellig.aspx",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/01/23/apple-is-quietly-expanding-its-artificial-intellig.aspx",
-      "publishedDateTime": "2020-01-23T09:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F554243%2Fgettyimages-1037156090.jpg&w=700&op=resize",
-          "width": 700,
-          "height": 466,
-          "title": "Apple is Quietly Expanding its Artificial Intelligence Ecosystem",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-01-23-health-catalyst-becomes-1st-healthcare-member-of-partnership-on-ai.md",
-      "title": "Health Catalyst becomes 1st healthcare member of Partnership on AI",
-      "excerpt": "The Partnership on Artificial Intelligence to Benefit People and Society, founded by Amazon, Google, Microsoft and other tech giants to research and distribute best practices on the responsible use of AI, welcomed Health Catalyst as a partner on Jan. 22. The startup's addition to the coalition makes it the first solely healthcare-focused member ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.beckershospitalreview.com/artificial-intelligence/health-catalyst-becomes-1st-healthcare-member-of-partnership-on-ai.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-23T09:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Becker's Hospital Review",
-        "domain": "beckershospitalreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/4.jpg",
-          "width": 400,
-          "height": 300,
-          "title": "Health Catalyst becomes 1st healthcare member of Partnership on AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-01-23-digitizing-the-finger-startup-gelsight-hones-measurement-system-that-could-speed-up-aerospace-work.md",
-      "title": "Digitizing The Finger: Startup Gelsight Hones Measurement System That Could Speed Up Aerospace Work",
-      "excerpt": "Using computer vision techniques, the system “turns touch into an image,” says Johnson, allowing it to measure surface features down to the single-digit micron level. The company is starting ...",
-      "heat": 70,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/jeremybogaisky/2020/01/23/vision-through-touch-startup-gelsight-hones-measurement-system-that-could-speed-up-aerospace-work/",
-      "ampWebUrl": "https://www.forbes.com/sites/jeremybogaisky/2020/01/23/vision-through-touch-startup-gelsight-hones-measurement-system-that-could-speed-up-aerospace-work/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jeremybogaisky/2020/01/23/vision-through-touch-startup-gelsight-hones-measurement-system-that-could-speed-up-aerospace-work/amp/",
-      "publishedDateTime": "2020-01-23T09:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e29cf2ff133f400076a7e73%2F0x0.jpg",
-          "width": 1200,
-          "height": 633,
-          "title": "Digitizing The Finger: Startup Gelsight Hones Measurement System That Could Speed Up Aerospace Work",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-01-23-sebi-eyes-ai-machine-learning-to-fix-market-manipulation.md",
-      "title": "SEBI eyes AI, machine learning to fix market manipulation",
-      "excerpt": "Meanwhile, the capital markets regulator has also planned a ‘data lake’ project using tools like machine learning, artificial intelligence and big data analysis among other things. Data lake refers to a repository of data that is stored in a very raw or unstructured manner. “Use of advanced technological tools such as artificial ...",
-      "heat": 104,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.thehindu.com/business/sebi-eyes-ai-machine-learning-to-fix-market-manipulation/article30636862.ece",
-      "ampWebUrl": "https://www.thehindu.com/business/sebi-eyes-ai-machine-learning-to-fix-market-manipulation/article30636862.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/business/sebi-eyes-ai-machine-learning-to-fix-market-manipulation/article30636862.ece/amp/",
-      "publishedDateTime": "2020-01-23T09:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hindu",
-        "domain": "thehindu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://th.thgim.com/static/theme/default/base/img/og-image.jpg",
-          "width": 300,
-          "height": 300,
-          "title": "SEBI eyes AI, machine learning to fix market manipulation",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-01-23-messy-data-is-slowing-down-machine-learning-projects-and-driving-up-costs.md",
-      "title": "Messy data is slowing down machine learning projects and driving up costs",
-      "excerpt": "A new survey from Trifacta quantified the impact of bad data on machine learning (ML) projects with a third of respondents stating that poor data quality causes ML projects to take longer, cost more and fail to hit the anticipated results. About a third of ...",
-      "heat": 108,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/messy-data-is-slowing-down-machine-learning-projects-and-driving-up-costs/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/messy-data-is-slowing-down-machine-learning-projects-and-driving-up-costs/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/messy-data-is-slowing-down-machine-learning-projects-and-driving-up-costs/",
-      "publishedDateTime": "2020-01-23T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr2.cbsistatic.com/hub/i/r/2019/08/06/c636a26a-4a72-4e6b-8469-f357a0455fab/thumbnail/1200x675/15ff09e17986a3e2c1c634ad738d0959/20190801-jimhare-karen.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Messy data is slowing down machine learning projects and driving up costs",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-01-23-ai-in-manufacturing-is-stalled-by-lack-of-data-infrastructure-and-internal-buy-in.md",
-      "title": "AI in manufacturing is stalled by lack of data infrastructure and internal buy-in",
-      "excerpt": "Among the 37 types of AI on its chart, only speech recognition and GPU accelerators have reached the plateau of productivity. Despite the fact that many AI technologies are too new for ...",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/ai-in-manufacturing-is-stalled-by-lack-of-data-infrastructure-and-internal-buy-in/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ai-in-manufacturing-is-stalled-by-lack-of-data-infrastructure-and-internal-buy-in/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-in-manufacturing-is-stalled-by-lack-of-data-infrastructure-and-internal-buy-in/",
-      "publishedDateTime": "2020-01-23T08:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr1.cbsistatic.com/hub/i/r/2019/12/04/70d05d50-7fdc-4611-acee-d1c6867906c0/thumbnail/1200x675/075730befe930c61f707faeac9381bfe/20191125-veronica-karen.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "AI in manufacturing is stalled by lack of data infrastructure and internal buy-in",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-01-23-dem-senator-presses-facial-recognition-company-after-reports-of-law-enforcement-collaboration.md",
-      "title": "Dem senator presses facial recognition company after reports of law enforcement collaboration",
-      "excerpt": "Sen. Ed Markey (D-Mass.) on Thursday sent a series of questions to the CEO of Clearview AI after reports that the company has been selling facial recognition software with an expansive database to law enforcement.",
-      "heat": 248,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thehill.com/policy/technology/479564-democratic-senator-presses-facial-recognition-company-after-reports-of-law",
-      "ampWebUrl": "https://thehill.com/policy/technology/479564-democratic-senator-presses-facial-recognition-company-after-reports-of-law?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/479564-democratic-senator-presses-facial-recognition-company-after-reports-of-law?amp",
-      "publishedDateTime": "2020-01-23T08:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/markeyedward_030619gn2_lead.jpg",
-          "width": 980,
-          "height": 551,
-          "title": "Dem senator presses facial recognition company after reports of law enforcement collaboration",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-01-23-amazon-explores-a-way-to-preserve-privacy-in-natural-language-processing.md",
-      "title": "Amazon explores a way to preserve privacy in natural language processing",
-      "excerpt": "The team analyzed the privacy implications of different choices of epsilon value in the context of natural language processing, where word embeddings — mappings from the space of words into a vector (i.e., the space of real numbers) — often depend on the frequency with which words co-occur with each other. This presents a challenge where ...",
-      "heat": 188,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/01/23/amazon-explores-a-way-to-preserve-privacy-in-natural-language-processing/",
-      "ampWebUrl": "https://venturebeat.com/2020/01/23/amazon-explores-a-way-to-preserve-privacy-in-natural-language-processing/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/23/amazon-explores-a-way-to-preserve-privacy-in-natural-language-processing/amp/",
-      "publishedDateTime": "2020-01-23T08:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/12/amazon-logo-reuters.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Amazon explores a way to preserve privacy in natural language processing",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-01-23-nhs-to-inject-more-robots-into-healthcare-with-uwe-bristol-partnership.md",
-      "title": "NHS to inject more robots into healthcare with UWE Bristol partnership",
-      "excerpt": "in developing robotics and other healthcare technology for one of the UK’s leading medical centres, Southmead Hospital. The partnership will explore how artificial intelligence (AI), machine learning, and socially and physically assistive robots could be employed to better support patients. One of the anticipated robotic systems is CHIRON ...",
-      "heat": 109,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.itpro.co.uk/business-strategy/digital-transformation/354620/nhs-to-inject-more-robots-into-healthcare-with-uwe",
-      "ampWebUrl": "https://www.itpro.co.uk/business-strategy/digital-transformation/354620/nhs-to-inject-more-robots-into-healthcare-with-uwe?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/business-strategy/digital-transformation/354620/nhs-to-inject-more-robots-into-healthcare-with-uwe?amp",
-      "publishedDateTime": "2020-01-23T08:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/v1579797035/unnamed.jpg",
-          "width": 1295,
-          "height": 736,
-          "title": "NHS to inject more robots into healthcare with UWE Bristol partnership",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-01-23-maximizing-nlp-model-performance-with-automatic-model-tuning-in-amazon-sagemaker.md",
-      "title": "Maximizing NLP model performance with automatic model tuning in Amazon SageMaker",
-      "excerpt": "The field of Natural Language Processing (NLP) has had many remarkable breakthroughs in the past two years. Advanced deep learning models are raising the state-of-the-art performance standards for NLP tasks. To benefit from newly published NLP models, the best approach is to apply a pre-trained language",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/maximizing-nlp-model-performance-with-automatic-model-tuning-in-amazon-sagemaker/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-23T08:25:19-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/01/21/nlp-model-tuning-3.gif",
-          "width": 800,
-          "height": 297,
-          "title": "Maximizing NLP model performance with automatic model tuning in Amazon SageMaker",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-23-accelerating-learning-through-ai-at-cerego-and-techstyle.md",
-      "title": "Accelerating Learning Through AI At Cerego And TechStyle",
-      "excerpt": "Cerego, an AI-based learning management system, helps fashion retailer TechStyle accelerate learning for call center agents.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/tomdavenport/2020/01/23/accelerating-learning-through-ai-at-cerego-and-techstyle/",
-      "ampWebUrl": "https://www.forbes.com/sites/tomdavenport/2020/01/23/accelerating-learning-through-ai-at-cerego-and-techstyle/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomdavenport/2020/01/23/accelerating-learning-through-ai-at-cerego-and-techstyle/amp/",
-      "publishedDateTime": "2020-01-23T08:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-23-heres-why-taco-bell-added-artificial-intelligence-technology-to-its-mobile-app.md",
-      "title": "Here's Why Taco Bell Added Artificial Intelligence Technology To Its Mobile App",
-      "excerpt": "Taco Bell announced a partnership with artificial intelligence company Certona last week to create a more personalized experience for its mobile app users, of which there are 5 million.",
-      "heat": 183,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/aliciakelso/2020/01/23/heres-why-taco-bell-added-artificial-intelligence-technology-to-its-mobile-app/",
-      "ampWebUrl": "https://www.forbes.com/sites/aliciakelso/2020/01/23/heres-why-taco-bell-added-artificial-intelligence-technology-to-its-mobile-app/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aliciakelso/2020/01/23/heres-why-taco-bell-added-artificial-intelligence-technology-to-its-mobile-app/amp/",
-      "publishedDateTime": "2020-01-23T07:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F923115808%2F0x0.jpg",
-          "width": 1200,
-          "height": 801,
-          "title": "Here's Why Taco Bell Added Artificial Intelligence Technology To Its Mobile App",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

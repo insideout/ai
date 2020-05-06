@@ -2,6 +2,52 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-04-01-developers-its-time-to-brush-up-on-your-philosophy-ethical-ai-is-the-big-new-thing-in-tech.md",
+      "title": "Developers - it's time to brush up on your philosophy: Ethical AI is the big new thing in tech",
+      "excerpt": "What's more: algorithmic bias is only one side of the problem: the 'ethics of AI' picture is indeed a multifaceted one. To mitigate the unwelcome consequences of AI systems, governments around the world have been working on drafts, guidelines and frameworks designed to inform developers and help them come up with algorithms that are respectful ...",
+      "heat": 94,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/developers-its-time-to-brush-up-on-your-philosophy-ethical-ai-is-the-big-new-thing-in-tech/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/developers-its-time-to-brush-up-on-your-philosophy-ethical-ai-is-the-big-new-thing-in-tech/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/developers-its-time-to-brush-up-on-your-philosophy-ethical-ai-is-the-big-new-thing-in-tech/",
+      "publishedDateTime": "2020-04-01T06:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2019/11/06/a1e2b9a4-9330-4565-8e20-f6fb00e3d1a9/thumbnail/1200x675/251d1466033401dd47e80d969b17de3e/20191106-daphne-karen-war.png",
+          "width": 1200,
+          "height": 675,
+          "title": "Developers - it's time to brush up on your philosophy: Ethical AI is the big new thing in tech",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2020-03-31-catholic-church-tech-firms-join-call-for-transparency-in-ai.md",
       "title": "Catholic church, tech firms join call for transparency in AI",
       "excerpt": "The Catholic Church joined with technology companies last month to release the \"Rome Call for AI Ethics\" in what it hopes will lend meaning if not governance frameworks for the use of artificial intelligence.",
@@ -1147,51 +1193,6 @@
           "width": 1000,
           "height": 581,
           "title": "The new privacy rules: Why it’s time to talk ethics in an AI age",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-10-pope-francis-offers-rome-call-for-ai-ethics-to-step-up-ai-wokefulness-which-is-a-wake-up-call-for-ai-self-driving-cars-too.md",
-      "title": "Pope Francis Offers ‘Rome Call For AI Ethics’ To Step-Up AI Wokefulness, Which Is A Wake-Up Call For AI Self-Driving Cars Too",
-      "excerpt": "The Pope is concerned that AI might be used in ways that undercut humanity rather than AI serving as a tool to enable and embellish humanity. Per the Vatican, a newly released document entitled “Rome Call For AI Ethics” spells out what direction AI ought to go as a technology that preferably is aimed for the betterment of society instead of the detriment or the possible demise of society.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/03/10/pope-francis-offers-rome-call-for-ai-ethics-to-step-up-ai-wokefulness-which-is-a-wake-up-call-for-ai-self-driving-cars-too/",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/03/10/pope-francis-offers-rome-call-for-ai-ethics-to-step-up-ai-wokefulness-which-is-a-wake-up-call-for-ai-self-driving-cars-too/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/03/10/pope-francis-offers-rome-call-for-ai-ethics-to-step-up-ai-wokefulness-which-is-a-wake-up-call-for-ai-self-driving-cars-too/amp/",
-      "publishedDateTime": "2020-03-10T08:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F2da7658e8b794f2ca854b4e48f09ad08%2F0x0.jpg%3FcropX1%3D210%26cropX2%3D3583%26cropY1%3D0%26cropY2%3D2531",
-          "width": 1200,
-          "height": 901,
-          "title": "Pope Francis Offers ‘Rome Call For AI Ethics’ To Step-Up AI Wokefulness, Which Is A Wake-Up Call For AI Self-Driving Cars Too",
           "attribution": null
         }
       ],

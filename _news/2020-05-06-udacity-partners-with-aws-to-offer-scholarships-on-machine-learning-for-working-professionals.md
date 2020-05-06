@@ -26,6 +26,6 @@ images:
     height: 275
     title: "Udacity partners with AWS to offer scholarships on machine learning for working professionals"
 
-secured: "zWTzE9unLX0faLvBpmR7o+6fsDWUllpryYdz2BW1vU+o8kD/tBAGsM17VZhTGJ/IjgGCHi1QczN0Wb01NdvZHOZ+3lx/Q3Ojuj/2I06xt4xBo9HtOj9gfyWY6jmMww98Xy5i+6SIRO1M9I0snA8621uIkQ0fALqgBzFMyG1MtRdpWUcfZQRQ+njPHbUj1kYpR8P4JkqYtVxjmjmxrG/8PqTtUi3YJG/9oaGkp9khe9GgtSMDSW95+/Ey9W8JF2zYLMuPYhbHm7zDgCkc8XiLg6+QkfuNEBO2u8TmQT+QfK8lG2bGOTsTr6CqcNeliMc3;RtwcmSipu+j/gqlWgcEj/g=="
+secured: "T7JAtTGjHlrk/r8ei2dJJVNOEpUSd0H7/Ls5ZDALpV/9dsY256rxL3Cr0gfc7asSIjL7L6S3IVV9ophDyIU4aVcftX4/T1QdQgdNZjxtPnNW7dS0GDkz0nruSzzHvVLy8P6xp0o5KVx4p7WDUpD9wPr8xmFUcgYrzTOHAMBhxLecfP/N9lmHc5D/6613hxfyLMbL/XbSvjIuNtF8fPHhL78fBCMRvhEHes1jgUrLHY4jxyFnby3DieiDlwiyz7i1VMW9f99N7876fods9BOM1URpP+QIHPZjt4HxEEOYamJZ3pCj5x/YOicrdRx8uHcnGyB3WaF6MCQpylgB771Qy0uLCRHmkJkia+Ci+b0QkV0BrOYOy5Rhmx3VNA1+8CqbB0LxFe0vi/AOxQq0sz3p0oIZPK+5zI4yXfWxeUafT7f4aLPb5cp7cGktCyKK+j54GiXORvmKjqiwByJDhbOsf4KGPcqFmSoZf2brpiCKJPk=;QDvA2UXff8xXhog+q0xUkg=="
 ---
 

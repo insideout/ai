@@ -2,6 +2,146 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-04-09-ai-and-the-coronavirus-fight-how-artificial-intelligence-is-taking-on-covid-19.md",
+      "title": "AI and the coronavirus fight: How artificial intelligence is taking on COVID-19",
+      "excerpt": "As the COVID-19 coronavirus outbreak continues to spread across the globe, companies and researchers are looking to use artificial intelligence as a way of addressing the ... turning COVID-Net from a technical implementation to a system that can be used by healthcare workers. It's also now developing a neural network for risk-stratifying ...",
+      "heat": 164,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/ai-and-the-coronavirus-fight-how-artificial-intelligence-is-taking-on-covid-19/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-and-the-coronavirus-fight-how-artificial-intelligence-is-taking-on-covid-19/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-and-the-coronavirus-fight-how-artificial-intelligence-is-taking-on-covid-19/",
+      "publishedDateTime": "2020-04-09T04:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2020/03/13/7e404fac-4532-4237-8f10-91e709d6b15b/thumbnail/1200x675/80e3fc902fe3c9d6aba28b44aa664ac0/20200313-tiernan-karen-corona.png",
+          "width": 1200,
+          "height": 675,
+          "title": "AI and the coronavirus fight: How artificial intelligence is taking on COVID-19",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Machine Learning",
+        "AI in Autos",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-08-nuro-cleared-to-test-self-driving-delivery-vehicles-in-california.md",
+      "title": "Nuro cleared to test self-driving delivery vehicles in California",
+      "excerpt": "The small driverless vehicles could help deliver goods amid the coronavirus pandemic. ns will soon see an odd, new vehicle motoring around local roads after the state cleared Nuro to test its self-driving delivery car in the state,",
+      "heat": 94,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnet.com/roadshow/news/nuro-test-self-driving-delivery-vehicles-coronavirus-california/",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/nuro-test-self-driving-delivery-vehicles-coronavirus-california/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/nuro-test-self-driving-delivery-vehicles-coronavirus-california/",
+      "publishedDateTime": "2020-04-08T14:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cnet1.cbsistatic.com/img/gh9rCPWglLqLLnPkvD6PHLBo1B4=/2020/04/08/e348bb1c-3476-4cd5-9d9b-45f1c08c60c5/ogi-nuro.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": "Nuro cleared to test self-driving delivery vehicles in California",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-08-toward-computers-that-teach-themselves.md",
+      "title": "Toward Computers That Teach Themselves",
+      "excerpt": "Artificial intelligence seems to be everywhere, but what we are really witnessing is a supervised-learning revolution: We teach computers to see patterns, much as we teach children to read. But the future of A.",
+      "heat": 76,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nytimes.com/2020/04/08/technology/ai-computers-learning-supervised-unsupervised.html",
+      "ampWebUrl": "https://www.nytimes.com/2020/04/08/technology/ai-computers-learning-supervised-unsupervised.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/04/08/technology/ai-computers-learning-supervised-unsupervised.amp.html",
+      "publishedDateTime": "2020-04-08T02:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/04/09/business/09sp-AI-cover/09sp-AI-cover-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": "Toward Computers That Teach Themselves",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Natural Language Processing",
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-08-artificial-intelligence-ai-in-agriculture.md",
       "title": "Artificial Intelligence (AI) in Agriculture",
       "excerpt": "Artificial Intelligence has various application in agriculture ranging from rural automatons, facial acknowledgment, computerized water system frameworks, and driverless tractors. These ...",
@@ -1084,125 +1224,6 @@
           "width": 1200,
           "height": 630,
           "title": "It took a coronavirus outbreak for self-driving cars to become more appealing",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-01-levandowski-says-uber-must-pay-his-179-million-judgment-to-google.md",
-      "title": "Levandowski says Uber must pay his $179 million judgment to Google",
-      "excerpt": "Alphabet's huge legal battle with Uber over self-driving technology ended two years ago. But the engineer at the center of that fight, Anthony Levandowski, is still facing legal and financial ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://arstechnica.com/cars/2020/04/levandowski-says-uber-must-pay-his-179-million-judgment-to-google/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-01T14:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-01-self-driving-car-engineer-anthony-levandowski-files-motion-to-force-uber-into-arbitration.md",
-      "title": "Self-driving car engineer Anthony Levandowski files motion to force Uber into arbitration",
-      "excerpt": "Anthony Levandowski, the star self-driving car engineer who was at the center of a trade secrets lawsuit, has filed a motion to compel Uber into arbitration in the hopes that his former employee will have to shoulder the cost of at least part of the $179 million judgment against him. The motion to compel arbitration filed this week is part of ...",
-      "heat": 75,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/04/01/self-driving-car-engineer-anthony-levandowski-files-motion-to-force-uber-into-arbitration/",
-      "ampWebUrl": "https://techcrunch.com/2020/04/01/self-driving-car-engineer-anthony-levandowski-files-motion-to-force-uber-into-arbitration/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/01/self-driving-car-engineer-anthony-levandowski-files-motion-to-force-uber-into-arbitration/amp/",
-      "publishedDateTime": "2020-04-01T12:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/04/GettyImages-1176871826.jpeg?w=1024",
-          "width": 1024,
-          "height": 718,
-          "title": "Self-driving car engineer Anthony Levandowski files motion to force Uber into arbitration",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-01-deal-looking-for-an-exciting-cutting-edge-career-dive-into-artificial-intelligence.md",
-      "title": "Deal: Looking for an exciting, cutting-edge career? Dive into Artificial Intelligence",
-      "excerpt": "Artificial intelligence is just starting to break out into the mainstream through applications like self driving cars and analytical software. If you want to dive into an exciting career field ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://pocketnow.com/artificial-intelligence-deal",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-01T09:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pocketnow.com",
-        "domain": "pocketnow.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://pocketnow.com/wp/../files/2016/07/PN-Complete-Machine-Learning-Bundle.jpg",
-          "width": 760,
-          "height": 473,
-          "title": "Deal: Looking for an exciting, cutting-edge career? Dive into Artificial Intelligence",
           "attribution": null
         }
       ],

@@ -2,6 +2,126 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-04-23-impact-of-covid-19-on-artificial-intelligence-in-construction-market-and-know-how-market-size-to-generate-a-revenue-of-26424-million-by-2026.md",
+      "title": "Impact of COVID-19 on Artificial intelligence in construction market and know How market size to generate a revenue of $2,642.4 million by 2026",
+      "excerpt": "It is no longer unusual before completing a project on a construction site to fly a drone to visualize a project or to select the best setting on the basis of artificial intelligence AIs forecasts Construction is one of the",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.openpr.com/news/2021839/impact-of-covid-19-on-artificial-intelligence-in-construction",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-23T01:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-22-impact-of-covid-19-on-artificial-intelligence-market-beyond-2020.md",
+      "title": "Impact of COVID-19 on Artificial Intelligence Market - Beyond 2020",
+      "excerpt": "The MarketWatch News Department was not involved in the creation of the content. The global artificial intelligence market has been segmented in terms of type, application, and region. Based on type, the market has been segmented into artificial neural network, digital assistance system, embedded system, expert system and automated robotic system.",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/impact-of-covid-19-on-artificial-intelligence-market---beyond-2020-2020-04-22",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-22T08:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Impact of COVID-19 on Artificial Intelligence Market - Beyond 2020",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-04-22-how-will-service-robotics-market-deal-with-the-covid-19-crisis.md",
+      "title": "How Will Service Robotics Market Deal with the COVID-19 Crisis?",
+      "excerpt": "The global service robotics market is expected to rise with an impressive CAGR and generate the highest revenue by",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/how-will-service-robotics-market-deal-with-the-covid-19-crisis-2020-04-22",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-22T02:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "How Will Service Robotics Market Deal with the COVID-19 Crisis?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-22-how-artificial-intelligence-iot-and-big-data-can-save-the-bees.md",
       "title": "How Artificial Intelligence, IoT And Big Data Can Save The Bees",
       "excerpt": "Artificial intelligence (AI), internet of things sensors, big data analytics, and other technologies are being used to monitor and develop solutions to mitigate the global issue of declining honey bee and pollinator populations.",
@@ -1092,134 +1212,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-09-robots-deliver-food-and-relief-to-uw-students-still-on-campus-during-covid-19-pandemic.md",
-      "title": "Robots deliver food — and relief — to UW students still on campus during COVID-19 pandemic",
-      "excerpt": "Students wary of coming into contact with COVID-19 at the dining hall can instead dispatch a robot to deliver food to their dorm.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://madison.com/wsj/news/local/education/university/robots-deliver-food-and-relief-to-uw-students-still-on-campus-during-covid-19-pandemic/article_cdd8a9f4-a2aa-542d-a226-02afa13dc3ef.html",
-      "ampWebUrl": "https://madison.com/news/local/education/university/robots-deliver-food-and-relief-to-uw-students-still-on-campus-during-covid-19-pandemic/article_cdd8a9f4-a2aa-542d-a226-02afa13dc3ef.amp.html",
-      "cdnAmpWebUrl": "https://madison-com.cdn.ampproject.org/c/s/madison.com/news/local/education/university/robots-deliver-food-and-relief-to-uw-students-still-on-campus-during-covid-19-pandemic/article_cdd8a9f4-a2aa-542d-a226-02afa13dc3ef.amp.html",
-      "publishedDateTime": "2020-04-09T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Madison.com",
-        "domain": "madison.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/3/fb/3fb77a79-7fe7-5882-84b1-de4944452c4c/5e8e28945f28f.image.jpg?resize=1024%2C701",
-          "width": 1024,
-          "height": 701,
-          "title": "Robots deliver food — and relief — to UW students still on campus during COVID-19 pandemic",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-09-robots-are-cleaning-grocery-store-floors-during-the-coronavirus-outbreak.md",
-      "title": "Robots Are Cleaning Grocery Store Floors During The Coronavirus Outbreak",
-      "excerpt": "The coronavirus outbreak has forced retailers to focus more on sanitation while they are struggling to restock shelves and hire more employees. Some grocery stores are turning to floor cleaning robots for additional help.",
-      "heat": 88,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/lanabandoim/2020/04/08/robots-are-cleaning-grocery-store-floors-during-the-coronavirus-outbreak/",
-      "ampWebUrl": "https://www.forbes.com/sites/lanabandoim/2020/04/08/robots-are-cleaning-grocery-store-floors-during-the-coronavirus-outbreak/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanabandoim/2020/04/08/robots-are-cleaning-grocery-store-floors-during-the-coronavirus-outbreak/amp/",
-      "publishedDateTime": "2020-04-08T20:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e8e71b1b4aaaa0006eceb13%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6000%26cropY1%3D0%26cropY2%3D3999",
-          "width": 1200,
-          "height": 800,
-          "title": "Robots Are Cleaning Grocery Store Floors During The Coronavirus Outbreak",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-08-how-ai-is-helping-scientists-in-the-fight-against-covid-19-from-robots-to-predicting-the-future.md",
-      "title": "How AI is helping scientists in the fight against COVID-19, from robots to predicting the future",
-      "excerpt": "“AI is playing numerous roles, all of which are important based on where we are in the pandemic cycle,” the two told GeekWire in an email. “But what if the virus could have been contained?” Canadian health surveillance startup BlueDot was among the first in the world to identify the COVID-19 risk and accurately predict its ...",
-      "heat": 103,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.geekwire.com/2020/ai-helping-scientists-fight-covid-19-robots-predicting-future/",
-      "ampWebUrl": "https://www.geekwire.com/2020/ai-helping-scientists-fight-covid-19-robots-predicting-future/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/ai-helping-scientists-fight-covid-19-robots-predicting-future/amp/",
-      "publishedDateTime": "2020-04-08T12:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2019/02/190210-ai-630x420.jpg",
-          "width": 630,
-          "height": 420,
-          "title": "How AI is helping scientists in the fight against COVID-19, from robots to predicting the future",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics",
-        "AI Ethics"
       ]
     }
   ],

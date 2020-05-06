@@ -2,6 +2,565 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2020-04-22-arista-delivers-cognitive-wifi-for-collaboration-video-and-chat-applications.md",
+      "title": "Arista Delivers Cognitive WiFi for Collaboration, Video and Chat Applications",
+      "excerpt": "Arista Networks (NYSE:ANET), today announced a new release of its Cognitive WiFi software that ... automated troubleshooting and location services. This provides customers with an enhanced WiFi ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/arista-delivers-cognitive-wifi-for-collaboration-video-and-chat-applications-1029116619",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/arista-delivers-cognitive-wifi-for-collaboration-video-and-chat-applications-1029116619",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/arista-delivers-cognitive-wifi-for-collaboration-video-and-chat-applications-1029116619",
+      "publishedDateTime": "2020-04-22T03:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-22-ibm-fenergo-sign-oem-agreement-to-help-clients-address-financial-risks.md",
+      "title": "IBM, Fenergo Sign OEM Agreement to Help Clients Address Financial Risks",
+      "excerpt": "IBM (NYSE: IBM ... and know-your-client platforms equipped with the Watson technology. IBM will offer customers a complete AI application suite that is focused on risk and compliance that ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.govconwire.com/2020/04/ibm-fenergo-sign-oem-agreement-to-help-clients-address-financial-risks/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-22T03:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GovCon Wire",
+        "domain": "govconwire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://govconwire-media.s3.amazonaws.com/2020/04/22/ac/82/7c/04/7a/1b/6e/c4/servletFileDownload-304.png",
+          "width": 272,
+          "height": 270,
+          "title": "IBM, Fenergo Sign OEM Agreement to Help Clients Address Financial Risks",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-22-ai-in-medical-imaging-market-a-game-changer-in-healthcare-sector.md",
+      "title": "AI in Medical Imaging Market - A Game Changer in Healthcare Sector",
+      "excerpt": "AI in Medical Imaging Market: Introduction According to a new market report pertaining to the global AI in medical imaging",
+      "heat": 77,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/ai-in-medical-imaging-market---a-game-changer-in-healthcare-sector-2020-04-22",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-22T02:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "AI in Medical Imaging Market - A Game Changer in Healthcare Sector",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-22-how-will-service-robotics-market-deal-with-the-covid-19-crisis.md",
+      "title": "How Will Service Robotics Market Deal with the COVID-19 Crisis?",
+      "excerpt": "The global service robotics market is expected to rise with an impressive CAGR and generate the highest revenue by",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/how-will-service-robotics-market-deal-with-the-covid-19-crisis-2020-04-22",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-22T02:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "How Will Service Robotics Market Deal with the COVID-19 Crisis?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-22-intel-accenture-use-ai-to-save-the-coral-reef.md",
+      "title": "Intel & Accenture Use AI To Save The Coral Reef",
+      "excerpt": "Accenture, Intel and the Sulubaaï Environmental Foundation announced Project: CORaiL, an artificial intelligence (AI) - powered solution to monitor, characterize and analyze coral reef resilience.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/04/22/intel--accenture-use-ai-to-save-the-coral-reef/",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/04/22/intel--accenture-use-ai-to-save-the-coral-reef/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/04/22/intel--accenture-use-ai-to-save-the-coral-reef/amp/",
+      "publishedDateTime": "2020-04-22T01:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e9ffb06893ac200075fd4d6%2F0x0.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": "Intel & Accenture Use AI To Save The Coral Reef",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-22-microsoft-develops-ai-powered-device-that-can-automatically-check-for-fever-and-face-masks.md",
+      "title": "Microsoft Develops AI-Powered Device That Can Automatically Check For Fever And Face Masks",
+      "excerpt": "Microsoft's AI masks and infrared temperature 2-in-1 detection device checks people entering ... [+] Cardinal Tien Hospital in Taiwan to make sure they are wearing face masks and whether they have a fever.",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/ralphjennings/2020/04/22/microsoft-develops-ai-powered-device-that-can-automatically-check-for-fever-and-face-masks/",
+      "ampWebUrl": "https://www.forbes.com/sites/ralphjennings/2020/04/22/microsoft-develops-ai-powered-device-that-can-automatically-check-for-fever-and-face-masks/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ralphjennings/2020/04/22/microsoft-develops-ai-powered-device-that-can-automatically-check-for-fever-and-face-masks/amp/",
+      "publishedDateTime": "2020-04-22T00:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e9e84bcdea8300007de7c4c%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Microsoft Develops AI-Powered Device That Can Automatically Check For Fever And Face Masks",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-22-commscope-brings-artificial-intelligence-and-machine-learning-to-ruckus-analytics.md",
+      "title": "Commscope brings artificial intelligence and machine learning to Ruckus Analytics",
+      "excerpt": "Built on a patented machine learning (ML) and artificial intelligence (AI) foundation, the new service accelerates troubleshooting, provides comprehensive network visibility, automatically identifies service-affecting issues, and—unique to the networking industry classifies them according to severity, enabling managed service provider and ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zawya.com/mena/en/press-releases/story/Commscope_brings_artificial_intelligence_and_machine_learning_to_Ruckus_Analytics-ZAWYA20200422073526/",
+      "ampWebUrl": "https://www.zawya.com/mena/en/story/amp/ZAWYA20200422073526/",
+      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20200422073526/",
+      "publishedDateTime": "2020-04-22T00:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.zawya.com/resources/img/zawya-logo-en-social.png",
+          "width": 1200,
+          "height": 878,
+          "title": "Commscope brings artificial intelligence and machine learning to Ruckus Analytics",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-22-how-artificial-intelligence-iot-and-big-data-can-save-the-bees.md",
+      "title": "How Artificial Intelligence, IoT And Big Data Can Save The Bees",
+      "excerpt": "Artificial intelligence (AI), internet of things sensors, big data analytics, and other technologies are being used to monitor and develop solutions to mitigate the global issue of declining honey bee and pollinator populations.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2020/04/22/how-artificial-intelligence-iot-and-big-data-can-save-the-bees/",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2020/04/22/how-artificial-intelligence-iot-and-big-data-can-save-the-bees/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2020/04/22/how-artificial-intelligence-iot-and-big-data-can-save-the-bees/amp/",
+      "publishedDateTime": "2020-04-21T21:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e9fc586dea8300007de8a08%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "How Artificial Intelligence, IoT And Big Data Can Save The Bees",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-04-22-intels-project-corail-monitors-coral-reef-health-with-ai.md",
+      "title": "Intel’s Project Corail monitors coral reef health with AI",
+      "excerpt": "To commemorate Earth Day, Intel — in partnership with Accenture and Sulubaaï Environmental Foundation, a Philippine-based nonprofit dedicated to protecting Palawan’s natural resources — detailed Project Corail, an AI-powered platform that monitors and analyzes the resiliency of coral reefs. Since its launch in May 2019, it’s collected ...",
+      "heat": 109,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/21/intels-project-corail-monitors-coral-reef-health-with-ai/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/21/intels-project-corail-monitors-coral-reef-health-with-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/21/intels-project-corail-monitors-coral-reef-health-with-ai/amp/",
+      "publishedDateTime": "2020-04-21T21:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/CORaiL_5small-e1587450236227.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Intel’s Project Corail monitors coral reef health with AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-22-dissident-artist-ai-weiwei-says-virus-has-only-strengthened-chinas-police-state.md",
+      "title": "Dissident artist Ai Weiwei says virus has only strengthened China's 'police state'",
+      "excerpt": "The artist has been critical of China's handling of the outbreak and believes the \"arrogance and success\" of the government's authoritarian tactics will lead it into another crisis.",
+      "heat": 81,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnn.com/style/article/ai-weiwei-coronavirus-pandemic/index.html",
+      "ampWebUrl": "https://www.cnn.com/style/amp/ai-weiwei-coronavirus-pandemic/index.html",
+      "cdnAmpWebUrl": "https://www-cnn-com.cdn.ampproject.org/c/s/www.cnn.com/style/amp/ai-weiwei-coronavirus-pandemic/index.html",
+      "publishedDateTime": "2020-04-21T19:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "http://cdn.cnn.com/cnnnext/dam/assets/200421223427-ai-weiwei-file-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": "Dissident artist Ai Weiwei says virus has only strengthened China's 'police state'",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-21-alibaba-microsoft-cloud-computing-layout-5g-ai-vs-wimi-hologram-cloud-ai-vision-algorithm.md",
+      "title": "Alibaba, Microsoft Cloud Computing Layout 5g + AI V.S. WIMI Hologram Cloud AI Vision Algorithm",
+      "excerpt": "Recently, aridamo hospital announced the establishment of XG laboratory. The laboratory is committed to promoting",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/alibaba-microsoft-cloud-computing-layout-5g-ai-vs-wimi-hologram-cloud-ai-vision-algorithm-2020-04-21",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-21T13:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Alibaba, Microsoft Cloud Computing Layout 5g + AI V.S. WIMI Hologram Cloud AI Vision Algorithm",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-21-mit-work-raises-a-question-can-robots-be-teammates-with-humans-rather-than-slaves.md",
+      "title": "MIT work raises a question: Can robots be teammates with humans rather than slaves?",
+      "excerpt": "A \"three-finger gripper\" is attached to it, made by startup Robotiq, based in Lévis ... and said that specifying the correct objective is \"both challenging and critical to design of AI systems.\" Also: Watching YouTube videos may someday let robots copy humans The challenge is that a machine system in some sense has to infer what a human's ...",
+      "heat": 100,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/mit-work-raises-a-question-can-robots-be-teammates-with-humans-rather-than-slaves/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/mit-work-raises-a-question-can-robots-be-teammates-with-humans-rather-than-slaves/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/mit-work-raises-a-question-can-robots-be-teammates-with-humans-rather-than-slaves/",
+      "publishedDateTime": "2020-04-21T12:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/2020/04/21/419e6f8d-c2b4-42cf-85aa-2e6a9ce085f2/mit-robot-arm-collaborates-via-dialogue.png",
+          "width": 1412,
+          "height": 1056,
+          "title": "MIT work raises a question: Can robots be teammates with humans rather than slaves?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-21-facebooks-ai-detects-fake-accounts-with-fewer-than-20-friend-requests.md",
+      "title": "Facebook’s AI detects fake accounts with fewer than 20 friend requests",
+      "excerpt": "We plan to accomplish this by mixing feature-based and behavior-based models,” wrote Facebook. Facebook is broadly moving toward an AI training technique called self-supervised learning, in which unlabeled data is used in conjunction with small amounts of labeled data to produce an improvement in learning accuracy. Facebook’s deep entity ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/21/facebooks-ai-detects-fake-accounts-with-fewer-than-20-friend-requests/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/21/facebooks-ai-detects-fake-accounts-with-fewer-than-20-friend-requests/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/21/facebooks-ai-detects-fake-accounts-with-fewer-than-20-friend-requests/amp/",
+      "publishedDateTime": "2020-04-21T11:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/05/facebook-ai.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Facebook’s AI detects fake accounts with fewer than 20 friend requests",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-21-watch-fake-elon-musk-zoom-bombs-meeting-using-real-time-deepfake-ai.md",
       "title": "Watch: Fake Elon Musk Zoom-bombs meeting using real-time Deepfake AI",
       "excerpt": "The technology’s called Avatarify. It was developed by Aliev using open-source AI code called “The First Order Motion Model For Image Animation,” which was developed by researchers at the University of Trento in Italy. Avatarify superimposes another person’s face on your own in real-time. Most Deepfakes require you to pre-record ...",
@@ -742,541 +1301,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-21-learn-how-to-leverage-the-aws-cloud-to-build-and-innovate-at-scale-with-the-free-aws-summit-online.md",
-      "title": "Learn how to leverage the AWS cloud, to build and innovate at scale with the free AWS Summit Online",
-      "excerpt": "The AWS DeepRacer League Summit Race Compete for prizes and meet fellow machine learning enthusiasts, online. Racers will have the opportunity to join the DeepRacer online workshop and have a 1-to ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://yourstory.com/2020/04/aws-cloud-innovate-summit-online",
-      "ampWebUrl": "https://yourstory.com/2020/04/aws-cloud-innovate-summit-online/amp",
-      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/04/aws-cloud-innovate-summit-online/amp",
-      "publishedDateTime": "2020-04-21T04:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Your Story",
-        "domain": "yourstory.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.yourstory.com/cs/static/default-ys-image.jpg",
-          "width": 300,
-          "height": 300,
-          "title": "Learn how to leverage the AWS cloud, to build and innovate at scale with the free AWS Summit Online",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-21-artificial-intelligence-how-machine-learning-jobs-are-giving-refugees-a-future-in-tech.md",
-      "title": "Artificial intelligence: How machine-learning jobs are giving refugees a future in tech",
-      "excerpt": "Humans in the Loop is a social enterprise founded in 2017. It helps refugees from conflict zones like Syria, Iraq, and Afghanistan settle in the country by acquiring digital skills that they can use for working on artificial-intelligence and machine-learning-related projects. SEE: How to implement AI and machine learning (ZDNet special report ...",
-      "heat": 81,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/artificial-intelligence-how-machine-learning-jobs-are-giving-refugees-a-future-in-tech/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/artificial-intelligence-how-machine-learning-jobs-are-giving-refugees-a-future-in-tech/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/artificial-intelligence-how-machine-learning-jobs-are-giving-refugees-a-future-in-tech/",
-      "publishedDateTime": "2020-04-21T03:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2020/03/27/5b741f04-5703-4a2a-b76b-d785d75d14d2/thumbnail/1200x675/e45cf779a0407789e919a9781db17a1f/istock-1130569495.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Artificial intelligence: How machine-learning jobs are giving refugees a future in tech",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-21-ust-global-named-winner-at-the-microsoft-ai-awards-20-for-the-best-innovation-in-artificial-intelligence.md",
-      "title": "UST Global named winner at the Microsoft AI Awards 2.0 for the Best Innovation in Artificial Intelligence",
-      "excerpt": "UST Global, a leading digital transformation solutions company, announced that it has won the 2020 most innovative AI application award for societal impact from Microsoft. UST",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://indiaeducationdiary.in/ust-global-named-winner-at-the-microsoft-ai-awards-2-0-for-the-best-innovation-in-artificial-intelligence/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-21T03:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Education Diary",
-        "domain": "indiaeducationdiary.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i2.wp.com/indiaeducationdiary.in/wp-content/uploads/2020/04/Krishna-Sudheendra-CEO-UST-Global-recieving-the-award-from-Jean-Philippe-Courtois-EVP-and-President-Global-Sales-Marketing-and-Operations-Microsoft-Corporation.jpg?fit=1000%2C1058&ssl=1",
-          "width": 1000,
-          "height": 1058,
-          "title": "UST Global named winner at the Microsoft AI Awards 2.0 for the Best Innovation in Artificial Intelligence",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-21-deep-learning-takes-on-tumours.md",
-      "title": "Deep learning takes on tumours",
-      "excerpt": "The cell movements hold clues to how drugs or gene variants might affect the spread of tumours in the body, and he is tracking the nucleus of each cell in frame after frame of time-lapse microscopy films.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nature.com/articles/d41586-020-01128-8?sf233092553=1",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-21T03:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nature",
-        "domain": "nature.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.nature.com/lw1024/magazine-assets/d41586-020-01128-8/d41586-020-01128-8_17881098.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": "Deep learning takes on tumours",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-21-checking-ai-bias-is-a-job-for-the-humans.md",
-      "title": "Checking AI bias is a job for the humans",
-      "excerpt": "One of the primary problems with artificial intelligence (AI) is the “artificial” part. The other is the “intelligence.” While we like to pretend that we’re setting robotic intelligences free from our human biases and other shortcomings, in reality we often transfer our failings into the AI, one dataset at a time. Hannah Davis ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.infoworld.com/article/3537968/checking-ai-bias-is-a-job-for-the-humans.html",
-      "ampWebUrl": "https://www.infoworld.com/article/3537968/checking-ai-bias-is-a-job-for-the-humans.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3537968/checking-ai-bias-is-a-job-for-the-humans.amp.html",
-      "publishedDateTime": "2020-04-21T03:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2018/02/artificial_intelligence_ai_virtual_assistant_automation_thinkstock_643956998-100749919-large.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "Checking AI bias is a job for the humans",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-21-ibm-fenergo-join-forces-to-fight-financial-crime.md",
-      "title": "IBM & Fenergo Join Forces to Fight Financial Crime",
-      "excerpt": "Fenergo, the leading provider of digital transformation, customer journey and client lifecycle management (CLM) solutions for",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.prnewswire.com/news-releases/ibm--fenergo-join-forces-to-fight-financial-crime-301043856.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-21T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg",
-          "width": 600,
-          "height": 315,
-          "title": "IBM & Fenergo Join Forces to Fight Financial Crime",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-21-ai-in-pharmaceutical-market-2020-industry-analysis-segment-forecast-up-to-2026.md",
-      "title": "AI in Pharmaceutical Market 2020 Industry Analysis, Segment & Forecast Up to 2026",
-      "excerpt": "Global AI in Pharmaceutical Industry New Study On “AI in Pharmaceutical Market 2020 Global Market Opportunities,",
-      "heat": 72,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/ai-in-pharmaceutical-market-2020-industry-analysis-segment-forecast-up-to-2026-2020-04-21",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-21T00:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "AI in Pharmaceutical Market 2020 Industry Analysis, Segment & Forecast Up to 2026",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-21-shanghais-free-trade-zone-will-accelerate-digital-infrastructure-push-with-5g-iot-and-ai-tech.md",
-      "title": "Shanghai’s free-trade zone will accelerate digital infrastructure push with 5G, IoT and AI tech",
-      "excerpt": "China’s top economic planner, the National Development and Reform Commission (NDRC), said on Monday that “new infrastructure” included foundational information technologies such as 5G, IoT, the industrial internet, cloud computing and blockchain, AI and big data applications, as well as supportive facilities for scientific and technology ...",
-      "heat": 75,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.scmp.com/tech/policy/article/3080852/shanghais-free-trade-zone-will-accelerate-digital-infrastructure-push",
-      "ampWebUrl": "https://amp.scmp.com/tech/policy/article/3080852/shanghais-free-trade-zone-will-accelerate-digital-infrastructure-push",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/policy/article/3080852/shanghais-free-trade-zone-will-accelerate-digital-infrastructure-push",
-      "publishedDateTime": "2020-04-21T00:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/04/21/dd3d36d2-839e-11ea-8863-2139a14b0dea_image_hires_151022.JPG?itok=r99QrLgh&v=1587453031",
-          "width": 1200,
-          "height": 630,
-          "title": "Shanghai’s free-trade zone will accelerate digital infrastructure push with 5G, IoT and AI tech",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-21-transcosmos-releases-automated-call-answering-service-with-the-power-of-speech-recognition-intent-inference-algorithms.md",
-      "title": "transcosmos releases \"Automated Call Answering Service\" with the power of speech recognition & intent inference algorithms",
-      "excerpt": "PRWeb/ -- transcosmos inc. released an \"automated call answering service\" that utilizes \"BEDORE Voice Conversation,\" a",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.benzinga.com/pressreleases/20/04/n15845146/transcosmos-releases-automated-call-answering-service-with-the-power-of-speech-recognition-intent-",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/15845146",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15845146",
-      "publishedDateTime": "2020-04-21T00:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-21-specification-gaming-the-flip-side-of-ai-ingenuity.md",
-      "title": "Specification gaming: the flip side of AI ingenuity",
-      "excerpt": "Specification gaming is a behaviour that satisfies the literal specification of an objective without achieving the intended outcome. We have all had experiences with specification gaming, even if not by this name. Readers may have heard the myth of King Midas and the golden touch, in which the king asks",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://deepmind.com/blog/article/Specification-gaming-the-flip-side-of-AI-ingenuity",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-20T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "DeepMind",
-        "domain": "deepmind.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/deepmind.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://lh3.googleusercontent.com/KAS2k_9qAacqcCa7dCLfruoLoBsQgh_XBQQN7NU9rhmHLlVRExiNUvLv_sTAgM2mYqD1KZ-V7oyR5HcBRBRLVRgqek3ORqJ2gVQVTO8",
-          "width": 512,
-          "height": 288,
-          "title": "Specification gaming: the flip side of AI ingenuity",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-20-new-ai-algorithm-brings-us-closer-than-ever-to-controlling-machines-with-our-minds.md",
-      "title": "New AI algorithm brings us closer than ever to controlling machines with our minds",
-      "excerpt": "After that, the sky’s the limit. We may one day use chips and AI to make secure mental connections with cloud computers. This would make machine such as ATMs, that merely exist to authenticate a transaction, obsolete. And who knows what kind of alien aesthetics we’ll end up with as a result of a less hands-on approach to reality once ...",
-      "heat": 83,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/04/20/new-ai-algorithm-brings-us-closer-than-ever-to-controlling-machines-with-our-minds/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/04/20/new-ai-algorithm-brings-us-closer-than-ever-to-controlling-machines-with-our-minds/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/04/20/new-ai-algorithm-brings-us-closer-than-ever-to-controlling-machines-with-our-minds/amp/",
-      "publishedDateTime": "2020-04-20T16:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/03/braincomputer-796x417.jpg",
-          "width": 796,
-          "height": 417,
-          "title": "New AI algorithm brings us closer than ever to controlling machines with our minds",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-20-chinese-internet-giant-baidu-offers-free-trial-robotaxi-rides-through-search-and-map-apps-in-changsha.md",
-      "title": "Chinese internet giant Baidu offers free trial robotaxi rides through search and map apps in Changsha",
-      "excerpt": "Baidu’s Apollo robotaxi program has set up a complete mechanism for safety evaluation and technical support,” the Nasdaq-listed company said in the statement on Monday. “This time [we are ready to] launch the service at a large-scale to the public.” We tried out a futuristic, self-driving robotaxi in China The company’s move to expand ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.scmp.com/tech/apps-social/article/3080712/chinese-internet-giant-baidu-offers-free-trial-robotaxi-rides",
-      "ampWebUrl": "https://amp.scmp.com/tech/apps-social/article/3080712/chinese-internet-giant-baidu-offers-free-trial-robotaxi-rides",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/apps-social/article/3080712/chinese-internet-giant-baidu-offers-free-trial-robotaxi-rides",
-      "publishedDateTime": "2020-04-20T15:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/04/20/774b19fe-82e3-11ea-8863-2139a14b0dea_image_hires_165514.JPG?itok=p5GpxoUY&v=1587372921",
-          "width": 1200,
-          "height": 630,
-          "title": "Chinese internet giant Baidu offers free trial robotaxi rides through search and map apps in Changsha",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-20-system-on-a-chip-takes-iot-processing-to-the-edge.md",
-      "title": "System on a chip takes IoT processing to the edge",
-      "excerpt": "A system on a chip (SOC) combines hardware and software, including components like a graphical processing unit (GPU), a central processing unit (CPU ... the way a human brain does and then further \"smartened\" with artificial intelligence (AI) that is made for use in the consumer, automotive, and industrial markets, it adds even more edge ...",
-      "heat": 91,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/system-on-a-chip-takes-iot-processing-to-the-edge/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/system-on-a-chip-takes-iot-processing-to-the-edge/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/system-on-a-chip-takes-iot-processing-to-the-edge/",
-      "publishedDateTime": "2020-04-20T13:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr3.cbsistatic.com/hub/i/r/2020/04/20/437b3bb6-e65d-4d94-9edc-7ee2da524058/resize/1200x/276df09e3c2848680ab542597b4baf2b/istock-958956392.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "System on a chip takes IoT processing to the edge",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

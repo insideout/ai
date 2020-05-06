@@ -2,6 +2,81 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-03-19-how-machine-learning-improves-banks-customer-experience.md",
+      "title": "How Machine Learning Improves Banks’ Customer Experience",
+      "excerpt": "Improved machine learning algorithms are pushing this process into the mainstream as a way for banks to significantly improve customer service. Here are four ways financial firms are using machine learning algorithms to their advantage. Customers applying for credit or looking for loan application approval historically waited weeks. Now ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://biztechmagazine.com/article/2020/03/how-machine-learning-improves-banks-customer-experience",
+      "ampWebUrl": "https://biztechmagazine.com/article/2020/03/how-machine-learning-improves-banks-customer-experience?amp",
+      "cdnAmpWebUrl": "https://biztechmagazine-com.cdn.ampproject.org/c/s/biztechmagazine.com/article/2020/03/how-machine-learning-improves-banks-customer-experience?amp",
+      "publishedDateTime": "2020-03-19T07:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BizTech",
+        "domain": "biztechmagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://biztechmagazine.com/sites/biztechmagazine.com/files/styles/cdw_hero/public/articles/202003/banks%20ML%20hero.jpg?itok=kxlpkwBL",
+          "width": 1440,
+          "height": 500,
+          "title": "How Machine Learning Improves Banks’ Customer Experience",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-03-19-iot-and-machine-learning-technology.md",
+      "title": "IoT and Machine Learning Technology",
+      "excerpt": "And if the MCA Connect team were to wager on the next massive breakthrough in computing, they would be putting favorable odds on the development of artificial intelligence and machine learning technologies. Machine Learning Drives the Future of Artificial Intelligence Modern machines harness Artificial Intelligence (AI) to perform functions ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.tmcnet.com/topics/articles/2020/03/19/444843-iot-machine-learning-technology.htm",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-19T06:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.tmcnet.com/tmc/misc/articles/image/2020-mar/9766423712-earth-hands-1222866_960_720.jpg",
+          "width": 960,
+          "height": 679,
+          "title": "IoT and Machine Learning Technology",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-19-synergy-emergence-in-deep-reinforcement-motor-learning-image.md",
       "title": "Synergy Emergence in Deep Reinforcement Motor Learning (image)",
       "excerpt": "Human motor learning encompasses motor synergy. The central nervous system produces movement through the combination of synergies that specify movement across a set of muscles, simplifying the control of movement. The question is, can this synergy development process be observed in deep learning for robotics? Disclaimer: AAAS and EurekAlert!",
@@ -1069,73 +1144,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-16-machine-learning-technique-sharpens-prediction-of-materials-mechanical-properties.md",
-      "title": "Machine learning technique sharpens prediction of material's mechanical properties",
-      "excerpt": "Scientists at Nanyang Technological University, Singapore (NTU Singapore), Massachusetts Institute of Technology (MIT), and Brown University have developed new approaches that significantly improve the accuracy of an important material testing technique by harnessing the power of machine learning. Nano-indentation - the process of poking a ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.eurekalert.org/pub_releases/2020-03/ntu-mlt031320.php",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-16T14:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.eurekalert.org/multimedia/pub/web/226983_web.jpg",
-          "width": 720,
-          "height": 405,
-          "title": "Machine learning technique sharpens prediction of material's mechanical properties",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-16-fortinet-introduces-self-learning-artificial-intelligence-appliance-for-sub-second-threat-detection.md",
-      "title": "Fortinet Introduces Self-Learning Artificial Intelligence Appliance for Sub-Second Threat Detection",
-      "excerpt": "FortiAI’s Virtual Security Analyst embeds one of the industry’s most mature cybersecurity artificial intelligence – developed by Fortinet’s FortiGuard Labs – directly into an ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.ciol.com/fortinet-introduces-self-learning-artificial-intelligence-appliance-sub-second-threat-detection/",
-      "ampWebUrl": "https://www.ciol.com/fortinet-introduces-self-learning-artificial-intelligence-appliance-sub-second-threat-detection/amp/",
-      "cdnAmpWebUrl": "https://www-ciol-com.cdn.ampproject.org/c/s/www.ciol.com/fortinet-introduces-self-learning-artificial-intelligence-appliance-sub-second-threat-detection/amp/",
-      "publishedDateTime": "2020-03-16T03:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CIOL",
-        "domain": "ciol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

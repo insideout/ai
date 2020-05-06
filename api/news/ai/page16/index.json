@@ -2,6 +2,565 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2020-04-20-how-utilities-are-using-ai-to-adapt-to-electricity-demands.md",
+      "title": "How utilities are using AI to adapt to electricity demands",
+      "excerpt": "Some utilities are employing AI and machine learning to address the windfalls and fluctuations in energy usage resulting from COVID-19. Precise load forecasting could ensure that operations aren’t interrupted in the coming months, thereby preventing blackouts and brownouts. And they might also bolster the efficiency of utilities’ internal ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/20/utilities-energy-usage-covid-19-ai-machine-learning/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/20/utilities-energy-usage-covid-19-ai-machine-learning/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/20/utilities-energy-usage-covid-19-ai-machine-learning/amp/",
+      "publishedDateTime": "2020-04-20T06:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/6cd663ee-b571-428e-8665-0dadb7cbc371-e1587321011520.png?fit=1202%2C598&strip=all",
+          "width": 1202,
+          "height": 598,
+          "title": "How utilities are using AI to adapt to electricity demands",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-20-brief-unlearnai-closes-12-mln-series-a-to-advance-the-use-of-digital-twins-in-clinical-trials.md",
+      "title": "BRIEF-Unlearn.Ai Closes $12 Mln Series A To Advance The Use Of Digital Twins In Clinical Trials",
+      "excerpt": "UNLEARN.AI CLOSES $12M SERIES A TO ADVANCE THE USE OF DIGITAL TWINS IN CLINICAL TRIALS * UNLEARN.AI - CLOSED A $12 MILLION SERIES A FINANCING. FINANCING ROU",
+      "heat": 75,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/brief-unlearnai-closes-12-mln-series-a-t-idUSASA00L44",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSASA00L44",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSASA00L44",
+      "publishedDateTime": "2020-04-20T05:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png",
+          "width": 1200,
+          "height": 630,
+          "title": "BRIEF-Unlearn.Ai Closes $12 Mln Series A To Advance The Use Of Digital Twins In Clinical Trials",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-20-microsoft-our-ai-can-spot-security-flaws-from-just-the-titles-of-developers-bug-reports.md",
+      "title": "Microsoft: Our AI can spot security flaws from just the titles of developers' bug reports",
+      "excerpt": "Microsoft has revealed how it's applying machine learning to the challenge of correctly identifying which bug reports are actually security-related. Its goal is to correctly identify security bugs at scale using a machine-learning model to analyze just the label of bug reports. According to Microsoft, its 47,000 developers generate about ...",
+      "heat": 78,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/microsoft-our-ai-can-spot-security-flaws-from-just-the-titles-of-developers-bug-reports/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-our-ai-can-spot-security-flaws-from-just-the-titles-of-developers-bug-reports/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-our-ai-can-spot-security-flaws-from-just-the-titles-of-developers-bug-reports/",
+      "publishedDateTime": "2020-04-20T04:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2020/03/11/dcabbbb7-b82d-4967-afd8-66b2b64ff7f8/thumbnail/1200x675/d583d73263f0adcedfde77d6f345a798/ransomware-these-sophisticated-attacks-a-5e666032710b2800019be724-1-mar-11-2020-13-21-31-poster.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Microsoft: Our AI can spot security flaws from just the titles of developers' bug reports",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-20-can-artificial-intelligence-help-alleviate-travel-industry-woes.md",
+      "title": "Can Artificial Intelligence Help Alleviate Travel Industry Woes?",
+      "excerpt": "The travel industry, for instance, is uniquely vulnerable to this combination of systemic shocks. As such, operators like airlines and OTAs should take this opportunity to review and identify strategies to increase efficiency.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/04/20/can-artificial-intelligence-help-alleviate-travel-industry-woes/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/04/20/can-artificial-intelligence-help-alleviate-travel-industry-woes/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/04/20/can-artificial-intelligence-help-alleviate-travel-industry-woes/amp/",
+      "publishedDateTime": "2020-04-20T04:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F04%2Fa-14-2.jpg",
+          "width": 640,
+          "height": 640,
+          "title": "Can Artificial Intelligence Help Alleviate Travel Industry Woes?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-20-how-to-keep-our-ai-obsession-from-overcomplicating-data-projects.md",
+      "title": "How To Keep Our AI Obsession From Overcomplicating Data Projects",
+      "excerpt": "To work effectively, AI needs to be used in the right way for the right applications. You wouldn't use a precision laser to tailor clothing. It could work, but it would create unnecessary cost and risk with no meaningful improvement over fabric scissors.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/04/20/how-to-keep-our-ai-obsession-from-overcomplicating-data-projects/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/04/20/how-to-keep-our-ai-obsession-from-overcomplicating-data-projects/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/04/20/how-to-keep-our-ai-obsession-from-overcomplicating-data-projects/amp/",
+      "publishedDateTime": "2020-04-20T04:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F04%2Fa-4-2.jpg",
+          "width": 640,
+          "height": 640,
+          "title": "How To Keep Our AI Obsession From Overcomplicating Data Projects",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-20-myndyou-uses-ai-and-passive-data-to-detect-cognitive-decline-in-seniors.md",
+      "title": "MyndYou uses AI and passive data to detect cognitive decline in seniors",
+      "excerpt": "A quick glance across this landscape shows fall-detection contraptions, targeted social networks, and more. Artificial intelligence (AI) in particular is gaining a firmer foothold, with AI-powered social companions and fancy wearables designed to track all manner of activity or changes in behavior. Fledgling Israeli startup MyndYou is using AI ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/20/myndyou-uses-ai-and-passive-data-to-detect-cognitive-decline-in-seniors/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/20/myndyou-uses-ai-and-passive-data-to-detect-cognitive-decline-in-seniors/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/20/myndyou-uses-ai-and-passive-data-to-detect-cognitive-decline-in-seniors/amp/",
+      "publishedDateTime": "2020-04-20T03:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/Elderly.jpg?fit=2001%2C1000&strip=all",
+          "width": 2001,
+          "height": 1000,
+          "title": "MyndYou uses AI and passive data to detect cognitive decline in seniors",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2020-04-20-starsky-robotics-failure-offers-a-sobering-look-at-the-state-of-ai.md",
+      "title": "Starsky Robotics Failure Offers a Sobering Look at the State of AI",
+      "excerpt": "Autonomous trucking company Starsky Robotics has closed its doors after failing to secure additional funding in late 2019. Anyone that follows the AI industry or the autonomous vehicle space knows that not every startup was going to make it to the finish line. But the demise of one of the pioneering companies of the autonomous trucking space ...",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.designnews.com/automation-motion-control/starsky-robotics-failure-offers-sobering-look-state-ai/181515550662728",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-20T03:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/default/files/Design%20News/Starsky%20Robotics_small.jpg",
+          "width": 700,
+          "height": 525,
+          "title": "Starsky Robotics Failure Offers a Sobering Look at the State of AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2020-04-20-14-ways-aws-beats-microsoft-azure-and-google-cloud.md",
+      "title": "14 ways AWS beats Microsoft Azure and Google Cloud",
+      "excerpt": "If your shop is obsessed with mixing AI into your stack, Amazon has almost too many options to consider. There are too many to list. They begin with basic tools like SageMaker for training models to respond to your data. These tools have attracted plenty of developers and that may be why the sales literature brags that “85% of TensorFlow ...",
+      "heat": 101,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.infoworld.com/article/3321176/14-ways-aws-beats-microsoft-azure-and-google-cloud.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-20T03:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.techhive.com/images/article/2016/12/thumbs-up-multicultural-100701134-large.3x2.jpg",
+          "width": 700,
+          "height": 467,
+          "title": "14 ways AWS beats Microsoft Azure and Google Cloud",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-20-microsoft-to-launch-azure-based-streaming-service-for-nba-league.md",
+      "title": "Microsoft to launch Azure-based streaming service for NBA League",
+      "excerpt": "As the Official Technology Partner for the NBA, Microsoft will allow NBA Digital to leverage the power of its Azure platform to give birth to a new, direct-to-consumer platform, which claims to make use of Artificial Intelligence (AI) and Machine Learning (ML). Thanks to the AI and ML, Microsoft hopes to deliver personalized game broadcasts and ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://news.thewindowsclub.com/microsoft-nba-league-99193/",
+      "ampWebUrl": "https://news.thewindowsclub.com/microsoft-nba-league-99193/amp/",
+      "cdnAmpWebUrl": "https://news-thewindowsclub-com.cdn.ampproject.org/c/s/news.thewindowsclub.com/microsoft-nba-league-99193/amp/",
+      "publishedDateTime": "2020-04-20T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TWCN Tech News",
+        "domain": "thewindowsclub.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://news.thewindowsclub.com/wp-content/uploads/2020/04/Microsoft-NBA.jpg",
+          "width": 600,
+          "height": 338,
+          "title": "Microsoft to launch Azure-based streaming service for NBA League",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-20-facebook-three-fintech-firms-in-talks-to-launch-mobile-payments-service-in-indonesia.md",
+      "title": "Facebook, three fintech firms in talks to launch mobile payments service in Indonesia",
+      "excerpt": "Facebook is working with three Indonesian digital fintech firms to apply for regulatory approval to launch mobile payments ... Sign up now and get a 10% discount (original price US$400) off the China AI Report 2020 by SCMP Research. Learn about the AI ambitions of Alibaba, Baidu & JD.com through our in-depth case studies, and explore new ...",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.scmp.com/tech/big-tech/article/3080729/facebook-three-fintech-firms-talks-launch-mobile-payments-service",
+      "ampWebUrl": "https://amp.scmp.com/tech/big-tech/article/3080729/facebook-three-fintech-firms-talks-launch-mobile-payments-service",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3080729/facebook-three-fintech-firms-talks-launch-mobile-payments-service",
+      "publishedDateTime": "2020-04-20T02:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/04/20/72823e74-82e4-11ea-8863-2139a14b0dea_image_hires_181245.JPG?itok=-bpnCTHB&v=1587377576",
+          "width": 1200,
+          "height": 630,
+          "title": "Facebook, three fintech firms in talks to launch mobile payments service in Indonesia",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-20-moscow-is-using-coronavirus-as-an-excuse-to-amp-up-its-facial-recognition-surveillance.md",
+      "title": "Moscow Is Using Coronavirus as an Excuse to Amp Up Its Facial Recognition Surveillance",
+      "excerpt": "This article originally appeared on VICE News. MOSCOW –– There’s about 178,000 surveillance cameras set up all around the Russian capital, pretty much wherever you look, and some of them are already connected to facial recognition software that’s helped police arrest more than 300 people. But now the authorities are trying to bring the ...",
+      "heat": 81,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.vice.com/en_asia/article/n7jx3b/moscow-is-using-coronavirus-as-an-excuse-to-amp-up-its-facial-recognition-surveillance",
+      "ampWebUrl": "https://www.vice.com/amp/en_asia/article/n7jx3b/moscow-is-using-coronavirus-as-an-excuse-to-amp-up-its-facial-recognition-surveillance",
+      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_asia/article/n7jx3b/moscow-is-using-coronavirus-as-an-excuse-to-amp-up-its-facial-recognition-surveillance",
+      "publishedDateTime": "2020-04-20T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VICE",
+        "domain": "vice.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/vice.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://video-images.vice.com/test-uploads/articles/5e9896d602fbe3009eff8090/lede/1587058510180-russiaclean.jpeg?crop=1xw:1xh;center,center",
+          "width": 1920,
+          "height": 1080,
+          "title": "Moscow Is Using Coronavirus as an Excuse to Amp Up Its Facial Recognition Surveillance",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-20-does-this-7000-year-old-poop-belong-to-a-human-or-dog-machine-learning-has-the-answer.md",
+      "title": "Does This 7,000-Year-Old Poop Belong to a Human or Dog? Machine Learning Has the Answer",
+      "excerpt": "As outlined in the new paper, coproID uses machine learning software to compare ancient host DNA with DNA in modern feces, enabling it to distinguish between the two hosts in most cases. “CoproID is the first line of identification in coprolite analysis to confirm that what we’re looking for is actually human, or a dog if we’re interested ...",
+      "heat": 81,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.vice.com/en_in/article/jge7j4/does-this-7000-year-old-poop-belong-to-a-human-or-dog-machine-learning-has-the-answer",
+      "ampWebUrl": "https://www.vice.com/amp/en_in/article/jge7j4/does-this-7000-year-old-poop-belong-to-a-human-or-dog-machine-learning-has-the-answer",
+      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_in/article/jge7j4/does-this-7000-year-old-poop-belong-to-a-human-or-dog-machine-learning-has-the-answer",
+      "publishedDateTime": "2020-04-20T00:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VICE",
+        "domain": "vice.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/vice.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://video-images.vice.com/test-uploads/articles/5e98c20ac7e9d80099d6d452/lede/1587070293609-229163_web.jpeg?crop=1xw:0.8446298227320125xh;center,center",
+          "width": 1440,
+          "height": 810,
+          "title": "Does This 7,000-Year-Old Poop Belong to a Human or Dog? Machine Learning Has the Answer",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-20-openai-launches-mircoscope-with-lucid-library-to-help-unravel-neural-networks.md",
+      "title": "OpenAI launches Mircoscope with Lucid Library to help unravel neural networks",
+      "excerpt": "Microscope does the same thing with neural networks. It studies the neurons in these networks and their interconnectivity ... OpenAI is a research laboratory based in San Francisco, California. It mainly works in the artificial general intelligence (AGI)area to build systems for the benefit of humankind. It was co-founded by Elon Musk in ...",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.technowize.com/openai-launches-mircoscope-with-lucid-library-to-help-unravel-neural-networks/",
+      "ampWebUrl": "https://www.technowize.com/openai-launches-mircoscope-with-lucid-library-to-help-unravel-neural-networks/amp/",
+      "cdnAmpWebUrl": "https://www-technowize-com.cdn.ampproject.org/c/s/www.technowize.com/openai-launches-mircoscope-with-lucid-library-to-help-unravel-neural-networks/amp/",
+      "publishedDateTime": "2020-04-19T23:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Technowize",
+        "domain": "technowize.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.technowize.com/wp-content/uploads/2020/04/Cortisol-Labs-Artificial-Brain.jpg",
+          "width": 1000,
+          "height": 597,
+          "title": "OpenAI launches Mircoscope with Lucid Library to help unravel neural networks",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-20-hisense-f50-5g-debuts-with-unisoc-chip-for-2199-yuan-310-in-china.md",
       "title": "HiSense F50 5G debuts with Unisoc chip for 2,199 Yuan (~$310) in China",
       "excerpt": "Coupled with AI algorithm, the quad cameras of the HiSense F50 supports night mode photography, HDR, AI beauty and more. The HiSense F50 is backed by a massive 5,010mAh battery that supports 18W fast charging. The Unisoc T7510 chipset supports SA/NSA dual-mode 5G connectivity. The SoC supports N41, N78 and N79 mainstream 5G frequency bands.",
@@ -383,6 +942,43 @@
       ]
     },
     {
+      "path": "_news/2020-04-19-downsides-of-self-driving-cars-could-swamp-benefits-if-dc-region-fails-to-act-study-says.md",
+      "title": "Downsides of self-driving cars could swamp benefits if D.C. region fails to act, study says",
+      "excerpt": "Widespread use of self-driving cars in coming decades will increase congestion and pollution in the Washington region if governments don’t take steps to avoid such consequences, according a ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.washingtonpost.com/local/trafficandcommuting/downsides-of-self-driving-cars-could-swamp-benefits-if-dc-region-fails-to-act-new-study-says/2020/04/18/92fb2d4e-7ffd-11ea-9040-68981f488eed_story.html",
+      "ampWebUrl": "https://www.washingtonpost.com/local/trafficandcommuting/downsides-of-self-driving-cars-could-swamp-benefits-if-dc-region-fails-to-act-new-study-says/2020/04/18/92fb2d4e-7ffd-11ea-9040-68981f488eed_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/trafficandcommuting/downsides-of-self-driving-cars-could-swamp-benefits-if-dc-region-fails-to-act-new-study-says/2020/04/18/92fb2d4e-7ffd-11ea-9040-68981f488eed_story.html?outputType=amp",
+      "publishedDateTime": "2020-04-18T18:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/20BGBotT5tgHKsJg-42Ib7DMsHg=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/E3ZS6IGWGUI6RA4EXTCUSL7PJE.jpg",
+          "width": 1440,
+          "height": 1080,
+          "title": "Downsides of self-driving cars could swamp benefits if D.C. region fails to act, study says",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-19-uber-says-engineer-is-on-his-own-for-us180-million-legal-award-to-google.md",
       "title": "Uber says engineer is on his own for US$180 million legal award to Google",
       "excerpt": "engineering documents and software related to self-driving cars. Sign up now and get a 10% discount (original price US$400) off the China AI Report 2020 by SCMP Research. Learn about the AI ambitions of Alibaba, Baidu & JD.com through our in-depth case studies, and explore new applications of AI across industries. The report also includes ...",
@@ -669,615 +1265,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-18-ai-weekly-when-to-ship-or-shelve-a-coronavirus-solution.md",
-      "title": "AI Weekly: When to ship or shelve a coronavirus solution",
-      "excerpt": "Those debates certainly carry over to the kind of AI being deployed right now, and the important question of when a company should ship or shelve a coronavirus solution. A lot of AI is being deployed in the pandemic to save lives and someday soon help us resume daily lives, much of which you’ve been able to read about here. But they aren’t ...",
-      "heat": 91,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/17/ai-weekly-when-to-ship-or-shelve-a-coronavirus-solution/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/17/ai-weekly-when-to-ship-or-shelve-a-coronavirus-solution/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/17/ai-weekly-when-to-ship-or-shelve-a-coronavirus-solution/amp/",
-      "publishedDateTime": "2020-04-17T17:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/GettyImages-1214233667.jpg?fit=1800%2C900&strip=all",
-          "width": 1800,
-          "height": 900,
-          "title": "AI Weekly: When to ship or shelve a coronavirus solution",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-17-san-francisco-orders-residents-to-wear-face-masks.md",
-      "title": "San Francisco Orders Residents To Wear Face Masks",
-      "excerpt": "The city joins New York and Los Angeles County in mandating residents and essential workers wear face masks outside their homes.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/rachelsandler/2020/04/17/san-francisco-orders-residents-to-wear-face-masks/",
-      "ampWebUrl": "https://www.forbes.com/sites/rachelsandler/2020/04/17/san-francisco-orders-residents-to-wear-face-masks/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rachelsandler/2020/04/17/san-francisco-orders-residents-to-wear-face-masks/amp/",
-      "publishedDateTime": "2020-04-17T15:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F630811497%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5534%26cropY1%3D300%26cropY2%3D3413",
-          "width": 1200,
-          "height": 675,
-          "title": "San Francisco Orders Residents To Wear Face Masks",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-17-this-artificial-intelligence-extracts-emotions-and-shows-what-people-are-feeling.md",
-      "title": "This Artificial Intelligence Extracts Emotions And Shows What People Are Feeling",
-      "excerpt": "Systems and Sociometrica analyze the sentiment of 63,000 social media posts each day to determine the emotional state of the internet in response to COVID-19.",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/jenniferhicks/2020/04/17/this-artificial-intelligence-extracts-emotions-and-shows-what-people-are-feeling/",
-      "ampWebUrl": "https://www.forbes.com/sites/jenniferhicks/2020/04/17/this-artificial-intelligence-extracts-emotions-and-shows-what-people-are-feeling/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jenniferhicks/2020/04/17/this-artificial-intelligence-extracts-emotions-and-shows-what-people-are-feeling/amp/",
-      "publishedDateTime": "2020-04-17T15:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e99d3447be2870006ce16f8%2F0x0.jpg",
-          "width": 1200,
-          "height": 1203,
-          "title": "This Artificial Intelligence Extracts Emotions And Shows What People Are Feeling",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-17-train-a-deep-learning-image-classification-model-in-azure-with-mlnet-model-builder.md",
-      "title": "Train a deep learning image classification model in Azure with ML.NET Model Builder",
-      "excerpt": "LandUseUWP: Universal Windows Platform (UWP) application that consumes the model to classify satellite map images of locations provided by the user. Eurosat: A novel dataset and deep learning benchmark for land use and land cover classification. Patrick Helber, Benjamin Bischke, Andreas Dengel, Damian Borth. IEEE Journal of Selected Topics in ...",
-      "heat": 80,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://docs.microsoft.com/en-us/samples/dotnet/machinelearning-samples/mlnet-image-classification-azure-model-builder/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-17T14:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png",
-          "width": 400,
-          "height": 400,
-          "title": "Train a deep learning image classification model in Azure with ML.NET Model Builder",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-17-moscow-is-using-coronavirus-as-an-excuse-to-amp-up-its-facial-recognition-surveillance.md",
-      "title": "Moscow Is Using Coronavirus as an Excuse to Amp Up Its Facial Recognition Surveillance",
-      "excerpt": "MOSCOW –– There’s about 178,000 surveillance cameras set up all around the Russian capital, pretty much wherever you look, and some of them are already connected to facial recognition software that’s helped police arrest more than 300 people. But now the authorities are trying to bring the entire fleet of cameras into the facial ...",
-      "heat": 111,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.vice.com/en_ca/article/n7jx3b/moscow-is-using-coronavirus-as-an-excuse-to-amp-up-its-facial-recognition-surveillance",
-      "ampWebUrl": "https://www.vice.com/amp/en_ca/article/n7jx3b/moscow-is-using-coronavirus-as-an-excuse-to-amp-up-its-facial-recognition-surveillance",
-      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_ca/article/n7jx3b/moscow-is-using-coronavirus-as-an-excuse-to-amp-up-its-facial-recognition-surveillance",
-      "publishedDateTime": "2020-04-17T13:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VICE",
-        "domain": "vice.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/vice.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://video-images.vice.com/test-uploads/articles/5e9896d602fbe3009eff8090/lede/1587058510180-russiaclean.jpeg?crop=1xw:1xh;center,center",
-          "width": 1920,
-          "height": 1080,
-          "title": "Moscow Is Using Coronavirus as an Excuse to Amp Up Its Facial Recognition Surveillance",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-17-sales-startup-peopleai-lays-off-18-of-staff-raises-debt-round-amid-covid-19-uncertainty.md",
-      "title": "Sales startup People.ai lays off 18% of staff, raises debt round amid COVID-19 uncertainty",
-      "excerpt": "Another startup has turned to downsizing and fund raising to help weather the uncertainty around the economy amid the global coronavirus health pandemic. People.ai, a predictive sales startup backed by Andreessen Horowitz, Iconic, Lightspeed and other investors and last year valued at around $500 million, has laid off around 30 people ...",
-      "heat": 77,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/04/17/sales-startup-people-ai-lays-off-18-of-staff-raises-debt-round-amid-covid-19-uncertainty/",
-      "ampWebUrl": "https://techcrunch.com/2020/04/17/sales-startup-people-ai-lays-off-18-of-staff-raises-debt-round-amid-covid-19-uncertainty/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/17/sales-startup-people-ai-lays-off-18-of-staff-raises-debt-round-amid-covid-19-uncertainty/amp/",
-      "publishedDateTime": "2020-04-17T13:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/04/GettyImages-493383580.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": "Sales startup People.ai lays off 18% of staff, raises debt round amid COVID-19 uncertainty",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-17-google-unveils-tensorflow-tool-for-making-mobile-ready-models.md",
-      "title": "Google unveils TensorFlow tool for making mobile-ready models",
-      "excerpt": "Google has announced TensorFlow Lite Model Maker, a tool for converting an existing TensorFlow model to the TensorFlow Lite format used to serve predictions on lightweight hardware such as mobile devices. TensorFlow models can be quite large, and serving predictions remotely from beefy hardware capable of handling them isn’t always possible.",
-      "heat": 86,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.infoworld.com/article/3538913/google-unveils-tensorflow-tool-for-making-mobile-ready-models.html",
-      "ampWebUrl": "https://www.infoworld.com/article/3538913/google-unveils-tensorflow-tool-for-making-mobile-ready-models.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3538913/google-unveils-tensorflow-tool-for-making-mobile-ready-models.amp.html",
-      "publishedDateTime": "2020-04-17T13:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2020-04-17-ai-and-machine-learning-are-making-insurance-more-predictable.md",
-      "title": "AI and machine learning are making insurance more predictable",
-      "excerpt": "\"So much data is locked up in paper and pdf files, and it has to be manually extracted by someone. In the process, there are errors and omissions.\" If AI and machine learning can transform these troves of documents into more usable, accessible information, employees, agents, and customers will get more value from the data. To facilitate the ...",
-      "heat": 104,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/ai-and-machine-learning-are-making-insurance-more-predictable/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ai-and-machine-learning-are-making-insurance-more-predictable/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-and-machine-learning-are-making-insurance-more-predictable/",
-      "publishedDateTime": "2020-04-17T12:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/04/17/4ac21ed5-fd7c-4d55-845d-4e4ecd51c71d/resize/1200x/542b08ee6b37947ec03bf458af15bd53/istock-1178261521-1.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "AI and machine learning are making insurance more predictable",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-17-clearview-ai-exposes-source-code-to-controversial-facial-recognition-app-and-company-credentials.md",
-      "title": "Clearview AI exposes source code to controversial facial recognition app and company credentials",
-      "excerpt": "A researcher found that a misconfiguration allowed anyone to register as a new user and access the database containing Clearview's code regardless of whether they had entered password.",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-8231025/Clearview-AI-exposes-source-code-controversial-facial-recognition-app-company-credentials.html",
-      "ampWebUrl": "https://www.dailymail.co.uk/sciencetech/article-8231025/amp/Clearview-AI-exposes-source-code-controversial-facial-recognition-app-company-credentials.html",
-      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-8231025/amp/Clearview-AI-exposes-source-code-controversial-facial-recognition-app-company-credentials.html",
-      "publishedDateTime": "2020-04-17T12:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mail Online",
-        "domain": "dailymail.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.dailymail.co.uk/1s/2020/04/17/19/25231518-0-image-a-2_1587149037389.jpg",
-          "width": 636,
-          "height": 382,
-          "title": "Clearview AI exposes source code to controversial facial recognition app and company credentials",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-17-using-amazon-textract-with-amazon-augmented-ai-for-processing-critical-documents.md",
-      "title": "Using Amazon Textract with Amazon Augmented AI for processing critical documents",
-      "excerpt": "Documents are a primary tool for record keeping, communication, collaboration, and transactions across many industries, including financial, medical, legal, and real estate. For example, millions of mortgage applications and hundreds of millions of tax forms are processed each year. Documents are often",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/using-amazon-textract-with-amazon-augmented-ai-for-processing-critical-documents/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-17T12:20:50-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0.png",
-          "width": 1260,
-          "height": 630,
-          "title": "Using Amazon Textract with Amazon Augmented AI for processing critical documents",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-17-tensorflow-lite-gets-machine-learning-model-maker.md",
-      "title": "TensorFlow Lite gets machine learning model maker",
-      "excerpt": "Google has announced the TensorFlow Lite Model Maker. TensorFlow Lite is an open-source deep learning framework for on-device inference. The new tool is designed to adapt machine learning models to datasets with transfer learning. “It wraps the complex machine learning concepts with an intuitive API, so that everyone can get started without ...",
-      "heat": 103,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://sdtimes.com/ai/tensorflow-lite-gets-machine-learning-model-maker/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-17T11:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SD Times",
-        "domain": "sdtimes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://sdtimes.com/wp-content/uploads/2020/04/Screen-Shot-2020-04-13-at-4.22.27-PM.png",
-          "width": 781,
-          "height": 299,
-          "title": "TensorFlow Lite gets machine learning model maker",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "TensorFlow",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-17-smarter-faq-bots-with-amazon-kendra.md",
-      "title": "Smarter FAQ bots with Amazon Kendra",
-      "excerpt": "We often have questions when making a choice about a product or service. When was the last time you found yourself at the IT help desk at work? You probably had questions like “What time does the IT Help Desk open?” or “Can I get a temporary machine while you repair my laptop?”  Quick and accurate responses",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/smarter-faq-bots-with-amazon-kendra/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-17T11:13:43-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/04/15/smarter-faq-1.gif",
-          "width": 800,
-          "height": 576,
-          "title": "Smarter FAQ bots with Amazon Kendra",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-17-ai-becomes-an-ally-in-the-fight-against-covid-19.md",
-      "title": "AI Becomes An Ally In The Fight Against COVID-19",
-      "excerpt": "How human ingenuity coupled with artificial intelligence is helping healthcare providers across the world respond to the pandemic.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/servicenow/2020/04/17/ai-becomes-an-ally-in-the-fight-against-covid-19/",
-      "ampWebUrl": "https://www.forbes.com/sites/servicenow/2020/04/17/ai-becomes-an-ally-in-the-fight-against-covid-19/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/servicenow/2020/04/17/ai-becomes-an-ally-in-the-fight-against-covid-19/amp/",
-      "publishedDateTime": "2020-04-17T10:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e99ea5b2e46c30007c4f740%2F0x0.jpg%3FcropX1%3D395%26cropX2%3D3985%26cropY1%3D107%26cropY2%3D2126",
-          "width": 1200,
-          "height": 675,
-          "title": "AI Becomes An Ally In The Fight Against COVID-19",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-17-britains-first-robot-water-taxis-to-be-unveiled-in-plymouth-as-us-tech-firm-announces-trial.md",
-      "title": "Britain's first robot water taxis to be unveiled in Plymouth as US tech firm announces trial",
-      "excerpt": "The water taxis are equipped with an artificial intelligence system called Auto ... had already trialled the driverless craft in New York in October. It says “autonomous identification ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.telegraph.co.uk/news/2020/04/17/britains-first-robot-water-taxis-unveiled-plymouth-us-tech-firm/",
-      "ampWebUrl": "https://www.telegraph.co.uk/news/2020/04/17/britains-first-robot-water-taxis-unveiled-plymouth-us-tech-firm/amp/",
-      "cdnAmpWebUrl": "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/news/2020/04/17/britains-first-robot-water-taxis-unveiled-plymouth-us-tech-firm/amp/",
-      "publishedDateTime": "2020-04-17T10:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Telegraph",
-        "domain": "telegraph.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.telegraph.co.uk/content/dam/news/2020/04/17/TELEMMGLPICT000229271416_trans_NvBQzQNjv4BqM37qcIWR9CtrqmiMdQVx7M9RnK4I0Z98Woo3Q9OmDRA.jpeg",
-          "width": 2498,
-          "height": 1563,
-          "title": "Britain's first robot water taxis to be unveiled in Plymouth as US tech firm announces trial",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

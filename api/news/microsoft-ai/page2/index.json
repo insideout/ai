@@ -2,6 +2,43 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-04-20-microsoft-to-launch-azure-based-streaming-service-for-nba-league.md",
+      "title": "Microsoft to launch Azure-based streaming service for NBA League",
+      "excerpt": "As the Official Technology Partner for the NBA, Microsoft will allow NBA Digital to leverage the power of its Azure platform to give birth to a new, direct-to-consumer platform, which claims to make use of Artificial Intelligence (AI) and Machine Learning (ML). Thanks to the AI and ML, Microsoft hopes to deliver personalized game broadcasts and ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://news.thewindowsclub.com/microsoft-nba-league-99193/",
+      "ampWebUrl": "https://news.thewindowsclub.com/microsoft-nba-league-99193/amp/",
+      "cdnAmpWebUrl": "https://news-thewindowsclub-com.cdn.ampproject.org/c/s/news.thewindowsclub.com/microsoft-nba-league-99193/amp/",
+      "publishedDateTime": "2020-04-20T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TWCN Tech News",
+        "domain": "thewindowsclub.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://news.thewindowsclub.com/wp-content/uploads/2020/04/Microsoft-NBA.jpg",
+          "width": 600,
+          "height": 338,
+          "title": "Microsoft to launch Azure-based streaming service for NBA League",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-17-train-a-deep-learning-image-classification-model-in-azure-with-mlnet-model-builder.md",
       "title": "Train a deep learning image classification model in Azure with ML.NET Model Builder",
       "excerpt": "LandUseUWP: Universal Windows Platform (UWP) application that consumes the model to classify satellite map images of locations provided by the user. Eurosat: A novel dataset and deep learning benchmark for land use and land cover classification. Patrick Helber, Benjamin Bischke, Andreas Dengel, Damian Borth. IEEE Journal of Selected Topics in ...",
@@ -173,7 +210,7 @@
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.thehindubusinessline.com/info-tech/microsoft-adds-five-new-indian-languages-to-its-microsoft-translator-service/article31355525.ece#!",
+      "webUrl": "https://www.thehindubusinessline.com/info-tech/microsoft-adds-five-new-indian-languages-to-its-microsoft-translator-service/article31355525.ece",
       "ampWebUrl": "https://www.thehindubusinessline.com/info-tech/microsoft-adds-five-new-indian-languages-to-its-microsoft-translator-service/article31355525.ece/amp/",
       "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/microsoft-adds-five-new-indian-languages-to-its-microsoft-translator-service/article31355525.ece/amp/",
       "publishedDateTime": "2020-04-16T03:57:00-07:00",
@@ -1172,51 +1209,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-03-a-conversation-with-kevin-scott-author-of-reprogramming-the-american-dream.md",
-      "title": "A conversation with Kevin Scott, author of “Reprogramming the American Dream”",
-      "excerpt": "The post A conversation with Kevin Scott, author of “Reprogramming the American Dream” appeared first on The AI Blog.\n",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://blogs.microsoft.com/ai/kevin-scott-reprogramming-the-american-dream/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-03T11:04:02-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://1gew6o3qn6vx9kp3s42ge0y1-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/3/2020/04/kevin-scott-reporgramming-the-american-dream-rural-virginia_1200x630-1024x538.jpg",
-          "width": 1024,
-          "height": 538,
-          "title": "A conversation with Kevin Scott, author of “Reprogramming the American Dream”",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

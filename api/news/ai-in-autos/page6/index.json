@@ -2,6 +2,141 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-03-24-mit-can-now-train-self-driving-cars-in-a-photorealistic-simulator.md",
+      "title": "MIT can now train self-driving cars in a photorealistic simulator",
+      "excerpt": "Simulators have been used for years to train human drivers, pilots and astronauts, and now they're being used to train self-driving cars too – and a new system developed by researchers at MIT could be the most promising yet. The Virtual Image Synthesis and Transformation for Autonomy (VISTA) simulation system means cars don't have to venture ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://newatlas.com/automotive/mit-self-driving-cars-photorealistic-simulator/",
+      "ampWebUrl": "https://newatlas.com/automotive/mit-self-driving-cars-photorealistic-simulator/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/automotive/mit-self-driving-cars-photorealistic-simulator/?amp=true",
+      "publishedDateTime": "2020-03-24T16:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/4baac11/2147483647/strip/true/crop/1200x800+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F28%2F58%2F5fe4b6c24adb8500a2a8e0daf3fa%2F00-mit-sim.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "MIT can now train self-driving cars in a photorealistic simulator",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-24-global-and-china-hd-map-industry-report-2019-2020.md",
+      "title": "Global and China HD Map Industry Report, 2019-2020",
+      "excerpt": "HD map industry study: the HD map market is burgeoning with the roll-out of L3 autonomous vehicles. The automakers (except Volvo, Ford and NIO that claimed a leap over L3) have set foot in L3 autonomous vehicle successively,",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/global-and-china-hd-map-industry-report-2019-2020-2020-03-24-181845139",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-24T15:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Global and China HD Map Industry Report, 2019-2020",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-24-nvidia-leads-in-self-driving-car-technology-report.md",
+      "title": "NVIDIA Leads in Self-Driving Car Technology: Report",
+      "excerpt": "A mass rollout of self-driving cars is still years away, but more than 70 companies around the world are investing heavily in the technology. These companies span legacy automakers, suppliers, start-ups, and tech giants. Every year, Navigant Research releases a report that ranks the top vendors who are developing automated vehicle (AV ...",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fool.com/investing/2020/03/24/nvidia-leads-in-self-driving-car-technology-report.aspx",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/03/24/nvidia-leads-in-self-driving-car-technology-report.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/03/24/nvidia-leads-in-self-driving-car-technology-report.aspx",
+      "publishedDateTime": "2020-03-24T11:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F564943%2Fnvidia-self-driving-car.png&w=1200&op=resize",
+          "width": 1200,
+          "height": 631,
+          "title": "NVIDIA Leads in Self-Driving Car Technology: Report",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-24-how-5g-is-enhancing-business-productivity.md",
       "title": "How 5G is enhancing business productivity",
       "excerpt": "Analysts have long spoken about the potential of emerging technologies, like virtual reality, artificial intelligence and the Internet of Things ... be coordinated much more effectively and efficiently – and your business could soon be using driverless vehicles as part of its operations. Drones, which have also long-been hyped as a means ...",
@@ -1111,109 +1246,6 @@
           "width": 1440,
           "height": 523,
           "title": "Artificial intelligence helps prevent disruptions in fusion devices",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-why-sd-wans-need-artificial-intelligence.md",
-      "title": "Why SD-WANs Need Artificial Intelligence",
-      "excerpt": "A driver still needs to be present. That is, until fully autonomous vehicles become a reality. Self-driving cars will rely on understanding road rules and use artificial intelligence (AI) to make decisions without drivers. Data will be constantly fed into the automobile, so as conditions change, so too will the AI-based decisions. The same is ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.networkworld.com/article/3532473/why-sd-wans-need-artificial-intelligence.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-17T03:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Network World",
-        "domain": "networkworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2020/03/istock-1051617224-100835456-large.3x2.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "Why SD-WANs Need Artificial Intelligence",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-artificial-intelligence-ai-market.md",
-      "title": "Artificial Intelligence (AI) Market",
-      "excerpt": "In This report studies of MarketStudyReport LLC the Artificial Intelligence (AI) in Fintech market status and outlook of Global and major regions, from angles of players, countries, product types ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.openpr.com/news/1970600/whats-driving-an-artificial-intelligence-ai-in-fintech-market",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-17T02:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-artificial-intelligence-how-to-switch-career-into-ai-in-2020.md",
-      "title": "Artificial Intelligence – How to Switch Career into AI in 2020",
-      "excerpt": "Artificial Intelligence, a division of computer science empowers on creating smart machines that are highly specialized and share common traits with a human brain. In other words, we are developing machines that can think and work like humans. Ranging from speech recognition, facial identification, robotics surgery to the self-driving cars ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://yourstory.com/mystory/artificial-intelligence-switch-career-2020",
-      "ampWebUrl": "https://yourstory.com/mystory/artificial-intelligence-switch-career-2020/amp",
-      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/mystory/artificial-intelligence-switch-career-2020/amp",
-      "publishedDateTime": "2020-03-16T18:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Your Story",
-        "domain": "yourstory.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.yourstory.com/cs/users/e1d73f90-14f3-11ea-be83-85120a427c93/profile_image_1575284828775.png",
-          "width": 512,
-          "height": 512,
-          "title": "Artificial Intelligence – How to Switch Career into AI in 2020",
           "attribution": null
         }
       ],

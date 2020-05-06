@@ -2,6 +2,133 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-04-17-heres-how-you-get-everyone-to-buy-into-a-great-company-culture.md",
+      "title": "Here's How You Get Everyone To Buy Into A Great Company Culture",
+      "excerpt": "As a company begins to scale past 150 people, it becomes harder to create unity and keep people on the same page. Creating a healthy company culture helps attract and retain highly motivated and engaged employees.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2020/04/17/heres-how-you-get-everyone-to-buy-into-a-great-company-culture/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2020/04/17/heres-how-you-get-everyone-to-buy-into-a-great-company-culture/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbeshumanresourcescouncil/2020/04/17/heres-how-you-get-everyone-to-buy-into-a-great-company-culture/amp/",
+      "publishedDateTime": "2020-04-17T05:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbeshumanresourcescouncil%2Ffiles%2F2020%2F04%2Fa-5-2.jpg",
+          "width": 640,
+          "height": 640,
+          "title": "Here's How You Get Everyone To Buy Into A Great Company Culture",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-17-chinas-ponyai-rolls-out-us-self-driving-delivery-service-for-groceries-amid-coronavirus-lockdown.md",
+      "title": "China’s Pony.ai rolls out US self-driving delivery service for groceries amid coronavirus lockdown",
+      "excerpt": "Chinese autonomous vehicle start-up Pony.ai has launched a self-driving delivery service in Irvine, California, to help fulfil increasing online grocery orders during the coronavirus lockdown. The service, launched in partnership with Los Angeles-based e-commerce platform Yamibuy, enables residents in the area to receive their purchases of ...",
+      "heat": 75,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.scmp.com/tech/start-ups/article/3080371/chinas-ponyai-rolls-out-us-self-driving-delivery-service-groceries",
+      "ampWebUrl": "https://amp.scmp.com/tech/start-ups/article/3080371/chinas-ponyai-rolls-out-us-self-driving-delivery-service-groceries",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/start-ups/article/3080371/chinas-ponyai-rolls-out-us-self-driving-delivery-service-groceries",
+      "publishedDateTime": "2020-04-16T22:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/04/17/fb5b3e40-805e-11ea-8736-98edddd9b5ca_image_hires_131136.jpg?itok=PuWGeKE8&v=1587100306",
+          "width": 1200,
+          "height": 630,
+          "title": "China’s Pony.ai rolls out US self-driving delivery service for groceries amid coronavirus lockdown",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-17-sebastian-thrun-king-of-the-geeks.md",
+      "title": "Sebastian Thrun – king of the geeks",
+      "excerpt": "Sebastian Thrun – king of the geeks In the clandestine Google X laboratory, Thrun – the guru of artificial intelligence and the man behind Google’s driverless car – is busy inventing the ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.thetimes.co.uk/article/sebastian-thrun-king-of-the-geeks-xdrks90sfqd",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-16T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Times",
+        "domain": "thetimes.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprodmigration%2Fweb%2Fbin%2F0478f394-5f6e-3dd8-8256-9ec147aff66b.jpg?crop=1500%2C1000%2C0%2C0&resize=1180",
+          "width": 1180,
+          "height": 786,
+          "title": "Sebastian Thrun – king of the geeks",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-16-ponyai-partners-with-yamibuy-on-autonomous-deliveries.md",
       "title": "Pony.ai partners with Yamibuy on autonomous deliveries",
       "excerpt": "Self-driving startup Pony.ai today announced that it’s collaborating with Yamibuy ... as well as reduce the risk of infection in the course of deliveries. Former Baidu chief architect James Peng cofounded Pony.ai in 2016 with Tiancheng Lou, who worked at Google X’s autonomous car project before it was spun off into Waymo.",
@@ -1103,146 +1230,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-09-ai-and-the-coronavirus-fight-how-artificial-intelligence-is-taking-on-covid-19.md",
-      "title": "AI and the coronavirus fight: How artificial intelligence is taking on COVID-19",
-      "excerpt": "As the COVID-19 coronavirus outbreak continues to spread across the globe, companies and researchers are looking to use artificial intelligence as a way of addressing the ... turning COVID-Net from a technical implementation to a system that can be used by healthcare workers. It's also now developing a neural network for risk-stratifying ...",
-      "heat": 164,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/ai-and-the-coronavirus-fight-how-artificial-intelligence-is-taking-on-covid-19/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-and-the-coronavirus-fight-how-artificial-intelligence-is-taking-on-covid-19/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-and-the-coronavirus-fight-how-artificial-intelligence-is-taking-on-covid-19/",
-      "publishedDateTime": "2020-04-09T04:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2020/03/13/7e404fac-4532-4237-8f10-91e709d6b15b/thumbnail/1200x675/80e3fc902fe3c9d6aba28b44aa664ac0/20200313-tiernan-karen-corona.png",
-          "width": 1200,
-          "height": 675,
-          "title": "AI and the coronavirus fight: How artificial intelligence is taking on COVID-19",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Machine Learning",
-        "AI in Autos",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-08-nuro-cleared-to-test-self-driving-delivery-vehicles-in-california.md",
-      "title": "Nuro cleared to test self-driving delivery vehicles in California",
-      "excerpt": "The small driverless vehicles could help deliver goods amid the coronavirus pandemic. ns will soon see an odd, new vehicle motoring around local roads after the state cleared Nuro to test its self-driving delivery car in the state,",
-      "heat": 94,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnet.com/roadshow/news/nuro-test-self-driving-delivery-vehicles-coronavirus-california/",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/nuro-test-self-driving-delivery-vehicles-coronavirus-california/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/nuro-test-self-driving-delivery-vehicles-coronavirus-california/",
-      "publishedDateTime": "2020-04-08T14:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cnet1.cbsistatic.com/img/gh9rCPWglLqLLnPkvD6PHLBo1B4=/2020/04/08/e348bb1c-3476-4cd5-9d9b-45f1c08c60c5/ogi-nuro.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": "Nuro cleared to test self-driving delivery vehicles in California",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-08-toward-computers-that-teach-themselves.md",
-      "title": "Toward Computers That Teach Themselves",
-      "excerpt": "Artificial intelligence seems to be everywhere, but what we are really witnessing is a supervised-learning revolution: We teach computers to see patterns, much as we teach children to read. But the future of A.",
-      "heat": 76,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nytimes.com/2020/04/08/technology/ai-computers-learning-supervised-unsupervised.html",
-      "ampWebUrl": "https://www.nytimes.com/2020/04/08/technology/ai-computers-learning-supervised-unsupervised.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/04/08/technology/ai-computers-learning-supervised-unsupervised.amp.html",
-      "publishedDateTime": "2020-04-08T02:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/04/09/business/09sp-AI-cover/09sp-AI-cover-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": "Toward Computers That Teach Themselves",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Natural Language Processing",
-        "IBM AI"
       ]
     }
   ],

@@ -2,6 +2,43 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-02-03-microsoft-looks-to-expand-into-ai-as-cloud-computing-drives-q2-results.md",
+      "title": "Microsoft looks to expand into AI as cloud computing drives Q2 results",
+      "excerpt": "while adding that Microsoft also plans to develop more AI capabilities in Azure. “Cognitive Services, now integrated with Azure Data Lake, enables customers to use industry-leading AI capabilities to easily analyze images, text, emotions, and sentiments at petabyte scale.” Mandy is a lineup editor at CTV News. A former staffer at IT World ...",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.itworldcanada.com/article/microsoft-looks-to-expand-into-ai-as-cloud-computing-drives-q2-results/390316",
+      "ampWebUrl": "https://www.itworldcanada.com/article/microsoft-looks-to-expand-into-ai-as-cloud-computing-drives-q2-results/390316?amp=1",
+      "cdnAmpWebUrl": "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/microsoft-looks-to-expand-into-ai-as-cloud-computing-drives-q2-results/390316?amp=1",
+      "publishedDateTime": "2020-02-03T12:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT World Canada",
+        "domain": "itworldcanada.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.itworldcanada.com/wp-content/uploads/2016/03/249A0332-1-620x250.jpg",
+          "width": 620,
+          "height": 250,
+          "title": "Microsoft looks to expand into AI as cloud computing drives Q2 results",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-02-03-artificial-intelligence-and-robots-can-make-your-next-cocktail-but-should-they.md",
       "title": "Artificial Intelligence and Robots Can Make Your Next Cocktail. But Should They?",
       "excerpt": "We’ve seen artificial intelligence take over many tasks in the everyday world—from stocking grocery store aisles to parking cars. So, it shouldn’t be a surprise that AI has found its way into the creation of alcoholic beverages, which often involves a host of different ingredients, flavor notes, and precise recipes. A Swedish distillery ...",
@@ -1264,51 +1301,6 @@
           "width": 3000,
           "height": 1997,
           "title": "LG hones focus on AI car platforms with Cerence and Luxoft",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-13-linkedin-blockchain-beats-ai-and-cloud-computing-for-hottest-skill-in-2020.md",
-      "title": "LinkedIn: Blockchain beats AI and cloud computing for hottest skill in 2020",
-      "excerpt": "“Which means that you don’t have to be in financial services to be seeking new hires who have background and expertise in putting blockchain to use.” The Microsoft-owned company then urged recruiters ... How one behaves, how they think, and their cognitive skills are all examples of soft skills. While soft skills are difficult to measure ...",
-      "heat": 117,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/hardfork/2020/01/13/blockchain-linkedin-solidity-ethereum-cryptocurrency-jobs-recruitment/",
-      "ampWebUrl": "https://thenextweb.com/hardfork/2020/01/13/blockchain-linkedin-solidity-ethereum-cryptocurrency-jobs-recruitment/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/hardfork/2020/01/13/blockchain-linkedin-solidity-ethereum-cryptocurrency-jobs-recruitment/amp/",
-      "publishedDateTime": "2020-01-13T04:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2019/05/cryptocurrency-blockchain-development-programming-ethereum-solidity-javascript-java-796x450.jpg",
-          "width": 796,
-          "height": 450,
-          "title": "LinkedIn: Blockchain beats AI and cloud computing for hottest skill in 2020",
           "attribution": null
         }
       ],

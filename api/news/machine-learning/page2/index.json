@@ -2,6 +2,97 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-04-23-misconception-3-of-5-managing-models-is-like-managing-traditional-software.md",
+      "title": "Misconception 3 (of 5): Managing Models Is Like Managing Traditional Software",
+      "excerpt": "More recently, I covered the profound implications that AutoML will have on the enterprise and how ModelOps will be essential for managing shadow AI. This article deals with one of the most important topics in this series,",
+      "heat": 81,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/04/23/misconception-3-of-5-managing-models-is-like-managing-traditional-software/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/04/23/misconception-3-of-5-managing-models-is-like-managing-traditional-software/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/04/23/misconception-3-of-5-managing-models-is-like-managing-traditional-software/amp/",
+      "publishedDateTime": "2020-04-23T04:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F04%2Fa-53-3.jpg",
+          "width": 640,
+          "height": 640,
+          "title": "Misconception 3 (of 5): Managing Models Is Like Managing Traditional Software",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-23-bringing-machine-learning-to-finance-dont-overlook-these-three-key-considerations.md",
+      "title": "Bringing Machine Learning To Finance? Don't Overlook These Three Key Considerations",
+      "excerpt": "Harnessing the promise and power of machine learning is an exciting prospect for finance executives. Before long, planning systems will operate much like a navigation system for finance teams — a kind of Waze for business.",
+      "heat": 85,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/04/23/bringing-machine-learning-to-finance-dont-overlook-these-three-key-considerations/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/04/23/bringing-machine-learning-to-finance-dont-overlook-these-three-key-considerations/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/04/23/bringing-machine-learning-to-finance-dont-overlook-these-three-key-considerations/amp/",
+      "publishedDateTime": "2020-04-23T04:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F04%2Fa-54-3.jpg",
+          "width": 640,
+          "height": 640,
+          "title": "Bringing Machine Learning To Finance? Don't Overlook These Three Key Considerations",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2020-04-23-machine-learning-as-a-service-mlaas-market-size-overview-by-rising-demands-and-huge-business-opportunities-2020-2027.md",
       "title": "Machine Learning as a Service (MLaaS) Market Size Overview by Rising Demands and Huge Business Opportunities 2020-2027",
       "excerpt": "According to the research held by Acumenresearchandconsulting.com, \"The global Machine Learning as a Service (MLaaS) market is expected to reach US$ XX Mn with a CAGR of XX.X% during the forecast period from 2020 to 2027\".",
@@ -1209,89 +1300,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-16-eight-storage-requirements-for-ai-and-deep-learning.md",
-      "title": "Eight Storage Requirements for AI and Deep Learning",
-      "excerpt": "Data is the life-blood of artificial intelligence and deep learning (AI and DL). Vast quantities of training data enhance accuracy in the search for potentially predictive relationships. This paper delivers eight specific storage requirements of AI and DL applications and why they demand the data management capabilities supplied by enterprise object storage solutions.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://virtualizationreview.com/whitepapers/2020/04/cloudian-eight-storage-requirements-for-ai-and-deep-learning.aspx?admgarea=symantec&tc=page0",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-16T10:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Virtualization Review",
-        "domain": "virtualizationreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://virtualizationreview.com/~/media/ECG/VirtualizationReview/VRlogo.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": "Eight Storage Requirements for AI and Deep Learning",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-16-mindsdb-raises-3-million-for-open-source-automated-machine-learning.md",
-      "title": "MindsDB raises $3 million for open source automated machine learning",
-      "excerpt": "MindsDB today announced it has raised $3 million to grow its automated machine learning platform made for data scientists to quickly train and deploy models. The open source platform has been downloaded more than 250,000 times through Python pip installs or software with a graphic user interface and has been used by 20,000 developers.",
-      "heat": 106,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/16/mindsdb-raises-3-million-for-open-source-automated-machine-learning/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/16/mindsdb-raises-3-million-for-open-source-automated-machine-learning/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/16/mindsdb-raises-3-million-for-open-source-automated-machine-learning/amp/",
-      "publishedDateTime": "2020-04-16T08:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/Adam-Jorge-YCombinator.jpg?fit=1800%2C900&strip=all",
-          "width": 1800,
-          "height": 900,
-          "title": "MindsDB raises $3 million for open source automated machine learning",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AWS AI"
       ]
     }
   ],

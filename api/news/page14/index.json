@@ -2,6 +2,476 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2020-04-24-data-is-the-new-oil-how-shell-has-become-a-data-driven-and-ai-enabled-business.md",
+      "title": "Data Is The New Oil: How Shell Has Become A Data-Driven And AI-Enabled Business",
+      "excerpt": "Today, every organization must become a more data-driven business. While most understand that this is important, they might not know how to do it. Here we share insights and learning from energy-giant Shell on how to prioritize data-driven operations.",
+      "heat": 85,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2020/04/24/data-is-the-new-oil-how-shell-has-become-a-data-driven-and-ai-enabled-business/",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2020/04/24/data-is-the-new-oil-how-shell-has-become-a-data-driven-and-ai-enabled-business/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2020/04/24/data-is-the-new-oil-how-shell-has-become-a-data-driven-and-ai-enabled-business/amp/",
+      "publishedDateTime": "2020-04-23T21:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ea26d55feaa7d0007ffdab6%2F0x0.jpg",
+          "width": 1199,
+          "height": 799,
+          "title": "Data Is The New Oil: How Shell Has Become A Data-Driven And AI-Enabled Business",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-04-24-you-dont-need-an-geforce-rtx-gpu-to-access-rtx-voice-after-all.md",
+      "title": "You don't need an GeForce RTX GPU to access RTX Voice, after all",
+      "excerpt": "This app claims to use AI to reduce or outright cancel microphone background noise, and it was only intended to function for RTX card owners. However, as per the usual, the internet has circumvented those limitations. A user over on the Guru3D forums discovered that RTX Voice works \"just fine\" without a pricey RTX GPU in your system.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techspot.com/news/84962-you-dont-need-rtx-gpu-access-rtx-voice.html",
+      "ampWebUrl": "https://www.techspot.com/amp/news/84962-you-dont-need-rtx-gpu-access-rtx-voice.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/84962-you-dont-need-rtx-gpu-access-rtx-voice.html",
+      "publishedDateTime": "2020-04-23T21:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2020/04/2020-04-23-image-31.jpg",
+          "width": 1680,
+          "height": 1120,
+          "title": "You don't need an GeForce RTX GPU to access RTX Voice, after all",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-23-googles-new-tensorflow-ai-processor-increases-speeds-by-eight-times.md",
+      "title": "Google's new TensorFlow AI processor increases speeds by eight times",
+      "excerpt": "New neural network AI developments from Google look set to completely revolutionise hardware. The world of computer hardware has been in something of a funk for some time. That's a deeply unwelcome, and somewhat depressing, situation for those of us who worked (or played Doom) through the white heat of the 1990s, a period when Moore's law was ...",
+      "heat": 91,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.redsharknews.com/technology-computing/item/5488-google-s-new-tensorflow-ai-processor-increases-speeds-by-eight-times",
+      "ampWebUrl": "https://www.redsharknews.com/technology-computing/item/5488-google-s-new-tensorflow-ai-processor-increases-speeds-by-eight-times?hs_amp=true",
+      "cdnAmpWebUrl": "https://www-redsharknews-com.cdn.ampproject.org/c/s/www.redsharknews.com/technology-computing/item/5488-google-s-new-tensorflow-ai-processor-increases-speeds-by-eight-times?hs_amp=true",
+      "publishedDateTime": "2020-04-23T15:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "redsharknews.com",
+        "domain": "redsharknews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.redsharknews.com/hs-fs/hubfs/Imported_Blog_Media/58ae20e9f6cee7ffa44f98dc80bfb545-1.jpg?width=1280&height=720&name=58ae20e9f6cee7ffa44f98dc80bfb545-1.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Google's new TensorFlow AI processor increases speeds by eight times",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "TensorFlow",
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-23-metaphors-on-artificial-intelligence-help-us-think-through-threats-to-human-rights.md",
+      "title": "Metaphors on artificial intelligence help us think through threats to human rights",
+      "excerpt": "Artificial intelligence (AI) is now receiving unprecedented global attention as it finds widespread practical application in multiple spheres of activity. But what are the human rights, social justice and development implications of AI when used in areas such as health,",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.apc.org/en/news/metaphors-artificial-intelligence-help-us-think-through-threats-human-rights",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-23T15:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "APC",
+        "domain": "apc.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.apc.org/sites/default/files/styles/node_full-size/public/design-02_0.png?itok=o_Gd7eoi",
+          "width": 705,
+          "height": 393,
+          "title": "Metaphors on artificial intelligence help us think through threats to human rights",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-23-minecraft-machine-learning-and-bots-enter-an-ai-wonderland-with-these-stayathome-workshops.md",
+      "title": "Minecraft, machine learning and bots: enter an AI wonderland with these #stayathome workshops",
+      "excerpt": "The post Minecraft, machine learning and bots: enter an AI wonderland with these #stayathome workshops appeared first on The AI Blog.\n",
+      "heat": 78,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://news.microsoft.com/europe/features/minecraft-machine-learning-and-bots-enter-an-ai-wonderland-with-these-stayathome-workshops/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-23T14:59:53-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/93/2020/04/Win18b_Consumer_Creativity_Asus_Vivobook_Flip_T203_0194-1024x682.jpg",
+          "width": 1024,
+          "height": 682,
+          "title": "Minecraft, machine learning and bots: enter an AI wonderland with these #stayathome workshops",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-23-mit-csail-aims-for-energy-efficiency-in-ai-model-training.md",
+      "title": "MIT CSAIL aims for energy efficiency in AI model training",
+      "excerpt": "In a newly published paper, MIT Computer Science and Artificial Intelligence Laboratory (CSAIL) researchers propose a system for training and running AI models in a way that’s more environmentally friendly than previous approaches. They claim it can cut down on the pounds of carbon emissions involved to “low triple digits” in some cases ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/23/mit-csails-ai-trains-models-in-an-energy-efficient-way/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/23/mit-csails-ai-trains-models-in-an-energy-efficient-way/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/23/mit-csails-ai-trains-models-in-an-energy-efficient-way/amp/",
+      "publishedDateTime": "2020-04-23T13:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2013/12/co2-carbon-emissions-novelo-shutterstock-e1587673753658.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "MIT CSAIL aims for energy efficiency in AI model training",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-23-you-dont-need-an-rtx-gpu-to-access-rtx-voice-after-all.md",
+      "title": "You don't need an RTX GPU to access RTX Voice, after all",
+      "excerpt": "This app claims to use AI to reduce or outright cancel microphone background noise, and it was only intended to function for RTX card owners. However, as per the usual, the internet has circumvented those limitations. A user over on the Guru3D forums discovered that RTX Voice works \"just fine\" without a pricey RTX GPU in your system.",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techspot.com/news/84962-you-dont-need-rtx-gpu-access-rtx-voice.html",
+      "ampWebUrl": "https://www.techspot.com/amp/news/84962-you-dont-need-rtx-gpu-access-rtx-voice.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/84962-you-dont-need-rtx-gpu-access-rtx-voice.html",
+      "publishedDateTime": "2020-04-23T13:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2020/04/2020-04-23-image-31.jpg",
+          "width": 1680,
+          "height": 1120,
+          "title": "You don't need an RTX GPU to access RTX Voice, after all",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-23-former-fox-cto-joins-microsoft-azures-media-and-entertainment-business.md",
+      "title": "Former Fox CTO Joins Microsoft Azure's Media and Entertainment Business",
+      "excerpt": "Hanno Basse, the former chief technology officer at 20th Century Fox, has been named CTO for Microsoft Azure Media and Entertainment. In his new role, he’s working with entertainment industry customers, partners, industry groups and vendors to create applications for Microsoft’s cloud, edge and AI technologies. His initial focus is ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.hollywoodreporter.com/behind-screen/fox-cto-joins-microsoft-azures-media-entertainment-business-1291527",
+      "ampWebUrl": "https://www.hollywoodreporter.com/amp/behind-screen/fox-cto-joins-microsoft-azures-media-entertainment-business-1291527",
+      "cdnAmpWebUrl": "https://www-hollywoodreporter-com.cdn.ampproject.org/c/s/www.hollywoodreporter.com/amp/behind-screen/fox-cto-joins-microsoft-azures-media-entertainment-business-1291527",
+      "publishedDateTime": "2020-04-23T13:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hollywood Reporter",
+        "domain": "hollywoodreporter.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn1.thr.com/sites/default/files/imagecache/768x433/2019/06/hanno_basse-getty-h_2019_.jpg",
+          "width": 768,
+          "height": 433,
+          "title": "Former Fox CTO Joins Microsoft Azure's Media and Entertainment Business",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-23-google-claims-its-ai-can-design-computer-chips-in-under-6-hours.md",
+      "title": "Google claims its AI can design computer chips in under 6 hours",
+      "excerpt": "In a preprint paper coauthored by Google AI lead Jeff Dean, scientists at Google Research and the Google chip implementation and infrastructure team describe a learning-based approach to chip design that can learn from past experience and improve over time, becoming better at generating architectures for unseen components. They claim it ...",
+      "heat": 114,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/23/google-claims-its-ai-can-design-computer-chips-in-under-6-hours/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/23/google-claims-its-ai-can-design-computer-chips-in-under-6-hours/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/23/google-claims-its-ai-can-design-computer-chips-in-under-6-hours/amp/",
+      "publishedDateTime": "2020-04-23T10:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/10/google-ai-logo.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Google claims its AI can design computer chips in under 6 hours",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-23-ai-detects-plastics-in-the-oceans-by-analyzing-satellite-images.md",
+      "title": "AI detects plastics in the oceans by analyzing satellite images",
+      "excerpt": "An AI system has spotted plastic pollution in the sea by analyzing images from satellites orbiting the earth. The scientists behind the technique claim that it’s the first time patches of plastics in coastal waters have been detected via satellites. The system studies images collected by the European Space Agency’s Sentinel-2 ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/04/23/ai-detects-plastics-in-the-oceans-by-analyzing-satellite-images/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/04/23/ai-detects-plastics-in-the-oceans-by-analyzing-satellite-images/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/04/23/ai-detects-plastics-in-the-oceans-by-analyzing-satellite-images/amp/",
+      "publishedDateTime": "2020-04-23T10:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/04/Untitled-design-10-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "AI detects plastics in the oceans by analyzing satellite images",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-23-respecting-rights-global-network-initiative-assessment-report.md",
+      "title": "Respecting rights: Global Network Initiative assessment report",
+      "excerpt": "In their first letter to shareholders, our founders highlighted Google’s mission to “develop services that significantly improve the lives of as many people as possible.\" This vision continues to guide all of us at Google. From Search to YouTube, Gmail to Google Maps—we’ve worked to ensure that our products",
+      "heat": 94,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.blog.google/outreach-initiatives/public-policy/respecting-rights-global-network-initiative-assessment-report/",
+      "ampWebUrl": "https://blog.google/outreach-initiatives/public-policy/respecting-rights-global-network-initiative-assessment-report/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/public-policy/respecting-rights-global-network-initiative-assessment-report/amp/",
+      "publishedDateTime": "2020-04-23T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://blog.google/static/blogv2/images/google-1000x1000.png",
+          "width": 1000,
+          "height": 1000,
+          "title": "Respecting rights: Global Network Initiative assessment report",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-23-why-misleading-metaphors-are-fooling-managers-about-the-use-of-ai.md",
       "title": "Why Misleading Metaphors Are Fooling Managers About The Use Of AI",
       "excerpt": "But metaphors are also terrible traps for the unwary, and being misled by metaphors can have serious consequences. Enter artificial intelligence, the brain metaphor, and robots. First there is the use of the word ‘intelligence’ which is metaphorical thinking at work: very intelligent people are great at chess and now computers are too.",
@@ -614,459 +1084,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-23-paige-adds-5m-from-goldman-sachs-to-double-down-on-ai-based-cancer-therapies.md",
-      "title": "Paige adds $5M from Goldman Sachs to double down on AI-based cancer therapies",
-      "excerpt": "“It has highlighted that they are unable to work remotely. The technology we have been building supports the pathology community’s ability to work safely and remotely, and can further accelerate their work through the use of AI technology. Because pathologists’ inability to work remotely is becoming more apparent, it is creating an ...",
-      "heat": 94,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/04/23/paige-adds-5m-from-goldman-sachs-to-double-down-on-ai-based-cancer-therapies/",
-      "ampWebUrl": "https://techcrunch.com/2020/04/23/paige-adds-5m-from-goldman-sachs-to-double-down-on-ai-based-cancer-therapies/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/23/paige-adds-5m-from-goldman-sachs-to-double-down-on-ai-based-cancer-therapies/amp/",
-      "publishedDateTime": "2020-04-23T05:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2018/09/techdoc.jpg?w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": "Paige adds $5M from Goldman Sachs to double down on AI-based cancer therapies",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-23-machine-learning-based-demand-forecasting-for-fast-adaptability-to-changes.md",
-      "title": "Machine Learning-Based Demand Forecasting For Fast Adaptability To Changes",
-      "excerpt": "How to predict such rapidly changing demand? Demand forecasting powered with machine learning (ML) may help to make smarter decisions by providing data-driven insights. The most beautiful thing about advanced forecasting is the adoption of “what-if” scenario planning. New data storage capabilities combined with cutting-edge analytics allow ...",
-      "heat": 77,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://retailtouchpoints.com/topics/data-analytics/ai-machine-learning/machine-learning-based-demand-forecasting-for-fast-adaptability-to-changes",
-      "ampWebUrl": "https://retailtouchpoints.com/topics/data-analytics/ai-machine-learning/machine-learning-based-demand-forecasting-for-fast-adaptability-to-changes/amp",
-      "cdnAmpWebUrl": "https://retailtouchpoints-com.cdn.ampproject.org/c/s/retailtouchpoints.com/topics/data-analytics/ai-machine-learning/machine-learning-based-demand-forecasting-for-fast-adaptability-to-changes/amp",
-      "publishedDateTime": "2020-04-23T05:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Retail TouchPoints",
-        "domain": "retailtouchpoints.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://retailtouchpoints.com/wp-content/uploads/2020/03/retailrenaissance.jpg",
-          "width": 805,
-          "height": 490,
-          "title": "Machine Learning-Based Demand Forecasting For Fast Adaptability To Changes",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-23-time-to-think-ethically-about-ai.md",
-      "title": "Time to think ethically about AI",
-      "excerpt": "Camilla Ravazzolo, the MRS EU policy manager at the MRS, writes about reframing the discussion around artificial intelligence.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.research-live.com/article/opinion/time-to-think-ethically-about-ai/id/5066692",
-      "ampWebUrl": "https://www.research-live.com/amp-page.html?id=5066692&name=time-to-think-ethically-about-ai",
-      "cdnAmpWebUrl": "https://www-research--live-com.cdn.ampproject.org/c/s/www.research-live.com/amp-page.html?id=5066692&name=time-to-think-ethically-about-ai",
-      "publishedDateTime": "2020-04-23T04:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "research",
-        "domain": "research-live.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.research-live.com/img/MRS_EM_RGB.jpg",
-          "width": 1000,
-          "height": 581,
-          "title": "Time to think ethically about AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-23-misconception-3-of-5-managing-models-is-like-managing-traditional-software.md",
-      "title": "Misconception 3 (of 5): Managing Models Is Like Managing Traditional Software",
-      "excerpt": "More recently, I covered the profound implications that AutoML will have on the enterprise and how ModelOps will be essential for managing shadow AI. This article deals with one of the most important topics in this series,",
-      "heat": 81,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/04/23/misconception-3-of-5-managing-models-is-like-managing-traditional-software/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/04/23/misconception-3-of-5-managing-models-is-like-managing-traditional-software/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/04/23/misconception-3-of-5-managing-models-is-like-managing-traditional-software/amp/",
-      "publishedDateTime": "2020-04-23T04:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F04%2Fa-53-3.jpg",
-          "width": 640,
-          "height": 640,
-          "title": "Misconception 3 (of 5): Managing Models Is Like Managing Traditional Software",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-23-bringing-machine-learning-to-finance-dont-overlook-these-three-key-considerations.md",
-      "title": "Bringing Machine Learning To Finance? Don't Overlook These Three Key Considerations",
-      "excerpt": "Harnessing the promise and power of machine learning is an exciting prospect for finance executives. Before long, planning systems will operate much like a navigation system for finance teams — a kind of Waze for business.",
-      "heat": 85,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/04/23/bringing-machine-learning-to-finance-dont-overlook-these-three-key-considerations/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/04/23/bringing-machine-learning-to-finance-dont-overlook-these-three-key-considerations/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/04/23/bringing-machine-learning-to-finance-dont-overlook-these-three-key-considerations/amp/",
-      "publishedDateTime": "2020-04-23T04:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F04%2Fa-54-3.jpg",
-          "width": 640,
-          "height": 640,
-          "title": "Bringing Machine Learning To Finance? Don't Overlook These Three Key Considerations",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2020-04-23-the-italian-ai-firm-helping-governments-fight-coronavirus-and-spot-the-next-pandemic.md",
-      "title": "The Italian AI Firm Helping Governments Fight Coronavirus — And Spot The Next Pandemic",
-      "excerpt": "Expert System, a publicly traded artificial intelligence firm based in Modena, Italy, has built a tool that will help governments prepare for future pandemics.",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/giacomotognini/2020/04/23/the-italian-ai-firm-helping-governments-fight-coronavirus---and-spot-the-next-pandemic/",
-      "ampWebUrl": "https://www.forbes.com/sites/giacomotognini/2020/04/23/the-italian-ai-firm-helping-governments-fight-coronavirus---and-spot-the-next-pandemic/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/giacomotognini/2020/04/23/the-italian-ai-firm-helping-governments-fight-coronavirus---and-spot-the-next-pandemic/amp/",
-      "publishedDateTime": "2020-04-23T04:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ea0bfa5dea8300007de94b2%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4800%26cropY1%3D245%26cropY2%3D2946",
-          "width": 1200,
-          "height": 676,
-          "title": "The Italian AI Firm Helping Governments Fight Coronavirus — And Spot The Next Pandemic",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-23-natural-language-processing-nlp-market-to-garner-overwhelming-hike-in-revenues-by-2027.md",
-      "title": "Natural Language Processing (NLP) Market to Garner Overwhelming Hike In Revenues by 2027",
-      "excerpt": "According to the research held by Acumenresearchandconsulting.com, \"The global Natural Language Processing (NLP) market is expected to reach US$ XX Mn with a CAGR of XX.X% during the forecast period from 2020 to 2027\".",
-      "heat": 70,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-to-garner-overwhelming-hike-in-revenues-by-2027-2020-04-23",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-23T03:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Natural Language Processing (NLP) Market to Garner Overwhelming Hike In Revenues by 2027",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-23-impact-of-covid-19-on-artificial-intelligence-in-construction-market-and-know-how-market-size-to-generate-a-revenue-of-26424-million-by-2026.md",
-      "title": "Impact of COVID-19 on Artificial intelligence in construction market and know How market size to generate a revenue of $2,642.4 million by 2026",
-      "excerpt": "It is no longer unusual before completing a project on a construction site to fly a drone to visualize a project or to select the best setting on the basis of artificial intelligence AIs forecasts Construction is one of the",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.openpr.com/news/2021839/impact-of-covid-19-on-artificial-intelligence-in-construction",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-23T01:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-23-machine-learning-as-a-service-mlaas-market-size-overview-by-rising-demands-and-huge-business-opportunities-2020-2027.md",
-      "title": "Machine Learning as a Service (MLaaS) Market Size Overview by Rising Demands and Huge Business Opportunities 2020-2027",
-      "excerpt": "According to the research held by Acumenresearchandconsulting.com, \"The global Machine Learning as a Service (MLaaS) market is expected to reach US$ XX Mn with a CAGR of XX.X% during the forecast period from 2020 to 2027\".",
-      "heat": 90,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-size-overview-by-rising-demands-and-huge-business-opportunities-2020-2027-2020-04-23",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-23T01:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Machine Learning as a Service (MLaaS) Market Size Overview by Rising Demands and Huge Business Opportunities 2020-2027",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-23-startup-reseau-goes-live-with-its-ai-summit.md",
-      "title": "Startup Réseau Goes LIVE With its AI Summit",
-      "excerpt": "The online summit will cover themes and tracks across core technology and applications, where AI is playing a massive role Built on the founding pillar of #StartupsFirst, 'Startup Réseau' is an ecosystem of Enterprises, Capital, Markets, and Services – for Startups, by bringing in various types of structured interface for enabling unique ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.prnewswire.com/in/news-releases/startup-reseau-goes-live-with-its-ai-summit-847656852.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-23T00:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg",
-          "width": 600,
-          "height": 315,
-          "title": "Startup Réseau Goes LIVE With its AI Summit",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-23-google-introduces-improved-ai-to-address-gender-bias-in-translate.md",
-      "title": "Google introduces improved AI to address gender bias in translate",
-      "excerpt": "In 2018, the search giant addressed that problem by providing a translation in both genders for sentences in a gender-neutral language like Turkish. Yesterday, Google’s AI team released a new model that’s more scalable — meaning it can be applied to translate phrases in other languages. This new rollout brings support for gender-specific ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/04/23/google-introduces-improved-ai-to-address-gender-bias-in-translate/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/04/23/google-introduces-improved-ai-to-address-gender-bias-in-translate/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/04/23/google-introduces-improved-ai-to-address-gender-bias-in-translate/amp/",
-      "publishedDateTime": "2020-04-23T00:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/04/before-after.png",
-          "width": 640,
-          "height": 310,
-          "title": "Google introduces improved AI to address gender bias in translate",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

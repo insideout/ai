@@ -2,6 +2,51 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-01-21-ibm-unveils-policy-lab-advocates-precision-regulation-of-ai.md",
+      "title": "IBM unveils Policy Lab, advocates ‘precision regulation’ of AI",
+      "excerpt": "IBM advocates for the appointment of AI ethics officials to guarantee compliance with providers’ and owners’ expectations. They’d be accountable for internal guidance and compliance mechanisms like AI ethics boards, which would oversee risk assessments and harm mitigation strategies, and for improving public acceptance and trust of ...",
+      "heat": 109,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/01/21/ibm-unveils-policy-lab-advocates-precision-regulation-of-ai/",
+      "ampWebUrl": "https://venturebeat.com/2020/01/21/ibm-unveils-policy-lab-advocates-precision-regulation-of-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/21/ibm-unveils-policy-lab-advocates-precision-regulation-of-ai/amp/",
+      "publishedDateTime": "2020-01-21T02:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/11/ibm-keyboard-logo.png?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "IBM unveils Policy Lab, advocates ‘precision regulation’ of AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2020-01-20-the-world-economic-forum-jumps-on-the-artificial-intelligence-bandwagon.md",
       "title": "The World Economic Forum Jumps On the Artificial Intelligence Bandwagon",
       "excerpt": "It’s great to see the WEF taking a strong look at AI and then presenting what looks like a very good, introductory, toolkit for boards of directors, but the need for strong ethical positions means that more is needed.",

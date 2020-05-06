@@ -2,6 +2,495 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2020-04-22-ibms-the-weather-channel-app-using-machine-learning-to-forecast-allergy-hotspots.md",
+      "title": "IBM's The Weather Channel app using machine learning to forecast allergy hotspots",
+      "excerpt": "The Weather Channel's new tool shows a 15-day allergy forecast based on ML. IBM's The Weather Channel is now using machine learning (ML) to forecast allergy symptoms. IBM data scientists developed a new tool on The Weather Channel app and weather.com, \"Allergy Insights with Watson\" to predict your risk of allergy symptoms. Weather can also ...",
+      "heat": 86,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/article/ibms-the-weather-channel-app-using-machine-learning-to-forecast-allergy-hotspots/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ibms-the-weather-channel-app-using-machine-learning-to-forecast-allergy-hotspots/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ibms-the-weather-channel-app-using-machine-learning-to-forecast-allergy-hotspots/",
+      "publishedDateTime": "2020-04-22T13:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/04/22/d5ea3a71-463d-42a5-b5fe-e4c400a17436/resize/1200x/50457b05eac2a537f63c612f59980238/allergy-season-ahead.jpg",
+          "width": 1200,
+          "height": 801,
+          "title": "IBM's The Weather Channel app using machine learning to forecast allergy hotspots",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-22-stereoset-measures-racism-sexism-and-other-forms-of-bias-in-ai-language-models.md",
+      "title": "StereoSet measures racism, sexism, and other forms of bias in AI language models",
+      "excerpt": "among ways to turn AI ethics principles into practice. The news follows a study last month that found major automated speech detection systems were more likely to recognize white voices than black voices. Last year, researchers found OpenAI’s GPT-2 generates different responses when prompted with race-related language.",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/22/stereoset-measures-racism-sexism-and-other-forms-of-bias-in-ai-language-models/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/22/stereoset-measures-racism-sexism-and-other-forms-of-bias-in-ai-language-models/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/22/stereoset-measures-racism-sexism-and-other-forms-of-bias-in-ai-language-models/amp/",
+      "publishedDateTime": "2020-04-22T13:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/09/natural-language-processing-e1572968977211.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "StereoSet measures racism, sexism, and other forms of bias in AI language models",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-22-amazon-launches-aws-appflow-a-new-service-for-managing-saas-data-flows.md",
+      "title": "Amazon launches AWS AppFlow, a new service for managing SaaS data flows",
+      "excerpt": "Also: Top cloud providers in 2020: AWS, Microsoft Azure, and Google Cloud, hybrid, SaaS players Separately, AWS announced that EC2 Inf1 instances are now available to run on SageMaker, its fully-managed machine learning service. First announced at re:Invent 2019, Inf1 are machine learning inference instances powered by Inferentia, the company ...",
+      "heat": 101,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/amazon-launches-aws-appflow-a-new-service-for-managing-saas-data-flows/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/amazon-launches-aws-appflow-a-new-service-for-managing-saas-data-flows/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amazon-launches-aws-appflow-a-new-service-for-managing-saas-data-flows/",
+      "publishedDateTime": "2020-04-22T13:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/04/09/ab9e0888-b6d3-49aa-b2a8-f1a05c32a4e8/thumbnail/1200x675/9b782c2f5cb1d3486646cc8285213ee2/zoom-logo.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Amazon launches AWS AppFlow, a new service for managing SaaS data flows",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2020-04-22-researchers-say-deep-learning-will-power-5g-and-6g-cognitive-radios.md",
+      "title": "Researchers say deep learning will power 5G and 6G ‘cognitive radios’",
+      "excerpt": "That’s where deep learning comes in. The researchers hope to use machine learning techniques embedded within the wireless devices’ hardware to improve frequency utilization, such that the devices can develop AI-optimized spectrum usage strategies by themselves. Early studies suggest that deep learning models average 20% higher ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/22/researchers-say-deep-learning-will-power-5g-and-6g-cognitive-radios/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/22/researchers-say-deep-learning-will-power-5g-and-6g-cognitive-radios/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/22/researchers-say-deep-learning-will-power-5g-and-6g-cognitive-radios/amp/",
+      "publishedDateTime": "2020-04-22T12:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/01/Internet-of-things-e1587584864398.jpg?fit=2309%2C1154&strip=all",
+          "width": 2309,
+          "height": 1154,
+          "title": "Researchers say deep learning will power 5G and 6G ‘cognitive radios’",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-22-cruise-commits-to-delivering-the-holy-grail-self-driving-evs-powered-entirely-by-renewable-energy.md",
+      "title": "Cruise Commits To Delivering The Holy Grail: Self-Driving EVs Powered Entirely By Renewable Energy",
+      "excerpt": "Now power these self-driving EVs with locally produced renewable energy, and you’ve created a blameless transportation system. That’s essentially what self-driving start-up Cruise has done. But achieving carbon neutrality is just the first step—the next is becoming carbon negative.",
+      "heat": 75,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/lianeyvkoff/2020/04/22/cruise-commits-to-delivering-the-holy-grail-self-driving-evs-powered-entirely-by-renewable-energy/",
+      "ampWebUrl": "https://www.forbes.com/sites/lianeyvkoff/2020/04/22/cruise-commits-to-delivering-the-holy-grail-self-driving-evs-powered-entirely-by-renewable-energy/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lianeyvkoff/2020/04/22/cruise-commits-to-delivering-the-holy-grail-self-driving-evs-powered-entirely-by-renewable-energy/amp/",
+      "publishedDateTime": "2020-04-22T12:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ea09585dea8300007de92b9%2F0x0.jpg",
+          "width": 1200,
+          "height": 959,
+          "title": "Cruise Commits To Delivering The Holy Grail: Self-Driving EVs Powered Entirely By Renewable Energy",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-22-google-clouds-fully-managed-anthos-is-now-generally-available-for-aws.md",
+      "title": "Google Cloud’s fully managed Anthos is now generally available for AWS",
+      "excerpt": "But support for Azure will come later this year and the company already has a number of preview customers for it. In addition, Anthos will also come to bare metal servers in the future. Looking even further ahead, Manor also noted that better support for machine learning workloads is on the way. Many businesses, after all, want to be able to ...",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/04/22/google-clouds-fully-managed-anthos-is-now-generally-available-for-aws/",
+      "ampWebUrl": "https://techcrunch.com/2020/04/22/google-clouds-fully-managed-anthos-is-now-generally-available-for-aws/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/22/google-clouds-fully-managed-anthos-is-now-generally-available-for-aws/amp/",
+      "publishedDateTime": "2020-04-22T12:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/04/GOOGLENEXT_2019_0409_091100-0355_ALIVECOVE.max-2200x2200-1.png?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": "Google Cloud’s fully managed Anthos is now generally available for AWS",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-22-announcing-availability-of-inf1-instances-in-amazon-sagemaker-for-high-performance-and-cost-effective-machine-learning-inference.md",
+      "title": "Announcing availability of Inf1 instances in Amazon SageMaker for high performance and cost-effective machine learning inference",
+      "excerpt": "Amazon SageMaker is a fully managed service that provides every developer and data scientist with the ability to build, train, and deploy machine learning (ML) models quickly. Tens of thousands of customers, including Intuit, Voodoo, ADP, Cerner, Dow Jones, and Thompson Reuters, use Amazon SageMaker",
+      "heat": 75,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/announcing-availability-of-inf1-instances-in-amazon-sagemaker-for-high-performance-and-cost-effective-machine-learning-inference/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-22T11:49:41-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0.png",
+          "width": 1260,
+          "height": 630,
+          "title": "Announcing availability of Inf1 instances in Amazon SageMaker for high performance and cost-effective machine learning inference",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-22-google-debuts-ai-in-google-translate-that-addresses-gender-bias.md",
+      "title": "Google debuts AI in Google Translate that addresses gender bias",
+      "excerpt": "“We’ve made significant progress since our initial launch by increasing the quality of gender-specific translations and also expanding it to 4 more language-pairs,” wrote Google Research senior software engineer Melvin Johnson. “We are committed to further addressing gender bias in Google Translate and plan to extend this work to ...",
+      "heat": 101,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/22/google-debuts-ai-in-google-translate-that-addresses-gender-bias/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/22/google-debuts-ai-in-google-translate-that-addresses-gender-bias/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/22/google-debuts-ai-in-google-translate-that-addresses-gender-bias/amp/",
+      "publishedDateTime": "2020-04-22T10:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/google-reuters-e1586941024905.jpeg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Google debuts AI in Google Translate that addresses gender bias",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2020-04-22-bank-chatbots-work-coronavirus-into-the-conversation.md",
+      "title": "Bank chatbots work coronavirus into the conversation",
+      "excerpt": "In late January the team at Kasisto, the company behind the conversational artificial-intelligence platform Kai ... a top-10 bank in the U.S., as well as one international client. IBM’s Watson Assistant can also be trained to answer basic questions ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.americanbanker.com/news/bank-chatbots-work-coronavirus-into-the-conversation",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-22T10:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "American Banker",
+        "domain": "americanbanker.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://arizent.brightspotcdn.com/dims4/default/2d869c5/2147483647/strip/true/crop/1500x788+0+28/resize/1200x630!/quality/90/?url=https%3A%2F%2Farizent.brightspotcdn.com%2F20%2Fc5%2Ff809be494763b98fe2c7389bddec%2Fadobestock-226771742.jpeg",
+          "width": 1200,
+          "height": 630,
+          "title": "Bank chatbots work coronavirus into the conversation",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-22-facebooks-climate-conversation-map-reveals-reactions-to-environmental-news.md",
+      "title": "Facebook’s Climate Conversation Map reveals reactions to environmental news",
+      "excerpt": "It’s available by request to research partners and nonprofits following a preview last year ... “We look forward to seeing how different organizations use these maps to inform the climate debate and deliver new resources.” Facebook’s work in AI and mapping comes after the social network shared to the OpenStreetMap community the Map ...",
+      "heat": 72,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/22/facebooks-climate-conversation-map-reveals-reactions-to-environmental-news/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/22/facebooks-climate-conversation-map-reveals-reactions-to-environmental-news/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/22/facebooks-climate-conversation-map-reveals-reactions-to-environmental-news/amp/",
+      "publishedDateTime": "2020-04-22T10:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/04/Facebook-sign-F8-e1564693284989.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Facebook’s Climate Conversation Map reveals reactions to environmental news",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-22-for-earth-day-a-tech-team-develops-a-way-to-heal-coral-reefs-using-ai.md",
+      "title": "For Earth Day, a tech team develops a way to heal coral reefs using AI",
+      "excerpt": "The joint initiative will use the power of artificial intelligence (AI) \"to monitor, recreate, and restore coral reefs,\" according to the release. SEE: Earth Day 2020 (free PDF) (TechRepublic) To gauge the reef health, Project: CORail calculated the number and type of fish in a reef. While the monitoring of coral reefs has typically been left ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/article/for-earth-day-a-tech-team-develops-a-way-to-heal-coral-reefs-using-ai/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/for-earth-day-a-tech-team-develops-a-way-to-heal-coral-reefs-using-ai/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/for-earth-day-a-tech-team-develops-a-way-to-heal-coral-reefs-using-ai/",
+      "publishedDateTime": "2020-04-22T09:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/02/18/d1467839-4251-47cb-9fa9-aed070561526/thumbnail/1200x675/f3685147226f27819a3454fc3d626812/rainforest-connection.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "For Earth Day, a tech team develops a way to heal coral reefs using AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-22-how-microsoft-is-using-ai-to-make-the-planet-greener-and-what-other-companies-can-learn-from-its-environmental-game-plan.md",
       "title": "How Microsoft is using AI to make the planet greener — and what other companies can learn from its environmental game plan",
       "excerpt": "The company said it gave out 230 grants since launching the initiative. Microsoft also put large government data sets related to the environment on its cloud, Azure, to further help AI developers. And this isn't the first time Microsoft used AI to address climate change. The company gave farmers in India, a country heavily affected by rising ...",
@@ -693,6 +1182,34 @@
       ]
     },
     {
+      "path": "_news/2020-04-22-using-artificial-intelligence-to-save-coral-reefs.md",
+      "title": "Using artificial intelligence to save coral reefs",
+      "excerpt": "\"Artificial intelligence provides unprecedented opportunities to solve some of society's most vexing problems,\" said Jason Mitchell, a managing director in Accenture's Communications, Media ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://phys.org/news/2020-04-artificial-intelligence-coral-reefs.html",
+      "ampWebUrl": "https://phys.org/news/2020-04-artificial-intelligence-coral-reefs.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-04-artificial-intelligence-coral-reefs.amp",
+      "publishedDateTime": "2020-04-22T05:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-22-consumer-lending-companies-riding-on-machine-learning-platforms-to-manage-risks.md",
       "title": "Consumer Lending Companies Riding On Machine Learning Platforms To Manage Risks",
       "excerpt": "The increased incidents of payment defaults, along with an alarming credit risk rate have prompted many of these firms to build risk mitigation models using machine learning (ML), so as to reduce the risk of default in a cost-effective manner, while taking smart, well-informed lending decisions in these complex times. The traditional analytical ...",
@@ -779,528 +1296,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-22-ibm-fenergo-sign-oem-agreement-to-help-clients-address-financial-risks.md",
-      "title": "IBM, Fenergo Sign OEM Agreement to Help Clients Address Financial Risks",
-      "excerpt": "IBM (NYSE: IBM ... and know-your-client platforms equipped with the Watson technology. IBM will offer customers a complete AI application suite that is focused on risk and compliance that ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.govconwire.com/2020/04/ibm-fenergo-sign-oem-agreement-to-help-clients-address-financial-risks/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-22T03:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GovCon Wire",
-        "domain": "govconwire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://govconwire-media.s3.amazonaws.com/2020/04/22/ac/82/7c/04/7a/1b/6e/c4/servletFileDownload-304.png",
-          "width": 272,
-          "height": 270,
-          "title": "IBM, Fenergo Sign OEM Agreement to Help Clients Address Financial Risks",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-22-ai-in-medical-imaging-market-a-game-changer-in-healthcare-sector.md",
-      "title": "AI in Medical Imaging Market - A Game Changer in Healthcare Sector",
-      "excerpt": "AI in Medical Imaging Market: Introduction According to a new market report pertaining to the global AI in medical imaging",
-      "heat": 77,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/ai-in-medical-imaging-market---a-game-changer-in-healthcare-sector-2020-04-22",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-22T02:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "AI in Medical Imaging Market - A Game Changer in Healthcare Sector",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-22-how-will-service-robotics-market-deal-with-the-covid-19-crisis.md",
-      "title": "How Will Service Robotics Market Deal with the COVID-19 Crisis?",
-      "excerpt": "The global service robotics market is expected to rise with an impressive CAGR and generate the highest revenue by",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/how-will-service-robotics-market-deal-with-the-covid-19-crisis-2020-04-22",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-22T02:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "How Will Service Robotics Market Deal with the COVID-19 Crisis?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-22-intel-accenture-use-ai-to-save-the-coral-reef.md",
-      "title": "Intel & Accenture Use AI To Save The Coral Reef",
-      "excerpt": "Accenture, Intel and the Sulubaaï Environmental Foundation announced Project: CORaiL, an artificial intelligence (AI) - powered solution to monitor, characterize and analyze coral reef resilience.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/04/22/intel--accenture-use-ai-to-save-the-coral-reef/",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/04/22/intel--accenture-use-ai-to-save-the-coral-reef/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/04/22/intel--accenture-use-ai-to-save-the-coral-reef/amp/",
-      "publishedDateTime": "2020-04-22T01:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e9ffb06893ac200075fd4d6%2F0x0.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": "Intel & Accenture Use AI To Save The Coral Reef",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-22-microsoft-develops-ai-powered-device-that-can-automatically-check-for-fever-and-face-masks.md",
-      "title": "Microsoft Develops AI-Powered Device That Can Automatically Check For Fever And Face Masks",
-      "excerpt": "Microsoft's AI masks and infrared temperature 2-in-1 detection device checks people entering ... [+] Cardinal Tien Hospital in Taiwan to make sure they are wearing face masks and whether they have a fever.",
-      "heat": 104,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/ralphjennings/2020/04/22/microsoft-develops-ai-powered-device-that-can-automatically-check-for-fever-and-face-masks/",
-      "ampWebUrl": "https://www.forbes.com/sites/ralphjennings/2020/04/22/microsoft-develops-ai-powered-device-that-can-automatically-check-for-fever-and-face-masks/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ralphjennings/2020/04/22/microsoft-develops-ai-powered-device-that-can-automatically-check-for-fever-and-face-masks/amp/",
-      "publishedDateTime": "2020-04-22T00:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e9e84bcdea8300007de7c4c%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "Microsoft Develops AI-Powered Device That Can Automatically Check For Fever And Face Masks",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-22-commscope-brings-artificial-intelligence-and-machine-learning-to-ruckus-analytics.md",
-      "title": "Commscope brings artificial intelligence and machine learning to Ruckus Analytics",
-      "excerpt": "Built on a patented machine learning (ML) and artificial intelligence (AI) foundation, the new service accelerates troubleshooting, provides comprehensive network visibility, automatically identifies service-affecting issues, and—unique to the networking industry classifies them according to severity, enabling managed service provider and ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zawya.com/mena/en/press-releases/story/Commscope_brings_artificial_intelligence_and_machine_learning_to_Ruckus_Analytics-ZAWYA20200422073526/",
-      "ampWebUrl": "https://www.zawya.com/mena/en/story/amp/ZAWYA20200422073526/",
-      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20200422073526/",
-      "publishedDateTime": "2020-04-22T00:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.zawya.com/resources/img/zawya-logo-en-social.png",
-          "width": 1200,
-          "height": 878,
-          "title": "Commscope brings artificial intelligence and machine learning to Ruckus Analytics",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-22-how-artificial-intelligence-iot-and-big-data-can-save-the-bees.md",
-      "title": "How Artificial Intelligence, IoT And Big Data Can Save The Bees",
-      "excerpt": "Artificial intelligence (AI), internet of things sensors, big data analytics, and other technologies are being used to monitor and develop solutions to mitigate the global issue of declining honey bee and pollinator populations.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2020/04/22/how-artificial-intelligence-iot-and-big-data-can-save-the-bees/",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2020/04/22/how-artificial-intelligence-iot-and-big-data-can-save-the-bees/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2020/04/22/how-artificial-intelligence-iot-and-big-data-can-save-the-bees/amp/",
-      "publishedDateTime": "2020-04-21T21:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e9fc586dea8300007de8a08%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "How Artificial Intelligence, IoT And Big Data Can Save The Bees",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-04-22-intels-project-corail-monitors-coral-reef-health-with-ai.md",
-      "title": "Intel’s Project Corail monitors coral reef health with AI",
-      "excerpt": "To commemorate Earth Day, Intel — in partnership with Accenture and Sulubaaï Environmental Foundation, a Philippine-based nonprofit dedicated to protecting Palawan’s natural resources — detailed Project Corail, an AI-powered platform that monitors and analyzes the resiliency of coral reefs. Since its launch in May 2019, it’s collected ...",
-      "heat": 109,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/21/intels-project-corail-monitors-coral-reef-health-with-ai/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/21/intels-project-corail-monitors-coral-reef-health-with-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/21/intels-project-corail-monitors-coral-reef-health-with-ai/amp/",
-      "publishedDateTime": "2020-04-21T21:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/CORaiL_5small-e1587450236227.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Intel’s Project Corail monitors coral reef health with AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-22-dissident-artist-ai-weiwei-says-virus-has-only-strengthened-chinas-police-state.md",
-      "title": "Dissident artist Ai Weiwei says virus has only strengthened China's 'police state'",
-      "excerpt": "The artist has been critical of China's handling of the outbreak and believes the \"arrogance and success\" of the government's authoritarian tactics will lead it into another crisis.",
-      "heat": 81,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnn.com/style/article/ai-weiwei-coronavirus-pandemic/index.html",
-      "ampWebUrl": "https://www.cnn.com/style/amp/ai-weiwei-coronavirus-pandemic/index.html",
-      "cdnAmpWebUrl": "https://www-cnn-com.cdn.ampproject.org/c/s/www.cnn.com/style/amp/ai-weiwei-coronavirus-pandemic/index.html",
-      "publishedDateTime": "2020-04-21T19:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "http://cdn.cnn.com/cnnnext/dam/assets/200421223427-ai-weiwei-file-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": "Dissident artist Ai Weiwei says virus has only strengthened China's 'police state'",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-21-alibaba-microsoft-cloud-computing-layout-5g-ai-vs-wimi-hologram-cloud-ai-vision-algorithm.md",
-      "title": "Alibaba, Microsoft Cloud Computing Layout 5g + AI V.S. WIMI Hologram Cloud AI Vision Algorithm",
-      "excerpt": "Recently, aridamo hospital announced the establishment of XG laboratory. The laboratory is committed to promoting",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/alibaba-microsoft-cloud-computing-layout-5g-ai-vs-wimi-hologram-cloud-ai-vision-algorithm-2020-04-21",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-21T13:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Alibaba, Microsoft Cloud Computing Layout 5g + AI V.S. WIMI Hologram Cloud AI Vision Algorithm",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-21-mit-work-raises-a-question-can-robots-be-teammates-with-humans-rather-than-slaves.md",
-      "title": "MIT work raises a question: Can robots be teammates with humans rather than slaves?",
-      "excerpt": "A \"three-finger gripper\" is attached to it, made by startup Robotiq, based in Lévis ... and said that specifying the correct objective is \"both challenging and critical to design of AI systems.\" Also: Watching YouTube videos may someday let robots copy humans The challenge is that a machine system in some sense has to infer what a human's ...",
-      "heat": 100,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/mit-work-raises-a-question-can-robots-be-teammates-with-humans-rather-than-slaves/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/mit-work-raises-a-question-can-robots-be-teammates-with-humans-rather-than-slaves/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/mit-work-raises-a-question-can-robots-be-teammates-with-humans-rather-than-slaves/",
-      "publishedDateTime": "2020-04-21T12:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/2020/04/21/419e6f8d-c2b4-42cf-85aa-2e6a9ce085f2/mit-robot-arm-collaborates-via-dialogue.png",
-          "width": 1412,
-          "height": 1056,
-          "title": "MIT work raises a question: Can robots be teammates with humans rather than slaves?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-21-facebooks-ai-detects-fake-accounts-with-fewer-than-20-friend-requests.md",
-      "title": "Facebook’s AI detects fake accounts with fewer than 20 friend requests",
-      "excerpt": "We plan to accomplish this by mixing feature-based and behavior-based models,” wrote Facebook. Facebook is broadly moving toward an AI training technique called self-supervised learning, in which unlabeled data is used in conjunction with small amounts of labeled data to produce an improvement in learning accuracy. Facebook’s deep entity ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/21/facebooks-ai-detects-fake-accounts-with-fewer-than-20-friend-requests/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/21/facebooks-ai-detects-fake-accounts-with-fewer-than-20-friend-requests/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/21/facebooks-ai-detects-fake-accounts-with-fewer-than-20-friend-requests/amp/",
-      "publishedDateTime": "2020-04-21T11:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/05/facebook-ai.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Facebook’s AI detects fake accounts with fewer than 20 friend requests",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -23,6 +23,6 @@ images:
     height: 298
     title: "Watch: How Voice Automation Can Supercharge Workflow"
 
-secured: "ytj99prmoOOD9VFKEq/0j77bGOhK7RxNTtk2fY/7Tgkde5soRqanjKyjI60iFSmIQlyL2/LVgTmyp881dB40QbpCJlyJbROp2RECc/tXyJBjmQ+XvSryVCfvvE4N7c7JOg7x7D2cQFZKwpHb0tjLJ91Fx54sBY//4ne1nSH0v0JIRKsfRkaS4gYItcIHhRUpkltj7q2Ua+afMtLsLdjElWviuyrobJudC5E34t/i9eAzY7JOTemXbRrHJ/DM7PRbmwOCgRfGCIhl+mhfYL9J66oQ+BRGS9gz/fN/7SnXb0laj7lfxm2Czg+y69ypEsIq;7HSK6oA29i6yiB4LGTkTTg=="
+secured: "+N90/I5fmQZQgxCTNf18qXsTEotnRX6gHG3UXuB9S29Xm8txxta1fiZjcdPNMXMYYj/kcsuaV4T560YFaOM+vZYIrVxWSISurT9CKDil3Tm5YbhhJdUnaf0v+wGgmuvnT2C9lIsWQK1iJb/ziYEobWJG6tX1v4jApx/OWguUNJu1dr5kaoTQF195hV1lnviekPUyvjzD2NBYJelWn6YkJHOLhIZIlmAxm1aT+XQBleJ05N2+GoxXHzt7B1iGgOwXLfFL0q0dHIibbXY8D9O0GGEVyo1DwS5iOuOKd7s5bzddxQWppKpK06QgCXHyFBdhf2z5Isq9ep2BYLWIig3VAaWLDdmLqj3w7OPGF5+GDxnyntLnKhhsXpFz84mWa/F/mj/+vbxlmAi/WL/5cc4YJkHGFMtOHRtGS/bE3CmMUKO6NkqmyrH3pGY3hNzhwuou6TUawdLtcL3uB+md+z+jMtJYbEzqIeV/c/Tyh8M6XVY=;SFYRSO1aAFHWxdePtxQvtQ=="
 ---
 

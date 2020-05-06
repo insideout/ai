@@ -2,6 +2,51 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-04-19-nvidias-mellanox-acquistion-finally-gets-okd-by-chinese-regulators.md",
+      "title": "NVIDIA's Mellanox Acquistion Finally Gets OK'd by Chinese Regulators",
+      "excerpt": "Given the potential for its technology over the next decade to power data centers, edge network computing, AI, and more, the GPU design leader remains one of my core portfolio holdings.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fool.com/investing/2020/04/19/nvidia-mellanox-finally-okd-by-chinese-regulators.aspx?source=iedfolrf0000001",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/04/19/nvidia-mellanox-finally-okd-by-chinese-regulators.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/04/19/nvidia-mellanox-finally-okd-by-chinese-regulators.aspx",
+      "publishedDateTime": "2020-04-19T13:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F568360%2Fcloud-computing-getty-6217.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 800,
+          "title": "NVIDIA's Mellanox Acquistion Finally Gets OK'd by Chinese Regulators",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-18-nvidias-rtx-voice-app-uses-ai-to-improve-noise-canceling-on-rtx-powered-systems.md",
       "title": "Nvidia's 'RTX Voice' app uses AI to improve noise canceling on RTX-powered systems",
       "excerpt": "Of course, the average work-from-home employee probably doesn't have an RTX GPU, which is a strict requirement here. RTX Voice relies on the AI capabilities built into the cards to function, meaning gamers are much more likely to benefit from it. Even so, Nvidia is currently supporting a nice mix of apps with RTX Voice, including gaming-centric ...",
@@ -1268,51 +1313,6 @@
           "width": 1200,
           "height": 630,
           "title": "Nvidia a clear winner in otherwise brutal quarter for chip makers",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-31-perceive-claims-20-100x-ai-efficiency-at-the-edge.md",
-      "title": "Perceive Claims 20-100X AI Efficiency At The Edge",
-      "excerpt": "Analyst Karl Freund examines Perceive Corporation's recently unveiled Ergo chip and what it could mean for AI processing at the edge.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2020/03/31/perceive-claims-20-100x-ai-efficiency-at-the-edge/",
-      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2020/03/31/perceive-claims-20-100x-ai-efficiency-at-the-edge/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2020/03/31/perceive-claims-20-100x-ai-efficiency-at-the-edge/amp/",
-      "publishedDateTime": "2020-03-31T12:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e839a3c458d700006815131%2F0x0.jpg",
-          "width": 1200,
-          "height": 680,
-          "title": "Perceive Claims 20-100X AI Efficiency At The Edge",
           "attribution": null
         }
       ],

@@ -2,6 +2,96 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-04-28-alphabet-q1-2020-earnings-preview-what-to-watch.md",
+      "title": "Alphabet Q1 2020 Earnings Preview: What to Watch",
+      "excerpt": "Search giant Alphabet (NASDAQ:GOOG) (NASDAQ:GOOGL) will report its earnings after the markets close on Tuesday, April 28. It will be the first time the technology giant will address shareholders since the COVID-19 pandemic dominated the world's focus.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fool.com/investing/2020/04/28/alphabet-q1-2020-earnings-preview-what-to-watch.aspx",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/04/28/alphabet-q1-2020-earnings-preview-what-to-watch.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/04/28/alphabet-q1-2020-earnings-preview-what-to-watch.aspx",
+      "publishedDateTime": "2020-04-28T09:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F569951%2Fgoogle_meet_1max-2000x2000.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 750,
+          "title": "Alphabet Q1 2020 Earnings Preview: What to Watch",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-28-tesla-is-working-on-pay-as-you-go-subscription-to-its-self-driving-package.md",
+      "title": "Tesla is working on pay-as-you-go subscription to its self-driving package",
+      "excerpt": "Tesla is working on a pay-as-you-go subscription to its “Full Self-Driving Capability” package in order to make its features more accessible. There are several things about how Tesla is approaching self-driving technology that makes it different from the rest of the auto industry and tech companies developing the technology.",
+      "heat": 97,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://electrek.co/2020/04/28/tesla-pay-as-go-subscription-self-driving-package/",
+      "ampWebUrl": "https://electrek.co/2020/04/28/tesla-pay-as-go-subscription-self-driving-package/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/04/28/tesla-pay-as-go-subscription-self-driving-package/amp/",
+      "publishedDateTime": "2020-04-28T08:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://electrek.co/wp-content/uploads/sites/3/2017/03/model-x-key-fob-with-tesla-app-on-iphone1-e1489007287660.jpg?quality=82&strip=all&w=1000",
+          "width": 1000,
+          "height": 494,
+          "title": "Tesla is working on pay-as-you-go subscription to its self-driving package",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-28-the-challenges-of-developing-autonomous-vehicles-during-a-pandemic.md",
       "title": "The challenges of developing autonomous vehicles during a pandemic",
       "excerpt": "Waymo, Uber, Cruise, and others have paused autonomous vehicle testing due to the pandemic. Here's how they're continuing development during lockdown.",
@@ -954,6 +1044,43 @@
       ]
     },
     {
+      "path": "_news/2020-04-19-downsides-of-self-driving-cars-could-swamp-benefits-if-dc-region-fails-to-act-study-says.md",
+      "title": "Downsides of self-driving cars could swamp benefits if D.C. region fails to act, study says",
+      "excerpt": "Widespread use of self-driving cars in coming decades will increase congestion and pollution in the Washington region if governments don’t take steps to avoid such consequences, according a ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.washingtonpost.com/local/trafficandcommuting/downsides-of-self-driving-cars-could-swamp-benefits-if-dc-region-fails-to-act-new-study-says/2020/04/18/92fb2d4e-7ffd-11ea-9040-68981f488eed_story.html",
+      "ampWebUrl": "https://www.washingtonpost.com/local/trafficandcommuting/downsides-of-self-driving-cars-could-swamp-benefits-if-dc-region-fails-to-act-new-study-says/2020/04/18/92fb2d4e-7ffd-11ea-9040-68981f488eed_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/trafficandcommuting/downsides-of-self-driving-cars-could-swamp-benefits-if-dc-region-fails-to-act-new-study-says/2020/04/18/92fb2d4e-7ffd-11ea-9040-68981f488eed_story.html?outputType=amp",
+      "publishedDateTime": "2020-04-18T18:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/20BGBotT5tgHKsJg-42Ib7DMsHg=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/E3ZS6IGWGUI6RA4EXTCUSL7PJE.jpg",
+          "width": 1440,
+          "height": 1080,
+          "title": "Downsides of self-driving cars could swamp benefits if D.C. region fails to act, study says",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-19-uber-says-engineer-is-on-his-own-for-us180-million-legal-award-to-google.md",
       "title": "Uber says engineer is on his own for US$180 million legal award to Google",
       "excerpt": "engineering documents and software related to self-driving cars. Sign up now and get a 10% discount (original price US$400) off the China AI Report 2020 by SCMP Research. Learn about the AI ambitions of Alibaba, Baidu & JD.com through our in-depth case studies, and explore new applications of AI across industries. The report also includes ...",
@@ -1161,133 +1288,6 @@
         "AI in Autos",
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-17-heres-how-you-get-everyone-to-buy-into-a-great-company-culture.md",
-      "title": "Here's How You Get Everyone To Buy Into A Great Company Culture",
-      "excerpt": "As a company begins to scale past 150 people, it becomes harder to create unity and keep people on the same page. Creating a healthy company culture helps attract and retain highly motivated and engaged employees.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2020/04/17/heres-how-you-get-everyone-to-buy-into-a-great-company-culture/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2020/04/17/heres-how-you-get-everyone-to-buy-into-a-great-company-culture/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbeshumanresourcescouncil/2020/04/17/heres-how-you-get-everyone-to-buy-into-a-great-company-culture/amp/",
-      "publishedDateTime": "2020-04-17T05:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbeshumanresourcescouncil%2Ffiles%2F2020%2F04%2Fa-5-2.jpg",
-          "width": 640,
-          "height": 640,
-          "title": "Here's How You Get Everyone To Buy Into A Great Company Culture",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-17-chinas-ponyai-rolls-out-us-self-driving-delivery-service-for-groceries-amid-coronavirus-lockdown.md",
-      "title": "China’s Pony.ai rolls out US self-driving delivery service for groceries amid coronavirus lockdown",
-      "excerpt": "Chinese autonomous vehicle start-up Pony.ai has launched a self-driving delivery service in Irvine, California, to help fulfil increasing online grocery orders during the coronavirus lockdown. The service, launched in partnership with Los Angeles-based e-commerce platform Yamibuy, enables residents in the area to receive their purchases of ...",
-      "heat": 75,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.scmp.com/tech/start-ups/article/3080371/chinas-ponyai-rolls-out-us-self-driving-delivery-service-groceries",
-      "ampWebUrl": "https://amp.scmp.com/tech/start-ups/article/3080371/chinas-ponyai-rolls-out-us-self-driving-delivery-service-groceries",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/start-ups/article/3080371/chinas-ponyai-rolls-out-us-self-driving-delivery-service-groceries",
-      "publishedDateTime": "2020-04-16T22:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/04/17/fb5b3e40-805e-11ea-8736-98edddd9b5ca_image_hires_131136.jpg?itok=PuWGeKE8&v=1587100306",
-          "width": 1200,
-          "height": 630,
-          "title": "China’s Pony.ai rolls out US self-driving delivery service for groceries amid coronavirus lockdown",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-17-sebastian-thrun-king-of-the-geeks.md",
-      "title": "Sebastian Thrun – king of the geeks",
-      "excerpt": "Sebastian Thrun – king of the geeks In the clandestine Google X laboratory, Thrun – the guru of artificial intelligence and the man behind Google’s driverless car – is busy inventing the ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.thetimes.co.uk/article/sebastian-thrun-king-of-the-geeks-xdrks90sfqd",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-16T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Times",
-        "domain": "thetimes.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprodmigration%2Fweb%2Fbin%2F0478f394-5f6e-3dd8-8256-9ec147aff66b.jpg?crop=1500%2C1000%2C0%2C0&resize=1180",
-          "width": 1180,
-          "height": 786,
-          "title": "Sebastian Thrun – king of the geeks",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

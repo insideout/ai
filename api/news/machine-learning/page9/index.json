@@ -2,6 +2,89 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-02-19-artificial-intelligence-and-machine-learning-in-the-operating-room.md",
+      "title": "Artificial Intelligence and Machine Learning in the Operating Room",
+      "excerpt": "Most applications of artificial intelligence (AI) and machine learning technology provide only data to physicians, leaving the doctors to form a judgment on how to proceed. Because AI doesn’t actually perform any procedure or prescribe a course of medication, the software that diagnoses health problems does not have to pass a randomized ...",
+      "heat": 76,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://247wallst.com/healthcare-economy/2020/02/19/artificial-intelligence-and-machine-learning-in-the-operating-room/",
+      "ampWebUrl": "https://247wallst.com/healthcare-economy/2020/02/19/artificial-intelligence-and-machine-learning-in-the-operating-room/amp/",
+      "cdnAmpWebUrl": "https://247wallst-com.cdn.ampproject.org/c/s/247wallst.com/healthcare-economy/2020/02/19/artificial-intelligence-and-machine-learning-in-the-operating-room/amp/",
+      "publishedDateTime": "2020-02-19T04:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "24/7 Wall St",
+        "domain": "247wallst.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://247wallst.files.wordpress.com/2020/01/imageforentry19-gsk.jpg?w=1200",
+          "width": 1200,
+          "height": 675,
+          "title": "Artificial Intelligence and Machine Learning in the Operating Room",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-02-18-document-understanding-ai-google-cloud-explained.md",
+      "title": "Document Understanding AI — Google Cloud Explained",
+      "excerpt": "Hey, folks How are you doing. Today I am going to discuss Document Understanding AI using Google cloud in simple steps. I know I know you say there is a lot of complexity!!!. Don’t worry folks ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/datadriveninvestor/document-understanding-ai-google-cloud-explained-193ae84cda75",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-18T14:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/688/1*JQnPt8Ct4mzzzyEFVKW7zg.png",
+          "width": 688,
+          "height": 273,
+          "title": "Document Understanding AI — Google Cloud Explained",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-02-18-the-greatest-gift-machine-learning-ever-gave-us-is-this-archive-of-mark-zuckerberg-haircuts.md",
       "title": "The greatest gift machine learning ever gave us is this archive of Mark Zuckerberg haircuts",
       "excerpt": "Even the most commonplace of objects, sufficiently decontextualized, has the power to take on new meaning. We see this, perhaps most famously, with Marcel Duchamp's \"Fountain.\" The so-called readymade sculpture was in fact simply a signed urinal. However, in part by separating it from the whole, Duchamp challenged his audience to see the ...",
@@ -1215,98 +1298,6 @@
         "Facebook AI",
         "AI Hardware",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-02-10-machine-learning-the-tool-of-the-century.md",
-      "title": "Machine Learning: The Tool of the Century",
-      "excerpt": "There are 3 main types of artificial intelligence: narrow, general, and super. We have yet to achieve super, or even general intelligence. Artificial narrow intelligence (ANI) includes machine learning, which is being used to make self-driving cars, show you advertisements, and improve disease diagnosis. Machine learning is the field in which ...",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/datadriveninvestor/machine-learning-the-tool-of-the-century-fe5a20309920",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-10T10:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/1200/1*3z-djqopm88GYDz2OB3qDg.png",
-          "width": 1200,
-          "height": 672,
-          "title": "Machine Learning: The Tool of the Century",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-02-10-the-role-of-machine-learning-in-marketing.md",
-      "title": "The Role of Machine Learning in Marketing",
-      "excerpt": "For example, Microsoft’s Azure ML Studio has a methodology to model customer churn. Image source: https://docs.microsoft.com/en-us/azure/machine-learning/studio/azure-ml-customer-churn-scenario In figure 1, it shows a risk model that shows you how actions affect risk and probability. Moving over, figure 2 shows an intervention model that ...",
-      "heat": 91,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/@bo.lau/the-role-of-machine-learning-in-marketing-60918b8f51e2",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-10T10:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/1200/0*ogKgDXUqbtxLfG54.png",
-          "width": 1200,
-          "height": 672,
-          "title": "The Role of Machine Learning in Marketing",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI",
-        "Machine Learning"
       ]
     }
   ],

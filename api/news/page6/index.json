@@ -2,6 +2,493 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-05-01-how-well-can-algorithms-recognize-your-masked-face.md",
+      "title": "How Well Can Algorithms Recognize Your Masked Face?",
+      "excerpt": "Makers of facial-recognition technology scramble to adapt to a world where people routinely cover their faces to avoid spreading disease.",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wired.com/story/algorithms-recognize-masked-face/",
+      "ampWebUrl": "https://www.wired.com/story/algorithms-recognize-masked-face/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/algorithms-recognize-masked-face/amp",
+      "publishedDateTime": "2020-05-01T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5ea9d268640d500008d511c5/master/pass/Biz-maskman-1217070531.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": "How Well Can Algorithms Recognize Your Masked Face?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-01-cloud-computing-microsoft-signs-new-discount-azure-deal-with-uk-government.md",
+      "title": "Cloud computing: Microsoft signs new discount Azure deal with UK government",
+      "excerpt": "Public sector organizations using Microsoft Azure will receive discounted rates and benefits under an amended agreement between the software giant and the UK government.",
+      "heat": 102,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/article/cloud-computing-microsoft-signs-new-discount-azure-deal-with-uk-government/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/cloud-computing-microsoft-signs-new-discount-azure-deal-with-uk-government/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/cloud-computing-microsoft-signs-new-discount-azure-deal-with-uk-government/",
+      "publishedDateTime": "2020-05-01T03:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/03/02/89020fc6-fe78-4bee-abb0-0ce4d0175c91/thumbnail/1200x675/66a68d9e60796e80b78d5bedaa0bde98/20200227-rsa-yehoshua-veronica.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Cloud computing: Microsoft signs new discount Azure deal with UK government",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-01-fueling-driverless-navigation-with-ai.md",
+      "title": "Fueling driverless navigation with AI",
+      "excerpt": "Generally, Artificial Intelligence (AI) helps to make products and procedures more efficient, but it also handles intricate tasks that can’t be easily managed by humans. When navigation comes ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techradar.com/news/fueling-driverless-navigation-with-ai",
+      "ampWebUrl": "https://www.techradar.com/amp/news/fueling-driverless-navigation-with-ai",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/fueling-driverless-navigation-with-ai",
+      "publishedDateTime": "2020-05-01T03:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/XRZnyNZVHb27CjWT9rGzg7-1200-80.jpg",
+          "width": 970,
+          "height": 545,
+          "title": "Fueling driverless navigation with AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-01-mind-controlled-prosthetic-arms-feel-like-the-real-thing.md",
+      "title": "Mind-controlled prosthetic arms \"feel\" like the real thing",
+      "excerpt": "An international team of scientists is reporting success with one of the most advanced bionic arms ever made. The system is integrated into the patient’s nerves, allowing them to control the ...",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://newatlas.com/medical/mind-controlled-prosthetic-arm/",
+      "ampWebUrl": "https://newatlas.com/medical/mind-controlled-prosthetic-arm/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/medical/mind-controlled-prosthetic-arm/?amp=true",
+      "publishedDateTime": "2020-05-01T01:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/0c827a2/2147483647/strip/true/crop/510x340+94+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Ff4%2Fae%2Ffdcae926498284ed63b4a5b89366%2Fprosthetic-1.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Mind-controlled prosthetic arms \"feel\" like the real thing",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-01-money-in-the-hands-of-ai-how-fintech-and-banks-are-banking-on-ai-for-cybersecurity.md",
+      "title": "Money in the Hands of AI: How Fintech and Banks are Banking on AI for Cybersecurity",
+      "excerpt": "Trusting AI to keep the banks safe can be a good or bad thing. It all depends on who wins -- villains or heroes. We'll discover",
+      "heat": 90,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/money-in-the-hands-of-ai-how-fintech-and-banks-are-banking-on-ai-for-cybersecurity-2020-05-01",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-01T00:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Money in the Hands of AI: How Fintech and Banks are Banking on AI for Cybersecurity",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2020-05-01-teslas-full-self-driving-feature-is-coming-in-subscription-form.md",
+      "title": "Tesla's 'full self-driving' feature is coming in subscription form",
+      "excerpt": "During its Q1 2020 earnings on Wednesday, Tesla revealed that the \"Full Self-Driving\" system will be available as a monthly subscription later this year.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.engadget.com/tesla-earnings-q1-2020-235416562.html",
+      "ampWebUrl": "https://www.engadget.com/amp/tesla-earnings-q1-2020-235416562.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/tesla-earnings-q1-2020-235416562.html",
+      "publishedDateTime": "2020-05-01T00:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-04%2F4c21c0a0-8a3d-11ea-8cfb-1ffa4514dcf6&client=amp-blogside-v2&signature=5274ce43abf88f1aa710ed82e963801365f7f175",
+          "width": 600,
+          "height": 350,
+          "title": "Tesla's 'full self-driving' feature is coming in subscription form",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-01-use-automated-ml-in-an-azure-machine-learning-pipeline-in-python.md",
+      "title": "Use automated ML in an Azure Machine Learning pipeline in Python",
+      "excerpt": "Use automated ML in an Azure Machine Learning pipeline in Python. 04/28/2020; 16 minutes to read; In this article. APPLIES TO: Basic edition Enterprise edition (Upgrade to Enterpr",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://docs.microsoft.com/en-us/azure/machine-learning/how-to-use-automlstep-in-pipelines",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-30T22:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png",
+          "width": 400,
+          "height": 400,
+          "title": "Use automated ML in an Azure Machine Learning pipeline in Python",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-05-01-how-goodyear-is-using-data-artificial-intelligence-and-digital-twins-to-create-the-tyres-of-the-future.md",
+      "title": "How Goodyear Is Using Data, Artificial Intelligence And Digital Twins To Create The Tyres Of The Future",
+      "excerpt": "Goodyear, one of the world's leading tire manufactures, has been at the forefront of innovation for a long time. Here we look at how the company uses data, artificial intelligence, and digital twins to create the tires of the future.",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2020/05/01/how-goodyear-is-using-data-artificial-intelligence-and-digital-twins-to-create-the-tyres-of-the-future/",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2020/05/01/how-goodyear-is-using-data-artificial-intelligence-and-digital-twins-to-create-the-tyres-of-the-future/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2020/05/01/how-goodyear-is-using-data-artificial-intelligence-and-digital-twins-to-create-the-tyres-of-the-future/amp/",
+      "publishedDateTime": "2020-04-30T21:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eab59b53a7297000740d873%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "How Goodyear Is Using Data, Artificial Intelligence And Digital Twins To Create The Tyres Of The Future",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-01-linkedin-now-has-an-ai-to-help-with-your-interview-game.md",
+      "title": "LinkedIn Now Has an AI to Help With Your Interview Game",
+      "excerpt": "As a record number of Americans grapple with unemployment in the wake of the novel coronavirus pandemic, LinkedIn’s rolled out some AI-powered tools to help job seekers prepare for the nightmare fuel that is the interviewing process.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://gizmodo.com/linkedin-has-an-ai-to-help-with-your-interview-game-1843190264",
+      "ampWebUrl": "https://gizmodo.com/linkedin-has-an-ai-to-help-with-your-interview-game-1843190264/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/linkedin-has-an-ai-to-help-with-your-interview-game-1843190264/amp",
+      "publishedDateTime": "2020-04-30T19:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/ssszinfmocsryua6ltfk.jpg",
+          "width": 800,
+          "height": 533,
+          "title": "LinkedIn Now Has an AI to Help With Your Interview Game",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-01-a-facial-recognition-company-wants-to-help-with-contact-tracing-a-senator-has-questions.md",
+      "title": "A facial recognition company wants to help with contact tracing. A senator has questions.",
+      "excerpt": "That said it's in discussions with federal and state agencies to help with contact tracing of people infected with the coronavirus.",
+      "heat": 80,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nbcnews.com/tech/security/facial-recognition-company-wants-help-contact-tracing-senator-has-questions-n1197291",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1197291",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1197291",
+      "publishedDateTime": "2020-04-30T18:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media3.s-nbcnews.com/i/newscms/2020_18/3327421/200428-ONE-TIME-USE-hoan-ton-that-clearview-ai-cs-841a_e6b4c42a3fac6df661c90396ffe47bb8.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": "A facial recognition company wants to help with contact tracing. A senator has questions.",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-30-ai-for-national-security-and-the-challenge-of-china.md",
+      "title": "AI For National Security And The Challenge Of China",
+      "excerpt": "The US and China are strategic competitors in many arenas, but none is more critical in shaping the future of the world than the competition for dominance in artificial intelligence. AI will likely determine which country wins in the economic realm and,",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/craigsmith/2020/04/30/ai-for-national-security-and-the-challenge-of-china/",
+      "ampWebUrl": "https://www.forbes.com/sites/craigsmith/2020/04/30/ai-for-national-security-and-the-challenge-of-china/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/craigsmith/2020/04/30/ai-for-national-security-and-the-challenge-of-china/amp/",
+      "publishedDateTime": "2020-04-30T16:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eab5727ed706b0007e63ad8%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1664%26cropY1%3D432%26cropY2%3D1368",
+          "width": 1199,
+          "height": 675,
+          "title": "AI For National Security And The Challenge Of China",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2020-04-30-a-us-senator-wants-to-know-which-federal-authorities-are-using-clearview-ai-to-track-the-coronavirus.md",
       "title": "A US Senator Wants To Know Which Federal Authorities Are Using Clearview AI To Track The Coronavirus",
       "excerpt": "Technology has an important role to play in mitigating the COVID-19 pandemic, but this health crisis cannot justify using unreliable surveillance tools that could undermine our privacy rights,” said",
@@ -539,9 +1026,9 @@
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.psychologytoday.com/intl/blog/illusions-delusions-and-reality/202004/face-recognition-behind-mask",
-      "ampWebUrl": "https://www.psychologytoday.com/intl/blog/illusions-delusions-and-reality/202004/face-recognition-behind-mask?amp",
-      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/illusions-delusions-and-reality/202004/face-recognition-behind-mask?amp",
+      "webUrl": "https://www.psychologytoday.com/us/blog/illusions-delusions-and-reality/202004/face-recognition-behind-mask",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-04-30T08:55:00-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -557,7 +1044,7 @@
         "news"
       ],
       "topics": [
-        "Natural Language Processing",
+        "Computer Vision",
         "AI"
       ]
     },
@@ -594,480 +1081,6 @@
           "width": 1200,
           "height": 600,
           "title": "Google’s AI can adjust voice emotion, pitch, and speed with 30 minutes of data",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-30-google-executive-attended-meeting-of-key-scientific-group-advising-government.md",
-      "title": "Google executive attended meeting of key scientific group advising Government",
-      "excerpt": "A senior Google executive responsible for its AI efforts has taken part in the Government’s coronavirus scientific advisory group for emergencies (Sage), the tech giant has confirmed. Demis Hassabis is the co–founder of DeepMind,",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.thisislocallondon.co.uk/news/national/18417819.google-executive-attended-meeting-key-scientific-group-advising-government/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-30T08:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "This is Local London",
-        "domain": "thisislocallondon.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.thisislocallondon.co.uk/resources/images/11319113/",
-          "width": 2168,
-          "height": 1445,
-          "title": "Google executive attended meeting of key scientific group advising Government",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-30-tesla-set-to-launch-a-full-self-driving-subscription-service-this-year.md",
-      "title": "Tesla set to launch a Full Self-Driving subscription service this year",
-      "excerpt": "Tesla is set to roll out a subscription service for its Full Self-Driving suite later this year, Elon Musk said. During the company’s Q1 2020 Earnings Call, Musk and CFO Zachary Kirkhorn briefly confirmed the introduction of a subscription program for Full Self-Driving.",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.teslarati.com/tesla-full-self-driving-subscription-release-date/",
-      "ampWebUrl": "https://www.teslarati.com/tesla-full-self-driving-subscription-release-date/amp/",
-      "cdnAmpWebUrl": "https://www-teslarati-com.cdn.ampproject.org/c/s/www.teslarati.com/tesla-full-self-driving-subscription-release-date/amp/",
-      "publishedDateTime": "2020-04-30T08:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Tesla News",
-        "domain": "teslarati.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.teslarati.com/wp-content/uploads/2019/04/tesla-fsd-demo-stop-sign-1-1024x576.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": "Tesla set to launch a Full Self-Driving subscription service this year",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-30-fda-cleared-ai-based-medical-triage-tool-goes-free-to-help-busy-radiology-diagnostics-departments.md",
-      "title": "FDA-cleared AI-based medical triage tool goes free to help busy radiology diagnostics departments",
-      "excerpt": "Medical startup Nines, which has developed an AI-based triage tool that has received clearance from the U.S. Food and Drug Administration (FDA) for use, is making that tool available for free to all until June 30 to help address the growing burden on radiology diagnostics departments as COVID-19",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/04/30/fda-cleared-ai-based-medical-triage-tool-goes-free-to-help-busy-radiology-diagnostics-departments/",
-      "ampWebUrl": "https://techcrunch.com/2020/04/30/fda-cleared-ai-based-medical-triage-tool-goes-free-to-help-busy-radiology-diagnostics-departments/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/30/fda-cleared-ai-based-medical-triage-tool-goes-free-to-help-busy-radiology-diagnostics-departments/amp/",
-      "publishedDateTime": "2020-04-30T06:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/04/5eaa4c5a7ba1264e6486b846__Nines_FINAL_042720-0-01-30-21s.jpg?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": "FDA-cleared AI-based medical triage tool goes free to help busy radiology diagnostics departments",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-30-facebooks-role-playing-game-teaches-ai-to-complete-tasks-by-reading-descriptions.md",
-      "title": "Facebook’s role-playing game teaches AI to complete tasks by reading descriptions",
-      "excerpt": "Facebook researchers built a role-playing game to train AI agents to complete tasks by reading text descriptions of those tasks.",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/30/facebook-rpg-teaches-ai-to-complete-tasks-by-reading-descriptions/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/30/facebook-rpg-teaches-ai-to-complete-tasks-by-reading-descriptions/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/30/facebook-rpg-teaches-ai-to-complete-tasks-by-reading-descriptions/amp/",
-      "publishedDateTime": "2020-04-30T06:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/05/facebook-ai.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Facebook’s role-playing game teaches AI to complete tasks by reading descriptions",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-30-vc-appetite-for-ai-startups-holds-up-in-q1-despite-lackluster-exit-volume.md",
-      "title": "VC appetite for AI startups holds up in Q1 despite lackluster exit volume",
-      "excerpt": "Hello and welcome back to our regular morning look at private companies, public markets and the gray space in between. Today we’re taking our final look back at Q1 venture capital through the lens of AI-focused startups.",
-      "heat": 86,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/04/30/vc-appetite-for-ai-startups-holds-up-in-q1-despite-lackluster-exit-volume/",
-      "ampWebUrl": "https://techcrunch.com/2020/04/30/vc-appetite-for-ai-startups-holds-up-in-q1-despite-lackluster-exit-volume/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/30/vc-appetite-for-ai-startups-holds-up-in-q1-despite-lackluster-exit-volume/amp/",
-      "publishedDateTime": "2020-04-30T06:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/11/GettyImages-1139876920.jpg?w=1024",
-          "width": 1024,
-          "height": 664,
-          "title": "VC appetite for AI startups holds up in Q1 despite lackluster exit volume",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-30-artificial-intelligence-market-size-2020-share-trends-segmentation-and-forecast-by-2025.md",
-      "title": "Artificial Intelligence Market Size 2020 Share, Trends, Segmentation and Forecast by 2025",
-      "excerpt": "A recent report on Artificial Intelligence (AI) Market provides a detailed analysis of the industry size, revenue forecasts and geographical landscape pertaining to this business space. Additionally,",
-      "heat": 70,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-size-2020-share-trends-segmentation-and-forecast-by-2025-2020-04-30",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-30T06:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Artificial Intelligence Market Size 2020 Share, Trends, Segmentation and Forecast by 2025",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-30-tesla-confirms-self-driving-as-a-subscription-service-but-brace-yourself-for-the-price.md",
-      "title": "Tesla confirms self-driving as a subscription service but brace yourself for the price",
-      "excerpt": "Driving package (FSD) as a subscription service, but you should brace yourself for the price. We reported earlier this week that Tesla is working on a pay-as-you-go subscription for its self-driving package based on some code that leaked in Tesla’s in-app purchase system.",
-      "heat": 101,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://electrek.co/2020/04/30/tesla-self-driving-subscription-service-price/",
-      "ampWebUrl": "https://electrek.co/2020/04/30/tesla-self-driving-subscription-service-price/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/04/30/tesla-self-driving-subscription-service-price/amp/",
-      "publishedDateTime": "2020-04-30T06:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://electrek.co/wp-content/uploads/sites/3/2019/04/Tesla-self-driving.jpg?quality=82&strip=all&w=1000",
-          "width": 1000,
-          "height": 458,
-          "title": "Tesla confirms self-driving as a subscription service but brace yourself for the price",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-30-linkedins-ai-gives-job-candidates-feedback-on-their-interview-answers.md",
-      "title": "LinkedIn’s AI gives job candidates feedback on their interview answers",
-      "excerpt": "LinkedIn today launched a new AI feature that provides helpful feedback to members on their answers to job interview questions.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/30/linkedins-ai-gives-job-candidates-feedback-on-their-interview-answers/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/30/linkedins-ai-gives-job-candidates-feedback-on-their-interview-answers/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/30/linkedins-ai-gives-job-candidates-feedback-on-their-interview-answers/amp/",
-      "publishedDateTime": "2020-04-30T06:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2015/10/LinkedIn-sign-Sylvain-Kalache-Flickr-e1588110833221.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "LinkedIn’s AI gives job candidates feedback on their interview answers",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-30-duolingos-ai-drives-its-english-proficiency-tests.md",
-      "title": "Duolingo’s AI drives its English proficiency tests",
-      "excerpt": "Duolingo tapped AI and machine learning to create a cheaper, faster English proficiency test that the company claims is on par with proctored exams.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/30/duolingos-english-test-ai-serve-and-score-questions/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/30/duolingos-english-test-ai-serve-and-score-questions/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/30/duolingos-english-test-ai-serve-and-score-questions/amp/",
-      "publishedDateTime": "2020-04-30T06:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2015/06/duolingo_logo.png?fit=1000%2C600&strip=all",
-          "width": 1000,
-          "height": 600,
-          "title": "Duolingo’s AI drives its English proficiency tests",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-30-microsofts-windows-virtual-desktop-spring-refresh-whats-new-and-next.md",
-      "title": "Microsoft's Windows Virtual Desktop spring refresh: What's new and next",
-      "excerpt": "Microsoft is ready to roll out its 'spring refresh' of WVD, while working on a grander plan to make WVD more of a full-fledged cloud-managed desktop.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/microsofts-windows-virtual-desktop-spring-refresh-whats-new-and-next/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsofts-windows-virtual-desktop-spring-refresh-whats-new-and-next/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsofts-windows-virtual-desktop-spring-refresh-whats-new-and-next/",
-      "publishedDateTime": "2020-04-30T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/04/30/b77a0f01-6b33-4f90-b06e-94b4e3c3b85f/newwvdfeatures.jpg",
-          "width": 875,
-          "height": 557,
-          "title": "Microsoft's Windows Virtual Desktop spring refresh: What's new and next",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-30-ai-in-africa-teaching-a-bot-to-read-my-mums-texts.md",
-      "title": "AI in Africa: Teaching a bot to read my mum's texts",
-      "excerpt": "How African researchers are using the continent's languages to help spur innovation in Artificial Intelligence.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.bbc.com/news/world-africa-52411797",
-      "ampWebUrl": "https://www.bbc.com/news/amp/world-africa-52411797",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-africa-52411797",
-      "publishedDateTime": "2020-04-30T05:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/FD69/production/_112037846_img_20180827_082945_171.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": "AI in Africa: Teaching a bot to read my mum's texts",
           "attribution": null
         }
       ],

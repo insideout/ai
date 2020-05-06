@@ -2,6 +2,51 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-01-13-linkedin-blockchain-beats-ai-and-cloud-computing-for-hottest-skill-in-2020.md",
+      "title": "LinkedIn: Blockchain beats AI and cloud computing for hottest skill in 2020",
+      "excerpt": "“Which means that you don’t have to be in financial services to be seeking new hires who have background and expertise in putting blockchain to use.” The Microsoft-owned company then urged recruiters ... How one behaves, how they think, and their cognitive skills are all examples of soft skills. While soft skills are difficult to measure ...",
+      "heat": 117,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/hardfork/2020/01/13/blockchain-linkedin-solidity-ethereum-cryptocurrency-jobs-recruitment/",
+      "ampWebUrl": "https://thenextweb.com/hardfork/2020/01/13/blockchain-linkedin-solidity-ethereum-cryptocurrency-jobs-recruitment/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/hardfork/2020/01/13/blockchain-linkedin-solidity-ethereum-cryptocurrency-jobs-recruitment/amp/",
+      "publishedDateTime": "2020-01-13T04:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2019/05/cryptocurrency-blockchain-development-programming-ethereum-solidity-javascript-java-796x450.jpg",
+          "width": 796,
+          "height": 450,
+          "title": "LinkedIn: Blockchain beats AI and cloud computing for hottest skill in 2020",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-01-09-amazons-autogluon-produces-ai-models-with-as-little-as-3-lines-of-code.md",
       "title": "Amazon’s AutoGluon produces AI models with as little as 3 lines of code",
       "excerpt": "AutoGluon’s debut follows on the heels of major upgrades to Amazon Web Services’ (AWS’) SageMaker, a toolkit for continuously training and deploying machine learning models to cloud and edge environments. AWS SageMaker Studio is a model training and workflow management tool that collects all the code, notebooks, and folders for machine ...",

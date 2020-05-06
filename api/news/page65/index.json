@@ -2,6 +2,540 @@
   "page": 65,
   "value": [
     {
+      "path": "_news/2020-03-15-middlesex-health-using-artificial-intelligence-making-patients-more-comfortable.md",
+      "title": "Middlesex Health using artificial intelligence – making patients more comfortable",
+      "excerpt": "Middletown, Conn. (WTNH) Middlesex Health is the first healthcare system in the northeast to use artificial intelligence-powered software to Improve PET scans for patients. Typically a PET, or positron emission tomography scan, would take 24 minutes or longer. The tests are frequently done on Cancer patients to see if treatments are working or ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wtnh.com/ct-style/healthmatters/middlesex-health-using-artificial-intelligence-making-patients-more-comfortable/",
+      "ampWebUrl": "https://www.wtnh.com/ct-style/healthmatters/middlesex-health-using-artificial-intelligence-making-patients-more-comfortable/amp/",
+      "cdnAmpWebUrl": "https://www-wtnh-com.cdn.ampproject.org/c/s/www.wtnh.com/ct-style/healthmatters/middlesex-health-using-artificial-intelligence-making-patients-more-comfortable/amp/",
+      "publishedDateTime": "2020-03-15T12:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WTNH",
+        "domain": "wtnh.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.wtnh.com/wp-content/uploads/sites/100/2020/03/Annotation-2020-03-15-152535.png?w=620&h=352&crop=1&resize=1280,720",
+          "width": 1280,
+          "height": 720,
+          "title": "Middlesex Health using artificial intelligence – making patients more comfortable",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-15-legal-aid-society-dubious-of-new-nypd-facial-recognition-provision.md",
+      "title": "Legal Aid Society dubious of new NYPD facial recognition provision",
+      "excerpt": "He was surrounded by representatives of the Jewish community and flanked by Commissioner Dermot Shea. (Photo by Todd Maisel) An update to the NYPD policy regarding facial recognition technology does not change precautions against using the feature as evidence to convict, according to Commissioner Dermot Shea. As the technology advances ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.amny.com/police-fire/legal-aid-society-dubious-of-new-nypd-facial-recognition-provision/",
+      "ampWebUrl": "https://www.amny.com/police-fire/legal-aid-society-dubious-of-new-nypd-facial-recognition-provision/amp/",
+      "cdnAmpWebUrl": "https://www-amny-com.cdn.ampproject.org/c/s/www.amny.com/police-fire/legal-aid-society-dubious-of-new-nypd-facial-recognition-provision/amp/",
+      "publishedDateTime": "2020-03-15T10:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AM New York",
+        "domain": "amny.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-15-azure-machine-learning-services-mlops.md",
+      "title": "Azure Machine Learning Services — MLOps",
+      "excerpt": "Azure machine learning services has end to end data science lifecycle process. Which means we can develop the model and then package it up for production. Then we can create model file and deploy ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/@balabala76/azure-machine-learning-services-mlops-c0fde346a8ff",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-15T09:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/1200/1*MEoUfeWtl3VmgU9Dafei_w.jpeg",
+          "width": 1200,
+          "height": 897,
+          "title": "Azure Machine Learning Services — MLOps",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-15-googles-parent-company-just-made-its-first-ever-investment-in-an-ai-chip-start-up.md",
+      "title": "Google's parent company just made its first-ever investment in an A.I. chip start-up",
+      "excerpt": "GV had never invested in a start-up making processors for artificial intelligence ... special features in its consumer products, while Waymo relies on AI for autonomous driving.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2018/03/15/alphabets-gv-invests-in-ai-chip-startup-sambanova.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2018/03/15/alphabets-gv-invests-in-ai-chip-startup-sambanova.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2018/03/15/alphabets-gv-invests-in-ai-chip-startup-sambanova.html",
+      "publishedDateTime": "2020-03-15T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/105066224-Handout_SambaNova_Systems.jpeg?v=1529477748",
+          "width": 2000,
+          "height": 1333,
+          "title": "Google's parent company just made its first-ever investment in an A.I. chip start-up",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-15-here-are-20-companies-google-could-buy-to-boost-its-cloud-business-against-amazon-web-services-according-to-experts.md",
+      "title": "Here are 20 companies Google could buy to boost its cloud business against Amazon Web Services, according to experts",
+      "excerpt": "Google Cloud is likely going to make some big purchases to better compete with Amazon — some of them more likely than others.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businessinsider.com/here-are-the-cloud-companies-google-could-buy-analysts-2020-3",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-15T07:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.insider.com/5c4bb3cd2bdd7f2b686a5184?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": "Here are 20 companies Google could buy to boost its cloud business against Amazon Web Services, according to experts",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-15-aclu-sues-dhs-to-expose-secretive-use-of-facial-recognition-technology.md",
+      "title": "ACLU sues DHS to expose secretive use of facial recognition technology",
+      "excerpt": "Feel free to republish and share widely. The ACLU's national and New York arms filed a federal lawsuit Thursday against the U.S. Department of Homeland Security and three of its agencies to expose law enforcement's secretive use of facial recognition surveillance technology. The new suit in the U.S. District Court for the Southern District of ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.salon.com/2020/03/15/aclu-sues-dhs-to-expose-secretive-use-of-facial-recognition-technology_partner/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-15T05:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Salon",
+        "domain": "salon.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.salon.com/2014/09/surveillance_camera.jpg",
+          "width": 620,
+          "height": 412,
+          "title": "ACLU sues DHS to expose secretive use of facial recognition technology",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-15-amd-epyc-cpu-partners-with-radeon-instinct-gpu-in-conjunction-with-llnl-to-build-the-fastest-of-supercomputers-el-capitan.md",
+      "title": "AMD EPYC CPU Partners With Radeon Instinct GPU In Conjunction With LLNL To Build the Fastest of Supercomputers; El Capitan",
+      "excerpt": "Furthermore, AMD-centric nodes will also be upgraded to speed up artificial intelligence (AI) and machine learning (ML) workloads, for extensive research, analysis, and computing technology that will be beneficial to NNSA endeavors. ‘The El Capitan supercomputer will benchmark on HP’s next-gen AMD EPYC CPU and Radeon Instinct GPU to enhance ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://happygamer.com/amd-epyc-cpu-partners-with-radeon-instinct-gpu-in-conjunction-with-llnl-to-build-the-fastest-of-supercomputers-el-capitan-58697/",
+      "ampWebUrl": "https://happygamer.com/amp/amd-epyc-cpu-partners-with-radeon-instinct-gpu-in-conjunction-with-llnl-to-build-the-fastest-of-supercomputers-el-capitan-58697/",
+      "cdnAmpWebUrl": "https://happygamer-com.cdn.ampproject.org/c/s/happygamer.com/amp/amd-epyc-cpu-partners-with-radeon-instinct-gpu-in-conjunction-with-llnl-to-build-the-fastest-of-supercomputers-el-capitan-58697/",
+      "publishedDateTime": "2020-03-15T03:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HappyGamer",
+        "domain": "happygamer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://happygamer.com/wp-content/uploads/2020/03/45af85dee2cfbe420edf4ac7c8a435b0.jpg",
+          "width": 1990,
+          "height": 1098,
+          "title": "AMD EPYC CPU Partners With Radeon Instinct GPU In Conjunction With LLNL To Build the Fastest of Supercomputers; El Capitan",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-15-tra-attains-cips-corporate-ethics-mark-reinforcing-the-organizations-commitment-to-ethical-sourcing-and-supplier-management.md",
+      "title": "TRA attains CIPS Corporate Ethics mark, reinforcing the organization's commitment to ethical sourcing and supplier management",
+      "excerpt": "This mark is highly regarded as an indicator of key global practice in the procurement and supply profession, especially in dealing with suppliers and partners while ensuring transparency and professional ethics. Commenting on this ... of the Fourth Industrial Revolution (4IR) and Artificial Intelligence (AI). Our success depends mainly on ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zawya.com/uae/en/press-releases/story/TRA_attains_CIPS_Corporate_Ethics_mark_reinforcing_the_organizations_commitment_to_ethical_sourcing_and_supplier_managementnbsp-ZAWYA20200315090947/",
+      "ampWebUrl": "https://www.zawya.com/uae/en/story/amp/ZAWYA20200315090947/",
+      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/uae/en/story/amp/ZAWYA20200315090947/",
+      "publishedDateTime": "2020-03-15T02:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.zawya.com/resources/img/zawya-logo-en-social.png",
+          "width": 1200,
+          "height": 878,
+          "title": "TRA attains CIPS Corporate Ethics mark, reinforcing the organization's commitment to ethical sourcing and supplier management",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-15-doing-machine-learning-the-right-way.md",
+      "title": "Doing machine learning the right way",
+      "excerpt": "Madry’s research centers largely on making machine learning — a type of artificial intelligence — more accurate ... helping diagnose disease or control driverless cars. “It’s not just about trying to crack open the machine-learning black box. I want to open it up, see how it works, and pack it back up, so people can use it without ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.controleng.com/articles/doing-machine-learning-the-right-way/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-15T00:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Control Engineering",
+        "domain": "controleng.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.controleng.com/wp-content/uploads/sites/2/2020/03/MIT_AlexanderMadry_MachineLearning-2.jpg",
+          "width": 1200,
+          "height": 772,
+          "title": "Doing machine learning the right way",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-15-port-of-seattle-moves-toward-implementing-facial-recognition.md",
+      "title": "Port of Seattle moves toward implementing facial recognition",
+      "excerpt": "Over protests from civil-liberties groups, the Port of Seattle Commission voted Tuesday to purchase and install facial-recognition cameras at Seattle-Tacoma International Airport’s international departure gates.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://journalstar.com/business/national-and-international/port-of-seattle-moves-toward-implementing-facial-recognition/article_b36dbdd4-c0e1-5629-90ad-2a500ff97241.html",
+      "ampWebUrl": "https://journalstar.com/business/national-and-international/port-of-seattle-moves-toward-implementing-facial-recognition/article_b36dbdd4-c0e1-5629-90ad-2a500ff97241.amp.html",
+      "cdnAmpWebUrl": "https://journalstar-com.cdn.ampproject.org/c/s/journalstar.com/business/national-and-international/port-of-seattle-moves-toward-implementing-facial-recognition/article_b36dbdd4-c0e1-5629-90ad-2a500ff97241.amp.html",
+      "publishedDateTime": "2020-03-14T17:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Lincoln Journal Star",
+        "domain": "journalstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-15-innovative-artificial-intelligence-startups-aim-to-cure-loss-of-vision.md",
+      "title": "Innovative artificial intelligence startups aim to cure loss of vision",
+      "excerpt": "The current protocol to treating this condition would be approaching an eye doctor and undergoing the eye-drop therapy, which blurs the vision in the functional eye to force the brain to rely on the faulty eye as well. It is also worth noting that unsuccessful treatment of this condition in childhood will result in the continued loss of vision ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.thesouthafrican.com/technology/innovative-artificial-intelligence-startups-aim-cure-loss-ision/",
+      "ampWebUrl": "https://www.thesouthafrican.com/technology/innovative-artificial-intelligence-startups-aim-cure-loss-ision/amp/",
+      "cdnAmpWebUrl": "https://www-thesouthafrican-com.cdn.ampproject.org/c/s/www.thesouthafrican.com/technology/innovative-artificial-intelligence-startups-aim-cure-loss-ision/amp/",
+      "publishedDateTime": "2020-03-14T17:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "richest",
+        "domain": "thesouthafrican.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://gcs.thesouthafrican.com/2020/03/cac22bb4-a9dd981c-d8a1-4e3e-b281-581867797063-768x459.jpeg",
+          "width": 768,
+          "height": 459,
+          "title": "Innovative artificial intelligence startups aim to cure loss of vision",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-14-diu-to-host-another-computer-vision-contest.md",
+      "title": "DIU to Host Another Computer Vision Contest",
+      "excerpt": "The Defense Innovation Unit plans to continue its annual prize challenge for computer vision technologies designed to support disaster relief missions, National Defense Magazine reported Thursday. The xView2 Challenge aims to use artificial intelligence and machine learning for automated assessments of post-disaster damage. Last year's ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.executivegov.com/2020/03/diu-to-host-another-computer-vision-contest/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-14T14:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Executive Gov",
+        "domain": "executivegov.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://executivebiz.secure.force.com/archintelmedia/servlet/servlet.FileDownload?file=00Pf300000xogwBEAQ",
+          "width": 272,
+          "height": 270,
+          "title": "DIU to Host Another Computer Vision Contest",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-14-ibm-watson-gains-the-ability-to-understand-complex-topics.md",
+      "title": "IBM Watson Gains The Ability To Understand Complex Topics",
+      "excerpt": "“Language is a tool for expressing thought and opinion, as much as it is a tool for information,” said Rob Thomas, General Manager of IBM Data and AI. “This is why we’re harvesting technology from Project Debater and integrating it into Watson ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://pulse2.com/ibm-watson-complex-topics/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-14T14:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Pulse 2.0",
+        "domain": "pulse2.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.pulse2.com/cdn/2020/03/IBM-Watson.jpg",
+          "width": 1200,
+          "height": 1031,
+          "title": "IBM Watson Gains The Ability To Understand Complex Topics",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-14-beijing-self-driving-vehicle-road-tests-topped-one-million-km-in-2019.md",
+      "title": "Beijing Self-Driving Vehicle Road Tests Topped One Million Km in 2019",
+      "excerpt": "In 2019 Beijing’s cumulative self-driving testing reached 1.04 million kilometres — an equivalent to circling earth 20 times. Search-engine giant Baidu ranked first in autonomous vehicle ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/syncedreview/beijing-self-driving-vehicle-road-tests-topped-one-million-km-in-2019-80a6fd58b774",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-14T08:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/1200/1*C35YKD4zEMMsXyzlnf0A9g.jpeg",
+          "width": 1200,
+          "height": 666,
+          "title": "Beijing Self-Driving Vehicle Road Tests Topped One Million Km in 2019",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-14-aclu-is-demanding-homeland-security-cbp-ice-and-tsa-hand-over-records-on-facial-recognition-at-the-border.md",
       "title": "ACLU is demanding Homeland Security, CBP, ICE, and TSA hand over records on facial recognition at the border",
       "excerpt": "Privacy advocates believe that facial recognition, in particular, can enable persistent, undetectable government surveillance on a massive scale that erodes everyone's expectations of privacy. Back in December, the American Civil Liberties Union sued Homeland Security for its 'stingray' phone surveillance program that has long been in use by US ...",
@@ -448,566 +982,6 @@
           "attribution": null
         }
       ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-14-washington-state-passes-landmark-facial-recognition-bill-reining-in-government-use-of-ai.md",
-      "title": "Washington state passes landmark facial recognition bill, reining in government use of AI",
-      "excerpt": "The Washington state legislature passed a bill establishing new guardrails on government use of facial recognition software. The bill cleared both chambers of the state legislature Thursday, hours before the session ended, positioning Washington as one of the first states in the nation to regulate facial recognition, a key component in the ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.geekwire.com/2020/washington-state-passes-landmark-facial-recognition-bill-reining-government-use-ai/",
-      "ampWebUrl": "https://www.geekwire.com/2020/washington-state-passes-landmark-facial-recognition-bill-reining-government-use-ai/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/washington-state-passes-landmark-facial-recognition-bill-reining-government-use-ai/amp/",
-      "publishedDateTime": "2020-03-13T18:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2019/11/legislature-630x473.jpg",
-          "width": 630,
-          "height": 473,
-          "title": "Washington state passes landmark facial recognition bill, reining in government use of AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-14-nypd-says-it-plans-to-use-facial-recognition-technology.md",
-      "title": "NYPD says it plans to use facial recognition technology",
-      "excerpt": "The NYPD on Friday said it plans to use emerging facial recognition technology in limited circumstances for “legitimate law enforcement purposes.” In announcing the policy Friday, NYPD Commissioner Dermot Shea outlined what he called six limited circumstances where the digital programs would be used to help develop leads to solve crimes.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.newsday.com/news/new-york/nypd-facial-recognition-technology-1.43047575",
-      "ampWebUrl": "https://www.newsday.com/amp/news/new-york/nypd-facial-recognition-technology-1.43047575",
-      "cdnAmpWebUrl": "https://www-newsday-com.cdn.ampproject.org/c/s/www.newsday.com/amp/news/new-york/nypd-facial-recognition-technology-1.43047575",
-      "publishedDateTime": "2020-03-13T17:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsday",
-        "domain": "newsday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.newsday.com/polopoly_fs/1.43047839.1584146943!/httpImage/image.jpg_gen/derivatives/landscape_1280/image.jpg",
-          "width": 1280,
-          "height": 719,
-          "title": "NYPD says it plans to use facial recognition technology",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-14-ai-can-detect-corona-virus-from-ct-scans-in-just-20-seconds.md",
-      "title": "AI can detect Corona virus from CT scans in just 20 seconds",
-      "excerpt": "Chinese tech company Alibaba, says its AI can detect Corona virus from CT scans in just 20 seconds. It takes doctors around 20 mins to do the same. The model has an accuracy of around 96%. The diagnosis algorithm was developed by Alibaba's research institute Damo Academy. Researchers at the academy said they had trained the AI model with sample ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.linkedin.com/pulse/ai-can-detect-corona-virus-from-ct-scans-just-20-seconds-alan-brown/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-13T17:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4D12AQGrEHprOlem7Q/article-cover_image-shrink_720_1280/0?e=1590624000&v=beta&t=VCPInLfR_pD5-rvXfrBh0UFfdTtHwNzswxK4BNKriAA",
-          "width": 1080,
-          "height": 720,
-          "title": "AI can detect Corona virus from CT scans in just 20 seconds",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-14-driverless-trucks-being-tested-right-now-on-public-roads.md",
-      "title": "Driverless trucks being tested right now on public roads",
-      "excerpt": "(CBS News) — Few are aware that driverless 18-wheelers are already on the road ... cameras and radar devices affixed to the rig feed data to the artificial intelligence-driven supercomputer that controls the truck. Price says his product is superior to others. “Our system can see farther than any other autonomous system in the world.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.klfy.com/national/driverless-trucks-being-tested-right-now-on-public-roads/",
-      "ampWebUrl": "https://www.klfy.com/national/driverless-trucks-being-tested-right-now-on-public-roads/amp/",
-      "cdnAmpWebUrl": "https://www-klfy-com.cdn.ampproject.org/c/s/www.klfy.com/national/driverless-trucks-being-tested-right-now-on-public-roads/amp/",
-      "publishedDateTime": "2020-03-13T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KLFY",
-        "domain": "klfy.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.klfy.com/wp-content/uploads/sites/9/2020/03/trucks.png?w=620&h=349&crop=1&resize=1280,720",
-          "width": 1280,
-          "height": 720,
-          "title": "Driverless trucks being tested right now on public roads",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-14-intels-15-billion-purchase-of-mobileye-shakes-up-driverless-car-sector.md",
-      "title": "Intel's $15 billion purchase of Mobileye shakes up driverless car sector",
-      "excerpt": "The market for self-driving technology ... to Chinese Internet giant Baidu. Shares of systems integrator Delphi Automotive, which has partnerships with Intel and Mobileye, rose 4.0 percent.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnbc.com/2017/03/14/intels-15-billion-purchase-of-mobileye-shakes-up-driverless-car-sector.html",
-      "ampWebUrl": "https://www.cnbc.com/amp/2017/03/14/intels-15-billion-purchase-of-mobileye-shakes-up-driverless-car-sector.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2017/03/14/intels-15-billion-purchase-of-mobileye-shakes-up-driverless-car-sector.html",
-      "publishedDateTime": "2020-03-13T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/104338168-mobileye3.jpg?v=1529474476",
-          "width": 849,
-          "height": 478,
-          "title": "Intel's $15 billion purchase of Mobileye shakes up driverless car sector",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-14-when-and-how-your-baby-learns-about-object-permanence.md",
-      "title": "When and How Your Baby Learns About Object Permanence",
-      "excerpt": "Object permanence is a cognitive skill that develops in babies shortly after object recognition, which is when infants can recognize familiar objects like a favorite book, stuffed animal or toy. Babies learn object recognition when they're around 3 months ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.whattoexpect.com/first-year/playtime/object-permanence-in-babies/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-13T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "What To Expect",
-        "domain": "whattoexpect.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "http://images.agoramedia.com/wte3.0/gcms/5-Month-Old-Baby-Learning-About-Object-Permanence-722x406.jpg?width=574",
-          "width": 574,
-          "height": 322,
-          "title": "When and How Your Baby Learns About Object Permanence",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-13-radnet-to-acquire-deephealth-for-machine-learning-radiology-tech.md",
-      "title": "RadNet To Acquire DeepHealth For Machine Learning Radiology Tech",
-      "excerpt": "DeepHealth has developed machine learning/AI-based imaging analysis technologies ... Major vendors that provide competitive services include: Behold.ai Technologies RadNet disclosed the acquisition price and terms as 1.0 million shares of common stock upfront and up to 1.5 million shares as future contingent consideration based on the ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://seekingalpha.com/article/4331947-radnet-to-acquire-deephealth-for-machine-learning-radiology-tech",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-13T16:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-13-the-aclu-is-suing-government-agencies-over-dystopian-facial-recognition-programs.md",
-      "title": "The ACLU is suing government agencies over 'dystopian' facial recognition programs",
-      "excerpt": "Thursday, the American Civil Liberties Union sued multiple government agencies for information on their facial recognition programs and how they are being used at airports and by Border Patrol. Facial recognition has expanded rapidly over the past few years, but a lack of clarity around the technology’s rollout has led to increasing concerns ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.mic.com/p/the-aclu-is-suing-government-agencies-over-dystopian-facial-recognition-programs-22621097",
-      "ampWebUrl": "https://www.mic.com/p/the-aclu-is-suing-government-agencies-over-dystopian-facial-recognition-programs-22621097/amp",
-      "cdnAmpWebUrl": "https://www-mic-com.cdn.ampproject.org/c/s/www.mic.com/p/the-aclu-is-suing-government-agencies-over-dystopian-facial-recognition-programs-22621097/amp",
-      "publishedDateTime": "2020-03-13T15:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mic",
-        "domain": "mic.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://imgix.bustle.com/uploads/getty/2020/3/13/f99cf8db-dd80-4ba8-9281-761c39585a48-getty-1087948100.jpg?w=1200&h=630&q=70&fit=crop&crop=faces&fm=jpg",
-          "width": 1200,
-          "height": 630,
-          "title": "The ACLU is suing government agencies over 'dystopian' facial recognition programs",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-13-glisten-uses-computer-vision-to-break-down-product-photos-to-their-most-important-parts.md",
-      "title": "Glisten uses computer vision to break down product photos to their most important parts",
-      "excerpt": "Glisten is a new startup enabling just that by using computer vision to understand and list the most important aspects of the products in any photo. Now, you may think this already exists.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/03/13/glisten-uses-computer-vision-to-break-down-fashion-photos-to-their-styles-and-parts/",
-      "ampWebUrl": "https://techcrunch.com/2020/03/13/glisten-uses-computer-vision-to-break-down-fashion-photos-to-their-styles-and-parts/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/03/13/glisten-uses-computer-vision-to-break-down-fashion-photos-to-their-styles-and-parts/amp/",
-      "publishedDateTime": "2020-03-13T14:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/03/glisten-header.jpg?w=1024",
-          "width": 1024,
-          "height": 608,
-          "title": "Glisten uses computer vision to break down product photos to their most important parts",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-13-the-evolution-of-artificial-intelligence-and-future-of-national-security.md",
-      "title": "The Evolution of Artificial Intelligence and Future of National Security",
-      "excerpt": "Artificial intelligence is all the rage these days. In the popular media, regular cyber systems seem almost passe, as writers focus on AI and conjure up images of everything from real-life Terminator robots to more benign companions. In intelligence circles, China’s uses of closed-circuit television, facial recognition technology, and other ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://nationalinterest.org/feature/evolution-artificial-intelligence-and-future-national-security-133032",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-13T13:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The National Interest",
-        "domain": "nationalinterest.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://nationalinterest.org/sites/default/files/main_images/2019-12-23T111943Z_1_LYNXMPEFBM0MR_RTROPTP_4_CHINA-INTERNET.JPG.jpg",
-          "width": 1386,
-          "height": 924,
-          "title": "The Evolution of Artificial Intelligence and Future of National Security",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-03-13-robotics-vs-artificial-intelligence-what-is-the-difference.md",
-      "title": "Robotics Vs. Artificial Intelligence: What is the difference?",
-      "excerpt": "We answer this fundamental question. Robotics and artificial intelligence serve very different purposes. However, people often get them mixed up. A lot of people wonder if robotics is a subset of ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/@nanduribalajee/robotics-vs-artificial-intelligence-what-is-the-difference-6adad236d997",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-13T13:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/600/0*AnavoMeuzBPQbLHE.jpg",
-          "width": 600,
-          "height": 400,
-          "title": "Robotics Vs. Artificial Intelligence: What is the difference?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-13-mits-deep-learning-found-an-antibiotic-for-a-germ-nothing-else-could-kill.md",
-      "title": "MIT’s deep learning found an antibiotic for a germ nothing else could kill",
-      "excerpt": "Scientists at the Massachusetts Institute of Technology and Harvard last month described in the scholarly journal Cell how they used a deep learning neural network to identify a molecular compound that's different from most antibiotics. They showed that when the compound is injected in mice, it fights bacteria that no existing drug can eliminate.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/mits-deep-learning-found-an-antibiotic-for-a-germ-nothing-else-could-kill/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/mits-deep-learning-found-an-antibiotic-for-a-germ-nothing-else-could-kill/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/mits-deep-learning-found-an-antibiotic-for-a-germ-nothing-else-could-kill/",
-      "publishedDateTime": "2020-03-13T13:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/03/13/b98e832c-157c-4938-8c1e-6b692877d498/mit-chemprop-building-representations.png",
-          "width": 1766,
-          "height": 1207,
-          "title": "MIT’s deep learning found an antibiotic for a germ nothing else could kill",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-13-biometrics-market-research-briefs-digital-id-revenues-to-leap-past-30b-by-2024.md",
-      "title": "Biometrics market research briefs: digital ID revenues to leap past $30B by 2024",
-      "excerpt": "The recent investment in Valencell biometric sensors for wearables and Facebook’s acquisition of Sanzaru Games are among recent ... These challenges now are being overcome by leveraging advances in AI and connectivity.” The research notes the increasing prevalence of CCTV systems for video surveillance for behavior or anomaly analysis ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.biometricupdate.com/202003/biometrics-market-research-briefs-digital-id-revenues-to-leap-past-30b-by-2024",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-13T12:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Biometric Companies",
-        "domain": "biometricupdate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/05/11111722/Digital-identity-v2.jpg",
-          "width": 1000,
-          "height": 667,
-          "title": "Biometrics market research briefs: digital ID revenues to leap past $30B by 2024",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-13-4-steps-to-improve-customer-experience-with-ai.md",
-      "title": "4 Steps To Improve Customer Experience With AI",
-      "excerpt": "With the above-mentioned challenges in mind, a multi-step, holistic effort is the best way for financial services companies to ensure their AI and machine learning initiatives deliver a return on ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/ibmai/2020/03/13/4-steps-financial-services-firms-can-take-with-ai-to-improve-customer-experience/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-13T11:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
       "locale": "en-us",
       "categories": [
         "news"

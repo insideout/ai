@@ -2,6 +2,125 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-02-18-mankato-robotics-teams-qualify-for-worldwide-competition.md",
+      "title": "Mankato robotics teams qualify for worldwide competition",
+      "excerpt": "which stands for artificial intelligence. Their team of eight students won the state championships in their division and will be competing at the world championships in April. Each student has a unique role to play. Anderson drives the robot using a game controller similar to an Xbox — picking up, moving and stacking green, purple and orange ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.mankatofreepress.com/news/local_news/mankato-robotics-teams-qualify-for-worldwide-competition/article_0afbdb7a-4e05-11ea-93f4-5fdc9dd5010a.html",
+      "ampWebUrl": "https://www.mankatofreepress.com/news/local_news/mankato-robotics-teams-qualify-for-worldwide-competition/article_0afbdb7a-4e05-11ea-93f4-5fdc9dd5010a.amp.html",
+      "cdnAmpWebUrl": "https://www-mankatofreepress-com.cdn.ampproject.org/c/s/www.mankatofreepress.com/news/local_news/mankato-robotics-teams-qualify-for-worldwide-competition/article_0afbdb7a-4e05-11ea-93f4-5fdc9dd5010a.amp.html",
+      "publishedDateTime": "2020-02-18T03:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mankato Free Press",
+        "domain": "mankatofreepress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/mankatofreepress.com/content/tncms/assets/v3/editorial/9/1a/91a10458-4dff-11ea-b845-c78e0123f55b/5e44a54858b67.image.jpg?resize=1024%2C682",
+          "width": 1024,
+          "height": 682,
+          "title": "Mankato robotics teams qualify for worldwide competition",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-02-18-why-your-new-work-colleague-could-be-a-robot.md",
+      "title": "Why your new work colleague could be a robot",
+      "excerpt": "A whirring and whizzing noise greets you as you enter the offices of Automata, a start-up robotics company based in London ... Yet now, developments in artificial intelligence, alongside improved vision technology and better devices for gripping, are ...",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.bbc.com/news/business-51442445",
+      "ampWebUrl": "https://www.bbc.com/news/amp/business-51442445",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/business-51442445",
+      "publishedDateTime": "2020-02-17T16:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/2066/production/_110849280_robots.boxes.g.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": "Why your new work colleague could be a robot",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-02-17-surgeries-will-become-easier-with-use-of-robotics-ai-says-birrd-director.md",
+      "title": "Surgeries will become easier with use of robotics, AI, says BIRRD director",
+      "excerpt": "From merely using nimble fingers to perform complex surgeries, the TTD’s Balaji Institute of Surgery, Research and Rehabilitation for the Disabled (BIRRD) is all set to take a giant leap by taking the assistance of robotics and artificial intelligence for precision and patient comfort. In his maiden interaction with the media here on Friday ...",
+      "heat": 107,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.thehindu.com/news/national/andhra-pradesh/surgeries-will-become-easier-with-use-of-robotics-ai-says-birrd-director/article30846594.ece",
+      "ampWebUrl": "https://www.thehindu.com/news/national/andhra-pradesh/surgeries-will-become-easier-with-use-of-robotics-ai-says-birrd-director/article30846594.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/andhra-pradesh/surgeries-will-become-easier-with-use-of-robotics-ai-says-birrd-director/article30846594.ece/amp/",
+      "publishedDateTime": "2020-02-17T11:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hindu",
+        "domain": "thehindu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://th.thgim.com/static/theme/default/base/img/og-image.jpg",
+          "width": 300,
+          "height": 300,
+          "title": "Surgeries will become easier with use of robotics, AI, says BIRRD director",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-02-17-space-robotics-market-emerging-trends-and-strong-application-scope-by-2025.md",
       "title": "Space Robotics Market Emerging Trends and Strong Application Scope by 2025",
       "excerpt": "HTF Market Intelligence released a new research report of 150 pages on title 'Global Space Robotics Market Insights by Application, Product Type, Competitive Landscape & Regional Forecast 2025' with detailed analysis,",
@@ -1141,125 +1260,6 @@
           "width": 639,
           "height": 429,
           "title": "DAILY NEWS OF ARTIFICIAL INTELLIGENCE",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-02-07-weed-mapping-robot-moves-from-prototype-to-fleet-manufacture.md",
-      "title": "Weed-mapping robot moves from prototype to fleet manufacture",
-      "excerpt": "Small Robot Company (SRC), the UK-based agri-tech startup, has announced the next stage in the development of its crop-monitoring ... feed/weed and seed arable crops, directed by an Ubuntu-based AI system called Wilma. Tom creates high-resolution 'per-plant' crop maps, which will enable Dick and Harry to carry out precision husbandry with ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/weed-mapping-robot-moves-from-prototype-to-fleet-manufacture/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/weed-mapping-robot-moves-from-prototype-to-fleet-manufacture/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/weed-mapping-robot-moves-from-prototype-to-fleet-manufacture/",
-      "publishedDateTime": "2020-02-07T07:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/2020/02/07/742eee96-17ca-4206-9b0b-0ad038337ee0/tom-tractor.jpg",
-          "width": 770,
-          "height": 614,
-          "title": "Weed-mapping robot moves from prototype to fleet manufacture",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-02-06-new-blood-sampling-robot-performs-as-well-or-better-than-people.md",
-      "title": "New blood-sampling robot performs as well or better than people",
-      "excerpt": "Next steps include refining the device to improve success rates in patients with difficult veins to access. Data from this study will be used to enhance artificial intelligence in the robot to improve its performance.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.news-medical.net/news/20200206/New-blood-sampling-robot-performs-as-well-or-better-than-people.aspx",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20200206/New-blood-sampling-robot-performs-as-well-or-better-than-people.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200206/New-blood-sampling-robot-performs-as-well-or-better-than-people.aspx",
-      "publishedDateTime": "2020-02-06T12:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.news-medical.net/image.axd?picture=2017%2f1%2fHEALTHCARE_shutterstock_493063267_99928a5e003043f896998f01b025b9f6-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": "New blood-sampling robot performs as well or better than people",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-02-06-robotics-investments-recap-january-2020.md",
-      "title": "Robotics investments recap: January 2020",
-      "excerpt": "In January 2020, reported transactions among robotics, drone, autonomous vehicles, and artificial intelligence companies totaled $1.16 billion. There were fewer deals around self-driving vehicles than in the past several months, but investors still supported supply chain, surgical systems, and agricultural automation. At the same time ...",
-      "heat": 104,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.therobotreport.com/january-2020-robotics-investments-recap/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-06T05:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2019/01/bg-robotic-omnichannel-fulfillmentflexbot-with-order1200xx3840-2160-0-0.png",
-          "width": 1200,
-          "height": 675,
-          "title": "Robotics investments recap: January 2020",
           "attribution": null
         }
       ],

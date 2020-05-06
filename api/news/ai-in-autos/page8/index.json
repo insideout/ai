@@ -2,6 +2,109 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-03-09-artificial-intelligence-the-forbidden-fruit-of-the-21st-century.md",
+      "title": "Artificial Intelligence: The Forbidden Fruit of the 21st Century",
+      "excerpt": "Long before the invention of self-driving cars and robotics, Jews conceived the idea of man-made life. Artificial intelligence (AI) is becoming so advanced now that it is conceivable that machines could not only replace humans for most jobs, but actually develop intelligence higher than that of humans. Machines will be capable of designing ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.algemeiner.com/2020/03/09/artificial-intelligence-the-forbidden-fruit-of-the-21st-century/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-09T04:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Algemeiner",
+        "domain": "algemeiner.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.algemeiner.com/wp-content/uploads/2017/10/torah-scroll-e1504233787694-2.jpg",
+          "width": 720,
+          "height": 360,
+          "title": "Artificial Intelligence: The Forbidden Fruit of the 21st Century",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-09-as-companies-race-to-develop-self-driving-cars-americans-remain-ambivalent.md",
+      "title": "As companies race to develop self-driving cars, Americans remain ambivalent",
+      "excerpt": "As companies continue working to get self-driving cars into production, acceptance of the technology remains “stuck in neutral,” according to AAA. In a study conducted by the organization ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.digitaltrends.com/cars/aaa-study-shows-acceptance-of-self-driving-cars-stuck-in-neutral/",
+      "ampWebUrl": "https://www.digitaltrends.com/cars/aaa-study-shows-acceptance-of-self-driving-cars-stuck-in-neutral/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/aaa-study-shows-acceptance-of-self-driving-cars-stuck-in-neutral/?amp",
+      "publishedDateTime": "2020-03-09T03:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-09-autonomous-and-self-driving-vehicle-news-baidu-spoofed-waymo-cmore.md",
+      "title": "Autonomous and Self-Driving Vehicle News; Baidu Spoofed, Waymo & CMORE",
+      "excerpt": "That’s all you need to get the sensor mixed up, report the researchers that broke into Baidu Apollo. “We showed how an attacker can suddenly halt ... which fills a crucial safety role in self-driving vehicles. In the U.S. each year, there are more than 1.5 million deer-related accidents, which cause around 200 human deaths and 10,000 ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.autoconnectedcar.com/2020/03/autonomous-and-self-driving-vehicle-news-baidu-spoofed-waymo-cmore/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-08T19:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "autoconnectedcar.com",
+        "domain": "autoconnectedcar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-09-getting-there-americans-remain-leery-of-self-driving-cars.md",
       "title": "GETTING THERE: Americans remain leery of self-driving cars",
       "excerpt": "WHILE the push continues for a future where self-driving cars are the norm, at present we humans seem averse to sharing the road with artificial intelligence. And that’s saying a lot, given the proliferation of bad and dangerous drivers on the roads.",
@@ -1101,133 +1204,6 @@
           "width": 6000,
           "height": 4000,
           "title": "Artificial intelligence hub planned for Orange County",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-02-24-insightful-new-report-is-an-eye-opening-look-at-how-us-government-is-embracing-ai.md",
-      "title": "Insightful New Report Is An Eye-Opening Look At How U.S. Government Is Embracing AI",
-      "excerpt": "One of the most frequently asked questions that I get at industry conferences is how far along the federal government has progressed in embracing AI. Why does this question come up? Some ask because they fervently believe that the government could do a much better job of providing agency services and likely perform its myriad of tasks more effectively by adopting the latest in AI technologies.",
-      "heat": 83,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/02/24/insightful-new-report-reveals-an-eye-opening-look-at-how-our-government-is-embracing-ai/",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/02/24/insightful-new-report-reveals-an-eye-opening-look-at-how-our-government-is-embracing-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/02/24/insightful-new-report-reveals-an-eye-opening-look-at-how-our-government-is-embracing-ai/amp/",
-      "publishedDateTime": "2020-02-24T12:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e52be65d378190007f416ef%2F0x0.jpg%3FcropX1%3D234%26cropX2%3D5634%26cropY1%3D0%26cropY2%3D3600",
-          "width": 1200,
-          "height": 800,
-          "title": "Insightful New Report Is An Eye-Opening Look At How U.S. Government Is Embracing AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-02-24-china-delays-self-driving-car-deployment-goal-to-2025.md",
-      "title": "China delays self-driving car deployment goal to 2025",
-      "excerpt": "Why it matters: China backing off its ambitious plans underscores the challenging technological leap that self-driving technology has proven to be. Global auto tech giants have struggled to make autonomous cars safe for public use. The valuation of Google’s AV arm Waymo was slashed by 40% to $105 billion late last year, while General Motors ...",
-      "heat": 164,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://technode.com/2020/02/24/china-delays-self-driving-car-deployment-goal-to-2025/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-24T06:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechNode",
-        "domain": "technode.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://technode.com/wp-content/uploads/2019/01/bigstock-Smart-Car-Self-driving-Mode-V-260101189.jpg",
-          "width": 1775,
-          "height": 1080,
-          "title": "China delays self-driving car deployment goal to 2025",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-02-24-mit-csails-radars-map-hidden-features-to-help-driverless-cars-navigate-snowy-terrain.md",
-      "title": "MIT CSAIL’s radars map hidden features to help driverless cars navigate snowy terrain",
-      "excerpt": "Plus, bad weather has a tendency to obscure road signage and structures that normally serve as navigational landmarks. Fortunately, researchers at MIT’s Computer Science and Artificial Intelligence Laboratory and Lincoln Laboratory are on the case. In a paper that will be published in the journal IEEE Robotics and Automation Letters later ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/02/23/mit-csails-ground-penetrating-radars-map-underground-features-to-help-driverless-cars-navigate-snowy-terrain/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-23T21:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/02/1MIT-CSAILs-car-in-the-snow-from-the-back-credit-MIT-CSAIL-e1582233935856.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "MIT CSAIL’s radars map hidden features to help driverless cars navigate snowy terrain",
           "attribution": null
         }
       ],

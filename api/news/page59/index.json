@@ -2,6 +2,548 @@
   "page": 59,
   "value": [
     {
+      "path": "_news/2020-03-18-the-ai-eye-vsblty-provides-corporate-update-and-intel-announces-readiness-of-neuromorphic-research-system.md",
+      "title": "The AI Eye: VSBLTY Provides Corporate Update and Intel Announces Readiness of Neuromorphic Research System",
+      "excerpt": "Point Roberts, WA and Vancouver, BC - March 18, 2020 (Investorideas.com Newswire) Investorideas.com (www.investorideas.com), a global investor news source covering Artificial Intelligence (AI) brings you today's edition of The AI Eye - watching stock news,",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/the-ai-eye-vsblty-provides-corporate-update-and-intel-announces-readiness-of-neuromorphic-research-system-2020-03-18",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-18T11:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "The AI Eye: VSBLTY Provides Corporate Update and Intel Announces Readiness of Neuromorphic Research System",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-18-facebooks-own-facial-recognition-app-could-show-employees-connections-to-their-friend-list.md",
+      "title": "Facebook’s own facial recognition app could show employees connections to their friend list",
+      "excerpt": "Facebook built a facial recognition tool that could be used by employees to scan faces of their friends who had certain features activated on the social media giant, according to a new report. Motherboard published screenshots and details about the company’s internal facial recognition tool on Wednesday. The app was created by the company ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.dailydot.com/debug/facebook-facial-recognition/",
+      "ampWebUrl": "https://www.dailydot.com/debug/facebook-facial-recognition/?amp",
+      "cdnAmpWebUrl": "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/facebook-facial-recognition/?amp",
+      "publishedDateTime": "2020-03-18T10:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily Dot",
+        "domain": "dailydot.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.dailydot.com/wp-content/uploads/2020/03/zuckerberg-clearview-ai-1024x512.jpg",
+          "width": 1024,
+          "height": 512,
+          "title": "Facebook’s own facial recognition app could show employees connections to their friend list",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-18-fca-opts-for-cerence-drive-in-latest-version-of-in-car-voice-platform.md",
+      "title": "FCA Opts for Cerence Drive in Latest Version of In-Car Voice Platform",
+      "excerpt": "Fiat Chrysler Automobiles (FCA) has become the latest car manufacturer to adopt Cerence Drive. The voice recognition solution has been integrated into Uconnect 5, the most recent version of FCA’s Uconnect in-car infotainment platform. Uconnect 5 will be deployed across FCA’s entire product line, allowing drivers to use the brand of their ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://mobileidworld.com/fca-opts-cerence-drive-latest-version-uconnect-in-car-voice-platform-031804/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-18T10:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mobile ID News",
+        "domain": "mobileidworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mobileidworld.com/wp-content/uploads/automobile-automotive-car-228094-1024x683.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": "FCA Opts for Cerence Drive in Latest Version of In-Car Voice Platform",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-18-delphian-trading-launches-ai-based-institutional-trading-platform.md",
+      "title": "Delphian Trading Launches AI-based Institutional Trading Platform",
+      "excerpt": "Delphian Trading, a leader in predictive analytics for derivatives trading and incubated by System Soft Technologies, today announced the formal launch of its Delphian Trading platform, which provides institutional-grade,",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.globenewswire.com/news-release/2020/03/18/2002835/0/en/Delphian-Trading-Launches-AI-based-Institutional-Trading-Platform.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-18T09:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GlobeNewswire",
+        "domain": "globenewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-18-ibm-cloud-struggles-suffers-small-outage-in-dallas.md",
+      "title": "IBM Cloud struggles, suffers small outage in Dallas",
+      "excerpt": "In a week filled with small outages, IBM Cloud experienced several issues on March 17. Services at its Dallas data center were degraded, with some fully going down, and others slowing or throwing up error codes. Watson AI, IBM Cloud, DB2, Event Streams, and Classic Network Infrastructure were among the services impacted. IBM spokespeople did ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.datacenterdynamics.com/en/news/ibm-cloud-struggles-suffers-small-outage-dallas/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-18T09:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Datacenter Dynamics",
+        "domain": "datacenterdynamics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.datacenterdynamics.com/media/images/IBM_Swallows_RedHat.2e16d0ba.fill-1200x630.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": "IBM Cloud struggles, suffers small outage in Dallas",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-18-composing-new-proteins-with-artificial-intelligence.md",
+      "title": "Composing new proteins with artificial intelligence",
+      "excerpt": "The specific sounds generated, determined by the way a protein folds, can be used to train deep learning neural networks. “These networks learn to understand the complex language folded proteins speak at multiple time scales,” said Markus J.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://sciencebulletin.org/composing-new-proteins-with-artificial-intelligence/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-18T09:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Bulletin",
+        "domain": "sciencebulletin.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://sciencebulletin.org/wp-content/uploads/2020/03/Composing-new-proteins-with-artificial-intelligence.jpg",
+          "width": 1536,
+          "height": 1286,
+          "title": "Composing new proteins with artificial intelligence",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-18-ibm-and-microsoft-sign-rome-call-for-ai-ethics-what-happens-next.md",
+      "title": "IBM and Microsoft Sign 'Rome Call for AI Ethics': What Happens Next?",
+      "excerpt": "On Feb. 28, representatives from the Pontifical Academy for Life, Microsoft, IBM, FAO (UN Food and Agriculture Organization) and the Italian government signed the \"Rome Call for AI Ethics,\" a document developed to support an ethical approach to artificial intelligence. Founded in 1994, the Pontifical Academy is dedicated to study and inform on ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cmswire.com/information-management/ibm-and-microsoft-sign-rome-call-for-ai-ethics-what-happens-next/",
+      "ampWebUrl": "https://www.cmswire.com/information-management/ibm-and-microsoft-sign-rome-call-for-ai-ethics-what-happens-next/amp/",
+      "cdnAmpWebUrl": "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/information-management/ibm-and-microsoft-sign-rome-call-for-ai-ethics-what-happens-next/amp/",
+      "publishedDateTime": "2020-03-18T08:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CMS Wire",
+        "domain": "cmswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.cmswire.com/-/media/images/smg/editorial/2020-18-march-doctor-looking-at-xray-on-tablet.ashx?mw=1024",
+          "width": 640,
+          "height": 480,
+          "title": "IBM and Microsoft Sign 'Rome Call for AI Ethics': What Happens Next?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-18-precision-medicine-pushes-demand-for-hpc-at-the-edge-ai-on-the-fly-delivers.md",
+      "title": "Precision Medicine pushes demand for HPC at the Edge: AI on the Fly ® Delivers",
+      "excerpt": "Parabricks, a company recently acquired by NVIDIA, has changed the paradigm and developed a GPU based solution that executes genomic analysis best practices ... generation of highly intelligent medical devices ready for field deployment. In fact, its AI on the Fly ® platforms and building blocks are being used by OEMs to build and deliver ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://insidehpc.com/2020/03/precision-medicine-pushes-demand-for-high-performance-computing-at-the-edge-ai-on-the-fly-delivers/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-18T08:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "insideHPC",
+        "domain": "insidehpc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://insidehpc.com/wp-content/uploads/2019/12/vaccine-300x300.jpg",
+          "width": 300,
+          "height": 300,
+          "title": "Precision Medicine pushes demand for HPC at the Edge: AI on the Fly ® Delivers",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-18-intel-debuts-pohoiki-springs-a-powerful-neuromorphic-research-system-for-ai-workloads.md",
+      "title": "Intel debuts Pohoiki Springs, a powerful neuromorphic research system for AI workloads",
+      "excerpt": "Just this week, Intel demonstrated that the chips can be used to “teach” an AI model to distinguish among 10 different scents. “Pohoiki Springs enables our research partners to explore ways to accelerate workloads that run slowly today on conventional architectures, including high-performance computing systems,” said Intel neuromorphic ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/03/18/intel-debuts-pohoiki-springs-a-powerful-neuromorphic-research-system-for-ai-workloads/",
+      "ampWebUrl": "https://venturebeat.com/2020/03/18/intel-debuts-pohoiki-springs-a-powerful-neuromorphic-research-system-for-ai-workloads/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/18/intel-debuts-pohoiki-springs-a-powerful-neuromorphic-research-system-for-ai-workloads/amp/",
+      "publishedDateTime": "2020-03-18T07:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/07/Loihi-close-up-e1584209140290.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Intel debuts Pohoiki Springs, a powerful neuromorphic research system for AI workloads",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-18-85-of-organizations-are-using-ai-in-deployed-applications.md",
+      "title": "85% of organizations are using AI in deployed applications",
+      "excerpt": "For mature adopters, the need to control for interpretability and transparency of machine learning models was the second-most cited risk factor (~55%), while those still evaluating AI placed fairness, bias, and ethics (~40%) in second place. While the risks of AI can be intimidating, the benefits can be worth the risk. For all adopters ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/article/85-of-organizations-are-using-ai-in-deployed-applications/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/85-of-organizations-are-using-ai-in-deployed-applications/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/85-of-organizations-are-using-ai-in-deployed-applications/",
+      "publishedDateTime": "2020-03-18T07:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr4.cbsistatic.com/hub/i/r/2019/12/30/1d648c0f-4760-4136-b873-d81d41107963/resize/1200x/0ca267f50dad0a49084f5dcccb3c2b75/istock-1167065891.jpg",
+          "width": 1200,
+          "height": 791,
+          "title": "85% of organizations are using AI in deployed applications",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-18-finastra-appoints-gary-e-bischoping-jr-as-chief-financial-officer.md",
+      "title": "Finastra Appoints Gary E. Bischoping, Jr. as Chief Financial Officer",
+      "excerpt": "/PRNewswire/ -- Finastra has appointed Gary E. Bischoping, Jr. as Chief Financial Officer (CFO), effective March 16, 2020. Based at Finastra's headquarters",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.prnewswire.com/news-releases/finastra-appoints-gary-e-bischoping-jr-as-chief-financial-officer-301026161.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-18T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1135264/Finastra_Gary_CFO.jpg?p=facebook",
+          "width": 2941,
+          "height": 1539,
+          "title": "Finastra Appoints Gary E. Bischoping, Jr. as Chief Financial Officer",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-18-speech-and-voice-recognition-market-analysis-by-industry-size-share-key-drivers-growth-factors-demands-manufacturers-and-2026-forecast.md",
+      "title": "Speech and Voice Recognition Market Analysis By Industry Size, Share, Key Drivers, Growth Factors, Demands, Manufacturers and 2026 Forecast",
+      "excerpt": "The global speech and voice recognition market is expected to rise with an impressive CAGR and generate the highest revenue by 2026.Fortune Business Insights™ in its latest report published this information.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-analysis-by-industry-size-share-key-drivers-growth-factors-demands-manufacturers-and-2026-forecast-2020-03-18",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-18T06:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Speech and Voice Recognition Market Analysis By Industry Size, Share, Key Drivers, Growth Factors, Demands, Manufacturers and 2026 Forecast",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-18-artificial-intelligence-helps-prevent-disruptions-in-fusion-devices.md",
+      "title": "Artificial intelligence helps prevent disruptions in fusion devices",
+      "excerpt": "has demonstrated the use of Artificial Intelligence (AI), the same computing concept that will empower self-driving cars, to predict and avoid disruptions -- the sudden release of energy stored in ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://eurekalert.org/pub_releases/2020-03/dppl-aih031720.php",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-18T06:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.eurekalert.org/multimedia/pub/web/227200_web.jpg",
+          "width": 1440,
+          "height": 523,
+          "title": "Artificial intelligence helps prevent disruptions in fusion devices",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-18-is-python-storming-ahead-of-java-in-fintech.md",
+      "title": "Is Python storming ahead of Java in fintech?",
+      "excerpt": "Harris sees momentum being driven by the appetite for data and AI projects, rather than purely fintech, among the bigger banks. According to Harris: “A larger factor could be the popularity of Python in machine learning and data science – in solving challenges in analytics, regulation, compliance, and data. Tasks which are made easier by ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.finextra.com/the-long-read/28/is-python-storming-ahead-of-java-in-fintech",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-18T06:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finextra",
+        "domain": "finextra.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.finextra.com/finextra-images/oped/28.jpg",
+          "width": 800,
+          "height": 450,
+          "title": "Is Python storming ahead of Java in fintech?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-18-a-chinese-firm-claims-it-has-built-facial-recognition-tech-that-identifies-people-wearing-masks-with-95-accuracy.md",
       "title": "A Chinese firm claims it has built facial recognition tech that identifies people wearing masks with 95% accuracy",
       "excerpt": "People have foiled facial recognition technologies by wearing masks during the coronavirus outbreak.",
@@ -428,542 +970,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-18-here-to-help-formations-comes-out-of-stealth-to-help-full-time-self-employed-maximize-their-financial-gains.md",
-      "title": "Here to Help: Formations Comes Out of Stealth to Help Full-Time Self-Employed Maximize Their Financial Gains",
-      "excerpt": "The Kirkland-Based Fintech Startup Embraces the Latest Cloud-Accounting Technology, Big Data and Machine Learning to Detect Patterns and Find Opportunities for Smarter Financial Decisions That Can Add Up to $20,",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.benzinga.com/pressreleases/20/03/b15578143/here-to-help-formations-comes-out-of-stealth-to-help-full-time-self-employed-maximize-their-financ",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/15578143",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15578143",
-      "publishedDateTime": "2020-03-18T04:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-18-deepgram-raises-12-million-to-train-custom-speech-recognition-models-for-businesses.md",
-      "title": "Deepgram raises $12 million to train custom speech recognition models for businesses",
-      "excerpt": "Deepgram, a Y Combinator graduate building tailored speech recognition models, today announced it has raised $12 million in series A financing. CEO and cofounder Scott Stephenson says the proceeds will bolster the development of Deepgram’s platform, which helps enterprises to process meeting, call, and presentation recordings. If all goes ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/03/18/deepgram-raises-12-million-to-train-custom-speech-recognition-models-for-businesses/",
-      "ampWebUrl": "https://venturebeat.com/2020/03/18/deepgram-raises-12-million-to-train-custom-speech-recognition-models-for-businesses/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/18/deepgram-raises-12-million-to-train-custom-speech-recognition-models-for-businesses/amp/",
-      "publishedDateTime": "2020-03-18T04:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/10/voice-recognition.shutterstock_10831770921-e1584378309976.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Deepgram raises $12 million to train custom speech recognition models for businesses",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-18-deepgram-raises-12m-for-enterprise-speech-recognition.md",
-      "title": "Deepgram raises $12M for enterprise speech recognition",
-      "excerpt": "Deepgram, a startup focused on high-quality, real-time speech recognition, announced a $12 million Series A this morning. The startup, founded a half decade ago, according to Crunchbase data, with just a few million in raised capital, is interesting, as its success to date was founded on two consecutive experiments. The first dealing with its ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/03/18/deepgram-raises-12m-for-enterprise-speech-recognition/",
-      "ampWebUrl": "https://techcrunch.com/2020/03/18/deepgram-raises-12m-for-enterprise-speech-recognition/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/03/18/deepgram-raises-12m-for-enterprise-speech-recognition/amp/",
-      "publishedDateTime": "2020-03-18T04:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/10/GettyImages-491580488.jpg?w=1024",
-          "width": 1024,
-          "height": 767,
-          "title": "Deepgram raises $12M for enterprise speech recognition",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-18-ibm-talks-up-deeper-language-smarts-for-watson.md",
-      "title": "IBM talks up deeper language smarts for Watson",
-      "excerpt": "“Language is a tool for expressing thought and opinion, as much as it is a tool for information,” said Rob Thomas, general manager, IBM Data and AI. “This is why we’re harvesting technology from Project Debater and integrating it into Watson – to enable businesses to capture, analyse, and understand more from human language and start ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cio.com/article/3532454/ibm-talks-up-deeper-language-smarts-for-watson.html",
-      "ampWebUrl": "https://www.cio.com/article/3532454/ibm-talks-up-deeper-language-smarts-for-watson.amp.html",
-      "cdnAmpWebUrl": "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/3532454/ibm-talks-up-deeper-language-smarts-for-watson.amp.html",
-      "publishedDateTime": "2020-03-18T03:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CIO",
-        "domain": "cio.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2018/09/11_everyone-has-a-voice_point-of-view_speaking_communication_megaphone-100771142-large.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "IBM talks up deeper language smarts for Watson",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-03-18-cerence-powers-voice-for-all-new-uconnect-5-global-infotainment-platform-at-fca.md",
-      "title": "Cerence Powers Voice for All-New Uconnect 5 Global Infotainment Platform at FCA",
-      "excerpt": "Brings its most innovative voice recognition capabilities to FCA model lineup, delivering more engaging and intuitive in-car experiences Brings its most innovative voice recognition capabilities to FCA model lineup, delivering more engaging and intuitive ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.autoblog.com/press-releases/cerence-powers-voice-for-all-new-uconnect-5-global-infotainment-platform--at-fca_22558/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-18T03:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Autoblog",
-        "domain": "autoblog.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-18-oneconnect-joins-idcs-financial-insights-fintech-fast-101-list-of-leading-fintech-companies-in-asia.md",
-      "title": "OneConnect Joins IDC’s Financial Insights’ FinTech Fast 101 List of Leading FinTech Companies in Asia",
-      "excerpt": "IDC’s FinTech Fast 101 was based upon extensive ... Lastly, OneConnect’s rapid respond to customers’ demands during the ongoing COVID-19 epidemic using AI, big data and blockchain, sets it apart from the competition. OneConnect has specifically offered five smart solutions, which enable financial institutions to experience a smooth ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businesswire.com/news/home/20200318005262/en/OneConnect-Joins-IDC’s-Financial-Insights’-FinTech-Fast",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-18T03:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20200318005262/en/780435/23/IDC.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": "OneConnect Joins IDC’s Financial Insights’ FinTech Fast 101 List of Leading FinTech Companies in Asia",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-18-canon-medicals-3t-mr-system-receives-fda-clearance-for-artificial-intelligence-based-image-reconstruction-technology.md",
-      "title": "Canon Medical’s 3T MR System Receives FDA Clearance for Artificial Intelligence-Based Image Reconstruction Technology",
-      "excerpt": "AiCE was trained using vast amounts of high-quality image data, and features a deep learning neural network that can reduce noise and boost signal to quickly deliver sharp, clear and distinct images, further opening doors for advancements in MR imaging. Capabilities include: “AiCE utilizes a next generation approach to MR image reconstruction ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businesswire.com/news/home/20200318005103/en/Canon-Medical’s-3T-System-Receives-FDA-Clearance",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-18T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20200318005103/en/706033/23/3724089_3724081_Canon_Medical_Systems_Corpration_USA_Red_logo_RGB.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": "Canon Medical’s 3T MR System Receives FDA Clearance for Artificial Intelligence-Based Image Reconstruction Technology",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-03-18-axon-names-dr-wael-abd-almageed-to-ai-ethics-board-jeff-kunins-quoted.md",
-      "title": "Axon Names Dr. Wael Abd-Almageed to AI Ethics Board; Jeff Kunins Quoted",
-      "excerpt": "Axon (Nasdaq: AAXN) has appointed three new members to its AI Ethics Board, including Dr. Wael Abd-Almageed, the company announced on Tuesday. The board was established in April 2018 to guide the responsible development and use of AI-powered technologies being developed. \"Our new AI Ethics Board members bring a wealth of knowledge and ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.govconwire.com/2020/03/axon-names-dr-wael-abd-almageed-to-ai-ethics-board-jeff-kunins-quoted/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-18T02:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GovCon Wire",
-        "domain": "govconwire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://govconwire-media.s3.amazonaws.com/2020/03/18/2c/ab/57/f7/9d/73/eb/c4/servlet-9.filedownload",
-          "width": 272,
-          "height": 270,
-          "title": "Axon Names Dr. Wael Abd-Almageed to AI Ethics Board; Jeff Kunins Quoted",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-18-natural-language-processing-nlp-market-overview-and-scope-global-industry-trends-share-size-and-forecast-report-by-2025.md",
-      "title": "Natural Language Processing (NLP) Market- Overview and scope, Global Industry Trends, Share, Size and Forecast Report By 2025",
-      "excerpt": "The Global Natural Language Processing (NLP) in Healthcare and Life Sciences Market was valued at USD 1.12 billion in 2016 and is projected to reach USD 6.24 billion by 2025, growing at a CAGR of 21.02% from 2017 to 2025.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market--overview-and-scope-global-industry-trends-share-size-and-forecast-report-by-2025-2020-03-18",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-18T02:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Natural Language Processing (NLP) Market- Overview and scope, Global Industry Trends, Share, Size and Forecast Report By 2025",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-18-at-aws-cloud-day-2020-in-jaipur-aws-architects-and-customers-share-their-experiences-on-aws-cloud-solutions.md",
-      "title": "At AWS Cloud Day 2020 in Jaipur, AWS architects and customers share their experiences on AWS Cloud solutions",
-      "excerpt": "On February 19, Amazon Web Services (AWS) organised the AWS Cloud Day in Jaipur. AWS solution architects, industry veterans and startups took to the stage to discuss Artificial Intelligence (AI), Machine Learning (ML), SAP, migration, cloud architecture, and how Amazon’s Cloud solutions are helping startups scale. The event was packed with ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://yourstory.com/2020/03/aws-cloud-day-jaipur-aws-architects-cloud",
-      "ampWebUrl": "https://yourstory.com/2020/03/aws-cloud-day-jaipur-aws-architects-cloud/amp",
-      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/03/aws-cloud-day-jaipur-aws-architects-cloud/amp",
-      "publishedDateTime": "2020-03-18T02:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Your Story",
-        "domain": "yourstory.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.yourstory.com/cs/2/2d86ed30-b282-11e8-b2e7-114aea10c711/1584522154228.png?fm=png&auto=format",
-          "width": 801,
-          "height": 401,
-          "title": "At AWS Cloud Day 2020 in Jaipur, AWS architects and customers share their experiences on AWS Cloud solutions",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-18-artificial-intelligence-in-healthcare-market-size-trends-2020-growth-share-regional-and-global-industry-trends-forecast-to-2026.md",
-      "title": "Artificial Intelligence in Healthcare Market Size, Trends 2020 Growth, Share, Regional And Global Industry Trends Forecast To 2026",
-      "excerpt": "Artificial Intelligence in Healthcare Market To Expand Rapidly at Notable CAGR as the various factors mentioned in",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-size-trends-2020-growth-share-regional-and-global-industry-trends-forecast-to-2026-2020-03-18",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-18T01:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Artificial Intelligence in Healthcare Market Size, Trends 2020 Growth, Share, Regional And Global Industry Trends Forecast To 2026",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-18-5-elements-of-a-comprehensive-government-ai-strategy.md",
-      "title": "5 Elements of a Comprehensive Government AI Strategy",
-      "excerpt": "Strategy architects should identify appropriate performance metrics for the AI, adopt data ethics guardrails, and explicitly define performance standards in terms of accuracy, explainability, transparency and preventing bias. An AI upgrade may require platform, data and technical upgrades. The U.S. Department of Health and Human Services ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.governing.com/next/5-Elements-of-a-Comprehensive-Government-AI-Strategy.html",
-      "ampWebUrl": "https://www.governing.com/next/5-Elements-of-a-Comprehensive-Government-AI-Strategy.html?AMP",
-      "cdnAmpWebUrl": "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/next/5-Elements-of-a-Comprehensive-Government-AI-Strategy.html?AMP",
-      "publishedDateTime": "2020-03-18T01:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Governing",
-        "domain": "governing.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media2.govtech.com/images/amazon+echo.jpg",
-          "width": 770,
-          "height": 513,
-          "title": "5 Elements of a Comprehensive Government AI Strategy",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-18-toyota-partners-with-chinas-momenta-to-commercialize-hd-maps-for-self-driving-vehicles.md",
-      "title": "Toyota Partners With China's Momenta To Commercialize HD Maps For Self-Driving Vehicles",
-      "excerpt": "has partnered with Beijing-based artificial intelligence startup Momenta to commercialize its high definition road map for automated vehicles, the Nikkei Asian Review reported Wednesday. \"With this joint development,",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.benzinga.com/news/20/03/15575732/toyota-partners-with-chinas-momenta-to-commercialize-hd-maps-for-self-driving-vehicles",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/15575732",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15575732",
-      "publishedDateTime": "2020-03-18T01:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.benzinga.com/files/images/story/2012/toyota_0.jpeg",
-          "width": 1834,
-          "height": 2747,
-          "title": "Toyota Partners With China's Momenta To Commercialize HD Maps For Self-Driving Vehicles",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-18-datarobot-and-intersystems-partner-to-accelerate-adoption-of-ai-in-healthcare.md",
-      "title": "DataRobot and InterSystems partner to accelerate adoption of ai in healthcare",
-      "excerpt": "DataRobot’s enterprise AI platform will augment InterSystems IntegratedML, which gives developers access to AutoML capabilities directly from SQL. This allows InterSystems IRIS and IRIS for Health customers to embed predictions within their existing applications in a simple, intuitive, and scalable way. InterSystems’ technology simplifies ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zawya.com/mena/en/press-releases/story/DataRobot_and_InterSystems_partner_to_accelerate_adoption_of_ai_in_healthcare-ZAWYA20200318071738/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-18T00:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.zawya.com/resources/img/zawya-logo-en-social.png",
-          "width": 1200,
-          "height": 878,
-          "title": "DataRobot and InterSystems partner to accelerate adoption of ai in healthcare",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

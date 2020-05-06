@@ -2,6 +2,487 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-04-30-vc-appetite-for-ai-startups-holds-up-in-q1-despite-lackluster-exit-volume.md",
+      "title": "VC appetite for AI startups holds up in Q1 despite lackluster exit volume",
+      "excerpt": "Hello and welcome back to our regular morning look at private companies, public markets and the gray space in between. Today we’re taking our final look back at Q1 venture capital through the lens of AI-focused startups.",
+      "heat": 86,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/04/30/vc-appetite-for-ai-startups-holds-up-in-q1-despite-lackluster-exit-volume/",
+      "ampWebUrl": "https://techcrunch.com/2020/04/30/vc-appetite-for-ai-startups-holds-up-in-q1-despite-lackluster-exit-volume/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/30/vc-appetite-for-ai-startups-holds-up-in-q1-despite-lackluster-exit-volume/amp/",
+      "publishedDateTime": "2020-04-30T06:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/11/GettyImages-1139876920.jpg?w=1024",
+          "width": 1024,
+          "height": 664,
+          "title": "VC appetite for AI startups holds up in Q1 despite lackluster exit volume",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-30-artificial-intelligence-market-size-2020-share-trends-segmentation-and-forecast-by-2025.md",
+      "title": "Artificial Intelligence Market Size 2020 Share, Trends, Segmentation and Forecast by 2025",
+      "excerpt": "A recent report on Artificial Intelligence (AI) Market provides a detailed analysis of the industry size, revenue forecasts and geographical landscape pertaining to this business space. Additionally,",
+      "heat": 70,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-size-2020-share-trends-segmentation-and-forecast-by-2025-2020-04-30",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-30T06:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial Intelligence Market Size 2020 Share, Trends, Segmentation and Forecast by 2025",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-30-tesla-confirms-self-driving-as-a-subscription-service-but-brace-yourself-for-the-price.md",
+      "title": "Tesla confirms self-driving as a subscription service but brace yourself for the price",
+      "excerpt": "Driving package (FSD) as a subscription service, but you should brace yourself for the price. We reported earlier this week that Tesla is working on a pay-as-you-go subscription for its self-driving package based on some code that leaked in Tesla’s in-app purchase system.",
+      "heat": 101,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://electrek.co/2020/04/30/tesla-self-driving-subscription-service-price/",
+      "ampWebUrl": "https://electrek.co/2020/04/30/tesla-self-driving-subscription-service-price/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/04/30/tesla-self-driving-subscription-service-price/amp/",
+      "publishedDateTime": "2020-04-30T06:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://electrek.co/wp-content/uploads/sites/3/2019/04/Tesla-self-driving.jpg?quality=82&strip=all&w=1000",
+          "width": 1000,
+          "height": 458,
+          "title": "Tesla confirms self-driving as a subscription service but brace yourself for the price",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-30-linkedins-ai-gives-job-candidates-feedback-on-their-interview-answers.md",
+      "title": "LinkedIn’s AI gives job candidates feedback on their interview answers",
+      "excerpt": "LinkedIn today launched a new AI feature that provides helpful feedback to members on their answers to job interview questions.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/30/linkedins-ai-gives-job-candidates-feedback-on-their-interview-answers/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/30/linkedins-ai-gives-job-candidates-feedback-on-their-interview-answers/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/30/linkedins-ai-gives-job-candidates-feedback-on-their-interview-answers/amp/",
+      "publishedDateTime": "2020-04-30T06:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2015/10/LinkedIn-sign-Sylvain-Kalache-Flickr-e1588110833221.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "LinkedIn’s AI gives job candidates feedback on their interview answers",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-30-duolingos-ai-drives-its-english-proficiency-tests.md",
+      "title": "Duolingo’s AI drives its English proficiency tests",
+      "excerpt": "Duolingo tapped AI and machine learning to create a cheaper, faster English proficiency test that the company claims is on par with proctored exams.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/30/duolingos-english-test-ai-serve-and-score-questions/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/30/duolingos-english-test-ai-serve-and-score-questions/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/30/duolingos-english-test-ai-serve-and-score-questions/amp/",
+      "publishedDateTime": "2020-04-30T06:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2015/06/duolingo_logo.png?fit=1000%2C600&strip=all",
+          "width": 1000,
+          "height": 600,
+          "title": "Duolingo’s AI drives its English proficiency tests",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-30-microsofts-windows-virtual-desktop-spring-refresh-whats-new-and-next.md",
+      "title": "Microsoft's Windows Virtual Desktop spring refresh: What's new and next",
+      "excerpt": "Microsoft is ready to roll out its 'spring refresh' of WVD, while working on a grander plan to make WVD more of a full-fledged cloud-managed desktop.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/microsofts-windows-virtual-desktop-spring-refresh-whats-new-and-next/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsofts-windows-virtual-desktop-spring-refresh-whats-new-and-next/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsofts-windows-virtual-desktop-spring-refresh-whats-new-and-next/",
+      "publishedDateTime": "2020-04-30T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/04/30/b77a0f01-6b33-4f90-b06e-94b4e3c3b85f/newwvdfeatures.jpg",
+          "width": 875,
+          "height": 557,
+          "title": "Microsoft's Windows Virtual Desktop spring refresh: What's new and next",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-30-ai-in-africa-teaching-a-bot-to-read-my-mums-texts.md",
+      "title": "AI in Africa: Teaching a bot to read my mum's texts",
+      "excerpt": "How African researchers are using the continent's languages to help spur innovation in Artificial Intelligence.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.bbc.com/news/world-africa-52411797",
+      "ampWebUrl": "https://www.bbc.com/news/amp/world-africa-52411797",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-africa-52411797",
+      "publishedDateTime": "2020-04-30T05:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/FD69/production/_112037846_img_20180827_082945_171.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": "AI in Africa: Teaching a bot to read my mum's texts",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-30-tesla-profits-says-full-self-driving-will-be-subscription-by-year-end.md",
+      "title": "Tesla Profits, Says Full Self-Driving Will Be Subscription by Year-End",
+      "excerpt": "CEO Elon Musk said the self-driving feature will roll out by the end of 2020, and he also complained that COVID-19 shelter-in-place rules infringe on rights.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.caranddriver.com/news/a32324475/tesla-posts-profit-q1-2020/",
+      "ampWebUrl": "https://www.caranddriver.com/news/amp32324475/tesla-posts-profit-q1-2020/",
+      "cdnAmpWebUrl": "https://www-caranddriver-com.cdn.ampproject.org/c/s/www.caranddriver.com/news/amp32324475/tesla-posts-profit-q1-2020/",
+      "publishedDateTime": "2020-04-30T05:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Car and Driver",
+        "domain": "caranddriver.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/tesla-logo-is-seen-at-its-factory-in-fremont-california-on-news-photo-1588013368.jpg?crop=1xw:0.82183xh;center,top&resize=1200:*",
+          "width": 1024,
+          "height": 512,
+          "title": "Tesla Profits, Says Full Self-Driving Will Be Subscription by Year-End",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-30-australian-businesses-lead-in-ai-deployment-but-bias-challenges-still-exist-genpact.md",
+      "title": "Australian businesses lead in AI deployment but bias challenges still exist: Genpact",
+      "excerpt": "Australians still fear AI bias and that algorithms can make decisions that affect them without their knowledge, a new report has found.",
+      "heat": 80,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/australian-businesses-lead-in-ai-deployment-but-need-to-overcome-bias-challenges-genpact/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/australian-businesses-lead-in-ai-deployment-but-need-to-overcome-bias-challenges-genpact/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/australian-businesses-lead-in-ai-deployment-but-need-to-overcome-bias-challenges-genpact/",
+      "publishedDateTime": "2020-04-30T05:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2017/08/08/f6ceef89-c938-405c-9ff0-71b03a212cbd/thumbnail/1200x675/7d7f9d66decc95dc28d1267da7a0d33a/woolworths.png",
+          "width": 1200,
+          "height": 675,
+          "title": "Australian businesses lead in AI deployment but bias challenges still exist: Genpact",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-30-its-no-joke-ai-beats-humans-at-making-you-laugh.md",
+      "title": "It's No Joke: AI Beats Humans At Making You Laugh",
+      "excerpt": "Research shows people don’t trust recommendations from algorithms—and that’s a problem for companies that increasingly rely on AI-based technology to persuade consumers.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/hbsworkingknowledge/2020/04/30/its-no-joke-ai-beats-humans-at-making-you-laugh/",
+      "ampWebUrl": "https://www.forbes.com/sites/hbsworkingknowledge/2020/04/30/its-no-joke-ai-beats-humans-at-making-you-laugh/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/hbsworkingknowledge/2020/04/30/its-no-joke-ai-beats-humans-at-making-you-laugh/amp/",
+      "publishedDateTime": "2020-04-30T05:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e9747a11048ea0006cbddb7%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "It's No Joke: AI Beats Humans At Making You Laugh",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-30-moxie-is-the-robot-pal-you-dreamed-of-as-a-kid.md",
+      "title": "Moxie Is the Robot Pal You Dreamed of as a Kid",
+      "excerpt": "Whereas other companion robots like the household assistant Jibo or Paro the robotic seal are designed for adults or the elderly, Moxie is built to foster social, cognitive, and emotional development in children.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wired.com/story/moxie-is-the-robot-pal-you-dreamed-of-as-a-kid/",
+      "ampWebUrl": "https://www.wired.com/story/moxie-is-the-robot-pal-you-dreamed-of-as-a-kid/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/moxie-is-the-robot-pal-you-dreamed-of-as-a-kid/amp",
+      "publishedDateTime": "2020-04-30T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5ea9c7ddf6ca1700082903b1/master/pass/Science_Moxie_gray_727A9788_face_lights_color.jpg",
+          "width": 2300,
+          "height": 1533,
+          "title": "Moxie Is the Robot Pal You Dreamed of as a Kid",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-30-patent-office-artificial-intelligence-cant-invent-things.md",
       "title": "Patent office: Artificial intelligence can’t invent things",
       "excerpt": "Artificial intelligence is the future. If “Westworld” or “Black Mirror” are to be believed, there will soon come a day when the computers rule us all. But for now, an",
@@ -817,467 +1298,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-29-an-ai-meme-generator-gives-us-the-absurdist-art-we-all-need.md",
-      "title": "An AI Meme Generator Gives Us the Absurdist Art We All Need",
-      "excerpt": "Titled, wryly, This Meme Does Not Exist, the tool is very simple: Select from one of dozens of popular memes and let the generator do the rest. Pick Dave Chappelle’s Tyrone Biggums’ Y’all Got Any More of That meme and it’ll spit out something about emails.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wired.com/story/ai-meme-generator-coronavirus/",
-      "ampWebUrl": "https://www.wired.com/story/ai-meme-generator-coronavirus/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ai-meme-generator-coronavirus/amp",
-      "publishedDateTime": "2020-04-29T13:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5ea9d66f08103b0008367982/master/pass/Cul-mememe-865675824.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": "An AI Meme Generator Gives Us the Absurdist Art We All Need",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-29-facebooks-teaching-ai-to-lie-like-a-human.md",
-      "title": "Facebook’s teaching AI to lie like a human",
-      "excerpt": "Because, essentially, what Facebook‘s done is taught Blender’s chatbots to lie moderately better than everyone else’s. Today we’re announcing that Facebook AI has built and open-sourced Blender, the largest-ever open-domain chatbot.",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/04/29/facebooks-teaching-ai-to-lie-like-a-human/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/04/29/facebooks-teaching-ai-to-lie-like-a-human/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/04/29/facebooks-teaching-ai-to-lie-like-a-human/amp/",
-      "publishedDateTime": "2020-04-29T13:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/03/robotpresident-796x417.jpg",
-          "width": 796,
-          "height": 417,
-          "title": "Facebook’s teaching AI to lie like a human",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-29-tectonai-emerges-from-stealth-to-solve-machine-learning-pipeline-challenges.md",
-      "title": "Tecton.ai emerges from stealth to solve machine learning pipeline challenges",
-      "excerpt": "Tecton.ai is a data platform for machine learning that lets data scientists transform raw data into production-ready features.",
-      "heat": 81,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://sdtimes.com/ai/tecton-ai-emerges-from-stealth-to-solve-machine-learning-pipeline-challenges/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-29T12:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SD Times",
-        "domain": "sdtimes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://sdtimes.com/wp-content/uploads/2020/04/tecton-hero-1180px@2x-1024x357.png",
-          "width": 1024,
-          "height": 357,
-          "title": "Tecton.ai emerges from stealth to solve machine learning pipeline challenges",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-04-29-the-ai-meme-generator-is-better-at-making-memes-than-humans.md",
-      "title": "The AI meme generator is better at making memes than humans",
-      "excerpt": "Internet users have used the Imgflip meme generator to create their own memes for the better part of a decade. Now, the site is generating its own memes, using the help of artificial intelligence. Harkening back to AI-generated feet pictures and AI-generated faces,",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://mashable.com/article/ai-meme-generator/",
-      "ampWebUrl": "https://mashable.com/article/ai-meme-generator.amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/ai-meme-generator.amp",
-      "publishedDateTime": "2020-04-29T11:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/2020%252F04%252F29%252Fe6%252Ffccff94954e94c1197cd695c0359290d.89652.png%252F1200x630.png?signature=iB3J6jwGoxGkoaY0JIFKbiybHEs=",
-          "width": 1200,
-          "height": 630,
-          "title": "The AI meme generator is better at making memes than humans",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-29-roborock-s6-maxv-robot-vacuum-hands-on-ai-camera-eliminates-pet-poop-disasters.md",
-      "title": "Roborock S6 MaxV robot vacuum hands-on: AI camera eliminates pet poop disasters",
-      "excerpt": "All in all, the Roborock S6 MaxV is a superb high-end robot vacuum with obstacle avoidance and an app that is easy to configure. For $749, it could be the only robot vacuum you will ever need to buy.",
-      "heat": 85,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/product/roborock-s6-maxv-robot-vacuum/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/product/roborock-s6-maxv-robot-vacuum/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/product/roborock-s6-maxv-robot-vacuum/",
-      "publishedDateTime": "2020-04-29T11:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/04/29/c6bf9a20-fbd2-4936-a1ca-bec926067d2e/resize/1200x900/32bb8dd0f8fd50e98ba8b741c9011d30/roborock-s6-maxv-robot-vacuum-eileen-brown-zdnet.png",
-          "width": 1200,
-          "height": 532,
-          "title": "Roborock S6 MaxV robot vacuum hands-on: AI camera eliminates pet poop disasters",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-04-29-google-open-sources-faster-more-efficient-tensorflow-runtime.md",
-      "title": "Google open-sources faster, more efficient TensorFlow runtime",
-      "excerpt": "Google open-sourced TFRT, a faster and more efficient runtime that'll eventually replace the default runtime in the company's TensorFlow framework.",
-      "heat": 106,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/29/google-open-sources-faster-more-efficient-tensorflow-runtime/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/29/google-open-sources-faster-more-efficient-tensorflow-runtime/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/29/google-open-sources-faster-more-efficient-tensorflow-runtime/amp/",
-      "publishedDateTime": "2020-04-29T11:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/06/tensorflow.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Google open-sources faster, more efficient TensorFlow runtime",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2020-04-29-dotdata-launches-ai-faststart-program-to-make-it-easy-for-bi-teams-to-adopt-aiml-through-automl-20.md",
-      "title": "dotData Launches AI-FastStart™ Program to Make it Easy for BI Teams to Adopt AI/ML through AutoML 2.0",
-      "excerpt": "PRNewswire/ -- dotData, focused on delivering full-cycle data science automation and operationalization for the enterprise, today announced",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.prnewswire.com/news-releases/dotdata-launches-ai-faststart-program-to-make-it-easy-for-bi-teams-to-adopt-aiml-through-automl-2-0--301049518.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-29T11:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg",
-          "width": 600,
-          "height": 315,
-          "title": "dotData Launches AI-FastStart™ Program to Make it Easy for BI Teams to Adopt AI/ML through AutoML 2.0",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-29-cruise-cant-test-its-self-driving-cars-so-its-delivering-food-instead.md",
-      "title": "Cruise can't test its self-driving cars. So it's delivering food instead.",
-      "excerpt": "Cruise vehicles, the self-driving electric Chevy Bolts usually spotted around San Francisco neighborhoods, are back on the road after a brief pause during the coronavirus outbreak. And now that the fleet is considered an essential service,",
-      "heat": 83,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://mashable.com/article/cruise-gm-autonomous-cars-food-delivery/",
-      "ampWebUrl": "https://mashable.com/article/cruise-gm-autonomous-cars-food-delivery.amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/cruise-gm-autonomous-cars-food-delivery.amp",
-      "publishedDateTime": "2020-04-29T10:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/2020%252F04%252F29%252F5e%252F1efeba8e0f7e467eb123699e8e9356c2.e6915.jpg%252F1200x630.jpg?signature=Hvy3PtU_wTqrmzWJ1FvBYTRijw0=",
-          "width": 1200,
-          "height": 630,
-          "title": "Cruise can't test its self-driving cars. So it's delivering food instead.",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-29-building-a-smart-garage-door-opener-with-aws-deeplens-and-amazon-rekognition.md",
-      "title": "Building a smart garage door opener with AWS DeepLens and Amazon Rekognition",
-      "excerpt": "Many industries, including retail, manufacturing, and healthcare, are adopting IoT-enabled devices and using AI or machine learning (ML) technologies to enable such devices to make human-like decisions without human intervention. You can also apply some of the use cases involving powering IoT-enabled",
-      "heat": 116,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/building-a-smart-garage-door-opener-with-aws-deeplens-and-amazon-rekognition/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-29T10:09:39-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/04/29/building-smart-garage-16.gif",
-          "width": 979,
-          "height": 571,
-          "title": "Building a smart garage door opener with AWS DeepLens and Amazon Rekognition",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-29-ai-model-predicts-the-coronavirus-pandemic-will-end-in-december.md",
-      "title": "AI model predicts the coronavirus pandemic will end in December",
-      "excerpt": "Data scientists have attempted to answer the question on everyone's mind: When will the COVID-19 pandemic end?",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/04/29/ai-model-predicts-the-coronavirus-pandemic-will-end-in-december/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/04/29/ai-model-predicts-the-coronavirus-pandemic-will-end-in-december/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/04/29/ai-model-predicts-the-coronavirus-pandemic-will-end-in-december/amp/",
-      "publishedDateTime": "2020-04-29T10:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/04/Untitled-design-19-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "AI model predicts the coronavirus pandemic will end in December",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-29-self-driving-vehicles-get-in-on-the-delivery-scene-amid-covid-19.md",
-      "title": "Self-Driving Vehicles Get in on the Delivery Scene Amid COVID-19",
-      "excerpt": "Since mid-April, the cars of General Motors Co's self-driving unit Cruise have flashed a \"SF COVID-19 Response\" sign on their windshields as they deliver food from SF-Marin Food B",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.usnews.com/news/technology/articles/2020-04-29/self-driving-vehicles-get-in-on-the-delivery-scene-amid-covid-19",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-29T09:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

@@ -2,6 +2,109 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-03-17-why-sd-wans-need-artificial-intelligence.md",
+      "title": "Why SD-WANs Need Artificial Intelligence",
+      "excerpt": "A driver still needs to be present. That is, until fully autonomous vehicles become a reality. Self-driving cars will rely on understanding road rules and use artificial intelligence (AI) to make decisions without drivers. Data will be constantly fed into the automobile, so as conditions change, so too will the AI-based decisions. The same is ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.networkworld.com/article/3532473/why-sd-wans-need-artificial-intelligence.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-17T03:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Network World",
+        "domain": "networkworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2020/03/istock-1051617224-100835456-large.3x2.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Why SD-WANs Need Artificial Intelligence",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-17-artificial-intelligence-ai-market.md",
+      "title": "Artificial Intelligence (AI) Market",
+      "excerpt": "In This report studies of MarketStudyReport LLC the Artificial Intelligence (AI) in Fintech market status and outlook of Global and major regions, from angles of players, countries, product types ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.openpr.com/news/1970600/whats-driving-an-artificial-intelligence-ai-in-fintech-market",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-17T02:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-17-artificial-intelligence-how-to-switch-career-into-ai-in-2020.md",
+      "title": "Artificial Intelligence – How to Switch Career into AI in 2020",
+      "excerpt": "Artificial Intelligence, a division of computer science empowers on creating smart machines that are highly specialized and share common traits with a human brain. In other words, we are developing machines that can think and work like humans. Ranging from speech recognition, facial identification, robotics surgery to the self-driving cars ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://yourstory.com/mystory/artificial-intelligence-switch-career-2020",
+      "ampWebUrl": "https://yourstory.com/mystory/artificial-intelligence-switch-career-2020/amp",
+      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/mystory/artificial-intelligence-switch-career-2020/amp",
+      "publishedDateTime": "2020-03-16T18:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Your Story",
+        "domain": "yourstory.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.yourstory.com/cs/users/e1d73f90-14f3-11ea-be83-85120a427c93/profile_image_1575284828775.png",
+          "width": 512,
+          "height": 512,
+          "title": "Artificial Intelligence – How to Switch Career into AI in 2020",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-17-society-50-japans-lofty-plans-face-hurdles.md",
       "title": "Society 5.0: Japan’s lofty plans face hurdles",
       "excerpt": "Carbon emissions are cut by driverless vehicles choosing the shortest route home. Robots take care of the elderly, using body sensors to flag up if additional human help is needed. Artificial intelligence (AI) will sift your online history and health records to build you the perfect itinerary for a city break, for example, tailored just so to ...",
@@ -1044,109 +1147,6 @@
           "attribution": null
         }
       ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-09-artificial-intelligence-the-forbidden-fruit-of-the-21st-century.md",
-      "title": "Artificial Intelligence: The Forbidden Fruit of the 21st Century",
-      "excerpt": "Long before the invention of self-driving cars and robotics, Jews conceived the idea of man-made life. Artificial intelligence (AI) is becoming so advanced now that it is conceivable that machines could not only replace humans for most jobs, but actually develop intelligence higher than that of humans. Machines will be capable of designing ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.algemeiner.com/2020/03/09/artificial-intelligence-the-forbidden-fruit-of-the-21st-century/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-09T04:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Algemeiner",
-        "domain": "algemeiner.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.algemeiner.com/wp-content/uploads/2017/10/torah-scroll-e1504233787694-2.jpg",
-          "width": 720,
-          "height": 360,
-          "title": "Artificial Intelligence: The Forbidden Fruit of the 21st Century",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-09-as-companies-race-to-develop-self-driving-cars-americans-remain-ambivalent.md",
-      "title": "As companies race to develop self-driving cars, Americans remain ambivalent",
-      "excerpt": "As companies continue working to get self-driving cars into production, acceptance of the technology remains “stuck in neutral,” according to AAA. In a study conducted by the organization ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.digitaltrends.com/cars/aaa-study-shows-acceptance-of-self-driving-cars-stuck-in-neutral/",
-      "ampWebUrl": "https://www.digitaltrends.com/cars/aaa-study-shows-acceptance-of-self-driving-cars-stuck-in-neutral/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/aaa-study-shows-acceptance-of-self-driving-cars-stuck-in-neutral/?amp",
-      "publishedDateTime": "2020-03-09T03:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-09-autonomous-and-self-driving-vehicle-news-baidu-spoofed-waymo-cmore.md",
-      "title": "Autonomous and Self-Driving Vehicle News; Baidu Spoofed, Waymo & CMORE",
-      "excerpt": "That’s all you need to get the sensor mixed up, report the researchers that broke into Baidu Apollo. “We showed how an attacker can suddenly halt ... which fills a crucial safety role in self-driving vehicles. In the U.S. each year, there are more than 1.5 million deer-related accidents, which cause around 200 human deaths and 10,000 ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.autoconnectedcar.com/2020/03/autonomous-and-self-driving-vehicle-news-baidu-spoofed-waymo-cmore/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-08T19:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "autoconnectedcar.com",
-        "domain": "autoconnectedcar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
       "locale": "en-us",
       "categories": [
         "news"

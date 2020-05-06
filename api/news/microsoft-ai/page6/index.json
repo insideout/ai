@@ -2,6 +2,36 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-03-10-looking-at-how-ai-can-improve-computer-vision.md",
+      "title": "Looking at How AI Can Improve Computer Vision",
+      "excerpt": "And doing so in a manner that provides noticeable improvements in productivity, efficiency and capability. The ability to blend artificial intelligence into the computer vision process could be a prime example. I recently had the opportunity to connect with Johann Beukes, vice-president of data science and analytics at Levatas to hear his insights.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.industryweek.com/technology-and-iiot/article/21125741/looking-at-how-ai-can-improve-computer-vision",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-10T02:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IndustryWeek",
+        "domain": "industryweek.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-10-ai-recruitment-start-up-recognised-at-microsofts-ai-awards-20.md",
       "title": "AI recruitment start-up recognised at Microsoft’s AI Awards 2.0",
       "excerpt": "Talview helps its clients with digital hiring process by leveraging the capabilities of Microsoft Azure to automate talent screening, video interviews, and securely proctor cognitive assessments for hiring decisions ... need to be a goal for employers in Singapore in 2018. The services sector is attracting top talent as China's economy shifts ...",
@@ -1233,52 +1263,6 @@
       "topics": [
         "AI",
         "Natural Language Processing",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-22-trillion-dollar-foes-does-amazon-web-services-reign-supreme-in-the-cloud-business.md",
-      "title": "Trillion-Dollar Foes: Does Amazon Web Services Reign Supreme in the Cloud Business?",
-      "excerpt": "AWS is dominant within Amazon as well ... If Microsoft is the victor, it would be poised to expand its global presence through the pairing of cloud services with artificial intelligence or machine learning. This could increase revenue and potentially expand its market share, perhaps even putting the company ahead of Amazon on revenue.",
-      "heat": 85,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.fool.com/investing/2020/02/22/trillion-dollar-foes-does-amazon-web-services-reig.aspx",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/02/22/trillion-dollar-foes-does-amazon-web-services-reig.aspx",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/02/22/trillion-dollar-foes-does-amazon-web-services-reig.aspx",
-      "publishedDateTime": "2020-02-22T06:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F558881%2Fcloud-computing-computer-key-getty-6-2-17.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 900,
-          "title": "Trillion-Dollar Foes: Does Amazon Web Services Reign Supreme in the Cloud Business?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
         "Microsoft AI"
       ]
     }

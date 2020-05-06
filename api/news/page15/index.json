@@ -2,6 +2,459 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2020-04-23-paige-adds-5m-from-goldman-sachs-to-double-down-on-ai-based-cancer-therapies.md",
+      "title": "Paige adds $5M from Goldman Sachs to double down on AI-based cancer therapies",
+      "excerpt": "“It has highlighted that they are unable to work remotely. The technology we have been building supports the pathology community’s ability to work safely and remotely, and can further accelerate their work through the use of AI technology. Because pathologists’ inability to work remotely is becoming more apparent, it is creating an ...",
+      "heat": 94,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/04/23/paige-adds-5m-from-goldman-sachs-to-double-down-on-ai-based-cancer-therapies/",
+      "ampWebUrl": "https://techcrunch.com/2020/04/23/paige-adds-5m-from-goldman-sachs-to-double-down-on-ai-based-cancer-therapies/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/23/paige-adds-5m-from-goldman-sachs-to-double-down-on-ai-based-cancer-therapies/amp/",
+      "publishedDateTime": "2020-04-23T05:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2018/09/techdoc.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": "Paige adds $5M from Goldman Sachs to double down on AI-based cancer therapies",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-23-machine-learning-based-demand-forecasting-for-fast-adaptability-to-changes.md",
+      "title": "Machine Learning-Based Demand Forecasting For Fast Adaptability To Changes",
+      "excerpt": "How to predict such rapidly changing demand? Demand forecasting powered with machine learning (ML) may help to make smarter decisions by providing data-driven insights. The most beautiful thing about advanced forecasting is the adoption of “what-if” scenario planning. New data storage capabilities combined with cutting-edge analytics allow ...",
+      "heat": 77,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://retailtouchpoints.com/topics/data-analytics/ai-machine-learning/machine-learning-based-demand-forecasting-for-fast-adaptability-to-changes",
+      "ampWebUrl": "https://retailtouchpoints.com/topics/data-analytics/ai-machine-learning/machine-learning-based-demand-forecasting-for-fast-adaptability-to-changes/amp",
+      "cdnAmpWebUrl": "https://retailtouchpoints-com.cdn.ampproject.org/c/s/retailtouchpoints.com/topics/data-analytics/ai-machine-learning/machine-learning-based-demand-forecasting-for-fast-adaptability-to-changes/amp",
+      "publishedDateTime": "2020-04-23T05:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Retail TouchPoints",
+        "domain": "retailtouchpoints.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://retailtouchpoints.com/wp-content/uploads/2020/03/retailrenaissance.jpg",
+          "width": 805,
+          "height": 490,
+          "title": "Machine Learning-Based Demand Forecasting For Fast Adaptability To Changes",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-23-time-to-think-ethically-about-ai.md",
+      "title": "Time to think ethically about AI",
+      "excerpt": "Camilla Ravazzolo, the MRS EU policy manager at the MRS, writes about reframing the discussion around artificial intelligence.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.research-live.com/article/opinion/time-to-think-ethically-about-ai/id/5066692",
+      "ampWebUrl": "https://www.research-live.com/amp-page.html?id=5066692&name=time-to-think-ethically-about-ai",
+      "cdnAmpWebUrl": "https://www-research--live-com.cdn.ampproject.org/c/s/www.research-live.com/amp-page.html?id=5066692&name=time-to-think-ethically-about-ai",
+      "publishedDateTime": "2020-04-23T04:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "research",
+        "domain": "research-live.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.research-live.com/img/MRS_EM_RGB.jpg",
+          "width": 1000,
+          "height": 581,
+          "title": "Time to think ethically about AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-23-misconception-3-of-5-managing-models-is-like-managing-traditional-software.md",
+      "title": "Misconception 3 (of 5): Managing Models Is Like Managing Traditional Software",
+      "excerpt": "More recently, I covered the profound implications that AutoML will have on the enterprise and how ModelOps will be essential for managing shadow AI. This article deals with one of the most important topics in this series,",
+      "heat": 81,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/04/23/misconception-3-of-5-managing-models-is-like-managing-traditional-software/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/04/23/misconception-3-of-5-managing-models-is-like-managing-traditional-software/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/04/23/misconception-3-of-5-managing-models-is-like-managing-traditional-software/amp/",
+      "publishedDateTime": "2020-04-23T04:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F04%2Fa-53-3.jpg",
+          "width": 640,
+          "height": 640,
+          "title": "Misconception 3 (of 5): Managing Models Is Like Managing Traditional Software",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-23-bringing-machine-learning-to-finance-dont-overlook-these-three-key-considerations.md",
+      "title": "Bringing Machine Learning To Finance? Don't Overlook These Three Key Considerations",
+      "excerpt": "Harnessing the promise and power of machine learning is an exciting prospect for finance executives. Before long, planning systems will operate much like a navigation system for finance teams — a kind of Waze for business.",
+      "heat": 85,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/04/23/bringing-machine-learning-to-finance-dont-overlook-these-three-key-considerations/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/04/23/bringing-machine-learning-to-finance-dont-overlook-these-three-key-considerations/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/04/23/bringing-machine-learning-to-finance-dont-overlook-these-three-key-considerations/amp/",
+      "publishedDateTime": "2020-04-23T04:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F04%2Fa-54-3.jpg",
+          "width": 640,
+          "height": 640,
+          "title": "Bringing Machine Learning To Finance? Don't Overlook These Three Key Considerations",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2020-04-23-the-italian-ai-firm-helping-governments-fight-coronavirus-and-spot-the-next-pandemic.md",
+      "title": "The Italian AI Firm Helping Governments Fight Coronavirus — And Spot The Next Pandemic",
+      "excerpt": "Expert System, a publicly traded artificial intelligence firm based in Modena, Italy, has built a tool that will help governments prepare for future pandemics.",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/giacomotognini/2020/04/23/the-italian-ai-firm-helping-governments-fight-coronavirus---and-spot-the-next-pandemic/",
+      "ampWebUrl": "https://www.forbes.com/sites/giacomotognini/2020/04/23/the-italian-ai-firm-helping-governments-fight-coronavirus---and-spot-the-next-pandemic/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/giacomotognini/2020/04/23/the-italian-ai-firm-helping-governments-fight-coronavirus---and-spot-the-next-pandemic/amp/",
+      "publishedDateTime": "2020-04-23T04:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ea0bfa5dea8300007de94b2%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4800%26cropY1%3D245%26cropY2%3D2946",
+          "width": 1200,
+          "height": 676,
+          "title": "The Italian AI Firm Helping Governments Fight Coronavirus — And Spot The Next Pandemic",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-23-natural-language-processing-nlp-market-to-garner-overwhelming-hike-in-revenues-by-2027.md",
+      "title": "Natural Language Processing (NLP) Market to Garner Overwhelming Hike In Revenues by 2027",
+      "excerpt": "According to the research held by Acumenresearchandconsulting.com, \"The global Natural Language Processing (NLP) market is expected to reach US$ XX Mn with a CAGR of XX.X% during the forecast period from 2020 to 2027\".",
+      "heat": 70,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-to-garner-overwhelming-hike-in-revenues-by-2027-2020-04-23",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-23T03:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Natural Language Processing (NLP) Market to Garner Overwhelming Hike In Revenues by 2027",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-23-impact-of-covid-19-on-artificial-intelligence-in-construction-market-and-know-how-market-size-to-generate-a-revenue-of-26424-million-by-2026.md",
+      "title": "Impact of COVID-19 on Artificial intelligence in construction market and know How market size to generate a revenue of $2,642.4 million by 2026",
+      "excerpt": "It is no longer unusual before completing a project on a construction site to fly a drone to visualize a project or to select the best setting on the basis of artificial intelligence AIs forecasts Construction is one of the",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.openpr.com/news/2021839/impact-of-covid-19-on-artificial-intelligence-in-construction",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-23T01:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-23-machine-learning-as-a-service-mlaas-market-size-overview-by-rising-demands-and-huge-business-opportunities-2020-2027.md",
+      "title": "Machine Learning as a Service (MLaaS) Market Size Overview by Rising Demands and Huge Business Opportunities 2020-2027",
+      "excerpt": "According to the research held by Acumenresearchandconsulting.com, \"The global Machine Learning as a Service (MLaaS) market is expected to reach US$ XX Mn with a CAGR of XX.X% during the forecast period from 2020 to 2027\".",
+      "heat": 90,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-size-overview-by-rising-demands-and-huge-business-opportunities-2020-2027-2020-04-23",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-23T01:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Machine Learning as a Service (MLaaS) Market Size Overview by Rising Demands and Huge Business Opportunities 2020-2027",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-23-startup-reseau-goes-live-with-its-ai-summit.md",
+      "title": "Startup Réseau Goes LIVE With its AI Summit",
+      "excerpt": "The online summit will cover themes and tracks across core technology and applications, where AI is playing a massive role Built on the founding pillar of #StartupsFirst, 'Startup Réseau' is an ecosystem of Enterprises, Capital, Markets, and Services – for Startups, by bringing in various types of structured interface for enabling unique ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.prnewswire.com/in/news-releases/startup-reseau-goes-live-with-its-ai-summit-847656852.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-23T00:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg",
+          "width": 600,
+          "height": 315,
+          "title": "Startup Réseau Goes LIVE With its AI Summit",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-23-google-introduces-improved-ai-to-address-gender-bias-in-translate.md",
+      "title": "Google introduces improved AI to address gender bias in translate",
+      "excerpt": "In 2018, the search giant addressed that problem by providing a translation in both genders for sentences in a gender-neutral language like Turkish. Yesterday, Google’s AI team released a new model that’s more scalable — meaning it can be applied to translate phrases in other languages. This new rollout brings support for gender-specific ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/04/23/google-introduces-improved-ai-to-address-gender-bias-in-translate/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/04/23/google-introduces-improved-ai-to-address-gender-bias-in-translate/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/04/23/google-introduces-improved-ai-to-address-gender-bias-in-translate/amp/",
+      "publishedDateTime": "2020-04-23T00:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/04/before-after.png",
+          "width": 640,
+          "height": 310,
+          "title": "Google introduces improved AI to address gender bias in translate",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-23-europe-speech-recognition-software-market-will-take-the-highest-jump-during-2020-2025.md",
       "title": "Europe Speech Recognition Software Market will take the highest jump during 2020-2025",
       "excerpt": "The global Speech Recognition Software market report offers information relating to the leading regions, competitive landscape, growth trends, and other crucial information about the growth status of the market.",
@@ -606,483 +1059,6 @@
           "width": 1200,
           "height": 675,
           "title": "For Earth Day, a tech team develops a way to heal coral reefs using AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-22-how-microsoft-is-using-ai-to-make-the-planet-greener-and-what-other-companies-can-learn-from-its-environmental-game-plan.md",
-      "title": "How Microsoft is using AI to make the planet greener — and what other companies can learn from its environmental game plan",
-      "excerpt": "The company said it gave out 230 grants since launching the initiative. Microsoft also put large government data sets related to the environment on its cloud, Azure, to further help AI developers. And this isn't the first time Microsoft used AI to address climate change. The company gave farmers in India, a country heavily affected by rising ...",
-      "heat": 88,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businessinsider.com/what-makes-microsoft-the-best-sustainable-company-2019-6",
-      "ampWebUrl": "https://www.businessinsider.com/what-makes-microsoft-the-best-sustainable-company-2019-6?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/what-makes-microsoft-the-best-sustainable-company-2019-6?amp",
-      "publishedDateTime": "2020-04-22T09:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.insider.com/5ea05ca35bd7a5652d64a405?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": "How Microsoft is using AI to make the planet greener — and what other companies can learn from its environmental game plan",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-22-americans-remain-super-skeptical-of-evs-self-driving-cars.md",
-      "title": "Americans remain super skeptical of EVs, self-driving cars",
-      "excerpt": "JD Power's latest survey shows confidence in both electric cars and self-driving technology started to fall even before the coronavirus pandemic.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnet.com/roadshow/news/ev-self-driving-survey-skeptical-americans/",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/ev-self-driving-survey-skeptical-americans/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ev-self-driving-survey-skeptical-americans/",
-      "publishedDateTime": "2020-04-22T09:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cnet1.cbsistatic.com/img/2Gr2Oyn5xtHNf_PXRKKOiPtjivU=/2018/06/07/ba35851f-811f-48c2-9c8b-65cbba20aaae/2018-chevrolet-bolt-ev-charging-port-ogi.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": "Americans remain super skeptical of EVs, self-driving cars",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-22-google-clouds-anthos-for-aws-generally-available-microsoft-azure-in-preview.md",
-      "title": "Google Cloud's Anthos for AWS generally available, Microsoft Azure in preview",
-      "excerpt": "For Google Cloud, Anthos is a differentiator that can bring it more enterprise workloads as it competes with AWS and Azure. Google Cloud chief Thomas Kurian has been touting ... the vendor can have higher-level discussions with customers about machine learning and services like BigQuery. Google Cloud announces Anthos for Telecom, bringing ...",
-      "heat": 126,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/google-clouds-anthos-for-aws-generally-available-microsoft-azure-in-preview/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-clouds-anthos-for-aws-generally-available-microsoft-azure-in-preview/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-clouds-anthos-for-aws-generally-available-microsoft-azure-in-preview/",
-      "publishedDateTime": "2020-04-22T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2020/04/21/f845188f-8d56-4277-aab6-a38aaf57c3d6/thumbnail/1200x675/72fd8fe83f620363c3fbf8b8bd32e846/screen-shot-2020-04-07-at-4-35-13-pm.png",
-          "width": 1200,
-          "height": 675,
-          "title": "Google Cloud's Anthos for AWS generally available, Microsoft Azure in preview",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-22-googles-ai-teaches-robots-to-grasp-occluded-objects-and-adapt-to-new-situations.md",
-      "title": "Google’s AI teaches robots to grasp occluded objects and adapt to new situations",
-      "excerpt": "In a pair of papers published on the preprint server Arxiv.org this week, Google and University of California, Berkely researchers describe new AI and machine learning techniques that enable robots to adapt to never-before-seen tasks and grasp occluded objects. The first study details X-Ray, an algorithm that when deployed on a robot can search ...",
-      "heat": 82,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/22/googles-ai-teaches-robots-to-grasp-occluded-objects-and-adapt-to-new-situations/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/22/googles-ai-teaches-robots-to-grasp-occluded-objects-and-adapt-to-new-situations/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/22/googles-ai-teaches-robots-to-grasp-occluded-objects-and-adapt-to-new-situations/amp/",
-      "publishedDateTime": "2020-04-22T08:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/10/google-ai-logo.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Google’s AI teaches robots to grasp occluded objects and adapt to new situations",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-22-conversational-systems-market-growing-at-a-cagr-308-key-player-google-microsoft-aws-ibm-oracle.md",
-      "title": "Conversational Systems Market Growing at a CAGR 30.8% | Key Player Google, Microsoft, AWS, IBM, Oracle",
-      "excerpt": "MarketsandMarkets forecasts the global Conversational Systems Market size to grow from USD 4.6 billion in 2019 to",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/conversational-systems-market-growing-at-a-cagr-308-key-player-google-microsoft-aws-ibm-oracle-2020-04-22",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-22T08:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Conversational Systems Market Growing at a CAGR 30.8% | Key Player Google, Microsoft, AWS, IBM, Oracle",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-22-intel-is-using-ai-to-gather-real-time-data-on-coral-reef-health.md",
-      "title": "Intel is using AI to gather real-time data on coral reef health",
-      "excerpt": "Project CORaiL monitors prosthetic reefs with AI-powered video cameras. There’s no question that coral reefs are rapidly deteriorating due to overfishing, bottom trawling, warming temperatures and unsustainable coastal development. In order to help protect and restore reefs, scientists need more data, and Intel thinks it might have a solution.",
-      "heat": 98,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.engadget.com/intel-ai-monitors-coral-reef-health-152247984.html",
-      "ampWebUrl": "https://www.engadget.com/amp/intel-ai-monitors-coral-reef-health-152247984.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/intel-ai-monitors-coral-reef-health-152247984.html",
-      "publishedDateTime": "2020-04-22T08:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-04%2Ffb956480-84aa-11ea-97ce-b695cf0789e3&client=amp-blogside-v2&signature=b61893ebfaeb73766baa17712deaccb3ea747147",
-          "width": 600,
-          "height": 350,
-          "title": "Intel is using AI to gather real-time data on coral reef health",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-22-impact-of-covid-19-on-artificial-intelligence-market-beyond-2020.md",
-      "title": "Impact of COVID-19 on Artificial Intelligence Market - Beyond 2020",
-      "excerpt": "The MarketWatch News Department was not involved in the creation of the content. The global artificial intelligence market has been segmented in terms of type, application, and region. Based on type, the market has been segmented into artificial neural network, digital assistance system, embedded system, expert system and automated robotic system.",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/impact-of-covid-19-on-artificial-intelligence-market---beyond-2020-2020-04-22",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-22T08:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Impact of COVID-19 on Artificial Intelligence Market - Beyond 2020",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-04-22-are-you-pushing-too-many-vertices-to-your-gpu-careful-there.md",
-      "title": "Are You Pushing Too Many Vertices to Your GPU? Careful There!",
-      "excerpt": "Is your game rendering more geometry than your GPU can handle? Here, let me show you a few steps to check if your geometry is causing a performance bottleneck on your players' GPU.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://gamasutra.com/blogs/RubenTorresBonet/20200422/361542/Are_You_Pushing_Too_Many_Vertices_to_Your_GPU_Careful_There.php",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-22T08:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gamasutra",
-        "domain": "gamasutra.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d1506sp6x4e9z7.cloudfront.net/gamasutra/uploads/992467.jpg",
-          "width": 467,
-          "height": 483,
-          "title": "Are You Pushing Too Many Vertices to Your GPU? Careful There!",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-22-baidu-accuses-former-executive-of-corruption.md",
-      "title": "Baidu Accuses Former Executive of Corruption",
-      "excerpt": "Baidu, China’s leading online search group, has reported a former executive to the police. It accuses him of corruption. Wei Fang, a former VP at the company, was investigated by Baidu’s",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://variety.com/2020/biz/asia/baidu-former-executive-corruption-allegations-1234587072/",
-      "ampWebUrl": "https://variety.com/2020/biz/asia/baidu-former-executive-corruption-allegations-1234587072/amp/",
-      "cdnAmpWebUrl": "https://variety-com.cdn.ampproject.org/c/s/variety.com/2020/biz/asia/baidu-former-executive-corruption-allegations-1234587072/amp/",
-      "publishedDateTime": "2020-04-22T07:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Variety",
-        "domain": "variety.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://pmcvariety.files.wordpress.com/2016/02/baidu-logo.jpg?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": "Baidu Accuses Former Executive of Corruption",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-22-granulate-raises-12-million-to-optimize-server-performance-with-ai.md",
-      "title": "Granulate raises $12 million to optimize server performance with AI",
-      "excerpt": "Applying AI to data center operations isn’t a new idea — IDC predicts that 50% of IT assets ... (Granulate has 14 employees, and it expects to triple its headcount to roughly 40 by 2021.) Sign up for Funding Weekly to start your week with VB's top funding stories.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/22/granulate-raises-12-million-to-optimize-server-performance-with-ai/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/22/granulate-raises-12-million-to-optimize-server-performance-with-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/22/granulate-raises-12-million-to-optimize-server-performance-with-ai/amp/",
-      "publishedDateTime": "2020-04-22T07:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2014/10/hp-servers-e1586902722207.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Granulate raises $12 million to optimize server performance with AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-22-optimizing-hardware-infrastructure-with-data-and-ai-granulate-scores-12-million-series-a-funding.md",
-      "title": "Optimizing hardware infrastructure with data and AI: Granulate scores $12 million Series A funding",
-      "excerpt": "Ezra and his co-founder, Tal Saiag, have a story shared by many Israeli startup founders. They met over a decade ago, and served together in one of Israel's top technological intelligence units. Ezra said that besides the fact that this enabled them to hone their problem solving and initiative taking skills, it also had some technical ...",
-      "heat": 73,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/optimizing-hardware-infrastructure-with-data-and-ai-granulate-scores-12-million-series-a-funding/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/optimizing-hardware-infrastructure-with-data-and-ai-granulate-scores-12-million-series-a-funding/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/optimizing-hardware-infrastructure-with-data-and-ai-granulate-scores-12-million-series-a-funding/",
-      "publishedDateTime": "2020-04-22T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/2020/04/22/75d52d79-fe77-48d3-b2aa-5b33a032fa72/granulate-io.jpg",
-          "width": 595,
-          "height": 418,
-          "title": "Optimizing hardware infrastructure with data and AI: Granulate scores $12 million Series A funding",
           "attribution": null
         }
       ],

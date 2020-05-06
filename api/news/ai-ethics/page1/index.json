@@ -2,6 +2,51 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-05-06-call-of-ai-ethics-the-origin-story.md",
+      "title": "Call of AI Ethics: The origin story",
+      "excerpt": "Dr. Francesca Rossi, IBM fellow, AI ethics global leader, and distinguished research staff member, IBM Research, tells Tonya Hall about the Call of AI Ethics that was initiated by the Vatican and presented to Pope Francis.",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/video/call-of-ai-ethics-the-origin-story/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-06T06:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/05/06/9607c290-d166-4c72-8aa5-8d924164ec86/thumbnail/770x578/4386903680cf78bb5d3ee9cc9c177802/thumb.jpg",
+          "width": 770,
+          "height": 578,
+          "title": "Call of AI Ethics: The origin story",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-05-how-nvidia-hopes-to-industrialize-ai-with-mlops.md",
       "title": "How NVIDIA hopes to industrialize AI with MLOps",
       "excerpt": "We still spend far too much time training machine learning models rather than deploying them. Could MLOps--which brings data scientists and DevOps together--be a solution?",
@@ -1269,52 +1314,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-01-developers-its-time-to-brush-up-on-your-philosophy-ethical-ai-is-the-big-new-thing-in-tech.md",
-      "title": "Developers - it's time to brush up on your philosophy: Ethical AI is the big new thing in tech",
-      "excerpt": "What's more: algorithmic bias is only one side of the problem: the 'ethics of AI' picture is indeed a multifaceted one. To mitigate the unwelcome consequences of AI systems, governments around the world have been working on drafts, guidelines and frameworks designed to inform developers and help them come up with algorithms that are respectful ...",
-      "heat": 94,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/developers-its-time-to-brush-up-on-your-philosophy-ethical-ai-is-the-big-new-thing-in-tech/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/developers-its-time-to-brush-up-on-your-philosophy-ethical-ai-is-the-big-new-thing-in-tech/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/developers-its-time-to-brush-up-on-your-philosophy-ethical-ai-is-the-big-new-thing-in-tech/",
-      "publishedDateTime": "2020-04-01T06:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2019/11/06/a1e2b9a4-9330-4565-8e20-f6fb00e3d1a9/thumbnail/1200x675/251d1466033401dd47e80d969b17de3e/20191106-daphne-karen-war.png",
-          "width": 1200,
-          "height": 675,
-          "title": "Developers - it's time to brush up on your philosophy: Ethical AI is the big new thing in tech",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Computer Vision"
       ]
     }
   ],
