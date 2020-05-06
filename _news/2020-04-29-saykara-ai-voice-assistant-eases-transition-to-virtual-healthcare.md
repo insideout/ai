@@ -1,22 +1,19 @@
 ---
 category: news
 title: "Saykara AI Voice Assistant Eases Transition to Virtual Healthcare"
-excerpt: "Saykara, creator of the first ambient AI voice assistant for medical exam room conversations, today announced it has added a telehealth"
-publishedDateTime: 2020-04-29T12:00:00Z
-webUrl: "https://www.prnewswire.com/news-releases/saykara-ai-voice-assistant-eases-transition-to-virtual-healthcare-301049038.html"
+excerpt: "Saykara, creator of the first ambient AI voice assistant for medical exam room conversations, today announced it has added a telehealth on-ramp to make"
+publishedDateTime: 2020-04-29T12:26:00Z
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/saykara-ai-voice-assistant-eases-transition-to-virtual-healthcare/article_0f4573e4-e2a2-54bc-acad-952d7eaf1831.html"
 type: article
-quality: 19
-heat: 19
-published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "bc6Eg5Ohb01awX9WFyUA7jZk9T+2S4H/2ifqil/TPCmuXFVvGONvnLTNtQWAgNNymfJPZbKb7kSCQ2i/EOgNvsC60cA6B2FsSonn0kuSPFxfrimDYLrrEtk21D8hJYd/oDjh1FOi1VHbNl5gytb9eGmxGZjx+/vJfVxp2iBjhzT/0uKRnBB8ACjvjffGD/Z9Jum1aA0JY8ObtS2T/jAJbGnMCtraL5J/uIdt1NdzFoxkKj+kIY3QKewjCU0JRkvLqAKrw3q69Jh3/nVv7Uzf3rLl4QPzF8lAd5s4LUQtOmLNuTLER0/zxlYyb48lN7Gj3oFXG1hIQEC136T75Ut3dIRrl1IH4X0Tvk6UI6Haqa7wpwfHfVaTm/6z3W4PMAVHgKv4TyDJ/H8lXhTO7PYMdkc/6Oek8hO345W6xXRKFksT+/FhpWMoIGAuOsVZtFn8qH42+CeIP/iZnUZkNe49078EtU4P8l3Ma1tBygah+DI=;/g/mMq33Mbhm1LsmQEF1jg=="
+secured: "ESpD8lcb6dTk7A3bDbqVAG69QgQR3j927TuYC1arJBAsNnnATxKXaPJfh9jXnJZyoVjd+DGVW5kGKJQ3kO+A+aKD32k4lkU1lUUMDRPVQ7Sq6EZoGr64WX5AePe+3YXgzAyHbme5h0TM6lcPYmvHk/ovrHqXbe2cdH+xse/zVWI65EoLIRw7C2w+eka7DDT9N1YDoRRzrqcSuZbdOQ6P/ZnbtVHYjtf1oydx6BffWJbD8jmtme4LvAeL27LdRaIc3XWHSlHt3okyfr6s0EJEyCNrNwIF5rD0iCtBSnRNLbZBGiWVbjiR3iqnyVbA7Dpk;+ETCZiAB8GQsRt4RJ/x03Q=="
 ---
 

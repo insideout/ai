@@ -1,25 +1,25 @@
 ---
 category: news
 title: "Arista Delivers Cognitive WiFi for Collaboration, Video and Chat Applications"
-excerpt: "Arista Networks (NYSE:ANET), today announced a new release of its Cognitive WiFi software that ... automated troubleshooting and location services. This provides customers with an enhanced WiFi ..."
-publishedDateTime: 2020-04-22T10:06:00Z
-webUrl: "https://markets.businessinsider.com/news/stocks/arista-delivers-cognitive-wifi-for-collaboration-video-and-chat-applications-1029116619"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/arista-delivers-cognitive-wifi-for-collaboration-video-and-chat-applications-1029116619"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/arista-delivers-cognitive-wifi-for-collaboration-video-and-chat-applications-1029116619"
+excerpt: "--(BUSINESS WIRE)--Arista Networks (NYSE:ANET), today announced a new release of its Cognitive WiFi software ... automated troubleshooting and location services. This provides customers with ..."
+publishedDateTime: 2020-04-22T10:27:00Z
+webUrl: "https://www.businesswire.com/news/home/20200422005166/en/Arista-Delivers-Cognitive-WiFi-Collaboration-Video-Chat"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Microsoft AI
   - AI
 
-secured: "2XfEz6GA0BxZ00T5MbrnD5u0JySCG69/lVcM/V97ybZgPlYaBF5iyG8ufs5rfr6q1PfVUs/jXRRNe1+twVrSLvGjq5y0JSZo1u6oCLao0pQNWVyeiqQyYSaWqaa/P/O3ND5xbedElqqhbGOYgviINOCQ5njwWAP9L0/DQsEBpMfDDhK8HQ0w6r3QoES38zgYiRfkFrNJAdz7SVzIrBDYUfYytO2myAk/lxF67zePre7jkqTqb4vVikV4tOw3z77cBGc5T0jkt9RoXhsVtYDIjzGXgJk5bf0+XM5FLisuw/hHHhA2y0Zl4rVTDzBlJ6G/;ybBhwUsiAor94zNx4UvMwA=="
+images:
+  - url: "https://mms.businesswire.com/media/20200422005166/en/178582/23/arista_200pt_FINAL.jpg"
+    width: 1200
+    height: 627
+    title: "Arista Delivers Cognitive WiFi for Collaboration, Video and Chat Applications"
+
+secured: "tWlVrJ9fUkucyNJTzvi7RN3LgOHscB0KPWXnSyhgnDf8QrGGZkypHKTc0h7w22iHqlk72jDs4AmYPwRhLhCZGjWJnu3oRJsb/nf7Xo0B5nr85geXwFbR6FmxRqJVipl+CCyx/kQwPbDAMHEnT47EimCiispZsT5RUaPSmJJj1B7YvB7qgTvlk8YppgBs0/9QNhASyqEtynUodo7VlfBYm0hCoNJIB1YT1b9cTHjxX5thxJ9PYYPE2eoZ368fsub9qR2DyT4sF8+2T+AxO+elJOpLn1rpxSP5TqskknjoIRwICjoAA+ZBF6rbUG579y8q;MWwAolBWsqnj3SlGXyWc4Q=="
 ---
 

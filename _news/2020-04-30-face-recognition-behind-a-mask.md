@@ -3,9 +3,7 @@ category: news
 title: "Face Recognition Behind a Mask"
 excerpt: "Although putting on a mask over your nose and mouth is one of the easiest ways to protect yourself and others from Coronavirus, face masks may be subtly (and not so subtly) interf"
 publishedDateTime: 2020-04-30T15:55:00Z
-webUrl: "https://www.psychologytoday.com/intl/blog/illusions-delusions-and-reality/202004/face-recognition-behind-mask"
-ampWebUrl: "https://www.psychologytoday.com/intl/blog/illusions-delusions-and-reality/202004/face-recognition-behind-mask?amp"
-cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/illusions-delusions-and-reality/202004/face-recognition-behind-mask?amp"
+webUrl: "https://www.psychologytoday.com/us/blog/illusions-delusions-and-reality/202004/face-recognition-behind-mask"
 type: article
 
 provider:
@@ -16,6 +14,6 @@ topics:
   - Natural Language Processing
   - AI
 
-secured: "C+OmRXVO8P6kPEuKy9KZEbNiWPvSlxgya9yek9Hj86+pdUBKu8xMW077uNz7zW6tHWRgsW0jdRum++OKvDtpWG4ZacwluJ7yw3b6HpGp/9RUUI1la1DP6W0a9IogKqcDRz0atS4mWaiE410+IXOzjxrPBw0A2TPLgcsZ9CR9xqVavam60KgegULxJHnXeHKUoSPTYsHQQNNOxMP2Fs4jReSOFtlbw5v7T9S89JrIoU8RjXgb4jl2TCN8QljHLrdNMkvPUWkrLDCqjgClxjfLWjd8QFqSti0Cx6nmS20TRFJJ8A0qvfwAByDNtqEwnpC8ed0Lo2bowoSYURpK8T/hUQcKSO9XYQ9l1v0pxxCE20AnW3MkYSY/7/YivoamHCP6Wm2kSnu0ou2msVBwyHVQIfvy9iiTuA0m1LISdzkB5F33TyPaSJ8Gwbp6w7KbBuC+K72LQVI/EKfoaxoozfofYU7tnDzxiiizKdB6lEhEhPo=;ZTAOKRUGFUK9Nfxv5vMf+w=="
+secured: "9D1eCv6uHKm885iPhMF9ago1iaM0oMaqs1TQKOh7hHbJdvWDgiRVofnRjq/3vt3SuEw6LxLSA3uI1drXLsHRe2KRF66shM0ql+O0I63byvK/JY911zXfJNdAFB9TpF7zURVAoZWSScdAoZwrQ/ua3/WhCGjskm5t57peZ4JJ3gWq9Xy3/BzEMaHHdo8RdGvbwzNsItMWLpj2mtt/AnFZO0zCMGJif7QkEZ1+T6xT4AfEugm/BSjAWATtVr3cH5gFCILdvCLsrGWpyD7axwHCVMFhX0rOFOndy+AaPMn05kVF2qZGQDugxE3wvMIJh6YTdy4N5YxRv+2S1xF8yMnVSkqhSWYRjFY7OpUIOLEgxvVGQdq8woXpsZSPRYzPv0BlumRMbUrIZZI4/IT2NN28nONqb+uek5Ls5Ee7Ao9RYYxA0rUamNoGDdGHBVwGItYk+Ww7MeDWfHNeDsteXU1CGuHmwmtWomuBjM9o9bORDf0=;uF9KgSpGylW9PX+s3qTw1A=="
 ---
 
