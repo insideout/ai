@@ -2,6 +2,133 @@
   "page": 130,
   "value": [
     {
+      "path": "_news/2020-01-10-neons-artificial-human-is-a-scary-glimpse-of-the-future-thats-mostly-still-hype.md",
+      "title": "Neon's 'artificial human' is a scary glimpse of the future that's (mostly) still hype",
+      "excerpt": "We've grown accustomed to asking virtual assistants like Siri and Alexa to do small tasks for us and provide basic information. But if the CEO of a Samsung-backed startup has his way, \"artificial humans\" will become your teachers,",
+      "heat": 77,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnn.com/2020/01/10/tech/samsung-neon/index.html",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/01/10/tech/samsung-neon/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/01/10/tech/samsung-neon/index.html",
+      "publishedDateTime": "2020-01-10T06:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200108142447-samsung-neon-ai-avatars-ces-2020-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": "Neon's 'artificial human' is a scary glimpse of the future that's (mostly) still hype",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-01-10-facial-recognition-could-take-over-one-convenience-at-a-time.md",
+      "title": "Facial recognition could take over, one 'convenience' at a time",
+      "excerpt": "At Konami's headquarters in Las Vegas, its facial recognition powered cameras tracked me around the room. Konami Gaming, a slot machine maker, wants to weave facial recognition into its one-armed ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnet.com/news/at-ces-facial-recognition-creeps-into-everything/",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/at-ces-facial-recognition-creeps-into-everything/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/at-ces-facial-recognition-creeps-into-everything/",
+      "publishedDateTime": "2020-01-10T05:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cnet2.cbsistatic.com/img/uaRm5OAms8fCwmdAuA8E0T1el5Y=/84x196:886x647/756x567/2020/01/09/2ceae564-fb98-44ef-9558-2ef64c137f25/facial-recognition-homepage-promo-crop.png",
+          "width": 756,
+          "height": 567,
+          "title": "Facial recognition could take over, one 'convenience' at a time",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2020-01-10-inside-ibm-sterling-supply-chain-suite.md",
+      "title": "Inside: IBM Sterling Supply Chain Suite",
+      "excerpt": "IBM described the introduction of its Sterling Supply Chain Suite as “an integrated supply chain suite, embedded with Watson AI and IBM Blockchain and open to developers, to help organisations make their supply chains smarter, more efficient and better able to make decisions to adjust to disruptions and opportunities in an era when ...",
+      "heat": 69,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.supplychaindigital.com/technology/inside-ibm-sterling-supply-chain-suite",
+      "ampWebUrl": "https://www.supplychaindigital.com/technology/inside-ibm-sterling-supply-chain-suite?amp",
+      "cdnAmpWebUrl": "https://www-supplychaindigital-com.cdn.ampproject.org/c/s/www.supplychaindigital.com/technology/inside-ibm-sterling-supply-chain-suite?amp",
+      "publishedDateTime": "2020-01-10T05:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Supply Chain Digital",
+        "domain": "supplychaindigital.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "http://www.supplychaindigital.com/sites/default/files/styles/slider_detail/public/topic/image/GettyImages-1088950364%20%281%29.jpg?itok=QrgtHVc6",
+          "width": 778,
+          "height": 518,
+          "title": "Inside: IBM Sterling Supply Chain Suite",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2020-01-10-the-top-3-tech-stocks-to-watch-in-2020.md",
       "title": "The Top 3 Tech Stocks to Watch in 2020",
       "excerpt": "From Google to Apple, every big-name tech company is putting forth resources to make its next breakthrough. We hear about a lot of products on the news, such as self-driving cars and robot nannies, but where exactly should we be putting our money?",
@@ -941,141 +1068,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-01-08-the-hottest-thing-in-robotics-is-an-open-source-project-youve-never-heard-of.md",
-      "title": "The hottest thing in robotics is an open source project you've never heard of",
-      "excerpt": "While the open source projects behind the rise of data science are reasonably well known (e.g., TensorFlow and Keras, among others), most people aren't aware that robotics is also heavily influenced by open source and, in particular, by the Robot Operating System (ROS). Given the importance of ROS to the swelling open source robotics community ...",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/the-hottest-thing-in-robotics-is-an-open-source-project-youve-never-heard-of/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/the-hottest-thing-in-robotics-is-an-open-source-project-youve-never-heard-of/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/the-hottest-thing-in-robotics-is-an-open-source-project-youve-never-heard-of/",
-      "publishedDateTime": "2020-01-08T11:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr3.cbsistatic.com/hub/i/r/2019/11/21/6a5a10a3-8789-4a91-9f3f-ba7b503e08dc/resize/1200x/ba19e2b5ae134b95fc156867f97ea074/your-robot-coworker-just-wants-to-help.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "The hottest thing in robotics is an open source project you've never heard of",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-08-nvidia-is-partnering-with-uber-volkswagen-and-baidu-on-driverless-cars.md",
-      "title": "Nvidia is partnering with Uber, Volkswagen and Baidu on driverless cars",
-      "excerpt": "Nvidia has partnered with Uber, Volkswagen and China's Baidu in driverless cars Uber will use Nvidia's graphics chips for the artificial intelligence computing system in its fleet of self-driving ...",
-      "heat": 114,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnbc.com/2018/01/08/ces-2018-nvidia-partners-with-uber-volkswagen-and-baidu-on-driverless-cars.html",
-      "ampWebUrl": "https://www.cnbc.com/amp/2018/01/08/ces-2018-nvidia-partners-with-uber-volkswagen-and-baidu-on-driverless-cars.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2018/01/08/ces-2018-nvidia-partners-with-uber-volkswagen-and-baidu-on-driverless-cars.html",
-      "publishedDateTime": "2020-01-08T07:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/104932964-GettyImages-609845726.jpg?v=1532563704",
-          "width": 1024,
-          "height": 601,
-          "title": "Nvidia is partnering with Uber, Volkswagen and Baidu on driverless cars",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-01-08-will-ambarella-stock-get-out-of-the-dog-house-in-2020.md",
-      "title": "Will Ambarella Stock Get Out of the Dog House In 2020?",
-      "excerpt": "Ambarella turned a corner in Q3, though. Management has reported that more than 50 customers were in pre-production planning using computer vision chips, leading to another rosy outlook for Q4 ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.fool.com/investing/2020/01/08/will-ambarella-stock-get-out-of-dog-house-in-2020.aspx",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/01/08/will-ambarella-stock-get-out-of-dog-house-in-2020.aspx",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/01/08/will-ambarella-stock-get-out-of-dog-house-in-2020.aspx",
-      "publishedDateTime": "2020-01-08T07:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F552764%2Fcamera-lens-focus-zoom-aperture.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 839,
-          "title": "Will Ambarella Stock Get Out of the Dog House In 2020?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

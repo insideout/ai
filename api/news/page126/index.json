@@ -2,6 +2,141 @@
   "page": 126,
   "value": [
     {
+      "path": "_news/2020-01-16-apple-buys-an-ai-start-up-that-came-from-microsoft-co-founder-paul-allens-research-lab.md",
+      "title": "Apple buys an A.I. start-up that came from Microsoft co-founder Paul Allen's research lab",
+      "excerpt": "Apple on Wednesday confirmed that it has acquired a start-up that developed software for running artificial intelligence workloads on less-powerful devices.",
+      "heat": 65,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2020/01/15/apple-acquires-xnor-ai-startup-that-spun-out-of-allen-institute.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/01/15/apple-acquires-xnor-ai-startup-that-spun-out-of-allen-institute.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/01/15/apple-acquires-xnor-ai-startup-that-spun-out-of-allen-institute.html",
+      "publishedDateTime": "2020-01-15T18:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/103407475-GettyImages-146170267.jpg?v=1532564184",
+          "width": 3000,
+          "height": 2108,
+          "title": "Apple buys an A.I. start-up that came from Microsoft co-founder Paul Allen's research lab",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2020-01-16-facebook-invented-a-new-language-for-machines-to-solve-complex-math-equations.md",
+      "title": "Facebook Invented a New Language for Machines to Solve Complex Math Equations",
+      "excerpt": "Or at least, they have trouble understanding how humanity writes math equations. Facebook’s AI research team, however, claims to have developed a new approach to turn complex math problems into ...",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.vice.com/en_ca/article/4agw3q/facebook-invented-a-new-language-for-machines-to-solve-complex-math-equations",
+      "ampWebUrl": "https://www.vice.com/amp/en_ca/article/4agw3q/facebook-invented-a-new-language-for-machines-to-solve-complex-math-equations",
+      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_ca/article/4agw3q/facebook-invented-a-new-language-for-machines-to-solve-complex-math-equations",
+      "publishedDateTime": "2020-01-15T17:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VICE",
+        "domain": "vice.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/vice.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://video-images.vice.com/_uncategorized/1579112105508-Screen-Shot-2020-01-15-at-11204-PM.png?resize=640:*",
+          "width": 640,
+          "height": 358,
+          "title": "Facebook Invented a New Language for Machines to Solve Complex Math Equations",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2020-01-16-scientists-used-stem-cells-to-create-a-new-life-form-organic-robots.md",
+      "title": "Scientists used stem cells to create a new life-form: Organic robots",
+      "excerpt": "They’re neither a traditional robot nor a known species of animal. It’s a new class of artifact: a living, programmable organism. Xenobots are made using an artificial intelligence system that ...",
+      "heat": 69,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/artificial-intelligence/2020/01/15/scientists-used-stem-cells-to-create-a-new-life-form-organic-robots/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-15T17:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/01/Quadruped-800x534-796x531.jpg",
+          "width": 796,
+          "height": 531,
+          "title": "Scientists used stem cells to create a new life-form: Organic robots",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-01-16-save-over-200-with-discounted-student-tickets-to-robotics-ai-2020.md",
       "title": "Save over $200 with discounted student tickets to Robotics + AI 2020",
       "excerpt": "If you’re a current student and you love robots — and the AI that drives them — you do not want to miss out on TC Sessions: Robotics + AI 2020. Our day-long deep dive into these two life-altering technologies takes place on March 3 at UC Berkeley and features the best and brightest minds, makers and influencers. We’ve set aside a ...",
@@ -965,140 +1100,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-15-using-azure-to-understand-azure.md",
-      "title": "Using Azure to Understand Azure",
-      "excerpt": "Azure Machine Learning (AML) is a great example. Over the years, my team has developed a portfolio of production models, spanning everything from behavioral clustering to anomaly detection.",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/data-science-at-microsoft/using-azure-to-understand-azure-1c8f5dc60a0a",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-15T09:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/719/1*AtWm6tnTQH5QjELGerSUUg.jpeg",
-          "width": 719,
-          "height": 396,
-          "title": "Using Azure to Understand Azure",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-15-verbit-raises-31-million-for-human-in-the-loop-ai-transcription-tech.md",
-      "title": "Verbit raises $31 million for human-in-the-loop AI transcription tech",
-      "excerpt": "The voice and speech recognition tech market is anticipated to be worth $31.82 billion by 2025, driven by new applications in the banking, health care, and automotive industries. And Tom Livne ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/01/15/verbit-raises-31-million-for-human-in-the-loop-ai-transcription-tech/",
-      "ampWebUrl": "https://venturebeat.com/2020/01/15/verbit-raises-31-million-for-human-in-the-loop-ai-transcription-tech/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/15/verbit-raises-31-million-for-human-in-the-loop-ai-transcription-tech/amp/",
-      "publishedDateTime": "2020-01-15T09:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/01/VERBIT-TEAM-e1578858528453.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Verbit raises $31 million for human-in-the-loop AI transcription tech",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-01-15-ai-should-be-used-to-foster-connections-starbucks-ceo-tells-nrf-2020-audience.md",
-      "title": "AI should be used to foster connections, Starbucks CEO tells NRF 2020 audience",
-      "excerpt": "The AI platform also predicts how many baristas are needed for the store to run effectively every 30 minutes, making it easier for stores worldwide to manage scheduling and other rote tasks. The company, the world's largest coffee retailer, is now working on a voice activated system that can take a customer's order. Instead of having a ...",
-      "heat": 83,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/ai-should-be-used-to-foster-connections-starbucks-ceo-tells-nrf-2020-audience/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ai-should-be-used-to-foster-connections-starbucks-ceo-tells-nrf-2020-audience/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-should-be-used-to-foster-connections-starbucks-ceo-tells-nrf-2020-audience/",
-      "publishedDateTime": "2020-01-15T09:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr3.cbsistatic.com/hub/i/r/2020/01/15/b35f2106-b5a9-4262-8937-4c515543ae80/resize/1200x/b7e608c8aaa3570f82a2ed7538cae17e/img-4789.jpg",
-          "width": 1200,
-          "height": 802,
-          "title": "AI should be used to foster connections, Starbucks CEO tells NRF 2020 audience",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,140 @@
   "page": 83,
   "value": [
     {
+      "path": "_news/2020-02-24-softbank-leads-265-million-investments-in-two-us-based-start-ups.md",
+      "title": "SoftBank leads $265 million investments in two U.S.-based start-ups",
+      "excerpt": "SoftBank on Monday led a new funding round of $165 million in California-based Karius and invested $100 million in New York-headquartered AI company Behavox, as the technology giant builds a portfolio under its second Vision Fund.",
+      "heat": 122,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-karius-funding-idUSKCN20I155",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKCN20I155",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN20I155",
+      "publishedDateTime": "2020-02-24T12:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200224&t=2&i=1494517480&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG1N0Y9",
+          "width": 785,
+          "height": 545,
+          "title": "SoftBank leads $265 million investments in two U.S.-based start-ups",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-24-insightful-new-report-is-an-eye-opening-look-at-how-us-government-is-embracing-ai.md",
+      "title": "Insightful New Report Is An Eye-Opening Look At How U.S. Government Is Embracing AI",
+      "excerpt": "One of the most frequently asked questions that I get at industry conferences is how far along the federal government has progressed in embracing AI. Why does this question come up? Some ask because they fervently believe that the government could do a much better job of providing agency services and likely perform its myriad of tasks more effectively by adopting the latest in AI technologies.",
+      "heat": 83,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/02/24/insightful-new-report-reveals-an-eye-opening-look-at-how-our-government-is-embracing-ai/",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/02/24/insightful-new-report-reveals-an-eye-opening-look-at-how-our-government-is-embracing-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/02/24/insightful-new-report-reveals-an-eye-opening-look-at-how-our-government-is-embracing-ai/amp/",
+      "publishedDateTime": "2020-02-24T12:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e52be65d378190007f416ef%2F0x0.jpg%3FcropX1%3D234%26cropX2%3D5634%26cropY1%3D0%26cropY2%3D3600",
+          "width": 1200,
+          "height": 800,
+          "title": "Insightful New Report Is An Eye-Opening Look At How U.S. Government Is Embracing AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2020-02-24-fintech-the-personal-stories-of-the-money-hackers-who-have-changed-finance.md",
+      "title": "Fintech — The Personal Stories Of The Money Hackers Who Have Changed Finance",
+      "excerpt": "Dan Simon has written a book about the people who created the technology firms that have been changing finance, such as Venmo and Braintree, Credit Karma, Lending Club, Kabbage, Yodlee, Clarity Money and Betterment.",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/tomgroenfeldt/2020/02/24/fintech---the-personal-stories-of-the-money-hackers-who-have-changed-finance/",
+      "ampWebUrl": "https://www.forbes.com/sites/tomgroenfeldt/2020/02/24/fintech---the-personal-stories-of-the-money-hackers-who-have-changed-finance/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomgroenfeldt/2020/02/24/fintech---the-personal-stories-of-the-money-hackers-who-have-changed-finance/amp/",
+      "publishedDateTime": "2020-02-24T11:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e53e07ad378190007f42478%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1283%26cropY1%3D228%26cropY2%3D950",
+          "width": 1200,
+          "height": 676,
+          "title": "Fintech — The Personal Stories Of The Money Hackers Who Have Changed Finance",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2020-02-24-how-artificial-intelligence-can-leverage-big-data-to-boost-trade.md",
       "title": "How artificial intelligence can leverage Big Data to boost trade",
       "excerpt": "Artificial Intelligence isn’t going to replace company CEOs any time soon. But what AI is already doing is pretty impressive: uncovering unique connections and relationships that can help businesses become more efficient at what they do, developing insight into new products and solutions, and creating a more frictionless trading landscape.",
@@ -919,124 +1053,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-02-24-choosing-between-rule-based-bots-and-ai-bots.md",
-      "title": "Choosing Between Rule-Based Bots And AI Bots",
-      "excerpt": "Chatbot success stories are inspiring companies to adopt bots for customer service purposes. However, the main question to be considered before adopting bots is whether to go with rule-based bots or AI bots.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/02/23/choosing-between-rule-based-bots-and-ai-bots/",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/02/23/choosing-between-rule-based-bots-and-ai-bots/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/02/23/choosing-between-rule-based-bots-and-ai-bots/amp/",
-      "publishedDateTime": "2020-02-23T16:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/711x284/https://specials-images.forbesimg.com/imageserve/5e4031e98b6cf300071e3eb8/960x0.jpg?fit=scale",
-          "width": 711,
-          "height": 284,
-          "title": "Choosing Between Rule-Based Bots And AI Bots",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-24-fg-to-include-robotics-ai-in-school-curriculum.md",
-      "title": "FG to include robotics, AI in school curriculum",
-      "excerpt": "The Federal Ministry of Education has said it will work on the inclusion of coding, robotics and artificial intelligence in the country’s school curricula so as to take pupils to the 21st Century technology and educational standards. The Minister of State for Education, Chukwuemeka Nwajiuba, stated this in Abuja at the 2019/2020 Nigeria ...",
-      "heat": 109,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://punchng.com/fg-to-include-robotics-ai-in-school-curriculum/",
-      "ampWebUrl": "https://punchng.com/fg-to-include-robotics-ai-in-school-curriculum/amp/",
-      "cdnAmpWebUrl": "https://punchng-com.cdn.ampproject.org/c/s/punchng.com/fg-to-include-robotics-ai-in-school-curriculum/amp/",
-      "publishedDateTime": "2020-02-23T16:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Punch Newspapers",
-        "domain": "punchng.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.punchng.com/wp-content/uploads/2019/11/01205241/Chukwuemeka-Nwajiuba.jpg",
-          "width": 700,
-          "height": 417,
-          "title": "FG to include robotics, AI in school curriculum",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-02-24-over-1700-students-competing-in-artificial-intelligence-and-robot-competitions.md",
-      "title": "Over 1,700 students competing in artificial intelligence and robot competitions",
-      "excerpt": "ABU DHABI - H.H. Sheikh Khalid bin Mohamed bin Zayed Al Nahyan, Chairman of Abu Dhabi Executive Office, opened the activities of the 6th national championship of the series of artificial intelligence, AI, and robot competitions 2020, organised by the Ministry of Education at the Abu Dhabi National Exhibition Centre, ADNEC. Held under the ...",
-      "heat": 100,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zawya.com/mena/en/life/story/Over_1700_students_competing_in_artificial_intelligence_and_robot_competitions-WAM20200224193158932/",
-      "ampWebUrl": "https://www.zawya.com/mena/en/story/amp/WAM20200224193158932/",
-      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/WAM20200224193158932/",
-      "publishedDateTime": "2020-02-23T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.zawya.com/resources/img/zawya-logo-en-social.png",
-          "width": 1200,
-          "height": 878,
-          "title": "Over 1,700 students competing in artificial intelligence and robot competitions",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

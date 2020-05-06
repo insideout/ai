@@ -2,6 +2,141 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-04-26-revolutionizing-the-student-experience-with-ai-an-experiment-in-voice-apps-at-arizona-state-university.md",
+      "title": "Revolutionizing The Student Experience With AI: An Experiment In Voice Apps At Arizona State University",
+      "excerpt": "Before the pandemic forced all learning online, one campus was ahead of the revolution on using AI to augment the learning experience.",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/04/26/revolutionizing-the-student-experience-with-ai-an-experiment-in-voice-apps-at-arizona-state-university/",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/04/26/revolutionizing-the-student-experience-with-ai-an-experiment-in-voice-apps-at-arizona-state-university/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/04/26/revolutionizing-the-student-experience-with-ai-an-experiment-in-voice-apps-at-arizona-state-university/amp/",
+      "publishedDateTime": "2020-04-26T07:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ea5929c2281170006819f47%2F0x0.jpg",
+          "width": 1200,
+          "height": 1800,
+          "title": "Revolutionizing The Student Experience With AI: An Experiment In Voice Apps At Arizona State University",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-26-microsoft-technology-chief-explains-how-ai-could-someday-help-rural-people-get-through-a-pandemic.md",
+      "title": "Microsoft technology chief explains how A.I. could someday help rural people get through a pandemic",
+      "excerpt": "Coronavirus has reached Campbell County, where Microsoft's Kevin Scott grew up. He thinks said AI could offer new economic opportunity and greater interaction.",
+      "heat": 75,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2020/04/26/microsoft-cto-ai-can-help-rural-people-ride-out-covid-19.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/04/26/microsoft-cto-ai-can-help-rural-people-ride-out-covid-19.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/04/26/microsoft-cto-ai-can-help-rural-people-ride-out-covid-19.html",
+      "publishedDateTime": "2020-04-26T06:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106503770-1587691277030handoutmicrosoftemmretreatkevinscottmarch2018.jpg?v=1587691332",
+          "width": 1800,
+          "height": 1202,
+          "title": "Microsoft technology chief explains how A.I. could someday help rural people get through a pandemic",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-26-artificial-intelligence-wont-save-us-from-coronavirus.md",
+      "title": "Artificial Intelligence Won't Save Us From Coronavirus",
+      "excerpt": "Artificial intelligence is here to save us from coronavirus. It spots new outbreaks, identifies people with fevers, diagnoses cases, prioritizes the patients most in need, reads the scientific literature,",
+      "heat": 91,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wired.com/story/artificial-intelligence-wont-save-us-from-coronavirus/",
+      "ampWebUrl": "https://www.wired.com/story/artificial-intelligence-wont-save-us-from-coronavirus/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/artificial-intelligence-wont-save-us-from-coronavirus/amp",
+      "publishedDateTime": "2020-04-26T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5ea32aceddad8f0008fac706/master/pass/OpEd-AI-1208406717.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": "Artificial Intelligence Won't Save Us From Coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-26-aktana-expands-leadership-team-to-advance-the-evolution-of-commercial-engagement-for-life-sciences.md",
       "title": "Aktana Expands Leadership Team to Advance the Evolution of Commercial Engagement for Life Sciences",
       "excerpt": "Life sciences commercial teams face a more complex and competitive environment than they ever have before,” said David Ehrlich, CEO, Aktana. “Customer behaviors and expectations have changed so rapidly that commercial teams are scrambling to adapt.",
@@ -927,140 +1062,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-24-this-neural-network-was-fed-10000-dicks-to-learn-how-to-draw-one.md",
-      "title": "This neural network was fed 10,000 dicks to learn how to draw one",
-      "excerpt": "Word on the street is artificial intelligence is out to steal your job, but we often forget about all the good things it also does for us: Like helping us draw penises. One industrious researcher took it upon themselves to feed a recurrent neural network with 10,000 dick doodles in order to teach it how to draw the human phallus — and the ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/04/24/neural-network-draw-dicks/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/04/24/neural-network-draw-dicks/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/04/24/neural-network-draw-dicks/amp/",
-      "publishedDateTime": "2020-04-24T06:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/04/dick_grid-796x452.png",
-          "width": 796,
-          "height": 452,
-          "title": "This neural network was fed 10,000 dicks to learn how to draw one",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-24-terminal-taps-ai-to-help-companies-build-remote-engineering-teams.md",
-      "title": "Terminal taps AI to help companies build remote engineering teams",
-      "excerpt": "This week, Terminal announced its first acquisition, snapping up Austin, Texas-based AI-powered recruitment startup Roikoi for an undisclosed figure. This comes shortly after Terminal raised $17 million from big-name investors such as Kleiner Perkins, adding to a previous roster of investors that includes Yahoo founder Jerry Yang and Peter ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/24/terminal-taps-ai-to-help-companies-build-remote-engineering-teams/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/24/terminal-taps-ai-to-help-companies-build-remote-engineering-teams/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/24/terminal-taps-ai-to-help-companies-build-remote-engineering-teams/amp/",
-      "publishedDateTime": "2020-04-24T04:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/09/GDL-header.jpg?fit=1629%2C882&strip=all",
-          "width": 1629,
-          "height": 882,
-          "title": "Terminal taps AI to help companies build remote engineering teams",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-24-machine-learning-as-a-service-mlaas-market-analysis-global-industry-size-share-trends-and-forecast-2020-2026.md",
-      "title": "Machine Learning as a Service (MLaaS) Market Analysis – Global Industry Size, Share, Trends and Forecast 2020 – 2026",
-      "excerpt": "According to the report published by Acumen Research and Consulting, the global Machine Learning as a Service (MLaaS) market was expected to reach at US$ Mn in 2018 and is anticipated to exceed US$ Mn by 2026.",
-      "heat": 81,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-analysis-global-industry-size-share-trends-and-forecast-2020-2026-2020-04-24",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-24T03:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Machine Learning as a Service (MLaaS) Market Analysis – Global Industry Size, Share, Trends and Forecast 2020 – 2026",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

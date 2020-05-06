@@ -6,8 +6,8 @@ publishedDateTime: 2020-05-06T07:27:00Z
 webUrl: "https://www.marketwatch.com/press-release/mobile-ai-market-sharerevenue-growth-forecast-and-segmentation-based-on-industry-wise-2020-05-06"
 type: article
 quality: 60
-heat: 60
-published: false
+heat: 70
+published: true
 
 provider:
   name: MarketWatch
@@ -26,6 +26,21 @@ images:
     width: 1200
     height: 630
     title: "Mobile AI Market , Share,Revenue, Growth Forecast and Segmentation based on Industry-wise"
+
+related:
+  - title: "Increasing Adoption of Industrial Robots Fuels Growth in the Global Machine Vision Market - ResearchAndMarkets.com"
+    excerpt: "Insights, Trends & Forecast\" report has been added to ResearchAndMarkets.com's offering. Factors such as surging urbanization, rising automotive production, increasing adoption of industrial robots, accelerating demand for artificial intelligence and growing popularity of smart cameras are expected to drive the global machine vision market."
+    publishedDateTime: 2020-05-06T07:43:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200506005366/en/Increasing-Adoption-Industrial-Robots-Fuels-Growth-Global"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 17
+    images:
+      - url: "https://mms.businesswire.com/media/20200506005366/en/371054/23/ResearchAndMarkets_800px.jpg"
+        width: 1200
+        height: 627
 
 secured: "NwLTDwS3Dkty05pxxcp/K2cajTq8I0dJjN6hmv3yD4Db196VS/CqwuPRUIttA1LO5hTu5OowJ2f/bn2cYK8tEaUYek1fly6wwxTu47hZu6H/BZpArBA3j4/6YU30DExKB+15Rdcs7QZqWiZGIFXtX62N1UFZvSUBzurCdd3H5FQrXuS54XWqEoD8vhiWU7xvJpMkdTW91ZqX+WnCQmpia0wEgWIUzP9hbpe09V7y3h/G1PqWB5ydiV4eFO7gSQ7TjoatwL/Kf6pAm35s08+lklioLw92+rQ9KIJ+bWP35dwO0vomBZCsEo/81eqzgXlL;jvlVB+llo3USHwnnCUL2DA=="
 ---

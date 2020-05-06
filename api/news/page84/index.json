@@ -2,6 +2,124 @@
   "page": 84,
   "value": [
     {
+      "path": "_news/2020-02-24-choosing-between-rule-based-bots-and-ai-bots.md",
+      "title": "Choosing Between Rule-Based Bots And AI Bots",
+      "excerpt": "Chatbot success stories are inspiring companies to adopt bots for customer service purposes. However, the main question to be considered before adopting bots is whether to go with rule-based bots or AI bots.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/02/23/choosing-between-rule-based-bots-and-ai-bots/",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/02/23/choosing-between-rule-based-bots-and-ai-bots/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/02/23/choosing-between-rule-based-bots-and-ai-bots/amp/",
+      "publishedDateTime": "2020-02-23T16:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/711x284/https://specials-images.forbesimg.com/imageserve/5e4031e98b6cf300071e3eb8/960x0.jpg?fit=scale",
+          "width": 711,
+          "height": 284,
+          "title": "Choosing Between Rule-Based Bots And AI Bots",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-24-fg-to-include-robotics-ai-in-school-curriculum.md",
+      "title": "FG to include robotics, AI in school curriculum",
+      "excerpt": "The Federal Ministry of Education has said it will work on the inclusion of coding, robotics and artificial intelligence in the country’s school curricula so as to take pupils to the 21st Century technology and educational standards. The Minister of State for Education, Chukwuemeka Nwajiuba, stated this in Abuja at the 2019/2020 Nigeria ...",
+      "heat": 109,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://punchng.com/fg-to-include-robotics-ai-in-school-curriculum/",
+      "ampWebUrl": "https://punchng.com/fg-to-include-robotics-ai-in-school-curriculum/amp/",
+      "cdnAmpWebUrl": "https://punchng-com.cdn.ampproject.org/c/s/punchng.com/fg-to-include-robotics-ai-in-school-curriculum/amp/",
+      "publishedDateTime": "2020-02-23T16:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Punch Newspapers",
+        "domain": "punchng.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.punchng.com/wp-content/uploads/2019/11/01205241/Chukwuemeka-Nwajiuba.jpg",
+          "width": 700,
+          "height": 417,
+          "title": "FG to include robotics, AI in school curriculum",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-02-24-over-1700-students-competing-in-artificial-intelligence-and-robot-competitions.md",
+      "title": "Over 1,700 students competing in artificial intelligence and robot competitions",
+      "excerpt": "ABU DHABI - H.H. Sheikh Khalid bin Mohamed bin Zayed Al Nahyan, Chairman of Abu Dhabi Executive Office, opened the activities of the 6th national championship of the series of artificial intelligence, AI, and robot competitions 2020, organised by the Ministry of Education at the Abu Dhabi National Exhibition Centre, ADNEC. Held under the ...",
+      "heat": 100,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zawya.com/mena/en/life/story/Over_1700_students_competing_in_artificial_intelligence_and_robot_competitions-WAM20200224193158932/",
+      "ampWebUrl": "https://www.zawya.com/mena/en/story/amp/WAM20200224193158932/",
+      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/WAM20200224193158932/",
+      "publishedDateTime": "2020-02-23T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.zawya.com/resources/img/zawya-logo-en-social.png",
+          "width": 1200,
+          "height": 878,
+          "title": "Over 1,700 students competing in artificial intelligence and robot competitions",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-02-23-this-ai-researcher-thinks-we-have-it-all-wrong.md",
       "title": "This AI Researcher Thinks We Have It All Wrong",
       "excerpt": "Are we too focused on data? Is what we call AI just statistics on large data sets? Is what we are doing with machine learning right now really AI?",
@@ -934,138 +1052,6 @@
           "width": 796,
           "height": 417,
           "title": "UN will use AI to learn what people want from peace deals",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-21-elon-musk-jeff-bezos-and-star-trek-collide-in-uncanny-deepfake.md",
-      "title": "Elon Musk, Jeff Bezos and Star Trek collide in uncanny deepfake",
-      "excerpt": "Bezos transforms into an alien and Musk becomes the captain of the USS Enterprise. SpaceX founder Elon Musk dreams of space exploration. Blue Origin and Amazon founder Jeff Bezos also looks to the stars.",
-      "heat": 202,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnet.com/news/elon-musk-jeff-bezos-and-star-trek-collide-in-uncanny-deepfake/",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/elon-musk-jeff-bezos-and-star-trek-collide-in-uncanny-deepfake/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/elon-musk-jeff-bezos-and-star-trek-collide-in-uncanny-deepfake/",
-      "publishedDateTime": "2020-02-21T08:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cnet1.cbsistatic.com/img/UGxT2J0zrqUEaSCEsQzH8HMP5qo=/756x567/2020/02/21/275d7032-eb36-48ba-8dab-5617a111c864/muskstartrek.jpg",
-          "width": 756,
-          "height": 567,
-          "title": "Elon Musk, Jeff Bezos and Star Trek collide in uncanny deepfake",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-21-how-will-artificial-intelligence-change-the-commercial-real-estate-industry.md",
-      "title": "How Will Artificial Intelligence Change The Commercial Real Estate Industry?",
-      "excerpt": "Since the start of the industrial revolution, the world has seen skills shift in a way that has resulted in ever-changing jobs and newer skills required to keep pace with emerging technologies. According to McKinsey,",
-      "heat": 94,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbesrealestatecouncil/2020/02/21/how-will-artificial-intelligence-change-the-commercial-real-estate-industry/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesrealestatecouncil/2020/02/21/how-will-artificial-intelligence-change-the-commercial-real-estate-industry/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesrealestatecouncil/2020/02/21/how-will-artificial-intelligence-change-the-commercial-real-estate-industry/amp/",
-      "publishedDateTime": "2020-02-21T05:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/dam/imageserve/1160370731/960x0.jpg?fit=scale",
-          "width": 711,
-          "height": 474,
-          "title": "How Will Artificial Intelligence Change The Commercial Real Estate Industry?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-21-three-ai-powered-jobs-for-non-techies.md",
-      "title": "Three AI-powered Jobs For Non-Techies",
-      "excerpt": "In a world where students are urged to study STEM subjects, the rise of AI may ironically increase the value we place on the skills gained by studying the humanities or the arts. In an AI-powered world,",
-      "heat": 97,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/21/three-ai-powered-jobs-for-non-techies/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/21/three-ai-powered-jobs-for-non-techies/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/02/21/three-ai-powered-jobs-for-non-techies/amp/",
-      "publishedDateTime": "2020-02-21T05:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/dam/imageserve/958841856/960x0.jpg?fit=scale",
-          "width": 711,
-          "height": 474,
-          "title": "Three AI-powered Jobs For Non-Techies",
           "attribution": null
         }
       ],

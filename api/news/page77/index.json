@@ -2,6 +2,139 @@
   "page": 77,
   "value": [
     {
+      "path": "_news/2020-02-28-probeat-clearview-ais-short-slippery-slope.md",
+      "title": "ProBeat: Clearview AI’s short slippery slope",
+      "excerpt": "Facial recognition startup Clearview AI is best known for two things: its facial recognition algorithm that lets you upload a photo to compare with its database of potential matches and that the company created said database by scraping over 3 billion images from user profiles on Microsoft’s LinkedIn, Twitter, Venmo, Google’s YouTube ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/02/28/probeat-clearview-ais-short-slippery-slope/",
+      "ampWebUrl": "https://venturebeat.com/2020/02/28/probeat-clearview-ais-short-slippery-slope/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/28/probeat-clearview-ais-short-slippery-slope/amp/",
+      "publishedDateTime": "2020-02-28T10:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/02/clearview-ai-logo.png?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "ProBeat: Clearview AI’s short slippery slope",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-28-using-deepchem-with-amazon-sagemaker-for-virtual-screening.md",
+      "title": "Using DeepChem with Amazon SageMaker for virtual screening",
+      "excerpt": "Virtual screening is a computational methodology used in drug or materials discovery by searching a vast amount of molecules libraries to identify the structures that are most likely to show the target characteristics. \nIt is becoming a ground-breaking tool for molecular discovery due to the exponential",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/using-deepchem-with-amazon-sagemaker-for-virtual-screening/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-28T10:21:02-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/02/20/deepchem-sagemaker-5.gif",
+          "width": 500,
+          "height": 328,
+          "title": "Using DeepChem with Amazon SageMaker for virtual screening",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-28-putins-youngest-daughter-to-run-artificial-intelligence-institute.md",
+      "title": "Putin's youngest daughter to run artificial intelligence institute",
+      "excerpt": "Katerina Tikhonova, the youngest daughter of Russian President Vladimir Putin, was appointed head of a new artificial intelligence institute at Moscow State University, her fund said on Friday. Tikhonova,",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-russia-putin-daughter-idUSKCN20M2RU",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKCN20M2RU",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN20M2RU",
+      "publishedDateTime": "2020-02-28T10:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Putin's youngest daughter to run artificial intelligence institute",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-02-28-conversational-ai-platform-market-major-technology-giants-in-buzz-again.md",
       "title": "Conversational AI Platform Market Major Technology Giants in Buzz Again",
       "excerpt": "The Conversational AI Platform Market has witnessed continuous growth in the last few years and is projected to grow even further during the forecast period of 2020-2026. The exploration provides a 360°",
@@ -959,138 +1092,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-02-27-docusign-acquires-seal-software-for-188m-to-enhance-its-ai-chops.md",
-      "title": "DocuSign acquires Seal Software for $188M to enhance its AI chops",
-      "excerpt": "These companies use Seal for its contract management tools, but also for its analytics, discovery and data extraction services. And it’s these AI smarts the company developed over time to help businesses analyze their contracts that made DocuSign acquire the company. This can help them significantly reduce their time for legal reviews ...",
-      "heat": 137,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/02/27/docusign-acquires-seal-software-for-188m-to-enhance-its-ai-chops/",
-      "ampWebUrl": "https://techcrunch.com/2020/02/27/docusign-acquires-seal-software-for-188m-to-enhance-its-ai-chops/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/27/docusign-acquires-seal-software-for-188m-to-enhance-its-ai-chops/amp/",
-      "publishedDateTime": "2020-02-27T15:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/02/GettyImages-82570218.jpg?w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": "DocuSign acquires Seal Software for $188M to enhance its AI chops",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-27-intel-uses-ai-to-find-new-customers-in-specific-industries.md",
-      "title": "Intel uses AI to find new customers in specific industries",
-      "excerpt": "How does Intel, which expects the market opportunity for AI hardware to grow from $2.5 billion in 2017 to $10 billion in 2022, find new customer opportunities? With AI, of course. In a blog post today, Intel detailed a tool its IT Advanced Analytics team developed internally to mine millions of public business pages and extract actionable ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/02/27/intel-uses-ai-to-find-new-customers-in-specific-industries/",
-      "ampWebUrl": "https://venturebeat.com/2020/02/27/intel-uses-ai-to-find-new-customers-in-specific-industries/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/27/intel-uses-ai-to-find-new-customers-in-specific-industries/amp/",
-      "publishedDateTime": "2020-02-27T13:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/08/intel-logo-e1578358513137.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Intel uses AI to find new customers in specific industries",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-27-smart-camera-startup-wyze-sued-following-data-breach-that-exposed-customer-information.md",
-      "title": "Smart camera startup Wyze sued following data breach that exposed customer information",
-      "excerpt": "The company, based in Kirkland, Wash., raised $20 million just over a year ago. Wyze was separately in the news after another Seattle startup, Xnor.ai, backed out of a deal to provide its person recognition technology to Wyze cameras before Xnor was acquired by Apple. Twelve Security first spotted the breach and publicized it in December ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.geekwire.com/2020/smart-camera-startup-wyze-sued-following-data-breach-exposed-customer-information/",
-      "ampWebUrl": "https://www.geekwire.com/2020/smart-camera-startup-wyze-sued-following-data-breach-exposed-customer-information/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/smart-camera-startup-wyze-sued-following-data-breach-exposed-customer-information/amp/",
-      "publishedDateTime": "2020-02-27T11:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2017/11/wyzecam-630x420.jpeg",
-          "width": 630,
-          "height": 420,
-          "title": "Smart camera startup Wyze sued following data breach that exposed customer information",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

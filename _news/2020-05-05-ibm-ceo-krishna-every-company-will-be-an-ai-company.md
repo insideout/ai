@@ -45,6 +45,21 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/8rX9mQvTR4AYxhWzdeDHsi-1200-80.jpg"
         width: 970
         height: 545
+  - title: "IBM CEO: 'Every company will become an AI company'"
+    excerpt: "In his first keynote since taking the reins last month, IBM CEO Arvind Krishna doubled down on the firm’s commitment to ... Krishna also unveiled the firm’s new AI toolset, Watson AIOps, which is designed to bring AI to hybrid cloud environments and help businesses automate the management of IT infrastructure. “The problem is that many ..."
+    publishedDateTime: 2020-05-06T00:04:00Z
+    webUrl: "https://www.techradar.com/uk/news/ibm-ceo-every-company-will-become-an-ai-company"
+    ampWebUrl: "https://www.techradar.com/uk/amp/news/ibm-ceo-every-company-will-become-an-ai-company"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/uk/amp/news/ibm-ceo-every-company-will-become-an-ai-company"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 89
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/8rX9mQvTR4AYxhWzdeDHsi-1200-80.jpg"
+        width: 970
+        height: 545
 
 secured: "cRouxad5xgj1nGbpE7HYCMargLBSrN2mnWT9qwA7P5Fq3n80tgEiQa1ennc7FH3NgwtA0dEhtmvO1wSXj3KIPoxDHhViiQ+YGRlZJMTjfRflKiSWWXIeLCXAmNwKr37oIuxeU3XC2y1UMzYkCGAu7GUpFGCYQr3DagGiKsJXEj5SL+6iIQe54EUNwpSIsIbGPilC8RNLlv2L9/WOWwmti2PIFbltpcfBntKbz3xMdOexG5+BrfsYu/0VDUASFOXbjwbO35MJUNsNWiPyN1pXDzB5aeSGEIlfJys2QPP86w4OXsGup6Kdb9ZgT800G+jzMtKEi7grOSKBJX2cqsWXb1T0sk1eRrm67LhG8625jR3NFdwfQ8jaxQ4ywbYwVKCG9dbF6Smb1gFBwLw5X/lNcK+P7Tghdw4LfTUa6z39fdAseIJl3NJC4CKc3CLub9iqfUAXi/VQJBz9o/o9pdUg5Io050JJj7w5c48081Qb1+Y=;NzM6LHeS1nojJ6jPJH4cdQ=="
 ---

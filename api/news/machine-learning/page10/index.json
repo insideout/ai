@@ -2,52 +2,6 @@
   "page": 10,
   "value": [
     {
-      "path": "_news/2020-02-10-top-5-companies-using-machine-learning-in-2020.md",
-      "title": "Top 5 companies using Machine Learning in 2020",
-      "excerpt": "Nowadays small startups are more innovative and dynamic than big companies and established in market leaders. Machine learning is trending and more effective technology so every industry are started to use this technology. It’s not same for all the cases since the making of advanced products and services is often very expensive, few companies ...",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/@sushmithagowda216/top-5-companies-using-machine-learning-in-2020-cb5558468da9",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-10T10:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/800/1*IVYvNXzk1XVr7XM9Hu9X-A.png",
-          "width": 800,
-          "height": 445,
-          "title": "Top 5 companies using Machine Learning in 2020",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AI in Finance"
-      ]
-    },
-    {
       "path": "_news/2020-02-10-deep-learning-godfathers-bengio-hinton-and-lecun-say-the-field-can-fix-its-flaws.md",
       "title": "Deep learning godfathers Bengio, Hinton, and LeCun say the field can fix its flaws",
       "excerpt": "The three, who were dubbed the \"godfathers\" of deep learning by the conference, were being honored for having received last year's Turing Award for lifetime achievements in computing.",
@@ -1305,6 +1259,43 @@
           "width": 940,
           "height": 512,
           "title": "Reality Engines offers a deep learning tour de force to challenge Amazon et al in Enterprise AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-01-28-advantages-of-machine-learning-and-data-analytics-courses.md",
+      "title": "Advantages of Machine Learning and Data Analytics Courses",
+      "excerpt": "Advantages of Machine Learning and Data Analytics Courses: Considering that the data enormity is consistently on the rise, the urgent need to figure out such methods that can help to gain valuable insights on the same can be felt. As a result, the demand for professionals with adequate data science skills cannot be neglected. There is no ...",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.newznew.com/advantages-of-machine-learning-and-data-analytics-courses/",
+      "ampWebUrl": "https://www.newznew.com/advantages-of-machine-learning-and-data-analytics-courses/amp/",
+      "cdnAmpWebUrl": "https://www-newznew-com.cdn.ampproject.org/c/s/www.newznew.com/advantages-of-machine-learning-and-data-analytics-courses/amp/",
+      "publishedDateTime": "2020-01-27T23:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "seat",
+        "domain": "newznew.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.newznew.com/wp-content/uploads/2020/01/892730_f4e5_3.jpg",
+          "width": 750,
+          "height": 422,
+          "title": "Advantages of Machine Learning and Data Analytics Courses",
           "attribution": null
         }
       ],
