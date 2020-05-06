@@ -2,6 +2,267 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-04-28-speech-enabled-self-service-helps-callers-connect-quickly-during-coronavirus-crisis.md",
+      "title": "Speech-Enabled Self-Service Helps Callers Connect Quickly During Coronavirus Crisis",
+      "excerpt": "As health systems across the nation struggle to respond to the coronavirus crisis, they're changing the way they do business, adopting new tools and",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/speech-enabled-self-service-helps-callers-connect-quickly-during-coronavirus-crisis/article_733a827d-5ded-588a-a6b9-612078526761.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-28T08:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/e/cb/ecb155f4-d68c-50fd-8d28-e21181c4bc28/5ea84c6c873d4.image.jpg?resize=400%2C225",
+          "width": 400,
+          "height": 225,
+          "title": "Speech-Enabled Self-Service Helps Callers Connect Quickly During Coronavirus Crisis",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-28-can-ai-do-a-good-job-writing-marketing-copy.md",
+      "title": "Can AI Do A Good Job Writing Marketing Copy?",
+      "excerpt": "Parry Malm: It all started with a simple idea: the language a brand uses in its marketing is the crux of all marketing efforts. And yet there was no technology on the market that could make it better,",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/paultalbot/2020/04/28/can-ai-do-a-good-job-writing-marketing-copy/",
+      "ampWebUrl": "https://www.forbes.com/sites/paultalbot/2020/04/28/can-ai-do-a-good-job-writing-marketing-copy/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paultalbot/2020/04/28/can-ai-do-a-good-job-writing-marketing-copy/amp/",
+      "publishedDateTime": "2020-04-28T08:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ea8456d38448b000788994f%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Can AI Do A Good Job Writing Marketing Copy?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-28-ai-based-news-platform-newsbytes-raises-undisclosed-amount-in-series-a-round.md",
+      "title": "AI-based News Platform NewsBytes Raises Undisclosed Amount in Series A Round",
+      "excerpt": "Newsbyte, an AI-driven digital media startup, has raised undisclosed amount in Series A funding round led by North Base Media, a US-based global venture capital firm specialized in media. The round also saw participation from new investor JITO Angels and the company’s existing investor,",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.entrepreneur.com/article/349909",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/349909",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/349909",
+      "publishedDateTime": "2020-04-28T07:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/20200428143008-newsbytes.jpeg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": "AI-based News Platform NewsBytes Raises Undisclosed Amount in Series A Round",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-28-yoshua-bengio-attention-is-a-core-ingredient-of-consciousness-ai.md",
+      "title": "Yoshua Bengio: Attention is a core ingredient of ‘consciousness’ AI",
+      "excerpt": "During the International Conference on Learning Representations (ICLR) 2020 this week, which as a result of the pandemic took place virtually on the web, Turing Award winner and director of the Montreal Institute for Learning Algorithms Yoshua Bengio provided a glimpse into the future of AI and machine learning techniques.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/28/yoshua-bengio-attention-is-a-core-ingredient-of-consciousness-ai/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/28/yoshua-bengio-attention-is-a-core-ingredient-of-consciousness-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/28/yoshua-bengio-attention-is-a-core-ingredient-of-consciousness-ai/amp/",
+      "publishedDateTime": "2020-04-28T07:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/07/deep_learning.GettyImages-1011441152-e1588047625341.jpg?fit=1197%2C598&strip=all",
+          "width": 1197,
+          "height": 598,
+          "title": "Yoshua Bengio: Attention is a core ingredient of ‘consciousness’ AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-28-mit-researchers-release-clevrer-to-advance-visual-reasoning-and-neurosymbolic-ai.md",
+      "title": "MIT researchers release Clevrer to advance visual reasoning and neurosymbolic AI",
+      "excerpt": "Clevrer examines AI models ability to make logical conclusions about content in a video data set using a hybrid of deep learning and symbolic AI.",
+      "heat": 88,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/28/mit-researchers-release-clevrer-to-advance-visual-reasoning-and-neurosymbolic-ai/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/28/mit-researchers-release-clevrer-to-advance-visual-reasoning-and-neurosymbolic-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/28/mit-researchers-release-clevrer-to-advance-visual-reasoning-and-neurosymbolic-ai/amp/",
+      "publishedDateTime": "2020-04-28T07:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/10/mit1.jpg?fit=2158%2C1619&strip=all",
+          "width": 2158,
+          "height": 1619,
+          "title": "MIT researchers release Clevrer to advance visual reasoning and neurosymbolic AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Facebook AI",
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-28-tectonai-emerges-from-stealth-with-20m-series-a-to-build-machine-learning-platform.md",
+      "title": "Tecton.ai emerges from stealth with $20M Series A to build machine learning platform",
+      "excerpt": "Three former Uber engineers, who helped build the company’s Michelangelo machine learning platform, left the company last year to form Tecton.ai and build an operational machine learning platform for everyone else.",
+      "heat": 97,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/04/28/tecton-ai-emerges-from-stealth-with-20m-series-a-to-build-operational-machine-learning-platform/",
+      "ampWebUrl": "https://techcrunch.com/2020/04/28/tecton-ai-emerges-from-stealth-with-20m-series-a-to-build-operational-machine-learning-platform/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/28/tecton-ai-emerges-from-stealth-with-20m-series-a-to-build-operational-machine-learning-platform/amp/",
+      "publishedDateTime": "2020-04-28T07:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/04/tecton-diagram-light-v3.png?w=680",
+          "width": 680,
+          "height": 274,
+          "title": "Tecton.ai emerges from stealth with $20M Series A to build machine learning platform",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-28-the-challenges-of-developing-autonomous-vehicles-during-a-pandemic.md",
       "title": "The challenges of developing autonomous vehicles during a pandemic",
       "excerpt": "Waymo, Uber, Cruise, and others have paused autonomous vehicle testing due to the pandemic. Here's how they're continuing development during lockdown.",
@@ -1030,250 +1291,6 @@
           "width": 1200,
           "height": 600,
           "title": "Companies equip cameras with AI to track social distancing and mask-wearing",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-27-portrait-mode-on-iphone-se-relies-only-on-machine-learning.md",
-      "title": "Portrait Mode on iPhone SE relies only on machine learning",
-      "excerpt": "Apple's new iPhone SE is the company's first -- and thus far, only -- iPhone to solely rely on machine learning for Portrait Mode depth estimation.",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://appleinsider.com/articles/20/04/27/portrait-mode-on-iphone-se-relies-only-on-machine-learning",
-      "ampWebUrl": "https://appleinsider.com/articles/20/04/27/portrait-mode-on-iphone-se-relies-only-on-machine-learning/amp/",
-      "cdnAmpWebUrl": "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/20/04/27/portrait-mode-on-iphone-se-relies-only-on-machine-learning/amp/",
-      "publishedDateTime": "2020-04-27T15:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AppleInsider",
-        "domain": "appleinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://photos5.appleinsider.com/gallery/35547-65350-1C5L0C7fCMt3TJciKdyaNHg-l.jpg",
-          "width": 660,
-          "height": 330,
-          "title": "Portrait Mode on iPhone SE relies only on machine learning",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-27-corporations-are-hoping-computer-vision-cams-will-limit-their-coronavirus-liability.md",
-      "title": "Corporations Are Hoping Computer Vision Cams Will Limit Their Coronavirus Liability",
-      "excerpt": "Aside from figuring out when to end their shutdowns as quickly as possible, one of the main concerns on the minds of large and small businesses is how they can avoid litigation once they do reopen. And it turns out that these business’s mission to avoid getting the pants sued off of them might inadvertently end up stomping on the personal privacy of the consumers they’re so eager to bleed dry.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://gizmodo.com/corporations-are-hoping-computer-vision-cams-will-limit-1843108692",
-      "ampWebUrl": "https://gizmodo.com/corporations-are-hoping-computer-vision-cams-will-limit-1843108692/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/corporations-are-hoping-computer-vision-cams-will-limit-1843108692/amp",
-      "publishedDateTime": "2020-04-27T15:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/bqt8nt8vn0nwvxrxmywh.jpg",
-          "width": 800,
-          "height": 450,
-          "title": "Corporations Are Hoping Computer Vision Cams Will Limit Their Coronavirus Liability",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-27-microsoft-strikes-5-year-cloud-deal-with-coca-cola-for-azure-microsoft-365.md",
-      "title": "Microsoft strikes 5-year cloud deal with Coca-Cola for Azure, Microsoft 365",
-      "excerpt": "Cola company have reached a deal that will see the latter use Microsoft 365, Azure, and more to power its digital operations for five years.",
-      "heat": 72,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.windowscentral.com/microsoft-strikes-5-year-cloud-deal-coca-cola-azure-microsoft-365",
-      "ampWebUrl": "https://www.windowscentral.com/microsoft-strikes-5-year-cloud-deal-coca-cola-azure-microsoft-365?amp",
-      "cdnAmpWebUrl": "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/microsoft-strikes-5-year-cloud-deal-coca-cola-azure-microsoft-365?amp",
-      "publishedDateTime": "2020-04-27T14:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Windows Central",
-        "domain": "windowscentral.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2017/09/microsoft-logo-2017-ignite2.jpg?itok=c3ocGDNm",
-          "width": 800,
-          "height": 600,
-          "title": "Microsoft strikes 5-year cloud deal with Coca-Cola for Azure, Microsoft 365",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-27-google-medical-researchers-humbled-when-ai-screening-tool-falls-short-in-real-life-testing.md",
-      "title": "Google medical researchers humbled when AI screening tool falls short in real-life testing",
-      "excerpt": "AI is frequently cited as a miracle workers in medicine, especially in screening processes, where machine learning models boast expert-level skills in detecting problems. But like so many technologies,",
-      "heat": 77,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/04/27/google-medical-researchers-humbled-when-ai-screening-tool-falls-short-in-real-life-testing/",
-      "ampWebUrl": "https://techcrunch.com/2020/04/27/google-medical-researchers-humbled-when-ai-screening-tool-falls-short-in-real-life-testing/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/27/google-medical-researchers-humbled-when-ai-screening-tool-falls-short-in-real-life-testing/amp/",
-      "publishedDateTime": "2020-04-27T14:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/04/google-dr-study.jpg?w=1024",
-          "width": 1024,
-          "height": 604,
-          "title": "Google medical researchers humbled when AI screening tool falls short in real-life testing",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-27-uco-musical-theatre-program-receives-national-recognition.md",
-      "title": "UCO musical theatre program receives national recognition",
-      "excerpt": "A local musical theatre program has received national recognition. The University of Central Oklahoma’s musical theatre program was recently recognized by the",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://kfor.com/news/local/uco-musical-theatre-program-receives-national-recognition/",
-      "ampWebUrl": "https://kfor.com/news/local/uco-musical-theatre-program-receives-national-recognition/amp/",
-      "cdnAmpWebUrl": "https://kfor-com.cdn.ampproject.org/c/s/kfor.com/news/local/uco-musical-theatre-program-receives-national-recognition/amp/",
-      "publishedDateTime": "2020-04-27T10:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Oklahoma's News",
-        "domain": "kfor.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://kfor.com/wp-content/uploads/sites/3/2017/09/uco.jpeg?w=1280&h=720&crop=1",
-          "width": 1280,
-          "height": 720,
-          "title": "UCO musical theatre program receives national recognition",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-27-france-launches-ai-voice-assistant-to-help-coronavirus-patients.md",
-      "title": "France launches AI voice assistant to help coronavirus patients",
-      "excerpt": "French researchers on Monday launched a voice assistant that can help callers suffering from potential coronavirus symptoms and direct them towards emergency services or their doctors using artificial intelligence.",
-      "heat": 97,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businessinsider.com/france-launches-ai-voice-assistant-to-help-coronavirus-patients-2020-4",
-      "ampWebUrl": "https://www.businessinsider.com/france-launches-ai-voice-assistant-to-help-coronavirus-patients-2020-4?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/france-launches-ai-voice-assistant-to-help-coronavirus-patients-2020-4?amp",
-      "publishedDateTime": "2020-04-27T10:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.insider.com/5ea70079a2fd9112812bc8d2?width=750&format=jpeg&auto=webp",
-          "width": 750,
-          "height": 500,
-          "title": "France launches AI voice assistant to help coronavirus patients",
           "attribution": null
         }
       ],

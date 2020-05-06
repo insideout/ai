@@ -2,6 +2,35 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-04-03-infragistics-adds-predictive-analytics-machine-learning-and-more-to-reveal-embedded-business-intelligence-tool.md",
+      "title": "Infragistics Adds Predictive Analytics, Machine Learning and More to Reveal Embedded Business Intelligence Tool",
+      "excerpt": "Reveal's new machine learning feature identifies and visually displays predictions from user data to enable more educated business-decision making. Reveal reads data from Microsoft Azure and ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.globenewswire.com/news-release/2020/04/03/2011600/0/en/Infragistics-Adds-Predictive-Analytics-Machine-Learning-and-More-to-Reveal-Embedded-Business-Intelligence-Tool.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-03T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GlobeNewswire",
+        "domain": "globenewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-03-clinical-ai-startup-jvion-launches-covid-community-vulnerability-map.md",
       "title": "Clinical AI startup Jvion launches COVID community vulnerability map",
       "excerpt": "In an effort to help flatten the curve in the coronavirus pandemic, clinical AI startup Jvion has launched the COVID Community Vulnerability Map, a free, publicly available tool that identifies populations—down to the census block level—that are likely to experience severe outcomes requiring hospitalization if they contract the virus.",
@@ -1230,52 +1259,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-26-c3ai-microsoft-help-launch-the-c3ai-digital-transformation-institute.md",
-      "title": "C3.ai, Microsoft help launch the C3.ai Digital Transformation Institute",
-      "excerpt": "Additionally, C3.ai and Microsoft will contribute an $310 million in-kind, including use of the C3 AI Suite and Microsoft Azure computing, storage, and technical resources to support the consortium. C3.ai DTI will be jointly managed and hosted by the University of California at Berkeley and the University of Illinois at Urbana-Champaign.",
-      "heat": 136,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/c3-ai-microsoft-help-launch-the-c3-ai-digital-transformation-institute/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/c3-ai-microsoft-help-launch-the-c3-ai-digital-transformation-institute/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/c3-ai-microsoft-help-launch-the-c3-ai-digital-transformation-institute/",
-      "publishedDateTime": "2020-03-26T13:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/03/26/7a4cdb90-55e4-47df-bcef-2270e436b848/thumbnail/1200x675/a8d26ed3f62e8f9e33bc56df07bd93c5/online-learning-gets-its-moment-due-to-c-5e7a254b72c9c14f48d15807-1-mar-26-2020-18-29-53-poster.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "C3.ai, Microsoft help launch the C3.ai Digital Transformation Institute",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

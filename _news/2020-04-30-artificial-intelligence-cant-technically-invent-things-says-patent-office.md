@@ -1,27 +1,31 @@
 ---
 category: news
-title: "Artificial intelligence can’t technically invent things, says patent office"
-excerpt: "Artificial intelligence is the future. If “Westworld” or “Black Mirror” are to be believed, there will soon come a day when the computers rule us all. But for now, an"
-publishedDateTime: 2020-04-30T11:32:00Z
-webUrl: "https://fox59.com/news/national-world/artificial-intelligence-cant-technically-invent-things-says-patent-office/"
-ampWebUrl: "https://fox59.com/news/national-world/artificial-intelligence-cant-technically-invent-things-says-patent-office/amp/"
-cdnAmpWebUrl: "https://fox59-com.cdn.ampproject.org/c/s/fox59.com/news/national-world/artificial-intelligence-cant-technically-invent-things-says-patent-office/amp/"
+title: "Artificial Intelligence can't technically invent things, says patent office"
+excerpt: "Artificial intelligence is the future. If \"Westworld\" or \"Black Mirror\" are to be believed, there will soon come a day when the computers rule us all. But for now, an AI's power ends at the US Patent Office."
+publishedDateTime: 2020-04-30T08:39:00Z
+webUrl: "https://www.cnn.com/2020/04/30/us/artificial-intelligence-inventing-patent-office-trnd/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2020/04/30/us/artificial-intelligence-inventing-patent-office-trnd/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/04/30/us/artificial-intelligence-inventing-patent-office-trnd/index.html"
 type: article
 
 provider:
-  name: FOX59 News
-  domain: fox59.com
+  name: CNN
+  domain: cnn.com
+  images:
+    - url: "https://insideout.app/ai/assets/images/organizations/cnn.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI in Robotics
+  - Machine Learning
   - AI
 
 images:
-  - url: "https://fox59.com/wp-content/uploads/sites/21/2020/04/GettyImages-1176548169.jpg?w=1024&h=720&crop=1&resize=1280,720"
-    width: 1280
-    height: 720
-    title: "Artificial intelligence can’t technically invent things, says patent office"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/181211153659-artificial-intelligence-super-tease.jpg"
+    width: 1100
+    height: 619
+    title: "Artificial Intelligence can't technically invent things, says patent office"
 
-secured: "LLL7763fpgn6YqvsThLaOrMRcpjyzaTpS2AjGqUA5bqw2orUl9p+ZbCHu/ck+jND4YlupN8i/fykf4GV0hgj174+bXUdBebIjAjIUn8NXUjpR94vU7ctDjMw0cv7vw8v1LBIVFiwdOBiz7An8hvF5K5drskZbsOtPHmuRNFYDV0/gELmKVFAL8jdF8BEQOaHHS2iQzP2NNtPUfVa2mGBRpOjOU42KPPiRZrIY4fsC0YNDvqVbvWBJANqerOktQrUYfo1Q36ZQGURzDSjTUYWFYtyxpg4YX4Y4ztzmdxjgdy4GjpU/koo2xuNjw7X7OxX;zARRog9HjLVFYiwYp49neA=="
+secured: "xz72MIVPB95j6nRrP1tLprwhG8JFAyhqDTB0tHtxhnT/Fo1MBMxyr+qkivFe3MkO4IX7FVSYinmPsPwHbfr73k4uz7QzkUSZ8C6Umo0dFHUOR8Z+T/w6n7taaSlnIME4PG6QXa/CPOa5N7941b+2wX0ZVx2kLUxTz4TC+3PN3BOSKBSlPKnY9U0Uj1w5QB7JOkTdc2R10FQZYgMxvdePdDGJhtGx0dNaCjWCKD6b8+DU+sffCDiZYO6NLEAkBhzRgmMmaK7KtW9OQgLbDTMk1tg+oUlE5F2mRbrgm3550VpNhHgRQdMnqoXAS8VLfVWS;mxnzB6NN9dTpOoFDrwvX5g=="
 ---
 

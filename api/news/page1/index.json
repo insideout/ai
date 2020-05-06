@@ -2,6 +2,186 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-05-06-computer-vision-is-transforming-healthcare-with-rapid-cell-counting-and-patient-identification.md",
+      "title": "Computer vision is transforming healthcare with rapid cell counting and patient identification",
+      "excerpt": "Fast forward to the present day and computer vision is being used to identify and count cell nuclei not only more accurately than people can count, but far faster. To accomplish this, an AI model is trained to identify cell nuclei.",
+      "heat": 77,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/05/06/visual-ai-how-computer-vision-is-transforming-health-care-syndication/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/05/06/visual-ai-how-computer-vision-is-transforming-health-care-syndication/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/05/06/visual-ai-how-computer-vision-is-transforming-health-care-syndication/amp/",
+      "publishedDateTime": "2020-05-06T04:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/1-copy-1-796x417.jpg",
+          "width": 796,
+          "height": 417,
+          "title": "Computer vision is transforming healthcare with rapid cell counting and patient identification",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-06-3-artificial-intelligence-stocks-to-buy-in-may.md",
+      "title": "3 Artificial Intelligence Stocks to Buy in May",
+      "excerpt": "One of the biggest tech opportunities over the next decade is artificial intelligence (AI). According to Grand View Research, the general AI market, across a variety of products and services, is set to expand at a huge 46.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fool.com/investing/2020/05/06/3-artificial-intelligence-stocks-to-buy-in-may.aspx",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/05/06/3-artificial-intelligence-stocks-to-buy-in-may.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/06/3-artificial-intelligence-stocks-to-buy-in-may.aspx",
+      "publishedDateTime": "2020-05-06T03:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/497755/istock_000016851885_large_large.jpg",
+          "width": 580,
+          "height": 378,
+          "title": "3 Artificial Intelligence Stocks to Buy in May",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-06-national-lab-taps-ai-machine-with-massive-chip-to-fight-coronavirus.md",
+      "title": "National Lab Taps AI Machine With Massive Chip to Fight Coronavirus",
+      "excerpt": "Argonne National Laboratory is using the CS-1 computer, from AI chip startup Cerebras Systems, to run learning models aimed at discovering compounds that can be used in existing or new drugs to help create a vaccine or treatments.",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wsj.com/articles/national-lab-taps-ai-machine-with-massive-chip-to-fight-coronavirus-11588757403",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/national-lab-taps-ai-machine-with-massive-chip-to-fight-coronavirus-11588757403",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/national-lab-taps-ai-machine-with-massive-chip-to-fight-coronavirus-11588757403",
+      "publishedDateTime": "2020-05-06T03:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-183667/social",
+          "width": 1280,
+          "height": 640,
+          "title": "National Lab Taps AI Machine With Massive Chip to Fight Coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-06-hong-kong-stocks-rally-a-second-straight-day-with-chinas-largest-chip-maker-smic-soaring-nearly-11-per-cent-on-a-share-plans.md",
+      "title": "Hong Kong stocks rally a second straight day, with China’s largest chip maker SMIC soaring nearly 11 per cent on A-share plans",
+      "excerpt": "Investors continued to brush off Monday’s rout, when the Hang Seng Index fell more than 1,000 points. Overall, Hong Kong sentiment has been positive, with the benchmark rising in seven of the last nine sessions.",
+      "heat": 76,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.scmp.com/business/money/article/3083163/hong-kong-stocks-rally-second-straight-day-chinas-largest-chip-maker",
+      "ampWebUrl": "https://amp.scmp.com/business/money/article/3083163/hong-kong-stocks-rally-second-straight-day-chinas-largest-chip-maker",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/business/money/article/3083163/hong-kong-stocks-rally-second-straight-day-chinas-largest-chip-maker",
+      "publishedDateTime": "2020-05-06T02:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/05/06/119003a6-8f70-11ea-a674-527cfdef49ee_image_hires_173713.jpg?itok=bLFr0WBZ&v=1588757844",
+          "width": 1200,
+          "height": 630,
+          "title": "Hong Kong stocks rally a second straight day, with China’s largest chip maker SMIC soaring nearly 11 per cent on A-share plans",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-06-why-choose-a-stock-image-yourself-when-this-robot-can-do-it-for-you.md",
       "title": "Why choose a stock image yourself when this robot can do it for you?",
       "excerpt": "Stock photography is typically categorized into two camps: overly specific images that no one understands, or truly bizarre photos that make their way into the internet meme cycle ( distracted boyfriend meme,",
@@ -36,6 +216,52 @@
       "topics": [
         "AI in Robotics",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-06-cognitive-services-market-next-big-thing-2025-microsoft-google-aws-baidu-nuance-communications-ibm.md",
+      "title": "Cognitive Services Market Next Big Thing 2025 - Microsoft, Google, AWS, Baidu, Nuance Communications, IBM",
+      "excerpt": "Cognitive Services are a set of machine learning algorithms that has been developed to explain problems in the field of Artificial Intelligence (AI). Cognitive services offer an organized way to reach business objectives by dropping the efforts essential to work on recurring tasks.",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/cognitive-services-market-next-big-thing-2025---microsoft-google-aws-baidu-nuance-communications-ibm-2020-05-06",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-06T01:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Cognitive Services Market Next Big Thing 2025 - Microsoft, Google, AWS, Baidu, Nuance Communications, IBM",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Microsoft AI"
       ]
     },
     {
@@ -888,231 +1114,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-05-technology-and-ethics-in-the-coronavirus-economy.md",
-      "title": "Technology and ethics in the coronavirus economy",
-      "excerpt": "The last two decades have ushered in significant change and transformation. I believe the 2020s will be dispositive in redefining the pillars of our economy, and COVID-19 magnifies this greatly.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/05/05/technology-and-ethics-in-the-coronavirus-economy/",
-      "ampWebUrl": "https://techcrunch.com/2020/05/05/technology-and-ethics-in-the-coronavirus-economy/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/05/technology-and-ethics-in-the-coronavirus-economy/amp/",
-      "publishedDateTime": "2020-05-05T07:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/05/GettyImages-1215830807.jpg?w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": "Technology and ethics in the coronavirus economy",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-05-gigaspaces-raises-12-million-to-accelerate-ai-workloads-with-in-memory-computing.md",
-      "title": "GigaSpaces raises $12 million to accelerate AI workloads with in-memory computing",
-      "excerpt": "Startup GigaSpaces announced that it raised $12 million to further develop its in-memory computing platform for big data analytics workloads.",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/05/05/gigaspaces-raises-12-million-to-accelerate-ai-workloads-with-in-memory-computing/",
-      "ampWebUrl": "https://venturebeat.com/2020/05/05/gigaspaces-raises-12-million-to-accelerate-ai-workloads-with-in-memory-computing/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/05/gigaspaces-raises-12-million-to-accelerate-ai-workloads-with-in-memory-computing/amp/",
-      "publishedDateTime": "2020-05-05T07:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/11/big-data.GettyImages-1133714603-e1584722383408.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "GigaSpaces raises $12 million to accelerate AI workloads with in-memory computing",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-05-scientists-found-a-way-to-plug-adversarial-backdoors-in-deep-learning-models.md",
-      "title": "Scientists found a way to plug adversarial backdoors in deep learning models",
-      "excerpt": "By installing a backdoor in the deep learning algorithm, the malicious actor ironically gained access to the building through the front door. This is not a page out of a sci-fi novel. Although hypothetical,",
-      "heat": 88,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/05/05/scientists-found-a-way-to-plug-adversarial-backdoors-in-deep-learning-models-syndication/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/05/05/scientists-found-a-way-to-plug-adversarial-backdoors-in-deep-learning-models-syndication/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/05/05/scientists-found-a-way-to-plug-adversarial-backdoors-in-deep-learning-models-syndication/amp/",
-      "publishedDateTime": "2020-05-05T07:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-...-10-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "Scientists found a way to plug adversarial backdoors in deep learning models",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-05-05-mediatek-announces-the-helio-g85-with-a-1ghz-gpu-and-hyperengine-improvements.md",
-      "title": "MediaTek announces the Helio G85 with a 1GHz GPU and HyperEngine improvements",
-      "excerpt": "MediaTek announced its latest chipset from its Helio G gaming series, the G85. It combines a 1GHz GPU with MediaTek's own HyperEngine for what the company is promising is gaming greatness.",
-      "heat": 86,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.neowin.net/news/mediatek-announces-the-helio-g85-with-a-1ghz-gpu-and-hyperengine-improvements",
-      "ampWebUrl": "https://www.neowin.net/amp/mediatek-announces-the-helio-g85-with-a-1ghz-gpu-and-hyperengine-improvements/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/mediatek-announces-the-helio-g85-with-a-1ghz-gpu-and-hyperengine-improvements/",
-      "publishedDateTime": "2020-05-05T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2020/05/1588628153_mediatek_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": "MediaTek announces the Helio G85 with a 1GHz GPU and HyperEngine improvements",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-05-omilia-raises-20-million-for-ai-customer-service-chatbots.md",
-      "title": "Omilia raises $20 million for AI customer service chatbots",
-      "excerpt": "Omilia, a startup developing natural language technologies for the enterprise, has raised $20 million in equity financing.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/05/05/omilia-raises-20-million-for-ai-customer-service-chatbots/",
-      "ampWebUrl": "https://venturebeat.com/2020/05/05/omilia-raises-20-million-for-ai-customer-service-chatbots/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/05/omilia-raises-20-million-for-ai-customer-service-chatbots/amp/",
-      "publishedDateTime": "2020-05-05T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/08/chatbot.shutterstock_1139070611-e1588276688496.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Omilia raises $20 million for AI customer service chatbots",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -2,6 +2,52 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-02-26-deep-learning-advances-are-boosting-computer-vision-but-theres-still-clear-limits.md",
+      "title": "Deep learning advances are boosting computer vision — but there’s still clear limits",
+      "excerpt": "The efforts have led to the emergence of computer vision, a vast subfield of AI and computer science that deals with processing the content of visual data. In recent years, computer vision has taken great leaps thanks to advances in deep learning and artificial neural networks. Deep learning is a branch of AI that is especially good at ...",
+      "heat": 119,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/02/26/computer-vision-applications-the-power-and-limits-of-deep-learning-syndication/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/02/26/computer-vision-applications-the-power-and-limits-of-deep-learning-syndication/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/02/26/computer-vision-applications-the-power-and-limits-of-deep-learning-syndication/amp/",
+      "publishedDateTime": "2020-02-26T07:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/02/4-1-796x417.jpg",
+          "width": 796,
+          "height": 417,
+          "title": "Deep learning advances are boosting computer vision — but there’s still clear limits",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-02-26-machine-learning-artificial-intelligence-virtual-reality-and-retailers.md",
       "title": "Machine Learning, Artificial Intelligence, Virtual Reality And Retailers",
       "excerpt": "These technologies are very quickly making the transition from novelties to be marveled at to fixtures that will define many of the activities that comprise our daily lives. But how does this translate for retailers?",
@@ -1244,43 +1290,6 @@
           "width": 688,
           "height": 273,
           "title": "Document Understanding AI — Google Cloud Explained",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-02-18-the-greatest-gift-machine-learning-ever-gave-us-is-this-archive-of-mark-zuckerberg-haircuts.md",
-      "title": "The greatest gift machine learning ever gave us is this archive of Mark Zuckerberg haircuts",
-      "excerpt": "Even the most commonplace of objects, sufficiently decontextualized, has the power to take on new meaning. We see this, perhaps most famously, with Marcel Duchamp's \"Fountain.\" The so-called readymade sculpture was in fact simply a signed urinal. However, in part by separating it from the whole, Duchamp challenged his audience to see the ...",
-      "heat": 94,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://mashable.com/article/mark-zuckerberg-machine-learning-haircuts/",
-      "ampWebUrl": "https://mashable.com/article/mark-zuckerberg-machine-learning-haircuts.amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/mark-zuckerberg-machine-learning-haircuts.amp",
-      "publishedDateTime": "2020-02-18T12:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/2020%252F02%252F18%252F93%252F671446455065416791c366d047a0f8eb.c1d5a.jpg%252F1200x630.jpg?signature=AIlDxMdA7Eso7mMc3YYiavO5Md4=",
-          "width": 1200,
-          "height": 630,
-          "title": "The greatest gift machine learning ever gave us is this archive of Mark Zuckerberg haircuts",
           "attribution": null
         }
       ],

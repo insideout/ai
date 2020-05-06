@@ -607,43 +607,6 @@
       ]
     },
     {
-      "path": "_news/2020-04-30-artificial-intelligence-cant-technically-invent-things-says-patent-office.md",
-      "title": "Artificial intelligence can’t technically invent things, says patent office",
-      "excerpt": "Artificial intelligence is the future. If “Westworld” or “Black Mirror” are to be believed, there will soon come a day when the computers rule us all. But for now, an",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://fox59.com/news/national-world/artificial-intelligence-cant-technically-invent-things-says-patent-office/",
-      "ampWebUrl": "https://fox59.com/news/national-world/artificial-intelligence-cant-technically-invent-things-says-patent-office/amp/",
-      "cdnAmpWebUrl": "https://fox59-com.cdn.ampproject.org/c/s/fox59.com/news/national-world/artificial-intelligence-cant-technically-invent-things-says-patent-office/amp/",
-      "publishedDateTime": "2020-04-30T04:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FOX59 News",
-        "domain": "fox59.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://fox59.com/wp-content/uploads/sites/21/2020/04/GettyImages-1176548169.jpg?w=1024&h=720&crop=1&resize=1280,720",
-          "width": 1280,
-          "height": 720,
-          "title": "Artificial intelligence can’t technically invent things, says patent office",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-04-29-roborock-s6-maxv-review-the-robot-vacuum-for-pet-owners.md",
       "title": "Roborock S6 MaxV review: The robot vacuum for pet owners",
       "excerpt": "The Roborock S6 MaxV adds dual cameras and a Qualcomm chipset to its tried-and-tested mop and vacuum capabilities.",
@@ -1273,6 +1236,51 @@
         "AI",
         "Machine Learning",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-04-22-how-will-service-robotics-market-deal-with-the-covid-19-crisis.md",
+      "title": "How Will Service Robotics Market Deal with the COVID-19 Crisis?",
+      "excerpt": "The global service robotics market is expected to rise with an impressive CAGR and generate the highest revenue by",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/how-will-service-robotics-market-deal-with-the-covid-19-crisis-2020-04-22",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-22T02:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "How Will Service Robotics Market Deal with the COVID-19 Crisis?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
       ]
     }
   ],

@@ -2,6 +2,221 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-05-04-microsoft-our-new-free-python-programming-language-courses-are-for-novice-ai-developers.md",
+      "title": "Microsoft: Our new free Python programming language courses are for novice AI developers",
+      "excerpt": "Microsoft's two new video series target beginner developers interested in using Python for machine-learning programs.",
+      "heat": 75,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/microsoft-our-new-free-python-programming-language-courses-are-for-novice-ai-developers/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-our-new-free-python-programming-language-courses-are-for-novice-ai-developers/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-our-new-free-python-programming-language-courses-are-for-novice-ai-developers/",
+      "publishedDateTime": "2020-05-04T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-04-navy-releases-ufo-videos-ai-self-driving-cars-might-solve-these-mysteries.md",
+      "title": "Navy Releases UFO Videos, AI Self-Driving Cars Might Solve These Mysteries",
+      "excerpt": "The stated reason for the Department of Defense (DoD) opting to release the videos consisted of wanting to set the record straight about the authenticity of the videos, doing so because the videos had prior been surreptitiously leaked,",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/05/04/navy-releases-ufo-videos-ai-self-driving-cars-might-solve-these-mysteries/",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/05/04/navy-releases-ufo-videos-ai-self-driving-cars-might-solve-these-mysteries/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/05/04/navy-releases-ufo-videos-ai-self-driving-cars-might-solve-these-mysteries/amp/",
+      "publishedDateTime": "2020-05-04T08:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F140238060%2F0x0.jpg%3FcropX1%3D416%26cropX2%3D4838%26cropY1%3D0%26cropY2%3D3318",
+          "width": 1200,
+          "height": 900,
+          "title": "Navy Releases UFO Videos, AI Self-Driving Cars Might Solve These Mysteries",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2020-05-04-theres-more-to-usability-in-ai-and-iot-than-you-think.md",
+      "title": "There's more to usability in AI and IoT than you think",
+      "excerpt": "You think your app is usable, but there are more things you should think about before launch. Here are five key questions to ask yourself about your AI or IoT project.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/article/theres-more-to-usability-in-ai-and-iot-than-you-think/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/theres-more-to-usability-in-ai-and-iot-than-you-think/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/theres-more-to-usability-in-ai-and-iot-than-you-think/",
+      "publishedDateTime": "2020-05-04T08:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/02/03/ec657806-e8cc-4b44-9b4e-2b9f1eb7583c/thumbnail/1200x675/c0eadaba26f5c428f78e4dc438118cea/20200131-menezes-bill.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "There's more to usability in AI and IoT than you think",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-04-allen-institutes-verisci-uses-ai-to-fact-check-scientific-claims.md",
+      "title": "Allen Institute’s VeriSci uses AI to fact-check scientific claims",
+      "excerpt": "Researchers at the Allen Institute and University of Washington describe VeriSci, an AI system that automatically fact-checks scientific claims.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/05/04/allen-institutes-verisci-uses-ai-to-fact-check-scientific-claims/",
+      "ampWebUrl": "https://venturebeat.com/2020/05/04/allen-institutes-verisci-uses-ai-to-fact-check-scientific-claims/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/04/allen-institutes-verisci-uses-ai-to-fact-check-scientific-claims/amp/",
+      "publishedDateTime": "2020-05-04T08:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/6508d40a-448c-44b3-bd7d-3ec135ba2e54-e1585776810679.png?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Allen Institute’s VeriSci uses AI to fact-check scientific claims",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-04-how-should-your-business-get-started-with-ai-begin-with-why.md",
+      "title": "How Should Your Business Get Started With AI? Begin With Why",
+      "excerpt": "When it comes to AI, it’s tempting to focus on the technology rather than the underlying need its intended to address. Asking why may prove to be the key to helping businesses get started with AI.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/kasiaborowska/2020/05/04/how-should-your-business-get-started-with-ai-begin-with-why/",
+      "ampWebUrl": "https://www.forbes.com/sites/kasiaborowska/2020/05/04/how-should-your-business-get-started-with-ai-begin-with-why/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kasiaborowska/2020/05/04/how-should-your-business-get-started-with-ai-begin-with-why/amp/",
+      "publishedDateTime": "2020-05-04T07:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eb0259abf28980008468d55%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4798%26cropY1%3D363%26cropY2%3D2612",
+          "width": 1200,
+          "height": 563,
+          "title": "How Should Your Business Get Started With AI? Begin With Why",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-04-democrats-counter-trumps-fake-coronavirus-news-with-ai-that-fought-isis-propaganda.md",
       "title": "Democrats counter Trump’s fake coronavirus news with AI that fought ISIS propaganda",
       "excerpt": "Trump PAC is using AI originally designed to tackle Islamic State propaganda to counter coronavirus disinformation spread by the president.",
@@ -1109,222 +1324,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-02-i-could-solve-most-of-your-problems-eric-schmidts-pentagon-offensive.md",
-      "title": "‘I Could Solve Most of Your Problems’: Eric Schmidt’s Pentagon Offensive",
-      "excerpt": "The former Google C.E.O. has reinvented himself as the prime liaison between Silicon Valley and the military-industrial complex.",
-      "heat": 83,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nytimes.com/2020/05/02/technology/eric-schmidt-pentagon-google.html",
-      "ampWebUrl": "https://www.nytimes.com/2020/05/02/technology/eric-schmidt-pentagon-google.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/05/02/technology/eric-schmidt-pentagon-google.amp.html",
-      "publishedDateTime": "2020-05-02T02:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/05/03/business/00schmidt1/00schmidt1-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": "‘I Could Solve Most of Your Problems’: Eric Schmidt’s Pentagon Offensive",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-02-16-things-to-help-battle-your-social-distancing-boredom-all-on-sale.md",
-      "title": "16 things to help battle your social distancing boredom, all on sale",
-      "excerpt": "These top-selling deals are massively discounted — up to 98% off — for no good reason other than to make your social distancing life a little better. From app subscriptions to online courses to smartphone accessories,",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://mashable.com/shopping/may-2-social-distancing-boredom-sale/",
-      "ampWebUrl": "https://mashable.com/shopping/may-2-social-distancing-boredom-sale.amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/shopping/may-2-social-distancing-boredom-sale.amp",
-      "publishedDateTime": "2020-05-02T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/2020%252F05%252F02%252Ff2%252Faac2f06ab7924e4bb5490b401614948f.08afc.jpg%252F1200x630.jpg?signature=Ws8OrHmNrSwXDm02XQM7LOdHNn0=",
-          "width": 1200,
-          "height": 630,
-          "title": "16 things to help battle your social distancing boredom, all on sale",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-02-artificial-intelligence-in-retail-market-share-scope-trends-drivers-challenges-forecast-2023.md",
-      "title": "Artificial Intelligence in Retail Market Share, Scope, Trends, Drivers, Challenges - Forecast 2023",
-      "excerpt": "Artificial Intelligence is anticipated to disrupt every business and enterprises across the world. One of the major factors that drive the growth of artificial intelligence market",
-      "heat": 78,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-share-scope-trends-drivers-challenges---forecast-2023-2020-05-02",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-02T01:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Artificial Intelligence in Retail Market Share, Scope, Trends, Drivers, Challenges - Forecast 2023",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-02-uw-team-imagines-a-better-parkinsons-test-lands-in-global-finals-for-microsoft-student-competition.md",
-      "title": "UW team imagines a better Parkinson’s test, lands in global finals for Microsoft student competition",
-      "excerpt": "A team of students from the University of Washington is among the global finalists in Microsoft’s annual Imagine Cup after putting their imaginations — and technical skills — to work in hopes",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.geekwire.com/2020/uw-team-among-microsofts-imagine-cup-finalists-tech-make-parkinsons-test-accessible/",
-      "ampWebUrl": "https://www.geekwire.com/2020/uw-team-among-microsofts-imagine-cup-finalists-tech-make-parkinsons-test-accessible/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/uw-team-among-microsofts-imagine-cup-finalists-tech-make-parkinsons-test-accessible/amp/",
-      "publishedDateTime": "2020-05-01T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/04/teamtremor-630x353.png",
-          "width": 630,
-          "height": 353,
-          "title": "UW team imagines a better Parkinson’s test, lands in global finals for Microsoft student competition",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-01-learn-how-to-select-ml-instances-on-the-fly-in-amazon-sagemaker-studio.md",
-      "title": "Learn how to select ML instances on the fly in Amazon SageMaker Studio",
-      "excerpt": "Amazon Web Services (AWS) is happy to announce the general availability of Notebooks within Amazon SageMaker Studio. Amazon SageMaker Studio supports on-the-fly selection of machine learning (ML) instance types, optimized and pre-packaged Amazon SageMaker Images, and sharing of Jupyter notebooks. You",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/learn-how-to-select-ml-instances-on-the-fly-in-amazon-sagemaker-studio/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-01T15:23:50-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0.png",
-          "width": 1260,
-          "height": 630,
-          "title": "Learn how to select ML instances on the fly in Amazon SageMaker Studio",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

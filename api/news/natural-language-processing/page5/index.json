@@ -2,6 +2,88 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-03-13-ibm-prepares-to-advance-watsons-language-ability.md",
+      "title": "IBM prepares to advance Watson’s language ability",
+      "excerpt": "NAIROBI, Kenya, Mar 13 - IBM has announced several new IBM Watson technologies designed to help organizations begin identifying, understanding and Kenya breaking news | Kenya news today |",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.capitalfm.co.ke/business/2020/03/ibm-prepares-to-advance-watsons-language-ability/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-13T03:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Capital FM",
+        "domain": "capitalfm.co.ke",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.capitalfm.co.ke/business/files/2020/03/artificial-intelligence-ibm-watson-ai.jpg",
+          "width": 968,
+          "height": 681,
+          "title": "IBM prepares to advance Watson’s language ability",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-12-researchers-use-ai-to-translate-text-found-on-ancient-clay-tablets.md",
+      "title": "Researchers use AI to translate text found on ancient clay tablets",
+      "excerpt": "Read: Google now supports five new languages on Translate To build the model, they’re training it on more than 6,000 annotated images from the Persepolis Fortification Archive. This will teach the system to read tablets in the collection that have never been analyzed before. They believe the system could uncover new secrets about Achaemenid ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/03/12/researchers-use-ai-to-translate-text-found-on-ancient-clay-tablets/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/03/12/researchers-use-ai-to-translate-text-found-on-ancient-clay-tablets/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/03/12/researchers-use-ai-to-translate-text-found-on-ancient-clay-tablets/amp/",
+      "publishedDateTime": "2020-03-12T11:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/03/Untitled-design19-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "Researchers use AI to translate text found on ancient clay tablets",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-12-how-ai-could-help-translate-the-written-language-of-ancient-civilizations.md",
       "title": "How AI could help translate the written language of ancient civilizations",
       "excerpt": "But a technological breakthrough at the University of Chicago may finally make automated transcription of these tablets—which reveal rich information about Achaemenid history, society and language—possible ... Krishnan applies deep learning and AI techniques to data analysis, including video and other complex data types.",
@@ -1147,96 +1229,6 @@
           "width": 1400,
           "height": 933,
           "title": "Facebook will now pay you for your voice recordings",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-02-20-do-we-need-more-data-or-more-science-in-data-science.md",
-      "title": "Do We Need More Data Or More Science In Data Science?",
-      "excerpt": "Is the success of Google that of the algorithms or that of data? Today’s fascination with artificial intelligence (AI) reflects both our appetite for data and our excitement about the new opportunities in machine learning.",
-      "heat": 104,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/20/do-we-need-more-data-or-more-science-in-data-science/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/20/do-we-need-more-data-or-more-science-in-data-science/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/02/20/do-we-need-more-data-or-more-science-in-data-science/amp/",
-      "publishedDateTime": "2020-02-20T05:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/711x532/https://specials-images.forbesimg.com/dam/imageserve/954077270/960x0.jpg?fit=scale",
-          "width": 711,
-          "height": 532,
-          "title": "Do We Need More Data Or More Science In Data Science?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-02-20-5-clever-google-maps-tricks-to-see-more-than-just-whats-on-the-map.md",
-      "title": "5 clever Google Maps tricks to see more than just what's on the map",
-      "excerpt": "Google Maps crowdsources more than just traffic data -- get real-time information on your destination, including wait times, operating hours and more. I open the Google Maps app on my phone practically every day,",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnet.com/how-to/5-clever-google-maps-tricks-to-see-more-than-just-whats-on-the-map/",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/5-clever-google-maps-tricks-to-see-more-than-just-whats-on-the-map/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/5-clever-google-maps-tricks-to-see-more-than-just-whats-on-the-map/",
-      "publishedDateTime": "2020-02-20T05:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cnet4.cbsistatic.com/img/pifVUy5Lk2fZIkaFloP9-u8fG4I=/756x567/2019/12/04/6a025761-b652-4ce9-a80c-65319a3f1ca6/google-maps-logo-phone-3831.jpg",
-          "width": 756,
-          "height": 567,
-          "title": "5 clever Google Maps tricks to see more than just what's on the map",
           "attribution": null
         }
       ],

@@ -2,6 +2,43 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-02-18-the-greatest-gift-machine-learning-ever-gave-us-is-this-archive-of-mark-zuckerberg-haircuts.md",
+      "title": "The greatest gift machine learning ever gave us is this archive of Mark Zuckerberg haircuts",
+      "excerpt": "Even the most commonplace of objects, sufficiently decontextualized, has the power to take on new meaning. We see this, perhaps most famously, with Marcel Duchamp's \"Fountain.\" The so-called readymade sculpture was in fact simply a signed urinal. However, in part by separating it from the whole, Duchamp challenged his audience to see the ...",
+      "heat": 94,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://mashable.com/article/mark-zuckerberg-machine-learning-haircuts/",
+      "ampWebUrl": "https://mashable.com/article/mark-zuckerberg-machine-learning-haircuts.amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/mark-zuckerberg-machine-learning-haircuts.amp",
+      "publishedDateTime": "2020-02-18T12:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mondrian.mashable.com/2020%252F02%252F18%252F93%252F671446455065416791c366d047a0f8eb.c1d5a.jpg%252F1200x630.jpg?signature=AIlDxMdA7Eso7mMc3YYiavO5Md4=",
+          "width": 1200,
+          "height": 630,
+          "title": "The greatest gift machine learning ever gave us is this archive of Mark Zuckerberg haircuts",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-02-18-how-ai-therapists-and-machine-learning-could-be-the-answer-to-affordable-mental-health-care.md",
       "title": "How AI ‘therapists’ and machine learning could be the answer to affordable mental health care",
       "excerpt": "People reveal more personal and intimate details to human-like apps and bots that can ‘sense’ emotions and concerns.",
@@ -1270,52 +1307,6 @@
         "AI",
         "Microsoft AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-02-10-top-5-companies-using-machine-learning-in-2020.md",
-      "title": "Top 5 companies using Machine Learning in 2020",
-      "excerpt": "Nowadays small startups are more innovative and dynamic than big companies and established in market leaders. Machine learning is trending and more effective technology so every industry are started to use this technology. It’s not same for all the cases since the making of advanced products and services is often very expensive, few companies ...",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/@sushmithagowda216/top-5-companies-using-machine-learning-in-2020-cb5558468da9",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-10T10:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/800/1*IVYvNXzk1XVr7XM9Hu9X-A.png",
-          "width": 800,
-          "height": 445,
-          "title": "Top 5 companies using Machine Learning in 2020",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AI in Finance"
       ]
     }
   ],

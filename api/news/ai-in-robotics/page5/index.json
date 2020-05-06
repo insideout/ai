@@ -2,43 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2020-03-13-this-paralyzed-man-can-feel-his-fingers-again-thanks-to-a-mind-controlled-robotic-arm.md",
-      "title": "This paralyzed man can feel his fingers again thanks to a mind-controlled robotic arm",
-      "excerpt": "Mashable is a global, multi-platform media and entertainment company. Powered by its own proprietary technology, Mashable is the go-to source for tech, digital culture and entertainment content ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://mashable.com/video/paralyzed-man-feels-fingers-again/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-12T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/2016%252F10%252F14%252Fb6%252FAP_16287736330662.d3659.jpg%252F1200x630.jpg?signature=NIqfeD79B--WSLa-nz-r7U5cHZ0=",
-          "width": 1200,
-          "height": 630,
-          "title": "This paralyzed man can feel his fingers again thanks to a mind-controlled robotic arm",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-03-12-michael-guberti-three-ways-to-grow-your-business-with-artificial-intelligence.md",
       "title": "Michael Guberti: Three ways to grow your business with artificial intelligence",
       "excerpt": "Artificial intelligence involves robots and algorithms that can perform tasks, solve problems and adapt to different situations. If you have Googled directions to a location, asked Alexa a question, scrolled through Facebook, browsed recommended products on Amazon or asked Siri to call a friend, you have interacted with artificial intelligence.",
@@ -1144,6 +1107,52 @@
       "topics": [
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-02-26-toyota-steers-400-million-to-self-driving-startup-ponyai.md",
+      "title": "Toyota steers $400 million to self-driving startup Pony.ai",
+      "excerpt": "With this new investment, their relationship will become even closer, with the automaker and the startup “co-developing” mobility products like “mobility services.” Pony.ai has been testing robot taxis in Beijing and Guangzhou since late 2018 as well as in Fremont and Irvine, California. The startup claims to be the first company to ...",
+      "heat": 351,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.theverge.com/2020/2/25/21152817/toyota-pony-ai-self-driving-car-investment-valuation-china-silicon-valley",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/2/25/21152817/toyota-pony-ai-self-driving-car-investment-valuation-china-silicon-valley",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/2/25/21152817/toyota-pony-ai-self-driving-car-investment-valuation-china-silicon-valley",
+      "publishedDateTime": "2020-02-25T19:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/fsANPi0bG8QdF_khCWvMci5SLag=/0x0:2720x1322/1400x933/filters:focal(1143x444:1577x878):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66375289/Photo1.0.png",
+          "width": 1400,
+          "height": 933,
+          "title": "Toyota steers $400 million to self-driving startup Pony.ai",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics",
+        "AI in Autos"
       ]
     }
   ],

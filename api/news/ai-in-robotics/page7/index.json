@@ -2,43 +2,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_news/2020-02-17-surgeries-will-become-easier-with-use-of-robotics-ai-says-birrd-director.md",
-      "title": "Surgeries will become easier with use of robotics, AI, says BIRRD director",
-      "excerpt": "From merely using nimble fingers to perform complex surgeries, the TTD’s Balaji Institute of Surgery, Research and Rehabilitation for the Disabled (BIRRD) is all set to take a giant leap by taking the assistance of robotics and artificial intelligence for precision and patient comfort. In his maiden interaction with the media here on Friday ...",
-      "heat": 107,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.thehindu.com/news/national/andhra-pradesh/surgeries-will-become-easier-with-use-of-robotics-ai-says-birrd-director/article30846594.ece",
-      "ampWebUrl": "https://www.thehindu.com/news/national/andhra-pradesh/surgeries-will-become-easier-with-use-of-robotics-ai-says-birrd-director/article30846594.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/andhra-pradesh/surgeries-will-become-easier-with-use-of-robotics-ai-says-birrd-director/article30846594.ece/amp/",
-      "publishedDateTime": "2020-02-17T11:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hindu",
-        "domain": "thehindu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://th.thgim.com/static/theme/default/base/img/og-image.jpg",
-          "width": 300,
-          "height": 300,
-          "title": "Surgeries will become easier with use of robotics, AI, says BIRRD director",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
       "path": "_news/2020-02-17-space-robotics-market-emerging-trends-and-strong-application-scope-by-2025.md",
       "title": "Space Robotics Market Emerging Trends and Strong Application Scope by 2025",
       "excerpt": "HTF Market Intelligence released a new research report of 150 pages on title 'Global Space Robotics Market Insights by Application, Product Type, Competitive Landscape & Regional Forecast 2025' with detailed analysis,",
@@ -1260,6 +1223,43 @@
           "width": 620,
           "height": 480,
           "title": "New blood-sampling robot performs as well or better than people",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-02-06-robotics-investments-recap-january-2020.md",
+      "title": "Robotics investments recap: January 2020",
+      "excerpt": "In January 2020, reported transactions among robotics, drone, autonomous vehicles, and artificial intelligence companies totaled $1.16 billion. There were fewer deals around self-driving vehicles than in the past several months, but investors still supported supply chain, surgical systems, and agricultural automation. At the same time ...",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.therobotreport.com/january-2020-robotics-investments-recap/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-06T05:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2019/01/bg-robotic-omnichannel-fulfillmentflexbot-with-order1200xx3840-2160-0-0.png",
+          "width": 1200,
+          "height": 675,
+          "title": "Robotics investments recap: January 2020",
           "attribution": null
         }
       ],

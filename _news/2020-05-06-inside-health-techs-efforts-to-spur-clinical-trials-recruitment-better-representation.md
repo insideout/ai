@@ -5,8 +5,8 @@ excerpt: "While data analysis has revolutionized marketing and research, there r
 publishedDateTime: 2020-05-06T09:00:00Z
 webUrl: "https://www.mmm-online.com/home/channel/features/inside-health-techs-efforts-to-spur-clinical-trials-recruitment-better-representation/"
 type: article
-quality: 18
-heat: 18
+quality: 20
+heat: 20
 published: false
 
 provider:
@@ -17,6 +17,7 @@ topics:
   - AI in Healthcare
   - AI
   - AI in Autos
+  - Natural Language Processing
 
 images:
   - url: "https://www.mmm-online.com/wp-content/uploads/sites/2/2020/04/Macxbook-Pro_blank-template_Deep6.jpg"
@@ -24,6 +25,6 @@ images:
     height: 579
     title: "Inside health-tech’s efforts to spur clinical trials recruitment, better representation"
 
-secured: "g0ylx32im+T/Dwzwl6URg9VMhkYZeBTnS1eJdEIA4me++yFoVOzEVwVkt9kOtOj5R0KSgs25XkAc9eqI/ChGi6mCgzDQ0PkdzTY+R9mrfuAXOOiPCNkIr3F/RtKP/JMxuD//6y/02f7UMUErgGnKJG5gEubiRLXJUKJnr1Hxq4D4B6DKP5povA7Yi7o+zKAxSA1kRIAD57b+IWE9RN9+3J+/1vuaK9pgxrBIdOMW+3Cl1V9awZbF0c5sqtwlE7OvfsxbyV/XAloWb1kb8H/DGl8ZZgkoYiXGF+LMyk2eSNLCl/JyhLufqEKO6kTIRjb3;Es61MFXUCw/A3UNR0RW1fQ=="
+secured: "8kveZhKdyMMZIJ2pZMLK4mZS3ZkzndG2lLpUY2KVDraPgntKM5RAsrADCYN9OH0c3QQ0Jm+V51uC9xTQcu0GYXo77hyBW6zmSPvd+MazUafE2TrUfSabOnI23MjtPgJKnbJiph4ANT1HEKUriyhAXvC0t10vB/YbaIuSCdVYbPRhkmJWezzmDpGgfSOagqyLuhJ8cY6YkTlt7AHdGoPp6YyEs/e0395sRJr9i83a5u4XV34zhZ6HoslpxhfHrSUyl/VN2Yf6AB1GE8/fFz/n9MHvuDsqKCEXOE758F/CyK8Drg6LnOynolwBEvE7hG9uHDLYFku8apTl+f/RWVrjRrbhUbc2evVU6oHdObaIGjNeKC1S3ptjgCrFpMgvvNUuKaXFTnobn8k6CHWZRsd6paidZfzXTAjdZGpq+dfVOqlF4AQoL9F+NXgHfasNo1BLXuLTvZxX4ZUzHhE1/3CBR17t+PvNtZeWkqdSH7tVId0=;glgOWV2eF9Q25s/OksZz2Q=="
 ---
 

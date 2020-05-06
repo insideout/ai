@@ -24,6 +24,6 @@ images:
     height: 675
     title: "Coronavirus: world's first AI university in Abu Dhabi delays start date to January 2021"
 
-secured: "iMvgDDDTii7lr0HonpS0g6OIbqFSrcXdxFP8qARmnS2LVpyoCXKdHlZ6HF8O/rY3/xyXVbtk6kRB3UJmn6oAtU+Of5OUIs0Lpapd5e0CzseWtpTeiPhMj4tIYRevnBg2gjjgERkzfajwUonU65+fL/5qcFyhcB6DoVlVvR7s4bjQLi9uqNncqfgclbdIMd6bGtC/gwVOt8WQsXZuMGdsFQwZ+FeALG/pHzI6kP4UsQMAieFQMpQr+j+0hvYKKJP3s/yTl7i9uGlKh1aORrDVjYDPpB73vEXhIRjnDZjcnWOmdptEPxlbrnqdUd3P8hJt;B1JIRThiF68E0gDO++/rJg=="
+secured: "UoRl7HkS6xii8sMs2L8Kt26rSU0c4UjuBKxl/LmQtxGxG7tf56HWyO4Mq8C9oI/7LpWyI2O6K0PLO1aoIv7XBJzLNt/Zjop5Cibn5mDanxNCTzIgjX3FRbRo5SVKRqDu9pxIJjRH+Is22uKkFJtD5kXrk0eBw/pM+tOa1pjwC0qWbyRjrMluSz8JijxmdreH/oWVvvz2mewA4RMLZSvUhiV+eWXXFAwWXxBwpjD+e0ZHa96oH0oasMc/cf7gAAfyvuNw3fTIXxM66BUnaEigmZsKS3kPzFwLWWIurBkDxKmAwaZmu/C+4k43C/apD2UZlojw4UGLVPnGUnUP8vaAs/XmiHI3bq3MPPdOUm5bp6nWoYKJJWACxkCKvDhG/mA9GRkCr/iStO5jiYhoh5+FpTrz6T0zcCKwKulP0uXdMO3ZLyB+6WNk7ca6Gm66RBQWCn+RwJk7RY52i+6nIhzEQfHq0ptoG4VDUBlLHmLJ6ws=;6AOF9rA+jJiuZ8/VqRHkzA=="
 ---
 

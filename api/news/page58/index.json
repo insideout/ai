@@ -2,6 +2,237 @@
   "page": 58,
   "value": [
     {
+      "path": "_news/2020-03-18-amazon-elastic-inference-adds-support-for-pytorch-machine-learning-models.md",
+      "title": "Amazon Elastic Inference adds support for PyTorch machine learning models",
+      "excerpt": "Enhanced PyTorch libraries for EI are available by default in Amazon SageMaker, AWS Deep Learning AMIs, and AWS Deep Learning Containers, allowing developers to deploy PyTorch models in production with minimal code changes. In a blog post, Amazon explained that inference tends to account for around 90% of the compute costs for the average deep ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://siliconangle.com/2020/03/18/amazon-elastic-inference-adds-support-pytorch-machine-learning-models/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-18T16:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/03/aws-logo-reinvent2018-800x537.jpg",
+          "width": 800,
+          "height": 537,
+          "title": "Amazon Elastic Inference adds support for PyTorch machine learning models",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-18-fingerprint-locks-and-smart-home-facial-recognition-launched-to-growing-consumer-biometrics-market.md",
+      "title": "Fingerprint locks and smart home facial recognition launched to growing consumer biometrics market",
+      "excerpt": "The smart camera capabilities including object recognition for people, animals, and vehicles, were introduced with the HomeKit Secure Video in the previous version. The feature is expected to consist of face classification with identification for family members through smart home cameras. Other new features include Night Shift, which makes ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.biometricupdate.com/202003/fingerprint-locks-and-smart-home-facial-recognition-launched-to-growing-consumer-biometrics-market",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-18T15:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Biometric Companies",
+        "domain": "biometricupdate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/03/27164821/benjilock-biometric-travel-lock-by-Hampton-Products.jpeg",
+          "width": 2000,
+          "height": 2000,
+          "title": "Fingerprint locks and smart home facial recognition launched to growing consumer biometrics market",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-18-three-experts-appointed-to-axons-ai-ethics-board.md",
+      "title": "Three Experts Appointed to Axon’s AI Ethics Board",
+      "excerpt": "Axon, a provider of smart devices for reduced-force policing and security applications, has appointed three individuals to its AI Ethics Board. Axon offers products like tasers, body cameras, and drones, as well as policing software; and the company seeks to leverage Artificial Intelligence in its offerings. At a time of intensifying scrutiny ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://findbiometrics.com/biometrics-news-three-experts-appointed-to-axons-ai-ethics-board-903184/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-18T13:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SecuriMetrics HIIDE",
+        "domain": "findbiometrics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://findbiometrics.com/wp-content/uploads/iStock-910132252-1-e1525292879902.jpg",
+          "width": 851,
+          "height": 638,
+          "title": "Three Experts Appointed to Axon’s AI Ethics Board",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-18-ibm-working-on-greater-business-use-of-natural-language-processing.md",
+      "title": "IBM Working on Greater Business Use of Natural Language Processing",
+      "excerpt": "IBM today at an online event outlined a plan to bring to market new natural language processing (NLP) technology that will help computers better understand human communication and companies better communicate with their customers. The company is working on commercial applications of the NLP technology developed as part of IBM Research's Project ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=139833",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-18T13:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Destination CRM",
+        "domain": "destinationcrm.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://dzceab466r34n.cloudfront.net/Images/TopStoryImages/116673-Top-Story-AI-ORG.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": "IBM Working on Greater Business Use of Natural Language Processing",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-18-deep-learning-changes-scientific-research-finds-antibiotic-for-multi-resistant-bacteria.md",
+      "title": "Deep learning changes scientific research, finds antibiotic for multi-resistant bacteria",
+      "excerpt": "Scientists at MIT and Harvard’s Broad Institute and MIT’s CSAIL built a deep learning network that can acquire a broad representation of molecular structure and thereby discover novel antibiotics.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/video/mits-deep-learning-found-an-antibiotic-for-a-germ-nothing-else-could-kill/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-18T12:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/03/20/a054429e-8520-4d0a-9fcc-055da9056537/thumbnail/370x278/ef50d64ea8facf64a4639d9a1183f872/apple-updates-its-macbook-air-with-more-5e7371a2daf32b2d76d61158-1-mar-20-2020-15-12-55-poster.jpg",
+          "width": 370,
+          "height": 278,
+          "title": "Deep learning changes scientific research, finds antibiotic for multi-resistant bacteria",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-18-azure-netapp-files-become-hipaa-compliant.md",
+      "title": "Azure NetApp files become HIPAA compliant",
+      "excerpt": "In March 2018, Microsoft released automation for HIPAA/HITRUST compliance in the form of its new Azure Security and Compliance Blueprint for HIPAA/HITRUST – Health Data & AI. Azure Blueprints by Microsoft are resources to help build and launch cloud-powered applications that comply with stringent regulations and standards. Included in the ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.itworldcanada.com/article/azure-netapp-files-become-hipaa-compliant/428632",
+      "ampWebUrl": "https://www.itworldcanada.com/article/azure-netapp-files-become-hipaa-compliant/428632?amp=1",
+      "cdnAmpWebUrl": "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/azure-netapp-files-become-hipaa-compliant/428632?amp=1",
+      "publishedDateTime": "2020-03-18T12:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT World Canada",
+        "domain": "itworldcanada.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.itworldcanada.com/wp-content/uploads/2020/03/GettyImages-1127091365-620x250.jpg",
+          "width": 620,
+          "height": 250,
+          "title": "Azure NetApp files become HIPAA compliant",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-18-machine-learning-pushes-quantum-computing-forward.md",
       "title": "Machine learning pushes quantum computing forward",
       "excerpt": "Researchers have created a machine learning framework to precisely locate atom-sized quantum bits in silicon. It’s a crucial step for building a large-scale silicon quantum computer, the researchers report. Here, Muhammad Usman and Lloyd Hollenberg of the University of Melbourne explain their research and what it means for the future of ...",
@@ -703,235 +934,6 @@
           "attribution": null
         }
       ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-18-a-chinese-firm-claims-it-has-built-facial-recognition-tech-that-identifies-people-wearing-masks-with-95-accuracy.md",
-      "title": "A Chinese firm claims it has built facial recognition tech that identifies people wearing masks with 95% accuracy",
-      "excerpt": "People have foiled facial recognition technologies by wearing masks during the coronavirus outbreak.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businessinsider.com/chinese-company-claims-its-facial-recognition-95-accurate-masks-2020-3",
-      "ampWebUrl": "https://www.businessinsider.com/chinese-company-claims-its-facial-recognition-95-accurate-masks-2020-3?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chinese-company-claims-its-facial-recognition-95-accurate-masks-2020-3?amp",
-      "publishedDateTime": "2020-03-18T06:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.insider.com/5e5cf6c9fee23d6b777b3ed4?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": "A Chinese firm claims it has built facial recognition tech that identifies people wearing masks with 95% accuracy",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-18-how-china-built-facial-recognition-for-people-wearing-masks.md",
-      "title": "How China built facial recognition for people wearing masks",
-      "excerpt": "Hanwang, the facial-recognition company that has placed 2 million of its cameras at entrance gates across the world, started preparing for the coronavirus in early January. Huang Lei, the company’s chief technical officer, said that even before the new virus was widely known about, he had begun to get requests from hospitals at the centre of ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://arstechnica.com/tech-policy/2020/03/how-china-built-facial-recognition-for-people-wearing-masks/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-18T06:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-18-specialized-processors-accelerate-endpoint-ai-workloads.md",
-      "title": "Specialized processors accelerate endpoint AI workloads",
-      "excerpt": "(Image: Texas Instruments Inc.) Nvidia’s well-known Jetson Nano is a small but powerful graphics processing unit (GPU) module for AI applications in endpoint devices. Built on the same Maxwell architecture as larger members of the Jetson family (AGX Xavier and TX2), the GPU on the Nano module has 128 cores and is capable of 0.5 TFLOPS ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.embedded.com/specialized-processors-accelerate-endpoint-ai-workloads/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-18T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Embedded",
-        "domain": "embedded.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.embedded.com/wp-content/uploads/2020/03/img20200318091424Top-10-processors-for-AI-acceler_0.jpg?resize=1024,576",
-          "width": 1024,
-          "height": 576,
-          "title": "Specialized processors accelerate endpoint AI workloads",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-18-natural-language-processing-nlp-market-2019-trends-market-share-growth-opportunity-and-2027.md",
-      "title": "Natural Language Processing (NLP) Market 2019: Trends, Market Share, Growth, Opportunity And 2027",
-      "excerpt": "The report covers the forecast and analysis of the natural language processing (NLP) market on a global and regional level. The study provides historical data from 2015 to 2018 along with a forecast from 2019 to 2027 based on revenue (USD Million).",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-2019-trends-market-share-growth-opportunity-and-2027-2020-03-18",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-18T06:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Natural Language Processing (NLP) Market 2019: Trends, Market Share, Growth, Opportunity And 2027",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-18-ai-product-analytics-startup-convizit-closes-a-5-million-seed-round-led-by-pitango-venture-capital.md",
-      "title": "AI Product Analytics Startup Convizit Closes a $5 Million Seed Round Led by Pitango Venture Capital",
-      "excerpt": "/PRNewswire/ -- Convizit, a startup applying unique AI technologies to disrupt the product analytics market, announced today the closing of a $5M seed",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.prnewswire.com/news-releases/ai-product-analytics-startup-convizit-closes-a-5-million-seed-round-led-by-pitango-venture-capital-301026080.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-18T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg",
-          "width": 600,
-          "height": 315,
-          "title": "AI Product Analytics Startup Convizit Closes a $5 Million Seed Round Led by Pitango Venture Capital",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-18-enzo-villani-former-nasdaq-strategist-and-fintech-ma-executive-raising-100-million-for-new-hedge-fund-focused-on-blockchain-and-digital-currencies.md",
-      "title": "Enzo Villani, Former Nasdaq Strategist and Fintech M&A Executive Raising $100 Million for New Hedge Fund Focused on Blockchain and Digital Currencies",
-      "excerpt": "Alpha Sigma Capital combines executives from Wall Street, digital currency and private equity to fund blockchain companies that demonstrate promise.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.globenewswire.com/news-release/2020/03/18/2002586/0/en/Enzo-Villani-Former-Nasdaq-Strategist-and-Fintech-M-A-Executive-Raising-100-Million-for-New-Hedge-Fund-Focused-on-Blockchain-and-Digital-Currencies.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-18T05:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GlobeNewswire",
-        "domain": "globenewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
       "locale": "en-us",
       "categories": [
         "news"

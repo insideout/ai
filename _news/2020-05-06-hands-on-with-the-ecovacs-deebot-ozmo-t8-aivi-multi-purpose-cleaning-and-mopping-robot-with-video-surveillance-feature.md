@@ -29,6 +29,6 @@ images:
     height: 720
     title: "Hands on with the Ecovacs Deebot Ozmo T8 AIVI: multi-purpose cleaning and mopping robot with video surveillance feature"
 
-secured: "OMOd2y2NiF/ZnatsY6Ha3UGVoaY/K2pX0L/q9CTulN9MODe62e+zq+JqcZarAiifnM67Dj0/g8q8Yu41d08mFsVPVwoSwzDsznFYEqxNAeTnrbXhocfL08Qh8ecmMmdsh1/+ePBavm9leD1ozuDT526iUEC8YCtThqEVrNSckMLMP2p67fFcZlwzC2kD8TnAjch1k10xMoyb4iJuZ8uoLHh60J3NruTIa2FNRfaQ2tTru2zyNN0rmjHY530XlESU+ueJmHbw7QbFH7vNeutV73/+6wxgL0ecT6RYJmC9/cZ3LCCvqQkghfsmVv6fpybW;EzAYIEUsG1kI10WOYztieA=="
+secured: "E9Hbbxi+7UdiG29FLzWUM5RqaUiyzMYCJuSWrFSpr8FkRlGkC03PQf0S9rKeE0xMPD7fuYa01rcPN1zafulAmqAvu/p8mwV3BLkkbIBNVmciqg71/DwRYS2dxQKNnxRvBg3zKM+88hTdAWScVKNSuUfErBfJ7nAfarruTgjVkxGkI8gM2PXsg/V60A/H8KR0XRDgRupEf17O9X2ZcP7eQTUyaDd68ljI95dGLMAZLG2UMTz71RD/41oTi79XhTvIzigsQ45RcFya2jAi7LW+Qc+oOi98JqNsrYTBva2D5yXrG/LysywVHb4O7AZXMB0rZdMy5qyv9+Uh0G8H/c9M9EpwT9Q4m0fMy4WPD7u7mp8vFc/DPCpdmDDqAN6bMIZ59LZC2cFmFK9B6LyLdcvcemyHS7zJT4RgXABCmuWDwe/EgPVwRZdwh2lQ3+mB+JeC44osaz2E9w4IPtQ3rKfRsIBlV7UBz/18DvP+A/aXn8c=;X4VmgpvQ307lq8DVRXhGYA=="
 ---
 
