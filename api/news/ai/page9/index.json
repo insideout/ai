@@ -2,50 +2,6 @@
   "page": 9,
   "value": [
     {
-      "path": "_news/2020-04-27-4-million-richer-walrusai-has-a-pitch-for-companies-looking-for-qa-testing-tools.md",
-      "title": "$4 million richer, Walrus.ai has a pitch for companies looking for QA-testing tools",
-      "excerpt": "The co-founders of Walrus.ai, a new software company which raised $4 million in a new round of financing fro Homebrew, Felicis Ventures and Leadout Capital, started their business with one problem. Jake Marsh,",
-      "heat": 81,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/04/27/4-million-richer-walrus-ai-has-a-pitch-for-companies-looking-for-qa-testing-tools/",
-      "ampWebUrl": "https://techcrunch.com/2020/04/27/4-million-richer-walrus-ai-has-a-pitch-for-companies-looking-for-qa-testing-tools/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/27/4-million-richer-walrus-ai-has-a-pitch-for-companies-looking-for-qa-testing-tools/amp/",
-      "publishedDateTime": "2020-04-27T09:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/04/GettyImages-1134031847.jpg?w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": "$4 million richer, Walrus.ai has a pitch for companies looking for QA-testing tools",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-04-27-artificial-intelligence-will-be-used-to-power-cyber-attacks-warn-security-experts.md",
       "title": "Artificial intelligence will be used to power cyber attacks, warn security experts",
       "excerpt": "Intelligence and espionage services need to embrace artificial intelligence (AI) in order to protect national security as cyber criminals and hostile nation-states increasingly look to use the technology to launch attacks. The UK's intelligence and security agency GCHQ commissioned a study into the use of AI for national security purposes.",
@@ -1066,6 +1022,35 @@
       ],
       "topics": [
         "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-27-doing-a-double-take-of-the-beaglebone-ai.md",
+      "title": "Doing a Double Take of the BeagleBone AI",
+      "excerpt": "The BeagleBone AI leverages Texas Instruments’ AM5729 SoC with dual CPUs, GPUs, DSPs, and quad embedded vision engines for machine-learning acceleration.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.evaluationengineering.com/industries/industrial-industry-40/article/21135465/doing-a-double-take-of-the-beaglebone-ai",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-26T21:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "evaluationengineering",
+        "domain": "evaluationengineering.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
         "AI"
       ]
     },

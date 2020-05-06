@@ -8,7 +8,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2020/05/06/women-in-tech-jobs-in-artificial
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/05/06/women-in-tech-jobs-in-artificial-intelligence-grow-amid-coronavirus.html"
 type: article
 quality: 84
-heat: 84
+heat: 85
 published: true
 
 provider:
@@ -28,6 +28,6 @@ images:
     height: 1414
     title: "Women wanted: Why now could be a good time for women to pursue a career in AI"
 
-secured: "qBj27Ze2aIwOiPuVzFAwmpcoEltRxCxxU58a2pETWdGoDrAT0vEIiHdNtM3bWDFZhkbOrBltHOPeRC4dJHte8QywKKodWkvSGBByQvnAu9POuZXVX88Djt11/Zo3TetwFMBecUWY7sxvG9HwZ9DLLRLfPpXUjpeKEUm/1X/OJmsDSQ2BnXK4znzj7LLfud/SmcnWNp6kF93M4CC0Bm6AM6w3YAQlHa06RFO49glVa5RrLS4yIair/Pvl4AtvKSuZAC86RKNTopLnqg7tcYNlORWDr6KpKuBugeYku7qdNWnImnZeT95XU0+OEzBpGUX2;CM+unnL4FPI28AS427s/mg=="
+secured: "B4eKl+ycrr11yy3hWgCvCElu23GVQRxVEKJ2z5ayHzdvOA1boJQF8yu9Vvve5sbsd0g5dxg3eTnBIuvaI5Mrwag9rFlTUCiVYE3FFncz1o9fyNZuWAp29z4jbzt3nTFGUd9zdJRt1P+kjrapUo4cs6Wf/3mEGHu031dxOGXy79D38lt3zG3hP5gZBYW/q3lZxyLLjE7lKA6ctxK50DBlBuzBdKV2lm6iIVhdYDoDg0niDHhVJYUkXgk7/hAabS8rBNhkHNpwLuUgWgCtMU+1/YCObxeqUek/HLCzh5HlibJDMi/TLCLNd4TMFxu7aa95Yuhn5aGM5kiyF8iMQwCS8RDwA1lWDZfvqhzDPfbNKR8bPu7RzA3nR4JoMQZKHrQ9qsne/csDDzhQQbyKZMetnoN0kxUKaGOwKlatZwuXtGXDeGvQpVToFlI9qaaathlzEYpiFqn++8AqxuuUt+p3SMz29KUXXaxalwzmGhp0aBc=;oVpmU5s6BcfmW5MW1gtiVw=="
 ---
 

@@ -5,8 +5,8 @@ excerpt: "In this article, you learn how to transform and save datasets in Azure
 publishedDateTime: 2020-05-06T05:23:00Z
 webUrl: "https://docs.microsoft.com/en-us/azure/machine-learning/how-to-designer-transform-data"
 type: article
-quality: 39
-heat: 39
+quality: 56
+heat: 56
 published: false
 
 provider:
@@ -20,6 +20,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - Machine Learning
 
 images:
   - url: "https://docs.microsoft.com/en-us/azure/machine-learning/media/how-to-designer-transform-data/split-data.png"
@@ -27,6 +28,6 @@ images:
     height: 420
     title: "Transform data in Azure Machine Learning designer (preview)"
 
-secured: "gj1eeRhkeOdIyYm0k/86cEgnJQqCbdN9rR/sva4QMPyVGq3YIT52mNMLwOjFCdaG7TqZN2V7MV6PRrwbNOGW+wtVuOb8FsjpYeOj/jCn6hp+nHiRbAaR9gtbB/bkLhIyGjaFXLTvxQrCPbQ0D8lasYKe1M96QQbVFrMxuCqksxvfUh97c65HBXF5QgSsB+uHV3Az61HPRUblIl1w/rnq6BuNvd9Gw9tJ+zlSRlJUP5Sj0Fa5BYLAf9AkM6vDJ3HVkzt4e7c9Ap3isO3BVjY6QbYxRniTbLdLVzgp3zLk0YJ0KVtZxUUzC5ix3Jk1Pk8s;11c83uweJDBMwEsuRyjeig=="
+secured: "Mg8cQS5hYNNO2yiCabTGLPUo3NzZnAcdhtoVg49zttlTVwSNCnrQ07E37bxMPgWs/h3TgGEu6skV4UrGYeBVfYJB96InpXE3ivQdexMdz/T7o0+XUgvdF4mChcJZvMd/dEsdSjC+x9CphL6h2uGici96HPfd8kRWax8LFz8NhSt04IkS86PC0YxcloVxjzxIlI852qwbAfKrwDTkul0xWh4Mxcno8dI305OA7ZdBM71OnfChNnAgfHSnWVgi0+D4s+qBx4Su7aYTMaMJeSEdrvpDW8Msq0Ow2q5+Elp9ePWPaGnbN+6v7R8f0FZ1ZwgdxooCRBb2uNufupPcnU2F7j+pHDRn0gvi7Tzb4j5+tHxFFSqOIaoNgocrCltjljBIFxl4E9yx/ogGUkb0K/7Vka10U9s77nT7BPXInn36xq2zDSpgxr1ysZCGCF6g6QsODapY5m4/YZ8CjQ61fcDX/b3b4w7XOTMjLGGQsTfpzAQ=;z24xBRUsIr21aUcg1juTew=="
 ---
 

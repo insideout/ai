@@ -3,7 +3,7 @@ category: news
 title: "Motorola Launches 'Safe Schools,' Bundling Video, Data, Analytics and Voice"
 excerpt: "Motorola Solutions has launched an integrated campus safety bundle that combines video, data, analytics and voice. Safe Schools is intended to help school sites secure their campus perimeter, control access to buildings and speed up communication with local law enforcement."
 publishedDateTime: 2020-05-04T17:48:00Z
-webUrl: "https://thejournal.com/articles/2020/05/04/motorola-launches-safe-schools-bundling-video-data-analytics-and-voice.aspx?admgarea=News1"
+webUrl: "https://thejournal.com/articles/2020/05/04/motorola-launches-safe-schools-bundling-video-data-analytics-and-voice.aspx"
 type: article
 quality: 22
 heat: 22
@@ -23,6 +23,6 @@ images:
     height: 630
     title: "Motorola Launches 'Safe Schools,' Bundling Video, Data, Analytics and Voice"
 
-secured: "suvIVswCix9HpfbbMnRWerjpSjP5coqLvVkwjtK5Z7feixR2HFOiZiCtJDM/vsY44uQvF1PopsSFb+7DBg54S35iz02t/je+GIu1aq2sIyJE2nJAir551W15837TrhF82V2KrhwnGvqiB1pA1t39xF9JfwP9ptJOSomgmfqCDrfqbXucJ32bTH4EIDs8GjAsVrF32INKqDTKLjkgW5mDxPbI/v9SlSaeVBmRjQywivTeywYNOwdeW46falnWSY6j/swzm2EbceDCh9HennBlDspMSi6svuBrDUUejGrgX7CUgyjGrh4bpKu17Gr/6x/d;zx2bIkiuPNYxX4t39rRISQ=="
+secured: "Ja4zP5b2oQUpbruazEX1E++ccRgbOoIK9czjayMl8kKdGMJqvJXFfnJO+w/OBmNhIRdh0DA18LAuYCTdNbbswYMRsRmPLfyljxJj0eAQGzDXZtNzG4gLgU69Jrnz23Vy6+Euz8lrpiJlvPNonlbzqrbfNRy5lgxRYns1KsAFKS9TBpXPII1vF6H4Ei8B0OpBBYhkZe8YkJxWUONAAv6P9QJs71jfupk8GvQ2N3CeZV1sFKNNyJn1omwRLE693JMVt/i1ZFgyliWr3NA7Q962UxC8bYRPAY1o5fT6Js4mBDyay5l6koBkLKplzkAi0Rli;VXVij9CP6CBLugWm2alB9w=="
 ---
 

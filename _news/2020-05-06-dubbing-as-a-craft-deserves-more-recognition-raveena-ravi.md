@@ -25,6 +25,6 @@ images:
     height: 390
     title: "Dubbing as a craft deserves more recognition: Raveena Ravi"
 
-secured: "qTlt1NsAWULGcUjdqeiuTBOmRKvkRRfFzOtGZqdFUCGuPAz+lDF93Nj1qrL+cL8yYfYR266oqUm0Ctt//ixQ/rKEK8nf1G/MRObHpM+inL944behw6N2qoxeVL8zgH3I86shlislvWVo4/Gc49vJPGDv+WTGyRbGyDvGjK930gOHcnB5bm9Vnp+wO8z29Y/ebwINqhsMG/dBsyQEgMBvlejpJmw+Z0uEWRwyW0zPuFoR46Y9N+Yb3Z5nM5RFd/MQiJSKeIMl9F7244C7J6neGLuic05n0ZsTjzcuZPybLSTZCBzn2TgKU5gCFj/XNoMU;uL3FafPivObgiEMkFCWfIQ=="
+secured: "yNhEoDeoAifIHsJcoNdY9+KhouB3Wi7yK82mV8lfH1BQoOihGTD7C0+PYKa/RST/soBs0EnTXv78q3fkCPa6ucfYgjF/HG89pI1nrF3Z8LJ5itDIcRQL10VdY8Oi8CpRliuDKJt7Orzm0PERO0GbrE0HCmW9o3EtWlBRTR+32+VZLNG6vGommwXajUvvo0/30iPwSKhi6mkRlayosxDuni4PNkrcVEvw6Garces36X+xjZZPx+ljXhsVm9jqztEtt7YbTpB6zQfqjmRdGqNGZimDdPtVTTM7WNmOxEGCcoevEcG9KKRgCueifweV02xG5BT+U5sAarZJw+0nbLTRgnX+etLF/iV1uaC9xtfpNwDBGiwDWmBt93ZICx84+RyPYhEFIa0iNBO21jilIqwmZBK4u0j/evLsMAhzcaTHZQXhXLE66KOCFe/T5Xia7JNociwf+TyxVvr5BeoVFq72Ipn1sjKxDCeWLXPb0c10QKk=;sQFug1pjmpsKGExWQcT3PQ=="
 ---
 
