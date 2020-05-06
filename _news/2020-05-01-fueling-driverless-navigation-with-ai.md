@@ -7,9 +7,6 @@ webUrl: "https://www.techradar.com/news/fueling-driverless-navigation-with-ai"
 ampWebUrl: "https://www.techradar.com/amp/news/fueling-driverless-navigation-with-ai"
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/fueling-driverless-navigation-with-ai"
 type: article
-quality: 104
-heat: 104
-published: true
 
 provider:
   name: TechRadar
@@ -29,6 +26,6 @@ images:
     height: 545
     title: "Fueling driverless navigation with AI"
 
-secured: "9aMqmZ+eexF0gT6KMq5tNgQg6a60muLF0XgGphklH1u+AgkQWiU9DdVVX7SlH8A+x4Eh5J+V5rVzuAwePRyy6hVmJG8N+7/7+wb881R/byBNzzEe6mN9PxbZynO02zQjf6GDvvJsqA3K2/RT3QGpzwu50SUeEReGA+WywCV92JMLc/7b4d04WvuQLSE6Fju+dqwDtc769G6WbcIwQEmVEZr230HESF5TwAHf7+/gqBEYJvtuRbwUv61CwcH7bnWmGEZ1wfu4b+/4tlS9mJSI1Kf4Dl20C9AUsGUAqTm5FHXMJGh33aJBsWGd9uTKijfP;iVGG+BtNhcQh3ItTgw3JNg=="
+secured: "1K6O4dP/FDlQ6Z+hkMa0CATEgP5k5A2AZbVEXBnEauZPxWUAfQS6rTD8YS/yewIPIkUFCn7NaR8E3YUw1vuHt3kja7x9BAiQEwqe4ys6BkPB2f4qr/i6tlfeVjLL3owath32F/oNEECs8/TmYsmXx2QtZ0bbfBZQOc4k7Vjq5D+fkNLt3oCdhUui2HR5mMXTJZrHEcFJHh0vzKGQa8fFISKMPh0YgFjmd5ttqv9z06BKj9qPq+rFeynednehaDpRKBoI0LUr5rh0eAk1vegaahXnHMgFEIt8yYr6639lY6XyMdLdXJ/rF8cWyt3548Ie;+ZW04AYeQGIKv33kBlyo0A=="
 ---
 

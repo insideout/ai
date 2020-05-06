@@ -1,28 +1,28 @@
 ---
 category: news
 title: "New Mexico mandates face masks at retail stores, restaurants"
-excerpt: "New Mexico Gov. Michelle Lujan Grisham is ordering workers at retail stores and restaurants to wear face coverings as a precaution against the spread of COVID-19, starting with big box"
-publishedDateTime: 2020-05-06T01:46:00Z
-webUrl: "https://www.abqjournal.com/1451484/air-patrol-makes-quick-work-of-transporting-covid-19-tests.html"
-ampWebUrl: "https://www.abqjournal.com/1451484/air-patrol-makes-quick-work-of-transporting-covid-19-tests.html/amp"
-cdnAmpWebUrl: "https://www-abqjournal-com.cdn.ampproject.org/c/s/www.abqjournal.com/1451484/air-patrol-makes-quick-work-of-transporting-covid-19-tests.html/amp"
+excerpt: "New Mexico Gov. Michelle Lujan Grisham is ordering workers at retail stores and restaurants to wear face coverings as a precaution against the spread of COVID-19, starting with big box stores and major grocery stores on Wednesday."
+publishedDateTime: 2020-05-06T03:04:00Z
+webUrl: "https://www.sfgate.com/news/article/Actors-Olmos-Trejo-to-aid-New-Mexico-COVID-19-15246806.php"
+ampWebUrl: "https://www.sfgate.com/news/amp/Actors-Olmos-Trejo-to-aid-New-Mexico-COVID-19-15246806.php"
+cdnAmpWebUrl: "https://www-sfgate-com.cdn.ampproject.org/c/s/www.sfgate.com/news/amp/Actors-Olmos-Trejo-to-aid-New-Mexico-COVID-19-15246806.php"
 type: article
 quality: 59
 heat: 69
 published: false
 
 provider:
-  name: Albuquerque Journal
-  domain: abqjournal.com
+  name: SFGate
+  domain: sfgate.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://d3el53au0d7w62.cloudfront.net/wp-content/uploads/2020/05/04/BC-NM-Virus-Outbreak-New-Mexico-IMG-630x376.jpg"
-    width: 630
-    height: 376
+  - url: "https://s.hdnux.com/photos/01/11/50/55/19303295/41/375x250.jpg"
+    width: 333
+    height: 250
     title: "New Mexico mandates face masks at retail stores, restaurants"
 
 related:
@@ -40,6 +40,6 @@ related:
         width: 2048
         height: 1533
 
-secured: "LvAIvWvYKVXokaCqyQ3PTMiE/ehpVleJgKPhdujMxDcMmz5rBR+FIqcvZ75lfd3GyXJgyNfcANq/0I3WtVT3YxsX3yRmiXYMsqi9rd+qraLeDgE8GAGI2RwZ8wJOrz3hOfG1pZ5KNp1kOx5Hqvgffbky1/Crz3QjnZYvdp3CUzaJz4zfYaFs8yklm+ERKrr36yu267zWFqoQh1u7PrVx7Dbh8MASiFOXH03W8vGN1aTUviWKWNydKP4jJSMAB6SnyKjzKRZhbrgB4kpdJl0YkrAhavGr2bIlvChsNUME7Ll9j6Ma4qUbUAYB+1g0D3nn;Zt2ceIjVXgn5RSJTOgj+RQ=="
+secured: "B/z8WkO8+8H+wJ10KlPxMvBACXgIFGInR9eZvDm1/gZ0JuY6ATEye4TbNknwQxZz/PWhNX4lblTFonuOU9ncx62R5m/TJBCn7oJoJazFTwb9k1yJtp+HgtLbSrVrirXm+oL4F5l0/wb5wWF57p9XT3u9yDt/SmVjoIZIuO6v81lJdTrkDfNyLUFDXyl0fQEq/MEIp0/1YPLGgkGllSZ+rRttlFOt+TCJVOTT+FeMwAd3C8H/qnBgvtWNIpueeaGSMMrmyWxmjE+IcVqu9utup1SMrY9gYNG0FS8wiX53dtTBBpgRSdhw4byADsiMKHPb;axJw97nxjXcKN4sHhMb3xA=="
 ---
 

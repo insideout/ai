@@ -3,9 +3,7 @@ category: news
 title: "Face Recognition Behind a Mask"
 excerpt: "Although putting on a mask over your nose and mouth is one of the easiest ways to protect yourself and others from Coronavirus, face masks may be subtly (and not so subtly) interf"
 publishedDateTime: 2020-04-30T15:55:00Z
-webUrl: "https://www.psychologytoday.com/intl/blog/illusions-delusions-and-reality/202004/face-recognition-behind-mask"
-ampWebUrl: "https://www.psychologytoday.com/intl/blog/illusions-delusions-and-reality/202004/face-recognition-behind-mask?amp"
-cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/illusions-delusions-and-reality/202004/face-recognition-behind-mask?amp"
+webUrl: "https://www.psychologytoday.com/us/blog/illusions-delusions-and-reality/202004/face-recognition-behind-mask"
 type: article
 
 provider:
@@ -13,10 +11,9 @@ provider:
   domain: psychologytoday.com
 
 topics:
-  - Natural Language Processing
-  - AI
   - Computer Vision
+  - AI
 
-secured: "xOnJl5ZRxsiUTyni2KQiPFZBu3sW96r+EZQF7S/Onl1HrndE8VGYBcq2uSLF+0e3sd6UIg+hb2kuZeZg1wZoBjuXn2HpgC0dH11apdgB6+PrR3BpwpjOZzNp3MVStsYwPJz8YdhMicUTYy3so1GMsfLQec+8iFdjCmoIjiE5Tjb6+8UXmG5RBJaxw3WYDtbN8LFcNMdVcC22ednkzYOghpF8+Hoe1jsIkZPwX2FB+xYiWIKWXd2So7rT5H/H8sHyZ/dBvtIBY+2ErfsS3/Y7qJo7C0nlvkd1mYzxec0Nz5uJfLhy0T8fE1W1jU1Uucj+JQZgS0PVPVgX92KkYvegh6043PLNGaMlBwqMIbnH/rhOWRyIdJZfFO4AvCq1aNAKDfYXOnWNDxrpD1f5qHnBQ+kfqCnv49hOgawZfD4GIi9siRhF/QzWNlE9QwazIP2CjoLZTyz1EXRXpsnGXQW+pwN08fk47XEm5owL0dj/ASw=;94v9qKhR8dGpUb2SqjoRbA=="
+secured: "712TL25109Vormm2LkoQlj5AhHY+3PAa78PrbFbjv1jxxet25YTCpWxtnYut6I9SrTzkQVUrDPdveTCwlL/Sm5Tk+TZy6TPrJITOeFfGWHh8f0aoZvHZT7ul2hT33/CY/zG0RhTiuf72WENztKrDrqo6zXJK8pQ+wePiRbyO5sgNweY3iooxT4qfBNclvVjYJDRTyOCwWqMcM1dHpwmhuYK/2/xOOfGyqS6n8XOxOeZnnsVZlO6MiEBaIXrjPSI3MgYrYdc2iY7tdTq1Ybo6YpybFYoql97e4krPAo0G/3EvSpPj2WtijuqO3SQvFnVg02wIO+SlOWIta75owEXAp2uGSh+UlUaf+Xc6e8J4qwymWXyG3Tta7on9IR3z/yMsCmD1dW+ttE7YwNjupqWzV3E4W9z6icHaNVhv88/KC1UUFUaadLDDMLnk8bSiCu+aDSRKx1nF7mLpTbdMNNXwkcivjXt7pT8HzLtUpT77LOg=;7lRtGFGtU+iJlkWOb5rMLg=="
 ---
 

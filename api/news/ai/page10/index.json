@@ -2,6 +2,43 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-04-26-aktana-expands-leadership-team-to-advance-the-evolution-of-commercial-engagement-for-life-sciences.md",
+      "title": "Aktana Expands Leadership Team to Advance the Evolution of Commercial Engagement for Life Sciences",
+      "excerpt": "Life sciences commercial teams face a more complex and competitive environment than they ever have before,” said David Ehrlich, CEO, Aktana. “Customer behaviors and expectations have changed so rapidly that commercial teams are scrambling to adapt.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://apnews.com/Business Wire/7120d4ce22a742c4a2b789159ce65c61",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-26T00:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": "Aktana Expands Leadership Team to Advance the Evolution of Commercial Engagement for Life Sciences",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-26-marshalls-speech-and-hearing-center-awarded-grant-from-parkinson-voice-project.md",
       "title": "Marshall’s Speech and Hearing Center awarded grant from Parkinson Voice Project",
       "excerpt": "The Marshall University Speech and Hearing Center (MUSHC) has been awarded its third grant from the Parkinson Voice Project in recognition of their ongoing SPEAK OUT! & LOUD",
@@ -1235,51 +1272,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-24-data-is-the-new-oil-how-shell-has-become-a-data-driven-and-ai-enabled-business.md",
-      "title": "Data Is The New Oil: How Shell Has Become A Data-Driven And AI-Enabled Business",
-      "excerpt": "Today, every organization must become a more data-driven business. While most understand that this is important, they might not know how to do it. Here we share insights and learning from energy-giant Shell on how to prioritize data-driven operations.",
-      "heat": 85,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2020/04/24/data-is-the-new-oil-how-shell-has-become-a-data-driven-and-ai-enabled-business/",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2020/04/24/data-is-the-new-oil-how-shell-has-become-a-data-driven-and-ai-enabled-business/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2020/04/24/data-is-the-new-oil-how-shell-has-become-a-data-driven-and-ai-enabled-business/amp/",
-      "publishedDateTime": "2020-04-23T21:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ea26d55feaa7d0007ffdab6%2F0x0.jpg",
-          "width": 1199,
-          "height": 799,
-          "title": "Data Is The New Oil: How Shell Has Become A Data-Driven And AI-Enabled Business",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],
