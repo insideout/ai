@@ -1,25 +1,25 @@
 ---
 category: news
 title: "Arista Delivers Cognitive WiFi for Collaboration, Video and Chat Applications"
-excerpt: "--(BUSINESS WIRE)--Arista Networks (NYSE:ANET), today announced a new release of its Cognitive WiFi software ... automated troubleshooting and location services. This provides customers with ..."
-publishedDateTime: 2020-04-22T10:27:00Z
-webUrl: "https://www.businesswire.com/news/home/20200422005166/en/Arista-Delivers-Cognitive-WiFi-Collaboration-Video-Chat"
+excerpt: "Arista Networks (NYSE:ANET), today announced a new release of its Cognitive WiFi software that ... automated troubleshooting and location services. This provides customers with an enhanced WiFi ..."
+publishedDateTime: 2020-04-22T10:06:00Z
+webUrl: "https://markets.businessinsider.com/news/stocks/arista-delivers-cognitive-wifi-for-collaboration-video-and-chat-applications-1029116619"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/arista-delivers-cognitive-wifi-for-collaboration-video-and-chat-applications-1029116619"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/arista-delivers-cognitive-wifi-for-collaboration-video-and-chat-applications-1029116619"
 type: article
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Microsoft AI
   - AI
 
-images:
-  - url: "https://mms.businesswire.com/media/20200422005166/en/178582/23/arista_200pt_FINAL.jpg"
-    width: 1200
-    height: 627
-    title: "Arista Delivers Cognitive WiFi for Collaboration, Video and Chat Applications"
-
-secured: "tWlVrJ9fUkucyNJTzvi7RN3LgOHscB0KPWXnSyhgnDf8QrGGZkypHKTc0h7w22iHqlk72jDs4AmYPwRhLhCZGjWJnu3oRJsb/nf7Xo0B5nr85geXwFbR6FmxRqJVipl+CCyx/kQwPbDAMHEnT47EimCiispZsT5RUaPSmJJj1B7YvB7qgTvlk8YppgBs0/9QNhASyqEtynUodo7VlfBYm0hCoNJIB1YT1b9cTHjxX5thxJ9PYYPE2eoZ368fsub9qR2DyT4sF8+2T+AxO+elJOpLn1rpxSP5TqskknjoIRwICjoAA+ZBF6rbUG579y8q;MWwAolBWsqnj3SlGXyWc4Q=="
+secured: "iMc9OPg65xNE2LzcLOPcvv8t+u8NaITDogxd22KSHa6fHbJvaHDJwzlpSJtQHJb3KaNl/JYRR02dB7aAcQOIPVFZpBhVMhWuRxCuQ9npUZww9v7U7Sr5hBqah9mvSlQyPOkrHL6cd2taRxFYJXH/y3LuIyRGGOPswchZDofP0kZOyL6g8/wFYz3Te1a33iyMlApfq2jakBWRLW+VQBF9/hlQrq04OFPnGprA7M0DiImdpULEhXoAd0jPXThkyXOsyKukw/Sjg27lzqgahH+dmrLkgGHRz9HJLFmAzKHjr9+sWMYn0/v/RMYbRysIpcFb;GQnpKegXpVNfirPPipkljg=="
 ---
 

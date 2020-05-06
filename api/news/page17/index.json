@@ -254,31 +254,31 @@
     {
       "path": "_news/2020-04-22-arista-delivers-cognitive-wifi-for-collaboration-video-and-chat-applications.md",
       "title": "Arista Delivers Cognitive WiFi for Collaboration, Video and Chat Applications",
-      "excerpt": "--(BUSINESS WIRE)--Arista Networks (NYSE:ANET), today announced a new release of its Cognitive WiFi software ... automated troubleshooting and location services. This provides customers with ...",
+      "excerpt": "Arista Networks (NYSE:ANET), today announced a new release of its Cognitive WiFi software that ... automated troubleshooting and location services. This provides customers with an enhanced WiFi ...",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.businesswire.com/news/home/20200422005166/en/Arista-Delivers-Cognitive-WiFi-Collaboration-Video-Chat",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-22T03:27:00-07:00",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/arista-delivers-cognitive-wifi-for-collaboration-video-and-chat-applications-1029116619",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/arista-delivers-cognitive-wifi-for-collaboration-video-and-chat-applications-1029116619",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/arista-delivers-cognitive-wifi-for-collaboration-video-and-chat-applications-1029116619",
+      "publishedDateTime": "2020-04-22T03:06:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20200422005166/en/178582/23/arista_200pt_FINAL.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": "Arista Delivers Cognitive WiFi for Collaboration, Video and Chat Applications",
-          "attribution": null
-        }
-      ],
+      "images": null,
       "locale": "en-us",
       "categories": [
         "news"
