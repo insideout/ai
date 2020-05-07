@@ -2,6 +2,43 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-04-29-2020-wfm-value-matrix-highlights-increased-roi-from-machine-learning-and-performance-analytics.md",
+      "title": "2020 WFM Value Matrix Highlights Increased ROI from Machine Learning and Performance Analytics",
+      "excerpt": "Nucleus Research today released the 2020 WFM Technology Value Matrix, its assessment of the Workforce Management (WFM) market. For the report, Nucleus evaluated WFM vendors based on their products’ usability,",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://apnews.com/Business Wire/4c5e1c6be9c84125bbe231ca706a3324",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-29T07:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": "2020 WFM Value Matrix Highlights Increased ROI from Machine Learning and Performance Analytics",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-29-dotdata-launches-ai-faststart-program-to-make-it-easy-for-bi-teams-to-adopt-aiml-through-automl-20.md",
       "title": "dotData Launches AI-FastStart™ Program to Make it Easy for BI Teams to Adopt AI/ML through AutoML 2.0",
       "excerpt": "1 year full license to the award-winning dotData Enterprise AutoML 2.0 platform * Full hosting by dotData on an enterprise-grade secure cloud infrastructure * 12 remote training sessions for an ...",
@@ -1228,43 +1265,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-28-speech-enabled-self-service-helps-callers-connect-quickly-during-coronavirus-crisis.md",
-      "title": "Speech-Enabled Self-Service Helps Callers Connect Quickly During Coronavirus Crisis",
-      "excerpt": "As health systems across the nation struggle to respond to the coronavirus crisis, they're changing the way they do business, adopting new tools and",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/speech-enabled-self-service-helps-callers-connect-quickly-during-coronavirus-crisis/article_733a827d-5ded-588a-a6b9-612078526761.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-28T08:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/e/cb/ecb155f4-d68c-50fd-8d28-e21181c4bc28/5ea84c6c873d4.image.jpg?resize=400%2C225",
-          "width": 400,
-          "height": 225,
-          "title": "Speech-Enabled Self-Service Helps Callers Connect Quickly During Coronavirus Crisis",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

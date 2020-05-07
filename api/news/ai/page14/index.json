@@ -2,6 +2,51 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2020-04-22-how-microsoft-is-using-ai-to-make-the-planet-greener-and-what-other-companies-can-learn-from-its-environmental-game-plan.md",
+      "title": "How Microsoft is using AI to make the planet greener — and what other companies can learn from its environmental game plan",
+      "excerpt": "The company said it gave out 230 grants since launching the initiative. Microsoft also put large government data sets related to the environment on its cloud, Azure, to further help AI developers. And this isn't the first time Microsoft used AI to address climate change. The company gave farmers in India, a country heavily affected by rising ...",
+      "heat": 88,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businessinsider.com/what-makes-microsoft-the-best-sustainable-company-2019-6",
+      "ampWebUrl": "https://www.businessinsider.com/what-makes-microsoft-the-best-sustainable-company-2019-6?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/what-makes-microsoft-the-best-sustainable-company-2019-6?amp",
+      "publishedDateTime": "2020-04-22T09:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.insider.com/5ea05ca35bd7a5652d64a405?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": "How Microsoft is using AI to make the planet greener — and what other companies can learn from its environmental game plan",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-22-americans-remain-super-skeptical-of-evs-self-driving-cars.md",
       "title": "Americans remain super skeptical of EVs, self-driving cars",
       "excerpt": "JD Power's latest survey shows confidence in both electric cars and self-driving technology started to fall even before the coronavirus pandemic.",
@@ -648,34 +693,6 @@
       ]
     },
     {
-      "path": "_news/2020-04-22-using-artificial-intelligence-to-save-coral-reefs.md",
-      "title": "Using artificial intelligence to save coral reefs",
-      "excerpt": "\"Artificial intelligence provides unprecedented opportunities to solve some of society's most vexing problems,\" said Jason Mitchell, a managing director in Accenture's Communications, Media ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://phys.org/news/2020-04-artificial-intelligence-coral-reefs.html",
-      "ampWebUrl": "https://phys.org/news/2020-04-artificial-intelligence-coral-reefs.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-04-artificial-intelligence-coral-reefs.amp",
-      "publishedDateTime": "2020-04-22T05:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-04-22-consumer-lending-companies-riding-on-machine-learning-platforms-to-manage-risks.md",
       "title": "Consumer Lending Companies Riding On Machine Learning Platforms To Manage Risks",
       "excerpt": "The increased incidents of payment defaults, along with an alarming credit risk rate have prompted many of these firms to build risk mitigation models using machine learning (ML), so as to reduce the risk of default in a cost-effective manner, while taking smart, well-informed lending decisions in these complex times. The traditional analytical ...",
@@ -1055,6 +1072,35 @@
       ]
     },
     {
+      "path": "_news/2020-04-22-using-artificial-intelligence-to-save-coral-reefs.md",
+      "title": "Using Artificial Intelligence to Save Coral Reefs",
+      "excerpt": "What’s New: Today, on Earth Day 2020, Accenture, Intel and the Sulubaaï Environmental Foundation announced Project: CORaiL, an artificial intelligence (AI)-powered solution to monitor ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.ciol.com/using-artificial-intelligence-save-coral-reefs/",
+      "ampWebUrl": "https://www.ciol.com/using-artificial-intelligence-save-coral-reefs/amp/",
+      "cdnAmpWebUrl": "https://www-ciol-com.cdn.ampproject.org/c/s/www.ciol.com/using-artificial-intelligence-save-coral-reefs/amp/",
+      "publishedDateTime": "2020-04-21T23:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CIOL",
+        "domain": "ciol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-22-how-artificial-intelligence-iot-and-big-data-can-save-the-bees.md",
       "title": "How Artificial Intelligence, IoT And Big Data Can Save The Bees",
       "excerpt": "Artificial intelligence (AI), internet of things sensors, big data analytics, and other technologies are being used to monitor and develop solutions to mitigate the global issue of declining honey bee and pollinator populations.",
@@ -1232,52 +1278,6 @@
         "AI Hardware",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-21-mit-work-raises-a-question-can-robots-be-teammates-with-humans-rather-than-slaves.md",
-      "title": "MIT work raises a question: Can robots be teammates with humans rather than slaves?",
-      "excerpt": "A \"three-finger gripper\" is attached to it, made by startup Robotiq, based in Lévis ... and said that specifying the correct objective is \"both challenging and critical to design of AI systems.\" Also: Watching YouTube videos may someday let robots copy humans The challenge is that a machine system in some sense has to infer what a human's ...",
-      "heat": 100,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/mit-work-raises-a-question-can-robots-be-teammates-with-humans-rather-than-slaves/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/mit-work-raises-a-question-can-robots-be-teammates-with-humans-rather-than-slaves/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/mit-work-raises-a-question-can-robots-be-teammates-with-humans-rather-than-slaves/",
-      "publishedDateTime": "2020-04-21T12:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/2020/04/21/419e6f8d-c2b4-42cf-85aa-2e6a9ce085f2/mit-robot-arm-collaborates-via-dialogue.png",
-          "width": 1412,
-          "height": 1056,
-          "title": "MIT work raises a question: Can robots be teammates with humans rather than slaves?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Google AI"
       ]
     }
   ],

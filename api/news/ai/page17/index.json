@@ -2,6 +2,51 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2020-04-20-does-this-7000-year-old-poop-belong-to-a-human-or-dog-machine-learning-has-the-answer.md",
+      "title": "Does This 7,000-Year-Old Poop Belong to a Human or Dog? Machine Learning Has the Answer",
+      "excerpt": "As outlined in the new paper, coproID uses machine learning software to compare ancient host DNA with DNA in modern feces, enabling it to distinguish between the two hosts in most cases. “CoproID is the first line of identification in coprolite analysis to confirm that what we’re looking for is actually human, or a dog if we’re interested ...",
+      "heat": 81,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.vice.com/en_in/article/jge7j4/does-this-7000-year-old-poop-belong-to-a-human-or-dog-machine-learning-has-the-answer",
+      "ampWebUrl": "https://www.vice.com/amp/en_in/article/jge7j4/does-this-7000-year-old-poop-belong-to-a-human-or-dog-machine-learning-has-the-answer",
+      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_in/article/jge7j4/does-this-7000-year-old-poop-belong-to-a-human-or-dog-machine-learning-has-the-answer",
+      "publishedDateTime": "2020-04-20T00:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VICE",
+        "domain": "vice.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/vice.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://video-images.vice.com/test-uploads/articles/5e98c20ac7e9d80099d6d452/lede/1587070293609-229163_web.jpeg?crop=1xw:0.8446298227320125xh;center,center",
+          "width": 1440,
+          "height": 810,
+          "title": "Does This 7,000-Year-Old Poop Belong to a Human or Dog? Machine Learning Has the Answer",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-20-openai-launches-mircoscope-with-lucid-library-to-help-unravel-neural-networks.md",
       "title": "OpenAI launches Mircoscope with Lucid Library to help unravel neural networks",
       "excerpt": "Microscope does the same thing with neural networks. It studies the neurons in these networks and their interconnectivity ... OpenAI is a research laboratory based in San Francisco, California. It mainly works in the artificial general intelligence (AGI)area to build systems for the benefit of humankind. It was co-founded by Elon Musk in ...",
@@ -1227,51 +1272,6 @@
         "AI",
         "TensorFlow",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-17-smarter-faq-bots-with-amazon-kendra.md",
-      "title": "Smarter FAQ bots with Amazon Kendra",
-      "excerpt": "We often have questions when making a choice about a product or service. When was the last time you found yourself at the IT help desk at work? You probably had questions like “What time does the IT Help Desk open?” or “Can I get a temporary machine while you repair my laptop?”  Quick and accurate responses",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/smarter-faq-bots-with-amazon-kendra/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-17T11:13:43-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/04/15/smarter-faq-1.gif",
-          "width": 800,
-          "height": 576,
-          "title": "Smarter FAQ bots with Amazon Kendra",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

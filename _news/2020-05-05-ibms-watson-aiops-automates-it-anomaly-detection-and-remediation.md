@@ -45,6 +45,19 @@ related:
       - url: "https://media.itpro.co.uk//image/upload/v1588670694/itpro/IBMBuilding.jpg"
         width: 1000
         height: 690
+  - title: "IBM Announces New 5G Services And Automation Tools For CIOs"
+    excerpt: "At the Think Digital conference, IBM (NYSE: IBM) announced it launched new automation tools for CIOs and a set of new 5G services. These are the details."
+    publishedDateTime: 2020-05-05T16:04:00Z
+    webUrl: "https://pulse2.com/ibm-announces-new-5g-services-and-automation-tools-for-cios/"
+    type: article
+    provider:
+      name: Pulse 2.0
+      domain: pulse2.com
+    quality: 24
+    images:
+      - url: "https://cdn.pulse2.com/cdn/2020/03/IBM-Watson.jpg"
+        width: 1200
+        height: 1031
 
 secured: "+lqLOqPmjsaETUkimpkaKGFOhW/9JXy9q4y75xLidnqLTMNZ+EWhZyHpfJLv+zbVLYK1HeQ4xuAeanScQCpJPJkb0ULC54MQ28sZX3c5/ffXngwU/1QTCfvG5OOxO8HaxGyY7jMeY6gcv4Lz6gB8ULb/UzXSEkL0C2djz62sKQSSFz0Wkx4aDflATfod7cblP0oom2wWtZgOsZHmtws7eLQdnqmkPLd4M8IO8YalyKdzcqB5MhFnL1gFDns3zh6t2gkw0OwXcU0oWr7qcqgX0FgGyjduzxkVmFPSXLqCLmakcUWrUBwlLXEoo3Z/WIwVyIKZoPGTW6w1U5B4b1tHpNpFt47ozINydzi0T7Dadw8kh6+mglGClX9G/PGW10Hx3H+TFEt3KtMEL/7iThadAgqK3lkdOLl4Xf5mis6oNMTLHF46iZ0TdvB+r1EmjX3gCSRM0unjwFERNX2kddhmyAyw+MNAZJii50TazZA0288=;gnn89MH2liIby5wm+1H2pA=="
 ---

@@ -2,6 +2,51 @@
   "page": 46,
   "value": [
     {
+      "path": "_news/2020-03-30-global-computer-vision-market-2020-industry-status-segment-analysis-key-players-business-growth-and-forecast-to-2025.md",
+      "title": "Global Computer Vision Market 2020 Industry Status, Segment Analysis, Key Players, Business Growth and Forecast to 2025",
+      "excerpt": "MarketsandResearch.biz is releasing the latest insights through extensive research titled Global Computer Vision Market 2020 by Manufacturers, Countries, Type and Application, Forecast to 2025 which provides a comprehensive researched abstract of the key players with considerable shareholdings at a global level regarding demand,",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/global-computer-vision-market-2020-industry-status-segment-analysis-key-players-business-growth-and-forecast-to-2025-2020-03-30",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-30T09:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Global Computer Vision Market 2020 Industry Status, Segment Analysis, Key Players, Business Growth and Forecast to 2025",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-30-amazon-proposes-technique-for-improving-computer-vision-models-without-reprocessing.md",
       "title": "Amazon proposes technique for improving computer vision models without reprocessing",
       "excerpt": "They say it enables old models to bypass computing features for all previously seen images every time new ones are added, which could save enterprises developing computer vision-enabled ...",
@@ -1005,51 +1050,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-30-chinese-e-commerce-giant-takes-aim-at-rival-leader-alibaba-in-cloud-as-china-market-heats-up.md",
-      "title": "Chinese e-commerce giant takes aim at rival leader Alibaba in cloud as China market heats up",
-      "excerpt": "JD.com, a major Chinese e-commerce company, is looking to become the technology platform of choice for U.S. customers in a cloud computing market dominated by Alibaba.",
-      "heat": 78,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnbc.com/2020/03/30/chinese-e-commerce-giant-takes-aim-at-rival-leader-alibaba-in-cloud.html",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/03/30/chinese-e-commerce-giant-takes-aim-at-rival-leader-alibaba-in-cloud.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/03/30/chinese-e-commerce-giant-takes-aim-at-rival-leader-alibaba-in-cloud.html",
-      "publishedDateTime": "2020-03-30T00:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/105385658-1533776080662gettyimages-961627232.jpeg?v=1585531883",
-          "width": 3629,
-          "height": 2202,
-          "title": "Chinese e-commerce giant takes aim at rival leader Alibaba in cloud as China market heats up",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,43 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2020-04-01-deal-looking-for-an-exciting-cutting-edge-career-dive-into-artificial-intelligence.md",
+      "title": "Deal: Looking for an exciting, cutting-edge career? Dive into Artificial Intelligence",
+      "excerpt": "Artificial intelligence is just starting to break out into the mainstream through applications like self driving cars and analytical software. If you want to dive into an exciting career field ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://pocketnow.com/artificial-intelligence-deal",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-01T09:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pocketnow.com",
+        "domain": "pocketnow.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://pocketnow.com/wp/../files/2016/07/PN-Complete-Machine-Learning-Bundle.jpg",
+          "width": 760,
+          "height": 473,
+          "title": "Deal: Looking for an exciting, cutting-edge career? Dive into Artificial Intelligence",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-01-automation-anywhere-named-a-leader-and-star-performer-in-intelligent-document-processing-peak-matrix-assessment-by-everest-group.md",
       "title": "Automation Anywhere Named a Leader and Star Performer in Intelligent Document Processing PEAK Matrix® Assessment by Everest Group",
       "excerpt": "SAN JOSE, Calif., April 1, 2020 /PRNewswire/ -- Automation Anywhere, a global leader in Robotic Process Automation (RPA), today announced that Everest Group, a leading research and consulting firm, has named it a Leader and a Star Performer in its Intelligent Document Processing (IDP) 2020 PEAK Matrix.",
@@ -1236,51 +1273,6 @@
         "IBM AI",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-04-01-nvidia-a-clear-winner-in-otherwise-brutal-quarter-for-chip-makers.md",
-      "title": "Nvidia a clear winner in otherwise brutal quarter for chip makers",
-      "excerpt": "Last week, Needham upgraded the stock to buy, forecasting higher demand for chips used in medical applications, as well as in artificial intelligence applications. Why China’s AI champions must find alternatives to US hardware – and quick Nvidia is up about 14 per cent thus far this year, putting it in the top 10 gainers on the S&P 500.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.scmp.com/tech/gear/article/3077869/nvidia-clear-winner-otherwise-brutal-quarter-chip-makers",
-      "ampWebUrl": "https://amp.scmp.com/tech/gear/article/3077869/nvidia-clear-winner-otherwise-brutal-quarter-chip-makers",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/gear/article/3077869/nvidia-clear-winner-otherwise-brutal-quarter-chip-makers",
-      "publishedDateTime": "2020-03-31T19:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/04/01/df04e758-73bd-11ea-ab8f-988daf8efd6f_image_hires_101133.JPG?itok=fw4QshuF&v=1585707099",
-          "width": 1200,
-          "height": 630,
-          "title": "Nvidia a clear winner in otherwise brutal quarter for chip makers",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

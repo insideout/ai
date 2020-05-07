@@ -1,19 +1,25 @@
 ---
 category: news
 title: "AWS Announces General Availability of Amazon Augmented Artificial Intelligence (A2I)"
-excerpt: "that allow machine learning predictions from Amazon Rekognition and Amazon Textract to be human-reviewed more easily. Developers who build custom machine learning models in Amazon SageMaker (or other on-premises or cloud tools) can set up human review for ..."
-publishedDateTime: 2020-04-24T17:27:00Z
-webUrl: "https://stockhouse.com/news/press-releases/2020/04/24/aws-announces-general-availability-of-amazon-augmented-artificial-intelligence"
+excerpt: "that allow machine learning predictions from Amazon Rekognition and Amazon Textract to be human-reviewed more easily. Developers who build custom machine learning models in Amazon SageMaker (or ..."
+publishedDateTime: 2020-04-24T17:25:00Z
+webUrl: "https://www.businesswire.com/news/home/20200424005488/en/AWS-Announces-General-Availability-Amazon-Augmented-Artificial"
 type: article
 
 provider:
-  name: Stockhouse
-  domain: stockhouse.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "hCK0Uv+Golmt+Y7FrbCHoCecHj6azO12yxEVj+V/QdbfDViiJKc9uX7KYDsB74IMssowFeF+ZKwJZP2CEZ4VaJ6SE/QXYY6pc0wWxtsaXpruI2i7xnWatjiztYPZMoO5233pnO2AM3iT1W3vPHGmERRaBBdcky6PjaqkGTW5j3WA4A39eZKMbSiZbPyQGcA7kZBtAvJxcHzOTn83cwlHxTrQA1Ot8mYvLZKwUstSrsFhytE9c/Lcsz+ODLNnJKitqnSYV7TkSYQ8hEE5V/6bH7xLiHiElak7AV9kIGaRxH6PUFU2vVmb+grXkxrI82vu;jeIC8nDPZOZSdHONYyY6DA=="
+images:
+  - url: "https://mms.businesswire.com/media/20200424005488/en/787122/23/AWS_logo_RGB.jpg"
+    width: 1200
+    height: 627
+    title: "AWS Announces General Availability of Amazon Augmented Artificial Intelligence (A2I)"
+
+secured: "H47POkZy0kuzB+kan/ItAVZkiNxWMHf+Gdi/bkHs8B/Uh1lFNUijCxQ6wXkgdrPSAxby9j50M2jeNLZLYQP+IoceUPOJ3+DwHI7cpfm4RS6EejVNqSJAPr5eIkoOackdxTMxjDbuHHnBsoNV5p7ezFgxTWuqcnsm2iQUejrVajO2OI7VYqnjni4wDrzJ5czWBRuiW+AChb0yP2pX49nHy0ogSIlFpjVYUhQVK6OJAdIF8l/F7RtwY9NUse5DVqvfqQW1ZE7op4SIrNZBzD6ZpaRmkqztT4f6ey9DHmKRNjC9/C8W0/9r5/knCM5jh24X;a9G0SGlDoAcYuv6acg3now=="
 ---
 

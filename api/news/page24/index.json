@@ -2,6 +2,51 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2020-04-16-facebook-clones-itself-to-test-security-measures-by-letting-bots-roam-free.md",
+      "title": "Facebook clones itself to test security measures by letting bots roam free",
+      "excerpt": "[Read: How Facebook’s new AI system has deactivated billions of fake accounts] Facebook revealed the “web-enabled simulation” (WES) in a research paper published on Wednesday. The authors describe a virtual social network populated by bots, which “simulate real-user interactions and social behavior on the real platform infrastructure ...",
+      "heat": 92,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/04/16/facebook-clones-itself-to-test-security-measures-by-letting-bots-roam-free/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/04/16/facebook-clones-itself-to-test-security-measures-by-letting-bots-roam-free/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/04/16/facebook-clones-itself-to-test-security-measures-by-letting-bots-roam-free/amp/",
+      "publishedDateTime": "2020-04-16T06:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/04/Untitled-design-2-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "Facebook clones itself to test security measures by letting bots roam free",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-16-intel-and-udacity-announce-edge-ai-nanodegree-program-for-developers.md",
       "title": "Intel and Udacity announce edge AI nanodegree program for developers",
       "excerpt": "Graduates of the program will be able to accelerate computer vision and deep learning solutions within the Intel OpenVINO toolkit. Intel and Udacity announced that their Intel Edge AI for IoT Developer Nanodegree program is open for enrollment. The collaboration, announced on Thursday, aims to train developers in deep learning and computer ...",
@@ -1000,51 +1045,6 @@
         "AI in Healthcare",
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-15-tesla-receives-monetary-settlement-in-lawsuit-against-self-driving-start-up-zoox.md",
-      "title": "Tesla Receives Monetary Settlement in Lawsuit Against Self-Driving Start-Up Zoox",
-      "excerpt": "The electric-vehicle maker and Zoox, a self-driving-car start-up, announced yesterday that they've reached a settlement regarding Tesla's March 2019 lawsuit, according to which Tesla will receive an undisclosed monetary payment. Additionally, Zoox has agreed to conduct an internal audit to confirm that former Tesla employees are adhering to ...",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.fool.com/investing/2020/04/15/tesla-receives-monetary-settlement-in-lawsuit-agai.aspx",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/04/15/tesla-receives-monetary-settlement-in-lawsuit-agai.aspx",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/04/15/tesla-receives-monetary-settlement-in-lawsuit-agai.aspx",
-      "publishedDateTime": "2020-04-15T11:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F568067%2Fcourtoom.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 800,
-          "title": "Tesla Receives Monetary Settlement in Lawsuit Against Self-Driving Start-Up Zoox",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

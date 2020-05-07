@@ -2,6 +2,43 @@
   "page": 36,
   "value": [
     {
+      "path": "_news/2020-04-06-kc-robotics-company-gets-2m-investment-from-umb-bank.md",
+      "title": "KC robotics company gets $2M investment from UMB Bank",
+      "excerpt": "Among Tesseract Ventures' aims are turning memories into something more than a 2-D picture and the future of the greeting card.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.bizjournals.com/kansascity/news/2020/04/06/umb-tesseract-ventures-investment-robotics-ai.html",
+      "ampWebUrl": "https://www.bizjournals.com/kansascity/news/2020/04/06/umb-tesseract-ventures-investment-robotics-ai.amp.html",
+      "cdnAmpWebUrl": "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/kansascity/news/2020/04/06/umb-tesseract-ventures-investment-robotics-ai.amp.html",
+      "publishedDateTime": "2020-04-06T12:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Business Journals",
+        "domain": "bizjournals.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.bizj.us/view/img/11642345/john-boucard-headshot*600xx2134-1417-0-164.jpg",
+          "width": 600,
+          "height": 398,
+          "title": "KC robotics company gets $2M investment from UMB Bank",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-06-introducing-recommendation-scores-in-amazon-personalize.md",
       "title": "Introducing recommendation scores in Amazon Personalize",
       "excerpt": "Amazon Personalize enables you to personalize your website, app, ads, emails, and more, using the same machine learning technology as used by Amazon.com, without requiring any prior machine learning experience. Using Amazon Personalize, you can generate personalized recommendations for your users through",
@@ -992,51 +1029,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-06-these-robots-want-to-make-sure-you-dont-do-anything-stupid-with-your-money.md",
-      "title": "These Robots Want to Make Sure You Don’t Do Anything Stupid With Your Money",
-      "excerpt": "Investment firms use prompts to help customers make better financial decisions.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wsj.com/articles/these-robots-want-to-make-sure-you-dont-do-anything-stupid-with-your-money-11586103205",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/these-robots-want-to-make-sure-you-dont-do-anything-stupid-with-your-money-11586103205",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/these-robots-want-to-make-sure-you-dont-do-anything-stupid-with-your-money-11586103205",
-      "publishedDateTime": "2020-04-05T19:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-172689/social",
-          "width": 1280,
-          "height": 640,
-          "title": "These Robots Want to Make Sure You Don’t Do Anything Stupid With Your Money",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

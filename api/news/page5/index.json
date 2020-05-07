@@ -2,6 +2,51 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-05-04-artificial-intelligence-market-industry-analysis-and-forecast-2019-2025.md",
+      "title": "Artificial Intelligence Market Industry Analysis and Forecast (2019-2025)",
+      "excerpt": "The Artificial Intelligence Market is expected to exceed more than US$ 190 Billion by 2025 at a CAGR of 37% in the given forecast period. The report covers detailed competitive outlook including the market share and company profiles of the key participants operating in the global market.",
+      "heat": 88,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-industry-analysis-and-forecast-2019-2025-2020-05-04",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-03T23:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial Intelligence Market Industry Analysis and Forecast (2019-2025)",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-04-the-rise-of-the-robot.md",
       "title": "The rise of the robot",
       "excerpt": "In 1966, a team of engineers at SRI International in California unveiled ‘ Shakey’, the world’s first mobile robot that had the ability to perceive and reason about its surr",
@@ -1057,52 +1102,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-01-google-to-replace-tensorflows-runtime-with-tfrt.md",
-      "title": "Google to replace TensorFlow’s runtime with TFRT",
-      "excerpt": "Google launched TFRT, a new TensorFlow runtime that aims to make it easy to build and deploy ML models across many different devices.",
-      "heat": 86,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://sdtimes.com/ai/google-to-replace-tensorflows-runtime-with-tfrt/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-01T12:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SD Times",
-        "domain": "sdtimes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://sdtimes.com/wp-content/uploads/2020/05/tfrtroleingraph.png",
-          "width": 646,
-          "height": 314,
-          "title": "Google to replace TensorFlow’s runtime with TFRT",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "TensorFlow"
       ]
     }
   ],

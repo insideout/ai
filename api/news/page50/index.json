@@ -2,6 +2,51 @@
   "page": 50,
   "value": [
     {
+      "path": "_news/2020-03-26-dubious-claims-that-ai-outperforms-doctors-pose-risk-to-millions-of-patients-study-finds.md",
+      "title": "Dubious claims that AI outperforms doctors pose risk to ‘millions of patients,’ study finds",
+      "excerpt": "Many of the studies claiming AI outperforms doctors when interpreting medical images are poor quality and “arguably exaggerated,” according to new research. The researchers warn that overhyping the power of these systems could lead to “inappropriate care” that poses a risk to “millions of people.” [Read: Facebook wants to get into ...",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/03/26/dubious-claims-that-ai-outperforms-doctors-pose-risk-to-millions-of-patients-study-finds/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/03/26/dubious-claims-that-ai-outperforms-doctors-pose-risk-to-millions-of-patients-study-finds/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/03/26/dubious-claims-that-ai-outperforms-doctors-pose-risk-to-millions-of-patients-study-finds/amp/",
+      "publishedDateTime": "2020-03-26T08:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/03/Untitled-design39-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "Dubious claims that AI outperforms doctors pose risk to ‘millions of patients,’ study finds",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-26-ai-in-fintech-market-growth-analysis-by-size-share-news-demand-opportunity-during-2020-2025.md",
       "title": "AI in Fintech Market Growth Analysis By Size, Share, News, Demand, Opportunity During 2020-2025",
       "excerpt": "Mar 26, 2020 (AmericaNewsHour) -- Kenneth Research has published a detailed report on AI in Fintech Market which has been categorized by market size, growth indicators and encompasses detailed market analysis on macro trends and region-wise growth in North ...",
@@ -964,43 +1009,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-26-microsoft-announces-several-new-azure-products-for-hybrid-computing.md",
-      "title": "Microsoft announces several new Azure products for hybrid computing",
-      "excerpt": "This will allow for data processing at the edge and acceleration of the workload of Machine Learning through a Field Programmable Gate Array which is powered by Azure Machine Learning and Intel ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.itworldcanada.com/article/microsoft-announces-several-new-azure-products-for-hybrid-computing/416336",
-      "ampWebUrl": "https://www.itworldcanada.com/article/microsoft-announces-several-new-azure-products-for-hybrid-computing/416336?amp=1",
-      "cdnAmpWebUrl": "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/microsoft-announces-several-new-azure-products-for-hybrid-computing/416336?amp=1",
-      "publishedDateTime": "2020-03-25T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT World Canada",
-        "domain": "itworldcanada.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.itworldcanada.com/wp-content/uploads/2017/04/azure_01-620x250.jpg",
-          "width": 620,
-          "height": 250,
-          "title": "Microsoft announces several new Azure products for hybrid computing",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

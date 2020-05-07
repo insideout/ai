@@ -2,6 +2,43 @@
   "page": 101,
   "value": [
     {
+      "path": "_news/2020-01-21-berkshire-grey-raises-263m-to-fuel-global-expansion-of-logistics-robotics.md",
+      "title": "Berkshire Grey raises $263M to fuel global expansion of logistics robotics",
+      "excerpt": "With technologies such as artificial intelligence, computer vision, machine learning, advanced sensing, novel gripping, and robotics, the company said it can handle “the broadest assortment of products, packaging, and parcels – and all while continuously improving speed and performance through autonomous learning.” The company said its ...",
+      "heat": 117,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.therobotreport.com/berkshire-grey-raises-263m-to-fuel-global-expansion-of-logistics-robotics/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-21T07:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2020/01/berkshire-grey-boston-hat-funding-1024x636.jpg",
+          "width": 1024,
+          "height": 636,
+          "title": "Berkshire Grey raises $263M to fuel global expansion of logistics robotics",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-01-21-the-brain-predicts-reward-like-an-ai-says-new-deepmind-research.md",
       "title": "The Brain Predicts Reward Like an AI, Says New DeepMind Research",
       "excerpt": "If DeepMind’s new bombshell paper in Nature is any indication, a common approach in AI, one that’s led to humanity’s defeat in the game of Go against machines, may have the answer. We all subconsciously learn complex behaviors in response to positive ...",
@@ -1242,51 +1279,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-20-intel-and-partners-are-using-computer-vision-to-help-save-antarcticas-penguins-from-extinction.md",
-      "title": "Intel and partners are using computer vision to help save Antarctica’s penguins from extinction",
-      "excerpt": "In search of a solution, an Intel-led group of tech companies developed a computer vision solution to help ecologists count the remaining penguins faster and more accurately than before.",
-      "heat": 77,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/01/20/intel-and-partners-are-using-computer-vision-to-help-save-antarcticas-penguins-from-extinction/",
-      "ampWebUrl": "https://venturebeat.com/2020/01/20/intel-and-partners-are-using-computer-vision-to-help-save-antarcticas-penguins-from-extinction/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/20/intel-and-partners-are-using-computer-vision-to-help-save-antarcticas-penguins-from-extinction/amp/",
-      "publishedDateTime": "2020-01-20T08:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/01/4435aca3-10d3-4e94-bce1-b9a5ec1a9557-e1579113904720.png?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Intel and partners are using computer vision to help save Antarctica’s penguins from extinction",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

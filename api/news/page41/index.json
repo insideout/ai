@@ -2,6 +2,51 @@
   "page": 41,
   "value": [
     {
+      "path": "_news/2020-04-02-ai-is-greedy-but-we-can-teach-it-to-share.md",
+      "title": "AI Is ‘Greedy’, But We Can Teach It To Share",
+      "excerpt": "Running Artificial Intelligence processes isn’t a lightweight computing operation. The so-called ‘data science workloads’ that AI solutions need to perform processes require more than your average laptop and,",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/adrianbridgwater/2020/04/02/ai-is-greedy-but-we-can-teach-it-to-share/",
+      "ampWebUrl": "https://www.forbes.com/sites/adrianbridgwater/2020/04/02/ai-is-greedy-but-we-can-teach-it-to-share/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2020/04/02/ai-is-greedy-but-we-can-teach-it-to-share/amp/",
+      "publishedDateTime": "2020-04-02T01:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e84b1f12b3ff900068e6813%2F0x0.jpg",
+          "width": 640,
+          "height": 449,
+          "title": "AI Is ‘Greedy’, But We Can Teach It To Share",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-02-fintech-start-up-recko-raises-42-cr-in-series-a-round.md",
       "title": "Fintech start-up Recko raises ₹42 cr in Series A round",
       "excerpt": "Vertex Ventures SEA and India has led a ₹42-crore ($6-million) Series A round in enterprise fintech start-up Recko, with participation from existing investor Prime Venture Partners. Recko, which enables AI-powered reconciliation of digital transactions ...",
@@ -976,43 +1021,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-01-deal-looking-for-an-exciting-cutting-edge-career-dive-into-artificial-intelligence.md",
-      "title": "Deal: Looking for an exciting, cutting-edge career? Dive into Artificial Intelligence",
-      "excerpt": "Artificial intelligence is just starting to break out into the mainstream through applications like self driving cars and analytical software. If you want to dive into an exciting career field ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://pocketnow.com/artificial-intelligence-deal",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-01T09:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pocketnow.com",
-        "domain": "pocketnow.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://pocketnow.com/wp/../files/2016/07/PN-Complete-Machine-Learning-Bundle.jpg",
-          "width": 760,
-          "height": 473,
-          "title": "Deal: Looking for an exciting, cutting-edge career? Dive into Artificial Intelligence",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

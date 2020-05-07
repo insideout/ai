@@ -8,7 +8,7 @@ ampWebUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/355538
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/355538/ibm-watson-aiops-official?amp"
 type: article
 quality: 104
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -45,6 +45,19 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2019/11/ibm-keyboard-logo.png?fit=1200%2C600&strip=all"
         width: 1200
         height: 600
+  - title: "IBM Announces New 5G Services And Automation Tools For CIOs"
+    excerpt: "At the Think Digital conference, IBM (NYSE: IBM) announced it launched new automation tools for CIOs and a set of new 5G services. These are the details."
+    publishedDateTime: 2020-05-05T16:04:00Z
+    webUrl: "https://pulse2.com/ibm-announces-new-5g-services-and-automation-tools-for-cios/"
+    type: article
+    provider:
+      name: Pulse 2.0
+      domain: pulse2.com
+    quality: 24
+    images:
+      - url: "https://cdn.pulse2.com/cdn/2020/03/IBM-Watson.jpg"
+        width: 1200
+        height: 1031
 
 secured: "ITYYhNp1q7K7BD2Djo6Yq/gsHVJnDxMxfflH4HhRrpUP+AnHy31arpoIp7qa7zT0PVhe9ysh2MLd7aoldfnD+Ef+xvLfhOAPir9NAKiRo/n1SCyn9MAvZ0/oShA17ffIC92vh6Xt8fMjQ/mKKeB1wVRT4ShHdZ5CM9RZtOmRyAFk2zZjFth4VFIQoOHuco+a/+NNyu1VVhNDeAN1ZRIXUkd9voPqxb4YPxIcdG3USoV+rYMgObs6lxERwfi+2L8SlXQ1zIKUG0qVFmZ3Lt1ZepqEXoCjsRZrOzVNR5gC7FChMgqmmwc700Wghkj9paOY;c/iiDwNYT46/x7NmZVwrHg=="
 ---

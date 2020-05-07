@@ -2,6 +2,51 @@
   "page": 44,
   "value": [
     {
+      "path": "_news/2020-03-24-global-and-china-hd-map-industry-report-2019-2020.md",
+      "title": "Global and China HD Map Industry Report, 2019-2020",
+      "excerpt": "HD map industry study: the HD map market is burgeoning with the roll-out of L3 autonomous vehicles. The automakers (except Volvo, Ford and NIO that claimed a leap over L3) have set foot in L3 autonomous vehicle successively,",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/global-and-china-hd-map-industry-report-2019-2020-2020-03-24-181845139",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-24T15:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Global and China HD Map Industry Report, 2019-2020",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-24-customer-advocacy-the-secret-engagement-weapon-for-fintech-firms-vb-live.md",
       "title": "Customer advocacy: The secret engagement weapon for fintech firms (VB Live)",
       "excerpt": "At the core of these activities is to have a holistic, evolving view of the customer over time. Data analytics and AI are at the core of future solutions. This means moving from communication to conversation by capturing both implicit and explicit data, and creating a “living” customer profile that changes as the customer goals and ...",
@@ -1172,51 +1217,6 @@
       "topics": [
         "TensorFlow",
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-24-this-week-amazon-has-a-chance-to-prove-it-can-do-the-right-thing-on-its-own.md",
-      "title": "This Week, Amazon Has a Chance to Prove It Can Do the Right Thing on Its Own",
-      "excerpt": "The second solicits an independent investigation and report on Amazon’s facial recognition tech, Rekognition, detailing “the extent to which such technology may endanger, threaten, or violate ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://gizmodo.com/this-week-amazon-has-a-chance-to-prove-it-can-do-the-r-1834894379",
-      "ampWebUrl": "https://gizmodo.com/this-week-amazon-has-a-chance-to-prove-it-can-do-the-r-1834894379/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/this-week-amazon-has-a-chance-to-prove-it-can-do-the-r-1834894379/amp",
-      "publishedDateTime": "2020-03-24T03:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/iz0nebw8k7iptywzjctx.jpg",
-          "width": 800,
-          "height": 450,
-          "title": "This Week, Amazon Has a Chance to Prove It Can Do the Right Thing on Its Own",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

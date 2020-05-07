@@ -2,6 +2,34 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2020-04-17-ai-tech-startup-slants-helping-nfl-scouts-analyze-film-from-home.md",
+      "title": "AI Tech Startup Slants Helping NFL Scouts Analyze Film From Home",
+      "excerpt": "Video alone is \"not a replacement for meeting prospects at pro days or private workouts,\" and artificial intelligence tech startup Slants has \"tried to fill the void\" for NFL scouts, according to Ken Belson of the N.Y. TIMES. The company’s AI technology \"analyzes video of college footbal...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.sportsbusinessdaily.com/Daily/Issues/2020/04/17/Technology/Slants.aspx",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-16T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SportsBusiness Daily",
+        "domain": "sportsbusinessdaily.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-17-sebastian-thrun-king-of-the-geeks.md",
       "title": "Sebastian Thrun – king of the geeks",
       "excerpt": "Sebastian Thrun – king of the geeks In the clandestine Google X laboratory, Thrun – the guru of artificial intelligence and the man behind Google’s driverless car – is busy inventing the ...",
@@ -1232,51 +1260,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-16-kebotix-raises-115-million-to-automate-lab-experiments-with-ai-and-robotics.md",
-      "title": "Kebotix raises $11.5 million to automate lab experiments with AI and robotics",
-      "excerpt": "Kebotix, a startup developing AI tools to expedite the discovery of chemicals ... Perhaps unsurprisingly, in a recent survey of 100 pharmaceutical executives, Pharma IQ found that 94% believe intelligent automation technologies like robots and AI will make an impact on lab practices within two years. “In a short period, Kebotix has managed ...",
-      "heat": 116,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/16/kebotix-raises-11-5-million-to-automate-lab-experiments-with-ai-and-robotics/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/16/kebotix-raises-11-5-million-to-automate-lab-experiments-with-ai-and-robotics/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/16/kebotix-raises-11-5-million-to-automate-lab-experiments-with-ai-and-robotics/amp/",
-      "publishedDateTime": "2020-04-16T06:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/7e0fd2ea-d4bb-4524-8980-e9a4a4bc93d3-e1586978829363.png?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Kebotix raises $11.5 million to automate lab experiments with AI and robotics",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

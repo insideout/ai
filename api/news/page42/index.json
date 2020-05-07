@@ -2,6 +2,43 @@
   "page": 42,
   "value": [
     {
+      "path": "_news/2020-04-01-deal-looking-for-an-exciting-cutting-edge-career-dive-into-artificial-intelligence.md",
+      "title": "Deal: Looking for an exciting, cutting-edge career? Dive into Artificial Intelligence",
+      "excerpt": "Artificial intelligence is just starting to break out into the mainstream through applications like self driving cars and analytical software. If you want to dive into an exciting career field ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://pocketnow.com/artificial-intelligence-deal",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-01T09:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pocketnow.com",
+        "domain": "pocketnow.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://pocketnow.com/wp/../files/2016/07/PN-Complete-Machine-Learning-Bundle.jpg",
+          "width": 760,
+          "height": 473,
+          "title": "Deal: Looking for an exciting, cutting-edge career? Dive into Artificial Intelligence",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-01-automation-anywhere-named-a-leader-and-star-performer-in-intelligent-document-processing-peak-matrix-assessment-by-everest-group.md",
       "title": "Automation Anywhere Named a Leader and Star Performer in Intelligent Document Processing PEAK Matrix® Assessment by Everest Group",
       "excerpt": "SAN JOSE, Calif., April 1, 2020 /PRNewswire/ -- Automation Anywhere, a global leader in Robotic Process Automation (RPA), today announced that Everest Group, a leading research and consulting firm, has named it a Leader and a Star Performer in its Intelligent Document Processing (IDP) 2020 PEAK Matrix.",
@@ -1019,50 +1056,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-04-01-how-deepmotion-uses-ai-to-create-believable-characters.md",
-      "title": "How DeepMotion uses AI to create believable characters",
-      "excerpt": "As an engineer, He wanted to find an efficient way to create more lifelike animations, and he was convinced that advanced physics simulation and AI could solve that problem. So in 2014, He struck out on his own to start DeepMotion. The goal of the San Mateo, California-based company is to provide developers with powerful software development ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/01/how-deepmotion-uses-ai-to-create-believable-characters/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/01/how-deepmotion-uses-ai-to-create-believable-characters/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/01/how-deepmotion-uses-ai-to-create-believable-characters/amp/",
-      "publishedDateTime": "2020-04-01T01:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/03/DeepMotion_VB_SS-e1585696653316.png?fit=1200%2C687&strip=all",
-          "width": 1200,
-          "height": 687,
-          "title": "How DeepMotion uses AI to create believable characters",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,52 @@
   "page": 53,
   "value": [
     {
+      "path": "_news/2020-03-17-edge-ai-hardware-market-global-in-depth-analysis-key-insights-business-overview-and-scope-till-2025.md",
+      "title": "Edge AI Hardware Market Global In-depth analysis, Key Insights, Business Overview and Scope till 2025",
+      "excerpt": "Market Overview The Global Edge AI Hardware Market is anticipated to witness a CAGR of 20.3% over the forecast period 2020 - 2025. During 2018 it is estimated that about 212 million edge AI hardware was shipped and the figure is expected to reach a billion units by 2020.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/edge-ai-hardware-market-global-in-depth-analysis-key-insights-business-overview-and-scope-till-2025-2020-03-17",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-17T00:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Edge AI Hardware Market Global In-depth analysis, Key Insights, Business Overview and Scope till 2025",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-03-17-ice-officials-running-unchecked-facial-recognition-searches-on-maryland-drivers.md",
       "title": "ICE officials running unchecked facial recognition searches on Maryland drivers",
       "excerpt": "US Immigration and Customs Enforcement (ICE) has been using facial-recognition software to search through Maryland’s state database of registered drivers and hunt down undocumented immigrants without seeking state or court approval. The data for driver’s licenses is collected by the Maryland Motor Vehicle Administration (MVA). The software ...",
@@ -1127,51 +1173,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-16-nvidia-researchers-use-ai-to-teach-robots-how-to-hand-objects-to-humans.md",
-      "title": "Nvidia researchers use AI to teach robots how to hand objects to humans",
-      "excerpt": "Then they used a Microsoft Azure Kinect depth camera to compile a data set to train an AI model to classify a hand holding an object into one of those categories, specifically by showing an example image of a hand grasp to the subject and recording the subject performing similar poses from 20-60 seconds. During the recording, the person could ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/03/16/nvidia-researchers-use-ai-to-teach-robots-how-to-hand-objects-to-humans/",
-      "ampWebUrl": "https://venturebeat.com/2020/03/16/nvidia-researchers-use-ai-to-teach-robots-how-to-hand-objects-to-humans/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/16/nvidia-researchers-use-ai-to-teach-robots-how-to-hand-objects-to-humans/amp/",
-      "publishedDateTime": "2020-03-16T09:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/03/29f61469-3b62-42ab-adb3-8f819670e565.png?w=673&resize=673%2C600&strip=all",
-          "width": 673,
-          "height": 600,
-          "title": "Nvidia researchers use AI to teach robots how to hand objects to humans",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

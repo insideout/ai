@@ -2,6 +2,51 @@
   "page": 47,
   "value": [
     {
+      "path": "_news/2020-03-30-chinese-e-commerce-giant-takes-aim-at-rival-leader-alibaba-in-cloud-as-china-market-heats-up.md",
+      "title": "Chinese e-commerce giant takes aim at rival leader Alibaba in cloud as China market heats up",
+      "excerpt": "JD.com, a major Chinese e-commerce company, is looking to become the technology platform of choice for U.S. customers in a cloud computing market dominated by Alibaba.",
+      "heat": 78,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2020/03/30/chinese-e-commerce-giant-takes-aim-at-rival-leader-alibaba-in-cloud.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/03/30/chinese-e-commerce-giant-takes-aim-at-rival-leader-alibaba-in-cloud.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/03/30/chinese-e-commerce-giant-takes-aim-at-rival-leader-alibaba-in-cloud.html",
+      "publishedDateTime": "2020-03-30T00:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/105385658-1533776080662gettyimages-961627232.jpeg?v=1585531883",
+          "width": 3629,
+          "height": 2202,
+          "title": "Chinese e-commerce giant takes aim at rival leader Alibaba in cloud as China market heats up",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-30-azure-stack-edge-gets-nvidia-gpu-to-accelerate-ai-at-the-edge.md",
       "title": "Azure Stack Edge Gets NVIDIA GPU To Accelerate AI At The Edge",
       "excerpt": "The partnership between NVIDIA and Microsoft creates new opportunities for developers and businesses to develop intelligent solutions for the edge.",
@@ -989,51 +1034,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-28-ai-can-help-scientists-find-a-covid-19-vaccine.md",
-      "title": "AI Can Help Scientists Find a Covid-19 Vaccine",
-      "excerpt": "Over the last few weeks, teams at the Allen Institute for AI, Google DeepMind, and elsewhere have created AI tools, shared datasets and research results, and shared them freely with the global scientific community. Oren Etzioni is the CEO of the nonprofit Allen Institute for AI, and a professor of computer science at the University of Washington.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wired.com/story/opinion-ai-can-help-find-scientists-find-a-covid-19-vaccine/",
-      "ampWebUrl": "https://www.wired.com/story/opinion-ai-can-help-find-scientists-find-a-covid-19-vaccine/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/opinion-ai-can-help-find-scientists-find-a-covid-19-vaccine/amp",
-      "publishedDateTime": "2020-03-28T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.vanityfair.com/photos/576c493744d93e6e4482bb21/master/pass/placeholder_the_scene.jpg",
-          "width": 800,
-          "height": 450,
-          "title": "AI Can Help Scientists Find a Covid-19 Vaccine",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

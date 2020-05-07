@@ -2,6 +2,35 @@
   "page": 38,
   "value": [
     {
+      "path": "_news/2020-03-30-omniq-reports-full-year-2019-revenue-increase-to-572-million-gross-profit-increases-to-140-million.md",
+      "title": "OMNIQ Reports Full Year 2019 Revenue Increase to $57.2 Million; Gross profit increases to $14.0 Million",
+      "excerpt": "OMNIQ has recorded several major achievements that have transformed the Company into an AI - Machine Vision Object Recognition leader: - Launch of our SeeCube™ solution which is a ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.globenewswire.com/news-release/2020/03/30/2008754/0/en/OMNIQ-Reports-Full-Year-2019-Revenue-Increase-to-57-2-Million-Gross-profit-increases-to-14-0-Million.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-30T14:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GlobeNewswire",
+        "domain": "globenewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-30-key-takeaways-from-amds-financial-analyst-day.md",
       "title": "Key Takeaways From AMD's Financial Analyst Day",
       "excerpt": "Patrick Moorhead takes a look into AMD's Financial Analyst Day and how it laid the foundation of expectations for the coming years.",
@@ -1229,51 +1258,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-03-30-the-cognitive-computing-market-size-to-grow-at-a-cagr-of-305.md",
-      "title": "The cognitive computing market size to grow at a CAGR of 30.5%",
-      "excerpt": "Read the full report:  NEW YORK, March 24, 2020 /PRNewswire/ -- The cognitive computing market size is projected to grow from USD 20.5 billion in 2020 to USD 77.5 billion by 2025, at a Compound Annual Growth Rate (CAGR) of 30.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/the-cognitive-computing-market-size-to-grow-at-a-cagr-of-305-2020-03-24",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-30T04:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "The cognitive computing market size to grow at a CAGR of 30.5%",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,50 @@
   "page": 88,
   "value": [
     {
+      "path": "_news/2020-02-20-googles-android-11-heres-whats-new-for-5g-ai-and-security-plus-tougher-data-rules.md",
+      "title": "Google's Android 11: Here's what's new for 5G, AI and security, plus tougher data rules",
+      "excerpt": "There's a permissions module that standardizes user and developer access to key privacy controls on Android devices, a media provider module that improves scoped storage privacy, and a Neural Networks API module that optimizes performance for AI tasks on mobile devices.",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/googles-android-11-heres-whats-new-for-5g-ai-and-security-plus-tougher-data-rules/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/googles-android-11-heres-whats-new-for-5g-ai-and-security-plus-tougher-data-rules/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/googles-android-11-heres-whats-new-for-5g-ai-and-security-plus-tougher-data-rules/",
+      "publishedDateTime": "2020-02-20T05:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2019/11/11/20e02357-a110-4e22-bf9a-3b6763079b85/thumbnail/1200x675/237126ff8eb6572412c2e7ed55096d7b/bill-gates-i-messed-up-microsofts-chance-5dc9425d415e54000148cd05-1-nov-11-2019-13-14-17-poster.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Google's Android 11: Here's what's new for 5G, AI and security, plus tougher data rules",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-02-20-google-ai-will-no-longer-use-gender-labels-like-woman-or-man-on-images-of-people-to-avoid-bias.md",
       "title": "Google AI will no longer use gender labels like 'woman' or 'man' on images of people to avoid bias",
       "excerpt": "Google says it made the change because you can't deduce someone's gender by their appearance.",
@@ -1035,50 +1079,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-02-19-google-used-ai-and-human-moderation-to-take-down-over-75-million-google-maps-reviews.md",
-      "title": "Google used AI and human moderation to take down over 75 million Google Maps reviews",
-      "excerpt": "But user contributions are intrinsically fraught. That’s why increasingly, Google is using AI and machine learning to spot malicious contributions at submission time, ensuring they don’t reach the over 1 billion users who regularly use Maps. In a blog post, Google said that it uses automated detection systems, including machine learning ...",
-      "heat": 90,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/02/19/google-used-ai-and-human-moderation-to-take-down-more-than-75-million-policy-violating-google-maps-reviews/",
-      "ampWebUrl": "https://venturebeat.com/2020/02/19/google-used-ai-and-human-moderation-to-take-down-more-than-75-million-policy-violating-google-maps-reviews/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/19/google-used-ai-and-human-moderation-to-take-down-more-than-75-million-policy-violating-google-maps-reviews/amp/",
-      "publishedDateTime": "2020-02-19T09:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/02/1.-Intro-Image-e1580880177276.png?fit=1198%2C601&strip=all",
-          "width": 1198,
-          "height": 601,
-          "title": "Google used AI and human moderation to take down over 75 million Google Maps reviews",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

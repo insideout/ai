@@ -2,6 +2,52 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-05-06-cognitive-services-market-next-big-thing-2025-microsoft-google-aws-baidu-nuance-communications-ibm.md",
+      "title": "Cognitive Services Market Next Big Thing 2025 - Microsoft, Google, AWS, Baidu, Nuance Communications, IBM",
+      "excerpt": "Cognitive Services are a set of machine learning algorithms that has been developed to explain problems in the field of Artificial Intelligence (AI). Cognitive services offer an organized way to reach business objectives by dropping the efforts essential to work on recurring tasks.",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/cognitive-services-market-next-big-thing-2025---microsoft-google-aws-baidu-nuance-communications-ibm-2020-05-06",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-06T01:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Cognitive Services Market Next Big Thing 2025 - Microsoft, Google, AWS, Baidu, Nuance Communications, IBM",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-06-hands-on-with-the-ecovacs-deebot-ozmo-t8-aivi-multi-purpose-cleaning-and-mopping-robot-with-video-surveillance-feature.md",
       "title": "Hands on with the Ecovacs Deebot Ozmo T8 AIVI: multi-purpose cleaning and mopping robot with video surveillance feature",
       "excerpt": "The Ecovacs Deebot Ozmo T8 AIVI is an AI-driven floor cleaning robot that has every feature you could need in a multi-purpose robot – and a video and microphone that can scan your home whilst you are away.",
@@ -588,7 +634,7 @@
       "path": "_news/2020-05-05-the-ai-eye-episode-343-intel-acquires-maas-firm-moovit-and-ibm-unveils-watson-aiops.md",
       "title": "The AI Eye Episode 343: Intel Acquires MaaS Firm Moovit and IBM Unveils Watson AIOps",
       "excerpt": "Point Roberts, WA and Vancouver, BC - May 5, 2020 (Investorideas.com Newswire) Investorideas.com ( a global investor news source covering Artificial Intelligence (AI) brings you today's edition of The AI Eye - watching stock news,",
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.marketwatch.com/press-release/the-ai-eye-episode-343-intel-acquires-maas-firm-moovit-and-ibm-unveils-watson-aiops-2020-05-05",
@@ -1295,51 +1341,6 @@
         "AI",
         "AI in Autos",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-05-05-ibm-watson-aiops-automates-the-detection-of-it-anomalies.md",
-      "title": "IBM Watson AIOps automates the detection of IT anomalies",
-      "excerpt": "IBM has launched a slew of new AI services that aim to help chief information officers (CIOs) to predict and tackle IT problems before they occur. Watson AIOps, unveiled at the company's Think Digital Conference,",
-      "heat": 114,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/355538/ibm-watson-aiops-official",
-      "ampWebUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/355538/ibm-watson-aiops-official?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/355538/ibm-watson-aiops-official?amp",
-      "publishedDateTime": "2020-05-05T03:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk//image/upload/v1588670694/itpro/IBMBuilding.jpg",
-          "width": 1000,
-          "height": 690,
-          "title": "IBM Watson AIOps automates the detection of IT anomalies",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
       ]
     }
   ],

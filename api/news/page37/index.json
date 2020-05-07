@@ -2,6 +2,51 @@
   "page": 37,
   "value": [
     {
+      "path": "_news/2020-04-06-these-robots-want-to-make-sure-you-dont-do-anything-stupid-with-your-money.md",
+      "title": "These Robots Want to Make Sure You Don’t Do Anything Stupid With Your Money",
+      "excerpt": "Investment firms use prompts to help customers make better financial decisions.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wsj.com/articles/these-robots-want-to-make-sure-you-dont-do-anything-stupid-with-your-money-11586103205",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/these-robots-want-to-make-sure-you-dont-do-anything-stupid-with-your-money-11586103205",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/these-robots-want-to-make-sure-you-dont-do-anything-stupid-with-your-money-11586103205",
+      "publishedDateTime": "2020-04-05T19:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-172689/social",
+          "width": 1280,
+          "height": 640,
+          "title": "These Robots Want to Make Sure You Don’t Do Anything Stupid With Your Money",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-05-ai-translates-human-brain-signals-to-text.md",
       "title": "AI Translates Human Brain Signals to Text",
       "excerpt": "Now scientists are one step closer towards a computer interface driven by human thoughts. Neuroscientists at the University of California, San Francisco (UCSF) published a study last week in Nature Neuroscience that shows how their brain-computer interface (BCI) is able to translate human brain activity into text with relatively high accuracy and at natural-speech rates using artificial intelligence (AI) machine learning.",
@@ -973,43 +1018,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-03-algorithmic-justice-league-highlights-automatic-speech-recognition-bias-report.md",
-      "title": "Algorithmic Justice League highlights automatic speech recognition bias report",
-      "excerpt": "The Algorithmic Justice League has released a spoken word and visual project called “Voicing Erasure” to protest the demographic discrepancies or “bias” identified in popular speech recognition systems on the market, following its recent study of algorithmic bias, AI, and technology, writes VentureBeat. The Algorithmic Justice League ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.biometricupdate.com/202004/algorithmic-justice-league-highlights-automatic-speech-recognition-bias-report",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-03T11:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Biometric Companies",
-        "domain": "biometricupdate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/01/09162857/voice-biometrics-large2.jpg",
-          "width": 900,
-          "height": 499,
-          "title": "Algorithmic Justice League highlights automatic speech recognition bias report",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

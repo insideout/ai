@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/johnkoetsier/2020/05/06/machine-first-w
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2020/05/06/machine-first-world-getting-drones-robots-self-driving-cars-and-ai-driven-systems-to-work-together/amp/"
 type: article
 quality: 90
-heat: 90
+heat: 100
 published: true
 
 provider:
@@ -30,6 +30,23 @@ images:
     height: 534
     title: "Machine-First World? Getting Drones, Robots, Self-Driving Cars, And AI-Driven Systems To Work Together"
 
-secured: "hbfnLQSsQMQsZMUOZvc4a3OYh8t7CtuS5Sewkm9zrRiVYtc/iofodZcza7+5OTLWj3PbISbSffsQreC0qOizfWU4OmSm8fUkXAD6VI1nkGsjhc4dBr4wp3S7Vgpg0IZebrr43lEFcI7ETur5tnb/yY1TIHBG6xZnL+UUDo4cZNXAS6AlJD0+wSsY6RxMJqw2BVvPBFR6+/0Z83zYvBNRLuj1JDsQ1plCL6Hfii6dY1OB1M0pOvucAFuYEltQiXja7O+lYHMtByIQ4t0YxrUk5uHf5WX56boZ/HEol/kV4TGEdBkb4Z2PZXcwUEmaREk1tRe2E4fuMhAl5dSGEZyoVo5Dj1szpRHCcxo500+sgWlNyR9S6C0zFJEMvbF9r7LUG3AqIMIF4U/bwrtsMorYmk+tvPP9uC+9v7tKaEVcTEGfuvTlfGUfhIojyNCVhSWEguA3ipsSJiwPd1cQ0xx5SL6bwN6veyi811CMQFb54+w=;52tq3jiEIA0v9eq+H8cpfA=="
+related:
+  - title: "Video Game Developers Are Helping Oxbotica Test Self Driving Tech In VR"
+    excerpt: "Autonomous vehicle software firm Oxbotica is employing video game developers to help create a virtual test world. The team has worked on leading flight simulators, racing games and sports titles (and without naming any names,"
+    publishedDateTime: 2020-05-07T01:04:00Z
+    webUrl: "https://www.carscoops.com/2020/05/video-game-developers-are-helping-oxbotica-test-its-self-driving-tech-in-virtual-reality/"
+    ampWebUrl: "https://www.carscoops.com/2020/05/video-game-developers-are-helping-oxbotica-test-its-self-driving-tech-in-virtual-reality/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2020/05/video-game-developers-are-helping-oxbotica-test-its-self-driving-tech-in-virtual-reality/amp/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 59
+    images:
+      - url: "https://www.carscoops.com/wp-content/uploads/2020/05/autonomous-firm-employs-video-game-devs-3.jpg"
+        width: 1920
+        height: 1040
+
+secured: "lM3DcDywqyvIQRPhr61szEANBTS1rLp8gzHJg0UHEUv0VTr8JHPJSXDw7MS2zyz6cbYlmscPiyqRDjOBbsgo7M6ByMNu5GIUlALBmpuhEJIz/imr2ULoU1pbtuI87YIwcMhpFfTxficyGklf23ye8swa+/kPGJCLm7QW2vZyAbfAXJUab7gKg1VZ4Z2KqqwoW/X3WjNoLUYHywKPu6XYLg17qUflC11VKEKNrty/oeceq5qZMGvAWoPWmDfGWdS2PqLpT9adL7K7Ysn9eGNDkrqn3hvrWNWHTJExtRYBbdKbiyXTPIya6RRSVw/jC6HdwxlhphjB21Il/pZas24+hsCJwxmD1O7htqnDf4iseDYDF3dLoRsLu6LKgUaugOOvyBki6SmlbeQJmKjIOATsXvkyERg4Qyf+LXKUEKPsyYYwN+SCoDrdNUE84HeTH0lz5pIBNn0SeRVh3E8MG848yEla9J6ex8+l96SDS2DVyxw=;w/VtIwip81rQ7bRI8/UgZQ=="
 ---
 

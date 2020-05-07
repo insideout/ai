@@ -2,6 +2,51 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2020-04-14-natural-language-processing-market-is-expected-to-grow-at-a-cagr-of-1625-during-2017-2025.md",
+      "title": "Natural Language Processing Market Is Expected To Grow At A CAGR Of 16.25% During 2017-2025",
+      "excerpt": "The Global Natural Language Processing Market was valued at USD 7.86 billion in 2016 and is projected to reach USD",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-is-expected-to-grow-at-a-cagr-of-1625-during-2017-2025-2020-04-14",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-13T21:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Natural Language Processing Market Is Expected To Grow At A CAGR Of 16.25% During 2017-2025",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-14-covid-19-software-firms-sharpen-focus-on-ai-big-data-as-it-spending-drops.md",
       "title": "Covid-19: Software firms sharpen focus on AI, big data as IT spending drops",
       "excerpt": "IBM has made its AI platform ‘Watson Assistant for Citizens’ on the public cloud available free of charge for at least 90 days. It helps citizens understand and respond to common questions ...",
@@ -1175,51 +1220,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-12-on-the-probabilities-of-social-distancing-as-gleaned-from-ai-self-driving-cars.md",
-      "title": "On The Probabilities Of Social Distancing As Gleaned From AI Self-Driving Cars",
-      "excerpt": "Assuming that you are a conscientious driver (I hope so!), you would right away start to consider the chances or probabilities that the dog might decide to head into the street. Presumably, you aren’t going to just wildly gauge the odds of the dog doing so,",
-      "heat": 85,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/04/12/on-the-probabilities-of-social-distancing-as-gleaned-from-ai-self-driving-cars/",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/04/12/on-the-probabilities-of-social-distancing-as-gleaned-from-ai-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/04/12/on-the-probabilities-of-social-distancing-as-gleaned-from-ai-self-driving-cars/amp/",
-      "publishedDateTime": "2020-04-12T06:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e923e621048ea0006cbb7a7%2F0x0.jpg",
-          "width": 1199,
-          "height": 848,
-          "title": "On The Probabilities Of Social Distancing As Gleaned From AI Self-Driving Cars",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

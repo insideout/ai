@@ -2,6 +2,51 @@
   "page": 45,
   "value": [
     {
+      "path": "_news/2020-03-24-this-week-amazon-has-a-chance-to-prove-it-can-do-the-right-thing-on-its-own.md",
+      "title": "This Week, Amazon Has a Chance to Prove It Can Do the Right Thing on Its Own",
+      "excerpt": "The second solicits an independent investigation and report on Amazon’s facial recognition tech, Rekognition, detailing “the extent to which such technology may endanger, threaten, or violate ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://gizmodo.com/this-week-amazon-has-a-chance-to-prove-it-can-do-the-r-1834894379",
+      "ampWebUrl": "https://gizmodo.com/this-week-amazon-has-a-chance-to-prove-it-can-do-the-r-1834894379/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/this-week-amazon-has-a-chance-to-prove-it-can-do-the-r-1834894379/amp",
+      "publishedDateTime": "2020-03-24T03:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/iz0nebw8k7iptywzjctx.jpg",
+          "width": 800,
+          "height": 450,
+          "title": "This Week, Amazon Has a Chance to Prove It Can Do the Right Thing on Its Own",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-24-nvidia-azure-and-aws-offer-free-resources-to-fight-against-covid-19.md",
       "title": "NVIDIA, Azure And AWS Offer Free Resources To Fight Against COVID-19",
       "excerpt": "However, for these machine learning models to work, they need tremendous amounts of computational power ... NVIDIA Parabricks’ pipelines have been tested on Dell, HPE, IBM, and NVIDIA servers at Amazon Web Services, Google Cloud, and Microsoft Azure. NVIDIA advises users to start with a small server for a small number of samples and then ...",
@@ -1243,51 +1288,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-23-nvidias-dlss-2-aims-to-upscale-its-low-res-reputation.md",
-      "title": "Nvidia's DLSS 2 aims to upscale its low-res reputation",
-      "excerpt": "Nvidia has slowly been climbing out of the reputational pit it dug with the initial release of DLSS, its AI-enhanced technology for upscaling games to run on higher-resolution displays without visual or framerate compromises.",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnet.com/news/nvidias-dlss-2-aims-to-upscale-its-low-res-reputation/",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/nvidias-dlss-2-aims-to-upscale-its-low-res-reputation/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/nvidias-dlss-2-aims-to-upscale-its-low-res-reputation/",
-      "publishedDateTime": "2020-03-23T06:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cnet3.cbsistatic.com/img/Mw-doFVfOEHFoIvyaKh_CJJRUms=/756x567/right/middle/2020/03/22/6c4d0e24-e46c-4b83-82e7-06d4766bdd06/nvidia-dlss-2.png",
-          "width": 756,
-          "height": 567,
-          "title": "Nvidia's DLSS 2 aims to upscale its low-res reputation",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

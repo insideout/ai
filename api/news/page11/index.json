@@ -2,6 +2,51 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-04-28-the-challenges-of-developing-autonomous-vehicles-during-a-pandemic.md",
+      "title": "The challenges of developing autonomous vehicles during a pandemic",
+      "excerpt": "Waymo, Uber, Cruise, and others have paused autonomous vehicle testing due to the pandemic. Here's how they're continuing development during lockdown.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/28/challenges-of-developing-autonomous-vehicles-during-coronavirus-covid-19-pandemic/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/28/challenges-of-developing-autonomous-vehicles-during-coronavirus-covid-19-pandemic/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/28/challenges-of-developing-autonomous-vehicles-during-coronavirus-covid-19-pandemic/amp/",
+      "publishedDateTime": "2020-04-28T07:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/03/waymo-one-dome-e1585787576926.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "The challenges of developing autonomous vehicles during a pandemic",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-28-self-driving-car-testing-goes-all-virtual-just-like-everything-else.md",
       "title": "Self-driving car testing goes all virtual, just like everything else",
       "excerpt": "Waymo, the self-driving car company spun off from Google, shut down its robo-taxi service in Arizona and stopped testing its vehicles on public roads because of the coronavirus pandemic. But that doesn't mean driverless car testing isn't still happening.",
@@ -1030,43 +1075,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-27-microsoft-strikes-5-year-cloud-deal-with-coca-cola-for-azure-microsoft-365.md",
-      "title": "Microsoft strikes 5-year cloud deal with Coca-Cola for Azure, Microsoft 365",
-      "excerpt": "Cola company have reached a deal that will see the latter use Microsoft 365, Azure, and more to power its digital operations for five years.",
-      "heat": 72,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.windowscentral.com/microsoft-strikes-5-year-cloud-deal-coca-cola-azure-microsoft-365",
-      "ampWebUrl": "https://www.windowscentral.com/microsoft-strikes-5-year-cloud-deal-coca-cola-azure-microsoft-365?amp",
-      "cdnAmpWebUrl": "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/microsoft-strikes-5-year-cloud-deal-coca-cola-azure-microsoft-365?amp",
-      "publishedDateTime": "2020-04-27T14:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Windows Central",
-        "domain": "windowscentral.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2017/09/microsoft-logo-2017-ignite2.jpg?itok=c3ocGDNm",
-          "width": 800,
-          "height": 600,
-          "title": "Microsoft strikes 5-year cloud deal with Coca-Cola for Azure, Microsoft 365",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

@@ -2,6 +2,43 @@
   "page": 122,
   "value": [
     {
+      "path": "_news/2020-01-21-us-spends-45m-on-heat-based-facial-recognition-that-works-at-1600ft.md",
+      "title": "US spends $4.5m on heat-based facial recognition that works at 1,600ft",
+      "excerpt": "According to a couple of new contracts posted on the federal spending database, the United States military is cashing in on developing a new form of facial recognition technology. If you assumed that the US military was already using facial recognition technology on the battlefield, then you would have been right. The current use of facial ...",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.tweaktown.com/news/70038/spends-4-5m-heat-based-facial-recognition-works-1-600ft/index.html",
+      "ampWebUrl": "https://www.tweaktown.com/news/70038/spends-4-5m-heat-based-facial-recognition-works-1-600ft/amp.html",
+      "cdnAmpWebUrl": "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/70038/spends-4-5m-heat-based-facial-recognition-works-1-600ft/amp.html",
+      "publishedDateTime": "2020-01-21T00:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TweakTown",
+        "domain": "tweaktown.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.tweaktown.com/news/7/0/70038_01_spends-4-5m-heat-based-facial-recognition-works-500m.png",
+          "width": 620,
+          "height": 329,
+          "title": "US spends $4.5m on heat-based facial recognition that works at 1,600ft",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2020-01-21-ai-can-do-great-thingsif-it-doesnt-burn-the-planet.md",
       "title": "AI Can Do Great Things—If It Doesn't Burn the Planet",
       "excerpt": "The effort may have consumed about 2.8 gigawatt-hours of electricity, estimates Evan Sparks, CEO of Determined AI, a startup that provides software to help companies manage AI projects. That’s roughly equal to the output of three nuclear power plants for an hour. A spokesperson for OpenAI questioned the calculation, noting that it makes ...",
@@ -1033,42 +1070,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-01-20-google-ceo-calls-for-regulation-of-artificial-intelligence.md",
-      "title": "Google CEO calls for regulation of artificial intelligence",
-      "excerpt": "LONDON -- Google's chief executive called Monday for a balanced approach to regulating artificial intelligence ... then scheduled to head to the World Economic Forum in Davos, Switzerland ...",
-      "heat": 177,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.ctvnews.ca/sci-tech/google-ceo-calls-for-regulation-of-artificial-intelligence-1.4774926?cache=yes%3FautoPlay%3Dtrue%3FclipId%3D104070%3FautoPlay%3Dtrue",
-      "ampWebUrl": "https://beta.ctvnews.ca/national/sci-tech/2020/1/20/1_4774926.html",
-      "cdnAmpWebUrl": "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/national/sci-tech/2020/1/20/1_4774926.html",
-      "publishedDateTime": "2020-01-20T01:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CTV News",
-        "domain": "ctvnews.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://beta.ctvnews.ca/national/sci-tech/2020/1/20/1_4774926/_jcr_content/root/responsivegrid/image.coreimg.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Google CEO calls for regulation of artificial intelligence",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

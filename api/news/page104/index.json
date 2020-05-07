@@ -2,6 +2,51 @@
   "page": 104,
   "value": [
     {
+      "path": "_news/2020-02-06-natural-language-processing-market-global-outlook-2019-2025-apple-dolbey-systems-google-microsof.md",
+      "title": "Natural Language Processing Market Global Outlook 2019-2025: Apple, Dolbey Systems, Google, Microsof",
+      "excerpt": "The Global Natural Language Processing Market Report provides a complete analysis of the market. The Report focuses on manufacturers, suppliers, segmentation according to the application, major players,",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-global-outlook-2019-2025-apple-dolbey-systems-google-microsof-2020-02-06",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-05T23:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Natural Language Processing Market Global Outlook 2019-2025: Apple, Dolbey Systems, Google, Microsof",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2020-02-06-ai-artificial-intelligence-speaker-market-technology-advancement-and-latest-study-report-2020.md",
       "title": "AI (ARTIFICIAL INTELLIGENCE) SPEAKER Market Technology Advancement and Latest Study Report 2020",
       "excerpt": "The Global AI (ARTIFICIAL INTELLIGENCE) SPEAKER Market research provides a basic overview of the industry including definitions, classifications, applications and industry chain structure. The market report also calculate the market size,",
@@ -986,42 +1031,6 @@
           "width": 1200,
           "height": 600,
           "title": "A new device uses AI to identify fake pairs of Nike and Adidas sneakers in seconds. Here's how the authentication technology works.",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-05-an-algorithm-that-can-spot-cause-and-effect-could-supercharge-medical-ai.md",
-      "title": "An algorithm that can spot cause and effect could supercharge medical AI",
-      "excerpt": "Several other companies—including Ada and Your.MD—also offer diagnosis-by-chatbot but Babylon Health has singled itself out for criticism in part because of the overblown claims it makes for its AI. For example, in 2018 the company announced that its AI could diagnose medical conditions better than a human doctor. A study in The Lancet a ...",
-      "heat": 156,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.technologyreview.com/s/615141/an-algorithm-that-can-spot-cause-and-effect-could-supercharge-medical-ai/",
-      "ampWebUrl": "https://www.technologyreview.com/s/615141/an-algorithm-that-can-spot-cause-and-effect-could-supercharge-medical-ai/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/s/615141/an-algorithm-that-can-spot-cause-and-effect-could-supercharge-medical-ai/amp/",
-      "publishedDateTime": "2020-02-05T04:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.technologyreview.com/i/images/pills_1.jpg?sw=600&cx=1&cy=54&cw=1079&ch=607",
-          "width": 600,
-          "height": 337,
-          "title": "An algorithm that can spot cause and effect could supercharge medical AI",
           "attribution": null
         }
       ],

@@ -2,6 +2,43 @@
   "page": 63,
   "value": [
     {
+      "path": "_news/2020-03-17-axon-announces-three-new-members-to-ai-ethics-board.md",
+      "title": "Axon Announces Three New Members to AI Ethics Board",
+      "excerpt": "/PRNewswire/ -- Axon (Nasdaq: AAXN), the global leader in connected public safety technologies, announced today the appointment of three new members to its",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.prnewswire.com/news-releases/axon-announces-three-new-members-to-ai-ethics-board-301025168.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-17T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1134612/Danielle_Citron.jpg?p=facebook",
+          "width": 2735,
+          "height": 1431,
+          "title": "Axon Announces Three New Members to AI Ethics Board",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-17-with-painted-faces-artists-fight-facial-recognition-tech.md",
       "title": "With painted faces, artists fight facial recognition tech",
       "excerpt": "As night falls in London, Georgina Rowlands and Anna Hart start applying makeup. Instead of lipstick and eyeliner, they’re covering their faces with geometric shapes. Rowlands has long narrow blue triangles and thin white rectangles criss-crossing her face.",
@@ -886,43 +923,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-can-deep-learning-predict-coma-outcome.md",
-      "title": "Can Deep Learning Predict Coma Outcome?",
-      "excerpt": "This research is part of a growing body of literature and applications of AI into the healthcare system. For example, deep learning systems are currently used within medicine to classify certain types of injuries and interpreting X-ray images. Several other studies have noted the importance of using EEG data to complement clinical evaluation in ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.news-medical.net/health/Can-Deep-Learning-Predict-Coma-Outcome.aspx",
-      "ampWebUrl": "https://www.news-medical.net/amp/health/Can-Deep-Learning-Predict-Coma-Outcome.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/health/Can-Deep-Learning-Predict-Coma-Outcome.aspx",
-      "publishedDateTime": "2020-03-16T20:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.news-medical.net/image.axd?picture=2020%2f3%2fshutterstock_500494666_31de6d7102654c25898e235271aed01a-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": "Can Deep Learning Predict Coma Outcome?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

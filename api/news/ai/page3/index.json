@@ -2,6 +2,51 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-05-05-ibm-watson-aiops-automates-the-detection-of-it-anomalies.md",
+      "title": "IBM Watson AIOps automates the detection of IT anomalies",
+      "excerpt": "IBM has launched a slew of new AI services that aim to help chief information officers (CIOs) to predict and tackle IT problems before they occur. Watson AIOps, unveiled at the company's Think Digital Conference,",
+      "heat": 124,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/355538/ibm-watson-aiops-official",
+      "ampWebUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/355538/ibm-watson-aiops-official?amp",
+      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/355538/ibm-watson-aiops-official?amp",
+      "publishedDateTime": "2020-05-05T03:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk//image/upload/v1588670694/itpro/IBMBuilding.jpg",
+          "width": 1000,
+          "height": 690,
+          "title": "IBM Watson AIOps automates the detection of IT anomalies",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-05-ibm-rolls-out-watson-aiops-that-helps-enterprises-automate-it-operations.md",
       "title": "IBM rolls out Watson AIOps that helps enterprises automate IT operations",
       "excerpt": "IBM has launched Watson AIOps, a new offering that uses AI to automate how enterprises self-detect, diagnose and respond to IT anomalies in real time.Watson AIOps enables organisations to introduce au",
@@ -1257,50 +1302,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-04-democrats-counter-trumps-fake-coronavirus-news-with-ai-that-fought-isis-propaganda.md",
-      "title": "Democrats counter Trump’s fake coronavirus news with AI that fought ISIS propaganda",
-      "excerpt": "Trump PAC is using AI originally designed to tackle Islamic State propaganda to counter coronavirus disinformation spread by the president.",
-      "heat": 81,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/05/04/democrats-counter-trumps-fake-coronavirus-news-with-ai-that-fought-isis-propaganda/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/05/04/democrats-counter-trumps-fake-coronavirus-news-with-ai-that-fought-isis-propaganda/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/05/04/democrats-counter-trumps-fake-coronavirus-news-with-ai-that-fought-isis-propaganda/amp/",
-      "publishedDateTime": "2020-05-04T07:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/Untitled-design-23-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "Democrats counter Trump’s fake coronavirus news with AI that fought ISIS propaganda",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }
