@@ -24,6 +24,6 @@ images:
     height: 682
     title: "An AI algorithm inspired by how kids learn is harder to confuse"
 
-secured: "xK8MKEc4gFT03FNlY4gF/bYzWDOF7KSmJtqemdcCxM9nkWoFXBu4PHOS+jqQtthKhiHaFa/ptn9fM/2D9CS5GVzB2jHfN8ioguWVKT3DJEWaSQd5pvp8204v/kv125UP1KJyyHUWO/zLWcCO2fDVrDVglJYpywjEXXEMimFsxhsMSqeHS66xU3DzVasYG/YWz710PuwA1OW3r89pmjS2/eTw3I0x/lCFsCkTlZu7HLGjjV5IZ63Npbx2OuCrC4O9s88rP2iazV3nKOfZXgqIkAc+ndxmU++gU5mBExfvU0dkTElxmR3JkE1W/kF+18zO;fZ2c3Sj+4GeAxIl/Hkkgiw=="
+secured: "yNNnx68OjzJ4hKbIeQ2SZRgXIgEd8DAkB2FNtoPZdtWsz4r+raDMHOlHhM4lIbTqBgXd1ARneuTEbKY8jN7fAN4qb8MnGHzIzqGlIHiuaxi0k5TrWZZl8JeBvaDoQFIDrlprrKppXwOFmUbbTX/lp6WKzQIvekMDdhFJZVIml+8JSZaKIhRp77Lffc8dnakxejQuu+v4yIXGFYI/JxrS2MBNSxsru9QcwqTlXhcpTN/9m8cwvHV+Q/8ljQwiPzwB6WuB6jencXM5UcPdHc2sBmcXwbaid3Atzo+8o4jV/jVrPmakTu4km6n7MWqRRe2kju6+nFnvloy+wIbGBFAs+DuNX6F01k7T5C3+26ilutEARG4LR5idntM7ZWnkpykndPqbzQD/c+zZTBBy/mYozjOYh30MBmi+hPHE2Ulb9MJQxqKNkPehisOJDWOoALvk8Ztz9iZFGyhyyItTtfIldnlwTazzwOLxsb0SkGrm6OM=;HXxtlratQiTAkinzAKspqw=="
 ---
 

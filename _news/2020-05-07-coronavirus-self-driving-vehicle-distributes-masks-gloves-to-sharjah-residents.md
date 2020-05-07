@@ -27,19 +27,34 @@ images:
 
 related:
   - title: "UAE combats coronavirus: Ministry launches self-driving vehicle to distribute PPE"
-    excerpt: "The self-driving vehicle to distribute personal protective equipment including masks, gloves and sanitizers to residents and workers of a residential"
-    publishedDateTime: 2020-05-07T03:08:00Z
-    webUrl: "https://www.khaleejtimes.com/coronavirus-pandemic/uae-combats-coronavirus-ministry-launches-self-driving-vehicle-to-distribute-ppe"
+    excerpt: "UAE - The Ministry of Health launches self-driving vehicle to distribute personal protective equipment to ... comes as part of the ministry's efforts being made to contain the spread of coronavirus, using the latest Artificial Intelligence (AI) technologies and fifth generation technology (5G)."
+    publishedDateTime: 2020-05-07T08:00:00Z
+    webUrl: "https://www.zawya.com/mena/en/life/story/UAE_combats_coronavirus_Ministry_launches_selfdriving_vehicle_to_distribute_PPE-SNG_173952755/"
+    ampWebUrl: "https://www.zawya.com/mena/en/story/amp/SNG_173952755/"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/SNG_173952755/"
     type: article
     provider:
-      name: Khaleej Times
-      domain: khaleejtimes.com
-    quality: 19
+      name: Zawya
+      domain: zawya.com
+    quality: 39
     images:
-      - url: "https://images.khaleejtimes.com/storyimage/KT/20200507/ARTICLE/200509021/AR/0/AR-200509021.jpg&NCS_modified=20200507044812&exif=.jpg"
+      - url: "https://www.zawya.com/resources/img/zawya-logo-en-social.png"
         width: 1200
-        height: 882
+        height: 878
+  - title: "Health Ministry launches self-driving vehicle to distribute masks, gloves, sanitisers in Sharjah"
+    excerpt: "The initiative, which was implemented in cooperation with Sharjah’s Family Health Promotion Centre, and Huawei, comes as part of the ministry’s efforts being made to contain the spread of coronavirus,"
+    publishedDateTime: 2020-05-07T09:13:00Z
+    webUrl: "https://www.gulftoday.ae/news/2020/05/07/health-ministry-launches-self-driving-vehicle-to-distribute-masks-gloves-sanitisers-in-sharjah"
+    type: article
+    provider:
+      name: The Gulf Today
+      domain: gulftoday.ae
+    quality: 11
+    images:
+      - url: "http://www.gulftoday.ae/-/media/gulf-today/images/articles/news/2020/5/7/self-driving-vehicle-sharjah-main1-750.ashx?h=450&w=750&hash=A240B14D8B1C432D03E7628BDF317865"
+        width: 750
+        height: 450
 
-secured: "5/Cckp0wpD2jBoHLIJcfNOEWt9f+3tcl6bCBDuiLBOL0CZA6tU9sdgAbam92e8pItQs0tgB6Z+8g5seXJgf9QZWXRxS8T5clb9N5OhGDEGuw83h7IPLxzst1AGYanJTu3fTdBYDD8YYesk89DIijCvAGwiDCZcoXbhjhqPw4abrF275dMB9PhUSryxL3MaoI9UxhJSIed7ydf05ozNpIkL1JA5cCbxaZxx7dwcHX6LMfMPNfbguX6VOdgmGL9VESYNVQDDAor5Iv+NZFzUPf5GfbbJE0nK3vFYjos1iaXCYkXzfoQK0VxWknZn5lHeCr;mI8SkyRaXtpZFZzNFm02cg=="
+secured: "+Ehi+0f8+UAnQFnhOBgLSxUD1HOGyIb/XSwf6MG6MDcxWZ7JmeOESO4DYTY9EqNhKcQ9g5FXH+b6ZSnHXooxoNCtnD20V1LuYECpYGxrJQ+GTu1wujA4m4jfBpXnkZzQkJtn7iG8IWoobJUen9TvoKPVTQfHDil4jKzCskRQ7TlZrtKHOFVpEjrZJLmuGzltkK5MLpx+2wNGkoOEMGD6dViU688JEzsKFE3sMAuLbKevySla2WY/Wqa5lfy3wozSXd7teiuyKOM/b5d1f+D0bcwO93QB7TpvkbHkxl/JaFtVxfvGltjRRWxJ0hSuH1+Qtlw2qSEyC8cygaVI7xfP3DlbsVLHCw1y15+kXkHlGtoXnxASjdXrqA+GgOk8baFwthQ8I47NzF+wkLxvMKGtSia9F4avaoZAq6wBXoMGRc3eY6gmTjgOS4aDBp5SPhr0kXaw8xO138Fub0tjkAcfAcgE195SEYRZR6p5mGczAMc=;A5dNoG1TFjQdtsIK4BfT7g=="
 ---
 
