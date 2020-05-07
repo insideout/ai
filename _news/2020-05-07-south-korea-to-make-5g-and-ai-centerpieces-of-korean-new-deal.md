@@ -1,9 +1,9 @@
 ---
 category: news
 title: "South Korea to Make 5G and AI Centerpieces of ‘Korean New Deal’"
-excerpt: "South Korea will make artificial intelligence and wireless communications centerpieces of what it is touting as a ‘New Deal’ to create jobs and boost growth after the coronavirus pandemic subsides."
+excerpt: "South Korea will make artificial intelligence and wireless communications centerpieces of what it is touting as a “New Deal” to create jobs and boost growth after the coronavirus pandemic subsides."
 publishedDateTime: 2020-05-07T04:59:00Z
-webUrl: "https://www.bloomberg.com/news/articles/2020-05-07/south-korea-to-make-5g-ai-centerpieces-of-korean-new-deal"
+webUrl: "https://www.bloomberg.com/news/articles/2020-05-07/south-korea-to-make-5g-ai-centerpieces-of-korean-new-deal?srnd=all"
 ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-05-07/south-korea-to-make-5g-ai-centerpieces-of-korean-new-deal"
 cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-05-07/south-korea-to-make-5g-ai-centerpieces-of-korean-new-deal"
 type: article
@@ -22,6 +22,6 @@ provider:
 topics:
   - AI
 
-secured: "BHN/Qocxm5530fiAg3ZXTLsnK9LjTUMfKwJrMxqqZVEHY9ksehc/I/TJUnmZDw26Dh5P1uF/EO5EMNvKdweAiAtPvZJfze1QGM3zin4qKois4yKb9Ijo13cbId1TU+zNNjt1GfxWFRe5ahto1Vt515tnf+QIWLOrLqIls5TGsz591I/6uZYbj8Ux26eJwZZJihNR8JCpZvWst5BO9xHz4XgRQ2jNC4PRS1iNJJw6kV+KO6I1C7Q0ctc9iV6Wdh2/SN6pNh1ZZW5z0Ck23MWbStCQglnsKB3aiqp569LS5iGr41KiRmrqbGDLKygeaaYxghfUHnRPFbA0uFP44+NPB7o60+cTTFzb2ZtdqKUSYONeNb98hPqeh62ECpGOpaLsqdbsMAF1OCFyLsrwjyvUR69JHbiJxvnU6ciJtwliCJ9aSv9FwXzoLMiGpQDFPTFfa6742R5zZxtLDC0TRRcC4pFAl1+/nyb0Zfug/XCPSMI=;8eO7JjPBGguSKEAk8eDmBw=="
+secured: "XVUbH+YfQpkwhyKCHPiXoeINMLiMyghC3eBrts0oh8tXWQqvBOspnvGOmIuB/lMJmQPM5KM466dqIzLdNAAL3IRZI3gdKzMR1S7Cf1OTrHaXkx3MBc4pcc33R0HG97CXhGtIFnsgPCe7zdE3E7HlIfAUfh2uA5drlwrwxFiwx2zJYJcgPqV8cC+GdrQzb+ehd00q+fTMMooAH7AIUghkif4K3LQ9YnEmSnvspPMUmtVoiOzUOPNV4pRjaSonItfRAP7bQOZPwfq+PkPl7PdeI4WJh5VR7un/PKxcAc7T+Ra7LjLzHz4/HHvZqP0D+0gGrMsmh70UzWmlOCtec7Rax4E3o/HTV0/lAM7Xkz7dicQVp3vlVlsCxQyQLk+nY/8LGKbkazYtVZvTsrCJ11hRURzrro2k8RPaRjWtSledtohWK7KK1CwULkPxBiuCp1xVqmendqPk7D53iGmWQleM9GWDd6hbKyfSEUrVDJ6Sz38=;usFUZA/Uf3e+aku8wcZCbw=="
 ---
 

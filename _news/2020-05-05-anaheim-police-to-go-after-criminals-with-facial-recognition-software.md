@@ -5,7 +5,7 @@ excerpt: "After more than a year-long trial phase, Anaheim police are set to get
 publishedDateTime: 2020-05-05T19:46:00Z
 webUrl: "https://voiceofoc.org/2020/05/anaheim-police-to-go-after-criminals-with-facial-recognition-software/"
 type: article
-quality: 24
+quality: 41
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Computer Vision
 
 images:
   - url: "https://voiceofoc.org/wp-content/uploads/2020/05/©JessicaRuiz_2019_Anaheim-6EDIT.jpg"

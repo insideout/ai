@@ -34,7 +34,7 @@ related:
     provider:
       name: Voice of OC
       domain: voiceofoc.org
-    quality: 24
+    quality: 41
     images:
       - url: "https://voiceofoc.org/wp-content/uploads/2020/05/©JessicaRuiz_2019_Anaheim-6EDIT.jpg"
         width: 1500

@@ -6,7 +6,7 @@ publishedDateTime: 2020-05-07T09:15:00Z
 webUrl: "https://www.nature.com/articles/s41524-020-0308-7"
 type: article
 quality: 5
-heat: 5
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,21 @@ images:
     height: 534
     title: "Machine-learning informed prediction of high-entropy solid solution formation: Beyond the Hume-Rothery rules"
 
-secured: "auGtfS5YVQxPEMj5aAhGtpgZzwn8OTJFUBt33FsG21TceH9kzImpNB6uL6DQdO/DikSPKJjqY3p0VLrhZUAk8Kae4yCjD7h5h5wZW06pSDDL4M17wbru784CBelxqsLPIud8jri+iv4fENV4dkzt/C25znr67+zehVomrnT4oEA4kHFlby03DRFfJDiwjs7EtWoKVPd16DueMFzHWaFwiYnxN33agQwucxKt+m9dfjHpzHBus5MGf6A7wjiP9rkEjgO/lekZTWLRmOrc9UbC6mS8w/FTCLNcBdfTVSov+JmP3v0AzMchiOPJioNc8af8;1wpFbkGEIoq1JUNcAWfc7w=="
+related:
+  - title: "Predicting Failing Tests with Machine Learning"
+    excerpt: "Machine learning can be used to predict how tests behave on changes in the code. These predictions reduce the feedback time to developers by providing information at check-in time. Marco Achtziger & Dr."
+    publishedDateTime: 2020-05-07T10:06:00Z
+    webUrl: "https://www.infoq.com/news/2020/05/predicting-failing-tests/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 54
+    images:
+      - url: "https://res.infoq.com/news/2020/05/predicting-failing-tests/en/headerimage/Predicting+Failing+Tests-1588741558619.jpg"
+        width: 1200
+        height: 630
+
+secured: "CNjRpdyNj5cJS/kmlJ52ERRIk8X/9fpFr5MWgkkxf/Syj0yAsRVxk80pvmbLJSjWnzd7onKla9vOAYT017h5AKEhLQMuSkNuBf5H0RXUtuG3WcRFbiQeLErBNwinoLQkiskk1paHP1DyLoDN8HRH6h8Ngy+7Yf0W4cHvmLmaEB+3poS6ZVGiHl1JQ8Cjoi+FCbStk4hNCnO7iJQAx4mtb9Ip3hNoCB3zzM69rUvYy+kJvjvcAcycV0VJJoI8lTX1XzarAgNqvzpUH14y84wE7r4eqNGI3jeJijQX6mdseWoD8qdno7y4zdL2E3kR7vy1sSNI8x0eoyCm804xTv4byqJ/d7SvB3dIZKJBXnJ7qUsNlH0fWqxcxRqjXYpMdvu2RyYCpr/TUFRNlD/8m1tTzew4FGeiN8mRUhMd2icM38WJ0nhO+THE2XvMMYlK1vGn/6O9Ugli7uGDwx4asGAF7gieDHp+p3M2q5Go6EiTgYI=;nNOounDxo7qIBx2q53dWEg=="
 ---
 

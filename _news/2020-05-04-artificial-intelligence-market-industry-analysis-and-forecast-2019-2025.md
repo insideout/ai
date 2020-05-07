@@ -6,7 +6,7 @@ publishedDateTime: 2020-05-04T06:04:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-industry-analysis-and-forecast-2019-2025-2020-05-04"
 type: article
 quality: 68
-heat: 88
+heat: 98
 published: true
 
 provider:
@@ -50,6 +50,19 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 60
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Global Machine Learning Market: Global Industry Analysis, Size, Share, Growth, Trends, And Forecasts 2019–2024"
+    excerpt: "The research report of “Machine Learning Market” study report covers all main geographical regions and sub-regions in"
+    publishedDateTime: 2020-05-07T10:50:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-machine-learning-market-global-industry-analysis-size-share-growth-trends-and-forecasts-20192024-2020-05-07"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

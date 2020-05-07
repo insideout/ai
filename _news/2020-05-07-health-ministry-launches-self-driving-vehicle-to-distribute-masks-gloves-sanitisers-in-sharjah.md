@@ -42,9 +42,9 @@ related:
   - title: "UAE combats coronavirus: Ministry launches self-driving vehicle to distribute PPE"
     excerpt: "UAE - The Ministry of Health launches self-driving vehicle to distribute personal protective equipment to ... comes as part of the ministry's efforts being made to contain the spread of coronavirus, using the latest Artificial Intelligence (AI) technologies and fifth generation technology (5G)."
     publishedDateTime: 2020-05-07T08:00:00Z
-    webUrl: "https://www.zawya.com/mena/en/life/story/UAE_combats_coronavirus_Ministry_launches_selfdriving_vehicle_to_distribute_PPE-SNG_173952755/"
-    ampWebUrl: "https://www.zawya.com/mena/en/story/amp/SNG_173952755/"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/SNG_173952755/"
+    webUrl: "https://www.zawya.com/uae/en/life/story/UAE_combats_coronavirus_Ministry_launches_selfdriving_vehicle_to_distribute_PPE-SNG_173952755/"
+    ampWebUrl: "https://www.zawya.com/uae/en/story/amp/SNG_173952755/"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/uae/en/story/amp/SNG_173952755/"
     type: article
     provider:
       name: Zawya
@@ -55,6 +55,6 @@ related:
         width: 1200
         height: 878
 
-secured: "e0Igufu7aHk6w8UcSX9Mrc92nQXmWhTEG+/Vcye+/cqEpJy/xZ6L/QRYs7GCL6pxdjh7p/WVvdKhyLyZwiEIF1e7uo887Y4BpobNc2KlxxMV+3PuAYLdRnZ8FCsMZyGNRm+qeh9TB51iBgeCS3SeC0z5pxcGxJs61jGL3pPUap4h3KRLWpr8ekysixKd4IvwlLnmDkGqSLne7g3KYLfGk/yxk4KX+YamNlPidf93hGwW95k4KaS2f+sGIgtxpA/6FK5Yj4/tbbqRDNrZ+RxBwdFEV7VIVYLJtCTDsI3Q3djsBqEBukk5bz5TH6G29N8C;YRX90twNwHv3B9sXTIvBQQ=="
+secured: "beuFvZtFhE7sTCVo1hBZdHRo5y1HYXfmMGVOhuy9gg2y/0cgh0hYLCrIZMjxeFqLheEVvEWQjgnHFOhGJREaUbg2Ahqzwo4ZT0Ai9EgrM+2lMGIhrgHWXUdeayBTegtjMvL/YdWhDRG5KXpZr92ZT3p2IWr97lYD04Ilm1/QYl/Kt1bMCcT/VuTf3ecMMkC2f8px7PSvLwLUdPBeg653G11y++5S1mTwtA0aCme/Neo6qHIl7hDECZjWZbSO3QvtyyFe2EEY+a76A7eZ1zNpqtbBoI+I8Yb8UbB0X3zLU/Al1nq0pawkVkwFU403Bdy6s4IUPFe6a/7n3XrTcTTs+e/i3pXnxbaOwotOmXkrLlnMcAZBwHB/Dhs6Fa/RvWfv1zW9N4MY2jJIwgUcXjbSq5fXT46UKm6KXE26smuiaSNjcbRNWM02ucbljVZGaO45jGP6SQUKR1iUHwKMOqUwWf/0y28EzLxsWQxfm7/aMNE=;F2ep1XDNKcmBR31cKKrXEQ=="
 ---
 

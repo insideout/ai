@@ -53,6 +53,19 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Global Machine Learning Market: Global Industry Analysis, Size, Share, Growth, Trends, And Forecasts 2019–2024"
+    excerpt: "The research report of “Machine Learning Market” study report covers all main geographical regions and sub-regions in"
+    publishedDateTime: 2020-05-07T10:50:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-machine-learning-market-global-industry-analysis-size-share-growth-trends-and-forecasts-20192024-2020-05-07"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
 
 secured: "bHpqpBqbnHd9lv6OcTT27t6OS8FUrwHCA4cKHIfHFJ9kuElXRQPq+7ZfE4vBVj7iv7yW8R90ESCFUNliGbC5fZqAGcAREkOYcscgzpN44DUsq8auYj3VIv7i0D9yt1R2uPenLvxyOw6e2Q9AoDv2iIBqq9FZRh6t6829d+ZyO5VOFtKRFW5N9+sCEHu3OVv0aESxHcLkNqrBGsmliFa6aovX8m6CazynkIgwe4F1NOnZaUgZzp3Uop82ZMweBLtQuhl2zSxzB5UieiSm9E1yXTVFe3BNRMGdK7PzxmlXSA1knW0ZdwPLNcaD+5tNrme8;WDZhOF3gikB0m4zzvi5Zpw=="
 ---
