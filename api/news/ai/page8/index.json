@@ -2,6 +2,96 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-04-29-determined-ai-makes-its-machine-learning-infrastructure-free-and-open-source.md",
+      "title": "Determined AI makes its machine learning infrastructure free and open source",
+      "excerpt": "Machine learning has quickly gone from niche field to crucial component of innumerable software stacks, but that doesn’t mean it’s easy. The tools needed to create and manage it are enterprise-grade and often enterprise-only — but Determined AI aims to make them more accessible than",
+      "heat": 101,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/04/29/determined-ai-makes-its-machine-learning-infrastructure-free-and-open-source/",
+      "ampWebUrl": "https://techcrunch.com/2020/04/29/determined-ai-makes-its-machine-learning-infrastructure-free-and-open-source/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/29/determined-ai-makes-its-machine-learning-infrastructure-free-and-open-source/amp/",
+      "publishedDateTime": "2020-04-29T08:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/06/GettyImages-1031459542.jpg?w=1024",
+          "width": 1024,
+          "height": 660,
+          "title": "Determined AI makes its machine learning infrastructure free and open source",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-04-29-facebook-releases-its-blender-chatbot-as-an-open-source-project.md",
+      "title": "Facebook releases its 'Blender' chatbot as an open-source project",
+      "excerpt": "Facebook has spent years training its Blender chatbot on 9.4 billion conversational parameters. Now the company is releasing it as an open-source project.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.engadget.com/facebook-chatbot-ai-open-source-blender-150001320.html",
+      "ampWebUrl": "https://www.engadget.com/amp/facebook-chatbot-ai-open-source-blender-150001320.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/facebook-chatbot-ai-open-source-blender-150001320.html",
+      "publishedDateTime": "2020-04-29T08:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-04%2Fec52bd10-8991-11ea-bfbf-a5d10e9a9f52&client=amp-blogside-v2&signature=1b5c7c9ee001fd626753b341ba8ee569497eef1c",
+          "width": 600,
+          "height": 350,
+          "title": "Facebook releases its 'Blender' chatbot as an open-source project",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-29-ruha-benjamin-on-deep-learning-computational-depth-without-sociological-depth-is-superficial-learning.md",
       "title": "Ruha Benjamin on deep learning: Computational depth without sociological depth is ‘superficial learning’",
       "excerpt": "Ruja Benjamin urged engineers to consider historic and sociological factors when building deep learning systems in her keynote address at ICLR.",
@@ -201,6 +291,35 @@
       ]
     },
     {
+      "path": "_news/2020-04-29-saykara-ai-voice-assistant-eases-transition-to-virtual-healthcare.md",
+      "title": "Saykara AI Voice Assistant Eases Transition to Virtual Healthcare",
+      "excerpt": "Saykara, creator of the first ambient AI voice assistant for medical exam room conversations, today announced it has added a telehealth on-ramp to make",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/saykara-ai-voice-assistant-eases-transition-to-virtual-healthcare/article_0f4573e4-e2a2-54bc-acad-952d7eaf1831.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-29T05:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-29-quest-for-fusion-energy-may-be-advanced-by-artificial-intelligence-and-machine-learning.md",
       "title": "Quest for Fusion Energy May Be Advanced by Artificial Intelligence and Machine Learning",
       "excerpt": "Algorithms are increasingly being deployed to predict disruptions that could potentially occur during fusion experiments and may help turn the long-discussed energy source into reality, experts say.",
@@ -243,43 +362,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-04-29-saykara-ai-voice-assistant-eases-transition-to-virtual-healthcare.md",
-      "title": "Saykara AI Voice Assistant Eases Transition to Virtual Healthcare",
-      "excerpt": "Saykara, creator of the first ambient AI voice assistant for medical exam room conversations, today announced it has added a telehealth",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.prnewswire.com/news-releases/saykara-ai-voice-assistant-eases-transition-to-virtual-healthcare-301049038.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-29T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1098422/Saykara_Logo.jpg?p=facebook",
-          "width": 598,
-          "height": 315,
-          "title": "Saykara AI Voice Assistant Eases Transition to Virtual Healthcare",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     },
     {
@@ -1192,79 +1274,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-28-study-indicates-artificial-intelligence-could-help-stem-tide-of-school-violence.md",
-      "title": "Study indicates artificial intelligence could help stem tide of school violence",
-      "excerpt": "By leveraging the basics of artificial intelligence technology now used to predict risk for suicide or other mental health issues, researchers developed an AI system that analyzes linguistic patterns to predict a youth's risk for committing acts of school violence.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medicalxpress.com/news/2020-04-artificial-intelligence-stem-tide-school.html",
-      "ampWebUrl": "https://medicalxpress.com/news/2020-04-artificial-intelligence-stem-tide-school.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-04-artificial-intelligence-stem-tide-school.amp",
-      "publishedDateTime": "2020-04-28T09:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-28-googles-ai-health-screening-tool-claimed-90-percent-accuracy-but-failed-to-deliver-in-real-world-tests.md",
-      "title": "Google's AI Health Screening Tool Claimed 90 Percent Accuracy, but Failed to Deliver in Real World Tests",
-      "excerpt": "Google said its AI showed a \"specialist-level accuracy\" of more than 90 percent for the detection of referable cases of diabetic retinopathy (DR). In reality, it quickly faced unforeseen challenges.",
-      "heat": 70,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.newsweek.com/google-artificial-intelligence-deep-learning-health-research-thailand-clinics-diabetic-retinopathy-1500692",
-      "ampWebUrl": "https://www.newsweek.com/google-artificial-intelligence-deep-learning-health-research-thailand-clinics-diabetic-retinopathy-1500692?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/google-artificial-intelligence-deep-learning-health-research-thailand-clinics-diabetic-retinopathy-1500692?amp=1",
-      "publishedDateTime": "2020-04-28T08:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1585333/google.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": "Google's AI Health Screening Tool Claimed 90 Percent Accuracy, but Failed to Deliver in Real World Tests",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

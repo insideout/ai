@@ -2,6 +2,79 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-04-28-study-indicates-artificial-intelligence-could-help-stem-tide-of-school-violence.md",
+      "title": "Study indicates artificial intelligence could help stem tide of school violence",
+      "excerpt": "By leveraging the basics of artificial intelligence technology now used to predict risk for suicide or other mental health issues, researchers developed an AI system that analyzes linguistic patterns to predict a youth's risk for committing acts of school violence.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medicalxpress.com/news/2020-04-artificial-intelligence-stem-tide-school.html",
+      "ampWebUrl": "https://medicalxpress.com/news/2020-04-artificial-intelligence-stem-tide-school.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-04-artificial-intelligence-stem-tide-school.amp",
+      "publishedDateTime": "2020-04-28T09:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-28-googles-ai-health-screening-tool-claimed-90-percent-accuracy-but-failed-to-deliver-in-real-world-tests.md",
+      "title": "Google's AI Health Screening Tool Claimed 90 Percent Accuracy, but Failed to Deliver in Real World Tests",
+      "excerpt": "Google said its AI showed a \"specialist-level accuracy\" of more than 90 percent for the detection of referable cases of diabetic retinopathy (DR). In reality, it quickly faced unforeseen challenges.",
+      "heat": 70,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.newsweek.com/google-artificial-intelligence-deep-learning-health-research-thailand-clinics-diabetic-retinopathy-1500692",
+      "ampWebUrl": "https://www.newsweek.com/google-artificial-intelligence-deep-learning-health-research-thailand-clinics-diabetic-retinopathy-1500692?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/google-artificial-intelligence-deep-learning-health-research-thailand-clinics-diabetic-retinopathy-1500692?amp=1",
+      "publishedDateTime": "2020-04-28T08:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1585333/google.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": "Google's AI Health Screening Tool Claimed 90 Percent Accuracy, but Failed to Deliver in Real World Tests",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-28-tesla-is-working-on-pay-as-you-go-subscription-to-its-self-driving-package.md",
       "title": "Tesla is working on pay-as-you-go subscription to its self-driving package",
       "excerpt": "Tesla is working on a pay-as-you-go subscription to its “Full Self-Driving Capability” package in order to make its features more accessible. There are several things about how Tesla is approaching self-driving technology that makes it different from the rest of the auto industry and tech companies developing the technology.",
@@ -1211,87 +1284,6 @@
           "width": 1400,
           "height": 933,
           "title": "Go read this analysis of the new iPhone SE’s AI-powered depth camera system",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-27-teslas-latest-autopilot-feature-is-slowing-down-for-green-lights-too.md",
-      "title": "Tesla's latest Autopilot feature is slowing down for green lights, too",
-      "excerpt": "Tesla has said its latest version of Autopilot, its autonomous driving software, is able to stop at traffic lights. But some Tesla drivers are learning it doesn't just stop at",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.azfamily.com/news/us_world_news/teslas-latest-autopilot-feature-is-slowing-down-for-green-lights-too/article_eea7ffcb-074f-55ac-89cd-9c4207e7fe12.html",
-      "ampWebUrl": "https://www.azfamily.com/news/us_world_news/teslas-latest-autopilot-feature-is-slowing-down-for-green-lights-too/article_eea7ffcb-074f-55ac-89cd-9c4207e7fe12.amp.html",
-      "cdnAmpWebUrl": "https://www-azfamily-com.cdn.ampproject.org/c/s/www.azfamily.com/news/us_world_news/teslas-latest-autopilot-feature-is-slowing-down-for-green-lights-too/article_eea7ffcb-074f-55ac-89cd-9c4207e7fe12.amp.html",
-      "publishedDateTime": "2020-04-27T16:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AZFamily",
-        "domain": "azfamily.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/azfamily.com/content/tncms/assets/v3/editorial/c/ab/cab72abb-9b6a-5a39-bcd0-fadc3469ea7a/5ea76b6c2c680.image.jpg?resize=1024%2C682",
-          "width": 1024,
-          "height": 682,
-          "title": "Tesla's latest Autopilot feature is slowing down for green lights, too",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-27-scientists-think-well-finally-solve-nuclear-fusion-thanks-to-cutting-edge-ai.md",
-      "title": "Scientists think we’ll finally solve nuclear fusion thanks to cutting-edge AI",
-      "excerpt": "Fusion reactors – not to be confused with common fission reactors – are the holiest of Grails when it comes to physics achievements. According to most experts, a successful fusion reactor would function as a near-unlimited source of energy.",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/04/27/scientists-think-well-finally-solve-nuclear-fusion-thanks-to-cutting-edge-ai/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/04/27/scientists-think-well-finally-solve-nuclear-fusion-thanks-to-cutting-edge-ai/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/04/27/scientists-think-well-finally-solve-nuclear-fusion-thanks-to-cutting-edge-ai/amp/",
-      "publishedDateTime": "2020-04-27T16:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/04/solarfusion-796x398.jpg",
-          "width": 796,
-          "height": 398,
-          "title": "Scientists think we’ll finally solve nuclear fusion thanks to cutting-edge AI",
           "attribution": null
         }
       ],

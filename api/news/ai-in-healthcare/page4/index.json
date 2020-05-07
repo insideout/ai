@@ -2,6 +2,51 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-02-27-hospital-pharmacists-meet-ai-your-new-assistant.md",
+      "title": "Hospital Pharmacists: Meet AI, Your New Assistant",
+      "excerpt": "AI is proven to be an effective tool that, along with the direction and expertise of the human touch, helps the industry address the challenges of shortages, recalls and inventory management.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/27/hospital-pharmacists-meet-ai-your-new-assistant/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/27/hospital-pharmacists-meet-ai-your-new-assistant/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/02/27/hospital-pharmacists-meet-ai-your-new-assistant/amp/",
+      "publishedDateTime": "2020-02-27T05:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/dam/imageserve/537317012/960x0.jpg?fit=scale",
+          "width": 711,
+          "height": 474,
+          "title": "Hospital Pharmacists: Meet AI, Your New Assistant",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2020-02-26-healthcare-trails-other-sectors-in-developing-ai-code-of-ethics.md",
       "title": "Healthcare Trails Other Sectors In Developing AI Code of Ethics",
       "excerpt": "We use cookies to personalise content and ads, to provide social media features and to analyse our traffic. We also share information about your use of our site with our social media, advertising and analytics partners.",
@@ -1231,51 +1276,6 @@
           "width": 1240,
           "height": 936,
           "title": "Setting up framework for AI in healthcare",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-01-31-how-artificial-intelligence-is-improving-the-pharma-supply-chain.md",
-      "title": "How Artificial Intelligence Is Improving The Pharma Supply Chain",
-      "excerpt": "When coupled with machine learning and predictive analytics, the AI transformation goes much deeper than smarter search functions.",
-      "heat": 104,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/31/how-artificial-intelligence-is-improving-the-pharma-supply-chain/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/31/how-artificial-intelligence-is-improving-the-pharma-supply-chain/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/31/how-artificial-intelligence-is-improving-the-pharma-supply-chain/amp/",
-      "publishedDateTime": "2020-01-31T05:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/dam/imageserve/807443170/960x0.jpg?fit=scale",
-          "width": 711,
-          "height": 474,
-          "title": "How Artificial Intelligence Is Improving The Pharma Supply Chain",
           "attribution": null
         }
       ],

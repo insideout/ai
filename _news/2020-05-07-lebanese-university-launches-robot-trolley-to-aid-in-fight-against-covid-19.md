@@ -23,6 +23,6 @@ images:
     height: 300
     title: "Lebanese University launches robot trolley to aid in fight against COVID-19"
 
-secured: "x07TR13XWmSK8HHATlLQoiM14ya1weFRqPdwTAWBW58FAfRxyfhW5TvbSzhe5kQyL/ioE3gTDBZuSJxTiyvU9Ph7T3C1MyHrBptMEsaZur14S2wX4ks84lGDTYTbuqL4Z5EJ74tyuMf5QP+0Dxe5Rc4r5qlUEbIoJOIf/jazr6IWqL7YBM13rQfaBb9wn4ic4ymhrcBX6VbZ7BJZeMYt5quJXuyIChy6mvwk2gh2cCa9pqcMEpUbIh9tJtvsz8d2DmaMw/Sxbo3TKcvOyNxqCG6Wgjjjm/JRCd+Y+Gm4/Bf0qslSwjPtw2GxGcMO+Jc/;lQUDYUHlu/NJEGvkp6yYOQ=="
+secured: "1y/S8A/OzTGI0I2YlYsn5CE2A8+XnJ42mjK6XGM21MdFVFlmhNLps2sMbUMuFDUK+X+fhcqyEGRqsZ3JwufqTqTJz8Cjjfq0YPRLU0CHBCRk0pTm0ZVgNmEJdWmF5O1T8z8puvGJZOryX13FOLg1Nv79JPJUUIx8zbKOG8Wspa3Na0UIF5fN/Xlm/7Ilrrtsx9HqQ9PQyNVQvKiDmMNxfRcASNP3sFilfg73w+PM2ESk4a6gww9kiC+ycP6GSi8nk6OfiDCsgqqUteI0+93nCeMC7xOJmev93yArNu5GwzOOk9DyD5NVnD1viOmAcvu+bNES5G+GNJAdaJcZ32QE3+uSRI1PaI8XHa+7QkbrQyO7OrSyJZzNjGb9CHneP/9G6+frk4k8mi9jm+mmzfDKhLs2IosZacpNB0yltAryxnvnvoGt0QJfjRCas1XA+p/+CJZdQcJ5qqu9jAZ52AQtA3373GZivcc+1RI9ADLKV6Y=;3k74AxnWvZPPG7W3/jTieA=="
 ---
 

@@ -2,6 +2,35 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-03-04-is-artificial-intelligence-artificial.md",
+      "title": "Is Artificial Intelligence artificial?",
+      "excerpt": "Pattern recognition, speech recognition, and object recognition are all components of data-based information used to create algorithms, and subsequently used in Artificial Intelligence (AI).",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://wjla.com/news/nation-world/is-artificial-intelligence-artificial",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-03T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WJLA",
+        "domain": "wjla.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-03-computer-vision-joins-the-enterprise-mainstream-but-its-a-hot-potato.md",
       "title": "Computer vision joins the enterprise mainstream, but it’s a hot potato",
       "excerpt": "Computer vision has been a key driver behind the artificial intelligence boom of the past two years. But it has also come with significant controversy. Businesses need to be aware of the potential ...",
@@ -1217,43 +1246,6 @@
           "width": 756,
           "height": 567,
           "title": "Facial recognition could be temporarily banned for law enforcement use",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-02-12-ceo-glaser-invests-10m-in-realnetworks-bullish-on-facial-recognition-software-gaming.md",
-      "title": "CEO Glaser invests $10M in RealNetworks, bullish on facial recognition software, gaming",
-      "excerpt": "RealNetworks Inc. CEO Rob Glaser is so bullish on the company’s facial recognition software and its gaming pipeline that he pledged this week to invest nearly $10 million of his personal funds into the company.",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.bizjournals.com/seattle/news/2020/02/12/glaser-invests-10m-in-realnetworks-bullish-on.html",
-      "ampWebUrl": "https://www.bizjournals.com/seattle/news/2020/02/12/glaser-invests-10m-in-realnetworks-bullish-on.amp.html",
-      "cdnAmpWebUrl": "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/seattle/news/2020/02/12/glaser-invests-10m-in-realnetworks-bullish-on.amp.html",
-      "publishedDateTime": "2020-02-12T10:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Business Journals",
-        "domain": "bizjournals.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.bizj.us/view/img/11480968/rob-glaser-ceo-realnetworks-01*600xx4965-3310-9-0.jpg",
-          "width": 600,
-          "height": 400,
-          "title": "CEO Glaser invests $10M in RealNetworks, bullish on facial recognition software, gaming",
           "attribution": null
         }
       ],

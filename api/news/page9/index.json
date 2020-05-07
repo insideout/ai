@@ -2,6 +2,96 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-04-29-microsoft-reports-350-billion-in-q3-2020-revenue-azure-up-59-surface-up-1-and-linkedin-up-21.md",
+      "title": "Microsoft reports $35.0 billion in Q3 2020 revenue: Azure up 59%, Surface up 1%, and LinkedIn up 21%",
+      "excerpt": "Microsoft today reported fiscal Q3 2020 earnings, including revenue of $35.0 billion, net income of $10.8 billion, and earnings per share of $1.40.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/29/microsoft-earnings-q3-2020/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/29/microsoft-earnings-q3-2020/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/29/microsoft-earnings-q3-2020/amp/",
+      "publishedDateTime": "2020-04-29T14:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2016/11/Microsoft.jpg?fit=2048%2C1025&strip=all",
+          "width": 2048,
+          "height": 1025,
+          "title": "Microsoft reports $35.0 billion in Q3 2020 revenue: Azure up 59%, Surface up 1%, and LinkedIn up 21%",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-29-would-you-give-up-some-security-if-face-unlock-worked-with-a-face-mask-on.md",
+      "title": "Would you give up some security if face unlock worked with a face mask on?",
+      "excerpt": "It’s the end of April 2020, and we’re all doing our best to adjust to the new normal of social distancing and wearing face masks wherever we go. Companies around the world are pivoting their business models to create face masks for those who need them.",
+      "heat": 72,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.androidauthority.com/smartphone-face-unlock-face-id-masks-coronavirus-1113161/",
+      "ampWebUrl": "https://www.androidauthority.com/smartphone-face-unlock-face-id-masks-coronavirus-1113161/amp/",
+      "cdnAmpWebUrl": "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/smartphone-face-unlock-face-id-masks-coronavirus-1113161/amp/",
+      "publishedDateTime": "2020-04-29T13:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android Authority",
+        "domain": "androidauthority.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn57.androidauthority.net/wp-content/uploads/2020/03/Woman-wearing-facemask-1-920x470.jpg",
+          "width": 920,
+          "height": 470,
+          "title": "Would you give up some security if face unlock worked with a face mask on?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-29-googles-ai-attempts-to-predict-how-yeast-cell-genes-will-express-themselves.md",
       "title": "Google’s AI attempts to predict how yeast cell genes will express themselves",
       "excerpt": "Google’s work in AI and gene expression follows the publication of a study describing a “massively parallel reporter assay” (MPRA),” a framework designed to investigate DNA. The researchers claimed it could be used to create AI models that predict gene regulation for industrial and life science applications. An older work proposes a ...",
@@ -805,6 +895,35 @@
       ]
     },
     {
+      "path": "_news/2020-04-29-saykara-ai-voice-assistant-eases-transition-to-virtual-healthcare.md",
+      "title": "Saykara AI Voice Assistant Eases Transition to Virtual Healthcare",
+      "excerpt": "Saykara, creator of the first ambient AI voice assistant for medical exam room conversations, today announced it has added a telehealth on-ramp to make",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/saykara-ai-voice-assistant-eases-transition-to-virtual-healthcare/article_0f4573e4-e2a2-54bc-acad-952d7eaf1831.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-29T05:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-29-quest-for-fusion-energy-may-be-advanced-by-artificial-intelligence-and-machine-learning.md",
       "title": "Quest for Fusion Energy May Be Advanced by Artificial Intelligence and Machine Learning",
       "excerpt": "Algorithms are increasingly being deployed to predict disruptions that could potentially occur during fusion experiments and may help turn the long-discussed energy source into reality, experts say.",
@@ -847,43 +966,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-04-29-saykara-ai-voice-assistant-eases-transition-to-virtual-healthcare.md",
-      "title": "Saykara AI Voice Assistant Eases Transition to Virtual Healthcare",
-      "excerpt": "Saykara, creator of the first ambient AI voice assistant for medical exam room conversations, today announced it has added a telehealth",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.prnewswire.com/news-releases/saykara-ai-voice-assistant-eases-transition-to-virtual-healthcare-301049038.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-29T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1098422/Saykara_Logo.jpg?p=facebook",
-          "width": 598,
-          "height": 315,
-          "title": "Saykara AI Voice Assistant Eases Transition to Virtual Healthcare",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     },
     {
@@ -971,98 +1053,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-29-microsoft-this-is-how-to-protect-your-machine-learning-applications.md",
-      "title": "Microsoft: This is how to protect your machine-learning applications",
-      "excerpt": "The models that drive our ML applications are incredibly complex, training neural networks on large data sets. But there's a big problem: they're hard to explain or understand. Why does a model parse a red blob with white text as a stop sign and not a soft drink advert?",
-      "heat": 93,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/microsoft-this-is-how-to-protect-your-machine-learning-applications/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/microsoft-this-is-how-to-protect-your-machine-learning-applications/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-this-is-how-to-protect-your-machine-learning-applications/",
-      "publishedDateTime": "2020-04-29T03:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr2.cbsistatic.com/hub/i/r/2019/08/06/c636a26a-4a72-4e6b-8469-f357a0455fab/thumbnail/1200x675/15ff09e17986a3e2c1c634ad738d0959/20190801-jimhare-karen.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Microsoft: This is how to protect your machine-learning applications",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Google AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-29-yandex-deploys-autonomous-delivery-robots-in-moscows-skolkovo-district.md",
-      "title": "Yandex deploys autonomous delivery robots in Moscow’s Skolkovo district",
-      "excerpt": "Yandex today announced the launch of an autonomous delivery service in Skolkovo, Russia, powered by its Yandex.Rover robots.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/29/yandex-deploys-autonomous-delivery-robots-in-moscows-skolkovo-district/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/29/yandex-deploys-autonomous-delivery-robots-in-moscows-skolkovo-district/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/29/yandex-deploys-autonomous-delivery-robots-in-moscows-skolkovo-district/amp/",
-      "publishedDateTime": "2020-04-29T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/11/yandex_drone-e1588089973460.png?fit=750%2C375&strip=all",
-          "width": 750,
-          "height": 375,
-          "title": "Yandex deploys autonomous delivery robots in Moscow’s Skolkovo district",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

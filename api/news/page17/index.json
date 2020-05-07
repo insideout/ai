@@ -2,6 +2,95 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2020-04-22-googles-ai-teaches-robots-to-grasp-occluded-objects-and-adapt-to-new-situations.md",
+      "title": "Google’s AI teaches robots to grasp occluded objects and adapt to new situations",
+      "excerpt": "In a pair of papers published on the preprint server Arxiv.org this week, Google and University of California, Berkely researchers describe new AI and machine learning techniques that enable robots to adapt to never-before-seen tasks and grasp occluded objects. The first study details X-Ray, an algorithm that when deployed on a robot can search ...",
+      "heat": 82,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/22/googles-ai-teaches-robots-to-grasp-occluded-objects-and-adapt-to-new-situations/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/22/googles-ai-teaches-robots-to-grasp-occluded-objects-and-adapt-to-new-situations/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/22/googles-ai-teaches-robots-to-grasp-occluded-objects-and-adapt-to-new-situations/amp/",
+      "publishedDateTime": "2020-04-22T08:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/10/google-ai-logo.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Google’s AI teaches robots to grasp occluded objects and adapt to new situations",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-22-conversational-systems-market-growing-at-a-cagr-308-key-player-google-microsoft-aws-ibm-oracle.md",
+      "title": "Conversational Systems Market Growing at a CAGR 30.8% | Key Player Google, Microsoft, AWS, IBM, Oracle",
+      "excerpt": "MarketsandMarkets forecasts the global Conversational Systems Market size to grow from USD 4.6 billion in 2019 to",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/conversational-systems-market-growing-at-a-cagr-308-key-player-google-microsoft-aws-ibm-oracle-2020-04-22",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-22T08:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Conversational Systems Market Growing at a CAGR 30.8% | Key Player Google, Microsoft, AWS, IBM, Oracle",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-22-intel-is-using-ai-to-gather-real-time-data-on-coral-reef-health.md",
       "title": "Intel is using AI to gather real-time data on coral reef health",
       "excerpt": "Project CORaiL monitors prosthetic reefs with AI-powered video cameras. There’s no question that coral reefs are rapidly deteriorating due to overfishing, bottom trawling, warming temperatures and unsustainable coastal development. In order to help protect and restore reefs, scientists need more data, and Intel thinks it might have a solution.",
@@ -469,6 +558,34 @@
       ]
     },
     {
+      "path": "_news/2020-04-22-using-artificial-intelligence-to-save-coral-reefs.md",
+      "title": "Using artificial intelligence to save coral reefs",
+      "excerpt": "\"Artificial intelligence provides unprecedented opportunities to solve some of society's most vexing problems,\" said Jason Mitchell, a managing director in Accenture's Communications, Media ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://phys.org/news/2020-04-artificial-intelligence-coral-reefs.html",
+      "ampWebUrl": "https://phys.org/news/2020-04-artificial-intelligence-coral-reefs.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-04-artificial-intelligence-coral-reefs.amp",
+      "publishedDateTime": "2020-04-22T05:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-22-consumer-lending-companies-riding-on-machine-learning-platforms-to-manage-risks.md",
       "title": "Consumer Lending Companies Riding On Machine Learning Platforms To Manage Risks",
       "excerpt": "The increased incidents of payment defaults, along with an alarming credit risk rate have prompted many of these firms to build risk mitigation models using machine learning (ML), so as to reduce the risk of default in a cost-effective manner, while taking smart, well-informed lending decisions in these complex times. The traditional analytical ...",
@@ -848,35 +965,6 @@
       ]
     },
     {
-      "path": "_news/2020-04-22-using-artificial-intelligence-to-save-coral-reefs.md",
-      "title": "Using Artificial Intelligence to Save Coral Reefs",
-      "excerpt": "What’s New: Today, on Earth Day 2020, Accenture, Intel and the Sulubaaï Environmental Foundation announced Project: CORaiL, an artificial intelligence (AI)-powered solution to monitor ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.ciol.com/using-artificial-intelligence-save-coral-reefs/",
-      "ampWebUrl": "https://www.ciol.com/using-artificial-intelligence-save-coral-reefs/amp/",
-      "cdnAmpWebUrl": "https://www-ciol-com.cdn.ampproject.org/c/s/www.ciol.com/using-artificial-intelligence-save-coral-reefs/amp/",
-      "publishedDateTime": "2020-04-21T23:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CIOL",
-        "domain": "ciol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-04-22-how-artificial-intelligence-iot-and-big-data-can-save-the-bees.md",
       "title": "How Artificial Intelligence, IoT And Big Data Can Save The Bees",
       "excerpt": "Artificial intelligence (AI), internet of things sensors, big data analytics, and other technologies are being used to monitor and develop solutions to mitigate the global issue of declining honey bee and pollinator populations.",
@@ -962,96 +1050,6 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-22-dissident-artist-ai-weiwei-says-virus-has-only-strengthened-chinas-police-state.md",
-      "title": "Dissident artist Ai Weiwei says virus has only strengthened China's 'police state'",
-      "excerpt": "The artist has been critical of China's handling of the outbreak and believes the \"arrogance and success\" of the government's authoritarian tactics will lead it into another crisis.",
-      "heat": 81,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnn.com/style/article/ai-weiwei-coronavirus-pandemic/index.html",
-      "ampWebUrl": "https://www.cnn.com/style/amp/ai-weiwei-coronavirus-pandemic/index.html",
-      "cdnAmpWebUrl": "https://www-cnn-com.cdn.ampproject.org/c/s/www.cnn.com/style/amp/ai-weiwei-coronavirus-pandemic/index.html",
-      "publishedDateTime": "2020-04-21T19:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "http://cdn.cnn.com/cnnnext/dam/assets/200421223427-ai-weiwei-file-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": "Dissident artist Ai Weiwei says virus has only strengthened China's 'police state'",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-21-alibaba-microsoft-cloud-computing-layout-5g-ai-vs-wimi-hologram-cloud-ai-vision-algorithm.md",
-      "title": "Alibaba, Microsoft Cloud Computing Layout 5g + AI V.S. WIMI Hologram Cloud AI Vision Algorithm",
-      "excerpt": "Recently, aridamo hospital announced the establishment of XG laboratory. The laboratory is committed to promoting",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/alibaba-microsoft-cloud-computing-layout-5g-ai-vs-wimi-hologram-cloud-ai-vision-algorithm-2020-04-21",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-21T13:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Alibaba, Microsoft Cloud Computing Layout 5g + AI V.S. WIMI Hologram Cloud AI Vision Algorithm",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI",
         "Microsoft AI"
       ]

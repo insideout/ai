@@ -2,6 +2,87 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2020-04-21-checking-ai-bias-is-a-job-for-the-humans.md",
+      "title": "Checking AI bias is a job for the humans",
+      "excerpt": "One of the primary problems with artificial intelligence (AI) is the “artificial” part. The other is the “intelligence.” While we like to pretend that we’re setting robotic intelligences free from our human biases and other shortcomings, in reality we often transfer our failings into the AI, one dataset at a time. Hannah Davis ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.infoworld.com/article/3537968/checking-ai-bias-is-a-job-for-the-humans.html",
+      "ampWebUrl": "https://www.infoworld.com/article/3537968/checking-ai-bias-is-a-job-for-the-humans.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3537968/checking-ai-bias-is-a-job-for-the-humans.amp.html",
+      "publishedDateTime": "2020-04-21T03:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2018/02/artificial_intelligence_ai_virtual_assistant_automation_thinkstock_643956998-100749919-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Checking AI bias is a job for the humans",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-21-ibm-fenergo-join-forces-to-fight-financial-crime.md",
+      "title": "IBM & Fenergo Join Forces to Fight Financial Crime",
+      "excerpt": "Fenergo, the leading provider of digital transformation, customer journey and client lifecycle management (CLM) solutions for",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.prnewswire.com/news-releases/ibm--fenergo-join-forces-to-fight-financial-crime-301043856.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-21T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg",
+          "width": 600,
+          "height": 315,
+          "title": "IBM & Fenergo Join Forces to Fight Financial Crime",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-21-ai-in-pharmaceutical-market-2020-industry-analysis-segment-forecast-up-to-2026.md",
       "title": "AI in Pharmaceutical Market 2020 Industry Analysis, Segment & Forecast Up to 2026",
       "excerpt": "Global AI in Pharmaceutical Industry New Study On “AI in Pharmaceutical Market 2020 Global Market Opportunities,",
@@ -960,87 +1041,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-20-facebook-partners-up-with-researchers-to-fight-covid-19-using-ai.md",
-      "title": "Facebook Partners Up With Researchers To Fight COVID -19 Using AI",
-      "excerpt": "To that end, Facebook AI has partnered up with academic researchers and other experts on a slew of ... Facebook has also partnered up with the Mila research institute in Montreal to share predictive, causal, and decision algorithms to effectively analyze clinical data. Facebook says it’s important for public health experts to understand ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://in.mashable.com/tech/13299/facebook-partners-up-with-researchers-to-fight-covid-19-using-ai",
-      "ampWebUrl": "https://in.mashable.com/tech/13299/facebook-partners-up-with-researchers-to-fight-covid-19-using-ai?amp=1",
-      "cdnAmpWebUrl": "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/13299/facebook-partners-up-with-researchers-to-fight-covid-19-using-ai?amp=1",
-      "publishedDateTime": "2020-04-20T06:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://sm.mashable.com/t/mashable_in/news/t/the-corona/the-coronavirus-is-proving-to-be-big-business-for-facebook-n_n947.620.jpg",
-          "width": 620,
-          "height": 397,
-          "title": "Facebook Partners Up With Researchers To Fight COVID -19 Using AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-20-how-utilities-are-using-ai-to-adapt-to-electricity-demands.md",
-      "title": "How utilities are using AI to adapt to electricity demands",
-      "excerpt": "Some utilities are employing AI and machine learning to address the windfalls and fluctuations in energy usage resulting from COVID-19. Precise load forecasting could ensure that operations aren’t interrupted in the coming months, thereby preventing blackouts and brownouts. And they might also bolster the efficiency of utilities’ internal ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/20/utilities-energy-usage-covid-19-ai-machine-learning/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/20/utilities-energy-usage-covid-19-ai-machine-learning/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/20/utilities-energy-usage-covid-19-ai-machine-learning/amp/",
-      "publishedDateTime": "2020-04-20T06:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/6cd663ee-b571-428e-8665-0dadb7cbc371-e1587321011520.png?fit=1202%2C598&strip=all",
-          "width": 1202,
-          "height": 598,
-          "title": "How utilities are using AI to adapt to electricity demands",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

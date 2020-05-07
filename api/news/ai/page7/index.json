@@ -2,6 +2,96 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-04-30-ai-in-africa-training-bots-to-talk-to-my-mum.md",
+      "title": "AI in Africa: Training bots to talk to my mum",
+      "excerpt": "How African researchers are using the continent's languages to help spur innovation in Artificial Intelligence.",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.bbc.com/news/world-africa-52411797?intlink_from_url=&link_location=live-reporting-story",
+      "ampWebUrl": "https://www.bbc.com/news/amp/world-africa-52411797",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-africa-52411797",
+      "publishedDateTime": "2020-04-30T03:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/FD69/production/_112037846_img_20180827_082945_171.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": "AI in Africa: Training bots to talk to my mum",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-04-30-artificial-intelligence-cant-technically-invent-things-says-patent-office.md",
+      "title": "Artificial Intelligence can't technically invent things, says patent office",
+      "excerpt": "Artificial intelligence is the future. If \"Westworld\" or \"Black Mirror\" are to be believed, there will soon come a day when the computers rule us all. But for now, an AI's power ends at the US Patent Office.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnn.com/2020/04/30/us/artificial-intelligence-inventing-patent-office-trnd/index.html",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/04/30/us/artificial-intelligence-inventing-patent-office-trnd/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/04/30/us/artificial-intelligence-inventing-patent-office-trnd/index.html",
+      "publishedDateTime": "2020-04-30T01:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/181211153659-artificial-intelligence-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": "Artificial Intelligence can't technically invent things, says patent office",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-30-5-artificial-intelligence-stocks-to-consider.md",
       "title": "5 Artificial Intelligence Stocks to Consider",
       "excerpt": "[Editor’s note: “5 Artificial Intelligence Stocks to Consider ... Google is a top player in autonomous vehicles. The company’s Waymo unit could be worth as much as $175 billion, according ...",
@@ -1196,96 +1286,6 @@
         "Computer Vision",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-04-29-determined-ai-makes-its-machine-learning-infrastructure-free-and-open-source.md",
-      "title": "Determined AI makes its machine learning infrastructure free and open source",
-      "excerpt": "Machine learning has quickly gone from niche field to crucial component of innumerable software stacks, but that doesn’t mean it’s easy. The tools needed to create and manage it are enterprise-grade and often enterprise-only — but Determined AI aims to make them more accessible than",
-      "heat": 101,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/04/29/determined-ai-makes-its-machine-learning-infrastructure-free-and-open-source/",
-      "ampWebUrl": "https://techcrunch.com/2020/04/29/determined-ai-makes-its-machine-learning-infrastructure-free-and-open-source/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/29/determined-ai-makes-its-machine-learning-infrastructure-free-and-open-source/amp/",
-      "publishedDateTime": "2020-04-29T08:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/06/GettyImages-1031459542.jpg?w=1024",
-          "width": 1024,
-          "height": 660,
-          "title": "Determined AI makes its machine learning infrastructure free and open source",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-04-29-facebook-releases-its-blender-chatbot-as-an-open-source-project.md",
-      "title": "Facebook releases its 'Blender' chatbot as an open-source project",
-      "excerpt": "Facebook has spent years training its Blender chatbot on 9.4 billion conversational parameters. Now the company is releasing it as an open-source project.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.engadget.com/facebook-chatbot-ai-open-source-blender-150001320.html",
-      "ampWebUrl": "https://www.engadget.com/amp/facebook-chatbot-ai-open-source-blender-150001320.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/facebook-chatbot-ai-open-source-blender-150001320.html",
-      "publishedDateTime": "2020-04-29T08:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-04%2Fec52bd10-8991-11ea-bfbf-a5d10e9a9f52&client=amp-blogside-v2&signature=1b5c7c9ee001fd626753b341ba8ee569497eef1c",
-          "width": 600,
-          "height": 350,
-          "title": "Facebook releases its 'Blender' chatbot as an open-source project",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],

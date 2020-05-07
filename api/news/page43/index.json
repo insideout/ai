@@ -2,6 +2,80 @@
   "page": 43,
   "value": [
     {
+      "path": "_news/2020-04-01-viewray-and-viecure-announce-strategic-collaboration-to-accelerate-adoption-of-personalized-cancer-care.md",
+      "title": "ViewRay and VieCure Announce Strategic Collaboration to Accelerate Adoption of Personalized Cancer Care",
+      "excerpt": "PRNewswire/ -- (Nasdaq: VRAY) announced today a strategic collaboration with VieCure, an artificial intelligence (AI) informatics company with a leading point-of-care clinical decision support",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/viewray-and-viecure-announce-strategic-collaboration-to-accelerate-adoption-of-personalized-cancer-care/article_f9a5bfb7-0282-532b-ae64-06fe7b4ce58b.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-01T03:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-01-energy-saving-ai-is-coming-for-your-office-thermostat.md",
+      "title": "Energy-Saving AI Is Coming for Your Office Thermostat",
+      "excerpt": "If the workers got too hot or too cold, they could tap an app to say so. The AI would adapt, creating microclimates to reflect their feedback. But in time, Spanos expected, the workers wouldn't bother. His goal is to make the system forgettable. Lights will turn on as workers come and go; screens will flicker to life as they settle at their desks.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wired.com/story/energy-saving-ai-controls-lights-office-thermostat/",
+      "ampWebUrl": "https://www.wired.com/story/energy-saving-ai-controls-lights-office-thermostat/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/energy-saving-ai-controls-lights-office-thermostat/amp",
+      "publishedDateTime": "2020-04-01T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.vanityfair.com/photos/576c493744d93e6e4482bb21/master/pass/placeholder_the_scene.jpg",
+          "width": 800,
+          "height": 450,
+          "title": "Energy-Saving AI Is Coming for Your Office Thermostat",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-01-enterprise-artificial-intelligence-along-with-telehealth-and-teleconferences-can-help-in-fighting-covid-19.md",
       "title": "Enterprise Artificial Intelligence Along With Telehealth And Teleconferences Can Help In Fighting COVID-19",
       "excerpt": "In the fight against COVID-19, enterprise artificial intelligence (AI) is not getting the same attention as teleconferencing and telehealth technologies. A massive shift to working from home to avoid spreading the virus means virtual collaboration companies like Zoom Video Communications are in the headlines. The same dynamic is playing out in ...",
@@ -977,95 +1051,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-31-this-startup-is-using-ai-to-trace-covid-19-patient-contacts-at-risk.md",
-      "title": "This Startup Is Using AI To Trace COVID-19 Patient Contacts At Risk",
-      "excerpt": "Veronica Yurchuk and Kostyantyn Shysh founded Traces.ai in Sunnyvale, California last year, when San Francisco and two other cities banned the use of facial recognition in video and still image analysis.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/amyguttman/2020/03/31/this-startup-is-using-ai-to-trace-covid-19-patient-contacts-at-risk/",
-      "ampWebUrl": "https://www.forbes.com/sites/amyguttman/2020/03/31/this-startup-is-using-ai-to-trace-covid-19-patient-contacts-at-risk/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/amyguttman/2020/03/31/this-startup-is-using-ai-to-trace-covid-19-patient-contacts-at-risk/amp/",
-      "publishedDateTime": "2020-03-31T12:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e839229a1a0ef0007d8b695%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2044%26cropY1%3D356%26cropY2%3D1506",
-          "width": 1199,
-          "height": 675,
-          "title": "This Startup Is Using AI To Trace COVID-19 Patient Contacts At Risk",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-31-self-driving-car-market-share-size-and-forecast-report-by-2023.md",
-      "title": "Self-driving Car Market Share, Size and Forecast Report By 2023",
-      "excerpt": "The report on SELF-DRIVING CAR MARKET offers a detailed analysis of the SELF-DRIVING CAR MARKET size, growth, segments, key players, growth drivers as well as the challenges faced by the industry ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/self-driving-car-market-share-size-and-forecast-report-by-2023-2020-03-31?mod=mw_quote_news",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-31T10:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Self-driving Car Market Share, Size and Forecast Report By 2023",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

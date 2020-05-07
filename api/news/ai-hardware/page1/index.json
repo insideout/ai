@@ -2,6 +2,51 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-05-07-artificial-intelligence-ai-in-supply-chain-market-sharerevenue-demand-and-forecast-to-2023.md",
+      "title": "Artificial Intelligence (AI) in Supply Chain Market Share,Revenue, Demand and Forecast to 2023",
+      "excerpt": "Artificial Intelligence in Supply Chain Market, By Component (Software, Network, Hardware, FPGA, GPU, ASIC), by",
+      "heat": 72,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-supply-chain-market-sharerevenue-demand-and-forecast-to-2023-2020-05-07",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-06T22:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial Intelligence (AI) in Supply Chain Market Share,Revenue, Demand and Forecast to 2023",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-06-chinese-chip-maker-smics-us3-billion-shanghai-listing-is-a-hedge-to-reduce-companys-reliance-on-us-technology.md",
       "title": "Chinese chip maker SMIC’s US$3 billion Shanghai listing is a hedge to reduce company’s reliance on US technology",
       "excerpt": "SMIC, which announced its plan to delist from New York last year, is one of several chip companies that embody Beijing’s hope of creating a self-reliant and world-class semiconductor industry.",
@@ -1260,43 +1305,6 @@
         "AI Hardware",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-04-20-using-ai-to-build-better-chips.md",
-      "title": "Using AI To Build Better Chips",
-      "excerpt": "With so many startups and large semiconductor firms racing to get new AI chips to market, electronic tool and design service firms like Synopsis, Cadence and Mentor Graphics are looking for new approaches to help designers speed their time to market. Ironically, one of the approaches being taken is to use AI to help build better AI chips.",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2020/04/20/using-ai-to-build-better-chips/",
-      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2020/04/20/using-ai-to-build-better-chips/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2020/04/20/using-ai-to-build-better-chips/amp/",
-      "publishedDateTime": "2020-04-20T10:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,88 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2020-04-17-clearview-ai-exposes-source-code-to-controversial-facial-recognition-app-and-company-credentials.md",
+      "title": "Clearview AI exposes source code to controversial facial recognition app and company credentials",
+      "excerpt": "A researcher found that a misconfiguration allowed anyone to register as a new user and access the database containing Clearview's code regardless of whether they had entered password.",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-8231025/Clearview-AI-exposes-source-code-controversial-facial-recognition-app-company-credentials.html",
+      "ampWebUrl": "https://www.dailymail.co.uk/sciencetech/article-8231025/amp/Clearview-AI-exposes-source-code-controversial-facial-recognition-app-company-credentials.html",
+      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-8231025/amp/Clearview-AI-exposes-source-code-controversial-facial-recognition-app-company-credentials.html",
+      "publishedDateTime": "2020-04-17T12:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mail Online",
+        "domain": "dailymail.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.dailymail.co.uk/1s/2020/04/17/19/25231518-0-image-a-2_1587149037389.jpg",
+          "width": 636,
+          "height": 382,
+          "title": "Clearview AI exposes source code to controversial facial recognition app and company credentials",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-17-using-amazon-textract-with-amazon-augmented-ai-for-processing-critical-documents.md",
+      "title": "Using Amazon Textract with Amazon Augmented AI for processing critical documents",
+      "excerpt": "Documents are a primary tool for record keeping, communication, collaboration, and transactions across many industries, including financial, medical, legal, and real estate. For example, millions of mortgage applications and hundreds of millions of tax forms are processed each year. Documents are often",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/using-amazon-textract-with-amazon-augmented-ai-for-processing-critical-documents/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-17T12:20:50-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0.png",
+          "width": 1260,
+          "height": 630,
+          "title": "Using Amazon Textract with Amazon Augmented AI for processing critical documents",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-17-tensorflow-lite-gets-machine-learning-model-maker.md",
       "title": "TensorFlow Lite gets machine learning model maker",
       "excerpt": "Google has announced the TensorFlow Lite Model Maker. TensorFlow Lite is an open-source deep learning framework for on-device inference. The new tool is designed to adapt machine learning models to datasets with transfer learning. “It wraps the complex machine learning concepts with an intuitive API, so that everyone can get started without ...",
@@ -1199,96 +1281,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-17-chinas-ponyai-rolls-out-us-self-driving-delivery-service-for-groceries-amid-coronavirus-lockdown.md",
-      "title": "China’s Pony.ai rolls out US self-driving delivery service for groceries amid coronavirus lockdown",
-      "excerpt": "Chinese autonomous vehicle start-up Pony.ai has launched a self-driving delivery service in Irvine, California, to help fulfil increasing online grocery orders during the coronavirus lockdown. The service, launched in partnership with Los Angeles-based e-commerce platform Yamibuy, enables residents in the area to receive their purchases of ...",
-      "heat": 75,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.scmp.com/tech/start-ups/article/3080371/chinas-ponyai-rolls-out-us-self-driving-delivery-service-groceries",
-      "ampWebUrl": "https://amp.scmp.com/tech/start-ups/article/3080371/chinas-ponyai-rolls-out-us-self-driving-delivery-service-groceries",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/start-ups/article/3080371/chinas-ponyai-rolls-out-us-self-driving-delivery-service-groceries",
-      "publishedDateTime": "2020-04-16T22:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/04/17/fb5b3e40-805e-11ea-8736-98edddd9b5ca_image_hires_131136.jpg?itok=PuWGeKE8&v=1587100306",
-          "width": 1200,
-          "height": 630,
-          "title": "China’s Pony.ai rolls out US self-driving delivery service for groceries amid coronavirus lockdown",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-17-facebook-to-warn-users-who-liked-or-shared-coronavirus-hoaxes.md",
-      "title": "Facebook to warn users who 'liked' or ‘shared’ coronavirus hoaxes",
-      "excerpt": "Facebook says those warning labels have stopped 95 per cent of users from clicking ... Sign up now and get a 10% discount (original price US$400) off the China AI Report 2020 by SCMP Research. Learn about the AI ambitions of Alibaba, Baidu & JD.com through our in-depth case studies, and explore new applications of AI across industries.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.scmp.com/tech/big-tech/article/3080340/facebook-warn-users-who-liked-or-shared-coronavirus-hoaxes",
-      "ampWebUrl": "https://amp.scmp.com/tech/big-tech/article/3080340/facebook-warn-users-who-liked-or-shared-coronavirus-hoaxes",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3080340/facebook-warn-users-who-liked-or-shared-coronavirus-hoaxes",
-      "publishedDateTime": "2020-04-16T20:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/04/17/fdd4e9b2-8056-11ea-8736-98edddd9b5ca_image_hires_110115.JPG?itok=Bpt6gBog&v=1587092481",
-          "width": 1200,
-          "height": 630,
-          "title": "Facebook to warn users who 'liked' or ‘shared’ coronavirus hoaxes",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

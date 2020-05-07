@@ -2,6 +2,96 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2020-04-25-aws-unveils-open-source-model-server-for-pytorch.md",
+      "title": "AWS unveils open source model server for PyTorch",
+      "excerpt": "Model versioning for A/B testing. Metrics for monitoring. RESTful endpoints for application integration. Any deployment environment can be supported by TorchServe, including Kubernetes, Amazon SageMaker, Amazon EKS, and Amazon EC2. TorchServe requires Java 11 on Ubuntu Linux or MacOS. Detailed installation instructions can be found on GitHub.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.infoworld.com/article/3540415/aws-unveils-open-source-model-server-for-pytorch.html",
+      "ampWebUrl": "https://www.infoworld.com/article/3540415/aws-unveils-open-source-model-server-for-pytorch.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3540415/aws-unveils-open-source-model-server-for-pytorch.amp.html",
+      "publishedDateTime": "2020-04-24T17:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2019/07/automation_iot_machine-learning_process_ai_artificial-intelligence-by-zapp2photo-getty-100802298-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "AWS unveils open source model server for PyTorch",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-24-artificial-intelligence-ai-in-fintech-2020-professional-in-depth-analysis-and-forecast-to-2026.md",
+      "title": "Artificial Intelligence (AI) In Fintech 2020 Professional In-Depth Analysis and Forecast to 2026",
+      "excerpt": "A new research study has been presented by Market Research Intellect offering a comprehensive analysis on the Global",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-2020-professional-in-depth-analysis-and-forecast-to-2026-2020-04-24",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-24T16:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial Intelligence (AI) In Fintech 2020 Professional In-Depth Analysis and Forecast to 2026",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2020-04-24-scaling-your-ai-powered-battlesnake-with-distributed-reinforcement-learning-in-amazon-sagemaker.md",
       "title": "Scaling your AI-powered Battlesnake with distributed reinforcement learning in Amazon SageMaker",
       "excerpt": "Battlesnake is an AI competition in which you build AI-powered snakes. Battlesnake’s rules are similar to the traditional snakes game. Your goal is to be the last surviving snake when competing against other snakes. Developers of all levels build snakes using techniques ranging from unique heuristic-based",
@@ -975,88 +1065,6 @@
         "TensorFlow",
         "Google AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-23-metaphors-on-artificial-intelligence-help-us-think-through-threats-to-human-rights.md",
-      "title": "Metaphors on artificial intelligence help us think through threats to human rights",
-      "excerpt": "Artificial intelligence (AI) is now receiving unprecedented global attention as it finds widespread practical application in multiple spheres of activity. But what are the human rights, social justice and development implications of AI when used in areas such as health,",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.apc.org/en/news/metaphors-artificial-intelligence-help-us-think-through-threats-human-rights",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-23T15:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "APC",
-        "domain": "apc.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.apc.org/sites/default/files/styles/node_full-size/public/design-02_0.png?itok=o_Gd7eoi",
-          "width": 705,
-          "height": 393,
-          "title": "Metaphors on artificial intelligence help us think through threats to human rights",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-23-minecraft-machine-learning-and-bots-enter-an-ai-wonderland-with-these-stayathome-workshops.md",
-      "title": "Minecraft, machine learning and bots: enter an AI wonderland with these #stayathome workshops",
-      "excerpt": "The post Minecraft, machine learning and bots: enter an AI wonderland with these #stayathome workshops appeared first on The AI Blog.\n",
-      "heat": 78,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://news.microsoft.com/europe/features/minecraft-machine-learning-and-bots-enter-an-ai-wonderland-with-these-stayathome-workshops/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-23T14:59:53-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/93/2020/04/Win18b_Consumer_Creativity_Asus_Vivobook_Flip_T203_0194-1024x682.jpg",
-          "width": 1024,
-          "height": 682,
-          "title": "Minecraft, machine learning and bots: enter an AI wonderland with these #stayathome workshops",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

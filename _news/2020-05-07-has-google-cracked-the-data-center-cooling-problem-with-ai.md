@@ -25,6 +25,6 @@ images:
     height: 300
     title: "Has Google cracked the data center cooling problem with AI?"
 
-secured: "02Yp8jL2ySuki6u9reI+345A14QfZyu+AJk751lU3he1FUQHOQZWszOW+0p8baAmegX1WGd8GoAfKQxP+1hLrXG+bmUFsScEjnUpaR/cwUwrV1hBuu5BqxIq8XKSF2XxoiBMgzPEqYuH/clhYKuZ5n3X/yd7NnrBs1J870GvGfRKr0rTmcKGs84lWc9xLyvTkw5g0AsugjB5KqpZsgMJWdq2ELAiwl9pNIunML8RYl0yWSi9BY5RepB0gmtOJtPP/a7i8t4KbGCL9dY79ClAyz+M/w0dsSuwCNBVPrXFQBArjp8L5FnzpF9ErlD6FGe8;YkPFa3mk4Z+IDJPMLq2ddw=="
+secured: "mPdlOgEgvuaypVqLDzjFtXdIz6W/BQJjpiY3XabaEonn/LgGg+7/c9qbwpbEWWTc435gWlK4pp2TUGAOKbVXq6p6sLsaTDiAwSP6AEpQ/2gZPUSoUwHbRBXM05Zr2YSfh93CGcyk9MkbVoU4uA8do+4lVUl6XykV/Dua5ZZYS1ZTvPGVNcDETvKIPVwiBk+n9YsUvLi6MT1IvO8BbS15FR0AeyB8BrForZ4KqfscY9BZ0EEJyq6PjDAVQ6aR/TUrmGSe8txd0Wyn1MNdF1B/kpZ8Bu4+BmHWhCKpxOb1a9/D/7ms9sgTlETpyU+NMS+/zdoE2i65c/NfjoP8nkM0/ny29UmU4Z3yGG4wCz2O5YShwryZfVAxhFCAUJMrIwOnyjs+oiYLtdHFndIoWJQiFgdhD8T0R1WYF6vD5mohe3udWj4u2jMjVm16rJwWWLwJ4X82zg0zjnhSMhtsLBk2EYFQwEwoeJ5CuK2E12FiBLM=;bymxnqeI6KXFh9V1/pTucA=="
 ---
 

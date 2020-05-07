@@ -2,6 +2,96 @@
   "page": 108,
   "value": [
     {
+      "path": "_news/2020-02-02-the-human-powered-companies-that-make-ai-work.md",
+      "title": "The Human-Powered Companies That Make AI Work",
+      "excerpt": "The hidden secret of artificial intelligence is that much of it is actually powered by humans. Well, to be specific, the supervised learning algorithms that have gained much of the attention recently are dependent on humans to provide well-labeled training data that can be used to train machine learning algorithms.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/02/02/the-human-powered-companies-that-make-ai-work/",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/02/02/the-human-powered-companies-that-make-ai-work/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/02/02/the-human-powered-companies-that-make-ai-work/amp/",
+      "publishedDateTime": "2020-02-01T22:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e36288cf133f400076b68ca%2F0x0.jpg",
+          "width": 1200,
+          "height": 662,
+          "title": "The Human-Powered Companies That Make AI Work",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-02-02-how-aws-is-making-the-six-nations-2020-the-most-immersive-yet.md",
+      "title": "How AWS is making the Six Nations 2020 the most immersive yet",
+      "excerpt": "AWS tools including Elastic MapReduce and SageMaker are then used to harness machine learning and analytics to get detailed insight into that data, creating analytics that can then be shared in real time for live broadcast to viewers in over 170 countries to enjoy. For example, to power the new Kick Predictor statistics tool, the AWS Machine ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techradar.com/in/news/aws-is-making-the-six-nations-2020-the-most-immersive-yet",
+      "ampWebUrl": "https://www.techradar.com/in/amp/news/aws-is-making-the-six-nations-2020-the-most-immersive-yet",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/aws-is-making-the-six-nations-2020-the-most-immersive-yet",
+      "publishedDateTime": "2020-02-01T16:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/BXJa3tZu4oKtEXuFash5oE-1200-80.jpg",
+          "width": 970,
+          "height": 545,
+          "title": "How AWS is making the Six Nations 2020 the most immersive yet",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-02-01-gems-dubai-american-academy-launches-center-of-excellence-for-robotics-and-ai.md",
       "title": "GEMS Dubai American Academy launches center of excellence for robotics and AI",
       "excerpt": "Dubai American Academy has announced the launch of its new Centre of Excellence for Artificial Intelligence and Robotics. The vision of the Centre of Excellence is to promote educational and research activities in the field of AI and Robotics. GEMS ...",
@@ -955,79 +1045,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-01-31-can-we-keep-facial-recognition-from-enabling-a-surveillance-state.md",
-      "title": "Can we keep facial recognition from enabling a surveillance state?",
-      "excerpt": "Researchers have been pursuing facial recognition technologies since the 1960s but its only been in the last few years that these systems have become so alarmingly capable. Neural networks able to match faces across thousands of features with better than 98 percent accuracy as well as an explosion of available training data sets have fueled the ...",
-      "heat": 179,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.engadget.com/2020/01/31/can-we-keep-facial-recognition-from-enabling-a-surveillance-stat/",
-      "ampWebUrl": "https://www.engadget.com/amp/2020/01/31/can-we-keep-facial-recognition-from-enabling-a-surveillance-stat/",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/31/can-we-keep-facial-recognition-from-enabling-a-surveillance-stat/",
-      "publishedDateTime": "2020-01-31T08:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://img.vidible.tv/prod/2020-01/31/5e33a59c7a51ca78cb66fec7/5e33b0dc093398265b55af20_o_U_v1.png",
-          "width": 1280,
-          "height": 720,
-          "title": "Can we keep facial recognition from enabling a surveillance state?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-01-31-oscar-nominated-live-action-shorts-tragedies-near-tragedies-and-soccer-loving-kids.md",
-      "title": "Oscar-nominated live-action shorts: Tragedies, near-tragedies and soccer-loving kids",
-      "excerpt": "The five live-action short films vying for the 2020 Oscar either dance on the border of tragedy or fall headlong into it ... “I heard the recording of the emergency call on YouTube and it stuck with me for months,” said Girard. “I started to create a back story to every character so I could understand them and find their own particular ...",
-      "heat": 95,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.latimes.com/entertainment-arts/movies/story/2020-01-31/oscar-nominated-live-action-shorts",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-31T07:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Los Angeles Times",
-        "domain": "latimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

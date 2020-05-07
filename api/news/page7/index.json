@@ -2,6 +2,80 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-05-01-megvii-iflytek-appear-in-taobao-creation-festival-wimi-develops-its-ai-face-holographic-cloud-service.md",
+      "title": "MEGVII, Iflytek Appear In Taobao Creation Festival, WIMI Develops Its AI Face Holographic Cloud Service",
+      "excerpt": "Taobao Festival is finally coming! In Hangzhou Boiler factory full of hard core industry wind, there are not only super hi playing methods such as artificial",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/04/ab15929960/megvii-iflytek-appear-in-taobao-creation-festival-wimi-develops-its-ai-face-holographic-cloud-ser",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/15929960",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15929960",
+      "publishedDateTime": "2020-04-30T19:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.ibb.co/DDmnR21/1.png",
+          "width": 554,
+          "height": 267,
+          "title": "MEGVII, Iflytek Appear In Taobao Creation Festival, WIMI Develops Its AI Face Holographic Cloud Service",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-01-a-facial-recognition-company-wants-to-help-with-contact-tracing-a-senator-has-questions.md",
+      "title": "A facial recognition company wants to help with contact tracing. A senator has questions.",
+      "excerpt": "That said it's in discussions with federal and state agencies to help with contact tracing of people infected with the coronavirus.",
+      "heat": 80,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nbcnews.com/tech/security/facial-recognition-company-wants-help-contact-tracing-senator-has-questions-n1197291",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1197291",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1197291",
+      "publishedDateTime": "2020-04-30T18:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media3.s-nbcnews.com/i/newscms/2020_18/3327421/200428-ONE-TIME-USE-hoan-ton-that-clearview-ai-cs-841a_e6b4c42a3fac6df661c90396ffe47bb8.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": "A facial recognition company wants to help with contact tracing. A senator has questions.",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-30-ai-for-national-security-and-the-challenge-of-china.md",
       "title": "AI For National Security And The Challenge Of China",
       "excerpt": "The US and China are strategic competitors in many arenas, but none is more critical in shaping the future of the world than the competition for dominance in artificial intelligence. AI will likely determine which country wins in the economic realm and,",
@@ -584,9 +658,9 @@
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.psychologytoday.com/intl/blog/illusions-delusions-and-reality/202004/face-recognition-behind-mask",
-      "ampWebUrl": "https://www.psychologytoday.com/intl/blog/illusions-delusions-and-reality/202004/face-recognition-behind-mask?amp",
-      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/illusions-delusions-and-reality/202004/face-recognition-behind-mask?amp",
+      "webUrl": "https://www.psychologytoday.com/us/blog/illusions-delusions-and-reality/202004/face-recognition-behind-mask",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-04-30T08:55:00-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -602,7 +676,7 @@
         "news"
       ],
       "topics": [
-        "Natural Language Processing",
+        "Computer Vision",
         "AI"
       ]
     },
@@ -988,95 +1062,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-30-duolingos-ai-drives-its-english-proficiency-tests.md",
-      "title": "Duolingo’s AI drives its English proficiency tests",
-      "excerpt": "Duolingo tapped AI and machine learning to create a cheaper, faster English proficiency test that the company claims is on par with proctored exams.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/30/duolingos-english-test-ai-serve-and-score-questions/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/30/duolingos-english-test-ai-serve-and-score-questions/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/30/duolingos-english-test-ai-serve-and-score-questions/amp/",
-      "publishedDateTime": "2020-04-30T06:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2015/06/duolingo_logo.png?fit=1000%2C600&strip=all",
-          "width": 1000,
-          "height": 600,
-          "title": "Duolingo’s AI drives its English proficiency tests",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-30-microsofts-windows-virtual-desktop-spring-refresh-whats-new-and-next.md",
-      "title": "Microsoft's Windows Virtual Desktop spring refresh: What's new and next",
-      "excerpt": "Microsoft is ready to roll out its 'spring refresh' of WVD, while working on a grander plan to make WVD more of a full-fledged cloud-managed desktop.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/microsofts-windows-virtual-desktop-spring-refresh-whats-new-and-next/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsofts-windows-virtual-desktop-spring-refresh-whats-new-and-next/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsofts-windows-virtual-desktop-spring-refresh-whats-new-and-next/",
-      "publishedDateTime": "2020-04-30T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/04/30/b77a0f01-6b33-4f90-b06e-94b4e3c3b85f/newwvdfeatures.jpg",
-          "width": 875,
-          "height": 557,
-          "title": "Microsoft's Windows Virtual Desktop spring refresh: What's new and next",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

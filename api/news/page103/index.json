@@ -2,6 +2,96 @@
   "page": 103,
   "value": [
     {
+      "path": "_news/2020-02-06-nuro-self-driving-car-gets-us-dots-blessing.md",
+      "title": "Nuro self-driving car gets US DOT's blessing",
+      "excerpt": "California-based Nuro has made history. Perhaps not the biggest splash, but in one small step for self-driving cars, Nuro's driverless R2 has received the first approved exemption from the US Department of Transportation. The exemption allows Nuro to operate its latest R2 self-driving car on public roads despite it having no human-driver controls.",
+      "heat": 264,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnet.com/roadshow/news/nuro-r2-self-driving-car-delivery-vehicle/",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/nuro-r2-self-driving-car-delivery-vehicle/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/nuro-r2-self-driving-car-delivery-vehicle/",
+      "publishedDateTime": "2020-02-06T14:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cnet1.cbsistatic.com/img/8k-lRQK2Dutoix3kDWRdfo1bBIc=/2020/02/06/26455c98-4cd8-44fa-a8b3-880df866df5c/ogi-nuro.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": "Nuro self-driving car gets US DOT's blessing",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2020-02-06-ai-5g-and-medical-iot-can-help-deliver-the-promise-of-precision-medicine.md",
+      "title": "AI, 5G, and medical IoT can help deliver the promise of precision medicine",
+      "excerpt": "Once that was figured out, doctors quickly brought him back around, and he was fine. But what if, through groundbreaking mixtures of compute, database, and AI technologies, a quick round of analyses on his blood and genome could have revealed his potential for such a reaction before it became a critical issue? What if it were possible to devise ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/02/06/ai-5g-and-medical-iot-can-help-deliver-the-promise-of-precision-medicine/",
+      "ampWebUrl": "https://venturebeat.com/2020/02/06/ai-5g-and-medical-iot-can-help-deliver-the-promise-of-precision-medicine/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/06/ai-5g-and-medical-iot-can-help-deliver-the-promise-of-precision-medicine/amp/",
+      "publishedDateTime": "2020-02-06T13:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/02/GettyImages-1151630032-e1580953445456.jpg?fit=1829%2C917&strip=all",
+          "width": 1829,
+          "height": 917,
+          "title": "AI, 5G, and medical IoT can help deliver the promise of precision medicine",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2020-02-06-new-blood-sampling-robot-performs-as-well-or-better-than-people.md",
       "title": "New blood-sampling robot performs as well or better than people",
       "excerpt": "Next steps include refining the device to improve success rates in patients with difficult veins to access. Data from this study will be used to enhance artificial intelligence in the robot to improve its performance.",
@@ -931,89 +1021,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-06-is-clearview-ais-facial-recognition-legal-we-need-to-figure-it-out-soon.md",
-      "title": "Is Clearview AI’s facial recognition legal? We need to figure it out soon",
-      "excerpt": "“What’s required to properly govern Clearview AI and so much else is a thoroughgoing reexamination of what private and public mean that shifts the key debates in law, ethics, design, and even everyday expectations. In short, it’s long overdue to acknowledge that people can have legitimate privacy interests in publicly shared information.",
-      "heat": 165,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.digitaltrends.com/news/clearview-ai-data-scraping-legal/",
-      "ampWebUrl": "https://www.digitaltrends.com/news/clearview-ai-data-scraping-legal/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/clearview-ai-data-scraping-legal/?amp",
-      "publishedDateTime": "2020-02-06T02:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://icdn3.digitaltrends.com/image/digitaltrends/facial-recognition-composite-1200x630-c-ar1.91.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": "Is Clearview AI’s facial recognition legal? We need to figure it out soon",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-02-06-music-by-numbers-robot-conducts-human-orchestra.md",
-      "title": "Music by numbers? Robot conducts human orchestra",
-      "excerpt": "For Shibuya, a composer from Japan, the role of robots in our everyday lives may well be increasing, but it is up to us to decide how artificial intelligence might add to the human experience, and humans and androids create art together. “This work is a metaphor of the relations between humans and technology. Sometimes the android will get ...",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://nypost.com/2020/02/06/music-by-numbers-robot-conducts-human-orchestra/",
-      "ampWebUrl": "https://nypost.com/2020/02/06/music-by-numbers-robot-conducts-human-orchestra/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/02/06/music-by-numbers-robot-conducts-human-orchestra/amp/",
-      "publishedDateTime": "2020-02-06T01:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thenypost.files.wordpress.com/2020/02/robot-homepage.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": "Music by numbers? Robot conducts human orchestra",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

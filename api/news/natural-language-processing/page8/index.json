@@ -2,53 +2,6 @@
   "page": 8,
   "value": [
     {
-      "path": "_news/2020-01-21-microsoft-makes-performance-speed-optimizations-to-onnx-machine-learning-runtime-available-to-developers.md",
-      "title": "Microsoft makes performance, speed optimizations to ONNX machine-learning runtime available to developers",
-      "excerpt": "Many of the deep learning models from Microsoft's Project Turing-- machine reading comprehension for the semantic search portion of Microsoft Search -- runs on the ONNX runtime, as well.",
-      "heat": 121,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/microsoft-makes-performance-speed-optimizations-to-onnx-machine-learning-runtime-available-to-developers/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-makes-performance-speed-optimizations-to-onnx-machine-learning-runtime-available-to-developers/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-makes-performance-speed-optimizations-to-onnx-machine-learning-runtime-available-to-developers/",
-      "publishedDateTime": "2020-01-21T10:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/01/21/875b8c65-4f5f-486c-8179-9d5bc4aa4d5e/onnxoptimization.jpg",
-          "width": 954,
-          "height": 719,
-          "title": "Microsoft makes performance, speed optimizations to ONNX machine-learning runtime available to developers",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "Natural Language Processing",
-        "Microsoft AI"
-      ]
-    },
-    {
       "path": "_news/2020-01-20-ai-chipset-market-is-expanding-due-to-adoption-of-industrial-automation.md",
       "title": "AI Chipset Market is Expanding Due to Adoption of Industrial Automation",
       "excerpt": "Chipset Market: By Component, [Hardware (Processors, CPU, GPU, ASIC, FPGA, Memory and Network) and Software). By Technology [ (Machine Learning, Natural Language Processing, and Others (Deep Learning and Computer Vision)] – Forecast Till 2023 Artificial Intelligence Chipset Market Research Report- Forecast till 2023 A white box server can be referred to as the computer framework in large data centers.",

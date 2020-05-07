@@ -2,6 +2,96 @@
   "page": 85,
   "value": [
     {
+      "path": "_news/2020-02-24-how-to-enhance-the-customer-experience-using-ai-and-voice-biometrics.md",
+      "title": "How To Enhance The Customer Experience Using AI And Voice Biometrics",
+      "excerpt": "Due to pressures regarding data privacy, companies are often forced to set up stringent security processes that compromise the customer experience.",
+      "heat": 137,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/02/24/how-to-enhance-the-customer-experience-using-ai-and-voice-biometrics/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/02/24/how-to-enhance-the-customer-experience-using-ai-and-voice-biometrics/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2020/02/24/how-to-enhance-the-customer-experience-using-ai-and-voice-biometrics/amp/",
+      "publishedDateTime": "2020-02-24T08:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/dam/imageserve/970156432/960x0.jpg?fit=scale",
+          "width": 711,
+          "height": 474,
+          "title": "How To Enhance The Customer Experience Using AI And Voice Biometrics",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-24-google-ai-chief-dean-sees-evolution-in-mlperf-benchmark-for-machine-learning.md",
+      "title": "Google AI chief Dean sees evolution in MLPerf benchmark for machine learning",
+      "excerpt": "If computer systems are to evolve to handle ever larger machine learning models, a standard way to compare the effectiveness of those systems is essential, according to Google head of AI, Jeff Dean. But that system of measurement itself must evolve over time, he said. \"I think the MLPerf benchmark suite is actually going to be very effective ...",
+      "heat": 118,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/google-ai-chief-dean-sees-evolution-in-mlperf-benchmark-for-ai/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-ai-chief-dean-sees-evolution-in-mlperf-benchmark-for-ai/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-ai-chief-dean-sees-evolution-in-mlperf-benchmark-for-ai/",
+      "publishedDateTime": "2020-02-24T08:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/2020/02/24/47c5d178-a38a-4ccc-8b13-5f32e97779b7/mlperf-benchmarks-for-various-networks.png",
+          "width": 2048,
+          "height": 1261,
+          "title": "Google AI chief Dean sees evolution in MLPerf benchmark for machine learning",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2020-02-24-googles-ai-detects-adversarial-attacks-against-image-classifiers.md",
       "title": "Google’s AI detects adversarial attacks against image classifiers",
       "excerpt": "Defenses against adversarial attacks, which in the context of AI refer to techniques that fool models through malicious input, are increasingly being broken by “defense-aware” attacks. In fact, most state-of-the-art methods claiming to detect adversarial attacks have been counteracted shortly after their publication. To break the cycle ...",
@@ -945,96 +1035,6 @@
           "width": 1120,
           "height": 630,
           "title": "HBO, HBO Max Are Heading To YouTube TV",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-22-why-ai-companies-dont-always-scale-like-traditional-software-startups.md",
-      "title": "Why AI companies don’t always scale like traditional software startups",
-      "excerpt": "At a technical level, artificial intelligence seems to be the future of software. AI is showing remarkable progress on a range of difficult computer science problems, and the job of software developers – who now work with data as much as source code – is changing fundamentally in the process. Many AI companies (and investors) are betting ...",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/02/22/why-ai-companies-dont-always-scale-like-traditional-software-startups/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-22T08:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/02/scaling.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 1067,
-          "title": "Why AI companies don’t always scale like traditional software startups",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-22-artificial-intelligence-set-to-jazz-up-software-development-and-deployment.md",
-      "title": "Artificial intelligence set to jazz up software development and deployment",
-      "excerpt": "Artificial intelligence and machine learning has the potential to boost many, many areas of the enterprise. As explored in my recent post, it is capable of accelerating and adding intelligence to supply chain management, human resources, sales, marketing and finance. Oh, and one more area, by the way -- IT management. The inevitable impact of ...",
-      "heat": 95,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/how-artificial-intelligence-will-jazz-up-software-development-and-deployment/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/how-artificial-intelligence-will-jazz-up-software-development-and-deployment/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-artificial-intelligence-will-jazz-up-software-development-and-deployment/",
-      "publishedDateTime": "2020-02-22T07:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2020/01/31/feb50686-cae2-407b-a9cc-d43f81bfe48b/thumbnail/1200x675/a4bdd67a9d47da93ecd63a666ea9a9a4/phone-mask.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Artificial intelligence set to jazz up software development and deployment",
           "attribution": null
         }
       ],

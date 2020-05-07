@@ -2,35 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2020-04-10-baidus-zhang-on-ai-self-driving-cars-streaming-video.md",
-      "title": "Baidu's Zhang on AI, Self-Driving Cars, Streaming (Video)",
-      "excerpt": "© 2020 American City Business Journals. All rights reserved. Use of and/or registration on any portion of this site constitutes acceptance of our User Agreement ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.bizjournals.com/bizjournals/video/6082077878001",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-09T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Business Journals",
-        "domain": "bizjournals.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-04-10-elon-musk-seemingly-used-the-superhuman-false-narrative-in-advancing-teslas-self-driving-car-ambitions.md",
       "title": "Elon Musk Seemingly Used The Superhuman ‘False Narrative’ In Advancing Tesla’s Self-Driving Car Ambitions",
       "excerpt": "Elon Musk sent a tweet this week referring to Tesla's self-driving tech as potentially being ... [+] \"superhuman\" which raises interesting questions about AI. Well, Elon Musk has suggested that Tesla cars outfitted with self-driving tech “can definitely be superhuman” (in his tweet on April 7, 2020), which invokes the superhuman moniker and ...",
@@ -1232,6 +1203,43 @@
           "width": 1920,
           "height": 1080,
           "title": "Top Artificial Intelligence Funding and Investments in March 2020",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-02-ford-plans-1-billion-artificial-intelligence-investment-to-assist-its-self-driving-car-plans.md",
+      "title": "Ford Plans $1 Billion Artificial Intelligence Investment to Assist Its Self-Driving Car Plans",
+      "excerpt": "Policy & regulation are aligning with renewables cost declines to make projects more profitable and portfolios more sustainable. Batteries are helping to optimize the power grid and opening up new ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.greentechmedia.com/articles/read/ford-plans-1-billion-artificial-intelligence-investment-to-assist-its-self",
+      "ampWebUrl": "https://www.greentechmedia.com/amp/article/ford-plans-1-billion-artificial-intelligence-investment-to-assist-its-self",
+      "cdnAmpWebUrl": "https://www-greentechmedia-com.cdn.ampproject.org/c/s/www.greentechmedia.com/amp/article/ford-plans-1-billion-artificial-intelligence-investment-to-assist-its-self",
+      "publishedDateTime": "2020-04-02T11:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Greentech Media",
+        "domain": "greentechmedia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://assets.greentechmedia.com/assets/content/cache/made/assets/content/cache/remote/https_assets.greentechmedia.com/content/images/articles/XL_Editors-news-feed_New_410_282_c1.png",
+          "width": 410,
+          "height": 282,
+          "title": "Ford Plans $1 Billion Artificial Intelligence Investment to Assist Its Self-Driving Car Plans",
           "attribution": null
         }
       ],
