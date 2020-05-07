@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Senator Says AI Co. Evasive On Facial Recognition Software"
-excerpt: "A senior Democratic lawmaker continues to press an artificial intelligence company that has reportedly been offering its facial recognition software as a \"contact tracing\" tool to track the spread of the novel coronavirus to verify that its technology works and does not pose an undue threat to US."
-publishedDateTime: 2020-05-06T00:07:00Z
-webUrl: "https://www.law360.com/articles/1270234/senator-says-ai-co-evasive-on-facial-recognition-software"
+excerpt: "Law360 (May 5, 2020, 7:59 PM EDT) -- A senior Democratic lawmaker continues to press an artificial intelligence company that has reportedly been offering its facial recognition software as a \"contact tracing\" tool to track the spread of the novel ..."
+publishedDateTime: 2020-05-06T00:04:00Z
+webUrl: "https://www.law360.com/technology/articles/1270234/senator-says-ai-co-evasive-on-facial-recognition-software"
 ampWebUrl: "https://www.law360.com/amp/articles/1270234"
 cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1270234"
 type: article
@@ -19,6 +19,6 @@ topics:
   - Computer Vision
   - AI
 
-secured: "R1ZN38xOpEFaVU7hVaee1nMlQGfMZBNvkr1oVasRJTUioNjar8awbZF41A7ep9EGMB+tv7vKeuBYRdVNBpIG7t4qD3Vz/O11vqIiMUY36Fur93p/Pz2HeIu8GqDwYWg8WLptrJlQdzy8pW7wZ0TB6FCpAPluSZ9Jwh8GnZD/a4qa7t4MbBJawRh/zV6oz40ZK2Z+4d5XUY26hF+01YrWCzXfXl2KpmTU5BGqxZXoBBcHZwCPPLYksWmlijekaQSnt6vwDUU7n/5lCg6gsQSoAc7iQf04X9uyrHP0oEPx5tLXNKFUP76Uc8lLfiBbJZTe;dYNNbLgwLKXkkA18mAnu+Q=="
+secured: "uRdCOj6hyKEMqktYKp6gnM5sfqtgXxMPmEPItFkOetQLx7xiRlUGPrA5FsD72PglWH8s78HjxeI5+RmF5J8E0i0p5i1kc4SCn3A6y5I8GANlHpmA3g8NVAh+byIPoJ/PvSPgJanJynkZHmANtDEAoPunt08X84pxWSacpvbvXSHleyCr5DZWkqmswWiDBUb8FejcR1EN0T4//3gNPdotnClcKhS0PgbwwIGJKCPl3d/W1U5j9VCLbBAvfLdNBVlBlB3407avLAHFd5y0HXYs5Y8qVJGxBcj5yLbHnSpcwbDVNSoFWzfPPSFerPDR5Qqq;0L+qVfTepPmYt2L2yH3FCA=="
 ---
 

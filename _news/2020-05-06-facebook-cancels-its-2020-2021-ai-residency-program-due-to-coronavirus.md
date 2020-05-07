@@ -7,8 +7,8 @@ webUrl: "https://venturebeat.com/2020/05/06/facebook-cancels-its-2020-2021-ai-re
 ampWebUrl: "https://venturebeat.com/2020/05/06/facebook-cancels-its-2020-2021-ai-residency-program-due-to-coronavirus/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/06/facebook-cancels-its-2020-2021-ai-residency-program-due-to-coronavirus/amp/"
 type: article
-quality: 87
-heat: 87
+quality: 89
+heat: 89
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2019/05/facebook-ai.jpg?fit=1200%2C600&strip=all"
@@ -28,6 +29,6 @@ images:
     height: 600
     title: "Facebook cancels its 2020-2021 AI Residency program due to coronavirus"
 
-secured: "T99SUQTubNr+oEIbCvfFnL9Fm1GR2uCCDv1K7Gyi7sZeE5e+d3rXiBkWrwtxIcPKLlHeWplLXCRRUDZq997E1iWLMTrMYtQ4xAhxhcnB2I6ujuVCKhn2g2yDcaDBdD0Ojg6l1bjycTKxTEhU/vSoaD9U4wShdI8QtiJGrS5FUauA7odvQIUupOXdM3s1L4y8dQ8bT6i2uqqPJ7KKz3e+2KEfOFh9bWOC0Z0gWdBZeP/h9MC5OhkNvLMrc9T1Vk+Fc8/ySSQbW12tDIFXfJfKMQzbSJYvKgHWmrDLq2P7w4vj/3Ed6H7tJRv399euKKLx;Z4dzrkc8lpcWdIriQIib0Q=="
+secured: "P3Ups5IvkiZf1FujM9cCnzZFAQsvUW61H5tdWinaBiAuxUMtQ4Qx9x9lIUffybMVBoEiSJhlRhLDcXfu6zFhsmjZoWooQvggXd+S0fy+F9Z9/69O9I2YuLI6/Hb9e2LDsNxDHE3ezT+ICV3ALFbTEz2YaDEKev6ci5/UHUYYjurdjfuxxxxRFAGkULw18b4zPNTkDgREhn+VoUdW0Gfvb8JTZl4SQKY56SwW8v5DdXRRQTejfxZWFIOAQIvsHuhDg3pg/jbH+oLI5nNYfNdBgdL+qQMV57ykiqOEbXS73nbAS9/eKwIqAVIh3XyX61k4dkkWyRlt3gFSvYCA4YXJWHv0acjtjmgkP/cIZWisQdyX89yh+InQsFoGPaH1ec95dHTmVZ419XSFaalWONL7eW+9oIhMdey4b/oSA9nw9hImxLAKj8WQDJJxdabXEftabiFiQUHrS0M3K7ICS2kvs+Ww5KteRsDK7BOrHARlupY=;BLFB/6i3rRkm0K/MA3mOuw=="
 ---
 

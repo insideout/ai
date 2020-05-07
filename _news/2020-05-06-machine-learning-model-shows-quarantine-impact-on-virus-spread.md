@@ -3,7 +3,7 @@ category: news
 title: "Machine-learning model shows quarantine impact on virus spread"
 excerpt: "Researchers at MIT were able to draw a direct correlation between quarantine measures and a reduction in the effective reproduction number of the virus."
 publishedDateTime: 2020-05-06T19:55:00Z
-webUrl: "https://gcn.com/articles/2020/05/06/mit-machine-learning-quarantine.aspx"
+webUrl: "https://gcn.com/articles/2020/05/06/mit-machine-learning-quarantine.aspx?admgarea=TC_EmergingTech"
 type: article
 quality: 24
 heat: 24
@@ -23,6 +23,6 @@ images:
     height: 300
     title: "Machine-learning model shows quarantine impact on virus spread"
 
-secured: "buW9Lp9ytb2jY27XIOJoEGW2UL4ZYy0TrwpCrhaQ8OSNd5q2rmBNhIzwZnEGBmQoGEslytDRbYJzm0/uk1fUH6wWPJNj739dS0OtoSUs9cCtcihjttho+l6E86k2tkyC/rwO5NIQUnGndjL9lovLretlAzD4/W2t6/O1LcmLh7o9lpSZ6W8HP2HgmwEahOkqdi61u7YoP6VYl5DDf5K5ljm7q1exQx+/vYOgL+NjE1+wGLZRQsTTFsyvgXspu+gBjpg3/2Tobc3Q5delMb4FdbnZlmaV6vXsOSrsUtGrpoewoMYgo6QkjhsUNdaRJbmf;pvwQExFSTIkqsHsfFuEoBA=="
+secured: "WlDZEg+bhENEZ23xRETamF9wE7MojqTQUvXJoraLUla0sQ11f1rQNGNcVVXEo+m1psN+95ZjAp9q60m4+JfbtlQ9vohsnimw2BD0VyJmBWnsyAjE95XOtj2Qja7dOEJ3pcorTKHHP5wOvuGY6ETDXoRhd67ghtD6NTzoe/Vo8eEuHT2FB7JofQo4uUczDRv26OZkgvPtmD/iNgae5O5IRKoSAlY4eLYHMOOQvKQ8iryVVlz90P37eh2tOfqZXz/vJXttqQ6XNVDucHOaGXZU3FFwaf8k9Ig/Mb1M9bJCKd++qsJRW+qkl9nkhU3wCjPA;ZZW8QJyKq5xAfcr2j2OCvw=="
 ---
 
