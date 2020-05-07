@@ -23,6 +23,6 @@ images:
     height: 627
     title: "Gesture Recognition and Touchless Sensing Market Size Analysis and Outlook to 2026 - COVID-19 Impact, Potential Opportunities, Companies and Forecasts - ResearchAndMarkets.com"
 
-secured: "kXUrxYSqjpQQBumsWKaXmVHcm1zFbBRCUuM/e4WFL+qim5zlWRIeDBxwnOHm74USnXjSualBu+LKSR/rPj2v/IJyrvaZOHrL2NIDc7twez5r252xM+1dDTTqWZHDkajPWMbYtBK2BLtkfITUg0B0Gm1uAVA/wFzur1Xqhfr+hDhyFEHprux31t3lADEI6rkKB0irw65H08c7Pk34o287Wg1ntsYU6nxv/XZdQtPy1ki3MpzpE7be8v3LsY947tlr+cLGC+h/xR0Lz79tJdyiqlZco/EuIJnx784TcgGtbHUFTwrSfQKdcM4ctNA6ugEA;cPlk3LoU6jaEZtAFlTXitg=="
+secured: "ylnAqmxTBCU5Fz7U2JE89oI0kktZEuj0MQvBvbvusPTe3zu+ped7AbMT4eYtLsy+RJTevgvoQmRDPzSWiKXp1ZZ9Xxt8tLfn7JjdyfycC0TbXdhnqs+pdFlD5/HJZ8HH/gqqb6jhgBTa9gyDiWv7JKn+WFom7GYSKzdF8TGEZNyrv5lnucB7E3nyzKFQAVDHsfPwBsQPL31bFzrGyHutS5y3FNFLbcfkftE/3pdCx4SDxAQ5KRGTzYFb5syBLdPKNR0EqbwWeg6evREIzgwdziIH9c/T3CzROBSqZ71G2Ow+WyXCtwItELTPgLtz8E9aDnIgbgcUKDQOU5sBNc1UinNdLAnYOm3hp+PJYiqdhot1dL6Lf+nZZbYrUAv+I4BRnmy9in2n1I+GU80HVf3IgiK86SoCG6QvrvZzYDErr+bE1g/leIpZNbQocxgoTAmr9JDyBIl973ONqNFCMLb2WJGJo5Vf8flr8T455Hf5AOk=;fx0Qoi5jMElcuKgKq56rUg=="
 ---
 

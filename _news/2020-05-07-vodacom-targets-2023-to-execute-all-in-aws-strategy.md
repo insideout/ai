@@ -23,6 +23,6 @@ images:
     height: 459
     title: "Vodacom targets 2023 to execute ‘all-in’ AWS strategy"
 
-secured: "2Q/a4nQoTbVHixPXGLQA3e/dURwAuzBbfST1yd33+gwSLhEoGuoE0DFbgnXqKxOU8+K5gUOSMgweliMvkkgrth2+EjYDIVqfEnLoMxouoUdNv51slzKN4UofDNoWMwLDp1MITDf6sdSotq1Px8gJDAi+wZaQX56SyBtqpN/DdwinOBbNGN8PF5Ny8IjAcroj4piUHtlv1vCYvRN3YvigTs7qPOMkBqJdugx262CixFNAqg49yvpA7FbG56ihNvnaSgiwRjR7TbavfVmCCD+PyAoRnxz1PlRoKJNmrB26TkOtjpLZwQ+spKwr9BFHIPkV;1EPalRmZ2pibtGIWJ6/3Cg=="
+secured: "6dB3TLCO1eaMIiERK+FdGvCEhlkRCSMxb+IJhyZMObWPfHsRrTYk0fNxnr7rWW2AXjhuYCi6sOVvAqYoL1FKLGRQW4h2xvf2akn7haOtF/H8+oyCS3h6XIlAi8dwj/bcpYRxt9ZaNI3QROjdnxzeWFUEx0vvV6YzP0+O/BlNjDoiOGhRxJfw//9tNfpAQn7nbarwPSM9tv2fxofnj4+y5UK54uR3UnfdCZOyi5/1yio/I85JSseebOR500cKx34t0e2UZkBVIctuflVie9hg0W1XW/L7oyBCcI3dOtcxAMt4nfwl4qTGrjVt/1AcCEXrGuRwngAs+wraZ+qbxrwOUuQhyKW5U3G8vY4UMPYVEr7PVzNf3Kz6eZGqEy9iaH266yBAKW2Gf1AlC+oMa1AbvHmdX4sJIKh3JRNYH6GGK1Ml/j/CvaormSJ88PKmQxTHd/rJ1J4zEZZ7VevgKtvwuVLfwYJ3CPhww7bSxjbATtE=;1Jm0+4JQD4IcFtr0mS4S5A=="
 ---
 

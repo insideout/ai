@@ -7,8 +7,8 @@ webUrl: "https://diginomica.com/innocent-have-nothing-fear-facial-recognition-te
 ampWebUrl: "https://diginomica.com/innocent-have-nothing-fear-facial-recognition-tech-right-well?amp"
 cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/innocent-have-nothing-fear-facial-recognition-tech-right-well?amp"
 type: article
-quality: 40
-heat: 40
+quality: 57
+heat: 57
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Computer Vision
 
 images:
   - url: "https://diginomica.com/sites/default/files/images/2020-05/face-detection-4760361_1280.jpg"
@@ -25,6 +26,6 @@ images:
     height: 853
     title: "The innocent have nothing to fear from facial recognition tech, right? Well..."
 
-secured: "4scaB4WYSrzVVVBA6Sg2x7A2upsht/Lxj7ZWDJsuX634r4USKGmhSRGJCp8D/ESJgUolk7lEsN5qTNGizuq/ta0R9okw1xyk2bGPmhdrFBiDpTv3uORscMOeFcOQXdspnXdm2gudVKB4Eci5WDi/FJHItWuyPZTGwmbEyn3OKG/K91NrtuPmXmNWIMIPvKDKMQuWBe8a61b8eceMSGPHrwSXehz8ywIkjJXLlhFQNYxQ9rXtW+T7Qy6i7e78vc3E0nys0MVpss9sNP9FD6VXCTwDEuvggRQSjbULuE4P4likpviWV/RLyPOBW3D6cyJG;K6oMKgFXi31Onk5Djb0kMQ=="
+secured: "f39Ns/iv/jjATNMxmL6Fb/bN7p8W+JLkIIr+DRMPAllmyUbK9lqD+cWOVdovgBRGgRlcVnIFGCLCIifyoWHDyBv+qEzvo4nFfBesYlybrnCtKZPYTlGy2HOOOdhHXxulP+S3mHXwl9KDuJHnOmUUJ8K0mu3AKUFkLTgdo6gt3UDym1y0GWObwPfGjFfg530ZNtFO7X7rqYx5WR4mUFPPGKvpZys4rihDPXc1B1OryhD9nn1cGOAk9/9iun7GZZGrpqEOV0aMRQ5ZtoAOKBG7BpGDhKHwP+KZONHNjHwLg3aEtUCfM3DvvloRVDDamCTq4PsKYokMgjYSnS2yLYOaSBqOzwZaHP0O7Mo7lmSm4dfSsIXHIZdz0kiJxc6Xm8SkdMzOcIDEuz38kWoFEDIsQM7C9FUUWg3QodlRTt9P8UJdMbFV3vlvxV1pbaqq1z6mCPTATVyWsOHtPuvdkW2R4Cmvg6jQ1sT8iFsooNT730w=;bRlf9EOd98+HqRvPH1qfmA=="
 ---
 

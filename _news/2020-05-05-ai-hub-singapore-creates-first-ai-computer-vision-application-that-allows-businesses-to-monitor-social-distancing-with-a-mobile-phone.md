@@ -1,28 +1,24 @@
 ---
 category: news
 title: "AI Hub Singapore creates first AI computer vision application that allows businesses to monitor social distancing with a mobile phone"
-excerpt: "To allow more businesses and people to monitor social distancing easily, AI Hub Singapore has created an AI application that turns a ubiquitous device - a mobile phone - into a social distance monitoring instrument."
+excerpt: "As economies gradually reopen globally, people around the world share a responsibility to keep up the fight against COVID-19. To allow"
 publishedDateTime: 2020-05-05T07:00:00Z
-webUrl: "https://markets.businessinsider.com/news/stocks/ai-hub-singapore-creates-first-ai-computer-vision-application-that-allows-businesses-to-monitor-social-distancing-with-a-mobile-phone-1029164018"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/ai-hub-singapore-creates-first-ai-computer-vision-application-that-allows-businesses-to-monitor-social-distancing-with-a-mobile-phone-1029164018"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ai-hub-singapore-creates-first-ai-computer-vision-application-that-allows-businesses-to-monitor-social-distancing-with-a-mobile-phone-1029164018"
+webUrl: "https://www.benzinga.com/pressreleases/20/05/n15951841/ai-hub-singapore-creates-first-ai-computer-vision-application-that-allows-businesses-to-monitor-so"
+ampWebUrl: "https://amp.benzinga.com/amp/content/15951841"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15951841"
 type: article
-quality: 53
-heat: 53
+quality: 23
+heat: 23
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Computer Vision
   - AI
 
-secured: "GfD4soTLbk1IXaZJjQRCSLxLV8tAFJZrB9X1+dxcGPhw14giDnZz/+ORSgYtjJwhxvblNCrdRp4S1L29ahoWncvklTNJOPuQjEW8esTluKuDpiCKFPkZvr9I+VsdVEo1BztgUk7ouxQW9Mk2SSrZQLj/O6fXw3q2WjSs68UxpSThgHEgPpgLWIrgCmvUSALRpKIrD5iAq/v4CMQ9pX7qKqrkCQabdjwYKNQxWZwZzYzBKgS1/VbYP8558RmDMQ3vpxRxNrx+pDh2TR9re21LK84V/tchKvJtznh24XDVHz6NNNaiutwTPVXwo5cidnud;WryN/rCWeTuefnuFMWFBaA=="
+secured: "EZugJP2Z7sCUqsb/XBnJh7O5rnqbtW3s9KnjMiH00ACIVVW1p48VXda1Ns8pW6cC2bvPXUuVthFwcPWJvpmsBtREl6y0x650vIvE7a5TdSXPG+sobvC+KNKD34jzd4mysduw7b84m8/ssB9x33BDpLjwGK7wtP8gZXlpt28772A57wQ/L3bIvV/tEjNQo2I6YERlQBN4Z9JxJPD8HqY/eJHN3UcNDYcWoOIFZxKfNOjyp3ZEMg5BBCWSzcIWOqkIZBqxcwUBNTRRZEw4qq9lLJG7onMZeuczQJFAzavF6AvHeG9EF2RcT/rnmA4Yts00;55GoozTKVciErMC1f7jxqg=="
 ---
 

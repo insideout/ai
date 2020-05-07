@@ -7,9 +7,6 @@ webUrl: "https://abcnews.go.com/International/russia-facial-recognition-police-c
 ampWebUrl: "https://abcnews.go.com/amp/International/russia-facial-recognition-police-coronavirus-lockdown/story?id=70299736"
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/russia-facial-recognition-police-coronavirus-lockdown/story?id=70299736"
 type: article
-quality: 60
-heat: 60
-published: false
 
 provider:
   name: ABC
@@ -18,7 +15,6 @@ provider:
 topics:
   - Computer Vision
   - AI
-  - Natural Language Processing
 
 images:
   - url: "https://s.abcnews.com/images/International/moscow-phone-pass-nc-jc-200424_hpMain_16x9_992.jpg"
@@ -26,6 +22,6 @@ images:
     height: 558
     title: "How Russia is using facial recognition to police its coronavirus lockdown"
 
-secured: "u0lvpzxl/7dQnyY1ZchTmy+eyxNL8Q0alL2PN+46N8fUBy4X089iSOQG85W/j/7T5WS3SoKilF5ZtbVyB3lGO27RE5O3IH4ib4uq/nepbqxHISGSh8kAYQVUgT9eTscm8X9vjYomkYcFQkNIvCCefj2W5IaRKM0jFhY4PbzFuWwpoSBXnkHv27yLyZsDZv7swnxIDo7b4kcX945kt7Kkx8Hf3VkQSY556XMBIR+AW8+WFFtPnWpgK9WTxpSPEebXXNs11r4lzNN+42Ug5bj8w26evHRCjVUSpwU5+Liig/LlceW7NhWMW3Q4ZrRgtlNXgVUZZJYYxfiZMUvgIGDYzD2pEfzO96Yey82vKwuP+TIfiX3pUrujThvlIz29kuhfuA2/pJTqNCJ5Pxrw1zrU+AEyOHOyp0DADFWxfNBpS9tmUUX9zhhkcqKiAr70q3iMDxWCMOTRnc94MyxjoNzM0cNGg//uKdeHDw+/yeJj8NA=;877W41uOHn/q1zBuza/jsg=="
+secured: "kqaHu97zqrmeay+2/w8uWPPKGCyfC82AzHmJZfmbWI9QZrormPCj0YxponHqprWGq3R/dFXZfSkiHUc7x54fu6m6l1hQbmYVBUCOyM9+BdgiFmXpn/7J1FOzVJlwev6Rhig98dGUTvB+9rxbq01aWk+B6g5qQJ4wMYuzU4PhO+1ratzxGvcRsMI2v0YlH2h/1sVByZdFFunBZeuQvixa1smSByDexIO2D2FXEeYczhfb2HZSqcHNaQDShkWqcxEWeBuQ1T6JdHDU9zprNGChMSwdi1KptZavTbm6M3WRHUea73Kr5p0MNKrEKYHmiQ+H;ZsdKWsHvyN2InOYt7slfTg=="
 ---
 
