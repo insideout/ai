@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Visual AI Solutions Case Studies"
-excerpt: "Network news, trend analysis, product testing and the industry’s most important blogs, all collected at the most popular network watering hole on the Internet | Network World"
-publishedDateTime: 2020-05-07T19:12:00Z
-webUrl: "https://www.networkworld.com/resources/202731/visual-ai-solutions-case-studies"
+excerpt: "CIO.com delivers the latest tech news, analysis, how-to, blogs, and video for IT professionals. Covers apps, careers, cloud computing, data center, mobile, outsourcing, security, social media, hardware and software."
+publishedDateTime: 2020-05-07T20:03:00Z
+webUrl: "https://www.cio.com/resources/202731/visual-ai-solutions-case-studies"
 type: article
 quality: 37
 heat: 37
 published: false
 
 provider:
-  name: Network World
-  domain: networkworld.com
+  name: CIO
+  domain: cio.com
 
 topics:
   - AI
 
 images:
-  - url: "https://idge.staticworld.net/nww/nww_logo_300x300.png"
+  - url: "https://idge.staticworld.net/cio/CIO_logo_300x300.png"
     width: 300
     height: 300
     title: "Visual AI Solutions Case Studies"
 
-secured: "dBC95NKXPqCgBtvQeN89MnVBq+6i8sdvZ7491u6PWH2zOoSGsXX5wHY8BSsBqz1J5vUYZBAzydRKMxjfIE7T2YWXq98rn2QKhrkO3zRKP9yKGaWga1qH8ExD9y5LCyn7UAMDbpLZTj4UCrKIDiBLgKDEkHmLavmrUQHzVM+dFdr5N1c6m9DRP3YXFr6qp/iJ1AErTGbqzNHvZFWG5NPmTQ56zbbcB4jXvoGCCil2r/naolvJa96EYJQnyT/zp5XAcJD8kGJNHPyJ1Oh/FHSPL66J5KYACjdqW2PbybKIIk8ls33WafOhgT6kvuP5YtIp;4MTUxWAOQN+4/vcyGOMyDA=="
+secured: "t1C4Xsr5ZgAT3Pwgy0q1uqwPYu27S3AxcgVxtHwM33fQLFgPcErqDz3Fo2mR3JLk/QSjAxR9f+n8N/ZTaNWGUn55y4lkqbhRnWCh7XRiS1POdh3Ef0cC0M9pf6nYLdtD5EDwHQ7pYZmu4kzLnBR8ifRTVrjfXgqujugMC3ZBGzvsOsb7n6AD5icc0ld+8Y0uFAXCinIR/xd8tJOhpJbvNC0VKva3cvUROA8UXEUMlOEGJfgyNqWBxq6RbGmg+V5cdCSw2BrG9jQUd/zoNbtDhF8lVOdOl+wyFRw4r/k7vpBfV7QI3bKAR81XPSsQ3hmo;IapHHF2sqOILSdBie9oDsA=="
 ---
 

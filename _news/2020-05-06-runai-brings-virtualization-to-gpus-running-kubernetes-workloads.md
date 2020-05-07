@@ -29,6 +29,6 @@ images:
     height: 348
     title: "Run:AI brings virtualization to GPUs running Kubernetes workloads"
 
-secured: "j9uxABTM87x/INAe/CfmMTjOdPpWcmfr387DCoLvHyLg9nFaLkU9+PRMWcnqhZ/OqzbFVvYvQWRLb7XKt/+IK1lMn1hZeTV12NXztKbpsh+i/mXcf1FNjTnGLfu0se5dA0kpKGnE1ymDQDFYXuUxD5VisLMjgkPC9gRzfrC/es1DK0dAY2EhZvLMrnWG4GEytwQi04BTxl1nDYbmVSMGBZX5dybKEN5yt/y8NziK/2ejelKGKgwaeQ+XLM8zRhBbN97Tuieya4nevFsC0TbfWOajX6Bm2OEh+yGTctuNnTGBuJJSjFovlGkUNbmEIL6H;vav3cRErnQROxI7MpnAI0g=="
+secured: "VbaVpgAcTb5dVAuwcN4FlupjWFzYOU2zqRKdCqqN2HtOycPxDYspEDytNRC03dCtnuyyPj6F5gT09wLkrC6DQh2KENA6XUaZPAntHr4Zm6pUt40+G8sPw2hvWZUQC3MeLEcO9oEVP7NA2PGgnvVnv8Bw6zRsZ191+RO3yUzTmbImkbj35NCR/2TefjyHDbO3ATuC7B+nx3E5Tk2nihRaQ+rTPJa5cTG/1NFqwGwsIlCFVvBJHucQ1fNnmLdOT/RTIU6FNOn80JlZ9lk6G63naCYADidDxZKtdcqsBth9++Xu2zpQFOGcX+ls8p0AVn3D;WLVh/uJjQrqZ0FP1OHPytw=="
 ---
 

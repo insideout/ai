@@ -3,9 +3,9 @@ category: news
 title: "Face Recognition Behind a Mask"
 excerpt: "Although putting on a mask over your nose and mouth is one of the easiest ways to protect yourself and others from Coronavirus, face masks may be subtly (and not so subtly) interf"
 publishedDateTime: 2020-04-30T15:55:00Z
-webUrl: "https://www.psychologytoday.com/intl/blog/illusions-delusions-and-reality/202004/face-recognition-behind-mask"
-ampWebUrl: "https://www.psychologytoday.com/intl/blog/illusions-delusions-and-reality/202004/face-recognition-behind-mask?amp"
-cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/illusions-delusions-and-reality/202004/face-recognition-behind-mask?amp"
+webUrl: "https://www.psychologytoday.com/us/blog/illusions-delusions-and-reality/202004/face-recognition-behind-mask"
+ampWebUrl: "https://www.psychologytoday.com/us/blog/illusions-delusions-and-reality/202004/face-recognition-behind-mask?amp"
+cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/illusions-delusions-and-reality/202004/face-recognition-behind-mask?amp"
 type: article
 
 provider:
@@ -13,9 +13,9 @@ provider:
   domain: psychologytoday.com
 
 topics:
-  - Natural Language Processing
+  - Computer Vision
   - AI
 
-secured: "En9kgW0Z4Gy67PILgpQNAQ+RFe9ObtX49A06/SCSfmASdVF6VJCNElXzPD31ZUF+V15Sxi/SM5dbWLbWZeh77jfyiUZZRYzcLWRMagUwGqTU6e3rgtZJILIJnSMw3yGAp8HA3IMlVe8FxTodT1wkLDM73A5vXLaRe+rKzjrqlNnGfQHgPFtHRxgM45GAHyPuH2EIgvFcHDfFTLAin6lX2JVgU8PR5o+7VtlTTfnkg7t0A8lySILOj9pW7X53I1H7GTuCR1uSoD7ifAQWLFu02kKqif3jvYHhbq88pUQdBwzchkPCBcZ0hBzmEV7RGO/k9rJ7t9pctO6g04tf6Qi+n/wSLQ0qMyrtVh38/+qr0bNW3R0imZ+xBTCxC/oASirYiTDDL2TG0GYEj2ARFFS3N6/hewI6TsZZ+Mz+I1Sac0wzHojRetwn2aQadXkkvt2gFmKUCNNYpJKYP7v36/hWCuYUi4RLOlg2DCANACUnsTc=;x2Ot75p9LikoCimyz7FWtw=="
+secured: "eAb7EE1TPAPJjAo6V+JqiJTw7jpQsN77+TIcs6xv50Vu/upRtJBIhB6LJieDW9HusUU24zmvX4Fyx7BfolbmgMf8bsiOult89iaFnhB0D73UKqqa4TJnXkr+bEx3atSkHRAzLR37EPI4tjJ5wSe/k5seSdzYIss1Fy+A7s0eHPUN7V6uFAH8dhFaizWZB89vD5ULUQiKGb0ckTda4DSgy2MB1Jbr30suqYEp1pQ9tUAFk2yZj1sRBbdsj1AdoFfUiKbNYLDyDKi2esYBwKeFDEDqLnZ1hKz7dJHw/IaoHxvDY7NITx+J43RZwL+kV7sHCuY1oG1vjKtX5UFXIB/nBtIApNagTAHwQmtFmkI4rftzau/O9MqTP4Rl81UwaRAcAxZoUnoVOim0aHHUCiA6D9L+go7Rqotdmo4CCCS8+0dScaSBbPxQmEsh5UidAXuUJaLUZ1pxRj2nCaU6G/1ZogB1VWD9PctNPrXjuxo/tZs=;g7BPGC9cOmWa8JbgEEb+oA=="
 ---
 

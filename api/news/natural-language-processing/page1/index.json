@@ -2,6 +2,44 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-05-07-boston-mulls-facial-recognition-ban-ahead-of-possible-updates.md",
+      "title": "Boston Mulls Facial Recognition Ban Ahead of Possible Updates",
+      "excerpt": "While existing surveillance infrastructure does not use facial recognition technology, potential updates to the system could make it possible. Officials are considering a prohibition on the controversial technology.",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.govtech.com/public-safety/Boston-Mulls-Facial-Recognition-Ban-Ahead-of-Possible-Updates.html",
+      "ampWebUrl": "https://www.govtech.com/public-safety/Boston-Mulls-Facial-Recognition-Ban-Ahead-of-Possible-Updates.html?AMP",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/Boston-Mulls-Facial-Recognition-Ban-Ahead-of-Possible-Updates.html?AMP",
+      "publishedDateTime": "2020-05-07T12:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media2.govtech.com/images/US-NEWS-BOSTON-LOOKS-TO-BAN-FACIAL-MLV.JPG",
+          "width": 840,
+          "height": 630,
+          "title": "Boston Mulls Facial Recognition Ban Ahead of Possible Updates",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2020-05-07-google-lens-updates-make-learning-at-home-a-bit-easier.md",
       "title": "Google Lens updates make learning at home a bit easier",
       "excerpt": "Google Assistant may take the lion’s share of Google’s AI exploits but Google Lens are eyes through which it sees. Deeply integrated with Google Search and its knowledge graph, Google",
@@ -434,35 +472,6 @@
           "attribution": null
         }
       ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-30-face-recognition-behind-a-mask.md",
-      "title": "Face Recognition Behind a Mask",
-      "excerpt": "Although putting on a mask over your nose and mouth is one of the easiest ways to protect yourself and others from Coronavirus, face masks may be subtly (and not so subtly) interf",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.psychologytoday.com/intl/blog/illusions-delusions-and-reality/202004/face-recognition-behind-mask",
-      "ampWebUrl": "https://www.psychologytoday.com/intl/blog/illusions-delusions-and-reality/202004/face-recognition-behind-mask?amp",
-      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/illusions-delusions-and-reality/202004/face-recognition-behind-mask?amp",
-      "publishedDateTime": "2020-04-30T08:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Psychology Today",
-        "domain": "psychologytoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
       "locale": "en-us",
       "categories": [
         "news"

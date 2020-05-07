@@ -28,6 +28,6 @@ images:
     height: 600
     title: "Facebook’s AutoScale decides if AI inference runs on your phone or in the cloud"
 
-secured: "1H+5oEb77nTJL7WEcpy5G+0oV1V+QFphIxl6uv3mM3lawFDKeKVlEUHi+ld9a24DNqSoKZFPXqdfqqkvKMyKT5nTigY/kDa5+s7jS8Ii3VKdYYEnnXNbxBIZgwjske/LIKr8wSOCNfeRwP0wTYiAScKKtP8oPDX6eioIOyaro/PM21VwCmKTwuGqtd+cm7QW6iQhNdPa2lQ8wcqbmykFm3Avl9qHf9jbMcr1MGm+KsmHAbcZRhXadwHzKRN+z7h1EIMz2xpX4bKGpA7OZ+EOsJtvkrtnKpm7Yod8sDMcbe4utHHMe7lbXM9/mCvHVycC;zGK2z2LM+tIFxNSW7Nb6pA=="
+secured: "cunP3GiL2PMH9xrAODZkDsNzPex5WS7xa+Vd39uJoyQLcfp6iShAQBndHA1x5ET0D0H8ee0+13sFZXrM0gvfAR/FV7EfuVWrQIEDBRGaRRICRq5549sNS9NCGGKSzN4dTGbTew5DtWNwydgv0HXleWbVVLFf5k+2w9EK69J9xvw0Wg7rKVtyldKxEC9+RAnXo5eGH9jRB+VbBVA0Gc8q3t0EbFky1S55fu2HAKD8ielJiMvPU+xWarzyMRVfxJvi+TWx5Tff2NZLIF7HzRmggyk7/0j+XKCzma7pCzarEP3VAIpHDtvE41v2qsLMEJTG9w8cz8vgeHdSwsMQzqBxk+lSPS1LO+VLSYLvmSctX+JxwbIPjgBHOPCzxPKvHdkTrG1glSk2FvqsuLeBCfzCoFuX++BttzsXhnG3/qeaeVavp7fEVzj5I6yQ3bwKuX9M7EEafKYj+D4xMUicu0IMkZFMm0I0f9/W6AldRJhGrV4=;jOqsIXc870tdRsM4mRkLpw=="
 ---
 

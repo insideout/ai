@@ -23,6 +23,6 @@ images:
     height: 1080
     title: "Business AI vs. IT outages: Watson AIOps keeps an eye on complex business systems so CIOs don’t have to"
 
-secured: "ImerHQZ8hRKYP7KFiOvZMRXwYV6lZRkmey1h4Bw6bnifUMttuKc53Rh6yllz3zm8oN0aoQ7jNfUQ1UElLT+XqVqLmROaubvSPgjRCl70yoRsiqEmjSe3aCKSh1JHzx+WdyH+x2ELSD+h/S/g1QoBkVF0WqheQKMho5/0bKquSwshKmdT8Bm/9dpevPxYXFWDHpIje7d2TKbS2Q0EI2nLmNgrMuPV5ic9BlQTiPBnjF2WN5bMIK3okpWtEvRyrrre+647kj8BZLojqI5agSUjdIOtk0EZeTCTWMo653BbwM+FqwF5o9AOHtgQE9JM/Xar;k25P/6ZVy+3aENsyTfz1tg=="
+secured: "4bsSq0hCBEHH1tKyBFi9KGzcQ/aGO5id54hTa87FVgVnb8LdwhOMDm6T+AJN0IuyO8Kx/v7vUEysHpDclrJweTnNpnzVywO6PniP8cA/ZmodO8ueUh4iV96QzqyOCQ5Cxd+XvmljcDY38ro6vhTTqF2v3jbDSrS7ZhxbeS1cR9okQ8HIJFddlV5P/jD9yCQ5mjHEq1iMOZsQgBManXqj4DkN+iHVrxtoDjBi7uYF2234SxxDMGHBKUyCv8R//gRKTdCvWL68cUIlT69AXgWu3ggx0ucwicmwVqbbbtPHW4lgwNgcdYxGyYW8L1e8LXnMYmeGcsaq9LRAoSF4jgmb6Rdnsja4ldmV1FpzYp27A/hkoNZcrjvJBPhxeloRJtqY/gmELZH61eKaAvW01IN2t2WFzmG+MduhHd22UZ06rgLFNPbPjlmHXYd+fQaaXT6TIP3C3TVMp7rUnvbVmb2xDYDoYaPb3JDDCWAW2FKYXeU=;3113QnDLuVhadLucbF0lig=="
 ---
 

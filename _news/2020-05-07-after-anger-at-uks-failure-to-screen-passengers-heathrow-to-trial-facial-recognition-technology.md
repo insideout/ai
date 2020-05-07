@@ -34,7 +34,7 @@ related:
     provider:
       name: Government Technology
       domain: govtech.com
-    quality: 59
+    quality: 61
     images:
       - url: "https://media2.govtech.com/images/US-NEWS-BOSTON-LOOKS-TO-BAN-FACIAL-MLV.JPG"
         width: 840

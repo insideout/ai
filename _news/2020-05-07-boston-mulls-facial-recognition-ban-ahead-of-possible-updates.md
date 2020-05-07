@@ -7,9 +7,9 @@ webUrl: "https://www.govtech.com/public-safety/Boston-Mulls-Facial-Recognition-B
 ampWebUrl: "https://www.govtech.com/public-safety/Boston-Mulls-Facial-Recognition-Ban-Ahead-of-Possible-Updates.html?AMP"
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/Boston-Mulls-Facial-Recognition-Ban-Ahead-of-Possible-Updates.html?AMP"
 type: article
-quality: 59
-heat: 69
-published: false
+quality: 61
+heat: 71
+published: true
 
 provider:
   name: Government Technology
@@ -18,6 +18,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://media2.govtech.com/images/US-NEWS-BOSTON-LOOKS-TO-BAN-FACIAL-MLV.JPG"
@@ -40,6 +41,6 @@ related:
         width: 651
         height: 366
 
-secured: "l2XBuxwydUg+siUtw36kn+ajd/aQny6MoUIXFqIdsIU4Qb/Q2MNy011Mhgyc/FGDlO6wlLnJ28zrUxE+p60RPCs9oYBU5nW/OyuNjTnobZWXsC7bdlrULPr/FQ+4I51SYT0H1yM6IqLYqyDmo0JXBKy39PZCeriKSXpULDa7/h9XYVAR5NW34G/y3JoTI/++tB8esPmY+hvyQyvnuhEGy7Nnkqzdq3nBhY2Y/E76JkVKrQZ3oUNxVPQt1VvBp6W5ew6vdI5wtFFoiEOqPiMhBRUPq3k6uQpf2fT/mTGePmNuD5N4/YprUFcLE8DygQql;/HnTjsJU8D9qREvu+TTPGw=="
+secured: "0X7LoQwURJbcrVVYcs72kmx/3AeffdS/OYABUqdBJrWXR8Q3L1+esiSWctrtvkGlh1FCwCrcATWx/IhODoLEAqGyxnjSSBlyFJKFtVDBu/BHi0Eq4Z2/G4RgUrBcoiQtRrphR+ArI7xQgu0IRdxcUQ+zUuBnJn5q+qPwkt2Ku4c0VuSw3PSA6T4nYO22H0iT1hH1COW3vfopOFJLSDCRoe5aOm+GAmrAaVp9cUXbtHMU86w3NMj1Ea+fs771XhXE59tpYEdktNF/z8SfltDx9QgaYE5qyP5A8XLclVwhpfFgbNqxX5lXnzAKJLN1tfsBpDgPtqWtF+g6Qu4Y+PCQrFfRogYkfs5gTz6ad0HbaPUWa3E0C0Umt3u4XBR5wD/p1V83RnLzDTwi2B/EHNzUYo2Lv6gdrXYS/aTAA1Enluo5b7PeOAYom70owpSvnm+q1d8UE+iUsulyZNSGJfccfNbv3zIkfxc/C0c94+/y2Pg=;59IDPThg7XmvV2OXXbJHXg=="
 ---
 
