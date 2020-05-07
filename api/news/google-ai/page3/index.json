@@ -2,6 +2,44 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-03-16-how-to-run-tensorflowjs-on-a-serverless-platform.md",
+      "title": "How to run Tensorflow.js on a serverless platform",
+      "excerpt": "In a previous article, we introduced neural networks and TensorFlow framework basics. Today, we present how to use TensorFlow.js, from online models to model conversion, web-based versus server ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/warpjs/how-to-run-tensorflow-js-on-a-serverless-platform-cbdfe9e733b7",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-16T09:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "TensorFlow",
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-16-a-look-at-the-tensorflow-ecosystem-in-2020.md",
       "title": "A look at the TensorFlow ecosystem in 2020",
       "excerpt": "TensorFlow Dev Summit 2020 took place last week and gave an overview of everything that’s been going on in the world of the machine learning library. While we have been covering TensorFlow, TensorFlow.js, and the recently open sourced TensorFlow Quantum, you may not yet have heard of TF Hub, TFX or TF Lite, so let’s see what they are all about.",
@@ -1139,52 +1177,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-25-an-ai-to-make-practical-decisions-and-to-play-flappy-bird.md",
-      "title": "An AI to make practical decisions and to play Flappy Bird",
-      "excerpt": "The game of Go was famously solved by DeepMind's AlphaZero through a cutting-edge reinforcement learning approach. While Flappy Bird is nowhere near as complex as Go, it's a good starting place for any AI project in reinforcement learning. (Other companies, including IBM, have explored Flappy Bird as a testbed for AI.) The journalist didn't ...",
-      "heat": 101,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/an-ai-to-make-practical-decisions-and-to-play-flappy-bird/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/an-ai-to-make-practical-decisions-and-to-play-flappy-bird/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/an-ai-to-make-practical-decisions-and-to-play-flappy-bird/",
-      "publishedDateTime": "2020-02-25T12:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/02/25/de47ff6a-924b-4b1f-80d3-8478d306daf6/dp3q8848.jpg",
-          "width": 1280,
-          "height": 960,
-          "title": "An AI to make practical decisions and to play Flappy Bird",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI",
-        "Facebook AI"
       ]
     }
   ],

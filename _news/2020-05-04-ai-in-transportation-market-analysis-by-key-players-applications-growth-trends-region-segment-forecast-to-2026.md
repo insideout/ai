@@ -53,6 +53,19 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Artificial Intelligence in Healthcare Market 2018 Global Analysis & Forecast to 2025 Market Research Report"
+    excerpt: "Global Artificial Intelligence in Healthcare Industry New Study On “Artificial Intelligence in Healthcare Market 2020"
+    publishedDateTime: 2020-05-07T19:36:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-2018-global-analysis-forecast-to-2025-market-research-report-2020-05-07"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 66
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
   - title: "Artificial Intelligence (AI) Chipset Market Overview, Industry Trends and Growing Opportunities Till 2026"
     excerpt: "The report provides rational insights along with historical and forecast data to aid in better understanding of"
     publishedDateTime: 2020-05-04T10:38:00Z

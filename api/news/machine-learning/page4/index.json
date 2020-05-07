@@ -2,6 +2,35 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-04-08-when-machines-design-artificial-intelligence-and-the-future-of-aesthetics.md",
+      "title": "When Machines Design: Artificial Intelligence and the Future of Aesthetics",
+      "excerpt": "In a tech report on artificial intelligence, Building Design + Construction explored how Arup had applied a neural network to a light rail design and reduced the number of utility clashes by over 90%, saving nearly 800 hours of engineering. In the same vein, the areas of site and social research that utilize artificial intelligence have been ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.archdaily.com/937051/when-machines-design-artificial-intelligence-and-the-future-of-aesthetics",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-08T04:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ArchDaily",
+        "domain": "archdaily.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-08-machine-learning-market-value-booming-us-768-bn-by-2026.md",
       "title": "Machine Learning Market Value Booming US$ 76.8 Bn by 2026",
       "excerpt": "According to the Acumen Research and Consulting, the global Machine Learning market is expected to reach at US$ 76.8 Bn by 2026, along with the projected CAGR of 40.1% from 2020-2026. The published report global Machine Learning market provides a holistic overview of the current market covering the current trends.",
@@ -1230,51 +1259,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-31-modelops-is-the-key-to-enterprise-ai.md",
-      "title": "ModelOps Is The Key To Enterprise AI",
-      "excerpt": "ModelOps is a capability that focuses on getting models into 24/7 production. It’s a capability that must be owned by the CIO’s organization or the technology center of a large organization. In 2018,",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/03/31/modelops-is-the-key-to-enterprise-ai/",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/03/31/modelops-is-the-key-to-enterprise-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/03/31/modelops-is-the-key-to-enterprise-ai/amp/",
-      "publishedDateTime": "2020-03-31T09:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e836f72a547180006512144%2F0x0.jpg",
-          "width": 1200,
-          "height": 692,
-          "title": "ModelOps Is The Key To Enterprise AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

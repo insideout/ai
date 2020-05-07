@@ -2,6 +2,51 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-02-10-how-to-empower-yourself-in-the-job-search-and-fight-back-against-the-ai-robots.md",
+      "title": "How To Empower Yourself In The Job Search And Fight Back Against The AI Robots",
+      "excerpt": "This approach is a useful and important tool to get yourself in front of the right people. This strategy will help increase your chances of getting noticed, chosen for an interview and, ultimately, getting the job you want.",
+      "heat": 100,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/jackkelly/2020/02/10/how-to-empower-yourself-in-the-job-search-and-fight-back-against-the-ai-robots/",
+      "ampWebUrl": "https://www.forbes.com/sites/jackkelly/2020/02/10/how-to-empower-yourself-in-the-job-search-and-fight-back-against-the-ai-robots/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jackkelly/2020/02/10/how-to-empower-yourself-in-the-job-search-and-fight-back-against-the-ai-robots/amp/",
+      "publishedDateTime": "2020-02-10T08:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1180036882%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "How To Empower Yourself In The Job Search And Fight Back Against The AI Robots",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-02-10-flighthub-justfly-on-robots-and-travel.md",
       "title": "FlightHub & JustFly on robots and travel",
       "excerpt": "Once programmed, some robots function autonomously. Still, many robots require more guidance, especially when used with third-party software for voice recognition, accident detection, virtual reality applications, and others. When combined with artificial intelligence (AI), robots become far more sophisticated. AI’s ability to record and ...",
@@ -1197,43 +1242,6 @@
         "AI",
         "AI in Robotics",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-01-29-food-delivery-robots-roll-onto-ole-miss-campus.md",
-      "title": "Food delivery robots roll onto Ole Miss campus",
-      "excerpt": "OXFORD, Miss. — Artificial intelligence has arrived at Ole Miss in the form of food delivery robots. Thirty new robots have been roaming campus for a week, dropping off snacks, meals and drinks. It’s been exactly one week since Ole Miss launched 30 Starship delivery robots. They line up outside the student union, are packed with food and ...",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://wreg.com/2020/01/29/food-delivery-robots-roll-onto-ole-miss-campus/",
-      "ampWebUrl": "https://wreg.com/2020/01/29/food-delivery-robots-roll-onto-ole-miss-campus/amp/",
-      "cdnAmpWebUrl": "https://wreg-com.cdn.ampproject.org/c/s/wreg.com/2020/01/29/food-delivery-robots-roll-onto-ole-miss-campus/amp/",
-      "publishedDateTime": "2020-01-29T15:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WREG",
-        "domain": "wreg.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://localtvwreg.files.wordpress.com/2020/01/fooddelivery.jpeg?quality=85&strip=all&w=1200",
-          "width": 1200,
-          "height": 675,
-          "title": "Food delivery robots roll onto Ole Miss campus",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

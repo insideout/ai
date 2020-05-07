@@ -2,6 +2,51 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-05-07-pittsburghs-airport-is-the-first-in-the-us-to-use-uv-cleaning-robots.md",
+      "title": "Pittsburgh’s airport is the first in the US to use UV-cleaning robots",
+      "excerpt": "Allegheny County Airport CEO Christina Cassotis said the partnership with Pittsburgh-based Carnegie Robotics highlights how the burgeoning robotics sector in Pittsburgh works alongside the community to solve big-picture problems.",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.theverge.com/2020/5/7/21249319/pittsburgh-airport-uv-robots-coronavirus-cleaning-disinfecting",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/5/7/21249319/pittsburgh-airport-uv-robots-coronavirus-cleaning-disinfecting",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/5/7/21249319/pittsburgh-airport-uv-robots-coronavirus-cleaning-disinfecting",
+      "publishedDateTime": "2020-05-07T09:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/YQ9zDrR3dk5UNMYYFkv5Z3o1sQ4=/0x0:1800x1266/1400x933/filters:focal(756x489:1044x777):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66764586/Carnegie_Robotics_UV_scrubber_at_PIT.0.jpg",
+          "width": 1400,
+          "height": 933,
+          "title": "Pittsburgh’s airport is the first in the US to use UV-cleaning robots",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-07-zoom-xoom-zum-why-does-every-start-up-sound-fast-now.md",
       "title": "Zoom, Xoom, Züm: Why Does Every Start-Up Sound Fast Now?",
       "excerpt": "One day this quarantine, who can say which, I encountered the following pieces of information: Zoom, the videoconferencing company, saw its stock hit a new high; Züm, a ride-sharing venture, cut its work force by a third;",
@@ -671,7 +716,7 @@
       "path": "_news/2020-05-04-artificial-intelligence-in-healthcare-market-2020-global-industry-analysis-to-2026.md",
       "title": "Artificial Intelligence in Healthcare Market 2020 Global Industry Analysis To 2026",
       "excerpt": "Artificial Intelligence in Healthcare Market 2020 Global Industry Analysis by historic, current, and forecast market information. Upcoming Artificial Intelligence in Healthcare Global Market Trends and the impact of COVID-19 on market also discussed in this report.",
-      "heat": 120,
+      "heat": 130,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-2020-global-industry-analysis-to-2026-2020-05-04",
@@ -1259,51 +1304,6 @@
           "width": 1200,
           "height": 675,
           "title": "Misa's personal robot to be available at retail outlets in Middle East in August",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-28-delivery-robots-arent-readywhen-they-could-be-needed-most.md",
-      "title": "Delivery Robots Aren't Ready—When They Could Be Needed Most",
-      "excerpt": "Sheltering in place has driven up demand for deliveries, but machines still have trouble confronting the unpredictability of the real world.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wired.com/story/delivery-robots-arent-ready-when-needed-most/",
-      "ampWebUrl": "https://www.wired.com/story/delivery-robots-arent-ready-when-needed-most/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/delivery-robots-arent-ready-when-needed-most/amp",
-      "publishedDateTime": "2020-04-28T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5ea314d879127b00083c056b/master/pass/Transpo-3photo.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": "Delivery Robots Aren't Ready—When They Could Be Needed Most",
           "attribution": null
         }
       ],

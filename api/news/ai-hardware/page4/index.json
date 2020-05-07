@@ -2,6 +2,43 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-03-18-precision-medicine-pushes-demand-for-hpc-at-the-edge-ai-on-the-fly-delivers.md",
+      "title": "Precision Medicine pushes demand for HPC at the Edge: AI on the Fly ® Delivers",
+      "excerpt": "Parabricks, a company recently acquired by NVIDIA, has changed the paradigm and developed a GPU based solution that executes genomic analysis best practices ... generation of highly intelligent medical devices ready for field deployment. In fact, its AI on the Fly ® platforms and building blocks are being used by OEMs to build and deliver ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://insidehpc.com/2020/03/precision-medicine-pushes-demand-for-high-performance-computing-at-the-edge-ai-on-the-fly-delivers/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-18T08:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "insideHPC",
+        "domain": "insidehpc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://insidehpc.com/wp-content/uploads/2019/12/vaccine-300x300.jpg",
+          "width": 300,
+          "height": 300,
+          "title": "Precision Medicine pushes demand for HPC at the Edge: AI on the Fly ® Delivers",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-18-intel-debuts-pohoiki-springs-a-powerful-neuromorphic-research-system-for-ai-workloads.md",
       "title": "Intel debuts Pohoiki Springs, a powerful neuromorphic research system for AI workloads",
       "excerpt": "Just this week, Intel demonstrated that the chips can be used to “teach” an AI model to distinguish among 10 different scents. “Pohoiki Springs enables our research partners to explore ways to accelerate workloads that run slowly today on conventional architectures, including high-performance computing systems,” said Intel neuromorphic ...",
@@ -1139,52 +1176,6 @@
       ],
       "topics": [
         "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-02-26-ai-growth-spurts-hardware-is-cool-again-part-1-of-3.md",
-      "title": "AI Growth Spurts — Hardware is cool again (Part 1 of 3)",
-      "excerpt": "the visionaries are making the frameworks accessible to every company in the world with scalable Enterprise grade ML platforms such as Amazon SageMaker, Google AI platform, etc. Below is an image ...",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/@saarthi/ai-growth-spurts-hardware-is-cool-again-part-1-of-3-df4c31b995a2",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-26T11:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/395/0*BBtx9QcpsGVIgtSq",
-          "width": 395,
-          "height": 271,
-          "title": "AI Growth Spurts — Hardware is cool again (Part 1 of 3)",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
         "AI Hardware"
       ]
     }

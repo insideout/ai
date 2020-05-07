@@ -2,6 +2,257 @@
   "page": 56,
   "value": [
     {
+      "path": "_news/2020-03-15-amd-epyc-cpu-partners-with-radeon-instinct-gpu-in-conjunction-with-llnl-to-build-the-fastest-of-supercomputers-el-capitan.md",
+      "title": "AMD EPYC CPU Partners With Radeon Instinct GPU In Conjunction With LLNL To Build the Fastest of Supercomputers; El Capitan",
+      "excerpt": "Furthermore, AMD-centric nodes will also be upgraded to speed up artificial intelligence (AI) and machine learning (ML) workloads, for extensive research, analysis, and computing technology that will be beneficial to NNSA endeavors. ‘The El Capitan supercomputer will benchmark on HP’s next-gen AMD EPYC CPU and Radeon Instinct GPU to enhance ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://happygamer.com/amd-epyc-cpu-partners-with-radeon-instinct-gpu-in-conjunction-with-llnl-to-build-the-fastest-of-supercomputers-el-capitan-58697/",
+      "ampWebUrl": "https://happygamer.com/amp/amd-epyc-cpu-partners-with-radeon-instinct-gpu-in-conjunction-with-llnl-to-build-the-fastest-of-supercomputers-el-capitan-58697/",
+      "cdnAmpWebUrl": "https://happygamer-com.cdn.ampproject.org/c/s/happygamer.com/amp/amd-epyc-cpu-partners-with-radeon-instinct-gpu-in-conjunction-with-llnl-to-build-the-fastest-of-supercomputers-el-capitan-58697/",
+      "publishedDateTime": "2020-03-15T03:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HappyGamer",
+        "domain": "happygamer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://happygamer.com/wp-content/uploads/2020/03/45af85dee2cfbe420edf4ac7c8a435b0.jpg",
+          "width": 1990,
+          "height": 1098,
+          "title": "AMD EPYC CPU Partners With Radeon Instinct GPU In Conjunction With LLNL To Build the Fastest of Supercomputers; El Capitan",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-15-tra-attains-cips-corporate-ethics-mark-reinforcing-the-organizations-commitment-to-ethical-sourcing-and-supplier-management.md",
+      "title": "TRA attains CIPS Corporate Ethics mark, reinforcing the organization's commitment to ethical sourcing and supplier management",
+      "excerpt": "This mark is highly regarded as an indicator of key global practice in the procurement and supply profession, especially in dealing with suppliers and partners while ensuring transparency and professional ethics. Commenting on this ... of the Fourth Industrial Revolution (4IR) and Artificial Intelligence (AI). Our success depends mainly on ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zawya.com/uae/en/press-releases/story/TRA_attains_CIPS_Corporate_Ethics_mark_reinforcing_the_organizations_commitment_to_ethical_sourcing_and_supplier_managementnbsp-ZAWYA20200315090947/",
+      "ampWebUrl": "https://www.zawya.com/uae/en/story/amp/ZAWYA20200315090947/",
+      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/uae/en/story/amp/ZAWYA20200315090947/",
+      "publishedDateTime": "2020-03-15T02:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.zawya.com/resources/img/zawya-logo-en-social.png",
+          "width": 1200,
+          "height": 878,
+          "title": "TRA attains CIPS Corporate Ethics mark, reinforcing the organization's commitment to ethical sourcing and supplier management",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-15-doing-machine-learning-the-right-way.md",
+      "title": "Doing machine learning the right way",
+      "excerpt": "Madry’s research centers largely on making machine learning — a type of artificial intelligence — more accurate ... helping diagnose disease or control driverless cars. “It’s not just about trying to crack open the machine-learning black box. I want to open it up, see how it works, and pack it back up, so people can use it without ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.controleng.com/articles/doing-machine-learning-the-right-way/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-15T00:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Control Engineering",
+        "domain": "controleng.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.controleng.com/wp-content/uploads/sites/2/2020/03/MIT_AlexanderMadry_MachineLearning-2.jpg",
+          "width": 1200,
+          "height": 772,
+          "title": "Doing machine learning the right way",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-15-port-of-seattle-moves-toward-implementing-facial-recognition.md",
+      "title": "Port of Seattle moves toward implementing facial recognition",
+      "excerpt": "Over protests from civil-liberties groups, the Port of Seattle Commission voted Tuesday to purchase and install facial-recognition cameras at Seattle-Tacoma International Airport’s international departure gates.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://journalstar.com/business/national-and-international/port-of-seattle-moves-toward-implementing-facial-recognition/article_b36dbdd4-c0e1-5629-90ad-2a500ff97241.html",
+      "ampWebUrl": "https://journalstar.com/business/national-and-international/port-of-seattle-moves-toward-implementing-facial-recognition/article_b36dbdd4-c0e1-5629-90ad-2a500ff97241.amp.html",
+      "cdnAmpWebUrl": "https://journalstar-com.cdn.ampproject.org/c/s/journalstar.com/business/national-and-international/port-of-seattle-moves-toward-implementing-facial-recognition/article_b36dbdd4-c0e1-5629-90ad-2a500ff97241.amp.html",
+      "publishedDateTime": "2020-03-14T17:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Lincoln Journal Star",
+        "domain": "journalstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-15-innovative-artificial-intelligence-startups-aim-to-cure-loss-of-vision.md",
+      "title": "Innovative artificial intelligence startups aim to cure loss of vision",
+      "excerpt": "The current protocol to treating this condition would be approaching an eye doctor and undergoing the eye-drop therapy, which blurs the vision in the functional eye to force the brain to rely on the faulty eye as well. It is also worth noting that unsuccessful treatment of this condition in childhood will result in the continued loss of vision ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.thesouthafrican.com/technology/innovative-artificial-intelligence-startups-aim-cure-loss-ision/",
+      "ampWebUrl": "https://www.thesouthafrican.com/technology/innovative-artificial-intelligence-startups-aim-cure-loss-ision/amp/",
+      "cdnAmpWebUrl": "https://www-thesouthafrican-com.cdn.ampproject.org/c/s/www.thesouthafrican.com/technology/innovative-artificial-intelligence-startups-aim-cure-loss-ision/amp/",
+      "publishedDateTime": "2020-03-14T17:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "richest",
+        "domain": "thesouthafrican.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://gcs.thesouthafrican.com/2020/03/cac22bb4-a9dd981c-d8a1-4e3e-b281-581867797063-768x459.jpeg",
+          "width": 768,
+          "height": 459,
+          "title": "Innovative artificial intelligence startups aim to cure loss of vision",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-14-diu-to-host-another-computer-vision-contest.md",
+      "title": "DIU to Host Another Computer Vision Contest",
+      "excerpt": "The Defense Innovation Unit plans to continue its annual prize challenge for computer vision technologies designed to support disaster relief missions, National Defense Magazine reported Thursday. The xView2 Challenge aims to use artificial intelligence and machine learning for automated assessments of post-disaster damage. Last year's ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.executivegov.com/2020/03/diu-to-host-another-computer-vision-contest/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-14T14:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Executive Gov",
+        "domain": "executivegov.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://executivebiz.secure.force.com/archintelmedia/servlet/servlet.FileDownload?file=00Pf300000xogwBEAQ",
+          "width": 272,
+          "height": 270,
+          "title": "DIU to Host Another Computer Vision Contest",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-14-ibm-watson-gains-the-ability-to-understand-complex-topics.md",
+      "title": "IBM Watson Gains The Ability To Understand Complex Topics",
+      "excerpt": "“Language is a tool for expressing thought and opinion, as much as it is a tool for information,” said Rob Thomas, General Manager of IBM Data and AI. “This is why we’re harvesting technology from Project Debater and integrating it into Watson ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://pulse2.com/ibm-watson-complex-topics/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-14T14:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Pulse 2.0",
+        "domain": "pulse2.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.pulse2.com/cdn/2020/03/IBM-Watson.jpg",
+          "width": 1200,
+          "height": 1031,
+          "title": "IBM Watson Gains The Ability To Understand Complex Topics",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-14-beijing-self-driving-vehicle-road-tests-topped-one-million-km-in-2019.md",
       "title": "Beijing Self-Driving Vehicle Road Tests Topped One Million Km in 2019",
       "excerpt": "In 2019 Beijing’s cumulative self-driving testing reached 1.04 million kilometres — an equivalent to circling earth 20 times. Search-engine giant Baidu ranked first in autonomous vehicle ...",
@@ -940,296 +1191,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-13-mits-deep-learning-found-an-antibiotic-for-a-germ-nothing-else-could-kill.md",
-      "title": "MIT’s deep learning found an antibiotic for a germ nothing else could kill",
-      "excerpt": "Scientists at the Massachusetts Institute of Technology and Harvard last month described in the scholarly journal Cell how they used a deep learning neural network to identify a molecular compound that's different from most antibiotics. They showed that when the compound is injected in mice, it fights bacteria that no existing drug can eliminate.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/mits-deep-learning-found-an-antibiotic-for-a-germ-nothing-else-could-kill/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/mits-deep-learning-found-an-antibiotic-for-a-germ-nothing-else-could-kill/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/mits-deep-learning-found-an-antibiotic-for-a-germ-nothing-else-could-kill/",
-      "publishedDateTime": "2020-03-13T13:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/03/13/b98e832c-157c-4938-8c1e-6b692877d498/mit-chemprop-building-representations.png",
-          "width": 1766,
-          "height": 1207,
-          "title": "MIT’s deep learning found an antibiotic for a germ nothing else could kill",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-13-biometrics-market-research-briefs-digital-id-revenues-to-leap-past-30b-by-2024.md",
-      "title": "Biometrics market research briefs: digital ID revenues to leap past $30B by 2024",
-      "excerpt": "The recent investment in Valencell biometric sensors for wearables and Facebook’s acquisition of Sanzaru Games are among recent ... These challenges now are being overcome by leveraging advances in AI and connectivity.” The research notes the increasing prevalence of CCTV systems for video surveillance for behavior or anomaly analysis ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.biometricupdate.com/202003/biometrics-market-research-briefs-digital-id-revenues-to-leap-past-30b-by-2024",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-13T12:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Biometric Companies",
-        "domain": "biometricupdate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/05/11111722/Digital-identity-v2.jpg",
-          "width": 1000,
-          "height": 667,
-          "title": "Biometrics market research briefs: digital ID revenues to leap past $30B by 2024",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-13-4-steps-to-improve-customer-experience-with-ai.md",
-      "title": "4 Steps To Improve Customer Experience With AI",
-      "excerpt": "With the above-mentioned challenges in mind, a multi-step, holistic effort is the best way for financial services companies to ensure their AI and machine learning initiatives deliver a return on ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/ibmai/2020/03/13/4-steps-financial-services-firms-can-take-with-ai-to-improve-customer-experience/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-13T11:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-13-hades-startup-uses-ai-to-explore-fix-the-sewer-underworld.md",
-      "title": "Hades Startup Uses AI To Explore, Fix The Sewer Underworld",
-      "excerpt": "Hades is a company that uses artificial intelligence to identify cracks, defects and blocks in sewers. Hades also is a god in Greek mythology that looks after the underworld. “Like him, we see ourselves as the ones looking after the underground,",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/jeffkart/2020/03/13/hades-startup-uses-ai-to-explore-fix-the-sewer-underworld/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-13T11:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-13-introduction-to-natural-language-processing.md",
-      "title": "Introduction To Natural Language Processing",
-      "excerpt": "Natural Language Processing or simply abbreviated as NLP is a highly specialized branch of Artificial Intelligence and Machine Learning that deals with understanding the natural human language.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/datadriveninvestor/introduction-to-natural-language-processing-a39168c69c86",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-13T10:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/1200/0*v1h6A7-ufXZo4l1Y",
-          "width": 1200,
-          "height": 600,
-          "title": "Introduction To Natural Language Processing",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-13-a-complete-guide-to-the-machine-learning-tools-on-aws.md",
-      "title": "A Complete Guide to the Machine Learning Tools on AWS",
-      "excerpt": "Amazon Rekognition is a computer vision solution from AWS that helps developers to build applications that can recognize objects from images and videos. In addition to automatic object recognition ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/practicalmachinelearning/a-complete-guide-to-the-machine-learning-tools-on-aws-76dbf4e5aca3",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-13T09:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/538/1*pCS2liznZQR4cm9WvU1oXw.png",
-          "width": 538,
-          "height": 340,
-          "title": "A Complete Guide to the Machine Learning Tools on AWS",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-13-aclu-sues-us-government-over-its-use-of-facial-recognition-at-airports.md",
-      "title": "ACLU sues US government over its use of facial recognition at airports",
-      "excerpt": "The American Civil Liberties Union is suing the US government over its failure to reveal details about the use of facial recognition at airports. On Thursday, the ACLU and the New York Civil Liberties Union filed a lawsuit asking a federal court to order a range of federal agencies to hand over their records about the tech’s usage at airports.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/03/13/aclu-sues-us-government-over-its-use-of-facial-recognition-at-airports/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/03/13/aclu-sues-us-government-over-its-use-of-facial-recognition-at-airports/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/03/13/aclu-sues-us-government-over-its-use-of-facial-recognition-at-airports/amp/",
-      "publishedDateTime": "2020-03-13T07:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/03/Untitled-design21-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "ACLU sues US government over its use of facial recognition at airports",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

@@ -23,6 +23,6 @@ images:
     height: 444
     title: "Artificial Intelligence Is Energy-Hungry – Solution: New AI Hardware Made of Quantum Material"
 
-secured: "0GRsvAIV5X6fbuJHc7b0yiEV1+nIP+MR+p9ErG/OI+uTCN3YVOXzvdFaC55AxtFH974g1uehCHBo7Li/m3SGp//hwle0JkS/Lc5gFPhvwa2WbBKR5N+ANZt+WVc1KLeVe4frvMxZxl21mSubcBh1DhASYJoVyAqGVQABBm6t6/wNR5Seb59ekQg0dbY+3PYy6+vBCcDqVog72t8Xsl7USoJ8MErG45TsUHkzIkPLP9K76zA8rDxd8KKG0N3zn0NWR3Yyl1iqBpdFeBoy9KcdtXvl5NNY/ffGIx8T1U8IDjEqnLazSA2OFLNJB/TcVuhn;q5y4SveWoy3UusXtOMGDHw=="
+secured: "miA92GZYmKn+j4Lb2WVr+vAmdAlbOShR646TdE/gTSTX1FExKnc48X4S97yzE0mgsxfPCKu+7P4ckPeAdqZy5Fbj5IJMrJY/hYWH6/pm4iN7MCXJIIbyUFONoTAOyn4nM+LseUMPUpbxa122d61BQmKFUFl1LAYfUKOgw1xq9WV8lKKgHQqXjesha2Cz4IpIUG3tmU76xDUotJ2alRbvGyZvZcPGqbV69JyX0qcRQ29ZB2HztuwmNY6iMfLQZQ8kFGl1LLqxX3zbUOT1QQGNba4eH0wTr+L9VV4ycE2YrGVyTAr47++J/ttpg3OCKnVS;NFwE+znWG+y0VcbU/xqR0g=="
 ---
 

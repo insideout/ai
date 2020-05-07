@@ -2,6 +2,96 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-02-01-how-aws-is-making-the-six-nations-2020-the-most-immersive-yet.md",
+      "title": "How AWS is making the Six Nations 2020 the most immersive yet",
+      "excerpt": "AWS tools including Elastic MapReduce and SageMaker are then used to harness machine learning and analytics to get detailed insight into that data, creating analytics that can then be shared in real time for live broadcast to viewers in over 170 countries to enjoy. For example, to power the new Kick Predictor statistics tool, the AWS Machine ...",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techradar.com/sg/news/aws-is-making-the-six-nations-2020-the-most-immersive-yet",
+      "ampWebUrl": "https://www.techradar.com/sg/amp/news/aws-is-making-the-six-nations-2020-the-most-immersive-yet",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/sg/amp/news/aws-is-making-the-six-nations-2020-the-most-immersive-yet",
+      "publishedDateTime": "2020-02-01T00:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/BXJa3tZu4oKtEXuFash5oE-1200-80.jpg",
+          "width": 970,
+          "height": 545,
+          "title": "How AWS is making the Six Nations 2020 the most immersive yet",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-01-29-amazon-comprehend-now-supports-multi-label-custom-classification.md",
+      "title": "Amazon Comprehend now supports multi-label custom classification",
+      "excerpt": "Amazon Comprehend is a fully managed natural language processing (NLP) service that enables text analytics to extract insights from the content of documents. Amazon Comprehend supports custom classification and enables you to build custom classifiers that are specific to your requirements, without the",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-comprehend-now-supports-multi-label-custom-classification/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-29T13:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/01/15/comprehend-multi-label-classification-1.gif",
+          "width": 1000,
+          "height": 420,
+          "title": "Amazon Comprehend now supports multi-label custom classification",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-01-29-amazon-made-rekognition-software-now-able-to-detect-fear.md",
       "title": "Amazon-made Rekognition software now able to detect fear",
       "excerpt": "Mashable is a global, multi-platform media and entertainment company. Powered by its own proprietary technology, Mashable is the go-to source for tech, digital culture and entertainment content ...",
@@ -1167,52 +1257,7 @@
         "AI",
         "AWS AI"
       ]
-    },
-    {
-      "path": "_news/2019-12-17-amazon-releases-a-new-tool-to-improve-machine-learning-processes.md",
-      "title": "Amazon Releases A New Tool To Improve Machine Learning Processes",
-      "excerpt": "One of Amazon’s most recent announcements was the release of their new tool called Amazon Rekognition Custom Labels. This advanced tool has the capability to improve machine learning on a whole new scale, allowing for better data analysis and object ...",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/ilkerkoksal/2019/12/17/amazon-releases-a-new-tool-to-improve-machine-learning-processes/",
-      "ampWebUrl": "https://www.forbes.com/sites/ilkerkoksal/2019/12/17/amazon-releases-a-new-tool-to-improve-machine-learning-processes/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ilkerkoksal/2019/12/17/amazon-releases-a-new-tool-to-improve-machine-learning-processes/amp/",
-      "publishedDateTime": "2019-12-17T01:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5df8a126e961e10007393d3f%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4000%26cropY1%3D203%26cropY2%3D2453",
-          "width": 1199,
-          "height": 675,
-          "title": "Amazon Releases A New Tool To Improve Machine Learning Processes",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
     }
   ],
-  "nextPage": null
+  "nextPage": 7
 }

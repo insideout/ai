@@ -2,6 +2,51 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-02-19-announcing-the-final-agenda-for-robotics-ai-march-3-at-uc-berkeley.md",
+      "title": "Announcing the final agenda for Robotics + AI — March 3 at UC Berkeley",
+      "excerpt": "TechCrunch is returning to U.C. Berkeley on March 3 to bring together some of the most influential minds in robotics and artificial intelligence. Each year we strive to bring together a cross-section of big companies and exciting new startups, along with top researchers, VCs and thinkers. Alongside a selection of handpicked demos, we’ll also ...",
+      "heat": 169,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/02/19/announcing-the-final-agenda-for-robotics-ai-march-3-at-uc-berkeley/",
+      "ampWebUrl": "https://techcrunch.com/2020/02/19/announcing-the-final-agenda-for-robotics-ai-march-3-at-uc-berkeley/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/19/announcing-the-final-agenda-for-robotics-ai-march-3-at-uc-berkeley/amp/",
+      "publishedDateTime": "2020-02-19T11:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/02/robot_header_final.png?w=1024",
+          "width": 1024,
+          "height": 562,
+          "title": "Announcing the final agenda for Robotics + AI — March 3 at UC Berkeley",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-02-19-these-companies-are-investing-billions-so-robots-can-perform-surgery-without-a-doctor-in-the-room.md",
       "title": "These companies are investing billions so robots can perform surgery without a doctor in the room",
       "excerpt": "Scientists are excited about the potential for artificial intelligence, improved connectivity, and other technological advancements to make robotic",
@@ -1223,51 +1268,6 @@
           "width": 640,
           "height": 320,
           "title": "US Army to use gamers’ brain waves to train military robot swarms",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-02-10-how-to-empower-yourself-in-the-job-search-and-fight-back-against-the-ai-robots.md",
-      "title": "How To Empower Yourself In The Job Search And Fight Back Against The AI Robots",
-      "excerpt": "This approach is a useful and important tool to get yourself in front of the right people. This strategy will help increase your chances of getting noticed, chosen for an interview and, ultimately, getting the job you want.",
-      "heat": 100,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/jackkelly/2020/02/10/how-to-empower-yourself-in-the-job-search-and-fight-back-against-the-ai-robots/",
-      "ampWebUrl": "https://www.forbes.com/sites/jackkelly/2020/02/10/how-to-empower-yourself-in-the-job-search-and-fight-back-against-the-ai-robots/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jackkelly/2020/02/10/how-to-empower-yourself-in-the-job-search-and-fight-back-against-the-ai-robots/amp/",
-      "publishedDateTime": "2020-02-10T08:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1180036882%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "How To Empower Yourself In The Job Search And Fight Back Against The AI Robots",
           "attribution": null
         }
       ],

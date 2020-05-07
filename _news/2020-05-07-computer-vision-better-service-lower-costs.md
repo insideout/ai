@@ -23,6 +23,6 @@ images:
     height: 300
     title: "Computer Vision = Better Service + Lower Costs"
 
-secured: "QCAbd+4FesFnwuOsMtIPz8qJezL1OSp3YcVnBa4R5yKF6v5CWasu5IJmckOdaf5rSimOw6HkwmkEICtCyaQOCLmsiSfsRB+oQ5dNBVzuA6m+qY5FFsmfhObeMk1XrV2DcRC15uwlcD/4mi2fH6zYQZlZ8wYSP9rBre/4aYTJg07EC/BfONanHGZgf/a3bTpciXLJDO0D52wFAuoOsRV3veZcxzeJHMDrJdMrN9Fabpi5Pr1bTQVb3hgpJeySug3XX22qTRtGEhEkVEmNG63pUhLLfKIBwQO5KDP/1fFMlVFE9H2MVlx/yS3/T52TXLxk;kt00xYWwSGTmcJr1DOsoDw=="
+secured: "myNG98xDysqOWROcfs2ltJZLiiZRG/xoPf+5LgDZ95XwWhFKWnXyhY5fUjTksPytwoaIvm7YcMIEOHQokxvVgg5A5e+ALMgUMIrBMrCKwTki9YqTHfo/Yibi8fqN2N9J/LEgdhG/M7ScL7hBQkM/+HS1Wh+XUCttu2PR/zK6/cBilZyL4YMfKwUSjw5DPJNZYbZDdDQRSNsd9//1moBJAd87XnKior4P5qnCS4LZWNDCObcGVs0R83eyaXTt3l52qkQbOfSc4NJNV6XEGq9fzH/FwLhX4ieJCfjCL8TbSqxOySqhvZS2jnd4drr9d/DQ;2rBv5o1Emscn2Lnv2b0tEQ=="
 ---
 

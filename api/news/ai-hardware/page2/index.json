@@ -2,6 +2,43 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-04-21-new-weka-ai-framework-to-accelerate-edge-to-core-to-cloud-data-pipelines.md",
+      "title": "New Weka AI framework to accelerate Edge to Core to Cloud Data Pipelines",
+      "excerpt": "WekaIO introduced Weka AI, a transformative storage solution framework underpinned by the Weka File System (WekaFS) that enables accelerated edge-to-core-to-cloud data pipelines. Weka AI is a framework of customizable reference architectures (RAs) and software development kits (SDKs) with leading technology alliances like NVIDIA,",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://insidehpc.com/2020/04/new-weka-ai-to-accelerate-edge-to-core-to-cloud-data-pipelines/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-21T08:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "insideHPC",
+        "domain": "insidehpc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://insidehpc.com/wp-content/uploads/2017/07/wekaio.jpg",
+          "width": 300,
+          "height": 300,
+          "title": "New Weka AI framework to accelerate Edge to Core to Cloud Data Pipelines",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-21-wekaio-introduces-weka-ai-to-enable-accelerated-edge-to-core-to-cloud-data-pipelines.md",
       "title": "WekaIO Introduces Weka AI to Enable Accelerated Edge to Core to Cloud Data Pipelines",
       "excerpt": "WekaIO™ (Weka), the innovation leader in high-performance and scalable file storage, and a NVIDIA Partner Network Solution Advisor, today introduced W",
@@ -1262,51 +1299,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-07-powering-the-edge-with-ai-in-an-iot-world.md",
-      "title": "Powering The Edge With AI In An IoT World",
-      "excerpt": "The edge has to be powered with more processing power. This will enable enterprises to run AI models at the edge, thereby bringing more intelligence to the edge.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/04/06/powering-the-edge-with-ai-in-an-iot-world/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/04/06/powering-the-edge-with-ai-in-an-iot-world/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/04/06/powering-the-edge-with-ai-in-an-iot-world/amp/",
-      "publishedDateTime": "2020-04-06T17:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F04%2Fa-89.jpg",
-          "width": 640,
-          "height": 640,
-          "title": "Powering The Edge With AI In An IoT World",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

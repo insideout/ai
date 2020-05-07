@@ -37,6 +37,19 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "The AI Eye Episode 345: IBM Collaborating with Samsung, M1, IMDA on Singapore's 5G Industry 4.0 Trial and Virtusa Achieves AWS SaaS Competency"
+    excerpt: "Point Roberts, WA and Vancouver, BC - May 7, 2020 (Investorideas.com Newswire) Investorideas.com ( a global investor news source covering Artificial Intelligence (AI) brings you today's edition of The AI Eye - watching stock news,"
+    publishedDateTime: 2020-05-07T19:21:00Z
+    webUrl: "https://www.marketwatch.com/press-release/the-ai-eye-episode-345-ibm-collaborating-with-samsung-m1-imda-on-singapores-5g-industry-40-trial-and-virtusa-achieves-aws-saas-competency-2020-05-07"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 48
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
 
 secured: "qQ88u8MbRSJC+U0W0+OUh4gYFAo3UaEjHidwNiYQm45olAiEg/Lqsw3M8P6GPQFzIDfJXhSP/X5eOZ2iWV00GdjcUgMfh2LpvvMcBMxWZEoAEpreKriorTSJLWMYKjo8igNZG4Yf3NIRxsl5VQkjFWX7XpbrXJ27V98VncdAM2vlt3gX9d6H3t4w+g4gx7SsOKeglKKkgz8v2dq+Mh/4wxDin/4Petqs7FfKc7FdOzkDM4V32jpGLmAW0Eq6O9vKL7JySETDThdUA8kYj4GEHNmo55DOxhxDTF8wpva4+hHJHJfLeDwPT1uKic2aO/AC;Xdg1w+0ak0IbSscNhgjIEQ=="
 ---

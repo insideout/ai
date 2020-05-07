@@ -7,8 +7,8 @@ webUrl: "https://investorplace.com/2020/05/10-ai-stocks-to-buy-now-artificial-in
 ampWebUrl: "https://investorplace.com/2020/05/10-ai-stocks-to-buy-now-artificial-intelligence/amp/"
 cdnAmpWebUrl: "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/05/10-ai-stocks-to-buy-now-artificial-intelligence/amp/"
 type: article
-quality: 58
-heat: 58
+quality: 56
+heat: 56
 published: false
 
 provider:
@@ -16,7 +16,6 @@ provider:
   domain: investorplace.com
 
 topics:
-  - IBM AI
   - AI
 
 images:
@@ -25,6 +24,6 @@ images:
     height: 900
     title: "There’s Nothing Fake About These 10 Artificial Intelligence Stocks to Buy"
 
-secured: "phdH4WJgDdTKu8ZzFENrOTehiObbIMIzll/JvbcOYlRT9+3MNyfShYKq/i2AzuBIdkmYDKoFk8ksg3Sa+lAQENhl8CFqaDE8NIaqI94z0Df+zo8Z3W3xAcaSGYA/LU/TG18dU7718WZ/x3zynQ6/rDUogK2tJPdcWmk/bnmsSukTiigJz6n1aRqUR1iIAFi2q8F3wJxn0Fw1QfVv2yGW8cPQAXGQoWOQH+OyX6PfCwpwMZTsbCtBvIRmiH85sMbBO7aIz9SFPSFxZBtDl95ua7WgvAxKIiOWO3HwNZUBxSzoqbcalN3yXLDDB3lZ82hc;bYb6pWflyTwjI4S12fBDww=="
+secured: "yJyNSpAqXGH0drcq7Vvtjw9DEhy9MUz5KeHUJeZJP+U14MXVCNbDTeIdoW/Co/pnyBv1yC0ilTxf09o+e2Are3szTWSAI5ZDnfK9V026EgVL0G5okT/iRjiz1kb0AFxsxLHmUDbaqbqqZKmAAMzUWi9QcRRgnwDXh5PNzLvtSTi+gcGyNqDwV3dgtySaFPfT71t4hBHoCUfGTgKNOKRMfIj6HZ6aWxJ4S7/7jn64s8KfyI/Nr20ID3xO3qVsmDe4GTOsGS56EWwY2aLRma/QZgl+OR8PoqF8XVPDZtcg7cx78HIaWzfE8R22w7vr8iQk;1HnW/mMjGlR+mGdRtAAyKQ=="
 ---
 

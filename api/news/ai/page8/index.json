@@ -2,6 +2,295 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-04-30-cruise-cant-test-its-self-driving-cars-so-its-delivering-food-instead.md",
+      "title": "Cruise can't test its self-driving cars. So it's delivering food instead.",
+      "excerpt": "Cruise vehicles, the self-driving electric Chevy Bolts usually spotted around San Francisco neighborhoods, are back on the road after a brief pause during the coronavirus outbreak. And now that the fleet is considered an essential service,",
+      "heat": 73,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://sea.mashable.com/tech/10356/cruise-cant-test-its-self-driving-cars-so-its-delivering-food-instead",
+      "ampWebUrl": "https://sea.mashable.com/tech/10356/cruise-cant-test-its-self-driving-cars-so-its-delivering-food-instead?amp=1",
+      "cdnAmpWebUrl": "https://sea-mashable-com.cdn.ampproject.org/c/s/sea.mashable.com/tech/10356/cruise-cant-test-its-self-driving-cars-so-its-delivering-food-instead?amp=1",
+      "publishedDateTime": "2020-04-29T22:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://sm.mashable.com/t/mashable_sea/news/c/cruise-can/cruise-cant-test-its-self-driving-cars-so-its-delivering-foo_s4qe.620.jpg",
+          "width": 619,
+          "height": 413,
+          "title": "Cruise can't test its self-driving cars. So it's delivering food instead.",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-30-eurotech-announces-the-availability-of-the-esf-cloud-connector-for-aws-iot-core.md",
+      "title": "Eurotech Announces the Availability of the ESF Cloud Connector for AWS IoT Core",
+      "excerpt": "Eurotech announces the availability of the ESF Cloud Connector for AWS IoT Core - Eurotech.com. ETH: MI Distribution / Indexing: [+] / [Company listed above is a registered member of our network. Cont",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.newswiretoday.com/news/172805/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-29T21:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newswire Today",
+        "domain": "newswiretoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-30-these-ai-generated-memes-are-bizarre-and-profound.md",
+      "title": "These AI generated memes are bizarre and profound",
+      "excerpt": "For an entire generation reared in the murky dark corners of the internet, memes are the preferred mode of communication. They help us deal with catastrophic events and manage existential dread; they can even help shape the spread of diseases like the coronavirus.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnet.com/news/these-ai-created-memes-are-bizarre-and-profound-at-the-exact-same-time/",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/these-ai-created-memes-are-bizarre-and-profound-at-the-exact-same-time/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/these-ai-created-memes-are-bizarre-and-profound-at-the-exact-same-time/",
+      "publishedDateTime": "2020-04-29T21:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cnet3.cbsistatic.com/img/8H-_8nn57zlQt9SV6hr1lOKPr24=/940x0/2020/04/30/6f286b36-5379-4b5e-92f6-1e5707ad6403/screen-shot-2020-04-30-at-1-52-02-pm.png",
+          "width": 940,
+          "height": 739,
+          "title": "These AI generated memes are bizarre and profound",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-30-uber-ai-plays-any-atari-2600-game-with-superhuman-skill.md",
+      "title": "Uber AI plays any Atari 2600 game with 'superhuman' skill",
+      "excerpt": "A team of Uber AI researchers has developed a set of algorithms, Go-Explore, that reportedly beats any Atari 2600 game with s",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.engadget.com/uber-ai-masters-atari-games-012832222.html",
+      "ampWebUrl": "https://www.engadget.com/amp/uber-ai-masters-atari-games-012832222.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/uber-ai-masters-atari-games-012832222.html",
+      "publishedDateTime": "2020-04-29T18:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-04%2F8f3ed930-8a57-11ea-9eff-3f7b8dfa6da0&client=amp-blogside-v2&signature=954161227f6ff5db57b37b4e922fd3c5a0386285",
+          "width": 600,
+          "height": 350,
+          "title": "Uber AI plays any Atari 2600 game with 'superhuman' skill",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-30-with-ios-135-public-beta-2-face-id-can-recognize-when-youre-wearing-a-mask.md",
+      "title": "With IOS 13.5 Public Beta 2, Face ID Can Recognize When You're Wearing A Mask",
+      "excerpt": "The iOS 13.4.5 Public Beta cycle had been anything but normal. First, developers got the beta a week before Public Beta testers (that usually only happens when a brand-new version of iOS is released).",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/anthonykarcz/2020/04/29/with-ios-135-public-beta-2-face-id-can-recognize-when-youre-wearing-a-mask/",
+      "ampWebUrl": "https://www.forbes.com/sites/anthonykarcz/2020/04/29/with-ios-135-public-beta-2-face-id-can-recognize-when-youre-wearing-a-mask/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anthonykarcz/2020/04/29/with-ios-135-public-beta-2-face-id-can-recognize-when-youre-wearing-a-mask/amp/",
+      "publishedDateTime": "2020-04-29T17:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/711x399/https://specials-images.forbesimg.com/imageserve/5eaa056a12fcd40006de04b7/960x0.jpg?fit=scale",
+          "width": 711,
+          "height": 399,
+          "title": "With IOS 13.5 Public Beta 2, Face ID Can Recognize When You're Wearing A Mask",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-29-salesforces-ai-economist-aims-to-help-leaders-design-tax-policies.md",
+      "title": "Salesforce's AI Economist aims to help leaders design tax policies",
+      "excerpt": "Ultimately, Salesforce's AI Research team says, the objective is to help leaders create policies that can lead to specific social objectives like helping the middle class.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/salesforces-ai-economist-aims-to-help-leaders-design-tax-policies/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/salesforces-ai-economist-aims-to-help-leaders-design-tax-policies/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/salesforces-ai-economist-aims-to-help-leaders-design-tax-policies/",
+      "publishedDateTime": "2020-04-29T16:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2020/04/29/92b0d477-f829-4ee3-bd3f-f484d9050e8e/thumbnail/1200x675/780109cb72eefa05e25692355964dc23/ai-economist.png",
+          "width": 1200,
+          "height": 675,
+          "title": "Salesforce's AI Economist aims to help leaders design tax policies",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-29-six-areas-where-ai-is-improving-customer-experiences.md",
+      "title": "Six Areas Where AI Is Improving Customer Experiences",
+      "excerpt": "This year's hard reset is amplifying how vital customer relationships are and how much potential AI has to find new ways to improve them.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/louiscolumbus/2020/04/29/six-areas-where-ai-is-improving-customer-experiences/",
+      "ampWebUrl": "https://www.forbes.com/sites/louiscolumbus/2020/04/29/six-areas-where-ai-is-improving-customer-experiences/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/04/29/six-areas-where-ai-is-improving-customer-experiences/amp/",
+      "publishedDateTime": "2020-04-29T15:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ea9ff80228117000681d192%2F0x0.jpg",
+          "width": 1200,
+          "height": 687,
+          "title": "Six Areas Where AI Is Improving Customer Experiences",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-29-ai-cant-be-legally-credited-as-an-inventor-says-uspto.md",
       "title": "AI can't be legally credited as an inventor, says USPTO",
       "excerpt": "The agency issued a decision on two patent applications for devices created by an AI system, determining that only humans can legally be credited as inventors. The items in question -- an emergency flashlight and a shape-shifting drink container -- were the brainchildren of a system called DABUS.",
@@ -965,304 +1254,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-29-this-ai-driven-meme-generator-delivers-the-avant-garde-content-you-need.md",
-      "title": "This AI-driven meme generator delivers the avant-garde content you need",
-      "excerpt": "Are memes art? And are computers capabale of producing it? The answer is yes, because we've discovered this AI meme generator.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/04/29/imgflip-ai-meme-generator-distraction-lockdown/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/04/29/imgflip-ai-meme-generator-distraction-lockdown/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/04/29/imgflip-ai-meme-generator-distraction-lockdown/amp/",
-      "publishedDateTime": "2020-04-29T05:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/04/header-image-neural-ai-meme-generator-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "This AI-driven meme generator delivers the avant-garde content you need",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-29-saykara-ai-voice-assistant-eases-transition-to-virtual-healthcare.md",
-      "title": "Saykara AI Voice Assistant Eases Transition to Virtual Healthcare",
-      "excerpt": "Saykara, creator of the first ambient AI voice assistant for medical exam room conversations, today announced it has added a telehealth on-ramp to make",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/saykara-ai-voice-assistant-eases-transition-to-virtual-healthcare/article_0f4573e4-e2a2-54bc-acad-952d7eaf1831.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-29T05:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-29-quest-for-fusion-energy-may-be-advanced-by-artificial-intelligence-and-machine-learning.md",
-      "title": "Quest for Fusion Energy May Be Advanced by Artificial Intelligence and Machine Learning",
-      "excerpt": "Algorithms are increasingly being deployed to predict disruptions that could potentially occur during fusion experiments and may help turn the long-discussed energy source into reality, experts say.",
-      "heat": 96,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.newsweek.com/fusion-energy-experiments-machine-learning-artificial-intelligence-computing-iter-1500868",
-      "ampWebUrl": "https://www.newsweek.com/fusion-energy-experiments-machine-learning-artificial-intelligence-computing-iter-1500868?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/fusion-energy-experiments-machine-learning-artificial-intelligence-computing-iter-1500868?amp=1",
-      "publishedDateTime": "2020-04-29T05:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1585581/iter.jpg",
-          "width": 2500,
-          "height": 1666,
-          "title": "Quest for Fusion Energy May Be Advanced by Artificial Intelligence and Machine Learning",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-04-29-uk-start-ups-have-raised-825-million-during-virus-lockdown-but-fewer-deals-are-being-made.md",
-      "title": "UK start-ups have raised $825 million during virus lockdown, but fewer deals are being made",
-      "excerpt": "Funding into U.K. start-ups has soared by 34% as investors look to ensure their bets stay afloat during the coronavirus pandemic.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnbc.com/2020/04/28/coronavirus-uk-start-ups-have-raised-825-million-during-lockdown.html",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/04/28/coronavirus-uk-start-ups-have-raised-825-million-during-lockdown.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/04/28/coronavirus-uk-start-ups-have-raised-825-million-during-lockdown.html",
-      "publishedDateTime": "2020-04-29T04:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/105446571-1536765456472rts20xk6.jpg?v=1536765553",
-          "width": 4842,
-          "height": 2952,
-          "title": "UK start-ups have raised $825 million during virus lockdown, but fewer deals are being made",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-29-rise-of-the-machines-aiml-in-endpoint-protection.md",
-      "title": "Rise Of The Machines: AI/ML In Endpoint Protection",
-      "excerpt": "While AI/ML is no panacea for cyber threats we all face today, the rise of the machines has given us a powerful advantage in the never-ending battle against hackers and cybercriminals.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/04/29/rise-of-the-machines-aiml-in-endpoint-protection/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/04/29/rise-of-the-machines-aiml-in-endpoint-protection/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/04/29/rise-of-the-machines-aiml-in-endpoint-protection/amp/",
-      "publishedDateTime": "2020-04-29T04:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F04%2Fa-50-3.jpg",
-          "width": 640,
-          "height": 640,
-          "title": "Rise Of The Machines: AI/ML In Endpoint Protection",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-29-microsoft-this-is-how-to-protect-your-machine-learning-applications.md",
-      "title": "Microsoft: This is how to protect your machine-learning applications",
-      "excerpt": "The models that drive our ML applications are incredibly complex, training neural networks on large data sets. But there's a big problem: they're hard to explain or understand. Why does a model parse a red blob with white text as a stop sign and not a soft drink advert?",
-      "heat": 93,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/microsoft-this-is-how-to-protect-your-machine-learning-applications/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/microsoft-this-is-how-to-protect-your-machine-learning-applications/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-this-is-how-to-protect-your-machine-learning-applications/",
-      "publishedDateTime": "2020-04-29T03:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr2.cbsistatic.com/hub/i/r/2019/08/06/c636a26a-4a72-4e6b-8469-f357a0455fab/thumbnail/1200x675/15ff09e17986a3e2c1c634ad738d0959/20190801-jimhare-karen.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Microsoft: This is how to protect your machine-learning applications",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Google AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-29-yandex-deploys-autonomous-delivery-robots-in-moscows-skolkovo-district.md",
-      "title": "Yandex deploys autonomous delivery robots in Moscow’s Skolkovo district",
-      "excerpt": "Yandex today announced the launch of an autonomous delivery service in Skolkovo, Russia, powered by its Yandex.Rover robots.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/29/yandex-deploys-autonomous-delivery-robots-in-moscows-skolkovo-district/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/29/yandex-deploys-autonomous-delivery-robots-in-moscows-skolkovo-district/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/29/yandex-deploys-autonomous-delivery-robots-in-moscows-skolkovo-district/amp/",
-      "publishedDateTime": "2020-04-29T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/11/yandex_drone-e1588089973460.png?fit=750%2C375&strip=all",
-          "width": 750,
-          "height": 375,
-          "title": "Yandex deploys autonomous delivery robots in Moscow’s Skolkovo district",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

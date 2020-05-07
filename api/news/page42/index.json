@@ -2,6 +2,312 @@
   "page": 42,
   "value": [
     {
+      "path": "_news/2020-04-02-robots-and-the-autonomous-supply-chain.md",
+      "title": "Robots And The Autonomous Supply Chain",
+      "excerpt": "Autonomous robots have an increasing role to play in supply chains. They are being used in warehouses, on interstates, for last mile deliveries, and even in stores.",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/stevebanker/2020/04/02/robots-and-the-autonomous-supply-chain/",
+      "ampWebUrl": "https://www.forbes.com/sites/stevebanker/2020/04/02/robots-and-the-autonomous-supply-chain/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevebanker/2020/04/02/robots-and-the-autonomous-supply-chain/amp/",
+      "publishedDateTime": "2020-04-02T04:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1066949498%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6000%26cropY1%3D308%26cropY2%3D3683",
+          "width": 1200,
+          "height": 675,
+          "title": "Robots And The Autonomous Supply Chain",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-02-ikea-acquires-ai-imaging-startup-geomagical-labs-to-supercharge-room-visualisations.md",
+      "title": "Ikea acquires AI imaging startup Geomagical Labs to supercharge room visualisations",
+      "excerpt": "Today, it’s taking another step in that trajectory with a tech acquisition: the company has acquired Geomagical Labs, an AI imaging startup based out of Mountain View. Geomagical Labs has a number of computer vision-based technologies in the works right now, but its first product — which allows a user to quickly scan a room using any ...",
+      "heat": 81,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/04/02/ikea-acquires-ai-imaging-startup-geomagical-labs-to-supercharge-room-visualisations/",
+      "ampWebUrl": "https://techcrunch.com/2020/04/02/ikea-acquires-ai-imaging-startup-geomagical-labs-to-supercharge-room-visualisations/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/02/ikea-acquires-ai-imaging-startup-geomagical-labs-to-supercharge-room-visualisations/amp/",
+      "publishedDateTime": "2020-04-02T03:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/04/Decorated-room-Pic2.png?w=1024",
+          "width": 1024,
+          "height": 577,
+          "title": "Ikea acquires AI imaging startup Geomagical Labs to supercharge room visualisations",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-02-artificial-intelligence-in-healthcare-market-insights-by-size-share-future-growth-and-forecast-from-2019-2029.md",
+      "title": "Artificial Intelligence in Healthcare Market Insights By Size, Share, Future Growth And Forecast From 2019-2029",
+      "excerpt": "The research study on Global Artificial Intelligence in Healthcare market 2019 presents an extensive analysis of",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-insights-by-size-share-future-growth-and-forecast-from-2019-2029-2020-04-23",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-02T03:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial Intelligence in Healthcare Market Insights By Size, Share, Future Growth And Forecast From 2019-2029",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-02-transform-your-photo-in-the-style-of-an-iconic-artist.md",
+      "title": "Transform your photo in the style of an iconic artist",
+      "excerpt": "From the bold, swirling movement in Vincent van Gogh's paintings, to the surreal, confident brushstrokes of Frida Kahlo, many famous artists have instantly recognizable styles. Now you can use these styles to transform your own photos. With Art Transfer, a new feature in the Google Arts &amp; Culture",
+      "heat": 94,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.blog.google/outreach-initiatives/arts-culture/transform-your-photo-style-iconic-artist/",
+      "ampWebUrl": "https://blog.google/outreach-initiatives/arts-culture/transform-your-photo-style-iconic-artist/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/arts-culture/transform-your-photo-style-iconic-artist/amp/",
+      "publishedDateTime": "2020-04-02T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Art_Transfer_mosaic.max-1300x1300.png",
+          "width": 1300,
+          "height": 515,
+          "title": "Transform your photo in the style of an iconic artist",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-02-automated-material-handling-equipment-market-to-witness-a-pronounce-growth-during-2020-to-2025.md",
+      "title": "Automated Material Handling Equipment Market to Witness a Pronounce Growth during 2020 to 2025",
+      "excerpt": "New York, April 02, 2020: The Automated Material Handling Equipment Market is expected to exceed more than US$ 50 Billion",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/automated-material-handling-equipment-market-to-witness-a-pronounce-growth-during-2020-to-2025-2020-04-02",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-02T01:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Automated Material Handling Equipment Market to Witness a Pronounce Growth during 2020 to 2025",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-02-ai-is-greedy-but-we-can-teach-it-to-share.md",
+      "title": "AI Is ‘Greedy’, But We Can Teach It To Share",
+      "excerpt": "Running Artificial Intelligence processes isn’t a lightweight computing operation. The so-called ‘data science workloads’ that AI solutions need to perform processes require more than your average laptop and,",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/adrianbridgwater/2020/04/02/ai-is-greedy-but-we-can-teach-it-to-share/",
+      "ampWebUrl": "https://www.forbes.com/sites/adrianbridgwater/2020/04/02/ai-is-greedy-but-we-can-teach-it-to-share/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2020/04/02/ai-is-greedy-but-we-can-teach-it-to-share/amp/",
+      "publishedDateTime": "2020-04-02T01:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e84b1f12b3ff900068e6813%2F0x0.jpg",
+          "width": 640,
+          "height": 449,
+          "title": "AI Is ‘Greedy’, But We Can Teach It To Share",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-02-fintech-start-up-recko-raises-42-cr-in-series-a-round.md",
+      "title": "Fintech start-up Recko raises ₹42 cr in Series A round",
+      "excerpt": "Vertex Ventures SEA and India has led a ₹42-crore ($6-million) Series A round in enterprise fintech start-up Recko, with participation from existing investor Prime Venture Partners. Recko, which enables AI-powered reconciliation of digital transactions ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.thehindubusinessline.com/info-tech/fintech-start-up-recko-raises-42-cr-in-series-a-round/article31234152.ece",
+      "ampWebUrl": "https://www.thehindubusinessline.com/info-tech/fintech-start-up-recko-raises-42-cr-in-series-a-round/article31234152.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/fintech-start-up-recko-raises-42-cr-in-series-a-round/article31234152.ece/amp/",
+      "publishedDateTime": "2020-04-02T00:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Line",
+        "domain": "thehindubusinessline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.thehindubusinessline.com/todays-paper/tp-others/tp-states/c374ux/article30591370.ece/ALTERNATES/LANDSCAPE_615/bl1817bgakrPGR8705KHD3jpgjpg",
+          "width": 615,
+          "height": 384,
+          "title": "Fintech start-up Recko raises ₹42 cr in Series A round",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-02-snowflakes-snowpro-certification-preparation-guide-how-to-pass-in-3-days.md",
       "title": "Snowflake’s SnowPro Certification Preparation Guide — How to pass in 3 days",
       "excerpt": "Snowflake’s SnowPro Core Certification exam was just released a few months back (late 2019). The 2 hours, 100 questions exam tests an individual’s foundational and advance knowledge of ...",
@@ -722,297 +1028,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-01-deepminds-new-ai-can-beat-humans-at-57-atari-games.md",
-      "title": "DeepMind’s new AI can beat humans at 57 Atari games",
-      "excerpt": "Google subsidiary DeepMind has unveiled an AI called Agent57 that can beat the average human at 57 classic Atari games. The system achieved this feat using deep reinforcement learning, a machine learning technique that helps an AI improve its decisions by trying out different approaches and learning from its mistakes. DeepMind used the same ...",
-      "heat": 104,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/04/01/deepminds-new-agent57-ai-can-beat-humans-at-57-atari-games/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/04/01/deepminds-new-agent57-ai-can-beat-humans-at-57-atari-games/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/04/01/deepminds-new-agent57-ai-can-beat-humans-at-57-atari-games/amp/",
-      "publishedDateTime": "2020-04-01T10:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/04/Untitled-design46-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "DeepMind’s new AI can beat humans at 57 Atari games",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-01-deepminds-ai-learned-how-to-play-every-atari-game.md",
-      "title": "DeepMind's AI learned how to play every Atari game",
-      "excerpt": "Google-owned artificial intelligence firm DeepMind developed an AI system that can play all 57 video games and beat human averages, according to a research paper published this week. The AI, called Agent57,",
-      "heat": 124,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnet.com/news/deepminds-ai-learned-how-to-play-every-atari-game/",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/deepminds-ai-learned-how-to-play-every-atari-game/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/deepminds-ai-learned-how-to-play-every-atari-game/",
-      "publishedDateTime": "2020-04-01T10:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cnet2.cbsistatic.com/img/4GAXIulyS7cubuKb6mk5aqZ-qbI=/756x567/2017/07/27/3de74c24-095d-4c7e-9d5d-fb69ee27aaff/atari-flashback-8-gold-82.jpg",
-          "width": 756,
-          "height": 567,
-          "title": "DeepMind's AI learned how to play every Atari game",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-01-study-nations-leading-speech-recognition-systems-twice-as-likely-to-misinterpret-black-speech.md",
-      "title": "Study: Nation’s Leading Speech Recognition Systems Twice as Likely to Misinterpret Black Speech",
-      "excerpt": "The technology behind automated speech recognition systems at some of the nation’s top tech firms are twice as likely to misinterpret words spoken by African-Americans compared to those spoken by whites, according to a new study out of Stanford University. Stanford University researchers found that speech recognition systems used by the top ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://atlantablackstar.com/2020/04/01/study-nations-leading-speech-recognition-systems-twice-as-likely-to-misinterpret-black-speech/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-01T10:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Atlanta Blackstar",
-        "domain": "atlantablackstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://atlantablackstar.com/wp-content/uploads/2020/03/GettyImages-1189583572-scaled.jpg",
-          "width": 2560,
-          "height": 1707,
-          "title": "Study: Nation’s Leading Speech Recognition Systems Twice as Likely to Misinterpret Black Speech",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-01-immunitybio-and-microsoft-team-up-to-precisely-model-how-key-covid-19-protein-leads-to-infection.md",
-      "title": "ImmunityBio and Microsoft team up to precisely model how key COVID-19 protein leads to infection",
-      "excerpt": "In practical terms, the partnership between the two companies included a complement of 1,250 Nvidia V100 Tensor Core GPUs designed for use in machine learning applications from a Microsoft Azure cluster, working with ImmunityBio’s existing 320 GPU cluster that is tuned specifically to molecular modeling work. The results of the collaboration ...",
-      "heat": 86,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/04/01/immunitybio-and-microsoft-team-up-to-precisely-model-how-key-covid-19-protein-leads-to-infection/",
-      "ampWebUrl": "https://techcrunch.com/2020/04/01/immunitybio-and-microsoft-team-up-to-precisely-model-how-key-covid-19-protein-leads-to-infection/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/01/immunitybio-and-microsoft-team-up-to-precisely-model-how-key-covid-19-protein-leads-to-infection/amp/",
-      "publishedDateTime": "2020-04-01T09:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/04/covid-19-spike-protein.png?w=1024",
-          "width": 1024,
-          "height": 561,
-          "title": "ImmunityBio and Microsoft team up to precisely model how key COVID-19 protein leads to infection",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-01-alphabets-deepmind-ai-is-better-than-you-at-atari-games.md",
-      "title": "Alphabet’s DeepMind AI is better than you at Atari games",
-      "excerpt": "Having AI agents learn how to play simple video games is an ideal way to test their effectiveness, thanks to the ability to measure success via a score. Alphabet's DeepMind designated 57 particular Atari games to serve as a litmus test for its AI, and established a benchmark for the skills of an average human player. The company's latest system ...",
-      "heat": 104,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.engadget.com/2020-04-01-deepmind-agent57-ai-atari.html",
-      "ampWebUrl": "https://www.engadget.com/amp/2020-04-01-deepmind-agent57-ai-atari.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020-04-01-deepmind-agent57-ai-atari.html",
-      "publishedDateTime": "2020-04-01T09:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D5600%252C3035%252C0%252C701%26quality%3D85%26format%3Djpg%26resize%3D1600%252C867%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2020-04%252F99e3f5c0-742f-11ea-b93f-3ab31fad626d%26client%3Da1acac3e1b3290917d92%26signature%3D50e87b16d59bff72a11f5cd3c3bba0eaaac088ba&client=amp-blogside-v2&signature=11dace15f5dff7bbf1c1c07bb67f847e04c238e5",
-          "width": 600,
-          "height": 350,
-          "title": "Alphabet’s DeepMind AI is better than you at Atari games",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-01-deal-looking-for-an-exciting-cutting-edge-career-dive-into-artificial-intelligence.md",
-      "title": "Deal: Looking for an exciting, cutting-edge career? Dive into Artificial Intelligence",
-      "excerpt": "Artificial intelligence is just starting to break out into the mainstream through applications like self driving cars and analytical software. If you want to dive into an exciting career field ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://pocketnow.com/artificial-intelligence-deal",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-01T09:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pocketnow.com",
-        "domain": "pocketnow.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://pocketnow.com/wp/../files/2016/07/PN-Complete-Machine-Learning-Bundle.jpg",
-          "width": 760,
-          "height": 473,
-          "title": "Deal: Looking for an exciting, cutting-edge career? Dive into Artificial Intelligence",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-01-automation-anywhere-named-a-leader-and-star-performer-in-intelligent-document-processing-peak-matrix-assessment-by-everest-group.md",
-      "title": "Automation Anywhere Named a Leader and Star Performer in Intelligent Document Processing PEAK Matrix® Assessment by Everest Group",
-      "excerpt": "SAN JOSE, Calif., April 1, 2020 /PRNewswire/ -- Automation Anywhere, a global leader in Robotic Process Automation (RPA), today announced that Everest Group, a leading research and consulting firm, has named it a Leader and a Star Performer in its Intelligent Document Processing (IDP) 2020 PEAK Matrix.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://apnews.com/PR Newswire/87142a4026b665a22a1eee05c9532f6a",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-01T09:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": "Automation Anywhere Named a Leader and Star Performer in Intelligent Document Processing PEAK Matrix® Assessment by Everest Group",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

@@ -2,6 +2,302 @@
   "page": 101,
   "value": [
     {
+      "path": "_news/2020-01-22-oakland-startup-nets-221m-to-build-out-whats-no-longer-science-fiction.md",
+      "title": "Oakland startup nets $22.1M to build out what's 'no longer science fiction'",
+      "excerpt": "When Sean Byrnes started his automated data analytics company, Outlier, in 2015 the idea of using artificial intelligence to boil down the massive amounts of data businesses collect into a few valuable insights sounded like science fiction.",
+      "heat": 140,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.bizjournals.com/sanfrancisco/news/2020/01/22/oakland-startup-nets-22-1m-to-build-out-whats-no.html",
+      "ampWebUrl": "https://www.bizjournals.com/sanfrancisco/news/2020/01/22/oakland-startup-nets-22-1m-to-build-out-whats-no.amp.html",
+      "cdnAmpWebUrl": "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/sanfrancisco/news/2020/01/22/oakland-startup-nets-22-1m-to-build-out-whats-no.amp.html",
+      "publishedDateTime": "2020-01-22T04:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Business Journals",
+        "domain": "bizjournals.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.bizj.us/view/img/11585539/sean-byrnes-horizontal*600xx3917-2620-288-433.jpg",
+          "width": 600,
+          "height": 401,
+          "title": "Oakland startup nets $22.1M to build out what's 'no longer science fiction'",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-01-22-bring-back-play-store-update-notifications-with-this-free-app.md",
+      "title": "Bring back Play Store update notifications with this free app",
+      "excerpt": "In a recent move to reduce unnecessary notifications, the Play Store no longer confirms when apps are updated in the background. While this may not be a big deal for most users, it's ...",
+      "heat": 142,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.androidpolice.com/2020/01/22/bring-back-play-store-update-notifications-with-this-free-app/",
+      "ampWebUrl": "https://www.androidpolice.com/2020/01/22/bring-back-play-store-update-notifications-with-this-free-app/?amp",
+      "cdnAmpWebUrl": "https://www-androidpolice-com.cdn.ampproject.org/c/s/www.androidpolice.com/2020/01/22/bring-back-play-store-update-notifications-with-this-free-app/?amp",
+      "publishedDateTime": "2020-01-22T04:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android Police",
+        "domain": "androidpolice.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.androidpolice.com/wp-content/uploads/2020/01/AppNotifier-Hero.png",
+          "width": 803,
+          "height": 485,
+          "title": "Bring back Play Store update notifications with this free app",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-01-22-why-the-hybrid-ai-compromise-isnt-a-solution-at-all.md",
+      "title": "Why the hybrid AI compromise isn’t a solution at all",
+      "excerpt": "In recent years, AI has emerged as an undisputed competitive advantage, which means smart business leaders facing the digital transformation have some really familiar questions: How do you measure success? What questions do you need to ask to ensure that you’re making the right decisions right out of the gate? And most importantly ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/01/22/why-the-hybrid-ai-compromise-isnt-a-solution-at-all/",
+      "ampWebUrl": "https://venturebeat.com/2020/01/22/why-the-hybrid-ai-compromise-isnt-a-solution-at-all/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/22/why-the-hybrid-ai-compromise-isnt-a-solution-at-all/amp/",
+      "publishedDateTime": "2020-01-22T04:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/01/GettyImages-172856538.jpg?fit=3398%2C1704&strip=all",
+          "width": 3398,
+          "height": 1704,
+          "title": "Why the hybrid AI compromise isn’t a solution at all",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-01-22-simulation-preparing-autonomous-vehicles-for-the-road.md",
+      "title": "Simulation: Preparing Autonomous Vehicles For The Road",
+      "excerpt": "Heikki Laine is VP of Product and Marketing at Cognata, a company that specializes in simulated testing for autonomous cars. Google, Apple, Baidu and automakers globally are currently working on ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/22/simulation-preparing-autonomous-vehicles-for-the-road/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/22/simulation-preparing-autonomous-vehicles-for-the-road/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/22/simulation-preparing-autonomous-vehicles-for-the-road/amp/",
+      "publishedDateTime": "2020-01-22T04:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F01%2Fa-41-2.jpg",
+          "width": 640,
+          "height": 640,
+          "title": "Simulation: Preparing Autonomous Vehicles For The Road",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2020-01-22-gtci-ai-offers-significant-opportunities-for-emerging-markets-but-skills-are-scarce.md",
+      "title": "GTCI: AI offers significant opportunities for emerging markets, but skills are scarce",
+      "excerpt": "Will the proliferation of AI and machine learning reinforce the worldwide digital divide? It’s one of the questions the Global Talent Competitiveness Index (GTCI) and Global Cities Talent Competitiveness Index (GCTCI) seek to answer by benchmarking the ability of countries and cities to compete for talent. An answer has historically proven ...",
+      "heat": 80,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/01/22/gtci-ai-offers-significant-opportunities-for-emerging-markets-but-skills-are-scarce/",
+      "ampWebUrl": "https://venturebeat.com/2020/01/22/gtci-ai-offers-significant-opportunities-for-emerging-markets-but-skills-are-scarce/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/22/gtci-ai-offers-significant-opportunities-for-emerging-markets-but-skills-are-scarce/amp/",
+      "publishedDateTime": "2020-01-22T03:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/11/robot-on-computer.jpg?fit=1198%2C599&strip=all",
+          "width": 1198,
+          "height": 599,
+          "title": "GTCI: AI offers significant opportunities for emerging markets, but skills are scarce",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-01-22-ai-in-the-court-are-robot-judges-next.md",
+      "title": "AI in the court: Are robot judges next?",
+      "excerpt": "Los Angeles is now working on a Jury Chat Bot project that will leverage true AI, Snorri Ogata, CIO of the LA Superior Court, told ZDNet. It's being built on top of the Microsoft Cognitive Services platform, leveraging features like natural language understanding, QnA maker (to build \"FAQ on steroids,\" as Ogata put it) and translation services.",
+      "heat": 106,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/ai-in-the-court-are-robot-judges-next/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-in-the-court-are-robot-judges-next/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-in-the-court-are-robot-judges-next/",
+      "publishedDateTime": "2020-01-22T03:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/01/20/4ae4c042-fca1-4511-9ed4-a9ca543376fd/thumbnail/1200x675/75aab1fe59aac1c4c387f2acdc3a60c4/20200120-steph-karen-judges.png",
+          "width": 1200,
+          "height": 675,
+          "title": "AI in the court: Are robot judges next?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-01-22-how-machine-learning-is-helping-credit-karma-reintroduce-itself-to-users.md",
+      "title": "How machine learning is helping Credit Karma reintroduce itself to users",
+      "excerpt": "But it's only recently that the company is turning to machine learning to make sense of hundreds of billions of data points and deliver personalized insights and recommendations to individual members at scale. When it launched in 2008 at the height of the financial crisis, Credit Karma's primary service leveraged credit report data to help ...",
+      "heat": 73,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/how-machine-learning-is-helping-credit-karma-reintroduce-its-brand-to-users/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/how-machine-learning-is-helping-credit-karma-reintroduce-its-brand-to-users/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-machine-learning-is-helping-credit-karma-reintroduce-its-brand-to-users/",
+      "publishedDateTime": "2020-01-22T03:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2018/07/26/04dbf63a-2aa4-480b-ad61-5d857987ba31/thumbnail/1200x675/8929444376cb1c585bcdc20bc3026ca3/creditkarmathumbnail.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "How machine learning is helping Credit Karma reintroduce itself to users",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2020-01-22-top-players-in-ai-technology-market-2020-23-ibm-amazon-google-intel-and-facebook.md",
       "title": "Top Players in AI Technology Market (2020-23) IBM, Amazon, Google, Intel and Facebook",
       "excerpt": "The Global AI Technology Market Research Report Forecast 2020-2023 is a valuable source of insightful data for business strategists. It provides the AI Technology overview with growth analysis and historical & futuristic cost,",
@@ -983,288 +1279,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-21-berkshire-grey-raises-263m-to-fuel-global-expansion-of-logistics-robotics.md",
-      "title": "Berkshire Grey raises $263M to fuel global expansion of logistics robotics",
-      "excerpt": "With technologies such as artificial intelligence, computer vision, machine learning, advanced sensing, novel gripping, and robotics, the company said it can handle “the broadest assortment of products, packaging, and parcels – and all while continuously improving speed and performance through autonomous learning.” The company said its ...",
-      "heat": 117,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.therobotreport.com/berkshire-grey-raises-263m-to-fuel-global-expansion-of-logistics-robotics/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-21T07:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2020/01/berkshire-grey-boston-hat-funding-1024x636.jpg",
-          "width": 1024,
-          "height": 636,
-          "title": "Berkshire Grey raises $263M to fuel global expansion of logistics robotics",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-01-21-the-brain-predicts-reward-like-an-ai-says-new-deepmind-research.md",
-      "title": "The Brain Predicts Reward Like an AI, Says New DeepMind Research",
-      "excerpt": "If DeepMind’s new bombshell paper in Nature is any indication, a common approach in AI, one that’s led to humanity’s defeat in the game of Go against machines, may have the answer. We all subconsciously learn complex behaviors in response to positive ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://singularityhub.com/2020/01/21/the-brain-predicts-reward-like-an-ai-says-new-deepmind-research/",
-      "ampWebUrl": "https://singularityhub.com/2020/01/21/the-brain-predicts-reward-like-an-ai-says-new-deepmind-research/amp/",
-      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2020/01/21/the-brain-predicts-reward-like-an-ai-says-new-deepmind-research/amp/",
-      "publishedDateTime": "2020-01-21T07:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Singularity Hub",
-        "domain": "singularityhub.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://singularityhub.com/wp-content/uploads/2020/01/brain-1787622_1280-dopaminergic-neurons-reward.jpg",
-          "width": 1068,
-          "height": 601,
-          "title": "The Brain Predicts Reward Like an AI, Says New DeepMind Research",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-21-berkshire-grey-raises-263-million-for-industrial-robots.md",
-      "title": "Berkshire Grey raises $263 million for industrial robots",
-      "excerpt": "The company, which combines AI and robotics to automate omnichannel fulfillment for retailers ... CEO Tom Wagner says the fresh capital will fuel the startup’s global expansion, acquisitions, and team growth. “With our intelligent robotic automation, our clients see faster and more efficient supply chain operations that enable them to ...",
-      "heat": 154,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/01/21/berkshire-grey-raises-263-million-for-industrial-robots/",
-      "ampWebUrl": "https://venturebeat.com/2020/01/21/berkshire-grey-raises-263-million-for-industrial-robots/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/21/berkshire-grey-raises-263-million-for-industrial-robots/amp/",
-      "publishedDateTime": "2020-01-21T06:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/01/0-2-e1579616903362.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Berkshire Grey raises $263 million for industrial robots",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-01-21-do-you-want-ai-used-on-you-at-the-hospital.md",
-      "title": "Do You Want AI Used On You At The Hospital?",
-      "excerpt": "At its core, successful AI, whether traffic- or health-related, should function seamlessly so that the user isn't aware of how it's functioning in the first place.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/21/do-you-want-ai-used-on-you-at-the-hospital/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/21/do-you-want-ai-used-on-you-at-the-hospital/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/21/do-you-want-ai-used-on-you-at-the-hospital/amp/",
-      "publishedDateTime": "2020-01-21T05:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/dam/imageserve/958886670/960x0.jpg?fit=scale",
-          "width": 711,
-          "height": 474,
-          "title": "Do You Want AI Used On You At The Hospital?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-21-ai-can-help-find-illegal-opioid-sellers-online-and-wildlife-traffickers-and-counterfeits.md",
-      "title": "AI can help find illegal opioid sellers online. And wildlife traffickers. And counterfeits.",
-      "excerpt": "Timothy Mackey/S-3 Research. Another challenge: People selling these substances online ... Meanwhile, Reddit, YouTube, Twitter, and Facebook all told Recode they’re now using automated or AI-based technology to flag or investigate content that violates their policies, including illegal opioid sales. Mackey said he’s only been in limited ...",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.vox.com/recode/2020/1/21/21060680/opioids-artificial-intelligence-illegal-online-pharmacies",
-      "ampWebUrl": "https://www.vox.com/platform/amp/recode/2020/1/21/21060680/opioids-artificial-intelligence-illegal-online-pharmacies",
-      "cdnAmpWebUrl": "https://www-vox-com.cdn.ampproject.org/c/s/www.vox.com/platform/amp/recode/2020/1/21/21060680/opioids-artificial-intelligence-illegal-online-pharmacies",
-      "publishedDateTime": "2020-01-21T05:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Vox",
-        "domain": "vox.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/vox.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/_TtMyoxXclrY57IOGfFbYqmuhNg=/1400x0/filters:no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/19608727/Screen_Shot_2020_01_17_at_11.28.22_AM.png",
-          "width": 618,
-          "height": 302,
-          "title": "AI can help find illegal opioid sellers online. And wildlife traffickers. And counterfeits.",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-21-ibm-spearheading-ai-regulation-and-ethics-debate-at-davos.md",
-      "title": "IBM spearheading AI regulation and ethics debate at Davos",
-      "excerpt": "IBM also suggests that companies appoint chief AI ethics officials, carry out assessments to determine how much harm an AI system may pose, and maintain documentation about data when “making determinations or recommendations with potentially significant implications for individuals” so that the decisions can be explained. Spearheading the ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businesslive.co.za/bd/world/2020-01-21-ibm-spearheading-ai-regulation-and-ethics-debate-at-davos/",
-      "ampWebUrl": "https://www.businesslive.co.za/amp/bd/world/2020-01-21-ibm-spearheading-ai-regulation-and-ethics-debate-at-davos/",
-      "cdnAmpWebUrl": "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/bd/world/2020-01-21-ibm-spearheading-ai-regulation-and-ethics-debate-at-davos/",
-      "publishedDateTime": "2020-01-21T05:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "businesslive.co.za",
-        "domain": "businesslive.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://lh3.googleusercontent.com/jDCyDuJDTIlYc8w2p3497rWrABJ42N0xyjTuW-w7wX4jzNQfMRfjVN0NoRucfSfjCoGVTzbEz6NzKPJvz5nUjCCQivQq8oCT=s1000",
-          "width": 1000,
-          "height": 666,
-          "title": "IBM spearheading AI regulation and ethics debate at Davos",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-01-21-macworld-speculates-that-apple-bought-xnorai-to-make-siri-smarter.md",
-      "title": "Macworld speculates that Apple bought Xnor.ai to make Siri smarter",
-      "excerpt": "That cuts to Apple’s main privacy argument. We’ve long suspected that the reason why Siri lags Google Assistant and Amazon Alexa is that Apple doesn’t collect the same kind of information that those companies do and is thus at a disadvantage […] By embedding Edge AI into Apple’s own chip via the Neural Engine or a new co-processor ...",
-      "heat": 169,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://9to5mac.com/2020/01/21/make-siri-smarter/",
-      "ampWebUrl": "https://9to5mac.com/2020/01/21/make-siri-smarter/amp/",
-      "cdnAmpWebUrl": "https://9to5mac-com.cdn.ampproject.org/c/s/9to5mac.com/2020/01/21/make-siri-smarter/amp/",
-      "publishedDateTime": "2020-01-21T04:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "9to5Mac",
-        "domain": "9to5mac.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://9to5mac.com/wp-content/uploads/sites/6/2020/01/Make-Siri-smarter.jpg?quality=82&strip=all&w=1000",
-          "width": 1000,
-          "height": 500,
-          "title": "Macworld speculates that Apple bought Xnor.ai to make Siri smarter",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

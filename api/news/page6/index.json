@@ -2,6 +2,319 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-05-04-the-rise-of-the-robot.md",
+      "title": "The rise of the robot",
+      "excerpt": "In 1966, a team of engineers at SRI International in California unveiled ‘ Shakey’, the world’s first mobile robot that had the ability to perceive and reason about its surr",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/355510/the-rise-of-the-robot",
+      "ampWebUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/355510/the-rise-of-the-robot?amp",
+      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/355510/the-rise-of-the-robot?amp",
+      "publishedDateTime": "2020-05-03T22:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk//image/upload/v1588339067/itpro/2020/05/shutterstock_bricklaying_robot.jpg",
+          "width": 2000,
+          "height": 1125,
+          "title": "The rise of the robot",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-04-here-are-the-top-10-technology-trends-of-the-4th-industrial-revolution.md",
+      "title": "Here Are The Top 10 Technology Trends Of The 4th Industrial Revolution",
+      "excerpt": "There are many technology trends that are currently altering the world as we know it. Here I pull out the top 10 future tech trends that will define the next decade and explain what they are and how each is transforming our world.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2020/05/04/here-are-the-top-10-technology-trends-of-the-4th-industrial-revolution/",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2020/05/04/here-are-the-top-10-technology-trends-of-the-4th-industrial-revolution/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2020/05/04/here-are-the-top-10-technology-trends-of-the-4th-industrial-revolution/amp/",
+      "publishedDateTime": "2020-05-03T21:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eaf9842bf289800084688b1%2F0x0.jpg",
+          "width": 1199,
+          "height": 743,
+          "title": "Here Are The Top 10 Technology Trends Of The 4th Industrial Revolution",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-03-tech-in-latin-america-an-entrepreneurs-guide-to-aprils-startup-news.md",
+      "title": "Tech in Latin America: An entrepreneur’s guide to April’s startup news",
+      "excerpt": "Conrad lives in Medellin & NYC and profiles startup ecosystems during his travels. He is a Global Mentor at 500",
+      "heat": 72,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/podium/2020/05/03/tech-in-latin-america-an-entrepreneurs-guide-to-aprils-startup-news/",
+      "ampWebUrl": "https://thenextweb.com/podium/2020/05/03/tech-in-latin-america-an-entrepreneurs-guide-to-aprils-startup-news/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/podium/2020/05/03/tech-in-latin-america-an-entrepreneurs-guide-to-aprils-startup-news/amp/",
+      "publishedDateTime": "2020-05-03T15:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/93375883_3166416773370956_1945378279644987392_o-796x530.jpg",
+          "width": 796,
+          "height": 530,
+          "title": "Tech in Latin America: An entrepreneur’s guide to April’s startup news",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-03-intels-raja-koduri-confirms-that-massive-father-of-all-gpu-is-aimed-at-the-data-center.md",
+      "title": "Intel's Raja Koduri confirms that massive 'father of all' GPU is aimed at the data center",
+      "excerpt": "Intel tweeted a photo teasing a massive and mysterious GPU on Friday, and in doing so, lit the internet aflame with speculation. Early on, pretty much everyone settled on it being a form of Intel's upcoming Xe HP or",
+      "heat": 95,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techspot.com/news/85076-intel-raja-koduri-confirms-massive-father-all-gpu.html",
+      "ampWebUrl": "https://www.techspot.com/amp/news/85076-intel-raja-koduri-confirms-massive-father-all-gpu.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/85076-intel-raja-koduri-confirms-massive-father-all-gpu.html",
+      "publishedDateTime": "2020-05-03T10:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static.techspot.com/articles-info/1898/images/2019-08-22-image.jpg",
+          "width": 2200,
+          "height": 1140,
+          "title": "Intel's Raja Koduri confirms that massive 'father of all' GPU is aimed at the data center",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-03-the-easy-questions-that-stump-computers.md",
+      "title": "The Easy Questions That Stump Computers",
+      "excerpt": "Computers do. It’s no wonder that commonsense reasoning emerged as a primary concern of AI research in 1958 (in a paper titled “Programs With Common Sense”), not long after the field of AI was born. “In general,",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.theatlantic.com/technology/archive/2020/05/computers-common-sense/611050/",
+      "ampWebUrl": "https://amp.theatlantic.com/amp/article/611050/",
+      "cdnAmpWebUrl": "https://amp-theatlantic-com.cdn.ampproject.org/c/s/amp.theatlantic.com/amp/article/611050/",
+      "publishedDateTime": "2020-05-03T05:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Atlantic",
+        "domain": "theatlantic.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/theatlantic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.theatlantic.com/thumbor/94WQntFZUhVHjgmvql-xgr_Ub98=/570x321/media/img/mt/2020/05/Common_Sense_2880x1620_Lede/original.gif",
+          "width": 570,
+          "height": 321,
+          "title": "The Easy Questions That Stump Computers",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-03-adidas-is-using-ai-and-3d-printing-to-cope-with-a-plunge-in-sales-during-the-coronavirus-pandemic.md",
+      "title": "Adidas is using AI and 3D printing to cope with a plunge in sales during the coronavirus pandemic",
+      "excerpt": "German sportswear giant Adidas plans to bolster its lagging performance by shifting strategy to focus on its digital platform.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businessinsider.com/adidas-ai-3d-printing-coronavirus-sales-plunge-2020-4",
+      "ampWebUrl": "https://www.businessinsider.com/adidas-ai-3d-printing-coronavirus-sales-plunge-2020-4?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/adidas-ai-3d-printing-coronavirus-sales-plunge-2020-4?amp",
+      "publishedDateTime": "2020-05-03T04:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.insider.com/5eaaeae442278d66c5040b96?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": "Adidas is using AI and 3D printing to cope with a plunge in sales during the coronavirus pandemic",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-03-computer-vision-market-share-scope-revenue-trade-analysis-trends-drivers-2018-2023.md",
+      "title": "Computer Vision Market Share, Scope, Revenue, Trade Analysis, Trends, Drivers 2018-2023",
+      "excerpt": "The computer vision technology landscape continues to undergo relentless transformation, concurrently creating new application opportunities. In 2017, the global market for comput",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-market-share-scope-revenue-trade-analysis-trends-drivers-2018-2023-2020-05-03",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-03T02:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Computer Vision Market Share, Scope, Revenue, Trade Analysis, Trends, Drivers 2018-2023",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-03-watch-this-ai-algorithm-change-humans-into-animorphs.md",
       "title": "Watch This AI Algorithm Change Humans into Animorphs",
       "excerpt": "AI researcher Xander Steenbrugge used machine learning generative models to turn people into animals and back again.",
@@ -790,311 +1103,6 @@
         "Google AI",
         "AI",
         "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2020-05-01-ai-weekly-animal-crossing-iclr-and-the-future-of-research-conferences-online.md",
-      "title": "AI Weekly: Animal Crossing, ICLR, and the future of research conferences online",
-      "excerpt": "An upcoming Animal Crossing AI workshop and ICLR this week may reshape what research conferences look like, but social experiences are still a challenge.",
-      "heat": 85,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/05/01/ai-weekly-animal-crossing-iclr-and-the-future-of-research-conferences-online/",
-      "ampWebUrl": "https://venturebeat.com/2020/05/01/ai-weekly-animal-crossing-iclr-and-the-future-of-research-conferences-online/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/01/ai-weekly-animal-crossing-iclr-and-the-future-of-research-conferences-online/amp/",
-      "publishedDateTime": "2020-05-01T11:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/animal-crossing.png?fit=1800%2C900&strip=all",
-          "width": 1800,
-          "height": 900,
-          "title": "AI Weekly: Animal Crossing, ICLR, and the future of research conferences online",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-05-01-coronavirus-helps-robot-delivery-startup-refraction-ai-gain-traction.md",
-      "title": "Coronavirus helps robot delivery startup Refraction AI gain traction",
-      "excerpt": "Refraction AI, a robot delivery startup in Ann Arbor, Mich., was having trouble gaining traction before the pandemic — and now, it's racing to capitalize on our stay-at-home mentality. Why it matters: In the midst of the pain and suffering from a crisis,",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.axios.com/refraction-ai-grocery-delivery-autonomous-ann-arbor-611e65fa-65d7-4b30-a8d4-de1b85c720fb.html",
-      "ampWebUrl": "https://www.axios.com/refraction-ai-grocery-delivery-autonomous-ann-arbor-611e65fa-65d7-4b30-a8d4-de1b85c720fb.html",
-      "cdnAmpWebUrl": "https://www-axios-com.cdn.ampproject.org/c/s/www.axios.com/refraction-ai-grocery-delivery-autonomous-ann-arbor-611e65fa-65d7-4b30-a8d4-de1b85c720fb.html",
-      "publishedDateTime": "2020-05-01T11:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Axios",
-        "domain": "axios.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.axios.com/6e7fxp84f9oN52Lh4Z7nrPlsfyI=/2020/05/01/1588353067194.png",
-          "width": 1920,
-          "height": 1080,
-          "title": "Coronavirus helps robot delivery startup Refraction AI gain traction",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-05-01-the-ai-eye-coca-cola-makes-5-year-agreement-with-microsoft.md",
-      "title": "The AI Eye: Coca-Cola Makes 5-Year Agreement with Microsoft",
-      "excerpt": "Watching stock news, deal tracker and advancements in artificial intelligence Coca-Cola ( NYSE:KO) has announced a five-year agreement with Microsoft ( NasdaqGS:MSFT ), wherein it will leverage the latter's Azure,",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/the-ai-eye-coca-cola-makes-5-year-agreement-with-microsoft-2020-05-01",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-01T10:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "The AI Eye: Coca-Cola Makes 5-Year Agreement with Microsoft",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-01-streaming-service-deezer-built-an-ai-to-catch-the-explicit-lyrics-human-censors-miss.md",
-      "title": "Streaming service Deezer built an AI to catch the explicit lyrics human censors miss",
-      "excerpt": "Streaming service Deezer has developed an AI technique that automatically detects explicit lyrics -- just by analyzing the audio",
-      "heat": 80,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/05/01/streaming-service-deezer-built-an-ai-to-catch-the-explicit-lyrics-human-censors-miss/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/05/01/streaming-service-deezer-built-an-ai-to-catch-the-explicit-lyrics-human-censors-miss/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/05/01/streaming-service-deezer-built-an-ai-to-catch-the-explicit-lyrics-human-censors-miss/amp/",
-      "publishedDateTime": "2020-05-01T09:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/Untitled-design-22-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "Streaming service Deezer built an AI to catch the explicit lyrics human censors miss",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-01-astronauts-adopt-mozilla-speech-tech-to-control-moon-robots.md",
-      "title": "Astronauts adopt Mozilla speech tech to control Moon robots",
-      "excerpt": "The text-to-speech engine will give astronauts their hands back during complex tasks. The machines are taking over, get ready. By 2024, AI will have dramatically transformed how we live our lives, conduct business,",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/astronauts-adopt-mozilla-speech-tech-to-control-moon-robots/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/astronauts-adopt-mozilla-speech-tech-to-control-moon-robots/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/astronauts-adopt-mozilla-speech-tech-to-control-moon-robots/",
-      "publishedDateTime": "2020-05-01T09:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2019/09/23/bb592151-a7e8-47d8-84ec-11dcda294513/resize/1200x900/7f35b9e8aa729f1d5fbf1543913e030e/roborock-s4-1.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": "Astronauts adopt Mozilla speech tech to control Moon robots",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-01-google-releases-ai-tool-for-processing-paycheck-protection-program-loans.md",
-      "title": "Google releases AI tool for processing Paycheck Protection Program loans",
-      "excerpt": "Google released a tool -- PPP Lending AI -- that enables lenders to leverage AI to process applications for the U.S. Paycheck Protection Program.",
-      "heat": 88,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/05/01/google-releases-ai-solution-to-help-lenders-process-paycheck-protection-program-loans/",
-      "ampWebUrl": "https://venturebeat.com/2020/05/01/google-releases-ai-solution-to-help-lenders-process-paycheck-protection-program-loans/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/01/google-releases-ai-solution-to-help-lenders-process-paycheck-protection-program-loans/amp/",
-      "publishedDateTime": "2020-05-01T08:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/04/google-cloud-2-e1576177709339.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Google releases AI tool for processing Paycheck Protection Program loans",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-01-senator-questions-clearview-ai-over-coronavirus-tracking-plans.md",
-      "title": "Senator questions Clearview AI over coronavirus tracking plans",
-      "excerpt": "Sen. Edward Markey says COVID-19 contact tracing can't be \"used as cover by companies like Clearview to build shadowy surveillance networks.\"",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnet.com/news/senator-questions-clearview-ai-over-coronavirus-tracking-plans/",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/senator-questions-clearview-ai-over-coronavirus-tracking-plans/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/senator-questions-clearview-ai-over-coronavirus-tracking-plans/",
-      "publishedDateTime": "2020-05-01T07:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cnet4.cbsistatic.com/img/JsUigaPqhHEO0XUYO41ZqO-Z-vo=/756x567/2020/01/18/2bde6ea9-4f91-4473-a8fb-1418d9ac5c7d/facial-recognition-james-martin-promo-1.jpg",
-          "width": 756,
-          "height": 567,
-          "title": "Senator questions Clearview AI over coronavirus tracking plans",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

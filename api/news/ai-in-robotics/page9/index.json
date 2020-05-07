@@ -2,6 +2,43 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-01-29-food-delivery-robots-roll-onto-ole-miss-campus.md",
+      "title": "Food delivery robots roll onto Ole Miss campus",
+      "excerpt": "OXFORD, Miss. — Artificial intelligence has arrived at Ole Miss in the form of food delivery robots. Thirty new robots have been roaming campus for a week, dropping off snacks, meals and drinks. It’s been exactly one week since Ole Miss launched 30 Starship delivery robots. They line up outside the student union, are packed with food and ...",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://wreg.com/2020/01/29/food-delivery-robots-roll-onto-ole-miss-campus/",
+      "ampWebUrl": "https://wreg.com/2020/01/29/food-delivery-robots-roll-onto-ole-miss-campus/amp/",
+      "cdnAmpWebUrl": "https://wreg-com.cdn.ampproject.org/c/s/wreg.com/2020/01/29/food-delivery-robots-roll-onto-ole-miss-campus/amp/",
+      "publishedDateTime": "2020-01-29T15:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WREG",
+        "domain": "wreg.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://localtvwreg.files.wordpress.com/2020/01/fooddelivery.jpeg?quality=85&strip=all&w=1200",
+          "width": 1200,
+          "height": 675,
+          "title": "Food delivery robots roll onto Ole Miss campus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-01-29-underwater-robot-autonomously-gathers-seabed-samples.md",
       "title": "Underwater robot autonomously gathers seabed samples",
       "excerpt": "That's why researchers have now enabled one to autonomously gather samples from the ocean floor. Led by associate scientist Rich Camilli, a team at Woods Hole Oceanographic Institution (WHOI) recently developed artificial intelligence-based automated planning software that's designed to work with ROVs. Last month, that technology was put to use ...",
@@ -1206,51 +1243,6 @@
           "width": 1200,
           "height": 600,
           "title": "Berkshire Grey raises $263 million for industrial robots",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-01-21-scrappy-company-leapfrogs-the-pack-with-functioning-robot-taxis.md",
-      "title": "Scrappy company leapfrogs the pack with functioning robot taxis",
-      "excerpt": "His value proposition was that an evolving hardware stack that in early days consisted of nothing more visible spectrum cameras paired with the right AI would be enough for safe L4 autonomous driving ... Recently, AutoX announced a partnership with Fiat Chrysler (FCAU) to start rolling out the first \"Hardware Ready\" robotaxi for the Asia ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/scrappy-company-leapfrogs-the-pack-to-robot-taxis/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/scrappy-company-leapfrogs-the-pack-to-robot-taxis/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/scrappy-company-leapfrogs-the-pack-to-robot-taxis/",
-      "publishedDateTime": "2020-01-21T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/01/17/b1fae1ef-1788-4a25-8407-2e9f1a0f0ad2/autox.jpg",
-          "width": 1100,
-          "height": 825,
-          "title": "Scrappy company leapfrogs the pack with functioning robot taxis",
           "attribution": null
         }
       ],

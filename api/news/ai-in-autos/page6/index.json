@@ -2,6 +2,36 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-03-26-coronavirus-india-update-robots-artificial-intelligence-will-be-taking-care-of-patients-in-isolation-wards.md",
+      "title": "Coronavirus India Update: Robots, Artificial Intelligence will be taking care of patients in Isolation Wards",
+      "excerpt": "Amidst the lockdown and disrupted economy look at some clever way in which Artificial Intelligence i.e Robots are becoming a part of the fight to slow down Coronavirus and help healthcare workers.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.ciol.com/coronavirus-india-update-robots-artificial-intelligence-will-taking-care-patients-isolation-wards/",
+      "ampWebUrl": "https://www.ciol.com/coronavirus-india-update-robots-artificial-intelligence-will-taking-care-patients-isolation-wards/amp/",
+      "cdnAmpWebUrl": "https://www-ciol-com.cdn.ampproject.org/c/s/www.ciol.com/coronavirus-india-update-robots-artificial-intelligence-will-taking-care-patients-isolation-wards/amp/",
+      "publishedDateTime": "2020-03-25T23:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CIOL",
+        "domain": "ciol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-03-25-sleeping-in-self-driving-cars-its-no-pipe-dream.md",
       "title": "Sleeping in Self-Driving Cars? It’s No Pipe Dream",
       "excerpt": "When you absolutely, positively have to get there overnight, autonomous sleeper cars may be your best bet in the future, says Dan Neil",
@@ -1228,43 +1258,6 @@
         "AI in Autos",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-03-19-self-driving-car-companies-suspend-testing-on-coronavirus-concerns.md",
-      "title": "Self-driving car companies suspend testing on coronavirus concerns",
-      "excerpt": "Major self-driving car companies have suspended their ... Other companies to have ceased testing include Pony.ai, Baidu Inc., Zoox Inc., Nuro Inc. and Yandex NV. One notable exception is the ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://siliconangle.com/2020/03/18/self-driving-car-companies-suspend-testing-due-coronavirus-concerns/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-18T19:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/06/1_Gikb_56-v7jI5Q8oy3wy9w.jpeg",
-          "width": 800,
-          "height": 533,
-          "title": "Self-driving car companies suspend testing on coronavirus concerns",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

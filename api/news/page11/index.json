@@ -2,6 +2,315 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-04-29-yandex-deploys-autonomous-delivery-robots-in-moscows-skolkovo-district.md",
+      "title": "Yandex deploys autonomous delivery robots in Moscow’s Skolkovo district",
+      "excerpt": "Yandex today announced the launch of an autonomous delivery service in Skolkovo, Russia, powered by its Yandex.Rover robots.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/29/yandex-deploys-autonomous-delivery-robots-in-moscows-skolkovo-district/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/29/yandex-deploys-autonomous-delivery-robots-in-moscows-skolkovo-district/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/29/yandex-deploys-autonomous-delivery-robots-in-moscows-skolkovo-district/amp/",
+      "publishedDateTime": "2020-04-29T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/11/yandex_drone-e1588089973460.png?fit=750%2C375&strip=all",
+          "width": 750,
+          "height": 375,
+          "title": "Yandex deploys autonomous delivery robots in Moscow’s Skolkovo district",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-29-ai-cant-solve-this-the-coronavirus-could-be-highlighting-just-how-overhyped-the-industry-is.md",
+      "title": "AI can't solve this: The coronavirus could be highlighting just how overhyped the industry is",
+      "excerpt": "Artificial intelligence has been hailed as a monumental technology that will change the world, but coronavirus is showing that it is still in its infancy.",
+      "heat": 80,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2020/04/29/ai-has-limited-role-coronavirus-pandemic.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/04/29/ai-has-limited-role-coronavirus-pandemic.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/04/29/ai-has-limited-role-coronavirus-pandemic.html",
+      "publishedDateTime": "2020-04-28T22:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/105318044-1531141658275china_tech_surveillance_3.jpg?v=1531141775",
+          "width": 3999,
+          "height": 2666,
+          "title": "AI can't solve this: The coronavirus could be highlighting just how overhyped the industry is",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-29-artificial-intelligence-market-growth-analysis-by-size-market-share-news-2018-2026.md",
+      "title": "Artificial Intelligence Market Growth Analysis by Size, Market Share, News 2018-2026",
+      "excerpt": "According to a new study published by Polaris Market Research the Global Artificial Intelligence Market is anticipated",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-growth-analysis-by-size-market-share-news-2018-2026-2020-04-29",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-28T21:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial Intelligence Market Growth Analysis by Size, Market Share, News 2018-2026",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2020-04-29-self-driving-car-testing-goes-all-virtual-just-like-everything-else.md",
+      "title": "Self-driving car testing goes all virtual, just like everything else",
+      "excerpt": "Waymo, the self-driving car company spun off from Google, shut down its robo-taxi service in Arizona and stopped testing its vehicles on public roads because of the coronavirus pandemic. But that doesn't mean driverless car testing isn't still happening.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://sea.mashable.com/tech/10316/self-driving-car-testing-goes-all-virtual-just-like-everything-else",
+      "ampWebUrl": "https://sea.mashable.com/tech/10316/self-driving-car-testing-goes-all-virtual-just-like-everything-else?amp=1",
+      "cdnAmpWebUrl": "https://sea-mashable-com.cdn.ampproject.org/c/s/sea.mashable.com/tech/10316/self-driving-car-testing-goes-all-virtual-just-like-everything-else?amp=1",
+      "publishedDateTime": "2020-04-28T21:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://sm.mashable.com/t/mashable_sea/news/s/self-drivi/self-driving-car-testing-goes-all-virtual-just-like-everythi_p3je.620.jpg",
+          "width": 620,
+          "height": 349,
+          "title": "Self-driving car testing goes all virtual, just like everything else",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-28-uk-start-ups-have-raised-825-million-during-virus-lockdown-but-less-deals-are-being-made.md",
+      "title": "UK start-ups have raised $825 million during virus lockdown, but less deals are being made",
+      "excerpt": "Funding into U.K. start-ups has soared by 34% as investors look to ensure their bets stay afloat during the coronavirus pandemic.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2020/04/28/coronavirus-uk-start-ups-have-raised-825-million-during-lockdown.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/04/28/coronavirus-uk-start-ups-have-raised-825-million-during-lockdown.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/04/28/coronavirus-uk-start-ups-have-raised-825-million-during-lockdown.html",
+      "publishedDateTime": "2020-04-28T16:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/105446571-1536765456472rts20xk6.jpg?v=1536765553",
+          "width": 4842,
+          "height": 2952,
+          "title": "UK start-ups have raised $825 million during virus lockdown, but less deals are being made",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-28-ford-delays-self-driving-taxis-to-2022.md",
+      "title": "Ford delays self-driving taxis to 2022",
+      "excerpt": "Ford is putting the future of autonomous driving on hold until 2022 as it grapples with the COVID-19 pandemic.",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.engadget.com/ford-delays-self-driving-taxis-to-2022-231030762.html",
+      "ampWebUrl": "https://www.engadget.com/amp/ford-delays-self-driving-taxis-to-2022-231030762.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/ford-delays-self-driving-taxis-to-2022-231030762.html",
+      "publishedDateTime": "2020-04-28T16:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-04%2Ffaaa14f0-899e-11ea-afdf-5a87c7809954&client=amp-blogside-v2&signature=0b6f392a8bccfb903035225147ea3a24dd7fe351",
+          "width": 600,
+          "height": 350,
+          "title": "Ford delays self-driving taxis to 2022",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-28-now-is-the-time-for-an-economic-stimulus-in-artificial-intelligence-or-the-us-could-fall-behind.md",
+      "title": "Now is the time for an economic stimulus in artificial intelligence — or the US could fall behind",
+      "excerpt": "Increasing research into AI will help the US economy recover from the coronavirus pandemic and better position it for the future.",
+      "heat": 78,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businessinsider.com/us-should-increase-ai-research-as-part-of-coronavirus-response-2020-4",
+      "ampWebUrl": "https://www.businessinsider.com/us-should-increase-ai-research-as-part-of-coronavirus-response-2020-4?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/us-should-increase-ai-research-as-part-of-coronavirus-response-2020-4?amp",
+      "publishedDateTime": "2020-04-28T16:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.insider.com/5ea8575df242ab230e628669?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": "Now is the time for an economic stimulus in artificial intelligence — or the US could fall behind",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-28-robots-could-complete-all-human-tasks-by-2050-claims-transhumanist-writer.md",
       "title": "Robots could complete ‘all human tasks’ by 2050 claims transhumanist writer",
       "excerpt": "THERE'S a 50 percent chance robots will be capable of completing \"all human tasks\" by 2050, allowing humans to move to a post-compulsory work society, according to a leading transhumanist thinker.",
@@ -344,6 +653,43 @@
       ]
     },
     {
+      "path": "_news/2020-04-28-anesthesia-business-consultants-leverages-artificial-intelligence-to-predict-practice-performance-amidst-covid-19-pandemic.md",
+      "title": "Anesthesia Business Consultants Leverages Artificial Intelligence to Predict Practice Performance Amidst COVID-19 Pandemic",
+      "excerpt": "Anesthesia Business Consultants, LLC (ABC), a leading provider in billing and practice management for the anesthesia and pain management specialty, has leveraged its artificial intelligence platform,",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://apnews.com/Business Wire/1a9030a2344e4a739804831472fc9396",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-28T09:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": "Anesthesia Business Consultants Leverages Artificial Intelligence to Predict Practice Performance Amidst COVID-19 Pandemic",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-28-at-35-cagr-artificial-intelligence-ai-chips-market-size-set-to-register-19080-million-usd-by-2025.md",
       "title": "At 35% CAGR, Artificial Intelligence (AI) Chips Market Size Set to Register 19080 million USD by 2025",
       "excerpt": "Market Study Report LLC has added a new report on Artificial Intelligence (AI) Chips market that provides a comprehensive review",
@@ -430,35 +776,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-28-anesthesia-business-consultants-leverages-artificial-intelligence-to-predict-practice-performance-amidst-covid-19-pandemic.md",
-      "title": "Anesthesia Business Consultants Leverages Artificial Intelligence to Predict Practice Performance Amidst COVID-19 Pandemic",
-      "excerpt": "ABC’s artificial intelligence platform, F1RSTAI, evaluates patient outcomes related to COVID-19 infections, providing projections and financial trends",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businesswire.com/news/home/20200428005773/en/Anesthesia-Business-Consultants-Leverages-Artificial-Intelligence-Predict",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-28T09:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     },
@@ -746,312 +1063,6 @@
           "width": 1197,
           "height": 598,
           "title": "Yoshua Bengio: Attention is a core ingredient of ‘consciousness’ AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-28-mit-researchers-release-clevrer-to-advance-visual-reasoning-and-neurosymbolic-ai.md",
-      "title": "MIT researchers release Clevrer to advance visual reasoning and neurosymbolic AI",
-      "excerpt": "Clevrer examines AI models ability to make logical conclusions about content in a video data set using a hybrid of deep learning and symbolic AI.",
-      "heat": 88,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/28/mit-researchers-release-clevrer-to-advance-visual-reasoning-and-neurosymbolic-ai/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/28/mit-researchers-release-clevrer-to-advance-visual-reasoning-and-neurosymbolic-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/28/mit-researchers-release-clevrer-to-advance-visual-reasoning-and-neurosymbolic-ai/amp/",
-      "publishedDateTime": "2020-04-28T07:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/10/mit1.jpg?fit=2158%2C1619&strip=all",
-          "width": 2158,
-          "height": 1619,
-          "title": "MIT researchers release Clevrer to advance visual reasoning and neurosymbolic AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Facebook AI",
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-28-tectonai-emerges-from-stealth-with-20m-series-a-to-build-machine-learning-platform.md",
-      "title": "Tecton.ai emerges from stealth with $20M Series A to build machine learning platform",
-      "excerpt": "Three former Uber engineers, who helped build the company’s Michelangelo machine learning platform, left the company last year to form Tecton.ai and build an operational machine learning platform for everyone else.",
-      "heat": 97,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/04/28/tecton-ai-emerges-from-stealth-with-20m-series-a-to-build-operational-machine-learning-platform/",
-      "ampWebUrl": "https://techcrunch.com/2020/04/28/tecton-ai-emerges-from-stealth-with-20m-series-a-to-build-operational-machine-learning-platform/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/28/tecton-ai-emerges-from-stealth-with-20m-series-a-to-build-operational-machine-learning-platform/amp/",
-      "publishedDateTime": "2020-04-28T07:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/04/tecton-diagram-light-v3.png?w=680",
-          "width": 680,
-          "height": 274,
-          "title": "Tecton.ai emerges from stealth with $20M Series A to build machine learning platform",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-28-the-challenges-of-developing-autonomous-vehicles-during-a-pandemic.md",
-      "title": "The challenges of developing autonomous vehicles during a pandemic",
-      "excerpt": "Waymo, Uber, Cruise, and others have paused autonomous vehicle testing due to the pandemic. Here's how they're continuing development during lockdown.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/28/challenges-of-developing-autonomous-vehicles-during-coronavirus-covid-19-pandemic/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/28/challenges-of-developing-autonomous-vehicles-during-coronavirus-covid-19-pandemic/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/28/challenges-of-developing-autonomous-vehicles-during-coronavirus-covid-19-pandemic/amp/",
-      "publishedDateTime": "2020-04-28T07:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/03/waymo-one-dome-e1585787576926.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "The challenges of developing autonomous vehicles during a pandemic",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-28-self-driving-car-testing-goes-all-virtual-just-like-everything-else.md",
-      "title": "Self-driving car testing goes all virtual, just like everything else",
-      "excerpt": "Waymo, the self-driving car company spun off from Google, shut down its robo-taxi service in Arizona and stopped testing its vehicles on public roads because of the coronavirus pandemic. But that doesn't mean driverless car testing isn't still happening.",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://mashable.com/article/waymo-self-driving-cars-simulation/",
-      "ampWebUrl": "https://mashable.com/article/waymo-self-driving-cars-simulation.amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/waymo-self-driving-cars-simulation.amp",
-      "publishedDateTime": "2020-04-28T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/2020%252F04%252F28%252F74%252F15dc264d96e94d6db1661bd3c3faa4ae.3ac1d.png%252F1200x630.png?signature=2vUlsW8K3CFc03ydLk-T0w92WVE=",
-          "width": 1200,
-          "height": 630,
-          "title": "Self-driving car testing goes all virtual, just like everything else",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-28-google-admits-its-diabetic-blindness-ai-fell-short-in-real-life-tests.md",
-      "title": "Google admits its diabetic blindness AI fell short in real-life tests",
-      "excerpt": "The AI Google trained to catch diabetic blindness exhibited 90 percent accuracy in the lab, but it unfortunately didn’t perform as well in real life. In Thailand, it could take up to 10 weeks to confirm diabetic blindness from the time a medical practitioner takes photos of the patient’s eye.",
-      "heat": 97,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.engadget.com/google-diabetic-blindness-reallife-tests-134057972.html",
-      "ampWebUrl": "https://www.engadget.com/amp/google-diabetic-blindness-reallife-tests-134057972.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/google-diabetic-blindness-reallife-tests-134057972.html",
-      "publishedDateTime": "2020-04-28T06:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-04%2F9ac93ed0-893a-11ea-be3f-4bcc8bffecab&client=amp-blogside-v2&signature=6cdc736db1a9b6f167518ff28ad8d290dd566b82",
-          "width": 600,
-          "height": 350,
-          "title": "Google admits its diabetic blindness AI fell short in real-life tests",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-28-mit-presents-ai-frameworks-that-compress-models-and-encourage-agents-to-explore.md",
-      "title": "MIT presents AI frameworks that compress models and encourage agents to explore",
-      "excerpt": "In a pair of papers, MIT researchers describe techniques that spur agents to explore their environments and compress AI models without sacrificing accuracy.",
-      "heat": 83,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/28/mit-presents-ai-frameworks-that-compress-models-and-encourage-agents-to-explore/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/28/mit-presents-ai-frameworks-that-compress-models-and-encourage-agents-to-explore/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/28/mit-presents-ai-frameworks-that-compress-models-and-encourage-agents-to-explore/amp/",
-      "publishedDateTime": "2020-04-28T06:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/08/alex-knight-199368-unsplash-e1577481237671.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "MIT presents AI frameworks that compress models and encourage agents to explore",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-28-brainbox-raises-12-million-to-optimize-hvac-systems-with-ai.md",
-      "title": "BrainBox raises $12 million to optimize HVAC systems with AI",
-      "excerpt": "BrainBox, which taps AI and machine learning to optimize HVAC systems, has raised $12 million in a convertible debt round.",
-      "heat": 97,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/28/brainbox-raises-12-million-to-optimize-hvac-systems-with-ai/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/28/brainbox-raises-12-million-to-optimize-hvac-systems-with-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/28/brainbox-raises-12-million-to-optimize-hvac-systems-with-ai/amp/",
-      "publishedDateTime": "2020-04-28T06:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/Connected-Mag-BrainBox-AI-e1588018061995.jpg?fit=1199%2C599&strip=all",
-          "width": 1199,
-          "height": 599,
-          "title": "BrainBox raises $12 million to optimize HVAC systems with AI",
           "attribution": null
         }
       ],

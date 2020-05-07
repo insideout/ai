@@ -2,6 +2,305 @@
   "page": 64,
   "value": [
     {
+      "path": "_news/2020-03-08-with-painted-faces-artists-fight-facial-recognition-tech.md",
+      "title": "With painted faces, artists fight facial recognition tech",
+      "excerpt": "LONDON -- As night falls in London, Georgina Rowlands and Anna Hart start applying makeup. Instead of lipstick and eyeliner, they’re covering their faces with geometric shapes. Rowlands has long ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://abcnews.go.com/Entertainment/wireStory/painted-faces-artists-fight-facial-recognition-tech-69465610",
+      "ampWebUrl": "https://abcnews.go.com/amp/Entertainment/wireStory/painted-faces-artists-fight-facial-recognition-tech-69465610",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/painted-faces-artists-fight-facial-recognition-tech-69465610",
+      "publishedDateTime": "2020-03-08T01:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABCNews",
+        "domain": "go.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Entertainment/WireAP_36a7c88465f14c438470ac0ae6bc7d4e_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": "With painted faces, artists fight facial recognition tech",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-07-automatic-image-classification-with-amazon-sagemaker-ground-truth.md",
+      "title": "Automatic Image Classification with Amazon SageMaker Ground Truth",
+      "excerpt": "Source: Amazon Web Services Source: Amazon Web Services 3. Navigate to SageMaker Ground Truth — Labelling Jobs. As we can see, previous labelling jobs are also visible. Click “Create Labelling ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/@firstclassanalyticsmg/automatic-image-classification-with-amazon-sagemaker-ground-truth-ae143349e896",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-07T08:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/1103/1*P5rKQxp9d_mldFxglIECJw.png",
+          "width": 1103,
+          "height": 764,
+          "title": "Automatic Image Classification with Amazon SageMaker Ground Truth",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-07-artificial-intelligence-is-making-artificial-intelligence-easier-to-build.md",
+      "title": "Artificial intelligence is making artificial intelligence easier to build",
+      "excerpt": "Artificial intelligence and machine learning will automate many business and life tasks, from driving trucks to piloting ships to handling customer calls ... enterprise decisions is the next great frontier for AI and machine-learning. Already, \"self-managing infrastructure is relatively common. We see this in both infrastructure as a service ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/artificial-intelligence-is-making-artificial-intelligence-easier-to-build/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/artificial-intelligence-is-making-artificial-intelligence-easier-to-build/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/artificial-intelligence-is-making-artificial-intelligence-easier-to-build/",
+      "publishedDateTime": "2020-03-07T05:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/03/07/3aee11ac-fb4f-445a-9893-3522813304b4/building-with-lights-windows-cropped-photo-by-joe-mckendrick.jpg",
+          "width": 480,
+          "height": 555,
+          "title": "Artificial intelligence is making artificial intelligence easier to build",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-07-tensorflow-object-detection-api-for-indian-driving-datasetidd-in-windows-10.md",
+      "title": "Tensorflow object detection api for Indian Driving Dataset(IDD) in windows 10",
+      "excerpt": "This blog explains how to build a custom object detection model using tensorflow object detection api considering huge data of IDD. The IDD dataset consists of images obtained from a front facing ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/analytics-vidhya/tensorflow-object-detection-api-for-indian-driving-dataset-idd-in-windows-10-f1f99c19b110",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-07T02:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/1200/0*VQ1zTOIB3CdlMSjI",
+          "width": 1200,
+          "height": 1611,
+          "title": "Tensorflow object detection api for Indian Driving Dataset(IDD) in windows 10",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-07-application-of-computer-vision-in-precision-agriculture-farming.md",
+      "title": "Application of Computer Vision in Precision Agriculture & Farming",
+      "excerpt": "But now AI in agriculture is boosting this sector using the power computer vision technology, to train the machines for better productivity in agro and farming. Actually, high-labor cost and ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/vsinghbisen/application-of-computer-vision-in-precision-agriculture-farming-79b0600d5a5d",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-07T01:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/1200/1*ocyh2KDUta4JcMB-FHMFbg.jpeg",
+          "width": 1200,
+          "height": 813,
+          "title": "Application of Computer Vision in Precision Agriculture & Farming",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-07-tensorflow-to-expand-ai-capabilities-into-mobile-iot-javascript.md",
+      "title": "TensorFlow to expand AI capabilities into mobile, IoT, JavaScript",
+      "excerpt": "It has been three years since the open-source machine learning platform TensorFlow was launched, and now the team is announcing new and ambitious plans for the AI library. The TensorFlow Developer ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://sdtimes.com/ai/tensorflow-to-expand-ai-capabilities-into-mobile-iot-javascript/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-06T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SD Times",
+        "domain": "sdtimes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://sdtimes.com/wp-content/uploads/2019/03/hero_720.png",
+          "width": 720,
+          "height": 405,
+          "title": "TensorFlow to expand AI capabilities into mobile, IoT, JavaScript",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-06-its-like-you-have-a-hand-again-a-major-breakthrough-in-robotic-limb-technology.md",
+      "title": "'It's like you have a hand again' — A major breakthrough in robotic limb technology",
+      "excerpt": "They're claiming it as a major advance in mind-controlled prosthetics ... \"It's just been really hard to do because the physics is not in your favour.\" While the robotic technology in prosthetic hands has come a long way in recent years, the way ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cbc.ca/radio/quirks/mar-7-new-technology-gives-amputees-a-hand-a-big-dam-proposal-your-dog-s-heat-sensitive-nose-and-more-1.5486967/it-s-like-you-have-a-hand-again-a-major-breakthrough-in-robotic-limb-technology-1.5486974",
+      "ampWebUrl": "https://www.cbc.ca/amp/1.5486974",
+      "cdnAmpWebUrl": "https://www-cbc-ca.cdn.ampproject.org/c/s/www.cbc.ca/amp/1.5486974",
+      "publishedDateTime": "2020-03-06T13:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBC.ca",
+        "domain": "www.cbc.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.cbc.ca/1.5488452.1583513963!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/mind-control-prosthesis-university-of-michigan.jpg",
+          "width": 620,
+          "height": 349,
+          "title": "'It's like you have a hand again' — A major breakthrough in robotic limb technology",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-06-nuclear-confusion-and-the-mind-controlled-prosthetic-hand-10-top-stories-of-the-week.md",
       "title": "Nuclear confusion and the mind-controlled prosthetic hand: 10 top stories of the week",
       "excerpt": "One intriguing suggestion from developer Cyclopic is using it as a cargo robot. The machine would use its wheels to drive around a factory or warehouse floor before transforming into drone mode for a quick flight, up to a high shelf or over an obstacle.",
@@ -851,289 +1150,6 @@
           "attribution": null
         }
       ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-04-scientists-develop-ultra-precise-mind-controlled-prosthetic-limb.md",
-      "title": "Scientists Develop Ultra-Precise Mind-Controlled Prosthetic Limb",
-      "excerpt": "(CN) – The next generation of mind-controlled prosthetics are within reach and will give amputees the ability to better operate bionic limbs. All it will take is a learning algorithm and some muscle power. The new technology detailed in a paper published ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.courthousenews.com/scientists-develop-ultra-precise-mind-controlled-prosthetic-limb/",
-      "ampWebUrl": "https://www.courthousenews.com/scientists-develop-ultra-precise-mind-controlled-prosthetic-limb/amp/",
-      "cdnAmpWebUrl": "https://www-courthousenews-com.cdn.ampproject.org/c/s/www.courthousenews.com/scientists-develop-ultra-precise-mind-controlled-prosthetic-limb/amp/",
-      "publishedDateTime": "2020-03-04T11:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Courthouse News Service",
-        "domain": "courthousenews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i1.wp.com/www.courthousenews.com/wp-content/uploads/2020/03/Prosthetic1.jpg?fit=1000%2C666&ssl=1",
-          "width": 1000,
-          "height": 666,
-          "title": "Scientists Develop Ultra-Precise Mind-Controlled Prosthetic Limb",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-04-facebook-details-ai-system-that-helped-it-catch-900m-fake-accounts-last-year.md",
-      "title": "Facebook details AI system that helped it catch 900M fake accounts last year",
-      "excerpt": "The company has an entire unit dedicated to machine learning, the Facebook AI Research group, that is working on a variety projects including an initiative to speed up MRI scans and an effort to ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://siliconangle.com/2020/03/04/facebook-details-ai-system-helped-catch-900m-fake-accounts-last-year/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-04T10:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/03/33839797160_76e3f043d0_c-768x512.jpg",
-          "width": 768,
-          "height": 512,
-          "title": "Facebook details AI system that helped it catch 900M fake accounts last year",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-04-waymos-self-driving-jaguars-arrive-with-new-homegrown-tech.md",
-      "title": "Waymo's Self-Driving Jaguars Arrive With New, Homegrown Tech",
-      "excerpt": "If you’re in Mountain View and you spot a self-driving car, the smart money says it’s one of Waymo’s modified Chrysler Pacifica minivans. If you see an electric car, it’s most likely a Tesla.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wired.com/story/waymos-self-driving-jaguars-arrive-new-homegrown-tech/",
-      "ampWebUrl": "https://www.wired.com/story/waymos-self-driving-jaguars-arrive-new-homegrown-tech/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/waymos-self-driving-jaguars-arrive-new-homegrown-tech/amp",
-      "publishedDateTime": "2020-03-04T10:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5e5d5b04ffd9380009895da9/master/pass/Transpo-nextgen_5.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": "Waymo's Self-Driving Jaguars Arrive With New, Homegrown Tech",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-04-the-path-to-the-cloud.md",
-      "title": "The path to the cloud",
-      "excerpt": "Let’s start by looking at Azure Machine Learning (AML), not Azure’s classic drag-and-drop Machine Learning Studio, but our more recent API-based service that makes it easier to develop ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/data-science-at-microsoft/the-path-to-the-cloud-1bb4dc3296ed",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-04T08:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/1200/1*2aTBR2y_tVgMIV9vVH8TAA.jpeg",
-          "width": 1200,
-          "height": 459,
-          "title": "The path to the cloud",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-04-cognitive-systems-spending-market-to-register-a-stellar-growth-rate-of-cagr-of-146-during-2016-2026.md",
-      "title": "Cognitive Systems Spending Market to Register a Stellar Growth Rate of CAGR of 14.6% During 2016 – 2026",
-      "excerpt": "VALLEY COTTAGE, N.Y. - \"The US$ 5.49 Bn global cognitive systems spending marketwill witness a massive hike in the revenues, reaching a whopping US$ 21.46 Bn by the end of 2026. Over the 10-year assessment period 2016-2026,",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/cognitive-systems-spending-market-to-register-a-stellar-growth-rate-of-cagr-of-146-during-2016-2026-2020-03-04",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-04T05:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Cognitive Systems Spending Market to Register a Stellar Growth Rate of CAGR of 14.6% During 2016 – 2026",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-04-robot-uses-artificial-intelligence-and-imaging-to-draw-blood.md",
-      "title": "Robot uses artificial intelligence and imaging to draw blood",
-      "excerpt": "Rutgers engineers have created a tabletop device that combines a robot, artificial intelligence and near-infrared and ultrasound imaging to draw blood or insert catheters to deliver fluids and drugs. Their most recent research results, published in the journal Nature Machine Intelligence, suggest that autonomous systems like the image-guided ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.eurekalert.org/pub_releases/2020-03/ru-rua030320.php",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-04T03:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.eurekalert.org/multimedia/pub/web/226001_web.jpg",
-          "width": 1440,
-          "height": 1022,
-          "title": "Robot uses artificial intelligence and imaging to draw blood",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-04-how-automation-and-artificial-intelligence-are-transforming-the-sell-side.md",
-      "title": "How automation and artificial intelligence are transforming the sell side",
-      "excerpt": "Though Twitter, Amazon AWS, and Hadoop all came out before ... is interpretability and ‘explainability’. Using artificial intelligence, sell-side firms can analyze large amounts of data ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.bloomberg.com/professional/blog/how-automation-and-artificial-intelligence-are-transforming-the-sell-side/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-04T00:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
       "locale": "en-us",
       "categories": [
         "news"

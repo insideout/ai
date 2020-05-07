@@ -2,6 +2,303 @@
   "page": 137,
   "value": [
     {
+      "path": "_news/2019-12-26-revisiting-the-rise-of-ai-how-far-has-artificial-intelligence-come-since-2010.md",
+      "title": "Revisiting the rise of A.I.: How far has artificial intelligence come since 2010?",
+      "excerpt": "To most people, few things say “A.I. is here” quite like seeing an artificial intelligence defeat two champion Jeopardy ... In 2010, Google officially unveiled its autonomous car program, now called Waymo. Over the decade that followed, dozens of other companies (including tech heavy hitters like Apple) have started to develop their ...",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.digitaltrends.com/cool-tech/biggest-ai-advances-of-the-2010s/",
+      "ampWebUrl": "https://www.digitaltrends.com/cool-tech/biggest-ai-advances-of-the-2010s/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cool-tech/biggest-ai-advances-of-the-2010s/?amp",
+      "publishedDateTime": "2019-12-26T02:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://icdn2.digitaltrends.com/image/digitaltrends/christies-ai-art-header-1200x630-c-ar1.91.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": "Revisiting the rise of A.I.: How far has artificial intelligence come since 2010?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2019-12-26-aws-ceo-claims-alibaba-cloud-isnt-a-threat.md",
+      "title": "AWS CEO claims Alibaba Cloud isn't a threat",
+      "excerpt": "According to a report in Nikkei Asian Review on Thursday, AWS is set to take a big leap with Artificial Intelligence and quantum computing. \"I would say that we mostly see Alibaba, as we're working with customers, and they're considering who they're going ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businessinsider.in/tech/enterprise/news/aws-ceo-claims-alibaba-cloud-isnt-a-threat-and-only-growing-in-china/articleshow/72974967.cms",
+      "ampWebUrl": "https://www.businessinsider.in/tech/enterprise/news/aws-ceo-claims-alibaba-cloud-isnt-a-threat-and-only-growing-in-china/amp_articleshow/72974967.cms",
+      "cdnAmpWebUrl": "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/tech/enterprise/news/aws-ceo-claims-alibaba-cloud-isnt-a-threat-and-only-growing-in-china/amp_articleshow/72974967.cms",
+      "publishedDateTime": "2019-12-25T21:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider India",
+        "domain": "businessinsider.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.businessinsider.in/thumb/msid-72975031,height-275,width-412,imgsize-563589/tech/enterprise/news/aws-ceo-claims-alibaba-cloud-isnt-a-threat-and-only-growing-in-china/aws-andy-jassy.jpg",
+          "width": 412,
+          "height": 275,
+          "title": "AWS CEO claims Alibaba Cloud isn't a threat",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2019-12-26-data-science-vs-artificial-intelligence-eliminate-your-doubts.md",
+      "title": "Data Science vs Artificial Intelligence — Eliminate your Doubts",
+      "excerpt": "While Data Science makes use of Artificial Intelligence in its operations, it does not completely represent AI. In this article, we will understand the concept of Data Science vs Artificial ...",
+      "heat": 167,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/quick-code/data-science-vs-artificial-intelligence-eliminate-your-doubts-912b3b2c805",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2019-12-25T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/730/0*K2hTcclvkZAbCzkZ.jpg",
+          "width": 730,
+          "height": 365,
+          "title": "Data Science vs Artificial Intelligence — Eliminate your Doubts",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2019-12-24-artificial-intelligence-ai-robots-market-statistical-analysis-2020cagr-growth-of-2020-and-forecast-to-2023.md",
+      "title": "Artificial Intelligence (AI) Robots market statistical analysis 2020|CAGR growth of 2020 and forecast to 2023",
+      "excerpt": "Dec 24, 2019 (The Expresswire) -- Artificial Intelligence (AI) Robots Market 2019 report focuses on the budding trends of market, market share, its segmentation, regional outlook and have explored different segments of the market. The Artificial ...",
+      "heat": 63,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-robots-market-statistical-analysis-2020cagr-growth-of-2020-and-forecast-to-2023-2019-12-24",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2019-12-24T01:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial Intelligence (AI) Robots market statistical analysis 2020|CAGR growth of 2020 and forecast to 2023",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2019-12-24-getting-started-with-azureml-notebook-vms.md",
+      "title": "Getting Started With AzureML Notebook VMs",
+      "excerpt": "TLDR; Azure Machine Learning (AML), a cloud-based environment you can use to train, deploy, automate, manage, and track ML models. In the following tutorial we will walk through how to set up an ...",
+      "heat": 69,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/microsoftazure/getting-started-with-azureml-notebook-vms-f637b6e09ed4",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2019-12-23T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/1200/1*r9E_9IOr95ZxpA_2nOzC_g.png",
+          "width": 1200,
+          "height": 589,
+          "title": "Getting Started With AzureML Notebook VMs",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2019-12-23-artificial-intelligence-that-tracks-down-leukemia-discovered.md",
+      "title": "Artificial Intelligence That Tracks Down Leukemia Discovered",
+      "excerpt": "Artificial intelligence is a much-discussed topic in ... Possibly, the diagnosis would then happen earlier than it does now and therapy could start earlier.\"",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.medindia.net/news/artificial-intelligence-that-tracks-down-leukemia-discovered-192212-1.htm",
+      "ampWebUrl": "https://www.medindia.net/amp/news/artificial-intelligence-that-tracks-down-leukemia-discovered-192212-1.htm",
+      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-that-tracks-down-leukemia-discovered-192212-1.htm",
+      "publishedDateTime": "2019-12-23T10:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medindia",
+        "domain": "medindia.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.medindia.net/amp-images/health-images/chemotherapy-associated-neurocognitive-in-leukemia-patients.jpg",
+          "width": 1200,
+          "height": 1000,
+          "title": "Artificial Intelligence That Tracks Down Leukemia Discovered",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2019-12-22-top-25-ai-startups-who-raised-the-most-money-in-2019.md",
+      "title": "Top 25 AI Startups Who Raised The Most Money In 2019",
+      "excerpt": "Its Cognito platform accelerates threat detection and investigation using artificial intelligence to collect ... and robotics teams at companies like Waymo, OpenAI, Lyft, Zoox, Pinterest, and Airbnb focus on building differentiated models vs.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/louiscolumbus/2019/12/22/top-25-ai-startups-who-raised-the-most-money-in-2019/",
+      "ampWebUrl": "https://www.forbes.com/sites/louiscolumbus/2019/12/22/top-25-ai-startups-who-raised-the-most-money-in-2019/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2019/12/22/top-25-ai-startups-who-raised-the-most-money-in-2019/amp/",
+      "publishedDateTime": "2019-12-22T13:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5dff94624e2917000783b233%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Top 25 AI Startups Who Raised The Most Money In 2019",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2019-12-22-facebook-says-group-used-ai-generated-faces-to-push-pro-trump-messages.md",
       "title": "Facebook says group used AI-generated faces to push pro-Trump messages",
       "excerpt": "Facebook Inc has taken down a well-financed ... Researchers from New York-based Graphika and the Digitial Forensics Research Lab, an arm of the Washington-based Atlantic Council, said it was ...",
@@ -751,275 +1048,7 @@
       "topics": [
         "AI"
       ]
-    },
-    {
-      "path": "_news/2018-08-29-everything-you-need-to-know-about-key-differences-between-ai-data-science-machine-learning-and-big-data.md",
-      "title": "Everything you need to know about key differences between AI, Data Science, Machine Learning and Big Data",
-      "excerpt": "“All right, but what’s the difference between data science and AI ... claims that: “Machine learning is a part of research on artificial intelligence, seeking to provide knowledge to ...",
-      "heat": 150,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/dlabs-pl/everything-you-need-to-know-about-key-differences-between-ai-data-science-machine-learning-and-4ad7ab0b516b",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2018-08-28T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/1024/1*Ps0DH-MFVfZKjkhgFoL3Kg.jpeg",
-          "width": 1024,
-          "height": 683,
-          "title": "Everything you need to know about key differences between AI, Data Science, Machine Learning and Big Data",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2018-08-22-society-is-made-of-narrative-realizing-this-is-awakening-from-the-matrix.md",
-      "title": "Society Is Made Of Narrative. Realizing This Is Awakening From The Matrix.",
-      "excerpt": "In the movie The Matrix, humans are imprisoned in a virtual world by a powerful artificial intelligence system in a dystopian future. What they take to be ... with their senses is actually made of AI-generated code. Life in our current society is very ...",
-      "heat": 150,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/@caityjohnstone/society-is-made-of-narrative-realizing-this-is-awakening-from-the-matrix-787c7e2539ae",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2018-08-21T18:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/1200/0*pmMn-OBDF907eDRG",
-          "width": 1200,
-          "height": 900,
-          "title": "Society Is Made Of Narrative. Realizing This Is Awakening From The Matrix.",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2017-07-27-kesha-discovers-how-to-learn-to-let-go-in-new-song-and-video.md",
-      "title": "Kesha Discovers How to “Learn to Let Go” in New Song and Video",
-      "excerpt": "According to an essay in The Huffington Post, pop singer Kesha, while writing “Learn to Let Go,” was also inspired by ... where she encounters signposts from her past—including a cleverly devised fake swimming pool—that parallel the funny, often ...",
-      "heat": 142,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.slantmagazine.com/music/kesha-discovers-how-to-learn-to-let-go-in-new-song-and-video/",
-      "ampWebUrl": "https://www.slantmagazine.com/music/kesha-discovers-how-to-learn-to-let-go-in-new-song-and-video/amp/",
-      "cdnAmpWebUrl": "https://www-slantmagazine-com.cdn.ampproject.org/c/s/www.slantmagazine.com/music/kesha-discovers-how-to-learn-to-let-go-in-new-song-and-video/amp/",
-      "publishedDateTime": "2017-07-27T06:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Slant Magazine",
-        "domain": "slantmagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.slantmagazine.com/wp-content/uploads/2017/07/music_learntoletgo-600x600.jpg",
-          "width": 600,
-          "height": 600,
-          "title": "Kesha Discovers How to “Learn to Let Go” in New Song and Video",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2017-05-01-a-list-of-artificial-intelligence-tools-you-can-use-today-for-personal-use-13.md",
-      "title": "A list of artificial intelligence tools you can use today — for personal use (1/3)",
-      "excerpt": "Artificial Intelligence and the fourth industrial revolution has made some considerable progress over the last couple of years. Most of this current progress that is usable has been developed for ...",
-      "heat": 161,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/@Liamiscool/a-list-of-artificial-intelligence-tools-you-can-use-today-for-personal-use-1-3-7f1b60b6c94f",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2017-04-30T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/freeze/max/1200/1*KdbQDJccO7aoNIvDrjUhzA.gif",
-          "width": 1200,
-          "height": 675,
-          "title": "A list of artificial intelligence tools you can use today — for personal use (1/3)",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2016-02-23-trolls-vs-pirates-halostryker-oral-arguments.md",
-      "title": "Trolls vs Pirates: Halo/Stryker Oral Arguments",
-      "excerpt": "Wall’s approach was to highlight the general nature of the the statute ... MR. WALL: [W]e and the PTO and many of Respondents’ amici recognize, the system as it currently stands is out of balance. And we have tried, and I believe we have succeeded ...",
-      "heat": 102,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://patentlyo.com/patent/2016/02/pirates-halostryker-arguments.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2016-02-23T08:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Patently-O",
-        "domain": "patentlyo.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2015-02-17-meet-the-new-face-detection-algorithm-that-will-change-image-search.md",
-      "title": "Meet the new face-detection algorithm that will change image search",
-      "excerpt": "Current facial-recognition technology is based primarily on the work of Paul Viola and Michael Jones, who achieved a major breakthrough in 2001 when they developed an algorithm that could detect ...",
-      "heat": 142,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.dailydot.com/debug/face-detection-algorithm-image-search/",
-      "ampWebUrl": "https://www.dailydot.com/debug/face-detection-algorithm-image-search/?amp",
-      "cdnAmpWebUrl": "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/face-detection-algorithm-image-search/?amp",
-      "publishedDateTime": "2015-02-17T06:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Dot",
-        "domain": "dailydot.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.dailydot.com/wp-content/uploads/7da/6e/fc3aa93d4cf68ff5406f291efcd81b08-1022x512.jpg",
-          "width": 1022,
-          "height": 512,
-          "title": "Meet the new face-detection algorithm that will change image search",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2013-07-04-from-chess-to-ping-pong-how-pegasystems-is-capturing-the-fortune-500.md",
-      "title": "From chess to ping pong: How Pegasystems is capturing the Fortune 500",
-      "excerpt": "And Cisco is using the technology to centralise its business processes in a company-wide rules engine that will help it respond ... and refine and develop them until they meet the needs of the ...",
-      "heat": 142,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.computerweekly.com/feature/How-Pegasystems-is-capturing-the-Fortune-500",
-      "ampWebUrl": "https://www.computerweekly.com/feature/How-Pegasystems-is-capturing-the-Fortune-500?amp=1",
-      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/feature/How-Pegasystems-is-capturing-the-Fortune-500?amp=1",
-      "publishedDateTime": "2013-07-04T09:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computer Weekly",
-        "domain": "computerweekly.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.ttgtmedia.com/rms/editorial/Alan-Pegasystems.jpg",
-          "width": 580,
-          "height": 387,
-          "title": "From chess to ping pong: How Pegasystems is capturing the Fortune 500",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
     }
   ],
-  "nextPage": null
+  "nextPage": 138
 }

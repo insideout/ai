@@ -2,6 +2,320 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2020-04-22-how-microsoft-is-using-ai-to-make-the-planet-greener-and-what-other-companies-can-learn-from-its-environmental-game-plan.md",
+      "title": "How Microsoft is using AI to make the planet greener — and what other companies can learn from its environmental game plan",
+      "excerpt": "The company said it gave out 230 grants since launching the initiative. Microsoft also put large government data sets related to the environment on its cloud, Azure, to further help AI developers. And this isn't the first time Microsoft used AI to address climate change. The company gave farmers in India, a country heavily affected by rising ...",
+      "heat": 88,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businessinsider.com/what-makes-microsoft-the-best-sustainable-company-2019-6",
+      "ampWebUrl": "https://www.businessinsider.com/what-makes-microsoft-the-best-sustainable-company-2019-6?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/what-makes-microsoft-the-best-sustainable-company-2019-6?amp",
+      "publishedDateTime": "2020-04-22T09:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.insider.com/5ea05ca35bd7a5652d64a405?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": "How Microsoft is using AI to make the planet greener — and what other companies can learn from its environmental game plan",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-22-americans-remain-super-skeptical-of-evs-self-driving-cars.md",
+      "title": "Americans remain super skeptical of EVs, self-driving cars",
+      "excerpt": "JD Power's latest survey shows confidence in both electric cars and self-driving technology started to fall even before the coronavirus pandemic.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnet.com/roadshow/news/ev-self-driving-survey-skeptical-americans/",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/ev-self-driving-survey-skeptical-americans/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ev-self-driving-survey-skeptical-americans/",
+      "publishedDateTime": "2020-04-22T09:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cnet1.cbsistatic.com/img/2Gr2Oyn5xtHNf_PXRKKOiPtjivU=/2018/06/07/ba35851f-811f-48c2-9c8b-65cbba20aaae/2018-chevrolet-bolt-ev-charging-port-ogi.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": "Americans remain super skeptical of EVs, self-driving cars",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-22-google-clouds-anthos-for-aws-generally-available-microsoft-azure-in-preview.md",
+      "title": "Google Cloud's Anthos for AWS generally available, Microsoft Azure in preview",
+      "excerpt": "For Google Cloud, Anthos is a differentiator that can bring it more enterprise workloads as it competes with AWS and Azure. Google Cloud chief Thomas Kurian has been touting ... the vendor can have higher-level discussions with customers about machine learning and services like BigQuery. Google Cloud announces Anthos for Telecom, bringing ...",
+      "heat": 126,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/google-clouds-anthos-for-aws-generally-available-microsoft-azure-in-preview/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-clouds-anthos-for-aws-generally-available-microsoft-azure-in-preview/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-clouds-anthos-for-aws-generally-available-microsoft-azure-in-preview/",
+      "publishedDateTime": "2020-04-22T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2020/04/21/f845188f-8d56-4277-aab6-a38aaf57c3d6/thumbnail/1200x675/72fd8fe83f620363c3fbf8b8bd32e846/screen-shot-2020-04-07-at-4-35-13-pm.png",
+          "width": 1200,
+          "height": 675,
+          "title": "Google Cloud's Anthos for AWS generally available, Microsoft Azure in preview",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-22-googles-ai-teaches-robots-to-grasp-occluded-objects-and-adapt-to-new-situations.md",
+      "title": "Google’s AI teaches robots to grasp occluded objects and adapt to new situations",
+      "excerpt": "In a pair of papers published on the preprint server Arxiv.org this week, Google and University of California, Berkely researchers describe new AI and machine learning techniques that enable robots to adapt to never-before-seen tasks and grasp occluded objects. The first study details X-Ray, an algorithm that when deployed on a robot can search ...",
+      "heat": 82,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/22/googles-ai-teaches-robots-to-grasp-occluded-objects-and-adapt-to-new-situations/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/22/googles-ai-teaches-robots-to-grasp-occluded-objects-and-adapt-to-new-situations/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/22/googles-ai-teaches-robots-to-grasp-occluded-objects-and-adapt-to-new-situations/amp/",
+      "publishedDateTime": "2020-04-22T08:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/10/google-ai-logo.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Google’s AI teaches robots to grasp occluded objects and adapt to new situations",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-22-conversational-systems-market-growing-at-a-cagr-308-key-player-google-microsoft-aws-ibm-oracle.md",
+      "title": "Conversational Systems Market Growing at a CAGR 30.8% | Key Player Google, Microsoft, AWS, IBM, Oracle",
+      "excerpt": "MarketsandMarkets forecasts the global Conversational Systems Market size to grow from USD 4.6 billion in 2019 to",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/conversational-systems-market-growing-at-a-cagr-308-key-player-google-microsoft-aws-ibm-oracle-2020-04-22",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-22T08:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Conversational Systems Market Growing at a CAGR 30.8% | Key Player Google, Microsoft, AWS, IBM, Oracle",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-22-intel-is-using-ai-to-gather-real-time-data-on-coral-reef-health.md",
+      "title": "Intel is using AI to gather real-time data on coral reef health",
+      "excerpt": "Project CORaiL monitors prosthetic reefs with AI-powered video cameras. There’s no question that coral reefs are rapidly deteriorating due to overfishing, bottom trawling, warming temperatures and unsustainable coastal development. In order to help protect and restore reefs, scientists need more data, and Intel thinks it might have a solution.",
+      "heat": 98,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.engadget.com/intel-ai-monitors-coral-reef-health-152247984.html",
+      "ampWebUrl": "https://www.engadget.com/amp/intel-ai-monitors-coral-reef-health-152247984.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/intel-ai-monitors-coral-reef-health-152247984.html",
+      "publishedDateTime": "2020-04-22T08:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-04%2Ffb956480-84aa-11ea-97ce-b695cf0789e3&client=amp-blogside-v2&signature=b61893ebfaeb73766baa17712deaccb3ea747147",
+          "width": 600,
+          "height": 350,
+          "title": "Intel is using AI to gather real-time data on coral reef health",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-22-impact-of-covid-19-on-artificial-intelligence-market-beyond-2020.md",
+      "title": "Impact of COVID-19 on Artificial Intelligence Market - Beyond 2020",
+      "excerpt": "The MarketWatch News Department was not involved in the creation of the content. The global artificial intelligence market has been segmented in terms of type, application, and region. Based on type, the market has been segmented into artificial neural network, digital assistance system, embedded system, expert system and automated robotic system.",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/impact-of-covid-19-on-artificial-intelligence-market---beyond-2020-2020-04-22",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-22T08:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Impact of COVID-19 on Artificial Intelligence Market - Beyond 2020",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-04-22-are-you-pushing-too-many-vertices-to-your-gpu-careful-there.md",
       "title": "Are You Pushing Too Many Vertices to Your GPU? Careful There!",
       "excerpt": "Is your game rendering more geometry than your GPU can handle? Here, let me show you a few steps to check if your geometry is causing a performance bottleneck on your players' GPU.",
@@ -964,319 +1278,6 @@
         "AI Hardware",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-21-mit-work-raises-a-question-can-robots-be-teammates-with-humans-rather-than-slaves.md",
-      "title": "MIT work raises a question: Can robots be teammates with humans rather than slaves?",
-      "excerpt": "A \"three-finger gripper\" is attached to it, made by startup Robotiq, based in Lévis ... and said that specifying the correct objective is \"both challenging and critical to design of AI systems.\" Also: Watching YouTube videos may someday let robots copy humans The challenge is that a machine system in some sense has to infer what a human's ...",
-      "heat": 100,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/mit-work-raises-a-question-can-robots-be-teammates-with-humans-rather-than-slaves/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/mit-work-raises-a-question-can-robots-be-teammates-with-humans-rather-than-slaves/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/mit-work-raises-a-question-can-robots-be-teammates-with-humans-rather-than-slaves/",
-      "publishedDateTime": "2020-04-21T12:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/2020/04/21/419e6f8d-c2b4-42cf-85aa-2e6a9ce085f2/mit-robot-arm-collaborates-via-dialogue.png",
-          "width": 1412,
-          "height": 1056,
-          "title": "MIT work raises a question: Can robots be teammates with humans rather than slaves?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-21-facebooks-ai-detects-fake-accounts-with-fewer-than-20-friend-requests.md",
-      "title": "Facebook’s AI detects fake accounts with fewer than 20 friend requests",
-      "excerpt": "We plan to accomplish this by mixing feature-based and behavior-based models,” wrote Facebook. Facebook is broadly moving toward an AI training technique called self-supervised learning, in which unlabeled data is used in conjunction with small amounts of labeled data to produce an improvement in learning accuracy. Facebook’s deep entity ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/21/facebooks-ai-detects-fake-accounts-with-fewer-than-20-friend-requests/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/21/facebooks-ai-detects-fake-accounts-with-fewer-than-20-friend-requests/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/21/facebooks-ai-detects-fake-accounts-with-fewer-than-20-friend-requests/amp/",
-      "publishedDateTime": "2020-04-21T11:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/05/facebook-ai.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Facebook’s AI detects fake accounts with fewer than 20 friend requests",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-21-watch-fake-elon-musk-zoom-bombs-meeting-using-real-time-deepfake-ai.md",
-      "title": "Watch: Fake Elon Musk Zoom-bombs meeting using real-time Deepfake AI",
-      "excerpt": "The technology’s called Avatarify. It was developed by Aliev using open-source AI code called “The First Order Motion Model For Image Animation,” which was developed by researchers at the University of Trento in Italy. Avatarify superimposes another person’s face on your own in real-time. Most Deepfakes require you to pre-record ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/04/21/watch-fake-elon-musk-zoom-bombs-meeting-using-real-time-deepfake-ai/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/04/21/watch-fake-elon-musk-zoom-bombs-meeting-using-real-time-deepfake-ai/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/04/21/watch-fake-elon-musk-zoom-bombs-meeting-using-real-time-deepfake-ai/amp/",
-      "publishedDateTime": "2020-04-21T11:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/04/fakeelon-796x448.jpg",
-          "width": 796,
-          "height": 448,
-          "title": "Watch: Fake Elon Musk Zoom-bombs meeting using real-time Deepfake AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-21-nvidia-launches-project-monai-ai-framework-for-health-care-research-in-alpha.md",
-      "title": "Nvidia launches Project MONAI AI framework for health care research in alpha",
-      "excerpt": "MONAI stands for Medical Open Network for AI. The framework is optimized for the demands of health care researchers and made for running with deep learning frameworks like PyTorch and Ignite. A main goal of the MONAI framework is to help researchers can reproduce their experiments in order t to build upon each other’s work. One example in the ...",
-      "heat": 94,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/21/nvidia-launches-project-monai-ai-framework-for-health-care-research-in-alpha/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/21/nvidia-launches-project-monai-ai-framework-for-health-care-research-in-alpha/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/21/nvidia-launches-project-monai-ai-framework-for-health-care-research-in-alpha/amp/",
-      "publishedDateTime": "2020-04-21T10:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/monai.jpg?fit=1262%2C673&strip=all",
-          "width": 1262,
-          "height": 673,
-          "title": "Nvidia launches Project MONAI AI framework for health care research in alpha",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-21-global-ai-in-fintech-market-2020-outlook-key-players-segmentation-industry-size-and-share-comprehensive-analysis-to-2025.md",
-      "title": "Global AI in Fintech Market 2020 Outlook, Key Players, Segmentation, Industry Size and Share, Comprehensive Analysis to 2025",
-      "excerpt": "Global AI in Fintech Market 2020 by Company, Regions, Type and Application, Forecast to 2025 available at MarketandResearch.biz presents the latest study on the market covering product scope, market revenue,",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/global-ai-in-fintech-market-2020-outlook-key-players-segmentation-industry-size-and-share-comprehensive-analysis-to-2025-2020-04-21?tesla=y",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-21T09:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Global AI in Fintech Market 2020 Outlook, Key Players, Segmentation, Industry Size and Share, Comprehensive Analysis to 2025",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-21-why-covid-natures-code-cracking-machine-intelligence.md",
-      "title": "Why COVID? Nature’s Code Cracking Machine Intelligence",
-      "excerpt": "Viruses don’t just attack the human body. They attack all the systems we’ve built to sustain modern life. As our systems have evolved, so too have our viruses. Today, we have COVID-19, and if we aren’t careful,",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/williamhaseltine/2020/04/21/why-covid-natures-code-cracking-machine-intelligence/",
-      "ampWebUrl": "https://www.forbes.com/sites/williamhaseltine/2020/04/21/why-covid-natures-code-cracking-machine-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/williamhaseltine/2020/04/21/why-covid-natures-code-cracking-machine-intelligence/amp/",
-      "publishedDateTime": "2020-04-21T09:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e9f1c9d736d170006fedf1b%2F0x0.jpg",
-          "width": 1199,
-          "height": 831,
-          "title": "Why COVID? Nature’s Code Cracking Machine Intelligence",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-21-aws-and-facebook-launch-an-open-source-model-server-for-pytorch.md",
-      "title": "AWS and Facebook launch an open-source model server for PyTorch",
-      "excerpt": "For AWS, that’s mostly SageMaker, the company’s machine learning platform, but as Bratin Saha, AWS VP and GM for Machine Learning Services, told me, the work on PyTorch was mostly motivated by requests from the community. And while there are obviously other model servers like TensorFlow Serving and the Multi Model Server available today ...",
-      "heat": 119,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/04/21/aws-and-facebook-launch-an-open-source-model-server-for-pytorch/",
-      "ampWebUrl": "https://techcrunch.com/2020/04/21/aws-and-facebook-launch-an-open-source-model-server-for-pytorch/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/21/aws-and-facebook-launch-an-open-source-model-server-for-pytorch/amp/",
-      "publishedDateTime": "2020-04-21T09:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/04/GettyImages-175397431.jpg?w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": "AWS and Facebook launch an open-source model server for PyTorch",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

@@ -214,7 +214,7 @@
       "path": "_news/2020-05-04-artificial-intelligence-in-healthcare-market-2020-global-industry-analysis-to-2026.md",
       "title": "Artificial Intelligence in Healthcare Market 2020 Global Industry Analysis To 2026",
       "excerpt": "Artificial Intelligence in Healthcare Market 2020 Global Industry Analysis by historic, current, and forecast market information. Upcoming Artificial Intelligence in Healthcare Global Market Trends and the impact of COVID-19 on market also discussed in this report.",
-      "heat": 120,
+      "heat": 130,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-2020-global-industry-analysis-to-2026-2020-05-04",
@@ -486,23 +486,31 @@
     {
       "path": "_news/2020-04-28-anesthesia-business-consultants-leverages-artificial-intelligence-to-predict-practice-performance-amidst-covid-19-pandemic.md",
       "title": "Anesthesia Business Consultants Leverages Artificial Intelligence to Predict Practice Performance Amidst COVID-19 Pandemic",
-      "excerpt": "ABC’s artificial intelligence platform, F1RSTAI, evaluates patient outcomes related to COVID-19 infections, providing projections and financial trends",
+      "excerpt": "Anesthesia Business Consultants, LLC (ABC), a leading provider in billing and practice management for the anesthesia and pain management specialty, has leveraged its artificial intelligence platform,",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.businesswire.com/news/home/20200428005773/en/Anesthesia-Business-Consultants-Leverages-Artificial-Intelligence-Predict",
+      "webUrl": "https://apnews.com/Business Wire/1a9030a2344e4a739804831472fc9396",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-28T09:02:00-07:00",
+      "publishedDateTime": "2020-04-28T09:46:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
+        "name": "Associated Press",
+        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null
       },
-      "images": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": "Anesthesia Business Consultants Leverages Artificial Intelligence to Predict Practice Performance Amidst COVID-19 Pandemic",
+          "attribution": null
+        }
+      ],
       "locale": "en-us",
       "categories": [
         "news"

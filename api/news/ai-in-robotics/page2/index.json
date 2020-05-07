@@ -2,6 +2,51 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-04-28-delivery-robots-arent-readywhen-they-could-be-needed-most.md",
+      "title": "Delivery Robots Aren't Ready—When They Could Be Needed Most",
+      "excerpt": "Sheltering in place has driven up demand for deliveries, but machines still have trouble confronting the unpredictability of the real world.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wired.com/story/delivery-robots-arent-ready-when-needed-most/",
+      "ampWebUrl": "https://www.wired.com/story/delivery-robots-arent-ready-when-needed-most/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/delivery-robots-arent-ready-when-needed-most/amp",
+      "publishedDateTime": "2020-04-28T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5ea314d879127b00083c056b/master/pass/Transpo-3photo.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": "Delivery Robots Aren't Ready—When They Could Be Needed Most",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-25-xcom-chimera-squad-all-11-agents-list.md",
       "title": "XCOM: Chimera Squad – All 11 Agents List",
       "excerpt": "Chimera Squad ditches customizable soldiers in favor of 11 agents with set personalities and abilities. These agents cannot die permanently, which",
@@ -1184,35 +1229,6 @@
         "Machine Learning",
         "AI Ethics",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-04-13-robot-allows-clinicians-to-reuse-thousands-of-masks-in-the-covid-19-fight.md",
-      "title": "Robot allows clinicians to reuse thousands of masks in the COVID-19 fight",
-      "excerpt": "At UVA Health, a newly acquired robot is helping maximize the life of some of the most critical personal protective equipment, or PPE, at a time when the surge of demand for such items has ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medicalxpress.com/news/2020-04-robot-clinicians-reuse-thousands-masks.html",
-      "ampWebUrl": "https://medicalxpress.com/news/2020-04-robot-clinicians-reuse-thousands-masks.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-04-robot-clinicians-reuse-thousands-masks.amp",
-      "publishedDateTime": "2020-04-13T06:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

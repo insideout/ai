@@ -2,6 +2,51 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-02-12-lyft-touts-benefits-of-self-driving-cars-but-warns-of-second-order-effects.md",
+      "title": "Lyft touts benefits of self-driving cars, but warns of ‘second order’ effects",
+      "excerpt": "Autonomous cars will prove critical to the future of cities, according to Raj Kapoor, Lyft’s chief strategy officer and head of business for self-driving. But he added that riders may need to adjust their expectations and warned of unintended “second order” effects of the burgeoning driverless car industry. Kapoor was speaking at the Move ...",
+      "heat": 81,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/02/12/lyft-touts-benefits-of-self-driving-cars-but-warns-of-second-order-effects/",
+      "ampWebUrl": "https://venturebeat.com/2020/02/12/lyft-touts-benefits-of-self-driving-cars-but-warns-of-second-order-effects/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/12/lyft-touts-benefits-of-self-driving-cars-but-warns-of-second-order-effects/amp/",
+      "publishedDateTime": "2020-02-12T02:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/02/Raj.jpg?fit=2286%2C1247&strip=all",
+          "width": 2286,
+          "height": 1247,
+          "title": "Lyft touts benefits of self-driving cars, but warns of ‘second order’ effects",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2020-02-12-update-1-us-lawmakers-hear-arguments-for-new-safeguards-for-self-driving-cars.md",
       "title": "UPDATE 1-U.S. lawmakers hear arguments for new safeguards for self-driving cars",
       "excerpt": "WASHINGTON, Feb 11- A U.S. House panel on Tuesday heard from advocates of imposing stricter safeguards for self-driving cars as part of any effort to speed the adoption of the vehicles on U.S. roads.",
@@ -1274,43 +1319,6 @@
           "width": 1200,
           "height": 677,
           "title": "Backup Drivers For AI Self-Driving Cars Aren’t A Guarantee Of Safety, So Here’s What Needs To Be Done",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-01-30-ups-teams-up-with-self-driving-company-waymo-for-package-delivery.md",
-      "title": "UPS Teams Up With Self-driving Company Waymo For Package Delivery",
-      "excerpt": "(RTTNews) - UPS (UPS) said that it has partnered with Waymo, the self-driving arm of Google's parent company Alphabet, to pilot autonomous vehicle package pickup in the Metro Phoenix area. Starting in the coming weeks,",
-      "heat": 199,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nasdaq.com/articles/ups-teams-up-with-self-driving-company-waymo-for-package-delivery-2020-01-29",
-      "ampWebUrl": "https://www.nasdaq.com/articles/ups-teams-up-with-self-driving-company-waymo-for-package-delivery-2020-01-29?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ups-teams-up-with-self-driving-company-waymo-for-package-delivery-2020-01-29?amp",
-      "publishedDateTime": "2020-01-29T19:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg",
-          "width": 1024,
-          "height": 512,
-          "title": "UPS Teams Up With Self-driving Company Waymo For Package Delivery",
           "attribution": null
         }
       ],

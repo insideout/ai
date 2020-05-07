@@ -2,6 +2,35 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-04-13-robot-allows-clinicians-to-reuse-thousands-of-masks-in-the-covid-19-fight.md",
+      "title": "Robot allows clinicians to reuse thousands of masks in the COVID-19 fight",
+      "excerpt": "At UVA Health, a newly acquired robot is helping maximize the life of some of the most critical personal protective equipment, or PPE, at a time when the surge of demand for such items has ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medicalxpress.com/news/2020-04-robot-clinicians-reuse-thousands-masks.html",
+      "ampWebUrl": "https://medicalxpress.com/news/2020-04-robot-clinicians-reuse-thousands-masks.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-04-robot-clinicians-reuse-thousands-masks.amp",
+      "publishedDateTime": "2020-04-13T06:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-13-couple-claim-sex-robot-with-soft-scottish-accent-saved-their-marriage.md",
       "title": "Couple claim sex robot with 'soft Scottish accent' saved their marriage",
       "excerpt": "A couple claim that a £6,600 Scottish sex robot - who shares their bed every night - has saved their marriage. Shelly, 45, and Darris Maxie, 48, from Texas, USA, splashed out on a computerised, Artificial Intelligence sex doll, called Camila, to save their marriage after the third person in their previous poly relationship left them.",
@@ -1229,51 +1258,6 @@
         "AI Hardware",
         "Google AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-03-27-uc-berkeley-robotics-lab-wants-to-fully-automate-a-polyculture-garden.md",
-      "title": "UC Berkeley robotics lab wants to fully automate a polyculture garden",
-      "excerpt": "A University of California, Berkeley robotics lab is developing AI systems for polyculture gardening as part of AlphaGarden ... and we’re basically trying to monitor the state of the garden every single day so that we can see how it evolves, and then start to understand what the effect of actions are,” Goldberg said. AlphaGarden also ...",
-      "heat": 104,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/03/27/uc-berkeley-robotics-lab-wants-to-fully-automate-a-polyculture-garden/",
-      "ampWebUrl": "https://venturebeat.com/2020/03/27/uc-berkeley-robotics-lab-wants-to-fully-automate-a-polyculture-garden/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/27/uc-berkeley-robotics-lab-wants-to-fully-automate-a-polyculture-garden/amp/",
-      "publishedDateTime": "2020-03-27T10:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/03/alphagarden.png?fit=1800%2C900&strip=all",
-          "width": 1800,
-          "height": 900,
-          "title": "UC Berkeley robotics lab wants to fully automate a polyculture garden",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

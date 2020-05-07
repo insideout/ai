@@ -2,6 +2,80 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-03-17-tyler-technologies-micropact-global-alliance-members-secure-major-vocational-rehabilitation-and-employment-contract.md",
+      "title": "Tyler Technologies’ MicroPact Global Alliance Members Secure Major Vocational Rehabilitation and Employment Contract",
+      "excerpt": "The completed project will be hosted on Amazon Web Services (AWS) and will feature 2,500 seats of Tyler’s Entellitrak ® solution ... Chainbridge Solutions leverages technologies such as Artificial Intelligence, Robotic Process Automation, and Machine Learning to deliver the next generation of case management solutions.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businesswire.com/news/home/20200317005053/en/Tyler-Technologies’-MicroPact-Global-Alliance-Members-Secure",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-17T06:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20200317005053/en/257505/23/tyler_logo_RGB.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": "Tyler Technologies’ MicroPact Global Alliance Members Secure Major Vocational Rehabilitation and Employment Contract",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-17-aws-australia-returns-to-profit-after-posting-half-a-billion-revenue.md",
+      "title": "AWS Australia returns to profit after posting half a billion revenue",
+      "excerpt": "These included around cloud migration and modernisation, demand for contact centre technology and data analytics management and artificial intelligence. Last year, Migliorini spoke to ARN about AWS’ loss for 2018, saying the company had lowered its ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.arnnet.com.au/article/671884/aws-australia-returns-profit-after-posting-half-billion-revenue/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-16T17:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ARN",
+        "domain": "arnnet.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/dimg/adam_beavis.jpg",
+          "width": 800,
+          "height": 500,
+          "title": "AWS Australia returns to profit after posting half a billion revenue",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-16-the-amazon-athena-query-federation-sdk-allows-you-to-customize-amazon-athena-with-your-own-data-sources-and-code.md",
       "title": "The Amazon Athena Query Federation SDK allows you to customize Amazon Athena with your own data sources and code.",
       "excerpt": "To enable this Preview feature you need to create an Athena workgroup named AmazonAthenaPreviewFunctionality and run any queries attempting to federate to this connector, use a UDF, or SageMaker inference from that workgroup. We've written integrations with more than 20 databases, storage formats, and live APIs in order to refine this interface ...",
@@ -1077,96 +1151,6 @@
           "width": 1200,
           "height": 630,
           "title": "Conversational AI Platform Market Major Technology Giants in Buzz Again",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-27-optimizing-application-performance-with-amazon-codeguru-profiler.md",
-      "title": "Optimizing application performance with Amazon CodeGuru Profiler",
-      "excerpt": "Amazon CodeGuru (Preview) is a service launched at AWS re:Invent 2019 that analyzes the performance characteristics of your application and provides automatic recommendations on ways to improve. It does this by profiling your application’s runtime (with CodeGuru Profiler) and by automatically reviewing",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/optimizing-application-performance-with-amazon-codeguru-profiler/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-27T09:08:11-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/02/26/codeguru-5.gif",
-          "width": 800,
-          "height": 498,
-          "title": "Optimizing application performance with Amazon CodeGuru Profiler",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-27-google-is-buying-its-way-into-cloud-computing-contention.md",
-      "title": "Google is Buying Its Way Into Cloud Computing Contention",
-      "excerpt": "As it stands, Amazon's (NASDAQ:AMZN) cloud unit Amazon Web Services (AWS) is the industry leader, but Microsoft (NASDAQ ... The selling point for using Google Cloud is that businesses get access to its artificial intelligence and data analysis expertise, and don't have to worry about sharing data with a rival. To stand out from its competitors ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.fool.com/investing/2020/02/27/google-buying-way-cloud-computing-cornerstone.aspx",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/02/27/google-buying-way-cloud-computing-cornerstone.aspx",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/02/27/google-buying-way-cloud-computing-cornerstone.aspx",
-      "publishedDateTime": "2020-02-27T06:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F559707%2Fcloud-google-mf.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 675,
-          "title": "Google is Buying Its Way Into Cloud Computing Contention",
           "attribution": null
         }
       ],

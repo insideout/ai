@@ -2,6 +2,320 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-05-04-dems-deploying-darpa-funded-information-warfare-ai-driven-tool-to-target-pro-trump-accounts.md",
+      "title": "Dems deploying DARPA-funded information warfare AI-driven tool to target pro-Trump accounts",
+      "excerpt": "Trump Democratic political action committee advised by retired Army Gen. Stanley McChrystal is planning to deploy an information warfare tool that received original funding from DARPA, the Pentagon’s research arm -- transforming technology originally envisioned as a way to fight extremist propaganda into a campaign platform to promote Joe Biden.",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.foxnews.com/politics/dems-deploying-darpa-funded-information-warfare-tool-to-promote-biden",
+      "ampWebUrl": "https://www.foxnews.com/politics/dems-deploying-darpa-funded-information-warfare-tool-to-promote-biden.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dems-deploying-darpa-funded-information-warfare-tool-to-promote-biden.amp",
+      "publishedDateTime": "2020-05-03T23:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/12/640/320/Gen-Stanley-McChrystal-Getty.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": "Dems deploying DARPA-funded information warfare AI-driven tool to target pro-Trump accounts",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-04-artificial-intelligence-market-industry-analysis-and-forecast-2019-2025.md",
+      "title": "Artificial Intelligence Market Industry Analysis and Forecast (2019-2025)",
+      "excerpt": "The Artificial Intelligence Market is expected to exceed more than US$ 190 Billion by 2025 at a CAGR of 37% in the given forecast period. The report covers detailed competitive outlook including the market share and company profiles of the key participants operating in the global market.",
+      "heat": 98,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-industry-analysis-and-forecast-2019-2025-2020-05-04",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-03T23:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial Intelligence Market Industry Analysis and Forecast (2019-2025)",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-04-the-rise-of-the-robot.md",
+      "title": "The rise of the robot",
+      "excerpt": "In 1966, a team of engineers at SRI International in California unveiled ‘ Shakey’, the world’s first mobile robot that had the ability to perceive and reason about its surr",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/355510/the-rise-of-the-robot",
+      "ampWebUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/355510/the-rise-of-the-robot?amp",
+      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/355510/the-rise-of-the-robot?amp",
+      "publishedDateTime": "2020-05-03T22:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk//image/upload/v1588339067/itpro/2020/05/shutterstock_bricklaying_robot.jpg",
+          "width": 2000,
+          "height": 1125,
+          "title": "The rise of the robot",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-04-here-are-the-top-10-technology-trends-of-the-4th-industrial-revolution.md",
+      "title": "Here Are The Top 10 Technology Trends Of The 4th Industrial Revolution",
+      "excerpt": "There are many technology trends that are currently altering the world as we know it. Here I pull out the top 10 future tech trends that will define the next decade and explain what they are and how each is transforming our world.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2020/05/04/here-are-the-top-10-technology-trends-of-the-4th-industrial-revolution/",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2020/05/04/here-are-the-top-10-technology-trends-of-the-4th-industrial-revolution/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2020/05/04/here-are-the-top-10-technology-trends-of-the-4th-industrial-revolution/amp/",
+      "publishedDateTime": "2020-05-03T21:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eaf9842bf289800084688b1%2F0x0.jpg",
+          "width": 1199,
+          "height": 743,
+          "title": "Here Are The Top 10 Technology Trends Of The 4th Industrial Revolution",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-03-tech-in-latin-america-an-entrepreneurs-guide-to-aprils-startup-news.md",
+      "title": "Tech in Latin America: An entrepreneur’s guide to April’s startup news",
+      "excerpt": "Conrad lives in Medellin & NYC and profiles startup ecosystems during his travels. He is a Global Mentor at 500",
+      "heat": 72,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/podium/2020/05/03/tech-in-latin-america-an-entrepreneurs-guide-to-aprils-startup-news/",
+      "ampWebUrl": "https://thenextweb.com/podium/2020/05/03/tech-in-latin-america-an-entrepreneurs-guide-to-aprils-startup-news/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/podium/2020/05/03/tech-in-latin-america-an-entrepreneurs-guide-to-aprils-startup-news/amp/",
+      "publishedDateTime": "2020-05-03T15:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/93375883_3166416773370956_1945378279644987392_o-796x530.jpg",
+          "width": 796,
+          "height": 530,
+          "title": "Tech in Latin America: An entrepreneur’s guide to April’s startup news",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-03-intels-raja-koduri-confirms-that-massive-father-of-all-gpu-is-aimed-at-the-data-center.md",
+      "title": "Intel's Raja Koduri confirms that massive 'father of all' GPU is aimed at the data center",
+      "excerpt": "Intel tweeted a photo teasing a massive and mysterious GPU on Friday, and in doing so, lit the internet aflame with speculation. Early on, pretty much everyone settled on it being a form of Intel's upcoming Xe HP or",
+      "heat": 95,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techspot.com/news/85076-intel-raja-koduri-confirms-massive-father-all-gpu.html",
+      "ampWebUrl": "https://www.techspot.com/amp/news/85076-intel-raja-koduri-confirms-massive-father-all-gpu.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/85076-intel-raja-koduri-confirms-massive-father-all-gpu.html",
+      "publishedDateTime": "2020-05-03T10:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static.techspot.com/articles-info/1898/images/2019-08-22-image.jpg",
+          "width": 2200,
+          "height": 1140,
+          "title": "Intel's Raja Koduri confirms that massive 'father of all' GPU is aimed at the data center",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-03-the-easy-questions-that-stump-computers.md",
+      "title": "The Easy Questions That Stump Computers",
+      "excerpt": "Computers do. It’s no wonder that commonsense reasoning emerged as a primary concern of AI research in 1958 (in a paper titled “Programs With Common Sense”), not long after the field of AI was born. “In general,",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.theatlantic.com/technology/archive/2020/05/computers-common-sense/611050/",
+      "ampWebUrl": "https://amp.theatlantic.com/amp/article/611050/",
+      "cdnAmpWebUrl": "https://amp-theatlantic-com.cdn.ampproject.org/c/s/amp.theatlantic.com/amp/article/611050/",
+      "publishedDateTime": "2020-05-03T05:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Atlantic",
+        "domain": "theatlantic.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/theatlantic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.theatlantic.com/thumbor/94WQntFZUhVHjgmvql-xgr_Ub98=/570x321/media/img/mt/2020/05/Common_Sense_2880x1620_Lede/original.gif",
+          "width": 570,
+          "height": 321,
+          "title": "The Easy Questions That Stump Computers",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-03-adidas-is-using-ai-and-3d-printing-to-cope-with-a-plunge-in-sales-during-the-coronavirus-pandemic.md",
       "title": "Adidas is using AI and 3D printing to cope with a plunge in sales during the coronavirus pandemic",
       "excerpt": "German sportswear giant Adidas plans to bolster its lagging performance by shifting strategy to focus on its digital platform.",
@@ -1005,318 +1319,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-01-streaming-service-deezer-built-an-ai-to-catch-the-explicit-lyrics-human-censors-miss.md",
-      "title": "Streaming service Deezer built an AI to catch the explicit lyrics human censors miss",
-      "excerpt": "Streaming service Deezer has developed an AI technique that automatically detects explicit lyrics -- just by analyzing the audio",
-      "heat": 80,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/05/01/streaming-service-deezer-built-an-ai-to-catch-the-explicit-lyrics-human-censors-miss/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/05/01/streaming-service-deezer-built-an-ai-to-catch-the-explicit-lyrics-human-censors-miss/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/05/01/streaming-service-deezer-built-an-ai-to-catch-the-explicit-lyrics-human-censors-miss/amp/",
-      "publishedDateTime": "2020-05-01T09:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/Untitled-design-22-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "Streaming service Deezer built an AI to catch the explicit lyrics human censors miss",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-01-astronauts-adopt-mozilla-speech-tech-to-control-moon-robots.md",
-      "title": "Astronauts adopt Mozilla speech tech to control Moon robots",
-      "excerpt": "The text-to-speech engine will give astronauts their hands back during complex tasks. The machines are taking over, get ready. By 2024, AI will have dramatically transformed how we live our lives, conduct business,",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/astronauts-adopt-mozilla-speech-tech-to-control-moon-robots/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/astronauts-adopt-mozilla-speech-tech-to-control-moon-robots/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/astronauts-adopt-mozilla-speech-tech-to-control-moon-robots/",
-      "publishedDateTime": "2020-05-01T09:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2019/09/23/bb592151-a7e8-47d8-84ec-11dcda294513/resize/1200x900/7f35b9e8aa729f1d5fbf1543913e030e/roborock-s4-1.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": "Astronauts adopt Mozilla speech tech to control Moon robots",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-01-google-releases-ai-tool-for-processing-paycheck-protection-program-loans.md",
-      "title": "Google releases AI tool for processing Paycheck Protection Program loans",
-      "excerpt": "Google released a tool -- PPP Lending AI -- that enables lenders to leverage AI to process applications for the U.S. Paycheck Protection Program.",
-      "heat": 88,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/05/01/google-releases-ai-solution-to-help-lenders-process-paycheck-protection-program-loans/",
-      "ampWebUrl": "https://venturebeat.com/2020/05/01/google-releases-ai-solution-to-help-lenders-process-paycheck-protection-program-loans/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/01/google-releases-ai-solution-to-help-lenders-process-paycheck-protection-program-loans/amp/",
-      "publishedDateTime": "2020-05-01T08:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/04/google-cloud-2-e1576177709339.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Google releases AI tool for processing Paycheck Protection Program loans",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-01-senator-questions-clearview-ai-over-coronavirus-tracking-plans.md",
-      "title": "Senator questions Clearview AI over coronavirus tracking plans",
-      "excerpt": "Sen. Edward Markey says COVID-19 contact tracing can't be \"used as cover by companies like Clearview to build shadowy surveillance networks.\"",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnet.com/news/senator-questions-clearview-ai-over-coronavirus-tracking-plans/",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/senator-questions-clearview-ai-over-coronavirus-tracking-plans/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/senator-questions-clearview-ai-over-coronavirus-tracking-plans/",
-      "publishedDateTime": "2020-05-01T07:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cnet4.cbsistatic.com/img/JsUigaPqhHEO0XUYO41ZqO-Z-vo=/756x567/2020/01/18/2bde6ea9-4f91-4473-a8fb-1418d9ac5c7d/facial-recognition-james-martin-promo-1.jpg",
-          "width": 756,
-          "height": 567,
-          "title": "Senator questions Clearview AI over coronavirus tracking plans",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-01-3-ways-smbs-use-machine-learning-to-power-digital-transformation.md",
-      "title": "3 ways SMBs use machine learning to power digital transformation",
-      "excerpt": "Businesses should start small and fail fast with machine learning (ML) projects to get the best ROI. Some of the most common use cases for small- to medium-sized businesses (SMBs) include fraud detection,",
-      "heat": 91,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/3-ways-smbs-use-machine-learning-to-power-digital-transformation/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/3-ways-smbs-use-machine-learning-to-power-digital-transformation/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/3-ways-smbs-use-machine-learning-to-power-digital-transformation/",
-      "publishedDateTime": "2020-05-01T06:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/03/31/1d4ffefb-a94f-4bc2-89b4-b9f1d7257e4b/thumbnail/1200x675/3c077c568da3486c12635990b915a508/20200330-sf-april.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "3 ways SMBs use machine learning to power digital transformation",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-05-01-drug-discovery-might-be-the-best-use-of-ai-to-tackle-the-pandemic.md",
-      "title": "Drug discovery might be the best use of AI to tackle the pandemic",
-      "excerpt": "BenevolentAI's discovery of a potential coronavirus treatment show's that drug discovery is one application of AI that's living up to the hype",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/05/01/drug-discovery-might-be-the-best-use-of-ai-to-tackle-the-pandemic/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/05/01/drug-discovery-might-be-the-best-use-of-ai-to-tackle-the-pandemic/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/05/01/drug-discovery-might-be-the-best-use-of-ai-to-tackle-the-pandemic/amp/",
-      "publishedDateTime": "2020-05-01T04:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/Untitled-design-21-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "Drug discovery might be the best use of AI to tackle the pandemic",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-01-how-ai-can-help-companies-thrive-in-post-pandemic-uncertainty.md",
-      "title": "How AI Can Help Companies Thrive In Post-Pandemic Uncertainty",
-      "excerpt": "He sees the vision of how AI and machine learning can help us work better in the post-pandemic world. Gaurav Kataria, VP Product at BetterUp says, “One of the key skills that we are focusing on is learning agility and resilience.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/05/01/how-ai-can-help-companies-thrive-in-post-pandemic-uncertainty/",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/05/01/how-ai-can-help-companies-thrive-in-post-pandemic-uncertainty/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/05/01/how-ai-can-help-companies-thrive-in-post-pandemic-uncertainty/amp/",
-      "publishedDateTime": "2020-05-01T04:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eac09d2af7fe60006a119f7%2F0x0.jpg%3FcropX1%3D467%26cropX2%3D9888%26cropY1%3D0%26cropY2%3D5304",
-          "width": 1200,
-          "height": 645,
-          "title": "How AI Can Help Companies Thrive In Post-Pandemic Uncertainty",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

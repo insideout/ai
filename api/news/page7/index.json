@@ -2,6 +2,311 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-05-01-ai-weekly-animal-crossing-iclr-and-the-future-of-research-conferences-online.md",
+      "title": "AI Weekly: Animal Crossing, ICLR, and the future of research conferences online",
+      "excerpt": "An upcoming Animal Crossing AI workshop and ICLR this week may reshape what research conferences look like, but social experiences are still a challenge.",
+      "heat": 85,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/05/01/ai-weekly-animal-crossing-iclr-and-the-future-of-research-conferences-online/",
+      "ampWebUrl": "https://venturebeat.com/2020/05/01/ai-weekly-animal-crossing-iclr-and-the-future-of-research-conferences-online/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/01/ai-weekly-animal-crossing-iclr-and-the-future-of-research-conferences-online/amp/",
+      "publishedDateTime": "2020-05-01T11:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/animal-crossing.png?fit=1800%2C900&strip=all",
+          "width": 1800,
+          "height": 900,
+          "title": "AI Weekly: Animal Crossing, ICLR, and the future of research conferences online",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-05-01-coronavirus-helps-robot-delivery-startup-refraction-ai-gain-traction.md",
+      "title": "Coronavirus helps robot delivery startup Refraction AI gain traction",
+      "excerpt": "Refraction AI, a robot delivery startup in Ann Arbor, Mich., was having trouble gaining traction before the pandemic — and now, it's racing to capitalize on our stay-at-home mentality. Why it matters: In the midst of the pain and suffering from a crisis,",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.axios.com/refraction-ai-grocery-delivery-autonomous-ann-arbor-611e65fa-65d7-4b30-a8d4-de1b85c720fb.html",
+      "ampWebUrl": "https://www.axios.com/refraction-ai-grocery-delivery-autonomous-ann-arbor-611e65fa-65d7-4b30-a8d4-de1b85c720fb.html",
+      "cdnAmpWebUrl": "https://www-axios-com.cdn.ampproject.org/c/s/www.axios.com/refraction-ai-grocery-delivery-autonomous-ann-arbor-611e65fa-65d7-4b30-a8d4-de1b85c720fb.html",
+      "publishedDateTime": "2020-05-01T11:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Axios",
+        "domain": "axios.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.axios.com/6e7fxp84f9oN52Lh4Z7nrPlsfyI=/2020/05/01/1588353067194.png",
+          "width": 1920,
+          "height": 1080,
+          "title": "Coronavirus helps robot delivery startup Refraction AI gain traction",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-05-01-the-ai-eye-coca-cola-makes-5-year-agreement-with-microsoft.md",
+      "title": "The AI Eye: Coca-Cola Makes 5-Year Agreement with Microsoft",
+      "excerpt": "Watching stock news, deal tracker and advancements in artificial intelligence Coca-Cola ( NYSE:KO) has announced a five-year agreement with Microsoft ( NasdaqGS:MSFT ), wherein it will leverage the latter's Azure,",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/the-ai-eye-coca-cola-makes-5-year-agreement-with-microsoft-2020-05-01",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-01T10:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "The AI Eye: Coca-Cola Makes 5-Year Agreement with Microsoft",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-01-streaming-service-deezer-built-an-ai-to-catch-the-explicit-lyrics-human-censors-miss.md",
+      "title": "Streaming service Deezer built an AI to catch the explicit lyrics human censors miss",
+      "excerpt": "Streaming service Deezer has developed an AI technique that automatically detects explicit lyrics -- just by analyzing the audio",
+      "heat": 80,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/05/01/streaming-service-deezer-built-an-ai-to-catch-the-explicit-lyrics-human-censors-miss/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/05/01/streaming-service-deezer-built-an-ai-to-catch-the-explicit-lyrics-human-censors-miss/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/05/01/streaming-service-deezer-built-an-ai-to-catch-the-explicit-lyrics-human-censors-miss/amp/",
+      "publishedDateTime": "2020-05-01T09:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/Untitled-design-22-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "Streaming service Deezer built an AI to catch the explicit lyrics human censors miss",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-01-astronauts-adopt-mozilla-speech-tech-to-control-moon-robots.md",
+      "title": "Astronauts adopt Mozilla speech tech to control Moon robots",
+      "excerpt": "The text-to-speech engine will give astronauts their hands back during complex tasks. The machines are taking over, get ready. By 2024, AI will have dramatically transformed how we live our lives, conduct business,",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/astronauts-adopt-mozilla-speech-tech-to-control-moon-robots/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/astronauts-adopt-mozilla-speech-tech-to-control-moon-robots/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/astronauts-adopt-mozilla-speech-tech-to-control-moon-robots/",
+      "publishedDateTime": "2020-05-01T09:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2019/09/23/bb592151-a7e8-47d8-84ec-11dcda294513/resize/1200x900/7f35b9e8aa729f1d5fbf1543913e030e/roborock-s4-1.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": "Astronauts adopt Mozilla speech tech to control Moon robots",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-01-google-releases-ai-tool-for-processing-paycheck-protection-program-loans.md",
+      "title": "Google releases AI tool for processing Paycheck Protection Program loans",
+      "excerpt": "Google released a tool -- PPP Lending AI -- that enables lenders to leverage AI to process applications for the U.S. Paycheck Protection Program.",
+      "heat": 88,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/05/01/google-releases-ai-solution-to-help-lenders-process-paycheck-protection-program-loans/",
+      "ampWebUrl": "https://venturebeat.com/2020/05/01/google-releases-ai-solution-to-help-lenders-process-paycheck-protection-program-loans/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/01/google-releases-ai-solution-to-help-lenders-process-paycheck-protection-program-loans/amp/",
+      "publishedDateTime": "2020-05-01T08:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/04/google-cloud-2-e1576177709339.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Google releases AI tool for processing Paycheck Protection Program loans",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-01-senator-questions-clearview-ai-over-coronavirus-tracking-plans.md",
+      "title": "Senator questions Clearview AI over coronavirus tracking plans",
+      "excerpt": "Sen. Edward Markey says COVID-19 contact tracing can't be \"used as cover by companies like Clearview to build shadowy surveillance networks.\"",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnet.com/news/senator-questions-clearview-ai-over-coronavirus-tracking-plans/",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/senator-questions-clearview-ai-over-coronavirus-tracking-plans/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/senator-questions-clearview-ai-over-coronavirus-tracking-plans/",
+      "publishedDateTime": "2020-05-01T07:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cnet4.cbsistatic.com/img/JsUigaPqhHEO0XUYO41ZqO-Z-vo=/756x567/2020/01/18/2bde6ea9-4f91-4473-a8fb-1418d9ac5c7d/facial-recognition-james-martin-promo-1.jpg",
+          "width": 756,
+          "height": 567,
+          "title": "Senator questions Clearview AI over coronavirus tracking plans",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-01-3-ways-smbs-use-machine-learning-to-power-digital-transformation.md",
       "title": "3 ways SMBs use machine learning to power digital transformation",
       "excerpt": "Businesses should start small and fail fast with machine learning (ML) projects to get the best ROI. Some of the most common use cases for small- to medium-sized businesses (SMBs) include fraud detection,",
@@ -791,315 +1096,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-04-30-a-us-senator-wants-to-know-which-federal-authorities-are-using-clearview-ai-to-track-the-coronavirus.md",
-      "title": "A US Senator Wants To Know Which Federal Authorities Are Using Clearview AI To Track The Coronavirus",
-      "excerpt": "Technology has an important role to play in mitigating the COVID-19 pandemic, but this health crisis cannot justify using unreliable surveillance tools that could undermine our privacy rights,” said",
-      "heat": 72,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.buzzfeednews.com/article/carolinehaskins1/senator-markey-clearview-ai-covid-contact-tracing",
-      "ampWebUrl": "https://www.buzzfeednews.com/amphtml/carolinehaskins1/senator-markey-clearview-ai-covid-contact-tracing",
-      "cdnAmpWebUrl": "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/carolinehaskins1/senator-markey-clearview-ai-covid-contact-tracing",
-      "publishedDateTime": "2020-04-30T15:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BuzzFeed News",
-        "domain": "buzzfeednews.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/buzzfeednews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2017-08/15/13/campaign_images/buzzfeed-prod-fastlane-01/cybersecurity-experts-say-prosecution-of-the-nhs--2-25425-1502816911-0_dblbig.jpg",
-          "width": 625,
-          "height": 415,
-          "title": "A US Senator Wants To Know Which Federal Authorities Are Using Clearview AI To Track The Coronavirus",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-30-this-ai-creates-entire-songs-complete-with-music-lyrics-and-vocals.md",
-      "title": "This AI creates entire songs complete with music, lyrics, and vocals",
-      "excerpt": "OpenAI today introduced ‘Jukebox,’ an open-source AI system for generating novel music complete with lyrics and vocals. Simply put, it’s the most impressive music-writing AI we’ve seen yet. Jukebox was trained on massive datasets of music across nearly every genre so that it can create completely fresh songs that, in many cases ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/04/30/this-ai-creates-entire-songs-complete-with-music-lyrics-and-vocals/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/04/30/this-ai-creates-entire-songs-complete-with-music-lyrics-and-vocals/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/04/30/this-ai-creates-entire-songs-complete-with-music-lyrics-and-vocals/amp/",
-      "publishedDateTime": "2020-04-30T14:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/04/jukebox-796x402.jpg",
-          "width": 796,
-          "height": 402,
-          "title": "This AI creates entire songs complete with music, lyrics, and vocals",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-30-the-next-generation-of-fighting-financial-crime-with-ai.md",
-      "title": "The next generation of fighting financial crime with AI",
-      "excerpt": "When discussing the need for smarter crime detection techniques, Julie Conroy, research director at the Aite Group, does not mince words.\n“Between two and five percent of global GDP is currently being laundered, and with legacy approaches we’re catching less than one percent of it,” she says.\nIBM recently",
-      "heat": 102,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.ibm.com/blogs/watson/2020/04/the-next-generation-of-fighting-financial-crime-with-ai/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-30T14:34:55-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/04/Leadspace-1.jpg",
-          "width": 990,
-          "height": 498,
-          "title": "The next generation of fighting financial crime with AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-30-google-open-sources-ai-that-searches-tables-to-answer-natural-language-questions.md",
-      "title": "Google open-sources AI that searches tables to answer natural language questions",
-      "excerpt": "Google researchers open-sourced an AI model that searches across tables for answers to complex natural language questions.",
-      "heat": 92,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/30/google-open-sources-ai-that-searches-tables-to-answer-natural-language-questions/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/30/google-open-sources-ai-that-searches-tables-to-answer-natural-language-questions/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/30/google-open-sources-ai-that-searches-tables-to-answer-natural-language-questions/amp/",
-      "publishedDateTime": "2020-04-30T14:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/10/google-ai-logo.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Google open-sources AI that searches tables to answer natural language questions",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-30-artificial-intelligence-is-predicting-coronavirus-outbreaks-before-they-start.md",
-      "title": "Artificial intelligence is predicting coronavirus outbreaks before they start",
-      "excerpt": "Artificial intelligence has played a central role in the fight against the coronavirus. Cotiviti has leveraged AI to predict COVID-19 hot spots around the country before an outbreak happens.",
-      "heat": 86,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/artificial-intelligence-is-predicting-coronavirus-outbreaks-before-they-start/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/artificial-intelligence-is-predicting-coronavirus-outbreaks-before-they-start/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/artificial-intelligence-is-predicting-coronavirus-outbreaks-before-they-start/",
-      "publishedDateTime": "2020-04-30T13:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/04/30/d2f8d12f-4450-4116-9314-69456e6590db/resize/1200x/fa08a88403e1014c24117dc937698d68/map-2.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": "Artificial intelligence is predicting coronavirus outbreaks before they start",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-30-ai-hype-or-ai-hope-when-will-ai-disrupt-the-pharmaceutical-industry.md",
-      "title": "AI Hype Or AI Hope: When Will AI Disrupt The Pharmaceutical Industry?",
-      "excerpt": "Since 2014 deep learning systems started outperforming humans in many tasks such as image, text, and voice recognition. But when it comes to drug discovery the rate of progress is seemingly slow. When are we going to see the fruits of the research in AI translating into real drugs?",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/04/30/ai-hype-or-ai-hope-when-will-ai-disrupt-the-pharmaceutical-industry/",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/04/30/ai-hype-or-ai-hope-when-will-ai-disrupt-the-pharmaceutical-industry/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/04/30/ai-hype-or-ai-hope-when-will-ai-disrupt-the-pharmaceutical-industry/amp/",
-      "publishedDateTime": "2020-04-30T13:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eab28e0228117000681e0bc%2F0x0.jpg",
-          "width": 1200,
-          "height": 573,
-          "title": "AI Hype Or AI Hope: When Will AI Disrupt The Pharmaceutical Industry?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-30-smart-home-startup-joshai-raises-11-million-to-offer-a-home-assistant-alternative-to-alexa.md",
-      "title": "Smart home startup Josh.ai raises $11 million to offer a home assistant alternative to Alexa",
-      "excerpt": "Directly taking on Google and Amazon generally seems to be an ill-advised strategy for a young startup. It’s even more complicated when you’re competing on the home assistants front, a technically-complex,",
-      "heat": 76,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/04/30/smart-home-startup-josh-ai-raises-11-million-to-offer-a-home-assistant-alternative-to-alexa/",
-      "ampWebUrl": "https://techcrunch.com/2020/04/30/smart-home-startup-josh-ai-raises-11-million-to-offer-a-home-assistant-alternative-to-alexa/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/30/smart-home-startup-josh-ai-raises-11-million-to-offer-a-home-assistant-alternative-to-alexa/amp/",
-      "publishedDateTime": "2020-04-30T12:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/04/Josh-Lifestyle-Dots-Crop.jpg?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": "Smart home startup Josh.ai raises $11 million to offer a home assistant alternative to Alexa",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

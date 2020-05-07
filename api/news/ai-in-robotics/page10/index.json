@@ -2,6 +2,51 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-01-21-scrappy-company-leapfrogs-the-pack-with-functioning-robot-taxis.md",
+      "title": "Scrappy company leapfrogs the pack with functioning robot taxis",
+      "excerpt": "His value proposition was that an evolving hardware stack that in early days consisted of nothing more visible spectrum cameras paired with the right AI would be enough for safe L4 autonomous driving ... Recently, AutoX announced a partnership with Fiat Chrysler (FCAU) to start rolling out the first \"Hardware Ready\" robotaxi for the Asia ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/scrappy-company-leapfrogs-the-pack-to-robot-taxis/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/scrappy-company-leapfrogs-the-pack-to-robot-taxis/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/scrappy-company-leapfrogs-the-pack-to-robot-taxis/",
+      "publishedDateTime": "2020-01-21T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/01/17/b1fae1ef-1788-4a25-8407-2e9f1a0f0ad2/autox.jpg",
+          "width": 1100,
+          "height": 825,
+          "title": "Scrappy company leapfrogs the pack with functioning robot taxis",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-01-21-artificial-intelligence-robots-market-2020-analysis-growth-vendors-shares-drivers-challenges-with-forecast-to-2025.md",
       "title": "Artificial Intelligence Robots Market 2020 Analysis, Growth, Vendors, Shares, Drivers, Challenges with Forecast to 2025",
       "excerpt": "New York, January 21, 2020: The report covers detailed competitive outlook including the market share and company profiles of the key participants operating in the global market. Key players profiled in the report include Soft Bank,",
@@ -1206,44 +1251,7 @@
         "AI",
         "AI in Robotics"
       ]
-    },
-    {
-      "path": "_news/2020-01-02-ai-and-robotics-execs-look-back-at-tech-trends-of-2019.md",
-      "title": "AI and robotics execs look back at tech trends of 2019",
-      "excerpt": "Some aspects of robotics and artificial intelligence are advancing rapidly; others, not so much. What should AI and robotics developers recall as they prepare for a new year? Sudhir Jha, senior vice president and head of Brighterion Inc., Max Versace ...",
-      "heat": 69,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://ctovision.com/ai-and-robotics-execs-look-back-at-tech-trends-of-2019/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-02T06:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ctovision.com",
-        "domain": "ctovision.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://ctovision.com/wp-content/uploads/quantum-computing.jpg",
-          "width": 1000,
-          "height": 667,
-          "title": "AI and robotics execs look back at tech trends of 2019",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
     }
   ],
-  "nextPage": null
+  "nextPage": 11
 }

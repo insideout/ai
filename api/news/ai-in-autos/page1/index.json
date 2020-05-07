@@ -93,6 +93,52 @@
       ]
     },
     {
+      "path": "_news/2020-05-06-3-artificial-intelligence-stocks-to-buy-in-may.md",
+      "title": "3 Artificial Intelligence Stocks to Buy in May",
+      "excerpt": "One of the biggest tech opportunities over the next decade is artificial intelligence (AI). According to Grand View Research, the general AI market, across a variety of products and services, is set to expand at a huge 46.",
+      "heat": 91,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fool.com/investing/2020/05/06/3-artificial-intelligence-stocks-to-buy-in-may.aspx?source=eptcnnlnk0000002",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/05/06/3-artificial-intelligence-stocks-to-buy-in-may.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/06/3-artificial-intelligence-stocks-to-buy-in-may.aspx",
+      "publishedDateTime": "2020-05-06T07:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/497755/istock_000016851885_large_large.jpg",
+          "width": 580,
+          "height": 378,
+          "title": "3 Artificial Intelligence Stocks to Buy in May",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-06-sleeker-lidar-moves-volvo-closer-to-selling-a-self-driving-car.md",
       "title": "Sleeker Lidar Moves Volvo Closer to Selling a Self-Driving Car",
       "excerpt": "Using technology from Silicon Valley's Luminar, the Swedish automaker plans to offer completely autonomous highway driving by 2022.",
@@ -186,7 +232,7 @@
       "path": "_news/2020-05-05-the-ai-eye-episode-343-intel-acquires-maas-firm-moovit-and-ibm-unveils-watson-aiops.md",
       "title": "The AI Eye Episode 343: Intel Acquires MaaS Firm Moovit and IBM Unveils Watson AIOps",
       "excerpt": "Point Roberts, WA and Vancouver, BC - May 5, 2020 (Investorideas.com Newswire) Investorideas.com ( a global investor news source covering Artificial Intelligence (AI) brings you today's edition of The AI Eye - watching stock news,",
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.marketwatch.com/press-release/the-ai-eye-episode-343-intel-acquires-maas-firm-moovit-and-ibm-unveils-watson-aiops-2020-05-05",
@@ -1247,52 +1293,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-29-artificial-intelligence-market-growth-analysis-by-size-market-share-news-2018-2026.md",
-      "title": "Artificial Intelligence Market Growth Analysis by Size, Market Share, News 2018-2026",
-      "excerpt": "According to a new study published by Polaris Market Research the Global Artificial Intelligence Market is anticipated",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-growth-analysis-by-size-market-share-news-2018-2026-2020-04-29",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-28T21:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Artificial Intelligence Market Growth Analysis by Size, Market Share, News 2018-2026",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

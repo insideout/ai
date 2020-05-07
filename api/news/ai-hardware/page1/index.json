@@ -2,6 +2,51 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-05-07-elon-musk-says-theres-a-chance-his-ai-brain-chip-company-will-be-putting-implants-in-humans-within-a-year.md",
+      "title": "Elon Musk says there's a chance his AI-brain-chip company will be putting implants in humans within a year",
+      "excerpt": "Elon Musk says his Neuralink brain chip could be ready for a human patient within a year. The chip could help with brain injuries, he says.",
+      "heat": 86,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businessinsider.com/elon-musk-neuralink-brain-chip-put-in-human-within-year-2020-5",
+      "ampWebUrl": "https://www.businessinsider.com/elon-musk-neuralink-brain-chip-put-in-human-within-year-2020-5?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-neuralink-brain-chip-put-in-human-within-year-2020-5?amp",
+      "publishedDateTime": "2020-05-07T11:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.insider.com/5eb443f157853276ce3f755d?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": "Elon Musk says there's a chance his AI-brain-chip company will be putting implants in humans within a year",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-07-huaweis-hisilicon-becomes-first-mainland-chinese-chip-company-to-enter-top-10-in-global-sales-says-ic-insights.md",
       "title": "Huawei’s HiSilicon becomes first mainland Chinese chip company to enter top 10 in global sales, says IC Insights",
       "excerpt": "HiSilicon’s first quarter revenue surged 54 per cent year on year to US$2.67 billion, although 90 per cent of its sales go to parent Huawei Technologies",
@@ -1268,43 +1313,6 @@
         "AI Hardware",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-21-new-weka-ai-framework-to-accelerate-edge-to-core-to-cloud-data-pipelines.md",
-      "title": "New Weka AI framework to accelerate Edge to Core to Cloud Data Pipelines",
-      "excerpt": "WekaIO introduced Weka AI, a transformative storage solution framework underpinned by the Weka File System (WekaFS) that enables accelerated edge-to-core-to-cloud data pipelines. Weka AI is a framework of customizable reference architectures (RAs) and software development kits (SDKs) with leading technology alliances like NVIDIA,",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://insidehpc.com/2020/04/new-weka-ai-to-accelerate-edge-to-core-to-cloud-data-pipelines/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-21T08:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "insideHPC",
-        "domain": "insidehpc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://insidehpc.com/wp-content/uploads/2017/07/wekaio.jpg",
-          "width": 300,
-          "height": 300,
-          "title": "New Weka AI framework to accelerate Edge to Core to Cloud Data Pipelines",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

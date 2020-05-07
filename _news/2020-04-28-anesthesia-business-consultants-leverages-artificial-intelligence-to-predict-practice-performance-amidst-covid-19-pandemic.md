@@ -1,19 +1,25 @@
 ---
 category: news
 title: "Anesthesia Business Consultants Leverages Artificial Intelligence to Predict Practice Performance Amidst COVID-19 Pandemic"
-excerpt: "ABC’s artificial intelligence platform, F1RSTAI, evaluates patient outcomes related to COVID-19 infections, providing projections and financial trends"
-publishedDateTime: 2020-04-28T16:02:00Z
-webUrl: "https://www.businesswire.com/news/home/20200428005773/en/Anesthesia-Business-Consultants-Leverages-Artificial-Intelligence-Predict"
+excerpt: "Anesthesia Business Consultants, LLC (ABC), a leading provider in billing and practice management for the anesthesia and pain management specialty, has leveraged its artificial intelligence platform,"
+publishedDateTime: 2020-04-28T16:46:00Z
+webUrl: "https://apnews.com/Business Wire/1a9030a2344e4a739804831472fc9396"
 type: article
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Healthcare
   - AI
 
-secured: "2Hk6Ou0ST+jOy7X07jrWD+8x6eYpjShOUCePxn1yACf5rBTXWngUAyYb3P9dvG+AFMXjNnAam0WWL2oeb6dgNgGAKURZeKeJ07ArxMW7dJMet5KP/S9ZOWl0a77WB++ch0+Y0zMTv4KbZ0aOQVNqRIIZjEC4o1C384/HZMkt7A/m2A9hrr1jx/be2+68ExgX3rfBckS2u/Jc3IY291fANRTxhRo+0zgQCmtQv+Ec367NlM7STXQjOofgWC/FoXnyeSzTG/yeHQ3fmTN6H/eoXivTpSziQt4S6eXCBKnc5Sz6r0GYiVBSr/sSqVkMtnkc5dwfy2thBwzUAS2vfSLTaONW/ZPdkG+PdQPTcpC4dbPA1DJufIwK4aw3n2vutkIB4p2AWIngGVsVHTzhJhbWHsZIhd4wXji+w+Lnb2foI+ba/Kx8vvlDDLfuVzeRkYG18PHSbZHPfCukJSDfG2oaltri2z+UzfWb0v6PBtCy2o0=;6pkYK0WqUuwz1t6z8ZnzYQ=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    title: "Anesthesia Business Consultants Leverages Artificial Intelligence to Predict Practice Performance Amidst COVID-19 Pandemic"
+
+secured: "ffTeBFZvZhpC3h1CA9gdcE1cvm1KahAopiptq/nc7EKP0nRuBL3g9PQ/1uZEJdXi+LynwFxHmH7XDCm4dP5mfec81xVzlj2sZC3G4wq/zdgr0YmCgeKdxE11HQqmQnr79OCa54RtfB+9rJ0OwANF+WHQjjRhBC8KK7xNBkZ52GPCrRKeNa1+d7bV448JUAxDUG6CPhzB5aCzsY9JPyLOc1ud5bhikP/cNC1i4saU+AbQ8k4Rt0aEkc9RdY73Ayi3xLl0Lz61YZ5n6zqn0vG+OvIjegJMWTXxs5+O+C499TffHbneALIkBCnljqe1E87q;pLGBNdYtEmSrHR73Gm3IfA=="
 ---
 

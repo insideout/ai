@@ -2,6 +2,51 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-02-08-this-new-memory-chip-could-end-up-in-an-iphone-5g.md",
+      "title": "This new memory chip could end up in an iPhone 5G",
+      "excerpt": "The new chip is likely to make its way into the next iPhone ... The rising popularity of high pixel cameras (like the 108 million pixel sensor set on the Xiaomi CC9 Pro), concurrent apps demanding huge bandwidth and AI means that LPDDR5 is likely to become the defacto memory tech for flagship smartphones in 2020. It remains to be seen whether ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techradar.com/au/news/this-new-memory-chip-could-end-up-in-an-iphone-5g",
+      "ampWebUrl": "https://www.techradar.com/au/amp/news/this-new-memory-chip-could-end-up-in-an-iphone-5g",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/this-new-memory-chip-could-end-up-in-an-iphone-5g",
+      "publishedDateTime": "2020-02-07T21:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/n5GsBjxkGK8epc7bMzP4ug-1200-80.jpg",
+          "width": 970,
+          "height": 545,
+          "title": "This new memory chip could end up in an iPhone 5G",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2020-02-06-ai-5g-and-medical-iot-can-help-deliver-the-promise-of-precision-medicine.md",
       "title": "AI, 5G, and medical IoT can help deliver the promise of precision medicine",
       "excerpt": "Once that was figured out, doctors quickly brought him back around, and he was fine. But what if, through groundbreaking mixtures of compute, database, and AI technologies, a quick round of analyses on his blood and genome could have revealed his potential for such a reaction before it became a critical issue? What if it were possible to devise ...",
@@ -1223,52 +1268,6 @@
       "topics": [
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-01-17-apples-latest-deal-shows-how-ai-is-moving-right-onto-devices.md",
-      "title": "Apple's Latest Deal Shows How AI Is Moving Right Onto Devices",
-      "excerpt": "It’s all about keeping an edge in AI ... by adding more AI to the edge. “Machine learning is going to happen at the edge in a big way,” predicts Subhasish Mitra, a professor at Stanford who is working on low-power chips for AI. “The big question is how do you do it efficiently? That requires new hardware technology and design.",
-      "heat": 101,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wired.com/story/apples-deal-shows-ai-moving-devices/",
-      "ampWebUrl": "https://www.wired.com/story/apples-deal-shows-ai-moving-devices/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/apples-deal-shows-ai-moving-devices/amp",
-      "publishedDateTime": "2020-01-16T23:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5e20d1f9f2f8270008751d36/master/pass/Biz-applemobile-1026919434.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": "Apple's Latest Deal Shows How AI Is Moving Right Onto Devices",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware",
-        "Machine Learning"
       ]
     }
   ],

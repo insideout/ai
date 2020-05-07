@@ -2,6 +2,52 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-01-17-apples-latest-deal-shows-how-ai-is-moving-right-onto-devices.md",
+      "title": "Apple's Latest Deal Shows How AI Is Moving Right Onto Devices",
+      "excerpt": "It’s all about keeping an edge in AI ... by adding more AI to the edge. “Machine learning is going to happen at the edge in a big way,” predicts Subhasish Mitra, a professor at Stanford who is working on low-power chips for AI. “The big question is how do you do it efficiently? That requires new hardware technology and design.",
+      "heat": 101,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wired.com/story/apples-deal-shows-ai-moving-devices/",
+      "ampWebUrl": "https://www.wired.com/story/apples-deal-shows-ai-moving-devices/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/apples-deal-shows-ai-moving-devices/amp",
+      "publishedDateTime": "2020-01-16T23:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5e20d1f9f2f8270008751d36/master/pass/Biz-applemobile-1026919434.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": "Apple's Latest Deal Shows How AI Is Moving Right Onto Devices",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-01-16-want-optimized-ai-rethink-your-storage-infrastructure-and-data-pipeline.md",
       "title": "Want optimized AI? Rethink your storage infrastructure and data pipeline",
       "excerpt": "This article is part of the Technology Insight series, made possible with funding from Intel. Most discussions of AI infrastructure start and end with compute hardware — the GPUs, general-purpose CPUs, FPGAs, and tensor processing units responsible for training complex algorithms and making predictions based on those models. But AI also ...",
