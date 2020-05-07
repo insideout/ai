@@ -26,6 +26,6 @@ images:
     height: 400
     title: "IBM Think puts AI to use in IT operations"
 
-secured: "8EESdZjRY0qN5SsxLJ1iPhGHEXo9v3Os/Iy/DlNYycegMBl6Q8S9FfixCun2WoJxWv2yxGNxwx5/P9GPGKd6FD9imTR1k70htsfyCna7VDdtzONVYhYNoTKgnfGgh55Qbupp+vC05QfdApzDbaF/I6kCoEXC9rcDh/QlNz40oCYTVFODie1b499qndSSenu46/Yt15W25uenJ+TlB7qp8G64c/0Bsw1moGar6wmUpzxaKasQnu/afWqMjwuo8oiUXQIlW5/NRmnAYImbKwtr9MH1W8yza7nk1aKmsYcP5H+jTxw4IMILDVrhEvcTgcX+;bbfoTxmFmpiopHD4CmNbIg=="
+secured: "+FEyif3xngUMkgKWFzi9DXBxnVW1Qpzc3KrBsPRNDo8oD2a0vo8cpVHu9m/6+ebwXniAp1MUsMGCpk+rinKqf/Ynt224pI1eLqaxoH1D72GZbx+/1JBTk1A+oNupfGN1bRThMQY2QGfssxdgtxwnPPz79ttjltNQLgiiSw7X2BvZ0WI4I1uKUMipLCfuBqiwbYJwB5JZm6zoMrD/m0SeBE5TiqsHd1gLOfrBTf5qOh+acCHRQZasPH8qJSsN8h7MH/7Lgo+ZdvnDfbduIJ07ujzLsxEV4bgDzQMFuOmAiiApwfrxqtUfK+PlwlP91V2c00bdUzUErV3RMzYoXD3rusK+2Ty69QnM+CPf22lUjoKQQCfKuyht/2x302YUKFpuqfEsndR5sv+Kq1J6xqMFbfu9B+nnheFg7A1KII/CmSBlpNUJJotFcDcbjXeElFhelRP5HgVPF51HHR4yDI+iYia+nHiejP29vMn425KBF88=;0DqPL6mfCI+uWIXWMbw0XQ=="
 ---
 

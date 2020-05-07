@@ -8,7 +8,7 @@ ampWebUrl: "https://www.ocregister.com/2020/05/06/anaheim-police-to-use-facial-r
 cdnAmpWebUrl: "https://www-ocregister-com.cdn.ampproject.org/c/s/www.ocregister.com/2020/05/06/anaheim-police-to-use-facial-recognition-software-to-help-identify-suspects/amp/"
 type: article
 quality: 57
-heat: 67
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,21 @@ images:
     title: "Anaheim police to use facial recognition software to help identify suspects"
 
 related:
+  - title: "Anaheim, Calif., Police to Use Facial Recognition Tech"
+    excerpt: "The Southern California city’s leadership has recently given approval to the police department to purchase facial recognition software with the potential to aid them in identifying criminal suspects."
+    publishedDateTime: 2020-05-07T15:58:00Z
+    webUrl: "https://www.govtech.com/public-safety/Anaheim-Calif-Police-to-Use-Facial-Recognition-Tech.html"
+    ampWebUrl: "https://www.govtech.com/public-safety/Anaheim-Calif-Police-to-Use-Facial-Recognition-Tech.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/Anaheim-Calif-Police-to-Use-Facial-Recognition-Tech.html?AMP"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
+    images:
+      - url: "https://media2.govtech.com/images/shutterstock_1385868245.jpg"
+        width: 1119
+        height: 630
   - title: "Anaheim Police To Go After Criminals With Facial Recognition Software"
     excerpt: "After more than a year-long trial phase, Anaheim police are set to get an annual subscription to a facial recognition software that compares images of unknown individuals suspected of crimes against known offender databases consisting of booking mugshots of those arrested and booked for criminal offenses."
     publishedDateTime: 2020-05-05T19:46:00Z

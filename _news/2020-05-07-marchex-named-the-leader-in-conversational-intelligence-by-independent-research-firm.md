@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Marchex Named The Leader in Conversational Intelligence by Independent Research Firm"
-excerpt: "Marchex (NASDAQ: MCHX), a leading conversational analytics company that connects the voice of the customer to your business, announced that Opus Research has named Marchex as the leading Conversational Intelligence solution provider in its newly released Conversational Intelligence Intelliview research report."
-publishedDateTime: 2020-05-07T07:06:00Z
-webUrl: "https://www.dailyamerican.com/ap/business/marchex-named-the-leader-in-conversational-intelligence-by-independent-research-firm/article_f428021a-5c70-5922-a2e9-0e04a96c8626.html"
+excerpt: "Marchex (NASDAQ: MCHX), a leading conversational analytics company that connects the voice of the customer to your business, announced that Opus Resea"
+publishedDateTime: 2020-05-07T15:22:00Z
+webUrl: "https://www.businesswire.com/news/home/20200429005217/en/Marchex-Named-Leader-Conversational-Intelligence-Independent-Research"
 type: article
-quality: 0
-heat: 0
+quality: 17
+heat: 17
 published: false
 
 provider:
-  name: Daily American
-  domain: dailyamerican.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
-  - AI
   - Natural Language Processing
+  - AI
 
-secured: "soE28ZcjS7tRSxOb4D5MEUmkMx+YxJVPjA7cqccJDDKswfaEEmYGM6L8S1YhyvJeZ4tn6YuDrviVyZbDaUDKnnHDGrzzY460GJ2ujUgxQwzkRvoj47/Xrne1I4UZ2ue5SuKsXfY4RACfCEZ8QvMUbSd4OaQNy1WO5NmwD/kWDCrHMYlEZjut6j3wRXhtQ8jai7Ohb5FeIea2AvFJhX7hhaH51shF8gilt175Cp3uuq9mpgUHKEoz/pjxF+wuXsJpZvnT5boMzG5UIMElI7/781qclIxDabXBkaAU9oMEliYlXUx/QQKxL2rAHQOmwHfR;8rBQ9CSHi35+PxQgnC5Bpg=="
+images:
+  - url: "https://mms.businesswire.com/media/20200429005217/en/788190/23/Figure_4_Intelliview.jpg"
+    width: 1200
+    height: 627
+    title: "Marchex Named The Leader in Conversational Intelligence by Independent Research Firm"
+
+secured: "6z6YoI6vYNvjFlzSox/upYc4LBTJQGm2HFUd0LfRytMMKSX8DKyKft4nxj5vyZ6d4H0nOYoDFY5NN2P/QdcyDxGc8btf6VX5IvL7WjFzNn3ucfD9wgD8+6geACVz47pXayL2l4lKp9w6epGGE76Lf+wi3MhKjqrHIIBC39eE4vOSqnRSydksNGgdi5Gw5gY5n7B6IWNu9v4LoCN7YnaHE9Y3lgCXdgRUk7Ep2J07b3/szxHtw3xzevjYxMzqNHWhOsAzvGJBNLh92UoEMPdT56zkgs8YvxXZuRReajvBQpnSIqmr9Z21KCCcwh6oJ64p;eu0aWVUjHYhVXSkopD4sTg=="
 ---
 

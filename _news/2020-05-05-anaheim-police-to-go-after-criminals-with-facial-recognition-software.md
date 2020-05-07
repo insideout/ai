@@ -25,6 +25,21 @@ images:
     title: "Anaheim Police To Go After Criminals With Facial Recognition Software"
 
 related:
+  - title: "Anaheim, Calif., Police to Use Facial Recognition Tech"
+    excerpt: "The Southern California city’s leadership has recently given approval to the police department to purchase facial recognition software with the potential to aid them in identifying criminal suspects."
+    publishedDateTime: 2020-05-07T15:58:00Z
+    webUrl: "https://www.govtech.com/public-safety/Anaheim-Calif-Police-to-Use-Facial-Recognition-Tech.html"
+    ampWebUrl: "https://www.govtech.com/public-safety/Anaheim-Calif-Police-to-Use-Facial-Recognition-Tech.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/Anaheim-Calif-Police-to-Use-Facial-Recognition-Tech.html?AMP"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
+    images:
+      - url: "https://media2.govtech.com/images/shutterstock_1385868245.jpg"
+        width: 1119
+        height: 630
   - title: "Anaheim police to use facial recognition software to help identify suspects"
     excerpt: "The Anaheim Police Department used the software during a trial, during which it helped solve more than 150 cases."
     publishedDateTime: 2020-05-06T21:25:00Z

@@ -6,7 +6,7 @@ publishedDateTime: 2020-05-03T14:53:00Z
 webUrl: "https://www.marketwatch.com/press-release/learning-analytics-market-is-expected-to-reach-usd-83-billion-by-2023-influence-of-covid-19-2020-05-03?mod=mw_quote_news"
 type: article
 quality: 43
-heat: 43
+heat: -1
 published: false
 
 provider:
@@ -28,15 +28,15 @@ images:
     title: "Learning Analytics Market is expected to reach USD 8.3 billion by 2023, Influence of COVID-19"
 
 related:
-  - title: "Learning Analytics Market ,Industry Size, Growth, Current Trends, Competitive Landscape Forecasts till 2023"
-    excerpt: "Learning analytics has evolved from different branch of science such as psychology, statistics, information science, sociology, data mining, and machine learning, to interpret data gathered during learning,"
-    publishedDateTime: 2020-05-03T14:53:00Z
-    webUrl: "https://www.marketwatch.com/press-release/learning-analytics-market-industry-size-growth-current-trends-competitive-landscape-forecasts-till-2023-2020-05-03"
+  - title: "Robot Software Market is expected to reach USD 13.48 billion by 2024"
+    excerpt: "Global Robot Software Market Research Report by Vertical (Government, BFSI, Retail, e-Commerce, Healthcare, Manufacturing, Logistics and Transportation), by Deployment (On-Cloud and On-Premise), by Robot Type (Service Robot and Industrial Robot),"
+    publishedDateTime: 2020-05-07T15:05:00Z
+    webUrl: "https://www.marketwatch.com/press-release/robot-software-market-is-expected-to-reach-usd-1348-billion-by-2024-2020-05-07"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 36
+    quality: 69
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

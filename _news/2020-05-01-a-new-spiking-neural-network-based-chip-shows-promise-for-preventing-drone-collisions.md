@@ -16,6 +16,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Machine Learning
 
 images:
   - url: "https://www.allaboutcircuits.com/uploads/thumbnails/Imec%E2%80%99s_spiking_neural_network-based_chip.jpg"

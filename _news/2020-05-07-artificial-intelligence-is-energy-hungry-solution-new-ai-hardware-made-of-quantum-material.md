@@ -1,19 +1,17 @@
 ---
 category: news
 title: "Artificial Intelligence Is Energy-Hungry – Solution: New AI Hardware Made of Quantum Material"
-excerpt: "Quantum material could offset energy demand of artificial intelligence. To just solve a puzzle or play a game, artificial intelligence can require software running on thousands of computers. That could be the energy that three nuclear plants produce in one hour."
-publishedDateTime: 2020-05-07T09:04:00Z
-webUrl: "https://scitechdaily.com/artificial-intelligence-is-energy-hungry-solution-new-ai-hardware-made-of-quantum-material/"
-ampWebUrl: "https://scitechdaily.com/artificial-intelligence-is-energy-hungry-solution-new-ai-hardware-made-of-quantum-material/amp/"
-cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/artificial-intelligence-is-energy-hungry-solution-new-ai-hardware-made-of-quantum-material/amp/"
+excerpt: "Researchers have developed new hardware for artificial intelligence. Credit: Purdue University image/Qi Wang Quantum material could offset energy demand of artificial intelligence. To just solve a puzzle or play a game,"
+publishedDateTime: 2020-05-07T14:39:00Z
+webUrl: "https://infosurhoy.com/technology/artificial-intelligence-is-energy-hungry-solution-new-ai-hardware-made-of-quantum-material/"
 type: article
-quality: 63
-heat: 63
+quality: 43
+heat: 43
 published: false
 
 provider:
-  name: SciTech Daily
-  domain: scitechdaily.com
+  name: InfoSur Hoy
+  domain: infosurhoy.com
 
 topics:
   - AI in Autos
@@ -25,6 +23,6 @@ images:
     height: 444
     title: "Artificial Intelligence Is Energy-Hungry – Solution: New AI Hardware Made of Quantum Material"
 
-secured: "Fb3ad+tCkVfWbljIuLvkltzVVGVsT29P5sZe90bDvJyPF07TODrY5Leo3DBO3Xy5FEHL8cqUm/cg73vvutR9gzsqqfNQ+gJLDl7cxq2VEZbtfNNRudV5+LAlCiSjiPL1gYTqSJ8JJoUmNbaZH3tlm9gcs/gTYlhhuSNE4WNix3DbE/5VfGSHjZwIRhtMa2JMh/SAZ4G3j3Iz1ToraL8L5oPcD4gik/41oU9OnizPoLADfac5K+a+jtQ8JQlB9p7DLgbtpf9USFARAY3i3iheCvlC81LAJYPcq5Fg7TzMVcuCH8g1g17fjaIYZsoddz8TFJWf3BIPE/2eSfwlHpW97h2OC09M88N8ZH5scgDZ+p+dE02V+hTSZO7pzyFqVfU7Hmvwi6IfOURkMpjWs6j4zuYVnBsBy795sx9FpaaWuSq6uTb32CC45u4KEZkzIMQK7i9RTTQqfzcgz05voIO3B1Z/GsqAm5bKtSmrlkz5pBw=;1UKLA3xaI0ZChJS8ChRpZg=="
+secured: "0GRsvAIV5X6fbuJHc7b0yiEV1+nIP+MR+p9ErG/OI+uTCN3YVOXzvdFaC55AxtFH974g1uehCHBo7Li/m3SGp//hwle0JkS/Lc5gFPhvwa2WbBKR5N+ANZt+WVc1KLeVe4frvMxZxl21mSubcBh1DhASYJoVyAqGVQABBm6t6/wNR5Seb59ekQg0dbY+3PYy6+vBCcDqVog72t8Xsl7USoJ8MErG45TsUHkzIkPLP9K76zA8rDxd8KKG0N3zn0NWR3Yyl1iqBpdFeBoy9KcdtXvl5NNY/ffGIx8T1U8IDjEqnLazSA2OFLNJB/TcVuhn;q5y4SveWoy3UusXtOMGDHw=="
 ---
 
