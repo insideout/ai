@@ -16,7 +16,7 @@ provider:
   domain: itworld.com
 
 topics:
-  - IBM AI
+  - Microsoft AI
   - AI
 
 images:
@@ -25,6 +25,6 @@ images:
     height: 800
     title: "IBM rolls Red Hat into edge, AI, hybrid-cloud expansion"
 
-secured: "/XJsJNkGaCf1SD5JXTaBl8rgp3sdp0vGDE+h6qnKUNHm3wbC+6GVmridtNMn+rGtzmXMzx2/LK8zWvSJT5HoFhEkoQxXe1lmvVx9TjrZS9AM52S7HGMQ/dIN2ChBgsVlOONev/0hwXI6vTfjNV7Ei+ZaL/j12HcpbaMkd8Wxr5SCambMEhSq9s1xCM57MBM5FCVKbF3c/k31jOvgWFKy7TZlh9+BONuUBTcVg3TjDql5vW4D1wWGz5jEqTs8FMBGmAbNV3e6QasVfO6HVxLrGfb+sVeCR/rMb3tyOMw972uT7dUfqkU28cRrcDLmwZ3V;ijlZSHbPUC9dYf3ajps6aQ=="
+secured: "JZSFlFqmY8PaE573wOs3vj6udEipHp5mC7zZeT9DGWlf5SRA7xHvssE+/IzmdhlJ+9neFKS9exG70/r2/f5LC2ZX4YoDJg6WL6KujH9JqyuFE3KBkTRIxaFWz7tnFHsPPiI+BOGkcEL+bIkU6Uyh51jzNFMbYlSTXdjepNgllxRqOZcYZsyVy9lVT2HezhCAvj5a37eMHH1BdvsOVvNQyPXl1hEB6R51Toaynay+r7CXLLnhuHrtEGJOu+5tMSnZZCYtz4ZzxSnVrxIbDvKQajJWbmY7OyYbVoBFvUTVv06zFETmzjml9xGxoNItU8av;ori62nnSQ7AZGkoZ452Mlg=="
 ---
 

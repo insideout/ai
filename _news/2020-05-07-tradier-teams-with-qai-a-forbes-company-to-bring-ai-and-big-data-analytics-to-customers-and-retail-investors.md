@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/partnerreleases/2020/05/07/tradier-team
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/partnerreleases/2020/05/07/tradier-teams-with-qai-a-forbes-company-to-bring-ai-and-big-data-analytics-to-customers-and-retail-investors/amp/"
 type: article
 quality: 67
-heat: -1
+heat: 67
 published: false
 
 provider:
@@ -27,23 +27,6 @@ images:
     width: 1200
     height: 675
     title: "Tradier Teams With Q.ai, A Forbes Company, To Bring AI And Big Data Analytics To Customers And Retail Investors"
-
-related:
-  - title: "Building transparency and customer confidence in AI"
-    excerpt: "Chatbots have been designed to make our lives a little easier, with simple verification questions they can answer common customer service inquiries without the need to sit on hold waiting for an agent."
-    publishedDateTime: 2020-05-07T08:51:00Z
-    webUrl: "https://www.techradar.com/au/news/building-transparency-and-customer-confidence-in-ai"
-    ampWebUrl: "https://www.techradar.com/au/amp/news/building-transparency-and-customer-confidence-in-ai"
-    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/building-transparency-and-customer-confidence-in-ai"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 89
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/XRZnyNZVHb27CjWT9rGzg7-1200-80.jpg"
-        width: 970
-        height: 545
 
 secured: "ARDlB52d5dIi/riRAYYtfCAfrp19P8c2KRKY0USQzSjS/ziiRvsjma+0houKwgDzycqEbpYxviETW1o+LEqPYwRzbVI0znoAN+3yVT3fW295NluNM9Lw0/Mz7By+Q1KpEU5Q0lmJYgsvFAMGfMuYwirRWLcxu9xhoEb6q6nWwI7qW5MfxtrK8MDQRpf9+IdPNiLKxRk+FfK7vK4eJ7tUojfg0tKbCflENQSE3iAe2aK8jkJRhv92NrOw0oO752ZpeeN8tbuPTF6hiwbWYcHN66sC1LLJvhvhDTRgoANisNfsitKxEScUNIMNeoohUS/JCFjhT4GiArLesdtc0z46CeLiEa6GReTjUE1xXHWoWIRA9dyOVSmWjKay3dgwVux+SzbJzMksA2O4toifvuD4o4l62guzV7G+bjRgz93T6A4n9dZ0m8UjrQHQf2H5xboR8/0LE9k8krvI+KaUKnHeo6E9Ox2WtuDh4vVRif7P6XE=;/64sAJSrDke9d/aj7h2Dkw=="
 ---

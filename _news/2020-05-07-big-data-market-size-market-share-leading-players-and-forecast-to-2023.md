@@ -6,8 +6,8 @@ publishedDateTime: 2020-05-07T18:31:00Z
 webUrl: "https://www.marketwatch.com/press-release/big-data-market-size-market-share-leading-players-and-forecast-to-2023-2020-05-07"
 type: article
 quality: 53
-heat: 63
-published: false
+heat: 73
+published: true
 
 provider:
   name: MarketWatch
@@ -37,6 +37,19 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 51
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Big Data as a Service (BDaaS) Market Growing at a CAGR 30.5% | Key Player Google, Microsoft, AWS, IBM, Oracle"
+    excerpt: "The global Big Data as a Service (BDaaS) Market size is expected to grow from USD 11.3 billion in 2019 to USD 42.7 billion by 2024, at a Compound Annual Growth Rate (CAGR) of 30.5% during the forecast period."
+    publishedDateTime: 2020-05-08T02:56:00Z
+    webUrl: "https://www.marketwatch.com/press-release/big-data-as-a-service-bdaas-market-growing-at-a-cagr-305-key-player-google-microsoft-aws-ibm-oracle-2020-05-07"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

@@ -41,6 +41,19 @@ related:
       - url: "https://www.zawya.com/resources/img/zawya-logo-en-social.png"
         width: 1200
         height: 878
+  - title: "UAE combats coronavirus: Ministry launches self-driving vehicle to distribute PPE"
+    excerpt: "The Ministry of Health launches self-driving vehicle to distribute personal protective equipment to people in Sharjah.The Ministry of Health and Prevention (MoHAP) has announced it is deploying a self-driving vehicle to distribute personal protective equipment including masks,"
+    publishedDateTime: 2020-05-08T00:57:00Z
+    webUrl: "https://menafn.com/1100131197/UAE-combats-coronavirus-Ministry-launches-self-driving-vehicle-to-distribute-PPE"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 19
+    images:
+      - url: "https://menafn.com/updates/pr/2020-05/07/KT_a01c5e47-5image_story.jpg"
+        width: 1200
+        height: 882
   - title: "Health Ministry launches self-driving vehicle to distribute masks, gloves, sanitisers in Sharjah"
     excerpt: "The initiative, which was implemented in cooperation with Sharjah’s Family Health Promotion Centre, and Huawei, comes as part of the ministry’s efforts being made to contain the spread of coronavirus,"
     publishedDateTime: 2020-05-07T09:13:00Z

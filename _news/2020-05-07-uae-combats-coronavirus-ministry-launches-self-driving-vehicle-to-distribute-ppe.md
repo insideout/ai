@@ -41,6 +41,19 @@ related:
       - url: "https://imagevars.gulfnews.com/2020/05/07/AI-powered-vehicle_171ee14f7d5_large.jpeg"
         width: 750
         height: 563
+  - title: "UAE combats coronavirus: Ministry launches self-driving vehicle to distribute PPE"
+    excerpt: "The Ministry of Health launches self-driving vehicle to distribute personal protective equipment to people in Sharjah.The Ministry of Health and Prevention (MoHAP) has announced it is deploying a self-driving vehicle to distribute personal protective equipment including masks,"
+    publishedDateTime: 2020-05-08T00:57:00Z
+    webUrl: "https://menafn.com/1100131197/UAE-combats-coronavirus-Ministry-launches-self-driving-vehicle-to-distribute-PPE"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 19
+    images:
+      - url: "https://menafn.com/updates/pr/2020-05/07/KT_a01c5e47-5image_story.jpg"
+        width: 1200
+        height: 882
   - title: "Health Ministry launches self-driving vehicle to distribute masks, gloves, sanitisers in Sharjah"
     excerpt: "The initiative, which was implemented in cooperation with Sharjah’s Family Health Promotion Centre, and Huawei, comes as part of the ministry’s efforts being made to contain the spread of coronavirus,"
     publishedDateTime: 2020-05-07T09:13:00Z
@@ -55,6 +68,6 @@ related:
         width: 750
         height: 450
 
-secured: "P2/87UdiUvUZ9sUpJ6XGRWpb6nnX0230uZoSDmPc1PR9u8nFI904wP5CCu9ydnLa5yHRWBjTfIDoOXDWOYyh88js1aG0HlKwYmqbsmtOgZr0u5vD4/GXY7Q8osIjD5ZrXB+oc7dfU/m+jG2mv7EfJxmOFMgsxpCEJ1fwODgau496UURB94nA4IStKYuGhomhOeHrRXmW1oeqU7Bq/84gqvRjoqu4PULHmfhNLpge0dw0aJVWAdk6GZjlqy6FJ0gHmBQYul000N/ls5R+NF3LWom82Vrn0mv/+AfLDMthkNmPfyHs2b9ZMU1eg7yo+rczykw9aqO7MYF22yvcjocrTgzh6XLskl0q/xt10Y/IU+0PBEfSRjgiDu2D3UAsS6IPNv1BFv914aCUe+zxHKOhoBQQu15wXTqmDXF+3OcWULzOS+yzjgXP1MCkfrN4anSET4Hb9lSNmPL72CVHsjIn1hwEizRT/qWsKnZihbV10SI=;e+Rv4ui1yDnYz+6QSXdT3g=="
+secured: "92hFb0/sE6zmb0cH9dqLw6ZTsg3lmU3wuSc2IC/CbdiCnZOYwxGoSJ1PTMflR9Cl3guZk5pMgat4ZtAonSDukQs2xX+L1tuE/mIEzkBA4XAeSqeZceFJ5wjtKoiHxjNvcLKV/ybdrBIAkjLDZDiQMhnxjtQMD1OcV5Wk75FTf3mE2+kYMlny73SVmUgqSKmzlnsSghYyFKZVXtkpq1wjaq7byKL6HV3+CcEfrVwA3jd4o8MqXwKLni9jm/FnHOnUhjQMaoK9fd7ABQt9s5CRcp9jo7Nx3rlD8ky2aOqsmURh9GP7dA1/Zkk/orHEU5fh;i/2BD+OLQ1nx19KBTFgNHw=="
 ---
 

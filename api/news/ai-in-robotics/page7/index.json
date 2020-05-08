@@ -2,6 +2,43 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-02-19-10-robotics-startups-to-watch-in-2020.md",
+      "title": "10 robotics startups to watch in 2020",
+      "excerpt": "Running a robotics startup is no easy task. Yet, we are always amazed by the number of robotics startups ... Reason to watch: Covariant is building AI that it calls the “Covariant Brain” to make robots smarter. Covariant was founded in 2017, but it came out of stealth mode in January 2020, announcing that its first application is piece ...",
+      "heat": 114,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.therobotreport.com/robotics-startups-to-watch-2020/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-19T12:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2019/06/robust-ai.jpeg",
+          "width": 972,
+          "height": 745,
+          "title": "10 robotics startups to watch in 2020",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-02-19-announcing-the-final-agenda-for-robotics-ai-march-3-at-uc-berkeley.md",
       "title": "Announcing the final agenda for Robotics + AI — March 3 at UC Berkeley",
       "excerpt": "TechCrunch is returning to U.C. Berkeley on March 3 to bring together some of the most influential minds in robotics and artificial intelligence. Each year we strive to bring together a cross-section of big companies and exciting new startups, along with top researchers, VCs and thinkers. Alongside a selection of handpicked demos, we’ll also ...",
@@ -1223,51 +1260,6 @@
           "width": 600,
           "height": 338,
           "title": "Talking to Robots With David Ewing Duncan",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-02-10-us-army-to-use-gamers-brain-waves-to-train-military-robot-swarms.md",
-      "title": "US Army to use gamers’ brain waves to train military robot swarms",
-      "excerpt": "The U.S. Defense Advanced Research Projects Agency, known as DARPA, awarded a team from the University of Buffalo's Artificial Intelligence Institute a $316,000 grant for the study. Although swarm robotics is inspired by many things, including ant colonies ...",
-      "heat": 124,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.foxnews.com/tech/army-using-gamers-brain-waves-to-train-military-robots",
-      "ampWebUrl": "https://www.foxnews.com/tech/army-using-gamers-brain-waves-to-train-military-robots.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/army-using-gamers-brain-waves-to-train-military-robots.amp",
-      "publishedDateTime": "2020-02-10T11:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/02/640/320/creative-commons-robot-swarm.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": "US Army to use gamers’ brain waves to train military robot swarms",
           "attribution": null
         }
       ],

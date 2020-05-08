@@ -24,6 +24,6 @@ images:
     height: 465
     title: "This IIT alum’s Seattle-based startup plans to fight coronavirus with data science and AI"
 
-secured: "KD9qG9+aFS4u1iEVXiaqxV1GZlH7LLH42OCcbIlVDUGq2bMsz2qfe1iEs0naUjuS1x1PdReS1IS54uC+OEI3Q4KHNBtT4lEML1g1Y7WwdqGqIr2+Oef6TU8Y617JRfvrh/SQOkoMaLKtVF64JnlFOnXueTMS2V/0doCQPr/q4dwIjZPledohMNK/QK5BIeSn21IuDzdEnVh4ZsOEdqqFYUyW7wSiIbiy26/BMF5+w0JPapi4LBuICMAeoGzG8P6zQriBvRzL0KOGrTL0I/9rrUlO71XbGj3Fcu70OoMbCpknr9DZdSZ/Q8doye/zjMVZ;aOvXGUlBXkdoRQ4sZr4h2Q=="
+secured: "/z7chC+Vu48IMBgFw2ONdc7OnI6/AWBeyMZjhR5uYPqQcAgfSzjihdOPjGxpCbt6aJVXjhBvakCcBIueoj/DkAYefv40luT6Kf1TqStFtLaQeR3sjNFAsTR3Z+r9xlKVfs+EenlP8SJouDYM5wlfQj18A8K2jmMrdER7SfGULBnpviY5k46+qRor+qdQWXTkeOuk/5OeYJZQbiE3K0gd1Ko8mP8jFICWPQTrXqRSAdSAZa7LeOL4CoXkuhCV98DhOCI0JZzreI3Vb1HcqsiRFbq7Nau2BywfAxL6qa/DMbInjQOb6U5n8eGstgZ/tT/do4CdLLKZpux6Wm+e7/3vK1rYxXHBie2ZJyql9aS8CjYGPaJlVSOKE+6jjtEs7IFZu1p48iHsW+CSPnr+ry7aiWyNVz9AsFmIXzCnDMk7rrtiUmnBWMzUxZLOgdsm62BwTqGmdJDyV0fUmQ94Y8NVIh8XoS0riTB39/uRZUBnJgQ=;LVTQ7ERMPxOFO+NvLumKmA=="
 ---
 

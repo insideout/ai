@@ -2,6 +2,43 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-03-14-nypd-says-it-plans-to-use-facial-recognition-technology.md",
+      "title": "NYPD says it plans to use facial recognition technology",
+      "excerpt": "The NYPD on Friday said it plans to use emerging facial recognition technology in limited circumstances for “legitimate law enforcement purposes.” In announcing the policy Friday, NYPD Commissioner Dermot Shea outlined what he called six limited circumstances where the digital programs would be used to help develop leads to solve crimes.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.newsday.com/news/new-york/nypd-facial-recognition-technology-1.43047575",
+      "ampWebUrl": "https://www.newsday.com/amp/news/new-york/nypd-facial-recognition-technology-1.43047575",
+      "cdnAmpWebUrl": "https://www-newsday-com.cdn.ampproject.org/c/s/www.newsday.com/amp/news/new-york/nypd-facial-recognition-technology-1.43047575",
+      "publishedDateTime": "2020-03-13T17:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsday",
+        "domain": "newsday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.newsday.com/polopoly_fs/1.43047839.1584146943!/httpImage/image.jpg_gen/derivatives/landscape_1280/image.jpg",
+          "width": 1280,
+          "height": 719,
+          "title": "NYPD says it plans to use facial recognition technology",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-14-when-and-how-your-baby-learns-about-object-permanence.md",
       "title": "When and How Your Baby Learns About Object Permanence",
       "excerpt": "Object permanence is a cognitive skill that develops in babies shortly after object recognition, which is when infants can recognize familiar objects like a favorite book, stuffed animal or toy. Babies learn object recognition when they're around 3 months ...",
@@ -1120,43 +1157,6 @@
           "width": 1200,
           "height": 600,
           "title": "Facial recognition technology is getting out of control",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-08-with-painted-faces-artists-fight-facial-recognition-tech.md",
-      "title": "With painted faces, artists fight facial recognition tech",
-      "excerpt": "LONDON -- As night falls in London, Georgina Rowlands and Anna Hart start applying makeup. Instead of lipstick and eyeliner, they’re covering their faces with geometric shapes. Rowlands has long ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://abcnews.go.com/Entertainment/wireStory/painted-faces-artists-fight-facial-recognition-tech-69465610",
-      "ampWebUrl": "https://abcnews.go.com/amp/Entertainment/wireStory/painted-faces-artists-fight-facial-recognition-tech-69465610",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/painted-faces-artists-fight-facial-recognition-tech-69465610",
-      "publishedDateTime": "2020-03-08T01:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABCNews",
-        "domain": "go.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Entertainment/WireAP_36a7c88465f14c438470ac0ae6bc7d4e_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": "With painted faces, artists fight facial recognition tech",
           "attribution": null
         }
       ],

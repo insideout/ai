@@ -2,6 +2,215 @@
   "page": 94,
   "value": [
     {
+      "path": "_news/2020-01-29-underwater-robot-autonomously-gathers-seabed-samples.md",
+      "title": "Underwater robot autonomously gathers seabed samples",
+      "excerpt": "That's why researchers have now enabled one to autonomously gather samples from the ocean floor. Led by associate scientist Rich Camilli, a team at Woods Hole Oceanographic Institution (WHOI) recently developed artificial intelligence-based automated planning software that's designed to work with ROVs. Last month, that technology was put to use ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://newatlas.com/marine/underwater-robot-autonomous-samples/",
+      "ampWebUrl": "https://newatlas.com/marine/underwater-robot-autonomous-samples/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/marine/underwater-robot-autonomous-samples/?amp=true",
+      "publishedDateTime": "2020-01-29T14:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/e96142e/2147483647/strip/true/crop/5995x4000+3+0/resize/1160x774!/quality/90/?url=https%3A%2F%2Fassets.newatlas.com%2F7b%2F17%2F8c16daaf43d4a75daf3621615d66%2Fdsc-0144.jpeg",
+          "width": 1160,
+          "height": 774,
+          "title": "Underwater robot autonomously gathers seabed samples",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-01-29-ups-teams-up-with-waymo-to-test-self-driving-delivery-vans.md",
+      "title": "UPS teams up with Waymo to test self-driving delivery vans",
+      "excerpt": "Washington, DC (CNN)Waymo is teaming up with UPS to test the use of its self-driving vans in transporting packages. Waymo, the self-driving arm of Google's (GOOG) parent company Alphabet, will use its autonomous Chrysler Pacifica minivans to bring packages from UPS stores in the Phoenix area to a UPS sorting facility in Tempe,",
+      "heat": 329,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnn.com/2020/01/29/tech/ups-waymo-self-driving-package-delivery/index.html",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/01/29/tech/ups-waymo-self-driving-package-delivery/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/01/29/tech/ups-waymo-self-driving-package-delivery/index.html",
+      "publishedDateTime": "2020-01-29T13:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200129135300-waymo-ups-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": "UPS teams up with Waymo to test self-driving delivery vans",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2020-01-29-amazon-comprehend-now-supports-multi-label-custom-classification.md",
+      "title": "Amazon Comprehend now supports multi-label custom classification",
+      "excerpt": "Amazon Comprehend is a fully managed natural language processing (NLP) service that enables text analytics to extract insights from the content of documents. Amazon Comprehend supports custom classification and enables you to build custom classifiers that are specific to your requirements, without the",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-comprehend-now-supports-multi-label-custom-classification/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-29T13:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/01/15/comprehend-multi-label-classification-1.gif",
+          "width": 1000,
+          "height": 420,
+          "title": "Amazon Comprehend now supports multi-label custom classification",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-01-29-house-ethics-committee-warns-lawmakers-against-posting-deepfakes.md",
+      "title": "House ethics committee warns lawmakers against posting deepfakes",
+      "excerpt": "The House Ethics Committee is advising lawmakers against posting manipulated videos and photos on their social media accounts, warning they could face repercussions for tweets and Facebook posts that",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thehill.com/policy/technology/480564-house-ethics-committee-warns-lawmakers-against-posting-deepfakes",
+      "ampWebUrl": "https://thehill.com/policy/technology/480564-house-ethics-committee-warns-lawmakers-against-posting-deepfakes?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/480564-house-ethics-committee-warns-lawmakers-against-posting-deepfakes?amp",
+      "publishedDateTime": "2020-01-29T13:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/article_images/congressional_ethics_oce_getty.jpg",
+          "width": 980,
+          "height": 551,
+          "title": "House ethics committee warns lawmakers against posting deepfakes",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2020-01-29-microsoft-q2-2020-earnings-369-billion-in-revenue-driven-by-big-azure-surface-growth.md",
+      "title": "Microsoft Q2 2020 earnings: $36.9 billion in revenue driven by big Azure, Surface growth",
+      "excerpt": "It doesn't appear the Surface Pro X is one of the currently supported devices for Microsoft's Surface Dock update tool. Microsoft today announced a new addition to its AI for Good program. Called AI for Health, the initiative will see Microsoft invest $40 million over the next five years to improve health outcomes for people around the world.",
+      "heat": 75,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.windowscentral.com/microsoft-q2-earnings",
+      "ampWebUrl": "https://www.windowscentral.com/microsoft-q2-earnings?amp",
+      "cdnAmpWebUrl": "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/microsoft-q2-earnings?amp",
+      "publishedDateTime": "2020-01-29T12:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Windows Central",
+        "domain": "windowscentral.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2019/11/microsoft-logo-ignite-2019.jpg?itok=T29z3T0D",
+          "width": 800,
+          "height": 600,
+          "title": "Microsoft Q2 2020 earnings: $36.9 billion in revenue driven by big Azure, Surface growth",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-01-29-google-looks-ahead-to-the-next-decade-of-ai-research.md",
       "title": "Google looks ahead to the next decade of AI research",
       "excerpt": "Google's already making strides on this front, with on-device translation services offered in 59 different languages. While Google and the industry at large have made significant strides in AI in the past few years, public awareness of the technology's potential drawbacks -- and corresponding regulation -- is only now beginning to catch up ...",
@@ -1076,216 +1285,6 @@
         "AI",
         "Microsoft AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-01-29-deepak-chopra-gives-jimmy-fallon-a-sneak-peek-at-the-digital-ai-version-of-himself.md",
-      "title": "Deepak Chopra gives Jimmy Fallon a sneak peek at the digital AI version of himself",
-      "excerpt": "Deepak Chopra's digital AI version of himself is almost in beta, and Jimmy Fallon got to take it for a quick spin. The author, who announced the 'Digital Deepak' project in December, gave Jimmy Fallon a sneak preview on The Tonight Show Tuesday, taking the host, The Roots, and the audience through a very swift meditation (it's only a few seconds).",
-      "heat": 81,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://mashable.com/video/digital-deepak-chopa-jimmy-fallon/",
-      "ampWebUrl": "https://mashable.com/video/digital-deepak-chopa-jimmy-fallon.amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/video/digital-deepak-chopa-jimmy-fallon.amp",
-      "publishedDateTime": "2020-01-29T03:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/2020%252F01%252F29%252Fb2%252F973b166d53074d139f63b2d872c3a497.a04a7.png%252F1200x630.png?signature=AcyQ4VQYvny-pagLhgr44499WAM=",
-          "width": 1200,
-          "height": 630,
-          "title": "Deepak Chopra gives Jimmy Fallon a sneak peek at the digital AI version of himself",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-29-ai-powered-robot-warehouse-pickers-are-now-ready-to-go-to-work.md",
-      "title": "AI-powered robot warehouse pickers are now ready to go to work",
-      "excerpt": "In the summer of 2018, a small Berkeley-based robotics startup received a challenge. KNAPP, a major provider of warehouse logistics technologies, was on the hunt for a new AI-powered robotic arm that could pick as many types of items as possible. So every week, for eight weeks, it would send the startup a list of increasingly difficult items ...",
-      "heat": 86,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.technologyreview.com/s/615109/ai-powered-robot-warehouse-pickers-are-now-ready-to-go-to-work/",
-      "ampWebUrl": "https://www.technologyreview.com/s/615109/ai-powered-robot-warehouse-pickers-are-now-ready-to-go-to-work/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/s/615109/ai-powered-robot-warehouse-pickers-are-now-ready-to-go-to-work/amp/",
-      "publishedDateTime": "2020-01-29T03:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.technologyreview.com/i/images/covariant-co-founders-l-r-tianhao-zhang-rocky-duan-peter-chen-pieter-abbeel.jpg?sw=600&cx=0&cy=0&cw=2000&ch=1125",
-          "width": 600,
-          "height": 337,
-          "title": "AI-powered robot warehouse pickers are now ready to go to work",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-01-29-smarter-delivery-hinges-on-smarter-robots.md",
-      "title": "Smarter Delivery Hinges on Smarter Robots",
-      "excerpt": "Companies and researchers are racing to develop artificial-intelligence systems that can enable warehouse robots to handle new and varied objects without the need for extensive additional training or human help.",
-      "heat": 109,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wsj.com/articles/smarter-delivery-hinges-on-smarter-robots-11580288408",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/smarter-delivery-hinges-on-smarter-robots-11580288408",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/smarter-delivery-hinges-on-smarter-robots-11580288408",
-      "publishedDateTime": "2020-01-29T01:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-148470/social",
-          "width": 1280,
-          "height": 640,
-          "title": "Smarter Delivery Hinges on Smarter Robots",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-01-29-a-warehouse-robot-learns-to-sort-out-the-tricky-stuff.md",
-      "title": "A Warehouse Robot Learns to Sort Out the Tricky Stuff",
-      "excerpt": "At a facility near Berlin, a new kind of robot is automating tasks that until recently had been out of the reach of machines. LUDWIGSFELDE, Germany — Inside a warehouse on the outskirts of Berlin, a long line of blue crates moved down a conveyor belt,",
-      "heat": 139,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nytimes.com/2020/01/29/technology/warehouse-robot.html",
-      "ampWebUrl": "https://www.nytimes.com/2020/01/29/technology/warehouse-robot.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/01/29/technology/warehouse-robot.amp.html",
-      "publishedDateTime": "2020-01-29T01:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/01/29/autossell/29robopicker-video1/29robopicker-video1-facebookJumbo-v3.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": "A Warehouse Robot Learns to Sort Out the Tricky Stuff",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-01-29-ai-powered-robot-pickers-will-be-the-next-big-work-revolution-in-warehouses.md",
-      "title": "AI-powered robot pickers will be the next big work revolution in warehouses",
-      "excerpt": "As it comes out of stealth today, Covariant has announced a raft of private backers, including some of the most high-profile names in AI research. They include Google’s head of AI, Jeff Dean; Facebook’s head of AI research, Yann LeCun, and one of the “godfathers of AI,” Geoffrey Hinton. As Abbeel says, the involvement of these ...",
-      "heat": 124,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.theverge.com/2020/1/29/21083313/robot-picking-warehouses-logistics-ai-covariant-stealth",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/1/29/21083313/robot-picking-warehouses-logistics-ai-covariant-stealth",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/1/29/21083313/robot-picking-warehouses-logistics-ai-covariant-stealth",
-      "publishedDateTime": "2020-01-29T01:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/sAH8ueW1jJ5J3BYmdZYCiU5QDzQ=/0x1166:2412x2998/1400x933/filters:focal(24x1737:708x2421):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66211274/A_Covariant_robot_at_a_KNAPP_powered_warehouse_Obeta_outside_Berlin_.0.jpg",
-          "width": 1400,
-          "height": 933,
-          "title": "AI-powered robot pickers will be the next big work revolution in warehouses",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI",
-        "AI in Robotics"
       ]
     }
   ],

@@ -1,28 +1,24 @@
 ---
 category: news
 title: "Boston Dynamics Partners With Vinsa To Build Models For Visual AI Workflows"
-excerpt: "As part of its exclusive early adopter program, Boston Dynamics, a world leader in mobile manipulation robots, today announced a partnership with Vinsa,"
+excerpt: "As part of its exclusive early adopter program, Boston Dynamics, a world leader in mobile manipulation robots, today announced"
 publishedDateTime: 2020-05-05T13:00:00Z
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/boston-dynamics-partners-with-vinsa-to-build-models-for-visual-ai-workflows/article_12fff0fd-b1f1-5311-987c-1ad9ba35fb5c.html"
+webUrl: "https://www.benzinga.com/pressreleases/20/05/n15954767/boston-dynamics-partners-with-vinsa-to-build-models-for-visual-ai-workflows"
+ampWebUrl: "https://amp.benzinga.com/amp/content/15954767"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15954767"
 type: article
 quality: 37
 heat: 37
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Robotics
   - AI
 
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-    width: 1280
-    height: 720
-    title: "Boston Dynamics Partners With Vinsa To Build Models For Visual AI Workflows"
-
-secured: "Fh+f1OcajucBt0oQFGWfarvTzD83/TSTgAyfnNGpchwGHFm1nV6w2BzuYv8M12Al8gGLg++VugjwGh5bO3TOwtyWgTajuyKavZnVDIQYYB5a0ZPKUNKPpZoRsQlbxM7EbLvspNTNks8lyUW4V4PQH3iWuRvUB6tSgQYtAfmt417EAl/l8AKJaqyIdV+gSL/EoPU/XinnlsTI+g6/QvEzgdDQ6UKPYGqZzGaQHcNYNGZYk9Dds5L82NlGs7Ge+tLZZExb0k50txUTFGDNKf0JzjY5QOpRLD/+KEBKTYwwWtbJs1BryMREWuXWOBpI4c+e;30wW93cHRutHHR/vD1WUtg=="
+secured: "Z/81enLi4SMtbeSB+S0aDFFYLmKGg6VTCcPx6n2Sz5UBZcxVG/Vn5ekzP3f9OAfkeyCR+HCn9frXafktfvF64ZqOFmSfXpQ4SXT6TOisnUW4yK9ycMKJ8pEVrZBH6f/nsCij7nV8KO4mYDtO50ztwff1khZpzVkYZ3CkGGOJEEQpiKv0g57HYR5JrlMNbkZtzu7/3aiJ6wMw9rmdyyZTopdmJmhfi8rtqlsIySNAvWr9xNFoqQ40sL6mryCR4AoFXss7XUEBbD7d9dZlULPrTeBV/1JU7nbTa3gxE4hhNzZs7RiPsMsraSuT4qpSQGLg;4A1IBAvexE4YDQqXKIGvSA=="
 ---
 
