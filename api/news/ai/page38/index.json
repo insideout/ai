@@ -2,6 +2,95 @@
   "page": 38,
   "value": [
     {
+      "path": "_news/2020-03-31-this-startup-is-using-ai-to-trace-covid-19-patient-contacts-at-risk.md",
+      "title": "This Startup Is Using AI To Trace COVID-19 Patient Contacts At Risk",
+      "excerpt": "Veronica Yurchuk and Kostyantyn Shysh founded Traces.ai in Sunnyvale, California last year, when San Francisco and two other cities banned the use of facial recognition in video and still image analysis.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/amyguttman/2020/03/31/this-startup-is-using-ai-to-trace-covid-19-patient-contacts-at-risk/",
+      "ampWebUrl": "https://www.forbes.com/sites/amyguttman/2020/03/31/this-startup-is-using-ai-to-trace-covid-19-patient-contacts-at-risk/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/amyguttman/2020/03/31/this-startup-is-using-ai-to-trace-covid-19-patient-contacts-at-risk/amp/",
+      "publishedDateTime": "2020-03-31T12:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e839229a1a0ef0007d8b695%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2044%26cropY1%3D356%26cropY2%3D1506",
+          "width": 1199,
+          "height": 675,
+          "title": "This Startup Is Using AI To Trace COVID-19 Patient Contacts At Risk",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-31-self-driving-car-market-share-size-and-forecast-report-by-2023.md",
+      "title": "Self-driving Car Market Share, Size and Forecast Report By 2023",
+      "excerpt": "The report on SELF-DRIVING CAR MARKET offers a detailed analysis of the SELF-DRIVING CAR MARKET size, growth, segments, key players, growth drivers as well as the challenges faced by the industry ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/self-driving-car-market-share-size-and-forecast-report-by-2023-2020-03-31?mod=mw_quote_news",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-31T10:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Self-driving Car Market Share, Size and Forecast Report By 2023",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-31-modelops-is-the-key-to-enterprise-ai.md",
       "title": "ModelOps Is The Key To Enterprise AI",
       "excerpt": "ModelOps is a capability that focuses on getting models into 24/7 production. It’s a capability that must be owned by the CIO’s organization or the technology center of a large organization. In 2018,",
@@ -1190,79 +1279,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-31-artificial-intelligence-tool-can-predict-which-covid-19-patients-will-develop-respiratory-disease-say-scientists.md",
-      "title": "Artificial Intelligence tool can predict which COVID-19 patients will develop respiratory disease, say scientists",
-      "excerpt": "Scientists have developed an artificial intelligence (AI ... 99 institutes willing to take part in clinical trial of plasma therapy, says ICMR “Our goal was to design and deploy a decision ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.financialexpress.com/lifestyle/health/artificial-intelligence-tool-can-predict-which-covid-19-patients-will-develop-respiratory-disease-say-scientists/1914731/",
-      "ampWebUrl": "https://www.financialexpress.com/lifestyle/health/artificial-intelligence-tool-can-predict-which-covid-19-patients-will-develop-respiratory-disease-say-scientists/1914731/lite/",
-      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/lifestyle/health/artificial-intelligence-tool-can-predict-which-covid-19-patients-will-develop-respiratory-disease-say-scientists/1914731/lite/",
-      "publishedDateTime": "2020-03-31T02:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Express",
-        "domain": "financialexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-31-entrepreneurs-must-warm-up-to-ai-or-risk-their-own-alphago-loss.md",
-      "title": "Entrepreneurs must warm up to AI — or risk their own ‘AlphaGo loss’",
-      "excerpt": "Head of Artificial Intelligence, Cognizant — A leader in AI and applying it to drive digital transformation across industries. A leader in AI and applying it to drive digital transformation across industries. bretgreenstein The evolution of AI continues apace. Deep learning has established its place in the world of tech but its next iteration ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/podium/2020/03/31/entrepreneurs-must-warm-up-to-ai-or-risk-their-own-alphago-loss/",
-      "ampWebUrl": "https://thenextweb.com/podium/2020/03/31/entrepreneurs-must-warm-up-to-ai-or-risk-their-own-alphago-loss/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/podium/2020/03/31/entrepreneurs-must-warm-up-to-ai-or-risk-their-own-alphago-loss/amp/",
-      "publishedDateTime": "2020-03-31T02:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/03/ai-alphago-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "Entrepreneurs must warm up to AI — or risk their own ‘AlphaGo loss’",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

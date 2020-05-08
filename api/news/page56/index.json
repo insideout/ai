@@ -2,6 +2,89 @@
   "page": 56,
   "value": [
     {
+      "path": "_news/2020-03-24-speech-recognition-systems-have-higher-error-rates-for-black-people-study-finds.md",
+      "title": "Speech recognition systems have higher error rates for black people, study finds",
+      "excerpt": "This is far from the first time we've seen evidence of bias embedded in the supposed technology of tomorrow. In December of last year, a federal study once again confirmed that facial-recognition tech is a biased mess. In October of 2017, we saw that Google's text/sentiment-analysis tool exhibited signs of homophobia, racism, and antisemitism.",
+      "heat": 96,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://mashable.com/article/speech-recognition-systems-error-rates-racial-bias/",
+      "ampWebUrl": "https://mashable.com/article/speech-recognition-systems-error-rates-racial-bias.amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/speech-recognition-systems-error-rates-racial-bias.amp",
+      "publishedDateTime": "2020-03-23T18:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mondrian.mashable.com/2020%252F03%252F24%252Fb9%252Fd5042a28ebb74ac7a3ee380eb82cab61.561a2.jpg%252F1200x630.jpg?signature=3wjt45lwzDvmOSNZtNZHHuOOVXc=",
+          "width": 1200,
+          "height": 630,
+          "title": "Speech recognition systems have higher error rates for black people, study finds",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-03-24-8-d-list-characters-who-tried-and-failed-to-replace-a-list-superheroes.md",
+      "title": "8 D-List Characters Who Tried And Failed To Replace A-List Superheroes",
+      "excerpt": "Apparently their best idea for replacing the Human Torch was a woefully annoying robot. Pitched by Stan ... having been mind controlled by time-traveling supervillain Kang the Conqueror.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://io9.gizmodo.com/8-d-list-characters-who-tried-and-failed-to-replace-a-l-1705795950",
+      "ampWebUrl": "https://io9.gizmodo.com/8-d-list-characters-who-tried-and-failed-to-replace-a-l-1705795950/amp",
+      "cdnAmpWebUrl": "https://io9-gizmodo-com.cdn.ampproject.org/c/s/io9.gizmodo.com/8-d-list-characters-who-tried-and-failed-to-replace-a-l-1705795950/amp",
+      "publishedDateTime": "2020-03-23T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "io9.gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/1260906929369303437.png",
+          "width": 800,
+          "height": 450,
+          "title": "8 D-List Characters Who Tried And Failed To Replace A-List Superheroes",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-24-library-of-deep-learning-models-and-datasets-designed-to-make-deep-learning-more-accessible-and-accelerate-ml-research.md",
       "title": "Library of deep learning models and datasets designed to make deep learning more accessible and accelerate ML research.",
       "excerpt": "This iPython notebook explains T2T and runs in your browser using a free VM from Google, no installation needed. Alternatively, here is a one-command version that installs T2T, downloads MNIST, trains a model and evaluates it: pip install tensor2tensor ...",
@@ -997,86 +1080,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-23-global-artificial-intelligence-ai-market-investments-vs-potential.md",
-      "title": "Global Artificial Intelligence (AI) Market: Investments vs Potential",
-      "excerpt": "NEW YORK, March 23, 2020 /PRNewswire/ --Report Scope:The scope of this report is broad and covers the global markets for artificial intelligence,",
-      "heat": 82,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://markets.businessinsider.com/news/stocks/global-artificial-intelligence-ai-market-investments-vs-potential-1029022424",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/global-artificial-intelligence-ai-market-investments-vs-potential-1029022424",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/global-artificial-intelligence-ai-market-investments-vs-potential-1029022424",
-      "publishedDateTime": "2020-03-23T05:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-23-how-ai-makes-big-data-smarter.md",
-      "title": "How AI Makes Big Data Smarter",
-      "excerpt": "We’re still in the early days for returns on AI investment, but through the potential of smart data, the business value it delivers will be worth the wait.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/03/23/how-ai-makes-big-data-smarter/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/03/23/how-ai-makes-big-data-smarter/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/03/23/how-ai-makes-big-data-smarter/amp/",
-      "publishedDateTime": "2020-03-23T05:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F03%2Fa-54-1.jpg",
-          "width": 640,
-          "height": 640,
-          "title": "How AI Makes Big Data Smarter",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

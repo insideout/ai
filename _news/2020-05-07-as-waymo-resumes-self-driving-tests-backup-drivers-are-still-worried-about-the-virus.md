@@ -8,7 +8,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2020/5/7/21250830/waymo-self-d
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/5/7/21250830/waymo-self-driving-resume-testing-coronavirus-arizona-drivers-concerns"
 type: article
 quality: 82
-heat: 82
+heat: 92
 published: true
 
 provider:
@@ -28,6 +28,19 @@ images:
     width: 1400
     height: 933
     title: "As Waymo resumes self-driving tests, backup drivers are still worried about the virus"
+
+related:
+  - title: "Waymo to put its self-driving cars back on Arizona roads after lockdown pause"
+    excerpt: "As Arizona plans to gradually ease its lockdown rules, Waymo is planning to return its self-driving cars to the streets of Phoenix on Monday, May 11."
+    publishedDateTime: 2020-05-08T05:15:00Z
+    webUrl: "https://www.digitaltrends.com/cars/waymo-to-restart-autonomous-car-tests-after-lockdown-pause/"
+    ampWebUrl: "https://www.digitaltrends.com/cars/waymo-to-restart-autonomous-car-tests-after-lockdown-pause/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/waymo-to-restart-autonomous-car-tests-after-lockdown-pause/?amp"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 66
 
 secured: "b4+dyp/TIZ1A7rz8oH/Ja8eEaObs5GG+3Li7sPA4hifkSYQ4nbRNYLk6cy3ssCRYFM7Jv4WvpTuqkyt5DBA4gd1y/IJugPlzy799EVnSci/x2d4jw9gpjDlh3AT2zwZJ5QiZqwWf1yBkkDPc1iiYL0m2ZJP9ntib1oNAXzAoHQu9kwj+5R/2Tf98c6JmUc/bQ8rUo/DqujMNxVRXdUUMZrJLM04gV4OwaGE87G5id7Yt69LzVGqa2Vm5/Xhn1YgkfHvU7+6e6EuEUTLZpsUT+EM7m7ks0dmsNwwxEZ+X0pEtnBZZmhUB+csItwMvp4a35oUT7CpcCjdIfAF6CLHGu5Y4w3lp4HffdoyVVRZLbSWuI6SfsPIogw/WR0VuHyxFNGBj5FlJxIK/68eLruso9o/gUKCMjri/nj50k9rlZC0CRA4e2RfgqNDDtZoUuEQwGjTMtjyHsBjAl28W98LOEQaF6EjF7Yu2dprZ7TDeBbE=;kn4YbCseNVJbYAURlqhcwg=="
 ---

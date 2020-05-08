@@ -2,6 +2,81 @@
   "page": 56,
   "value": [
     {
+      "path": "_news/2020-03-16-tensorflow-gets-its-quantum-of-solace-lid-lifted-on-all-seeing-crime-detecting-ai-upstart-and-more.md",
+      "title": "TensorFlow gets its quantum of solace, lid lifted on 'all-seeing crime-detecting' AI upstart, and more",
+      "excerpt": "Now, the price to attend the digital conference has dropped down to $50 for students and $100 for non-students. New TensorFlow library! If you’re bored at home and ‘social distancing’ from all your friends, family, and colleagues then try this: TensorFlow’s latest library that allows you to build quantum AI models. Your brain will ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.theregister.co.uk/2020/03/16/ai_roundup_130320/",
+      "ampWebUrl": "https://www.theregister.co.uk/AMP/2020/03/16/ai_roundup_130320/",
+      "cdnAmpWebUrl": "https://www-theregister-co-uk.cdn.ampproject.org/c/s/www.theregister.co.uk/AMP/2020/03/16/ai_roundup_130320/",
+      "publishedDateTime": "2020-03-16T00:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Register",
+        "domain": "theregister.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://regmedia.co.uk/2020/03/13/oracle_bone.jpg",
+          "width": 927,
+          "height": 580,
+          "title": "TensorFlow gets its quantum of solace, lid lifted on 'all-seeing crime-detecting' AI upstart, and more",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "TensorFlow"
+      ]
+    },
+    {
+      "path": "_news/2020-03-16-of-epidemics-artificial-intelligence-and-responsive-public-policy.md",
+      "title": "Of epidemics, artificial intelligence and responsive public policy",
+      "excerpt": "Black Twitter is breaking the internet with memes, perhaps providing palliative therapy to an otherwise depressing national development ... its deadly tracks – are largely also shaped by viral videos of machines and robots that use artificial intelligence. These machines and robots are disinfecting cities, buildings, public transport ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.dailymaverick.co.za/opinionista/2020-03-16-of-epidemics-artificial-intelligence-and-responsive-public-policy/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-15T23:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Maverick",
+        "domain": "dailymaverick.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.dailymaverick.co.za/wp-content/uploads/busani-ngcaweni-1.jpg",
+          "width": 334,
+          "height": 480,
+          "title": "Of epidemics, artificial intelligence and responsive public policy",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-16-westworld-premiere-doloress-road-to-revenge-crosses-paths-with-jesse-pinkman.md",
       "title": "‘Westworld’ Premiere: Dolores’s Road to Revenge Crosses Paths With Jesse Pinkman",
       "excerpt": "It’s slowly revealed, however, that Francis died and is now nothing more than artificial intelligence himself, a familiar character in Caleb’s ... There were several other intriguing technological achievements I could have selected here: driverless cars, those implants everyone seems to like, Dolores’s telescopic sunglasses, Dolores ...",
@@ -1090,81 +1165,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-14-deep-learning-and-ai-have-multiple-applications-in-finance-and-financial-sector-says-deltec-bank-bahamas.md",
-      "title": "Deep Learning and A.I have Multiple Applications in Finance and Financial Sector, says Deltec Bank, Bahamas",
-      "excerpt": "“Deltec Bank” Deltec Bank – Deep Learning and A.I have Multiple Applications in Finance and Financial Sector Deep learning is an extension to the",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.benzinga.com/pressreleases/20/03/ab15553894/deep-learning-and-a-i-have-multiple-applications-in-finance-and-financial-sector-says-deltec-bank",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/15553894",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15553894",
-      "publishedDateTime": "2020-03-13T18:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.abnewswire.com/uploads/1583454645.jpeg",
-          "width": 640,
-          "height": 360,
-          "title": "Deep Learning and A.I have Multiple Applications in Finance and Financial Sector, says Deltec Bank, Bahamas",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-03-14-deltec-bank-bahamas-the-role-of-fintech-in-the-banking-and-finance-sector-is-changing.md",
-      "title": "Deltec Bank, Bahamas – The Role of FinTech in the Banking and Finance Sector is Changing",
-      "excerpt": "“Deltec Bank” Deltec Bank, Bahamas – \"From robo-advisers to virtual assistants, financial services have seen massive growth.” Understanding",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.benzinga.com/pressreleases/20/03/ab15553850/deltec-bank-bahamas-the-role-of-fintech-in-the-banking-and-finance-sector-is-changing",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/15553850",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15553850",
-      "publishedDateTime": "2020-03-13T18:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.abnewswire.com/uploads/1584120198.jpeg",
-          "width": 640,
-          "height": 360,
-          "title": "Deltec Bank, Bahamas – The Role of FinTech in the Banking and Finance Sector is Changing",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

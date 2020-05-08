@@ -35,7 +35,7 @@ related:
     provider:
       name: SciTech Daily
       domain: scitechdaily.com
-    quality: 61
+    quality: 63
     images:
       - url: "https://scitechdaily.com/images/New-AI-Hardware-777x444.jpg"
         width: 777

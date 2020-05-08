@@ -2,6 +2,94 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-05-05-epitopesworld-taps-ai-to-predict-covid-19-vaccine-success.md",
+      "title": "Epitopes.world taps AI to predict COVID-19 vaccine success",
+      "excerpt": "A new freely available platform -- Epitopes.world -- taps AI to accelerate the development of vaccines targeting the novel coronavirus (COVID-19).",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/05/05/epitopes-world-taps-ai-to-predict-covid-19-vaccine-success/",
+      "ampWebUrl": "https://venturebeat.com/2020/05/05/epitopes-world-taps-ai-to-predict-covid-19-vaccine-success/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/05/epitopes-world-taps-ai-to-predict-covid-19-vaccine-success/amp/",
+      "publishedDateTime": "2020-05-05T14:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/03/s3.reutersmedia.net_-e1587747290843.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Epitopes.world taps AI to predict COVID-19 vaccine success",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-05-ai-and-medical-diagnostics-can-a-smartphone-app-detect-covid-19-from-speech-or-a-cough.md",
+      "title": "AI And Medical Diagnostics: Can A Smartphone App Detect Covid-19 From Speech Or A Cough?",
+      "excerpt": "Researchers in several countries are working to develop a smartphone application to rapidly and accurately detect Covid-19 from spoken words, coughs, and other phrases.",
+      "heat": 78,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/marcwebertobias/2020/05/05/ai-and-medical-diagnostics-can-a-smartphone-app-detect-covid-19-from-speech-or-a-cough/",
+      "ampWebUrl": "https://www.forbes.com/sites/marcwebertobias/2020/05/05/ai-and-medical-diagnostics-can-a-smartphone-app-detect-covid-19-from-speech-or-a-cough/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/marcwebertobias/2020/05/05/ai-and-medical-diagnostics-can-a-smartphone-app-detect-covid-19-from-speech-or-a-cough/amp/",
+      "publishedDateTime": "2020-05-05T12:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eb1b5c5ea00bf00063ad5af%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3321%26cropY1%3D0%26cropY2%3D1283",
+          "width": 1199,
+          "height": 463,
+          "title": "AI And Medical Diagnostics: Can A Smartphone App Detect Covid-19 From Speech Or A Cough?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-05-this-ai-tool-identifies-the-most-promising-covid-19-research.md",
       "title": "This AI tool identifies the most promising COVID-19 research",
       "excerpt": "An AI tool that scans reams of scientific literature for promising COVID-19 research could speed up the search for a coronavirus vaccine",
@@ -1016,95 +1104,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-05-edge-ai-market-global-outlook-on-key-growth-trends-factors-2019-to-2025.md",
-      "title": "Edge AI Market Global Outlook on Key Growth Trends, Factors 2019 to 2025",
-      "excerpt": "The global Edge AI market is segregated on the basis of Device as Smartphones, Cameras, Robots, Wearables, Smart Speaker, Automotive, and Smart Mirror. Based on Processors the global Edge AI market is segmented in CPU,",
-      "heat": 98,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/edge-ai-market-global-outlook-on-key-growth-trends-factors-2019-to-2025-2020-05-05",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-04T23:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Edge AI Market Global Outlook on Key Growth Trends, Factors 2019 to 2025",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-05-australian-military-gets-first-drone-that-can-fly-with-artificial-intelligence.md",
-      "title": "Australian military gets first drone that can fly with artificial intelligence",
-      "excerpt": "Boeing has presented the Australian Air Force with a prototype of a jet-powered drone that they hope will one day fly alongside manned warplanes.",
-      "heat": 93,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnn.com/2020/05/05/asia/australia-loyal-wingman-drone-intl-hnk/index.html",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/05/05/asia/australia-loyal-wingman-drone-intl-hnk/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/05/05/asia/australia-loyal-wingman-drone-intl-hnk/index.html",
-      "publishedDateTime": "2020-05-04T22:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200505095706-boeing-australia-loyal-wingman-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": "Australian military gets first drone that can fly with artificial intelligence",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

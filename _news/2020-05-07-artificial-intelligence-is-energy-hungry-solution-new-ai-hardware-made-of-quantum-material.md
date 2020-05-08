@@ -7,8 +7,8 @@ webUrl: "https://scitechdaily.com/artificial-intelligence-is-energy-hungry-solut
 ampWebUrl: "https://scitechdaily.com/artificial-intelligence-is-energy-hungry-solution-new-ai-hardware-made-of-quantum-material/amp/"
 cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/artificial-intelligence-is-energy-hungry-solution-new-ai-hardware-made-of-quantum-material/amp/"
 type: article
-quality: 61
-heat: 71
+quality: 63
+heat: 73
 published: true
 
 provider:
@@ -17,6 +17,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://scitechdaily.com/images/New-AI-Hardware-777x444.jpg"
@@ -41,6 +42,6 @@ related:
         width: 800
         height: 533
 
-secured: "7K+BGCYW50FU0ftnl05g86/ql5b4N5l6WuArdHC/d9ZMAyLP2A9yW5YH28kNCllJlXqyoXCyHyi3gYMEc4GvTOWwVck3Ky3Hbox/yr3vFJdZQYSyEoWAkbtJAwuf8heXttTgAN+lI51UAyet7VY9leuP7f8OBUHhbGW60h2WhdyQ289xClUolhejz7mIwfwQWmPZBIx4+8HgSSjfvo4dsX2s8mvq6JvRz3lads+PVkMFVeWGaUvffOaWuRBIRv8hMwZFkfqvPbWALWj9g9k1QkI/fxVW7gc9fXNNQ8rqi/HfsxadSFHky3qG1Uvd44Zv;ShJ2UoBdamcqcGWA1SfXUg=="
+secured: "QV/TxVNScqUXMepdoSaSIm6I0iVIZbTQgR4zmd0wzC6sBUGB52RPchMDOeuPtJr0kKSP8lfHR/L32n1rZmRLLo2ejOzL4LqgDLMwyR6B03hseMkFh1s9W39dSJ7VKPLaVQ4FLYasGZgyel7qWI+zqq33E6ni8ol6B0sNISTLDvS/uvJ4D9xxPLct9h9lXxVqJU3UpcPtHBCDbr9jaiIAsHcOFggtgA7eWnMb5kzI+eR/5pJgSJYque24QOpSaUASJAxR0jue8evOvWC+1vW0DwVL91AcOkP0GBbqc5UQeCl8+jS28L0SVOczRGJRNeJea2buebg6yonNAKzjyOxQz1Rnp4rpm03Mu8YRggeHviZucdkvI7GfE4jPfx+wQIbgFnqvAs9hU+NLdVYSRerZaOeJPbHHP1mW6d0R7qTDZnOn6sougaGafpYykmnLRqVRFa/SkexNWVTVnW/+SixQUlr+lFkFgmo+LQJ8ttG+DsE=;rru5KFxc7vxfh0LmckZQNg=="
 ---
 

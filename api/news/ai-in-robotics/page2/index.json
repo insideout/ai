@@ -2,6 +2,43 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-04-28-forwardx-robotics-captures-15m-in-series-b.md",
+      "title": "ForwardX Robotics captures $15M in Series B",
+      "excerpt": "The Beijing provider of intelligent warehousing robots – and maker of the famous, AI-powered suitcase – continues its North American expansion.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.freightwaves.com/news/forwardrobotics-raises-15m",
+      "ampWebUrl": "https://www.freightwaves.com/news/forwardrobotics-raises-15m/amp",
+      "cdnAmpWebUrl": "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/forwardrobotics-raises-15m/amp",
+      "publishedDateTime": "2020-04-28T10:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "freightwaves.com",
+        "domain": "freightwaves.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s29755.pcdn.co/wp-content/uploads/2020/04/ForwardX-1.jpg",
+          "width": 1200,
+          "height": 674,
+          "title": "ForwardX Robotics captures $15M in Series B",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-28-misas-personal-robot-to-be-available-at-retail-outlets-in-middle-east-in-august.md",
       "title": "Misa's personal robot to be available at retail outlets in Middle East in August",
       "excerpt": "Personal robots are going to play bigger roles in our homes due to the rise of artificial intelligence (AI) technologies such as machine learning, computer vision, natural language processing and gesture controls.",
@@ -1180,43 +1217,6 @@
           "width": 600,
           "height": 338,
           "title": "Coronavirus: How Ready is AI to Detect and Prevent Pandemics",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-13-robots-emerge-as-useful-tools-in-fight-against-coronavirus.md",
-      "title": "Robots Emerge as Useful Tools in Fight Against Coronavirus",
-      "excerpt": "Robots in the futureRobotics has come a long way since that Ebola outbreak. Computer vision has gotten better, sensing capabilities have improved, and artificial intelligence has gotten smarter. All this translates into more potential for putting robots to good use. Today, investing in robotics development is a lot like investing in a large ...",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.govtech.com/products/Robots-Emerge-as-Useful-Tools-in-Fight-Against-Coronavirus.html",
-      "ampWebUrl": "https://www.govtech.com/products/Robots-Emerge-as-Useful-Tools-in-Fight-Against-Coronavirus.html?AMP",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/Robots-Emerge-as-Useful-Tools-in-Fight-Against-Coronavirus.html?AMP",
-      "publishedDateTime": "2020-04-13T15:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media2.govtech.com/images/shutterstock_611607041.jpg",
-          "width": 1148,
-          "height": 630,
-          "title": "Robots Emerge as Useful Tools in Fight Against Coronavirus",
           "attribution": null
         }
       ],

@@ -46,6 +46,19 @@ related:
       - url: "https://cnet3.cbsistatic.com/img/tcvCfks6e4V39F8bVmD3sLv2B3o=/756x567/2020/05/08/8c6c9808-f26e-4358-9f9d-8cf65d0c04d3/gettyimages-1189384731.jpg"
         width: 756
         height: 567
+  - title: "Clearview AI will stop selling its facial recognition technology to private companies"
+    excerpt: "The controversial facial recognition firm Clearview AI Inc. has stopped selling its technology to private companies, it was reported today. According to Buzzfeed News, the company is “is cancelling the accounts of every customer who was not either associated with law enforcement or some other federal,"
+    publishedDateTime: 2020-05-08T04:01:00Z
+    webUrl: "https://siliconangle.com/2020/05/07/clearview-ai-will-stop-selling-facial-recognition-technology-private-companies/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 47
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/05/15908830396_71f3c072d0_c.jpg"
+        width: 800
+        height: 314
 
 secured: "2m4zPdvFnBxxoWNIVI+hxnnCpc6ll+bBNB+t0fDo5FJGIF4zeTqogi7hkEEG0Rjy7BkOUBVKG1jS7dm+XfYIPZ5eRtcsp1oXgWXEUWOiFq2Ww38YC5MxhwveqEZN/EmDTxqu0WKgSv2a/f3h8HsC/Ay3L4DMv7NJcJDOMhACUDgZte/64vTWPjMgJy50fdHvmZDcIpF8vj/Ctz3Qg8pPP2SiQQeX+cZYDYbKgITMeT3WMsqAfffPTXGd+rTOPQh+IMst4ZIsO2ugTPs1dcg0ziqst0FY4N3wJbMA2DmSDC9xYRKMJNBMzrA6uqBcZ5gkyXQI+h2GQWipSRlxA2yYrAebIRGTl00ffcSEQVSub12w8gktK/YEzmlvmUA+vCkfiYP99YAXX3D2Sr7UmJbNCMiqHYcJFBOvprVMzI4ppYdn96siYak9531oE9T3WiRC9xfhpbIIGwP7hs9xbCsRoxiK8Q+NhfkenkyZBHCxVDY=;nLfGe0Xca4C8++U00o/kzA=="
 ---
