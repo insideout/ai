@@ -2,43 +2,6 @@
   "page": 112,
   "value": [
     {
-      "path": "_news/2020-01-08-robots-artificial-intelligence-highlight-ces-expo.md",
-      "title": "Robots, artificial intelligence highlight CES expo",
-      "excerpt": "Most robots now also come with some sort of Artificial Intelligence function, like the ability to answer questions and hold a basic conversation. But AI can also be found in other devices ...",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://timesofindia.indiatimes.com/videos/tech/robots-artificial-intelligence-highlight-ces-expo/videoshow/73152741.cms",
-      "ampWebUrl": "https://m.timesofindia.com/videos/tech/robots-artificial-intelligence-highlight-ces-expo/amp_videoshow/73152741.cms",
-      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/videos/tech/robots-artificial-intelligence-highlight-ces-expo/amp_videoshow/73152741.cms",
-      "publishedDateTime": "2020-01-08T00:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://static.toiimg.com/photo/msid-73152741/videos/tech/robots-artificial-intelligence-highlight-ces-expo.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": "Robots, artificial intelligence highlight CES expo",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
       "path": "_news/2020-01-08-artificial-intelligence-ai-market-forecast-2023-how-much-of-the-stock-market-is-traded-by-ai.md",
       "title": "Artificial Intelligence (AI) Market Forecast 2023 | How Much of the Stock Market is Traded by AI",
       "excerpt": "Artificial Intelligence (AI) Market Research Report – Forecast To 2023 Market Highlights The global market for artificial intelligence (AI) can expect to attain a highly impressive growth rate of 48% during the forecast period (2017-2023),",
@@ -1301,6 +1264,51 @@
       "topics": [
         "AI",
         "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2020-01-06-machine-translation-market-research-and-technology-developments-2020-to-2024.md",
+      "title": "Machine Translation Market Research and Technology Developments 2020 to 2024",
+      "excerpt": "Machine Translation Market - Growth, Trends And Forecast (2020 - 2024) Machine translation (MT) refers to fully automated software that can translate source content into target languages. Humans may use MT to help them render text and speech into another language,",
+      "heat": 86,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/machine-translation-market-research-and-technology-developments-2020-to-2024-2020-01-06",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-06T00:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Machine Translation Market Research and Technology Developments 2020 to 2024",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
       ]
     }
   ],

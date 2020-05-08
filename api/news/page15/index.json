@@ -2,50 +2,6 @@
   "page": 15,
   "value": [
     {
-      "path": "_news/2020-04-26-revolutionizing-the-student-experience-with-ai-an-experiment-in-voice-apps-at-arizona-state-university.md",
-      "title": "Revolutionizing The Student Experience With AI: An Experiment In Voice Apps At Arizona State University",
-      "excerpt": "Before the pandemic forced all learning online, one campus was ahead of the revolution on using AI to augment the learning experience.",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/04/26/revolutionizing-the-student-experience-with-ai-an-experiment-in-voice-apps-at-arizona-state-university/",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/04/26/revolutionizing-the-student-experience-with-ai-an-experiment-in-voice-apps-at-arizona-state-university/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/04/26/revolutionizing-the-student-experience-with-ai-an-experiment-in-voice-apps-at-arizona-state-university/amp/",
-      "publishedDateTime": "2020-04-26T07:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ea5929c2281170006819f47%2F0x0.jpg",
-          "width": 1200,
-          "height": 1800,
-          "title": "Revolutionizing The Student Experience With AI: An Experiment In Voice Apps At Arizona State University",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-04-26-microsoft-technology-chief-explains-how-ai-could-someday-help-rural-people-get-through-a-pandemic.md",
       "title": "Microsoft technology chief explains how A.I. could someday help rural people get through a pandemic",
       "excerpt": "Coronavirus has reached Campbell County, where Microsoft's Kevin Scott grew up. He thinks said AI could offer new economic opportunity and greater interaction.",
@@ -861,35 +817,6 @@
       ]
     },
     {
-      "path": "_news/2020-04-24-aws-announces-general-availability-of-amazon-augmented-artificial-intelligence-a2i.md",
-      "title": "AWS Announces General Availability of Amazon Augmented Artificial Intelligence (A2I)",
-      "excerpt": "that allow machine learning predictions from Amazon Rekognition and Amazon Textract to be human-reviewed more easily. Developers who build custom machine learning models in Amazon SageMaker (or other on-premises or cloud tools) can set up human review for ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://stockhouse.com/news/press-releases/2020/04/24/aws-announces-general-availability-of-amazon-augmented-artificial-intelligence",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-24T10:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Stockhouse",
-        "domain": "stockhouse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-04-24-false-claim-covid-19-stands-for-certification-of-vaccination-identification-by-artificial-intelligence.md",
       "title": "False claim: COVID-19 stands for Certification of Vaccination Identification by Artificial Intelligence",
       "excerpt": "Social media users have been sharing images online that claim that COVID-19 is an abbreviation for Certificate of Vaccination Identification by Artificial Intelligence (  , ​  and  ). The posts often include a black and white photograph of a soldier and two men while the soldier checks a document.",
@@ -1047,6 +974,95 @@
           "width": 1200,
           "height": 720,
           "title": "How AI Can Improve IT Service Management In A Pandemic",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-24-aws-announces-general-availability-of-amazon-augmented-artificial-intelligence-a2i.md",
+      "title": "AWS Announces General Availability of Amazon Augmented Artificial Intelligence (A2I)",
+      "excerpt": "that allow machine learning predictions from Amazon Rekognition and Amazon Textract to be human-reviewed more easily. Developers who build custom machine learning models in Amazon SageMaker (or ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/aws-announces-general-availability-of-amazon-augmented-artificial-intelligence-a2i-2020-04-24",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-24T07:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "AWS Announces General Availability of Amazon Augmented Artificial Intelligence (A2I)",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-24-insurtech-startup-axinan-closes-series-a-with-16-mn.md",
+      "title": "Insurtech Startup Axinan Closes Series A+ with $16 Mn",
+      "excerpt": "Insurtech Startup Axinan has closed its series A funding round at $16 mn ... Founded in 2016 by former chief technology officer of Grab, Wei Zhu, Igloo is a full-stack insurtech firm powered by artificial intelligence (AI) and big data that builds digital insurance products. Its product offerings range from personal to lifestyle insurance ...",
+      "heat": 72,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.entrepreneur.com/article/349775",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/349775",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/349775",
+      "publishedDateTime": "2020-04-24T07:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/20200424141717-WeiZhu-CEOandFounderofIglooedited.jpeg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": "Insurtech Startup Axinan Closes Series A+ with $16 Mn",
           "attribution": null
         }
       ],

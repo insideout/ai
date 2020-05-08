@@ -2,6 +2,43 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-03-26-3-healthcare-stocks-to-buy-for-ai-and-big-data.md",
+      "title": "3 Healthcare Stocks to Buy for AI and Big Data",
+      "excerpt": "However one of the major problems in the healthcare sector is how to collect and efficiently use data. The health care sector looks to be a logical application for artificial intelligence (AI) and big data. However, there are legitimate privacy concerns about the use of this data. One concern is how healthcare data can be used in predictive ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://investorplace.com/2020/03/healthcare-stocks-using-ai-big-data/",
+      "ampWebUrl": "https://investorplace.com/2020/03/healthcare-stocks-using-ai-big-data/amp/",
+      "cdnAmpWebUrl": "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/03/healthcare-stocks-using-ai-big-data/amp/",
+      "publishedDateTime": "2020-03-26T06:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InvestorPlace",
+        "domain": "investorplace.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://investorplace.com/wp-content/uploads/2019/07/healthcare1600a.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": "3 Healthcare Stocks to Buy for AI and Big Data",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-25-wekaio-named-winner-in-2020-artificial-intelligence-excellence-awards.md",
       "title": "WekaIO Named Winner in 2020 Artificial Intelligence Excellence Awards",
       "excerpt": "WekaFS has a clean sheet design that handles the demands of new emerging and converging workloads, including artificial intelligence (AI) and machine/deep learning (ML/DL ... paradigm-shifting technology that enables innovations in Autonomous Vehicles, Healthcare and Life Sciences, and FSI ( Financial Services Industry),” said Shailesh ...",
@@ -1060,52 +1097,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-02-28-artificial-intelligence-ai-chipset-market-size-share-key-players-growth-drivers-business-opportunities-and-industry-forecast.md",
-      "title": "Artificial Intelligence (AI) Chipset Market Size, Share, Key Players, Growth Drivers, Business Opportunities, and industry Forecast",
-      "excerpt": "Market Highlights Artificial intelligence (AI) chipset are silicon-based chips that are integrated with devices",
-      "heat": 141,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipset-market-size-share-key-players-growth-drivers-business-opportunities-and-industry-forecast-2020-02-28",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-28T01:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Artificial Intelligence (AI) Chipset Market Size, Share, Key Players, Growth Drivers, Business Opportunities, and industry Forecast",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare",
-        "AI Hardware"
       ]
     }
   ],

@@ -2,50 +2,6 @@
   "page": 19,
   "value": [
     {
-      "path": "_news/2020-04-22-quillbot-taps-ai-to-rewrite-and-rephrase-whole-paragraphs.md",
-      "title": "QuillBot taps AI to rewrite and rephrase whole paragraphs",
-      "excerpt": "QuillBot, a startup developing AI tools that intelligently rewrite text, today announced that it raised $4 million in financing. Fresh capital in hand, the cofounders hope to make QuillBot’s platform a one-stop editing shop, with modules that will summarize information from articles and complete paragraphs by synthesizing sentences informed ...",
-      "heat": 97,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/22/quillbot-taps-ai-to-rewrite-and-rephrase-whole-paragraphs/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/22/quillbot-taps-ai-to-rewrite-and-rephrase-whole-paragraphs/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/22/quillbot-taps-ai-to-rewrite-and-rephrase-whole-paragraphs/amp/",
-      "publishedDateTime": "2020-04-22T06:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/09/natural-language-processing-e1572968977211.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "QuillBot taps AI to rewrite and rephrase whole paragraphs",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-04-22-bodhala-raises-10-million-to-optimize-companies-legal-spend-with-ai.md",
       "title": "Bodhala raises $10 million to optimize companies’ legal spend with AI",
       "excerpt": "Legal tech startup Bodhala this week closed a $10 million financing round, the bulk of which will be put toward product R&D and sales efforts, cofounder and CEO Raj Goyle told VentureBeat. The company’s platform taps AI and machine learning to help companies analyze and optimize legal spend — a valuable service in light of the fact that ...",
@@ -1076,6 +1032,50 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-21-ai-indicates-which-symptoms-might-be-leading-indicators-of-covid-19.md",
+      "title": "AI indicates which symptoms might be leading indicators of COVID-19",
+      "excerpt": "In a preprint paper published this week on Arxiv.org, a team of researchers from the Mayo Clinic and Nference, a startup developing tech that analyzes text from biomedical publications, report that they’ve used AI to isolate phenotypes characteristic of the coronavirus. They claim that a specific combination of cough and diarrhea, along with ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/21/ai-indicates-which-symptoms-might-be-leading-indicators-of-covid-19/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/21/ai-indicates-which-symptoms-might-be-leading-indicators-of-covid-19/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/21/ai-indicates-which-symptoms-might-be-leading-indicators-of-covid-19/amp/",
+      "publishedDateTime": "2020-04-21T09:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2016/05/diagnosis-e1585691897976.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "AI indicates which symptoms might be leading indicators of COVID-19",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     }

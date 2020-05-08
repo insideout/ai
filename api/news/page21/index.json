@@ -2,42 +2,6 @@
   "page": 21,
   "value": [
     {
-      "path": "_news/2020-04-20-this-app-uses-ai-to-screen-for-covid-19-in-rural-areas-future-blink.md",
-      "title": "This app uses AI to screen for COVID-19 in rural areas — Future Blink",
-      "excerpt": "Mashable is a global, multi-platform media and entertainment company. Powered by its own proprietary technology, Mashable is the go-to source for tech, digital culture and entertainment content for its dedicated and influential audience around the globe. ©2020 Mashable, Inc. All Rights Reserved. Mashable, MashBash and Mashable House are among ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://mashable.com/video/ai-app-screens-for-covid19/",
-      "ampWebUrl": "https://mashable.com/video/ai-app-screens-for-covid19.amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/video/ai-app-screens-for-covid19.amp",
-      "publishedDateTime": "2020-04-20T12:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/2020%252F04%252F20%252Fb3%252Fdafac5d3f3764c8a96f87cd2a4afc970.5f8ea.png%252F1200x630.png?signature=qoiUcCOJbh6-a14QFdtgUst3UJM=",
-          "width": 1200,
-          "height": 630,
-          "title": "This app uses AI to screen for COVID-19 in rural areas — Future Blink",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-04-20-allergy-insights-with-watson-uses-ai-to-predict-allergy-symptom-risk.md",
       "title": "Allergy Insights with Watson uses AI to predict allergy symptom risk",
       "excerpt": "IBM today announced a new tool that taps AI to predict when allergy symptoms are likely to flare up. It’s called Allergy Insights with Watson, and it’s available in The Weather Channel app for iOS and Android ahead of a launch on the web. In addition to a 15-day forecast that predicts allergy symptom risk (e.g., high, moderate, low ...",
@@ -1041,6 +1005,52 @@
       "topics": [
         "Microsoft AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-20-facebook-three-fintech-firms-in-talks-to-launch-mobile-payments-service-in-indonesia.md",
+      "title": "Facebook, three fintech firms in talks to launch mobile payments service in Indonesia",
+      "excerpt": "Facebook is working with three Indonesian digital fintech firms to apply for regulatory approval to launch mobile payments ... Sign up now and get a 10% discount (original price US$400) off the China AI Report 2020 by SCMP Research. Learn about the AI ambitions of Alibaba, Baidu & JD.com through our in-depth case studies, and explore new ...",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.scmp.com/tech/big-tech/article/3080729/facebook-three-fintech-firms-talks-launch-mobile-payments-service",
+      "ampWebUrl": "https://amp.scmp.com/tech/big-tech/article/3080729/facebook-three-fintech-firms-talks-launch-mobile-payments-service",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3080729/facebook-three-fintech-firms-talks-launch-mobile-payments-service",
+      "publishedDateTime": "2020-04-20T02:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/04/20/72823e74-82e4-11ea-8863-2139a14b0dea_image_hires_181245.JPG?itok=-bpnCTHB&v=1587377576",
+          "width": 1200,
+          "height": 630,
+          "title": "Facebook, three fintech firms in talks to launch mobile payments service in Indonesia",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Facebook AI"
       ]
     }
   ],

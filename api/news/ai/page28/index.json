@@ -2,50 +2,6 @@
   "page": 28,
   "value": [
     {
-      "path": "_news/2020-04-09-dont-be-afraid-of-the-new-kid-at-the-job-fair-artificial-intelligence.md",
-      "title": "Don't Be Afraid Of The New Kid At The Job Fair: Artificial Intelligence",
-      "excerpt": "But today’s college graduates have a new question on their radar: “Will I have to compete with artificial intelligence (AI), too?” In a word, no. I believe fears around AI wiping out jobs are largely overblown, but you can’t fault new grads for worrying. A quick scan of tech news could lead anyone to believe that AI is the Grim Reaper ...",
-      "heat": 102,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2020/04/09/dont-be-afraid-of-the-new-kid-at-the-job-fair-artificial-intelligence/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2020/04/09/dont-be-afraid-of-the-new-kid-at-the-job-fair-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2020/04/09/dont-be-afraid-of-the-new-kid-at-the-job-fair-artificial-intelligence/amp/",
-      "publishedDateTime": "2020-04-08T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbescommunicationscouncil%2Ffiles%2F2020%2F04%2Fa-43.jpg",
-          "width": 640,
-          "height": 640,
-          "title": "Don't Be Afraid Of The New Kid At The Job Fair: Artificial Intelligence",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-04-09-halcon-deep-learning-software-package-updated-with-improvements-for-industrial-pcs-and-embedded-devices.md",
       "title": "HALCON deep learning software package updated with improvements for industrial PCs and embedded devices",
       "excerpt": "Version 20.05, the latest update to MVTec’s HALCON deep learning software package, features an advanced decoding algorithm for barcode reading that allows codes with bars smaller than one pixel to be scanned. The new release also allows deep learning ...",
@@ -1281,6 +1237,43 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-08-dubais-dewa-shapes-the-future-of-utilities-using-artificial-intelligence.md",
+      "title": "Dubai's Dewa shapes the future of utilities using Artificial Intelligence",
+      "excerpt": "This achieves the National Artificial Intelligence Strategy 2031. Dewa collaborated with Smart Dubai to apply the AI Ethics and Principles in all its projects and initiatives, and Smart Dubai AI Lab. Dewa launched Digital Dewa as its digital arm, with four pillars, making Dewa the world's first digital utility to use autonomous systems for ...",
+      "heat": 73,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zawya.com/mena/en/business/story/Dubais_Dewa_shapes_the_future_of_utilities_using_Artificial_Intelligence-SNG_171851562/",
+      "ampWebUrl": "https://www.zawya.com/mena/en/story/amp/SNG_171851562/",
+      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/SNG_171851562/",
+      "publishedDateTime": "2020-04-07T23:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.zawya.com/resources/img/zawya-logo-en-social.png",
+          "width": 1200,
+          "height": 878,
+          "title": "Dubai's Dewa shapes the future of utilities using Artificial Intelligence",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
         "AI"
       ]
     }

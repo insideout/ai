@@ -2,50 +2,6 @@
   "page": 33,
   "value": [
     {
-      "path": "_news/2020-04-09-will-product-designers-survive-the-ai-revolution.md",
-      "title": "Will product designers survive the AI revolution?",
-      "excerpt": "Did you know TNW Conference has a track fully dedicated to exploring new design trends this year? Check out the full ‘Sprint’ program here. “Our intelligence is what makes us human, and AI is an extension of that quality.” ― Yann LeCun The human species has performed incredible feats of ingenuity. We have created beautiful sculptures ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/04/09/will-product-designers-survive-the-ai-revolution/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/04/09/will-product-designers-survive-the-ai-revolution/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/04/09/will-product-designers-survive-the-ai-revolution/amp/",
-      "publishedDateTime": "2020-04-09T05:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/04/1-14-796x417.jpg",
-          "width": 796,
-          "height": 417,
-          "title": "Will product designers survive the AI revolution?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-04-09-global-artificial-intelligence-in-supply-chain-market-2020-to-2027-by-component-technology-application-and-by-end-user-researchandmarketscom.md",
       "title": "Global Artificial Intelligence in Supply Chain Market (2020 to 2027) - by Component Technology, Application and by End User - ResearchAndMarkets.com",
       "excerpt": "The \"Artificial Intelligence in Supply Chain Market by Component (Platforms, Solutions) Technology (Machine Learning, Computer Vision, Natural Language",
@@ -1060,6 +1016,50 @@
           "width": 1200,
           "height": 600,
           "title": "Google releases API to train smaller, faster AI models",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-08-coronavirus-crisis-gives-an-opportunity-for-ai-to-shine.md",
+      "title": "Coronavirus crisis gives an opportunity for AI to shine",
+      "excerpt": "SEE: Coronavirus: Critical IT policies and tools every business needs (TechRepublic Premium) It seems that artificial intelligence (AI) and machine learning (ML) have important roles to play as physicians, hospitals, pharmaceutical companies, and others directly engaged in the coronavirus fight try to find rapid therapeutic and containment answers.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/article/coronavirus-crisis-gives-an-opportunity-for-ai-to-shine/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/coronavirus-crisis-gives-an-opportunity-for-ai-to-shine/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/coronavirus-crisis-gives-an-opportunity-for-ai-to-shine/",
+      "publishedDateTime": "2020-04-08T11:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/04/08/0f2c7dfc-c9c7-468a-a36d-eafc5cc75256/resize/1200x/48d39f57b6e8ab042b8f7759922c32a7/istock-1204743045.jpg",
+          "width": 1200,
+          "height": 654,
+          "title": "Coronavirus crisis gives an opportunity for AI to shine",
           "attribution": null
         }
       ],

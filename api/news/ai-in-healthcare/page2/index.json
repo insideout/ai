@@ -2,6 +2,35 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-04-09-upmc-launches-clinical-trial-for-covid-19-therapies.md",
+      "title": "UPMC launches clinical trial for COVID-19 therapies",
+      "excerpt": "The adaptive clinical trial relies on a type of artificial intelligence known as reinforcement learning to identify the best therapy for COVID-19, Angus explained. “This approach using adaptive platforms is not what people ever did normally, but it is ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.ellwoodcityledger.com/news/20200409/upmc-launches-clinical-trial-for-covid-19-therapies",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-09T15:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ellwood City Ledger",
+        "domain": "ellwoodcityledger.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-09-upmc-led-global-trial-fast-tracks-testing-of-hydroxychloroquine-other-covid-19-therapies.md",
       "title": "UPMC led global trial fast tracks testing of hydroxychloroquine, other COVID-19 therapies",
       "excerpt": "\"We've developed a way to do that with an adaptive clinical trial model that relies on a type of artificial intelligence known as reinforcement learning to identify the best, evidence-backed therapy for COVID-19 much faster than using the traditional scientific approach.\" Before COVID-19 emerged, Angus and a wide range of international ...",
@@ -1200,43 +1229,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-03-26-3-healthcare-stocks-to-buy-for-ai-and-big-data.md",
-      "title": "3 Healthcare Stocks to Buy for AI and Big Data",
-      "excerpt": "However one of the major problems in the healthcare sector is how to collect and efficiently use data. The health care sector looks to be a logical application for artificial intelligence (AI) and big data. However, there are legitimate privacy concerns about the use of this data. One concern is how healthcare data can be used in predictive ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://investorplace.com/2020/03/healthcare-stocks-using-ai-big-data/",
-      "ampWebUrl": "https://investorplace.com/2020/03/healthcare-stocks-using-ai-big-data/amp/",
-      "cdnAmpWebUrl": "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/03/healthcare-stocks-using-ai-big-data/amp/",
-      "publishedDateTime": "2020-03-26T06:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InvestorPlace",
-        "domain": "investorplace.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://investorplace.com/wp-content/uploads/2019/07/healthcare1600a.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": "3 Healthcare Stocks to Buy for AI and Big Data",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

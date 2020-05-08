@@ -2,50 +2,6 @@
   "page": 20,
   "value": [
     {
-      "path": "_news/2020-04-21-ai-indicates-which-symptoms-might-be-leading-indicators-of-covid-19.md",
-      "title": "AI indicates which symptoms might be leading indicators of COVID-19",
-      "excerpt": "In a preprint paper published this week on Arxiv.org, a team of researchers from the Mayo Clinic and Nference, a startup developing tech that analyzes text from biomedical publications, report that they’ve used AI to isolate phenotypes characteristic of the coronavirus. They claim that a specific combination of cough and diarrhea, along with ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/21/ai-indicates-which-symptoms-might-be-leading-indicators-of-covid-19/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/21/ai-indicates-which-symptoms-might-be-leading-indicators-of-covid-19/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/21/ai-indicates-which-symptoms-might-be-leading-indicators-of-covid-19/amp/",
-      "publishedDateTime": "2020-04-21T09:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2016/05/diagnosis-e1585691897976.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "AI indicates which symptoms might be leading indicators of COVID-19",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-04-21-new-weka-ai-framework-to-accelerate-edge-to-core-to-cloud-data-pipelines.md",
       "title": "New Weka AI framework to accelerate Edge to Core to Cloud Data Pipelines",
       "excerpt": "WekaIO introduced Weka AI, a transformative storage solution framework underpinned by the Weka File System (WekaFS) that enables accelerated edge-to-core-to-cloud data pipelines. Weka AI is a framework of customizable reference architectures (RAs) and software development kits (SDKs) with leading technology alliances like NVIDIA,",
@@ -1053,6 +1009,42 @@
       ],
       "topics": [
         "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-20-this-app-uses-ai-to-screen-for-covid-19-in-rural-areas-future-blink.md",
+      "title": "This app uses AI to screen for COVID-19 in rural areas — Future Blink",
+      "excerpt": "Mashable is a global, multi-platform media and entertainment company. Powered by its own proprietary technology, Mashable is the go-to source for tech, digital culture and entertainment content for its dedicated and influential audience around the globe. ©2020 Mashable, Inc. All Rights Reserved. Mashable, MashBash and Mashable House are among ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://mashable.com/video/ai-app-screens-for-covid19/",
+      "ampWebUrl": "https://mashable.com/video/ai-app-screens-for-covid19.amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/video/ai-app-screens-for-covid19.amp",
+      "publishedDateTime": "2020-04-20T12:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mondrian.mashable.com/2020%252F04%252F20%252Fb3%252Fdafac5d3f3764c8a96f87cd2a4afc970.5f8ea.png%252F1200x630.png?signature=qoiUcCOJbh6-a14QFdtgUst3UJM=",
+          "width": 1200,
+          "height": 630,
+          "title": "This app uses AI to screen for COVID-19 in rural areas — Future Blink",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     }

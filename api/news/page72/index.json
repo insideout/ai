@@ -2,51 +2,6 @@
   "page": 72,
   "value": [
     {
-      "path": "_news/2020-03-11-scientists-successfully-created-a-cybernetic-neural-network.md",
-      "title": "Scientists successfully created a cybernetic neural network",
-      "excerpt": "and the UK have successfully joined artificial neurons and an organic neuron to form the first operational biological-artificial hybrid neural network. They’ve made a cyborg. The team set out to recreate a classic experiment showing how neurons can “learn” by transferring information through synapses. In a classic neural network ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/03/11/scientists-successfully-created-a-cybernetic-neural-network/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/03/11/scientists-successfully-created-a-cybernetic-neural-network/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/03/11/scientists-successfully-created-a-cybernetic-neural-network/amp/",
-      "publishedDateTime": "2020-03-11T15:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/03/braincomputer-796x417.jpg",
-          "width": 796,
-          "height": 417,
-          "title": "Scientists successfully created a cybernetic neural network",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-03-11-intels-facial-recognition-will-track-employees-and-visitors.md",
       "title": "Intel’s Facial Recognition Will Track Employees and Visitors",
       "excerpt": "Intel’s Portland office will begin using facial recognition to identify “high risk individuals.” The company touts the tech as being used for safety, but many are concerned about privacy and ...",
@@ -971,6 +926,51 @@
       ],
       "topics": [
         "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-11-heres-why-im-campaigning-against-facial-recognition-in-schools.md",
+      "title": "Here's Why I'm Campaigning Against Facial Recognition in Schools",
+      "excerpt": "She currently serves on the board of directors of Students for Sensible Drug Policy and has coordinated campus organizing for the campaign to ban facial recognition. You can find her on Twitter at ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.vice.com/en_us/article/z3bgpj/heres-why-im-campaigning-against-facial-recognition-in-schools",
+      "ampWebUrl": "https://www.vice.com/amp/en_us/article/z3bgpj/heres-why-im-campaigning-against-facial-recognition-in-schools",
+      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_us/article/z3bgpj/heres-why-im-campaigning-against-facial-recognition-in-schools",
+      "publishedDateTime": "2020-03-11T04:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VICE",
+        "domain": "vice.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/vice.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://video-images.vice.com/test-uploads/articles/5e6802bca5a797009d94acce/lede/1583876911969-University-of-North-Georgia-Brooke-Trogdon-They_Them.jpeg?crop=1xw:0.7487xh;0xw,0.078xh",
+          "width": 2016,
+          "height": 1132,
+          "title": "Here's Why I'm Campaigning Against Facial Recognition in Schools",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
         "AI"
       ]
     }

@@ -2,51 +2,6 @@
   "page": 39,
   "value": [
     {
-      "path": "_news/2020-04-05-self-supervised-learning-is-the-future-of-ai.md",
-      "title": "Self-supervised learning is the future of AI",
-      "excerpt": "Despite the huge contributions of deep learning to the field of artificial intelligence, there’s something very wrong with it: It requires huge amounts of data. This is one thing that both the ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/04/05/self-supervised-learning-is-the-future-of-ai-syndication/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/04/05/self-supervised-learning-is-the-future-of-ai-syndication/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/04/05/self-supervised-learning-is-the-future-of-ai-syndication/amp/",
-      "publishedDateTime": "2020-04-04T22:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/10/4-human-caused-biases-we-need-to-fix-for-machine-learning1-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "Self-supervised learning is the future of AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-04-05-us-blocks-amazon-efforts-to-stop-shareholder-votes-on-facial-recognition.md",
       "title": "US blocks Amazon efforts to stop shareholder votes on facial recognition",
       "excerpt": "One proposal would require Amazon to cease offering facial recognition ... that might result from the service, known as Rekognition. Both proposals face uphill battles to receive a majority ...",
@@ -1030,6 +985,42 @@
         "AI Ethics",
         "AI",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2020-04-03-artificial-intelligence-ai-challenge-regulators-and-induce-recovery.md",
+      "title": "Artificial Intelligence (AI) challenge regulators and induce recovery",
+      "excerpt": "Artificial intelligence with machine learning is expected not only to enhance the processes and transparency but also to improve the relationship between financial advisors with clients. This will be done because the overriding feature of artificial intelligence is that it will be able to provide services for all clients at a low cost.",
+      "heat": 72,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fxstreet.com/analysis/artificial-intelligence-ai-challenge-regulators-and-induce-recovery-202004031643",
+      "ampWebUrl": "https://www.fxstreet.com/amp/analysis/artificial-intelligence-ai-challenge-regulators-and-induce-recovery-202004031643",
+      "cdnAmpWebUrl": "https://www-fxstreet-com.cdn.ampproject.org/c/s/www.fxstreet.com/amp/analysis/artificial-intelligence-ai-challenge-regulators-and-induce-recovery-202004031643",
+      "publishedDateTime": "2020-04-03T09:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "FXStreet",
+        "domain": "fxstreet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://editorial.fxstreet.com/images/Macroeconomics/Countries/taking-his-business-global-gm528981107-54255008_Small.jpg",
+          "width": 320,
+          "height": 217,
+          "title": "Artificial Intelligence (AI) challenge regulators and induce recovery",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     }
   ],

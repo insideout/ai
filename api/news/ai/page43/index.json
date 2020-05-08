@@ -2,51 +2,6 @@
   "page": 43,
   "value": [
     {
-      "path": "_news/2020-03-26-8-ways-to-protect-your-amazon-echo-privacy-while-working-from-home.md",
-      "title": "8 ways to protect your Amazon Echo privacy while working from home",
-      "excerpt": "With states on lockdown and companies asking employees to work at home due to the novel coronavirus, there have been concerns around the internet that Alexa may be listening to confidential conversations.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnet.com/how-to/8-ways-to-protect-your-amazon-echo-privacy-while-working-from-home/",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/8-ways-to-protect-your-amazon-echo-privacy-while-working-from-home/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/8-ways-to-protect-your-amazon-echo-privacy-while-working-from-home/",
-      "publishedDateTime": "2020-03-26T09:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cnet3.cbsistatic.com/img/7jPvaiaAoUDSSF-B5aUV6DFN9Dc=/940x0/2018/10/22/fc5cf5c1-a4f0-4e40-83a5-78dd5f7cec06/fear-alexa-1.jpg",
-          "width": 940,
-          "height": 529,
-          "title": "8 ways to protect your Amazon Echo privacy while working from home",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-03-26-textios-ai-optimizes-for-inclusivity-to-help-companies-attract-more-job-applicants.md",
       "title": "Textio’s AI optimizes for inclusivity to help companies attract more job applicants",
       "excerpt": "For companies like Nvidia, for example, its use of Textio has led to a higher number of women job applicants. Textio uses natural language processing to color-highlight and interrupt bias communication in workplace text like job applications, LinkedIn job candidate outreach, or emails on Outlook or Gmail. Accommodation language- and ageism ...",
@@ -1216,6 +1171,50 @@
           "width": 1200,
           "height": 675,
           "title": "Mastercard keeping humans in the loop of AI fraud and risk-related decisions",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-25-helmai-raises-13m-on-its-unsupervised-learning-approach-to-driverless-car-ai.md",
+      "title": "Helm.ai raises $13M on its unsupervised learning approach to driverless car AI",
+      "excerpt": "Helm.ai will put the $13 million in seed funding toward advanced engineering and R&D and hiring more employees, as well as locking in and fulfilling deals with customers. Helm.ai is focused solely ...",
+      "heat": 83,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/03/25/helm-ai-raises-13m-on-its-unsupervised-learning-approach-to-driverless-car-ai/",
+      "ampWebUrl": "https://techcrunch.com/2020/03/25/helm-ai-raises-13m-on-its-unsupervised-learning-approach-to-driverless-car-ai/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/03/25/helm-ai-raises-13m-on-its-unsupervised-learning-approach-to-driverless-car-ai/amp/",
+      "publishedDateTime": "2020-03-25T13:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/03/helm-ai-interior.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": "Helm.ai raises $13M on its unsupervised learning approach to driverless car AI",
           "attribution": null
         }
       ],

@@ -31,15 +31,21 @@ images:
 
 related:
   - title: "Tradier Teams With Q.ai, A Forbes Company, To Bring AI And Big Data Analytics To Customers And Retail Investors"
-    excerpt: "The collaboration aligns with Q.ai’s mission to democratize access to AI and other quantitative investing methodologies by giving traders data-driven insights and seamless execution to help them gain an edge on the market."
+    excerpt: "Tradier is teaming up with Q.ai, a Forbes company, to bring advanced AI-driven intelligent investing to retail investors. The collaboration aligns with Q.ai’s mission to democratize access to AI and other quantitative investing methodologies by giving traders data-driven insights and seamless execution to help them gain an edge on the market."
     publishedDateTime: 2020-05-07T14:08:00Z
-    webUrl: "https://www.forbes.com/sites/forbespr/2020/05/07/tradier-teams-with-qai-a-forbes-company-to-bring-ai-and-big-data-analytics-to-customers-and-retail-investors/"
+    webUrl: "https://www.forbes.com/sites/partnerreleases/2020/05/07/tradier-teams-with-qai-a-forbes-company-to-bring-ai-and-big-data-analytics-to-customers-and-retail-investors/"
+    ampWebUrl: "https://www.forbes.com/sites/partnerreleases/2020/05/07/tradier-teams-with-qai-a-forbes-company-to-bring-ai-and-big-data-analytics-to-customers-and-retail-investors/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/partnerreleases/2020/05/07/tradier-teams-with-qai-a-forbes-company-to-bring-ai-and-big-data-analytics-to-customers-and-retail-investors/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 27
+    quality: 67
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eb416c4858c0300077238c6%2F0x0.jpg"
+        width: 1200
+        height: 675
 
-secured: "qnCuHXtzbcgaNRiHr34xqgER48BguiNntaaqwme4X4CnpBNj0kw7YETdpvRkLrZqDw4TbN1Hvetfx7ytMXobq5lY8HApjel8dgkOLPE7wHvQtx2A9Ltur3ICNSwYL+kwhTNHG/FJUDegeXOnUf8MbGGPQ3jLfhO/aB/iI9xh+fuhjsrLzDOgwbvFvlGgZH3o+88lVghvRxweKgvimbEtn+whb1Fl3v6FyY0xsXHYBFOLtsLFlupsaW99fsqL65/kJO0+F8kk7Jt8WK1dlZ8Jc/EIGPRtHkpnaM1OaJqjnOXd4Bh7HwiwMOREKhpGZLQH;55/j7ILzOlC6C+nlN/xqcg=="
+secured: "bpwePVFJ4fu/SVD/QhwZTCsb9/FwwLVHFga3c5bxfFmNeawE+cHkDqWiBdJTjML/uoEQkT4jvPMAyfPkB65Z7+MAtYUobLuArzeO0AhNhkoi33F/tBnek7/hYPmufGJpRZTBXlz8in6dgrDZaGI7TS8tv6pvazbzt9fi2p3GSRFL/moqWAji4RwOdnu5LyQD4Vc7eHxPrhEiKRLiGmm4ybZd0nx3L9KHoQdhZvtXeCGa7cOyew+/Pb1RnenqoyqhU8NsMp7WJkw95uVKp8IkwjagPFjLc1XybstbF7i+SPcAW4l2gV3x9ToxtV4VT4h4J7H2mayOfhDVnl3J5h9aZggomH42940sP6XsQKw1kPgfzxhmst1EbUtGgNYCwUqauVP45OcEZUe8+Dlgcs8SLiAoU5MyrvZZZ4OXmDo1d4tUcwvpX+RdRXM4YRu1O1lnMKyQgMaQqohqjvaxhwUD7eGncHvsUGHLr3arHb2c8uk=;syVQBnp/6hLLJmjFX5aGew=="
 ---
 

@@ -2,50 +2,6 @@
   "page": 17,
   "value": [
     {
-      "path": "_news/2020-04-21-ai-company-forgerock-raises-935-million-in-funding.md",
-      "title": "AI Company ForgeRock Raises $93.5 Million in Funding",
-      "excerpt": "Identity-authenticator sees demand jump as coronavirus creates mass shift to remote work.",
-      "heat": 77,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wsj.com/articles/ai-company-forgerock-raises-93-5-million-in-funding-11587463200",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-21T04:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-178343/social",
-          "width": 1280,
-          "height": 640,
-          "title": "AI Company ForgeRock Raises $93.5 Million in Funding",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-04-21-how-to-improve-the-financial-services-industry-with-artificial-intelligence-and-blockchain.md",
       "title": "How To Improve The Financial Services Industry With Artificial Intelligence And Blockchain",
       "excerpt": "Blockchain and artificial intelligence (AI) solve different tasks, but they can work together to improve many processes in the financial services industry, from customer service to loan application reviews and payment processing.",
@@ -1240,6 +1196,51 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-20-the-nba-and-microsoft-plan-to-release-a-new-ai-driven-dtc-streaming-platform.md",
+      "title": "The NBA and Microsoft plan to release a new AI-driven DTC streaming platform",
+      "excerpt": "The NBA and Microsoft announced a new multiyear partnership aimed at transforming the digital fan experience through a direct-to-consumer platform.",
+      "heat": 81,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businessinsider.com/nba-microsoft-team-up-for-ai-driven-personalized-streaming-platform-2020-4",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-20T07:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.insider.com/5e6bd9bd84159f6e8f786846?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": "The NBA and Microsoft plan to release a new AI-driven DTC streaming platform",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
         "AI"
       ]
     }

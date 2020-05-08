@@ -2,51 +2,6 @@
   "page": 116,
   "value": [
     {
-      "path": "_news/2020-01-28-artificial-intelligence-in-healthcare-market-worth-276-billion-by-2025-meticulous-research.md",
-      "title": "Artificial Intelligence In Healthcare Market Worth $27.6 Billion By 2025:: Meticulous Research®",
-      "excerpt": "Meticulous Research®– leading global market research company published a research report titled “Artificial Intelligence in Healthcare Market by Product (Hardware, Software, Services ...",
-      "heat": 72,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/@phadatarekavita95/artificial-intelligence-in-healthcare-market-worth-27-6-billion-by-2025-meticulous-research-903f49019bad?hss_channel=tw-17392332",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-28T01:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/632/0*zQdHy3pqlrdv-3pd.png",
-          "width": 632,
-          "height": 356,
-          "title": "Artificial Intelligence In Healthcare Market Worth $27.6 Billion By 2025:: Meticulous Research®",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
       "path": "_news/2020-01-28-cisco-brings-new-ai-functionality-to-webex.md",
       "title": "Cisco brings new AI functionality to Webex",
       "excerpt": "About six months after acquiring Voicea, Cisco is bringing its AI capabilities to Webex meetings. Now, Webex Assistant will be able to help with meeting tasks such as language translation, closed captioning and transcriptions. What is AI? Everything you need to know about Artificial Intelligence A guide to artificial intelligence, from ...",
@@ -1068,6 +1023,51 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-01-27-privacy-business-critical-transparency-and-expert-ai-to-reshape-the-compliance-industry-in-2020.md",
+      "title": "Privacy, Business-Critical Transparency And Expert AI To Reshape The Compliance Industry In 2020",
+      "excerpt": "This year, businesses should make compliance a priority with the advent of new regulations and an industry emphasis on privacy.",
+      "heat": 76,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/27/privacy-business-critical-transparency-and-expert-ai-to-reshape-the-compliance-industry-in-2020/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/27/privacy-business-critical-transparency-and-expert-ai-to-reshape-the-compliance-industry-in-2020/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/27/privacy-business-critical-transparency-and-expert-ai-to-reshape-the-compliance-industry-in-2020/amp/",
+      "publishedDateTime": "2020-01-27T05:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/dam/imageserve/1063784754/960x0.jpg?fit=scale",
+          "width": 711,
+          "height": 474,
+          "title": "Privacy, Business-Critical Transparency And Expert AI To Reshape The Compliance Industry In 2020",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
       ]
     }
   ],

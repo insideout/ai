@@ -2,6 +2,43 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-04-01-innovations-in-lidar-4d-radar-deep-learning-processors-plasmonic-light-switches-driver-seat-airbags-advanced-ai-autonomous-vehicles-researchandmarketscom.md",
+      "title": "Innovations in LiDAR, 4D Radar, Deep Learning Processors, Plasmonic Light Switches, Driver Seat Airbags, Advanced AI & Autonomous Vehicles - ResearchAndMarkets.com",
+      "excerpt": "DUBLIN--(BUSINESS WIRE)--The \"Innovations in LiDAR, 4D Radar, Deep Learning Processors, Plasmonic Light Switches, Driver Seat Airbags, Advanced AI, and Autonomous Vehicles\" report has been added to ResearchAndMarkets.com's offering. This Mobility ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businesswire.com/news/home/20200401005336/en/Innovations-LiDAR-4D-Radar-Deep-Learning-Processors",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-01T03:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20200401005336/en/371054/23/ResearchAndMarkets_800px.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": "Innovations in LiDAR, 4D Radar, Deep Learning Processors, Plasmonic Light Switches, Driver Seat Airbags, Advanced AI & Autonomous Vehicles - ResearchAndMarkets.com",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-31-lessons-learned-on-building-a-common-operating-picture-across-networks.md",
       "title": "Lessons learned on building a common operating picture across networks",
       "excerpt": "AI/ML as potential game changers for cybersecurity Artificial intelligence and machine learning technology are the key ... This gives government users who do not want to share threat data externally the ability to deploy a neural network-based threat-discovery and mitigation tool that is both effective out of the box and gets smarter as it ...",
@@ -1192,51 +1229,6 @@
           "width": 640,
           "height": 640,
           "title": "Machine Learning: The Real Buzzword Of 2020",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-23-nvidia-launches-deep-learning-super-sampling-20-to-boost-ai-rendering.md",
-      "title": "Nvidia launches Deep Learning Super Sampling 2.0 to boost AI rendering",
-      "excerpt": "Alongside the RTX Global Illumination SDK, Nvidia also launched Deep Learning Super Sampling (DLSS) 2.0 today. At the heart of DLSS 2.0 is an artificial neural network that uses Nvidia RTX TensorCores to boost frame rates and generate sharp frames that approach or exceed native rendering. DLSS 2.0 was trained on tens of thousands of high ...",
-      "heat": 104,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.neowin.net/news/nvidia-launches-deep-learning-super-sampling-20-to-boost-ai-rendering",
-      "ampWebUrl": "https://www.neowin.net/amp/nvidia-launches-deep-learning-super-sampling-20-to-boost-ai-rendering/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/nvidia-launches-deep-learning-super-sampling-20-to-boost-ai-rendering/",
-      "publishedDateTime": "2020-03-23T11:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2020/03/1584979888_screenshot_(582)_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": "Nvidia launches Deep Learning Super Sampling 2.0 to boost AI rendering",
           "attribution": null
         }
       ],

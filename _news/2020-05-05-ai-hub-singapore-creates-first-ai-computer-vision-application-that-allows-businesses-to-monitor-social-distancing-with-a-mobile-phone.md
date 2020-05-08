@@ -1,28 +1,28 @@
 ---
 category: news
 title: "AI Hub Singapore creates first AI computer vision application that allows businesses to monitor social distancing with a mobile phone"
-excerpt: "To allow more businesses and people to monitor social distancing easily, AI Hub Singapore has created an AI application that turns a ubiquitous device - a mobile phone - into a social distance monitoring instrument."
+excerpt: "As economies gradually reopen globally, people around the world share a responsibility to keep up the fight against COVID-19. To allow"
 publishedDateTime: 2020-05-05T07:00:00Z
-webUrl: "https://markets.businessinsider.com/news/stocks/ai-hub-singapore-creates-first-ai-computer-vision-application-that-allows-businesses-to-monitor-social-distancing-with-a-mobile-phone-1029164018"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/ai-hub-singapore-creates-first-ai-computer-vision-application-that-allows-businesses-to-monitor-social-distancing-with-a-mobile-phone-1029164018"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ai-hub-singapore-creates-first-ai-computer-vision-application-that-allows-businesses-to-monitor-social-distancing-with-a-mobile-phone-1029164018"
+webUrl: "https://www.prnewswire.com/news-releases/ai-hub-singapore-creates-first-ai-computer-vision-application-that-allows-businesses-to-monitor-social-distancing-with-a-mobile-phone-301052610.html"
 type: article
-quality: 53
-heat: 53
+quality: 23
+heat: 23
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Computer Vision
   - AI
 
-secured: "Fpo5OWAK/dVzBb6NvwTIWVGFf9uCxdoHGBybiRlhULPZF0eJjNm5rQ9DRdhXYaY+HZp0/1S3DdwW2fDtCLgCUM6PV8xwL8nhqKrXvrK57QsLeK9M8Fogvgc0lILwnqZ2iVaoDE42Jkv5kdyYuBBfiM9gerhBwPXuJLnTt1gUtqqxjpwE343vX3qg15HN2soz7cwE1+4lNjwTPWSwd1zSlDDJ/LeYdicxgozplqEL7r7SRYZ9j/4NAwMmATd7MREe252fBUewQ/o7imSJ3itTzWOnjQXoGWDFsXxkr14Iiv3fw1g1JftidiqfwSMBI1n8;OoBGDD6mJCBu8bgRdCtNgA=="
+images:
+  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+    width: 600
+    height: 315
+    title: "AI Hub Singapore creates first AI computer vision application that allows businesses to monitor social distancing with a mobile phone"
+
+secured: "+QnYhMfmscJSfGAsqUNbtxa4PnzxWRoVmjXWFxnSlge95MwePzHAN3cH/oOhW+9S7LvB3ko2PONoPW7zRjXk4BooccQiDZUNF64rOVBer2S7aVVw7At+2xrGVanf9D/hI4Apeb7MbLFK/+NP6vMI3v0gUUpOGAUTur8berMc1QPLmntyy+eC345zYUHLImNMJLGMJdimPTfpzkybPy+MtoiQb8d/ys9fxUGTWvS/C2hGY3vz3uWslC+tjKsO6u1pSjKpXkSxSqrwy1bOCg5R/6kTA1f52WY06pHd9Sw0oWfEnRPgFifAIqrZq/Yw5W+w;CCr6HEh/0xK/tyvTh0Sbnw=="
 ---
 

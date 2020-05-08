@@ -2,51 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2020-05-06-cloudera-machine-learning-mlops-suite-generally-available-as-it-aims-to-manage-models-analytics.md",
-      "title": "Cloudera Machine Learning MLOps suite generally available as it aims to manage models, analytics",
-      "excerpt": "Cloudera Data Platform has seen solid traction in recent quarters from Cloudera and the hope is that CML MLOps will ride shotgun.",
-      "heat": 106,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/cloudera-machine-learning-mlops-suite-generally-available-as-it-aims-to-manage-models-analytics/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/cloudera-machine-learning-mlops-suite-generally-available-as-it-aims-to-manage-models-analytics/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/cloudera-machine-learning-mlops-suite-generally-available-as-it-aims-to-manage-models-analytics/",
-      "publishedDateTime": "2020-05-06T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/2020/05/04/505681e3-f238-45b7-bd5b-104ba4903fbc/end-to-end-production-workflows-in-cml.png",
-          "width": 799,
-          "height": 451,
-          "title": "Cloudera Machine Learning MLOps suite generally available as it aims to manage models, analytics",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-05-06-sleeker-lidar-moves-volvo-closer-to-selling-a-self-driving-car.md",
       "title": "Sleeker Lidar Moves Volvo Closer to Selling a Self-Driving Car",
       "excerpt": "Using technology from Silicon Valley's Luminar, the Swedish automaker plans to offer completely autonomous highway driving by 2022.",
@@ -1340,6 +1295,50 @@
       ],
       "topics": [
         "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-05-omilia-raises-20-million-for-ai-customer-service-chatbots.md",
+      "title": "Omilia raises $20 million for AI customer service chatbots",
+      "excerpt": "Omilia, a startup developing natural language technologies for the enterprise, has raised $20 million in equity financing.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/05/05/omilia-raises-20-million-for-ai-customer-service-chatbots/",
+      "ampWebUrl": "https://venturebeat.com/2020/05/05/omilia-raises-20-million-for-ai-customer-service-chatbots/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/05/omilia-raises-20-million-for-ai-customer-service-chatbots/amp/",
+      "publishedDateTime": "2020-05-05T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/08/chatbot.shutterstock_1139070611-e1588276688496.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Omilia raises $20 million for AI customer service chatbots",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     }

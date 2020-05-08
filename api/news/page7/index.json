@@ -2,51 +2,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_news/2020-05-02-ai-might-trick-us-by-pretending-to-be-dimwitted-including-for-self-driving-cars.md",
-      "title": "AI Might Trick Us By Pretending To Be Dimwitted, Including For Self-Driving Cars",
-      "excerpt": "AI is not yet akin to human intelligence and the odds are that we are a long way distant from the promise of such vaunted capabilities. Those touting the use of Machine Learning (ML) and Deep Learning (DL) are hoping that the advent of ML/DL might be a path toward full AI,",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/05/02/ai-might-trick-us-by-pretending-to-be-dimwitted-including-for-self-driving-cars/",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/05/02/ai-might-trick-us-by-pretending-to-be-dimwitted-including-for-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/05/02/ai-might-trick-us-by-pretending-to-be-dimwitted-including-for-self-driving-cars/amp/",
-      "publishedDateTime": "2020-05-02T08:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1189823259%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5700%26cropY1%3D289%26cropY2%3D3495",
-          "width": 1200,
-          "height": 675,
-          "title": "AI Might Trick Us By Pretending To Be Dimwitted, Including For Self-Driving Cars",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-05-02-scientists-make-artificial-skin-for-robots-taking-us-one-step-closer-to-a-world-of-androids.md",
       "title": "Scientists make artificial skin for robots, taking us one step closer to a world of androids",
       "excerpt": "Scientists from around the world are developing robotic skin that helps machines gain the sense of touch. It's estimated that robots will displace 20 million human workers by 2030.",
@@ -1095,6 +1050,51 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-01-how-well-can-algorithms-recognize-your-masked-face.md",
+      "title": "How Well Can Algorithms Recognize Your Masked Face?",
+      "excerpt": "Makers of facial-recognition technology scramble to adapt to a world where people routinely cover their faces to avoid spreading disease.",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wired.com/story/algorithms-recognize-masked-face/",
+      "ampWebUrl": "https://www.wired.com/story/algorithms-recognize-masked-face/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/algorithms-recognize-masked-face/amp",
+      "publishedDateTime": "2020-05-01T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5ea9d268640d500008d511c5/master/pass/Biz-maskman-1217070531.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": "How Well Can Algorithms Recognize Your Masked Face?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
         "AI"
       ]
     }

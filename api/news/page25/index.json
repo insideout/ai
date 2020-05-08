@@ -2,51 +2,6 @@
   "page": 25,
   "value": [
     {
-      "path": "_news/2020-04-16-aws-iq-waives-fees-until-june-30-2020-to-help-you-stand-up-and-scale-remote-work-initiatives.md",
-      "title": "AWS IQ waives fees until June 30, 2020, to help you stand up and scale remote work initiatives",
-      "excerpt": "The recent post Working from Home? Here’s How AWS Can Help shared several ways AWS is helping you set up and scale remote work and work-from-home initiatives. Getting these solutions set up is sometimes best—and achieved more quickly—with expert help. You can get the help you need with AWS IQ, which",
-      "heat": 92,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/aws-iq-waives-fees-until-june-30-2020-to-help-you-stand-up-and-scale-remote-work-initiatives/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-16T11:40:25-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/04/15/no-fee-aws-iq-2.gif",
-          "width": 1000,
-          "height": 380,
-          "title": "AWS IQ waives fees until June 30, 2020, to help you stand up and scale remote work initiatives",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
       "path": "_news/2020-04-16-covid-19-how-artificial-intelligence-can-help-companies-plan-for-the-future.md",
       "title": "COVID-19: How artificial intelligence can help companies plan for the future",
       "excerpt": "Karen Roby speaks with Dataminr's Jen Jones about the role of artificial intelligence in the coronavirus crisis and why information is key to managing emerging risks. TechRepublic's Karen Roby talks with Jen Jones, CMO of Dataminr, a company that uses artificial intelligence (AI) to detect risks, about the role AI is playing in the effort to ...",
@@ -1060,6 +1015,43 @@
       ],
       "topics": [
         "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-16-microsoft-adds-five-new-indian-languages-to-its-microsoft-translator-service.md",
+      "title": "Microsoft adds five new Indian languages to its Microsoft Translator service",
+      "excerpt": "The Microsoft Translator service is part of Microsoft’s Azure Cognitive Services API, a collection of machine learning and Artificial Intelligence algorithms. Organizations can use these APIs ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.thehindubusinessline.com/info-tech/microsoft-adds-five-new-indian-languages-to-its-microsoft-translator-service/article31355525.ece#!",
+      "ampWebUrl": "https://www.thehindubusinessline.com/info-tech/microsoft-adds-five-new-indian-languages-to-its-microsoft-translator-service/article31355525.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/microsoft-adds-five-new-indian-languages-to-its-microsoft-translator-service/article31355525.ece/amp/",
+      "publishedDateTime": "2020-04-16T03:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Line",
+        "domain": "thehindubusinessline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.thehindubusinessline.com/info-tech/wr5xdp/article31355588.ece/ALTERNATES/LANDSCAPE_615/microsoft-translatorjpg",
+          "width": 615,
+          "height": 384,
+          "title": "Microsoft adds five new Indian languages to its Microsoft Translator service",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
         "AI"
       ]
     }

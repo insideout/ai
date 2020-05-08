@@ -2,43 +2,6 @@
   "page": 91,
   "value": [
     {
-      "path": "_news/2020-02-03-what-are-machine-learning-and-deep-learning-in-artificial-intelligence.md",
-      "title": "What are Machine Learning and Deep Learning in Artificial Intelligence",
-      "excerpt": "AI can be called a superset of Machine Learning (ML) processes, and Deep Learning (DL) processes. AI usually is an umbrella term that is used for ML and DL. Deep Learning is again, a subset of ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.thewindowsclub.com/machine-learning-deep-learning-artificial-intelligence",
-      "ampWebUrl": "https://www.thewindowsclub.com/machine-learning-deep-learning-artificial-intelligence/amp",
-      "cdnAmpWebUrl": "https://www-thewindowsclub-com.cdn.ampproject.org/c/s/www.thewindowsclub.com/machine-learning-deep-learning-artificial-intelligence/amp",
-      "publishedDateTime": "2020-02-02T19:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TWCN Tech News",
-        "domain": "thewindowsclub.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thewindowsclub-thewindowsclubco.netdna-ssl.com/wp-content/uploads/2020/01/aivsmlvsdl.png",
-          "width": 412,
-          "height": 338,
-          "title": "What are Machine Learning and Deep Learning in Artificial Intelligence",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2020-02-03-intel-dumps-its-nervana-neural-network-processors-for-habanas-ai-chips.md",
       "title": "Intel dumps its Nervana neural network processors for Habana’s AI chips",
       "excerpt": "... told him it had decided to end its work on both the Nervana NNP-T training chips and the Nervana NNP-I inference chips, though it said it will still deliver on customer commitments for the latter. Habana has developed two AI chips of its own, namely the Habana Gaudi and the Habana Goya (pictured). The former is a highly specialized neural ...",
@@ -1238,6 +1201,43 @@
       "topics": [
         "AI",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-01-31-setting-up-framework-for-ai-in-healthcare.md",
+      "title": "Setting up framework for AI in healthcare",
+      "excerpt": "Growing populations, demographic changes and a shortage of health practitioners are also putting pressure on the healthcare sector. At the same time, increasing amounts of digital health data and information have become available. How can we tap this vast data resource? Artificial intelligence (AI) models are now being developed to learn from ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.thestar.com.my/opinion/letters/2020/01/31/setting-up-framework-for-ai-in-healthcare",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-31T10:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Star",
+        "domain": "thestar.com.my",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://apicms.thestar.com.my/uploads/images/2020/01/31/534695.jpg",
+          "width": 1240,
+          "height": 936,
+          "title": "Setting up framework for AI in healthcare",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
       ]
     }
   ],

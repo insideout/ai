@@ -2,35 +2,6 @@
   "page": 60,
   "value": [
     {
-      "path": "_news/2020-03-19-media-alert-supermicro-announces-its-first-gpu-live-forum.md",
-      "title": "Media Alert: Supermicro Announces its First GPU Live Forum",
-      "excerpt": "Sessions will include: GPU Accelerated VDI Solution Powered by NVIDIA vGPU High-Density Computing Blade Servers & GPU Options Intelligent Edge Computing with NVIDIA EGX End-to-End AI with Supermicro's Validated NGC and EGX Platforms Accelerating Distributed DL Training with Optimized GPU Computing Solution Infrastructure Challenges within GPU ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.finanznachrichten.de/nachrichten-2020-03/49150727-media-alert-supermicro-announces-its-first-gpu-live-forum-008.htm",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-19T06:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finanznachrichten",
-        "domain": "finanznachrichten.de",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-03-19-ai-chip-startup-graphcore-lands-150-million-in-funding.md",
       "title": "AI Chip Startup Graphcore Lands $150 Million in Funding",
       "excerpt": "Graphcore, one of the top startups selling chips custom-made for artificial intelligence, has added another $150 million in funding led by financial asset firms and investment funds, as it looks to lure customers in the market and challenge its leaders Intel and Nvidia. The funding brings its total amount raised to about $450 million since it ...",
@@ -945,6 +916,43 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-19-machine-learning-powered-steam-recommendations-now-live.md",
+      "title": "Machine Learning-Powered Steam Recommendations Now Live",
+      "excerpt": "Steam has added a new tool today for recommending games to users. Steam Interactive Recommender uses machine learning to predict which games you'll enjoy based on what other people with similar taste have played. The Interactive Recommender started as a tool within Steam Labs back in July 2019, but has now become a proper feature of the store.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.gamespot.com/articles/machine-learning-powered-steam-recommendations-now/1100-6474947/",
+      "ampWebUrl": "https://www.gamespot.com/amp-articles/machine-learning-powered-steam-recommendations-now/1100-6474947/",
+      "cdnAmpWebUrl": "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/machine-learning-powered-steam-recommendations-now/1100-6474947/",
+      "publishedDateTime": "2020-03-18T17:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GameSpot",
+        "domain": "gamespot.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://gamespot1.cbsistatic.com/uploads/screen_large/1574/15746725/3611299-biggest-games-play-2020-most-anticipated-nologo-3.jpg",
+          "width": 640,
+          "height": 360,
+          "title": "Machine Learning-Powered Steam Recommendations Now Live",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
         "AI"
       ]
     }

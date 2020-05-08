@@ -2,50 +2,6 @@
   "page": 126,
   "value": [
     {
-      "path": "_news/2020-01-17-what-can-ai-do-to-fight-global-warming.md",
-      "title": "What can AI do to fight global warming?",
-      "excerpt": "Tiernan Rays tells Karen Roby that some of the brightest minds in AI last month gathered in Vancouver to propose technology to fight global warming. Despite the brilliance of the inventions, other factors such as policy will be necessary to reduce carbon emissions swiftly. Read more: https://zd.net/373YMLj",
-      "heat": 67,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/video/what-can-ai-do-to-fight-global-warming/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-17T12:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2020/01/17/9cd53c09-594e-45b6-ad71-ffebbe7c4b06/thumbnail/770x578/06a6d9446705bfaef390a3bdbbfb492c/20200117-tiernan-karen-global.png",
-          "width": 770,
-          "height": 578,
-          "title": "What can AI do to fight global warming?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-01-17-ai-weekly-meta-analysis-shows-ai-ethics-principles-emphasize-human-rights.md",
       "title": "AI Weekly: Meta analysis shows AI ethics principles emphasize human rights",
       "excerpt": "One of the trends that came into sharp focus in 2019 was, ironically, a woeful lack of clarity around AI ethics. The AI field at large was paying attention to ethics, creating and applying frameworks for AI research, development, policy, and law, but there was no unified approach. The committees and groups, from every sort of organization ...",
@@ -1075,6 +1031,51 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-01-17-gap-nixes-plan-to-spin-off-old-navy-amid-cost-complexity.md",
+      "title": "Gap nixes plan to spin off Old Navy amid cost, complexity",
+      "excerpt": "Also: Gap picks Microsoft Azure as preferred cloud vendor: Here's a look at the digital transformation ... Either way, Gap will have a laundry list of projects including: Data analytics and data science infrastructure. Machine learning efforts to improve marketing and supply chain. Customer targeting. Executing a mobile-first strategy.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/gap-nixes-plan-to-spin-off-old-navy-amid-cost-complexity/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/gap-nixes-plan-to-spin-off-old-navy-amid-cost-complexity/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/gap-nixes-plan-to-spin-off-old-navy-amid-cost-complexity/",
+      "publishedDateTime": "2020-01-17T03:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2019/07/23/1ce990cb-03ad-4814-af69-e4abc58ddfcc/thumbnail/1200x675/f3e8f8bcd73481326d927b2638178e1c/thumb.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Gap nixes plan to spin off Old Navy amid cost, complexity",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
       ]
     }
   ],

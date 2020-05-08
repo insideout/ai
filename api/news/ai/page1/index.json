@@ -5,7 +5,7 @@
       "path": "_news/2020-05-08-5-reasons-why-artificial-intelligence-really-is-going-to-change-our-world.md",
       "title": "5 Reasons Why Artificial Intelligence Really Is Going To Change Our World",
       "excerpt": "Artificial Intelligence (AI) is one of the most transformative technology trends of our times. In this article, we look at why and how AI is going to change our world.",
-      "heat": 86,
+      "heat": 88,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.forbes.com/sites/bernardmarr/2020/05/08/5-reasons-why-artificial-intelligence-really-is-going-to-change-our-world/",
@@ -42,6 +42,52 @@
         "news"
       ],
       "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2020-05-08-can-robotaxis-ease-public-transport-fears-in-china.md",
+      "title": "Can robotaxis ease public transport fears in China?",
+      "excerpt": "Internet search engine Baidu, China's answer to Google, is rolling out a fleet of 75 of its Apollo robotaxis across three cities in China. Baidu worked with a number of carmakers",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.bbc.com/news/business-52392366",
+      "ampWebUrl": "https://www.bbc.com/news/amp/business-52392366",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/business-52392366",
+      "publishedDateTime": "2020-05-07T18:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/687B/production/_112174762_robotaxi.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": "Can robotaxis ease public transport fears in China?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     },
@@ -394,7 +440,7 @@
       "heat": 75,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.neowin.net/news/google-releases-ai-explorables-to-make-machine-learning-more-accessible-and-participatory/",
+      "webUrl": "https://www.neowin.net/news/google-releases-ai-explorables-to-make-machine-learning-more-accessible-and-participatory",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-05-07T12:30:00-07:00",
@@ -915,51 +961,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-07-robot-software-market-is-expected-to-reach-usd-1348-billion-by-2024.md",
-      "title": "Robot Software Market is expected to reach USD 13.48 billion by 2024",
-      "excerpt": "Global Robot Software Market Research Report by Vertical (Government, BFSI, Retail, e-Commerce, Healthcare, Manufacturing, Logistics and Transportation), by Deployment (On-Cloud and On-Premise), by Robot Type (Service Robot and Industrial Robot),",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/robot-software-market-is-expected-to-reach-usd-1348-billion-by-2024-2020-05-07",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-07T08:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Robot Software Market is expected to reach USD 13.48 billion by 2024",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     },

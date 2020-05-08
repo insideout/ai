@@ -265,43 +265,6 @@
       ]
     },
     {
-      "path": "_news/2020-05-07-artificial-intelligence-is-energy-hungry-solution-new-ai-hardware-made-of-quantum-material.md",
-      "title": "Artificial Intelligence Is Energy-Hungry – Solution: New AI Hardware Made of Quantum Material",
-      "excerpt": "Quantum material could offset energy demand of artificial intelligence. To just solve a puzzle or play a game, artificial intelligence can require software running on thousands of computers. That could be the energy that three nuclear plants produce in one hour.",
-      "heat": 73,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://scitechdaily.com/artificial-intelligence-is-energy-hungry-solution-new-ai-hardware-made-of-quantum-material/",
-      "ampWebUrl": "https://scitechdaily.com/artificial-intelligence-is-energy-hungry-solution-new-ai-hardware-made-of-quantum-material/amp/",
-      "cdnAmpWebUrl": "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/artificial-intelligence-is-energy-hungry-solution-new-ai-hardware-made-of-quantum-material/amp/",
-      "publishedDateTime": "2020-05-07T02:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SciTech Daily",
-        "domain": "scitechdaily.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://scitechdaily.com/images/New-AI-Hardware-777x444.jpg",
-          "width": 777,
-          "height": 444,
-          "title": "Artificial Intelligence Is Energy-Hungry – Solution: New AI Hardware Made of Quantum Material",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
       "path": "_news/2020-05-07-building-transparency-and-customer-confidence-in-ai.md",
       "title": "Building transparency and customer confidence in AI",
       "excerpt": "Chatbots have been designed to make our lives a little easier, with simple verification questions they can answer common customer service inquiries without the need to sit on hold waiting for an agent.",
@@ -1091,6 +1054,52 @@
       "topics": [
         "AI",
         "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2020-05-06-3-artificial-intelligence-stocks-to-buy-in-may.md",
+      "title": "3 Artificial Intelligence Stocks to Buy in May",
+      "excerpt": "One of the biggest tech opportunities over the next decade is artificial intelligence (AI). According to Grand View Research, the general AI market, across a variety of products and services, is set to expand at a huge 46.",
+      "heat": 91,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fool.com/investing/2020/05/06/3-artificial-intelligence-stocks-to-buy-in-may.aspx?source=eptcnnlnk0000002",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/05/06/3-artificial-intelligence-stocks-to-buy-in-may.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/06/3-artificial-intelligence-stocks-to-buy-in-may.aspx",
+      "publishedDateTime": "2020-05-06T07:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/497755/istock_000016851885_large_large.jpg",
+          "width": 580,
+          "height": 378,
+          "title": "3 Artificial Intelligence Stocks to Buy in May",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos",
+        "AWS AI"
       ]
     }
   ],

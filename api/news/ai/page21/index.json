@@ -2,51 +2,6 @@
   "page": 21,
   "value": [
     {
-      "path": "_news/2020-04-16-ibm-introduces-ground-breaking-ai-astronaut-assistant.md",
-      "title": "IBM introduces ground-breaking AI astronaut assistant",
-      "excerpt": "The latest version of the artificial intelligence-powered astronaut assistant, CIMON-2, powered by IBM Watson technologies, was both successfully launched (December 5, 2019) and deployed (February 2020), signifying CIMON-2's completion of the next step in its research on the effects of stress and isolation during long-term missions.",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/ibm-introduces-ground-breaking-ai-astronaut-assistant/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ibm-introduces-ground-breaking-ai-astronaut-assistant/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ibm-introduces-ground-breaking-ai-astronaut-assistant/",
-      "publishedDateTime": "2020-04-16T10:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr4.cbsistatic.com/hub/i/r/2019/11/21/74f82f4c-9bf0-45d0-b25b-dc531bda7522/thumbnail/1200x675/d6c68e9704c02b8e85ffd06c329c02c0/20191031-veronica-karen.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "IBM introduces ground-breaking AI astronaut assistant",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-04-16-eight-storage-requirements-for-ai-and-deep-learning.md",
       "title": "Eight Storage Requirements for AI and Deep Learning",
       "excerpt": "Data is the life-blood of artificial intelligence and deep learning (AI and DL). Vast quantities of training data enhance accuracy in the search for potentially predictive relationships. This paper delivers eight specific storage requirements of AI and DL applications and why they demand the data management capabilities supplied by enterprise object storage solutions.",
@@ -1237,6 +1192,51 @@
           "width": 1200,
           "height": 630,
           "title": "Samsung to tap US semiconductor firm Xilinx’s chips for 5G network equipment",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-16-samsung-and-xilinx-partner-on-chips-for-5g-networks.md",
+      "title": "Samsung and Xilinx partner on chips for 5G networks",
+      "excerpt": "In an email, Manuel Uhm, director of silicon marketing at Xilinx, said these chips work well for 5G. That’s because the AI engines within the AI Core series have been optimized for advanced signal processing, as well as AI inference. In particular, for signal processing, the AI engines were developed with 5G wireless algorithms in mind ...",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/15/samsung-and-xilinx-team-up-on-chips-behind-5g-networks/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/15/samsung-and-xilinx-team-up-on-chips-behind-5g-networks/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/15/samsung-and-xilinx-team-up-on-chips-behind-5g-networks/amp/",
+      "publishedDateTime": "2020-04-15T18:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/xilinx-Versal_Angled-Left.jpg?fit=1200%2C770&strip=all",
+          "width": 1200,
+          "height": 770,
+          "title": "Samsung and Xilinx partner on chips for 5G networks",
           "attribution": null
         }
       ],
