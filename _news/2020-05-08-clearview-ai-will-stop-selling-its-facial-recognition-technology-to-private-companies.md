@@ -54,6 +54,21 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/JgPymIe21_tzx6tv4zRVd9KfmLQ=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66767987/acastro_180730_1777_facial_recognition_0001.0.jpg"
         width: 1400
         height: 933
+  - title: "Controversial face recognition company Clearview AI pledges to stop selling tech to private firms"
+    excerpt: "According to legal documents first reported by Buzzfeed, the company is ending non-government related contracts in response to class-action lawsuits and scrutiny from regulators."
+    publishedDateTime: 2020-05-08T19:25:00Z
+    webUrl: "https://www.dailymail.co.uk/sciencetech/article-8301907/Controversial-face-recognition-company-Clearview-AI-pledges-stop-selling-tech-private-firms.html"
+    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-8301907/amp/Controversial-face-recognition-company-Clearview-AI-pledges-stop-selling-tech-private-firms.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-8301907/amp/Controversial-face-recognition-company-Clearview-AI-pledges-stop-selling-tech-private-firms.html"
+    type: article
+    provider:
+      name: Mail Online
+      domain: dailymail.co.uk
+    quality: 61
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2020/05/08/20/25231512-0-image-a-2_1588965563238.jpg"
+        width: 636
+        height: 382
 
 secured: "g/cGub1TBx3AKMJa4R5uv/1OZSVOSemR+5CcVmpvzTLh3VcXnTDC38wAABTT+zdE+F02xA1dTbR7uAu1QaqqLhCgpH9V0gAal/eLdXVl8jcnl2gmdOnUKHEXUFvQ0u+wtjx/AVgk5yDHwNmExDvd+CgolMxIOztxuzJPR0q4YBi1eIQLob+uplhxVBUeMULxnUfgjDYarDL2g+hdyHdCUozQ+q17JU633cQ0lUu/y1Oz3v28cvIYkqJnzwAkdR7t7E4f+wxf4Yv/NrKlsSakqUYBTXxiD+FSTAUsdMfyC67ZYnBGIoZ5nk33w1JdrVGDJfvjZW/wKGlssRkABw95laeAQMwV68CSSVpsFosNRpHhyhWUmILHX4nx5NPzc4BzsB7cI5dLzIen/IDB82gSqpvHSPi+bcAdXqW2s7GXvxHDHhNlH3bP7cgK/ssimfGsw+3ifoa0VggRhSZ0oRKFup3wTWQt8Lv2kgWydbkEVeg=;tDGF8WPkBnjPC5eF4L5sqQ=="
 ---

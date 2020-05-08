@@ -5,8 +5,8 @@ excerpt: "Knowing the types of algorithms and what they accomplish can help fina
 publishedDateTime: 2020-05-08T17:35:00Z
 webUrl: "https://www.cfo.com/machine-learning/2020/05/understanding-and-assessing-machine-learning-algorithms/"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 images:
   - url: "https://cdn.cfo.com/content/uploads/2020/05/GettyImages-986039996-1024x506.jpg"
@@ -23,6 +24,6 @@ images:
     height: 506
     title: "Understanding and Assessing Machine Learning Algorithms"
 
-secured: "wBxIVm79vwASBjVTigCegNeoYOvh7R8iLQxFgjknCCdH/mWAQutL7Im7Sx2chvS+T5lYFukKqYsFGoOzVvAqa7eOb/r0ZmB8F6c8JsdrBv1X2iJG206jI37905FYYhnKGbfmW9BW7/a7PWB2rd9CDmbzZ5xtbfq9vAOSTsEVtmZBrfPKRkiKNh/iQ5CA/VvQEXplC3oQU8SB6PZEIK6j5qspI++KAdcqiDpLRp/umX+wYYMM/OzjE/LCy13pahmuH+9OCV5UpXqPu3vIM8/hlVLPCJydbt8b5WB1G9vpwX17qc5M408uOfsMKqLIid7Y;xTCkP+5Fwsg4IumQXK2XOA=="
+secured: "kYjr9M9IoV/WzPzPL3ncfl6Y/7JVZ+5HHJQzjNOW8VSZPNbqjvpz6CC4FKH4ZCFhIHIwK1Ie0zeSL8drPBDsuY52QExogb7Nz+9pZLQ0pKixfW5fksJ3/BpAvE1jyvdx4u3RC9WOG6kLiP9wv1E0ZDC7o7a2BsISlBgz7I1Lj9dUo8x8Moj+rCEHQZ7E9m3HVwjZWDgehxpeQtSJ4hJpEHu8qANKMKfVSz9kXqJ1ol9D/pCJqLdjzUU1icmXm6WRf/vh4Ix0fOwZDlzzbotn143B+MKTjwGHuX+XnSx8LgWepJvtvm0BMmc+e1FlM3xXN3srp2Ssl9zKBQVoz4j4ev2l7WQC/k1HbE0jjuq7Ea017rQvDJ5hG0+/m/VWKp4tGPWSfLaC9sZRiUkPhtA1HzGlrapF8HkdNpOKBXIsU6eLk2NQt/lwJa2NbkSvLoemy6gbd5JNhr4mNuOGy4a6LKO0QPHFsWDrK9VlOIeDXFI=;xnEktYm89Cfxr1GtT+iCWg=="
 ---
 

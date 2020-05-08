@@ -1,73 +1,24 @@
 ---
 category: news
 title: "Big Data as a Service (BDaaS) Market Growing at a CAGR 30.5% | Key Player Google, Microsoft, AWS, IBM, Oracle"
-excerpt: "The global Big Data as a Service (BDaaS) Market size is expected to grow from USD 11.3 billion in 2019 to USD 42.7 billion by 2024, at a Compound Annual Growth Rate (CAGR) of 30.5% during the forecast period."
-publishedDateTime: 2020-05-08T02:56:00Z
-webUrl: "https://www.marketwatch.com/press-release/big-data-as-a-service-bdaas-market-growing-at-a-cagr-305-key-player-google-microsoft-aws-ibm-oracle-2020-05-07"
+excerpt: "Large enterprises segment to hold a larger market size during the forecast period. The adoption of BDaaS solutions is high among large enterprises, as they spend a significant amo"
+publishedDateTime: 2020-05-08T02:50:00Z
+webUrl: "https://www.benzinga.com/pressreleases/20/05/ab15986301/big-data-as-a-service-bdaas-market-growing-at-a-cagr-30-5-key-player-google-microsoft-aws-ibm-ora"
+ampWebUrl: "https://amp.benzinga.com/amp/content/15986301"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15986301"
 type: article
-quality: 50
-heat: -1
+quality: 20
+heat: 20
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AWS AI
   - AI
 
-images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
-    title: "Big Data as a Service (BDaaS) Market Growing at a CAGR 30.5% | Key Player Google, Microsoft, AWS, IBM, Oracle"
-
-related:
-  - title: "Big Data Market Size, Market Share, Leading Players and Forecast to 2023"
-    excerpt: "The global big data market is expected to grow at a 13.35% CAGR from 2018 to 2023. Towards the end of the assessment period, the market is likely to surpass a valuation of USD 81,"
-    publishedDateTime: 2020-05-07T18:31:00Z
-    webUrl: "https://www.marketwatch.com/press-release/big-data-market-size-market-share-leading-players-and-forecast-to-2023-2020-05-07"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 53
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Russia and NATO Artificial Intelligence in Military Market Growth, Leading Players and Forecast to 2027"
-    excerpt: "The report covers a forecast and an analysis of the Russia and NATO artificial intelligence in military market. The"
-    publishedDateTime: 2020-05-08T12:32:00Z
-    webUrl: "https://www.marketwatch.com/press-release/russia-and-nato-artificial-intelligence-in-military-market-growth-leading-players-and-forecast-to-2027-2020-05-08"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 53
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Global Big Data Market is likely to surpass a valuation of USD 81,500 million"
-    excerpt: "The global big data market is expected to grow at a 13.35% CAGR from 2018 to 2023. Towards the end of the assessment period, the market is likely to surpass a valuation of USD 81,"
-    publishedDateTime: 2020-05-07T18:31:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-big-data-market-is-likely-to-surpass-a-valuation-of-usd-81500-million-2020-05-07"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-
-secured: "Vt0bAJfM5MT4hp2NeyILrY3L477hFVTxCK656N8B6oSIRqbbobPT5TZtC9QF3Lr1tQYEZnZ/cXcfSwocmo1Xl4Tj2oLwRjdH3IiuVXJguGD04BvAILrazZMfUFsHZKbDEQiIqxOnT37lp3gK0IGVYEaMH3F2XGfKpqI9zQlfkH43B1QukIEMrgaQ4GXjtZChn0OgeTbnMkS72MRZtcC1xbU27N6ldRgFVjo7hAfxvNydwwjvvGIAn44StL/yR0GOk9Yk+0iHeAXina3QRzmMKMWWGkFgzfZfNPtBxrADU+gbOyjC3FbfCfJnUP8+RYTl;PcjJS7JFWOocRX7nXuDKzA=="
+secured: "OjMMrXHv5Bhgy/sFQxpEoqKaPmOenktlGGtF0JArteM1HYGUPt118mybMmRqO37syKCeK2LTxMs332EZVLP5mjxK2JM2KND7FSlmtDGautiwYmcT2rZrUnfFZ20si3rLCbEnT+710F07fo8e5XYCI2xGS2vCmRrOKb6pPCfWJXFH4Nak8/PC7j555LXHRjtYtVZ9VKs2KJ8UPf/XBcvwTLF/aMLcgYhM7GPkDf/laAgWr66vzxj9OyZavBsXS/+rhlFyFiebY6RhwpgLPlSgeCnsPJE8UCTWKRHjGiGNGZj8/8yiwBlKe8GmDBBt4BYztRoxzMd4OVrd/7vY5T55aRt4yP67/yBNlpFEYe9/peHvnG6Iyd4uWIKs9pzE7pbgzbO+UnZfnyVrrrPm+xrCTs3GR93KDB/3flkPS+wR5+hJyWXSHSLelHDpUWaTkS6rl/93A6gAM/rn8fhihxOkALiIYHBxEa2Z2wzKO+9LN9I=;gogE+ZVQJESDhyoG66T+mA=="
 ---
 

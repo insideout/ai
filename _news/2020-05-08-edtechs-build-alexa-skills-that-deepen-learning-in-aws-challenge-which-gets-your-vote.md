@@ -25,6 +25,6 @@ images:
     height: 260
     title: "Edtechs Build Alexa Skills That Deepen Learning in AWS Challenge. Which Gets Your Vote?"
 
-secured: "WwHj7RxUGSsY/gTscr1+TDg2PzrCPpbye/Q6XyZT7fgWfi5TZ89YyAFf91LXhrq2gpQ125xaI76LL7yB4p+vzeedCRwIYap4IYRF6fZo7CP8kQYpZru9T+NfWMpWvP5vEXowyKzyqcBxFdnV051uVnPKFDRAE4iK9c/w9Q7pnmXe4oqK1wPMBbkCdZSYbTXwO42Y0tc6jnzeeKOoejbu6K9i7SRX49H/jlmtIt1TLZZtEO/VJYgWQTcoInRcTZqpd17N/qSRG++V4BmT7lLgOENClf82qHzlwrcvTv0gKGHhMHwXMpooe4rh+cylR+7C;wmW9OtfNmmJJjEMtzrOtiw=="
+secured: "CQh06cKYVGdYdGqCrScgcmoqqBcyUuKmPyC1sUO6V8Inr8UEq+f2IYgVzAwCFqPxjgnrlWu5pgRjtAeI7epT77tz40bPTaT6QBaTcH4dA3hEf5Ftai78cxGMeoq7zlwDhvKheoIU9VZja37/Ap9/JoVpC/cp/G6yY7YqdZpS43iy2sZtdE2o46LpesA4EPYn4mJAn1ybuHCOvDfw72VohTV6vW4lE2O9avhF0ECewc4kxXDuk16hgytA+bT1EXO0G8DJFNKNTeKbbX9PNdtDUUlBUSWYed8bPVJaAI5JvKZRPH+T2XJ1+YBHOU4LFqHkMx7b91NWJ4wQp0+E57KbIFyPHYrAbxfugfJj2XHuw9/WbEujo9FcFV30p47G4/rWsvmGnT4TJyVfOmgdD3EgC+FHEpY+RcdUg+i0KAOnfbBz+pe/oLPo82qtmAJv8KkkCjm7yS8wdiQ68o/gb8Yyc9acEdCUEOhpYoYd0o+7EsU=;7Tn6i5qNGa/5St5yVsuHwQ=="
 ---
 

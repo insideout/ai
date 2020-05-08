@@ -1,21 +1,25 @@
 ---
 category: news
 title: "AWS Announces General Availability of Amazon Augmented Artificial Intelligence (A2I)"
-excerpt: "Today, Amazon Web Services (AWS), an Amazon.com company (NASDAQ:AMZN), announced the general availability of Amazon Augmented Artificial Intelligence (A2I), a fully managed service that makes it ..."
-publishedDateTime: 2020-04-24T13:17:00Z
-webUrl: "https://www.benzinga.com/pressreleases/20/04/b15876750/aws-announces-general-availability-of-amazon-augmented-artificial-intelligence-a2i"
-ampWebUrl: "https://amp.benzinga.com/amp/content/15876750"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15876750"
+excerpt: "that allow machine learning predictions from Amazon Rekognition and Amazon Textract to be human-reviewed more easily. Developers who build custom machine learning models in Amazon SageMaker (or other on-premises or cloud tools) can set up human review for ..."
+publishedDateTime: 2020-04-24T17:59:00Z
+webUrl: "https://www.businesswire.com/news/home/20200424005488/en/AWS-Announces-General-Availability-Amazon-Augmented-Artificial"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "ssDQXAHnNiWBstJl85arjCHYSdYN7iTWcbe8brViWdZwTofCj2fZsGzqbJUTtzR5HBOzvBPKPZQQZwcEnRzFkR6D22ordy7A4uvYF/ydKWiCIMdbjXHVXj2Mq7uc2Zom+sbtlao6vygO8ShqNRSYGy3sZ7O1MwyI1QQTEWjCQ0UO50CdXNHN4tEVoSxAJZ8CL+2j2nkpByborrhWdCMUjZoxaMh7qKNKp9aGut2NI/4KY8/nwRw0UpONsUqc/tMry1oxxPTHxvEAAK9hao7Wj2m13kCy3mkm0kvc3BHAxJaiWmYT+1eEwUqfDdtFNB0I;9can/xeyy3M2Fl65CAwVQQ=="
+images:
+  - url: "https://mms.businesswire.com/media/20200424005488/en/787122/23/AWS_logo_RGB.jpg"
+    width: 1200
+    height: 627
+    title: "AWS Announces General Availability of Amazon Augmented Artificial Intelligence (A2I)"
+
+secured: "xjGFRWJBiAx6CCVuX6wO6j0DaUB2oh43mhUK5xWpvjf5gSux55U3DOuj/Ldq3plW9BzTbkg4DKn6i31KDTsOYz2zj9MaD2kAGHIIu8hM084Fr8lis+znwInO+Dn/NWApwJ0bVeX/rymrfUo8eGCvkK81UaxnI3V6uzC7kxl4V7MqsYf304NxkAWR/RGQZ3vqLDOLXy0tOSWQSpu712qJVJoJkSlI50dqrfsZmH68PZHWWzheWImfTR0dbDI17gUOMs1AOoyiCCOM26zrF4qW7E1pFcOsHZ+quw+KAdbmBdFjmIMhTqLbXsoAQ0EnD1kx;StQim3xkYE1+DM/KGmlGOg=="
 ---
 

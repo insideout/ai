@@ -54,19 +54,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Big Data as a Service (BDaaS) Market Growing at a CAGR 30.5% | Key Player Google, Microsoft, AWS, IBM, Oracle"
-    excerpt: "The global Big Data as a Service (BDaaS) Market size is expected to grow from USD 11.3 billion in 2019 to USD 42.7 billion by 2024, at a Compound Annual Growth Rate (CAGR) of 30.5% during the forecast period."
-    publishedDateTime: 2020-05-08T02:56:00Z
-    webUrl: "https://www.marketwatch.com/press-release/big-data-as-a-service-bdaas-market-growing-at-a-cagr-305-key-player-google-microsoft-aws-ibm-oracle-2020-05-07"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 50
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
 
 secured: "y85jgY1HoBsC7rxzDtdrhPcXVLbfpN9fpTNzGJxF+JWEjtTviZ9paJmN4uPthLEdRU32U+hpmUE3kZMdBOBHFB+o2Ke8Jj63PzipvuHhpjUdPhWSVFxT+n8bZnIJNOEuACdaoYPoDZtPFhGUJsBlTpLlSCH25DKNrKahg4ayFeqJdAu6Qs46oLvKXOzG0IQJX+wPY6jfLamlV6fLiqAAuZ0fLOB+R+YTGgDLTxnyuD1KRdWnZbM2TTBoYPNMOOxicULuqMfcEa6GxK/r7zMwY+xmX0CBOaAhFbaYqIjdpOe7t/bRNZRNMTVC832hMadw;IpPvX7elhHi/f9fHQcGDfw=="
 ---
