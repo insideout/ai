@@ -28,6 +28,6 @@ images:
     height: 600
     title: "Vector Institute’s AI makes predictions about random events like market trades"
 
-secured: "v6YhMtupaVCgizwglYjhA6XcWGkZNbiO/DNpOmz5TxydFW9Rh+ROcPrelXbDS+Lmx8vEXSrWCrBqkmtuf/6LiEfmeiZ6PdXkb0/YsGHIvH40dG9N9VH4Cq/KLjY8IBhtseS2TiWZvr8wO/h4tsJi0uvMxZIiraPLJxUGnDB/RIoBenCh3nnYAdqPo0mHYVmBcLbZRzTwEBg95GjDHbHbTuXQGTq7b0G5OW/koBPXrmmgdQnFnpIiJ/UIeC//QGxP6mfCuJr62smeythqOYIVFxm69wbvM8V0vZ61p9Q1hx3IiAt1wmhCWki/s8V+8IZD;k6vkxl2trbLB6t8I/v4NUg=="
+secured: "p47M0uHBeD+D+8t9jfjQniyLGxvo2u0XCZXmC8bhDyx1mjrETAj6tjg1QvvNuP9C++7o4PQX8/3dm9MUpnNmllEwTVmrCBCTtreURelNJ6LziBVIVsvoEoX7UfJx8LhJ2E5y8vAI/Rz0QY+51KoNBXkvCvxKoH/4zJ/R6JfuYLq9Wauo/ZEA0IENPsSpBbW1r8XnmTnNRVJIErWHDE1E+qqRaEQICANMH4tA6rPN3Z7YYHWPKm9zsu7lSifXjcysWRQgRkcTZeUz38TQ8flbyjwvIF+4IgEYkX4mKaZ7NJIsW78o5knMH79rSit50/t4trz2VHUtoH2QQ1qKXanQSsAVN/RyNmw6U49SUhYMnLWNHWbivF3gHGUfDjsZ8XetUcl5LdZBDhfEepCrmuE4jbvQa+gId+ZQXoS3LmcnY/EOr4ZEY1eE9WqRO8YhiKJaJjiJLXMLgeLSmy/aRAI5j0cD0/1ifPRVopVGcNHOlaM=;T8mF/3uIXGezRF/iY6hyTw=="
 ---
 

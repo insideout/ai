@@ -1,28 +1,28 @@
 ---
 category: news
 title: "Computer Vision = Better Service + Lower Costs"
-excerpt: "Network news, trend analysis, product testing and the industry’s most important blogs, all collected at the most popular network watering hole on the Internet | Network World"
-publishedDateTime: 2020-05-07T15:22:00Z
-webUrl: "https://www.networkworld.com/resources/202638/computer-vision-better-service-lower-costs"
+excerpt: "Computerworld covers a range of technology topics, with a focus on these core areas of IT: Windows, Mobile, Apple/enterprise, Office and productivity suites, collaboration, web browsers and blockchain,"
+publishedDateTime: 2020-05-07T15:15:00Z
+webUrl: "https://www.computerworld.com/resources/202638/computer-vision-better-service-lower-costs"
 type: article
 quality: 39
 heat: 39
 published: false
 
 provider:
-  name: Network World
-  domain: networkworld.com
+  name: Computerworld
+  domain: computerworld.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://idge.staticworld.net/nww/nww_logo_300x300.png"
+  - url: "https://idge.staticworld.net/ctw/computerworld-logo300x300.png"
     width: 300
     height: 300
     title: "Computer Vision = Better Service + Lower Costs"
 
-secured: "/D4LXlGKEJwSS1REvxe76WwI0OCs5BZFPj+xDuZYT5OjzmtiJy+PQPMfFt8mivDx7anVRtgJqL0nPV2bPoYKac9uS+EZoy6my1MaZYlSUH9TpxsooHEFzfoG4JH1AzbG5w38ibO7MhhLKDNwn8ksWuLS4pwNTd1Jw7weHVFN67xD/YaUkFUinmDFYMPU3Gb/xX9RVGh26usJlQrDUosjA6/+slFUXNJbfw/+HcMquhOiCKxTdq1E3e7Ld1bk3TApldt5hkzlWn1gfYY3SK496IBMQxvLPWniwv1+kPhFRkcSCAzKZdJsKCvuOVFP1xE6;d4tVSKPVkLqxiPPM51T9Pg=="
+secured: "PSqrcYpDexfsa9AbQw07XOHmr6W6EChzq4MR66tJI5MHInxUMXa5WeoQ7YAxAYdG1mfk/Ra36NIeSycZDYSa520crhHqy7RUTm8CMOsSrutXIw4OVc2/S1vmN/aqzcbdzqXp7J6dnjY8f9smfaro538+15/yUBj35oLfvgh5TIHVAI//ab/KRuskcYaBJ7xZzjcRPLuzWrAjNvIvh4amDPuvpB1WgzdEaK2iVlwH8W9yXvAHqObi2Kxq2PylZ/WeX2s2giAxwSJWsfbeelIkINFF57rEZ/pcT00ia+l4VlxCX69UAvKdxu3PfM9IjhdZ;GBiphYyPF8RGGInnhY2byQ=="
 ---
 

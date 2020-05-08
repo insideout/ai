@@ -6,7 +6,7 @@ publishedDateTime: 2020-05-06T00:01:00Z
 webUrl: "https://www.ibm.com/blogs/watson/2020/05/women-leaders-in-ai/"
 type: article
 quality: 102
-heat: 103
+heat: 102
 published: true
 
 provider:

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.infoworld.com/article/3541825/ibms-new-ceo-lays-out-his-
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3541825/ibms-new-ceo-lays-out-his-roadmap.amp.html"
 type: article
 quality: 74
-heat: 75
+heat: 74
 published: true
 
 provider:

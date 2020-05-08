@@ -8,7 +8,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2020/05/06/women-in-tech-jobs-in-artificial
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/05/06/women-in-tech-jobs-in-artificial-intelligence-grow-amid-coronavirus.html"
 type: article
 quality: 84
-heat: 85
+heat: 84
 published: true
 
 provider:

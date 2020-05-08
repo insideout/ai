@@ -8,7 +8,7 @@ ampWebUrl: "https://techcrunch.com/2020/05/06/runai-brings-virtualization-to-gpu
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/06/runai-brings-virtualization-to-gpus-running-kubernetes-workloads/amp/"
 type: article
 quality: 104
-heat: 105
+heat: 104
 published: true
 
 provider:

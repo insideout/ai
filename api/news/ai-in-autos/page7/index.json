@@ -2,6 +2,89 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-03-19-comment-busting-the-myths-of-autonomous-vehicles.md",
+      "title": "Comment: Busting the myths of autonomous vehicles",
+      "excerpt": "The electric and driverless vehicle offers a vision of the future – but JLR promises it ... taking up less space on the road and allowing traffic to move in a mathematically optimised way. The artificial intelligence behind the vehicles should allow for traffic management; cities with autonomous networks will be able to manage the flow ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://fleetworld.co.uk/comment-busting-the-myths-of-autonomous-vehicles/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-19T05:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fleet World",
+        "domain": "fleetworld.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://fleetworld.co.uk/wp-content/uploads/2020/03/Alfonso-Martinez-091.jpg",
+          "width": 1024,
+          "height": 768,
+          "title": "Comment: Busting the myths of autonomous vehicles",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-19-explaining-machine-learning-models-to-the-business.md",
+      "title": "Explaining machine learning models to the business",
+      "excerpt": "Explainable machine learning is a sub-discipline of artificial intelligence (AI) and machine learning that attempts to summarize ... H2O.ai Figure 1: Explanations created by H2O Driverless AI. These explanations are probably better suited for data scientists than for business users. For issue 1, I’m going to assume that you want to use ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.infoworld.com/article/3533369/explaining-machine-learning-models-to-the-business.html",
+      "ampWebUrl": "https://www.infoworld.com/article/3533369/explaining-machine-learning-models-to-the-business.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3533369/explaining-machine-learning-models-to-the-business.amp.html",
+      "publishedDateTime": "2020-03-19T03:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.techhive.com/images/article/2016/03/thinkstockphotos-523692007-100648034-large3x2.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Explaining machine learning models to the business",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-03-19-self-driving-car-companies-suspend-testing-on-coronavirus-concerns.md",
       "title": "Self-driving car companies suspend testing on coronavirus concerns",
       "excerpt": "Major self-driving car companies have suspended their ... Other companies to have ceased testing include Pony.ai, Baidu Inc., Zoox Inc., Nuro Inc. and Yandex NV. One notable exception is the ...",
@@ -1056,80 +1139,6 @@
           "attribution": null
         }
       ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-10-ubers-self-driving-cars-to-cruise-san-francisco-streets-once-again.md",
-      "title": "Uber's self-driving cars to cruise San Francisco streets once again",
-      "excerpt": "Uber's self-driving cars are back on San Francisco's streets in full autonomous mode after a two-year hiatus. The move comes after one of the company's cars was involved in a fatal accident ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnet.com/news/ubers-self-driving-cars-to-cruise-san-franciscos-streets-once-again/",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/ubers-self-driving-cars-to-cruise-san-franciscos-streets-once-again/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ubers-self-driving-cars-to-cruise-san-franciscos-streets-once-again/",
-      "publishedDateTime": "2020-03-10T12:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cnet2.cbsistatic.com/img/zaSXhbmBw7XTe5v8-kcJNSzHt5Q=/756x567/2016/12/12/5e3fa950-a136-40b2-b361-32d5a2055329/uber-mapping-car-7145.jpg",
-          "width": 756,
-          "height": 567,
-          "title": "Uber's self-driving cars to cruise San Francisco streets once again",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-10-automated-material-handling-equipment-market-insights-potential-business-strategies-mergers-and-acquisitions-revenue-analysis.md",
-      "title": "Automated Material Handling Equipment Market Insights, Potential Business Strategies, Mergers and Acquisitions, Revenue Analysis",
-      "excerpt": "New York March 10 2020 The scope of the report includes a detailed study of Automated Material Handling Equipment Market with the reasons given for variations in the growth of the industry in certain regions The Automated Material Handling Equipment",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.openpr.com/news/1960887/automated-material-handling-equipment-market-insights",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-10T08:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
       "locale": "en-us",
       "categories": [
         "news"
