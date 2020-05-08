@@ -1,44 +1,21 @@
 ---
 category: news
 title: "Artificial Intelligence in the Indian Manufacturing Industry, 2020: Trends, Insights, Use Cases, Case Studies - ResearchAndMarkets.com"
-excerpt: "The \"Artificial Intelligence in Indian Manufacturing Industry 2020\" report has been added to ResearchAndMarkets.com's offering. Manufacturing companies in India have been digitizing their plants with advanced process controls,"
+excerpt: "The \"Artificial Intelligence in Indian Manufacturing Industry 2020\" report has been added to ResearchAndMarkets.com's offering. Manufacturing companies in"
 publishedDateTime: 2020-04-28T09:12:00Z
-webUrl: "https://www.businesswire.com/news/home/20200428005405/en/Artificial-Intelligence-Indian-Manufacturing-Industry-2020-Trends"
+webUrl: "https://www.benzinga.com/pressreleases/20/04/b15892540/artificial-intelligence-in-the-indian-manufacturing-industry-2020-trends-insights-use-cases-case-s"
+ampWebUrl: "https://amp.benzinga.com/amp/content/15892540"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15892540"
 type: article
-quality: 9
-heat: -1
-published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Robotics
   - AI
-  - IBM AI
 
-images:
-  - url: "https://mms.businesswire.com/media/20200428005405/en/371054/23/ResearchAndMarkets_800px.jpg"
-    width: 1200
-    height: 627
-    title: "Artificial Intelligence in the Indian Manufacturing Industry, 2020: Trends, Insights, Use Cases, Case Studies - ResearchAndMarkets.com"
-
-related:
-  - title: "Artificial Intelligence (Ai) In Healthcare Market progressing at a CAGR of 40.48% during the forecast period 2020-2027"
-    excerpt: "The Artificial intelligence in the healthcare market dynamics, forces, companies and trends have been determined after conducting"
-    publishedDateTime: 2020-04-28T21:12:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-progressing-at-a-cagr-of-4048-during-the-forecast-period-2020-2027-2020-04-28"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 77
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-
-secured: "CygU6VgkKZ5ibMDSsHUm8uXIohHd6O4EtQGmc43N/L+xWLgV/h5tPffUxlxnZo9XLnnQ2rw1YEFnHPDalj9o7fEjHbctGNQxnZJjb1xvKFG0Bt703usqF46C+8dJdTbN6ZijFeQUpjO+C/l2tBuobmMPu/WgrceTTPw1j1uKh319cvMaQtQbX2cHsyjqB2OjfNeRudrPhMO2qasyTScXcSgG4ljt/3SfYKwyeQuBr98feI4rVCYj3RKA45qkIIJngF7nbYK4tCLduCVsXiRPIurxSeaA3Ecu1feecrzFXmL2MHXTv3NyRV9hVMEqxmmAHLjzo9hnrMp9VjtZ7xBA8GEL7Q9ThgxlRfT5jrbBoStm4LIwlDBTV6/GuPEIhgywCS5mJndhxjYRLHoNdLLWL5Dofj9zHIGq5Z6ob4Lpnx1Su1qUZFEk3AE194LhQgNj6B0KdlTgYzL4OvYjIh67//T9UDHeF3Xj2M6SiuF8y6M=;AptN0O4fV5pg8upnni2QYg=="
+secured: "Eo4AuRx6M9Am653j5Gt94UMghFcRBPqN2siPv9lNFEjKUkwoo6mtxTlWboJs1yIG93wZj4loGA1/mgNtbtXY0QmAnR0rW4FU0/o6GFt38DToBfNCrISVOlNHAwh/mE//bCgwf7oCyjFK5c8XcR1QjyVYt9kPK+W72jGUDFS2B9v7gF5CL52tETjLBhdN1tzKoRkP0VnOFAWXTGXcnRdgXguOKehy8J28IiavVz61KVJokSnar5f8jZV6LlMoNnYJCGm2lgFxHrIIrYXPZqC3zuSEFbA4XjyTLDm83zzLG1HSWOSRiiSLQ85Hq97XHJ7E;Lqn+xpbYkR56Uet2505NPQ=="
 ---
 

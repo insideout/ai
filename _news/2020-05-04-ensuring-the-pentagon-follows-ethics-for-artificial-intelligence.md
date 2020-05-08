@@ -5,8 +5,8 @@ excerpt: "By thinking hard about the Pentagon's new principles for artificial in
 publishedDateTime: 2020-05-04T01:08:00Z
 webUrl: "https://www.c4isrnet.com/opinion/2020/05/03/ensuring-the-pentagon-follows-ethics-for-artificial-intelligence/"
 type: article
-quality: 37
-heat: 37
+quality: 54
+heat: 54
 published: false
 
 provider:
@@ -15,6 +15,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://www.armytimes.com/resizer/u3xhgLEP7y5BqoXGfUiP9Vk1REk=/1200x630/filters:quality(100)/arc-anglerfish-arc2-prod-mco.s3.amazonaws.com/public/GTEUDWH56JAEPE3NVL3MWEG3FQ.jpg"

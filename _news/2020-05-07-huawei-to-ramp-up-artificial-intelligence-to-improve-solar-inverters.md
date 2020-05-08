@@ -22,6 +22,6 @@ images:
     height: 425
     title: "Huawei to ramp up artificial intelligence to improve solar inverters"
 
-secured: "bOtZDerZ1IYVthZRVCKmmRftZxmdg4eKdg05Xo7vh6+WN8avcqfNy8LtVT5lXd16MOHA+B3WVXzb7QJeyFIZIrWcZ+Rdx8jZ0Cs+h0tiQjXIZttsn5uBf9MmqebRMVA8TtF+Rd5E9BFUNDr8yJJwl/mRI93i7M7Iyp8UUWNinFLy6BLtYwhqhp5HcAQ/nkREr2z9bzcKgjO6mSedEAK//mgLyJaYgkqJIn7ggi/x0eJn0RzcMIlTx+hZju72aS8EzmVWshFy9c1q1NxU9qOTpNwdfkxkiFGeBmx6PD/t9zuFodS651s2SeNOln/mkNjs;KfrQwDXcsOi/C+LE2JPd7Q=="
+secured: "seP50gLCE/8fcSnFqr5fmf4Sp+gEr6W/dYlorzJGEbQT/UgPbg6EtmrExNVrxWvvSjQ/QGG/TGVX3M6t96DNLl8f/XspwnzvyLEOAsx3XZoFMDm7GlIkz1r1IS7z397FGeo9wD/iNySjXJI6qJWtQnz9d+YTePXZVW84Cs+8Egr0cAveaGLUEHxYmb7Iy1pShUOHvwT+eH9GoK1cwQ7ZthnZA/STMn4Je7INW5Ex9i0jOygxGmkzaZfjxKPGUmyBz8bpawB7p0Jt5WB37QoJBr2CcENLn7de/lyqSEgx8VvLBgtB98VDltGJTimiem5EphPW9pxnjuD0SBdbeU3vCtdfg7iBWJgbrASQaxwzJhNMiKE45m+5h1DpDvfYMhPgh5vwAoAT+3Z+Dev/KEP+5CTywVkYZq5/bvdNQnwAjjKWRcBll11uuGh921+GQ2LaGN58FT5Az/hF8ULUOK6RMc/OeiN5OShHgDey19aWNUg=;6KIrX1nqj4ht9C0AE8Z+IQ=="
 ---
 

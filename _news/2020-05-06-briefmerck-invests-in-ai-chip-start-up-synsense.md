@@ -26,7 +26,7 @@ related:
     provider:
       name: CHEMIE.DE Information Service GmbH
       domain: chemeurope.com
-    quality: 39
+    quality: 56
     images:
       - url: "https://rs1.chemie.de/images//131135-76.jpg"
         width: 832
