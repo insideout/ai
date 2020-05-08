@@ -18,21 +18,21 @@ topics:
   - AI
 
 related:
-  - title: "Vodacom chooses AWS to help deliver services to business clients locally"
-    excerpt: "AWS announced that its Cape Town availability zone is up and running, with a data centre presence now in the region. The move has been welcomed by all, and now Vodacom has confirmed that it will be partnering with AWS when it comes to delivering services to its business clients."
-    publishedDateTime: 2020-05-07T09:15:00Z
-    webUrl: "https://www.htxt.co.za/2020/05/07/vodacom-chooses-aws-to-help-deliver-services-to-business-clients-locally/"
-    ampWebUrl: "https://www.htxt.co.za/2020/05/07/vodacom-chooses-aws-to-help-deliver-services-to-business-clients-locally/amp/"
-    cdnAmpWebUrl: "https://www-htxt-co-za.cdn.ampproject.org/c/s/www.htxt.co.za/2020/05/07/vodacom-chooses-aws-to-help-deliver-services-to-business-clients-locally/amp/"
+  - title: "Vodacom Welcomes Launch of AWS Data Centres in South Africa"
+    excerpt: "Vodacom is an AWS Advanced Consulting Partner with operations across the African continent, so naturally we are very pleased that they have made the decision to invest in the South African market, as well as the broader African market,"
+    publishedDateTime: 2020-05-08T09:51:00Z
+    webUrl: "https://www.itnewsafrica.com/2020/05/aws-partners-with-vodacom-to-improve-business-and-cloud-solutions/"
+    ampWebUrl: "https://www.itnewsafrica.com/2020/05/aws-partners-with-vodacom-to-improve-business-and-cloud-solutions/?amp"
+    cdnAmpWebUrl: "https://www-itnewsafrica-com.cdn.ampproject.org/c/s/www.itnewsafrica.com/2020/05/aws-partners-with-vodacom-to-improve-business-and-cloud-solutions/?amp"
     type: article
     provider:
-      name: Htxt.Africa
-      domain: htxt.co.za
-    quality: 58
+      name: IT News Africa
+      domain: itnewsafrica.com
+    quality: 59
     images:
-      - url: "https://www.htxt.co.za/wp-content/uploads/2019/05/vodacom-logo-header.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://www.itnewsafrica.com/wp-content/uploads/2020/04/AWS-696x458.png"
+        width: 696
+        height: 458
 
 secured: "hYsy4e9gSnFSJIFfU/HAQZbDDjnLMHCcUGdBHT9DTTop4B0ib7labkX7lSBU7v6+Jxvsuca+QpY9kt0EJYjvUUvUBjPIxk79VroM5eaXCVhIEzyKiZrgixGEAj+xytXlQglQRhGEGX6dy2DLN0SnhADv4SngwguicjM10Ura9veKLBEzfW5QX9ys3J0zIt6SwUsc8JY+cEgRntvsPXDxT+o2EU7MNwk4osxHiQ5xu90SjOXEKpoUshebd0lhXr1vQU4T91f8vFEjyAMrSg4TRM+LWwoEI9Sv77FPk98olB2qUL3yXT+HVchgSuRaVAtN;QbWjtg/pBDg8NzO4sxSBxA=="
 ---
