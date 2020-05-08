@@ -8,7 +8,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/350214"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/350214"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -27,6 +27,21 @@ images:
     width: 600
     height: 338
     title: "3 Tips to Find a Good AI Partner for Your Recovery"
+
+related:
+  - title: "3 Tips to Find a Good AI Partner for Your Recovery"
+    excerpt: "Savvy business owners have already begun to prepare for the new normal, taking advantage of the opportunity to arm themselves with new tools for the future. That's not to say recovery will be easy for everyone,"
+    publishedDateTime: 2020-05-08T16:45:00Z
+    webUrl: "https://www.stamfordadvocate.com/business/article/3-Tips-to-Find-a-Good-AI-Partner-for-Your-Recovery-15254593.php"
+    type: article
+    provider:
+      name: StamfordAdvocate
+      domain: stamfordadvocate.com
+    quality: 37
+    images:
+      - url: "https://s.hdnux.com/photos/01/11/75/30/19387909/29/rawImage.jpg"
+        width: 2000
+        height: 1333
 
 secured: "xlj9E7sfLJV+UaVoD8zlnU3Te+a/Qg1Q/HgsRlIzs5A8V7FzOlD8UoIEQKJ2gm+mTH2IbOT8+6c/V5JhBUP+DhRcFBJogz9TBOLwnFKi3YGkGUQE2ZOjsStkVlBhcvfpyxt3g+ZkzuI1hSNl/DXbMZvKQ6VU9VtmGKRMhifaSSxUYJN4EcUBf2xsUp/9V2jNL1Y4HHQbodXEuGGn+RfCHnvaojWi+5yCK7B4V1rvKHcBuoQcvgjoqtXXDCbKGhiJo5jBATwQdsa1KG7yTpaV9Bfci1qErUiJGrGW2Z6Gdqipqs4Gtld07yZwxrCxKYyy45n0u/v4Up7QQ86oZvEN2zksTs3nZbT2wMYIGe1PKFLtseNDSdh8sIgmzlHlaVHkOUORQRFjvl81js2H6qxFt8QLCH1un7YAmyKxhMucwb5uKybrD4XFP86rPr/E/zU/icURo3dbyOjaJmjzdOJOyRIUygugjedKF6jQ2BCYl8U=;jY2sXV5e9vdgQcpPfFmfZA=="
 ---

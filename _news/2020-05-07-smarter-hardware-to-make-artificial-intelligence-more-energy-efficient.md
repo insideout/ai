@@ -33,7 +33,7 @@ related:
     provider:
       name: Purdue University
       domain: purdue.edu
-    quality: 33
+    quality: 35
     images:
       - url: "https://www.purdue.edu/uns/images/2020/hand-aiOG.jpg"
         width: 800
