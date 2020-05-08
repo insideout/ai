@@ -323,6 +323,43 @@
       ]
     },
     {
+      "path": "_news/2020-04-29-covid-19-insights-quantzigs-latest-success-story-illustrates-how-multi-touch-attribution-analysis-solutions-can-help-e-learning-companies-drive-conversions-and-improve-rois.md",
+      "title": "COVID-19 Insights: Quantzig’s Latest Success Story Illustrates How Multi-Touch Attribution Analysis Solutions Can Help E-learning Companies Drive Conversions and Improve ROIs",
+      "excerpt": "Quantzig, global data analytics and advisory firm, that delivers actionable analytics solutions presents a new case study series that focuses on how coronavirus is impacting businesses across geographies.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businesswire.com/news/home/20200429005776/en/COVID-19-Insights-Quantzig’s-Latest-Success-Story-Illustrates",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-29T11:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20200429005776/en/570204/23/Quantzig_Logo.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": "COVID-19 Insights: Quantzig’s Latest Success Story Illustrates How Multi-Touch Attribution Analysis Solutions Can Help E-learning Companies Drive Conversions and Improve ROIs",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-27-aws-launches-human-review-service-for-machine-learning-models.md",
       "title": "AWS launches human review service for machine learning models",
       "excerpt": "AWS has launched a service that improves machine learning model accuracy by continuously identifying and improving low confidence predictions. Amazon Augmented Artificial Intelligence (A2I), which is now generally available,",
@@ -1229,43 +1266,6 @@
           "width": 1200,
           "height": 878,
           "title": "Fintech Company PayBy launches Mobile Payment Services in the UAE",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-27-ransomware-against-the-machine-how-adversaries-are-learning-to-disrupt-industrial-production-by-targeting-it-and-ot.md",
-      "title": "Ransomware against the machine: how adversaries are learning to disrupt industrial production by targeting IT and OT",
-      "excerpt": "This has caused insufficient or late supply of end products or services, representing long-term financial losses in the form of missed ... for example human-machine interfaces (HMIs), supervisory control and data acquisition (SCADA) software, and ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.continuitycentral.com/index.php/news/technology/5008-ransomware-against-the-machine-how-adversaries-are-learning-to-disrupt-industrial-production-by-targeting-it-and-ot",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-27T06:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "continuitycentral.com",
-        "domain": "continuitycentral.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.continuitycentral.com/images/banners/IRMCC270x600.jpg",
-          "width": 270,
-          "height": 670,
-          "title": "Ransomware against the machine: how adversaries are learning to disrupt industrial production by targeting IT and OT",
           "attribution": null
         }
       ],

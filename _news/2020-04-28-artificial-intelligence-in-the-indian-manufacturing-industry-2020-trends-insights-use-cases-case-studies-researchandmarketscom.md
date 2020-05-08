@@ -20,6 +20,6 @@ images:
     height: 627
     title: "Artificial Intelligence in the Indian Manufacturing Industry, 2020: Trends, Insights, Use Cases, Case Studies - ResearchAndMarkets.com"
 
-secured: "qtNcJEqwdzJMtfiRJGRk1VrSrpU5vjpfK3xEEmGBg/TZjy5ZkGgHPIBl6ajYoHBgf8X6tEFC+pBnQt4ej2+9SsBaNjvjmWSrJT3moA2qqMZxevXuXAupacwcr3XrUzbU6SVOlu8f2JAyggkO1JIn2a65WGUaeoQRyNXe7OPBoYuWKWITx/WbyPNaTV3hYQVmglX+kCAL9YW/+2DYEHK/XjsnQot2BJyu7KsPQshNQSZuZ1P1L8y5LGTRt2PF9SwIaNB/C6q5lCzyxrq8/zpmgqE4zDl9ppjW2o5sJ4SMrX5viny6RX+xHMF6MKMemFfn;42i2IZQanKCbxlMDTr2iDg=="
+secured: "KlE/TxtN6/Ny3T2tk34j4vHvpRSoyA7/UcnhhVdvLbGiDx4wFErEHVP32MqPn76W/4puRZYpikm+Iv11LyMLgZlBa9mht4fqwKsR0inDhaPlUF1R/myie/GApz9Zwaei+BX85OVqKB8cc751OkIJGF9U5mBiFJic8olcGU8XZfq0s9gPt3b51LSXO+dOBec77Y6gdvuusasj/bLUFSz5f4a4RfID2wqpnfeim1s/CsPfPSEdY7Qq5dypNNrs+7BMK6+cgzOaunpbv6B0yqmRiIItA8T4hPPNUoI+h0Y8RyYKRtXpYstD/Is/EG8IoS4kRqbe+Oy2JPIKQ7neiw2cjcY2Z3Tqe1/zGtDWSGz/EYJ7srpOFGRYFEQCSNlCluVTUgew3JInTb8c4HOWworFm2XJm8aP6BBPflLZxuWGisK40oHIntvoCnKZE/E3kOnCi7WPj0SqrVJJrSR/0sbztMldwgmmSIpidvgeLtufnlE=;MtpnP+Br8tk0F/p1qcl6Tw=="
 ---
 

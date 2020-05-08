@@ -2,6 +2,43 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-03-27-ransomware-against-the-machine-how-adversaries-are-learning-to-disrupt-industrial-production-by-targeting-it-and-ot.md",
+      "title": "Ransomware against the machine: how adversaries are learning to disrupt industrial production by targeting IT and OT",
+      "excerpt": "This has caused insufficient or late supply of end products or services, representing long-term financial losses in the form of missed ... for example human-machine interfaces (HMIs), supervisory control and data acquisition (SCADA) software, and ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.continuitycentral.com/index.php/news/technology/5008-ransomware-against-the-machine-how-adversaries-are-learning-to-disrupt-industrial-production-by-targeting-it-and-ot",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-27T06:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "continuitycentral.com",
+        "domain": "continuitycentral.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.continuitycentral.com/images/banners/IRMCC270x600.jpg",
+          "width": 270,
+          "height": 670,
+          "title": "Ransomware against the machine: how adversaries are learning to disrupt industrial production by targeting IT and OT",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-26-ai-in-fintech-market-growth-analysis-by-size-share-news-demand-opportunity-during-2020-2025.md",
       "title": "AI in Fintech Market Growth Analysis By Size, Share, News, Demand, Opportunity During 2020-2025",
       "excerpt": "Mar 26, 2020 (AmericaNewsHour) -- Kenneth Research has published a detailed report on AI in Fintech Market which has been categorized by market size, growth indicators and encompasses detailed market analysis on macro trends and region-wise growth in North ...",
@@ -1056,51 +1093,6 @@
           "width": 2000,
           "height": 1040,
           "title": "Riskalyze Fintech Report Card: February 2020",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-13-islamic-fintech-startups-on-the-rise-in-southeast-asia.md",
-      "title": "Islamic Fintech Startups On The Rise In Southeast Asia",
-      "excerpt": "At our Singapore-based venture capital firm, we keep an eye on emerging tech sectors across Southeast Asia, and we’re seeing a surge of new growth potential in a traditional niche business. Few non-Muslims even know about the Islamic financial industry.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/vinnielauria/2020/03/13/islamic-fintech-startups-on-the-rise-in-southeast-asia/",
-      "ampWebUrl": "https://www.forbes.com/sites/vinnielauria/2020/03/13/islamic-fintech-startups-on-the-rise-in-southeast-asia/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/vinnielauria/2020/03/13/islamic-fintech-startups-on-the-rise-in-southeast-asia/amp/",
-      "publishedDateTime": "2020-03-13T01:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e6b3ee9aa5428000759bd2b%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4000%26cropY1%3D0%26cropY2%3D2250",
-          "width": 1199,
-          "height": 675,
-          "title": "Islamic Fintech Startups On The Rise In Southeast Asia",
           "attribution": null
         }
       ],

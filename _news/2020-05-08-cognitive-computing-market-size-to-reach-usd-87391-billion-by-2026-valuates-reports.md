@@ -2,8 +2,8 @@
 category: news
 title: "Cognitive Computing Market Size to Reach USD 87.391 Billion by 2026 - Valuates Reports"
 excerpt: "In dynamic circumstances where the responses may be unclear and unpredictable, cognitive computing is used to mimic the human thought"
-publishedDateTime: 2020-05-08T12:06:00Z
-webUrl: "https://www.prnewswire.com/news-releases/cognitive-computing-market-size-to-reach-usd-87-391-billion-by-2026---valuates-reports-301055733.html"
+publishedDateTime: 2020-05-08T12:11:00Z
+webUrl: "https://www.prnewswire.com/in/news-releases/cognitive-computing-market-size-to-reach-usd-87-391-billion-by-2026-valuates-reports-813401172.html"
 type: article
 quality: 16
 heat: 16
@@ -23,6 +23,6 @@ images:
     height: 482
     title: "Cognitive Computing Market Size to Reach USD 87.391 Billion by 2026 - Valuates Reports"
 
-secured: "KaYpYjPFkUYcRS+m8irPx5f217hBKky8WWn9DplZx1ueag5et2JrDufU+6tOIG0+18mQmE9L7XPIX97HufPJwORJ4i+APgvnVeSHjOivNCjpKaCiS1LluNUeIA+zZ4gDHHS5Kjiln6hgGSqI5acliUUwNqTHBTEikd6tAUHcaqykn/5BHGTvNkHzDfP89px+z4SxyQe90ZfVMPG8Jg95vXPPBaK4t6hKNnbHdOAJCzGuMWm5bZLykvtS/5BF6/TYWouFetLw9/R1BQtyqqmtkXShmAEHAAwjddYKK8f7P2nqOuhSww2dt619LYy4kxa3;vp5ZyWTsxFvUXYOctecmOQ=="
+secured: "ivrd7s3wS9Wbm6PELhSbt8Ws4ElgLG8NExKpIScYCVFsW5icL2gAuwLIN+PI9tRHADg4w1zky1DAu8uRwLV5wEad/uIopvAW/qwVbpj8d0yUgVtkh5a8yND2nfV7CWd5+oDWLAohbFtznUplbk2hkkzDrfgd9ogMj7VYGZFdWGW9O46XrKJ+HAsxd1QQGEMuF9aUF4XmyA07kZZP9zOTz0o5m7FKfLjB7b1o8TojYnqq6UXNwe6jWey+gEi6oNci6ovX8J5MbJ31XH8WuUmAn3gmZyKzFJRN/LjC9XnaDeUP0yOQJqKzSTkeIzz4Zjhg;0z4uONuuiTMZNYoXGXhRnQ=="
 ---
 
