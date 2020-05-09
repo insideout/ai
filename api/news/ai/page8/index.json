@@ -2,6 +2,123 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-04-30-learn-how-to-start-a-podcast-with-this-45-online-training-bundle.md",
+      "title": "Learn how to start a podcast with this $45 online training bundle",
+      "excerpt": "Sponsored Kick off your new podcasting career with The Start-to-Finish Guide to Launching a Successful Podcast Bundle for over 90 percent off retail price.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/30/learn-how-to-start-a-podcast-with-this-45-online-training-bundle/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/30/learn-how-to-start-a-podcast-with-this-45-online-training-bundle/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/30/learn-how-to-start-a-podcast-with-this-45-online-training-bundle/amp/",
+      "publishedDateTime": "2020-04-30T08:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/S2HMbnk.jpg?fit=1200%2C800&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": "Learn how to start a podcast with this $45 online training bundle",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-30-face-recognition-behind-a-mask.md",
+      "title": "Face Recognition Behind a Mask",
+      "excerpt": "Although putting on a mask over your nose and mouth is one of the easiest ways to protect yourself and others from Coronavirus, face masks may be subtly (and not so subtly) interfering with how we perceive and recognize one another.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.psychologytoday.com/za/blog/illusions-delusions-and-reality/202004/face-recognition-behind-mask",
+      "ampWebUrl": "https://www.psychologytoday.com/za/blog/illusions-delusions-and-reality/202004/face-recognition-behind-mask?amp",
+      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/illusions-delusions-and-reality/202004/face-recognition-behind-mask?amp",
+      "publishedDateTime": "2020-04-30T08:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Psychology Today",
+        "domain": "psychologytoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-30-googles-ai-can-adjust-voice-emotion-pitch-and-speed-with-30-minutes-of-data.md",
+      "title": "Google’s AI can adjust voice emotion, pitch, and speed with 30 minutes of data",
+      "excerpt": "In a paper originally published last October and accepted to the International Conference on Learning Representations (ICLR) 2020, researchers affiliated with Google and the University College London propose an AI model that enables control of speech characteristics like pitch, emotion, and speaking rate with as little as 30 minutes of data.",
+      "heat": 83,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/30/googles-ai-can-adjust-voice-emotion-pitch-and-speed-with-30-minutes-of-data/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/30/googles-ai-can-adjust-voice-emotion-pitch-and-speed-with-30-minutes-of-data/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/30/googles-ai-can-adjust-voice-emotion-pitch-and-speed-with-30-minutes-of-data/amp/",
+      "publishedDateTime": "2020-04-30T08:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/10/google-ai-logo.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Google’s AI can adjust voice emotion, pitch, and speed with 30 minutes of data",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-30-tesla-set-to-launch-a-full-self-driving-subscription-service-this-year.md",
       "title": "Tesla set to launch a Full Self-Driving subscription service this year",
       "excerpt": "Tesla is set to roll out a subscription service for its Full Self-Driving suite later this year, Elon Musk said. During the company’s Q1 2020 Earnings Call, Musk and CFO Zachary Kirkhorn briefly confirmed the introduction of a subscription program for Full Self-Driving.",
@@ -851,27 +968,19 @@
     {
       "path": "_news/2020-04-30-5-artificial-intelligence-stocks-to-consider.md",
       "title": "5 Artificial Intelligence Stocks to Consider",
-      "excerpt": "[Editor’s note: “5 Artificial Intelligence Stocks to Consider ... Google is a top player in autonomous vehicles. The company’s Waymo unit could be worth as much as $175 billion, according ...",
+      "excerpt": "The company’s Waymo unit could be worth as much as ... That puts it at the top of the heap among artificial intelligence stocks. Nvidia (NASDAQ:NVDA) is the pioneer of GPUs (Graphics Processing ...",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://markets.businessinsider.com/news/stocks/5-artificial-intelligence-stocks-to-consider-1028347999",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/5-artificial-intelligence-stocks-to-consider-1028347999",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/5-artificial-intelligence-stocks-to-consider-1028347999",
-      "publishedDateTime": "2020-04-30T01:26:00-07:00",
+      "webUrl": "https://investorplace.com/2020/04/5-artificial-intelligence-stocks-to-consider/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-30T03:26:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
+        "name": "InvestorPlace",
+        "domain": "investorplace.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1126,140 +1235,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-30-these-ai-generated-memes-are-bizarre-and-profound.md",
-      "title": "These AI generated memes are bizarre and profound",
-      "excerpt": "For an entire generation reared in the murky dark corners of the internet, memes are the preferred mode of communication. They help us deal with catastrophic events and manage existential dread; they can even help shape the spread of diseases like the coronavirus.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnet.com/news/these-ai-created-memes-are-bizarre-and-profound-at-the-exact-same-time/",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/these-ai-created-memes-are-bizarre-and-profound-at-the-exact-same-time/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/these-ai-created-memes-are-bizarre-and-profound-at-the-exact-same-time/",
-      "publishedDateTime": "2020-04-29T21:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cnet3.cbsistatic.com/img/8H-_8nn57zlQt9SV6hr1lOKPr24=/940x0/2020/04/30/6f286b36-5379-4b5e-92f6-1e5707ad6403/screen-shot-2020-04-30-at-1-52-02-pm.png",
-          "width": 940,
-          "height": 739,
-          "title": "These AI generated memes are bizarre and profound",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-30-uber-ai-plays-any-atari-2600-game-with-superhuman-skill.md",
-      "title": "Uber AI plays any Atari 2600 game with 'superhuman' skill",
-      "excerpt": "A team of Uber AI researchers has developed a set of algorithms, Go-Explore, that reportedly beats any Atari 2600 game with s",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.engadget.com/uber-ai-masters-atari-games-012832222.html",
-      "ampWebUrl": "https://www.engadget.com/amp/uber-ai-masters-atari-games-012832222.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/uber-ai-masters-atari-games-012832222.html",
-      "publishedDateTime": "2020-04-29T18:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-04%2F8f3ed930-8a57-11ea-9eff-3f7b8dfa6da0&client=amp-blogside-v2&signature=954161227f6ff5db57b37b4e922fd3c5a0386285",
-          "width": 600,
-          "height": 350,
-          "title": "Uber AI plays any Atari 2600 game with 'superhuman' skill",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-30-with-ios-135-public-beta-2-face-id-can-recognize-when-youre-wearing-a-mask.md",
-      "title": "With IOS 13.5 Public Beta 2, Face ID Can Recognize When You're Wearing A Mask",
-      "excerpt": "The iOS 13.4.5 Public Beta cycle had been anything but normal. First, developers got the beta a week before Public Beta testers (that usually only happens when a brand-new version of iOS is released).",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/anthonykarcz/2020/04/29/with-ios-135-public-beta-2-face-id-can-recognize-when-youre-wearing-a-mask/",
-      "ampWebUrl": "https://www.forbes.com/sites/anthonykarcz/2020/04/29/with-ios-135-public-beta-2-face-id-can-recognize-when-youre-wearing-a-mask/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anthonykarcz/2020/04/29/with-ios-135-public-beta-2-face-id-can-recognize-when-youre-wearing-a-mask/amp/",
-      "publishedDateTime": "2020-04-29T17:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/711x399/https://specials-images.forbesimg.com/imageserve/5eaa056a12fcd40006de04b7/960x0.jpg?fit=scale",
-          "width": 711,
-          "height": 399,
-          "title": "With IOS 13.5 Public Beta 2, Face ID Can Recognize When You're Wearing A Mask",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

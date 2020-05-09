@@ -2,6 +2,141 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-05-05-how-ai-can-help-diagnose-neurological-disease.md",
+      "title": "How AI can help diagnose neurological disease",
+      "excerpt": "A retinal scan and AI can detect tiny eye movements that can help diagnose and treat difficult neural disorders much earlier than before.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/article/how-ai-can-help-diagnose-neurological-disease/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/how-ai-can-help-diagnose-neurological-disease/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-ai-can-help-diagnose-neurological-disease/",
+      "publishedDateTime": "2020-05-05T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr3.cbsistatic.com/hub/i/r/2020/05/05/e2665ec6-d485-4edc-96bb-675dd46a2e4b/resize/1200x/120ab7f293d757f79e299d3b18809f4e/istock-1140748326.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "How AI can help diagnose neurological disease",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-05-cta-asks-the-us-government-for-tariff-exemptions-on-robotics-drones-and-3d-printers.md",
+      "title": "CTA asks the US government for tariff exemptions on robotics, drones and 3D printers",
+      "excerpt": "The Consumer Technology Association penned an open letter alongside a number of other industry representatives asking the U.S. Trade Representative’s Office to loosen tariffs on a number of tech categories manufactured in China.",
+      "heat": 97,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/05/05/cta-asks-the-us-government-for-tariff-exemptions-on-robotics-drones-and-3d-printers/",
+      "ampWebUrl": "https://techcrunch.com/2020/05/05/cta-asks-the-us-government-for-tariff-exemptions-on-robotics-drones-and-3d-printers/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/05/cta-asks-the-us-government-for-tariff-exemptions-on-robotics-drones-and-3d-printers/amp/",
+      "publishedDateTime": "2020-05-05T07:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/03/GettyImages-931630954.jpg?w=724",
+          "width": 724,
+          "height": 483,
+          "title": "CTA asks the US government for tariff exemptions on robotics, drones and 3D printers",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-05-technology-and-ethics-in-the-coronavirus-economy.md",
+      "title": "Technology and ethics in the coronavirus economy",
+      "excerpt": "The last two decades have ushered in significant change and transformation. I believe the 2020s will be dispositive in redefining the pillars of our economy, and COVID-19 magnifies this greatly.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/05/05/technology-and-ethics-in-the-coronavirus-economy/",
+      "ampWebUrl": "https://techcrunch.com/2020/05/05/technology-and-ethics-in-the-coronavirus-economy/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/05/technology-and-ethics-in-the-coronavirus-economy/amp/",
+      "publishedDateTime": "2020-05-05T07:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/05/GettyImages-1215830807.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": "Technology and ethics in the coronavirus economy",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-05-gigaspaces-raises-12-million-to-accelerate-ai-workloads-with-in-memory-computing.md",
       "title": "GigaSpaces raises $12 million to accelerate AI workloads with in-memory computing",
       "excerpt": "Startup GigaSpaces announced that it raised $12 million to further develop its in-memory computing platform for big data analytics workloads.",
@@ -965,138 +1100,6 @@
       "topics": [
         "IBM AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-05-ar-experiment-uses-ai-to-cut-and-paste-real-world-things-into-photoshop.md",
-      "title": "AR experiment uses AI to cut and paste real-world things into Photoshop",
-      "excerpt": "Augmented or mixed reality experiences often involve placing virtual objects alongside real-world things as seen through glasses or on phone screens. Doing the reverse, that is, placing real-world",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.slashgear.com/ar-experiment-uses-ai-to-cut-and-paste-real-world-things-into-photoshop-04619244/",
-      "ampWebUrl": "https://www.slashgear.com/ar-experiment-uses-ai-to-cut-and-paste-real-world-things-into-photoshop-04619244/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/ar-experiment-uses-ai-to-cut-and-paste-real-world-things-into-photoshop-04619244/amp/",
-      "publishedDateTime": "2020-05-04T20:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://scdn.slashgear.com/wp-content/uploads/2020/05/ar-cut-paste.jpg",
-          "width": 1280,
-          "height": 800,
-          "title": "AR experiment uses AI to cut and paste real-world things into Photoshop",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-05-australias-national-intelligence-office-seeks-smart-satellites.md",
-      "title": "Australia's National Intelligence Office seeks 'smart' satellites",
-      "excerpt": "Looking to demonstrate the application of miniaturised satellite systems with on-board machine learning and artificial intelligence applications.",
-      "heat": 72,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/australias-national-intelligence-office-seeks-smart-satellites/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/australias-national-intelligence-office-seeks-smart-satellites/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/australias-national-intelligence-office-seeks-smart-satellites/",
-      "publishedDateTime": "2020-05-04T17:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2018/12/30/410e04f3-e6ac-4a18-a430-61d1f5aa4809/thumbnail/1200x675/daf07249572277e1dbb0e5bce705f46d/newspapers.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Australia's National Intelligence Office seeks 'smart' satellites",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-05-building-the-complete-virtual-assistant-with-watson-assistant.md",
-      "title": "Building the Complete Virtual Assistant with Watson Assistant",
-      "excerpt": "We are now well into 2020, and the world continues to face a once-in-a-century global pandemic. The COVID-19 coronavirus pandemic has altered nearly every aspect of our personal and professional lives. As the business world reels from the disruptions generated by COVID-19, it has become more clear than",
-      "heat": 117,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.ibm.com/blogs/watson/2020/05/building-the-complete-virtual-assistant-with-watson-assistant/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-04T17:01:21-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/05/2020_05_04_blog_leadspace-900x498.jpg",
-          "width": 900,
-          "height": 498,
-          "title": "Building the Complete Virtual Assistant with Watson Assistant",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
       ]
     }
   ],

@@ -2,6 +2,176 @@
   "page": 90,
   "value": [
     {
+      "path": "_news/2020-02-04-kaskada-raises-8-million-to-facilitate-ai-feature-engineering.md",
+      "title": "Kaskada raises $8 million to facilitate AI feature engineering",
+      "excerpt": "Meanwhile, Iguazio last month nabbed $24 million for its suite of AI development and management tools, and Clusterone raked in $2 million for its DevOps for AI platform that operates with both on-premise servers and public cloud computing platforms like AWS, Azure, and Google Cloud Platform.",
+      "heat": 109,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/02/04/kaskada-raises-8-million-to-facilitate-ai-feature-engineering/",
+      "ampWebUrl": "https://venturebeat.com/2020/02/04/kaskada-raises-8-million-to-facilitate-ai-feature-engineering/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/04/kaskada-raises-8-million-to-facilitate-ai-feature-engineering/amp/",
+      "publishedDateTime": "2020-02-04T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/01/kaskada-card-image.png?fit=1200%2C628&strip=all",
+          "width": 1200,
+          "height": 628,
+          "title": "Kaskada raises $8 million to facilitate AI feature engineering",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-04-robot-bartender-begins-serving-drinks-in-tokyo-pub.md",
+      "title": "Robot bartender begins serving drinks in Tokyo pub",
+      "excerpt": "The robot, made by the company QBIT Robotics, can pour a beer in 40 seconds and mix a cocktail in a minute. It uses four cameras to monitor customers to analyse their expressions with artificial intelligence software. \"I like it because dealing with people can be a hassle. With this you can just come and get drunk,\" Satoshi Harada, a restaurant ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.newshub.co.nz/home/lifestyle/2020/02/robot-bartender-begins-serving-drinks-in-tokyo-pub.html",
+      "ampWebUrl": "https://www.newshub.co.nz/home/lifestyle/2020/02/robot-bartender-begins-serving-drinks-in-tokyo-pub.amp.html",
+      "cdnAmpWebUrl": "https://www-newshub-co-nz.cdn.ampproject.org/c/s/www.newshub.co.nz/home/lifestyle/2020/02/robot-bartender-begins-serving-drinks-in-tokyo-pub.amp.html",
+      "publishedDateTime": "2020-02-04T08:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newshub",
+        "domain": "newshub.co.nz",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.newshub.co.nz/home/lifestyle/2020/02/robot-bartender-begins-serving-drinks-in-tokyo-pub/_jcr_content/par/image.dynimg.768.q75.jpg/v1580834704692/reuters-PUB-ROBOT-1120.jpg",
+          "width": 768,
+          "height": 438,
+          "title": "Robot bartender begins serving drinks in Tokyo pub",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-02-04-arbilex-a-harvard-law-school-legal-tech-startup-uses-ai-to-settle-arbitrations.md",
+      "title": "ArbiLex, A Harvard Law School Legal Tech Startup, Uses AI To Settle Arbitrations",
+      "excerpt": "With international arbitration cases resolved through international arbitration, the outcomes are on the order of millions and billions of dollars. Isabel Yang and her team have created ArbiLex to settle these claims faster for all parties involved.",
+      "heat": 82,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/frederickdaso/2020/02/04/arbilex-a-harvard-law-school-legal-tech-startup-uses-ai-to-settle-arbitrations/?ss=under30",
+      "ampWebUrl": "https://www.forbes.com/sites/frederickdaso/2020/02/04/arbilex-a-harvard-law-school-legal-tech-startup-uses-ai-to-settle-arbitrations/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/frederickdaso/2020/02/04/arbilex-a-harvard-law-school-legal-tech-startup-uses-ai-to-settle-arbitrations/amp/",
+      "publishedDateTime": "2020-02-04T08:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e3736e4f133f400076b718f%2F0x0.jpg",
+          "width": 750,
+          "height": 496,
+          "title": "ArbiLex, A Harvard Law School Legal Tech Startup, Uses AI To Settle Arbitrations",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-04-5-reasons-why-ai-may-dazzle-only-to-disappoint.md",
+      "title": "5 Reasons Why AI May Dazzle Only To Disappoint",
+      "excerpt": "In my experience of advising and consulting with several companies on AI strategy, I have observed five reasons that prevent AI initiatives from delivering the desired business outcomes.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/mohanbirsawhney/2020/02/04/5-reasons-why-ai-may-dazzle-only-to-disappoint/",
+      "ampWebUrl": "https://www.forbes.com/sites/mohanbirsawhney/2020/02/04/5-reasons-why-ai-may-dazzle-only-to-disappoint/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mohanbirsawhney/2020/02/04/5-reasons-why-ai-may-dazzle-only-to-disappoint/amp/",
+      "publishedDateTime": "2020-02-04T08:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1177116437%2F0x0.jpg",
+          "width": 1200,
+          "height": 720,
+          "title": "5 Reasons Why AI May Dazzle Only To Disappoint",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-02-04-ais-evolution-trends-to-watch-in-investment-management.md",
       "title": "AI's Evolution: Trends To Watch In Investment Management",
       "excerpt": "Artificial intelligence has become one of the most talked about topics in investment management, but its full potential has yet to be discovered.",
@@ -1090,185 +1260,6 @@
       "topics": [
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-02-03-ai-startup-cresta-launches-from-stealth-with-millions-from-greylock-and-a16z.md",
-      "title": "AI startup Cresta launches from stealth with millions from Greylock and a16z",
-      "excerpt": "Cresta is more focused on using AI suggestions to help human contact center workers make the most of an individual ... Udacity co-founder Sebastian Thrun is the startup’s board chairman and is listed as a co-founder. Enam met Thrun during his PhD research at Stanford focused on workplace productivity. Cresta is launching from stealth and ...",
-      "heat": 94,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/02/03/ai-startup-cresta-launches-from-stealth-with-millions-from-greylock-and-a16z/",
-      "ampWebUrl": "https://techcrunch.com/2020/02/03/ai-startup-cresta-launches-from-stealth-with-millions-from-greylock-and-a16z/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/03/ai-startup-cresta-launches-from-stealth-with-millions-from-greylock-and-a16z/amp/",
-      "publishedDateTime": "2020-02-03T15:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/02/CrestaFounders.jpeg?w=1024",
-          "width": 1024,
-          "height": 767,
-          "title": "AI startup Cresta launches from stealth with millions from Greylock and a16z",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-03-are-brighter-days-ahead-for-ibm.md",
-      "title": "Are Brighter Days Ahead for IBM?",
-      "excerpt": "IBM generates its revenue from five core businesses: cloud and cognitive software, global technology services ... business -- which competes against Amazon Web Services (AWS) and Microsoft's Azure -- struggled with \"lower client business volumes\" during the quarter. IBM's total cloud revenue rose 21% to $6.8 billion, or 31% of its top line ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.fool.com/investing/2020/02/03/are-brighter-days-ahead-for-ibm.aspx?source=eptcnnlnk0000002",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/02/03/are-brighter-days-ahead-for-ibm.aspx",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/02/03/are-brighter-days-ahead-for-ibm.aspx",
-      "publishedDateTime": "2020-02-03T13:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F555866%2Fgettyimages-853701240.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 675,
-          "title": "Are Brighter Days Ahead for IBM?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-03-identifying-worker-labeling-efficiency-using-amazon-sagemaker-ground-truth.md",
-      "title": "Identifying worker labeling efficiency using Amazon SageMaker Ground Truth",
-      "excerpt": "A critical success factor in machine learning (ML) is the cleanliness and accuracy of training datesets. Training with mislabeled or inaccurate data can lead to a poorly performing model. But how can you easily determine if the  labeling team is  accurately labeling data? \nOne way is to manually sift",
-      "heat": 97,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/identifying-worker-labeling-efficiency-using-amazon-sagemaker-ground-truth/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-03T13:14:21-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/01/29/labeling-efficiency-sagemaker-gt-2.gif",
-          "width": 500,
-          "height": 202,
-          "title": "Identifying worker labeling efficiency using Amazon SageMaker Ground Truth",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-03-millennium-management-secure-machine-learning-using-amazon-sagemaker.md",
-      "title": "Millennium Management: Secure machine learning using Amazon SageMaker",
-      "excerpt": "This is a guest post from Millennium Management. In their own words, “Millennium Management is a global investment management firm, established in 1989, with over 2,900 employees and $39.2 billion in assets under management as of August 2, 2019.”  \nMillennium Management is comprised of a large number",
-      "heat": 109,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/millennium-management-secure-machine-learning-using-amazon-sagemaker/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-03T12:16:17-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/01/31/millenium-sagemaker-1.gif",
-          "width": 900,
-          "height": 473,
-          "title": "Millennium Management: Secure machine learning using Amazon SageMaker",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

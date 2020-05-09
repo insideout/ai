@@ -2,6 +2,51 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-02-04-kaskada-raises-8-million-to-facilitate-ai-feature-engineering.md",
+      "title": "Kaskada raises $8 million to facilitate AI feature engineering",
+      "excerpt": "Meanwhile, Iguazio last month nabbed $24 million for its suite of AI development and management tools, and Clusterone raked in $2 million for its DevOps for AI platform that operates with both on-premise servers and public cloud computing platforms like AWS, Azure, and Google Cloud Platform.",
+      "heat": 109,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/02/04/kaskada-raises-8-million-to-facilitate-ai-feature-engineering/",
+      "ampWebUrl": "https://venturebeat.com/2020/02/04/kaskada-raises-8-million-to-facilitate-ai-feature-engineering/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/04/kaskada-raises-8-million-to-facilitate-ai-feature-engineering/amp/",
+      "publishedDateTime": "2020-02-04T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/01/kaskada-card-image.png?fit=1200%2C628&strip=all",
+          "width": 1200,
+          "height": 628,
+          "title": "Kaskada raises $8 million to facilitate AI feature engineering",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-02-04-bafta-award-winner-andy-serkis-praises-the-enabling-power-of-technology.md",
       "title": "BAFTA Award Winner Andy Serkis Praises The Enabling Power Of Technology",
       "excerpt": "The idea expressed by Andy Serkis, that anyone can play anything, opens the sluice gate for a wider talent pool in many careers. I talked to two powerhouses of accessibility tech this week, Neil Milliken Chief Accessibility Officer of Atos and Michael Vermeesch,",
@@ -1256,51 +1301,6 @@
           "width": 1024,
           "height": 576,
           "title": "Creating a more accessible world with Azure AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-15-using-azure-to-understand-azure.md",
-      "title": "Using Azure to Understand Azure",
-      "excerpt": "Azure Machine Learning (AML) is a great example. Over the years, my team has developed a portfolio of production models, spanning everything from behavioral clustering to anomaly detection.",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/data-science-at-microsoft/using-azure-to-understand-azure-1c8f5dc60a0a",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-15T09:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/719/1*AtWm6tnTQH5QjELGerSUUg.jpeg",
-          "width": 719,
-          "height": 396,
-          "title": "Using Azure to Understand Azure",
           "attribution": null
         }
       ],

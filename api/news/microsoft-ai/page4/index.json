@@ -2,6 +2,52 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-03-30-azure-stack-edge-gets-nvidia-gpu-to-accelerate-ai-at-the-edge.md",
+      "title": "Azure Stack Edge Gets NVIDIA GPU To Accelerate AI At The Edge",
+      "excerpt": "The partnership between NVIDIA and Microsoft creates new opportunities for developers and businesses to develop intelligent solutions for the edge.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/janakirammsv/2020/03/30/azure-stack-edge-gets-nvidia-gpu-to-accelerate-ai-at-the-edge/",
+      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2020/03/30/azure-stack-edge-gets-nvidia-gpu-to-accelerate-ai-at-the-edge/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2020/03/30/azure-stack-edge-gets-nvidia-gpu-to-accelerate-ai-at-the-edge/amp/",
+      "publishedDateTime": "2020-03-29T23:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e818dad08eb080006522520%2F0x0.jpg",
+          "width": 1000,
+          "height": 733,
+          "title": "Azure Stack Edge Gets NVIDIA GPU To Accelerate AI At The Edge",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2020-03-30-distributed-training-with-azure-machine-learning.md",
       "title": "Distributed training with Azure Machine Learning",
       "excerpt": "In this article, you learn about distributed training and how Azure Machine Learning supports it for deep learning models. In distributed training the workload to train a model is split up and shared among multiple mini processors, called worker nodes. These worker nodes work in parallel to speed up model training. Distributed training can be ...",
@@ -1125,43 +1171,6 @@
           "width": 648,
           "height": 429,
           "title": "Hey, Sparky: Confused by data science governance and security in the cloud? Databricks promises to ease machine learning pipelines",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-mccs-azure-based-ai-solution-detects-eerie-silence.md",
-      "title": "MCC’s Azure-based AI solution detects eerie silence",
-      "excerpt": "After two years of careful design and another two of intense deployment and ongoing refinement, a sophisticated Azure-based AI solution at the Melbourne Cricket Club (MCC) is possibly feeling a little confused by an entirely new and unexpected sound triggered after teams score or players are dismissed on the field: crickets. As the coronavirus ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cio.com/article/3532277/mcc-s-azure-based-ai-solution-detects-eerie-silence.html",
-      "ampWebUrl": "https://www.cio.com/article/3532277/mcc-s-azure-based-ai-solution-detects-eerie-silence.amp.html",
-      "cdnAmpWebUrl": "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/3532277/mcc-s-azure-based-ai-solution-detects-eerie-silence.amp.html",
-      "publishedDateTime": "2020-03-17T03:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CIO",
-        "domain": "cio.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2020/03/cio-street-sign-cricket-ground-by-ctrphotos-gettyimages-516114501-100835591-large.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "MCC’s Azure-based AI solution detects eerie silence",
           "attribution": null
         }
       ],

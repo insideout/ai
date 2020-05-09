@@ -2,6 +2,35 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-03-10-superwiseai-secures-45m-in-seed-funding-to-accelerate-the-adoption-of-its-ai-assurance-platform.md",
+      "title": "Superwise.ai Secures $4.5M in Seed Funding to Accelerate the Adoption of Its AI Assurance Platform",
+      "excerpt": "Google AI Platform, Azure Machine Learning, Kubeflow, H20.ai and custom-built platforms. According to Gartner’s report, Help the Board Deal With Automated Decisions at Digital Speed (G00433877), “In digital businesses, many operational decisions are ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businesswire.com/news/home/20200310005701/en/Superwise.ai-Secures-4.5M-Seed-Funding-Accelerate-Adoption",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-10T09:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-10-helping-scientists-protect-beluga-whales-with-deep-learning.md",
       "title": "Helping Scientists Protect Beluga Whales with Deep Learning",
       "excerpt": "All models were trained in Keras (with the TensorFlow backend) on an Azure Deep Learning Virtual Machine. With a default neutral threshold score of 0.5 used for classification, the results show ...",
@@ -1209,52 +1238,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-24-all-things-gcp-machine-learning-decision-pyramid.md",
-      "title": "All things GCP: Machine Learning Decision pyramid",
-      "excerpt": "Many users want Machine Learning in their products and cloud providers like GCP, AWS Azure, etc knows about this. Because of this demand, as per the user's needs and expertise they can provide machine learning tools out of the box and users can work on complex Machine Learning tasks by a few lines of code or no code at all! Understanding of ...",
-      "heat": 81,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/analytics-vidhya/all-things-gcp-machine-learning-decision-pyramid-82260c798a88",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-24T15:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/1200/1*Jj3jiMWxYJOMJIcMQj34bw.jpeg",
-          "width": 1200,
-          "height": 675,
-          "title": "All things GCP: Machine Learning Decision pyramid",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI",
-        "Machine Learning"
       ]
     }
   ],

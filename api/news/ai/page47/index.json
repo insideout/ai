@@ -2,6 +2,163 @@
   "page": 47,
   "value": [
     {
+      "path": "_news/2020-03-24-supermicro-accelerates-ai-and-deep-learning-from-the-data-center-to-the-edge-with-new-nvidia-ngc-ready-servers.md",
+      "title": "Supermicro Accelerates AI and Deep Learning from the Data Center to the Edge with New NVIDIA NGC-Ready Servers",
+      "excerpt": "SAN JOSE, Calif., March 24, 2020 /PRNewswire/ -- GTC DIGITAL -- Super Micro Computer, Inc. SMCI, a global leader in enterprise computing, storage, networking...",
+      "heat": 86,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/supermicro-accelerates-ai-and-deep-learning-from-the-data-center-to-the-edge-with-new-nvidia-ngc-ready-servers-2020-03-24",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-24T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Supermicro Accelerates AI and Deep Learning from the Data Center to the Edge with New NVIDIA NGC-Ready Servers",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2020-03-24-alibaba-cloud-leverages-ai-to-tackle-covid-19.md",
+      "title": "Alibaba Cloud Leverages AI to Tackle COVID-19",
+      "excerpt": "Through video conferencing and real-time AI translation into 11 languages (Arabic, Bahasa, Chinese, English, French, Japanese, Russian, Spanish, Thai, Turkish, and Vietnamese), Alibaba Cloud aims to build a virtual community, inviting Chinese doctors to share their experiences and answer questions from global peers. From Alibaba DAMO Academy ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.martechadvisor.com/news/cloud-integration/alibaba-cloud-leverages-ai-to-tackle-covid19/",
+      "ampWebUrl": "https://www.martechadvisor.com/news/cloud-integration/alibaba-cloud-leverages-ai-to-tackle-covid19/",
+      "cdnAmpWebUrl": "https://www-martechadvisor-com.cdn.ampproject.org/c/s/www.martechadvisor.com/news/cloud-integration/alibaba-cloud-leverages-ai-to-tackle-covid19/",
+      "publishedDateTime": "2020-03-24T05:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarTech Advisor",
+        "domain": "martechadvisor.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.martechadvisor.com/images/uploads/content_images/alibaba_cloud_leverages_ai_to_tackle_covid19_5e79e9e0e8835.jpg",
+          "width": 600,
+          "height": 300,
+          "title": "Alibaba Cloud Leverages AI to Tackle COVID-19",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-24-machine-learning-the-real-buzzword-of-2020.md",
+      "title": "Machine Learning: The Real Buzzword Of 2020",
+      "excerpt": "Machine learning is a game-changer for many industries.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/03/24/machine-learning-the-real-buzzword-of-2020/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/03/24/machine-learning-the-real-buzzword-of-2020/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/03/24/machine-learning-the-real-buzzword-of-2020/amp/",
+      "publishedDateTime": "2020-03-24T05:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F03%2Fa-42-1.jpg",
+          "width": 640,
+          "height": 640,
+          "title": "Machine Learning: The Real Buzzword Of 2020",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-24-global-chinese-hd-map-markets-insight-2019-2020-industry-leaders-are-amap-baidu-map-navinfo-and-emapgo.md",
+      "title": "Global & Chinese HD Map Markets Insight, 2019-2020 - Industry Leaders are Amap, Baidu Map, NavInfo and eMapgo",
+      "excerpt": "It can be seen from the use of HD map in automakers' L3 self-driving cars to be soon mass-produced that the map leaders like Amap, Baidu Map, NavInfo and eMapgo stay ahead in HD map application.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.globenewswire.com/news-release/2020/03/24/2005473/0/en/Global-Chinese-HD-Map-Markets-Insight-2019-2020-Industry-Leaders-are-Amap-Baidu-Map-NavInfo-and-eMapgo.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-24T05:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GlobeNewswire",
+        "domain": "globenewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-24-ceva-announces-dsp-and-voice-neural-networks-integration-with-tensorflow-lite-for-microcontrollers.md",
       "title": "CEVA Announces DSP and Voice Neural Networks Integration with TensorFlow Lite for Microcontrollers",
       "excerpt": "MOUNTAIN VIEW, Calif., March 24, 2020 /PRNewswire/ -- CEVA, Inc. (NASDAQ:CEVA), the leading licensor of wireless connectivity and smart sensing technologies, today announced",
@@ -1093,186 +1250,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-23-ai-in-computer-vision-market-project-to-include-more-research-development-to-attain-high-valuation.md",
-      "title": "AI in Computer Vision Market Project to Include More Research & Development to Attain High Valuation",
-      "excerpt": "AI in Computer Vision Market Research Report- Forecast till 2023 Market Highlights A boom in the increasing demand",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-project-to-include-more-research-development-to-attain-high-valuation-2020-03-23",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-23T09:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "AI in Computer Vision Market Project to Include More Research & Development to Attain High Valuation",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-03-23-autonomous-vehicle-market-global-business-opportunities-analysis-with-trends-and-forecast-to-2027.md",
-      "title": "Autonomous Vehicle Market: Global Business Opportunities Analysis with Trends and Forecast to 2027",
-      "excerpt": "Mar 23, 2020 (Business Arrival via Comtex) -- the global autonomous vehicle market is expected to expand at a CAGR of 35.6% during the forecast period",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/autonomous-vehicle-market-global-business-opportunities-analysis-with-trends-and-forecast-to-2027-2020-03-23",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-23T08:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Autonomous Vehicle Market: Global Business Opportunities Analysis with Trends and Forecast to 2027",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-23-nvidias-dlss-20-details-better-graphics-made-easier-with-ai.md",
-      "title": "NVIDIA’s DLSS 2.0 details: Better graphics made easier with AI",
-      "excerpt": "DLSS 2.0 (Deep Learning Super Sampling) might be just the game-changing graphics technology we need at this strange point in history. DLSS 2.0 uses dedicated AI processors (Tensor Cores) on NVIDIA GeForce RTX graphics cards to bring boosted frame rates without the blurry textures that usually come along for the ride. While DLSS 2.0 works with ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.slashgear.com/nvidias-dlss-2-0-details-better-graphics-made-easier-with-ai-23614073/",
-      "ampWebUrl": "https://www.slashgear.com/nvidias-dlss-2-0-details-better-graphics-made-easier-with-ai-23614073/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/nvidias-dlss-2-0-details-better-graphics-made-easier-with-ai-23614073/amp/",
-      "publishedDateTime": "2020-03-23T08:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://scdn.slashgear.com/wp-content/uploads/2020/03/nvidiadlss20.jpg",
-          "width": 1280,
-          "height": 800,
-          "title": "NVIDIA’s DLSS 2.0 details: Better graphics made easier with AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-23-university-students-are-learning-to-collaborate.md",
-      "title": "University Students Are Learning To Collaborate",
-      "excerpt": "Penn State’s Nittany AI Challenge is teaching students the true meaning of collaboration in the age of Artificial Intelligence.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/03/23/university-students-are-learning-to-collaborate/",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/03/23/university-students-are-learning-to-collaborate/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/03/23/university-students-are-learning-to-collaborate/amp/",
-      "publishedDateTime": "2020-03-23T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e7528552a573300068fe6fb%2F0x0.jpg",
-          "width": 1000,
-          "height": 668,
-          "title": "University Students Are Learning To Collaborate",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

@@ -2,6 +2,139 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-05-08-ai-weekly-cdpa-bill-shows-progress-on-coronavirus-tracking-data-privacy-but-theres-still-a-ways-to-go.md",
+      "title": "AI Weekly: CDPA bill shows progress on coronavirus-tracking data privacy, but there’s still a ways to go",
+      "excerpt": "Legislation around data privacy is crucial to setting up guardrails around how the U.S. tracks the spread of the coronavirus, but we need bipartisanship.",
+      "heat": 70,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/05/08/ai-weekly-cdpa-bill-shows-progress-on-coronavirus-tracking-data-privacy-but-theres-still-a-ways-to-go/",
+      "ampWebUrl": "https://venturebeat.com/2020/05/08/ai-weekly-cdpa-bill-shows-progress-on-coronavirus-tracking-data-privacy-but-theres-still-a-ways-to-go/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/08/ai-weekly-cdpa-bill-shows-progress-on-coronavirus-tracking-data-privacy-but-theres-still-a-ways-to-go/amp/",
+      "publishedDateTime": "2020-05-08T16:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/05/contact-tracing.jpg?fit=1985%2C1237&strip=all",
+          "width": 1985,
+          "height": 1237,
+          "title": "AI Weekly: CDPA bill shows progress on coronavirus-tracking data privacy, but there’s still a ways to go",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-08-written-and-directed-by-artificial-intelligence.md",
+      "title": "Written And Directed By: Artificial Intelligence",
+      "excerpt": "As impossible as it seems, it won’t be long before artificial intelligence is writing and creating films.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/schuylermoore/2020/05/08/written-and-directed-by-artificial-intelligence/",
+      "ampWebUrl": "https://www.forbes.com/sites/schuylermoore/2020/05/08/written-and-directed-by-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/schuylermoore/2020/05/08/written-and-directed-by-artificial-intelligence/amp/",
+      "publishedDateTime": "2020-05-08T15:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1168937327%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5120%26cropY1%3D0%26cropY2%3D2880",
+          "width": 1200,
+          "height": 675,
+          "title": "Written And Directed By: Artificial Intelligence",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-08-performing-medical-transcription-analysis-with-amazon-transcribe-medical-and-amazon-comprehend-medical.md",
+      "title": "Performing medical transcription analysis with Amazon Transcribe Medical and Amazon Comprehend Medical",
+      "excerpt": "The healthcare industry is a highly regulated and complex industry where a great deal of information exchange occurs via verbal communication. This audio data can contain valuable information and actionable insights. This post explores how to integrate HIPAA-eligible AWS AI services Amazon Transcribe",
+      "heat": 88,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/performing-medical-transcription-analysis-with-amazon-transcribe-medical-and-amazon-comprehend-medical/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-08T13:41:33-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/05/08/mta-8.jpg",
+          "width": 800,
+          "height": 406,
+          "title": "Performing medical transcription analysis with Amazon Transcribe Medical and Amazon Comprehend Medical",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-08-mercedes-benz-to-make-mbux-artificial-intelligence-tech-even-more-proactive.md",
       "title": "Mercedes-Benz to make MBUX artificial intelligence tech even more proactive",
       "excerpt": "Benz's MBUX infotainment tech is its voice-activated virtual assistant. The company's artificial intelligence software allows a driver to search for destinations, control vehicle functions and more. And as MBUX evolves,",
@@ -956,134 +1089,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-07-boston-mulls-facial-recognition-ban-ahead-of-possible-updates.md",
-      "title": "Boston Mulls Facial Recognition Ban Ahead of Possible Updates",
-      "excerpt": "While existing surveillance infrastructure does not use facial recognition technology, potential updates to the system could make it possible. Officials are considering a prohibition on the controversial technology.",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.govtech.com/public-safety/Boston-Mulls-Facial-Recognition-Ban-Ahead-of-Possible-Updates.html",
-      "ampWebUrl": "https://www.govtech.com/public-safety/Boston-Mulls-Facial-Recognition-Ban-Ahead-of-Possible-Updates.html?AMP",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/Boston-Mulls-Facial-Recognition-Ban-Ahead-of-Possible-Updates.html?AMP",
-      "publishedDateTime": "2020-05-07T12:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media2.govtech.com/images/US-NEWS-BOSTON-LOOKS-TO-BAN-FACIAL-MLV.JPG",
-          "width": 840,
-          "height": 630,
-          "title": "Boston Mulls Facial Recognition Ban Ahead of Possible Updates",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-05-07-millions-of-historic-newspaper-images-get-the-machine-learning-treatment-at-the-library-of-congress.md",
-      "title": "Millions of historic newspaper images get the machine learning treatment at the Library of Congress",
-      "excerpt": "Historians interested in the way events and people were chronicled in the old days once had to sort through card catalogs for old papers, then microfiche scans, then digital listings — but modern advances can index them down to each individual word and photo.",
-      "heat": 75,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/05/07/millions-of-historic-newspaper-images-get-the-machine-learning-treatment-at-the-library-of-congress/",
-      "ampWebUrl": "https://techcrunch.com/2020/05/07/millions-of-historic-newspaper-images-get-the-machine-learning-treatment-at-the-library-of-congress/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/07/millions-of-historic-newspaper-images-get-the-machine-learning-treatment-at-the-library-of-congress/amp/",
-      "publishedDateTime": "2020-05-07T11:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/05/newspaper-navigator-scan.jpg?w=1024",
-          "width": 1024,
-          "height": 741,
-          "title": "Millions of historic newspaper images get the machine learning treatment at the Library of Congress",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-07-elon-musk-says-theres-a-chance-his-ai-brain-chip-company-will-be-putting-implants-in-humans-within-a-year.md",
-      "title": "Elon Musk says there's a chance his AI-brain-chip company will be putting implants in humans within a year",
-      "excerpt": "Elon Musk says his Neuralink brain chip could be ready for a human patient within a year. The chip could help with brain injuries, he says.",
-      "heat": 86,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businessinsider.com/elon-musk-neuralink-brain-chip-put-in-human-within-year-2020-5",
-      "ampWebUrl": "https://www.businessinsider.com/elon-musk-neuralink-brain-chip-put-in-human-within-year-2020-5?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-neuralink-brain-chip-put-in-human-within-year-2020-5?amp",
-      "publishedDateTime": "2020-05-07T11:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.insider.com/5eb443f157853276ce3f755d?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": "Elon Musk says there's a chance his AI-brain-chip company will be putting implants in humans within a year",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

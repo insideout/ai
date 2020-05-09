@@ -2,6 +2,168 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2020-04-20-clearview-ai-source-code-revealed-exposing-majority-security-lapse.md",
+      "title": "Clearview AI source code revealed, exposing majority security lapse",
+      "excerpt": "Hussein also found the source code had been configured to allow anyone to register as a new user and log in to the platform. Hoan Ton-That, CEO and co-founder of Clearview AI, responded to the cybersecurity lapse, saying that it “did not expose any personally identifiable information, search history, or biometric identifiers.” He added that ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.itpro.co.uk/security/cyber-security/355374/clearview-ai-source-code-revealed-exposing-majority-security-lapse",
+      "ampWebUrl": "https://www.itpro.co.uk/security/cyber-security/355374/clearview-ai-source-code-revealed-exposing-majority-security-lapse?amp",
+      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/security/cyber-security/355374/clearview-ai-source-code-revealed-exposing-majority-security-lapse?amp",
+      "publishedDateTime": "2020-04-20T10:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk//image/upload/v1587403508/shutterstock_1658378527.jpg",
+          "width": 5000,
+          "height": 3051,
+          "title": "Clearview AI source code revealed, exposing majority security lapse",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-20-using-ai-to-build-better-chips.md",
+      "title": "Using AI To Build Better Chips",
+      "excerpt": "With so many startups and large semiconductor firms racing to get new AI chips to market, electronic tool and design service firms like Synopsis, Cadence and Mentor Graphics are looking for new approaches to help designers speed their time to market. Ironically, one of the approaches being taken is to use AI to help build better AI chips.",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/moorinsights/2020/04/20/using-ai-to-build-better-chips/",
+      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2020/04/20/using-ai-to-build-better-chips/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2020/04/20/using-ai-to-build-better-chips/amp/",
+      "publishedDateTime": "2020-04-20T10:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-20-introducing-the-digital-startup-alley-package-for-disrupt-sf.md",
+      "title": "Introducing the Digital Startup Alley Package for Disrupt SF",
+      "excerpt": "The Digital Startup Alley Package covers three people and includes: CrunchMatch: TechCrunch’s AI-powered founder/investor networking platform. Save time, zero in and connect with the people who can move your business forward. Each startup will create a customizable profile, allowing startups to easily note their value add and business model ...",
+      "heat": 72,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/04/20/introducing-the-digital-startup-alley-package-for-disrupt-sf/",
+      "ampWebUrl": "https://techcrunch.com/2020/04/20/introducing-the-digital-startup-alley-package-for-disrupt-sf/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/20/introducing-the-digital-startup-alley-package-for-disrupt-sf/amp/",
+      "publishedDateTime": "2020-04-20T10:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/03/CrunchMatch.png?w=1024",
+          "width": 1024,
+          "height": 512,
+          "title": "Introducing the Digital Startup Alley Package for Disrupt SF",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-20-cognex-introduces-worlds-first-industrial-smart-camera-powered-by-deep-learning.md",
+      "title": "Cognex Introduces World's First Industrial Smart Camera Powered by Deep Learning",
+      "excerpt": "PRWeb/ -- Cognex Corporation, the leader in industrial machine vision, introduces the In-Sight® D900 embedded vision system. A first-of-its-kind solution, the In-Sight D900 features Cognex's ViDiTM deep learning software inside an In-Sight industrial-grade smart camera.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/cognex-introduces-world-s-first-industrial-smart-camera-powered-by-deep-learning-1029108615",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/cognex-introduces-world-s-first-industrial-smart-camera-powered-by-deep-learning-1029108615",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/cognex-introduces-world-s-first-industrial-smart-camera-powered-by-deep-learning-1029108615",
+      "publishedDateTime": "2020-04-20T10:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-20-this-covid-19-app-would-listen-to-your-cough-and-use-ai-to-predict-whether-you-have-coronavirus.md",
       "title": "This COVID-19 app would listen to your cough and use AI to predict whether you have coronavirus",
       "excerpt": "A slew of AI labs are currently aiming to fight coronavirus with apps that analyze audio from people speaking, breathing, or coughing.",
@@ -896,170 +1058,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-20-openai-launches-mircoscope-with-lucid-library-to-help-unravel-neural-networks.md",
-      "title": "OpenAI launches Mircoscope with Lucid Library to help unravel neural networks",
-      "excerpt": "Microscope does the same thing with neural networks. It studies the neurons in these networks and their interconnectivity ... OpenAI is a research laboratory based in San Francisco, California. It mainly works in the artificial general intelligence (AGI)area to build systems for the benefit of humankind. It was co-founded by Elon Musk in ...",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.technowize.com/openai-launches-mircoscope-with-lucid-library-to-help-unravel-neural-networks/",
-      "ampWebUrl": "https://www.technowize.com/openai-launches-mircoscope-with-lucid-library-to-help-unravel-neural-networks/amp/",
-      "cdnAmpWebUrl": "https://www-technowize-com.cdn.ampproject.org/c/s/www.technowize.com/openai-launches-mircoscope-with-lucid-library-to-help-unravel-neural-networks/amp/",
-      "publishedDateTime": "2020-04-19T23:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Technowize",
-        "domain": "technowize.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.technowize.com/wp-content/uploads/2020/04/Cortisol-Labs-Artificial-Brain.jpg",
-          "width": 1000,
-          "height": 597,
-          "title": "OpenAI launches Mircoscope with Lucid Library to help unravel neural networks",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-20-hisense-f50-5g-debuts-with-unisoc-chip-for-2199-yuan-310-in-china.md",
-      "title": "HiSense F50 5G debuts with Unisoc chip for 2,199 Yuan (~$310) in China",
-      "excerpt": "Coupled with AI algorithm, the quad cameras of the HiSense F50 supports night mode photography, HDR, AI beauty and more. The HiSense F50 is backed by a massive 5,010mAh battery that supports 18W fast charging. The Unisoc T7510 chipset supports SA/NSA dual-mode 5G connectivity. The SoC supports N41, N78 and N79 mainstream 5G frequency bands.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.gizmochina.com/2020/04/20/hisense-f50-5g-debuts-with-2199-yuan-310-in-china/",
-      "ampWebUrl": "https://www.gizmochina.com/2020/04/20/hisense-f50-5g-debuts-with-2199-yuan-310-in-china/?amp",
-      "cdnAmpWebUrl": "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2020/04/20/hisense-f50-5g-debuts-with-2199-yuan-310-in-china/?amp",
-      "publishedDateTime": "2020-04-19T22:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2020/04/HiSense-F50-5G.png",
-          "width": 600,
-          "height": 298,
-          "title": "HiSense F50 5G debuts with Unisoc chip for 2,199 Yuan (~$310) in China",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-20-vietnamese-smartphone-makers-devices-will-offer-mask-facial-recognition.md",
-      "title": "Vietnamese Smartphone Maker’s Devices Will Offer Mask Facial Recognition",
-      "excerpt": "Vingroup’s device unit VinSmart will add facial recognition capabilities to its smartphones that can identify users wearing masks, the company said in an emailed statement.",
-      "heat": 78,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.bloomberg.com/news/articles/2020-04-20/vinsmart-to-offer-mask-facial-recognition-on-its-smartphones",
-      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-04-20/vinsmart-to-offer-mask-facial-recognition-on-its-smartphones",
-      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-04-20/vinsmart-to-offer-mask-facial-recognition-on-its-smartphones",
-      "publishedDateTime": "2020-04-19T20:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-19-have-1000-to-invest-buy-these-2-artificial-intelligence-stocks-now.md",
-      "title": "Have $1,000 to Invest? Buy These 2 Artificial Intelligence Stocks Now",
-      "excerpt": "Artificial intelligence (AI) -- the capability of a machine to mimic intelligent human behavior -- is a huge growth trend. The tech is being used to smarten up countless things la",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.fool.com/investing/2020/04/19/have-1000-to-invest-buy-these-2-artificial-intelli.aspx?source=eptcnnlnk0000002",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/04/19/have-1000-to-invest-buy-these-2-artificial-intelli.aspx",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/04/19/have-1000-to-invest-buy-these-2-artificial-intelli.aspx",
-      "publishedDateTime": "2020-04-19T16:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F568387%2Fbest-ai-stocks-best-artificial-intelligence-stocks-2020-amzn-syock-amazon-stock-nvda-stock-nvidia-stock-goog-stock-google-stock-alphabet-stock-evbg-stock-everbright-stock.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 800,
-          "title": "Have $1,000 to Invest? Buy These 2 Artificial Intelligence Stocks Now",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

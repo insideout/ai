@@ -2,6 +2,186 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2020-04-17-server-screw-up-exposes-clearviews-facial-recognition-ai-software.md",
+      "title": "Server screw-up exposes Clearview’s facial recognition AI software",
+      "excerpt": "Clearview AI is widely seen as a privacy nightmare by the public and even privacy-challenged tech giants like Google. Now, the company has shown that it can’t even take care of its own data, according to a report from TechCrunch. It managed to expose its source code to anyone with an internet connection due to a server misconfiguration ...",
+      "heat": 124,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.engadget.com/clearview-ai-source-code-security-lapse-092558647.html",
+      "ampWebUrl": "https://www.engadget.com/amp/clearview-ai-source-code-security-lapse-092558647.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/clearview-ai-source-code-security-lapse-092558647.html",
+      "publishedDateTime": "2020-04-17T02:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-04%2F28ce59d0-8081-11ea-bdfc-a85012ce4b5d&client=amp-blogside-v2&signature=f9db85aae85bfe0ff86ffd4d1d3a741e271a4252",
+          "width": 600,
+          "height": 350,
+          "title": "Server screw-up exposes Clearview’s facial recognition AI software",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2020-04-17-artificial-intelligence-trends-to-watch-out-for.md",
+      "title": "Artificial Intelligence Trends To Watch Out For",
+      "excerpt": "Trends and predictions in Artificial Intelligence can be difficult to predict, but one thing is certain - AI will make significant strides in the healthcare sector more so now given that we are battling a once in a lifetime pandemic. Although many businesses today throw the term “AI” around casually in their grey literature, it perfectly ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.entrepreneur.com/article/349421",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/349421",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/349421",
+      "publishedDateTime": "2020-04-17T02:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/20190109070104-shutterstock-529299211.jpeg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": "Artificial Intelligence Trends To Watch Out For",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-17-artificial-intelligence-market-size-share-ai-industry-trends-and-forecast.md",
+      "title": "Artificial Intelligence Market Size, Share | AI Industry Trends and Forecast",
+      "excerpt": "According to the latest report by IMARC Group, titled \"Artificial Intelligence Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2020-2025,\" the global artificial intelligence market size experienced healthy growth during 2014-2019.",
+      "heat": 81,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-size-share-ai-industry-trends-and-forecast-2020-04-17",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-17T01:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial Intelligence Market Size, Share | AI Industry Trends and Forecast",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-17-chinese-students-set-up-a-facebook-for-stray-cats-on-campus.md",
+      "title": "Chinese students set up a ‘Facebook’ for stray cats on campus",
+      "excerpt": "The “Facebook for cats” is just one of the many versatile ways people utilize ... Sign up now and get a 10% discount (original price US$400) off the China AI Report 2020 by SCMP Research. Learn about the AI ambitions of Alibaba, Baidu & JD.com through our in-depth case studies, and explore new applications of AI across industries.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.scmp.com/tech/article/3080394/chinese-students-set-facebook-stray-cats-campus",
+      "ampWebUrl": "https://amp.scmp.com/tech/article/3080394/chinese-students-set-facebook-stray-cats-campus",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/article/3080394/chinese-students-set-facebook-stray-cats-campus",
+      "publishedDateTime": "2020-04-16T23:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/2020/04/17/befunky-collage_4.jpg?itok=rmjhyk_b",
+          "width": 1200,
+          "height": 630,
+          "title": "Chinese students set up a ‘Facebook’ for stray cats on campus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-17-covid-19-how-artificial-intelligence-can-help-companies-plan-for-the-future.md",
       "title": "COVID-19: How artificial intelligence can help companies plan for the future",
       "excerpt": "Karen Roby speaks with Dataminr's Jen Jones about the role of artificial intelligence in the coronavirus crisis and why information is ... 1:39 Cross-Training Tool Kit IT Data Center Green Energy Policy Internet and Email Usage policy Hiring Kit: Robotics Engineer",
@@ -875,177 +1055,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-16-ai-spots-critical-microsoft-security-bugs-97-of-the-time.md",
-      "title": "AI spots critical Microsoft security bugs 97% of the time",
-      "excerpt": "Microsoft isn’t the only tech giant using AI to weed out software bugs. Amazon’s CodeGuru service, which was partly trained on code reviews and apps developed internally at Amazon, spots issues including resource leaks and wasted CPU cycles. As for Facebook, it developed a tool called SapFix that generates fixes for bugs before sending them ...",
-      "heat": 97,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/16/ai-spots-critical-microsoft-security-bugs-97-of-the-time/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/16/ai-spots-critical-microsoft-security-bugs-97-of-the-time/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/16/ai-spots-critical-microsoft-security-bugs-97-of-the-time/amp/",
-      "publishedDateTime": "2020-04-16T10:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/11/microsoft-1-e1580261336710.jpg?fit=1200%2C573&strip=all",
-          "width": 1200,
-          "height": 573,
-          "title": "AI spots critical Microsoft security bugs 97% of the time",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-16-ibm-introduces-ground-breaking-ai-astronaut-assistant.md",
-      "title": "IBM introduces ground-breaking AI astronaut assistant",
-      "excerpt": "The latest version of the artificial intelligence-powered astronaut assistant, CIMON-2, powered by IBM Watson technologies, was both successfully launched (December 5, 2019) and deployed (February 2020), signifying CIMON-2's completion of the next step in its research on the effects of stress and isolation during long-term missions.",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/ibm-introduces-ground-breaking-ai-astronaut-assistant/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ibm-introduces-ground-breaking-ai-astronaut-assistant/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ibm-introduces-ground-breaking-ai-astronaut-assistant/",
-      "publishedDateTime": "2020-04-16T10:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr4.cbsistatic.com/hub/i/r/2019/11/21/74f82f4c-9bf0-45d0-b25b-dc531bda7522/thumbnail/1200x675/d6c68e9704c02b8e85ffd06c329c02c0/20191031-veronica-karen.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "IBM introduces ground-breaking AI astronaut assistant",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-16-eight-storage-requirements-for-ai-and-deep-learning.md",
-      "title": "Eight Storage Requirements for AI and Deep Learning",
-      "excerpt": "Data is the life-blood of artificial intelligence and deep learning (AI and DL). Vast quantities of training data enhance accuracy in the search for potentially predictive relationships. This paper delivers eight specific storage requirements of AI and DL applications and why they demand the data management capabilities supplied by enterprise object storage solutions.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://virtualizationreview.com/whitepapers/2020/04/cloudian-eight-storage-requirements-for-ai-and-deep-learning.aspx?admgarea=symantec&tc=page0",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-16T10:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Virtualization Review",
-        "domain": "virtualizationreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://virtualizationreview.com/~/media/ECG/VirtualizationReview/VRlogo.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": "Eight Storage Requirements for AI and Deep Learning",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-16-former-fbi-agent-of-25-years-explains-how-to-speed-read-body-languagenow-that-were-wearing-face-masks.md",
-      "title": "Former FBI agent of 25 years explains how to 'speed-read' body language—now that we're wearing face masks",
-      "excerpt": "Our facial expressions reflect our current emotional conditions. But now that many of us are required to wear face masks (to prevent the spread of coronavirus), detecting each other's thoughts and feelings can be tricky.",
-      "heat": 72,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnbc.com/2020/04/16/retired-fbi-agent-how-to-read-body-language-during-coronavirus-when-wearing-face-masks.html",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/04/16/retired-fbi-agent-how-to-read-body-language-during-coronavirus-when-wearing-face-masks.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/04/16/retired-fbi-agent-how-to-read-body-language-during-coronavirus-when-wearing-face-masks.html",
-      "publishedDateTime": "2020-04-16T10:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106490292-1586980001137gettyimages-1154813597.jpg?v=1586980056",
-          "width": 6720,
-          "height": 4480,
-          "title": "Former FBI agent of 25 years explains how to 'speed-read' body language—now that we're wearing face masks",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

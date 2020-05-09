@@ -2,6 +2,155 @@
   "page": 72,
   "value": [
     {
+      "path": "_news/2020-03-12-responsible-ai-moves-into-focus-at-microsofts-data-science-and-law-forum.md",
+      "title": "Responsible AI Moves Into Focus at Microsoft's Data Science and Law Forum",
+      "excerpt": "A year later, Microsoft set up its AI and Ethics in Engineering and Research (AETHER) Committee, a cross-company set of internal working groups tasked with deliberating over hard questions about the use of AI and advising Microsoft leadership on its development. The AETHER advisory committee set the blueprint for the publication in 2018 of ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cmswire.com/information-management/responsible-ai-moves-into-focus-at-microsofts-data-science-and-law-forum/",
+      "ampWebUrl": "https://www.cmswire.com/information-management/responsible-ai-moves-into-focus-at-microsofts-data-science-and-law-forum/amp/",
+      "cdnAmpWebUrl": "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/information-management/responsible-ai-moves-into-focus-at-microsofts-data-science-and-law-forum/amp/",
+      "publishedDateTime": "2020-03-12T05:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CMS Wire",
+        "domain": "cmswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.cmswire.com/-/media/images/smg/editorial/2020-didier-reynolds-ec-commissioner-for-justice.ashx?mw=1024",
+          "width": 640,
+          "height": 480,
+          "title": "Responsible AI Moves Into Focus at Microsoft's Data Science and Law Forum",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-12-michael-guberti-three-ways-to-grow-your-business-with-artificial-intelligence.md",
+      "title": "Michael Guberti: Three ways to grow your business with artificial intelligence",
+      "excerpt": "Artificial intelligence involves robots and algorithms that can perform tasks, solve problems and adapt to different situations. If you have Googled directions to a location, asked Alexa a question, scrolled through Facebook, browsed recommended products on Amazon or asked Siri to call a friend, you have interacted with artificial intelligence.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://westfaironline.com/122170/michael-guberti-three-ways-to-grow-your-business-with-artificial-intelligence/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-12T05:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Westfaironline.com",
+        "domain": "westfaironline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://westfaironline.com/wp-content/uploads/2019/08/Michael_Guberti.jpg",
+          "width": 650,
+          "height": 440,
+          "title": "Michael Guberti: Three ways to grow your business with artificial intelligence",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-12-towards-an-ai-led-2020.md",
+      "title": "Towards an AI-led 2020",
+      "excerpt": "Paul Morgan, Business Unit Lead – Data, Planning, and Analytics at Altron Karabina AI, machine learning, and data science are becoming more mainstream in larger organisations in South Africa. Thanks to the availability of the local Azure data centres, AI has become much easier to use, and companies are able to make use of Cognitive Services ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.bizcommunity.com/Article/196/852/201540.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-12T05:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bizcommunity",
+        "domain": "bizcommunity.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://biz-file.com/c/2003/542725.jpg",
+          "width": 669,
+          "height": 632,
+          "title": "Towards an AI-led 2020",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-12-swiss-re-launches-digital-market-center-supported-by-microsoft-data-analytics-ai-tools.md",
+      "title": "Swiss Re Launches Digital Market Center Supported by Microsoft Data Analytics, AI Tools",
+      "excerpt": "As part of the strategic alliance, Swiss Re will transform its internal operating platform by modernizing and moving it to the Azure cloud. This move will increase the efficiency and effectiveness of the core processes by leveraging the most advanced data processing and AI capabilities at scale. “Swiss Re’s alliance with Microsoft will help ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.insurancejournal.com/news/international/2020/03/12/560945.htm",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-12T04:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Insurance Journal",
+        "domain": "insurancejournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.insurancejournal.com/app/uploads/2017/03/business-technology-.jpg",
+          "width": 900,
+          "height": 615,
+          "title": "Swiss Re Launches Digital Market Center Supported by Microsoft Data Analytics, AI Tools",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-12-farewell-to-the-old-assembly-line-automation-is-changing-manufacturing-processes-in-the-automotive-industry.md",
       "title": "Farewell to the old assembly line: Automation is changing manufacturing processes in the automotive industry",
       "excerpt": "Instead, the vehicles move through production on driverless transport systems, also called autonomous guided vehicles ... the assembly stations that are currently available on autonomous transport systems. Algorithms and artificial intelligence support planning and make decision-making more efficient.” According to Uellendahl, the increased ...",
@@ -817,161 +966,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-11-abb-partners-with-covariant-for-integrated-ai-robotic-solutions.md",
-      "title": "ABB partners with Covariant for integrated AI robotic solutions",
-      "excerpt": "ABB and Silicon Valley AI start-up, Covariant, have partnered up to bring AI-enabled robotics solutions to market, starting with a fully autonomous warehouse order fulfillment solution. According to ABB, the partnership brings together the two companies with a vision for robotics enabled by AI, where intelligent robots work alongside humans in ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.controldesign.com/industrynews/2020/abb-partners-with-covariant-for-integrated-ai-robotic-solutions/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-11T13:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Control Design",
-        "domain": "controldesign.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.controldesign.com/assets/Uploads/ABB-robots-sorting-different-packages-with-Covariant-AI-sb.jpg",
-          "width": 880,
-          "height": 440,
-          "title": "ABB partners with Covariant for integrated AI robotic solutions",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-11-new-scientist-got-an-early-glimpse-of-voice-recognition-technology.md",
-      "title": "New Scientist got an early glimpse of voice recognition technology",
-      "excerpt": "HEY Siri, we saw you coming. In our 17 March 1990 issue, we wrote about a computer system that could recognise continuous speech and may, we predicted, “form the basis of a personal computer controlled by voice”. At the time, this intriguing new technology had already piqued the interest of Apple, which we then described as “famous for ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.newscientist.com/article/mg24532732-700-new-scientist-got-an-early-glimpse-of-voice-recognition-technology/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-11T11:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Scientist",
-        "domain": "newscientist.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.newscientist.com/wp-content/uploads/2015/08/ns-logo-for-featured-image.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "New Scientist got an early glimpse of voice recognition technology",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-11-researchers-criticize-opacity-of-googles-mammogram-reading-ai-study.md",
-      "title": "Researchers criticize opacity of Google's mammogram-reading AI study",
-      "excerpt": "Though a study published Jan. 1 describing the success of Google's DeepMind artificial intelligence at diagnosing breast cancer was largely met with praise and excitement, in a Feb. 28 response, a group of AI researchers criticized the study's lack of transparency. In the initial study, Google researchers found the DeepMind AI produced fewer ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.beckershospitalreview.com/artificial-intelligence/researchers-criticize-opacity-of-google-s-mammogram-reading-ai-study.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-11T11:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Becker's Hospital Review",
-        "domain": "beckershospitalreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/5.jpg",
-          "width": 400,
-          "height": 300,
-          "title": "Researchers criticize opacity of Google's mammogram-reading AI study",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-11-is-inter-company-automation-the-next-frontier-for-ai-a-new-startup-backboneai-says-yes.md",
-      "title": "Is Inter-Company Automation The Next Frontier For AI? A New Startup, BackboneAI, Says Yes.",
-      "excerpt": "BackboneAI is designed to fill the need for automation between companies, a distinct approach from other solutions that focus on AI within a company or between a company and its customers. The startup was founded by Rob Bailey with seed funding of $4.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/micahsolomon/2020/03/10/is-inter-company-automation-the-next-frontier-of-ai-a-new-startup-backboneai-thinks-it-is/",
-      "ampWebUrl": "https://www.forbes.com/sites/micahsolomon/2020/03/10/is-inter-company-automation-the-next-frontier-of-ai-a-new-startup-backboneai-thinks-it-is/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/micahsolomon/2020/03/10/is-inter-company-automation-the-next-frontier-of-ai-a-new-startup-backboneai-thinks-it-is/amp/",
-      "publishedDateTime": "2020-03-11T10:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e41ed80f133f400076c2216%2F0x0.jpg",
-          "width": 612,
-          "height": 1156,
-          "title": "Is Inter-Company Automation The Next Frontier For AI? A New Startup, BackboneAI, Says Yes.",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

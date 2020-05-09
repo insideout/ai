@@ -2,6 +2,141 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-05-05-ibm-and-red-hat-expand-their-telco-edge-and-ai-enterprise-offerings.md",
+      "title": "IBM and Red Hat expand their telco, edge and AI enterprise offerings",
+      "excerpt": "At its Think Digital conference, IBM and Red Hat today announced a number of new services that all center around 5G edge and AI. The fact that the company is focusing on these two areas doesn’t come as a surprise,",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/05/04/ibm-and-red-hat-expand-their-telco-edge-and-ai-enterprise-offerings/",
+      "ampWebUrl": "https://techcrunch.com/2020/05/04/ibm-and-red-hat-expand-their-telco-edge-and-ai-enterprise-offerings/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/04/ibm-and-red-hat-expand-their-telco-edge-and-ai-enterprise-offerings/amp/",
+      "publishedDateTime": "2020-05-04T21:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/05/GettyImages-1124597376.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": "IBM and Red Hat expand their telco, edge and AI enterprise offerings",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-05-ibm-ceo-lays-out-new-initiatives-in-cloud-ai.md",
+      "title": "IBM CEO Lays Out New Initiatives in Cloud, AI",
+      "excerpt": "As he addresses the need for growth, Arvind Krishna must drive into the headwinds of a global economic crisis triggered by the coronavirus pandemic.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wsj.com/articles/ibm-ceo-lays-out-new-initiatives-in-cloud-ai-11588651261",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/ibm-ceo-lays-out-new-initiatives-in-cloud-ai-11588651261",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ibm-ceo-lays-out-new-initiatives-in-cloud-ai-11588651261",
+      "publishedDateTime": "2020-05-04T21:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-183494/social",
+          "width": 1280,
+          "height": 640,
+          "title": "IBM CEO Lays Out New Initiatives in Cloud, AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-05-ibm-transition-to-cloud-now-an-existential-question.md",
+      "title": "IBM: Transition to cloud now ‘an existential question’",
+      "excerpt": "With hybrid cloud environments made essential by the mandated transition to remote working, the firm hopes Watson AIOps can help businesses better insulate themselves from future disruption. According to Hillery Hunter,",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techradar.com/au/news/ibm-transition-to-cloud-now-an-existential-question",
+      "ampWebUrl": "https://www.techradar.com/au/amp/news/ibm-transition-to-cloud-now-an-existential-question",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/ibm-transition-to-cloud-now-an-existential-question",
+      "publishedDateTime": "2020-05-04T21:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/SGnnZFtV55P3GAh8dkMaER-1200-80.jpg",
+          "width": 970,
+          "height": 545,
+          "title": "IBM: Transition to cloud now ‘an existential question’",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-05-ibm-think-new-automated-solutions-for-the-cio.md",
       "title": "IBM Think: New automated solutions for the CIO",
       "excerpt": "IBM released a new set of automated artificial intelligence (AI) operations capabilities during its Think Digital conference on Tuesday. In addition to Watson AIOps, IBM also released the Accelerator for Application Modernization with AI,",
@@ -1180,140 +1315,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-04-here-are-the-top-10-technology-trends-of-the-4th-industrial-revolution.md",
-      "title": "Here Are The Top 10 Technology Trends Of The 4th Industrial Revolution",
-      "excerpt": "There are many technology trends that are currently altering the world as we know it. Here I pull out the top 10 future tech trends that will define the next decade and explain what they are and how each is transforming our world.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2020/05/04/here-are-the-top-10-technology-trends-of-the-4th-industrial-revolution/",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2020/05/04/here-are-the-top-10-technology-trends-of-the-4th-industrial-revolution/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2020/05/04/here-are-the-top-10-technology-trends-of-the-4th-industrial-revolution/amp/",
-      "publishedDateTime": "2020-05-03T21:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eaf9842bf289800084688b1%2F0x0.jpg",
-          "width": 1199,
-          "height": 743,
-          "title": "Here Are The Top 10 Technology Trends Of The 4th Industrial Revolution",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-03-tech-in-latin-america-an-entrepreneurs-guide-to-aprils-startup-news.md",
-      "title": "Tech in Latin America: An entrepreneur’s guide to April’s startup news",
-      "excerpt": "Conrad lives in Medellin & NYC and profiles startup ecosystems during his travels. He is a Global Mentor at 500",
-      "heat": 72,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/podium/2020/05/03/tech-in-latin-america-an-entrepreneurs-guide-to-aprils-startup-news/",
-      "ampWebUrl": "https://thenextweb.com/podium/2020/05/03/tech-in-latin-america-an-entrepreneurs-guide-to-aprils-startup-news/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/podium/2020/05/03/tech-in-latin-america-an-entrepreneurs-guide-to-aprils-startup-news/amp/",
-      "publishedDateTime": "2020-05-03T15:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/93375883_3166416773370956_1945378279644987392_o-796x530.jpg",
-          "width": 796,
-          "height": 530,
-          "title": "Tech in Latin America: An entrepreneur’s guide to April’s startup news",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-03-intels-raja-koduri-confirms-that-massive-father-of-all-gpu-is-aimed-at-the-data-center.md",
-      "title": "Intel's Raja Koduri confirms that massive 'father of all' GPU is aimed at the data center",
-      "excerpt": "Intel tweeted a photo teasing a massive and mysterious GPU on Friday, and in doing so, lit the internet aflame with speculation. Early on, pretty much everyone settled on it being a form of Intel's upcoming Xe HP or",
-      "heat": 95,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techspot.com/news/85076-intel-raja-koduri-confirms-massive-father-all-gpu.html",
-      "ampWebUrl": "https://www.techspot.com/amp/news/85076-intel-raja-koduri-confirms-massive-father-all-gpu.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/85076-intel-raja-koduri-confirms-massive-father-all-gpu.html",
-      "publishedDateTime": "2020-05-03T10:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://static.techspot.com/articles-info/1898/images/2019-08-22-image.jpg",
-          "width": 2200,
-          "height": 1140,
-          "title": "Intel's Raja Koduri confirms that massive 'father of all' GPU is aimed at the data center",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

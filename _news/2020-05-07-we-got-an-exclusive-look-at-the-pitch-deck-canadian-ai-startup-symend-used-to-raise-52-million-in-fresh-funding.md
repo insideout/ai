@@ -5,8 +5,8 @@ excerpt: "\"We are very blessed that investors are in this for right reason. Whe
 publishedDateTime: 2020-05-07T12:16:00Z
 webUrl: "https://www.businessinsider.com/symend-ai-tech-startup-raises-52-million-from-vc-investors-2020-5"
 type: article
-quality: 46
-heat: 46
+quality: 48
+heat: 48
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://i.insider.com/5eb29ad8204ad356f7327ba6?width=1200&format=jpeg"

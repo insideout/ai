@@ -1,13 +1,10 @@
 ---
 category: news
 title: "Arista Delivers Cognitive WiFi for Collaboration, Video and Chat Applications"
-excerpt: "Arista Networks, today announced a new release of its Cognitive WiFi software that seamlessly delivers intelligent application identification, performance optimization, automated troubleshooting and location services."
-publishedDateTime: 2020-04-24T06:18:00Z
-webUrl: "https://www.newswiretoday.com/news/172782/"
+excerpt: "Arista Networks, today announced a new release of its Cognitive WiFi software that seamlessly delivers intelligent application identification, performance optimization, automated troubleshooting and location services ... Zoom and Microsoft Team video ..."
+publishedDateTime: 2020-04-24T19:48:00Z
+webUrl: "https://www.newswiretoday.com/news/172782/Arista-Delivers-Cognitive-WiFi-for-Collaboration-Video-and-Chat-Applications/"
 type: article
-quality: 1
-heat: 1
-published: false
 
 provider:
   name: Newswire Today
@@ -17,6 +14,6 @@ topics:
   - Microsoft AI
   - AI
 
-secured: "9QGnMKtGB50yJ7CLRfzuYhub2qCWS4eTyQk8nDwKKe5HgeSnxDSY7hyyDA9/6DvHMhAigiXFY2nPziFTogrm9Ab4VQiU0viR0T5i1H7iIi+G9RML6ua9uzGSd3ku3bcHLrZSfRUWkzA6fwLZ2AOhYknMdFmvl7TyOMcs9G/3fHprVgVv7w3VzdIB9eVGNLve0weWNfdDV7HxkEOmGI2xCKLkVkT+Ur9Iuea18ynyjAdfq2euC3WixHKls5lu6hfNGefLang+ErkgqQUL4ttjcu2DrcajQ0R3qChPiZG5huO9bieyaoIUx+6PR56tWMBJpe3BrBhuqy3oe8X/5lanMFHzXjVn6F4Izu7/BFCaoOMQvonZcbTbvft2TQazFyeVR1WTUoPYsZkN6G6xJPK9Mqap239d5L8elHo3uqGsGeOE5phBQ1EAWKXhIQrBbTTUOLgwvZZGYLeFmhQZ8T7RoJ6IGT5cL3fTaYdZNi+LP/Q=;2S8jLdNwwSbNtdAqMOFMsA=="
+secured: "2SLOl9uay6aTnnQw6mWK4ia1dvKMA3Ib/QGIAU+jE+Rk5ua5GfNsl90X3kJziCd8s0CuremTuxRJoX4W+cPZ8zaE5fe0+zubdO2wHd6YOYOGEgWUzEpSWkQ5tGbRbY4K0QEBDNJOX06g2flC+3DFCAnSo2qmJnZO3pvFJJ3JcdfjUXL+pLMeT5CLvu50tOhyUzInmX86D4Ik8leJseZqLZLLkj7CoJwDLBe4aUmmZJfkA5MC/J3C69CINBRMfv7xBltO+SdRa+xrlFAMFYqsUbH7wW0uBTEDAPTboegA0Jz0bqrdm7NCSaiQRf12D1az;YRmcxrudHAEVoLoWXqPC/Q=="
 ---
 

@@ -2,6 +2,139 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-05-07-artificial-intelligence-ai-in-supply-chain-market-sharerevenue-demand-and-forecast-to-2023.md",
+      "title": "Artificial Intelligence (AI) in Supply Chain Market Share,Revenue, Demand and Forecast to 2023",
+      "excerpt": "Artificial Intelligence in Supply Chain Market, By Component (Software, Network, Hardware, FPGA, GPU, ASIC), by",
+      "heat": 72,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-supply-chain-market-sharerevenue-demand-and-forecast-to-2023-2020-05-07",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-06T22:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial Intelligence (AI) in Supply Chain Market Share,Revenue, Demand and Forecast to 2023",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-07-la-trobe-university-using-artificial-intelligence-to-reduce-course-dropout-rates.md",
+      "title": "La Trobe University using artificial intelligence to reduce course dropout rates",
+      "excerpt": "The Bachelor of Arts Explorer allows students to shortlist majors and see what careers they can enter if they study a specific course.",
+      "heat": 82,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/la-trobe-using-artificial-intelligence-to-reduce-course-dropout-rates/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/la-trobe-using-artificial-intelligence-to-reduce-course-dropout-rates/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/la-trobe-using-artificial-intelligence-to-reduce-course-dropout-rates/",
+      "publishedDateTime": "2020-05-06T17:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/05/06/beae507b-2d7e-48b2-ac68-6996eb050e6e/bachelor-of-arts-explorer.png",
+          "width": 1248,
+          "height": 764,
+          "title": "La Trobe University using artificial intelligence to reduce course dropout rates",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-06-facebooks-ai-learns-how-to-learn-to-transport-payloads-using-a-drone.md",
+      "title": "Facebook’s AI ‘learns how to learn’ to transport payloads using a drone",
+      "excerpt": "In a recent paper, Facebook and University of California, Berkely researchers propose an approach to payload-carrying drone flight planning that “learns how to learn” models of environmental dynamics.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/05/06/facebooks-ai-learns-how-to-learn-to-transport-payloads-using-a-drone/",
+      "ampWebUrl": "https://venturebeat.com/2020/05/06/facebooks-ai-learns-how-to-learn-to-transport-payloads-using-a-drone/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/06/facebooks-ai-learns-how-to-learn-to-transport-payloads-using-a-drone/amp/",
+      "publishedDateTime": "2020-05-06T13:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/08/Drones.jpg?fit=1200%2C800&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": "Facebook’s AI ‘learns how to learn’ to transport payloads using a drone",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-06-facebook-cancels-its-2020-2021-ai-residency-program-due-to-coronavirus.md",
       "title": "Facebook cancels its 2020-2021 AI Residency program due to coronavirus",
       "excerpt": "Facebook today announced that it plans to cancel its 2020-2021 in-person AI Residency program as a result of the novel coronavirus pandemic. In a statement sent to VentureBeat via email, Facebook vice president of AI Jerome Pesenti said that the decision was motivated by health and safety concerns.",
@@ -979,140 +1112,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-06-cloudera-machine-learning-mlops-suite-generally-available-as-it-aims-to-manage-models-analytics.md",
-      "title": "Cloudera Machine Learning MLOps suite generally available as it aims to manage models, analytics",
-      "excerpt": "Cloudera Data Platform has seen solid traction in recent quarters from Cloudera and the hope is that CML MLOps will ride shotgun.",
-      "heat": 106,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/cloudera-machine-learning-mlops-suite-generally-available-as-it-aims-to-manage-models-analytics/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/cloudera-machine-learning-mlops-suite-generally-available-as-it-aims-to-manage-models-analytics/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/cloudera-machine-learning-mlops-suite-generally-available-as-it-aims-to-manage-models-analytics/",
-      "publishedDateTime": "2020-05-06T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/2020/05/04/505681e3-f238-45b7-bd5b-104ba4903fbc/end-to-end-production-workflows-in-cml.png",
-          "width": 799,
-          "height": 451,
-          "title": "Cloudera Machine Learning MLOps suite generally available as it aims to manage models, analytics",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-06-sleeker-lidar-moves-volvo-closer-to-selling-a-self-driving-car.md",
-      "title": "Sleeker Lidar Moves Volvo Closer to Selling a Self-Driving Car",
-      "excerpt": "Using technology from Silicon Valley's Luminar, the Swedish automaker plans to offer completely autonomous highway driving by 2022.",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wired.com/story/sleeker-lidar-moves-volvo-closer-selling-self-driving-car/",
-      "ampWebUrl": "https://www.wired.com/story/sleeker-lidar-moves-volvo-closer-selling-self-driving-car/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/sleeker-lidar-moves-volvo-closer-selling-self-driving-car/amp",
-      "publishedDateTime": "2020-05-06T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5eb1926f0371f8083eb2ceaf/master/pass/265652_V60_R-Design_in_Crystal_White_Pearl.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": "Sleeker Lidar Moves Volvo Closer to Selling a Self-Driving Car",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-06-this-smart-ai-powered-stock-photo-library-helps-you-find-the-perfect-image.md",
-      "title": "This Smart, AI-Powered Stock Photo Library Helps You Find the Perfect Image",
-      "excerpt": "Sure, JumpStory™ gives entrepreneurs and marketers access to high-quality imagery, but it also makes it easy to find the right images for whatever project you're tackling Their",
-      "heat": 85,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.entrepreneur.com/article/350185",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/350185",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/350185",
-      "publishedDateTime": "2020-05-06T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/20200505043454-Ent-Jumpstory.jpeg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": "This Smart, AI-Powered Stock Photo Library Helps You Find the Perfect Image",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

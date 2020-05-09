@@ -2,6 +2,52 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-02-24-all-things-gcp-machine-learning-decision-pyramid.md",
+      "title": "All things GCP: Machine Learning Decision pyramid",
+      "excerpt": "Many users want Machine Learning in their products and cloud providers like GCP, AWS Azure, etc knows about this. Because of this demand, as per the user's needs and expertise they can provide machine learning tools out of the box and users can work on complex Machine Learning tasks by a few lines of code or no code at all! Understanding of ...",
+      "heat": 81,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/analytics-vidhya/all-things-gcp-machine-learning-decision-pyramid-82260c798a88",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-24T15:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/1200/1*Jj3jiMWxYJOMJIcMQj34bw.jpeg",
+          "width": 1200,
+          "height": 675,
+          "title": "All things GCP: Machine Learning Decision pyramid",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-02-24-microsoft-azure-sphere-launches-in-general-availability.md",
       "title": "Microsoft Azure Sphere launches in general availability",
       "excerpt": "As for brownfield, it calls for an Azure Sphere “guardian” device — the bulk of which are produced by Avnet and AI-Link — to connect existing hardware to the internet. Azure Sphere hardware is available in several configurations, including Wi-Fi modules, development kits and dev boards (from partners like Seeed Studios and USI), and the ...",
@@ -1247,51 +1293,6 @@
           "width": 1200,
           "height": 600,
           "title": "Amazon Polly’s Brand Voice taps AI to generate custom spokespeople",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-04-kaskada-raises-8-million-to-facilitate-ai-feature-engineering.md",
-      "title": "Kaskada raises $8 million to facilitate AI feature engineering",
-      "excerpt": "Meanwhile, Iguazio last month nabbed $24 million for its suite of AI development and management tools, and Clusterone raked in $2 million for its DevOps for AI platform that operates with both on-premise servers and public cloud computing platforms like AWS, Azure, and Google Cloud Platform.",
-      "heat": 109,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/02/04/kaskada-raises-8-million-to-facilitate-ai-feature-engineering/",
-      "ampWebUrl": "https://venturebeat.com/2020/02/04/kaskada-raises-8-million-to-facilitate-ai-feature-engineering/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/04/kaskada-raises-8-million-to-facilitate-ai-feature-engineering/amp/",
-      "publishedDateTime": "2020-02-04T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/01/kaskada-card-image.png?fit=1200%2C628&strip=all",
-          "width": 1200,
-          "height": 628,
-          "title": "Kaskada raises $8 million to facilitate AI feature engineering",
           "attribution": null
         }
       ],

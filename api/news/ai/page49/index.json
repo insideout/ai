@@ -2,6 +2,160 @@
   "page": 49,
   "value": [
     {
+      "path": "_news/2020-03-20-waymo-gamifies-self-driving-car-data-and-wants-everyone-involved.md",
+      "title": "Waymo gamifies self-driving car data and wants everyone involved",
+      "excerpt": "Waymo expands its Open Dataset program and issues some challenges that may result in prize money. Waymo is calling all intrigued minds to partake in an Open Dataset challenge, and it could result in some cold,",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnet.com/roadshow/news/waymo-self-driving-car-data-game-prize/",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/waymo-self-driving-car-data-game-prize/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/waymo-self-driving-car-data-game-prize/",
+      "publishedDateTime": "2020-03-20T11:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cnet3.cbsistatic.com/img/reqDD4K5243DNGVR3dFQcAi2c_o=/2019/08/21/3bba88b6-75ae-43fc-8e92-4d307cf9c2eb/waymo-data-ogi.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": "Waymo gamifies self-driving car data and wants everyone involved",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-20-ai-analyzes-biology-studies-to-find-out-were-getting-better-at-wildlife-conservation.md",
+      "title": "AI analyzes biology studies to find out we’re getting better at wildlife conservation",
+      "excerpt": "A new AI system has revealed that we’re finally getting better at wildlife conservation. Researchers came to this conclusion after using machine learning to analyze more than 4,000 studies on species reintroduction across four decades. The system evaluated the outcomes of conservation programs by assessing the study abstracts with sentiment ...",
+      "heat": 80,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/03/20/ai-analyzes-biology-studies-to-find-out-were-getting-better-at-wildlife-conservation/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/03/20/ai-analyzes-biology-studies-to-find-out-were-getting-better-at-wildlife-conservation/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/03/20/ai-analyzes-biology-studies-to-find-out-were-getting-better-at-wildlife-conservation/amp/",
+      "publishedDateTime": "2020-03-20T11:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/03/Untitled-design32-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "AI analyzes biology studies to find out we’re getting better at wildlife conservation",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-20-anthony-levandowski-admits-stealing-googles-self-driving-car-secrets.md",
+      "title": "Anthony Levandowski admits stealing Google's self-driving car secrets",
+      "excerpt": "A former Google engineer has admitted stealing trade secrets relating to the company's self-driving car work. Anthony Levandowski was accused of downloading thousands of proprietary files from Google in 2015 prior to leaving the company. One of the files downloaded by Levandowski to his personal laptop was called 'Chauffeur TL weekly updates ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.iottechnews.com/news/2020/mar/20/anthony-levandowski-stealing-google-self-driving-car-secrets/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-20T10:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "iottechnews.com",
+        "domain": "iottechnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.iottechnews.com/media/img/news/anthony_levandowski_google_uber_trade_secrets_self_driving_cars_autonomous_iot.png.600x600_q96.png",
+          "width": 600,
+          "height": 401,
+          "title": "Anthony Levandowski admits stealing Google's self-driving car secrets",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-20-statement-re-wisdomtree-artificial-intelligence-ucits-etf.md",
+      "title": "Statement Re WisdomTree Artificial Intelligence UCITS ETF",
+      "excerpt": "NOTICE TO SHAREHOLDERS OF WISDOMTREE ISSUER PLC This notice is important and requires your immediate attention. If you are in any doubt about its",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.globenewswire.com/news-release/2020/03/20/2004137/0/en/Statement-Re-WisdomTree-Artificial-Intelligence-UCITS-ETF.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-20T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GlobeNewswire",
+        "domain": "globenewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-20-despite-setbacks-coronavirus-could-hasten-the-adoption-of-autonomous-vehicles-and-delivery-robots.md",
       "title": "Despite setbacks, coronavirus could hasten the adoption of autonomous vehicles and delivery robots",
       "excerpt": "In partnership with Apollo, Baidu’s autonomous vehicle platform ... More than 60% of respondents to the Brookings poll said they weren’t inclined to ride in self-driving cars, and almost 70% of those surveyed by the AHAS expressed concerns about sharing the road with them. For this reason, Nisenbaum predicts that adoption will happen ...",
@@ -1030,177 +1184,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-19-starsky-robotics-co-founder-on-self-driving-truck-shutdown.md",
-      "title": "Starsky Robotics co-founder on self-driving truck shutdown",
-      "excerpt": "The autonomous trucking startup was founded in 2015 and raised about ... re instead seeing exponential increases in the cost to improve AI systems — supervised ML seems to follow an S-Curve.” Seltz-Axmacher said a $20 million Series B fell apart in November 2019. Starsky Robotics then furloughed most of its employees and began working ...",
-      "heat": 114,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.therobotreport.com/starsky-robotics-co-founder-on-self-driving-truck-shutdown/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-19T12:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2020/03/starsky-robotics-scaled-e1584644960580.jpeg",
-          "width": 1000,
-          "height": 892,
-          "title": "Starsky Robotics co-founder on self-driving truck shutdown",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-19-ibms-starnet-brings-explainable-ai-to-image-classification.md",
-      "title": "IBM’s StarNet brings explainable AI to image classification",
-      "excerpt": "By extension, it could cut down on deployment time for AI projects involving classifiers, which surveys show ranges between 8 and 90 days. StarNet consists of a few-shot classifier module attached to an extractor, both of which are trained in a meta-learning fashion where episodes are randomly sampled from classes. Each episode comprises ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/03/19/ibm-starnet-explainable-image-classification/",
-      "ampWebUrl": "https://venturebeat.com/2020/03/19/ibm-starnet-explainable-image-classification/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/19/ibm-starnet-explainable-image-classification/amp/",
-      "publishedDateTime": "2020-03-19T12:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/11/ibm-keyboard-logo.png?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "IBM’s StarNet brings explainable AI to image classification",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-19-artificial-intelligence-for-edge-devices-market-detailed-analysis-and-growth-prospects-for-next-5-years.md",
-      "title": "Artificial Intelligence for Edge Devices Market Detailed analysis and growth prospects for Next 5 Years",
-      "excerpt": "Advance Market Analytics recently introduced Global Artificial Intelligence for Edge Devices Market study with in-depth overview, describing about the Product / Industry Scope and elaborates market outlook and status to 2025.",
-      "heat": 70,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-for-edge-devices-market-detailed-analysis-and-growth-prospects-for-next-5-years-2020-03-19",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-19T11:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Artificial Intelligence for Edge Devices Market Detailed analysis and growth prospects for Next 5 Years",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-03-19-insights-how-ai-is-changing-jobs.md",
-      "title": "Insights: How AI is Changing Jobs",
-      "excerpt": "FORTUNE On-Demand",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://fortune.com/videos/insights/insights%3A-how-ai-is-changing-jobs",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-19T10:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fortune",
-        "domain": "fortune.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/fortune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://video.fortune.com/static/images/on-demand-share.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": "Insights: How AI is Changing Jobs",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

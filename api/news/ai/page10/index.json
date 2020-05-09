@@ -2,6 +2,124 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-04-29-saykara-ai-voice-assistant-eases-transition-to-virtual-healthcare.md",
+      "title": "Saykara AI Voice Assistant Eases Transition to Virtual Healthcare",
+      "excerpt": "Saykara, creator of the first ambient AI voice assistant for medical exam room conversations, today announced it has added a telehealth on-ramp to make",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/saykara-ai-voice-assistant-eases-transition-to-virtual-healthcare/article_0f4573e4-e2a2-54bc-acad-952d7eaf1831.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-29T05:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-29-quest-for-fusion-energy-may-be-advanced-by-artificial-intelligence-and-machine-learning.md",
+      "title": "Quest for Fusion Energy May Be Advanced by Artificial Intelligence and Machine Learning",
+      "excerpt": "Algorithms are increasingly being deployed to predict disruptions that could potentially occur during fusion experiments and may help turn the long-discussed energy source into reality, experts say.",
+      "heat": 96,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.newsweek.com/fusion-energy-experiments-machine-learning-artificial-intelligence-computing-iter-1500868",
+      "ampWebUrl": "https://www.newsweek.com/fusion-energy-experiments-machine-learning-artificial-intelligence-computing-iter-1500868?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/fusion-energy-experiments-machine-learning-artificial-intelligence-computing-iter-1500868?amp=1",
+      "publishedDateTime": "2020-04-29T05:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1585581/iter.jpg",
+          "width": 2500,
+          "height": 1666,
+          "title": "Quest for Fusion Energy May Be Advanced by Artificial Intelligence and Machine Learning",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-04-29-uk-start-ups-have-raised-825-million-during-virus-lockdown-but-fewer-deals-are-being-made.md",
+      "title": "UK start-ups have raised $825 million during virus lockdown, but fewer deals are being made",
+      "excerpt": "Funding into U.K. start-ups has soared by 34% as investors look to ensure their bets stay afloat during the coronavirus pandemic.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2020/04/28/coronavirus-uk-start-ups-have-raised-825-million-during-lockdown.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/04/28/coronavirus-uk-start-ups-have-raised-825-million-during-lockdown.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/04/28/coronavirus-uk-start-ups-have-raised-825-million-during-lockdown.html",
+      "publishedDateTime": "2020-04-29T04:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/105446571-1536765456472rts20xk6.jpg?v=1536765553",
+          "width": 4842,
+          "height": 2952,
+          "title": "UK start-ups have raised $825 million during virus lockdown, but fewer deals are being made",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-29-rise-of-the-machines-aiml-in-endpoint-protection.md",
       "title": "Rise Of The Machines: AI/ML In Endpoint Protection",
       "excerpt": "While AI/ML is no panacea for cyber threats we all face today, the rise of the machines has given us a powerful advantage in the never-ending battle against hackers and cybercriminals.",
@@ -1141,141 +1259,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-28-ai-based-news-platform-newsbytes-raises-undisclosed-amount-in-series-a-round.md",
-      "title": "AI-based News Platform NewsBytes Raises Undisclosed Amount in Series A Round",
-      "excerpt": "Newsbyte, an AI-driven digital media startup, has raised undisclosed amount in Series A funding round led by North Base Media, a US-based global venture capital firm specialized in media. The round also saw participation from new investor JITO Angels and the company’s existing investor,",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.entrepreneur.com/article/349909",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/349909",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/349909",
-      "publishedDateTime": "2020-04-28T07:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/20200428143008-newsbytes.jpeg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": "AI-based News Platform NewsBytes Raises Undisclosed Amount in Series A Round",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-28-yoshua-bengio-attention-is-a-core-ingredient-of-consciousness-ai.md",
-      "title": "Yoshua Bengio: Attention is a core ingredient of ‘consciousness’ AI",
-      "excerpt": "During the International Conference on Learning Representations (ICLR) 2020 this week, which as a result of the pandemic took place virtually on the web, Turing Award winner and director of the Montreal Institute for Learning Algorithms Yoshua Bengio provided a glimpse into the future of AI and machine learning techniques.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/28/yoshua-bengio-attention-is-a-core-ingredient-of-consciousness-ai/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/28/yoshua-bengio-attention-is-a-core-ingredient-of-consciousness-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/28/yoshua-bengio-attention-is-a-core-ingredient-of-consciousness-ai/amp/",
-      "publishedDateTime": "2020-04-28T07:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/07/deep_learning.GettyImages-1011441152-e1588047625341.jpg?fit=1197%2C598&strip=all",
-          "width": 1197,
-          "height": 598,
-          "title": "Yoshua Bengio: Attention is a core ingredient of ‘consciousness’ AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-28-mit-researchers-release-clevrer-to-advance-visual-reasoning-and-neurosymbolic-ai.md",
-      "title": "MIT researchers release Clevrer to advance visual reasoning and neurosymbolic AI",
-      "excerpt": "Clevrer examines AI models ability to make logical conclusions about content in a video data set using a hybrid of deep learning and symbolic AI.",
-      "heat": 88,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/28/mit-researchers-release-clevrer-to-advance-visual-reasoning-and-neurosymbolic-ai/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/28/mit-researchers-release-clevrer-to-advance-visual-reasoning-and-neurosymbolic-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/28/mit-researchers-release-clevrer-to-advance-visual-reasoning-and-neurosymbolic-ai/amp/",
-      "publishedDateTime": "2020-04-28T07:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/10/mit1.jpg?fit=2158%2C1619&strip=all",
-          "width": 2158,
-          "height": 1619,
-          "title": "MIT researchers release Clevrer to advance visual reasoning and neurosymbolic AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Facebook AI",
-        "IBM AI"
       ]
     }
   ],

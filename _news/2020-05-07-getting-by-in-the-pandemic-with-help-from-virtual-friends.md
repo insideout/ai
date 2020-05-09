@@ -39,6 +39,15 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/05/05/virtual-friends-created-by-the-mobile-application-replika.jpg"
         width: 1024
         height: 685
+  - title: "Getting by in the pandemic with help from (virtual) friends"
+    excerpt: "\"It's so good to hear your voice.\" \"I was worried about you.\" \"What would you like to do today?\" What sounds like ordinary banter between friends is in fact from a chatbot created with artificial intelligence."
+    publishedDateTime: 2020-05-08T20:11:00Z
+    webUrl: "https://japantoday.com/category/features/lifestyle/getting-by-in-the-pandemic-with-help-from-(virtual)-friends"
+    type: article
+    provider:
+      name: Japan Today
+      domain: japantoday.com
+    quality: 4
 
 secured: "6DavyrNISVBRigz96lxthMB0tmIyacLlxCu/uhuCtCPB+daEeQtU7GTRlcufYL3R2/b1UnS4uKr2d0gVM4+xpa/ZmjFUtJWSP3fSPoWwGT5bGI3RMgMSlJKyh5jBMiOFb2GyTPTZGGtS1aa0b0jHdHE30b0Fz4KuL68sI7ES4tW65jkgv12os7RRz/xeRZeGjdFrbHUhl2fj6DY+7DHbmCB2Rnn8/3NLaIwI4MtfPftzbxVjHhbO2NeEpogqdBerDgkaXjmr/0rNlXM5uD2a8gPU2W/a9sgNUxaEKfiKFk9vhhiGhuZwjU2QxxT3bs10;aVkecj8N/rntjHLpnb73HA=="
 ---

@@ -2,6 +2,171 @@
   "page": 43,
   "value": [
     {
+      "path": "_news/2020-03-27-cobourg-company-working-on-robotics-for-front-line-coronavirus-response.md",
+      "title": "Cobourg company working on robotics for front-line coronavirus response",
+      "excerpt": "The company’s robotics solutions for front-line medical professional would include a self-driving indoor delivery robot and artificial intelligence sterilization robots for indoor and ... “If there is an order coming in, we can kick-start the process, set up a temporary assembly and testing facility in Cobourg and have the device deployed ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.flamboroughreview.com/news-story/9915875-cobourg-company-working-on-robotics-for-front-line-coronavirus-response/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-27T07:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "flamboroughreview.com",
+        "domain": "flamboroughreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://dynamicmedia.zuza.com/zz/m/original_/2/e/2e61fc69-2202-4b4f-83df-25d12551250f/CB_Z_RoboticsCOVID___Super_Portrait.jpg",
+          "width": 563,
+          "height": 417,
+          "title": "Cobourg company working on robotics for front-line coronavirus response",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-27-deep-learning-to-power-ai-growth-in-apac.md",
+      "title": "Deep learning to power AI growth in APAC",
+      "excerpt": "Spending on artificial intelligence in Asia Pacific is set to soar over the next five years as the demand for deep learning ramps up. By 2024, the APAC region is estimated to account for about 30 ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.arnnet.com.au/article/672264/deep-learning-power-ai-growth-apac/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-27T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ARN",
+        "domain": "arnnet.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/dimg/deeplearning.jpg",
+          "width": 800,
+          "height": 500,
+          "title": "Deep learning to power AI growth in APAC",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-27-return-on-artificial-intelligence-the-challenge-and-the-opportunity.md",
+      "title": "Return On Artificial Intelligence: The Challenge And The Opportunity",
+      "excerpt": "Companies need more returns on their artificial intelligence initiatives. There are several ways to achieve it.",
+      "heat": 91,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/tomdavenport/2020/03/27/return-on-artificial-intelligence-the-challenge-and-the-opportunity/",
+      "ampWebUrl": "https://www.forbes.com/sites/tomdavenport/2020/03/27/return-on-artificial-intelligence-the-challenge-and-the-opportunity/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomdavenport/2020/03/27/return-on-artificial-intelligence-the-challenge-and-the-opportunity/amp/",
+      "publishedDateTime": "2020-03-27T07:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e7e04e4adc0d70006ccbd3a%2F0x0.jpg",
+          "width": 980,
+          "height": 980,
+          "title": "Return On Artificial Intelligence: The Challenge And The Opportunity",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-03-27-how-isps-are-using-ai-to-address-the-coronavirus-driven-surge-in-traffic.md",
+      "title": "How ISPs are using AI to address the coronavirus-driven surge in traffic",
+      "excerpt": "This month, under the strain millions of people self-quarantined by COVID-19 have placed on broadband infrastructure, Netflix, Facebook, Disney, Microsoft ... and Telstra — are employing AI and machine learning to service networks strained by the traffic surges. Others aren’t — when reached for comment, Comcast, CenturyLink, and Fiber ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/03/27/how-isps-are-using-ai-to-address-the-coronavirus-driven-surge-in-traffic/",
+      "ampWebUrl": "https://venturebeat.com/2020/03/27/how-isps-are-using-ai-to-address-the-coronavirus-driven-surge-in-traffic/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/27/how-isps-are-using-ai-to-address-the-coronavirus-driven-surge-in-traffic/amp/",
+      "publishedDateTime": "2020-03-27T06:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2017/08/untitled-design2-e1585324670149.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "How ISPs are using AI to address the coronavirus-driven surge in traffic",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-27-what-winemaking-has-taught-me-about-artificial-intelligence.md",
       "title": "What winemaking has taught me about artificial intelligence",
       "excerpt": "VP and CTO, Mist — Bob Friday is CTO of Mist, a Juniper company, which develops self-learning wireless networks using artificial intelligence. Bob Friday is CTO of Mist, a Juniper company, which develops self-learning wireless networks using artificial intelligence. You wouldn’t think one has much to do with the other, but as both an AI ...",
@@ -1061,169 +1226,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-26-tesla-model-y-is-equipped-with-a-radar-heater-to-weather-proof-autopilotself-driving.md",
-      "title": "Tesla Model Y is equipped with a radar heater to weather-proof Autopilot/Self-Driving",
-      "excerpt": "Tesla Model Y wiring schematics reveal that the electric SUV is equipped with a radar heater to weather-proof Autopilot and its future self-driving capability. One of the most common arguments against self-driving is that a computer won’t be able to handle different weather conditions as well as humans, like heavy snow. Not only is driving ...",
-      "heat": 82,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://electrek.co/2020/03/26/tesla-model-y-radar-heater-weather-proof-autopilot-self-driving/",
-      "ampWebUrl": "https://electrek.co/2020/03/26/tesla-model-y-radar-heater-weather-proof-autopilot-self-driving/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/03/26/tesla-model-y-radar-heater-weather-proof-autopilot-self-driving/amp/",
-      "publishedDateTime": "2020-03-26T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://electrek.co/wp-content/uploads/sites/3/2020/03/IMG_0440-1-e1579703019623.jpg?quality=82&strip=all&w=1000",
-          "width": 1000,
-          "height": 483,
-          "title": "Tesla Model Y is equipped with a radar heater to weather-proof Autopilot/Self-Driving",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-26-what-an-all-digital-ai-research-conference-looks-like.md",
-      "title": "What an all-digital AI research conference looks like",
-      "excerpt": "Organizers of the International Conference on Learning Representations (ICLR) shared details about what will be one of the largest-ever all-digital AI research conferences. The weeklong, online-only affair will feature more than 650 machine learning works. ICLR will include live chat, live Zoom video calls for Q&As and research author meetings ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/03/26/what-an-all-digital-ai-research-conference-looks-like/",
-      "ampWebUrl": "https://venturebeat.com/2020/03/26/what-an-all-digital-ai-research-conference-looks-like/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/26/what-an-all-digital-ai-research-conference-looks-like/amp/",
-      "publishedDateTime": "2020-03-26T06:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/11/ai-brain.jpg?fit=1200%2C595&strip=all",
-          "width": 1200,
-          "height": 595,
-          "title": "What an all-digital AI research conference looks like",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-26-3-healthcare-stocks-to-buy-for-ai-and-big-data.md",
-      "title": "3 Healthcare Stocks to Buy for AI and Big Data",
-      "excerpt": "However one of the major problems in the healthcare sector is how to collect and efficiently use data. The health care sector looks to be a logical application for artificial intelligence (AI) and big data. However, there are legitimate privacy concerns about the use of this data. One concern is how healthcare data can be used in predictive ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://investorplace.com/2020/03/healthcare-stocks-using-ai-big-data/",
-      "ampWebUrl": "https://investorplace.com/2020/03/healthcare-stocks-using-ai-big-data/amp/",
-      "cdnAmpWebUrl": "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/03/healthcare-stocks-using-ai-big-data/amp/",
-      "publishedDateTime": "2020-03-26T06:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InvestorPlace",
-        "domain": "investorplace.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://investorplace.com/wp-content/uploads/2019/07/healthcare1600a.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": "3 Healthcare Stocks to Buy for AI and Big Data",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-26-how-a-freshly-funded-robotics-startup-wants-to-help-hospitals-dealing-with-coronavirus.md",
-      "title": "How a freshly funded robotics startup wants to help hospitals dealing with coronavirus",
-      "excerpt": "The Austin startup makes robot assistants that help hospital staff with routine tasks. Moxi is the name of their current robot. It uses artificial intelligence to help hospital staff take care of things like delivering clean linens, gauze and syringes and setting up rooms for patients. DNX Ventures led the round, which also included existing ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.bizjournals.com/austin/news/2020/03/26/how-a-freshly-funded-robotics-startup-wants-to.html",
-      "ampWebUrl": "https://www.bizjournals.com/austin/news/2020/03/26/how-a-freshly-funded-robotics-startup-wants-to.amp.html",
-      "cdnAmpWebUrl": "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/austin/news/2020/03/26/how-a-freshly-funded-robotics-startup-wants-to.amp.html",
-      "publishedDateTime": "2020-03-26T06:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Business Journals",
-        "domain": "bizjournals.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.bizj.us/view/img/11238834/diligent-robotics-founders-moxi*600xx5725-3817-0-0.jpg",
-          "width": 600,
-          "height": 400,
-          "title": "How a freshly funded robotics startup wants to help hospitals dealing with coronavirus",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }
