@@ -176,27 +176,19 @@
     {
       "path": "_news/2020-04-29-dotdata-launches-ai-faststart-program-to-make-it-easy-for-bi-teams-to-adopt-aiml-through-automl-20.md",
       "title": "dotData Launches AI-FastStart™ Program to Make it Easy for BI Teams to Adopt AI/ML through AutoML 2.0",
-      "excerpt": "The dotData AI-FastStart™ Program includes: * 1 year full license to the award-winning dotData Enterprise AutoML 2.0 platform * Full hosting by dotData on an enterprise-grade secure cloud ...",
+      "excerpt": "1 year full license to the award-winning dotData Enterprise AutoML 2.0 platform * Full hosting by dotData on an enterprise-grade secure cloud infrastructure * 12 remote training sessions for an ...",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://markets.businessinsider.com/news/stocks/dotdata-launches-ai-faststart-program-to-make-it-easy-for-bi-teams-to-adopt-ai-ml-through-automl-2-0-1029146483",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/dotdata-launches-ai-faststart-program-to-make-it-easy-for-bi-teams-to-adopt-ai-ml-through-automl-2-0-1029146483",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/dotdata-launches-ai-faststart-program-to-make-it-easy-for-bi-teams-to-adopt-ai-ml-through-automl-2-0-1029146483",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/04/n15911575/dotdata-launches-ai-faststart-program-to-make-it-easy-for-bi-teams-to-adopt-aiml-through-automl-2-",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/15911575",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15911575",
       "publishedDateTime": "2020-04-29T07:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -1,19 +1,25 @@
 ---
 category: news
 title: "AWS Announces General Availability of Amazon Augmented Artificial Intelligence (A2I)"
-excerpt: "AWS offers over 175 fully featured services for compute, storage, databases, networking, analytics, robotics, machine learning and artificial intelligence (AI), Internet of Things (IoT), mobile, security, hybrid, virtual and augmented reality (VR and AR ..."
-publishedDateTime: 2020-04-24T17:27:00Z
-webUrl: "https://stockhouse.com/news/press-releases/2020/04/24/aws-announces-general-availability-of-amazon-augmented-artificial-intelligence"
+excerpt: "Amazon Web Services (AWS), an Amazon.com company (NASDAQ: AMZN), announced the general availability of Amazon Augmented Artificial Intelligence"
+publishedDateTime: 2020-04-24T17:26:00Z
+webUrl: "https://www.businesswire.com/news/home/20200424005488/en/AWS-Announces-General-Availability-Amazon-Augmented-Artificial"
 type: article
 
 provider:
-  name: Stockhouse
-  domain: stockhouse.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "VbDrl0Q7TTKtUZartbvtZGAfDNevEStu6f9nZm/C3dcR0NXJQTcSbEUBr5BAa6aY2HT+nRXyE5pCKoKB1ub874iOoPcc2t1QCh7mLaTbSxvZutyY6qQlDAF4sT3po2+YEAWzug0krGalOmpj5vH+ChNDmVZ9FlZ/feEZnQLZ7NDHJ96885B1eIP/AoqxODr5xnaeGI1r5YiGDTqQ0t/QKPLaLUNcFz2yf2x5nZM2uIcHjBE6mdRNCkfNLVhRRrKy/Hdj7OZsBvURdkJIJdhbozdNWZ94Ed5AsERPAV2axBcGX/SoelaSvjMakQXllRy9;z+Fl1gx6FFqUvieq4zh/kA=="
+images:
+  - url: "https://mms.businesswire.com/media/20200424005488/en/787122/23/AWS_logo_RGB.jpg"
+    width: 1200
+    height: 627
+    title: "AWS Announces General Availability of Amazon Augmented Artificial Intelligence (A2I)"
+
+secured: "fbc/SuDwsam8z3eXJtsk2RUsKpN/q0v9sesZz9NuqVYwg0PKoT6uaA8QwpQ2DKBztTJUW+RrP9eD6Pj6FYNniGPNeF/aAAZzjRi7IljB2may6vwChAEq/mco5tDBDA0RHNtF/R28nRevDgo55Bx9vXQTd0qbqPJThSfSl39d5OI/u5Yr2v1ZllnWB9ZxWUEc/TQpbMA5fjiwHI4zqDtK1PdzM1Khy8t47MoRbOaOvPG8z/QZXLHgECBJt4CYgGj4UN8a8gK9oyABXHCTem6rVrFJmI00G/K9aMwFIiytBa15s3KpQgbSDR7QssVUxZ99;7FiEtzwfXYEAt+oTfbqujA=="
 ---
 

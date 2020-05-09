@@ -6,7 +6,7 @@ publishedDateTime: 2020-05-08T10:15:00Z
 webUrl: "https://phys.org/news/2020-05-vision-scientists-lithium-ion-batteries.html"
 type: article
 quality: 19
-heat: 19
+heat: -1
 published: false
 
 provider:
@@ -18,19 +18,19 @@ topics:
   - AI
 
 related:
-  - title: "Machine-learning-revealed statistics of the particle-carbon/binder detachment in lithium-ion battery cathodes"
-    excerpt: "Developing understanding of degradation phenomena in nickel rich cathodes is under intense investigation. Here the authors use learning-assisted statistical analysis and experiment-informed mathematical modelling to resolve the microstructure of a Ni-rich NMC composite cathode."
-    publishedDateTime: 2020-05-08T09:45:00Z
-    webUrl: "https://www.nature.com/articles/s41467-020-16233-5"
+  - title: "Computer vision helps SLAC scientists study lithium ion batteries"
+    excerpt: "New machine learning methods bring insights into how lithium ion batteries degrade, and show it's more complicated than many thought."
+    publishedDateTime: 2020-05-08T09:03:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2020-05/dnal-cvh050620.php"
     type: article
     provider:
-      name: Nature
-      domain: nature.com
-    quality: 5
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 39
     images:
-      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-020-16233-5/MediaObjects/41467_2020_16233_Fig1_HTML.png"
-        width: 685
-        height: 598
+      - url: "https://www.eurekalert.org/multimedia/pub/web/231172_web.jpg"
+        width: 720
+        height: 403
 
 secured: "pscYbnxi2gF8gM+BxXyd9VDvgzm+wLDB0znArGCJoXNYDEzX28TsRR3eGp8tupvcPL09XP51DUhtN+Sq1eIfyKZ+Krz9sXgGae82IxtCEERPWYfmjlBL2sxph+h8EUGVPk//MnKXK0BBt7YQQ3VmQILc4mNqG/8XnD112eQK4Rghn1lgsdQ+dueFwAlFgtqP8HOREJMPAM9txHIt8gbiqbFjBvL0HeNYLqXcXH2nXrx6w6grvhxIVzjFPGIN29ni7L9L9B9iLQ+lc8rZENvCQ5TI5537dCwy/XKj74aOLIRXnr7EW/ss7ZYsm839/HTjo3QvCH8mus41Pfevo/DBJjpY05MjeiX0miQaxsbdGKksmL3x057WbfjZADpcuakazF/niuDMhDIWmcXtKPZtsiMRaJyWb+qbVohl92tpvGqZ3Cshdjypwi2k5FCRvgGsGKzPRVmO9ygPAy//z/3xm3T5mmuKj6gZ5MMokxKcw7E=;N1IhKN0Pt6F5QEMPMiovBQ=="
 ---

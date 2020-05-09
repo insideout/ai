@@ -2,6 +2,43 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-01-21-berkshire-grey-raises-263m-to-fuel-global-expansion-of-logistics-robotics.md",
+      "title": "Berkshire Grey raises $263M to fuel global expansion of logistics robotics",
+      "excerpt": "With technologies such as artificial intelligence, computer vision, machine learning, advanced sensing, novel gripping, and robotics, the company said it can handle “the broadest assortment of products, packaging, and parcels – and all while continuously improving speed and performance through autonomous learning.” The company said its ...",
+      "heat": 117,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.therobotreport.com/berkshire-grey-raises-263m-to-fuel-global-expansion-of-logistics-robotics/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-21T07:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2020/01/berkshire-grey-boston-hat-funding-1024x636.jpg",
+          "width": 1024,
+          "height": 636,
+          "title": "Berkshire Grey raises $263M to fuel global expansion of logistics robotics",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-01-21-berkshire-grey-raises-263-million-for-industrial-robots.md",
       "title": "Berkshire Grey raises $263 million for industrial robots",
       "excerpt": "The company, which combines AI and robotics to automate omnichannel fulfillment for retailers ... CEO Tom Wagner says the fresh capital will fuel the startup’s global expansion, acquisitions, and team growth. “With our intelligent robotic automation, our clients see faster and more efficient supply chain operations that enable them to ...",
@@ -1203,43 +1240,6 @@
           "width": 756,
           "height": 567,
           "title": "Samsung envisions even more personal consumer tech at CES 2020 -- including a cute, rolling robot",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-01-06-robots-artificial-intelligence-highlight-ces-expo.md",
-      "title": "Robots, artificial intelligence highlight CES expo",
-      "excerpt": "The annual gadget fest in Las Vegas started this week with \"CES Unveiled,\" an event highlighted by several new robotic and artificial intelligence technology, including one that acts as a pet. (Jan. 6)",
-      "heat": 64,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.fltimes.com/robots-artificial-intelligence-highlight-ces-expo/video_f52d8126-6f46-54e2-9e89-503ffb536d94.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-06T11:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finger Lakes Times",
-        "domain": "fltimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/fltimes.com/content/tncms/assets/v3/editorial/f/52/f52d8126-6f46-54e2-9e89-503ffb536d94/5e13998eab3cc.preview.jpg?crop=960%2C720%2C160%2C0&resize=840%2C630&order=crop%2Cresize",
-          "width": 840,
-          "height": 630,
-          "title": "Robots, artificial intelligence highlight CES expo",
           "attribution": null
         }
       ],

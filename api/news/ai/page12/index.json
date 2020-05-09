@@ -298,51 +298,6 @@
       ]
     },
     {
-      "path": "_news/2020-04-27-corporations-are-hoping-computer-vision-cams-will-limit-their-coronavirus-liability.md",
-      "title": "Corporations Are Hoping Computer Vision Cams Will Limit Their Coronavirus Liability",
-      "excerpt": "Aside from figuring out when to end their shutdowns as quickly as possible, one of the main concerns on the minds of large and small businesses is how they can avoid litigation once they do reopen. And it turns out that these business’s mission to avoid getting the pants sued off of them might inadvertently end up stomping on the personal privacy of the consumers they’re so eager to bleed dry.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://gizmodo.com/corporations-are-hoping-computer-vision-cams-will-limit-1843108692",
-      "ampWebUrl": "https://gizmodo.com/corporations-are-hoping-computer-vision-cams-will-limit-1843108692/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/corporations-are-hoping-computer-vision-cams-will-limit-1843108692/amp",
-      "publishedDateTime": "2020-04-27T15:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/bqt8nt8vn0nwvxrxmywh.jpg",
-          "width": 800,
-          "height": 450,
-          "title": "Corporations Are Hoping Computer Vision Cams Will Limit Their Coronavirus Liability",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-04-27-microsoft-strikes-5-year-cloud-deal-with-coca-cola-for-azure-microsoft-365.md",
       "title": "Microsoft strikes 5-year cloud deal with Coca-Cola for Azure, Microsoft 365",
       "excerpt": "Cola company have reached a deal that will see the latter use Microsoft 365, Azure, and more to power its digital operations for five years.",
@@ -376,6 +331,43 @@
       ],
       "topics": [
         "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-27-corporations-are-hoping-computer-vision-cams-will-limit-their-coronavirus-liability.md",
+      "title": "Corporations Are Hoping Computer Vision Cams Will Limit Their Coronavirus Liability",
+      "excerpt": "Aside from figuring out when to end their shutdowns as quickly as possible, one of the main concerns on the minds of large and small businesses is how they can avoid litigation once they do reopen. And it turns out that these business’s mission to avoid getting the pants sued off of them might inadvertently end",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.gizmodo.com.au/2020/04/corporations-are-hoping-computer-vision-cams-will-limit-their-coronavirus-liability/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-27T14:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo Australia",
+        "domain": "gizmodo.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_lfill,w_1200,h_628,q_90/bqt8nt8vn0nwvxrxmywh.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": "Corporations Are Hoping Computer Vision Cams Will Limit Their Coronavirus Liability",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
         "AI"
       ]
     },
