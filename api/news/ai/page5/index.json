@@ -2,50 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2020-05-05-australian-military-gets-first-drone-that-can-fly-with-artificial-intelligence.md",
-      "title": "Australian military gets first drone that can fly with artificial intelligence",
-      "excerpt": "Boeing has presented the Australian Air Force with a prototype of a jet-powered drone that they hope will one day fly alongside manned warplanes.",
-      "heat": 93,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnn.com/2020/05/05/asia/australia-loyal-wingman-drone-intl-hnk/index.html",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/05/05/asia/australia-loyal-wingman-drone-intl-hnk/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/05/05/asia/australia-loyal-wingman-drone-intl-hnk/index.html",
-      "publishedDateTime": "2020-05-04T22:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200505095706-boeing-australia-loyal-wingman-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": "Australian military gets first drone that can fly with artificial intelligence",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-05-05-omilia-raises-20m-to-use-conversational-ai-for-customer-support.md",
       "title": "Omilia raises $20M to use conversational AI for customer support",
       "excerpt": "Omilia, a company headquartered in Greece that has built a conversational AI for customer support, has raised $20 million in its first ever funding round, having been bootstrapped since 2002. Backing comes from Grafton Capital and will be used to invest in further growth,",
@@ -93,7 +49,7 @@
       "path": "_news/2020-05-05-artificial-intelligence-in-healthcare-market-growth-analysis-and-advancement-outlook-2020-to-2026.md",
       "title": "Artificial Intelligence In Healthcare Market Growth, Analysis and Advancement Outlook 2020 to 2026",
       "excerpt": "The Artificial Intelligence In Healthcare Market report provides a detailed analysis of global market size, regional",
-      "heat": 80,
+      "heat": 70,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-growth-analysis-and-advancement-outlook-2020-to-2026-2020-05-05",
@@ -1307,6 +1263,43 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-04-extreme-networks-reschedules-third-quarter-fiscal-2020-financial-results-conference-call-and-webcast.md",
+      "title": "Extreme Networks Reschedules Third Quarter Fiscal 2020 Financial Results Conference Call and Webcast",
+      "excerpt": "PRNewswire/ -- Extreme Networks, Inc. (Nasdaq: EXTR), a cloud-driven networking company, today rescheduled it plans to release financial results for its",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.prnewswire.com/news-releases/extreme-networks-reschedules-third-quarter-fiscal-2020-financial-results-conference-call-and-webcast-301051574.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-04T04:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/378309/extreme_networks_logo.jpg?p=facebook",
+          "width": 1000,
+          "height": 524,
+          "title": "Extreme Networks Reschedules Third Quarter Fiscal 2020 Financial Results Conference Call and Webcast",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
         "AI"
       ]
     }

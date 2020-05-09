@@ -1,42 +1,27 @@
 ---
 category: news
 title: "Productivity Gains from Visual AI"
-excerpt: "CIO.com delivers the latest tech news, analysis, how-to, blogs, and video for IT professionals. Covers apps, careers, cloud computing, data center, mobile, outsourcing, security, social media, hardware and software."
-publishedDateTime: 2020-05-07T20:23:00Z
-webUrl: "https://www.cio.com/resources/202712/productivity-gains-from-visual-ai"
+excerpt: "Computerworld covers a range of technology topics, with a focus on these core areas of IT: Windows, Mobile, Apple/enterprise, Office and productivity suites, collaboration, web browsers and blockchain,"
+publishedDateTime: 2020-05-07T21:30:00Z
+webUrl: "https://www.computerworld.com/resources/202712/productivity-gains-from-visual-ai"
 type: article
 quality: 37
 heat: 37
 published: false
 
 provider:
-  name: CIO
-  domain: cio.com
+  name: Computerworld
+  domain: computerworld.com
 
 topics:
   - AI
 
 images:
-  - url: "https://idge.staticworld.net/cio/CIO_logo_300x300.png"
+  - url: "https://idge.staticworld.net/ctw/computerworld-logo300x300.png"
     width: 300
     height: 300
     title: "Productivity Gains from Visual AI"
 
-related:
-  - title: "Visual AI Solutions Case Studies"
-    excerpt: "CIO.com delivers the latest tech news, analysis, how-to, blogs, and video for IT professionals. Covers apps, careers, cloud computing, data center, mobile, outsourcing, security, social media, hardware and software."
-    publishedDateTime: 2020-05-07T20:03:00Z
-    webUrl: "https://www.cio.com/resources/202731/visual-ai-solutions-case-studies"
-    type: article
-    provider:
-      name: CIO
-      domain: cio.com
-    quality: 37
-    images:
-      - url: "https://idge.staticworld.net/cio/CIO_logo_300x300.png"
-        width: 300
-        height: 300
-
-secured: "g5YJV2u7VmyZiyP54+qms4cWn9BB6GBiODfl/YQ4UcLjJ7YXoKSuepRXCXpLCsQf9rb4U7cmZZtRbP/1jaMugxqcC0UiIVEuJHv+ez/oI8o9IjDpcYFqvZpA7px/kaAyq5ieipKaeYoTNsRHMzScCoCN0mHd8rK1ppJzmB2igNuXojTeeSZZKlpz93Ijhry7LXbNODFKOwZq8YcOIPAwdLPl8chPhTbNHELlTkMUPh7+SGnNPtSLir1XdxM7MbT4+5OrIVAuPmmxtixifYtzC+J6omfp55OMJ6ibDsHteiOKmuYgLTd7UgwW51qxfGc0;97iX2m7sksY961SyCBREXg=="
+secured: "tB3Frsc/fGoH7cBiaA8A709lie3EfkeEZO2HuWf0avY6u16EcCDPczGFkwoUwhY0X4LtrrPRVUwmS1XK3Ub236O5+f6zbHOQTe8Q10NFm79mJl2N0gIYxp6e+r93NomDwsh3qjCt6YSsH1ro15QUX2cIHK0kNl5dIyv7sX/z34OoQ7YyphIxRycC3Y/878iJwBo2rmffmzkoOiNCS+Hn91KnPmtumDyCxFkL8gAx7h3qDpKMzQwmGO+gNWyt7RqCO7y04PP3PejrDPSW7W+bjIgl1vf7+u0RnerBz7kmeXJRQ0BfG5cCuY+vWtpIE4/R;/+btBl00Rm/teMso0wLpLA=="
 ---
 

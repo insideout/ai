@@ -2,38 +2,30 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2020-04-28-tectonai-emerges-from-stealth-with-20m-series-a-to-build-machine-learning-platform.md",
-      "title": "Tecton.ai emerges from stealth with $20M Series A to build machine learning platform",
-      "excerpt": "Three former Uber engineers, who helped build the company’s Michelangelo machine learning platform, left the company last year to form Tecton.ai and build an operational machine learning platform for everyone else.",
-      "heat": 97,
+      "path": "_news/2020-04-28-imec-builds-worlds-first-spiking-neural-network-based-chip-for-radar-signal-processing.md",
+      "title": "Imec Builds World's First Spiking Neural Network-Based Chip for Radar Signal Processing",
+      "excerpt": "Imec, a world-leading research and innovation hub in nanoelectronics and digital technologies, today presents the world’s first chip that processes radar signals using a spiking recurrent neural network.",
+      "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://techcrunch.com/2020/04/28/tecton-ai-emerges-from-stealth-with-20m-series-a-to-build-operational-machine-learning-platform/",
-      "ampWebUrl": "https://techcrunch.com/2020/04/28/tecton-ai-emerges-from-stealth-with-20m-series-a-to-build-operational-machine-learning-platform/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/28/tecton-ai-emerges-from-stealth-with-20m-series-a-to-build-operational-machine-learning-platform/amp/",
-      "publishedDateTime": "2020-04-28T07:14:00-07:00",
+      "webUrl": "https://www.design-reuse.com/news/47876/imec-spiking-neural-network-based-chip.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-28T04:38:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
+        "name": "Design-Reuse",
+        "domain": "design-reuse.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
       "images": [
         {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/04/tecton-diagram-light-v3.png?w=680",
-          "width": 680,
-          "height": 274,
-          "title": "Tecton.ai emerges from stealth with $20M Series A to build machine learning platform",
+          "url": "https://www.design-reuse.com/news_img2/homepage47876/20200428b_1.jpg",
+          "width": 480,
+          "height": 275,
+          "title": "Imec Builds World's First Spiking Neural Network-Based Chip for Radar Signal Processing",
           "attribution": null
         }
       ],

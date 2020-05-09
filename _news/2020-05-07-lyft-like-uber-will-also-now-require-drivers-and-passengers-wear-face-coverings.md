@@ -8,8 +8,8 @@ ampWebUrl: "https://gizmodo.com/lyft-like-uber-will-also-now-require-drivers-and
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/lyft-like-uber-will-also-now-require-drivers-and-pass-1843324834/amp"
 type: article
 quality: 69
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Gizmodo
@@ -28,23 +28,6 @@ images:
     width: 800
     height: 450
     title: "Lyft, Like Uber, Will Also Now Require Drivers and Passengers Wear Face Coverings"
-
-related:
-  - title: "Uber drivers and passengers will be required to wear face masks"
-    excerpt: "Uber passengers and drivers will soon be required to wear face masks before being allowed to pick up passengers. Uber is working on facial recognition technology capable of identifying when a"
-    publishedDateTime: 2020-05-04T21:05:00Z
-    webUrl: "https://bgr.com/2020/05/04/coronavirus-masks-drivers-passengers-requirement/"
-    ampWebUrl: "https://bgr.com/2020/05/04/coronavirus-masks-drivers-passengers-requirement/amp/"
-    cdnAmpWebUrl: "https://bgr-com.cdn.ampproject.org/c/s/bgr.com/2020/05/04/coronavirus-masks-drivers-passengers-requirement/amp/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 44
-    images:
-      - url: "https://boygeniusreport.files.wordpress.com/2019/07/webp.net-resizeimage-32.jpg?quality=98&#038;strip=all"
-        width: 1500
-        height: 1001
 
 secured: "CfWCtY9PF+HV1zyRRSP3izUrXw9GOno+KShz8j9+sbftWFNPzgrkb3AzDqfAnoGxjigCA1W+VRdHtAjbds2SRZTSHLTEY/AkKCrHBd+hucJkHklfj8ohEVWzfbOmI7MoNFLZ1WhHs+NqgmONCd9JgS/qozeUUcdtwhLRFIRwXL3AmK6o0ymtuGWB9kTPm4lMhaZnkIi9K0tVK+ijapUGMY9CBOEGWfQsy2HI0pcgamfk0X1bxqTkitrMv4QljxLX2jjccYhT+Il/c0ivEVacvGBT2bAKyl7W4Ap5WMAxCnPKkaIwnTFl/7J7il750Geh1HVK0uDvRUqhfSSIDf5p0M10zBQzni4YbFMTHEIOtHPjZnZLBiMIEAgmg2Nm2sXTNxh3YaR/yUFj9w2EK4XiS+2P7vslYatwQ3W77+OX1SOggiFHN1dc7FkrQagLJamgqBOhduQxflvhpptI4J3qHrNnTRYcuwhS7hYyqsc56tc=;jkKAhymKGjvQcxCh4qhVcg=="
 ---

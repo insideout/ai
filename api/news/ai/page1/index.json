@@ -1132,51 +1132,6 @@
       ]
     },
     {
-      "path": "_news/2020-05-07-lyft-like-uber-will-also-now-require-drivers-and-passengers-wear-face-coverings.md",
-      "title": "Lyft, Like Uber, Will Also Now Require Drivers and Passengers Wear Face Coverings",
-      "excerpt": "Lyft, which has somehow spent the last few months of the coronavirus pandemic merely suggesting passengers and drivers wear face coverings, said on Thursday that it will soon make it a requirement.",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://gizmodo.com/lyft-like-uber-will-also-now-require-drivers-and-pass-1843324834",
-      "ampWebUrl": "https://gizmodo.com/lyft-like-uber-will-also-now-require-drivers-and-pass-1843324834/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/lyft-like-uber-will-also-now-require-drivers-and-pass-1843324834/amp",
-      "publishedDateTime": "2020-05-07T15:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/uw2xuwlauikynzyh6drw.jpg",
-          "width": 800,
-          "height": 450,
-          "title": "Lyft, Like Uber, Will Also Now Require Drivers and Passengers Wear Face Coverings",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-05-07-as-waymo-resumes-self-driving-tests-backup-drivers-are-still-worried-about-the-virus.md",
       "title": "As Waymo resumes self-driving tests, backup drivers are still worried about the virus",
       "excerpt": "Waymo is planning to resume testing its autonomous vehicles in Arizona on May 11th, nearly two months after pausing its robotaxi service as a result of the COVID-19 pandemic. But some of the company’s backup drivers are worried that Waymo may be rushing back into service too quickly.",
@@ -1306,6 +1261,51 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-07-google-releases-ai-explorables-to-make-machine-learning-more-accessible-and-participatory.md",
+      "title": "Google releases AI Explorables to make machine learning more accessible and participatory",
+      "excerpt": "AI Explorables is Google's initiative to elucidate the key concepts of machine learning via a series of interactive explanations to make the field more accessible and participatory.",
+      "heat": 75,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.neowin.net/news/google-releases-ai-explorables-to-make-machine-learning-more-accessible-and-participatory",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-07T12:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2020/04/1587624429_google_5_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": "Google releases AI Explorables to make machine learning more accessible and participatory",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
         "AI"
       ]
     }

@@ -22,6 +22,6 @@ images:
     height: 267
     title: "MEGVII, Iflytek Appear In Taobao Creation Festival, WIMI Develops Its AI Face Holographic Cloud Service"
 
-secured: "dz8bfo8tf9dGCjamhhKOM5AenrnPPYkqahUBzOj7wRvyi2hXMlGkoBEl2M+8C/BWQ8ODkBFK9oIL/BYk33S0Kgi68edimu52QMmLYM1BDpOvDzs0EEOkIVpMsATt7RDEqddcptPM3h8qUuQAF7E2EenJTeo68p9DYKPeHMybWP4tW20GhPsmtAYUyVv+ux9pMficrvUqfqdGrbQlQ/jIDoRtqRjFqd5h17FcIMxtbE5Bl0rmNr8lBveediBJokIsI7WPWhbNK8k6XGOFtR0hrVfBhE43doOpV+56FuW4GdfAj6P6eadTXrTlFHQU1f5O;rmTqo4PVmFNZ1nFZ5b+zXg=="
+secured: "hHNeuL1NBlhJWDCxefsFy6kFcbwxoR0eMu3CyvRne7L+PKBv+F+i+8ZPRfiP8ov/2uQ55iwwATF9HviL4YFhnYX0sbXXf0NNHPfQ8ElGvcnF0YrWFYYJeFJ/cZrPA23y+KaWl1swNlkReAxIdKUuFwz79yEQt01QEAo5oERB+Oblg/MvLMTYdbjA3J+rH14CIJxDq/+flwj8+FowolD0HsRHziWio7PxUqLdOEGV1cHUNJqcU5U/5FD+EeR+ifaEBhMFnRoXcQoB9TGt1j+DC9diBY9akCTpQsNQjowGTpnXeGLy3238toB6aQZFSkMn;bD1V1J4Fa8cF945xuOoC0w=="
 ---
 

@@ -85,51 +85,6 @@
       ]
     },
     {
-      "path": "_news/2020-05-07-lyft-like-uber-will-also-now-require-drivers-and-passengers-wear-face-coverings.md",
-      "title": "Lyft, Like Uber, Will Also Now Require Drivers and Passengers Wear Face Coverings",
-      "excerpt": "Lyft, which has somehow spent the last few months of the coronavirus pandemic merely suggesting passengers and drivers wear face coverings, said on Thursday that it will soon make it a requirement.",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://gizmodo.com/lyft-like-uber-will-also-now-require-drivers-and-pass-1843324834",
-      "ampWebUrl": "https://gizmodo.com/lyft-like-uber-will-also-now-require-drivers-and-pass-1843324834/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/lyft-like-uber-will-also-now-require-drivers-and-pass-1843324834/amp",
-      "publishedDateTime": "2020-05-07T15:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/uw2xuwlauikynzyh6drw.jpg",
-          "width": 800,
-          "height": 450,
-          "title": "Lyft, Like Uber, Will Also Now Require Drivers and Passengers Wear Face Coverings",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-05-07-boston-mulls-facial-recognition-ban-ahead-of-possible-updates.md",
       "title": "Boston Mulls Facial Recognition Ban Ahead of Possible Updates",
       "excerpt": "While existing surveillance infrastructure does not use facial recognition technology, potential updates to the system could make it possible. Officials are considering a prohibition on the controversial technology.",
@@ -482,9 +437,9 @@
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.psychologytoday.com/intl/blog/illusions-delusions-and-reality/202004/face-recognition-behind-mask",
-      "ampWebUrl": "https://www.psychologytoday.com/intl/blog/illusions-delusions-and-reality/202004/face-recognition-behind-mask?amp",
-      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/illusions-delusions-and-reality/202004/face-recognition-behind-mask?amp",
+      "webUrl": "https://www.psychologytoday.com/us/blog/illusions-delusions-and-reality/202004/face-recognition-behind-mask",
+      "ampWebUrl": "https://www.psychologytoday.com/us/blog/illusions-delusions-and-reality/202004/face-recognition-behind-mask?amp",
+      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/illusions-delusions-and-reality/202004/face-recognition-behind-mask?amp",
       "publishedDateTime": "2020-04-30T08:55:00-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -860,27 +815,35 @@
     {
       "path": "_news/2020-04-27-corporations-are-hoping-computer-vision-cams-will-limit-their-coronavirus-liability.md",
       "title": "Corporations Are Hoping Computer Vision Cams Will Limit Their Coronavirus Liability",
-      "excerpt": "Aside from figuring out when to end their shutdowns as quickly as possible, one of the main concerns on the minds of large and small businesses is how they can avoid litigation once they do reopen. And it turns out that these business’s mission to avoid getting the pants sued off of them might inadvertently end",
+      "excerpt": "Aside from figuring out when to end their shutdowns as quickly as possible, one of the main concerns on the minds of large and small businesses is how they can avoid litigation once they do reopen. And it turns out that these business’s mission to avoid getting the pants sued off of them might inadvertently end up stomping on the personal privacy of the consumers they’re so eager to bleed dry.",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.gizmodo.com.au/2020/04/corporations-are-hoping-computer-vision-cams-will-limit-their-coronavirus-liability/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-27T14:10:00-07:00",
+      "webUrl": "https://gizmodo.com/corporations-are-hoping-computer-vision-cams-will-limit-1843108692",
+      "ampWebUrl": "https://gizmodo.com/corporations-are-hoping-computer-vision-cams-will-limit-1843108692/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/corporations-are-hoping-computer-vision-cams-will-limit-1843108692/amp",
+      "publishedDateTime": "2020-04-27T15:16:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Gizmodo Australia",
-        "domain": "gizmodo.com.au",
-        "images": null,
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
         "publishers": null,
         "authors": null
       },
       "images": [
         {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_lfill,w_1200,h_628,q_90/bqt8nt8vn0nwvxrxmywh.jpg",
-          "width": 1200,
-          "height": 628,
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/bqt8nt8vn0nwvxrxmywh.jpg",
+          "width": 800,
+          "height": 450,
           "title": "Corporations Are Hoping Computer Vision Cams Will Limit Their Coronavirus Liability",
           "attribution": null
         }
@@ -1258,6 +1221,43 @@
           "attribution": null
         }
       ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-20-vietnamese-smartphone-makers-devices-will-offer-mask-facial-recognition.md",
+      "title": "Vietnamese Smartphone Maker’s Devices Will Offer Mask Facial Recognition",
+      "excerpt": "Vingroup’s device unit VinSmart will add facial recognition capabilities to its smartphones that can identify users wearing masks, the company said in an emailed statement.",
+      "heat": 78,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.bloomberg.com/news/articles/2020-04-20/vinsmart-to-offer-mask-facial-recognition-on-its-smartphones",
+      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-04-20/vinsmart-to-offer-mask-facial-recognition-on-its-smartphones",
+      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-04-20/vinsmart-to-offer-mask-facial-recognition-on-its-smartphones",
+      "publishedDateTime": "2020-04-19T20:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
       "locale": "en-us",
       "categories": [
         "news"
