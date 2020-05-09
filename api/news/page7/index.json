@@ -2,51 +2,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_news/2020-05-04-how-should-your-business-get-started-with-ai-begin-with-why.md",
-      "title": "How Should Your Business Get Started With AI? Begin With Why",
-      "excerpt": "When it comes to AI, it’s tempting to focus on the technology rather than the underlying need its intended to address. Asking why may prove to be the key to helping businesses get started with AI.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/kasiaborowska/2020/05/04/how-should-your-business-get-started-with-ai-begin-with-why/",
-      "ampWebUrl": "https://www.forbes.com/sites/kasiaborowska/2020/05/04/how-should-your-business-get-started-with-ai-begin-with-why/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kasiaborowska/2020/05/04/how-should-your-business-get-started-with-ai-begin-with-why/amp/",
-      "publishedDateTime": "2020-05-04T07:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eb0259abf28980008468d55%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4798%26cropY1%3D363%26cropY2%3D2612",
-          "width": 1200,
-          "height": 563,
-          "title": "How Should Your Business Get Started With AI? Begin With Why",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-05-04-democrats-counter-trumps-fake-coronavirus-news-with-ai-that-fought-isis-propaganda.md",
       "title": "Democrats counter Trump’s fake coronavirus news with AI that fought ISIS propaganda",
       "excerpt": "Trump PAC is using AI originally designed to tackle Islamic State propaganda to counter coronavirus disinformation spread by the president.",
@@ -1117,6 +1072,43 @@
         "AI in Finance",
         "AI",
         "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-02-how-amazon-web-services-stacked-up-against-microsofts-azure.md",
+      "title": "How Amazon Web Services Stacked Up Against Microsoft's Azure",
+      "excerpt": "Microsoft Corporation (NASDAQ: MSFT) reported strong fiscal third-quarter results and Amazon.com, Inc. (NASDAQ: AMZN) beat on the top-line in its first quarter, but the",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.benzinga.com/analyst-ratings/analyst-color/20/05/15934564/how-amazon-web-services-stacked-up-against-microsofts-azure",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/15934564",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15934564",
+      "publishedDateTime": "2020-05-02T06:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.benzinga.com/files/images/story/2012/aws_2.png",
+          "width": 4000,
+          "height": 2400,
+          "title": "How Amazon Web Services Stacked Up Against Microsoft's Azure",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
       ]
     }
   ],

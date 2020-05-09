@@ -1,21 +1,25 @@
 ---
 category: news
 title: "dotData Launches AI-FastStart™ Program to Make it Easy for BI Teams to Adopt AI/ML through AutoML 2.0"
-excerpt: "1 year full license to the award-winning dotData Enterprise AutoML 2.0 platform * Full hosting by dotData on an enterprise-grade secure cloud infrastructure * 12 remote training sessions for an ..."
+excerpt: "The dotData AI-FastStart™ Program includes: * 1 year full license to the award-winning dotData Enterprise AutoML 2.0 platform * Full hosting by dotData on an enterprise-grade secure cloud ..."
 publishedDateTime: 2020-04-29T14:00:00Z
-webUrl: "https://www.benzinga.com/pressreleases/20/04/n15911575/dotdata-launches-ai-faststart-program-to-make-it-easy-for-bi-teams-to-adopt-aiml-through-automl-2-"
-ampWebUrl: "https://amp.benzinga.com/amp/content/15911575"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15911575"
+webUrl: "https://markets.businessinsider.com/news/stocks/dotdata-launches-ai-faststart-program-to-make-it-easy-for-bi-teams-to-adopt-ai-ml-through-automl-2-0-1029146483"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/dotdata-launches-ai-faststart-program-to-make-it-easy-for-bi-teams-to-adopt-ai-ml-through-automl-2-0-1029146483"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/dotdata-launches-ai-faststart-program-to-make-it-easy-for-bi-teams-to-adopt-ai-ml-through-automl-2-0-1029146483"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Machine Learning
   - AI
 
-secured: "zPrJ1kPFoKClAP63jnexFXeKgyENrsYgFIAVPLSv/+xS0wk3tDBlvV1d5Bg85UqjIQvWeMVScCNZwYnUe7oa+/aHAKOgl0UH8L507KaaL7gc9JBKrQaLW+dQ6pw/hqbZovZMRwex1J5D/qoG+Hb/yBvJyBEh4SyvRI5sBIfBDMriopLhWEbFJtd2UVBxO6wsyGwZOwvptADK5bTOp11a3DVQuKnBh5ifQ/ohP5q7H750rRqiXWCrlXz7IUVYjas27/Fvgt2ctH+yGixs61mQJdCg/1Yy9vbqCLQ7SWpAHIdfqd53aVRLSjNtSNCQ3ERT;Ni4p/WpSKPxk4tiwgHKstQ=="
+secured: "UrMJQiE2APKZ4BeAEAO7FH0Guo8Sg+Gx9URQ2JwrFFQso7mSv+CYBgJSlhtoiPTIUJUe5B61fQnYZEuGgGEAieHTeBHifAuZt8jhtq0mthdWdgPSsZfqq51aZQKxKUHqR8lZJiCH4sW8SuOL9OQl0apFlDGQ5D+dkPQa+uPktDZh2bovoTPiyTX0oD/r8YYNSuPtFXLN8GCN+rwl67xr9Fuk/fRdvpJGOVkQyGp6UVtllp1qWXkDXcvCbHMzVvXvVxtC/Kk0FJfaDH38jpAyBPGp39I+2cVYfNQ8xP7a2FA/UGMVE6yXEQN0WVWdda0U;WzOj3WTEKXHpgHdn1LBPKw=="
 ---
 

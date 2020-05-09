@@ -22,6 +22,7 @@ provider:
 topics:
   - AI
   - IBM AI
+  - Natural Language Processing
 
 images:
   - url: "https://tr3.cbsistatic.com/hub/i/r/2020/04/23/e7141a30-003c-4e34-ad1d-6cc7c76daf90/resize/1200x/331adc6fa5179da2d9e9d3f835c07f81/woman-clerk-in-a-bank-flat-vector-vector-id483987118-1.jpg"

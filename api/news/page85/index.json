@@ -2,50 +2,6 @@
   "page": 85,
   "value": [
     {
-      "path": "_news/2020-02-26-ai-comes-to-the-tax-code.md",
-      "title": "AI Comes to the Tax Code",
-      "excerpt": "Governments are increasingly relying on machine learning and data analytics to analyze troves of data as they seek to detect tax evasion, respond to taxpayers’ questions and make themselves more efficient.",
-      "heat": 197,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wsj.com/articles/ai-comes-to-the-tax-code-11582713000",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/ai-comes-to-the-tax-code-11582713000",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ai-comes-to-the-tax-code-11582713000",
-      "publishedDateTime": "2020-02-26T02:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-157678/social",
-          "width": 1280,
-          "height": 640,
-          "title": "AI Comes to the Tax Code",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-02-26-government-to-hold-global-summit-on-ai-in-april.md",
       "title": "Government to hold global summit on AI in April",
       "excerpt": "NEW DELHI: The government will hold a global summit on artificial intelligence on 11-12 April to exchange ideas with the industry ... The summit will see participation from major tech companies including Intel, Microsoft and AWS in addition to researchers and scientists from Carnegie Mellon University, Stanford University and Indian Institute ...",
@@ -1057,6 +1013,52 @@
       "topics": [
         "AI",
         "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-25-save-97-off-this-machine-learning-data-science-certification-training-bundle.md",
+      "title": "Save 97% off this Machine Learning & Data Science Certification Training Bundle",
+      "excerpt": "Master the Most Important Deep Learning Frameworks for Python Data Science Tensorflow Masterclass For Machine Learning and Artificial Intelligence in Python Complete Tensorflow Mastery For Machine Learning & Deep Learning in Python Python Regression Analysis: Statistics & Machine Learning Learn Complete Hands-On Regression Analysis for ...",
+      "heat": 112,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.neowin.net/news/save-97-off-this-machine-learning--data-science-certification-training-bundle",
+      "ampWebUrl": "https://www.neowin.net/amp/save-97-off-this-machine-learning--data-science-certification-training-bundle/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/save-97-off-this-machine-learning--data-science-certification-training-bundle/",
+      "publishedDateTime": "2020-02-25T09:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2019/11/1574762211_1481879523_efa151423bca1f29bdb0870f620e57a112ee9c7b_main_hero_image_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": "Save 97% off this Machine Learning & Data Science Certification Training Bundle",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "Google AI"
       ]
     }
   ],

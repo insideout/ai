@@ -2,43 +2,6 @@
   "page": 30,
   "value": [
     {
-      "path": "_news/2020-04-14-blurams-advanced-ai-facial-recognition-outdoor-camera-makes-people-stay-home-more-convenient.md",
-      "title": "Blurams' Advanced AI Facial Recognition Outdoor Camera Makes People Stay Home More Convenient",
-      "excerpt": "The key feature of the Blurams camera is its smart advanced AI facial recognition technology, which can remember up to 16 different individuals, more than enough for friends, family, and regular ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://markets.businessinsider.com/news/stocks/blurams-advanced-ai-facial-recognition-outdoor-camera-makes-people-stay-home-more-convenient-1029089737",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/blurams-advanced-ai-facial-recognition-outdoor-camera-makes-people-stay-home-more-convenient-1029089737",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/blurams-advanced-ai-facial-recognition-outdoor-camera-makes-people-stay-home-more-convenient-1029089737",
-      "publishedDateTime": "2020-04-14T06:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-04-14-159-bn-automotive-ai-market-by-offering-technology-process-drive-and-region-global-forecast-to-2027-researchandmarketscom.md",
       "title": "$15.9 Bn Automotive AI Market by Offering, Technology, Process, Drive and Region - Global Forecast to 2027 - ResearchAndMarkets.com",
       "excerpt": "The \"Automotive Artificial Intelligence Market by Offering, Technology, Process, Drive, and Region - Global Forecast to 2027\" report has been added to ResearchAndMarkets.com's offering.",
@@ -994,6 +957,43 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-13-israeli-military-grade-biometric-facial-recognition-works-with-face-masks.md",
+      "title": "Israeli military-grade biometric facial recognition works with face masks",
+      "excerpt": "Advanced biometric facial recognition technology developed for Israeli law enforcement and intelligence agencies to capture escaping criminals is now used to identify healthcare professionals that need to wear medical face masks for protection, writes The Jerusalem Post. The technology was built by Corsight, a subsidiary of Cortica, a company ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.biometricupdate.com/202004/israeli-military-grade-biometric-facial-recognition-works-with-face-masks",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-13T10:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Biometric Companies",
+        "domain": "biometricupdate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/04/13160552/facial-recognition-database.jpg",
+          "width": 640,
+          "height": 260,
+          "title": "Israeli military-grade biometric facial recognition works with face masks",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
         "AI"
       ]
     }

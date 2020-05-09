@@ -20,6 +20,6 @@ images:
     height: 627
     title: "COVID-19 Insights: Quantzig’s Latest Success Story Illustrates How Multi-Touch Attribution Analysis Solutions Can Help E-learning Companies Drive Conversions and Improve ROIs"
 
-secured: "xFepV9qKuzflolCIYH646wo1/bqJoTSqW5Zr6cWlVlPmZhqXMht72nVgM99DQI0Yj2kQwAe6/oDJ4/ZRqTRacjXeQeSuuWTs2b1gvbQNJatWdkpPjsPHA5eIOfbmJpWryPYTnxKmRlOhN67QoPLoTR3ZMw3fpl07CO2yaprCXUUJfEJuR+2Iy+5W1J6+yQsE7EB35NUGx9KGhvyBINAJx8v0w6shKZSNTeANwROKdfTFACZK1pMrVEbWaOlKhK0F9yd4+v1qk80cDEGwOFJUS2xcFVP0TfppcuOG6jIMLDnpQlheYeGroli9J/glTksh;TmP9rUUz0CiX/oxRY0sMZg=="
+secured: "kwubgWvDh1H2mbLNj50Nl5wRyg/Qp3PhapPr77CaEz6UVsVeu8h4IX8z1oX/dnDAGH2JJ/f8ivxUwZzPqKP14OXU3JVVA2uJIcnJAR0u7JeJrfzPL3wRt/skFTO2Geq+zsbZeh8CUg8MgdZJHFo9BJOI9dF1r8pzkT6/2tzXM/mQJ2oJrrz2Tn0tg4eQLPY5OLbBb3F/qL+t2nE7vpnwmJT9pigPdh0RIuJ6V/niC/uMRmJbC7xYdUNGeNvI+5jH0oSlNMSkctawacUaoBmgrzMdYv7XqWEqFtRaWr3l87EDuK6pHkZnnGzZZRVjctXVXPhapGYLzMA/owDzLZl6u4yYxmroU6lQE/kzKGJa8MJ/YPpCDVMG8HH/JAb2ZQNFVS4Il12/w75TRqDa04rsbg7XsIJrwJwpkJliSBcFIM/KiD9hOC5NqFTw+cVSRbQj8vYB3luga0Du1cn+WBUY5TgjzBILcLXIsvJJdezEM3M=;ECTBlNfKv34Cs9evUznx2A=="
 ---
 

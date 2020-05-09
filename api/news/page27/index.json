@@ -2,35 +2,6 @@
   "page": 27,
   "value": [
     {
-      "path": "_news/2020-04-16-sap-makes-support-experience-even-smarter-with-machine-learning-and-ai-enhancements.md",
-      "title": "SAP Makes Support Experience Even Smarter With Machine Learning and AI Enhancements",
-      "excerpt": "SAP SE today announced several updates, including the Schedule a Manager and Ask an Expert Peer services, to its Next-Generation Support approach focused",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/sap-makes-support-experience-even-smarter-with-machine-learning-and-ai-enhancements/article_90b9f14e-1c6e-50c1-bbac-899058184560.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-16T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-04-16-roboads-develops-new-robots-to-aid-healthcare-security-staff.md",
       "title": "RoboAds develops new robots to aid healthcare, security staff",
       "excerpt": "UAE based Robotics startup, RoboAds Inc, has developed a new generation of telepresence robots to ... The robot utilises the latest advancements in AI, machine learning, digital signage and video analytics. It can analyse the number of visitors, age, gender and emotions. RoboAds team, the company said, is dedicated towards developing advanced ...",
@@ -1045,6 +1016,50 @@
       ],
       "topics": [
         "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-15-10-ways-ai-can-improve-digital-transformations-success-rate.md",
+      "title": "10 Ways AI Can Improve Digital Transformation's Success Rate",
+      "excerpt": "It's important to get beyond digital transformation as purely a technical, abstract construct and see it as a must-have strategy to retain customers and attract new ones.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/louiscolumbus/2020/04/15/10-ways-ai-can-improve-digital-transformations-success-rate/",
+      "ampWebUrl": "https://www.forbes.com/sites/louiscolumbus/2020/04/15/10-ways-ai-can-improve-digital-transformations-success-rate/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/04/15/10-ways-ai-can-improve-digital-transformations-success-rate/amp/",
+      "publishedDateTime": "2020-04-15T10:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e974143892edc0006728986%2F0x0.jpg",
+          "width": 1200,
+          "height": 623,
+          "title": "10 Ways AI Can Improve Digital Transformation's Success Rate",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     }

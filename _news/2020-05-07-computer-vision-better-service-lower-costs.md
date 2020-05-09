@@ -1,28 +1,32 @@
 ---
 category: news
 title: "Computer Vision = Better Service + Lower Costs"
-excerpt: "Computerworld covers a range of technology topics, with a focus on these core areas of IT: Windows, Mobile, Apple/enterprise, Office and productivity suites, collaboration, web browsers and blockchain,"
-publishedDateTime: 2020-05-07T15:15:00Z
-webUrl: "https://www.computerworld.com/resources/202638/computer-vision-better-service-lower-costs"
+excerpt: "So where humans weren’t the answer, they turned to a computer vision-based POS system developed by Flytech and its subsidiary Berry AI."
+publishedDateTime: 2020-05-07T15:13:00Z
+webUrl: "https://www.infoworld.com/resources/202638/computer-vision-better-service-lower-costs"
 type: article
-quality: 39
-heat: 39
+quality: 69
+heat: 69
 published: false
 
 provider:
-  name: Computerworld
-  domain: computerworld.com
+  name: InfoWorld
+  domain: infoworld.com
+  images:
+    - url: "https://insideout.app/ai/assets/images/organizations/infoworld.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://idge.staticworld.net/ctw/computerworld-logo300x300.png"
+  - url: "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png"
     width: 300
     height: 300
     title: "Computer Vision = Better Service + Lower Costs"
 
-secured: "PSqrcYpDexfsa9AbQw07XOHmr6W6EChzq4MR66tJI5MHInxUMXa5WeoQ7YAxAYdG1mfk/Ra36NIeSycZDYSa520crhHqy7RUTm8CMOsSrutXIw4OVc2/S1vmN/aqzcbdzqXp7J6dnjY8f9smfaro538+15/yUBj35oLfvgh5TIHVAI//ab/KRuskcYaBJ7xZzjcRPLuzWrAjNvIvh4amDPuvpB1WgzdEaK2iVlwH8W9yXvAHqObi2Kxq2PylZ/WeX2s2giAxwSJWsfbeelIkINFF57rEZ/pcT00ia+l4VlxCX69UAvKdxu3PfM9IjhdZ;GBiphYyPF8RGGInnhY2byQ=="
+secured: "DDYLCoSOkcJUXGqzznVwCHtlRM/8srt8omtK45E6Uf63aOo5YsW9QlSbBIMJ1cVbB8PDjXmvq/kXshLJw2BVFtc4RA1fre4jE29gcFqd02770/NwjrJNaX24rkQq9cOk40dDTngOTQ6LyEV/txkTW9NM+gia57L5PNM5rPZHpvrb3/M5pebb6GBTF4k8Qk38uE0x1M/BTFwc5er2EmkktTGvP2deQG/3bo0OSKKGvdSg64nx5sRqnba8pGcTmEzJAZWn/2Yk3ZMz9pM50yV1VstuMl6vXkV/HJLvf5WfcxIXLaXHPfFnlTOUaWAsvD40;oIIpmDEmY0WjTuYcJdgpOA=="
 ---
 

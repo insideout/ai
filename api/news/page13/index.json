@@ -2,50 +2,6 @@
   "page": 13,
   "value": [
     {
-      "path": "_news/2020-04-28-artificial-intelligence-cannot-be-inventors-us-patent-office-rules.md",
-      "title": "Artificial Intelligence Cannot Be Inventors, US Patent Office Rules",
-      "excerpt": "Last year, two relatively mundane patents—one for a shape-shifting food container and another for an emergency flashlight—posed an existential question for international patent regulations around the world: Does an inventor have to be a human?",
-      "heat": 117,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.vice.com/en_ca/article/akw5g4/artificial-intelligence-cannot-be-inventors-us-patent-office-rules",
-      "ampWebUrl": "https://www.vice.com/amp/en_ca/article/akw5g4/artificial-intelligence-cannot-be-inventors-us-patent-office-rules",
-      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_ca/article/akw5g4/artificial-intelligence-cannot-be-inventors-us-patent-office-rules",
-      "publishedDateTime": "2020-04-28T11:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VICE",
-        "domain": "vice.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/vice.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://video-images.vice.com/test-uploads/articles/5ea84cafc1ee6b009e334eb7/lede/1588087983745-506027963_001d37ceb7_o.jpeg?crop=1xw:0.8457589285714285xh;center,center",
-          "width": 2105,
-          "height": 1184,
-          "title": "Artificial Intelligence Cannot Be Inventors, US Patent Office Rules",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-04-28-ml-explainability-with-amazon-sagemaker-debugger.md",
       "title": "ML Explainability with Amazon SageMaker Debugger",
       "excerpt": "Machine Learning (ML) impacts industries around the globe, from financial services industry (FSI) and manufacturing  to autonomous vehicles and space exploration. ML is no longer just an aspirational technology exclusive to academic and research institutions; it has evolved into a mainstream technology",
@@ -1076,6 +1032,51 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-28-computer-vision-market-2020-top-manufactures-growth-opportunities-and-investment-feasibility-2029.md",
+      "title": "Computer Vision Market 2020 Top Manufactures, Growth Opportunities and Investment Feasibility 2029",
+      "excerpt": "The latest report pertaining to Global Computer Vision Market on the basis of qualitative and quantitative assessment is one of the most comprehensive and important additions to Market.us archive of market research studies with the primary aim to providing accurate market data and useful recommendations so that players can achieve strong growth in the future.",
+      "heat": 85,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-market-2020-top-manufactures-growth-opportunities-and-investment-feasibility-2029-2020-04-28",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-28T04:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Computer Vision Market 2020 Top Manufactures, Growth Opportunities and Investment Feasibility 2029",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
         "AI"
       ]
     }

@@ -2,51 +2,6 @@
   "page": 47,
   "value": [
     {
-      "path": "_news/2020-03-31-microsoft-launches-edge-zones-for-azure.md",
-      "title": "Microsoft launches Edge Zones for Azure",
-      "excerpt": "As far as the details of the various Edge Zone versions go, the focus of Edge Zones is mostly on IoT and AI workloads, while Microsoft notes that Edge Zones with Carriers is more about low-latency online gaming, remote meetings and events, as well as smart infrastructure. Private Edge Zones, which combine private carrier networks with Azure ...",
-      "heat": 104,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/03/31/microsoft-launches-edge-zones-for-azure/",
-      "ampWebUrl": "https://techcrunch.com/2020/03/31/microsoft-launches-edge-zones-for-azure/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/03/31/microsoft-launches-edge-zones-for-azure/amp/",
-      "publishedDateTime": "2020-03-31T08:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/10/GettyImages-675949746.jpg?w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": "Microsoft launches Edge Zones for Azure",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-03-31-finally-progress-on-regulating-facial-recognition.md",
       "title": "Finally, progress on regulating facial recognition",
       "excerpt": "The post Finally, progress on regulating facial recognition appeared first on The AI Blog.\n",
@@ -1071,6 +1026,35 @@
       ],
       "topics": [
         "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-31-artificial-intelligence-tool-can-predict-which-covid-19-patients-will-develop-respiratory-disease-say-scientists.md",
+      "title": "Artificial Intelligence tool can predict which COVID-19 patients will develop respiratory disease, say scientists",
+      "excerpt": "Scientists have developed an artificial intelligence (AI ... 99 institutes willing to take part in clinical trial of plasma therapy, says ICMR “Our goal was to design and deploy a decision ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.financialexpress.com/lifestyle/health/artificial-intelligence-tool-can-predict-which-covid-19-patients-will-develop-respiratory-disease-say-scientists/1914731/",
+      "ampWebUrl": "https://www.financialexpress.com/lifestyle/health/artificial-intelligence-tool-can-predict-which-covid-19-patients-will-develop-respiratory-disease-say-scientists/1914731/lite/",
+      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/lifestyle/health/artificial-intelligence-tool-can-predict-which-covid-19-patients-will-develop-respiratory-disease-say-scientists/1914731/lite/",
+      "publishedDateTime": "2020-03-31T02:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Express",
+        "domain": "financialexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
         "AI"
       ]
     }

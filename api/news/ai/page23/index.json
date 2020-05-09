@@ -2,51 +2,6 @@
   "page": 23,
   "value": [
     {
-      "path": "_news/2020-04-16-samsung-and-xilinx-partner-on-chips-for-5g-networks.md",
-      "title": "Samsung and Xilinx partner on chips for 5G networks",
-      "excerpt": "In an email, Manuel Uhm, director of silicon marketing at Xilinx, said these chips work well for 5G. That’s because the AI engines within the AI Core series have been optimized for advanced signal processing, as well as AI inference. In particular, for signal processing, the AI engines were developed with 5G wireless algorithms in mind ...",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/15/samsung-and-xilinx-team-up-on-chips-behind-5g-networks/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/15/samsung-and-xilinx-team-up-on-chips-behind-5g-networks/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/15/samsung-and-xilinx-team-up-on-chips-behind-5g-networks/amp/",
-      "publishedDateTime": "2020-04-15T18:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/xilinx-Versal_Angled-Left.jpg?fit=1200%2C770&strip=all",
-          "width": 1200,
-          "height": 770,
-          "title": "Samsung and Xilinx partner on chips for 5G networks",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-04-16-these-are-the-new-hot-spots-of-innovation-in-the-time-of-coronavirus.md",
       "title": "These are the new hot spots of innovation in the time of coronavirus",
       "excerpt": "Entrepreneurs are innovating in new ways as a result of the coronavirus. Potential examples include virus resistant nanoparticles for health worker protective gear and home schooling solutions, CEO of global start-up accelerator The Founder Institute Adeo Ressi tells CNBC Make It.",
@@ -1299,6 +1254,51 @@
           "width": 1200,
           "height": 800,
           "title": "Gigabyte Aero 17 review: A gorgeous 4K laptop that finally makes sense",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-15-intel-10th-gen-comet-lake-h-review-the-best-core-i7-in-a-laptop-you-can-buy.md",
+      "title": "Intel 10th-gen Comet Lake H review: The best Core i7 in a laptop you can buy",
+      "excerpt": "The pure CPU-focused AI upscale test takes hours to run. We then ran Topaz Video Enhance AI on a GPU, upping the conversion resolution to 4K. This is a realistic task for someone who wants to take a 2009-era Flip video and convert it to 4K for display on a TV.",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.pcworld.com/article/3537536/intel-10th-gen-comet-lake-h-review-we-test-the-core-i7-10875h-mobile-cpu.html",
+      "ampWebUrl": "https://www.pcworld.com/article/3537536/intel-10th-gen-comet-lake-h-review-we-test-the-core-i7-10875h-mobile-cpu.amp.html",
+      "cdnAmpWebUrl": "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/3537536/intel-10th-gen-comet-lake-h-review-we-test-the-core-i7-10875h-mobile-cpu.amp.html",
+      "publishedDateTime": "2020-04-15T06:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC World",
+        "domain": "pcworld.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/pcworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2020/04/gigabyte-aero-17-intel-core-i7-10875h-primary-100838509-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Intel 10th-gen Comet Lake H review: The best Core i7 in a laptop you can buy",
           "attribution": null
         }
       ],
