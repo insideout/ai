@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Progress Expands Relationship with Microsoft to Deliver Faster, Easier Digital Experiences with Sitefinity"
-excerpt: "BEDFORD, Mass., May 06, 2020 (GLOBE NEWSWIRE) -- Progress (NASDAQ: PRGS), a leading provider of application development and digital experience technologies, today announced it has expanded collaboration with Microsoft to further integrate Microsoft Azure services into the Progress(R) Sitefinity(R) digital experience management platform."
-publishedDateTime: 2020-05-06T14:50:00Z
-webUrl: "https://www.marketwatch.com/press-release/progress-expands-relationship-with-microsoft-to-deliver-faster-easier-digital-experiences-with-sitefinity-2020-05-06-10184500"
+excerpt: "Progress (NASDAQ: PRGS), a leading provider of application development and digital experience technologies, today announced it has expanded collaboration with Microsoft to further integrate Microsoft Azure services into the Progress(R) Sitefinity(R) digital experience management platform."
+publishedDateTime: 2020-05-06T14:36:00Z
+webUrl: "https://www.marketwatch.com/press-release/progress-expands-relationship-with-microsoft-to-deliver-faster-easier-digital-experiences-with-sitefinity-2020-05-06"
 type: article
 quality: 51
 heat: 51
@@ -27,6 +27,6 @@ images:
     height: 630
     title: "Progress Expands Relationship with Microsoft to Deliver Faster, Easier Digital Experiences with Sitefinity"
 
-secured: "lFdp7A4jLzccSIhIOlVK3NzaRMZp3cqXIUUQlIqPEOsQUZQFWA1IIObq9F8VWn79I+dLJ1493DebVEdBbOgzQJy52D42H/gALMgitnBzrw2Zhds6D97V7j8nxXVYKAXlcC0TnNFTxTcaINHjmNnu0HG6CGcibAj/D7ElZ4U3v0GM6+WE+F0HBO+Ghpb0z0FaOPxel7Pq5XkMJqMWJgrm2AH+BR3TyQCImLyC7GFszMxBh1Z5ucPqeZS/iymByHiu6+oFCbr8WlR74dFRzCm04l0rqbbWKwYhK0Fof7YPGPpIpfo4G4Mt/2dazLowH6Rf;3EzxChB/oA/spz2+HIhPlg=="
+secured: "MbsyiyHN8fSeYNsU0o2AShe5zc0AAzyR3oZM/UYtcm6/79SyM+qJSdTW6Dd/ue8O8Zy/3f+XanFvJEgzH84ZA0H3TjlVYiwXnUKVczzPEcS8im9d9QHdjyQzmbMeZHQ+BXF2Z+FUtyB7g2CldSxIqcDvrB5diLbO89d2VMaXE4yJZzNZS1savFqGRTSBl2rGAddia1EBc0J2bgRvvmYZQ1PDyIWsn3cJGDw3Wq3cbNhyOsz0B1mC0+AJCOYv4CSkC6vsB0Y3mt+AOvU2AOZUlXKit/KCT7vyPJOpBW4zcW2BD07bevZItv8YhlYDCdFq;VId+qoUAcUl3YC53UKN3Rw=="
 ---
 

@@ -1,11 +1,11 @@
 ---
 category: news
 title: "Can AI Make Work Safe Again?"
-excerpt: "Although this is no doubt disappointing, it is also evident that data and AI have been quite helpful to certain countries (with the most salient or widely-discussed cases being Israel, Singapore, and of course China) vis-à-vis their ability to track the patterns of virus spread across and within regions,"
+excerpt: "But in the context of the current pandemic, it is fair to say that the contribution of AI has been underwhelming, to say the least. With all the smart scientists, big tech, big pharma, and powerful governments around the world mining a sea of personal health data,"
 publishedDateTime: 2020-05-08T23:37:00Z
-webUrl: "https://www.psychologytoday.com/us/blog/mr-personality/202005/can-ai-make-work-safe-again"
-ampWebUrl: "https://www.psychologytoday.com/us/blog/mr-personality/202005/can-ai-make-work-safe-again?amp"
-cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/mr-personality/202005/can-ai-make-work-safe-again?amp"
+webUrl: "https://www.psychologytoday.com/intl/blog/mr-personality/202005/can-ai-make-work-safe-again"
+ampWebUrl: "https://www.psychologytoday.com/intl/blog/mr-personality/202005/can-ai-make-work-safe-again?amp"
+cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/mr-personality/202005/can-ai-make-work-safe-again?amp"
 type: article
 quality: 37
 heat: 37
@@ -18,6 +18,6 @@ provider:
 topics:
   - AI
 
-secured: "qGD1eFtVntZMFpMysCrymJaYEcwea1Rw9BW9e+upbv66azqwOneQgkSuHGXoqhcXvzA5Bc4FTE3tS5sSuDiMlDGLeY3/17nvj/CZGTB3t9kaXsVm9v/lrpF9LU4Hk/bIr3v6wXOCmhljlDK6Zn6EzSNq5R/95upmC+rGW9qKKKVHmYdzyINYGcN7zU13cjVxtnQrckhoE3/IlSBn/IAAwvwE/0GCW9hQ/cT09ngRWd7xKalE2qaeNW5cB2BeCK4K+QZOGEHY2FSzIsa4DjeVr4d4daBx64rm9cK21HaALY9BU2LiywanR8ILVM33MzjWTmXtK3YrPRSnxikrR6ZP/ltpAZNjoIdwjhxVnpBE9FMBZLnPXMQ8oJSJ/Ds0g6jqmNT+2ua2L0ZlEFIWSw4PZF/49u0O/pVEEs7FCyTXYTxMwNxR7EgcW75toHyEJjMx3J7fXs0HuTdcEFsLHQrbZh0aFTmM+3PnR4kJleTTSkc=;DRmhoLMJP6iIVe5+Nmmvww=="
+secured: "l+EMFEARcqfSbRmyKGmJo7mRN6vNDx7DgoM/ufELDL46dWDQ1vJnMweJ4As+5KAzoCQUjJY8yfAyyqvZCmjiOLEC9NaWuySSCPFOq2Wx6jYiBpeg+RdlKay8BNmzux4ndlGdzvkCleIUVrfCDUM2V8QU1Kzp7emkVdr8dKuNoA3XCK7hi8mU6j6kemh+rindXugh2PZ8VzKMrkrD9Va0I8sZDD1UMVGNYp2+n8TCuXhnEbJiwH0HZ0zvNdLB7ir1aXrEVBP3wkHOnQY1oEqmviKcE/OToEjCnJ/9bK6F0nacG6vywDsr9WRmDHS+G5Re4sGtmokkW7i+WO4H339njs/41cghwzRDzAepzJrH7FRhCgCHqB0RoNYrYEAL5VGvfdWXM+xVjuS1B+10mzQHAXuJiFwDUXzSlcVwhkje/1wcyjzFRbqalOgdAqplkzfvqP+bnQt5qr3TerIVnw8r/CjnMnGamnHypbqPu3Komko=;tM6qhHz2O2OTy0A7VzVfWQ=="
 ---
 
