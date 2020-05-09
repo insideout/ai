@@ -3,9 +3,9 @@ category: news
 title: "Can AI Make Work Safe Again?"
 excerpt: "But in the context of the current pandemic, it is fair to say that the contribution of AI has been underwhelming, to say the least. With all the smart scientists, big tech, big pharma, and powerful governments around the world mining a sea of personal health data,"
 publishedDateTime: 2020-05-08T23:37:00Z
-webUrl: "https://www.psychologytoday.com/us/blog/mr-personality/202005/can-ai-make-work-safe-again"
-ampWebUrl: "https://www.psychologytoday.com/us/blog/mr-personality/202005/can-ai-make-work-safe-again?amp"
-cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/mr-personality/202005/can-ai-make-work-safe-again?amp"
+webUrl: "https://www.psychologytoday.com/intl/blog/mr-personality/202005/can-ai-make-work-safe-again"
+ampWebUrl: "https://www.psychologytoday.com/intl/blog/mr-personality/202005/can-ai-make-work-safe-again?amp"
+cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/mr-personality/202005/can-ai-make-work-safe-again?amp"
 type: article
 quality: 39
 heat: 39
@@ -19,6 +19,6 @@ topics:
   - Natural Language Processing
   - AI
 
-secured: "Lbjbxu6M9LGR1K0dKnOXClcCLJoTxxSg6PvdNmuQVTTZJhZVJp/XxkXAyNH0aaaUAiLtLTDT3h3GgpTehAz+XyJkoVPB8jFNRfszE0Jtcy7lx67J6c4dARwyoZxrXgY/drIu3wBTYSeF/CucMpAZCuDvOL606A2yXfkA8UoDVAoOcrPfs7KwOcRuBQUmFxJBh/ZbOQO3acJyDGdO8vN0V81frGJ0k/NzMMISya2j0J0KdupxlpBOVgi4etBUcF0O4kMbJisESjVCdzXHu1ekuC3bUj91Rm4b4McK9B1RbkgNTDpNf18DekZk9uHB22I+dnwhfsW4xw9IFvWjbhTa7+wfGeHL3whuVoLflwx1Dj555DkPvME/ePWt4WEVsuYo8hN6XF+419xZbusm6toEqDEsETBPOWG+0dHFIu36gD58nOx6YB47nLemrBGkMmdwhmWYHkpQRgwfVFd9bAObfMkLmU2cH/q522fsRNKj62Q=;wvOt6gziWfyh2wHY7HITCA=="
+secured: "ikpabRqmjnwuzruDk0y4qQjtFL5z1vkGWR5fe7B/F7FrU3nbMGAmBWIw8nBPFg6hw1IWkdJb0UrIqDEN6TfoIBIQCAbfspxxYtaKmqwtq80r1GFYfDTVtCW6q4G3tSCnMhTazir3GiQFw+5rFut/8sM8WK96xqA9X1WY/GTVHYuzufPyJctjtHdIZRQTWuMw/3Dys9UtXjlpjq2FvHOJq8EEZLwaAZMtBU1669mMl/B/SK5nEaCtIkHncbqkpKrKtewhcyBlCIWa0rXH+31aQks4k2WHuxnn4DRKUUt81aa5/NBeNuNzcyE9hD30KQvGxyONtEAtglzrKcRUbwfZUCtbYxDWyryTzakdl99LvhwL5eBTX6C6RLpsdgPek2gfxyq7qLxJjWVBm3X4ZILoGkhzhNJFxt+YDdBYDypHFwH86WsQNCneETB0Up/zkik/Sr7i+OY8vrBvmeNruofUyuwEdEfOt2oohDRo5Daz4Po=;0l0f2D4rbsUk6i4RDsVuKg=="
 ---
 
