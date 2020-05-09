@@ -2,6 +2,35 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2020-04-13-robot-allows-clinicians-to-reuse-thousands-of-masks-in-the-covid-19-fight.md",
+      "title": "Robot allows clinicians to reuse thousands of masks in the COVID-19 fight",
+      "excerpt": "At UVA Health, a newly acquired robot is helping maximize the life of some of the most critical personal protective equipment, or PPE, at a time when the surge of demand for such items has ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medicalxpress.com/news/2020-04-robot-clinicians-reuse-thousands-masks.html",
+      "ampWebUrl": "https://medicalxpress.com/news/2020-04-robot-clinicians-reuse-thousands-masks.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-04-robot-clinicians-reuse-thousands-masks.amp",
+      "publishedDateTime": "2020-04-13T06:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-13-artificial-intelligence-ai-market-value-growing-at-a-us-160-bn-by-2026.md",
       "title": "Artificial Intelligence (AI) Market Value Growing at a US$ 160 Bn by 2026",
       "excerpt": "According to the Acumen Research and Consulting, the global Artificial Intelligence (AI) market is expected to reach at US$ 160 Bn by 2026, along with the projected CAGR of 49% from 2020-2026. The published report global Artificial Intelligence (AI) market provides a holistic overview of the current market covering the current trends.",
@@ -1190,43 +1219,6 @@
       "topics": [
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-04-10-using-ai-to-analyze-coronavirus-data.md",
-      "title": "Using AI to analyze coronavirus data",
-      "excerpt": "These are two, 26- petaflop machines that are bridged by the Microsoft Azure C loud. On top of that, we put the C3.ai platform and these universities, they’re in the process right now of allocating an initial, I think, $6 million in research awards to, you know, apply AI to mitigate COVID-19 pandemic. These are genome- specific medical protocols.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://federalnewsnetwork.com/artificial-intelligence/2020/04/using-ai-to-analyze-coronavirus-data/",
-      "ampWebUrl": "https://federalnewsnetwork.com/artificial-intelligence/2020/04/using-ai-to-analyze-coronavirus-data/amp/",
-      "cdnAmpWebUrl": "https://federalnewsnetwork-com.cdn.ampproject.org/c/s/federalnewsnetwork.com/artificial-intelligence/2020/04/using-ai-to-analyze-coronavirus-data/amp/",
-      "publishedDateTime": "2020-04-10T09:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "federalnewsnetwork.com",
-        "domain": "federalnewsnetwork.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://federalnewsnetwork.com/wp-content/uploads/2020/04/Virus_Outbreak_Spain_55530-1024x682.jpg",
-          "width": 1024,
-          "height": 682,
-          "title": "Using AI to analyze coronavirus data",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/355538
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/355538/ibm-watson-aiops-official?amp"
 type: article
 quality: 104
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -30,21 +30,6 @@ images:
     title: "IBM Watson AIOps automates the detection of IT anomalies"
 
 related:
-  - title: "IBM’s Watson AIOps automates IT anomaly detection and remediation"
-    excerpt: "IBM Think conference, IBM announced Watson AIOps, a new service that automates the detection and remediation of network anomalies."
-    publishedDateTime: 2020-05-05T04:04:00Z
-    webUrl: "https://venturebeat.com/2020/05/04/ibms-watson-aiops-automates-it-anomaly-detection-and-remediation/"
-    ampWebUrl: "https://venturebeat.com/2020/05/04/ibms-watson-aiops-automates-it-anomaly-detection-and-remediation/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/04/ibms-watson-aiops-automates-it-anomaly-detection-and-remediation/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 104
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/11/ibm-keyboard-logo.png?fit=1200%2C600&strip=all"
-        width: 1200
-        height: 600
   - title: "IBM Announces New 5G Services And Automation Tools For CIOs"
     excerpt: "At the Think Digital conference, IBM (NYSE: IBM) announced it launched new automation tools for CIOs and a set of new 5G services. These are the details."
     publishedDateTime: 2020-05-05T16:04:00Z

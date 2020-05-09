@@ -2,6 +2,35 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2020-04-24-arista-delivers-cognitive-wifi-for-collaboration-video-and-chat-applications.md",
+      "title": "Arista Delivers Cognitive WiFi for Collaboration, Video and Chat Applications",
+      "excerpt": "Arista Networks, today announced a new release of its Cognitive WiFi software that seamlessly delivers intelligent application identification, performance optimization, automated troubleshooting and location services ... Zoom and Microsoft Team video ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.newswiretoday.com/news/172782/Arista-Delivers-Cognitive-WiFi-for-Collaboration-Video-and-Chat-Applications/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-24T12:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newswire Today",
+        "domain": "newswiretoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-24-ai-weekly-ai-models-illustrate-the-importance-of-continued-social-distancing.md",
       "title": "AI Weekly: AI models illustrate the importance of continued social distancing",
       "excerpt": "Using a hybrid AI system dubbed SIRNet and several epidemiological models, which were trained on smartphone location data along with population-weighted density and other data points from the startup Safe Graph, World Health Organization, the U.S. Centers for Disease Control and Prevention, and elsewhere, the coauthors claim they managed to ...",
@@ -126,35 +155,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-24-aws-announces-general-availability-of-amazon-augmented-artificial-intelligence-a2i.md",
-      "title": "AWS Announces General Availability of Amazon Augmented Artificial Intelligence (A2I)",
-      "excerpt": "AWS offers over 175 fully featured services for compute, storage, databases, networking, analytics, robotics, machine learning and artificial intelligence (AI), Internet of Things (IoT), mobile, security, hybrid, virtual and augmented reality (VR and AR ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://stockhouse.com/news/press-releases/2020/04/24/aws-announces-general-availability-of-amazon-augmented-artificial-intelligence",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-24T10:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Stockhouse",
-        "domain": "stockhouse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     },
     {
@@ -323,6 +323,51 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-24-aws-announces-general-availability-of-amazon-augmented-artificial-intelligence-a2i.md",
+      "title": "AWS Announces General Availability of Amazon Augmented Artificial Intelligence (A2I)",
+      "excerpt": "that allow machine learning predictions from Amazon Rekognition and Amazon Textract to be human-reviewed more easily. Developers who build custom machine learning models in Amazon SageMaker (or ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/aws-announces-general-availability-of-amazon-augmented-artificial-intelligence-a2i-2020-04-24",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-24T07:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "AWS Announces General Availability of Amazon Augmented Artificial Intelligence (A2I)",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
         "AI"
       ]
     },
@@ -1203,51 +1248,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-23-respecting-rights-global-network-initiative-assessment-report.md",
-      "title": "Respecting rights: Global Network Initiative assessment report",
-      "excerpt": "In their first letter to shareholders, our founders highlighted Google’s mission to “develop services that significantly improve the lives of as many people as possible.\" This vision continues to guide all of us at Google. From Search to YouTube, Gmail to Google Maps—we’ve worked to ensure that our products",
-      "heat": 94,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.blog.google/outreach-initiatives/public-policy/respecting-rights-global-network-initiative-assessment-report/",
-      "ampWebUrl": "https://blog.google/outreach-initiatives/public-policy/respecting-rights-global-network-initiative-assessment-report/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/public-policy/respecting-rights-global-network-initiative-assessment-report/amp/",
-      "publishedDateTime": "2020-04-23T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://blog.google/static/blogv2/images/google-1000x1000.png",
-          "width": 1000,
-          "height": 1000,
-          "title": "Respecting rights: Global Network Initiative assessment report",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

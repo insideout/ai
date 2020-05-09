@@ -2,6 +2,51 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-05-07-google-releases-ai-explorables-to-make-machine-learning-more-accessible-and-participatory.md",
+      "title": "Google releases AI Explorables to make machine learning more accessible and participatory",
+      "excerpt": "AI Explorables is Google's initiative to elucidate the key concepts of machine learning via a series of interactive explanations to make the field more accessible and participatory.",
+      "heat": 75,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.neowin.net/news/google-releases-ai-explorables-to-make-machine-learning-more-accessible-and-participatory",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-07T12:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2020/04/1587624429_google_5_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": "Google releases AI Explorables to make machine learning more accessible and participatory",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-07-boston-mulls-facial-recognition-ban-ahead-of-possible-updates.md",
       "title": "Boston Mulls Facial Recognition Ban Ahead of Possible Updates",
       "excerpt": "While existing surveillance infrastructure does not use facial recognition technology, potential updates to the system could make it possible. Officials are considering a prohibition on the controversial technology.",
@@ -834,7 +879,7 @@
       "path": "_news/2020-05-07-artificial-intelligence-ai-in-manufacturing-market-size-explosive-growth-opportunity-2024.md",
       "title": "Artificial Intelligence (AI) in manufacturing Market Size, Explosive Growth Opportunity 2024",
       "excerpt": "Global Artificial Intelligence (AI) in Manufacturing Market: by Component (Software, Service, Hardware (Network,",
-      "heat": 95,
+      "heat": 85,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-manufacturing-market-size-explosive-growth-opportunity-2024-2020-05-07",
@@ -1261,51 +1306,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-06-how-ibm-is-automating-it-to-help-companies-maintain-business-continuity-during-crises.md",
-      "title": "How IBM is automating IT to help companies maintain business continuity during crises",
-      "excerpt": "IBM is rolling out a new suite of AI for IT tools and services that can help CIOs in all industries reduce costs and handle more complex networks.",
-      "heat": 72,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businessinsider.com/sc/ai-can-help-it-departments-navigate-crises-2020-5",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-06T12:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.insider.com/5ea86ad338bf232f585b0297?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": "How IBM is automating IT to help companies maintain business continuity during crises",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

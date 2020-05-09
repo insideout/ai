@@ -2,6 +2,52 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-05-05-smart-serendipity-in-ibm-ai-for-operations.md",
+      "title": "Smart Serendipity In IBM AI For Operations",
+      "excerpt": "Now that CIOs are being forced to automate an more of their IT infrastructures as a necessity (rather than a nice to have), it is perhaps a realization that IBM’s branding elves were being quite subtle when they thought to think of Think as means of championing IBM’s Watson line of AI products.",
+      "heat": 111,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/adrianbridgwater/2020/05/05/smart-serendipity-in-ibm-ai-for-operations/",
+      "ampWebUrl": "https://www.forbes.com/sites/adrianbridgwater/2020/05/05/smart-serendipity-in-ibm-ai-for-operations/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2020/05/05/smart-serendipity-in-ibm-ai-for-operations/amp/",
+      "publishedDateTime": "2020-05-04T21:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eaffad6ed706b0007e65517%2F0x0.jpg",
+          "width": 640,
+          "height": 332,
+          "title": "Smart Serendipity In IBM AI For Operations",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-05-ibm-and-red-hat-expand-their-telco-edge-and-ai-enterprise-offerings.md",
       "title": "IBM and Red Hat expand their telco, edge and AI enterprise offerings",
       "excerpt": "At its Think Digital conference, IBM and Red Hat today announced a number of new services that all center around 5G edge and AI. The fact that the company is focusing on these two areas doesn’t come as a surprise,",
@@ -1037,50 +1083,6 @@
           "width": 796,
           "height": 417,
           "title": "Democrats counter Trump’s fake coronavirus news with AI that fought ISIS propaganda",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-04-ai-software-gets-mixed-reviews-for-tackling-coronavirus.md",
-      "title": "AI Software Gets Mixed Reviews for Tackling Coronavirus",
-      "excerpt": "Faced with a burgeoning number of Covid-19 patients, hospitals are turning to artificial intelligence to help with diagnoses and assessments. So far, the results are mixed.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wsj.com/articles/ai-software-gets-mixed-reviews-for-tackling-coronavirus-11588597013",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/ai-software-gets-mixed-reviews-for-tackling-coronavirus-11588597013",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ai-software-gets-mixed-reviews-for-tackling-coronavirus-11588597013",
-      "publishedDateTime": "2020-05-04T06:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-182965/social",
-          "width": 1211,
-          "height": 640,
-          "title": "AI Software Gets Mixed Reviews for Tackling Coronavirus",
           "attribution": null
         }
       ],

@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-05-09-understanding-the-recognition-pattern-of-ai.md",
+      "title": "Understanding The Recognition Pattern Of AI",
+      "excerpt": "Of the seven patterns of AI that represent the ways in which AI is being implemented, one of the most common is the recognition pattern.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/05/09/understanding-the-recognition-pattern-of-ai/",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/05/09/understanding-the-recognition-pattern-of-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/05/09/understanding-the-recognition-pattern-of-ai/amp/",
+      "publishedDateTime": "2020-05-09T12:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1032667470%2F0x0.jpg",
+          "width": 1200,
+          "height": 584,
+          "title": "Understanding The Recognition Pattern Of AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-09-watsons-creator-wants-to-teach-ai-a-new-trick-common-sense.md",
       "title": "Watson's Creator Wants to Teach AI a New Trick: Common Sense",
       "excerpt": "David Ferrucci built a computer that mastered Jeopardy. Since then, he's been attacking a more challenging task.",
@@ -927,7 +971,7 @@
       "path": "_news/2020-05-08-clearview-ai-to-stop-providing-facial-recognition-to-private-companies.md",
       "title": "Clearview AI to stop providing facial recognition to private companies",
       "excerpt": "Maker of controversial says it's cutting off anyone not associated with government or law enforcement entities.",
-      "heat": 136,
+      "heat": 146,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.cnet.com/news/clearview-ai-to-stop-providing-facial-recognition-to-private-companies/",
@@ -1046,43 +1090,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-07-indiegogo-campaign-introduces-the-next-gen-social-family-robot.md",
-      "title": "Indiegogo campaign introduces The Next-Gen Social Family Robot",
-      "excerpt": "Misa is a revolutionary social family robot that is backed by high-tech sensors, AI, and emotional intelligence travel, learn, teach, and interact with people around like a",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.benzinga.com/pressreleases/20/05/ab15985882/indiegogo-campaign-introduces-the-next-gen-social-family-robot",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/15985882",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15985882",
-      "publishedDateTime": "2020-05-07T16:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "http://www.getnews.info/uploads/98e0ea3f3e3e583379fdb6396838275d.jpg",
-          "width": 579,
-          "height": 480,
-          "title": "Indiegogo campaign introduces The Next-Gen Social Family Robot",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

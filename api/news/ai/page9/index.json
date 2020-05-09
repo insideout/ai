@@ -2,6 +2,43 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-04-30-5-artificial-intelligence-stocks-to-consider.md",
+      "title": "5 Artificial Intelligence Stocks to Consider",
+      "excerpt": "[Editor’s note: “5 Artificial Intelligence Stocks to Consider ... Google is a top player in autonomous vehicles. The company’s Waymo unit could be worth as much as $175 billion, according ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/5-artificial-intelligence-stocks-to-consider-1028347999",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/5-artificial-intelligence-stocks-to-consider-1028347999",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/5-artificial-intelligence-stocks-to-consider-1028347999",
+      "publishedDateTime": "2020-04-30T01:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-30-resistant-ai-raises-275-million-to-protect-algorithms-from-adversarial-attacks.md",
       "title": "Resistant AI raises $2.75 million to protect algorithms from adversarial attacks",
       "excerpt": "Resistant AI has raised $2.75 million in venture capital to develop an artificial intelligence system that protects algorithms from automated attacks.",
@@ -1225,51 +1262,6 @@
         "Computer Vision",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-04-29-determined-ai-makes-its-machine-learning-infrastructure-free-and-open-source.md",
-      "title": "Determined AI makes its machine learning infrastructure free and open source",
-      "excerpt": "Machine learning has quickly gone from niche field to crucial component of innumerable software stacks, but that doesn’t mean it’s easy. The tools needed to create and manage it are enterprise-grade and often enterprise-only — but Determined AI aims to make them more accessible than",
-      "heat": 101,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/04/29/determined-ai-makes-its-machine-learning-infrastructure-free-and-open-source/",
-      "ampWebUrl": "https://techcrunch.com/2020/04/29/determined-ai-makes-its-machine-learning-infrastructure-free-and-open-source/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/29/determined-ai-makes-its-machine-learning-infrastructure-free-and-open-source/amp/",
-      "publishedDateTime": "2020-04-29T08:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/06/GettyImages-1031459542.jpg?w=1024",
-          "width": 1024,
-          "height": 660,
-          "title": "Determined AI makes its machine learning infrastructure free and open source",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

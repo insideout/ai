@@ -2,6 +2,35 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2020-04-14-synopsys-powers-groq-processor-expands-in-ai-chip-market.md",
+      "title": "Synopsys Powers Groq Processor, Expands in AI Chip Market",
+      "excerpt": "Synopsys, Inc.’s SNPS ZeBu Server 4 product is generating a broad-based adoption by customers’ designing storage, networking and AI chips. Recently, the company announced that Groq has adopted the ZeBu Server 4 emulation solution to develop its Tensor Streaming Processor (TSP).",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nasdaq.com/articles/synopsys-powers-groq-processor-expands-in-ai-chip-market-2020-04-14",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-14T07:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-14-blurams-advanced-ai-facial-recognition-outdoor-camera-makes-people-stay-home-more-convenient.md",
       "title": "Blurams' Advanced AI Facial Recognition Outdoor Camera Makes People Stay Home More Convenient",
       "excerpt": "The key feature of the Blurams camera is its smart advanced AI facial recognition technology, which can remember up to 16 different individuals, more than enough for friends, family, and regular ...",
@@ -1165,35 +1194,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-13-robot-allows-clinicians-to-reuse-thousands-of-masks-in-the-covid-19-fight.md",
-      "title": "Robot allows clinicians to reuse thousands of masks in the COVID-19 fight",
-      "excerpt": "At UVA Health, a newly acquired robot is helping maximize the life of some of the most critical personal protective equipment, or PPE, at a time when the surge of demand for such items has ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medicalxpress.com/news/2020-04-robot-clinicians-reuse-thousands-masks.html",
-      "ampWebUrl": "https://medicalxpress.com/news/2020-04-robot-clinicians-reuse-thousands-masks.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-04-robot-clinicians-reuse-thousands-masks.amp",
-      "publishedDateTime": "2020-04-13T06:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

@@ -2,6 +2,51 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-04-29-facebook-releases-its-blender-chatbot-as-an-open-source-project.md",
+      "title": "Facebook releases its 'Blender' chatbot as an open-source project",
+      "excerpt": "Facebook has spent years training its Blender chatbot on 9.4 billion conversational parameters. Now the company is releasing it as an open-source project.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.engadget.com/facebook-chatbot-ai-open-source-blender-150001320.html",
+      "ampWebUrl": "https://www.engadget.com/amp/facebook-chatbot-ai-open-source-blender-150001320.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/facebook-chatbot-ai-open-source-blender-150001320.html",
+      "publishedDateTime": "2020-04-29T08:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-04%2Fec52bd10-8991-11ea-bfbf-a5d10e9a9f52&client=amp-blogside-v2&signature=1b5c7c9ee001fd626753b341ba8ee569497eef1c",
+          "width": 600,
+          "height": 350,
+          "title": "Facebook releases its 'Blender' chatbot as an open-source project",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-29-ruha-benjamin-on-deep-learning-computational-depth-without-sociological-depth-is-superficial-learning.md",
       "title": "Ruha Benjamin on deep learning: Computational depth without sociological depth is ‘superficial learning’",
       "excerpt": "Ruja Benjamin urged engineers to consider historic and sociological factors when building deep learning systems in her keynote address at ICLR.",
@@ -1021,51 +1066,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-28-ml-explainability-with-amazon-sagemaker-debugger.md",
-      "title": "ML Explainability with Amazon SageMaker Debugger",
-      "excerpt": "Machine Learning (ML) impacts industries around the globe, from financial services industry (FSI) and manufacturing  to autonomous vehicles and space exploration. ML is no longer just an aspirational technology exclusive to academic and research institutions; it has evolved into a mainstream technology",
-      "heat": 104,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/ml-explainability-with-amazon-sagemaker-debugger/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-28T11:24:47-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/04/23/sagemaker-debugger-explainability-8.gif",
-          "width": 800,
-          "height": 426,
-          "title": "ML Explainability with Amazon SageMaker Debugger",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

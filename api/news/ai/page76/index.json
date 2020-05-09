@@ -2,6 +2,50 @@
   "page": 76,
   "value": [
     {
+      "path": "_news/2020-02-20-jpeg-committee-is-banking-on-ai-to-build-its-next-image-codec.md",
+      "title": "JPEG committee is banking on AI to build its next image codec",
+      "excerpt": "Joint Photographic Experts Group (JPEG), a committee that maintains various JPEG image-related standards, has started exploring a way to involve AI to build a new compression standard.",
+      "heat": 187,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/02/20/jpeg-committee-is-banking-on-ai-to-build-its-next-image-codec/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/02/20/jpeg-committee-is-banking-on-ai-to-build-its-next-image-codec/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/02/20/jpeg-committee-is-banking-on-ai-to-build-its-next-image-codec/amp/",
+      "publishedDateTime": "2020-02-20T03:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/02/MIT-Model.jpg",
+          "width": 739,
+          "height": 390,
+          "title": "JPEG committee is banking on AI to build its next image codec",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-02-20-vcs-warn-pumping-millions-into-an-ai-startup-you-mean-pumping-millions-into-azure-aws-or-google-cloud.md",
       "title": "VCs warn: Pumping millions into an AI startup? You mean, pumping millions into Azure, AWS or Google Cloud...",
       "excerpt": "“Anecdotally, we have seen a surprisingly consistent pattern in the financial data of AI companies, with gross margins often in the 50-60 per cent range – well below the 60-80 per cent [and above] benchmark for comparable SaaS businesses,” said Martin Casado and Matt Bornstein, venture-capitalists at Silicon Valley's venerable Andreessen ...",
@@ -1227,50 +1271,6 @@
       "topics": [
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-02-19-europe-unveils-its-big-ai-strategy-others-are-abusing-ai-that-mustnt-happen-here.md",
-      "title": "Europe unveils its big AI strategy: Others are abusing AI. That mustn't happen here",
-      "excerpt": "Behind that broad description, the new strategy's objectives are specific: establish rules on data and AI that are quintessentially European – regulation that \"puts people first\" and fosters \"trustworthy technology\". In a white paper on artificial intelligence released as part of the new strategy announcement, the European organisation ...",
-      "heat": 81,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/europe-unveils-its-big-ai-strategy-others-are-abusing-ai-that-mustnt-happen-here/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/europe-unveils-its-big-ai-strategy-others-are-abusing-ai-that-mustnt-happen-here/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/europe-unveils-its-big-ai-strategy-others-are-abusing-ai-that-mustnt-happen-here/",
-      "publishedDateTime": "2020-02-19T06:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/02/12/406da351-9402-440d-9f74-da3fa7b763f3/thumbnail/1200x675/cafc827b01356f8c2c0d097d94577582/13-samsung-galaxy-s20-ultra-zoom-1-1.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Europe unveils its big AI strategy: Others are abusing AI. That mustn't happen here",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

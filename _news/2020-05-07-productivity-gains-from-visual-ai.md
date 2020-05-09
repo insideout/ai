@@ -22,6 +22,6 @@ images:
     height: 300
     title: "Productivity Gains from Visual AI"
 
-secured: "tB3Frsc/fGoH7cBiaA8A709lie3EfkeEZO2HuWf0avY6u16EcCDPczGFkwoUwhY0X4LtrrPRVUwmS1XK3Ub236O5+f6zbHOQTe8Q10NFm79mJl2N0gIYxp6e+r93NomDwsh3qjCt6YSsH1ro15QUX2cIHK0kNl5dIyv7sX/z34OoQ7YyphIxRycC3Y/878iJwBo2rmffmzkoOiNCS+Hn91KnPmtumDyCxFkL8gAx7h3qDpKMzQwmGO+gNWyt7RqCO7y04PP3PejrDPSW7W+bjIgl1vf7+u0RnerBz7kmeXJRQ0BfG5cCuY+vWtpIE4/R;/+btBl00Rm/teMso0wLpLA=="
+secured: "ujv+Wenzm91CR5OczET+8IzcGw3Wm3VQR3ryNj+c1TFx3dbQaTBNZnF8CsWjmtqsLIIJ8jldLvU1N6W8eDPQSQY6xR2BtqWmS8kb8P9B+xJv0uHkPk7yRAgzDokM0QMKnOEnsQYjhRmDDncY9BytPtxrNySbfAChLReqjIxPbrKYPVEK7Q9/V2ZgLvsssCI5SqpfUab9q2S/qQPA10bl5vhgcz0ZoXvsjTkX+0vehOk014+ko1zNOI+sqEQUBEbb7lrybCu9/Jc6UKf8cBJftRqgSwuann6EDPAQLEmxfcmW7gyWi/kv4Uuz2fEjzTU+D6crWSTTi/TCCKfCZXESDFwJWFWIIVLq54qd3YKK0/w1faGnbhQpBxXSHOIxHBscAqtmP0sobCDmYIwwMRq19U+EWO/vpfbOQswSDVADYmuKIaK3hJbvNn5pM+/TxtWlIFpHmZy5owhkvkLUd8ugzMVsrrvV+TE5VDBGPjthSy4=;b1zf47Gh9r/GiBC/rdIybA=="
 ---
 

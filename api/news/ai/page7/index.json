@@ -2,6 +2,52 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-05-01-google-to-replace-tensorflows-runtime-with-tfrt.md",
+      "title": "Google to replace TensorFlow’s runtime with TFRT",
+      "excerpt": "Google launched TFRT, a new TensorFlow runtime that aims to make it easy to build and deploy ML models across many different devices.",
+      "heat": 86,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://sdtimes.com/ai/google-to-replace-tensorflows-runtime-with-tfrt/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-01T12:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SD Times",
+        "domain": "sdtimes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://sdtimes.com/wp-content/uploads/2020/05/tfrtroleingraph.png",
+          "width": 646,
+          "height": 314,
+          "title": "Google to replace TensorFlow’s runtime with TFRT",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "TensorFlow"
+      ]
+    },
+    {
       "path": "_news/2020-05-01-ai-weekly-animal-crossing-iclr-and-the-future-of-research-conferences-online.md",
       "title": "AI Weekly: Animal Crossing, ICLR, and the future of research conferences online",
       "excerpt": "An upcoming Animal Crossing AI workshop and ICLR this week may reshape what research conferences look like, but social experiences are still a challenge.",
@@ -1264,51 +1310,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-30-artificial-intelligence-is-predicting-coronavirus-outbreaks-before-they-start.md",
-      "title": "Artificial intelligence is predicting coronavirus outbreaks before they start",
-      "excerpt": "Artificial intelligence has played a central role in the fight against the coronavirus. Cotiviti has leveraged AI to predict COVID-19 hot spots around the country before an outbreak happens.",
-      "heat": 86,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/artificial-intelligence-is-predicting-coronavirus-outbreaks-before-they-start/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/artificial-intelligence-is-predicting-coronavirus-outbreaks-before-they-start/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/artificial-intelligence-is-predicting-coronavirus-outbreaks-before-they-start/",
-      "publishedDateTime": "2020-04-30T13:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/04/30/d2f8d12f-4450-4116-9314-69456e6590db/resize/1200x/fa08a88403e1014c24117dc937698d68/map-2.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": "Artificial intelligence is predicting coronavirus outbreaks before they start",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

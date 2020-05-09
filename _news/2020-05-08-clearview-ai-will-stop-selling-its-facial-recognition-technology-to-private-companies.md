@@ -39,6 +39,21 @@ related:
       - url: "https://cnet3.cbsistatic.com/img/tcvCfks6e4V39F8bVmD3sLv2B3o=/756x567/2020/05/08/8c6c9808-f26e-4358-9f9d-8cf65d0c04d3/gettyimages-1189384731.jpg"
         width: 756
         height: 567
+  - title: "Clearview AI claims its facial recognition tech isn't for private companies"
+    excerpt: "Clearview AI responded to a lawsuit over its facial recognition tech by claiming that it's cancelling the accounts of anyone not in law enforcement or affiliated with a government agency. The company built its database with images scraped from social media."
+    publishedDateTime: 2020-05-08T03:23:00Z
+    webUrl: "https://www.engadget.com/clearview-ai-claims-its-facial-recognition-tech-isnt-for-private-companies-031304548.html"
+    ampWebUrl: "https://www.engadget.com/amp/clearview-ai-claims-its-facial-recognition-tech-isnt-for-private-companies-031304548.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/clearview-ai-claims-its-facial-recognition-tech-isnt-for-private-companies-031304548.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 102
+    images:
+      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-05%2F41d284c0-90d9-11ea-bb7d-17e552ea48f7&client=amp-blogside-v2&signature=fe89ad135723f6833c30c2b2a4d58452f7fe7476"
+        width: 600
+        height: 350
   - title: "Clearview AI to stop selling controversial facial recognition app to private companies"
     excerpt: "Controversial facial recognition provider Clearview AI says it will no longer sell its app to private companies and non-law enforcement entities, according to a legal filing first reported on Thursday by BuzzFeed News."
     publishedDateTime: 2020-05-08T00:32:00Z

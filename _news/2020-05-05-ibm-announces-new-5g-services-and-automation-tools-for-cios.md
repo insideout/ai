@@ -39,21 +39,6 @@ related:
       - url: "https://media.itpro.co.uk//image/upload/v1588670694/itpro/IBMBuilding.jpg"
         width: 1000
         height: 690
-  - title: "IBM’s Watson AIOps automates IT anomaly detection and remediation"
-    excerpt: "IBM Think conference, IBM announced Watson AIOps, a new service that automates the detection and remediation of network anomalies."
-    publishedDateTime: 2020-05-05T04:04:00Z
-    webUrl: "https://venturebeat.com/2020/05/04/ibms-watson-aiops-automates-it-anomaly-detection-and-remediation/"
-    ampWebUrl: "https://venturebeat.com/2020/05/04/ibms-watson-aiops-automates-it-anomaly-detection-and-remediation/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/04/ibms-watson-aiops-automates-it-anomaly-detection-and-remediation/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 104
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/11/ibm-keyboard-logo.png?fit=1200%2C600&strip=all"
-        width: 1200
-        height: 600
 
 secured: "iwi8im4vjWhYJJD6Xef1FUq9bUfzcxsNMtlznew+aV8S0D0USCgIr51GPKge7F8dxQg0/X0mqJZedwK7HhHggMwWgkSn6TOWl0Jh8df4b/u2Ng8oS2tLcfxiuXlDhdCtA/2hWlTARz7++SwhP3j2/3hDjrFxAg8RDpthj9p+EOHv4TtMai7TomDjH4xIouw9b/c1SwRnMl0Xi+BH7+iuil1tGXTkW4CGFDu0RZLoamR6c+NQT+TR0hDmfMx6kghMscweQIFucW1ql7m5LmbPzv04VrJml7z+3Zc2f8ZriNw06T4vaon/6FM94xjDSzhgGxQIMqocS86hXi1vE+PqB1TpVqJ01ozoCRYjNtclhvyna6UiRWol1TnhW3WhSgPrAtdAg1SrdnT7apKsO62JlUJAoFZ0YIn9Re2eiERwAhL0lOuatq1Q7euK2yknzLJ0OOruRmQp8E0EaFStWmULtfXfYPWvla/aWNrc+on9M2k=;AjWmAedmvhZEU1sdq23qeA=="
 ---

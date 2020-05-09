@@ -2,6 +2,35 @@
   "page": 48,
   "value": [
     {
+      "path": "_news/2020-03-31-artificial-intelligence-tool-can-predict-which-covid-19-patients-will-develop-respiratory-disease-say-scientists.md",
+      "title": "Artificial Intelligence tool can predict which COVID-19 patients will develop respiratory disease, say scientists",
+      "excerpt": "Scientists have developed an artificial intelligence (AI ... 99 institutes willing to take part in clinical trial of plasma therapy, says ICMR “Our goal was to design and deploy a decision ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.financialexpress.com/lifestyle/health/artificial-intelligence-tool-can-predict-which-covid-19-patients-will-develop-respiratory-disease-say-scientists/1914731/",
+      "ampWebUrl": "https://www.financialexpress.com/lifestyle/health/artificial-intelligence-tool-can-predict-which-covid-19-patients-will-develop-respiratory-disease-say-scientists/1914731/lite/",
+      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/lifestyle/health/artificial-intelligence-tool-can-predict-which-covid-19-patients-will-develop-respiratory-disease-say-scientists/1914731/lite/",
+      "publishedDateTime": "2020-03-31T02:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Express",
+        "domain": "financialexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-31-entrepreneurs-must-warm-up-to-ai-or-risk-their-own-alphago-loss.md",
       "title": "Entrepreneurs must warm up to AI — or risk their own ‘AlphaGo loss’",
       "excerpt": "Head of Artificial Intelligence, Cognizant — A leader in AI and applying it to drive digital transformation across industries. A leader in AI and applying it to drive digital transformation across industries. bretgreenstein The evolution of AI continues apace. Deep learning has established its place in the world of tech but its next iteration ...",
@@ -1000,51 +1029,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-30-microsofts-ai-powered-editor-can-generate-rewrite-suggestions.md",
-      "title": "Microsoft’s AI-powered Editor can generate rewrite suggestions",
-      "excerpt": "Microsoft’s writing assistant for Microsoft 365 users is coming to Chrome and Edge browser extensions as well as Outlook.com and is getting new AI-powered features like Rewrite Suggestions, which lets you highlight a sentence then right-click for AI-generated revision ideas. AI editor can also now review text for more gender-related ...",
-      "heat": 104,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/03/30/microsofts-ai-powered-editor-can-generate-rewrite-suggestions/",
-      "ampWebUrl": "https://venturebeat.com/2020/03/30/microsofts-ai-powered-editor-can-generate-rewrite-suggestions/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/30/microsofts-ai-powered-editor-can-generate-rewrite-suggestions/amp/",
-      "publishedDateTime": "2020-03-30T08:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/01/microsoft-e1527266497382.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Microsoft’s AI-powered Editor can generate rewrite suggestions",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

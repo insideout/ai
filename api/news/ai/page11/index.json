@@ -2,6 +2,51 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-04-28-alphabet-q1-2020-earnings-preview-what-to-watch.md",
+      "title": "Alphabet Q1 2020 Earnings Preview: What to Watch",
+      "excerpt": "Search giant Alphabet (NASDAQ:GOOG) (NASDAQ:GOOGL) will report its earnings after the markets close on Tuesday, April 28. It will be the first time the technology giant will address shareholders since the COVID-19 pandemic dominated the world's focus.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fool.com/investing/2020/04/28/alphabet-q1-2020-earnings-preview-what-to-watch.aspx",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/04/28/alphabet-q1-2020-earnings-preview-what-to-watch.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/04/28/alphabet-q1-2020-earnings-preview-what-to-watch.aspx",
+      "publishedDateTime": "2020-04-28T09:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F569951%2Fgoogle_meet_1max-2000x2000.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 750,
+          "title": "Alphabet Q1 2020 Earnings Preview: What to Watch",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-28-study-indicates-artificial-intelligence-could-help-stem-tide-of-school-violence.md",
       "title": "Study indicates artificial intelligence could help stem tide of school violence",
       "excerpt": "By leveraging the basics of artificial intelligence technology now used to predict risk for suicide or other mental health issues, researchers developed an AI system that analyzes linguistic patterns to predict a youth's risk for committing acts of school violence.",
@@ -1240,51 +1285,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-28-how-satellites-and-machine-learning-are-being-used-to-detect-plastic-in-the-ocean.md",
-      "title": "How Satellites And Machine Learning Are Being Used To Detect Plastic In The Ocean",
-      "excerpt": "New research shows that satellite data analyzed with a machine learning algorithm can detect ocean plastic with up to 100% accuracy.",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/allenelizabeth/2020/04/27/how-satellites-and-machine-learning-are-being-used-to-detect-plastic-in-the-ocean/",
-      "ampWebUrl": "https://www.forbes.com/sites/allenelizabeth/2020/04/27/how-satellites-and-machine-learning-are-being-used-to-detect-plastic-in-the-ocean/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/allenelizabeth/2020/04/27/how-satellites-and-machine-learning-are-being-used-to-detect-plastic-in-the-ocean/amp/",
-      "publishedDateTime": "2020-04-27T19:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ea4eb34165a170006a5c771%2F0x0.jpg",
-          "width": 1200,
-          "height": 799,
-          "title": "How Satellites And Machine Learning Are Being Used To Detect Plastic In The Ocean",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-05-09-understanding-the-recognition-pattern-of-ai.md",
+      "title": "Understanding The Recognition Pattern Of AI",
+      "excerpt": "Of the seven patterns of AI that represent the ways in which AI is being implemented, one of the most common is the recognition pattern.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/05/09/understanding-the-recognition-pattern-of-ai/",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/05/09/understanding-the-recognition-pattern-of-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/05/09/understanding-the-recognition-pattern-of-ai/amp/",
+      "publishedDateTime": "2020-05-09T12:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1032667470%2F0x0.jpg",
+          "width": 1200,
+          "height": 584,
+          "title": "Understanding The Recognition Pattern Of AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-09-watsons-creator-wants-to-teach-ai-a-new-trick-common-sense.md",
       "title": "Watson's Creator Wants to Teach AI a New Trick: Common Sense",
       "excerpt": "David Ferrucci built a computer that mastered Jeopardy. Since then, he's been attacking a more challenging task.",
@@ -927,7 +971,7 @@
       "path": "_news/2020-05-08-clearview-ai-to-stop-providing-facial-recognition-to-private-companies.md",
       "title": "Clearview AI to stop providing facial recognition to private companies",
       "excerpt": "Maker of controversial says it's cutting off anyone not associated with government or law enforcement entities.",
-      "heat": 136,
+      "heat": 146,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.cnet.com/news/clearview-ai-to-stop-providing-facial-recognition-to-private-companies/",
@@ -1261,51 +1305,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-07-google-releases-ai-explorables-to-make-machine-learning-more-accessible-and-participatory.md",
-      "title": "Google releases AI Explorables to make machine learning more accessible and participatory",
-      "excerpt": "AI Explorables is Google's initiative to elucidate the key concepts of machine learning via a series of interactive explanations to make the field more accessible and participatory.",
-      "heat": 75,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.neowin.net/news/google-releases-ai-explorables-to-make-machine-learning-more-accessible-and-participatory",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-07T12:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2020/04/1587624429_google_5_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": "Google releases AI Explorables to make machine learning more accessible and participatory",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

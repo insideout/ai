@@ -2,6 +2,51 @@
   "page": 36,
   "value": [
     {
+      "path": "_news/2020-04-02-washington-state-passes-microsoft-approved-facial-recognition-laws.md",
+      "title": "Washington state passes Microsoft-approved facial recognition laws",
+      "excerpt": "Washington state has adopted sweeping facial recognition laws seen as a national model, much to the pleasure of Microsoft president Bill Smith. “This legislation represents a significant breakthrough — the first time a state or nation has passed a new law devoted exclusively to putting guardrails in place for the use of facial recognition ...",
+      "heat": 109,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/04/02/washington-state-passes-microsoft-approved-facial-recognition-laws/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/04/02/washington-state-passes-microsoft-approved-facial-recognition-laws/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/04/02/washington-state-passes-microsoft-approved-facial-recognition-laws/amp/",
+      "publishedDateTime": "2020-04-02T07:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/04/Untitled-design47-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "Washington state passes Microsoft-approved facial recognition laws",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-02-how-to-leverage-artificial-intelligence-and-machine-learning-during-a-pandemic.md",
       "title": "How To Leverage Artificial Intelligence And Machine Learning During A Pandemic",
       "excerpt": "After the COVID 19 crisis is over, business success or failure may come down to whether companies have taken advantage of Artificial Intelligence (AI) and Machine Learning (ML) technologies.",
@@ -1200,52 +1245,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-01-30-under-30-asia-2020-the-startups-leveraging-ai-and-machine-learning-to-transform-businesses.md",
-      "title": "30 Under 30 Asia 2020: The Startups Leveraging AI And Machine Learning To Transform Businesses",
-      "excerpt": "Hyunsoo Kim, cofounder of Superb AI, has been selected as the featured honoree for the Enterprise Technology category of this year’s Forbes 30 Under 30 Asia list, leading a pack of several fellow honorees who founded startups based on AI.",
-      "heat": 94,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/johnkang/2020/04/01/30-under-30-asia-2020-the-startups-leveraging-ai-and-machine-learning-to-transform-businesses/",
-      "ampWebUrl": "https://www.forbes.com/sites/johnkang/2020/04/01/30-under-30-asia-2020-the-startups-leveraging-ai-and-machine-learning-to-transform-businesses/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkang/2020/04/01/30-under-30-asia-2020-the-startups-leveraging-ai-and-machine-learning-to-transform-businesses/amp/",
-      "publishedDateTime": "2020-04-01T14:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e709bc5e1e61700080f01bc%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "30 Under 30 Asia 2020: The Startups Leveraging AI And Machine Learning To Transform Businesses",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

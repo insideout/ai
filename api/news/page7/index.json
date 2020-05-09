@@ -2,6 +2,50 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-05-04-ai-software-gets-mixed-reviews-for-tackling-coronavirus.md",
+      "title": "AI Software Gets Mixed Reviews for Tackling Coronavirus",
+      "excerpt": "Faced with a burgeoning number of Covid-19 patients, hospitals are turning to artificial intelligence to help with diagnoses and assessments. So far, the results are mixed.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wsj.com/articles/ai-software-gets-mixed-reviews-for-tackling-coronavirus-11588597013",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/ai-software-gets-mixed-reviews-for-tackling-coronavirus-11588597013",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ai-software-gets-mixed-reviews-for-tackling-coronavirus-11588597013",
+      "publishedDateTime": "2020-05-04T06:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-182965/social",
+          "width": 1211,
+          "height": 640,
+          "title": "AI Software Gets Mixed Reviews for Tackling Coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-04-data-storage-and-ai-are-driving-the-evolution-of-autonomous-cars.md",
       "title": "Data storage and AI are driving the evolution of autonomous cars",
       "excerpt": "The future of connected and fully autonomous vehicles depends on the ability of tech companies to deliver state-of-the-art, high-endurance storage.",
@@ -1050,43 +1094,6 @@
         "AI in Finance",
         "AI",
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-02-how-amazon-web-services-stacked-up-against-microsofts-azure.md",
-      "title": "How Amazon Web Services Stacked Up Against Microsoft's Azure",
-      "excerpt": "Microsoft Corporation (NASDAQ: MSFT) reported strong fiscal third-quarter results and Amazon.com, Inc. (NASDAQ: AMZN) beat on the top-line in its first quarter, but the",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.benzinga.com/analyst-ratings/analyst-color/20/05/15934564/how-amazon-web-services-stacked-up-against-microsofts-azure",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/15934564",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15934564",
-      "publishedDateTime": "2020-05-02T06:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.benzinga.com/files/images/story/2012/aws_2.png",
-          "width": 4000,
-          "height": 2400,
-          "title": "How Amazon Web Services Stacked Up Against Microsoft's Azure",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],
