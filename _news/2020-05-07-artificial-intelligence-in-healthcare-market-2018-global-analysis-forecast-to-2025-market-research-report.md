@@ -28,67 +28,15 @@ images:
     title: "Artificial Intelligence in Healthcare Market 2018 Global Analysis & Forecast to 2025 Market Research Report"
 
 related:
-  - title: "Artificial Intelligence in Healthcare Market 2020 Global Industry Analysis To 2026"
-    excerpt: "Artificial Intelligence in Healthcare Market 2020 Global Industry Analysis by historic, current, and forecast market information. Upcoming Artificial Intelligence in Healthcare Global Market Trends and the impact of COVID-19 on market also discussed in this report."
-    publishedDateTime: 2020-05-04T10:06:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-2020-global-industry-analysis-to-2026-2020-05-04"
+  - title: "Deep Learning Market 2020 Outlook and Analysis Research Report Forecast to 2025"
+    excerpt: "The scope of the report includes a detailed study of Deep Learning Market with the reasons given for variations in the growth of the industry in certain regions. Deep Learning is a subfield of machine learning concerned with algorithms inspired by the structure and function of the brain called artificial neural networks."
+    publishedDateTime: 2020-05-05T06:05:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-2020-outlook-and-analysis-research-report-forecast-to-2025-2020-05-05"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 80
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Artificial Intelligence In Healthcare Market Growth, Analysis and Advancement Outlook 2020 to 2026"
-    excerpt: "The Artificial Intelligence In Healthcare Market report provides a detailed analysis of global market size, regional"
-    publishedDateTime: 2020-05-05T05:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-growth-analysis-and-advancement-outlook-2020-to-2026-2020-05-05"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 70
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Artificial Intelligence (AI) Chipset Market Overview, Industry Trends and Growing Opportunities Till 2026"
-    excerpt: "The report provides rational insights along with historical and forecast data to aid in better understanding of"
-    publishedDateTime: 2020-05-04T10:38:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipset-market-overview-industry-trends-and-growing-opportunities-till-2026-2020-05-04"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 65
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Deep Learning Market Research Report:Forecast till 2023 , Influence of COVID-19 on Global Trends"
-    excerpt: "Global Deep Learning Market Research Report: by Component (Hardware, Software, Services), Application (Image Recognition, Data Mining, Signal Recognition), End User (Security, Manufacturing, BFSI, Healthcare,"
-    publishedDateTime: 2020-05-04T15:45:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-research-reportforecast-till-2023-influence-of-covid-19-on-global-trends-2020-05-04"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 58
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "AI in Transportation Market: Analysis: By Key Players, Applications, Growth Trends, Region & Segment Forecast To 2026"
-    excerpt: "The demand within the global market for AI in transportation has been rising on account of advancements in the field of automation technologies. Artificial intelligence has become one of the most sought-after technologies across the globe which has given an impetus to the growth of the global market for AI in transportation."
-    publishedDateTime: 2020-05-04T11:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-transportation-market-analysis-by-key-players-applications-growth-trends-region-segment-forecast-to-2026-2020-05-04"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 44
+    quality: 67
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

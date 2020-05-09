@@ -7,9 +7,9 @@ webUrl: "https://scitechdaily.com/unexpected-scientific-insights-into-covid-19-f
 ampWebUrl: "https://scitechdaily.com/unexpected-scientific-insights-into-covid-19-from-ai-machine-learning-tool/amp/"
 cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/unexpected-scientific-insights-into-covid-19-from-ai-machine-learning-tool/amp/"
 type: article
-quality: 57
-heat: 57
-published: false
+quality: 74
+heat: 74
+published: true
 
 provider:
   name: SciTech Daily
@@ -18,6 +18,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Machine Learning
 
 images:
   - url: "https://scitechdaily.com/images/Machine-Learning-COVID-19-Concept-777x518.jpg"
