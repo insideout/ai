@@ -2,6 +2,51 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-05-06-how-ibm-is-automating-it-to-help-companies-maintain-business-continuity-during-crises.md",
+      "title": "How IBM is automating IT to help companies maintain business continuity during crises",
+      "excerpt": "IBM is rolling out a new suite of AI for IT tools and services that can help CIOs in all industries reduce costs and handle more complex networks.",
+      "heat": 72,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businessinsider.com/sc/ai-can-help-it-departments-navigate-crises-2020-5",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-06T12:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.insider.com/5ea86ad338bf232f585b0297?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": "How IBM is automating IT to help companies maintain business continuity during crises",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-06-how-microsoft-openai-and-oecd-are-putting-ai-ethics-principles-into-practice.md",
       "title": "How Microsoft, OpenAI, and OECD are putting AI ethics principles into practice",
       "excerpt": "A case study on how to convert AI ethics principles into actions looks at Microsoft's AETHER, OpenAI's GPT-2 release, and OECD and G20 ethics principles.",
@@ -1293,51 +1338,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-05-ibms-new-ceo-lays-out-his-roadmap.md",
-      "title": "IBM’s new CEO lays out his roadmap",
-      "excerpt": "Unsurpisingly, many of the subsequent announcements at the conference hinged on hybrid cloud, enabled in large part by IBM’s $34 billion acquisition of Red Hat in 2018. Take the technical preview of IBM Cloud Satellite.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.infoworld.com/article/3541825/ibms-new-ceo-lays-out-his-roadmap.html",
-      "ampWebUrl": "https://www.infoworld.com/article/3541825/ibms-new-ceo-lays-out-his-roadmap.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3541825/ibms-new-ceo-lays-out-his-roadmap.amp.html",
-      "publishedDateTime": "2020-05-05T16:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2020/03/ibm-cloud-native-100836782-large.jpg",
-          "width": 1200,
-          "height": 633,
-          "title": "IBM’s new CEO lays out his roadmap",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

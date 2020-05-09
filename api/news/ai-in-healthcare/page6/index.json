@@ -2,6 +2,44 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-01-13-artificial-intelligence-and-machine-learning.md",
+      "title": "Artificial Intelligence and Machine Learning",
+      "excerpt": "Intelligence has the potential to transform health care delivery and the patient experience. While artificial intelligence (AI) is still in the early stages of adoption, some organizations have started to incorporate intelligence into their clinical workflow and business operations to improve quality of care, patient satisfaction and engagement ...",
+      "heat": 76,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.aha.org/sponsored-executive-dialogues/2020-01-13-artificial-intelligence-and-machine-learning",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-13T09:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "aha.org",
+        "domain": "aha.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.aha.org/sites/default/files/2020-01/Cerner_ExecDialogue_AI_120919_Banner.jpg",
+          "width": 1500,
+          "height": 1038,
+          "title": "Artificial Intelligence and Machine Learning",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-01-10-artificial-intelligence-makes-bad-medicine-even-worse.md",
       "title": "Artificial Intelligence Makes Bad Medicine Even Worse",
       "excerpt": "Google researchers made headlines early this month for a study that claimed their artificial intelligence system could outperform human experts at finding breast cancers on mammograms. It sounded like a big win, and yet another example of how AI will soon transform health care: More cancers found! Fewer false positives! A better, cheaper way to ...",

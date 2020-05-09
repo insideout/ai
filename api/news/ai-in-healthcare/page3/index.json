@@ -2,6 +2,52 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-03-27-return-on-artificial-intelligence-the-challenge-and-the-opportunity.md",
+      "title": "Return On Artificial Intelligence: The Challenge And The Opportunity",
+      "excerpt": "Companies need more returns on their artificial intelligence initiatives. There are several ways to achieve it.",
+      "heat": 91,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/tomdavenport/2020/03/27/return-on-artificial-intelligence-the-challenge-and-the-opportunity/",
+      "ampWebUrl": "https://www.forbes.com/sites/tomdavenport/2020/03/27/return-on-artificial-intelligence-the-challenge-and-the-opportunity/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomdavenport/2020/03/27/return-on-artificial-intelligence-the-challenge-and-the-opportunity/amp/",
+      "publishedDateTime": "2020-03-27T07:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e7e04e4adc0d70006ccbd3a%2F0x0.jpg",
+          "width": 980,
+          "height": 980,
+          "title": "Return On Artificial Intelligence: The Challenge And The Opportunity",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2020-03-26-healthcare-artificial-intelligence-market-is-booming-worldwide-ibm-microsoft-micron-technology.md",
       "title": "Healthcare Artificial Intelligence Market is Booming Worldwide | IBM, Microsoft, Micron Technology",
       "excerpt": "Advance Market Analytics released the research report of Global Healthcare Artificial Intelligence Market, offers a detailed overview of the factors influencing the global business scope. Healthcare Artificial Intelligence Market research report shows the latest market insights with upcoming trends and breakdown of the products and services.",
@@ -1060,35 +1106,6 @@
       "ampWebUrl": "https://amp.benzinga.com/amp/content/15505440",
       "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15505440",
       "publishedDateTime": "2020-03-09T03:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-09-artificial-intelligence-in-healthcare-market-2020-global-key-players-trends-share-industry-size-segmentation-opportunities-forecast-to-2026.md",
-      "title": "Artificial Intelligence in Healthcare Market 2020: Global Key Players, Trends, Share, Industry Size, Segmentation, Opportunities, Forecast To 2026",
-      "excerpt": "“Artificial Intelligence in Healthcare Market” Summary: A new market study, titled \"Global Artificial Intelligence in Healthcare Market Upcoming Trends,",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.benzinga.com/pressreleases/20/03/ab15504764/artificial-intelligence-in-healthcare-market-2020-global-key-players-trends-share-industry-size-s",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/15504764",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15504764",
-      "publishedDateTime": "2020-03-09T00:35:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Benzinga.com",

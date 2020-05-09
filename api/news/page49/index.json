@@ -2,6 +2,51 @@
   "page": 49,
   "value": [
     {
+      "path": "_news/2020-03-30-microsofts-ai-powered-editor-can-generate-rewrite-suggestions.md",
+      "title": "Microsoft’s AI-powered Editor can generate rewrite suggestions",
+      "excerpt": "Microsoft’s writing assistant for Microsoft 365 users is coming to Chrome and Edge browser extensions as well as Outlook.com and is getting new AI-powered features like Rewrite Suggestions, which lets you highlight a sentence then right-click for AI-generated revision ideas. AI editor can also now review text for more gender-related ...",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/03/30/microsofts-ai-powered-editor-can-generate-rewrite-suggestions/",
+      "ampWebUrl": "https://venturebeat.com/2020/03/30/microsofts-ai-powered-editor-can-generate-rewrite-suggestions/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/30/microsofts-ai-powered-editor-can-generate-rewrite-suggestions/amp/",
+      "publishedDateTime": "2020-03-30T08:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/01/microsoft-e1527266497382.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Microsoft’s AI-powered Editor can generate rewrite suggestions",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-30-microsoft-365-bundles-office-365-with-ai-and-cloud-powered-features.md",
       "title": "Microsoft 365 bundles Office 365 with AI and cloud-powered features",
       "excerpt": "Microsoft today announced that on April 21, Office 365 will become Microsoft 365, or “the subscription for your life.” The new suite takes Office 365 and adds “new AI, rich content and templates, and cloud-powered experiences.” On April 21, Microsoft 365 Personal and Microsoft 365 Family subscriptions (up to six people) will replace ...",
@@ -1006,35 +1051,6 @@
         "Microsoft AI",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-03-30-mercedes-plans-to-take-lead-in-self-driving-cars.md",
-      "title": "Mercedes’ plans to take lead in self-driving cars",
-      "excerpt": "Alexander De Croo, Belgium's deputy prime minister, discusses European efforts to tackle the economic impact of the coronavirus outbreak. The U.S. crude is suffering major cuts in oil production ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnbcafrica.com/videos/2017/08/25/mercedes-plans-to-take-lead-in-self-driving-cars/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-29T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC Africa",
-        "domain": "cnbcafrica.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

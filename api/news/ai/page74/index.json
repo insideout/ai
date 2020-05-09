@@ -2,6 +2,52 @@
   "page": 74,
   "value": [
     {
+      "path": "_news/2020-02-22-why-ai-companies-dont-always-scale-like-traditional-software-startups.md",
+      "title": "Why AI companies don’t always scale like traditional software startups",
+      "excerpt": "At a technical level, artificial intelligence seems to be the future of software. AI is showing remarkable progress on a range of difficult computer science problems, and the job of software developers – who now work with data as much as source code – is changing fundamentally in the process. Many AI companies (and investors) are betting ...",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/02/22/why-ai-companies-dont-always-scale-like-traditional-software-startups/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-22T08:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/02/scaling.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 1067,
+          "title": "Why AI companies don’t always scale like traditional software startups",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-02-22-artificial-intelligence-set-to-jazz-up-software-development-and-deployment.md",
       "title": "Artificial intelligence set to jazz up software development and deployment",
       "excerpt": "Artificial intelligence and machine learning has the potential to boost many, many areas of the enterprise. As explored in my recent post, it is capable of accelerating and adding intelligence to supply chain management, human resources, sales, marketing and finance. Oh, and one more area, by the way -- IT management. The inevitable impact of ...",
@@ -1267,43 +1313,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-02-21-microsoft-threat-protection-an-israeli-built-ai-bundle-of-redmonds-security-services.md",
-      "title": "Microsoft Threat Protection: an Israeli-built AI bundle of Redmond's security services",
-      "excerpt": "Microsoft Threat Protection literally consists of four existing services including Microsoft Defender Advanced Threat Protection (ATP), its Windows antivirus — which these days Mac and Linux too — Office ATP, Azure ATP, and its cloud app security suite. But while Microsoft Threat Protection is a combination of those existing services ...",
-      "heat": 116,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.csoonline.com/article/3528708/microsoft-threat-protection-an-israeli-built-ai-bundle-of-redmonds-security-services.html",
-      "ampWebUrl": "https://www.csoonline.com/article/3528708/microsoft-threat-protection-an-israeli-built-ai-bundle-of-redmonds-security-services.amp.html",
-      "cdnAmpWebUrl": "https://www-csoonline-com.cdn.ampproject.org/c/s/www.csoonline.com/article/3528708/microsoft-threat-protection-an-israeli-built-ai-bundle-of-redmonds-security-services.amp.html",
-      "publishedDateTime": "2020-02-20T18:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CSOonline",
-        "domain": "csoonline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2019/12/09/06/2019-11-16t023310z_1_lynxmpefaf02a_rtroptp_4_microsoft-results-100820758-large.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "Microsoft Threat Protection: an Israeli-built AI bundle of Redmond's security services",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

@@ -2,6 +2,51 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-03-30-key-takeaways-from-amds-financial-analyst-day.md",
+      "title": "Key Takeaways From AMD's Financial Analyst Day",
+      "excerpt": "Patrick Moorhead takes a look into AMD's Financial Analyst Day and how it laid the foundation of expectations for the coming years.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/moorinsights/2020/03/30/key-takeaways-from-amds-financial-analyst-day/",
+      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2020/03/30/key-takeaways-from-amds-financial-analyst-day/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2020/03/30/key-takeaways-from-amds-financial-analyst-day/amp/",
+      "publishedDateTime": "2020-03-30T13:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e78f91810380d0006fbdc78%2F0x0.jpg",
+          "width": 1016,
+          "height": 610,
+          "title": "Key Takeaways From AMD's Financial Analyst Day",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-30-fintech-company-payby-launches-mobile-payment-services-in-the-uae.md",
       "title": "Fintech Company PayBy launches Mobile Payment Services in the UAE",
       "excerpt": "PayBy is a fintech company with world-class payment infrastructure that provides a fast, secure, AI-powered, one-stop payment solution. The company is committed to offering unified and inclusive financial services for everyday work and life, connecting with people around the world. PayBy collaborates with a variety of leading institutions ...",
@@ -1048,51 +1093,6 @@
           "width": 1200,
           "height": 675,
           "title": "The top 5 fintech trends for 2020",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-13-eigen-and-ing-target-financial-industry-with-nlp-driven-data-extraction.md",
-      "title": "Eigen and ING target financial industry with NLP-driven data extraction",
-      "excerpt": "As one of the biggest banks in the world, ING is a major partner for Eigen and should go some way toward expediting the uptake of machine learning in the financial services sector. Indeed, ING is already using Eigen’s NLP in specific areas such as loan operations and LIBOR replacement, and as part of their new partnership this will be ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/03/13/eigen-and-ing-target-financial-industry-with-nlp-driven-data-extraction/",
-      "ampWebUrl": "https://venturebeat.com/2020/03/13/eigen-and-ing-target-financial-industry-with-nlp-driven-data-extraction/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/13/eigen-and-ing-target-financial-industry-with-nlp-driven-data-extraction/amp/",
-      "publishedDateTime": "2020-03-13T07:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/03/Eigen.png?fit=1284%2C632&strip=all",
-          "width": 1284,
-          "height": 632,
-          "title": "Eigen and ING target financial industry with NLP-driven data extraction",
           "attribution": null
         }
       ],

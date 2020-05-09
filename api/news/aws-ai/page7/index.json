@@ -2,43 +2,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_news/2020-01-03-ambarella-aws-bring-ml-solutions-to-edge-applications.md",
-      "title": "Ambarella & AWS Bring ML Solutions to Edge Applications",
-      "excerpt": "Ambarella AMBA recently announced a collaboration with Amazon’s AMZN cloud computing arm, AWS, enabling customers to use Amazon SageMaker Neo cloud service to run ML models on devices based on Ambarella’s CVflow-powered AI vision SoC (system on chip).",
-      "heat": 119,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nasdaq.com/articles/ambarella-aws-bring-ml-solutions-to-edge-applications-2020-01-03",
-      "ampWebUrl": "https://www.nasdaq.com/articles/ambarella-aws-bring-ml-solutions-to-edge-applications-2020-01-03?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ambarella-aws-bring-ml-solutions-to-edge-applications-2020-01-03?amp",
-      "publishedDateTime": "2020-01-03T07:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg",
-          "width": 1024,
-          "height": 512,
-          "title": "Ambarella & AWS Bring ML Solutions to Edge Applications",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
       "path": "_news/2020-01-02-aws-cloud-journey-analyzing-to-deploying-models-with-amazon-sagemaker-ep-1.md",
       "title": "AWS Cloud Journey — Analyzing to Deploying Models with Amazon SageMaker (Ep. 1)",
       "excerpt": "So, stay tuned for those content in the future. “Amazon SageMaker is a fully managed service that provides every developer and data scientist with the ability to build, train, and deploy machine ...",

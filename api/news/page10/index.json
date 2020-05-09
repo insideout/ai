@@ -2,6 +2,43 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-04-30-google-executive-attended-meeting-of-key-scientific-group-advising-government.md",
+      "title": "Google executive attended meeting of key scientific group advising Government",
+      "excerpt": "Demis Hassabis is the co–founder of DeepMind, Google’s London-based artificial intelligence arm, which it acquired in 2014. The British artificial intelligence researcher was present for one ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.thetelegraphandargus.co.uk/news/national/18417819.google-executive-attended-meeting-key-scientific-group-advising-government/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-30T07:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Telegraph & Argus",
+        "domain": "thetelegraphandargus.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.thetelegraphandargus.co.uk/resources/images/11319113/",
+          "width": 2168,
+          "height": 1445,
+          "title": "Google executive attended meeting of key scientific group advising Government",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-30-how-russia-is-using-facial-recognition-to-police-its-coronavirus-lockdown.md",
       "title": "How Russia is using facial recognition to police its coronavirus lockdown",
       "excerpt": "Bykovsky said officers told him he had been spotted on a camera set up on the front door of his apartment building and identified through a facial recognition system, which had then alerted them. “Honestly,",
@@ -1031,35 +1068,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-30-eurotech-announces-the-availability-of-the-esf-cloud-connector-for-aws-iot-core.md",
-      "title": "Eurotech Announces the Availability of the ESF Cloud Connector for AWS IoT Core",
-      "excerpt": "Eurotech announces the availability of the ESF Cloud Connector for AWS IoT Core - Eurotech.com. ETH: MI Distribution / Indexing: [+] / [Company listed above is a registered member of our network. Cont",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.newswiretoday.com/news/172805/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-29T21:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newswire Today",
-        "domain": "newswiretoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

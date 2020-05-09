@@ -2,6 +2,50 @@
   "page": 102,
   "value": [
     {
+      "path": "_news/2020-01-22-adobes-ai-lets-you-preview-any-item-of-clothing-on-a-virtual-body-model.md",
+      "title": "Adobe’s AI lets you preview any item of clothing on a virtual body model",
+      "excerpt": "They also say it achieved state-of-the-art results across qualitative metrics, including Fréchet Inception Distance (FID), which takes photos from both the target distribution and the system being evaluated (in this case SieveNet) and uses an AI object recognition system to capture important features and suss out similarities. SieveNet isn’t ...",
+      "heat": 86,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/01/22/adobes-ai-lets-you-preview-any-item-of-clothing-on-a-virtual-body-model/",
+      "ampWebUrl": "https://venturebeat.com/2020/01/22/adobes-ai-lets-you-preview-any-item-of-clothing-on-a-virtual-body-model/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/22/adobes-ai-lets-you-preview-any-item-of-clothing-on-a-virtual-body-model/amp/",
+      "publishedDateTime": "2020-01-22T08:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/01/8d194448-ea6c-4e6a-8ef4-2e26bf92cd0a-e1579709264687.png?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Adobe’s AI lets you preview any item of clothing on a virtual body model",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-01-22-facial-recognition-technology-doesnt-have-to-destroy-privacy.md",
       "title": "Facial-Recognition Technology Doesn't Have to Destroy Privacy",
       "excerpt": "Regulation moves at a snail's pace, so it's up to CEOs, executives, and employees to reject projects that put profit over privacy. Clearview AI facial-recognition tech is just the latest example of 'innovation' that could quickly get out of hand.",
@@ -1220,51 +1264,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-21-google-temporary-ban-on-facial-recognition-tech-might-be-necessary.md",
-      "title": "Google: Temporary Ban on Facial-Recognition Tech Might Be Necessary",
-      "excerpt": "Google's CEO made the comments as the European Commission is considering a moratorium on using facial-recognition technologies in public spaces. The proposed ban would last for three to five years so regulators can assess the risks of the technology.",
-      "heat": 104,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.pcmag.com/news/google-temporary-ban-on-facial-recognition-tech-might-be-necessary",
-      "ampWebUrl": "https://www.pcmag.com/news/google-temporary-ban-on-facial-recognition-tech-might-be-necessary?amp=true",
-      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/google-temporary-ban-on-facial-recognition-tech-might-be-necessary?amp=true",
-      "publishedDateTime": "2020-01-21T14:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.pcmag.com/images/pcmag-social-share.jpg",
-          "width": 997,
-          "height": 1201,
-          "title": "Google: Temporary Ban on Facial-Recognition Tech Might Be Necessary",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

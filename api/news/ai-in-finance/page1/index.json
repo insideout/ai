@@ -141,6 +141,43 @@
       ]
     },
     {
+      "path": "_news/2020-05-04-extreme-networks-reschedules-third-quarter-fiscal-2020-financial-results-conference-call-and-webcast.md",
+      "title": "Extreme Networks Reschedules Third Quarter Fiscal 2020 Financial Results Conference Call and Webcast",
+      "excerpt": "PRNewswire/ -- Extreme Networks, Inc. (Nasdaq: EXTR), a cloud-driven networking company, today rescheduled it plans to release financial results for its",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.prnewswire.com/news-releases/extreme-networks-reschedules-third-quarter-fiscal-2020-financial-results-conference-call-and-webcast-301051574.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-04T04:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/378309/extreme_networks_logo.jpg?p=facebook",
+          "width": 1000,
+          "height": 524,
+          "title": "Extreme Networks Reschedules Third Quarter Fiscal 2020 Financial Results Conference Call and Webcast",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-02-money-in-the-hands-of-ai-how-fintech-and-banks-are-banking-on-ai-for-cybersecurity.md",
       "title": "Money in the Hands of AI: How Fintech and Banks are Banking on AI for Cybersecurity",
       "excerpt": "Trusting AI to keep the banks safe can be a good or bad thing. It all depends on who wins -- villains or heroes. We'll discover",
@@ -1230,51 +1267,6 @@
           "width": 700,
           "height": 450,
           "title": "OneConnect’s Gamma Lab Wins FinTech Team of the Year Award at The Asset for Two Consecutive Years",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-30-key-takeaways-from-amds-financial-analyst-day.md",
-      "title": "Key Takeaways From AMD's Financial Analyst Day",
-      "excerpt": "Patrick Moorhead takes a look into AMD's Financial Analyst Day and how it laid the foundation of expectations for the coming years.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2020/03/30/key-takeaways-from-amds-financial-analyst-day/",
-      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2020/03/30/key-takeaways-from-amds-financial-analyst-day/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2020/03/30/key-takeaways-from-amds-financial-analyst-day/amp/",
-      "publishedDateTime": "2020-03-30T13:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e78f91810380d0006fbdc78%2F0x0.jpg",
-          "width": 1016,
-          "height": 610,
-          "title": "Key Takeaways From AMD's Financial Analyst Day",
           "attribution": null
         }
       ],

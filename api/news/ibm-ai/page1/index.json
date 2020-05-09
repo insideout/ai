@@ -2,6 +2,51 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-05-09-watsons-creator-wants-to-teach-ai-a-new-trick-common-sense.md",
+      "title": "Watson's Creator Wants to Teach AI a New Trick: Common Sense",
+      "excerpt": "David Ferrucci built a computer that mastered Jeopardy. Since then, he's been attacking a more challenging task.",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wired.com/story/watsons-creator-teach-ai-new-trick-common-sense/",
+      "ampWebUrl": "https://www.wired.com/story/watsons-creator-teach-ai-new-trick-common-sense/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/watsons-creator-teach-ai-new-trick-common-sense/amp",
+      "publishedDateTime": "2020-05-09T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5eb441d7d965c2a1fbff9f01/master/pass/Biz-robotreading-97394346.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": "Watson's Creator Wants to Teach AI a New Trick: Common Sense",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-06-how-ibm-is-automating-it-to-help-companies-maintain-business-continuity-during-crises.md",
       "title": "How IBM is automating IT to help companies maintain business continuity during crises",
       "excerpt": "IBM is rolling out a new suite of AI for IT tools and services that can help CIOs in all industries reduce costs and handle more complex networks.",
@@ -1243,43 +1288,6 @@
           "width": 1200,
           "height": 675,
           "title": "IBM introduces ground-breaking AI astronaut assistant",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-15-cimon-2-makes-its-successful-debut-on-the-iss.md",
-      "title": "CIMON-2 makes its successful debut on the ISS",
-      "excerpt": "Watson AI technology from IBM Cloud provides voice-controlled artificial intelligence. Scientists from the Ludwig-Maximilian University Hospital in Munich (LMU) helped develop and oversee the human aspects of the assistance system. Biotesc at the University of Lucerne ensures that CIMON works perfectly in ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://gisuser.com/2020/04/cimon-2-makes-its-successful-debut-on-the-iss/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-15T06:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "gisuser.com",
-        "domain": "gisuser.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "http://www.gisuser.com/images/subscribe-to-newsletter.jpg",
-          "width": 711,
-          "height": 310,
-          "title": "CIMON-2 makes its successful debut on the ISS",
           "attribution": null
         }
       ],

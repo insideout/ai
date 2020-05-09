@@ -2,6 +2,43 @@
   "page": 92,
   "value": [
     {
+      "path": "_news/2020-02-19-eu-puts-up-ai-and-data-strategies-with-an-ethical-twist.md",
+      "title": "EU puts up AI and data strategies with an ethical twist",
+      "excerpt": "The European Union (EU) has launched strategies for artificial intelligence (AI) and the “data economy”, with ethics and transparency as watchwords. It has also presented what it calls the “human-centric development of AI” as critical to “fighting climate change”. The European Commission (EC) said in a statement that it favours a ...",
+      "heat": 94,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.computerweekly.com/news/252478825/EU-puts-up-AI-and-data-strategies-with-an-ethical-twist",
+      "ampWebUrl": "https://www.computerweekly.com/news/252478825/EU-puts-up-AI-and-data-strategies-with-an-ethical-twist?amp=1",
+      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252478825/EU-puts-up-AI-and-data-strategies-with-an-ethical-twist?amp=1",
+      "publishedDateTime": "2020-02-19T09:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computer Weekly",
+        "domain": "computerweekly.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.ttgtmedia.com/visuals/German/EU-european-flags-fotolia.jpg",
+          "width": 1200,
+          "height": 400,
+          "title": "EU puts up AI and data strategies with an ethical twist",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2020-02-19-what-explainable-ai-really-means-and-what-it-means-for-your-business-vb-live.md",
       "title": "What explainable AI really means and what it means for your business (VB Live)",
       "excerpt": "White-box AI is getting heaps of attention, in part because it brings business value to customers and companies alike. Learn why businesses are moving away from black box systems to more explainable AI — and what it really means to be explainable — when you catch up on this VB Live event. Access free on demand right here. White box and ...",
@@ -1022,51 +1059,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-19-global-artificial-intelligence-in-retail-market-2020-challenges-and-development-opportunities-till-2025.md",
-      "title": "Global Artificial Intelligence in Retail Market 2020 Challenges and Development Opportunities till 2025",
-      "excerpt": "The Global Artificial Intelligence in Retail Market was valued at USD 1.80 billion in 2019 and is expected to reach USD 10.90 billion by 2025, at a CAGR of 35% over the forecast period 2020 - 2025. AI will drive faster business decisions in marketing,",
-      "heat": 168,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-retail-market-2020-challenges-and-development-opportunities-till-2025-2020-02-19",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-19T01:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Global Artificial Intelligence in Retail Market 2020 Challenges and Development Opportunities till 2025",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

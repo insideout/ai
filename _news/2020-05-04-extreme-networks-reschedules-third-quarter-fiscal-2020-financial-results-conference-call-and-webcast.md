@@ -5,9 +5,6 @@ excerpt: "PRNewswire/ -- Extreme Networks, Inc. (Nasdaq: EXTR), a cloud-driven n
 publishedDateTime: 2020-05-04T11:05:00Z
 webUrl: "https://www.prnewswire.com/news-releases/extreme-networks-reschedules-third-quarter-fiscal-2020-financial-results-conference-call-and-webcast-301051574.html"
 type: article
-quality: 9
-heat: 9
-published: false
 
 provider:
   name: PR Newswire
@@ -23,6 +20,6 @@ images:
     height: 524
     title: "Extreme Networks Reschedules Third Quarter Fiscal 2020 Financial Results Conference Call and Webcast"
 
-secured: "fuGX2MqBUyJKrKDgaISEYi16mAQWfaskh04yLprhZUqdIyLb9C4fC8sjjTiJ1LnRty1/eJslLgGSwMJxOuMejdasLHP4ww/NMyeosXLDifBMtpUMtG1Y+S+4qJxD/szaW5pcAGF/97PFe3m3ptC0pzK62Qlp0mPMTLxHMUOV+JLQfYoDhY3zNEV3XElr9HxOv/K94zMF0pj7jUBdBbVdfPsJSwFJx7Y810gMw0vLSz4oTkZe2UExjVoTT8+8ADhD2FkxvCmvonJx6pWCpSSU83CoSNANmq5UH2KyaYY0S0R4B9lOHxV3IO63iy81Zhzp;cI8Mo30lmvOKLhhnNZnFaA=="
+secured: "9AIAvBccfqiDweqBkDbPl6c8pN+dhae4+rd13Bf25tuRzSp5YTxpoLTemOshTguDk9o20K42aUwobHzPgMxGAxf3RylKZM6mo/mZUB11kHmLwH93syrQMhwMGc0n2BgSVE+7bzyfbfL6Rf7uTzTM3+x//Tupiri8GlaFL9dX8RN1p48gVK5fWYbeYlcQxWip71TSvOyj8dn3rhtG+VgW+Eo0SjB7vbGKyOdx1OmY6dAOYdUZOsBILe9WwyaCVDBk8IQ2P0GDkIC5y5iR7cTtHfZ/L31xy8V/8+tY0Pa9PouM3YCYEldv1aCSxL9cj4Bq;QGg2EYX6y7Fto7oSXc/Xng=="
 ---
 

@@ -2,6 +2,52 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-05-09-artificial-intelligence-ai-chipset-market-expected-to-reach-of-usd-1665-billion-by-2023.md",
+      "title": "Artificial Intelligence (AI) Chipset Market Expected to reach of USD 16.65 billion by 2023",
+      "excerpt": "May 09, 2020 (AmericaNewsHour) -- Artificial Intelligence (AI) chipsets are silicon-based chips that help AI innovations, for example, deep learning,",
+      "heat": 96,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipset-market-expected-to-reach-of-usd-1665-billion-by-2023-2020-05-09",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-09T02:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial Intelligence (AI) Chipset Market Expected to reach of USD 16.65 billion by 2023",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-05-08-5-reasons-why-artificial-intelligence-really-is-going-to-change-our-world.md",
       "title": "5 Reasons Why Artificial Intelligence Really Is Going To Change Our World",
       "excerpt": "Artificial Intelligence (AI) is one of the most transformative technology trends of our times. In this article, we look at why and how AI is going to change our world.",
@@ -82,43 +128,6 @@
           "attribution": null
         }
       ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-06-artificial-intelligence-ai-in-healthcare-market-worth-22790-million-by-2023-480-cagr.md",
-      "title": "Artificial Intelligence (AI) in Healthcare market Worth $22,790 million by 2023 | 48.0% CAGR",
-      "excerpt": "The Global Artificial Intelligence (AI) in Healthcare market is estimated to grow at a CAGR of 48.0% during the forecast period 2017-2023. As per the detailed market study, the global market was valued $1,",
-      "heat": 78,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-worth-22790-million-by-2023-480-cagr-2020-05-06",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-06T12:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
       "locale": "en-us",
       "categories": [
         "news"
@@ -382,6 +391,35 @@
           "attribution": null
         }
       ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-02-aws-announces-general-availability-of-amazon-augmented-artificial-intelligence-a2i.md",
+      "title": "AWS Announces General Availability of Amazon Augmented Artificial Intelligence (A2I)",
+      "excerpt": "Amazon Web Services (AWS), an Amazon.com company (NASDAQ: AMZN), announced the general availability of Amazon Augmented Artificial Intelligence (A2I), a fully managed service that makes it easy to add human review to machine learning predictions to improve model and application accuracy by continuously identifying and improving low confidence predictions.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.bakersfield.com/ap/news/aws-announces-general-availability-of-amazon-augmented-artificial-intelligence-a2i/article_c4de685a-02e2-5f24-bde1-2a283599ad9a.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-02T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Bakersfield Californian",
+        "domain": "bakersfield.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
       "locale": "en-us",
       "categories": [
         "news"
@@ -1252,43 +1290,6 @@
           "width": 600,
           "height": 315,
           "title": "The global artificial intelligence in healthcare market is set to register growth, projecting a CAGR of 38.05% during the forecast period, 2020-2028",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-14-lucidhealth-and-riverain-technologies-are-committed-to-the-delivery-of-advanced-radiology-through-artificial-intelligence.md",
-      "title": "LucidHealth™ and Riverain™ Technologies Are Committed to the Delivery of Advanced Radiology Through Artificial Intelligence",
-      "excerpt": "“LucidHealth is committed to advancing the quality of community radiology patient care by combining leading radiologist expertise with cutting edge Artificial Intelligence. Riverain’s ClearRead in ... designs advanced AI imaging software used by leading international healthcare organizations. Riverain ClearRead solutions significantly ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businesswire.com/news/home/20200414005825/en/LucidHealth™-Riverain™-Technologies-Committed-Delivery-Advanced-Radiology",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-14T10:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20200414005825/en/785010/23/Riverain_Technologies_Logo.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": "LucidHealth™ and Riverain™ Technologies Are Committed to the Delivery of Advanced Radiology Through Artificial Intelligence",
           "attribution": null
         }
       ],

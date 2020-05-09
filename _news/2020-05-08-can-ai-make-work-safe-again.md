@@ -7,8 +7,8 @@ webUrl: "https://www.psychologytoday.com/intl/blog/mr-personality/202005/can-ai-
 ampWebUrl: "https://www.psychologytoday.com/intl/blog/mr-personality/202005/can-ai-make-work-safe-again?amp"
 cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/mr-personality/202005/can-ai-make-work-safe-again?amp"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
 
 secured: "l+EMFEARcqfSbRmyKGmJo7mRN6vNDx7DgoM/ufELDL46dWDQ1vJnMweJ4As+5KAzoCQUjJY8yfAyyqvZCmjiOLEC9NaWuySSCPFOq2Wx6jYiBpeg+RdlKay8BNmzux4ndlGdzvkCleIUVrfCDUM2V8QU1Kzp7emkVdr8dKuNoA3XCK7hi8mU6j6kemh+rindXugh2PZ8VzKMrkrD9Va0I8sZDD1UMVGNYp2+n8TCuXhnEbJiwH0HZ0zvNdLB7ir1aXrEVBP3wkHOnQY1oEqmviKcE/OToEjCnJ/9bK6F0nacG6vywDsr9WRmDHS+G5Re4sGtmokkW7i+WO4H339njs/41cghwzRDzAepzJrH7FRhCgCHqB0RoNYrYEAL5VGvfdWXM+xVjuS1B+10mzQHAXuJiFwDUXzSlcVwhkje/1wcyjzFRbqalOgdAqplkzfvqP+bnQt5qr3TerIVnw8r/CjnMnGamnHypbqPu3Komko=;tM6qhHz2O2OTy0A7VzVfWQ=="
 ---

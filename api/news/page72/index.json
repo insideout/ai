@@ -2,6 +2,35 @@
   "page": 72,
   "value": [
     {
+      "path": "_news/2020-03-12-artificial-intelligence-in-medical-imaging.md",
+      "title": "Artificial Intelligence in Medical Imaging",
+      "excerpt": "Worldwide Market Reports adds Artificial Intelligence in Medical Imaging Market 2020 Global Analysis Growth Trends and Opportunities Research Report Forecasting to 2024 reports to its database This report provides in depth study of Artificial Intelligence in Medical Imaging Market using",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.openpr.com/news/1965015/artificial-intelligence-in-medical-imaging-market-report-2020",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-12T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-12-aclu-sues-for-records-on-facial-recognition-use-at-airports-border.md",
       "title": "ACLU sues for records on facial recognition use at airports, border",
       "excerpt": "The lawsuit, filed on Thursday, argues that the public has a right to know how these US agencies have been using facial recognition, citing concerns about surveillance and privacy. \"Over the ...",
@@ -913,43 +942,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-12-intel-starts-using-facial-recognition-technology-to-id-workers-visitors.md",
-      "title": "Intel starts using facial recognition technology to ID workers, visitors",
-      "excerpt": "This may be the largest implementation of facial recognition in the workplace anywhere in the country. Intel has 20,000 employees in Oregon and roughly 50,000 nationwide. It comes as public ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.oregonlive.com/silicon-forest/2020/03/intel-starts-using-facial-recognition-technology-to-scan-workers-visitors.html",
-      "ampWebUrl": "https://www.oregonlive.com/silicon-forest/2020/03/intel-starts-using-facial-recognition-technology-to-scan-workers-visitors.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/silicon-forest/2020/03/intel-starts-using-facial-recognition-technology-to-scan-workers-visitors.html?outputType=amp",
-      "publishedDateTime": "2020-03-11T21:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Oregonian",
-        "domain": "oregonlive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/BAIVJF6SGVCARACVWYB77KNGYA.jpg",
-          "width": 3022,
-          "height": 2014,
-          "title": "Intel starts using facial recognition technology to ID workers, visitors",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

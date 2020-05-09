@@ -2,6 +2,186 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-05-09-watsons-creator-wants-to-teach-ai-a-new-trick-common-sense.md",
+      "title": "Watson's Creator Wants to Teach AI a New Trick: Common Sense",
+      "excerpt": "David Ferrucci built a computer that mastered Jeopardy. Since then, he's been attacking a more challenging task.",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wired.com/story/watsons-creator-teach-ai-new-trick-common-sense/",
+      "ampWebUrl": "https://www.wired.com/story/watsons-creator-teach-ai-new-trick-common-sense/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/watsons-creator-teach-ai-new-trick-common-sense/amp",
+      "publishedDateTime": "2020-05-09T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5eb441d7d965c2a1fbff9f01/master/pass/Biz-robotreading-97394346.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": "Watson's Creator Wants to Teach AI a New Trick: Common Sense",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-09-artificial-intelligence-ai-chipset-market-expected-to-reach-of-usd-1665-billion-by-2023.md",
+      "title": "Artificial Intelligence (AI) Chipset Market Expected to reach of USD 16.65 billion by 2023",
+      "excerpt": "May 09, 2020 (AmericaNewsHour) -- Artificial Intelligence (AI) chipsets are silicon-based chips that help AI innovations, for example, deep learning,",
+      "heat": 96,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipset-market-expected-to-reach-of-usd-1665-billion-by-2023-2020-05-09",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-09T02:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial Intelligence (AI) Chipset Market Expected to reach of USD 16.65 billion by 2023",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-05-09-artificial-intelligence-ai-chipset-market-size-share-leading-players-and-forecast-to-2023.md",
+      "title": "Artificial Intelligence (AI) Chipset Market Size, Share, Leading Players and Forecast to 2023",
+      "excerpt": "May 09, 2020 (AmericaNewsHour) -- Artificial Intelligence (AI) chipsets are silicon-based chips that help AI innovations, for example, deep learning,",
+      "heat": 91,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipset-market-size-share-leading-players-and-forecast-to-2023-2020-05-09",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-09T02:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial Intelligence (AI) Chipset Market Size, Share, Leading Players and Forecast to 2023",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-09-deep-learning-marketoutlook-by-drivers-restraints-demands-and-forecast-2017-2023.md",
+      "title": "Deep Learning Market,Outlook by Drivers, Restraints, demands And forecast 2017-2023",
+      "excerpt": "Global Deep Learning Market Research Report: by Component (Hardware, Software, Services), Application (Image Recognition, Data Mining, Signal Recognition), End User (Security, Manufacturing, BFSI, Healthcare,",
+      "heat": 98,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-marketoutlook-by-drivers-restraints-demands-and-forecast-2017-2023-2020-05-09",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-08T21:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Deep Learning Market,Outlook by Drivers, Restraints, demands And forecast 2017-2023",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-09-ai-chip-for-data-centers-market-analysis-trends-and-cagr-projections-2020-2026.md",
       "title": "AI Chip for Data Centers Market Analysis, Trends and CAGR Projections 2020-2026",
       "excerpt": "The report provides rational insights along with historical and forecast data to aid in better understanding of",
@@ -1126,179 +1306,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-07-google-releases-ai-explorables-to-make-machine-learning-more-accessible-and-participatory.md",
-      "title": "Google releases AI Explorables to make machine learning more accessible and participatory",
-      "excerpt": "AI Explorables is Google's initiative to elucidate the key concepts of machine learning via a series of interactive explanations to make the field more accessible and participatory.",
-      "heat": 75,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.neowin.net/news/google-releases-ai-explorables-to-make-machine-learning-more-accessible-and-participatory",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-07T12:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2020/04/1587624429_google_5_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": "Google releases AI Explorables to make machine learning more accessible and participatory",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-07-boston-mulls-facial-recognition-ban-ahead-of-possible-updates.md",
-      "title": "Boston Mulls Facial Recognition Ban Ahead of Possible Updates",
-      "excerpt": "While existing surveillance infrastructure does not use facial recognition technology, potential updates to the system could make it possible. Officials are considering a prohibition on the controversial technology.",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.govtech.com/public-safety/Boston-Mulls-Facial-Recognition-Ban-Ahead-of-Possible-Updates.html",
-      "ampWebUrl": "https://www.govtech.com/public-safety/Boston-Mulls-Facial-Recognition-Ban-Ahead-of-Possible-Updates.html?AMP",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/Boston-Mulls-Facial-Recognition-Ban-Ahead-of-Possible-Updates.html?AMP",
-      "publishedDateTime": "2020-05-07T12:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media2.govtech.com/images/US-NEWS-BOSTON-LOOKS-TO-BAN-FACIAL-MLV.JPG",
-          "width": 840,
-          "height": 630,
-          "title": "Boston Mulls Facial Recognition Ban Ahead of Possible Updates",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-05-07-millions-of-historic-newspaper-images-get-the-machine-learning-treatment-at-the-library-of-congress.md",
-      "title": "Millions of historic newspaper images get the machine learning treatment at the Library of Congress",
-      "excerpt": "Historians interested in the way events and people were chronicled in the old days once had to sort through card catalogs for old papers, then microfiche scans, then digital listings — but modern advances can index them down to each individual word and photo.",
-      "heat": 75,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/05/07/millions-of-historic-newspaper-images-get-the-machine-learning-treatment-at-the-library-of-congress/",
-      "ampWebUrl": "https://techcrunch.com/2020/05/07/millions-of-historic-newspaper-images-get-the-machine-learning-treatment-at-the-library-of-congress/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/07/millions-of-historic-newspaper-images-get-the-machine-learning-treatment-at-the-library-of-congress/amp/",
-      "publishedDateTime": "2020-05-07T11:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/05/newspaper-navigator-scan.jpg?w=1024",
-          "width": 1024,
-          "height": 741,
-          "title": "Millions of historic newspaper images get the machine learning treatment at the Library of Congress",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-07-elon-musk-says-theres-a-chance-his-ai-brain-chip-company-will-be-putting-implants-in-humans-within-a-year.md",
-      "title": "Elon Musk says there's a chance his AI-brain-chip company will be putting implants in humans within a year",
-      "excerpt": "Elon Musk says his Neuralink brain chip could be ready for a human patient within a year. The chip could help with brain injuries, he says.",
-      "heat": 86,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businessinsider.com/elon-musk-neuralink-brain-chip-put-in-human-within-year-2020-5",
-      "ampWebUrl": "https://www.businessinsider.com/elon-musk-neuralink-brain-chip-put-in-human-within-year-2020-5?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-neuralink-brain-chip-put-in-human-within-year-2020-5?amp",
-      "publishedDateTime": "2020-05-07T11:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.insider.com/5eb443f157853276ce3f755d?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": "Elon Musk says there's a chance his AI-brain-chip company will be putting implants in humans within a year",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

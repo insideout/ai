@@ -2,6 +2,51 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2020-04-09-nuro-will-start-self-driving-delivery-vehicle-services-in-california.md",
+      "title": "Nuro will start self-driving delivery vehicle services in California",
+      "excerpt": "Nuro to test its self-driving delivery car in the state, the company announced on Tuesday. Keep track of the coronavirus pandemic. Crucially, it could be a big step to show Nuro's strengths as the company said it can deliver groceries and supplies to areas stricken by the coronavirus pandemic.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnet.com/roadshow/news/nuro-test-self-driving-delivery-vehicles-coronavirus-california/",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/nuro-test-self-driving-delivery-vehicles-coronavirus-california/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/nuro-test-self-driving-delivery-vehicles-coronavirus-california/",
+      "publishedDateTime": "2020-04-09T13:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cnet1.cbsistatic.com/img/gh9rCPWglLqLLnPkvD6PHLBo1B4=/2020/04/08/e348bb1c-3476-4cd5-9d9b-45f1c08c60c5/ogi-nuro.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": "Nuro will start self-driving delivery vehicle services in California",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-09-microsoft-google-strategic-layout-ai-field-wimi-hologram-cloud-nasdaqwimi-ai-algorithm-leading.md",
       "title": "Microsoft, Google Strategic Layout AI Field, Wimi Hologram Cloud (NASDAQ:WIMI) AI Algorithm Leading",
       "excerpt": "Although the U.S. is still the leader in absolute numbers, the number of AI related patent applications submitted by Chinese researchers has increased by nearly 200% in recent years. As a global Internet giant Microsoft company,",
@@ -1222,50 +1267,6 @@
           "width": 1400,
           "height": 933,
           "title": "Google expands AI calling service Duplex to Australia, Canada, and the UK",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-09-dont-be-afraid-of-the-new-kid-at-the-job-fair-artificial-intelligence.md",
-      "title": "Don't Be Afraid Of The New Kid At The Job Fair: Artificial Intelligence",
-      "excerpt": "But today’s college graduates have a new question on their radar: “Will I have to compete with artificial intelligence (AI), too?” In a word, no. I believe fears around AI wiping out jobs are largely overblown, but you can’t fault new grads for worrying. A quick scan of tech news could lead anyone to believe that AI is the Grim Reaper ...",
-      "heat": 102,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2020/04/09/dont-be-afraid-of-the-new-kid-at-the-job-fair-artificial-intelligence/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2020/04/09/dont-be-afraid-of-the-new-kid-at-the-job-fair-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2020/04/09/dont-be-afraid-of-the-new-kid-at-the-job-fair-artificial-intelligence/amp/",
-      "publishedDateTime": "2020-04-08T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbescommunicationscouncil%2Ffiles%2F2020%2F04%2Fa-43.jpg",
-          "width": 640,
-          "height": 640,
-          "title": "Don't Be Afraid Of The New Kid At The Job Fair: Artificial Intelligence",
           "attribution": null
         }
       ],

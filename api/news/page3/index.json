@@ -2,6 +2,88 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-05-07-artificial-intelligence-is-energy-hungry-solution-new-ai-hardware-made-of-quantum-material.md",
+      "title": "Artificial Intelligence Is Energy-Hungry – Solution: New AI Hardware Made of Quantum Material",
+      "excerpt": "Quantum material could offset energy demand of artificial intelligence. To just solve a puzzle or play a game, artificial intelligence can require software running on thousands of computers. That could be the energy that three nuclear plants produce in one hour.",
+      "heat": 83,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://scitechdaily.com/artificial-intelligence-is-energy-hungry-solution-new-ai-hardware-made-of-quantum-material/",
+      "ampWebUrl": "https://scitechdaily.com/artificial-intelligence-is-energy-hungry-solution-new-ai-hardware-made-of-quantum-material/amp/",
+      "cdnAmpWebUrl": "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/artificial-intelligence-is-energy-hungry-solution-new-ai-hardware-made-of-quantum-material/amp/",
+      "publishedDateTime": "2020-05-07T02:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SciTech Daily",
+        "domain": "scitechdaily.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://scitechdaily.com/images/New-AI-Hardware-777x444.jpg",
+          "width": 777,
+          "height": 444,
+          "title": "Artificial Intelligence Is Energy-Hungry – Solution: New AI Hardware Made of Quantum Material",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-07-building-transparency-and-customer-confidence-in-ai.md",
+      "title": "Building transparency and customer confidence in AI",
+      "excerpt": "Chatbots have been designed to make our lives a little easier, with simple verification questions they can answer common customer service inquiries without the need to sit on hold waiting for an agent.",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techradar.com/news/building-transparency-and-customer-confidence-in-ai",
+      "ampWebUrl": "https://www.techradar.com/amp/news/building-transparency-and-customer-confidence-in-ai",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/building-transparency-and-customer-confidence-in-ai",
+      "publishedDateTime": "2020-05-07T01:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/XRZnyNZVHb27CjWT9rGzg7-1200-80.jpg",
+          "width": 970,
+          "height": 545,
+          "title": "Building transparency and customer confidence in AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-07-deep-render-raises-16m-for-image-compression-tech-that-mimics-neural-processes-of-the-human-eye.md",
       "title": "Deep Render raises £1.6M for image compression tech that mimics ‘neural processes of the human eye’",
       "excerpt": "Deep Render, a London startup and spin-out of Imperial College that is applying machine learning to image compression, has raised £1.6 million in seed funding. Leading the round is Pentech, with participation from Speedinvest.",
@@ -341,43 +423,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-06-artificial-intelligence-ai-in-healthcare-market-worth-22790-million-by-2023-480-cagr.md",
-      "title": "Artificial Intelligence (AI) in Healthcare market Worth $22,790 million by 2023 | 48.0% CAGR",
-      "excerpt": "The Global Artificial Intelligence (AI) in Healthcare market is estimated to grow at a CAGR of 48.0% during the forecast period 2017-2023. As per the detailed market study, the global market was valued $1,",
-      "heat": 78,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-worth-22790-million-by-2023-480-cagr-2020-05-06",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-06T12:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     },
@@ -1053,51 +1098,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-05-06-runai-brings-virtualization-to-gpus-running-kubernetes-workloads.md",
-      "title": "Run:AI brings virtualization to GPUs running Kubernetes workloads",
-      "excerpt": "In the early 2000s, VMware introduced the world to virtual servers that allowed IT to make more efficient use of idle server capacity. Today, Run:AI is introducing that same concept to GPUs running containerized machine learning projects on Kubernetes.",
-      "heat": 104,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/05/06/runai-brings-virtualization-to-gpus-running-kubernetes-workloads/",
-      "ampWebUrl": "https://techcrunch.com/2020/05/06/runai-brings-virtualization-to-gpus-running-kubernetes-workloads/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/06/runai-brings-virtualization-to-gpus-running-kubernetes-workloads/amp/",
-      "publishedDateTime": "2020-05-06T06:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/05/Screenshot-2020-05-06-08.37.37.png?w=680",
-          "width": 680,
-          "height": 348,
-          "title": "Run:AI brings virtualization to GPUs running Kubernetes workloads",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

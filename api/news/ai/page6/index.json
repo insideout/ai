@@ -2,38 +2,30 @@
   "page": 6,
   "value": [
     {
-      "path": "_news/2020-05-04-11-strategic-ways-to-leverage-ai-for-better-sales-results.md",
-      "title": "11 Strategic Ways To Leverage AI For Better Sales Results",
-      "excerpt": "With the incorporation of AI in sales, teams are now becoming increasingly able to predict and quickly meet sales goals.",
-      "heat": 87,
+      "path": "_news/2020-05-04-extreme-networks-reschedules-third-quarter-fiscal-2020-financial-results-conference-call-and-webcast.md",
+      "title": "Extreme Networks Reschedules Third Quarter Fiscal 2020 Financial Results Conference Call and Webcast",
+      "excerpt": "PRNewswire/ -- Extreme Networks, Inc. (Nasdaq: EXTR), a cloud-driven networking company, today rescheduled it plans to release financial results for its",
+      "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/05/04/11-strategic-ways-to-leverage-ai-for-better-sales-results/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/05/04/11-strategic-ways-to-leverage-ai-for-better-sales-results/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/05/04/11-strategic-ways-to-leverage-ai-for-better-sales-results/amp/",
-      "publishedDateTime": "2020-05-04T05:20:00-07:00",
+      "webUrl": "https://www.prnewswire.com/news-releases/extreme-networks-reschedules-third-quarter-fiscal-2020-financial-results-conference-call-and-webcast-301051574.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-04T04:05:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
       "images": [
         {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbesbusinessdevelopmentcouncil%2Ffiles%2F2020%2F04%2F11_Strategic_Ways_To_Leverage_AI_For_Better_Sales_Results-1200x1015.png",
-          "width": 1200,
-          "height": 1015,
-          "title": "11 Strategic Ways To Leverage AI For Better Sales Results",
+          "url": "https://mma.prnewswire.com/media/378309/extreme_networks_logo.jpg?p=facebook",
+          "width": 1000,
+          "height": 524,
+          "title": "Extreme Networks Reschedules Third Quarter Fiscal 2020 Financial Results Conference Call and Webcast",
           "attribution": null
         }
       ],
@@ -42,6 +34,7 @@
         "news"
       ],
       "topics": [
+        "AI in Finance",
         "AI"
       ]
     },
@@ -806,6 +799,35 @@
       ]
     },
     {
+      "path": "_news/2020-05-02-aws-announces-general-availability-of-amazon-augmented-artificial-intelligence-a2i.md",
+      "title": "AWS Announces General Availability of Amazon Augmented Artificial Intelligence (A2I)",
+      "excerpt": "Amazon Web Services (AWS), an Amazon.com company (NASDAQ: AMZN), announced the general availability of Amazon Augmented Artificial Intelligence (A2I), a fully managed service that makes it easy to add human review to machine learning predictions to improve model and application accuracy by continuously identifying and improving low confidence predictions.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.bakersfield.com/ap/news/aws-announces-general-availability-of-amazon-augmented-artificial-intelligence-a2i/article_c4de685a-02e2-5f24-bde1-2a283599ad9a.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-02T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Bakersfield Californian",
+        "domain": "bakersfield.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-02-ai-might-trick-us-by-pretending-to-be-dimwitted-including-for-self-driving-cars.md",
       "title": "AI Might Trick Us By Pretending To Be Dimwitted, Including For Self-Driving Cars",
       "excerpt": "AI is not yet akin to human intelligence and the odds are that we are a long way distant from the promise of such vaunted capabilities. Those touting the use of Machine Learning (ML) and Deep Learning (DL) are hoping that the advent of ML/DL might be a path toward full AI,",
@@ -1281,52 +1303,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-01-google-to-replace-tensorflows-runtime-with-tfrt.md",
-      "title": "Google to replace TensorFlow’s runtime with TFRT",
-      "excerpt": "Google launched TFRT, a new TensorFlow runtime that aims to make it easy to build and deploy ML models across many different devices.",
-      "heat": 86,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://sdtimes.com/ai/google-to-replace-tensorflows-runtime-with-tfrt/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-01T12:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SD Times",
-        "domain": "sdtimes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://sdtimes.com/wp-content/uploads/2020/05/tfrtroleingraph.png",
-          "width": 646,
-          "height": 314,
-          "title": "Google to replace TensorFlow’s runtime with TFRT",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "TensorFlow"
       ]
     }
   ],

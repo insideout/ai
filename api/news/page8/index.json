@@ -2,6 +2,43 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-05-02-how-amazon-web-services-stacked-up-against-microsofts-azure.md",
+      "title": "How Amazon Web Services Stacked Up Against Microsoft's Azure",
+      "excerpt": "Microsoft Corporation (NASDAQ: MSFT) reported strong fiscal third-quarter results and Amazon.com, Inc. (NASDAQ: AMZN) beat on the top-line in its first quarter, but the",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.benzinga.com/analyst-ratings/analyst-color/20/05/15934564/how-amazon-web-services-stacked-up-against-microsofts-azure",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/15934564",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15934564",
+      "publishedDateTime": "2020-05-02T06:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.benzinga.com/files/images/story/2012/aws_2.png",
+          "width": 4000,
+          "height": 2400,
+          "title": "How Amazon Web Services Stacked Up Against Microsoft's Azure",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-02-i-could-solve-most-of-your-problems-eric-schmidts-pentagon-offensive.md",
       "title": "‘I Could Solve Most of Your Problems’: Eric Schmidt’s Pentagon Offensive",
       "excerpt": "The former Google C.E.O. has reinvented himself as the prime liaison between Silicon Valley and the military-industrial complex.",
@@ -1049,51 +1086,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-01-fueling-driverless-navigation-with-ai.md",
-      "title": "Fueling driverless navigation with AI",
-      "excerpt": "Generally, Artificial Intelligence (AI) helps to make products and procedures more efficient, but it also handles intricate tasks that can’t be easily managed by humans. When navigation comes ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techradar.com/news/fueling-driverless-navigation-with-ai",
-      "ampWebUrl": "https://www.techradar.com/amp/news/fueling-driverless-navigation-with-ai",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/fueling-driverless-navigation-with-ai",
-      "publishedDateTime": "2020-05-01T03:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/XRZnyNZVHb27CjWT9rGzg7-1200-80.jpg",
-          "width": 970,
-          "height": 545,
-          "title": "Fueling driverless navigation with AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

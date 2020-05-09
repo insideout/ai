@@ -2,6 +2,35 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-03-09-artificial-intelligence-in-healthcare-market-2020-global-key-players-trends-share-industry-size-segmentation-opportunities-forecast-to-2026.md",
+      "title": "Artificial Intelligence in Healthcare Market 2020: Global Key Players, Trends, Share, Industry Size, Segmentation, Opportunities, Forecast To 2026",
+      "excerpt": "“Artificial Intelligence in Healthcare Market” Summary: A new market study, titled \"Global Artificial Intelligence in Healthcare Market Upcoming Trends,",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/03/ab15504764/artificial-intelligence-in-healthcare-market-2020-global-key-players-trends-share-industry-size-s",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/15504764",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15504764",
+      "publishedDateTime": "2020-03-09T00:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-02-28-ai-model-can-distinguish-between-types-of-back-pain-by-scouring-doctors-notes.md",
       "title": "AI model can distinguish between types of back pain by scouring doctors' notes",
       "excerpt": "The single code for two different conditions prevents appropriate billing and therapy recommendations, including different return-to-work scenarios. The artificial intelligence model in this study, the first of its kind, could be used to improve the accuracy of coding, billing, and therapy for patients with lower back pain. The researchers used ...",
@@ -1231,51 +1260,6 @@
           "width": 1200,
           "height": 630,
           "title": "Russia and NATO Artificial Intelligence in Military Market Segmentation and Forecast to 2019-2027",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-02-04-epic-asks-federal-trade-commission-to-regulate-use-of-artificial-intelligence-in-pre-employment-screenings.md",
-      "title": "EPIC Asks Federal Trade Commission To Regulate Use Of Artificial Intelligence In Pre-Employment Screenings",
-      "excerpt": "has charged that HireVue, a leading provider of artificial intelligence-based pre-employment screenings, is flouting national and international standards of transparency, fairness and accountability.",
-      "heat": 171,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/patriciagbarnes/2020/02/03/group-asks-federal-trade-commission-to-regulate-use-of-artificial-intelligence-in-pre-employment-screenings/?ss=diversity",
-      "ampWebUrl": "https://www.forbes.com/sites/patriciagbarnes/2020/02/03/group-asks-federal-trade-commission-to-regulate-use-of-artificial-intelligence-in-pre-employment-screenings/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patriciagbarnes/2020/02/03/group-asks-federal-trade-commission-to-regulate-use-of-artificial-intelligence-in-pre-employment-screenings/amp/",
-      "publishedDateTime": "2020-02-03T16:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/trim/365x308:5585x4045/fit-in/711x509/smart/https://specials-images.forbesimg.com/imageserve/1091526904/0x0.jpg",
-          "width": 711,
-          "height": 509,
-          "title": "EPIC Asks Federal Trade Commission To Regulate Use Of Artificial Intelligence In Pre-Employment Screenings",
           "attribution": null
         }
       ],

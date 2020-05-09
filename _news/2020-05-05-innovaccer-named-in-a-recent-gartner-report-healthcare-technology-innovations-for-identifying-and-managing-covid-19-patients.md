@@ -18,19 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "The Impending Artificial Intelligence Revolution in Healthcare"
-    excerpt: "Why has AI been slow in delivering change in the care processes of healthcare? With a wealth of new AI algorithms and computing power"
-    publishedDateTime: 2020-05-04T16:31:00Z
-    webUrl: "https://hitconsultant.net/2020/05/04/the-impending-artificial-intelligence-revolution-in-healthcare/"
-    type: article
-    provider:
-      name: HIT Consultant
-      domain: hitconsultant.net
-    quality: 54
-    images:
-      - url: "https://wrm5sysfkg-flywheel.netdna-ssl.com/wp-content/uploads/2020/02/Harjinder-Pic.jpeg"
-        width: 320
-        height: 212
   - title: "Innovaccer Named in a Recent Gartner Report 'Healthcare Technology Innovations for Identifying and Managing COVID-19 Patients'"
     excerpt: "PRNewswire/ -- Innovaccer Inc., a leading San Francisco-based healthcare technology company, was named in a recent Gartner report titled \"Healthcare Technology Innovations for Identifying and"
     publishedDateTime: 2020-05-04T20:53:00Z

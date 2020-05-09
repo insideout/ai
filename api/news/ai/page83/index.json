@@ -2,6 +2,51 @@
   "page": 83,
   "value": [
     {
+      "path": "_news/2020-02-12-deep-learning-market-by-type-analysis-is-anticipated-to-reach-us564272-mn-by-2026.md",
+      "title": "Deep Learning Market By Type Analysis is Anticipated to Reach US$56,427.2 Mn by 2026",
+      "excerpt": "The global Deep Learning Market will increase by a CAGR of approximately 51.1% during the forecast era and is expected to achieve a market value above US$ 56,427.2 Mn in 2026. This Acumen research report examines the 2015-2026 Global Deep Learning Market.",
+      "heat": 92,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-by-type-analysis-is-anticipated-to-reach-us564272-mn-by-2026-2020-02-12",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-12T00:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Deep Learning Market By Type Analysis is Anticipated to Reach US$56,427.2 Mn by 2026",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-02-12-update-1-us-lawmakers-hear-arguments-for-new-safeguards-for-self-driving-cars.md",
       "title": "UPDATE 1-U.S. lawmakers hear arguments for new safeguards for self-driving cars",
       "excerpt": "WASHINGTON, Feb 11- A U.S. House panel on Tuesday heard from advocates of imposing stricter safeguards for self-driving cars as part of any effort to speed the adoption of the vehicles on U.S. roads.",
@@ -1227,51 +1272,6 @@
       "topics": [
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-11-amds-new-arcturus-gpu-could-be-super-efficient-but-probably-wont-trouble-nvidia.md",
-      "title": "AMD’s new Arcturus GPU could be super-efficient – but probably won’t trouble Nvidia",
-      "excerpt": "... reckons it can win the high-end GPU battle – and dethrone Nvidia These are all the best graphics cards of 2020 Remember this is a GPU aimed at data center and heavyweight compute usage – the likes of AI applications – but seemingly we’re looking at something of a beast of a card with a 1,090MHz base clock and 1,333MHz boost, with ...",
-      "heat": 83,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techradar.com/in/news/amds-new-arcturus-gpu-could-be-super-efficient-but-probably-wont-trouble-nvidia",
-      "ampWebUrl": "https://www.techradar.com/in/amp/news/amds-new-arcturus-gpu-could-be-super-efficient-but-probably-wont-trouble-nvidia",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/amds-new-arcturus-gpu-could-be-super-efficient-but-probably-wont-trouble-nvidia",
-      "publishedDateTime": "2020-02-11T03:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/WbcyGEkXqJLgzVDDVsHBc7-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "AMD’s new Arcturus GPU could be super-efficient – but probably won’t trouble Nvidia",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],
