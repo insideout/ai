@@ -3,9 +3,9 @@ category: news
 title: "UAE combats coronavirus: Ministry launches self-driving vehicle to distribute PPE"
 excerpt: "UAE - The Ministry of Health launches self-driving vehicle to distribute personal protective equipment to ... comes as part of the ministry's efforts being made to contain the spread of coronavirus, using the latest Artificial Intelligence (AI) technologies and fifth generation technology (5G)."
 publishedDateTime: 2020-05-07T08:00:00Z
-webUrl: "https://www.zawya.com/uae/en/life/story/UAE_combats_coronavirus_Ministry_launches_selfdriving_vehicle_to_distribute_PPE-SNG_173952755/"
-ampWebUrl: "https://www.zawya.com/uae/en/story/amp/SNG_173952755/"
-cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/uae/en/story/amp/SNG_173952755/"
+webUrl: "https://www.zawya.com/mena/en/life/story/UAE_combats_coronavirus_Ministry_launches_selfdriving_vehicle_to_distribute_PPE-SNG_173952755/"
+ampWebUrl: "https://www.zawya.com/mena/en/story/amp/SNG_173952755/"
+cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/SNG_173952755/"
 type: article
 quality: 39
 heat: -1
@@ -68,6 +68,6 @@ related:
         width: 750
         height: 450
 
-secured: "lcfPaoT2ERHE9ND9l+IKm636XPBPW/oUUg+Aew60xZA27RDa2iPqX5R5hWxdWV7efDUqmYU2pXJhzSZfZ3GTWK3ilQDUTSpQsB79oeWkElpNSGPu5FBV6ZcCWeAtpLTCpBXak0bA8e9DtlB45cQrZLMj/GAbrp3tkvn/2csz8cV5rhbIY3MXGi5aC07zWtliKO3Du9S4Idd4i8yiLm1lwcVjuOyT2kyI2I8j6tu/RMChvY4n4OV96JwDc8hcNOUfkplzXseS8SIvUxOeijGkPbAC0fSA1O76lqZcy4MpYP04k+9K3TURcrJpoprmbq6f;kclcSIEO4rumWHFLzMi+fA=="
+secured: "pQuThTLihg9j/xopwOtm0uPM4ugKSwYfIGN4ro1k7UiH3hZ6/77iqvVxlM4ux53SLJvX8xfNAyd8PvMuY0uig3QzlqEO764CMXxUV+XdZk/CxEelcJGCFw7PgSUw1L29lFUkC+Zpo5TlfqGDmLAIMpla/kz+g+cFwHVoDHFDTb5qr+wH0G+oTlHq0fM3HiOI0bLSaN7WauQKYtr4FUkrcpbmQrJhR2WFQiinjhlFXOqbFJW+5jF0EjGTE0q+4fH1S2UlvEoJCh1+Al4EqkumfO5JrehrqTS+8p0cYz50ZgK8D1xKTL7OzxKBuM7L9S5Qed+6AS/k6gub5cacaoVoJjSgQa8xEq83lRFDXhnms2cTj66w2BUJeseOePxtkHIamt4U28O2RiGHKV919TvCOxyHgAvcYPgeK2bgUQfcSHMEdePLS+rWHx2VnNUbU0fYg3BnS+FAw64Tt/jcmVEc8dXvsQm9dsvAtWamuqONt04=;+1TQ1MrfqNvdnVFI6r1o7A=="
 ---
 

@@ -44,21 +44,6 @@ related:
       - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/Untitled-design-26-796x417.png"
         width: 796
         height: 417
-  - title: "Google’s new AI-powered search tool helps researchers with coronavirus queries"
-    excerpt: "Google‘s AI team has released a new tool to help researchers traverse through a trove of coronavirus papers, journals, and articles. The COVID-19 research explorer tool is a sem"
-    publishedDateTime: 2020-05-05T08:27:00Z
-    webUrl: "https://thenextweb.com/neural/2020/05/05/googles-new-ai-powered-search-tool-helps-researchers-with-coronavirus-queries/"
-    ampWebUrl: "https://thenextweb.com/neural/2020/05/05/googles-new-ai-powered-search-tool-helps-researchers-with-coronavirus-queries/amp/"
-    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/05/05/googles-new-ai-powered-search-tool-helps-researchers-with-coronavirus-queries/amp/"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 83
-    images:
-      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/Google-coronavirus-search-tool-796x418.jpg"
-        width: 796
-        height: 418
   - title: "Artificial Intelligence Accelerates Search for COVID-19 Treatments"
     excerpt: "Researchers are using an artificial intelligence-powered tool to determine which COVID-19-related research will yield valuable results."
     publishedDateTime: 2020-05-05T13:40:00Z
